@@ -323,12 +323,10 @@ units:
       - {motif: thief-revealed-in-quarrel, refs: ["ETCSL 6.1.03 A.3.42"], note: "e2-{na4}kinkin-na du14 ḫe2-en-ĝal2 / geme2 niĝ2 zuḫ-a-ni pa im-mi-in-ed3: 'when there is a quarrel in the mill house, the slave girl brings to light what she stole'"}
       - {motif: joy-of-daughter-in-law-is-anger, refs: ["ETCSL 6.1.03 A.3.44"], note: "šag4 ḫul2-la e2-gi4-a šag4 ib2-ba-kam"}
       - {motif: lie-increases-evil-and-ruin, refs: ["ETCSL 6.1.03 A.3.55"], note: "til3-la lul-la ḫul na-an-gu-ul-en / gam ḫa-la-zu-še3 mu-un-ĝal2"}
-      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.03 A.3.59"], note: "not a king: the lord (en) cursed Unug (nam im-ma-kud) and was cursed in turn by the lady of E-ana"}
       - {motif: boss-bullies, refs: ["ETCSL 6.1.03 A.3.62"]}
       - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.03 A.3.63"], note: "nam-sun7-na-ta gi duru5-gin7 saĝ gu2-ni-še3 ḫe2-bi2-in-ed3-de3"}
       - {motif: merchant-not-to-be-friend, refs: ["ETCSL 6.1.03 A.3.64", "ETCSL 6.1.03 A.3.65", "ETCSL 6.1.03 A.3.66"], note: "ĝiš-erin2 sa ak pu2 niĝ2 ĝiri3-a-kam / dam-gara3 gu5-li-ni-ir lu2 na-an-tuku-tuku: 'scales made with a net (?) are a pit for the feet; let no one take a merchant as his friend'"}
       - {motif: merchant-with-false-scales, refs: ["ETCSL 6.1.03 A.3.64", "ETCSL 6.1.03 A.3.65"]}
-      - {motif: just-get-what-wicked-deserve, refs: ["ETCSL 6.1.03 A.3.56"], note: "only zid-du erim2-du 'the righteous ... the wicked' survives; tentative"}
     hints:
       - "The slave girl in her mistress's place: compare Prov 30:21-23 and Gen 16:4."
       - "Lies increase evil: compare Prov 19:5, 19:9 and Prov 12:19."
@@ -348,7 +346,6 @@ units:
       - {motif: lion-in-trap-easily-taken, refs: ["ETCSL 6.1.03 A.3.70"]}
       - {motif: storm-god-splits-mountains-not-waterskin, refs: ["ETCSL 6.1.03 A.3.76", "ETCSL 6.1.03 A.3.77"], note: "mu {d}iškur kur gul-gul ... ma2 ba-ra-mu-e-da-ab-bal-e; {d}iškur-e kur al-dar-dar-e / {kuš}a-ĝa2-la2 nu-dar-re"}
       - {motif: lion-against-louse-rat-at-work, refs: ["ETCSL 6.1.03 A.3.82"], note: "umun3-še3 piriĝ-gin7 du / kiĝ2 ak-de3 niĝ2-gilim-ma-gin7 du"}
-      - {motif: sluggard-lion-in-street, refs: ["ETCSL 6.1.03 A.3.82"], note: "interpretive: the shirker brave in trifles, a rat at work"}
       - {motif: kingship-conferred-at-sunrise, refs: ["ETCSL 6.1.03 A.3.83"], note: "ud ul-e3 nam al-tar-ra / {d}utu gub-ba-ni nam-lugal mu-un-na-an-šum2"}
       - {motif: weapon-finds-flesh-not-name, refs: ["ETCSL 6.1.03 A.3.84"]}
       - {motif: king-gives-shepherd-cupbearer-says-do-well, refs: ["ETCSL 6.1.03 A.3.86"], note: "šum2-ma-ab lugal-la-kam / dug3-ga-ab dumu sagi-a-kam"}
@@ -462,7 +459,6 @@ units:
       - {motif: four-winds-characterised, refs: ["ETCSL 6.1.04 A.4.9"], note: "{tum9}si-sa2 (north), {tum9}u18-lu (south), {tum9}sa12-ti-um (east) tum9 šeĝ14-ĝa2 and tum9 ḫe2-ĝal2-la gu5-li {d}na-ra-am-{d}suen, {tum9}mar-tu (west)"}
       - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.04 A.4.9:13"], note: "Naram-Suen, friend of the east wind"}
       - {motif: knower-should-not-conceal, refs: ["ETCSL 6.1.04 A.4.10"], note: "niĝ2 zu a-na-aš ḫe2-en-de3-šu2"}
-      - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.04 A.4.6"], note: "loosely: 'I will come down on those who speak proudly' (saĝ-gu2-ne-ka-ra), interpretation uncertain"}
     hints:
       - "The four winds characterised: compare Prov 25:23 (the north wind brings rain), Job 37:9, Song 4:16, Hos 13:15 (east wind) and Q 30:46."
       - "The one who knows should not conceal it: compare Prov 11:26 and Q 2:159, 2:174."
@@ -481,7 +477,6 @@ units:
       - {motif: snake-bites-before-charming, refs: ["ETCSL 6.1.04 B.4.49"], note: "interpretive: both play on the timing of the snake-charm"}
       - {motif: dreams-of-slave-girl, refs: ["ETCSL 6.1.04 B.4.51"], note: "ta-am3 ma-mu2 gi4-in-na-kam / ta-am3 sizkur2 e-re sig10 ki-in-na-kam"}
       - {motif: man-on-roof-to-man-in-house, refs: ["ETCSL 6.1.04 B.4.56"], note: "lu2 ur3-ra-ke4 lu2 e2-a til3-la-ka ... im-ma-zalag-ge-e-še (partly restored)"}
-      - {motif: roof-corner-better-than-contentious-wife, refs: ["ETCSL 6.1.04 B.4.56"], note: "interpretive: the roof-dweller contrasted with the house-dweller"}
       - {motif: thief-steals-honest-mans-work, refs: ["ETCSL 6.1.04 B.4.58"], note: "lu2-IM ib2-dab5-ba lu2 gen6-na ba-an-dim2"}
       - {motif: man-covered-in-dust-earth-for-gods, refs: ["ETCSL 6.1.04 B.4.59"], note: "saḫar-ra-am3 bi2-ib2-šu2-šu2-un"}
       - {motif: bitterness-enters-by-the-mouth, refs: ["ETCSL 6.1.04 B.4.61", "ETCSL 6.1.04 B.4.62"], note: "nam-sis-a bid3 ib-ra ka ba-an-kur9; še10 dur2-e dug4-ge inim dirig-ge am3-ta-ab-tum3"}
@@ -542,7 +537,6 @@ units:
       - {motif: fox-mocks-trapped-lion, refs: ["ETCSL 6.1.05 D.5.58"], note: "ur-maḫ-e pu2 niĝ2 ĝiri3-a-ka u3-mu-ni-in-šub / ka5-a ... {kuš}e-sir2-zu ... e2-še3 mu-e-ši-tum3-mu-un-e-še"}
       - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.55", "ETCSL 6.1.05 D.5.57", "ETCSL 6.1.05 D.5.58"]}
       - {motif: place-where-lion-ate-man-avoided, refs: ["ETCSL 6.1.05 D.5.67"]}
-      - {motif: dog-knows-who-loves-him, refs: ["ETCSL 6.1.05 D.5.60"], note: "analogous: 'in the reedbeds the lion does not eat his acquaintance' (lu2 zu-a-ni nu-ub-gu7)"}
       - {motif: lion-in-trap-easily-taken, refs: ["ETCSL 6.1.05 D.5.58"]}
     hints:
       - "The lion in the pit: compare Ezek 19:4, 8 and Ps 7:16, 57:7."
@@ -578,7 +572,6 @@ units:
       - {motif: dog-returns-to-vomit, refs: ["ETCSL 6.1.05 D.5.102"], note: "interpretive: the dog that goes back for the same blow"}
       - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.77", "ETCSL 6.1.05 D.5.78", "ETCSL 6.1.05 D.5.84", "ETCSL 6.1.05 D.5.102"], note: "the dog speaks to its master, to its anus, to its tail"}
       - {motif: dog-barks-if-not-fed, refs: ["ETCSL 6.1.05 D.5.93"], note: "ur-gir15 {ĝiš}ellag ra-gin7 dum-dam i3-ib2-za, = 6.1.03 A.3.95"}
-      - {motif: insult-catalogue-of-animals, refs: ["ETCSL 6.1.05 D.5.98", "ETCSL 6.1.05 D.5.99", "ETCSL 6.1.05 D.5.100", "ETCSL 6.1.05 D.5.101"], note: "loosely: comparisons with rabid dogs (ur mu2-da-gin7)"}
     hints:
       - "The dog that goes back for the same blow: compare Prov 26:11 and 2Pet 2:22."
       - "Dog sayings: compare 1Sam 17:43, 2Sam 9:8 and Q 7:176 (the panting dog)."
@@ -610,7 +603,6 @@ units:
       - {motif: curse-on-destroyed-place, refs: ["ETCSL 6.1.07 A.7.1"], note: "largely restored from parallels: [ki gul-la-ba ki] ḫe2-en-gul / [ki nu-gul]-la-ba [gu2-ĝiri3] ḫe2-en-ĝal2 / [ki-ni ki lu-ub2] ku5-ra2 ḫe2-a; then 'where there are bonds (di-ir-ga-a) you should not destroy the place'"}
       - {motif: lion-against-louse-rat-at-work, refs: ["ETCSL 6.1.07 B.7.13"]}
       - {motif: cobblers-children-unshod, refs: ["ETCSL 6.1.07 B.7.14"]}
-      - {motif: nothing-changes-saying, refs: ["ETCSL 6.1.07 B.7.21"], note: "'If the boat sinks I will pull out the cargo' ... ud mu-da-zal a-na mu-e-ši-ti / i3-dirig nu-su-su (the time passed, what did you gain? it floats, it did not sink)"}
       - {motif: verdict-bearable-curse-not, refs: ["ETCSL 6.1.07 B.7.28"], note: "line 28 restored: [di gid2-i al-ĝal2] / aš2 gid2-i nu-ĝal2"}
       - {motif: vermin-provided-for, refs: ["ETCSL 6.1.07 B.7.29"], note: "partly restored: [umun3-e gada] ba-la2 / [nim-saḫar-ra] {gi}kid-aš-rin ba-e-sig9 / [muš-da]-gur4-ra šutum ba-na-an-du3"}
       - {motif: hoarder-must-slaughter-pig, refs: ["ETCSL 6.1.07 B.7.31", "ETCSL 6.1.07 B.7.32"], note: "restored throughout from 6.1.01"}
@@ -619,7 +611,6 @@ units:
       - {motif: goes-back-on-word, refs: ["ETCSL 6.1.07 B.7.41"], note: "bi2-in-dug4 ba-da-an-gur"}
       - {motif: lie-increases-evil-and-ruin, refs: ["ETCSL 6.1.07 B.7.48"]}
       - {motif: tireless-sleepless-walker, refs: ["ETCSL 6.1.07 B.7.47"], note: "al-di-di-de3-en nu-kuš2-u3-de3-en / i3-di-di-de3-en u3 nu-ku-ku-me-en"}
-      - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.07 B.7.44"], note: "inverse: ka ba-an-la2-a dam-a-ni gi4-in-nam 'he whose speech is humble (lowered mouth), his wife is a slave girl'"}
     hints:
       - "Even the flea and the fly are provided for: compare Ps 104:27-28, 145:15-16, Matt 6:26 and Q 11:6."
       - "Borrowed bread not returned: compare Ps 37:21."
@@ -637,7 +628,6 @@ units:
       - {motif: call-on-god-boat-arrives, refs: ["ETCSL 6.1.07 C.7.77"], note: "ĝuruš-e u8-a diĝir-ra-am3 di {ĝiš}ma2 ki-bi ba-te"}
       - {motif: woe-and-boat-sinks, refs: ["ETCSL 6.1.07 C.7.77"]}
       - {motif: strangers-ox-eats-own-starves, refs: ["ETCSL 6.1.07 C.7.81"], note: "gud kur2-ra u2 gu7-gu7 / gud ni2-ba i3-šim-ma nu2-nu2"}
-      - {motif: brothers-make-sister-guard-vineyards, refs: ["ETCSL 6.1.07 C.7.81"], note: "interpretive: tending others' while one's own goes hungry"}
       - {motif: reed-born-without-father-or-mother, refs: ["ETCSL 6.1.07 C.7.93"], note: "[ad]-da a ḫur nu-ri / [ama-a] a ḫur nu-ri / [{gi}en3-bar] gaba ud-da [e3]-a"}
       - {motif: nomad-does-not-know-grain, refs: ["ETCSL 6.1.07 C.7.95"]}
       - {motif: surplus-eaten-by-lord, refs: ["ETCSL 6.1.07 C.7.96"]}
@@ -671,8 +661,6 @@ units:
       - {motif: fox-borrows-wild-bull-horns, refs: ["ETCSL 6.1.08 B.8.b20"], note: "ka5-a {d}en-lil2-le si-am-e al u3-bi2-in-dug4 ... ĝarza2 lugal-a-ni-ir ga-ba-ni-ib-gur-e-še"}
       - {motif: fox-boastful-liar, refs: ["ETCSL 6.1.08 B.8.b22", "ETCSL 6.1.08 B.8.b30", "ETCSL 6.1.08 B.8.b33", "ETCSL 6.1.08 B.8.b35"], note: "e-ne dirig ne-e lul ab-dirig-e-še; ka5-a nam-lul-la ĝeštug2-ga-ni in-gub-ma"}
       - {motif: fox-and-goat-shoes, refs: ["ETCSL 6.1.08 B.8.b28"]}
-      - {motif: elephant-boasts-wren-answers, refs: ["ETCSL 6.1.08 B.8.b19"], note: "the small mocks the great: a fox stamps on the elephant's crotch, 'It's enough, it's too much!'"}
-      - {motif: little-foxes-spoil-vineyards, refs: ["ETCSL 6.1.08 B.8.b29"], note: "loosely: the fox in the thorny den the dog cannot enter"}
     hints:
       - "The fox who asked for horns and gave them back: compare the fable of the trees (Judg 9:8-15) and the bramble that wants to rule."
       - "Sleep as the god's gift: compare Ps 127:2 and Q 25:47, 78:9 (sleep made for rest)."
@@ -690,9 +678,7 @@ units:
       - {motif: raven-waters-tigris-euphrates, refs: ["ETCSL 6.1.08 D.8.d2"], note: "uga{mušen} {dug}saḫar ... {id2}idigna {id2}buranun-na-še3 i-ni-in-su3-e"}
       - {motif: talking-animal, refs: ["ETCSL 6.1.08 D.8.d2"]}
       - {motif: tree-complains-stone-hurled-at-it, refs: ["ETCSL 6.1.08 E.8.e2", "ETCSL 6.1.08 E.8.e3"], note: "[ĝe26]-e u3 za-e šeš-me-en-de3-en ... na4 dirig ĝe26-e al-kal-la-ge ugu-ĝa2 i3-ra-ra-e-še"}
-      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 6.1.08 E.8.e1", "ETCSL 6.1.08 E.8.e2"], note: "loosely: a date-palm and trees speak to their relatives"}
       - {motif: talking-furniture, refs: ["ETCSL 6.1.08 E.8.e5"], note: "{ĝiš}banšur in-ḫul2 id2-da i3 mu-sur / {ĝiš}banšur igi-zu-še3 al-ĝa2-ĝa2"}
-      - {motif: thief-steals-honest-mans-work, refs: ["ETCSL 6.1.08 E.8.e8"], note: "the thief hurls a throw-stick at a tied-up sheep"}
     hints:
       - "Trees that speak: compare Judg 9:8-15 and 2Kgs 14:9."
       - "A table set before you: compare Ps 23:5 and Q 5:112-114 (the table sent down)."
@@ -739,7 +725,6 @@ units:
       - {motif: who-can-compare-with-humility, refs: ["ETCSL 6.1.09 E.9.e7"], note: "nam-sun5-na-da a-ba in-da-sa2 sag9-ga an-ši-ĝal2"}
       - {motif: humility-before-honor, refs: ["ETCSL 6.1.09 E.9.e7"]}
       - {motif: bawdy-proverb, refs: ["ETCSL 6.1.09 D.9.d3"], note: "the fool's hand in his backside (is-ḫab2 ... šu-ni bid3-da ba-ni-ib-gid2)"}
-      - {motif: dust-and-ashes-humility, refs: ["ETCSL 6.1.09 H.9.h2"], note: "fragmentary: saḫar-ra šu-ĝa2 la-ba-ni-in-si 'do not fill my hands with dust'"}
     hints:
       - "Wealth that undoes its owner when the king says 'Run!': compare Prov 11:4, Zeph 1:18, Ezek 7:19 and Q 69:28-29 (my wealth has not availed me)."
       - "'Judge me, Utu': compare Ps 7:9, 26:1, 43:1 and Gen 41:16, 25 (God shows the meaning of the dream)."
@@ -786,7 +771,6 @@ units:
       - {motif: excitable-not-foreman, refs: ["ETCSL 6.1.11 D.11.53"], note: "šag4-bi zig3-ga ugula nam-me / sipad engar nam-me"}
       - {motif: palace-falls-of-itself, refs: ["ETCSL 6.1.11 D.11.56"], note: "e2-gal ni2-bi-še3 gam-e-dam"}
       - {motif: whirlwind-sent-to-agade, refs: ["ETCSL 6.1.11 D.11.57"], note: "sig-sig a-ga-de3{ki}-še3 i3-gi4-in / a-ga-de3{ki}-a a-na-am3 i3-ak maš2-ĝi6 zid-da"}
-      - {motif: wild-bull-free-of-plough, refs: ["ETCSL 6.1.11 C.11.39"], note: "loosely: 'you cannot butt me with your horns ... I am running away'"}
     hints:
       - "A palace falling of itself: compare Ps 127:1 and Prov 14:1."
       - "The whirlwind sent to Agade: compare the curse of Agade and Jer 23:19, 25:32."
@@ -842,7 +826,6 @@ units:
     read: ["ETCSL 6.1.12 B.12.b1:1-F.12.f4:5"]
     tags:
       - {motif: masters-changed-mourning-clothes, refs: ["ETCSL 6.1.12 B.12.b3"], note: "lugal-be2-ne bi2-in-kur2-ru-uš / tug2-ku-ru-um am3-mur10-re-eš"}
-      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.1.12 B.12.b5"], note: "lu2 an il2-la še10 nu-ub-dur2-re 'a man who lifts the heavens and does not fart' (bawdy)"}
       - {motif: bawdy-proverb, refs: ["ETCSL 6.1.12 B.12.b5", "ETCSL 6.1.12 F.12.f4"]}
       - {motif: damp-reed-man-untruthful, refs: ["ETCSL 6.1.12 B.12.b6"], note: "lu2 gi duru5 ak-gin7 lu2-lu2-u3-ra / niĝ2-gen6-na inim nu-mu-un-da-ab-bal-e"}
       - {motif: paralysis-for-not-praying-to-goddess, refs: ["ETCSL 6.1.12 B.12.b9"], note: "lu2 dug3 dab5-ba {d}nin-tur5-re / inim-ma nu-mu-na-an-sig10-e-še"}
@@ -870,7 +853,6 @@ units:
       - {motif: invaders-enter-windows-like-thief, refs: ["ETCSL 6.1.13 13.9"]}
       - {motif: crafty-man-sayings, refs: ["ETCSL 6.1.13 13.13", "ETCSL 6.1.13 13.14", "ETCSL 6.1.13 13.15", "ETCSL 6.1.13 13.16", "ETCSL 6.1.13 13.17", "ETCSL 6.1.13 13.18", "ETCSL 6.1.13 13.20", "ETCSL 6.1.13 13.21"]}
       - {motif: lame-man-sayings, refs: ["ETCSL 6.1.13 13.22", "ETCSL 6.1.13 13.23", "ETCSL 6.1.13 13.24", "ETCSL 6.1.13 13.25"], note: "kud-ku5-ra2 na-ab-be2-a ĝiri3-ĝu10 ĝen-na-ab-ze2-en-e-še 'O my feet, walk!'"}
-      - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.13 13.12"], note: "loosely: even the strongest labourer is beaten by the owner of the barley"}
       - {motif: bawdy-proverb, refs: ["ETCSL 6.1.13 13.29"]}
     hints:
       - "The thief breaking in and the householder's watch: compare Exod 22:1-2, Job 24:16, Matt 24:43 and Jer 9:20 (death comes up through the windows)."
@@ -926,7 +908,7 @@ units:
       - {motif: temple-destroyed-by-king-without-posterity, refs: ["ETCSL 6.1.14 B.14.16"], note: "e2-babbar me-silim-e mu-un-du3-a / {d}na-ni lu2 numun til-til-la šu ḫul mu-un-du3-e"}
       - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.14 B.14.16"], note: "Mesilim (of Kiš) and Nanni"}
       - {motif: temple-as-accounts-office, refs: ["ETCSL 6.1.14 B.14.18"]}
-      - {motif: covetousness-abomination-to-ninurta, refs: ["ETCSL 6.1.14 B.14.18"], note: "not Ninurta here: in Enlil's temple šu gid2 igi-tum3 la2 šu sumur niĝ2-gig-ga-kam 'reaching out, greedy eyes and grasping are abominations'"}
+      - {motif: covet-prohibition, refs: ["ETCSL 6.1.14 B.14.18"], note: "in Enlil's temple šu gid2 igi-tum3 la2 šu sumur niĝ2-gig-ga-kam 'reaching out, greedy eyes and grasping are abominations'"}
       - {motif: palace-sayings, refs: ["ETCSL 6.1.14 B.14.19", "ETCSL 6.1.14 B.14.20", "ETCSL 6.1.14 B.14.21", "ETCSL 6.1.14 B.14.22", "ETCSL 6.1.14 B.14.23"], note: "e2-gal gud-dam kun-bi ḫe2-dab5 / {d}utu lugal-am3 igi-zu ḫe2-en-ši-ni-ĝal2; e2-gal ud 1 ama tud-da-am3 / ud 1 ama a-nir-ra-am3"}
       - {motif: palace-and-netherworld-demand-obedience, refs: ["ETCSL 6.1.14 B.14.19"], note: "e2-gal iri11-gal šag4-bi teš2-a ab-sig10-ge5"}
       - {motif: wives-human-children-divine, refs: ["ETCSL 6.1.14 B.14.39"], note: "dam tuku-tuku lu2-[ulu3-kam] / dumu tuku-tuku diĝir-ra-kam"}
@@ -955,7 +937,6 @@ units:
       - {motif: workers-look-to-enlil-for-cursed-city, refs: ["ETCSL 6.1.15 B.15.b1", "ETCSL 6.1.15 B.15.b2", "ETCSL 6.1.15 B.15.b3"], note: "shepherd boy, potter, gardener: igi ... mu-e-ši-in-il2-e / {d}en-lil2-le iri nam ku5-ra2-ni ḫa-ba-ši-in-il2-e"}
       - {motif: rain-on-banks-not-dry-land, refs: ["ETCSL 6.1.15 B.15.b5"], note: "peš10-a [im al]-šeĝ3-am3 / bar-rim4-ma im nu-um-bi-iz"}
       - {motif: enlil-helper-of-lame, refs: ["ETCSL 6.1.15 B.15.b6"], note: "{urud}šukur na-šum2-mu-un / {d}en-lil2 a2-taḫ-a-ni-im; the first half is uncertain"}
-      - {motif: goddess-emissary-helps-the-lame, refs: ["ETCSL 6.1.15 B.15.b6"]}
       - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.1.15 B.15.b8"], note: "e2 {d}en-lil2-la2 i3-du3 nu-un-til / bad3 [nibru] i3-du3 (the Nanni saying, broken off)"}
     hints:
       - "Enlil the helper of the lame: compare Ps 146:8-9, Ps 54:6 and Isa 35:6."
@@ -973,9 +954,8 @@ units:
       - {motif: oil-in-sceptre-unseen, refs: ["ETCSL 6.1.15 C.15.c3"], note: "šag4 ĝidru-ka i3 ḫe2-en-de2 [lu2] na-me nu-zu"}
       - {motif: stranger-leader-in-foreign-city, refs: ["ETCSL 6.1.15 C.15.c4"], note: "[gir5] iri kur2-ra-am3 saĝ-ĝa2-am3"}
       - {motif: temple-inventory-nothing-added, refs: ["ETCSL 6.1.15 C.15.c6"], note: "e2 {d}en-lil2-la2 niĝ2-ni ab-šid-šid-de3 / niĝ2-ni šid-a-de3 nam-ba-ab-taḫ-e / mu-ne-ne ḫe2-ḫa-lam-e"}
-      - {motif: do-not-add-to-gods-words, refs: ["ETCSL 6.1.15 C.15.c6"], note: "formal parallel: nothing to be added (taḫ) to the counted things"}
+      - {motif: gods-work-nothing-to-add-or-subtract, refs: ["ETCSL 6.1.15 C.15.c6"], note: "formal parallel: nothing to be added (taḫ) to the god's counted things"}
       - {motif: tigris-duck-euphrates-goose, refs: ["ETCSL 6.1.15 C.15.c15"], note: "{id2}idigna uz{mušen}-am3 {id2}buranun-na kur-gi4{mušen}-am3"}
-      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.15 D.15.d4"], note: "only analogous: a plant 'of ill fate' (u2 nam-tar gig-ga-kam)"}
       - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.15 D.15.d1:1-F.15.f8:16"], note: "sources D, E and F are almost all fragmentary; E.15.e5 'the houses of the highlands, their masters are not near'"}
     hints:
       - "Nothing to be added to what is counted: compare Deut 4:2, 13:1, Prov 30:6, Eccl 3:14 and Rev 22:18-19."
@@ -1101,7 +1081,6 @@ units:
       - {motif: school-food-onions-and-bread, refs: ["ETCSL 6.1.19 F.19.f5"], note: "ninda pad-pax-ra2 šum2-sikil zil2-la2 ninda e2-dub-ba-a"}
       - {motif: early-worker-early-married-incomparable, refs: ["ETCSL 6.1.19 G.19.g7"], note: "sipad šu-nim-ma engar šu-nim-ma / ĝuruš-e ud tur-ra-na-ka dam ba-tuku-tuku-u2-a / a-ba-a mu-da-ab-sa2-e"}
       - {motif: god-witness-to-marriage-covenant, refs: ["ETCSL 6.1.19 G.19.g7"], note: "loosely: the wife married in youth"}
-      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.19 G.19.g5"], note: "not a king: the cities Umma and Šuruppag are named in a broken line"}
     hints:
       - "The young man who married in his youth: compare Prov 5:18, Mal 2:14-15 and Eccl 11:9."
       - "The insatiable glutton: compare Prov 30:15-16, Eccl 6:7, Isa 5:14 and Q 50:30."
@@ -1184,7 +1163,6 @@ units:
       - {motif: anger-rests-in-bosom-of-fools, refs: ["ETCSL 6.1.22 22.ll.218–223"]}
       - {motif: liar-arrogant-slanderer, refs: ["ETCSL 6.1.22 22.ll.227–229", "ETCSL 6.1.22 22.ll.230–232", "ETCSL 6.1.22 22.ll.237–249"], note: "lul i3-sun7 / lul dug4-dug4 / eme sig dug4-dug4; an-kur2 an-kur2-kur2 igi an-kur2-kur2; lu2-lul i-lu ma-ab-be2-a"}
       - {motif: slanderer-with-forked-tongue, refs: ["ETCSL 6.1.22 22.ll.227–229"]}
-      - {motif: stranger-leader-in-foreign-city, refs: ["ETCSL 6.1.22 22.l.236"], note: "du-du nam-gir5-re a2-bi in-ĝal2 'moving about gives strength to the immigrant's condition'"}
       - {motif: sun-god-compassionate-devotee-blessed, refs: ["ETCSL 6.1.22 22.ll.271–275"], note: "igi {d}utu šudu3-de3 / šag4 {d}utu daĝal-la / dumu {d}utu kug-ga-kam / šub-ba {d}utu sag9-ge-de3 / ma2 gu7-gu7 kar-ra an-dab5-be2"}
       - {motif: friend-reaches-goal-like-ship-to-harbour, refs: ["ETCSL 6.1.22 22.ll.271–275"]}
       - {motif: god-seizes-the-glutton, refs: ["ETCSL 6.1.22 22.ll.276–277"], note: "lu2 gu7-a / diĝir an-dab5-be2; the object of 'eats' is not stated"}
@@ -1288,7 +1266,6 @@ units:
       - {motif: oil-in-sceptre-unseen, refs: ["ETCSL 6.1.26 B.26.b4"]}
       - {motif: king-gives-shepherd-cupbearer-says-do-well, refs: ["ETCSL 6.1.26 B.26.b5", "ETCSL 6.1.26 B.26.b6"]}
       - {motif: loved-one-does-not-love-back, refs: ["ETCSL 6.1.26 C.26.c6", "ETCSL 6.1.26 C.26.c7"], note: "lu2 kal-la-ĝu10 la-ba-an-na-kal-e ... e-ne-še3 saḫar šu-ĝu10 bi2-in-si"}
-      - {motif: fate-is-a-biting-dog, refs: ["ETCSL 6.1.26 C.26.c10"], note: "nam-tar-ĝu10 ga-am3-dug4 [in-na-am3] 'let me tell my fate: it is abuse'"}
       - {motif: farmer-did-not-plough-in-winter, refs: ["ETCSL 6.1.26 D.26.d4"], note: "en-te-en-na-ka a-šag4 nu-ur11-ru / ud buru14-a-ka šu-ni ga-rig2 an-du3-du3-e"}
       - {motif: sluggard-does-not-plow-in-winter, refs: ["ETCSL 6.1.26 D.26.d4"]}
       - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.26 D.26.d3"]}
@@ -1310,9 +1287,7 @@ units:
     tags:
       - {motif: rich-mans-heart-sick, refs: ["ETCSL 6.1.27 B.27.b1", "ETCSL 6.1.27 B.27.b7"], note: "šag4 niĝ2-tuku tur5-ra-am3 / šag4 dirig tur5-ra-am3; šag4 dirig-ga šag4 a-ab-gig"}
       - {motif: light-burden-can-dance, refs: ["ETCSL 6.1.27 B.27.b3"], note: "gu2-un sig gu2 i3-il2-la i3-gu4-ud-gu4-ud-dam"}
-      - {motif: dog-returns-to-vomit, refs: ["ETCSL 6.1.27 B.27.b6"], note: "loosely: gu7-u3-de3 al-dug3 gur-ru-da-bi al-gig 'to eat is good, when it comes up again it is bad'"}
       - {motif: cities-do-not-greet-men-do, refs: ["ETCSL 6.1.27 B.27.b9"], note: "iri iri silim nu-ub-dug4 lu2 lu2-a silim ab-be2"}
-      - {motif: flees-from-own-past, refs: ["ETCSL 6.1.27 B.27.b10"], note: "he fled for (miles) but came back after half a mile"}
       - {motif: thief-sayings, refs: ["ETCSL 6.1.27 A.27.a2"], note: "only lu2-zuḫ 'thief' survives"}
     hints:
       - "The rich man's sick heart: compare Eccl 5:11-16 and Prov 15:16."
