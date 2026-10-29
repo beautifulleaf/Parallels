@@ -237,6 +237,29 @@ new_motifs:
   kings-shadow-over-mountain-lands: {label: "The king's shadow lies over the mountain lands", cluster: kingship}
   kings-songs-recited-in-far-lands: {label: "The king swears that even in far lands without roads or writing his songs will be recited as heavenly writings", cluster: kingship}
   king-steward-of-temple-slave-of-god: {label: "The king calls himself the steward of the god's temple and the house-born slave of the sky god", cluster: kingship}
+  elephant-hunt: {label: "The king captures elephant after elephant on the plain", cluster: kingship}
+  dutiful-son-brings-gifts-to-mother: {label: "The son always brings back something from his expeditions for his mother; he is her son 'of five things, of ten things'", cluster: family}
+  king-dances-with-joy: {label: "The fearless king dances with joy", cluster: kingship}
+  king-can-wail-laments: {label: "The king can himself wail a lament as well as a professional lamenter", cluster: lament}
+  conquers-city-by-words: {label: "The king vanquishes a city with words as his weapons; his wisdom keeps it subject", cluster: wisdom}
+  i-have-no-mother-saying: {label: "The king teaches the meaning of the saying 'I have no mother' (obscure proverb)", cluster: wisdom}
+  prayers-for-life-of-land-uninterrupted: {label: "By command of An and Enlil the king never lets the prayers for the life of the Land and the foreign lands be interrupted", cluster: cult}
+  palace-like-lapis-mountain: {label: "The king's palace is 'the palace of palaces', towering like a lapis-lazuli mountain", cluster: kingship}
+  king-born-of-king-and-queen: {label: "The king is offspring begotten by a king and borne by a queen", cluster: kingship}
+  king-as-wild-bull-calf-of-divine-cow: {label: "The king is a wild bull, a calf born of a wild cow (the goddess) and reared on butter and milk in the cow-pen", cluster: kingship}
+  king-as-storm-from-heaven: {label: "The king calls himself a great storm let loose from heaven, his splendour spreading far", cluster: kingship}
+  king-as-serpent-dragon-darting-tongue: {label: "In battle the king darts out his tongue like a mušḫuš serpent or dragon at the foreign lands and at the wicked", cluster: kingship}
+  refrain-i-am-hero-let-them-praise: {label: "Refrain: 'I am a hero, let them acknowledge my fame; I am a shepherd, let them bless me like the stars; let them sing my praise'", cluster: kingship}
+  king-purified-with-water-of-eridug: {label: "The king performs royal hand-washing and purifies himself with the water of Eridug; the seven wisdoms attend him", cluster: cult}
+  king-expert-in-building-and-planning: {label: "The king is expert in the pickaxe and brick-mould, drawing plans, laying foundations and writing inscriptions", cluster: kingship}
+  king-dream-interpreter-and-judge: {label: "The king is the dream-interpreter of the Land and the divine judge (Ištaran) of the foreign lands, reading omens from extispicy and censers", cluster: divination}
+  king-discerns-righteous-and-wicked: {label: "Like Gilgameš the king recognises the virtuous and the wicked; the just gets justice and the wicked is carried off; he reads what is in the heart", cluster: law}
+  king-wrestler-and-athlete: {label: "No hero, strongman or athlete of the lands can resist the king at wrestling and athletics", cluster: kingship}
+  city-smashed-never-restored: {label: "The city the king smashes shall not be restored; its houses shall be counted as ruin mounds", cluster: war}
+  scattered-like-sheep-without-shepherd: {label: "The rebel lands are scattered by force like sheep without a shepherd", cluster: war}
+  seven-spirits-of-wisdom: {label: "Seven wisdoms (or seven sages/spirits of wisdom) attend the king or deity", cluster: wisdom}
+  king-terror-like-storm-roar: {label: "The king's radiance covers the cities and his battle-cry terrifies the lands like a storm in the heavens", cluster: kingship}
+  sister-goddess-of-king: {label: "The king names a goddess (Ĝeštin-ana) as his sister and Ninsumun as his mother", cluster: kingship}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -1035,7 +1058,7 @@ units:
     tagger: Claude (model), reading the Sumerian
     read: ["ETCSL 2.4.2.02 190-243"]
     tags:
-      - {motif: never-lacked-anything, refs: ["ETCSL 2.4.2.02 190-193"], note: "igi {d}utu ... ba-ra-ma-ni-la2: before Utu, nothing was lacking in his long life"}
+      - {motif: wilderness-provision-lacked-nothing, refs: ["ETCSL 2.4.2.02 190-193"], note: "approximate: igi {d}utu ... ba-ra-ma-ni-la2: before Utu, nothing was lacking in his long life"}
       - {motif: hymn-written-to-preserve-kings-name, refs: ["ETCSL 2.4.2.02 194", "ETCSL 2.4.2.02 195"]}
       - {motif: king-is-star-of-heaven, refs: ["ETCSL 2.4.2.02 197"], note: "niĝ2 saĝ gi4-a mul-an-bi-me-en"}
       - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.2.02 201", "ETCSL 2.4.2.02 203"], note: "approximate: his radiance laid on the lands like a nose-rope (kab) and on the Land like a neck-stock (rab3)"}
@@ -1107,3 +1130,99 @@ units:
       - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.2.02 384", "ETCSL 2.4.2.02 385"], note: "za3-mi2-ĝu10 dug3-ga-am3 / {d}nisaba za3-mi2"}
     hints:
       - "The king's shadow: Lam 4:20 ('in his shadow we shall live among the nations'), Judg 9:15. King as God's servant: 2 Sam 7:5, Ps 89:21."
+  - id: ane-etcsl-2-4-2-03-a-bull-calf-king
+    tradition: ane-sumerian
+    title: Šulgi the wild bull, calf of a divine cow, purified at Eridug (Šulgi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 A:1-34"]
+    tags:
+      - {motif: king-as-wild-bull-calf-of-divine-cow, refs: ["ETCSL 2.4.2.03 A:1", "ETCSL 2.4.2.03 A:4", "ETCSL 2.4.2.03 A:5", "ETCSL 2.4.2.03 A:6", "ETCSL 2.4.2.03 A:22", "ETCSL 2.4.2.03 A:23"], note: "lugal ab2-šilam-e tud-da i3 ga-a ne-ḫa-me-en3; amar ab2 babbar2-ra ... tur3-ra buluĝ3-ĝa2"}
+      - {motif: wild-ox-horns, refs: ["ETCSL 2.4.2.03 A:1", "ETCSL 2.4.2.03 A:2"], note: "approximate: am a2 pad3-da, 'wild bull of acknowledged strength'"}
+      - {motif: king-as-storm-from-heaven, refs: ["ETCSL 2.4.2.03 A:3"], note: "ud gal an-ta šu ba-ra-gin7 me-lem4 sud-sud"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.4.2.03 A:8", "ETCSL 2.4.2.03 A:9"], note: "sipad zid niĝ2-si-sa2-da ḫul2-la / niĝ2-erim2-ma usan3 bar-us2-bi"}
+      - {motif: king-as-serpent-dragon-darting-tongue, refs: ["ETCSL 2.4.2.03 A:14-17"], note: "muš-ḫuš kur-re eme ed2-de3-me-en3 / ušumgal lu2-še3"}
+      - {motif: refrain-i-am-hero-let-them-praise, refs: ["ETCSL 2.4.2.03 A:18-20", "ETCSL 2.4.2.03 A:32-34"], note: "sipad-me-en3 šudu3-da mul-an-gin7 ḫu-mu-ni-gu2-un-gun2-ne"}
+      - {motif: king-purified-with-water-of-eridug, refs: ["ETCSL 2.4.2.03 A:28", "ETCSL 2.4.2.03 A:29", "ETCSL 2.4.2.03 A:30"], note: "eridug{ki}-ta a nam-išib-ba-ka ni2-ĝu10 mi-ni-dadag / ĝeštug3 7-bi mu-da-sug2-sug2-ge-eš2"}
+      - {motif: seven-spirits-of-wisdom, refs: ["ETCSL 2.4.2.03 A:30"]}
+    hints:
+      - "Seven wisdoms attending the king: Isa 11:2 (the spirit of wisdom, understanding, counsel ...), Prov 9:1 (wisdom's seven pillars)."
+      - "King as wild ox: Num 23:22, Deut 33:17; dragon/serpent: contrast Isa 27:1."
+  - id: ane-etcsl-2-4-2-03-a-scribe-builder-counsel
+    tradition: ane-sumerian
+    title: "Šulgi in the house of wisdom: stylus, measuring line, plans and assembly (Šulgi C)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 A:35-84"]
+    tags:
+      - {motif: learned-scribe-king, refs: ["ETCSL 2.4.2.03 A:35", "ETCSL 2.4.2.03 A:36", "ETCSL 2.4.2.03 A:37"], note: "e2 ĝeštug3 igi-ĝal2 kalam-ma-ka ... šu-ĝu10-u3 gi kug-ga si mi-ni-ib2-sa2"}
+      - {motif: king-expert-in-building-and-planning, refs: ["ETCSL 2.4.2.03 A:42-49"], note: "eš2 za-gin3 ... al {ĝiš}u3-šub ... ĝiš-ḫur uš ki tag / maš-dara3 ki-gal-lum-ma ... dub za-gin3-na pa mu-ni-e3"}
+      - {motif: king-teaches-governors-to-deliberate, refs: ["ETCSL 2.4.2.03 A:57-60"], note: "approximate: pu-ḫu-ru-um ki ad maḫ gi4-gi4-da; a minister attends to messages from foreign lands; lines 64-75 broken"}
+      - {motif: king-discerns-righteous-and-wicked, refs: ["ETCSL 2.4.2.03 A:76-81"], note: "niĝ2 gen6-gen6-na-aš gud gal-gal-gin7 a2 im-ši-ni-dab5-ba-am3 / niĝ2-erim2-še3 muš ki sumur-ra-gin7 eme im-ši-e3"}
+      - {motif: refrain-i-am-hero-let-them-praise, refs: ["ETCSL 2.4.2.03 A:50-52", "ETCSL 2.4.2.03 A:82-84"]}
+    hints:
+      - "King skilled in planning and building: 1 Kgs 6-7; justice to the righteous: Ps 101:6-8, Prov 20:26."
+  - id: ane-etcsl-2-4-2-03-a-diviner-judge
+    tradition: ane-sumerian
+    title: Šulgi, extispicer, dream-interpreter and discerner of hearts (Šulgi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 A:85-114"]
+    tags:
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["ETCSL 2.4.2.03 A:88"], note: "me3-ĝu10 a-ma-ru-kam, 'my battle is a deluge'"}
+      - {motif: king-as-expert-diviner, refs: ["ETCSL 2.4.2.03 A:91-98"], note: "sila4 dadag-ga ... {ĝiš}tukul sag3-ga {ĝiš}tukul nu-sag3-ga-ba ... uzu-ga ki dadag-ga-ba ĝiškim mu-ni-zu"}
+      - {motif: king-dream-interpreter-and-judge, refs: ["ETCSL 2.4.2.03 A:102", "ETCSL 2.4.2.03 A:103", "ETCSL 2.4.2.03 A:104"], note: "i3-gid2 niĝ2-na de5-ga ... igi-ĝu10-ta ensi kalam-ma-me-en3 / šag4-ĝu10 {d}ištaran kur-kur-ra-me-en3"}
+      - {motif: king-discerns-righteous-and-wicked, refs: ["ETCSL 2.4.2.03 A:105-111"], note: "šeš gu5-li-ĝu10 {d}gilgameš2-gin7 zid-du mu-zu erim2-du mu-zu ... šag4-ge dug4-ga eme-a ĝa2-ra-a a-ba-a ĝe26-gin7 bur2-bur2-bi mu-zu"}
+      - {motif: king-brother-of-gilgamesh, refs: ["ETCSL 2.4.2.03 A:106"]}
+      - {motif: refrain-i-am-hero-let-them-praise, refs: ["ETCSL 2.4.2.03 A:112-114"]}
+    hints:
+      - "Royal dream interpretation: Gen 41 (Joseph), Dan 2 and 4; discerning good and evil: 1 Kgs 3:9, 2 Sam 14:17 ('like the angel of God to discern good and evil'); reading the heart: 1 Sam 16:7, Jer 17:10."
+  - id: ane-etcsl-2-4-2-03-a-languages-wrestling
+    tradition: ane-sumerian
+    title: Šulgi speaks Martu and Elamite and is unbeaten at wrestling (Šulgi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 A:115-146"]
+    tags:
+      - {motif: king-speaks-five-languages, refs: ["ETCSL 2.4.2.03 A:121", "ETCSL 2.4.2.03 A:123", "ETCSL 2.4.2.03 A:124", "ETCSL 2.4.2.03 A:126"], note: "[eme] [mar]-tu niĝ2 eme-gi-ra-gin7 ... eme elam niĝ2 eme-gi-ra-gin7 ḫe2-en3-ga-zu-am3; here two languages"}
+      - {motif: king-wrestler-and-athlete, refs: ["ETCSL 2.4.2.03 A:131-142"], note: "ĝešpu2 lirum3-ma ... ur-saĝ gal-gal kalam-ma-ke4-ne ... lu2 nu-mu-da-sa2-me-en3"}
+      - {motif: refrain-i-am-hero-let-them-praise, refs: ["ETCSL 2.4.2.03 A:143-145"]}
+      - {motif: king-runs-nibru-to-urim-in-one-day, refs: ["ETCSL 2.4.2.03 A:146"], note: "approximate: dub3 bad-bad ki ĝiri3 gub sag9-me-en, 'a runner'; text breaks off"}
+    hints:
+      - "Wrestling: Gen 32:25-29 (Jacob); languages: Neh 13:24, Esth 1:22."
+  - id: ane-etcsl-2-4-2-03-b-conqueror
+    tradition: ane-sumerian
+    title: Šulgi destroys the rebel lands; ruins never to be rebuilt (Šulgi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 B:1-74"]
+    tags:
+      - {motif: king-terror-like-storm-roar, refs: ["ETCSL 2.4.2.03 B:7", "ETCSL 2.4.2.03 B:8", "ETCSL 2.4.2.03 B:9"], note: "me-lem4-bi iri-a ḫa-ba-ab-dul ... ud an-na-gin7 šeg12 gi4-be2-e uĝ3 ḫa-ba-da-ab-ḫu-ḫu-luḫ-eš2"}
+      - {motif: royal-lion-hunt-face-to-face, refs: ["ETCSL 2.4.2.03 B:11", "ETCSL 2.4.2.03 B:12"], note: "su piriĝ sa piriĝ-ĝa2 ḫe2-ma-[ab]-tum2; context partly broken"}
+      - {motif: city-smashed-never-restored, refs: ["ETCSL 2.4.2.03 B:20", "ETCSL 2.4.2.03 B:21", "ETCSL 2.4.2.03 B:32", "ETCSL 2.4.2.03 B:33", "ETCSL 2.4.2.03 B:34"], note: "uru2 mu-sig10-ga-ĝu10 ki-be2-e nam-gi4-gi4 / e2 mu-gul-a-ĝu10 du6-du6-ra2 ḫu-mu-un-šid"}
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.4.2.03 B:33"]}
+      - {motif: foundations-overturned-filled-with-dust, refs: ["ETCSL 2.4.2.03 B:31"], note: "šeg12-bi ur2-ba mu-bu3-bu3, bricks dug up from the footings"}
+      - {motif: scattered-like-sheep-without-shepherd, refs: ["ETCSL 2.4.2.03 B:60"], note: "udu sipad nu-tuku-gin7 lirum-e ḫa-ba-suḫ"}
+      - {motif: sheep-scattered-prey-to-beasts, refs: ["ETCSL 2.4.2.03 B:60"]}
+      - {motif: refrain-i-am-hero-let-them-praise, refs: ["ETCSL 2.4.2.03 B:17-19", "ETCSL 2.4.2.03 B:72-74"]}
+    hints:
+      - "Sheep without a shepherd: Num 27:17, 1 Kgs 22:17, Ezek 34:5, Zech 13:7. City never rebuilt: Isa 25:2, Deut 13:17, Josh 6:26."
+  - id: ane-etcsl-2-4-2-03-bc-musician-fragments
+    tradition: ane-sumerian
+    title: Šulgi plays the seven instruments; fragments mentioning Ĝeštin-ana and Gilgameš (Šulgi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.03 B:75-110", "ETCSL 2.4.2.03 C:1-14"]
+    tags:
+      - {motif: king-master-musician, refs: ["ETCSL 2.4.2.03 B:75-79"], note: "tigi a-da-ab ma-al-ga-tum gal-gal-la ad ša4-bi mu-zu ... gal-an-zu ĝiš-gu3-di 7-na šu gal du7-a-me-en3"}
+      - {motif: king-dances-with-joy, refs: ["ETCSL 2.4.2.03 B:90"], note: "balaĝ kug-ta a-ne ḫul2-la dug4-dug4"}
+      - {motif: king-brother-of-gilgamesh, refs: ["ETCSL 2.4.2.03 C:10"], note: "šeš gu5-li-ĝu10 {d}gilgameš2-ra; the rest of C is fragmentary"}
+      - {motif: sister-goddess-of-king, refs: ["ETCSL 2.4.2.03 B:93", "ETCSL 2.4.2.03 B:94"], note: "nin9 ne2-ĝu10 {d}ĝeštin-an-na-ra / ama ugu4-ĝu10 {d}nin-sumun2-na-ke4"}
+    hints:
+      - "David dancing before the ark: 2 Sam 6:14-16; skilled player of the lyre 1 Sam 16:18."
