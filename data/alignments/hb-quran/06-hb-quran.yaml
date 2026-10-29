@@ -1901,3 +1901,99 @@ reviewed:
         with_refs: ["1Kgs 22:19"]
         relation: parallel
         note: "rāʾîṯî ʾeṯ-YHWH yōšēḇ ʿal-kisʾô wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw mî-mînô û-miś-śəmōʾlô vs. wa-tarā l-malāʾikata ḥāffīna min ḥawli l-ʿarshi yusabbiḥūna bi-ḥamdi rabbihim: the throne surrounded by the host. In Kings it is a council deliberating deception; in the Quran a choir of praise closing the judgment (wa-qīla l-ḥamdu li-llāhi rabbi l-ʿālamīn)."
+  - unit: quran-40-throne-bearers
+    checked: [hb-zech-14-day-on-mount-of-olives, hb-zech-1-horsemen-among-myrtles, hb-joel-2-army-and-repentance, hb-ezek-1-chariot-throne, hb-isa-59-sins-separate-divine-warrior, hb-ps-44-national-lament, hb-exod-34-thirteen-attributes-covenant-renewal]
+    matches:
+      - with: hb-exod-34-thirteen-attributes-covenant-renewal
+        motif: gracious-merciful-slow-to-anger-formula
+        refs: ["40:3"]
+        with_refs: ["Exod 34:6", "Exod 34:7"]
+        relation: parallel
+        note: "nōśēʾ ʿāwōn wā-p̄ešaʿ wə-ḥaṭṭāʾâ wə-naqqēh lōʾ yənaqqeh vs. ghāfiri dh-dhanbi wa-qābili t-tawbi shadīdi l-ʿiqābi dhī ṭ-ṭawl: a chain of divine epithets in which forgiveness and severity stand together. The Quran keeps the structure but drops the transgenerational clause (pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm)."
+      - with: hb-joel-2-army-and-repentance
+        motif: gracious-merciful-slow-to-anger-formula
+        refs: ["40:3"]
+        with_refs: ["Joel 2:13"]
+        relation: echo
+        note: "wə-šûḇû ʾel-YHWH ʾĕlōhêḵem kî-ḥannûn wə-raḥûm hûʾ ... wə-niḥām ʿal-hā-rāʿâ vs. ghāfiri dh-dhanbi wa-qābili t-tawb: the formula tied to the call to repent (šûḇ / tawba)."
+      - with: hb-ezek-1-chariot-throne
+        motif: four-living-creatures-hayyot
+        refs: ["40:7"]
+        with_refs: ["Ezek 1:22", "Ezek 1:26"]
+        relation: divergence
+        note: "The throne's bearers. Ezek: ʿal-rāʾšê ha-ḥayyâ rāqîaʿ ... û-mi-mmaʿal lā-rāqîaʿ ... dəmûṯ kissēʾ wə-ʿal dəmûṯ ha-kkissēʾ dəmûṯ kə-marʾēh ʾāḏām, silent four-faced creatures carrying a throne with a human-like figure on it. Q: alladhīna yaḥmilūna l-ʿarsha wa-man ḥawlahu yusabbiḥūna bi-ḥamdi rabbihim wa-yuʾminūna bihi wa-yastaghfirūna li-lladhīna āmanū. The bearers are angels who believe, praise and intercede for the believers; nothing describes them or the One on the throne."
+      - with: hb-zech-1-horsemen-among-myrtles
+        motif: throne-bearers-ask-forgiveness-for-believers
+        refs: ["40:7", "40:8"]
+        with_refs: ["Zech 1:12"]
+        relation: parallel
+        note: "wa-yyaʿan malʾaḵ-YHWH wa-yyōʾmar YHWH ṣəḇāʾôṯ ʿaḏ-māṯay ʾattâ lōʾ-ṯəraḥēm ʾeṯ-yərûšālaim vs. rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilman fa-ghfir li-lladhīna tābū ... wa-adkhilhum jannāti ʿadn: an angel prays to God for mercy (riḥam / raḥma, cognate) on humans. Zechariah's angel prays for Jerusalem and Judah's cities; the Quran's for the repentant believers and their righteous kin."
+      - with: hb-zech-14-day-on-mount-of-olives
+        motif: whose-is-the-kingdom-today
+        refs: ["40:16"]
+        with_refs: ["Zech 14:9"]
+        relation: parallel
+        note: "wə-hāyâ YHWH lə-meleḵ ʿal-kol-hā-ʾāreṣ ba-yyôm ha-hûʾ yihyeh YHWH ʾeḥāḏ û-šəmô ʾeḥāḏ vs. li-mani l-mulku l-yawma li-llāhi l-wāḥidi l-qahhār: on that day kingship over all belongs to the One God (meleḵ / mulk, ʾeḥāḏ / wāḥid). In Zechariah God becomes king after the battle for Jerusalem; in the Quran God asks and answers the question himself at the judgment."
+      - with: hb-ps-44-national-lament
+        motif: god-knows-treachery-of-eyes
+        refs: ["40:19"]
+        with_refs: ["Ps 44:22"]
+        relation: parallel
+        note: "hă-lōʾ ʾĕlōhîm yaḥăqor-zōʾṯ kî-hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. yaʿlamu khāʾinata l-aʿyuni wa-mā tukhfī ṣ-ṣudūr: God knows the hidden things of the heart. The psalm uses it to protest innocence; the Quran to warn the guilty."
+  - unit: quran-40-believer-of-pharaohs-family
+    checked: [hb-gen-11-babel, hb-exod-1-oppression-midwives, hb-isa-19-oracle-on-egypt, hb-jer-42-43-flight-to-egypt, hb-ezek-20-history-of-rebellion, hb-exod-2-moses-birth-flight-midian, hb-exod-5-bricks-without-straw, hb-exod-9-hail, hb-exod-10-locusts-darkness, hb-esth-3-haman-decree, hb-num-16-korah]
+    matches:
+      - with: hb-exod-1-oppression-midwives
+        motif: pharaoh-orders-killing-sons-of-believers
+        refs: ["40:25"]
+        with_refs: ["Exod 1:16", "Exod 1:22"]
+        relation: divergence
+        note: "Kill the sons, spare the daughters, on the same root: wa-hămittɛn ʾōṯô wə-ʾim-baṯ hîʾ wā-ḥāyâ ... wə-ḵol-ha-bbaṯ təḥayyûn vs. uqtulū abnāʾa lladhīna āmanū maʿahu wa-staḥyū nisāʾahum (ḥ-y-y in both: 'let live'). The time and target are changed. Exodus: before Moses' birth, against every Hebrew boy, for fear of numbers (rāḇ wə-ʿāṣûm mimmennû, 1:9). Q: after Moses arrives with the truth, against the sons of those who believe with him, a religious persecution."
+      - with: hb-exod-1-oppression-midwives
+        motif: joseph-came-before-with-clear-signs
+        refs: ["40:34"]
+        with_refs: ["Exod 1:8"]
+        relation: divergence
+        note: "Egypt's memory of Joseph. Exod: wa-yyāqom meleḵ-ḥāḏāš ʿal-miṣrāyim ʾăšer lōʾ-yāḏaʿ ʾeṯ-yôsēp̄, Joseph forgotten as a benefactor. Q: wa-la-qad jāʾakum Yūsufu min qablu bi-l-bayyināti fa-mā ziltum fī shakkin ... ḥattā idhā halaka qultum lan yabʿatha llāhu min baʿdihi rasūlā. Joseph remembered as a messenger to the Egyptians whose message they doubted, after whom they said God would send no other."
+      - with: hb-gen-11-babel
+        motif: tower-reaching-heaven
+        refs: ["40:36", "40:37"]
+        with_refs: ["Gen 11:4", "Gen 11:5"]
+        relation: divergence
+        note: "A tower to heaven. Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû šēm, built collectively, to make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ) and scatters them. Q: yā-Hāmānu bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can look up at Moses' God whom he calls a liar. The plot ends fī tabāb, with no divine descent and no confusion of tongues."
+      - with: hb-esth-3-haman-decree
+        motif: korah-pharaoh-haman-trio
+        refs: ["40:24", "40:36"]
+        with_refs: ["Esth 3:1", "Esth 3:6"]
+        relation: divergence
+        note: "Haman's place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh's builder (yā-Hāmānu bni lī). The name of Israel's Persian-era persecutor is placed at the Egyptian court; the shared role is the persecutor of God's people."
+      - with: hb-num-16-korah
+        motif: korah-pharaoh-haman-trio
+        refs: ["40:24"]
+        with_refs: ["Num 16:1", "Num 16:3"]
+        relation: divergence
+        note: "Korah's place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the camp against Moses and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees of Moses' mission, who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers of Egypt, whose sin in the Quran is arrogance of wealth (cf. Q 28:76)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: pharaoh-wishes-to-kill-moses
+        refs: ["40:26"]
+        with_refs: ["Exod 2:15"]
+        relation: divergence
+        note: "wa-yyišmaʿ parʿōh ʾeṯ-ha-ddāḇār ha-zze wa-yəḇaqqēš lahărōḡ ʾeṯ-mōšeh vs. wa-qāla Firʿawnu dharūnī aqtul Mūsā wa-l-yadʿu rabbahu innī akhāfu an yubaddila dīnakum. In Exodus Pharaoh wants Moses dead for killing an Egyptian, before his call; in the Quran he wants it after the mission, fearing for 'your religion' (dīn)."
+      - with: hb-exod-5-bricks-without-straw
+        motif: pharaoh-i-show-you-only-what-i-see
+        refs: ["40:29", "40:37"]
+        with_refs: ["Exod 5:2"]
+        relation: echo
+        note: "mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yāḏaʿtî ʾeṯ-YHWH vs. mā urīkum illā mā arā ... fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhibā: Pharaoh rejects Moses' God as unknown to him or a lie."
+      - with: hb-exod-9-hail
+        motif: believer-of-pharaohs-family
+        refs: ["40:28"]
+        with_refs: ["Exod 9:20"]
+        relation: echo
+        note: "ha-yyārēʾ ʾeṯ-dəḇar YHWH mē-ʿaḇdê parʿōh hēnîs ʾeṯ-ʿăḇāḏâw vs. wa-qāla rajulun muʾminun min āli Firʿawna yaktumu īmānahu: God-fearers inside Pharaoh's household. Exodus has a nameless group that acts quietly; the Quran gives one man a long public speech."
+      - with: hb-exod-10-locusts-darkness
+        motif: believer-of-pharaohs-family
+        refs: ["40:28", "40:30"]
+        with_refs: ["Exod 10:7"]
+        relation: parallel
+        note: "wa-yyōʾmərû ʿaḇdê parʿōh ʾēlâw ʿaḏ-māṯay yihyeh zeh lānû lə-môqēš šallaḥ ʾeṯ-hā-ʾănāšîm ... hă-ṭerem tēḏaʿ kî ʾāḇəḏâ miṣrāyim vs. a-taqtulūna rajulan an yaqūla rabbiya llāh ... innī akhāfu ʿalaykum mithla yawmi l-aḥzāb: Pharaoh's own courtiers urge him to give way before ruin comes. Exodus gives a pragmatic plea (Egypt is lost); the Quran gives a believer's argument (if he lies it is on him, if true you will be struck)."

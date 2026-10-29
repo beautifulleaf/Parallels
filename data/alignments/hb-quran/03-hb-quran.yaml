@@ -1589,3 +1589,36 @@ reviewed:
         with_refs: ["Ps 103:19"]
         relation: parallel
         note: "God enthroned in heaven governs all: thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs YHWH baššāmayim hēkîn kisʾô ûmalkûtô bakkōl māšālāh."
+  - unit: quran-10-ingratitude-sea
+    checked: [hb-ps-107-four-rescues, hb-jonah-1-flight-and-storm, hb-gen-11-babel, hb-isa-43-you-are-my-witnesses, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-jer-31-consolation-new-covenant, hb-deut-4-exhortation, hb-jer-26-temple-sermon-trial]
+    matches:
+      - with: hb-ps-107-four-rescues
+        motif: storm-at-sea-stilled
+        refs: ["10:22", "10:23"]
+        with_refs: ["Ps 107:25", "Ps 107:28", "Ps 107:29", "Ps 107:31"]
+        relation: divergence
+        note: "Seafarers in a storm cry to God and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju min kulli makānin ... daʿawu llāha mukhliṣīna lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ... yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the rescued give thanks (yôdû laYHWH ḥasdô ... wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on land (fa-lammā anjāhum idhā hum yabghūna fī l-arḍi bi-ghayri l-ḥaqq)."
+      - with: hb-jonah-1-flight-and-storm
+        motif: sea-peril-sincere-prayer-then-ingratitude
+        refs: ["10:22", "10:23"]
+        with_refs: ["Jonah 1:5", "Jonah 1:14", "Jonah 1:16"]
+        relation: divergence
+        note: "Sailors in a storm pray and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah's pagan sailors fear YHWH, sacrifice and keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q's sailors transgress once saved."
+      - with: hb-gen-11-babel
+        motif: humankind-originally-one-community
+        refs: ["10:19"]
+        with_refs: ["Gen 11:1", "Gen 11:6", "Gen 11:8"]
+        relation: divergence
+        note: "Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām. Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones the judgment."
+      - with: hb-deut-4-exhortation
+        motif: no-adding-or-subtracting
+        refs: ["10:15", "10:16"]
+        with_refs: ["Deut 4:2"]
+        relation: parallel
+        note: "The revealed word may not be altered: qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû."
+      - with: hb-jer-26-temple-sermon-trial
+        motif: no-adding-or-subtracting
+        refs: ["10:15"]
+        with_refs: ["Jer 26:2"]
+        relation: echo
+        note: "The prophet himself is bound to the exact word against an audience that wants something else: ʾēt kol-haddᵉbārîm ʾăšer ṣiwwîtîkā lᵉdabbēr ʾălêhem ʾal-tigraʿ dābār vs in attabiʿu illā mā yūḥā ilayya."
