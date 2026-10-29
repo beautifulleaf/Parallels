@@ -1,0 +1,1290 @@
+new_motifs:
+  humanity-from-single-soul: {label: "All humankind created from a single soul (nafs wāḥida), its mate made from it", cluster: creation}
+  fear-god-and-the-wombs: {label: "Fear God, by whom you ask of one another, and the wombs (kinship ties, al-arḥām)", cluster: ethics}
+  orphan-property-guardianship: {label: "Guardians must keep orphans' property intact and hand it over when they come of age", cluster: law}
+  devouring-orphans-property-eats-fire: {label: "Those who devour orphans' property devour fire into their bellies", cluster: eschatology}
+  polygyny-up-to-four: {label: "A man may marry two, three or four wives, or only one if he fears injustice", cluster: law}
+  bride-gift-to-the-woman: {label: "The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part", cluster: law}
+  property-withheld-from-incompetent: {label: "Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it", cluster: law}
+  women-share-in-inheritance: {label: "Women as well as men receive a fixed share of what parents and kin leave", cluster: law}
+  poor-relatives-given-from-estate: {label: "Kin, orphans and the poor present at the division of an estate are given something from it", cluster: law}
+  male-double-share-of-female: {label: "A son (or brother) inherits the share of two daughters (or sisters)", cluster: law}
+  fixed-fractional-shares: {label: "Inheritance fixed in fractions (one half, a third, a quarter, a sixth, an eighth, two-thirds)", cluster: law}
+  spouses-inherit-from-each-other: {label: "Husband and wife inherit fixed shares from each other", cluster: law}
+  kalala-inheritance: {label: "One who dies without parent or child (kalāla): brothers and sisters inherit fixed shares", cluster: law}
+  bequest-and-debt-before-shares: {label: "Shares are distributed only after a bequest (waṣiyya) and debts are paid", cluster: law}
+  bounds-of-god-hudud: {label: "Laws called the bounds (ḥudūd) of God, not to be transgressed", cluster: law}
+  four-witnesses-for-indecency: {label: "Four witnesses are required to establish sexual indecency (fāḥisha)", cluster: law}
+  adulteress-confined-to-house: {label: "Women guilty of indecency are confined to houses until death or until God makes a way", cluster: law}
+  offenders-released-on-repentance: {label: "Offenders who repent and reform are to be left alone", cluster: law}
+  deathbed-repentance-rejected: {label: "Repentance is not accepted from one who repents only when death comes", cluster: theology}
+  repentance-for-sin-in-ignorance: {label: "God accepts repentance from those who do evil in ignorance and soon repent", cluster: theology}
+  inheriting-women-forbidden: {label: "It is forbidden to inherit women against their will or to hold them back to recover gifts", cluster: law}
+  dowry-not-taken-back: {label: "A husband exchanging one wife for another may not take back anything he gave, even a qinṭār", cluster: law}
+  milk-kinship-bars-marriage: {label: "Foster mothers and foster sisters by nursing are forbidden in marriage", cluster: law}
+  married-women-forbidden-except-captives: {label: "Married women are forbidden except those one's right hand possesses (captives)", cluster: law}
+  marriage-to-believing-slave-women: {label: "One who cannot afford a free wife may marry a believing slave woman with her people's leave", cluster: law}
+  slave-woman-half-penalty: {label: "A married slave woman who commits indecency receives half the punishment of a free woman", cluster: law}
+  human-created-weak: {label: "God wishes to lighten your burden, for the human was created weak", cluster: theology}
+  consuming-wealth-falsely-forbidden: {label: "Do not consume one another's wealth wrongfully (bil-bāṭil), only by trade with mutual consent", cluster: ethics}
+  do-not-kill-yourselves: {label: "Command: do not kill yourselves (or one another)", cluster: law}
+  major-sins-avoided-minor-expiated: {label: "If the major sins (kabāʾir) are avoided, God expiates lesser misdeeds", cluster: theology}
+  sworn-allies-inherit: {label: "Those bound to you by oath-alliance receive their share", cluster: law}
+  men-maintainers-of-women: {label: "Men are maintainers (qawwāmūn) of women by God's preference and their spending", cluster: law}
+  rebellious-wife-admonished-separated-struck: {label: "A wife whose rebellion (nushūz) is feared is admonished, left alone in bed, then struck", cluster: law}
+  family-arbiters-in-marital-discord: {label: "In marital discord an arbiter is sent from his family and one from hers", cluster: law}
+  neighbor-near-and-far: {label: "Kindness to the near neighbor, the distant neighbor, the companion at one's side and the wayfarer", cluster: ethics}
+  misers-conceal-gods-bounty: {label: "Misers who urge stinginess and hide what God gave them of his bounty", cluster: ethics}
+  deeds-done-for-show: {label: "Good works (spending, prayer) done to be seen by people (riyāʾ)", cluster: ethics}
+  satan-as-companion: {label: "Satan becomes a person's intimate companion (qarīn)", cluster: theology}
+  atoms-weight-of-justice: {label: "God does not wrong anyone by an atom's weight (mithqāl dharra)", cluster: theology}
+  good-deeds-multiplied: {label: "God multiplies a good deed (tenfold) while an evil deed is requited only by its like", cluster: theology}
+  witness-from-every-nation: {label: "On judgment day a witness is brought from every nation, and the Prophet as witness over them", cluster: eschatology}
+  wish-earth-leveled-over-them: {label: "On that day the disbelievers wish the earth were leveled over them", cluster: eschatology}
+  no-prayer-while-drunk: {label: "Do not approach prayer while intoxicated, until you know what you say", cluster: purity}
+  major-impurity-bath-before-prayer: {label: "One in major impurity (junub) must bathe before prayer, except a traveller passing through", cluster: purity}
+  dry-ablution-with-earth: {label: "Without water, purify with clean earth (tayammum), wiping face and hands", cluster: purity}
+  scripture-words-shifted: {label: "Some of the People of the Book shift words from their places (taḥrīf)", cluster: polemic}
+  we-hear-and-disobey: {label: "Israel's covenant answer parodied: 'we hear and we disobey' (samiʿnā wa-ʿaṣaynā)", cluster: polemic}
+  ambiguous-address-raina: {label: "Opponents twist an ambiguous address ('rāʿinā') with their tongues to mock", cluster: polemic}
+  faces-obliterated-turned-backward: {label: "Threat to obliterate faces and turn them backward", cluster: eschatology}
+  sabbath-breakers-cursed-transformed: {label: "The people of the Sabbath were cursed and (some) made apes and swine", cluster: polemic}
+  idolatry-unforgivable: {label: "God does not forgive associating partners with him (shirk) but forgives anything less", cluster: theology}
+  self-praise-of-purity-rebuked: {label: "Those who claim to be pure are rebuked: God purifies whom he will", cluster: ethics}
+  jibt-and-taghut: {label: "Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers)", cluster: idolatry}
+  tiny-measures-fatil-naqir: {label: "Not wronged by a date-stone's thread (fatīl) or groove (naqīr): proverbial minimal measures", cluster: theology}
+  abraham-family-given-book-and-kingdom: {label: "God gave the family of Abraham the book, wisdom and a great kingdom", cluster: patriarchs}
+  skins-renewed-in-fire: {label: "In hellfire, whenever the skins are burnt through, they are replaced with new skins", cluster: eschatology}
+  purified-spouses-in-paradise: {label: "The blessed have purified spouses (azwāj muṭahhara) in paradise", cluster: eschatology}
+  deep-shade-of-paradise: {label: "The blessed enter a deep, lasting shade (ẓill ẓalīl)", cluster: eschatology}
+  return-trusts-to-owners: {label: "Return trusts (amānāt) to their owners and judge between people with justice", cluster: ethics}
+  obey-god-messenger-and-authority: {label: "Obey God, obey the Messenger and those in authority; refer disputes to God and the Messenger", cluster: law}
+  kill-yourselves-test-command: {label: "Had they been commanded 'kill yourselves or leave your homes', few would have done it", cluster: polemic}
+  four-ranks-of-the-blessed: {label: "Companions of the obedient: prophets, the truthful (ṣiddīqūn), martyrs and the righteous", cluster: eschatology}
+  laggard-rejoices-at-missing-battle: {label: "The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil", cluster: warfare}
+  fight-for-the-oppressed: {label: "Fight for the oppressed men, women and children who cry 'take us out of this town of wrongdoers'", cluster: warfare}
+  satans-plot-is-weak: {label: "The plot of Satan is weak", cluster: theology}
+  death-reaches-even-lofty-towers: {label: "Death will reach you wherever you are, even in lofty towers", cluster: wisdom}
+  good-from-god-evil-from-self: {label: "All comes from God; yet good befalling you is from God and evil from yourself", cluster: theology}
+  quran-without-contradiction: {label: "Were the Quran from other than God they would find much contradiction in it", cluster: prophecy}
+  good-and-bad-intercession: {label: "Whoever intercedes for good shares in it; whoever intercedes for evil bears a part of it", cluster: ethics}
+  return-greeting-with-better: {label: "When greeted, return a better greeting or the same", cluster: ethics}
+  hypocrites-split-the-believers: {label: "Believers are split into two factions over the hypocrites, whom God has overturned", cluster: polemic}
+  neutral-and-treaty-folk-not-fought: {label: "Those allied by treaty or who withdraw and offer peace may not be attacked", cluster: warfare}
+  manslaughter-blood-money-and-freed-slave: {label: "Accidental killing of a believer: free a believing slave and pay blood money (diya) to the family unless they remit it", cluster: law}
+  expiation-by-two-months-fast: {label: "Whoever cannot pay the expiation fasts two consecutive months", cluster: law}
+  deliberate-murderer-in-hell-forever: {label: "Deliberate killing of a believer is punished by hell forever, God's wrath and curse", cluster: eschatology}
+  do-not-deny-faith-of-one-who-greets: {label: "Do not tell one who greets you with peace 'you are not a believer' to seize booty", cluster: warfare}
+  strivers-above-those-who-sit: {label: "Those who strive with wealth and life are ranked above those who sit at home", cluster: warfare}
+  disabled-exempt-from-fighting: {label: "Those with disabilities (ulū l-ḍarar) are excepted from the duty to fight", cluster: warfare}
+  angels-take-souls-at-death: {label: "Angels (God's messengers) take the souls of the dying", cluster: afterlife}
+  angels-question-souls-at-death: {label: "Angels taking a soul ask 'what state were you in?'; excuses of weakness are tested", cluster: afterlife}
+  gods-earth-is-wide-emigrate: {label: "Was not God's earth wide enough for you to emigrate (hijra) in it?", cluster: ethics}
+  emigrant-dying-on-way-rewarded: {label: "Whoever leaves home as an emigrant to God and dies on the way has his reward with God", cluster: eschatology}
+  prayer-shortened-on-journey: {label: "Prayer may be shortened when travelling in danger", cluster: liturgy}
+  prayer-in-shifts-under-arms: {label: "In war the congregation prays in shifts, one group standing guard with weapons", cluster: liturgy}
+  remember-god-standing-sitting-lying: {label: "Remember God standing, sitting and lying on your sides", cluster: liturgy}
+  prayer-at-fixed-times: {label: "Prayer is prescribed for believers at fixed times (kitāban mawqūtan)", cluster: liturgy}
+  enemy-suffers-as-you-suffer: {label: "If you suffer, they suffer as you do, but you hope from God what they do not", cluster: warfare}
+  guilt-cast-on-innocent: {label: "Whoever commits a sin and casts it on an innocent bears slander and manifest sin", cluster: ethics}
+  prophet-must-not-plead-for-traitors: {label: "The Prophet is told not to argue on behalf of those who betray themselves", cluster: law}
+  god-present-at-night-plotting: {label: "They hide from people but not from God, who is with them when they plot by night", cluster: theology}
+  secret-counsel-najwa: {label: "No good in most secret counsels except enjoining charity, kindness or reconciliation", cluster: ethics}
+  idolaters-invoke-females: {label: "Idolaters invoke only female beings besides God, and only a rebellious Satan", cluster: idolatry}
+  satan-vows-appointed-share: {label: "Cursed Satan vows to take an appointed share (naṣīb mafrūḍ) of God's servants", cluster: theology}
+  slitting-cattle-ears: {label: "Satan commands people to slit the ears of cattle (a pagan dedication rite)", cluster: idolatry}
+  altering-gods-creation: {label: "Satan commands people to alter God's creation", cluster: theology}
+  not-by-wishful-thinking: {label: "Salvation is not by your wishes nor those of the People of the Book: whoever does evil is requited", cluster: polemic}
+  reward-for-male-or-female: {label: "Whoever does good, male or female, and believes, enters paradise", cluster: eschatology}
+  religion-of-abraham-hanif: {label: "Follow the religion (milla) of Abraham the ḥanīf, who was no idolater", cluster: patriarchs}
+  they-ask-you-for-a-ruling: {label: "Form: 'They ask you for a ruling (yastaftūnaka); say: God gives you a ruling'", cluster: law}
+  wife-fears-husbands-aversion: {label: "A wife who fears her husband's aversion may make a settlement with him; settlement is best", cluster: law}
+  impossible-justice-among-wives: {label: "You will never be able to be equally just among wives, however eager", cluster: law}
+  wife-left-suspended: {label: "Do not leave a wife 'suspended' (kal-muʿallaqa), neither married nor free", cluster: law}
+  god-replaces-people: {label: "If God wills he takes you away and brings another people in your place", cluster: theology}
+  witness-even-against-self-and-kin: {label: "Stand firm for justice as witnesses for God even against yourselves, parents and kin, rich or poor", cluster: ethics}
+  articles-of-faith: {label: "Belief in God, his angels, his books, his messengers and the last day", cluster: theology}
+  repeated-apostasy: {label: "Those who believe, then disbelieve, then believe, then disbelieve and increase in disbelief", cluster: theology}
+  deceivers-deceived-by-god: {label: "The hypocrites try to deceive God, but it is he who deceives them", cluster: theology}
+  hypocrites-in-lowest-depth: {label: "The hypocrites are in the lowest depth (al-dark al-asfal) of the fire", cluster: eschatology}
+  evil-speech-only-by-wronged: {label: "God does not love public evil speech except by one who has been wronged", cluster: ethics}
+  believing-some-messengers-not-others: {label: "Those who believe in some messengers and reject others, making distinctions among them", cluster: polemic}
+  book-from-heaven-demanded: {label: "Opponents demand a written book brought down from heaven", cluster: polemic}
+  israel-demands-to-see-god-openly: {label: "Israel demands 'show us God openly' and is seized by the thunderbolt", cluster: exodus}
+  mountain-raised-over-israel: {label: "God raised the Mount (al-Ṭūr) over Israel when taking their covenant", cluster: covenant}
+  enter-the-gate-prostrating: {label: "Israel is told to enter the gate prostrating", cluster: wilderness}
+  god-seals-hearts: {label: "God has set a seal on their hearts for their disbelief", cluster: theology}
+  slander-against-mary: {label: "The Jews' grave slander (buhtān) against Mary", cluster: christology}
+  crucifixion-denied: {label: "They did not kill the Messiah Jesus nor crucify him", cluster: christology}
+  only-a-likeness-crucified: {label: "It was only made to appear so to them (shubbiha lahum)", cluster: christology}
+  jesus-raised-to-god: {label: "God raised Jesus up to himself", cluster: christology}
+  all-people-of-book-believe-before-his-death: {label: "Every one of the People of the Book will believe in him before his (or their) death", cluster: christology}
+  jesus-witness-on-judgment-day: {label: "Jesus will be a witness against the People of the Book on resurrection day", cluster: christology}
+  good-things-forbidden-to-jews-as-punishment: {label: "Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing", cluster: polemic}
+  catalogue-of-prophets: {label: "Catalogue of prophets who received revelation, from Noah to Jesus", cluster: prophecy}
+  psalms-given-to-david: {label: "God gave David the Psalms (zabūr)", cluster: prophecy}
+  god-spoke-directly-to-moses: {label: "God spoke to Moses directly (kallama taklīman)", cluster: prophecy}
+  messengers-not-all-narrated: {label: "Some messengers have been narrated to the Prophet and others not", cluster: prophecy}
+  jesus-word-and-spirit-from-god: {label: "Jesus is God's word cast to Mary and a spirit from him", cluster: christology}
+  say-not-three: {label: "Do not say 'three'; God is only one god (rejection of a triad)", cluster: christology}
+  god-has-no-son: {label: "God is exalted above having a son (walad)", cluster: christology}
+  messiah-not-too-proud-to-be-servant: {label: "The Messiah does not disdain to be a servant of God, nor do the angels brought near", cluster: christology}
+  angels-brought-near: {label: "The angels brought near (al-muqarrabūn) to God", cluster: theology}
+  do-not-exceed-bounds-in-religion: {label: "People of the Book, do not go to excess (lā taghlū) in your religion", cluster: polemic}
+  fulfil-contracts: {label: "Fulfil your contracts and covenants (ʿuqūd)", cluster: law}
+  hunting-forbidden-in-pilgrim-sanctity: {label: "Hunting land game is forbidden while in pilgrim sanctity (iḥrām)", cluster: cult}
+  sacred-month-inviolable: {label: "The sacred month and God's rites must not be profaned", cluster: cult}
+  garlanded-sacrificial-animals: {label: "Sacrificial animals (hady) marked with garlands (qalāʾid) are inviolable", cluster: cult}
+  strangled-beaten-fallen-gored-forbidden: {label: "Forbidden: the strangled, the beaten to death, the fallen and the gored animal", cluster: law}
+  sacrifice-on-stone-altars-forbidden: {label: "What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden; the stones are abomination", cluster: idolatry}
+  divining-arrows-forbidden: {label: "Seeking decisions by divining arrows (azlām) is forbidden", cluster: idolatry}
+  religion-perfected-today: {label: "'Today I have perfected your religion and completed my favor'", cluster: theology}
+  necessity-permits-forbidden-food: {label: "One compelled by hunger may eat forbidden food without inclining to sin", cluster: law}
+  trained-hunting-animals-catch-lawful: {label: "What trained hunting animals (dogs, birds of prey) catch is lawful, with God's name pronounced", cluster: law}
+  gods-name-over-slaughter: {label: "Eat only what God's name was pronounced over; what was slaughtered without it is forbidden", cluster: law}
+  food-of-people-of-book-lawful: {label: "The food of the People of the Book is lawful to believers and theirs to them", cluster: law}
+  marry-chaste-women-of-book: {label: "Believers may marry chaste women of the People of the Book", cluster: law}
+  ablution-before-prayer: {label: "Before prayer wash the face, hands to the elbows, wipe the head and wash feet to the ankles", cluster: purity}
+  hatred-must-not-pervert-justice: {label: "Let not hatred of a people move you to injustice; be just", cluster: ethics}
+  god-restrains-enemies-hands: {label: "God restrained a people who meant to stretch out their hands against the believers", cluster: theology}
+  twelve-chieftains-of-israel: {label: "God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant", cluster: covenant}
+  goodly-loan-to-god: {label: "Lend God a goodly loan (qarḍ ḥasan)", cluster: ethics}
+  forgot-part-of-reminder: {label: "They forgot a portion of what they were reminded of", cluster: polemic}
+  enmity-cast-among-them-till-resurrection: {label: "God cast enmity and hatred among them until the day of resurrection", cluster: polemic}
+  prophet-reveals-hidden-scripture: {label: "The Messenger makes clear much of the scripture they used to hide", cluster: polemic}
+  god-is-the-messiah-rejected: {label: "Those who say 'God is the Messiah son of Mary' have disbelieved", cluster: christology}
+  interval-between-messengers: {label: "A messenger comes after an interval (fatra) without messengers", cluster: prophecy}
+  prophets-and-kings-among-israel: {label: "God set prophets among Israel and made them kings, giving them what he gave no other", cluster: covenant}
+  holy-land-ordained: {label: "Enter the holy land (al-arḍ al-muqaddasa) which God has ordained for you", cluster: conquest}
+  go-you-and-your-lord-and-fight: {label: "The people tell the leader 'go, you and your Lord, and fight; we will sit here'", cluster: wilderness}
+  leader-has-only-himself-and-brother: {label: "Moses: 'I control only myself and my brother; separate us from the rebellious people'", cluster: wilderness}
+  victim-refuses-to-raise-hand: {label: "The threatened brother refuses to raise his hand to kill in return, out of fear of God", cluster: primeval}
+  murderer-bears-victims-sin: {label: "The victim wishes the murderer to bear both the victim's sin and his own", cluster: primeval}
+  raven-teaches-burial: {label: "God sends a raven scratching the earth to show how to hide a brother's corpse", cluster: primeval}
+  killing-one-as-killing-all: {label: "Whoever kills one soul is as if he killed all humanity; whoever saves one, as if he saved all", cluster: law}
+  waging-war-on-god-penalty: {label: "Those who wage war on God and spread corruption: killed, crucified, hands and feet cut off on opposite sides, or exiled", cluster: law}
+  repentance-before-capture-pardons: {label: "Those who repent before they are overpowered are pardoned", cluster: law}
+  seek-means-of-approach: {label: "Seek a means of approach (al-wasīla) to God", cluster: theology}
+  earth-and-its-like-no-ransom: {label: "Even if they had all on earth and as much again, it would not ransom them from the punishment", cluster: eschatology}
+  amputation-for-theft: {label: "Cut off the hands of the male and female thief as recompense", cluster: law}
+  judgment-sought-despite-torah: {label: "Why do they seek the Prophet's judgment when they have the Torah with God's judgment?", cluster: polemic}
+  devourers-of-illicit-gain: {label: "Eaters of illicit gain (suḥt), listeners to lies", cluster: ethics}
+  torah-guidance-and-light: {label: "The Torah contains guidance and light", cluster: prophecy}
+  rabbis-and-scholars-guard-the-book: {label: "The prophets, rabbis (rabbāniyyūn) and scholars (aḥbār) judged by the Torah they were entrusted to guard", cluster: polemic}
+  remitting-retaliation-is-expiation: {label: "Whoever remits retaliation as charity, it is expiation for him", cluster: law}
+  gospel-confirms-torah: {label: "Jesus was given the Gospel (Injīl), confirming the Torah before it", cluster: christology}
+  quran-guardian-over-scriptures: {label: "The book confirms the scripture before it and is a guardian (muhaymin) over it", cluster: prophecy}
+  each-community-its-own-law: {label: "For each community God made a law (shirʿa) and a way; had he willed he would have made one nation", cluster: theology}
+  judgment-of-ignorance: {label: "Do they seek the judgment of the Age of Ignorance (jāhiliyya)?", cluster: polemic}
+  no-alliance-with-jews-and-christians: {label: "Do not take Jews and Christians (or mockers of your religion) as allies", cluster: polemic}
+  mutual-love-god-and-people: {label: "A people whom God loves and who love him", cluster: theology}
+  call-to-prayer-mocked: {label: "When you call to prayer they take it as mockery and play", cluster: polemic}
+  leaders-fail-to-forbid-sin: {label: "Rabbis and scholars (or the community) do not forbid one another the wrong they do", cluster: polemic}
+  gods-hand-fettered-claim: {label: "Jews quoted as saying 'God's hand is fettered'; rather both his hands are outspread", cluster: polemic}
+  god-extinguishes-fires-of-war: {label: "Whenever they kindle the fire of war, God extinguishes it", cluster: warfare}
+  eat-from-above-and-below: {label: "Had they observed the Torah and Gospel they would have eaten from above them and beneath their feet", cluster: covenant}
+  prophet-must-deliver-message: {label: "The Messenger's duty is only to deliver the message clearly (al-balāgh)", cluster: prophecy}
+  believers-jews-sabians-christians-saved: {label: "Believers, Jews, Sabians and Christians who believe in God and the last day and do good need not fear", cluster: theology}
+  jesus-says-my-lord-and-your-lord: {label: "Jesus says 'worship God, my Lord and your Lord'", cluster: christology}
+  jesus-and-mother-ate-food: {label: "The Messiah and his mother both ate food (proof of their humanity)", cluster: christology}
+  mary-the-truthful: {label: "Mary called truthful (ṣiddīqa)", cluster: christology}
+  idols-neither-harm-nor-benefit: {label: "Worshipping what can neither harm nor benefit you", cluster: idolatry}
+  cursed-by-tongue-of-david-and-jesus: {label: "The unbelievers of Israel were cursed by the tongue of David and of Jesus son of Mary", cluster: polemic}
+  christians-nearest-in-affection: {label: "Christians are nearest in affection to the believers because they have priests and monks and are not proud", cluster: polemic}
+  converts-weep-at-revelation: {label: "Hearing the revelation, their eyes overflow with tears at the truth they recognize", cluster: prophecy}
+  do-not-forbid-good-things: {label: "Do not forbid the good things God has made lawful (against self-imposed abstinence)", cluster: law}
+  oath-expiation-feed-ten: {label: "Expiation for a broken oath: feed or clothe ten poor, free a slave, or fast three days", cluster: law}
+  wine-and-gambling-satans-work: {label: "Wine, gambling, stone altars and divining arrows are abomination of Satan's work", cluster: law}
+  game-penalty-equivalent-livestock: {label: "Killing game in iḥrām is compensated by an equivalent domestic animal judged by two just men and brought to the Kaʿba", cluster: cult}
+  sea-game-lawful: {label: "Game of the sea and its food are lawful, also for travellers", cluster: law}
+  kaaba-sustains-people: {label: "God made the Kaʿba, the sacred house, a support (qiyām) for people", cluster: cult}
+  do-not-ask-about-things: {label: "Do not ask about things which, if made plain, would trouble you; a people before you asked and disbelieved", cluster: wisdom}
+  pagan-dedicated-camels: {label: "God did not institute the baḥīra, sāʾiba, waṣīla or ḥām (camels set free by pagan dedication)", cluster: idolatry}
+  ancestral-custom-defended: {label: "Unbelievers reply: 'Enough for us is what we found our fathers doing'", cluster: polemic}
+  tend-your-own-souls: {label: "Look after your own souls; whoever strays cannot harm you if you are guided", cluster: ethics}
+  deathbed-bequest-witnesses: {label: "Two just witnesses attend a bequest at death; on a journey two outsiders may serve", cluster: law}
+  witnesses-detained-after-prayer-swear: {label: "Doubted witnesses are detained after prayer and swear by God they will not sell their testimony", cluster: law}
+  false-witnesses-replaced-by-heirs: {label: "If the witnesses are found guilty, two of the wronged heirs swear in their place", cluster: law}
+  messengers-asked-what-response: {label: "God gathers the messengers and asks what response they received; they say 'we have no knowledge'", cluster: eschatology}
+  healing-blind-and-leper: {label: "Jesus heals the blind (akmah) and the leper by God's leave", cluster: christology}
+  jesus-raises-the-dead: {label: "Jesus brings forth the dead by God's leave", cluster: christology}
+  miracles-called-sorcery: {label: "Unbelievers call the prophet's clear signs 'nothing but manifest sorcery'", cluster: prophecy}
+  disciples-declare-submission: {label: "The disciples (ḥawāriyyūn) declare 'we believe; bear witness that we submit (muslimūn)'", cluster: christology}
+  table-sent-down-from-heaven: {label: "At the disciples' request Jesus prays and God sends down a table (māʾida) from heaven", cluster: christology}
+  table-as-festival: {label: "The heavenly table is to be a festival (ʿīd) for the first and last of them and a sign", cluster: christology}
+  disbelief-after-sign-punished-uniquely: {label: "Whoever disbelieves after the sign will be punished as no one else in the worlds", cluster: eschatology}
+  jesus-denies-claiming-divinity: {label: "At judgment Jesus denies telling people to take him and his mother as gods", cluster: christology}
+  mary-taken-as-god: {label: "Polemic against taking Mary, with Jesus, as gods besides God", cluster: christology}
+  jesus-commits-followers-to-god: {label: "Jesus: 'If you punish them they are your servants; if you forgive them, you are the Mighty, the Wise'", cluster: christology}
+  mutual-good-pleasure: {label: "God is pleased with them and they with him (raḍiya llāhu ʿanhum wa-raḍū ʿanhu)", cluster: eschatology}
+  god-made-darkness-and-light: {label: "Praise God who created heaven and earth and made the darknesses and the light", cluster: creation}
+  two-appointed-terms: {label: "God decreed a term (ajal) for each person, and another term named with him", cluster: theology}
+  generations-destroyed-despite-prosperity: {label: "God destroyed earlier generations though he had established them more firmly and given them rain and rivers", cluster: judgment}
+  book-on-parchment-would-be-called-magic: {label: "Even a book on parchment they could touch would be called magic", cluster: polemic}
+  demand-for-angel-messenger: {label: "They ask why an angel is not sent down with the Prophet", cluster: polemic}
+  angel-sent-would-appear-as-man: {label: "Had God sent an angel he would have made him a man", cluster: theology}
+  mockers-overtaken-by-their-mockery: {label: "Earlier messengers were mocked, and what the mockers mocked surrounded them", cluster: judgment}
+  god-wrote-mercy-on-himself: {label: "God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)", cluster: theology}
+  god-feeds-and-is-not-fed: {label: "God feeds and is not fed", cluster: theology}
+  first-to-submit: {label: "The Prophet is commanded to be the first of those who submit (awwal al-muslimīn)", cluster: prophecy}
+  people-of-book-know-him-as-sons: {label: "Those given the book know it (him) as they know their own sons", cluster: polemic}
+  where-are-your-partners: {label: "At the gathering God asks the idolaters: 'Where are your partners whom you claimed?'", cluster: eschatology}
+  idolaters-deny-idolatry-at-judgment: {label: "The idolaters swear 'by God our Lord, we were not idolaters'", cluster: eschatology}
+  legends-of-the-ancients: {label: "Unbelievers dismiss the revelation as 'legends of the ancients' (asāṭīr al-awwalīn)", cluster: polemic}
+  damned-wish-to-return: {label: "Standing before the fire the damned wish to be sent back; were they sent back they would return to sin", cluster: eschatology}
+  burdens-borne-on-backs: {label: "On the day of the Hour they carry their burdens (awzār) on their backs", cluster: eschatology}
+  worldly-life-play-and-diversion: {label: "The life of this world is only play and diversion; the last abode is better", cluster: wisdom}
+  denial-of-resurrection: {label: "Unbelievers say there is only this worldly life and no raising", cluster: polemic}
+  earlier-messengers-denied-and-patient: {label: "The Prophet is consoled: messengers before him were denied and patient until help came", cluster: prophecy}
+  no-changer-of-gods-words: {label: "None can change the words of God", cluster: theology}
+  tunnel-in-earth-or-ladder-to-sky: {label: "If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...", cluster: prophecy}
+  animals-are-communities-like-you: {label: "Every beast on earth and bird flying with its wings are communities (umam) like you, gathered to their Lord", cluster: creation}
+  nothing-omitted-from-the-book: {label: "We have neglected nothing in the Book", cluster: theology}
+  distress-prayer-then-forget: {label: "In distress they call on God alone, then forget and return to associating partners", cluster: theology}
+  prosperity-before-sudden-seizure: {label: "God opened the gates of everything to them, and when they rejoiced he seized them suddenly", cluster: judgment}
+  prophet-disclaims-treasures-unseen-angelhood: {label: "The Prophet says: I do not have God's treasuries, nor know the unseen, nor am I an angel", cluster: prophecy}
+  do-not-drive-away-poor-believers: {label: "Do not drive away those who call on their Lord morning and evening seeking his face", cluster: ethics}
+  keys-of-the-unseen: {label: "With God are the keys of the unseen (mafātiḥ al-ghayb); none knows them but he", cluster: theology}
+  no-leaf-falls-unknown: {label: "Not a leaf falls but he knows it, nor a grain in the darkness of the earth", cluster: theology}
+  everything-in-a-clear-book: {label: "Nothing wet or dry but is in a clear book", cluster: theology}
+  sleep-as-nightly-death: {label: "God takes your souls by night (sleep) and raises you by day until the appointed term", cluster: afterlife}
+  guardian-angels-sent: {label: "God sends guardians (ḥafaẓa) over people", cluster: theology}
+  punishment-from-above-or-below: {label: "God can send punishment from above you or from beneath your feet, or split you into factions", cluster: judgment}
+  divided-into-sects: {label: "Those who divide their religion and become sects (shiyaʿ)", cluster: polemic}
+  avoid-those-who-mock-revelation: {label: "Do not sit with those who plunge into mockery of God's signs until they change the subject", cluster: ethics}
+  boiling-drink-of-the-damned: {label: "The damned drink boiling water (ḥamīm)", cluster: eschatology}
+  bewildered-man-lured-by-devils: {label: "Parable: one lured by devils, bewildered in the land, while companions call him to guidance", cluster: wisdom}
+  father-named-azar: {label: "Abraham's father is named Āzar", cluster: patriarchs}
+  abraham-shown-kingdom-of-heavens: {label: "God showed Abraham the kingdom (malakūt) of the heavens and the earth", cluster: patriarchs}
+  setting-bodies-not-gods: {label: "Abraham: 'I do not love things that set' (lā uḥibbu l-āfilīn)", cluster: patriarchs}
+  abraham-disputes-with-his-people: {label: "Abraham's people dispute with him; he fears none of their gods", cluster: patriarchs}
+  which-party-deserves-security: {label: "Which of the two parties has more right to security? Those who believe without mixing in wrong", cluster: theology}
+  prophet-asks-no-wage: {label: "The Prophet asks no wage for the message", cluster: prophecy}
+  god-sent-nothing-to-humans-claim: {label: "Opponents say 'God has sent down nothing to any human'", cluster: polemic}
+  torah-written-on-sheets-partly-hidden: {label: "They make Moses' book into sheets (qarāṭīs), showing some and hiding much", cluster: polemic}
+  mother-of-towns: {label: "Mecca as the mother of towns (umm al-qurā)", cluster: geography}
+  false-claim-of-revelation: {label: "None more wrong than one who falsely claims revelation or says he can send down the like of God's", cluster: prophecy}
+  intercessors-abandon-at-judgment: {label: "The intercessors they claimed as partners are not seen with them; ties are cut", cluster: eschatology}
+  splitter-of-grain-and-date-stone: {label: "God splits the grain and the date-stone", cluster: creation}
+  living-from-dead-dead-from-living: {label: "God brings the living from the dead and the dead from the living", cluster: creation}
+  splitter-of-dawn: {label: "God is the splitter of the dawn (fāliq al-iṣbāḥ); night for rest", cluster: creation}
+  stars-for-navigation: {label: "God made the stars for guidance in the darknesses of land and sea", cluster: cosmology}
+  lodging-and-repository: {label: "Humans have a lodging place and a repository (mustaqarr wa-mustawdaʿ)", cluster: creation}
+  rain-brings-forth-every-plant: {label: "Rain brings forth vegetation: clustered grain, hanging date clusters, vineyards, olives and pomegranates", cluster: creation}
+  jinn-made-partners: {label: "They made the jinn partners of God, though he created them", cluster: idolatry}
+  god-without-consort: {label: "How can he have a child when he has no consort (ṣāḥiba)?", cluster: christology}
+  vision-cannot-grasp-god: {label: "Vision does not grasp him, but he grasps all vision", cluster: theology}
+  prophet-accused-of-study: {label: "Opponents say to the Prophet 'you have studied' (darasta)", cluster: polemic}
+  do-not-revile-others-gods: {label: "Do not revile those they invoke besides God, lest they revile God in ignorance", cluster: ethics}
+  sworn-to-believe-if-sign-comes: {label: "They swear solemnly they would believe if a sign came", cluster: polemic}
+  even-dead-speaking-would-not-convince: {label: "Even if angels came down and the dead spoke to them, they would not believe", cluster: polemic}
+  devils-of-men-and-jinn-inspire: {label: "Every prophet has enemies: devils of humans and jinn inspiring one another with gilded speech", cluster: theology}
+  majority-follow-conjecture: {label: "Most on earth follow only conjecture (ẓann) and guess", cluster: wisdom}
+  dead-man-given-light-to-walk: {label: "Parable: one who was dead whom God revived and gave a light to walk among people", cluster: wisdom}
+  great-criminals-in-every-town: {label: "In every town God placed its great criminals to plot there", cluster: judgment}
+  god-knows-where-to-place-message: {label: "God knows best where to place his message", cluster: prophecy}
+  breast-opened-or-constricted: {label: "God opens the breast of the guided to Islam; the astray's breast is tight, as if climbing into the sky", cluster: theology}
+  abode-of-peace: {label: "Paradise as the abode of peace (dār al-salām)", cluster: eschatology}
+  jinn-and-humans-enjoyed-each-other: {label: "Jinn led many humans astray; their human allies say 'we profited from one another'", cluster: eschatology}
+  messengers-from-jinn-and-humans: {label: "Messengers came to both jinn and humans 'from among you'", cluster: prophecy}
+  portion-for-god-and-for-idols: {label: "Pagans assign a portion of crops and cattle to God and a portion to their partners", cluster: idolatry}
+  taboo-crops-and-cattle: {label: "Pagans declare certain cattle and crops taboo (ḥijr), to be eaten only by whom they will", cluster: idolatry}
+  cattle-with-forbidden-backs: {label: "Pagans set apart cattle whose backs may not be ridden or burdened", cluster: idolatry}
+  womb-contents-reserved-for-males: {label: "Pagans reserve what is in the wombs of cattle for males, forbidden to wives unless stillborn", cluster: idolatry}
+  harvest-due-on-reaping-day: {label: "Give its due on the day of harvest", cluster: law}
+  no-wastefulness: {label: "Do not be wasteful; God does not love the wasteful (musrifīn)", cluster: ethics}
+  eight-pairs-of-livestock: {label: "Eight in pairs: sheep, goats, camels and cattle, male and female; which did God forbid?", cluster: law}
+  only-four-food-prohibitions: {label: "Nothing revealed is forbidden to eat except carrion, poured-out blood, swine and what is dedicated to other than God", cluster: law}
+  jewish-prohibition-claws-and-fat: {label: "For the Jews God forbade every animal with claws/undivided hoof and the fat of cattle and sheep except on backs, entrails or bone", cluster: law}
+  fatalist-excuse: {label: "Idolaters say 'had God willed we would not have associated partners nor forbidden anything'", cluster: polemic}
+  commandments-recited: {label: "List of commandments introduced 'Come, I will recite what your Lord has forbidden you'", cluster: law}
+  infanticide-for-poverty-forbidden: {label: "Do not kill your children for fear of poverty: God provides for you and them", cluster: law}
+  no-burden-beyond-capacity: {label: "God does not burden a soul beyond its capacity", cluster: theology}
+  straight-path-not-other-ways: {label: "This is my straight path; follow it and not other ways that scatter you", cluster: ethics}
+  torah-complete-and-detailed: {label: "God gave Moses the book complete and detailing everything", cluster: prophecy}
+  scripture-sent-to-two-groups: {label: "Lest you say scripture was sent only to two groups before us", cluster: polemic}
+  faith-useless-when-signs-come: {label: "On the day some of the signs come, faith not believed before will not avail", cluster: eschatology}
+  life-and-death-for-god: {label: "My prayer, my rites, my living and my dying are for God, Lord of the worlds", cluster: liturgy}
+  vicegerents-of-the-earth: {label: "God made you successors (khalāʾif) on the earth and raised some above others in rank to test you", cluster: theology}
+units:
+  - id: quran-4-creation-kinship-orphans
+    tradition: islam
+    title: One soul, the wombs, orphans' property and the bride-gift
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:1-10"]
+    tags:
+      - {motif: humanity-from-single-soul, refs: ["4:1"]}
+      - {motif: woman-from-rib, refs: ["4:1"], note: "wa-khalaqa minhā zawjahā, 'and created from it its mate'; no rib or sleep is named"}
+      - {motif: fear-god-and-the-wombs, refs: ["4:1"]}
+      - {motif: orphan-property-guardianship, refs: ["4:2", "4:6"], note: "test them until they reach marriage age; if mature, hand over before witnesses; the poor guardian may eat 'reasonably'"}
+      - {motif: polygyny-up-to-four, refs: ["4:3"], note: "two, three or four; or one, or what your right hands possess"}
+      - {motif: bride-gift-to-the-woman, refs: ["4:4"], note: "ṣaduqāt as a free gift (niḥla), paid to the woman, not the father"}
+      - {motif: seducer-must-marry-or-pay-bride-price, refs: ["4:4"], note: "contrast: in Exod 22:16 the mohar goes to the father"}
+      - {motif: property-withheld-from-incompetent, refs: ["4:5"]}
+      - {motif: women-share-in-inheritance, refs: ["4:7"]}
+      - {motif: poor-relatives-given-from-estate, refs: ["4:8"]}
+      - {motif: devouring-orphans-property-eats-fire, refs: ["4:10"]}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["4:2", "4:9", "4:10"], note: "care for the weak offspring one leaves behind"}
+    hints:
+      - "4:1 'created from it its mate' is the Quran's Eve-from-Adam; compare Gen 2:21-22 and Gen Rabbah 17-18."
+      - "Bride-gift to the woman herself vs. the mohar paid to the father (Exod 22:15-16; Gen 34:12) and the rabbinic ketubbah."
+  - id: quran-4-inheritance-shares
+    tradition: islam
+    title: The fixed shares of inheritance
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:11-14"]
+    tags:
+      - {motif: order-of-inheritance, refs: ["4:11", "4:12"], note: "children, parents, spouses, then siblings; contrast Num 27:8-11 where spouses and parents do not inherit"}
+      - {motif: male-double-share-of-female, refs: ["4:11"]}
+      - {motif: daughters-inherit, refs: ["4:11"], note: "daughters inherit even alongside sons: two-thirds for more than two, half for one"}
+      - {motif: fixed-fractional-shares, refs: ["4:11", "4:12"]}
+      - {motif: spouses-inherit-from-each-other, refs: ["4:12"]}
+      - {motif: kalala-inheritance, refs: ["4:12"], note: "uterine siblings take a sixth each, sharing a third if more"}
+      - {motif: bequest-and-debt-before-shares, refs: ["4:11", "4:12"]}
+      - {motif: bounds-of-god-hudud, refs: ["4:13", "4:14"]}
+      - {motif: gardens-with-rivers-beneath, refs: ["4:13"]}
+    hints:
+      - "Compare the daughters of Zelophehad (Num 27; 36) and Mishnah Bava Batra 8 on order of heirs; the rabbinic husband inherits his wife, the wife does not inherit (Quran gives both)."
+      - "Compare Job 42:15, where Job's daughters inherit among their brothers."
+  - id: quran-4-indecency-repentance
+    tradition: islam
+    title: Indecency, four witnesses, and the limits of repentance
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:15-18"]
+    tags:
+      - {motif: four-witnesses-for-indecency, refs: ["4:15"]}
+      - {motif: two-witnesses-for-capital-case, refs: ["4:15"], note: "Quran raises the number to four for fāḥisha"}
+      - {motif: adulteress-confined-to-house, refs: ["4:15"], note: "until death takes them or God makes for them a way (sabīl)"}
+      - {motif: offenders-released-on-repentance, refs: ["4:16"], note: "'the two of you who commit it': punish both, release if they repent"}
+      - {motif: repentance-for-sin-in-ignorance, refs: ["4:17"]}
+      - {motif: deathbed-repentance-rejected, refs: ["4:18"], note: "'I repent now' at death's approach is not accepted"}
+    hints:
+      - "Contrast m. Avot 2:10 'repent one day before your death' and m. Sanh. 6:2 confession at execution; Wisdom of Solomon and Pharaoh's last-minute faith (Quran 10:90-91)."
+  - id: quran-4-marriage-forbidden-degrees
+    tradition: islam
+    title: Inheriting women, the dowry, and the forbidden degrees
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:19-28"]
+    tags:
+      - {motif: inheriting-women-forbidden, refs: ["4:19"]}
+      - {motif: levirate-marriage, refs: ["4:19"], note: "inverse: a dead man's wife may not be inherited against her will (an-tarithū l-nisāʾa karhan)"}
+      - {motif: dowry-not-taken-back, refs: ["4:20", "4:21"], note: "'they took from you a firm covenant' (mīthāq ghalīẓ); even a qinṭār (heap of gold)"}
+      - {motif: no-marrying-fathers-wife, refs: ["4:22"], note: "'except what is past'"}
+      - {motif: incest-prohibitions-list, refs: ["4:23"], note: "mothers, daughters, sisters, paternal and maternal aunts, nieces, mothers-in-law, stepdaughters in your care, sons' wives"}
+      - {motif: milk-kinship-bars-marriage, refs: ["4:23"]}
+      - {motif: two-sisters-forbidden-as-rival-wives, refs: ["4:23"], note: "'that you combine two sisters, except what is past'; forbidden outright, not only as rivals"}
+      - {motif: married-women-forbidden-except-captives, refs: ["4:24"]}
+      - {motif: bride-gift-to-the-woman, refs: ["4:24", "4:25"], note: "ujūrahunna farīḍatan; 4:24 'what you enjoy (istamtaʿtum)' later read as mutʿa"}
+      - {motif: marriage-to-believing-slave-women, refs: ["4:25"]}
+      - {motif: slave-woman-half-penalty, refs: ["4:25"]}
+      - {motif: betrothed-slave-woman-case, refs: ["4:25"], note: "both laws reduce the penalty because the woman is unfree (Lev 19:20)"}
+      - {motif: human-created-weak, refs: ["4:28"]}
+    hints:
+      - "4:23 'except what is past' (illā mā qad salaf) on two sisters invites Jacob, Leah and Rachel (Gen 29); rabbinic discussion of the patriarchs before Sinai."
+      - "Compare Lev 18 and 20 and the rabbinic extension to milk-kinship (absent in Judaism; present in Islam)."
+  - id: quran-4-wealth-household
+    tradition: islam
+    title: Wealth by consent, major sins, and discord in marriage
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:29-35"]
+    tags:
+      - {motif: consuming-wealth-falsely-forbidden, refs: ["4:29"]}
+      - {motif: do-not-kill-yourselves, refs: ["4:29"]}
+      - {motif: major-sins-avoided-minor-expiated, refs: ["4:31"]}
+      - {motif: covet-prohibition, refs: ["4:32"], note: "do not covet (lā tatamannaw) what God preferred some with; ask God of his bounty"}
+      - {motif: sworn-allies-inherit, refs: ["4:33"]}
+      - {motif: men-maintainers-of-women, refs: ["4:34"]}
+      - {motif: rebellious-wife-admonished-separated-struck, refs: ["4:34"]}
+      - {motif: family-arbiters-in-marital-discord, refs: ["4:35"], note: "ḥakam from his people and ḥakam from hers"}
+    hints:
+      - "Rabbinic categories of grave vs. light commandments (ḥamurot / qalot) and the three cardinal sins, cf. 'kabāʾir'."
+  - id: quran-4-kindness-misers-atom
+    tradition: islam
+    title: The circle of kindness, misers, and the atom's weight
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:36-42"]
+    tags:
+      - {motif: honor-parents-long-life, refs: ["4:36"], note: "worship God alone and be good to parents"}
+      - {motif: neighbor-near-and-far, refs: ["4:36"]}
+      - {motif: love-neighbor-as-yourself, refs: ["4:36"], note: "the neighbor-who-is-kin and the stranger-neighbor (al-jār al-junub)"}
+      - {motif: misers-conceal-gods-bounty, refs: ["4:37"]}
+      - {motif: deeds-done-for-show, refs: ["4:38"], note: "spending riʾāʾa l-nās"}
+      - {motif: satan-as-companion, refs: ["4:38"]}
+      - {motif: atoms-weight-of-justice, refs: ["4:40"]}
+      - {motif: good-deeds-multiplied, refs: ["4:40"]}
+      - {motif: witness-from-every-nation, refs: ["4:41"]}
+      - {motif: wish-earth-leveled-over-them, refs: ["4:42"]}
+      - {motif: mountains-cover-us, refs: ["4:42"], note: "law tusawwā bihimu l-arḍ; compare Hos 10:8"}
+    hints:
+      - "4:38 giving to be seen: compare Matt 6:1-4."
+      - "4:42 compare Hos 10:8, Luke 23:30 and Rev 6:16 (mountains, fall on us)."
+  - id: quran-4-prayer-intoxication-purity
+    tradition: islam
+    title: Prayer not while drunk; bathing and dry ablution
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:43"]
+    tags:
+      - {motif: no-prayer-while-drunk, refs: ["4:43"]}
+      - {motif: priests-forbidden-wine-in-sanctuary, refs: ["4:43"], note: "the priestly rule (Lev 10:9) here applied to every worshipper's prayer"}
+      - {motif: major-impurity-bath-before-prayer, refs: ["4:43"]}
+      - {motif: seminal-emission-impurity-until-evening, refs: ["4:43"], note: "junub; 'or you have touched women' (lāmastum)"}
+      - {motif: dry-ablution-with-earth, refs: ["4:43"]}
+    hints:
+      - "b. Berakhot 15a: one without water wipes his hands with earth or a pebble before prayer; and m. Berakhot on not praying drunk (b. Eruvin 64a)."
+  - id: quran-4-people-of-book-distortion
+    tradition: islam
+    title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:44-57"]
+    tags:
+      - {motif: scripture-words-shifted, refs: ["4:46"]}
+      - {motif: we-hear-and-disobey, refs: ["4:46"]}
+      - {motif: people-accept-covenant-we-will-do, refs: ["4:46"], note: "parodied: 'we hear and we disobey' instead of 'we hear and we obey'"}
+      - {motif: ambiguous-address-raina, refs: ["4:46"], note: "rāʿinā vs. unẓurnā; 'hear, may you not be made to hear'"}
+      - {motif: faces-obliterated-turned-backward, refs: ["4:47"]}
+      - {motif: sabbath-breakers-cursed-transformed, refs: ["4:47"]}
+      - {motif: idolatry-unforgivable, refs: ["4:48"]}
+      - {motif: self-praise-of-purity-rebuked, refs: ["4:49"]}
+      - {motif: tiny-measures-fatil-naqir, refs: ["4:49", "4:53"]}
+      - {motif: jibt-and-taghut, refs: ["4:51"]}
+      - {motif: abraham-family-given-book-and-kingdom, refs: ["4:54"]}
+      - {motif: skins-renewed-in-fire, refs: ["4:56"]}
+      - {motif: gardens-with-rivers-beneath, refs: ["4:57"]}
+      - {motif: purified-spouses-in-paradise, refs: ["4:57"]}
+      - {motif: deep-shade-of-paradise, refs: ["4:57"]}
+    hints:
+      - "Exod 24:7 na'aseh ve-nishma; b. Shabbat 88a-b and the Aramaic/Hebrew pun shamaʿnu ve-ʿaṣinu (Targum/rabbinic 'we heard and rebelled', cf. Deut 5:24)."
+      - "4:56 renewed skins: compare later Jewish and Christian hell-tours (Apocalypse of Peter) on perpetual torment of the body."
+  - id: quran-4-trusts-obedience
+    tradition: islam
+    title: Trusts, obedience to authority, and the hypocrites who seek other judges
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:58-70"]
+    tags:
+      - {motif: return-trusts-to-owners, refs: ["4:58"]}
+      - {motif: obey-god-messenger-and-authority, refs: ["4:59"]}
+      - {motif: jibt-and-taghut, refs: ["4:60"], note: "they wish to seek judgment from al-ṭāghūt"}
+      - {motif: prophet-intercedes-for-people, refs: ["4:64"], note: "had they come and the Messenger asked forgiveness for them"}
+      - {motif: kill-yourselves-test-command, refs: ["4:66"]}
+      - {motif: levites-kill-idolaters-kin, refs: ["4:66"], note: "uqtulū anfusakum echoes the calf episode (cf. Quran 2:54, Exod 32:27)"}
+      - {motif: four-ranks-of-the-blessed, refs: ["4:69"]}
+    hints:
+      - "4:66 'kill yourselves' is the Quranic reading of Exod 32:26-29; compare Targum and midrash on the Levites' slaughter."
+  - id: quran-4-fighting-and-death
+    tradition: islam
+    title: Fighting for the oppressed; death in lofty towers
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:71-87"]
+    tags:
+      - {motif: laggard-rejoices-at-missing-battle, refs: ["4:72", "4:73"]}
+      - {motif: fight-for-the-oppressed, refs: ["4:75"]}
+      - {motif: satans-plot-is-weak, refs: ["4:76"]}
+      - {motif: tiny-measures-fatil-naqir, refs: ["4:77"]}
+      - {motif: death-reaches-even-lofty-towers, refs: ["4:78"]}
+      - {motif: good-from-god-evil-from-self, refs: ["4:78", "4:79"]}
+      - {motif: god-creates-light-and-darkness-peace-and-evil, refs: ["4:78"], note: "'say: all is from God' (qul kullun min ʿindi llāh)"}
+      - {motif: quran-without-contradiction, refs: ["4:82"]}
+      - {motif: good-and-bad-intercession, refs: ["4:85"]}
+      - {motif: return-greeting-with-better, refs: ["4:86"]}
+    hints:
+      - "4:78 compare Amos 9:2-3 and Obad 4 (though you build high, I will bring you down) and the 'appointment in Samarra' tale (b. Sukkah 53a, the two scribes of Solomon)."
+  - id: quran-4-hypocrites-two-factions
+    tradition: islam
+    title: The hypocrites, deserters and those who offer peace
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:88-91"]
+    tags:
+      - {motif: hypocrites-split-the-believers, refs: ["4:88"]}
+      - {motif: neutral-and-treaty-folk-not-fought, refs: ["4:90", "4:91"]}
+      - {motif: peace-offer-before-war, refs: ["4:90"], note: "inverse: those who 'cast you peace (al-salam)' and withdraw may not be fought"}
+  - id: quran-4-homicide-law
+    tradition: islam
+    title: Accidental and deliberate killing of a believer
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:92-94"]
+    tags:
+      - {motif: manslaughter-blood-money-and-freed-slave, refs: ["4:92"]}
+      - {motif: city-of-refuge-accidental-killer, refs: ["4:92"], note: "same distinction of khaṭaʾ (unintentional) killing, but redressed by diya and freeing a slave, not asylum"}
+      - {motif: expiation-by-two-months-fast, refs: ["4:92"]}
+      - {motif: murder-vs-manslaughter-by-weapon, refs: ["4:92", "4:93"], note: "khaṭaʾan vs. mutaʿammidan"}
+      - {motif: deliberate-murderer-in-hell-forever, refs: ["4:93"]}
+      - {motif: do-not-deny-faith-of-one-who-greets, refs: ["4:94"]}
+    hints:
+      - "Num 35 and Deut 19 (refuge) vs. ancient Near Eastern composition payments (Hittite laws, Middle Assyrian) that the Quranic diya resembles."
+  - id: quran-4-strivers-emigration
+    tradition: islam
+    title: Those who strive and those who sit; the angels' question at death
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:95-100"]
+    tags:
+      - {motif: strivers-above-those-who-sit, refs: ["4:95", "4:96"]}
+      - {motif: disabled-exempt-from-fighting, refs: ["4:95"]}
+      - {motif: military-exemptions-house-vineyard-bride, refs: ["4:95"], note: "a different exemption: 'except those with disability'"}
+      - {motif: angels-take-souls-at-death, refs: ["4:97"]}
+      - {motif: angels-question-souls-at-death, refs: ["4:97"], note: "fīma kuntum? 'we were oppressed in the land'"}
+      - {motif: gods-earth-is-wide-emigrate, refs: ["4:97", "4:100"]}
+      - {motif: emigrant-dying-on-way-rewarded, refs: ["4:100"]}
+    hints:
+      - "Num 32:6 'shall your brothers go to war while you sit here?' (ha-aḥeikhem yavo'u la-milḥamah ve-attem teshvu poh)."
+      - "Angels questioning the dead: later Munkar and Nakir; cf. rabbinic ḥibbut ha-qever and the angel Dumah."
+  - id: quran-4-prayer-of-fear
+    tradition: islam
+    title: Shortened prayer and prayer in shifts under arms
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:101-104"]
+    tags:
+      - {motif: prayer-shortened-on-journey, refs: ["4:101"]}
+      - {motif: prayer-in-shifts-under-arms, refs: ["4:102"], note: "weapons may be laid aside in rain or sickness"}
+      - {motif: remember-god-standing-sitting-lying, refs: ["4:103"]}
+      - {motif: prayer-at-fixed-times, refs: ["4:103"]}
+      - {motif: enemy-suffers-as-you-suffer, refs: ["4:104"]}
+    hints:
+      - "Neh 4:11-17 (builders with one hand on the work and a weapon in the other, half standing guard)."
+      - "4:103 compare Deut 6:7 'when you sit, walk, lie down and rise' (the Shema)."
+  - id: quran-4-false-accusation
+    tradition: islam
+    title: Guilt cast on the innocent and the Prophet who must not defend traitors
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:105-115"]
+    tags:
+      - {motif: prophet-must-not-plead-for-traitors, refs: ["4:105", "4:107", "4:109"]}
+      - {motif: god-present-at-night-plotting, refs: ["4:108"]}
+      - {motif: individual-responsibility-for-sin, refs: ["4:111"]}
+      - {motif: guilt-cast-on-innocent, refs: ["4:112"]}
+      - {motif: false-witness-suffers-intended-penalty, refs: ["4:112"], note: "the accuser 'carries' the slander (iḥtamala buhtānan)"}
+      - {motif: secret-counsel-najwa, refs: ["4:114"]}
+    hints:
+      - "Tradition ties 4:105-112 to a theft blamed on a Jew (Ṭuʿma b. Ubayriq): a Quranic case of a Muslim court exonerating a Jew."
+  - id: quran-4-satan-vows-share
+    tradition: islam
+    title: Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:116-126"]
+    tags:
+      - {motif: idolatry-unforgivable, refs: ["4:116"]}
+      - {motif: idolaters-invoke-females, refs: ["4:117"], note: "illā ināthan"}
+      - {motif: queen-of-heaven-cult, refs: ["4:117"], note: "worship of female deities (traditionally al-Lāt, al-ʿUzzā, Manāt)"}
+      - {motif: satan-vows-appointed-share, refs: ["4:118"]}
+      - {motif: slitting-cattle-ears, refs: ["4:119"]}
+      - {motif: altering-gods-creation, refs: ["4:119"]}
+      - {motif: not-by-wishful-thinking, refs: ["4:123"]}
+      - {motif: tiny-measures-fatil-naqir, refs: ["4:124"]}
+      - {motif: reward-for-male-or-female, refs: ["4:124"]}
+      - {motif: religion-of-abraham-hanif, refs: ["4:125"]}
+      - {motif: abraham-friend-of-god, refs: ["4:125"], note: "ittakhadha llāhu ibrāhīma khalīlan; cf. Isa 41:8, 2 Chr 20:7, Jas 2:23"}
+    hints:
+      - "Satan's 'appointed share' of humans: Jubilees 10:8-9 (Mastema keeps a tenth of the spirits), and the Devil's portion in the Life of Adam and Eve."
+  - id: quran-4-women-orphans-justice
+    tradition: islam
+    title: Orphan girls, reconciliation, the suspended wife, and justice against oneself
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:127-135"]
+    tags:
+      - {motif: they-ask-you-for-a-ruling, refs: ["4:127"]}
+      - {motif: orphan-property-guardianship, refs: ["4:127"], note: "orphan girls whom guardians wish to marry without giving their due"}
+      - {motif: wife-fears-husbands-aversion, refs: ["4:128"], note: "'souls are prone to avarice' (al-shuḥḥ)"}
+      - {motif: impossible-justice-among-wives, refs: ["4:129"]}
+      - {motif: wife-left-suspended, refs: ["4:129"]}
+      - {motif: god-replaces-people, refs: ["4:133"]}
+      - {motif: witness-even-against-self-and-kin, refs: ["4:135"]}
+      - {motif: impartial-judgment-neither-poor-nor-great, refs: ["4:135"], note: "'whether rich or poor, God is nearer to both'"}
+    hints:
+      - "4:129 'like one suspended' (kal-muʿallaqa) and the rabbinic ʿagunah, the 'anchored' wife (cf. Ruth 1:13 te'agenah)."
+  - id: quran-4-hypocrites-wavering
+    tradition: islam
+    title: Articles of faith; hypocrites wavering between two sides
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:136-152"]
+    tags:
+      - {motif: articles-of-faith, refs: ["4:136"]}
+      - {motif: repeated-apostasy, refs: ["4:137"]}
+      - {motif: no-alliance-with-jews-and-christians, refs: ["4:139", "4:144"], note: "here: unbelievers as allies instead of believers"}
+      - {motif: avoid-those-who-mock-revelation, refs: ["4:140"], note: "cites an earlier revelation (6:68)"}
+      - {motif: deceivers-deceived-by-god, refs: ["4:142"]}
+      - {motif: deeds-done-for-show, refs: ["4:142"], note: "they stand to prayer lazily, showing off to people"}
+      - {motif: limping-between-two-opinions, refs: ["4:143"], note: "mudhabdhabīna bayna dhālika, lā ilā hāʾulāʾi wa-lā ilā hāʾulāʾi"}
+      - {motif: hypocrites-in-lowest-depth, refs: ["4:145"]}
+      - {motif: evil-speech-only-by-wronged, refs: ["4:148"]}
+      - {motif: believing-some-messengers-not-others, refs: ["4:150", "4:151", "4:152"]}
+    hints:
+      - "4:143 compare 1 Kgs 18:21 and Rev 3:15-16 (neither cold nor hot)."
+  - id: quran-4-israel-indictment-crucifixion
+    tradition: islam
+    title: The indictment of Israel; the Messiah not crucified but raised
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:153-162"]
+    tags:
+      - {motif: book-from-heaven-demanded, refs: ["4:153"]}
+      - {motif: israel-demands-to-see-god-openly, refs: ["4:153"], note: "arinā llāha jahratan; al-ṣāʿiqa"}
+      - {motif: golden-calf, refs: ["4:153"]}
+      - {motif: mountain-raised-over-israel, refs: ["4:154"]}
+      - {motif: enter-the-gate-prostrating, refs: ["4:154"]}
+      - {motif: sabbath-rest, refs: ["4:154"], note: "lā taʿdū fī l-sabt"}
+      - {motif: prophets-killed-by-israel, refs: ["4:155"]}
+      - {motif: uncircumcised-heart, refs: ["4:155"], note: "'our hearts are wrapped' (qulūbunā ghulf), cf. Lev 26:41, Jer 9:25"}
+      - {motif: god-seals-hearts, refs: ["4:155"]}
+      - {motif: slander-against-mary, refs: ["4:156"]}
+      - {motif: crucifixion-denied, refs: ["4:157"]}
+      - {motif: only-a-likeness-crucified, refs: ["4:157"]}
+      - {motif: jesus-raised-to-god, refs: ["4:158"]}
+      - {motif: prophet-ascends-in-whirlwind, refs: ["4:158"], note: "bal rafaʿahu llāhu ilayhi: taken up alive like Elijah (2 Kgs 2:11) or Enoch (Gen 5:24)"}
+      - {motif: all-people-of-book-believe-before-his-death, refs: ["4:159"]}
+      - {motif: jesus-witness-on-judgment-day, refs: ["4:159"]}
+      - {motif: good-things-forbidden-to-jews-as-punishment, refs: ["4:160"]}
+      - {motif: god-gave-laws-not-good, refs: ["4:160"], note: "a law given as punishment; cf. Ezek 20:25"}
+      - {motif: prohibition-of-interest, refs: ["4:161"], note: "'their taking ribā though they were forbidden it'"}
+      - {motif: consuming-wealth-falsely-forbidden, refs: ["4:161"]}
+    hints:
+      - "4:154 mountain raised over Israel: b. Shabbat 88a (God held Sinai over them like a cask)."
+      - "4:157 shubbiha lahum: Basilides in Irenaeus Adv. Haer. 1.24.4 (Simon of Cyrene crucified in Jesus' likeness); Second Treatise of the Great Seth; Apocalypse of Peter (Nag Hammadi)."
+      - "4:156 slander against Mary: Toledot Yeshu and b. Shabbat 104b on Pandera."
+  - id: quran-4-prophets-and-trinity
+    tradition: islam
+    title: The chain of revelation; Jesus, word and spirit; 'say not three'
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:163-175"]
+    tags:
+      - {motif: catalogue-of-prophets, refs: ["4:163"], note: "Noah, Abraham, Ishmael, Isaac, Jacob, the Tribes (al-asbāṭ), Jesus, Job, Jonah, Aaron, Solomon, David"}
+      - {motif: psalms-given-to-david, refs: ["4:163"]}
+      - {motif: god-spoke-directly-to-moses, refs: ["4:164"]}
+      - {motif: god-speaks-face-to-face-as-to-a-friend, refs: ["4:164"], note: "wa-kallama llāhu mūsā taklīman; cf. Num 12:8, Exod 33:11"}
+      - {motif: messengers-not-all-narrated, refs: ["4:164"]}
+      - {motif: no-punishment-without-messenger, refs: ["4:165"]}
+      - {motif: do-not-exceed-bounds-in-religion, refs: ["4:171"]}
+      - {motif: jesus-word-and-spirit-from-god, refs: ["4:171"], note: "kalimatuhu alqāhā ilā maryama wa-rūḥun minhu; cf. John 1:14"}
+      - {motif: say-not-three, refs: ["4:171"]}
+      - {motif: god-has-no-son, refs: ["4:171"]}
+      - {motif: messiah-not-too-proud-to-be-servant, refs: ["4:172"]}
+      - {motif: angels-brought-near, refs: ["4:172"]}
+    hints:
+      - "4:172 'servant of God' recalls Isaiah's servant songs and Acts 3:13; 4:171 Logos and Spirit Christology (Syriac 'word of God')."
+  - id: quran-4-kalala-ruling
+    tradition: islam
+    title: The final ruling on kalāla
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["4:176"]
+    tags:
+      - {motif: they-ask-you-for-a-ruling, refs: ["4:176"]}
+      - {motif: kalala-inheritance, refs: ["4:176"], note: "a sister takes half; two sisters two-thirds; the brother inherits all from a childless sister"}
+      - {motif: male-double-share-of-female, refs: ["4:176"]}
+    hints:
+      - "Compare Num 27:9 (brothers inherit when no son or daughter) and the rabbinic exclusion of sisters when brothers exist."
+  - id: quran-5-contracts-food-laws
+    tradition: islam
+    title: Contracts, pilgrim sanctity and the forbidden foods
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:1-5"]
+    tags:
+      - {motif: fulfil-contracts, refs: ["5:1"]}
+      - {motif: hunting-forbidden-in-pilgrim-sanctity, refs: ["5:1", "5:2"]}
+      - {motif: sacred-month-inviolable, refs: ["5:2"]}
+      - {motif: garlanded-sacrificial-animals, refs: ["5:2"]}
+      - {motif: hatred-must-not-pervert-justice, refs: ["5:2"], note: "hatred of those who barred you from the sacred mosque"}
+      - {motif: prohibition-of-eating-blood, refs: ["5:3"]}
+      - {motif: pork-forbidden, refs: ["5:3"]}
+      - {motif: priests-no-nevelah-terefah, refs: ["5:3"], note: "carrion (al-mayta) and 'what a beast of prey ate' (= nevelah and terefah), here for all believers"}
+      - {motif: strangled-beaten-fallen-gored-forbidden, refs: ["5:3"], note: "al-munkhaniqa, al-mawqūdha, al-mutaraddiya, al-naṭīḥa, unless ritually slaughtered in time"}
+      - {motif: sacrifice-on-stone-altars-forbidden, refs: ["5:3"]}
+      - {motif: divining-arrows-forbidden, refs: ["5:3"]}
+      - {motif: religion-perfected-today, refs: ["5:3"]}
+      - {motif: necessity-permits-forbidden-food, refs: ["5:3"]}
+      - {motif: trained-hunting-animals-catch-lawful, refs: ["5:4"], note: "mukallibīn, 'training them as dogs'"}
+      - {motif: gods-name-over-slaughter, refs: ["5:4"]}
+      - {motif: food-of-people-of-book-lawful, refs: ["5:5"]}
+      - {motif: marry-chaste-women-of-book, refs: ["5:5"]}
+      - {motif: no-intermarriage-with-nations, refs: ["5:5"], note: "revision: women of the People of the Book permitted"}
+    hints:
+      - "Acts 15:20, 29 (abstain from idol sacrifices, blood and what is strangled) is the closest parallel to 5:3."
+      - "Rabbinic terefah categories (m. Ḥullin 3) include animals mauled, fallen or with crushed organs; Exod 22:30."
+  - id: quran-5-ablution-covenant-justice
+    tradition: islam
+    title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:6-11"]
+    tags:
+      - {motif: ablution-before-prayer, refs: ["5:6"]}
+      - {motif: bronze-laver-for-washing-hands-and-feet, refs: ["5:6"], note: "washing of hands and feet before approaching God, here for every worshipper"}
+      - {motif: major-impurity-bath-before-prayer, refs: ["5:6"]}
+      - {motif: dry-ablution-with-earth, refs: ["5:6"]}
+      - {motif: people-accept-covenant-we-will-do, refs: ["5:7"], note: "idh qultum samiʿnā wa-aṭaʿnā"}
+      - {motif: hatred-must-not-pervert-justice, refs: ["5:8"]}
+      - {motif: god-restrains-enemies-hands, refs: ["5:11"]}
+    hints:
+      - "Exod 30:17-21 and 40:31; rabbinic netilat yadayim and the priests' qiddush yadayim ve-raglayim."
+  - id: quran-5-covenant-twelve-chiefs
+    tradition: islam
+    title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:12-19"]
+    tags:
+      - {motif: twelve-chieftains-of-israel, refs: ["5:12"]}
+      - {motif: spies-sent-to-land, refs: ["5:12"], note: "ithnay ʿashara naqīban; exegetes identify them with the twelve scouts (Num 13)"}
+      - {motif: goodly-loan-to-god, refs: ["5:12"]}
+      - {motif: lending-to-yhwh-by-giving-to-poor, refs: ["5:12"], note: "aqraḍtumu llāha qarḍan ḥasanan; cf. Prov 19:17"}
+      - {motif: scripture-words-shifted, refs: ["5:13"], note: "hearts made hard (qāsiya)"}
+      - {motif: forgot-part-of-reminder, refs: ["5:13", "5:14"]}
+      - {motif: enmity-cast-among-them-till-resurrection, refs: ["5:14"], note: "among those who call themselves Naṣārā"}
+      - {motif: prophet-reveals-hidden-scripture, refs: ["5:15"]}
+      - {motif: god-is-the-messiah-rejected, refs: ["5:17"], note: "who could stop God if he willed to destroy the Messiah, his mother and all on earth?"}
+      - {motif: children-of-god-israel, refs: ["5:18"], note: "'we are the sons of God and his beloved' (Jews and Christians), cf. Deut 14:1"}
+      - {motif: interval-between-messengers, refs: ["5:19"]}
+    hints:
+      - "5:18 compare m. Avot 3:14 'beloved are Israel, for they are called children of God'."
+  - id: quran-5-holy-land-refusal
+    tradition: islam
+    title: The refusal to enter the holy land and forty years of wandering
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:20-26"]
+    tags:
+      - {motif: prophets-and-kings-among-israel, refs: ["5:20"]}
+      - {motif: kingdom-of-priests, refs: ["5:20"], note: "'made you kings' (jaʿalakum mulūkan)"}
+      - {motif: holy-land-ordained, refs: ["5:21"]}
+      - {motif: giants-in-the-land, refs: ["5:22"], note: "qawman jabbārīn"}
+      - {motif: minority-faithful-report, refs: ["5:23"], note: "'two men of those who feared' urge entering by the gate"}
+      - {motif: go-you-and-your-lord-and-fight, refs: ["5:24"]}
+      - {motif: leader-has-only-himself-and-brother, refs: ["5:25"]}
+      - {motif: forty-years-wandering, refs: ["5:26"], note: "yatīhūna fī l-arḍ; Moses told not to grieve for them"}
+    hints:
+      - "Num 13-14 and Deut 1:26-40; 'two men' = Joshua and Caleb, unnamed here."
+  - id: quran-5-two-sons-of-adam
+    tradition: islam
+    title: The two sons of Adam, the raven, and whoever saves one life
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:27-32"]
+    tags:
+      - {motif: offering-accepted-rejected, refs: ["5:27"], note: "'God accepts only from the God-fearing'"}
+      - {motif: victim-refuses-to-raise-hand, refs: ["5:28"]}
+      - {motif: murderer-bears-victims-sin, refs: ["5:29"]}
+      - {motif: first-murder-fratricide, refs: ["5:30"], note: "the brothers are unnamed (ibnay ādam)"}
+      - {motif: raven-teaches-burial, refs: ["5:31"]}
+      - {motif: no-one-repents-what-have-i-done, refs: ["5:31"], note: "inverse: the murderer laments 'woe is me' and becomes remorseful (min al-nādimīn)"}
+      - {motif: killing-one-as-killing-all, refs: ["5:32"], note: "'for that reason We prescribed for the Children of Israel' — tied to Cain as in the Mishnah"}
+      - {motif: bloodshed-requires-bloodshed, refs: ["5:32"], note: "'unless for a soul or corruption in the land'"}
+    hints:
+      - "Raven teaching burial: Pirqe de-Rabbi Eliezer 21 and Tanḥuma Bereshit 10 (a raven buries its fellow before Adam and Eve)."
+      - "5:32 is m. Sanhedrin 4:5, derived from 'the bloods (deme) of your brother' (Gen 4:10); 'written for the Children of Israel'."
+      - "Abel's speech before the murder: Targum Neofiti/Pseudo-Jonathan Gen 4:8 (dispute in the field)."
+  - id: quran-5-war-on-god-theft
+    tradition: islam
+    title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:33-40"]
+    tags:
+      - {motif: waging-war-on-god-penalty, refs: ["5:33"]}
+      - {motif: hands-and-feet-cut-off-hung, refs: ["5:33"], note: "amputation and crucifixion as public penalty (cf. 2 Sam 4:12)"}
+      - {motif: repentance-before-capture-pardons, refs: ["5:34"]}
+      - {motif: seek-means-of-approach, refs: ["5:35"]}
+      - {motif: earth-and-its-like-no-ransom, refs: ["5:36", "5:37"]}
+      - {motif: no-ransom-for-a-brother, refs: ["5:36"]}
+      - {motif: amputation-for-theft, refs: ["5:38", "5:39"], note: "al-sāriqu wa-l-sāriqatu: male and female named"}
+    hints:
+      - "Contrast biblical theft law (double, fourfold and fivefold restitution, Exod 21:37-22:3) with amputation; Code of Hammurabi uses mutilation for some offenses."
+  - id: quran-5-torah-gospel-judgment
+    tradition: islam
+    title: Judging by the Torah, the Gospel and the Quran; eye for eye
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:41-50"]
+    tags:
+      - {motif: scripture-words-shifted, refs: ["5:41"], note: "'if you are given this, take it; if not, beware'"}
+      - {motif: devourers-of-illicit-gain, refs: ["5:42"]}
+      - {motif: judgment-sought-despite-torah, refs: ["5:43"]}
+      - {motif: torah-guidance-and-light, refs: ["5:44"]}
+      - {motif: rabbis-and-scholars-guard-the-book, refs: ["5:44"]}
+      - {motif: eye-for-eye, refs: ["5:45"], note: "life for life, eye for eye, nose for nose, ear for ear, tooth for tooth, wounds by retaliation"}
+      - {motif: remitting-retaliation-is-expiation, refs: ["5:45"]}
+      - {motif: gospel-confirms-torah, refs: ["5:46", "5:47"]}
+      - {motif: quran-guardian-over-scriptures, refs: ["5:48"]}
+      - {motif: each-community-its-own-law, refs: ["5:48"]}
+      - {motif: judgment-of-ignorance, refs: ["5:50"]}
+    hints:
+      - "5:45 quotes Exod 21:23-25 / Lev 24:20 / Deut 19:21 with nose and ear added; 'whoever remits it' parallels Matt 5:38-39 and rabbinic monetary commutation (b. Bava Qamma 83b)."
+      - "5:41-43 linked by tradition to the stoning-verse case of two Jewish adulterers brought to Muhammad."
+  - id: quran-5-allies-mockery
+    tradition: islam
+    title: Allies, apostates replaced, the mocked call to prayer, apes and swine
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:51-63"]
+    tags:
+      - {motif: no-alliance-with-jews-and-christians, refs: ["5:51", "5:57"]}
+      - {motif: god-replaces-people, refs: ["5:54"], note: "apostates replaced by a people God loves"}
+      - {motif: mutual-love-god-and-people, refs: ["5:54"]}
+      - {motif: call-to-prayer-mocked, refs: ["5:58"]}
+      - {motif: sabbath-breakers-cursed-transformed, refs: ["5:60"], note: "'made of them apes and swine and worshippers of al-ṭāghūt'"}
+      - {motif: devourers-of-illicit-gain, refs: ["5:62", "5:63"]}
+      - {motif: leaders-fail-to-forbid-sin, refs: ["5:63"]}
+    hints:
+      - "Transformation of sinners into apes: b. Sanhedrin 109a (builders of Babel became apes, spirits and demons)."
+  - id: quran-5-hand-fettered
+    tradition: islam
+    title: "'God's hand is fettered'; the blessings of observing the Torah"
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:64-71"]
+    tags:
+      - {motif: gods-hand-fettered-claim, refs: ["5:64"]}
+      - {motif: enmity-cast-among-them-till-resurrection, refs: ["5:64"]}
+      - {motif: god-extinguishes-fires-of-war, refs: ["5:64"]}
+      - {motif: eat-from-above-and-below, refs: ["5:66"]}
+      - {motif: prophet-must-deliver-message, refs: ["5:67"]}
+      - {motif: believers-jews-sabians-christians-saved, refs: ["5:69"]}
+      - {motif: prophets-killed-by-israel, refs: ["5:70"], note: "'some they called liars and some they kill'"}
+      - {motif: repentance-relapse-cycle, refs: ["5:71"], note: "they became blind and deaf, God turned to them, then again blind and deaf"}
+      - {motif: eyes-that-do-not-see, refs: ["5:71"]}
+    hints:
+      - "5:64 compare Isa 50:2, 59:1 (is my hand shortened?), Lam 2:3 (he drew back his right hand) and Num 11:23."
+      - "5:66 compare Lev 26:3-5, Deut 28:12 and Mal 3:10 (windows of heaven)."
+  - id: quran-5-christology-monks
+    tradition: islam
+    title: Against the deification of Jesus; the weeping Christians
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:72-86"]
+    tags:
+      - {motif: god-is-the-messiah-rejected, refs: ["5:72"]}
+      - {motif: jesus-says-my-lord-and-your-lord, refs: ["5:72"], note: "cf. John 20:17"}
+      - {motif: say-not-three, refs: ["5:73"], note: "'God is the third of three' (thālithu thalātha)"}
+      - {motif: jesus-and-mother-ate-food, refs: ["5:75"]}
+      - {motif: mary-the-truthful, refs: ["5:75"]}
+      - {motif: idols-neither-harm-nor-benefit, refs: ["5:76"]}
+      - {motif: do-not-exceed-bounds-in-religion, refs: ["5:77"]}
+      - {motif: cursed-by-tongue-of-david-and-jesus, refs: ["5:78"]}
+      - {motif: leaders-fail-to-forbid-sin, refs: ["5:79"], note: "'they did not forbid one another the wrong they did'"}
+      - {motif: christians-nearest-in-affection, refs: ["5:82"], note: "qissīsīn wa-ruhbān"}
+      - {motif: converts-weep-at-revelation, refs: ["5:83"]}
+    hints:
+      - "5:75 'they both ate food': anti-docetic and anti-divinity argument; cf. Luke 24:42-43."
+      - "5:78 curse 'on the tongue of David' (Ps 69:23-29; 109) and of Jesus (Matt 23)."
+  - id: quran-5-oaths-wine-game
+    tradition: islam
+    title: Lawful good things, oath expiation, wine and gambling, game in iḥrām
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:87-100"]
+    tags:
+      - {motif: do-not-forbid-good-things, refs: ["5:87", "5:88"]}
+      - {motif: oath-expiation-feed-ten, refs: ["5:89"]}
+      - {motif: rash-oath-requires-atonement, refs: ["5:89"], note: "idle oaths (laghw) are not held against you; binding oaths need kaffāra"}
+      - {motif: wine-and-gambling-satans-work, refs: ["5:90", "5:91"]}
+      - {motif: sacrifice-on-stone-altars-forbidden, refs: ["5:90"]}
+      - {motif: divining-arrows-forbidden, refs: ["5:90"]}
+      - {motif: prophet-must-deliver-message, refs: ["5:92", "5:99"]}
+      - {motif: hunting-forbidden-in-pilgrim-sanctity, refs: ["5:94", "5:95", "5:96"], note: "game within reach of 'your hands and spears' as a test"}
+      - {motif: game-penalty-equivalent-livestock, refs: ["5:95"]}
+      - {motif: sea-game-lawful, refs: ["5:96"]}
+      - {motif: kaaba-sustains-people, refs: ["5:97"]}
+    hints:
+      - "Lev 5:4-13: graded expiation for a rash oath (lamb, birds, flour) parallels the graded kaffāra of 5:89."
+      - "5:87 against self-imposed abstinence: compare the Nazirite's sin offering (Num 6:11; b. Taʿanit 11a)."
+  - id: quran-5-questions-pagan-camels
+    tradition: islam
+    title: Questions not to ask; the freed camels of the pagans
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:101-105"]
+    tags:
+      - {motif: do-not-ask-about-things, refs: ["5:101", "5:102"]}
+      - {motif: pagan-dedicated-camels, refs: ["5:103"]}
+      - {motif: ancestral-custom-defended, refs: ["5:104"]}
+      - {motif: tend-your-own-souls, refs: ["5:105"]}
+    hints:
+      - "Ben Sira 3:21-22 'seek not what is too wonderful for you' and m. Ḥagigah 2:1."
+  - id: quran-5-bequest-witnesses
+    tradition: islam
+    title: Witnesses to a bequest made far from home
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:106-108"]
+    tags:
+      - {motif: deathbed-bequest-witnesses, refs: ["5:106"]}
+      - {motif: witnesses-detained-after-prayer-swear, refs: ["5:106"]}
+      - {motif: witness-who-hears-adjuration-must-testify, refs: ["5:106"], note: "'we will not conceal the testimony of God'"}
+      - {motif: false-witnesses-replaced-by-heirs, refs: ["5:107", "5:108"]}
+    hints:
+      - "Deathbed gift (matenat shekhiv meraʿ) and witness rules in m. Bava Batra 9; oath of witnesses in Lev 5:1."
+  - id: quran-5-jesus-miracles-table
+    tradition: islam
+    title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["5:109-120"]
+    tags:
+      - {motif: messengers-asked-what-response, refs: ["5:109"]}
+      - {motif: holy-spirit-of-god, refs: ["5:110"], note: "ayyadtuka bi-rūḥ al-qudus"}
+      - {motif: infant-speaks, refs: ["5:110"], note: "speaking in the cradle and in maturity (kahlan)"}
+      - {motif: clay-birds-animated, refs: ["5:110"]}
+      - {motif: healing-blind-and-leper, refs: ["5:110"]}
+      - {motif: jesus-raises-the-dead, refs: ["5:110"]}
+      - {motif: miracles-called-sorcery, refs: ["5:110"]}
+      - {motif: disciples-declare-submission, refs: ["5:111"]}
+      - {motif: table-sent-down-from-heaven, refs: ["5:112", "5:113", "5:114", "5:115"]}
+      - {motif: table-in-the-wilderness, refs: ["5:112"], note: "hal yastaṭīʿu rabbuka an yunazzila ʿalaynā māʾidatan min al-samāʾ — the question of Ps 78:19 put in the disciples' mouths"}
+      - {motif: table-as-festival, refs: ["5:114"]}
+      - {motif: disbelief-after-sign-punished-uniquely, refs: ["5:115"]}
+      - {motif: jesus-denies-claiming-divinity, refs: ["5:116", "5:117"]}
+      - {motif: mary-taken-as-god, refs: ["5:116"]}
+      - {motif: jesus-says-my-lord-and-your-lord, refs: ["5:117"]}
+      - {motif: jesus-raised-to-god, refs: ["5:117"], note: "falammā tawaffaytanī, 'when you took me'"}
+      - {motif: jesus-commits-followers-to-god, refs: ["5:118"]}
+      - {motif: mutual-good-pleasure, refs: ["5:119"]}
+      - {motif: gardens-with-rivers-beneath, refs: ["5:119"]}
+    hints:
+      - "Ps 78:19-20 'Can God set a table in the wilderness?' (ha-yukhal el la-ʿarokh shulḥan ba-midbar) and manna; John 6:30-31; the Last Supper and Acts 10:11 (sheet let down from heaven)."
+      - "Clay birds: Infancy Gospel of Thomas 2; speaking in cradle: Arabic Infancy Gospel 1."
+      - "5:116 Mary as deity: Epiphanius, Panarion 78-79 (Collyridians)."
+  - id: quran-6-creation-rejecters
+    tradition: islam
+    title: Darkness and light, clay and two terms, and those who would not believe
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:1-11"]
+    tags:
+      - {motif: god-made-darkness-and-light, refs: ["6:1"]}
+      - {motif: god-creates-light-and-darkness-peace-and-evil, refs: ["6:1"], note: "jaʿala l-ẓulumāti wa-l-nūr; Isa 45:7"}
+      - {motif: human-formed-from-earth, refs: ["6:2"], note: "min ṭīn"}
+      - {motif: two-appointed-terms, refs: ["6:2"]}
+      - {motif: generations-destroyed-despite-prosperity, refs: ["6:6"]}
+      - {motif: book-on-parchment-would-be-called-magic, refs: ["6:7"]}
+      - {motif: demand-for-angel-messenger, refs: ["6:8"]}
+      - {motif: angel-sent-would-appear-as-man, refs: ["6:9"]}
+      - {motif: three-divine-visitors, refs: ["6:9"], note: "angels appearing as men"}
+      - {motif: mockers-overtaken-by-their-mockery, refs: ["6:10"]}
+      - {motif: walk-among-dwellings-of-destroyed, refs: ["6:11"], note: "'travel in the land and see the end of the deniers'"}
+    hints:
+      - "6:1 against dualism (Zoroastrian/Manichaean light and darkness), as Isa 45:7 against Persian dualism."
+  - id: quran-6-mercy-judgment
+    tradition: islam
+    title: Mercy written on himself; the idolaters' denial at the gathering
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:12-32"]
+    tags:
+      - {motif: god-wrote-mercy-on-himself, refs: ["6:12"]}
+      - {motif: god-feeds-and-is-not-fed, refs: ["6:14"]}
+      - {motif: god-does-not-eat-flesh-of-bulls, refs: ["6:14"], note: "wa-huwa yuṭʿimu wa-lā yuṭʿam; cf. Ps 50:12-13"}
+      - {motif: first-to-submit, refs: ["6:14"]}
+      - {motif: people-of-book-know-him-as-sons, refs: ["6:20"]}
+      - {motif: where-are-your-partners, refs: ["6:22"]}
+      - {motif: mocking-where-are-their-gods, refs: ["6:22"], note: "cf. Deut 32:37"}
+      - {motif: idolaters-deny-idolatry-at-judgment, refs: ["6:23", "6:24"]}
+      - {motif: commission-to-harden-hearts, refs: ["6:25"], note: "coverings (akinna) on hearts and heaviness (waqr) in ears, cf. Isa 6:10"}
+      - {motif: legends-of-the-ancients, refs: ["6:25"]}
+      - {motif: denial-of-resurrection, refs: ["6:29"]}
+      - {motif: damned-wish-to-return, refs: ["6:27", "6:28"]}
+      - {motif: burdens-borne-on-backs, refs: ["6:31"]}
+      - {motif: worldly-life-play-and-diversion, refs: ["6:32"]}
+    hints:
+      - "6:12 'mercy written on himself': b. Berakhot 7a (God prays that his mercy overcome his anger) and the hadith 'my mercy precedes my wrath'."
+      - "6:27-28 compare Luke 16:27-31 (the rich man asks to warn his brothers)."
+  - id: quran-6-prophet-consoled-signs
+    tradition: islam
+    title: The Prophet consoled; a ladder to the sky; animals as communities
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:33-50"]
+    tags:
+      - {motif: earlier-messengers-denied-and-patient, refs: ["6:33", "6:34"]}
+      - {motif: no-changer-of-gods-words, refs: ["6:34"]}
+      - {motif: tunnel-in-earth-or-ladder-to-sky, refs: ["6:35"], note: "nafaqan fī l-arḍ aw sullaman fī l-samāʾ"}
+      - {motif: each-community-its-own-law, refs: ["6:35"], note: "had God willed he would have gathered them all on guidance"}
+      - {motif: unbelievers-demand-a-sign, refs: ["6:37"]}
+      - {motif: animals-are-communities-like-you, refs: ["6:38"]}
+      - {motif: nothing-omitted-from-the-book, refs: ["6:38"]}
+      - {motif: distress-prayer-then-forget, refs: ["6:40", "6:41"]}
+      - {motif: prosperity-before-sudden-seizure, refs: ["6:42", "6:43", "6:44", "6:45"]}
+      - {motif: god-seals-hearts, refs: ["6:46"], note: "if God took your hearing and sight and sealed your hearts"}
+      - {motif: prophet-disclaims-treasures-unseen-angelhood, refs: ["6:50"]}
+    hints:
+      - "6:35 compare Amos 9:2 (dig into Sheol, climb to heaven) and Ps 139:8; Jacob's ladder (Gen 28:12)."
+      - "6:38 animals gathered to their Lord: animal judgment in later hadith; Jonah 4:11 and Ps 104 on animals in God's care."
+  - id: quran-6-poor-keys-of-unseen
+    tradition: islam
+    title: Do not drive away the poor; the keys of the unseen and the falling leaf
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:51-62"]
+    tags:
+      - {motif: intercession-only-by-permission, refs: ["6:51"], note: "no protector or intercessor besides him"}
+      - {motif: do-not-drive-away-poor-believers, refs: ["6:52", "6:53"]}
+      - {motif: god-wrote-mercy-on-himself, refs: ["6:54"], note: "'say: peace be upon you (salāmun ʿalaykum)'"}
+      - {motif: repentance-for-sin-in-ignorance, refs: ["6:54"]}
+      - {motif: keys-of-the-unseen, refs: ["6:59"]}
+      - {motif: no-leaf-falls-unknown, refs: ["6:59"]}
+      - {motif: everything-in-a-clear-book, refs: ["6:59"]}
+      - {motif: sleep-as-nightly-death, refs: ["6:60"]}
+      - {motif: guardian-angels-sent, refs: ["6:61"]}
+      - {motif: angels-take-souls-at-death, refs: ["6:61"], note: "tawaffathu rusulunā"}
+    hints:
+      - "6:59 compare Matt 10:29-30 (no sparrow falls without your Father) and Gen Rabbah 79:6 (no bird is caught without heaven's decree)."
+      - "6:60 sleep as one-sixtieth of death (b. Berakhot 57b) and the Jewish morning blessing for the returned soul (Elohai neshamah)."
+  - id: quran-6-deliverance-trumpet
+    tradition: islam
+    title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:63-73"]
+    tags:
+      - {motif: distress-prayer-then-forget, refs: ["6:63", "6:64"]}
+      - {motif: storm-at-sea-stilled, refs: ["6:63"], note: "rescue from the darknesses of land and sea after humble and secret prayer"}
+      - {motif: punishment-from-above-or-below, refs: ["6:65"]}
+      - {motif: divided-into-sects, refs: ["6:65"]}
+      - {motif: avoid-those-who-mock-revelation, refs: ["6:68", "6:69"]}
+      - {motif: boiling-drink-of-the-damned, refs: ["6:70"]}
+      - {motif: earth-and-its-like-no-ransom, refs: ["6:70"], note: "'though it offer every ransom (kull ʿadl)'"}
+      - {motif: bewildered-man-lured-by-devils, refs: ["6:71"]}
+      - {motif: creation-by-word, refs: ["6:73"], note: "kun fa-yakūn"}
+      - {motif: trumpet-blown-at-resurrection, refs: ["6:73"]}
+    hints:
+      - "6:68 compare Ps 1:1 (nor sit in the seat of scoffers) and m. Avot 3:2."
+      - "6:63-64 compare Ps 107:23-32 and the sailors of Jonah 1."
+  - id: quran-6-abraham-heavenly-bodies
+    tradition: islam
+    title: Abraham, Azar and the star, moon and sun
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:74-83"]
+    tags:
+      - {motif: father-serves-idols, refs: ["6:74"]}
+      - {motif: father-named-azar, refs: ["6:74"]}
+      - {motif: abraham-shown-kingdom-of-heavens, refs: ["6:75"]}
+      - {motif: count-the-stars, refs: ["6:75"], note: "a vision of the heavens granted to Abraham (Gen 15:5)"}
+      - {motif: heavenly-bodies-argument, refs: ["6:76", "6:77", "6:78"], note: "star, then the rising moon, then the rising sun, 'this is greater'"}
+      - {motif: setting-bodies-not-gods, refs: ["6:76", "6:77", "6:78"]}
+      - {motif: astral-worship-forbidden, refs: ["6:78"]}
+      - {motif: religion-of-abraham-hanif, refs: ["6:79"], note: "'I have turned my face to him who created the heavens and earth, a ḥanīf'"}
+      - {motif: abraham-disputes-with-his-people, refs: ["6:80", "6:81"]}
+      - {motif: which-party-deserves-security, refs: ["6:81", "6:82"]}
+    hints:
+      - "Apocalypse of Abraham 7 (fire, water, earth, sun, moon, stars rejected in turn); Jubilees 12:16-18; Josephus Ant. 1.155-156; Ma'aseh Avraham (Abraham in the cave worships sun then moon)."
+      - "Āzar: Eusebius' Athar? Theories link to Eliezer or Terah; cf. Hebrew 'ezer."
+  - id: quran-6-prophets-lineage-torah-sheets
+    tradition: islam
+    title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:84-94"]
+    tags:
+      - {motif: catalogue-of-prophets, refs: ["6:84", "6:85", "6:86"], note: "Isaac, Jacob, Noah, David, Solomon, Job, Joseph, Moses, Aaron, Zechariah, John, Jesus, Elias (Ilyās), Ishmael, Elisha (al-Yasaʿ), Jonah, Lot"}
+      - {motif: god-replaces-people, refs: ["6:89"], note: "'We have entrusted it to a people who do not disbelieve in it'"}
+      - {motif: prophet-asks-no-wage, refs: ["6:90"]}
+      - {motif: god-sent-nothing-to-humans-claim, refs: ["6:91"]}
+      - {motif: torah-written-on-sheets-partly-hidden, refs: ["6:91"]}
+      - {motif: torah-guidance-and-light, refs: ["6:91"], note: "nūran wa-hudan lil-nās"}
+      - {motif: mother-of-towns, refs: ["6:92"]}
+      - {motif: false-claim-of-revelation, refs: ["6:93"]}
+      - {motif: false-prophet-death, refs: ["6:93"], note: "punished in the throes of death (ghamarāt al-mawt)"}
+      - {motif: angels-take-souls-at-death, refs: ["6:93"], note: "angels stretch out their hands: 'bring out your souls'"}
+      - {motif: naked-from-womb-naked-return, refs: ["6:94"], note: "'you have come to Us alone (furādā) as We created you the first time, leaving behind what We gave you'"}
+      - {motif: intercessors-abandon-at-judgment, refs: ["6:94"]}
+    hints:
+      - "6:94 compare Job 1:21, Qoh 5:14 and m. Avot 6:9 (at death neither silver nor gold accompany a man)."
+      - "6:91 'sheets' (qarāṭīs, Greek chartēs): written Torah scrolls vs. the oral 'much you hide'."
+  - id: quran-6-signs-in-nature
+    tradition: islam
+    title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:95-108"]
+    tags:
+      - {motif: splitter-of-grain-and-date-stone, refs: ["6:95"]}
+      - {motif: living-from-dead-dead-from-living, refs: ["6:95"]}
+      - {motif: splitter-of-dawn, refs: ["6:96"]}
+      - {motif: luminaries-rule-day-night, refs: ["6:96"], note: "sun and moon for reckoning (ḥusbān), cf. Gen 1:14"}
+      - {motif: stars-for-navigation, refs: ["6:97"]}
+      - {motif: humanity-from-single-soul, refs: ["6:98"]}
+      - {motif: lodging-and-repository, refs: ["6:98"]}
+      - {motif: rain-brings-forth-every-plant, refs: ["6:99"]}
+      - {motif: seven-species-of-land, refs: ["6:99"], note: "date palm, vines, olive, pomegranate and grain listed together"}
+      - {motif: jinn-made-partners, refs: ["6:100"]}
+      - {motif: god-has-no-son, refs: ["6:100", "6:101"], note: "they invented sons and daughters for him"}
+      - {motif: god-without-consort, refs: ["6:101"]}
+      - {motif: vision-cannot-grasp-god, refs: ["6:103"]}
+      - {motif: prophet-accused-of-study, refs: ["6:105"]}
+      - {motif: do-not-revile-others-gods, refs: ["6:108"]}
+      - {motif: do-not-curse-god-or-ruler, refs: ["6:108"], note: "Exod 22:27 elohim lo tekallel, read in the LXX, Philo and Josephus as 'do not revile the gods of others'"}
+    hints:
+      - "6:108 Josephus Ant. 4.207 and Against Apion 2.237; Philo Spec. Leg. 1.53 (do not blaspheme others' gods) on Exod 22:27 LXX."
+      - "6:103 compare Exod 33:20 and John 1:18."
+  - id: quran-6-signs-would-not-convince
+    tradition: islam
+    title: Sworn oaths for a sign; even the dead speaking would not convince
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:109-117"]
+    tags:
+      - {motif: sworn-to-believe-if-sign-comes, refs: ["6:109"]}
+      - {motif: commission-to-harden-hearts, refs: ["6:110"], note: "'We turn their hearts and eyes as they did not believe the first time'"}
+      - {motif: even-dead-speaking-would-not-convince, refs: ["6:111"]}
+      - {motif: devils-of-men-and-jinn-inspire, refs: ["6:112", "6:113"]}
+      - {motif: no-changer-of-gods-words, refs: ["6:115"]}
+      - {motif: majority-follow-conjecture, refs: ["6:116"]}
+    hints:
+      - "6:111 Luke 16:31: 'neither will they be persuaded if someone rises from the dead'."
+  - id: quran-6-slaughter-chest-jinn
+    tradition: islam
+    title: Eat what God's name is spoken over; the opened breast; jinn and humans judged
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:118-135"]
+    tags:
+      - {motif: gods-name-over-slaughter, refs: ["6:118", "6:119", "6:121"]}
+      - {motif: necessity-permits-forbidden-food, refs: ["6:119"]}
+      - {motif: devils-of-men-and-jinn-inspire, refs: ["6:121"], note: "devils inspire their allies to dispute about food"}
+      - {motif: dead-man-given-light-to-walk, refs: ["6:122"]}
+      - {motif: great-criminals-in-every-town, refs: ["6:123"]}
+      - {motif: god-knows-where-to-place-message, refs: ["6:124"]}
+      - {motif: breast-opened-or-constricted, refs: ["6:125"]}
+      - {motif: abode-of-peace, refs: ["6:127"]}
+      - {motif: jinn-and-humans-enjoyed-each-other, refs: ["6:128"]}
+      - {motif: messengers-from-jinn-and-humans, refs: ["6:130"]}
+      - {motif: no-punishment-without-messenger, refs: ["6:131"]}
+      - {motif: god-replaces-people, refs: ["6:133"], note: "as he raised you from the offspring of another people"}
+    hints:
+      - "6:121 compare the rabbinic requirement of the blessing at shechitah and m. Ḥullin 2:8 (slaughter in the name of mountains etc. forbidden)."
+      - "6:122 compare Eph 5:14 and John 8:12."
+  - id: quran-6-pagan-offerings-cattle
+    tradition: islam
+    title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:136-150"]
+    tags:
+      - {motif: portion-for-god-and-for-idols, refs: ["6:136"]}
+      - {motif: child-sacrifice-by-fire-condemned, refs: ["6:137", "6:140"], note: "the partners made killing their children seem fair to them"}
+      - {motif: taboo-crops-and-cattle, refs: ["6:138"]}
+      - {motif: cattle-with-forbidden-backs, refs: ["6:138"]}
+      - {motif: firstling-consecrated, refs: ["6:138"], note: "pagan analogue: cattle not ridden or worked (cf. Deut 15:19)"}
+      - {motif: womb-contents-reserved-for-males, refs: ["6:139"]}
+      - {motif: harvest-due-on-reaping-day, refs: ["6:141"]}
+      - {motif: gleanings-for-poor, refs: ["6:141"], note: "'give its due on the day of its harvest'"}
+      - {motif: no-wastefulness, refs: ["6:141"]}
+      - {motif: eight-pairs-of-livestock, refs: ["6:143", "6:144"]}
+      - {motif: only-four-food-prohibitions, refs: ["6:145"]}
+      - {motif: blood-is-life-pour-on-ground, refs: ["6:145"], note: "only 'poured-out blood' (daman masfūḥan) is forbidden"}
+      - {motif: pork-forbidden, refs: ["6:145"]}
+      - {motif: jewish-prohibition-claws-and-fat, refs: ["6:146"]}
+      - {motif: prohibition-of-eating-fat, refs: ["6:146"], note: "except fat on the backs, the entrails, or mixed with bone (cf. Lev 3:9-17, 7:23-25)"}
+      - {motif: clean-unclean-animals-list, refs: ["6:146"], note: "kull dhī ẓufur, 'every animal with a claw/undivided hoof'"}
+      - {motif: good-things-forbidden-to-jews-as-punishment, refs: ["6:146"]}
+      - {motif: fatalist-excuse, refs: ["6:148", "6:149"]}
+      - {motif: ancestral-custom-defended, refs: ["6:148"], note: "'nor our fathers'"}
+    hints:
+      - "6:146 fat 'on the backs' and 'mixed with bone' tracks the rabbinic distinction of forbidden ḥelev vs. permitted shuman (b. Ḥullin 49b, 93a); entrails (al-ḥawāyā)."
+      - "6:136 portion for God and for idols: compare 2 Kgs 17:33 (they feared YHWH and served their own gods)."
+  - id: quran-6-commandments
+    tradition: islam
+    title: The recited commandments (the Quranic decalogue)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:151-157"]
+    tags:
+      - {motif: commandments-recited, refs: ["6:151", "6:152", "6:153"]}
+      - {motif: ten-commandments, refs: ["6:151", "6:152"], note: "no partners, good to parents, no killing children, no indecency, no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight path"}
+      - {motif: honor-parents-long-life, refs: ["6:151"]}
+      - {motif: infanticide-for-poverty-forbidden, refs: ["6:151"]}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["6:151", "6:152"]}
+      - {motif: orphan-property-guardianship, refs: ["6:152"]}
+      - {motif: just-weights-and-measures, refs: ["6:152"]}
+      - {motif: no-burden-beyond-capacity, refs: ["6:152"]}
+      - {motif: witness-even-against-self-and-kin, refs: ["6:152"], note: "'when you speak be just, even if it concerns a relative'"}
+      - {motif: straight-path-not-other-ways, refs: ["6:153"]}
+      - {motif: turn-neither-right-nor-left, refs: ["6:153"]}
+      - {motif: torah-complete-and-detailed, refs: ["6:154"]}
+      - {motif: scripture-sent-to-two-groups, refs: ["6:156", "6:157"]}
+    hints:
+      - "Ibn ʿAbbās and later exegetes compare 6:151-153 to the Ten Commandments (and to 17:22-39); the 'two ways' of Didache 1-6 and Deut 30:15-19."
+  - id: quran-6-final-reckoning
+    tradition: islam
+    title: Tenfold reward; my life and death for God; no bearer bears another's burden
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["6:158-165"]
+    tags:
+      - {motif: faith-useless-when-signs-come, refs: ["6:158"]}
+      - {motif: divided-into-sects, refs: ["6:159"]}
+      - {motif: good-deeds-multiplied, refs: ["6:160"], note: "a good deed brings ten like it; an evil deed only its like"}
+      - {motif: religion-of-abraham-hanif, refs: ["6:161"]}
+      - {motif: life-and-death-for-god, refs: ["6:162"]}
+      - {motif: first-to-submit, refs: ["6:163"]}
+      - {motif: individual-responsibility-for-sin, refs: ["6:164"], note: "lā taziru wāziratun wizra ukhrā"}
+      - {motif: soul-that-sins-shall-die, refs: ["6:164"]}
+      - {motif: vicegerents-of-the-earth, refs: ["6:165"]}
+    hints:
+      - "6:160 compare t. Sotah 4:1 and b. Sanhedrin 100b (the measure of good exceeds the measure of punishment) and Exod 20:5-6 (to the third generation vs. to thousands)."
+      - "6:164 Ezek 18:20 and Deut 24:16."
