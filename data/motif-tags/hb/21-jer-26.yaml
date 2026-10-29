@@ -1,0 +1,1342 @@
+new_motifs:
+  all-shall-know-god-no-teaching-needed: {label: "In the new age no one will need to teach his neighbor 'Know YHWH', for all will know him", cluster: theology}
+  amon-of-thebes-punished: {label: "God punishes Amon of No (Thebes), Egypt's chief god", cluster: oracles-nations}
+  anointed-king-breath-of-our-nostrils: {label: "The captured king is called 'the breath of our nostrils, YHWH's anointed, in whose shadow we would live'", cluster: kingship}
+  apis-bull-has-fled: {label: "Egypt's 'mighty one' (abbir, read as the Apis bull) flees and is thrust down", cluster: oracles-nations}
+  apostasy-justified-by-prosperity: {label: "Worshipers argue their goddess cult brought plenty and abandoning it brought disaster", cluster: cult}
+  arabs-with-cropped-temples: {label: "Desert peoples described as those with the corners of their hair clipped", cluster: oracles-nations}
+  ararat-minni-ashkenaz-summoned: {label: "The northern kingdoms Ararat, Minni and Ashkenaz are summoned against Babylon", cluster: oracles-nations}
+  as-tabor-among-mountains: {label: "The conqueror comes as Tabor among the mountains and Carmel by the sea", cluster: oracles-nations}
+  assassin-feigns-weeping: {label: "The murderer goes out weeping to lure his victims in", cluster: narrative}
+  assyria-then-babylon-devour-israel: {label: "Israel a scattered sheep: first Assyria devoured it, last Babylon gnawed its bones", cluster: history}
+  atbash-cipher-names: {label: "Names hidden by the atbash letter cipher (Sheshach for Babel, Leb-qamai for Kasdim)", cluster: scribal}
+  babylon-climbs-to-heaven: {label: "Though Babylon should climb to heaven and fortify its height, destroyers will reach it", cluster: oracles-nations}
+  babylonian-officers-sit-in-middle-gate: {label: "The conquering Babylonian officers, named with their titles (Rab-saris, Rab-mag), sit in the city's Middle Gate", cluster: history}
+  baldness-and-gashing-in-mourning: {label: "Mourners shave their heads, clip beards and gash their bodies", cluster: mourning}
+  balm-for-incurable-city: {label: "Ironic call to bring balm for a fallen city that cannot be healed", cluster: oracles-nations}
+  balm-of-gilead: {label: "Go up to Gilead for balm: medicine that cannot heal the wound", cluster: prophecy}
+  battle-of-carchemish: {label: "Egypt defeated by Babylon at Carchemish on the Euphrates", cluster: history}
+  bel-and-marduk-shamed: {label: "Babylon's gods Bel and Merodach are put to shame and its idols dismayed", cluster: oracles-nations}
+  bel-disgorges-what-he-swallowed: {label: "God punishes Bel and makes him vomit out what he swallowed", cluster: oracles-nations}
+  better-slain-by-sword-than-famine: {label: "Those slain by the sword are better off than those wasting from hunger", cluster: lament}
+  blessed-be-the-glory-from-his-place: {label: "Heavenly voice cries 'Blessed be the glory of YHWH from his place'", cluster: merkavah}
+  blind-and-lame-return: {label: "The blind, the lame and women in labor are among the returning exiles", cluster: restoration}
+  bodies-thrown-into-cistern: {label: "Victims' corpses are thrown into a cistern", cluster: narrative}
+  body-cast-into-common-graves: {label: "The executed man's body is thrown into the graves of the common people", cluster: narrative}
+  book-ends-on-note-of-rejection: {label: "A book closes on the fear that God has utterly rejected his people", cluster: lament}
+  bound-with-cords-cannot-turn: {label: "The prophet is bound with cords so he cannot turn from side to side", cluster: prophecy}
+  bow-of-elam-broken: {label: "God breaks the bow of Elam, the chief of their might", cluster: oracles-nations}
+  bowels-in-turmoil-heart-overturned: {label: "The sufferer's bowels churn and heart turns over within her", cluster: lament}
+  breach-vast-as-the-sea: {label: "The city's ruin is as vast as the sea; who can heal it?", cluster: lament}
+  bread-baked-on-human-dung: {label: "The prophet is told to bake his bread over human excrement as a sign of unclean exile food", cluster: prophecy}
+  broken-staff-of-might: {label: "Lament: how the mighty staff, the glorious rod, is broken", cluster: oracles-nations}
+  broken-vessel-no-one-wants: {label: "The nation is broken like a vessel no one wants", cluster: prophecy}
+  build-houses-plant-gardens-in-exile: {label: "Exiles told to build houses, plant gardens, marry and multiply in the foreign land", cluster: exile}
+  burning-of-foreign-temples: {label: "The conqueror will burn the temples of a foreign land's gods", cluster: oracles-nations}
+  cakes-in-image-of-goddess: {label: "Women bake cakes bearing the image of the goddess they worship", cluster: cult}
+  call-to-me-and-i-will-answer-hidden-things: {label: "God invites the prophet to call so he will reveal great and hidden things", cluster: revelation}
+  cast-into-pit-stone-on-top: {label: "Enemies cast the sufferer into a pit and throw stones on him; waters close over his head", cluster: lament}
+  catalogue-of-moabite-towns: {label: "Long list of Moabite towns under judgment (Dibon, Nebo, Kiriathaim, Kerioth, Bozrah...)", cluster: geography}
+  child-sacrifice-to-molech-in-hinnom: {label: "Sons and daughters passed through fire to Molech at the high places in the Valley of Ben-Hinnom", cluster: cult}
+  children-faint-in-the-streets: {label: "Infants and sucklings faint from hunger in the city squares, asking their mothers for bread and wine", cluster: lament}
+  city-as-menstruant-impure-woman: {label: "The fallen city is likened to a menstruant (niddah) whose impurity is in her skirts", cluster: lament}
+  city-as-widow: {label: "The ruined city sits alone like a widow", cluster: lament}
+  city-drawn-on-brick-and-besieged: {label: "The prophet draws the city on a clay brick and lays a model siege against it", cluster: prophecy}
+  city-dwelling-on-many-waters: {label: "The doomed imperial city 'dwells on many waters' rich in treasures", cluster: oracles-nations}
+  city-rebuilt-on-its-tell: {label: "The city will be rebuilt on its own ruin-mound and the palace stand in its place", cluster: restoration}
+  city-without-gates-or-bars: {label: "A people at ease that dwells alone with neither gates nor bars", cluster: oracles-nations}
+  confrontation-at-pool-of-gibeon: {label: "Rival forces meet at the great waters (pool) of Gibeon", cluster: narrative}
+  conqueror-protects-prophet: {label: "The foreign conqueror orders his officers to look after the prophet and do him no harm", cluster: narrative}
+  cosmic-ordinances-guarantee-covenant: {label: "God's covenant with Israel is as sure as the fixed order of sun, moon, stars and sea", cluster: theology}
+  counter-letter-against-prophet: {label: "A rival prophet in exile writes letters demanding that the prophet be silenced", cluster: prophecy}
+  covenant-with-day-and-night: {label: "God has a 'covenant with day and night' that fixes their order", cluster: cosmology}
+  creator-gives-earth-to-whom-he-pleases: {label: "The creator of earth, humans and beasts gives dominion to whomever he sees fit", cluster: theology}
+  creator-hymn-storehouses-of-wind: {label: "God made the earth by power, stretched the heavens, brings lightning for rain and wind from his storehouses", cluster: cosmology}
+  creatures-move-without-turning: {label: "The heavenly creatures move straight ahead in every direction without turning", cluster: merkavah}
+  creatures-with-calf-feet-and-human-hands: {label: "The heavenly creatures have straight legs with calves' hooves and human hands under their wings", cluster: merkavah}
+  crown-fallen-from-head: {label: "The crown has fallen from our head; woe to us for we have sinned", cluster: lament}
+  cry-heard-at-red-sea: {label: "The cry at a nation's fall is heard as far as the Red Sea", cluster: oracles-nations}
+  cry-out-in-night-watches: {label: "Arise and cry out in the night at the beginning of the watches, pour out your heart like water", cluster: lament}
+  crystal-firmament-over-creatures: {label: "A firmament gleaming like awesome ice/crystal is spread above the creatures' heads", cluster: merkavah}
+  curse-on-who-withholds-sword: {label: "Cursed is he who does YHWH's work slackly and keeps his sword from blood", cluster: war}
+  cush-put-lud-mercenaries: {label: "Egypt's army includes Cushite, Putite and Ludite mercenaries", cluster: war}
+  daily-loaf-from-bakers-street: {label: "The imprisoned prophet receives a daily loaf from the bakers' street until bread runs out", cluster: narrative}
+  david-never-lacks-a-man-on-throne: {label: "David shall never lack a man to sit on the throne of Israel", cluster: kingship}
+  day-for-a-year: {label: "Prophetic time reckoned a day for each year", cluster: prophecy}
+  day-of-the-lords-anger: {label: "The day of YHWH's anger on which none escape", cluster: eschatology}
+  day-of-vengeance-of-the-lord: {label: "A day of vengeance belonging to YHWH of hosts against his foes", cluster: eschatology}
+  day-unlike-any-other: {label: "A great day of distress unlike any other, 'the time of Jacob's trouble', from which he will be saved", cluster: eschatology}
+  deportation-numbers: {label: "Precise numbers of deportees for each year of exile", cluster: history}
+  desert-demons-inhabit-ruins: {label: "Desert creatures or demons (tsiyyim, iyyim) and ostriches inhabit the ruined city", cluster: demonology}
+  destroyed-scripture-rewritten-with-additions: {label: "A destroyed sacred book is rewritten from dictation with many words added", cluster: scribal}
+  destroying-mountain-made-burnt-mountain: {label: "The empire as a 'destroying mountain' to be rolled down and made a burnt mountain", cluster: oracles-nations}
+  destroying-wind-stirred-by-god: {label: "God stirs up a destroying wind (or spirit) against the empire", cluster: oracles-nations}
+  divine-name-no-longer-invoked: {label: "God swears his name will no longer be invoked in oaths by apostates in a foreign land", cluster: theology}
+  divine-slaughter-as-sacrifice: {label: "God's battle slaughter is called his sacrifice (zevah)", cluster: war}
+  diviners-dreamers-sorcerers-list: {label: "List of prophets, diviners, dreamers, soothsayers and sorcerers who give false assurance", cluster: divination}
+  do-not-seek-great-things: {label: "The prophet's scribe is told not to seek great things for himself; his life will be his reward", cluster: wisdom}
+  documents-stored-in-clay-jar: {label: "Deeds are put in an earthenware jar so they may last many days", cluster: scribal}
+  dove-nesting-in-gorge: {label: "Refugees told to dwell in the rocks like a dove nesting in the sides of a gorge", cluster: oracles-nations}
+  drunken-feast-eternal-sleep: {label: "God prepares a feast for the empire's leaders, makes them drunk, and they sleep an eternal sleep", cluster: oracles-nations}
+  dwelling-in-darkness-like-the-long-dead: {label: "God makes the sufferer dwell in darkness like those long dead", cluster: lament}
+  eagle-spreads-wings-over-nation: {label: "The enemy swoops like an eagle and spreads its wings over a land", cluster: oracles-nations}
+  edom-in-land-of-uz-drinks-cup: {label: "Daughter Edom, dwelling in the land of Uz, will drink the cup and strip herself", cluster: oracles-nations}
+  egypt-a-beautiful-heifer-stung-by-gadfly: {label: "Egypt a beautiful heifer, a gadfly from the north coming upon her", cluster: oracles-nations}
+  egypt-as-false-refuge: {label: "The remnant seeks safety in Egypt, where they think they will see no war nor hunger", cluster: exile}
+  egypt-hisses-like-serpent: {label: "Egypt's voice goes off like a hissing serpent", cluster: oracles-nations}
+  egypt-rising-like-the-nile: {label: "Egypt rises like the Nile flood, boasting to cover the earth", cluster: oracles-nations}
+  egyptian-help-is-futile: {label: "Pharaoh's relieving army will turn back home; reliance on Egypt fails", cluster: prophecy}
+  eikhah-lament-opening: {label: "A lament opens with the cry 'Eikhah!' (How!)", cluster: lament}
+  elders-cite-earlier-prophet-as-precedent: {label: "Elders cite an earlier prophet's unharmed oracle of doom as precedent for sparing a prophet", cluster: prophecy}
+  enigmatic-thirtieth-year-date: {label: "A vision dated 'in the thirtieth year' without stated era", cluster: prophecy}
+  envoy-sent-among-nations: {label: "An envoy is sent among the nations to summon them to battle", cluster: prophecy}
+  everlasting-covenant: {label: "God promises an everlasting covenant (berit olam) with his people", cluster: theology}
+  everlasting-love-of-god: {label: "God has loved his people with an everlasting love and drawn them with faithfulness", cluster: theology}
+  exiled-king-released-and-dines-with-captor: {label: "A captive king is released after decades, changes his prison clothes and eats at the foreign king's table", cluster: kingship}
+  eyes-flow-with-streams-of-water: {label: "The mourner's eyes run down with streams of water ceaselessly", cluster: lament}
+  fall-of-babylon: {label: "Babylon taken and destroyed", cluster: oracles-nations}
+  fall-of-jerusalem: {label: "Jerusalem is breached, captured and burned by the Babylonians", cluster: history}
+  false-prophet-dies-as-foretold: {label: "A false prophet dies within the year as the true prophet foretold", cluster: prophecy}
+  false-prophet-line-cut-off: {label: "A false prophet's descendants will be cut off and he will not see the coming good", cluster: prophecy}
+  false-prophets-burned-by-king: {label: "Lying prophets are roasted in fire by a foreign king and become a byword in curses", cluster: prophecy}
+  false-prophets-commit-adultery: {label: "Lying prophets commit adultery with their neighbors' wives", cluster: prophecy}
+  false-prophets-of-peace: {label: "Prophets falsely promise peace and safety while disaster approaches", cluster: prophecy}
+  fathers-abandon-children-in-panic: {label: "At the roar of chariots fathers do not turn back for their children", cluster: war}
+  fathers-ate-sour-grapes: {label: "Proverb 'The fathers ate sour grapes and the children's teeth are set on edge', rejected", cluster: theology}
+  fear-not-my-servant-jacob: {label: "'Fear not, Jacob my servant': God will save Israel from afar and discipline in measure", cluster: restoration}
+  fed-wormwood-and-gall: {label: "God sates the sufferer with bitterness and makes him drunk with wormwood", cluster: lament}
+  feet-sunk-in-mire: {label: "Someone's feet sink in the mud or mire", cluster: narrative}
+  female-surrounds-man-new-creation: {label: "God creates a new thing on earth: 'a female shall encompass a man'", cluster: eschatology}
+  fiery-torches-and-lightning-among-creatures: {label: "Fire like torches moves among the creatures and lightning flashes from it", cluster: merkavah}
+  fire-sent-into-bones: {label: "From on high God sent fire into the sufferer's bones", cluster: lament}
+  flee-from-babylon: {label: "Call to God's people to flee from Babylon and save their lives", cluster: exile}
+  flocks-pass-under-hand-of-counter: {label: "Flocks will again pass under the hand of the one who counts them in the towns of Judah", cluster: restoration}
+  foe-from-the-north: {label: "A destroying nation comes from the north", cluster: prophecy}
+  footstool-of-god-forgotten: {label: "God did not remember his footstool (Zion or the ark) on the day of his anger", cluster: lament}
+  forehead-hard-as-diamond: {label: "God makes the prophet's forehead as hard as diamond against a hard-faced people", cluster: prophecy}
+  foreign-eunuch-rescues-prophet: {label: "A foreign (Cushite) eunuch at court intercedes for and rescues the prophet", cluster: narrative}
+  foreign-king-called-gods-servant: {label: "God calls the foreign conqueror 'my servant'", cluster: theology}
+  foreign-officer-acknowledges-israels-god: {label: "A foreign commander tells the prophet that his God brought this disaster for the people's sin", cluster: narrative}
+  foreigners-would-listen-israel-will-not: {label: "Foreign peoples of strange speech would heed the prophet, but Israel will not", cluster: prophecy}
+  four-faces-man-lion-ox-eagle: {label: "Each heavenly creature has four faces: human, lion, ox and eagle", cluster: merkavah}
+  four-living-creatures-hayyot: {label: "Four living creatures (hayyot) of human form bear the divine throne", cluster: merkavah}
+  four-winds-from-four-ends-of-heaven: {label: "God brings the four winds from the four ends of heaven to scatter a people", cluster: cosmology}
+  foxes-prowl-on-ruined-zion: {label: "Foxes (jackals) prowl over desolate Mount Zion", cluster: lament}
+  freed-slaves-re-enslaved: {label: "Owners free their Hebrew slaves under covenant oath, then take them back", cluster: law}
+  future-davidic-king-raised: {label: "God will raise up 'David their king' for the restored people", cluster: kingship}
+  gates-sunk-into-the-earth: {label: "The city's gates sink into the ground and their bars are broken", cluster: lament}
+  gentiles-enter-the-sanctuary: {label: "Nations forbidden to enter the assembly invade the sanctuary", cluster: cult}
+  give-wings-to-moab: {label: "'Give wings to Moab', for she must flee away", cluster: oracles-nations}
+  glory-appears-in-the-valley: {label: "The glory seen by the river appears again to the prophet in a valley/plain", cluster: merkavah}
+  glory-of-the-lord-kavod: {label: "The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned", cluster: merkavah}
+  god-abandons-own-sanctuary: {label: "God himself spurns his altar and destroys his own sanctuary and festivals", cluster: theology}
+  god-as-advocate-and-redeemer: {label: "God pleads the sufferer's cause and redeems his life", cluster: theology}
+  god-as-father-of-israel: {label: "God declares 'I am a father to Israel'", cluster: theology}
+  god-as-hunter-or-archer-against-sufferer: {label: "God like a bear or lion lying in wait, bending his bow and shooting arrows into the sufferer", cluster: lament}
+  god-as-portion-of-jacob: {label: "'The Portion of Jacob' is not like idols, but the former of all things", cluster: theology}
+  god-becomes-enemy-of-his-people: {label: "The Lord has become like an enemy to his own people", cluster: theology}
+  god-cast-down-glory-from-heaven: {label: "God cast down the splendor of Israel from heaven to earth", cluster: lament}
+  god-does-not-afflict-willingly: {label: "God does not willingly afflict or grieve human beings", cluster: theology}
+  god-dries-up-sea-of-babylon: {label: "God dries up Babylon's 'sea' and makes her fountain dry", cluster: oracles-nations}
+  god-heals-the-city: {label: "God promises to bring healing and cure to the ruined city", cluster: restoration}
+  god-is-witness: {label: "God is the one who knows and is witness against secret sins", cluster: theology}
+  god-may-relent-if-people-repent: {label: "Perhaps the people will turn from evil and God will relent of the disaster he planned", cluster: theology}
+  god-of-nation-goes-into-exile: {label: "A conquered nation's god goes into exile with his priests and princes", cluster: oracles-nations}
+  god-opens-armory-of-wrath: {label: "God opens his armory and brings out the weapons of his indignation", cluster: war}
+  god-relents-cow-dung-substitute: {label: "After the prophet protests, God allows cow dung instead of human dung for baking", cluster: prophecy}
+  god-remembers-sin-no-more: {label: "God will forgive iniquity and remember sin no more", cluster: theology}
+  god-repents-of-evil-done: {label: "God says he repents (nihamti) of the evil he did to his people", cluster: theology}
+  god-sets-throne-in-foreign-land: {label: "God sets his own throne in a conquered foreign land", cluster: oracles-nations}
+  god-spreads-net-for-feet: {label: "God spread a net for the sufferer's feet and turned him back", cluster: lament}
+  god-stirs-sea-waves-roar: {label: "God who stirs up the sea so its waves roar", cluster: cosmology}
+  god-swears-by-his-great-name: {label: "God swears by his great name", cluster: theology}
+  god-treads-winepress-of-virgin-judah: {label: "The Lord trod the virgin daughter of Judah as in a winepress", cluster: lament}
+  gods-bowels-yearn: {label: "God's innards yearn (hamu me'ai) with compassion for his wayward son", cluster: theology}
+  gods-eyes-open-on-all-ways: {label: "God's eyes are open on all the ways of humanity to repay each by his deeds", cluster: theology}
+  gods-throne-endures-forever: {label: "YHWH sits enthroned forever; his throne endures from generation to generation", cluster: theology}
+  golden-cup-intoxicating-nations: {label: "Babylon is a golden cup in God's hand that made all the earth drunk", cluster: oracles-nations}
+  good-and-evil-from-mouth-of-most-high: {label: "Both evil and good come from the mouth of the Most High", cluster: theology}
+  good-to-bear-yoke-in-youth: {label: "It is good for a man to bear the yoke in his youth", cluster: wisdom}
+  governor-appointed-over-remnant: {label: "The conqueror appoints a native governor over the remnant left in the land", cluster: history}
+  grace-in-the-wilderness: {label: "The people who survived the sword found grace in the wilderness", cluster: restoration}
+  grape-gatherers-leave-gleanings: {label: "Grape-gatherers would leave gleanings and thieves take only enough, but God strips the nation bare", cluster: oracles-nations}
+  grape-treaders-shout-hedad-ceases: {label: "The joyful 'hedad' shout of grape-treaders falls silent", cluster: oracles-nations}
+  hammer-of-the-whole-earth: {label: "Babylon called the 'hammer of the whole earth' is broken", cluster: oracles-nations}
+  hand-of-the-lord-on-prophet: {label: "'The hand of YHWH was upon' the prophet, bringing a vision or transport", cluster: prophecy}
+  hand-stretched-out-holding-scroll: {label: "A hand is stretched out to the prophet holding a scroll", cluster: revelation}
+  harem-women-taunt-the-king: {label: "The king's women led out to the conquerors sing a taunt that his friends deceived him", cluster: kingship}
+  hashmal-amber-gleam: {label: "The center of the fire gleams like hashmal (amber/electrum)", cluster: merkavah}
+  heaven-and-earth-rejoice-over-fall: {label: "Heaven and earth and all in them sing for joy over the empire's fall", cluster: eschatology}
+  heavenly-scroll-eaten-by-prophet: {label: "The prophet is made to eat a heavenly scroll", cluster: revelation}
+  heavens-cannot-be-measured: {label: "If the heavens above could be measured and the earth's foundations searched out, God would reject Israel", cluster: cosmology}
+  heavens-opened-vision: {label: "The heavens are opened and the prophet sees visions of God", cluster: revelation}
+  hebrew-slave-freed-in-seventh-year: {label: "A Hebrew slave must be freed after six years of service", cluster: law}
+  hidden-stores-buy-life: {label: "Captives buy their lives by revealing hidden stores of wheat, barley, oil and honey", cluster: narrative}
+  holy-stones-scattered-in-streets: {label: "The holy stones lie scattered at the head of every street", cluster: lament}
+  horn-cut-off-arm-broken: {label: "A nation's horn is cut off and its arm broken", cluster: war}
+  hoy-lament-cry: {label: "Funeral cry 'Hoy, lord!' (alas, master) for a dead king", cluster: mourning}
+  hunted-like-a-bird: {label: "Enemies hunted the sufferer like a bird without cause", cluster: lament}
+  idol-polemic-no-breath: {label: "Every goldsmith is shamed by his idol; his images are false with no breath in them", cluster: cult}
+  incense-to-baal-on-rooftops: {label: "Incense offered to Baal and libations to other gods on the roofs of houses", cluster: cult}
+  incurable-wound-of-zion: {label: "Zion's wound is incurable, with no healing and no one to plead her cause", cluster: lament}
+  individual-responsibility-for-sin: {label: "Each person dies for his own sin", cluster: theology}
+  infant-tongue-cleaves-from-thirst: {label: "The suckling's tongue cleaves to its palate from thirst", cluster: lament}
+  inheritance-turned-to-strangers: {label: "Our inheritance is turned over to strangers, our houses to foreigners", cluster: lament}
+  innocent-blood-on-city: {label: "Killing the innocent prophet will bring innocent blood upon the city and its people", cluster: law}
+  invaders-like-woodcutters-and-locusts: {label: "Invaders come with axes like woodcutters, more numerous than locusts", cluster: war}
+  iron-griddle-as-wall: {label: "The prophet sets an iron griddle as an iron wall between himself and the city", cluster: prophecy}
+  ironic-call-to-arms: {label: "Ironic summons to an army to arm itself before its rout", cluster: war}
+  ironic-measure-for-measure-release: {label: "Because they revoked the slaves' release, God 'proclaims a release' for them to sword, pestilence and famine", cluster: law}
+  ironic-permission-fulfill-your-vows: {label: "The prophet ironically tells idolaters to go ahead and fulfill their vows", cluster: prophecy}
+  is-any-sorrow-like-my-sorrow: {label: "'Is it nothing to you, all who pass by? Look and see if there is any sorrow like my sorrow'", cluster: lament}
+  israel-not-widowed: {label: "Israel and Judah are not widowed of their God", cluster: theology}
+  jackals-nurse-but-ostrich-is-cruel: {label: "Even jackals nurse their young, but the people have become cruel like ostriches", cluster: lament}
+  judean-diaspora-in-egypt: {label: "Judeans settled in Egyptian cities: Migdol, Tahpanhes, Memphis and Pathros", cluster: exile}
+  killing-of-prophets: {label: "A king or people kills a prophet of God", cluster: prophecy}
+  king-burns-scroll-column-by-column: {label: "The king cuts the prophetic scroll column by column with a scribe's knife and burns it in his brazier", cluster: scribal}
+  king-captured-in-plains-of-jericho: {label: "The fleeing king is overtaken in the plains of Jericho", cluster: history}
+  king-consults-prophet-secretly: {label: "The king secretly summons the imprisoned prophet to ask for a word from God", cluster: kingship}
+  king-corpse-exposed-heat-and-frost: {label: "The king's corpse will be cast out to heat by day and frost by night", cluster: kingship}
+  king-daughters-taken-captive: {label: "The king's daughters are taken captive", cluster: war}
+  king-swallowed-like-dragon: {label: "The conqueror swallowed the city like a dragon (tannin) and filled his belly", cluster: oracles-nations}
+  king-will-see-conqueror-eye-to-eye: {label: "The king will see the conquering king eye to eye and speak with him mouth to mouth", cluster: kingship}
+  kings-of-earth-did-not-believe-jerusalem-could-fall: {label: "The kings of the earth did not believe an enemy could enter Jerusalem's gates", cluster: lament}
+  kings-of-the-medes-stirred: {label: "God stirs up the spirit of the kings of the Medes against Babylon", cluster: oracles-nations}
+  lachish-and-azekah-last-cities: {label: "Lachish and Azekah are the last fortified cities of Judah holding out", cluster: history}
+  land-of-idols-mad-over-terrors: {label: "Babylon is a land of idols, mad over their terrors", cluster: cult}
+  law-written-on-heart: {label: "God will put his law within the people and write it on their hearts", cluster: theology}
+  layered-hedged-language-likeness-of-appearance: {label: "The visionary hedges every description: 'the appearance of the likeness of...'", cluster: merkavah}
+  levitical-priests-never-cut-off: {label: "The Levitical priests will never lack a man to offer sacrifice before God", cluster: cult}
+  lifting-heart-with-hands-to-god-in-heaven: {label: "Let us lift up our hearts with our hands to God in heaven", cluster: liturgy}
+  lifting-the-head-of-prisoner: {label: "A king 'lifts the head' of a prisoner, releasing and honoring him", cluster: kingship}
+  like-juniper-in-wilderness: {label: "Fugitives become like a juniper (or wild ass) in the desert", cluster: prophecy}
+  likeness-of-a-man-on-the-throne: {label: "On the throne is 'a likeness as the appearance of a man'", cluster: merkavah}
+  lineage-stands-before-god-forever: {label: "A family is promised that it will never lack a man to stand before God", cluster: blessing}
+  lion-from-jordan-thicket: {label: "The conqueror comes up like a lion from the jungle of the Jordan", cluster: war}
+  liver-poured-out-on-ground: {label: "The mourner's liver is poured out on the ground", cluster: lament}
+  lost-sheep-misled-by-shepherds: {label: "God's people are lost sheep whose shepherds led them astray on the mountains", cluster: prophecy}
+  lovers-forsake-the-city: {label: "The city's lovers and allies forsake or betray her", cluster: lament}
+  lying-on-side-390-and-40-days: {label: "The prophet lies on his left side 390 days and his right side 40 days bearing the iniquity of Israel and Judah", cluster: prophecy}
+  measuring-line-for-new-jerusalem: {label: "A measuring line marks out the boundaries of the rebuilt holy city", cluster: restoration}
+  men-writhe-like-women-in-labor: {label: "Men clutch their loins like women in labor and every face turns pale", cluster: prophecy}
+  merathaim-and-pekod-wordplay: {label: "Babylon addressed by wordplay names: Merathaim ('double rebellion') and Pekod ('punishment')", cluster: oracles-nations}
+  mercies-new-every-morning: {label: "God's mercies are not ended; they are new every morning; great is your faithfulness", cluster: theology}
+  message-to-envoys-of-neighbor-kings: {label: "The prophet sends a message to the neighboring kings through their envoys in Jerusalem", cluster: prophecy}
+  milcom-god-dispossessed-gad: {label: "Milcom (their 'king') dispossessed the tribe of Gad and will go into exile", cluster: oracles-nations}
+  mixed-grain-bread: {label: "Siege bread made of wheat, barley, beans, lentils, millet and spelt mixed in one vessel", cluster: prophecy}
+  mocked-in-song-by-all: {label: "The sufferer becomes the laughing-stock and mocking song of all his people", cluster: lament}
+  mouth-in-the-dust: {label: "Let him put his mouth in the dust; perhaps there is hope", cluster: lament}
+  murder-at-shared-meal: {label: "Guests eat bread with their host and then murder him", cluster: narrative}
+  nation-made-drunk-wallows-in-vomit: {label: "A nation made drunk wallows in its vomit and becomes a laughing-stock", cluster: oracles-nations}
+  nation-restored-after-judgment: {label: "After judgment a foreign land will be inhabited again as in former days", cluster: oracles-nations}
+  nazirites-whiter-than-snow: {label: "The city's nazirites (princes) were purer than snow, whiter than milk, ruddier than coral; now blacker than soot", cluster: lament}
+  nest-high-as-eagle-brought-down: {label: "Though you make your nest as high as the eagle's, God will bring you down", cluster: oracles-nations}
+  new-covenant: {label: "God will make a new covenant with Israel and Judah, unlike the one broken after the exodus", cluster: theology}
+  no-heir-on-davids-throne: {label: "The king will have no descendant sitting on David's throne", cluster: kingship}
+  no-one-to-comfort-refrain: {label: "Refrain that the city has no one to comfort her", cluster: lament}
+  no-rending-of-garments: {label: "The king and his servants hear the words of judgment and do not tear their garments", cluster: kingship}
+  no-torah-no-vision: {label: "There is no torah, and the prophets find no vision from YHWH", cluster: lament}
+  nobles-embrace-dunghills: {label: "Those raised in scarlet now embrace dunghills", cluster: lament}
+  nomadic-tent-dwelling-ideal: {label: "A group keeps an ancestral rule to live in tents, not build houses, sow seed or plant vineyards", cluster: asceticism}
+  non-acrostic-twenty-two-lines: {label: "A poem of twenty-two lines matching the alphabet count but not acrostic", cluster: poetics}
+  obedience-to-ancestors-shames-people: {label: "A family's faithful obedience to its ancestor's command shames the people who disobey God", cluster: prophecy}
+  obelisks-of-heliopolis-broken: {label: "The conqueror breaks the obelisks (matsevot) of Beth-shemesh/Heliopolis in Egypt", cluster: oracles-nations}
+  officials-afraid-hearing-scroll: {label: "Royal officials turn in fear to one another when the scroll is read to them", cluster: scribal}
+  officials-hide-prophet: {label: "Sympathetic officials tell the prophet and his scribe to hide", cluster: narrative}
+  officials-plead-against-burning: {label: "Some officials beg the king not to burn the scroll", cluster: scribal}
+  officials-sit-at-new-gate-as-court: {label: "Royal officials sit at the entrance of the New Gate to judge the prophet", cluster: law}
+  offscouring-and-refuse-among-peoples: {label: "God made his people offscouring and refuse among the nations", cluster: lament}
+  one-heart-and-one-way: {label: "God will give his people one heart and one way to fear him always", cluster: theology}
+  oracle-arrives-after-ten-days: {label: "The prophet's answer from God comes only after ten days", cluster: prophecy}
+  orphans-and-widows-image-of-nation: {label: "The people have become orphans without a father, their mothers like widows", cluster: lament}
+  overthrow-of-sodom-and-gomorrah-as-paradigm: {label: "A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited", cluster: prophecy}
+  palaces-of-ben-hadad-burned: {label: "Fire kindled in the wall of Damascus devours the palaces of Ben-hadad", cluster: oracles-nations}
+  passers-by-hiss-and-wag-heads: {label: "Passers-by clap hands, hiss and wag their heads at the ruined city", cluster: lament}
+  patron-official-protects-prophet: {label: "A powerful official protects the prophet from the mob", cluster: narrative}
+  paying-for-own-water-and-wood: {label: "The conquered must pay for their own water and buy their wood", cluster: lament}
+  pe-before-ayin-acrostic-order: {label: "An alphabetic acrostic places the letter pe before ayin", cluster: poetics}
+  peace-prophet-proven-by-fulfillment: {label: "A prophet who prophesies peace is known as truly sent only when his word comes true", cluster: prophecy}
+  people-ask-prophet-to-intercede: {label: "The people ask the prophet to pray for them and to tell them God's word", cluster: prophecy}
+  people-vow-to-obey-oracle-then-refuse: {label: "The people swear to obey whatever God answers, then reject the oracle", cluster: prophecy}
+  peoples-labor-for-fire: {label: "Peoples labor only for fire and nations weary themselves for nothing", cluster: wisdom}
+  personified-city-speaks: {label: "The ruined city, personified as a woman, speaks in the first person", cluster: lament}
+  pharaoh-hophra-handed-to-enemies: {label: "Pharaoh Hophra will be handed over to those who seek his life", cluster: history}
+  pharaoh-nicknamed-noise: {label: "Pharaoh is mockingly renamed 'Noise who let the appointed time pass'", cluster: oracles-nations}
+  pilgrims-with-shaved-beards-and-cuttings: {label: "Mourning pilgrims with shaved beards, torn clothes and gashes bring offerings to the ruined temple", cluster: cult}
+  poor-of-land-left-with-vineyards: {label: "The conqueror leaves the poorest people in the land as vinedressers and farmers", cluster: history}
+  pray-for-welfare-of-foreign-city: {label: "Exiles told to seek the welfare of the foreign city and pray to God for it", cluster: exile}
+  prayer-shut-out: {label: "God shuts out the sufferer's prayer or wraps himself in a cloud so no prayer passes", cluster: lament}
+  precious-sons-like-clay-pots: {label: "Zion's precious sons, worth fine gold, now counted as clay pots", cluster: lament}
+  price-seventeen-shekels: {label: "A field bought for seventeen shekels of silver", cluster: law}
+  pride-of-moab: {label: "The great pride, arrogance and haughtiness of Moab", cluster: oracles-nations}
+  priest-and-prophet-slain-in-sanctuary: {label: "Priest and prophet are slain in the sanctuary of the Lord", cluster: lament}
+  priest-prophet: {label: "The prophet is himself a priest or of priestly family", cluster: prophecy}
+  priests-and-prophets-shed-righteous-blood: {label: "The city fell for the sins of its prophets and priests who shed the blood of the righteous", cluster: lament}
+  princes-hanged-by-their-hands: {label: "Princes hanged up by their hands by the enemy", cluster: war}
+  princes-like-deer-without-pasture: {label: "The princes became like deer that find no pasture and flee without strength", cluster: lament}
+  princess-becomes-forced-laborer: {label: "She who was a princess among provinces has become a forced laborer", cluster: lament}
+  prisoner-freed-from-chains: {label: "A captive's chains are removed by the captor", cluster: narrative}
+  prophet-accused-of-desertion: {label: "The prophet leaving the city is arrested at the gate as a deserter to the enemy", cluster: prophecy}
+  prophet-accused-of-weakening-hands: {label: "Officials accuse the prophet of weakening the hands of the soldiers and seek his death", cluster: prophecy}
+  prophet-addressed-as-son-of-man: {label: "God addresses the prophet as 'son of man' (ben adam)", cluster: prophecy}
+  prophet-among-thorns-and-scorpions: {label: "The prophet lives among briers, thorns and scorpions, yet must not fear", cluster: prophecy}
+  prophet-as-watchman: {label: "God appoints the prophet as a watchman (tsofeh) for the house of Israel", cluster: prophecy}
+  prophet-bears-iniquity-of-people: {label: "The prophet symbolically bears the iniquity of the people in his body", cluster: prophecy}
+  prophet-beaten-and-imprisoned: {label: "Officials beat the prophet and imprison him in a dungeon", cluster: prophecy}
+  prophet-buys-field-as-sign: {label: "The prophet buys a family field during siege as a sign that land will again be bought", cluster: prophecy}
+  prophet-called-liar: {label: "Opponents tell the prophet 'You are lying; God did not send you'", cluster: prophecy}
+  prophet-carried-by-spirit: {label: "The spirit lifts and carries the prophet away", cluster: prophecy}
+  prophet-confined-in-house: {label: "The prophet is told to shut himself in his house", cluster: prophecy}
+  prophet-dictates-to-scribe: {label: "The prophet dictates God's words and a scribe writes them in a scroll", cluster: scribal}
+  prophet-falls-on-face-before-god: {label: "The prophet falls on his face at the sight of God's glory", cluster: prophecy}
+  prophet-flees-to-egypt-extradited-killed: {label: "A prophet flees to Egypt but is brought back by the king's men and executed", cluster: prophecy}
+  prophet-given-free-choice-where-to-go: {label: "The released prophet is told he may come with the captor or go wherever he likes", cluster: narrative}
+  prophet-imprisoned-in-guard-court: {label: "The prophet is confined in the court of the guard in the palace", cluster: prophecy}
+  prophet-protests-never-eaten-unclean: {label: "The prophet protests that he has never eaten carrion, torn meat or foul flesh", cluster: purity}
+  prophet-put-on-trial-for-prophecy: {label: "A prophet is put on trial for capital charges because of his oracle", cluster: prophecy}
+  prophet-says-amen-ironically: {label: "The prophet answers a rival's optimistic oracle with 'Amen, may YHWH do so'", cluster: prophecy}
+  prophet-should-intercede-test: {label: "True prophets would intercede with God; the false do not", cluster: prophecy}
+  prophet-sits-stunned-seven-days: {label: "After his vision the prophet sits stunned among the people for seven days", cluster: prophecy}
+  prophet-stands-in-temple-court-to-preach: {label: "The prophet is commanded to stand in the temple court and proclaim to worshipers", cluster: prophecy}
+  prophet-struck-dumb: {label: "God makes the prophet's tongue cleave to his palate so he is mute except when God speaks", cluster: prophecy}
+  prophet-taken-to-egypt-against-will: {label: "The prophet is taken down to Egypt against his counsel by the fleeing remnant", cluster: prophecy}
+  prophet-told-to-conceal-conversation: {label: "The king tells the prophet to hide what they discussed from the officials", cluster: kingship}
+  prophet-versus-prophet-contest: {label: "Two prophets publicly contradict each other's oracles", cluster: prophecy}
+  prophet-wakes-from-sweet-sleep: {label: "The prophet awakes from a vision-sleep that was sweet to him", cluster: revelation}
+  prophet-wears-yoke: {label: "The prophet wears a yoke on his neck as a sign of submission to the empire", cluster: prophecy}
+  prophet-weeps-for-enemy-nation: {label: "The prophet wails and his heart moans for a foreign nation's destruction", cluster: prophecy}
+  prophetic-call-narrative: {label: "Narrative of a prophet's commissioning by God", cluster: prophecy}
+  prophetic-sign-act: {label: "A prophet performs a symbolic action that enacts the message", cluster: prophecy}
+  prophets-letter-to-exiles: {label: "The prophet sends a letter to the exiles in a foreign land", cluster: exile}
+  punishment-of-foreign-gods: {label: "God punishes a nation's gods along with its king and people", cluster: theology}
+  pursuers-swifter-than-eagles: {label: "Pursuers were swifter than the eagles of heaven, chasing over mountains and desert", cluster: lament}
+  queen-mother-and-eunuchs-exiled: {label: "The king is deported with the queen mother, eunuchs, officials and craftsmen", cluster: history}
+  queen-of-heaven-cult: {label: "Offerings, incense and libations to the 'Queen of Heaven'", cluster: cult}
+  rachel-weeps-for-her-children: {label: "Rachel weeps in Ramah for her children and refuses to be comforted", cluster: lament}
+  rags-padding-under-armpits-for-rescue: {label: "Worn-out rags are lowered for padding under the armpits as the prisoner is drawn up with ropes", cluster: narrative}
+  rainbow-radiance-around-god: {label: "The radiance around the enthroned figure is like the rainbow in the cloud", cluster: merkavah}
+  rape-of-women-in-conquest: {label: "Women are raped in Zion and virgins in the towns of Judah", cluster: war}
+  rebellious-house: {label: "Israel called 'a rebellious house' (beit meri)", cluster: prophecy}
+  rechabites-ancestral-abstinence: {label: "The Rechabites keep their ancestor's command never to drink wine", cluster: asceticism}
+  refugees-enter-jerusalem-from-invaders: {label: "Nomads take refuge in Jerusalem from invading armies", cluster: narrative}
+  restoration-of-foreign-nation-in-latter-days: {label: "God will restore the fortunes of a foreign nation in the latter days", cluster: eschatology}
+  retributive-justice-do-to-her-as-she-did: {label: "Repay the city according to her deeds: do to her as she has done", cluster: theology}
+  righteous-branch-of-david: {label: "God will cause a righteous Branch (tsemah) to sprout for David", cluster: messianism}
+  righteous-foreigner-rewarded-for-trust: {label: "A foreigner who helped the prophet is promised his life will be spared because he trusted God", cluster: narrative}
+  righteous-man-who-turns-to-evil-dies: {label: "A righteous man who turns to iniquity dies and his former righteousness is not remembered", cluster: theology}
+  road-markers-for-return: {label: "Set up road markers and guideposts for the returning exiles", cluster: restoration}
+  roads-of-zion-mourn: {label: "The roads to Zion mourn because none come to the festivals", cluster: lament}
+  rotten-figs-image: {label: "Those remaining are made like rotten figs too bad to eat", cluster: prophecy}
+  royal-funeral-burnings: {label: "Burnings (of spices) made at a king's funeral as for his fathers", cluster: mourning}
+  royal-seed-assassin: {label: "A member of the royal family carries out a political assassination", cluster: kingship}
+  ruins-become-jackal-haunt: {label: "A ruined city becomes a haunt of jackals, desolate forever", cluster: prophecy}
+  ruler-draws-near-to-god-risking-life: {label: "The future ruler will draw near to God, for who would risk his life to approach unbidden?", cluster: kingship}
+  runner-meets-runner-messengers: {label: "Runner after runner and messenger after messenger bring the king news of his city's fall", cluster: war}
+  rushing-sound-of-wings-and-wheels: {label: "A great rushing sound of the creatures' wings and the wheels behind the prophet", cluster: merkavah}
+  sapphire-throne: {label: "God's throne appears like sapphire (lapis lazuli) above the firmament", cluster: merkavah}
+  scattered-jews-return-and-harvest: {label: "Scattered refugees return from neighboring lands and gather an abundant harvest", cluster: exile}
+  scribe-baruch: {label: "Baruch son of Neriah, the prophet's scribe", cluster: scribal}
+  scribe-laments-weariness: {label: "The prophet's scribe laments that God has added sorrow to his pain and he finds no rest", cluster: scribal}
+  scroll-read-on-fast-day: {label: "A prophetic scroll is read publicly in the temple on a fast day", cluster: scribal}
+  scroll-sweet-as-honey-in-mouth: {label: "The eaten scroll tastes sweet as honey in the prophet's mouth", cluster: revelation}
+  scroll-tied-to-stone-sunk-in-river: {label: "A scroll of oracles is tied to a stone and thrown into a river as a sign the city will sink", cluster: prophecy}
+  scroll-written-front-and-back: {label: "A scroll written on front and back with laments, mourning and woe", cluster: revelation}
+  sea-covers-babylon: {label: "The sea rises over Babylon and covers her with its roaring waves", cluster: oracles-nations}
+  sealed-and-open-deed: {label: "A land deed made in a sealed copy and an open copy, witnessed and the silver weighed", cluster: law}
+  search-our-ways-and-return: {label: "Let us search and examine our ways and return to YHWH", cluster: theology}
+  secret-oath-of-king-to-prophet: {label: "The king secretly swears to the prophet not to kill him or hand him over", cluster: kingship}
+  seek-god-with-whole-heart-and-find: {label: "You will seek me and find me when you seek me with all your heart", cluster: theology}
+  shepherd-delouses-garment-image: {label: "The conqueror will wrap (or pick clean) Egypt as a shepherd does his garment", cluster: oracles-nations}
+  shout-in-temple-like-feast-day: {label: "Enemies raise a shout in the temple as on a festival day", cluster: lament}
+  siege-ramps: {label: "Siege ramps are raised against the city", cluster: war}
+  siege-rations-weighed-and-measured: {label: "Bread eaten by weight and water drunk by measure, as in a siege", cluster: prophecy}
+  siege-wall-built-around-city: {label: "The besiegers build a siege wall (dayeq) around the city", cluster: war}
+  sign-object-broken-by-rival: {label: "A rival prophet breaks the prophet's sign-object as a counter-sign", cluster: prophecy}
+  sin-greater-than-sodoms: {label: "The people's iniquity is greater than the sin of Sodom, overthrown in a moment", cluster: lament}
+  sin-sought-and-not-found: {label: "Israel's iniquity will be sought and not found, for God pardons the remnant", cluster: theology}
+  skin-hot-as-oven-from-famine: {label: "Our skin is hot as an oven from the burning of famine", cluster: lament}
+  slaves-rule-over-us: {label: "Slaves rule over the conquered with no one to deliver them", cluster: lament}
+  soul-like-watered-garden: {label: "The returned people's life will be like a watered garden", cluster: restoration}
+  sound-of-wings-like-many-waters: {label: "The creatures' wings sound like many waters, like the voice of Shaddai", cluster: merkavah}
+  sowing-house-of-israel-with-seed: {label: "God will sow the house of Israel with seed of man and seed of beast", cluster: restoration}
+  spirit-enters-and-stands-prophet-up: {label: "A spirit enters the prophet and sets him on his feet", cluster: prophecy}
+  spirit-of-creature-in-wheels: {label: "The spirit of the living creature is in the wheels, which move with them", cluster: merkavah}
+  stones-buried-under-palace-pavement: {label: "The prophet buries large stones in the pavement at Pharaoh's palace where the conqueror will set his throne", cluster: prophecy}
+  storm-of-divine-wrath: {label: "YHWH's wrath goes out as a whirling storm on the head of the wicked", cluster: theology}
+  storm-wind-from-the-north-theophany: {label: "The vision begins with a storm wind, great cloud and flashing fire coming from the north", cluster: merkavah}
+  surrender-and-live-life-as-spoil: {label: "Whoever surrenders to the enemy will live; his life shall be his booty", cluster: prophecy}
+  sword-famine-pestilence-triad: {label: "Judgment by the triad sword, famine and pestilence", cluster: prophecy}
+  sword-litany-against-city: {label: "Repeated 'A sword upon...' litany against every class of a city", cluster: oracles-nations}
+  sword-of-the-lord-addressed: {label: "The prophet addresses the sword of YHWH: how long until you rest in your sheath?", cluster: war}
+  sword-outside-death-inside: {label: "Outside the sword bereaves, inside it is like death", cluster: lament}
+  tears-flow-like-a-torrent-day-and-night: {label: "Let tears run down like a torrent day and night with no rest", cluster: lament}
+  teeth-broken-on-gravel: {label: "God made the sufferer's teeth grind on gravel and cowered him in ashes", cluster: lament}
+  temple-chamber-of-man-of-god: {label: "A named chamber in the temple belonging to the sons of a 'man of God'", cluster: cult}
+  temple-will-become-like-shiloh: {label: "The Jerusalem temple will be made like ruined Shiloh", cluster: prophecy}
+  terror-pit-snare: {label: "'Terror, pit and snare': who flees the terror falls into the pit, who climbs out is caught in the snare", cluster: prophecy}
+  the-feared-evil-overtakes-in-refuge: {label: "The sword and famine they fear will overtake them in the very place they flee to", cluster: prophecy}
+  theodicy-the-lord-is-righteous: {label: "The sufferer confesses 'YHWH is righteous, for I rebelled against his word'", cluster: theology}
+  thirty-men-rescue-party: {label: "Thirty men are sent to lift the prophet out of the pit before he dies", cluster: narrative}
+  three-generations-of-empire: {label: "All nations will serve the conqueror, his son and his grandson until his land's own time comes", cluster: prophecy}
+  threshing-floor-harvest-of-judgment: {label: "The city is like a threshing floor at treading time; soon her harvest comes", cluster: oracles-nations}
+  travel-provisions-and-gift: {label: "The released captive is given food allowance and a present and sent on his way", cluster: narrative}
+  treasures-traded-for-food: {label: "The starving people trade their treasures for food to keep alive", cluster: lament}
+  triple-alphabetic-acrostic: {label: "Acrostic in which each letter begins three consecutive verses", cluster: poetics}
+  turn-the-other-cheek: {label: "Let him give his cheek to the one who strikes him and be filled with reproach", cluster: ethics}
+  turn-us-and-we-shall-turn: {label: "Prayer 'Turn us back to you, YHWH, and we shall return'", cluster: theology}
+  two-chosen-families-rejected-taunt: {label: "People say God has rejected the two families he chose", cluster: theology}
+  two-years-restoration-promise: {label: "A prophet promises the exiles and temple vessels will return within two years", cluster: prophecy}
+  unclean-food-in-exile: {label: "Israel will eat unclean bread among the nations", cluster: purity}
+  uproot-and-plant-commission: {label: "God watches to uproot and tear down, to build and to plant", cluster: prophecy}
+  vain-hope-in-foreign-ally: {label: "Our eyes failed watching for help from a nation that could not save", cluster: lament}
+  valley-of-corpses-made-holy: {label: "Even the valley of corpses and ashes will be holy to YHWH in the rebuilt city", cluster: restoration}
+  vassal-king-installed-by-conqueror: {label: "The conqueror installs a king of his choosing over the vassal kingdom", cluster: kingship}
+  vengeance-for-the-temple: {label: "The destruction of Babylon is YHWH's vengeance for his temple", cluster: theology}
+  vine-of-sibmah: {label: "The vine of Sibmah whose tendrils crossed the sea, now despoiled", cluster: oracles-nations}
+  virgin-israel-dances-with-timbrels: {label: "Virgin Israel will again adorn herself with timbrels and go out in dances", cluster: restoration}
+  vision-by-a-river-in-exile: {label: "A prophet receives visions beside a river in the land of exile", cluster: revelation}
+  voice-of-bride-and-bridegroom: {label: "The voice of the bridegroom and the bride will again be heard in the ruined land", cluster: restoration}
+  wait-silently-for-salvation: {label: "It is good to wait silently for the salvation of YHWH", cluster: theology}
+  walled-in-by-god: {label: "God has walled the sufferer in, blocked his ways with hewn stones and weighted his chains", cluster: lament}
+  war-club-of-god: {label: "God calls a nation his war-club with which he shatters nations, horses, chariots and people", cluster: war}
+  warned-leader-disbelieves-plot: {label: "A leader warned of an assassination plot refuses to believe it", cluster: narrative}
+  warriors-become-women: {label: "The enemy's warriors become like women", cluster: war}
+  warriors-hearts-like-woman-in-labor: {label: "The heart of warriors on that day is like the heart of a woman in labor", cluster: war}
+  wasting-away-in-iniquity: {label: "The besieged will waste away in their iniquity, appalled at one another", cluster: prophecy}
+  watchman-responsible-for-blood-if-silent: {label: "If the watchman fails to warn the wicked, God requires their blood from him", cluster: prophecy}
+  watchmen-call-pilgrimage-to-zion: {label: "Watchmen on Mount Ephraim call 'Arise, let us go up to Zion to YHWH'", cluster: restoration}
+  waters-from-north-flood: {label: "Waters rise from the north and become an overflowing torrent", cluster: prophecy}
+  weak-king-yields-to-officials: {label: "The king says he can do nothing against his officials and hands the prophet over", cluster: kingship}
+  weeping-in-the-night-tears-on-cheek: {label: "She weeps bitterly in the night with tears on her cheek", cluster: lament}
+  wheel-rims-full-of-eyes: {label: "The rims of the wheels are full of eyes all around", cluster: merkavah}
+  wheel-within-a-wheel: {label: "Wheels gleaming like beryl, constructed as a wheel within a wheel, beside each creature", cluster: merkavah}
+  whether-they-hear-or-refuse: {label: "The prophet must speak 'whether they hear or refuse'", cluster: prophecy}
+  who-is-like-me-challenge: {label: "God asks 'Who is like me? Who will summon me? What shepherd can stand before me?'", cluster: theology}
+  whose-word-shall-stand-mine-or-theirs: {label: "Events will show whose word will stand, God's or the people's", cluster: prophecy}
+  wild-beasts-given-to-world-ruler: {label: "God gives even the wild beasts of the field to serve the world conqueror", cluster: kingship}
+  wine-settled-on-its-lees: {label: "A nation at ease like wine settled on its lees, never poured from vessel to vessel", cluster: oracles-nations}
+  wine-test-offered-to-abstainers: {label: "The prophet sets wine before abstainers in the temple and they refuse", cluster: asceticism}
+  wings-touching-and-covering-bodies: {label: "Each creature has wings touching its neighbor's and wings covering its body", cluster: merkavah}
+  wisdom-of-teman: {label: "Is there no longer wisdom in Teman (Edom)?", cluster: wisdom}
+  wives-of-kings-lead-astray: {label: "The wickedness of the kings of Judah and of their wives", cluster: cult}
+  women-lead-household-goddess-cult-with-husbands-consent: {label: "Women burn incense to a goddess, claiming they did so with their husbands' knowledge", cluster: cult}
+  wooden-yoke-replaced-by-iron: {label: "The broken wooden yoke will be replaced by a yoke of iron", cluster: prophecy}
+  wordplay-on-place-names: {label: "Puns on the names of towns under judgment", cluster: poetics}
+  wounded-men-will-burn-city: {label: "Even if only wounded men remained in the enemy camp they would rise and burn the city", cluster: prophecy}
+  yhwh-our-righteousness-name: {label: "The name 'YHWH is our righteousness' (YHWH tsidqenu)", cluster: messianism}
+  yoke-of-sins-knotted-on-neck: {label: "The yoke of the sinner's transgressions is knotted by God's hand onto her neck", cluster: lament}
+  zion-plowed-as-field: {label: "Zion shall be plowed as a field and Jerusalem become heaps", cluster: prophecy}
+  ephraim-like-untrained-calf: {label: "Ephraim likens himself to an untrained calf, chastised, and slaps his thigh in repentance", cluster: repentance}
+units:
+  - id: hb-jer-26-temple-sermon-trial
+    tradition: judaism
+    title: "Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 26:1-24"]
+    tags:
+      - {motif: prophet-stands-in-temple-court-to-preach, refs: ["Jer 26:2"], note: "Do not diminish a word (al tigra davar)"}
+      - {motif: no-adding-or-subtracting, refs: ["Jer 26:2"]}
+      - {motif: god-may-relent-if-people-repent, refs: ["Jer 26:3", "Jer 26:13", "Jer 26:19"]}
+      - {motif: temple-will-become-like-shiloh, refs: ["Jer 26:6", "Jer 26:9"]}
+      - {motif: shiloh-sanctuary-abandoned, refs: ["Jer 26:6", "Jer 26:9"]}
+      - {motif: prophet-put-on-trial-for-prophecy, refs: ["Jer 26:8", "Jer 26:11", "Jer 26:16"], note: "Priests and prophets demand death; officials acquit"}
+      - {motif: officials-sit-at-new-gate-as-court, refs: ["Jer 26:10"]}
+      - {motif: innocent-blood-on-city, refs: ["Jer 26:15"]}
+      - {motif: elders-cite-earlier-prophet-as-precedent, refs: ["Jer 26:17-19"], note: "Micah of Moresheth quoted: Zion ploughed as a field (Mic 3:12)"}
+      - {motif: zion-plowed-as-field, refs: ["Jer 26:18"]}
+      - {motif: prophet-flees-to-egypt-extradited-killed, refs: ["Jer 26:20-23"], note: "Uriah son of Shemaiah of Kiriath-jearim, fetched by Elnathan son of Achbor"}
+      - {motif: killing-of-prophets, refs: ["Jer 26:23"]}
+      - {motif: body-cast-into-common-graves, refs: ["Jer 26:23"]}
+      - {motif: patron-official-protects-prophet, refs: ["Jer 26:24"], note: "Ahikam son of Shaphan"}
+    hints:
+      - "Compare Socrates' trial; Jesus' temple saying and trial (Mark 14:58); Quran 2:61/3:21 on Israel killing prophets."
+  - id: hb-jer-27-yoke-bars
+    tradition: judaism
+    title: "Jeremiah wears yoke bars and sends them to the envoys of five kings"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 27:1-22"]
+    tags:
+      - {motif: prophetic-sign-act, refs: ["Jer 27:2"]}
+      - {motif: prophet-wears-yoke, refs: ["Jer 27:2", "Jer 27:8", "Jer 27:11-12"], note: "Straps and bars (moserot u-motot) on his neck"}
+      - {motif: message-to-envoys-of-neighbor-kings, refs: ["Jer 27:3"], note: "Edom, Moab, Ammon, Tyre and Sidon"}
+      - {motif: creator-gives-earth-to-whom-he-pleases, refs: ["Jer 27:5"]}
+      - {motif: foreign-king-called-gods-servant, refs: ["Jer 27:6"], note: "Nebuchadnezzar 'my servant'"}
+      - {motif: wild-beasts-given-to-world-ruler, refs: ["Jer 27:6"]}
+      - {motif: three-generations-of-empire, refs: ["Jer 27:7"], note: "Him, his son and his son's son, until his land's time comes"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 27:8", "Jer 27:13"]}
+      - {motif: diviners-dreamers-sorcerers-list, refs: ["Jer 27:9"]}
+      - {motif: false-prophets-of-peace, refs: ["Jer 27:9-10", "Jer 27:14-16"]}
+      - {motif: temple-vessels-taken-to-babylon, refs: ["Jer 27:16", "Jer 27:19-22"], note: "Pillars, the Sea, the stands; to return on the day of visitation"}
+      - {motif: prophet-should-intercede-test, refs: ["Jer 27:18"]}
+    hints:
+      - "Compare the temple vessels' fate in Dan 5, Ezra 1:7-11 and legends of hidden vessels (2 Macc 2)."
+  - id: hb-jer-28-hananiah
+    tradition: judaism
+    title: "Hananiah breaks the wooden yoke and dies within the year"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 28:1-17"]
+    tags:
+      - {motif: prophet-versus-prophet-contest, refs: ["Jer 28:1-11"], note: "Hananiah son of Azzur of Gibeon"}
+      - {motif: false-prophets-of-peace, refs: ["Jer 28:2-4", "Jer 28:15"]}
+      - {motif: two-years-restoration-promise, refs: ["Jer 28:3", "Jer 28:11"]}
+      - {motif: prophet-says-amen-ironically, refs: ["Jer 28:6"]}
+      - {motif: peace-prophet-proven-by-fulfillment, refs: ["Jer 28:8-9"]}
+      - {motif: sign-object-broken-by-rival, refs: ["Jer 28:10-11"]}
+      - {motif: wooden-yoke-replaced-by-iron, refs: ["Jer 28:13-14"]}
+      - {motif: false-prophet-dies-as-foretold, refs: ["Jer 28:16-17"], note: "Dies in the seventh month of the same year"}
+      - {motif: wild-beasts-given-to-world-ruler, refs: ["Jer 28:14"]}
+    hints:
+      - "Deut 18:20-22 test of a prophet; compare Ahab's prophets and Micaiah (1Kgs 22)."
+  - id: hb-jer-29-letter-to-exiles
+    tradition: judaism
+    title: "Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah's counter-letter"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 29:1-32"]
+    tags:
+      - {motif: prophets-letter-to-exiles, refs: ["Jer 29:1", "Jer 29:3"], note: "Carried by Elasah son of Shaphan and Gemariah son of Hilkiah"}
+      - {motif: queen-mother-and-eunuchs-exiled, refs: ["Jer 29:2"], note: "Gevirah, saris, craftsmen and smiths"}
+      - {motif: build-houses-plant-gardens-in-exile, refs: ["Jer 29:5-6", "Jer 29:28"]}
+      - {motif: pray-for-welfare-of-foreign-city, refs: ["Jer 29:7"]}
+      - {motif: seventy-years-of-exile, refs: ["Jer 29:10"]}
+      - {motif: babylonian-king-named, refs: ["Jer 29:3", "Jer 29:21"]}
+      - {motif: seek-god-with-whole-heart-and-find, refs: ["Jer 29:12-14"]}
+      - {motif: ingathering-of-exiles, refs: ["Jer 29:14"]}
+      - {motif: rotten-figs-image, refs: ["Jer 29:17"]}
+      - {motif: hissing-and-horror-curse-formula, refs: ["Jer 29:18", "Jer 29:22"]}
+      - {motif: false-prophets-burned-by-king, refs: ["Jer 29:21-22"], note: "Ahab son of Kolaiah and Zedekiah son of Maaseiah 'roasted' (qalam) in fire; wordplay with qelalah 'curse'"}
+      - {motif: false-prophets-commit-adultery, refs: ["Jer 29:23"]}
+      - {motif: god-is-witness, refs: ["Jer 29:23"]}
+      - {motif: prophet-called-madman, refs: ["Jer 29:26"], note: "Every mad man (meshugga) who prophesies to be put in stocks and collar (tsinoq)"}
+      - {motif: prophet-imprisoned-in-stocks, refs: ["Jer 29:26"]}
+      - {motif: counter-letter-against-prophet, refs: ["Jer 29:24-29"], note: "Shemaiah the Nehelamite writes to Zephaniah the priest"}
+      - {motif: false-prophet-line-cut-off, refs: ["Jer 29:32"]}
+    hints:
+      - "Jer 29:7 is foundational for diaspora ethics (Mishnah Avot 3:2 'pray for the welfare of the government'). Ahab and Zedekiah become the elders of Susanna in rabbinic tradition (b. Sanh. 93a)."
+  - id: hb-jer-30-time-of-jacobs-trouble
+    tradition: judaism
+    title: "Book of Consolation opens; men in labor; Jacob's trouble; incurable wound healed"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 30:1-24"]
+    tags:
+      - {motif: command-to-write-in-book, refs: ["Jer 30:2"]}
+      - {motif: restoration-from-zion-shuv-shevut, refs: ["Jer 30:3", "Jer 30:18"]}
+      - {motif: men-writhe-like-women-in-labor, refs: ["Jer 30:6"]}
+      - {motif: day-unlike-any-other, refs: ["Jer 30:7"], note: "'Time of Jacob's trouble'"}
+      - {motif: yoke-bars-broken-walk-upright, refs: ["Jer 30:8"]}
+      - {motif: future-davidic-king-raised, refs: ["Jer 30:9", "Jer 30:21"], note: "'David their king whom I will raise up'"}
+      - {motif: fear-not-my-servant-jacob, refs: ["Jer 30:10-11"]}
+      - {motif: incurable-wound-of-zion, refs: ["Jer 30:12-15", "Jer 30:17"]}
+      - {motif: lovers-forsake-the-city, refs: ["Jer 30:14"]}
+      - {motif: city-rebuilt-on-its-tell, refs: ["Jer 30:18"]}
+      - {motif: ruler-draws-near-to-god-risking-life, refs: ["Jer 30:21"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Jer 30:22"]}
+      - {motif: storm-of-divine-wrath, refs: ["Jer 30:23-24"]}
+      - {motif: return-in-latter-days, refs: ["Jer 30:24"]}
+  - id: hb-jer-31-consolation-new-covenant
+    tradition: judaism
+    title: "Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 31:1-40"]
+    tags:
+      - {motif: grace-in-the-wilderness, refs: ["Jer 31:2"]}
+      - {motif: everlasting-love-of-god, refs: ["Jer 31:3"]}
+      - {motif: virgin-israel-dances-with-timbrels, refs: ["Jer 31:4", "Jer 31:13"]}
+      - {motif: watchmen-call-pilgrimage-to-zion, refs: ["Jer 31:6"]}
+      - {motif: blind-and-lame-return, refs: ["Jer 31:8"]}
+      - {motif: ingathering-of-exiles, refs: ["Jer 31:8", "Jer 31:10"]}
+      - {motif: israel-my-firstborn-son, refs: ["Jer 31:9", "Jer 31:20"]}
+      - {motif: god-as-father-of-israel, refs: ["Jer 31:9"]}
+      - {motif: god-as-shepherd, refs: ["Jer 31:10"]}
+      - {motif: soul-like-watered-garden, refs: ["Jer 31:12"]}
+      - {motif: mourning-turned-to-dancing, refs: ["Jer 31:13"]}
+      - {motif: rachel-weeps-for-her-children, refs: ["Jer 31:15-17"], note: "Voice in Ramah; she refuses to be comforted"}
+      - {motif: ephraim-like-untrained-calf, refs: ["Jer 31:18-19"], note: "Slaps his thigh in repentance"}
+      - {motif: turn-us-and-we-shall-turn, refs: ["Jer 31:18"]}
+      - {motif: gods-bowels-yearn, refs: ["Jer 31:20"]}
+      - {motif: road-markers-for-return, refs: ["Jer 31:21"]}
+      - {motif: female-surrounds-man-new-creation, refs: ["Jer 31:22"], note: "neqevah tesovev gaver, an enigmatic 'new thing'"}
+      - {motif: prophet-wakes-from-sweet-sleep, refs: ["Jer 31:26"]}
+      - {motif: sowing-house-of-israel-with-seed, refs: ["Jer 31:27"]}
+      - {motif: uproot-and-plant-commission, refs: ["Jer 31:28"]}
+      - {motif: fathers-ate-sour-grapes, refs: ["Jer 31:29-30"]}
+      - {motif: individual-responsibility-for-sin, refs: ["Jer 31:30"]}
+      - {motif: new-covenant, refs: ["Jer 31:31-34"]}
+      - {motif: law-written-on-heart, refs: ["Jer 31:33"]}
+      - {motif: all-shall-know-god-no-teaching-needed, refs: ["Jer 31:34"]}
+      - {motif: god-remembers-sin-no-more, refs: ["Jer 31:34"]}
+      - {motif: cosmic-ordinances-guarantee-covenant, refs: ["Jer 31:35-37"]}
+      - {motif: god-stirs-sea-waves-roar, refs: ["Jer 31:35"]}
+      - {motif: heavens-cannot-be-measured, refs: ["Jer 31:37"]}
+      - {motif: measuring-line-for-new-jerusalem, refs: ["Jer 31:38-40"], note: "Tower of Hananel, Corner Gate, hill Gareb, Goah, Valley of corpses and ashes, Horse Gate"}
+      - {motif: valley-of-corpses-made-holy, refs: ["Jer 31:40"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Jer 31:1"]}
+    hints:
+      - "Jer 31:15 is quoted in Matt 2:18 (massacre of innocents); 31:31-34 in Heb 8:8-12 and the Last Supper 'new covenant' (Luke 22:20); 'ruh' of Rachel's tomb tradition. Jer 31:22 read messianically in Christian exegesis (virgin birth)."
+  - id: hb-jer-32-field-at-anathoth
+    tradition: judaism
+    title: "Jeremiah buys his cousin's field at Anathoth during the siege"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 32:1-44"]
+    tags:
+      - {motif: prophet-imprisoned-in-guard-court, refs: ["Jer 32:2-3"]}
+      - {motif: king-will-see-conqueror-eye-to-eye, refs: ["Jer 32:4"]}
+      - {motif: kinsman-redeemer, refs: ["Jer 32:7-8"], note: "Right of redemption (mishpat ha-ge'ullah) for Hanamel's field"}
+      - {motif: prophet-buys-field-as-sign, refs: ["Jer 32:6-15", "Jer 32:25", "Jer 32:43-44"]}
+      - {motif: price-seventeen-shekels, refs: ["Jer 32:9"]}
+      - {motif: sealed-and-open-deed, refs: ["Jer 32:10-14"], note: "Double deed: sealed copy and open copy, witnesses, silver weighed on scales"}
+      - {motif: documents-stored-in-clay-jar, refs: ["Jer 32:14"], note: "'That they may last many days'"}
+      - {motif: scribe-baruch, refs: ["Jer 32:12-16"]}
+      - {motif: nothing-too-hard-for-god, refs: ["Jer 32:17", "Jer 32:27"]}
+      - {motif: outstretched-arm, refs: ["Jer 32:17", "Jer 32:21"]}
+      - {motif: sins-visited-to-third-fourth-generation, refs: ["Jer 32:18"]}
+      - {motif: gods-eyes-open-on-all-ways, refs: ["Jer 32:19"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Jer 32:22"]}
+      - {motif: siege-ramps, refs: ["Jer 32:24"]}
+      - {motif: incense-to-baal-on-rooftops, refs: ["Jer 32:29"]}
+      - {motif: child-sacrifice-to-molech-in-hinnom, refs: ["Jer 32:35"], note: "'Which never entered my mind'"}
+      - {motif: one-heart-and-one-way, refs: ["Jer 32:39"]}
+      - {motif: everlasting-covenant, refs: ["Jer 32:40"]}
+    hints:
+      - "Double documents (Doppelurkunde) are known from Elephantine and Babylonian practice; jar storage recalls the Dead Sea Scrolls."
+  - id: hb-jer-33-branch-and-cosmic-covenant
+    tradition: judaism
+    title: "Healing of the city, the Righteous Branch and the covenant with day and night"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 33:1-26"]
+    tags:
+      - {motif: prophet-imprisoned-in-guard-court, refs: ["Jer 33:1"]}
+      - {motif: call-to-me-and-i-will-answer-hidden-things, refs: ["Jer 33:3"], note: "gedolot u-vetsurot 'great and hidden things'"}
+      - {motif: god-hides-his-face, refs: ["Jer 33:5"]}
+      - {motif: god-heals-the-city, refs: ["Jer 33:6"]}
+      - {motif: restoration-from-zion-shuv-shevut, refs: ["Jer 33:7", "Jer 33:11", "Jer 33:26"]}
+      - {motif: voice-of-bride-and-bridegroom, refs: ["Jer 33:10-11"], note: "Restored, together with the refrain 'for his steadfast love endures forever'"}
+      - {motif: for-his-love-endures-forever-refrain, refs: ["Jer 33:11"]}
+      - {motif: flocks-pass-under-hand-of-counter, refs: ["Jer 33:13"]}
+      - {motif: righteous-branch-of-david, refs: ["Jer 33:15"]}
+      - {motif: yhwh-our-righteousness-name, refs: ["Jer 33:16"], note: "Here the name is given to Jerusalem, not the king"}
+      - {motif: david-never-lacks-a-man-on-throne, refs: ["Jer 33:17", "Jer 33:21"]}
+      - {motif: levitical-priests-never-cut-off, refs: ["Jer 33:18", "Jer 33:21-22"]}
+      - {motif: covenant-with-day-and-night, refs: ["Jer 33:20", "Jer 33:25"]}
+      - {motif: cosmic-ordinances-guarantee-covenant, refs: ["Jer 33:20-21", "Jer 33:25-26"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Jer 33:22"]}
+      - {motif: two-chosen-families-rejected-taunt, refs: ["Jer 33:24"]}
+    hints:
+      - "Jer 33:14-26 is absent from the Septuagint. 'Branch' (tsemah) is a messianic title (Zech 3:8; 6:12; Qumran 4Q252)."
+  - id: hb-jer-34-zedekiah-and-slave-release
+    tradition: judaism
+    title: "Zedekiah's fate and the revoked release of slaves; the calf cut in two"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 34:1-22"]
+    tags:
+      - {motif: king-will-see-conqueror-eye-to-eye, refs: ["Jer 34:3"]}
+      - {motif: royal-funeral-burnings, refs: ["Jer 34:5"], note: "Burnings (misrefot) for the king as for his fathers; 'hoy adon' lament"}
+      - {motif: hoy-lament-cry, refs: ["Jer 34:5"]}
+      - {motif: lachish-and-azekah-last-cities, refs: ["Jer 34:7"]}
+      - {motif: proclaim-liberty-throughout-the-land, refs: ["Jer 34:8-10", "Jer 34:15"]}
+      - {motif: hebrew-slave-freed-in-seventh-year, refs: ["Jer 34:9", "Jer 34:14"]}
+      - {motif: freed-slaves-re-enslaved, refs: ["Jer 34:11", "Jer 34:16"]}
+      - {motif: ironic-measure-for-measure-release, refs: ["Jer 34:17"], note: "'I proclaim to you a release to the sword, pestilence and famine'"}
+      - {motif: covenant-between-the-pieces, refs: ["Jer 34:18-19"], note: "Calf cut in two; those who passed between its parts"}
+      - {motif: corpse-food-for-birds-no-one-scares, refs: ["Jer 34:20"]}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 34:17"]}
+    hints:
+      - "Self-curse treaty ritual: Sefire treaty (lamb cut), Mari 'killing a donkey' (hayaram qatalum); Gen 15. Lachish ostraca mention signal fires of Azekah."
+  - id: hb-jer-35-rechabites
+    tradition: judaism
+    title: "The Rechabites refuse wine and are held up as a model of obedience"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 35:1-19"]
+    tags:
+      - {motif: rechabites-ancestral-abstinence, refs: ["Jer 35:6-10", "Jer 35:14"], note: "Jonadab son of Rechab commanded: no wine, no houses, no sowing, no vineyards; live in tents"}
+      - {motif: nazirite-abstains-from-all-grape-products, refs: ["Jer 35:6"], note: "Comparable lifelong abstinence, but by ancestral command rather than vow"}
+      - {motif: wine-test-offered-to-abstainers, refs: ["Jer 35:2", "Jer 35:5-6"], note: "Bowls (gevi'im) full of wine and cups set before them in a temple chamber"}
+      - {motif: temple-chamber-of-man-of-god, refs: ["Jer 35:4"], note: "Chamber of the sons of Hanan son of Igdaliah, man of God, above Maaseiah the threshold-keeper"}
+      - {motif: nomadic-tent-dwelling-ideal, refs: ["Jer 35:7", "Jer 35:10"]}
+      - {motif: long-life-conditional-on-obedience, refs: ["Jer 35:7"]}
+      - {motif: obedience-to-ancestors-shames-people, refs: ["Jer 35:13-16"]}
+      - {motif: refugees-enter-jerusalem-from-invaders, refs: ["Jer 35:11"]}
+      - {motif: prophets-sent-early-and-often, refs: ["Jer 35:14-15"]}
+      - {motif: lineage-stands-before-god-forever, refs: ["Jer 35:19"]}
+    hints:
+      - "Compare Nazirite vows (Num 6), Nabataean prohibition of wine, houses and sowing (Diodorus 19.94); the 'History of the Rechabites' apocryphon (blessed ones on an island); Muslim abstinence."
+  - id: hb-jer-36-burned-scroll
+    tradition: judaism
+    title: "Baruch reads the scroll; Jehoiakim cuts it with a penknife and burns it; it is rewritten"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 36:1-32"]
+    tags:
+      - {motif: prophet-dictates-to-scribe, refs: ["Jer 36:4", "Jer 36:17-18", "Jer 36:32"], note: "'He dictated, I wrote with ink (deyo)'"}
+      - {motif: scribe-baruch, refs: ["Jer 36:4", "Jer 36:8", "Jer 36:26"]}
+      - {motif: scroll-read-on-fast-day, refs: ["Jer 36:6", "Jer 36:9-10"], note: "Ninth month, in the chamber of Gemariah son of Shaphan the scribe"}
+      - {motif: god-may-relent-if-people-repent, refs: ["Jer 36:3", "Jer 36:7"]}
+      - {motif: officials-afraid-hearing-scroll, refs: ["Jer 36:16"]}
+      - {motif: officials-hide-prophet, refs: ["Jer 36:19", "Jer 36:26"], note: "YHWH hid them"}
+      - {motif: king-burns-scroll-column-by-column, refs: ["Jer 36:22-23"], note: "In the winter house before a brazier; cut every three or four columns (delatot) with a scribe's knife"}
+      - {motif: no-rending-of-garments, refs: ["Jer 36:24"], note: "Contrast Josiah tearing his clothes on hearing the book"}
+      - {motif: officials-plead-against-burning, refs: ["Jer 36:25"]}
+      - {motif: destroyed-scripture-rewritten-with-additions, refs: ["Jer 36:28", "Jer 36:32"]}
+      - {motif: king-corpse-exposed-heat-and-frost, refs: ["Jer 36:30"]}
+      - {motif: no-heir-on-davids-throne, refs: ["Jer 36:30"]}
+    hints:
+      - "Compare Ezra re-dictating the burned scriptures (4 Ezra 14), rabbinic laws on burned Torah scrolls; Caliph Uthman burning variant Quran codices (inverse); 2 Kgs 22 (Josiah)."
+  - id: hb-jer-37-arrest-and-cistern-house
+    tradition: judaism
+    title: "Egyptian army withdraws; Jeremiah arrested as deserter and imprisoned; secret consultation"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 37:1-21"]
+    tags:
+      - {motif: vassal-king-installed-by-conqueror, refs: ["Jer 37:1"]}
+      - {motif: king-asks-prophet-to-pray, refs: ["Jer 37:3"]}
+      - {motif: egyptian-help-is-futile, refs: ["Jer 37:5-7", "Jer 37:11"]}
+      - {motif: wounded-men-will-burn-city, refs: ["Jer 37:10"], note: "Even if only wounded men were left, each in his tent, they would rise and burn the city"}
+      - {motif: prophet-accused-of-desertion, refs: ["Jer 37:13-14"], note: "Irijah at the Benjamin Gate: 'You are deserting to the Chaldeans'"}
+      - {motif: prophet-beaten-and-imprisoned, refs: ["Jer 37:15-16"], note: "House of Jonathan the scribe turned into a prison; cistern-house and vaults"}
+      - {motif: king-consults-prophet-secretly, refs: ["Jer 37:17"]}
+      - {motif: prophet-imprisoned-in-guard-court, refs: ["Jer 37:21"]}
+      - {motif: daily-loaf-from-bakers-street, refs: ["Jer 37:21"], note: "A loaf a day until the bread ran out"}
+  - id: hb-jer-38-cistern-ebed-melech
+    tradition: judaism
+    title: "Jeremiah sunk in the muddy cistern and rescued by Ebed-melech the Cushite"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 38:1-28"]
+    tags:
+      - {motif: surrender-and-live-life-as-spoil, refs: ["Jer 38:2", "Jer 38:17-18"], note: "'His life shall be his as booty' (nafsho le-shalal)"}
+      - {motif: prophet-accused-of-weakening-hands, refs: ["Jer 38:4"]}
+      - {motif: weak-king-yields-to-officials, refs: ["Jer 38:5"]}
+      - {motif: cast-into-pit, refs: ["Jer 38:6"], note: "Cistern of Malchiah, no water but mud; lowered with ropes; he sinks in the mire"}
+      - {motif: foreign-eunuch-rescues-prophet, refs: ["Jer 38:7-13"], note: "Ebed-melech the Cushite, a saris"}
+      - {motif: rags-padding-under-armpits-for-rescue, refs: ["Jer 38:11-12"], note: "Worn-out rags from beneath the treasury placed under the armpits"}
+      - {motif: thirty-men-rescue-party, refs: ["Jer 38:10"]}
+      - {motif: secret-oath-of-king-to-prophet, refs: ["Jer 38:16"]}
+      - {motif: harem-women-taunt-the-king, refs: ["Jer 38:22"], note: "Women led out sing: 'your friends misled you; your feet sank in the mud'"}
+      - {motif: feet-sunk-in-mire, refs: ["Jer 38:6", "Jer 38:22"]}
+      - {motif: prophet-told-to-conceal-conversation, refs: ["Jer 38:24-27"]}
+      - {motif: king-consults-prophet-secretly, refs: ["Jer 38:14-16", "Jer 38:24-27"]}
+    hints:
+      - "Compare Joseph cast into a waterless pit (Gen 37:24) and Ps 69:2-3 (sinking in mire); Ebed-melech in rabbinic legend is identified with Zedekiah's Cushite and enters paradise alive; in 4 Baruch (Paralipomena of Jeremiah) Abimelech sleeps 66 years."
+  - id: hb-jer-39-fall-of-jerusalem
+    tradition: judaism
+    title: "Fall of Jerusalem; Zedekiah blinded at Riblah; Jeremiah freed; Ebed-melech promised safety"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 39:1-18"]
+    tags:
+      - {motif: fall-of-jerusalem, refs: ["Jer 39:1-2", "Jer 39:8"], note: "Ninth day of fourth month of Zedekiah's 11th year: city breached"}
+      - {motif: babylonian-officers-sit-in-middle-gate, refs: ["Jer 39:3", "Jer 39:13"], note: "Nergal-sharezer the Rab-mag, Samgar-nebo, Sarsechim the Rab-saris"}
+      - {motif: king-flees-through-breach-by-night, refs: ["Jer 39:4"]}
+      - {motif: king-captured-in-plains-of-jericho, refs: ["Jer 39:5"]}
+      - {motif: sons-slain-before-fathers-eyes-then-blinded, refs: ["Jer 39:6-7"]}
+      - {motif: king-taken-with-hooks-in-bronze-fetters, refs: ["Jer 39:7"]}
+      - {motif: poor-of-land-left-with-vineyards, refs: ["Jer 39:10"]}
+      - {motif: conqueror-protects-prophet, refs: ["Jer 39:11-14"]}
+      - {motif: righteous-foreigner-rewarded-for-trust, refs: ["Jer 39:15-18"]}
+      - {motif: surrender-and-live-life-as-spoil, refs: ["Jer 39:18"]}
+  - id: hb-jer-40-gedaliah-at-mizpah
+    tradition: judaism
+    title: "Nebuzaradan releases Jeremiah; Gedaliah governs at Mizpah; warning of a plot"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 40:1-16"]
+    tags:
+      - {motif: foreign-officer-acknowledges-israels-god, refs: ["Jer 40:2-3"], note: "The chief executioner preaches Jeremiah's own theology back to him"}
+      - {motif: prisoner-freed-from-chains, refs: ["Jer 40:1", "Jer 40:4"]}
+      - {motif: prophet-given-free-choice-where-to-go, refs: ["Jer 40:4-5"]}
+      - {motif: travel-provisions-and-gift, refs: ["Jer 40:5"]}
+      - {motif: governor-appointed-over-remnant, refs: ["Jer 40:5-7", "Jer 40:11"]}
+      - {motif: scattered-jews-return-and-harvest, refs: ["Jer 40:11-12"]}
+      - {motif: warned-leader-disbelieves-plot, refs: ["Jer 40:13-16"], note: "Baalis king of Ammon sent Ishmael"}
+  - id: hb-jer-41-murder-of-gedaliah
+    tradition: judaism
+    title: "Ishmael murders Gedaliah at table and slaughters eighty pilgrims into Asa's cistern"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 41:1-18"]
+    tags:
+      - {motif: murder-at-shared-meal, refs: ["Jer 41:1-2"], note: "Seventh month; they ate bread together"}
+      - {motif: puppet-governor-assassinated, refs: ["Jer 41:2", "Jer 41:18"]}
+      - {motif: royal-seed-assassin, refs: ["Jer 41:1"]}
+      - {motif: pilgrims-with-shaved-beards-and-cuttings, refs: ["Jer 41:5"], note: "Eighty men from Shechem, Shiloh and Samaria with torn clothes and gashes, bringing grain-offering and frankincense to the ruined temple"}
+      - {motif: assassin-feigns-weeping, refs: ["Jer 41:6"]}
+      - {motif: bodies-thrown-into-cistern, refs: ["Jer 41:7", "Jer 41:9"], note: "The cistern King Asa made against Baasha"}
+      - {motif: hidden-stores-buy-life, refs: ["Jer 41:8"], note: "Ten men spared for hidden wheat, barley, oil and honey in the field"}
+      - {motif: king-daughters-taken-captive, refs: ["Jer 41:10"]}
+      - {motif: confrontation-at-pool-of-gibeon, refs: ["Jer 41:12"]}
+      - {motif: remnant-flees-to-egypt, refs: ["Jer 41:17-18"], note: "Geruth Chimham near Bethlehem"}
+    hints:
+      - "The murder of Gedaliah is commemorated by the Fast of Gedaliah (3 Tishri; Zech 7:5, 8:19)."
+  - id: hb-jer-42-43-flight-to-egypt
+    tradition: judaism
+    title: "The remnant asks for an oracle, rejects it and drags Jeremiah to Tahpanhes; stones hidden in the pavement"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 42:1-43:13"]
+    tags:
+      - {motif: people-ask-prophet-to-intercede, refs: ["Jer 42:2-3", "Jer 42:20"]}
+      - {motif: people-vow-to-obey-oracle-then-refuse, refs: ["Jer 42:5-6", "Jer 42:20-21", "Jer 43:2-4"]}
+      - {motif: oracle-arrives-after-ten-days, refs: ["Jer 42:7"]}
+      - {motif: god-repents-of-evil-done, refs: ["Jer 42:10"], note: "nihamti el ha-ra'ah"}
+      - {motif: egypt-as-false-refuge, refs: ["Jer 42:14-17", "Jer 42:22"], note: "'Where we shall not hear the shofar nor hunger for bread'"}
+      - {motif: the-feared-evil-overtakes-in-refuge, refs: ["Jer 42:16"]}
+      - {motif: prophet-called-liar, refs: ["Jer 43:2-3"], note: "Baruch blamed for inciting him"}
+      - {motif: prophet-taken-to-egypt-against-will, refs: ["Jer 43:6-7"]}
+      - {motif: prophetic-sign-act, refs: ["Jer 43:9"]}
+      - {motif: stones-buried-under-palace-pavement, refs: ["Jer 43:9-10"], note: "Large stones hidden in mortar in the brick terrace at Pharaoh's house in Tahpanhes; Nebuchadnezzar's throne and canopy (shafrir) will be set over them"}
+      - {motif: shepherd-delouses-garment-image, refs: ["Jer 43:12"], note: "He will wrap (or delouse, 'atah) Egypt as a shepherd his garment"}
+      - {motif: obelisks-of-heliopolis-broken, refs: ["Jer 43:13"], note: "Pillars (matsevot) of Beth-shemesh in Egypt"}
+      - {motif: burning-of-foreign-temples, refs: ["Jer 43:12-13"]}
+    hints:
+      - "Flinders Petrie identified a brick platform at Tell Defenneh (Tahpanhes) with 'the house of Pharaoh'. Jewish tradition (Lives of the Prophets) says Jeremiah was stoned in Egypt."
+  - id: hb-jer-44-queen-of-heaven
+    tradition: judaism
+    title: "The Judeans in Egypt defend their cult of the Queen of Heaven"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 44:1-30"]
+    tags:
+      - {motif: judean-diaspora-in-egypt, refs: ["Jer 44:1"], note: "Migdol, Tahpanhes, Noph (Memphis), Pathros"}
+      - {motif: prophets-sent-early-and-often, refs: ["Jer 44:4"]}
+      - {motif: queen-of-heaven-cult, refs: ["Jer 44:17-19", "Jer 44:25"]}
+      - {motif: cakes-in-image-of-goddess, refs: ["Jer 44:19"], note: "Kawwanim le-ha'atsivah: cakes 'to portray her'"}
+      - {motif: women-lead-household-goddess-cult-with-husbands-consent, refs: ["Jer 44:15", "Jer 44:19", "Jer 44:25"]}
+      - {motif: apostasy-justified-by-prosperity, refs: ["Jer 44:17-18"], note: "When we stopped offering to her, we lacked everything"}
+      - {motif: wives-of-kings-lead-astray, refs: ["Jer 44:9"]}
+      - {motif: ironic-permission-fulfill-your-vows, refs: ["Jer 44:25"]}
+      - {motif: god-swears-by-his-great-name, refs: ["Jer 44:26"]}
+      - {motif: divine-name-no-longer-invoked, refs: ["Jer 44:26"], note: "No man of Judah in Egypt will again swear 'As the Lord YHWH lives'"}
+      - {motif: whose-word-shall-stand-mine-or-theirs, refs: ["Jer 44:28"]}
+      - {motif: pharaoh-hophra-handed-to-enemies, refs: ["Jer 44:30"]}
+    hints:
+      - "Elephantine papyri attest a Jewish colony in Egypt with Anat-Yahu; Ishtar 'Queen of Heaven' (sharrat shame) cakes (kamanu) in Akkadian ritual; compare Collyridians (Epiphanius) offering cakes to Mary as Queen of Heaven."
+  - id: hb-jer-45-baruch
+    tradition: judaism
+    title: "Oracle to Baruch: do not seek great things; your life as booty"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 45:1-5"]
+    tags:
+      - {motif: scribe-baruch, refs: ["Jer 45:1"]}
+      - {motif: scribe-laments-weariness, refs: ["Jer 45:3"]}
+      - {motif: uproot-and-plant-commission, refs: ["Jer 45:4"]}
+      - {motif: do-not-seek-great-things, refs: ["Jer 45:5"]}
+      - {motif: surrender-and-live-life-as-spoil, refs: ["Jer 45:5"]}
+    hints:
+      - "Baruch is the pseudonymous author of 1-3 Baruch and 4 Baruch; in Jewish legend he is denied prophecy (Mekhilta Bo) and in some Islamic and Christian traditions identified with figures who sleep or ascend."
+  - id: hb-jer-46-oracle-egypt
+    tradition: judaism
+    title: "Oracles against Egypt: Carchemish and Nebuchadnezzar's invasion"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 46:1-28"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Jer 46:1"]}
+      - {motif: battle-of-carchemish, refs: ["Jer 46:2", "Jer 46:6", "Jer 46:10"]}
+      - {motif: ironic-call-to-arms, refs: ["Jer 46:3-4", "Jer 46:9"]}
+      - {motif: terror-on-every-side, refs: ["Jer 46:5"], note: "magor mi-saviv"}
+      - {motif: egypt-rising-like-the-nile, refs: ["Jer 46:7-8"]}
+      - {motif: cush-put-lud-mercenaries, refs: ["Jer 46:9"]}
+      - {motif: day-of-vengeance-of-the-lord, refs: ["Jer 46:10"]}
+      - {motif: god-sword-devours-flesh-drunk-arrows, refs: ["Jer 46:10"]}
+      - {motif: divine-slaughter-as-sacrifice, refs: ["Jer 46:10"], note: "'A sacrifice for the Lord in the north country by the Euphrates'"}
+      - {motif: balm-of-gilead, refs: ["Jer 46:11"]}
+      - {motif: apis-bull-has-fled, refs: ["Jer 46:15"], note: "Read nas hap (LXX 'Apis fled'): 'Why has your mighty one (abbir) been swept away?'"}
+      - {motif: pharaoh-nicknamed-noise, refs: ["Jer 46:17"], note: "'Pharaoh king of Egypt: a noise who let the appointed time pass'"}
+      - {motif: as-tabor-among-mountains, refs: ["Jer 46:18"]}
+      - {motif: egypt-a-beautiful-heifer-stung-by-gadfly, refs: ["Jer 46:20-21"]}
+      - {motif: egypt-hisses-like-serpent, refs: ["Jer 46:22"]}
+      - {motif: invaders-like-woodcutters-and-locusts, refs: ["Jer 46:22-23"]}
+      - {motif: amon-of-thebes-punished, refs: ["Jer 46:25"]}
+      - {motif: punishment-of-foreign-gods, refs: ["Jer 46:25"]}
+      - {motif: nation-restored-after-judgment, refs: ["Jer 46:26"]}
+      - {motif: fear-not-my-servant-jacob, refs: ["Jer 46:27-28"]}
+  - id: hb-jer-47-oracle-philistines
+    tradition: judaism
+    title: "Oracle against the Philistines; the sword of the Lord addressed"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 47:1-7"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Jer 47:1"]}
+      - {motif: waters-from-north-flood, refs: ["Jer 47:2"]}
+      - {motif: fathers-abandon-children-in-panic, refs: ["Jer 47:3"]}
+      - {motif: philistines-from-caphtor, refs: ["Jer 47:4"]}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["Jer 47:5"]}
+      - {motif: sword-of-the-lord-addressed, refs: ["Jer 47:6-7"], note: "'O sword of YHWH, how long until you are quiet? Return to your sheath'"}
+  - id: hb-jer-48-oracle-moab
+    tradition: judaism
+    title: "Oracle against Moab: wine settled on its lees, Chemosh into exile"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 48:1-47"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Jer 48:1"]}
+      - {motif: catalogue-of-moabite-towns, refs: ["Jer 48:1-5", "Jer 48:18-24", "Jer 48:34"], note: "Nebo, Kiriathaim, Heshbon, Madmen, Horonaim, Luhith, Dibon, Aroer, Holon, Jahzah, Mephaath, Beth-diblathaim, Beth-gamul, Beth-meon, Kerioth, Bozrah"}
+      - {motif: wordplay-on-place-names, refs: ["Jer 48:2"], note: "Heshbon/hashevu, Madmen/tiddomi"}
+      - {motif: like-juniper-in-wilderness, refs: ["Jer 48:6"]}
+      - {motif: god-of-nation-goes-into-exile, refs: ["Jer 48:7", "Jer 48:13"], note: "Chemosh with his priests and princes"}
+      - {motif: give-wings-to-moab, refs: ["Jer 48:9"]}
+      - {motif: curse-on-who-withholds-sword, refs: ["Jer 48:10"], note: "'Cursed is he who does the Lord's work deceitfully, cursed who keeps his sword from blood'"}
+      - {motif: wine-settled-on-its-lees, refs: ["Jer 48:11-12"], note: "Moab never poured from vessel to vessel, so its taste remains"}
+      - {motif: broken-staff-of-might, refs: ["Jer 48:17"]}
+      - {motif: horn-cut-off-arm-broken, refs: ["Jer 48:25"]}
+      - {motif: nation-made-drunk-wallows-in-vomit, refs: ["Jer 48:26"]}
+      - {motif: dove-nesting-in-gorge, refs: ["Jer 48:28"]}
+      - {motif: pride-of-moab, refs: ["Jer 48:29-30", "Jer 48:42"]}
+      - {motif: prophet-weeps-for-enemy-nation, refs: ["Jer 48:31-32", "Jer 48:36"], note: "Heart moans for Moab like flutes"}
+      - {motif: vine-of-sibmah, refs: ["Jer 48:32"]}
+      - {motif: grape-treaders-shout-hedad-ceases, refs: ["Jer 48:33"]}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["Jer 48:37-38"]}
+      - {motif: broken-vessel-no-one-wants, refs: ["Jer 48:38"]}
+      - {motif: eagle-spreads-wings-over-nation, refs: ["Jer 48:40"]}
+      - {motif: warriors-hearts-like-woman-in-labor, refs: ["Jer 48:41"]}
+      - {motif: terror-pit-snare, refs: ["Jer 48:43-44"], note: "pahad va-fahat va-fah, quoting Isa 24:17-18"}
+      - {motif: taunt-song-heshbon, refs: ["Jer 48:45-46"], note: "Reuses the Song of Heshbon (Num 21:28-29): 'people of Chemosh'"}
+      - {motif: restoration-of-foreign-nation-in-latter-days, refs: ["Jer 48:47"]}
+    hints:
+      - "Much of Jer 48 parallels Isa 15-16. The Mesha Stele names Nebo, Kiriathaim, Dibon, Aroer, Beth-diblathaim and Chemosh."
+  - id: hb-jer-49-ammon-edom-damascus-kedar-elam
+    tradition: judaism
+    title: "Oracles against Ammon, Edom, Damascus, Kedar and Hazor, and Elam"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 49:1-39"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Jer 49:1", "Jer 49:7", "Jer 49:23", "Jer 49:28", "Jer 49:34"]}
+      - {motif: milcom-god-dispossessed-gad, refs: ["Jer 49:1", "Jer 49:3"], note: "malkam (Milcom/'their king') inherited Gad and goes into exile with his priests"}
+      - {motif: god-of-nation-goes-into-exile, refs: ["Jer 49:3"]}
+      - {motif: restoration-of-foreign-nation-in-latter-days, refs: ["Jer 49:6", "Jer 49:39"]}
+      - {motif: wisdom-of-teman, refs: ["Jer 49:7"]}
+      - {motif: grape-gatherers-leave-gleanings, refs: ["Jer 49:9"], note: "Parallels Obad 5"}
+      - {motif: father-of-orphans-judge-of-widows, refs: ["Jer 49:11"]}
+      - {motif: cup-of-wrath, refs: ["Jer 49:12"]}
+      - {motif: envoy-sent-among-nations, refs: ["Jer 49:14"]}
+      - {motif: nest-high-as-eagle-brought-down, refs: ["Jer 49:16"], note: "Dwellers in the clefts of the rock (sela)"}
+      - {motif: overthrow-of-sodom-and-gomorrah-as-paradigm, refs: ["Jer 49:18"]}
+      - {motif: lion-from-jordan-thicket, refs: ["Jer 49:19"]}
+      - {motif: who-is-like-me-challenge, refs: ["Jer 49:19"]}
+      - {motif: cry-heard-at-red-sea, refs: ["Jer 49:21"]}
+      - {motif: eagle-spreads-wings-over-nation, refs: ["Jer 49:22"]}
+      - {motif: warriors-hearts-like-woman-in-labor, refs: ["Jer 49:22", "Jer 49:24"]}
+      - {motif: palaces-of-ben-hadad-burned, refs: ["Jer 49:27"]}
+      - {motif: terror-on-every-side, refs: ["Jer 49:29"]}
+      - {motif: arabs-with-cropped-temples, refs: ["Jer 49:32"], note: "qetsutsei fe'ah"}
+      - {motif: city-without-gates-or-bars, refs: ["Jer 49:31"]}
+      - {motif: ruins-become-jackal-haunt, refs: ["Jer 49:33"]}
+      - {motif: bow-of-elam-broken, refs: ["Jer 49:35"]}
+      - {motif: four-winds-from-four-ends-of-heaven, refs: ["Jer 49:36"]}
+      - {motif: god-sets-throne-in-foreign-land, refs: ["Jer 49:38"]}
+    hints:
+      - "Jer 49:7-22 closely parallels Obadiah. Elam's archers are famous in Assyrian reliefs and Isa 22:6."
+  - id: hb-jer-50-oracle-babylon-1
+    tradition: judaism
+    title: "Oracle against Babylon (I): Bel and Merodach shamed, the hammer of the earth broken"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 50:1-46"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Jer 50:1"]}
+      - {motif: fall-of-babylon, refs: ["Jer 50:2", "Jer 50:23-24", "Jer 50:46"]}
+      - {motif: bel-and-marduk-shamed, refs: ["Jer 50:2"], note: "Bel put to shame, Merodach dismayed"}
+      - {motif: foe-from-the-north, refs: ["Jer 50:3", "Jer 50:9", "Jer 50:41"]}
+      - {motif: everlasting-covenant, refs: ["Jer 50:5"]}
+      - {motif: lost-sheep-misled-by-shepherds, refs: ["Jer 50:6-7", "Jer 50:17"]}
+      - {motif: flee-from-babylon, refs: ["Jer 50:8"], note: "Be like he-goats before the flock"}
+      - {motif: ingathering-of-exiles, refs: ["Jer 50:4", "Jer 50:19"]}
+      - {motif: retributive-justice-do-to-her-as-she-did, refs: ["Jer 50:15", "Jer 50:29"]}
+      - {motif: assyria-then-babylon-devour-israel, refs: ["Jer 50:17-18"]}
+      - {motif: sin-sought-and-not-found, refs: ["Jer 50:20"]}
+      - {motif: merathaim-and-pekod-wordplay, refs: ["Jer 50:21"], note: "Land of Double Rebellion (mat marratim) and Punishment (Puqudu tribe)"}
+      - {motif: hammer-of-the-whole-earth, refs: ["Jer 50:23"]}
+      - {motif: god-opens-armory-of-wrath, refs: ["Jer 50:25"]}
+      - {motif: vengeance-for-the-temple, refs: ["Jer 50:28"]}
+      - {motif: kinsman-redeemer, refs: ["Jer 50:34"], note: "Their redeemer (go'el) is strong"}
+      - {motif: sword-litany-against-city, refs: ["Jer 50:35-38"], note: "Sword on Chaldeans, officials, wise men, diviners, warriors, horses, treasures; drought (horev) on waters"}
+      - {motif: land-of-idols-mad-over-terrors, refs: ["Jer 50:38"]}
+      - {motif: desert-demons-inhabit-ruins, refs: ["Jer 50:39"], note: "tsiyyim, iyyim, ostriches"}
+      - {motif: day-of-vengeance-of-the-lord, refs: ["Jer 50:15", "Jer 50:28"]}
+      - {motif: overthrow-of-sodom-and-gomorrah-as-paradigm, refs: ["Jer 50:40"]}
+      - {motif: lion-from-jordan-thicket, refs: ["Jer 50:44"]}
+      - {motif: who-is-like-me-challenge, refs: ["Jer 50:44"]}
+      - {motif: warriors-become-women, refs: ["Jer 50:37"]}
+    hints:
+      - "Compare Rev 18 (fall of Babylon the great, 'come out of her, my people'); Cyrus Cylinder on Marduk's abandonment of Nabonidus."
+  - id: hb-jer-51-oracle-babylon-2
+    tradition: judaism
+    title: "Oracle against Babylon (II): golden cup, destroying mountain, Sheshach, the scroll sunk in the Euphrates"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 51:1-64"]
+    tags:
+      - {motif: atbash-cipher-names, refs: ["Jer 51:1", "Jer 51:41"], note: "Lev-qamai = Kasdim (Chaldea) and Sheshach = Babel by atbash substitution"}
+      - {motif: destroying-wind-stirred-by-god, refs: ["Jer 51:1", "Jer 51:11"]}
+      - {motif: israel-not-widowed, refs: ["Jer 51:5"]}
+      - {motif: flee-from-babylon, refs: ["Jer 51:6", "Jer 51:45", "Jer 51:50"]}
+      - {motif: golden-cup-intoxicating-nations, refs: ["Jer 51:7"], note: "Babylon a golden cup in YHWH's hand"}
+      - {motif: cup-of-wrath, refs: ["Jer 51:7"]}
+      - {motif: balm-for-incurable-city, refs: ["Jer 51:8-9"]}
+      - {motif: kings-of-the-medes-stirred, refs: ["Jer 51:11", "Jer 51:28"]}
+      - {motif: vengeance-for-the-temple, refs: ["Jer 51:11"]}
+      - {motif: city-dwelling-on-many-waters, refs: ["Jer 51:13"]}
+      - {motif: divine-oath-by-himself, refs: ["Jer 51:14"]}
+      - {motif: creator-hymn-storehouses-of-wind, refs: ["Jer 51:15-16"], note: "Lightnings for rain, wind from his treasuries (doublet of Jer 10:12-16)"}
+      - {motif: idol-polemic-no-breath, refs: ["Jer 51:17-18"]}
+      - {motif: god-as-portion-of-jacob, refs: ["Jer 51:19"]}
+      - {motif: war-club-of-god, refs: ["Jer 51:20-23"], note: "Ninefold 'with you I shatter' (nippatsti) litany"}
+      - {motif: destroying-mountain-made-burnt-mountain, refs: ["Jer 51:25-26"], note: "No cornerstone taken from it"}
+      - {motif: ararat-minni-ashkenaz-summoned, refs: ["Jer 51:27"]}
+      - {motif: warriors-become-women, refs: ["Jer 51:30"]}
+      - {motif: runner-meets-runner-messengers, refs: ["Jer 51:31"]}
+      - {motif: threshing-floor-harvest-of-judgment, refs: ["Jer 51:33"]}
+      - {motif: king-swallowed-like-dragon, refs: ["Jer 51:34"], note: "Nebuchadnezzar swallowed Zion like a tannin, filled his belly"}
+      - {motif: god-dries-up-sea-of-babylon, refs: ["Jer 51:36"]}
+      - {motif: drunken-feast-eternal-sleep, refs: ["Jer 51:39", "Jer 51:57"], note: "'Sleep an everlasting sleep and not wake'"}
+      - {motif: sea-covers-babylon, refs: ["Jer 51:42", "Jer 51:55"]}
+      - {motif: bel-disgorges-what-he-swallowed, refs: ["Jer 51:44"]}
+      - {motif: heaven-and-earth-rejoice-over-fall, refs: ["Jer 51:48"]}
+      - {motif: babylon-climbs-to-heaven, refs: ["Jer 51:53"]}
+      - {motif: peoples-labor-for-fire, refs: ["Jer 51:58"], note: "Same as Hab 2:13"}
+      - {motif: scroll-tied-to-stone-sunk-in-river, refs: ["Jer 51:59-64"], note: "Seraiah son of Neriah, quartermaster, reads the book then sinks it in the Euphrates: 'Thus shall Babylon sink'"}
+      - {motif: prophetic-sign-act, refs: ["Jer 51:63-64"]}
+      - {motif: fall-of-babylon, refs: ["Jer 51:8", "Jer 51:41", "Jer 51:64"]}
+    hints:
+      - "Rev 18:21 (an angel throws a millstone into the sea: so Babylon falls); Rev 17:1 'sits on many waters'; Bel and the Dragon (Daniel additions) where Bel's food is eaten; Atbash in Kabbalah."
+  - id: hb-jer-52-historical-appendix
+    tradition: judaism
+    title: "Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers, Jehoiachin's release"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 52:1-34"]
+    tags:
+      - {motif: queen-mother-named-in-regnal-formula, refs: ["Jer 52:1"], note: "Hamutal daughter of Jeremiah of Libnah"}
+      - {motif: siege-wall-built-around-city, refs: ["Jer 52:4"], note: "Tenth day of tenth month (fast of 10 Tevet)"}
+      - {motif: famine-in-besieged-city, refs: ["Jer 52:6"]}
+      - {motif: king-flees-through-breach-by-night, refs: ["Jer 52:7"]}
+      - {motif: king-captured-in-plains-of-jericho, refs: ["Jer 52:8"]}
+      - {motif: sons-slain-before-fathers-eyes-then-blinded, refs: ["Jer 52:10-11"]}
+      - {motif: fall-of-jerusalem, refs: ["Jer 52:7", "Jer 52:13-14"]}
+      - {motif: temple-burned, refs: ["Jer 52:12-13"], note: "Tenth of the fifth month (2Kgs 25:8 has the seventh)"}
+      - {motif: poor-of-land-left-with-vineyards, refs: ["Jer 52:16"]}
+      - {motif: temple-vessels-taken-to-babylon, refs: ["Jer 52:17-23"]}
+      - {motif: bronze-sea-on-twelve-oxen, refs: ["Jer 52:17", "Jer 52:20"]}
+      - {motif: twin-bronze-pillars-jachin-boaz, refs: ["Jer 52:21-23"], note: "18 cubits, hollow, four fingers thick; 96 pomegranates 'to the wind', 100 in all"}
+      - {motif: leading-priests-executed-at-riblah, refs: ["Jer 52:24-27"], note: "Seraiah the chief priest, Zephaniah the second priest, three threshold keepers"}
+      - {motif: seven-counselors-of-the-king, refs: ["Jer 52:25"]}
+      - {motif: deportation-numbers, refs: ["Jer 52:28-30"], note: "3023, 832, 745: total 4600"}
+      - {motif: exiled-king-released-and-dines-with-captor, refs: ["Jer 52:31-34"], note: "Evil-merodach lifts Jehoiachin's head in the 37th year; seat above the other kings, changed prison clothes"}
+      - {motif: babylonian-king-named, refs: ["Jer 52:31"]}
+      - {motif: seat-above-other-kings, refs: ["Jer 52:32"]}
+      - {motif: lifting-the-head-of-prisoner, refs: ["Jer 52:31"]}
+    hints:
+      - "Babylonian ration tablets (Weidner) list oil rations for 'Ya'ukinu king of Yahudu' and his sons. Compare Joseph lifting the head of the cupbearer (Gen 40:13)."
+  - id: hb-lam-1-widowed-city
+    tradition: judaism
+    title: "Lamentations 1: 'How lonely sits the city', Zion as a widow with no comforter"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lam 1:1-22"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Lam 1:1", "Lam 1:16", "Lam 1:17", "Lam 1:22"], note: "22 three-line stanzas, aleph to tav, in standard ayin-pe order"}
+      - {motif: eikhah-lament-opening, refs: ["Lam 1:1"], note: "'Eikhah' (How!) gives the book its Hebrew name"}
+      - {motif: city-as-widow, refs: ["Lam 1:1"]}
+      - {motif: princess-becomes-forced-laborer, refs: ["Lam 1:1"]}
+      - {motif: weeping-in-the-night-tears-on-cheek, refs: ["Lam 1:2", "Lam 1:16"]}
+      - {motif: no-one-to-comfort-refrain, refs: ["Lam 1:2", "Lam 1:9", "Lam 1:16-17", "Lam 1:21"]}
+      - {motif: lovers-forsake-the-city, refs: ["Lam 1:2", "Lam 1:19"]}
+      - {motif: roads-of-zion-mourn, refs: ["Lam 1:4"]}
+      - {motif: princes-like-deer-without-pasture, refs: ["Lam 1:6"]}
+      - {motif: city-as-menstruant-impure-woman, refs: ["Lam 1:8-9", "Lam 1:17"], note: "Nidah; her uncleanness in her skirts, nakedness exposed"}
+      - {motif: gentiles-enter-the-sanctuary, refs: ["Lam 1:10"], note: "Those commanded not to enter the assembly"}
+      - {motif: treasures-traded-for-food, refs: ["Lam 1:11"]}
+      - {motif: is-any-sorrow-like-my-sorrow, refs: ["Lam 1:12"], note: "'Is it nothing to you, all who pass by?'"}
+      - {motif: fire-sent-into-bones, refs: ["Lam 1:13"]}
+      - {motif: god-spreads-net-for-feet, refs: ["Lam 1:13"]}
+      - {motif: yoke-of-sins-knotted-on-neck, refs: ["Lam 1:14"]}
+      - {motif: god-treads-winepress-of-virgin-judah, refs: ["Lam 1:15"]}
+      - {motif: spreading-hands-in-prayer, refs: ["Lam 1:17"]}
+      - {motif: theodicy-the-lord-is-righteous, refs: ["Lam 1:18"]}
+      - {motif: bowels-in-turmoil-heart-overturned, refs: ["Lam 1:20"]}
+      - {motif: sword-outside-death-inside, refs: ["Lam 1:20"]}
+      - {motif: imprecatory-prayer-against-enemies, refs: ["Lam 1:21-22"]}
+      - {motif: personified-city-speaks, refs: ["Lam 1:9", "Lam 1:11-22"]}
+    hints:
+      - "Read on Tisha b'Av. Compare Mesopotamian city laments (Lament over Ur, Lament for Sumer and Ur) with the weeping city goddess; Lam 1:12 applied to Christ's passion in Good Friday liturgy (O vos omnes)."
+  - id: hb-lam-2-god-as-enemy
+    tradition: judaism
+    title: "Lamentations 2: the Lord became like an enemy; children faint in the streets"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lam 2:1-22"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Lam 2:1", "Lam 2:16", "Lam 2:17", "Lam 2:22"]}
+      - {motif: pe-before-ayin-acrostic-order, refs: ["Lam 2:16-17"], note: "Pe verse precedes ayin verse (also in Lam 3 and 4, and LXX Prov 31; 'Izbet Sartah abecedary)"}
+      - {motif: eikhah-lament-opening, refs: ["Lam 2:1"]}
+      - {motif: footstool-of-god-forgotten, refs: ["Lam 2:1"]}
+      - {motif: god-cast-down-glory-from-heaven, refs: ["Lam 2:1"]}
+      - {motif: god-becomes-enemy-of-his-people, refs: ["Lam 2:4-5"]}
+      - {motif: horn-cut-off-arm-broken, refs: ["Lam 2:3"], note: "Every horn of Israel cut off; right hand withdrawn"}
+      - {motif: god-abandons-own-sanctuary, refs: ["Lam 2:6-7"], note: "He wrecked his booth like a garden; festival and sabbath forgotten"}
+      - {motif: shout-in-temple-like-feast-day, refs: ["Lam 2:7"]}
+      - {motif: measuring-line-and-plummet-of-judgment, refs: ["Lam 2:8"]}
+      - {motif: gates-sunk-into-the-earth, refs: ["Lam 2:9"]}
+      - {motif: no-torah-no-vision, refs: ["Lam 2:9"]}
+      - {motif: fast-sackcloth-and-earth-on-heads, refs: ["Lam 2:10"]}
+      - {motif: liver-poured-out-on-ground, refs: ["Lam 2:11"]}
+      - {motif: children-faint-in-the-streets, refs: ["Lam 2:11-12", "Lam 2:19"], note: "'Where is grain and wine?' as their life pours out on their mothers' bosom"}
+      - {motif: breach-vast-as-the-sea, refs: ["Lam 2:13"]}
+      - {motif: false-prophets-of-peace, refs: ["Lam 2:14"]}
+      - {motif: passers-by-hiss-and-wag-heads, refs: ["Lam 2:15-16"], note: "'Is this the city called perfect in beauty?'"}
+      - {motif: enemies-gnash-teeth-aha, refs: ["Lam 2:16"]}
+      - {motif: tears-flow-like-a-torrent-day-and-night, refs: ["Lam 2:18"]}
+      - {motif: cry-out-in-night-watches, refs: ["Lam 2:19"]}
+      - {motif: siege-cannibalism, refs: ["Lam 2:20"]}
+      - {motif: priest-and-prophet-slain-in-sanctuary, refs: ["Lam 2:20"]}
+      - {motif: day-of-the-lords-anger, refs: ["Lam 2:1", "Lam 2:21-22"]}
+      - {motif: terror-on-every-side, refs: ["Lam 2:22"]}
+    hints:
+      - "Lam 2:20 (priest and prophet slain in the sanctuary) is linked in the Talmud (b. Git. 57b; y. Taan. 4:5) to the blood of Zechariah son of Jehoiada bubbling in the temple; compare Matt 23:35."
+  - id: hb-lam-3-the-man-who-saw-affliction
+    tradition: judaism
+    title: "Lamentations 3: 'I am the man who has seen affliction'; mercies new every morning"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lam 3:1-66"]
+    tags:
+      - {motif: triple-alphabetic-acrostic, refs: ["Lam 3:1-3", "Lam 3:64-66"], note: "Each letter begins three successive single-line verses (66 verses)"}
+      - {motif: acrostic-poem, refs: ["Lam 3:1", "Lam 3:66"]}
+      - {motif: pe-before-ayin-acrostic-order, refs: ["Lam 3:46-51"]}
+      - {motif: individual-lament, refs: ["Lam 3:1-20", "Lam 3:52-66"]}
+      - {motif: god-as-hunter-or-archer-against-sufferer, refs: ["Lam 3:10-13"], note: "Bear lying in wait, lion in hiding; set me as a target, arrows ('sons of his quiver') into my kidneys"}
+      - {motif: walled-in-by-god, refs: ["Lam 3:5", "Lam 3:7", "Lam 3:9"], note: "Hewn stone blocks his ways; heavy bronze chains"}
+      - {motif: dwelling-in-darkness-like-the-long-dead, refs: ["Lam 3:2", "Lam 3:6"]}
+      - {motif: prayer-shut-out, refs: ["Lam 3:8", "Lam 3:44"], note: "'You wrapped yourself in a cloud so no prayer can pass'"}
+      - {motif: mocked-in-song-by-all, refs: ["Lam 3:14", "Lam 3:63"]}
+      - {motif: fed-wormwood-and-gall, refs: ["Lam 3:15", "Lam 3:19"]}
+      - {motif: teeth-broken-on-gravel, refs: ["Lam 3:16"]}
+      - {motif: mercies-new-every-morning, refs: ["Lam 3:22-23"]}
+      - {motif: god-is-my-portion, refs: ["Lam 3:24"]}
+      - {motif: wait-silently-for-salvation, refs: ["Lam 3:25-26"]}
+      - {motif: good-to-bear-yoke-in-youth, refs: ["Lam 3:27"]}
+      - {motif: mouth-in-the-dust, refs: ["Lam 3:29"]}
+      - {motif: turn-the-other-cheek, refs: ["Lam 3:30"], note: "'Let him give his cheek to the smiter, be filled with reproach'"}
+      - {motif: god-does-not-afflict-willingly, refs: ["Lam 3:31-33"]}
+      - {motif: good-and-evil-from-mouth-of-most-high, refs: ["Lam 3:37-38"]}
+      - {motif: search-our-ways-and-return, refs: ["Lam 3:40"]}
+      - {motif: lifting-heart-with-hands-to-god-in-heaven, refs: ["Lam 3:41"]}
+      - {motif: offscouring-and-refuse-among-peoples, refs: ["Lam 3:45"]}
+      - {motif: terror-pit-snare, refs: ["Lam 3:47"]}
+      - {motif: eyes-flow-with-streams-of-water, refs: ["Lam 3:48-49"]}
+      - {motif: hunted-like-a-bird, refs: ["Lam 3:52"]}
+      - {motif: cast-into-pit-stone-on-top, refs: ["Lam 3:53-55"], note: "Waters over my head; called from the lowest pit"}
+      - {motif: fear-not-oracle, refs: ["Lam 3:57"]}
+      - {motif: god-as-advocate-and-redeemer, refs: ["Lam 3:58-59"]}
+      - {motif: imprecatory-prayer-against-enemies, refs: ["Lam 3:64-66"]}
+    hints:
+      - "Jewish tradition reads the 'geber' as Jeremiah in the pit (Jer 38). Lam 3:30 echoed in Matt 5:39; Lam 3:22-23 in hymnody ('Great is thy faithfulness'). Compare Babylonian 'Ludlul bel nemeqi' (righteous sufferer)."
+  - id: hb-lam-4-tarnished-gold
+    tradition: judaism
+    title: "Lamentations 4: gold grown dim, ostrich-cruel mothers, the anointed captured"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lam 4:1-22"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Lam 4:1", "Lam 4:22"], note: "22 two-line stanzas"}
+      - {motif: pe-before-ayin-acrostic-order, refs: ["Lam 4:16-17"]}
+      - {motif: eikhah-lament-opening, refs: ["Lam 4:1"]}
+      - {motif: holy-stones-scattered-in-streets, refs: ["Lam 4:1"]}
+      - {motif: precious-sons-like-clay-pots, refs: ["Lam 4:2"]}
+      - {motif: jackals-nurse-but-ostrich-is-cruel, refs: ["Lam 4:3"], note: "Even jackals bare the breast; my people cruel like ostriches in the desert"}
+      - {motif: infant-tongue-cleaves-from-thirst, refs: ["Lam 4:4"]}
+      - {motif: nobles-embrace-dunghills, refs: ["Lam 4:5"]}
+      - {motif: sin-greater-than-sodoms, refs: ["Lam 4:6"], note: "Sodom was overthrown in a moment"}
+      - {motif: nazirites-whiter-than-snow, refs: ["Lam 4:7-8"], note: "Purer than snow, ruddier than coral, now blacker than soot"}
+      - {motif: better-slain-by-sword-than-famine, refs: ["Lam 4:9"]}
+      - {motif: siege-cannibalism, refs: ["Lam 4:10"], note: "Compassionate women boiled their children"}
+      - {motif: kings-of-earth-did-not-believe-jerusalem-could-fall, refs: ["Lam 4:12"]}
+      - {motif: priests-and-prophets-shed-righteous-blood, refs: ["Lam 4:13-14"]}
+      - {motif: leper-torn-clothes-cry-unclean, refs: ["Lam 4:15"], note: "'Away! Unclean!' as of lepers"}
+      - {motif: vain-hope-in-foreign-ally, refs: ["Lam 4:17"]}
+      - {motif: pursuers-swifter-than-eagles, refs: ["Lam 4:19"]}
+      - {motif: anointed-king-breath-of-our-nostrils, refs: ["Lam 4:20"], note: "'In his shadow we shall live among the nations'"}
+      - {motif: edom-in-land-of-uz-drinks-cup, refs: ["Lam 4:21-22"]}
+      - {motif: cup-of-wrath, refs: ["Lam 4:21"]}
+    hints:
+      - "Lam 4:20 'the anointed of YHWH' was applied to Christ by Christian Fathers (Justin, Irenaeus: 'Christ the Lord, the breath of our face'). Edom in Uz links to Job 1:1."
+  - id: hb-lam-5-prayer-remember
+    tradition: judaism
+    title: "Lamentations 5: communal prayer 'Remember, O LORD', renew our days as of old"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lam 5:1-22"]
+    tags:
+      - {motif: communal-lament, refs: ["Lam 5:1-22"]}
+      - {motif: non-acrostic-twenty-two-lines, refs: ["Lam 5:1-22"], note: "22 verses matching the alphabet count, but no acrostic"}
+      - {motif: inheritance-turned-to-strangers, refs: ["Lam 5:2"]}
+      - {motif: orphans-and-widows-image-of-nation, refs: ["Lam 5:3"]}
+      - {motif: paying-for-own-water-and-wood, refs: ["Lam 5:4"]}
+      - {motif: sins-visited-to-third-fourth-generation, refs: ["Lam 5:7"]}
+      - {motif: slaves-rule-over-us, refs: ["Lam 5:8"]}
+      - {motif: skin-hot-as-oven-from-famine, refs: ["Lam 5:10"]}
+      - {motif: rape-of-women-in-conquest, refs: ["Lam 5:11"]}
+      - {motif: princes-hanged-by-their-hands, refs: ["Lam 5:12"]}
+      - {motif: captive-grinds-at-mill, refs: ["Lam 5:13"]}
+      - {motif: crown-fallen-from-head, refs: ["Lam 5:16"]}
+      - {motif: foxes-prowl-on-ruined-zion, refs: ["Lam 5:18"]}
+      - {motif: gods-throne-endures-forever, refs: ["Lam 5:19"]}
+      - {motif: turn-us-and-we-shall-turn, refs: ["Lam 5:21"], note: "'Renew our days as of old'"}
+      - {motif: book-ends-on-note-of-rejection, refs: ["Lam 5:22"], note: "Liturgically v.21 is repeated after v.22"}
+    hints:
+      - "Lam 5:18 foxes on Zion: Rabbi Akiva laughs at seeing a fox emerge from the Holy of Holies (b. Makkot 24b). 'Hashivenu' (5:21) sung at the Torah's return to the ark."
+  - id: hb-ezek-1-chariot-throne
+    tradition: judaism
+    title: "Ezekiel's inaugural vision by the Chebar canal: four living creatures, wheels full of eyes, the throne and the glory"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 1:1-28"]
+    tags:
+      - {motif: heavens-opened-vision, refs: ["Ezek 1:1"]}
+      - {motif: vision-by-a-river-in-exile, refs: ["Ezek 1:1", "Ezek 1:3"], note: "River (canal) Chebar in the land of the Chaldeans"}
+      - {motif: enigmatic-thirtieth-year-date, refs: ["Ezek 1:1-2"], note: "'In the thirtieth year', glossed as the fifth year of Jehoiachin's exile"}
+      - {motif: priest-prophet, refs: ["Ezek 1:3"], note: "Ezekiel son of Buzi the priest"}
+      - {motif: hand-of-the-lord-on-prophet, refs: ["Ezek 1:3"]}
+      - {motif: storm-wind-from-the-north-theophany, refs: ["Ezek 1:4"]}
+      - {motif: hashmal-amber-gleam, refs: ["Ezek 1:4", "Ezek 1:27"], note: "Rabbinic tradition: a dangerous word; a child who understood hashmal was consumed by fire (b. Hag. 13a)"}
+      - {motif: four-living-creatures-hayyot, refs: ["Ezek 1:5-14"]}
+      - {motif: four-faces-man-lion-ox-eagle, refs: ["Ezek 1:10"]}
+      - {motif: creatures-with-calf-feet-and-human-hands, refs: ["Ezek 1:7-8"]}
+      - {motif: wings-touching-and-covering-bodies, refs: ["Ezek 1:9", "Ezek 1:11", "Ezek 1:23"]}
+      - {motif: creatures-move-without-turning, refs: ["Ezek 1:9", "Ezek 1:12", "Ezek 1:17"]}
+      - {motif: fiery-torches-and-lightning-among-creatures, refs: ["Ezek 1:13-14"], note: "Running and returning like lightning flashes (ratso va-shov)"}
+      - {motif: wheel-within-a-wheel, refs: ["Ezek 1:15-16"], note: "Ofannim gleaming like Tarshish (beryl)"}
+      - {motif: wheel-rims-full-of-eyes, refs: ["Ezek 1:18"]}
+      - {motif: spirit-of-creature-in-wheels, refs: ["Ezek 1:19-21"]}
+      - {motif: crystal-firmament-over-creatures, refs: ["Ezek 1:22"], note: "Raqia like awesome ice/crystal"}
+      - {motif: sound-of-wings-like-many-waters, refs: ["Ezek 1:24"], note: "Like the voice of Shaddai, like the noise of an army camp"}
+      - {motif: sapphire-throne, refs: ["Ezek 1:26"]}
+      - {motif: likeness-of-a-man-on-the-throne, refs: ["Ezek 1:26-27"], note: "Fire from the loins up and down"}
+      - {motif: rainbow-radiance-around-god, refs: ["Ezek 1:28"]}
+      - {motif: glory-of-the-lord-kavod, refs: ["Ezek 1:28"]}
+      - {motif: prophet-falls-on-face-before-god, refs: ["Ezek 1:28"]}
+      - {motif: layered-hedged-language-likeness-of-appearance, refs: ["Ezek 1:5", "Ezek 1:26", "Ezek 1:28"], note: "'The appearance of the likeness of the glory of YHWH'"}
+    hints:
+      - "Basis of ma'aseh merkavah mysticism and Hekhalot literature; read as haftarah on Shavuot. Four faces become the four Evangelists' symbols (Irenaeus, Jerome) and Rev 4:6-8. Compare Assyrian lamassu, Mesopotamian winged genii supporting the sky, Hindu vahanas, and Mithraic or Vedic solar chariots; Quran 69:17 (eight bearing the Throne)."
+  - id: hb-ezek-2-3-commission-eaten-scroll
+    tradition: judaism
+    title: "Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 2:1-3:15"]
+    tags:
+      - {motif: prophet-addressed-as-son-of-man, refs: ["Ezek 2:1", "Ezek 2:3", "Ezek 3:1"]}
+      - {motif: spirit-enters-and-stands-prophet-up, refs: ["Ezek 2:2"]}
+      - {motif: prophetic-call-narrative, refs: ["Ezek 2:3-7"]}
+      - {motif: rebellious-house, refs: ["Ezek 2:5-8", "Ezek 3:9"]}
+      - {motif: whether-they-hear-or-refuse, refs: ["Ezek 2:5", "Ezek 2:7", "Ezek 3:11"]}
+      - {motif: prophet-among-thorns-and-scorpions, refs: ["Ezek 2:6"]}
+      - {motif: heavenly-scroll-eaten-by-prophet, refs: ["Ezek 2:8-3:3"]}
+      - {motif: hand-stretched-out-holding-scroll, refs: ["Ezek 2:9"]}
+      - {motif: scroll-written-front-and-back, refs: ["Ezek 2:10"], note: "Lamentations, mourning and woe (qinim va-hegeh va-hi)"}
+      - {motif: scroll-sweet-as-honey-in-mouth, refs: ["Ezek 3:3"]}
+      - {motif: foreigners-would-listen-israel-will-not, refs: ["Ezek 3:5-7"]}
+      - {motif: forehead-hard-as-diamond, refs: ["Ezek 3:8-9"], note: "Shamir harder than flint"}
+      - {motif: prophet-carried-by-spirit, refs: ["Ezek 3:12", "Ezek 3:14"]}
+      - {motif: blessed-be-the-glory-from-his-place, refs: ["Ezek 3:12"], note: "barukh kevod YHWH mi-meqomo; the Kedushah response"}
+      - {motif: rushing-sound-of-wings-and-wheels, refs: ["Ezek 3:12-13"]}
+      - {motif: prophet-sits-stunned-seven-days, refs: ["Ezek 3:15"], note: "At Tel-abib among the exiles"}
+      - {motif: hand-of-the-lord-on-prophet, refs: ["Ezek 3:14"]}
+      - {motif: glory-of-the-lord-kavod, refs: ["Ezek 3:12"]}
+    hints:
+      - "Rev 10:9-10 (John eats a little scroll sweet in the mouth, bitter in the belly); Jer 15:16; Hekhalot and Kedushah liturgy (Isa 6:3 + Ezek 3:12). Compare the Islamic tradition of the Prophet's chest opened and filled, and the Iranian Arda Viraf."
+  - id: hb-ezek-3-watchman-and-muteness
+    tradition: judaism
+    title: "Ezekiel appointed watchman; bound and struck dumb in his house"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 3:16-27"]
+    tags:
+      - {motif: prophet-as-watchman, refs: ["Ezek 3:17"]}
+      - {motif: watchman-responsible-for-blood-if-silent, refs: ["Ezek 3:18-21"]}
+      - {motif: righteous-man-who-turns-to-evil-dies, refs: ["Ezek 3:20"], note: "God places a stumbling block (mikhshol) before him"}
+      - {motif: individual-responsibility-for-sin, refs: ["Ezek 3:18-21"]}
+      - {motif: glory-appears-in-the-valley, refs: ["Ezek 3:22-23"]}
+      - {motif: prophet-confined-in-house, refs: ["Ezek 3:24-25"], note: "Bound with cords"}
+      - {motif: prophet-struck-dumb, refs: ["Ezek 3:26-27"], note: "Tongue cleaves to his palate except when God opens his mouth"}
+      - {motif: hand-of-the-lord-on-prophet, refs: ["Ezek 3:22"]}
+      - {motif: glory-of-the-lord-kavod, refs: ["Ezek 3:23"]}
+      - {motif: prophet-falls-on-face-before-god, refs: ["Ezek 3:23"]}
+      - {motif: spirit-enters-and-stands-prophet-up, refs: ["Ezek 3:24"]}
+      - {motif: rebellious-house, refs: ["Ezek 3:26-27"]}
+      - {motif: whether-they-hear-or-refuse, refs: ["Ezek 3:27"]}
+    hints:
+      - "Ezekiel's muteness ends at 33:22; compare Zechariah struck dumb (Luke 1:20) and Quran 19:10 (Zechariah's three nights' silence)."
+  - id: hb-ezek-4-siege-sign-acts
+    tradition: judaism
+    title: "Sign-acts of the siege: the brick, the iron griddle, lying on his sides, rationed bread baked on dung"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 4:1-17"]
+    tags:
+      - {motif: prophetic-sign-act, refs: ["Ezek 4:1-3", "Ezek 4:4-8", "Ezek 4:9-15"]}
+      - {motif: city-drawn-on-brick-and-besieged, refs: ["Ezek 4:1-2"], note: "Siege wall, ramp, camps and battering rams around a clay brick"}
+      - {motif: iron-griddle-as-wall, refs: ["Ezek 4:3"]}
+      - {motif: prophet-bears-iniquity-of-people, refs: ["Ezek 4:4-6"]}
+      - {motif: lying-on-side-390-and-40-days, refs: ["Ezek 4:4-6"], note: "Left side for Israel 390 days, right side for Judah 40 days"}
+      - {motif: day-for-a-year, refs: ["Ezek 4:6"]}
+      - {motif: bound-with-cords-cannot-turn, refs: ["Ezek 4:8"]}
+      - {motif: mixed-grain-bread, refs: ["Ezek 4:9"], note: "Wheat, barley, beans, lentils, millet and spelt in one vessel"}
+      - {motif: siege-rations-weighed-and-measured, refs: ["Ezek 4:10-11", "Ezek 4:16"], note: "Twenty shekels of food, a sixth of a hin of water a day"}
+      - {motif: bread-baked-on-human-dung, refs: ["Ezek 4:12-13"]}
+      - {motif: besieged-eat-own-excrement, refs: ["Ezek 4:12"]}
+      - {motif: unclean-food-in-exile, refs: ["Ezek 4:13"]}
+      - {motif: prophet-protests-never-eaten-unclean, refs: ["Ezek 4:14"], note: "No carrion (nevelah), torn meat (terefah) or piggul since youth"}
+      - {motif: god-relents-cow-dung-substitute, refs: ["Ezek 4:15"]}
+      - {motif: famine-summoned-staff-of-bread-broken, refs: ["Ezek 4:16"]}
+      - {motif: wasting-away-in-iniquity, refs: ["Ezek 4:17"]}
+    hints:
+      - "Day-for-a-year reckoning (Num 14:34) underlies Daniel's weeks and Christian/Millerite and Baha'i prophetic chronologies. Compare Peter's vision refusing unclean food (Acts 10:14) and Daniel 1:8."
