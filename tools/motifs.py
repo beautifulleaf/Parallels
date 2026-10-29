@@ -53,7 +53,21 @@ def validate(vocab, units, quran_text, hebrew_text):
         seen.add(u["id"])
         if u.get("tradition") not in tradition_ids:
             errors.append(f"{where}: unknown tradition {u.get('tradition')}")
+        read = set()
+        if u.get("original"):
+            for r in u.get("read") or []:
+                found = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
+                         else originals.hebrew_refs(r, hebrew_text))
+                if not found:
+                    errors.append(f"{where}: read range {r} does not resolve")
+                read |= set(found or [])
         for t in u["tags"]:
+            if u.get("original"):
+                for r in t["refs"]:
+                    keys = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
+                            else originals.hebrew_refs(r, hebrew_text)) or []
+                    if not set(keys) <= read:
+                        errors.append(f"{where}: tag {t['motif']} cites {r}, which is outside the unit's read ranges")
             if t["motif"] not in vocab:
                 errors.append(f"{where}: unknown motif {t['motif']}")
             if u.get("original"):

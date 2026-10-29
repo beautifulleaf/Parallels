@@ -1,70 +1,70 @@
 {
  "weights": {
-  "largest-idol-blamed": 2.5257286443082556,
-  "heavenly-bodies-argument": 2.120263536200091,
   "hero-smashes-idols": 2.120263536200091,
-  "thrown-into-fire": 2.120263536200091,
-  "father-serves-idols": 1.8325814637483102,
   "fire-made-harmless": 2.120263536200091,
+  "father-serves-idols": 1.8325814637483102,
+  "thrown-into-fire": 2.120263536200091,
+  "heavenly-bodies-argument": 2.120263536200091,
+  "largest-idol-blamed": 2.5257286443082556,
   "sibling-dies-in-fire": 2.5257286443082556,
-  "divine-decision-to-destroy": 1.4271163556401458,
-  "vessel-rests-on-mountain": 1.6094379124341003,
-  "reason-rejected-messenger": 3.2188758248682006,
-  "universal-destruction": 1.4271163556401458,
-  "family-saved": 1.8325814637483102,
-  "mountain-refuge-fails": 3.2188758248682006,
   "build-vessel-on-instruction": 1.4271163556401458,
-  "people-mock-builder": 2.5257286443082556,
-  "hero-preaches-to-people": 2.5257286443082556,
-  "hero-prays-for-judgment": 3.2188758248682006,
-  "vessel-planks-and-nails": 3.2188758248682006,
   "family-member-lost": 3.2188758248682006,
-  "animals-in-pairs": 2.5257286443082556,
-  "hero-warned-by-deity": 1.2729656758128876,
+  "boiling-waters": 2.5257286443082556,
+  "hero-preaches-to-people": 2.5257286443082556,
+  "universal-destruction": 1.4271163556401458,
+  "vessel-rests-on-mountain": 1.6094379124341003,
+  "mountain-refuge-fails": 3.2188758248682006,
   "hero-righteous": 1.8325814637483102,
-  "waters-from-above-and-below": 2.5257286443082556,
-  "sign-to-board": 3.2188758248682006,
   "blessing-on-descent": 2.5257286443082556,
   "hero-age-950": 2.5257286443082556,
-  "boiling-waters": 2.5257286443082556,
-  "deity-smells-offering": 2.120263536200091,
-  "vessel-sealed-with-pitch": 1.6094379124341003,
-  "promise-never-again": 3.2188758248682006,
-  "reason-human-wickedness": 2.5257286443082556,
-  "sign-in-sky": 2.5257286443082556,
-  "bird-release": 2.5257286443082556,
-  "vessel-dimensions-given": 2.5257286443082556,
+  "waters-from-above-and-below": 2.5257286443082556,
+  "people-mock-builder": 2.5257286443082556,
+  "reason-rejected-messenger": 3.2188758248682006,
+  "animals-in-pairs": 2.5257286443082556,
+  "family-saved": 1.8325814637483102,
+  "vessel-planks-and-nails": 3.2188758248682006,
+  "hero-prays-for-judgment": 3.2188758248682006,
+  "divine-decision-to-destroy": 1.4271163556401458,
+  "hero-warned-by-deity": 1.2729656758128876,
+  "sign-to-board": 3.2188758248682006,
   "sacrifice-after-flood": 1.4271163556401458,
+  "vessel-dimensions-given": 2.5257286443082556,
+  "vessel-sealed-with-pitch": 1.6094379124341003,
+  "bird-release": 2.5257286443082556,
+  "promise-never-again": 3.2188758248682006,
+  "deity-smells-offering": 2.120263536200091,
+  "sign-in-sky": 2.5257286443082556,
+  "reason-human-wickedness": 2.5257286443082556,
   "warning-through-wall": 2.120263536200091,
   "animals-aboard": 2.5257286443082556,
   "reason-human-noise": 3.2188758248682006,
   "repopulation-from-stones-or-offering": 2.5257286443082556,
   "fish-guides-vessel": 3.2188758248682006,
-  "mother-divinely-inspired": 3.2188758248682006,
-  "adopted-by-royal-woman": 2.5257286443082556,
-  "found-by-royal-household": 2.5257286443082556,
-  "king-kills-male-infants": 2.120263536200091,
-  "infant-set-adrift": 2.120263536200091,
   "returned-to-own-mother": 2.5257286443082556,
-  "sister-watches": 2.5257286443082556,
+  "infant-set-adrift": 2.120263536200091,
+  "found-by-royal-household": 2.5257286443082556,
   "infant-refuses-nurses": 2.5257286443082556,
+  "adopted-by-royal-woman": 2.5257286443082556,
+  "mother-divinely-inspired": 3.2188758248682006,
+  "king-kills-male-infants": 2.120263536200091,
   "sister-offers-nurse": 2.5257286443082556,
-  "reed-container": 2.5257286443082556,
+  "sister-watches": 2.5257286443082556,
   "name-from-water": 3.2188758248682006,
+  "reed-container": 2.5257286443082556,
   "mother-hides-infant": 3.2188758248682006,
+  "secret-or-irregular-birth": 3.2188758248682006,
   "goddess-favors-hero": 3.2188758248682006,
   "found-by-commoner": 3.2188758248682006,
-  "secret-or-irregular-birth": 3.2188758248682006,
-  "child-raised-in-sanctuary": 2.120263536200091,
-  "infant-speaks": 2.5257286443082556,
-  "vow-of-silence": 3.2188758248682006,
-  "lots-for-guardian": 2.5257286443082556,
   "palm-tree-provides": 2.5257286443082556,
-  "miraculous-food-in-sanctuary": 2.5257286443082556,
-  "mother-dedicates-child": 2.120263536200091,
-  "birth-in-solitude": 3.2188758248682006,
   "clay-birds-animated": 2.5257286443082556,
-  "miraculous-spring": 2.5257286443082556
+  "vow-of-silence": 3.2188758248682006,
+  "miraculous-spring": 2.5257286443082556,
+  "miraculous-food-in-sanctuary": 2.5257286443082556,
+  "infant-speaks": 2.5257286443082556,
+  "lots-for-guardian": 2.5257286443082556,
+  "birth-in-solitude": 3.2188758248682006,
+  "child-raised-in-sanctuary": 2.120263536200091,
+  "mother-dedicates-child": 2.120263536200091
  },
  "pairs": [
   {
@@ -72,17 +72,17 @@
    "b": "akk-gilgamesh-xi",
    "score": 21.73,
    "shared": [
-    "sign-in-sky",
     "bird-release",
+    "sign-in-sky",
     "vessel-dimensions-given",
     "deity-smells-offering",
     "family-saved",
-    "vessel-sealed-with-pitch",
     "vessel-rests-on-mountain",
-    "universal-destruction",
-    "divine-decision-to-destroy",
-    "sacrifice-after-flood",
+    "vessel-sealed-with-pitch",
     "build-vessel-on-instruction",
+    "universal-destruction",
+    "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -104,16 +104,16 @@
    "b": "hb-flood",
    "score": 20.932,
    "shared": [
-    "animals-in-pairs",
-    "waters-from-above-and-below",
     "blessing-on-descent",
     "hero-age-950",
+    "waters-from-above-and-below",
+    "animals-in-pairs",
     "hero-righteous",
     "family-saved",
     "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
     "universal-destruction",
     "divine-decision-to-destroy",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -143,13 +143,13 @@
    "b": "hb-moses-infancy",
    "score": 16.869,
    "shared": [
-    "adopted-by-royal-woman",
-    "found-by-royal-household",
     "returned-to-own-mother",
-    "sister-watches",
+    "found-by-royal-household",
+    "adopted-by-royal-woman",
     "sister-offers-nurse",
-    "king-kills-male-infants",
-    "infant-set-adrift"
+    "sister-watches",
+    "infant-set-adrift",
+    "king-kills-male-infants"
    ],
    "only_a": [
     "infant-refuses-nurses",
@@ -170,10 +170,10 @@
     "reason-human-wickedness",
     "hero-righteous",
     "vessel-rests-on-mountain",
-    "universal-destruction",
-    "divine-decision-to-destroy",
-    "sacrifice-after-flood",
     "build-vessel-on-instruction",
+    "universal-destruction",
+    "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -201,9 +201,9 @@
     "deity-smells-offering",
     "family-saved",
     "vessel-sealed-with-pitch",
-    "divine-decision-to-destroy",
-    "sacrifice-after-flood",
     "build-vessel-on-instruction",
+    "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -233,8 +233,8 @@
    "shared": [
     "largest-idol-blamed",
     "hero-smashes-idols",
-    "thrown-into-fire",
     "fire-made-harmless",
+    "thrown-into-fire",
     "father-serves-idols"
    ],
    "only_a": [
@@ -251,8 +251,8 @@
    "shared": [
     "repopulation-from-stones-or-offering",
     "vessel-rests-on-mountain",
-    "universal-destruction",
     "build-vessel-on-instruction",
+    "universal-destruction",
     "sacrifice-after-flood",
     "hero-warned-by-deity"
    ],
@@ -272,8 +272,8 @@
    "shared": [
     "miraculous-food-in-sanctuary",
     "lots-for-guardian",
-    "child-raised-in-sanctuary",
-    "mother-dedicates-child"
+    "mother-dedicates-child",
+    "child-raised-in-sanctuary"
    ],
    "only_a": [
     "birth-in-solitude",
@@ -292,9 +292,9 @@
    "shared": [
     "family-saved",
     "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
     "universal-destruction",
     "divine-decision-to-destroy",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -331,9 +331,9 @@
    "shared": [
     "hero-righteous",
     "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
     "universal-destruction",
     "divine-decision-to-destroy",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -364,10 +364,10 @@
    "score": 8.591,
    "shared": [
     "vessel-rests-on-mountain",
-    "universal-destruction",
-    "divine-decision-to-destroy",
-    "sacrifice-after-flood",
     "build-vessel-on-instruction",
+    "universal-destruction",
+    "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -393,8 +393,8 @@
    "shared": [
     "warning-through-wall",
     "universal-destruction",
-    "divine-decision-to-destroy",
     "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -449,8 +449,8 @@
    "shared": [
     "hero-righteous",
     "universal-destruction",
-    "divine-decision-to-destroy",
     "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -480,8 +480,8 @@
    "shared": [
     "hero-righteous",
     "universal-destruction",
-    "divine-decision-to-destroy",
     "sacrifice-after-flood",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -500,9 +500,9 @@
    "score": 7.164,
    "shared": [
     "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
     "universal-destruction",
     "sacrifice-after-flood",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -532,9 +532,9 @@
    "score": 7.164,
    "shared": [
     "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
     "universal-destruction",
     "sacrifice-after-flood",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -606,8 +606,8 @@
    "b": "jud-jubilees-12",
    "score": 6.073,
    "shared": [
-    "heavenly-bodies-argument",
     "hero-smashes-idols",
+    "heavenly-bodies-argument",
     "father-serves-idols"
    ],
    "only_a": [
@@ -625,8 +625,8 @@
    "score": 5.96,
    "shared": [
     "family-saved",
-    "divine-decision-to-destroy",
     "build-vessel-on-instruction",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -662,8 +662,8 @@
    "score": 5.96,
    "shared": [
     "hero-righteous",
-    "divine-decision-to-destroy",
     "universal-destruction",
+    "divine-decision-to-destroy",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -728,9 +728,9 @@
    "b": "gr-deucalion",
    "score": 5.554,
    "shared": [
+    "build-vessel-on-instruction",
     "divine-decision-to-destroy",
     "sacrifice-after-flood",
-    "build-vessel-on-instruction",
     "hero-warned-by-deity"
    ],
    "only_a": [
@@ -754,8 +754,8 @@
    "b": "ec-pseudo-matthew",
    "score": 5.051,
    "shared": [
-    "palm-tree-provides",
-    "miraculous-spring"
+    "miraculous-spring",
+    "palm-tree-provides"
    ],
    "only_a": [
     "birth-in-solitude",
@@ -774,8 +774,8 @@
    "b": "hb-daniel-furnace",
    "score": 4.241,
    "shared": [
-    "thrown-into-fire",
-    "fire-made-harmless"
+    "fire-made-harmless",
+    "thrown-into-fire"
    ],
    "only_a": [
     "father-serves-idols",
@@ -790,8 +790,8 @@
    "b": "hb-samuel-childhood",
    "score": 4.241,
    "shared": [
-    "child-raised-in-sanctuary",
-    "mother-dedicates-child"
+    "mother-dedicates-child",
+    "child-raised-in-sanctuary"
    ],
    "only_a": [
     "birth-in-solitude",
@@ -810,8 +810,8 @@
    "b": "ec-protevangelium",
    "score": 4.241,
    "shared": [
-    "child-raised-in-sanctuary",
-    "mother-dedicates-child"
+    "mother-dedicates-child",
+    "child-raised-in-sanctuary"
    ],
    "only_a": [],
    "only_b": [
@@ -849,8 +849,8 @@
    "b": "hin-shatapatha-manu",
    "score": 4.127,
    "shared": [
-    "sacrifice-after-flood",
     "universal-destruction",
+    "sacrifice-after-flood",
     "hero-warned-by-deity"
    ],
    "only_a": [

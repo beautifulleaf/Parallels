@@ -5,6 +5,7 @@ units:
     corpus: quran
     original: true
     tagger: Claude (model), reading the Arabic
+    read: ["20:38-40", "28:4", "28:7-9", "28:11-13", "2:49"]   # verses read in full from the original
     tags:
       - {motif: king-kills-male-infants, refs: ["28:4", "2:49"]}
       - {motif: mother-divinely-inspired, refs: ["20:38", "28:7"]}
@@ -22,6 +23,7 @@ units:
     corpus: hebrew-bible
     original: true
     tagger: Claude (model), reading the Hebrew
+    read: ["Exod 1:16", "Exod 1:22", "Exod 2:2-10"]   # verses read in full from the original
     tags:
       - {motif: king-kills-male-infants, refs: ["Exod 1:16", "Exod 1:22"]}
       - {motif: mother-hides-infant, refs: ["Exod 2:2"]}
@@ -70,6 +72,7 @@ units:
     corpus: quran
     original: true
     tagger: Claude (model), reading the Arabic
+    read: ["3:35-37", "3:44", "3:46", "3:49", "19:22-26", "19:29-30", "5:110"]   # verses read in full from the original
     tags:
       - {motif: mother-dedicates-child, refs: ["3:35"]}
       - {motif: child-raised-in-sanctuary, refs: ["3:37"], note: al-miḥrāb}
@@ -88,6 +91,7 @@ units:
     corpus: hebrew-bible
     original: true
     tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 1:11", "1Sam 1:28", "1Sam 2:11", "1Sam 2:18"]   # verses read in full from the original
     tags:
       - {motif: mother-dedicates-child, refs: ["1Sam 1:11", "1Sam 1:28"]}
       - {motif: child-raised-in-sanctuary, refs: ["1Sam 2:11", "1Sam 2:18"]}
