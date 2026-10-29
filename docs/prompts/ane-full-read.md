@@ -130,9 +130,16 @@ scope and why. Plan the reading chunks from those sizes.
      hero's motive and the gods' hunger after the flood (Atrahasis III)
      against Gen 8:21. Another is the birth story told of Sargon against
      the one told of Moses.
+   - For divergences, responses and contrasts, readers use a **neutral motif
+     id** naming the shared matter, such as `cause-of-the-flood` or
+     `who-sends-the-flood`, never one side's claim (see
+     `data/alignments/README.md`). Put this rule in the readers' prompt
+     from the start. In the HB × Quran pass it arrived mid-run, and most
+     readers had to rewrite more than 100 matches each.
    - Validate each file with `python3 tools/compare.py validate <file>`. The
      loader in `tools/motifs.py` turns confirmed matches into shared tags,
-     and every confirmed pair becomes a lead.
+     and every confirmed pair becomes a lead. Each lead's card in the Ledger
+     shows the two texts side by side (`site/template.html`).
 3. Run `python3 tools/motifs.py --write-leads`, `python3 tools/lexical.py
    --write-leads`, `python3 tools/linguistic.py`, `python3 tools/originals.py`,
    `python3 tools/coverage.py` and `python3 tools/build.py`. All benchmarks
