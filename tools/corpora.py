@@ -148,6 +148,8 @@ def load_hebrew_bible():
     for lid, votes in pos_votes.items():
         pos = votes.most_common(1)[0][0]
         entry = strongs.get(lid, {})
+        if re.search(r"\bname of\b", entry.get("strongs_def", "")):
+            pos = "Np"    # place and personal names that OSHB tags as common nouns
         lemmas[lid] = Lemma(id=lid, form=entry.get("lemma", lid), pos=pos,
                             gloss=re.sub(r"[{}]", "", entry.get("strongs_def") or "").split(";")[0][:80],
                             translit=entry.get("xlit", ""),

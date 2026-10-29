@@ -991,41 +991,6 @@
    "translit": "mughraq"
   },
   {
-   "lemma": "حاشِر",
-   "n": 3,
-   "narrative": "moses",
-   "k": 3,
-   "share": 1.0,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 2,
-   "p": 0.0003442965528233439,
-   "refs": [
-    "7:111",
-    "26:36",
-    "26:53"
-   ],
-   "q": 0.001074205244808833,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H2841",
-     "form": "חַשְׁרָה",
-     "translit": "chashrâh",
-     "gloss": "properly, a combination or gathering, i.e. of watery clouds",
-     "verses": 1,
-     "gloss_match": false
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 3.46,
-   "form": "حاشِر",
-   "gloss": "gatherer",
-   "root": "حشر",
-   "pos": "N",
-   "translit": "ḥāshir"
-  },
-  {
    "lemma": "مَدائِن",
    "n": 3,
    "narrative": "moses",
@@ -1083,6 +1048,41 @@
    "root": "مدن",
    "pos": "N",
    "translit": "madāʾin"
+  },
+  {
+   "lemma": "حاشِر",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:111",
+    "26:36",
+    "26:53"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H2841",
+     "form": "חַשְׁרָה",
+     "translit": "chashrâh",
+     "gloss": "properly, a combination or gathering, i.e. of watery clouds",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.46,
+   "form": "حاشِر",
+   "gloss": "gatherer",
+   "root": "حشر",
+   "pos": "N",
+   "translit": "ḥāshir"
   },
   {
    "lemma": "مُلْقي",
@@ -2286,31 +2286,6 @@
    "translit": "jāwaza"
   },
   {
-   "lemma": "طَلَعَت",
-   "n": 2,
-   "narratives": [
-    "cave",
-    "dhul-qarnayn"
-   ],
-   "counts": [
-    1,
-    1
-   ],
-   "p": 2.885694107142157e-05,
-   "refs": [
-    "18:17",
-    "18:90"
-   ],
-   "cognates": [],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "form": "طَلَعَت",
-   "gloss": "rose",
-   "root": "طلع",
-   "pos": "V",
-   "translit": "ṭalaʿat"
-  },
-  {
    "lemma": "غَرَبَت",
    "n": 2,
    "narratives": [
@@ -2375,6 +2350,31 @@
    "root": "غرب",
    "pos": "V",
    "translit": "gharabat"
+  },
+  {
+   "lemma": "طَلَعَت",
+   "n": 2,
+   "narratives": [
+    "cave",
+    "dhul-qarnayn"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 2.885694107142157e-05,
+   "refs": [
+    "18:17",
+    "18:90"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طَلَعَت",
+   "gloss": "rose",
+   "root": "طلع",
+   "pos": "V",
+   "translit": "ṭalaʿat"
   },
   {
    "lemma": "مُغْرَق",
@@ -3626,18 +3626,18 @@
      "gloss_match": false
     },
     {
-     "lemma": "H5932",
-     "form": "עַלְוָה",
-     "translit": "ʻalvâh",
-     "gloss": "moral perverseness",
-     "verses": 1,
-     "gloss_match": false
-    },
-    {
      "lemma": "H5940",
      "form": "עֱלִי",
      "translit": "ʻĕlîy",
      "gloss": "a pestle (as lifted)",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5932",
+     "form": "עַלְוָה",
+     "translit": "ʻalvâh",
+     "gloss": "moral perverseness",
      "verses": 1,
      "gloss_match": false
     }

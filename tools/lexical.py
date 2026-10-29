@@ -464,6 +464,53 @@ def build_leads(quran, heb, q_conc, q_bridges, bench):
     return leads
 
 
+def hebrew_slug(lem):
+    t = unicodedata.normalize("NFD", lem.translit)
+    return "".join(ch for ch in t if ch.isascii() and ch.isalnum()).lower() or lem.id.lower()
+
+
+def build_hebrew_leads(heb, h_conc, h_bridges, bench):
+    covered = {b["lemma"] for b in bench if b.get("lead")}
+    picks = [("bridge", b) for b in h_bridges[:10] if b["p"] <= 0.01]
+    picks += [("conc", c) for c in h_conc[:12] if c["synonym_skew"] and c["q"] <= 0.01]
+    leads, seen = [], set()
+    for kind, c in picks:
+        if c["lemma"] in covered or c["lemma"] in seen:
+            continue
+        seen.add(c["lemma"])
+        lem = heb.lemmas[c["lemma"]]
+        if kind == "conc":
+            narr = heb.narratives[c["narrative"]]
+            narratives = [c["narrative"]]
+            lid = f"hebrew-{c['narrative']}-{hebrew_slug(lem)}"
+            title = f"{lem.translit}: a word concentrated in {narr}"
+            summary = (f"{lem.form} ({lem.translit}, {lem.id}) occurs in {c['n']} verses; {c['k']} of them ({c['share']:.0%}) "
+                       f"are in the {narr} narrative, which is {c['base_rate']:.0%} of the Hebrew Bible, across {c['dispersion']} chapters.")
+        else:
+            n1, n2 = (heb.narratives[n] for n in c["narratives"])
+            narratives = c["narratives"]
+            lid = f"hebrew-bridge-{hebrew_slug(lem)}"
+            title = f"{lem.translit}: a word shared by {n1} and {n2}"
+            summary = (f"{lem.form} ({lem.translit}, {lem.id}) occurs in {c['n']} verses, all or nearly all inside two narratives: "
+                       f"{n1} ({c['counts'][0]}) and {n2} ({c['counts'][1]}). A rare word linking two stories.")
+        evidence = [{"text": f"p = {c['p']:.1e} (hypergeometric, verse level)" + (f", q = {c['q']:.1e}" if "q" in c else "")
+                     + ". Counted from the original text with the OSHB lemmas (Strong's numbers).", "basis": "original"}]
+        for sk in c.get("synonym_skew", [])[:2]:
+            sl = heb.lemmas[sk["lemma"]]
+            evidence.append({"text": f"Synonym skew: {sl.form} ({sl.translit}, {sk['n']} verses) has only {sk['share_in_narrative']:.0%} "
+                                     "of its verses in this narrative. The words are paired only because their Strong's English "
+                                     "definitions start with the same word; confirm in the Hebrew.", "basis": "gloss"})
+        passages = [{"tradition": "judaism", "ref": hebrew_ref(r)} for r in c["refs"][:15]]
+        originals.fill_passages(passages, QURAN_TEXT, HEBREW_TEXT)
+        leads.append({
+            "id": lid, "title": title, "summary": summary, "status": "new", "relations": ["internal"],
+            "standing": "proposed", "traditions": ["judaism"], "layers": ["lexical"], "motifs": narratives,
+            "lexical": [{"lang": "he", "form": lem.form, "translit": lem.translit, "gloss": lem.gloss}],
+            "passages": passages, "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
+        })
+    return leads
+
+
 def _lead(quran, heb, c, lid, title, summary, narratives):
     lem = quran.lemmas[c["lemma"]]
     lexical = [{"lang": "ar", "form": lem.form, "translit": translit(lem.form), "gloss": lem.gloss}]
@@ -524,7 +571,7 @@ def main():
     if "--write-leads" in sys.argv:
         global QURAN_TEXT, HEBREW_TEXT
         QURAN_TEXT, HEBREW_TEXT = originals.load_quran_text(), originals.load_hebrew_text()
-        for lead in build_leads(quran, heb, q_conc, q_bridges, bench):
+        for lead in build_leads(quran, heb, q_conc, q_bridges, bench) + build_hebrew_leads(heb, h_conc, h_bridges, bench):
             print(f"  lead {lead['id']}: {write_lead(lead)}")
     print("wrote results/lexical/")
     if any(b["expect"] and not b["recovered"] for b in bench):

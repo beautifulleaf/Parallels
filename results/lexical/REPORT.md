@@ -35,8 +35,8 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 4.33 | آنَسَ *ʾānasa* “perceive” (root انس) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs يَشْعُرُ (25, 8% here) |
 | 4.33 | اخْتارَ *akhtāra* “chose” (root خير) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs اجْتَبَى (10, 0% here) |
 | 3.53 | مُغْرَق *mughraq* “drowned” (root غرق) | Noah | 3/4 (75%; base 2%) | 2 | 1.0e-04 |  |
-| 3.46 | حاشِر *ḥāshir* “gatherer” (root حشر) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
 | 3.46 | مَدائِن *madāʾin* “citie” (root مدن) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
+| 3.46 | حاشِر *ḥāshir* “gatherer” (root حشر) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
 | 3.46 | مُلْقي *mulqy* “throw” (root لقي) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 |  |
 | 3.43 | يَبْخَسْ *yabkhas* “deprive” (root بخس) | Shuʿayb and Midian | 3/5 (60%; base 1%) | 3 | 1.8e-05 |  |
 | 2.98 | مَطَر *maṭar* “rain” (root مطر) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
@@ -66,8 +66,8 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 6.8e-06 | طَفِقَ *ṭafiqa* “began” (root طفق) | Adam and Iblis (2) + Solomon (1) | 3 |
 | 9.0e-06 | أَصْنام *ʾaṣnām* “idol” (root صنم) | Abraham (4) + Moses (1) | 5 |
 | 2.5e-05 | جاوَزَ *jāwaza* “across” (root جوز) | Moses (3) + Saul (Talut) and Goliath (1) | 4 |
-| 2.9e-05 | طَلَعَت *ṭalaʿat* “rose” (root طلع) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
 | 2.9e-05 | غَرَبَت *gharabat* “set” (root غرب) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
+| 2.9e-05 | طَلَعَت *ṭalaʿat* “rose” (root طلع) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
 | 5.8e-05 | مُغْرَق *mughraq* “drowned” (root غرق) | Moses (1) + Noah (3) | 4 |
 | 6.0e-05 | بَصطَة *baṣṭa* “abundantly” (root بسط) | Hud and ʿAd (1) + Saul (Talut) and Goliath (1) | 2 |
 | 8.3e-05 | سَمِين *samīn* “fat” (root سمن) · Hebrew cognate שֶׁמֶן *shemen* H8081 | Abraham (1) + Joseph (2) | 3 |
@@ -103,7 +103,7 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 7.4e-03 | نَجِيّ *najī* “private” (root نجو) | Joseph (1) + Moses (1) | 2 |
 | 7.6e-03 | طُوفان *ṭūfān* “flood” (root طوف) | Moses (1) + Noah (1) | 2 |
 
-## Hebrew Bible: concentration (80 candidates)
+## Hebrew Bible: concentration (79 candidates)
 
 | Score | Lemma | Narrative | In narrative | Units | q | Flags |
 |---|---|---|---|---|---|---|
@@ -113,10 +113,10 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 31.12 | מַלְכָּה *malkâh* “a queen” (H4436) | Esther | 24/34 (71%; base 1%) | 7 | 1.6e-42 |  |
 | 30.08 | מְדִינָה *mᵉdîynâh* “properly, a judgeship, i.e. jurisdiction” (H4082) | Esther | 26/40 (65%; base 1%) | 6 | 1.3e-44 |  |
 | 28.25 | אֱלוֹהַּ *ʼĕlôwahh* “a deity or the Deity” (H433) | Job | 41/59 (69%; base 5%) | 23 | 2.7e-39 |  |
-| 24.45 | פָּתַר *pâthar* “to open up, i.e. (figuratively) interpret (a dream)” (H6622) | Joseph | 7/7 (100%; base 2%) | 2 | 7.8e-12 | synonym skew vs פָּקַח (18, 0% here), פָּתַח (133, 3% here) |
+| 24.45 | פָּתַר *pâthar* “to open up, i.e. (figuratively) interpret (a dream)” (H6622) | Joseph | 7/7 (100%; base 2%) | 2 | 7.7e-12 | synonym skew vs פָּקַח (18, 0% here), פָּתַח (133, 3% here) |
 | 20.93 | דְּבִיר *dᵉbîyr* “the shrine or innermost part of the sanctuary” (H1687) | Solomon | 15/16 (94%; base 3%) | 6 | 2.3e-21 |  |
 | 15.67 | מַעֲרָכָה *maʻărâkâh* “an arrangement” (H4634) | Saul | 11/18 (61%; base 3%) | 2 | 2.3e-12 | synonym skew vs עֵדֶר (34, 3% here) |
-| 13.97 | שָׁבַר *shâbar* “to deal in grain” (H7666) | Joseph | 14/20 (70%; base 2%) | 5 | 3.9e-19 |  |
+| 13.97 | שָׁבַר *shâbar* “to deal in grain” (H7666) | Joseph | 14/20 (70%; base 2%) | 5 | 3.8e-19 |  |
 | 12.87 | יָשַׁט *yâshaṭ* “to extend” (H3447) | Esther | 3/3 (100%; base 1%) | 3 | 1.8e-06 | synonym skew vs סָרַח (7, 0% here) |
 | 12.66 | נָקֹד *nâqôd* “spotted” (H5348) | Jacob | 7/7 (100%; base 2%) | 2 | 3.2e-12 |  |
 | 12.51 | מִקְלַעַת *miqlaʻath* “a sculpture (probably in bas-relief)” (H4734) | Solomon | 4/4 (100%; base 3%) | 2 | 2.6e-06 | synonym skew vs פִּתּוּחַ (11, 27% here) |
@@ -148,7 +148,7 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 5.94 | בָּרָה *bârâh* “to select” (H1262) | David | 6/7 (86%; base 5%) | 4 | 6.8e-07 |  |
 | 5.92 | סַר *çar* “peevish” (H5620) | Elijah | 3/3 (100%; base 1%) | 2 | 5.0e-06 |  |
 
-## Hebrew Bible: bridges (42 candidates)
+## Hebrew Bible: bridges (40 candidates)
 
 | p | Lemma | Narratives | Verses |
 |---|---|---|---|
@@ -156,13 +156,11 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 1.9e-32 | מִלָּה *millâh* “a word” (H4405) | David (1) + Job (34) | 38 |
 | 8.6e-31 | תֵּבָה *têbâh* “a box” (H8392) | Moses (2) + Noah and the Flood (23) | 25 |
 | 4.6e-23 | דָּת *dâth* “a royal edict or statute” (H1881) | Esther (19) + Moses (1) | 21 |
-| 1.2e-09 | שֶׁבַע *shebaʻ* “Sheba, the name of a place in Palestine, and of two Israelites” (H7652) | David (8) + Joshua (1) | 10 |
 | 6.2e-09 | בְּכִירָה *bᵉkîyrâh* “the eldest daughter” (H1067) | Jacob (1) + Saul (1) | 6 |
 | 8.2e-08 | בְּשׂוֹרָה *bᵉsôwrâh* “glad tidings” (H1309) | David (5) + Elisha (1) | 6 |
 | 8.6e-07 | אוּת *ʼûwth* “properly, to come, i.e. (implied) to assent” (H225) | Elisha (1) + Jacob (3) | 4 |
 | 1.6e-06 | פַּס *paç* “a long and sleeved tunic (perhaps simply a wide one” (H6446) | David (2) + Joseph (3) | 5 |
 | 2.7e-06 | אָסוֹן *ʼâçôwn* “hurt” (H611) | Joseph (3) + Moses (2) | 5 |
-| 6.3e-06 | אַלְמֹנִי *ʼalmônîy* “some one (i.e. so and so, without giving the name of the person or place)” (H492) | Elisha (1) + Ruth (1) | 3 |
 | 1.1e-05 | פַּרְתַּם *partam* “a grandee” (H6579) | Daniel (1) + Esther (2) | 3 |
 | 1.1e-05 | תֹּקֶף *tôqeph* “might or (figuratively) positiveness” (H8633) | Daniel (1) + Esther (2) | 3 |
 | 1.6e-05 | גָּהַר *gâhar* “to prostrate oneself” (H1457) | Elijah (1) + Elisha (2) | 3 |

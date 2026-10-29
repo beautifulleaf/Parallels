@@ -70,7 +70,7 @@ def quran_refs(spec, text):
 
 def hebrew_refs(spec, text):
     """'Exodus 2:1–10', 'Genesis 6–9', 'Proverbs 22:17–24:22' -> osisIDs."""
-    m = re.match(r"^((?:\d )?[A-Z][a-z]+(?: of [A-Z][a-z]+)?) (\d+)(?::(\d+))?(?:[–-](\d+)(?::(\d+))?)?$", spec.strip())
+    m = re.match(r"^((?:\d ?)?[A-Z][a-z]+(?: of [A-Z][a-z]+)?) (\d+)(?::(\d+))?(?:[–-](\d+)(?::(\d+))?)?$", spec.strip())
     if not m or m.group(1) not in HEBREW_BOOKS:
         return None
     book = HEBREW_BOOKS[m.group(1)]
