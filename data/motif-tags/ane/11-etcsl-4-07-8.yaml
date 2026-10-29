@@ -54,6 +54,8 @@ new_motifs:
   land-fertile-under-blessed-king: {label: "Prayer that under the king there be flax, barley, fish, birds, reeds, wild herds, syrup, wine and long life in the palace", cluster: kingship}
   king-goes-head-high-to-goddess: {label: "The king goes 'with head held high' to the holy embrace of the goddess", cluster: love}
   girl-sings-in-apple-and-fig-orchard: {label: "The lover speaks to the beloved among apple trees, fig trees and willows", cluster: love}
+  goddess-called-milk-of-god: {label: "The goddess calls herself 'the milk of the god' (of Dumuzid)", cluster: divine-epithets}
+  inana-titled-lady-of-heaven: {label: "Inana is titled lady, queen or mother of heaven (nin/ama an-na, 'queen of heaven')", cluster: divine-epithets}
 units:
   - id: ane-etcsl-4-07-8-1-nanaya-balbale
     tradition: ane-sumerian
@@ -104,7 +106,7 @@ units:
       - {motif: goddess-holds-mountains-in-hand, refs: ["ETCSL 4.07.9 A:25-26"], note: "kur šu-ĝu10-še3 kur me-ri-ĝu10-še3 / elam{ki} šu-ĝu10-še3; a dagger at her belt"}
       - {motif: gods-are-small-birds-goddess-is-falcon, refs: ["ETCSL 4.07.9 A:27-28"], note: "dim3-me-er buru5{mušen}-me-eš me-e mu-tin-ĝen; Anuna butting (du7-du7) while she is the wild cow (sumun2)"}
       - {motif: king-catalogue-of-divine-favours, refs: ["ETCSL 4.07.9 A:29-31"], note: "applied to the goddess herself: daughter of Enlil, formidable one of father Suen, queen created by Nudimmud"}
-      - {motif: dumuzid-milk-of-god, refs: ["ETCSL 4.07.9 A:23-24"], note: "diĝir-ra {d}du5-mu-zid-da ga-ĝen: 'I am the milk of the god, of Dumuzid'"}
+      - {motif: goddess-called-milk-of-god, refs: ["ETCSL 4.07.9 A:23-24"], note: "diĝir-ra {d}du5-mu-zid-da ga-ĝen: 'I am the milk of the god, of Dumuzid'"}
     hints:
       - "Divine self-predication in an 'I am' litany: compare Isa 44:24-28, Isa 45:5-7 and Q 20:14 ('Indeed I am God, there is no god but I')."
       - "The goddess at the tavern gate as harlot: compare Prov 7:10-12 (the woman at the corners, in harlot's garb) and Gen 38:14-15."
@@ -119,7 +121,7 @@ units:
       - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.9 B:1-7", "ETCSL 4.07.9 B:10-19"], note: "the list of B:1-7 is repeated with the refrain ni2-ĝu10 il2-la 'imbued with my awesomeness' (reading uncertain)"}
       - {motif: supplicants-go-to-goddess-for-king, refs: ["ETCSL 4.07.9 B:22-27"], note: "in-ĝa2-e-re7-de3-en ... šudu3 u3-mu-un-na-še3 ... šudu3 lugal-la-še3: 'we shall go for the supplication of the lord, of the king'"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 4.07.9 B:1-2", "ETCSL 4.07.9 B:11-12"], note: "nam-til3 u3-mu-un-na / nam-til3 lugal-la 'the life of the lord, the life of the king'; the predicate is broken in B:1-2"}
-      - {motif: goddess-mother-of-heaven, refs: ["ETCSL 4.07.9 B:28"], note: "ama {d}inana an-na-ke4 'mother Inana of heaven'"}
+      - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 4.07.9 B:28"], note: "ama {d}inana an-na-ke4 'mother Inana of heaven'"}
     hints:
       - "Compare Ps 21:4-6 and Ps 61:6-7 (prayer for the king's life and length of days)."
       - "'Queen of heaven' as Inana/Ištar: compare Jer 7:18 and 44:17-19."

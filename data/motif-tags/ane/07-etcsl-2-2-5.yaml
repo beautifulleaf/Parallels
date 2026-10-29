@@ -204,6 +204,39 @@ new_motifs:
   hymns-to-be-sung-of-king: {label: "Wish that the king's name be proclaimed in the four regions and praised in holy hymns", cluster: kingship}
   people-acclaim-king: {label: "The people of the cities line up and gaze on the king with admiration as he passes", cluster: kingship}
   king-bathes-and-feasts-in-goddess-palace: {label: "The king bathes in flowing water and feasts kneeling in a goddess's palace", cluster: cult}
+  hymn-written-to-preserve-kings-name: {label: "The king has songs composed so that his name and the praise of his wisdom be transmitted to future generations", cluster: kingship}
+  king-educated-in-scribal-school: {label: "As a child the king learned the scribal art at the tablet-house (e2-dub-ba-a), mastering writing and arithmetic better than any noble", cluster: wisdom}
+  boast-refrain-let-me-boast-of-deeds: {label: "Refrain: 'Let me boast of what I have done; my fame is spread far, my wisdom subtle'", cluster: kingship}
+  sun-god-companion-of-king-in-battle: {label: "The sun god is the king's brother and friend, guardian of his weapons, who shines on him in battle", cluster: kingship}
+  king-yokes-elam-breaks-highland-weapons: {label: "The king breaks the weapons of the highlands over his knee and puts a yoke on the neck of Elam", cluster: kingship}
+  king-leads-army-from-front: {label: "The king goes ahead of his troops and clears the terrain for his scouts", cluster: war}
+  king-skilled-with-sling-and-lance: {label: "The king boasts mastery of lance, spear and sling; his sling-bullets fly like a rainstorm and never miss", cluster: war}
+  royal-lion-hunt-face-to-face: {label: "The king hunts lions without net or hide, facing them in open combat and killing them with the lance; their number is uncountable", cluster: kingship}
+  king-hunts-wild-bulls-and-asses: {label: "The king shoots wild bulls and bison with barbed arrows and runs down wild asses on foot without snares or pits", cluster: kingship}
+  king-unrivalled-archer: {label: "With one shot the king brings down his quarry; no clansman in his regiments surpasses him in archery", cluster: war}
+  king-protects-shepherds-in-steppe: {label: "By killing the lions of the steppe the king gives rest to the shepherds and their folds", cluster: kingship}
+  king-as-expert-diviner: {label: "The king is himself a ritually pure diviner who reads extispicy better than his professional diviner, never confusing good and bad signs", cluster: divination}
+  extispicy-for-cultic-and-military-decisions: {label: "Divine words read in a sheep's entrails decide purifications, the choice of priestesses and priests, and campaigns", cluster: divination}
+  king-master-musician: {label: "The king masters every musical instrument, tunes lyres and lutes, and can play an unfamiliar instrument at first sight", cluster: kingship}
+  no-one-escapes-death-even-king: {label: "Even the greatest must reach the inescapable end of life; no one is spared the bitter gall of the netherworld", cluster: death}
+  mother-goddess-cherished-kings-conception: {label: "The king's divine mother cherished his unborn fruit and passed her pregnancy in joy in his palace", cluster: kingship}
+  king-is-star-of-heaven: {label: "The king calls himself a heavenly star of steadfastness", cluster: kingship}
+  king-speaks-five-languages: {label: "The king speaks the languages of Sumer, Elam, the mountain people, Martu and Subir, and judges cases in five languages without an interpreter", cluster: wisdom}
+  king-teaches-governors-to-deliberate: {label: "The king teaches his governors and assemblies to deliberate and debate so that policy is decided properly", cluster: law}
+  wise-words-cool-hot-hearts: {label: "The wise king's words are smooth as fine oil; he cools hearts hot as fire and quenches a mouth ablaze like a reedbed", cluster: wisdom}
+  king-values-the-humble: {label: "The king holds the importance of the humble to be of special value", cluster: law}
+  king-provides-for-gods-hunger-and-thirst: {label: "The gods' hunger and thirst (their offerings) are the king's greatest concern", cluster: cult}
+  king-did-no-violence-to-other-kings: {label: "The king claims never to have done violence to another king, Akkadian, Sumerian or Gutian", cluster: kingship}
+  king-preserves-ancient-hymns: {label: "The king collected and preserved old hymns from ancient times, never declaring them false, and added them to the singers' repertoire", cluster: wisdom}
+  what-mortal-has-reached-heaven: {label: "'Whatever is acquired is destined to be lost; what mortal has ever reached the heavens?'", cluster: wisdom}
+  charge-to-future-just-king: {label: "The king charges a future just king to keep, perform and value his hymns and to call on his good name", cluster: kingship}
+  curse-on-future-king-who-harms-legacy: {label: "Curse: if a future king plots against the speaker's works, may the moon god judge him and the sun god seize him and his word be wiped out", cluster: treaty}
+  king-founds-academies-for-hymns: {label: "The king founds 'Houses of Wisdom of Nisaba' (academies) in Urim and Nibru where scribes copy and singers perform his hymns; the academies shall never cease", cluster: wisdom}
+  oath-that-inscriptions-are-not-lies: {label: "The king swears by the gods that his inscriptions and hymns contain no lies: why write lies?", cluster: kingship}
+  no-future-king-equal-to-me: {label: "From the origins of mankind to its full flourishing no king will ever equal the speaker's achievements", cluster: kingship}
+  kings-shadow-over-mountain-lands: {label: "The king's shadow lies over the mountain lands", cluster: kingship}
+  kings-songs-recited-in-far-lands: {label: "The king swears that even in far lands without roads or writing his songs will be recited as heavenly writings", cluster: kingship}
+  king-steward-of-temple-slave-of-god: {label: "The king calls himself the steward of the god's temple and the house-born slave of the sky god", cluster: kingship}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -904,3 +937,173 @@ units:
     hints:
       - "God sets a crown on the king's head: Ps 21:4, Ps 132:18; no king like him before or after: 1 Kgs 3:12-13, 2 Kgs 18:5, 2 Kgs 23:25."
       - "Swearing by the life of the father/god: 1 Sam 20:3; Q 89:1-5 (oaths)."
+  - id: ane-etcsl-2-4-2-02-prologue-scribe
+    tradition: ane-sumerian
+    title: Šulgi's lasting name; his schooling as a scribe (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 1-20"]
+    tags:
+      - {motif: hymn-written-to-preserve-kings-name, refs: ["ETCSL 2.4.2.02 1-10"], note: "lugal-e mu-ni niĝ2-ul-še3 ud su3-ra2-ka pa e3 ak-de3 ... šag4-bal-bal-a eĝer ud-da-ka šu-a bal-e-de3"}
+      - {motif: name-established-for-distant-days, refs: ["ETCSL 2.4.2.02 1", "ETCSL 2.4.2.02 2"]}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["ETCSL 2.4.2.02 12"], note: "dumu-gir15 šag4 zid-ta nam dug3 tar-ra-me-en"}
+      - {motif: king-born-of-king-and-queen, refs: ["ETCSL 2.4.2.02 11"], note: "lugal a lugal-e ru-a nin-e tud-da-me-en"}
+      - {motif: king-educated-in-scribal-school, refs: ["ETCSL 2.4.2.02 13-20"], note: "tur-ra-ĝu10-ne e2-dub-ba-a-a-am3 ... zi-zi-i ĝa2-ĝa2 šudum niĝ2-šid-de3"}
+      - {motif: learned-scribe-king, refs: ["ETCSL 2.4.2.02 18", "ETCSL 2.4.2.02 19", "ETCSL 2.4.2.02 20"]}
+    hints:
+      - "The educated king: 1 Kgs 5:9-14 (Solomon's wisdom and songs), Deut 17:18-19 (king writes a copy of the law); Moses educated in Egyptian wisdom (Acts 7:22)."
+  - id: ane-etcsl-2-4-2-02-warrior
+    tradition: ane-sumerian
+    title: Šulgi the warrior, companion of Utu, who yokes Elam (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 21-55"]
+    tags:
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.2.02 25"], note: "nam-si-sa2-ĝu10-uš ĝidru ma-an-šum2-mu-uš: sceptre given because of his righteousness"}
+      - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.4.2.02 26"], note: "gu2 kur-kur-ra-ka ĝiri3 ba-da-gub"}
+      - {motif: king-leads-army-from-front, refs: ["ETCSL 2.4.2.02 29-32"]}
+      - {motif: king-skilled-with-sling-and-lance, refs: ["ETCSL 2.4.2.02 33-38"], note: "{kuš}da-lu-uš2-a ... im-dug im-lag ... mir im ne3-ĝal2-la-gin7"}
+      - {motif: ambidextrous-archers-slingers, refs: ["ETCSL 2.4.2.02 35"], note: "approximate: skill with the sling"}
+      - {motif: sun-god-companion-of-king-in-battle, refs: ["ETCSL 2.4.2.02 40-46"], note: "šeš gu5-li-ĝu10 šul {d}utu-am3 ... {d}lamma {ĝiš}tukul-ĝa2-kam"}
+      - {motif: king-yokes-elam-breaks-highland-weapons, refs: ["ETCSL 2.4.2.02 47", "ETCSL 2.4.2.02 48"], note: "{ĝiš}tukul igi-nim-ma dug3-ĝa2 bi2-tar; elam{ki}-ma gu3-ba ĝiš ma-ab-us2"}
+      - {motif: boast-refrain-let-me-boast-of-deeds, refs: ["ETCSL 2.4.2.02 52-55"], note: "niĝ2 ak-a-ĝa2 ni2-bi ga-buluĝ5"}
+    hints:
+      - "God trains the king's hands for war: Ps 18:35, Ps 144:1; David's sling 1 Sam 17:40-50; Judg 20:16 (left-handed slingers who never miss)."
+      - "Sun as shield: Ps 84:12; breaking the bow: Ps 46:10, Hos 1:5."
+  - id: ane-etcsl-2-4-2-02-hunter
+    tradition: ane-sumerian
+    title: Šulgi the hunter of lions, wild bulls, boars and wild asses (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 56-117"]
+    tags:
+      - {motif: royal-lion-hunt-face-to-face, refs: ["ETCSL 2.4.2.02 59-70", "ETCSL 2.4.2.02 75", "ETCSL 2.4.2.02 76"], note: "sa-du3-a-ta ba-ra-ab-ši-ĝen-ne-en / še-er-tab-ta en-nu-uĝ3 ba-ra-bi2-ak ... {urud}šukur zi-ba ḫe2-bi2-ĝar"}
+      - {motif: shepherd-kills-lion-and-bear, refs: ["ETCSL 2.4.2.02 71", "ETCSL 2.4.2.02 72"], note: "approximate: tur3 amaš ... sipad ildum2-ma-bi-ir su-bi ḫu-mu-dug3"}
+      - {motif: king-protects-shepherds-in-steppe, refs: ["ETCSL 2.4.2.02 71", "ETCSL 2.4.2.02 72"]}
+      - {motif: elephant-hunt, refs: ["ETCSL 2.4.2.02 58"], note: "til-lu-ug til-lu-ug-da niĝ2-zi-ĝal2 edin-na dab5-dab5-be2-da-ĝu10-ne"}
+      - {motif: king-hunts-wild-bulls-and-asses, refs: ["ETCSL 2.4.2.02 84-94"], note: "am gal gud an-na sumun2 alim ... anše edin-na-še3 {ĝiš}es2-ad la-ba-nu2-en pu2 la-ba-ba-al-e"}
+      - {motif: king-unrivalled-archer, refs: ["ETCSL 2.4.2.02 95-100"], note: "a2 1(AŠ) zig3-ga-ĝu10 ki-a ba-ab-ḫa-za"}
+      - {motif: king-catalogue-of-divine-favours, refs: ["ETCSL 2.4.2.02 81"], note: "{d}šul-gi diĝir nam-ĝuruš-a, 'god of manliness'"}
+      - {motif: dutiful-son-brings-gifts-to-mother, refs: ["ETCSL 2.4.2.02 110-113"], note: "ama ugu-ĝu10 {d}nin-sumun2-ka-ra dumu niĝ2 5 niĝ2 10-ni ĝe26-e-me-en"}
+      - {motif: boast-refrain-let-me-boast-of-deeds, refs: ["ETCSL 2.4.2.02 77-80", "ETCSL 2.4.2.02 114-117"]}
+    hints:
+      - "David kills lion and bear: 1 Sam 17:34-36; Benaiah 2 Sam 23:20; Samson Judg 14:5-6. Nimrod the mighty hunter: Gen 10:9."
+  - id: ane-etcsl-2-4-2-02-runner-diviner
+    tradition: ane-sumerian
+    title: Šulgi the tireless runner and the expert diviner (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 118-153"]
+    tags:
+      - {motif: king-as-swift-mule-and-horse, refs: ["ETCSL 2.4.2.02 125", "ETCSL 2.4.2.02 126", "ETCSL 2.4.2.02 127"], note: "dur3{ur3}-gin7 kaš4-a ne3-ĝu10 nu-silig-ge ... dub3 nu-kuš2-u3-me-en"}
+      - {motif: mount-up-with-wings-like-eagles, refs: ["ETCSL 2.4.2.02 127"], note: "approximate: kaš4-ta e3-a-me-en dub3 nu-kuš2-u3-me-en, 'first in the race, my knees do not tire'"}
+      - {motif: sun-god-companion-of-king-in-battle, refs: ["ETCSL 2.4.2.02 123", "ETCSL 2.4.2.02 124"]}
+      - {motif: king-dances-with-joy, refs: ["ETCSL 2.4.2.02 128"], note: "isiš-a gud-gu4-ud-me-en"}
+      - {motif: king-as-expert-diviner, refs: ["ETCSL 2.4.2.02 131", "ETCSL 2.4.2.02 132", "ETCSL 2.4.2.02 144-149"], note: "maš2-šu-gid2-gid2 dadag-ga-me-en ... maš2-šu-gid2-gid2-ĝu10 na-ĝa2-aḫ-gin7 u6 mu-e ... sag9-ga ḫul-da la-ba-an-da-ḫa-ze2-en"}
+      - {motif: extispicy-for-cultic-and-military-decisions, refs: ["ETCSL 2.4.2.02 133-142"], note: "lu2-maḫ nin-diĝir šag4 kug-ge pad3-da; ĝiš-gid2-da a me3 tu5-tu5; sila4 babbar udu kiĝ2-gi4-a"}
+      - {motif: divination-practiced, refs: ["ETCSL 2.4.2.02 141", "ETCSL 2.4.2.02 143"]}
+      - {motif: boast-refrain-let-me-boast-of-deeds, refs: ["ETCSL 2.4.2.02 150-153"]}
+    hints:
+      - "Divination by the king: compare the king of Babylon looking at the liver in Ezek 21:26; contrast Deut 18:10-14 (divination forbidden in Israel) and 1 Sam 28:6 (Urim and dreams)."
+      - "Inquiry before battle: Judg 20:27-28, 1 Sam 23:2-4, 2 Sam 5:19."
+  - id: ane-etcsl-2-4-2-02-musician-mortality
+    tradition: ane-sumerian
+    title: Šulgi the musician; no one escapes death; his mother's joyful pregnancy (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 154-189"]
+    tags:
+      - {motif: king-master-musician, refs: ["ETCSL 2.4.2.02 154-174"], note: "{ĝiš}gu2-uš ... {ĝiš}sa-eš5 ... {ĝiš}al-ĝar {ĝiš}sa-bi2-tum ... ĝiš-gu3-di ĝiš la-ba-ra-ab-tuku-a ... u3-ne-en šag4-bi ba-zu-zu"}
+      - {motif: instruments-of-david, refs: ["ETCSL 2.4.2.02 161-166"], note: "approximate: a king associated with a list of instruments"}
+      - {motif: king-can-wail-laments, refs: ["ETCSL 2.4.2.02 173", "ETCSL 2.4.2.02 174"], note: "šumun-ša4 mur ša4-e i-si-iš ĝa2-ĝa2"}
+      - {motif: no-one-escapes-death-even-king, refs: ["ETCSL 2.4.2.02 177-180"], note: "zag nam-til3-la saĝ im-gi4-a / ze2 kur nam-gu2-ka3-ka lu2 la-ba-an-da13-da13-e"}
+      - {motif: none-escapes-sheol, refs: ["ETCSL 2.4.2.02 179", "ETCSL 2.4.2.02 180"]}
+      - {motif: mother-goddess-cherished-kings-conception, refs: ["ETCSL 2.4.2.02 184-189"], note: "a-sila3-ĝar-ra-ĝu10 mi2-eš2 ma-ni-in-dug4 / niĝ2-lul-la ka-ga14 nu-un-ĝal2"}
+    hints:
+      - "David the skilled player: 1 Sam 16:16-18, Amos 6:5, 1 Chr 23:5; Solomon's 1005 songs 1 Kgs 5:12."
+      - "No one escapes death: Ps 49:8-11, Ps 89:49, Eccl 8:8; Q 3:185 ('every soul shall taste death'), Q 4:78."
+  - id: ane-etcsl-2-4-2-02-judge-languages
+    tradition: ane-sumerian
+    title: Šulgi the star of steadfastness, polyglot judge and wise counsellor (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 190-243"]
+    tags:
+      - {motif: never-lacked-anything, refs: ["ETCSL 2.4.2.02 190-193"], note: "igi {d}utu ... ba-ra-ma-ni-la2: before Utu, nothing was lacking in his long life"}
+      - {motif: hymn-written-to-preserve-kings-name, refs: ["ETCSL 2.4.2.02 194", "ETCSL 2.4.2.02 195"]}
+      - {motif: king-is-star-of-heaven, refs: ["ETCSL 2.4.2.02 197"], note: "niĝ2 saĝ gi4-a mul-an-bi-me-en"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.2.02 201", "ETCSL 2.4.2.02 203"], note: "approximate: his radiance laid on the lands like a nose-rope (kab) and on the Land like a neck-stock (rab3)"}
+      - {motif: king-speaks-five-languages, refs: ["ETCSL 2.4.2.02 206-220"], note: "elam ... lu2 kur ku10-ku10-ga ... mar-tu ... su-bir4 ... di ki-en-gi-ke4 si sa2-da-ĝu10-ne 5-bi eme-bi ba-ni-ib-gi4-gi4-in"}
+      - {motif: nations-divided-by-language, refs: ["ETCSL 2.4.2.02 211-217"]}
+      - {motif: king-teaches-governors-to-deliberate, refs: ["ETCSL 2.4.2.02 223-227"], note: "pu-uḫ2-ru-um{ki} nam tar-tar-re-de3 / šagina-ĝu10-ne-er ad gi4-gi4 mu-un-zu"}
+      - {motif: wise-words-cool-hot-hearts, refs: ["ETCSL 2.4.2.02 234", "ETCSL 2.4.2.02 235", "ETCSL 2.4.2.02 236"], note: "inim-ĝu10 saĝ i3 li inim-ma-kam / šag4 izi-gin7 bar7-a sed4-bi mu-zu"}
+      - {motif: soft-answer-turns-wrath, refs: ["ETCSL 2.4.2.02 234", "ETCSL 2.4.2.02 235"]}
+      - {motif: conquers-city-by-words, refs: ["ETCSL 2.4.2.02 230", "ETCSL 2.4.2.02 231"], note: "inim-ta {ĝiš}tukul-gin7 iri laḫ5-me-en"}
+      - {motif: i-have-no-mother-saying, refs: ["ETCSL 2.4.2.02 233"], note: "ama tuku nu-me-en šag4 inim-[ma] mu-zu; sense obscure"}
+      - {motif: king-values-the-humble, refs: ["ETCSL 2.4.2.02 239"], note: "sun5-na dugud-bi saĝ-bi ma-kal"}
+      - {motif: prayers-for-life-of-land-uninterrupted, refs: ["ETCSL 2.4.2.02 241", "ETCSL 2.4.2.02 242", "ETCSL 2.4.2.02 243"]}
+    hints:
+      - "Soft words cool anger: Prov 15:1, Prov 25:15, Eccl 10:4; Q 20:44 ('speak to him gently')."
+      - "Languages of the nations: Gen 10:5, Gen 11:1-9, Esth 1:22, Dan 3:4; Q 30:22 (diversity of tongues a sign)."
+      - "King teaching counsellors: Deut 1:13-17, Exod 18:21-22, 2 Chr 19:5-7."
+  - id: ane-etcsl-2-4-2-02-old-hymns-future-king
+    tradition: ane-sumerian
+    title: Šulgi's service to the gods, preservation of old hymns, and charge to a future king (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 244-296"]
+    tags:
+      - {motif: king-provides-for-gods-hunger-and-thirst, refs: ["ETCSL 2.4.2.02 244", "ETCSL 2.4.2.02 245", "ETCSL 2.4.2.02 257"], note: "enmen2 šag4-ĝar diĝir-re-e-ne-ka šag4-zaraḫ ma-ab-gu-ul-gu-ul"}
+      - {motif: king-digs-canals-trees-on-banks, refs: ["ETCSL 2.4.2.02 252", "ETCSL 2.4.2.02 253", "ETCSL 2.4.2.02 254"], note: "gana2 zid-de3 ĝiš mu-ni-in-du3; du6 saĝ eg2 pa5-re"}
+      - {motif: king-did-no-violence-to-other-kings, refs: ["ETCSL 2.4.2.02 265-269"], note: "uri ḫe2-em dumu ki-en-gi-ra ḫe2-em ki gu-ti-um{ki} ... šag4-ĝu10 niĝ2-a2-zig3 ba-ra-mu-un-na-ta-ab-de6"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.4.2.02 262", "ETCSL 2.4.2.02 264"], note: "{d}ištaran-gin7 di ku5-ru gal-zu"}
+      - {motif: king-preserves-ancient-hymns, refs: ["ETCSL 2.4.2.02 270-280"], note: "en3-du ud-bi-ta libir-ra ul-le2-a ... ud na-me lul-še3 ba-ra-bi2-pad3 ka-ge ba-ra-bi2-gi4"}
+      - {motif: what-mortal-has-reached-heaven, refs: ["ETCSL 2.4.2.02 281", "ETCSL 2.4.2.02 282"], note: "a-na ab-tuku ur5-re ib2-ḫul / a-ba nam-til3 an-na ba-e-e3"}
+      - {motif: who-ascended-to-heaven-and-came-down, refs: ["ETCSL 2.4.2.02 282"]}
+      - {motif: charge-to-future-just-king, refs: ["ETCSL 2.4.2.02 283-296"], note: "lu2 {d}en-lil2-la2 mu-un-zi-zi-i / tukum-bi ĝe26-e-gin7-nam lugal si sa2-am3"}
+    hints:
+      - "Who has gone up to heaven? Prov 30:4, Deut 30:12; mortality of all gain: Eccl 2:18-19, Ps 39:7, Ps 49:11."
+      - "Collecting old songs: Prov 25:1 (Hezekiah's men copied proverbs), the Book of Jashar (Josh 10:13, 2 Sam 1:18)."
+  - id: ane-etcsl-2-4-2-02-curse-academies
+    tradition: ane-sumerian
+    title: Curse on a hostile successor; the academies of Urim and Nibru; no lies in his inscriptions (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 297-336"]
+    tags:
+      - {motif: curse-on-future-king-who-harms-legacy, refs: ["ETCSL 2.4.2.02 297-301"], note: "tukum-bi šag4-ga-ni niĝ2-erim2 mu-e-ši-ib2-tum3 ... {d}nanna di ḫe2-en-e {d}utu saĝ-izi-e šu ḫe2-en-da-ab-ri-e ... inim-ma-ni al-ze2-er"}
+      - {motif: king-founds-academies-for-hymns, refs: ["ETCSL 2.4.2.02 308-315"], note: "e2-ĜEŠTUG2.{d}NISABA ... e2-dub-ba-a da-ri2 ḫur nu-kur2-ru-dam"}
+      - {motif: oath-that-inscriptions-are-not-lies, refs: ["ETCSL 2.4.2.02 319", "ETCSL 2.4.2.02 320", "ETCSL 2.4.2.02 327"], note: "an {d}en-lil2 {d}utu {d}inana lul ba-ra-na ḫe2-ge-en; niĝ2-lul niĝ2-gen6-na nu-me-a sar-re-bi a-na-gin7-nam"}
+      - {motif: king-destroys-cities-of-wicked, refs: ["ETCSL 2.4.2.02 321-324"], note: "kur gi-sig-gin7 nu-mu-un-dub2-ba-ĝu10: no land he did not make tremble like a reed hut"}
+      - {motif: no-future-king-equal-to-me, refs: ["ETCSL 2.4.2.02 332-336"], note: "numun ba-i-i-ta zag uĝ3 lu-a-še3 lugal niĝ2-ĝa2 niĝ2 bi2-in-sig10-ga-am3 aga-ni an-ne2 ba-ra-ba-ta-an-il2"}
+      - {motif: hymns-to-be-sung-of-king, refs: ["ETCSL 2.4.2.02 328-331"]}
+    hints:
+      - "Curse on whoever alters the record: Deut 4:2, Rev 22:18-19; royal inscription curses."
+      - "No king like him before or after: 2 Kgs 23:25, 1 Kgs 3:12."
+  - id: ane-etcsl-2-4-2-02-lions-oath-temple
+    tradition: ane-sumerian
+    title: Lions culled like weeds; oath by Utu; Šulgi chosen by Nanna; praise of Nisaba (Šulgi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.02 337-385"]
+    tags:
+      - {motif: royal-lion-hunt-face-to-face, refs: ["ETCSL 2.4.2.02 339", "ETCSL 2.4.2.02 340", "ETCSL 2.4.2.02 341"], note: "piriĝ igi {urud}šukur-ra ga-raš{sar}-gin7 šab-šab-e; zi-bi ur-gir15-gin7"}
+      - {motif: king-hunts-wild-bulls-and-asses, refs: ["ETCSL 2.4.2.02 341A", "ETCSL 2.4.2.02 343"]}
+      - {motif: oath-that-inscriptions-are-not-lies, refs: ["ETCSL 2.4.2.02 347", "ETCSL 2.4.2.02 352", "ETCSL 2.4.2.02 353"]}
+      - {motif: kings-shadow-over-mountain-lands, refs: ["ETCSL 2.4.2.02 355"], note: "{d}šul-gi ĝissu-a-ni kur-ra la2-a-me-en"}
+      - {motif: kings-songs-recited-in-far-lands, refs: ["ETCSL 2.4.2.02 358-365"], note: "i3-ne-eš2 {d}utu ud ne-a-a / kur dumu ki-en-gi-ra nu-zu-ba ... šir3-ĝa2 mul-an-gin7 gu3 im-de2-e-ne; lines 366-373 fragmentary"}
+      - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.2.02 375"], note: "lu2 mu pad3-da {d}nanna-me-en"}
+      - {motif: king-steward-of-temple-slave-of-god, refs: ["ETCSL 2.4.2.02 376"], note: "saĝ us2 e2 {d}en-lil2-ka ama-a-tud an-na-me-en"}
+      - {motif: palace-like-lapis-mountain, refs: ["ETCSL 2.4.2.02 377", "ETCSL 2.4.2.02 379"], note: "e2-ḫur-saĝ e2-gal e2-gal-bi-im; ḫur-saĝ za-gin3-na-gin7"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.2.02 384", "ETCSL 2.4.2.02 385"], note: "za3-mi2-ĝu10 dug3-ga-am3 / {d}nisaba za3-mi2"}
+    hints:
+      - "The king's shadow: Lam 4:20 ('in his shadow we shall live among the nations'), Judg 9:15. King as God's servant: 2 Sam 7:5, Ps 89:21."

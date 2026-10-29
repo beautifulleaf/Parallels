@@ -33,6 +33,7 @@ new_motifs:
   enemy-forgotten-none-finds-him: {label: "The destroyed enemy is consigned to oblivion: no one knows him in his city, no one finds him in his pasture", cluster: war}
   heavens-fold-like-garment-before-deity: {label: "The heavens fold (bow) like a garment in the deity's presence and the earth is flooded", cluster: theophany}
   deity-hears-prayer-and-pleading: {label: "A deity is titled 'she/he who hears prayer and pleading' (šudu3 a-ra-zu ĝiš tuku)", cluster: hymn}
+  wise-god-as-sage-carpenter-and-purifier: {label: "The wise god (Enki) is praised as great farmer, carpenter, sage (abgal) and master of purification rites", cluster: wisdom}
 units:
   - id: ane-etcsl-4-16-1-1-nisaba-epithets
     tradition: ane-sumerian
@@ -65,7 +66,7 @@ units:
       - {motif: house-of-learning-opened-by-god, refs: ["ETCSL 4.16.1 1:29", "ETCSL 4.16.1 1:45-46"], note: "e2-ĜEŠTUG2.{d}NISABA-ke4 ĝal2 nam-mi-in-taka4; e2 ĝeštug2-ga-ke4 ĝal2 taka4-a-ni; {ĝiš}ig ĝeštug2-ga: the door of wisdom. Akkadian gloss bīt uznim"}
       - {motif: goddess-consults-star-tablet, refs: ["ETCSL 4.16.1 1:30-31"], note: "dub za-gin3 dub3-ba nam-mi-in-ĝar / dub mul-an kug-ta šag4 im-ma-da-kuš2-u3: the lapis tablet on her knees, she consults the holy tablet of the stars of heaven"}
       - {motif: goddess-reads-star-tablet, refs: ["ETCSL 4.16.1 1:31"]}
-      - {motif: god-of-wisdom-enki-sage, refs: ["ETCSL 4.16.1 1:38-44"], note: "engar gal ... nagar eridug{ki}-ga, lugal šu-luḫ-luḫ-ḫa: Enki the great farmer, the carpenter of Eridug, master of purification rites; abgal siki bar-ra du8-a-ni: the sage with his hair hanging loose"}
+      - {motif: wise-god-as-sage-carpenter-and-purifier, refs: ["ETCSL 4.16.1 1:38-44"], note: "engar gal ... nagar eridug{ki}-ga, lugal šu-luḫ-luḫ-ḫa: Enki the great farmer, the carpenter of Eridug, master of purification rites; abgal siki bar-ra du8-a-ni: the sage with his hair hanging loose"}
       - {motif: goddess-blessed-to-be-steward-of-stores, refs: ["ETCSL 4.16.1 1:51-55"], note: "tur3-ra i3 ḫe2-me-en amaš-a gara2 ḫe2-me-en / e2 niĝ2-gur11-ra kišib-ĝal2 ḫe2-me-en / e2-gal-la aĝrig zid ḫe2-me-en / guru7-du6 ... ḫe2-me-en"}
       - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.16.1 1:57"], note: "a-a {d}en-ki za3-mi2-zu dug3-ga-am3: the hymn to Nisaba closes by praising Enki"}
     hints:
@@ -142,6 +143,6 @@ units:
     read: ["ETCSL 4.19.4 1-7"]
     tags:
       - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 4.19.4 5-6"], note: "dumu nun an-ne2 a2 ma-ra-an-šum2: An has given you strength, princely son; the rest broken"}
-      - {motif: divine-council-anunna, refs: ["ETCSL 4.19.4 3-4"], note: "{d}a-nun-ke4-ne diĝir ki-a: the Anuna, gods of the earth (underworld)"}
+      - {motif: divine-council, refs: ["ETCSL 4.19.4 3-4"], note: "{d}a-nun-ke4-ne diĝir ki-a: the Anuna, gods of the earth (underworld)"}
     hints:
       - "Compare Ps 82:1 and Ps 89:6-8 (God among the council of the holy ones)."
