@@ -1,6 +1,7 @@
 """Motif track: compare story units across traditions by shared motifs.
 
 Usage: python3 tools/motifs.py [--write-leads]
+       python3 tools/motifs.py --validate <tag file>
 
 Units and their verse-anchored motif tags live in data/motif-tags/*.yaml;
 the vocabulary is data/motifs.yaml. Each motif is weighted by how rare it is
@@ -34,13 +35,31 @@ TOP_PER_UNIT = 3
 MAX_PASSAGE_MOTIFS = 10   # passages shown per lead: the rarest shared motifs
 
 
-def load():
+def load(strict=True):
+    """Vocabulary from data/motifs.yaml plus each tag file's `new_motifs`, and
+    all units. With strict=False, unreadable tag files are skipped (used while
+    reader agents are still writing theirs)."""
     vocab = yaml.safe_load((DATA / "motifs.yaml").read_text(encoding="utf-8"))["motifs"]
-    units = []
-    for path in sorted((DATA / "motif-tags").glob("*.yaml")):
-        for u in yaml.safe_load(path.read_text(encoding="utf-8"))["units"]:
-            u["file"] = path.name
+    units, conflicts = [], []
+    for path in sorted((DATA / "motif-tags").rglob("*.yaml")):
+        try:
+            doc = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        except yaml.YAMLError:
+            if strict:
+                raise
+            print(f"skipping unreadable {path.relative_to(DATA)}", file=sys.stderr)
+            continue
+        rel = str(path.relative_to(DATA / "motif-tags"))
+        for mid, m in (doc.get("new_motifs") or {}).items():
+            if mid in vocab and vocab[mid]["label"] != m["label"]:
+                conflicts.append(f"{rel}: motif {mid} already defined as '{vocab[mid]['label']}'")
+                continue
+            vocab.setdefault(mid, {**m, "proposed_in": rel})
+        for u in doc.get("units") or []:
+            u["file"] = rel
             units.append(u)
+    if conflicts and strict:
+        sys.exit("\n".join(conflicts))
     return vocab, units
 
 
@@ -104,12 +123,20 @@ def internal_pair(a, b):
     return a["tradition"] == b["tradition"] and a.get("original") and b.get("original") and a.get("corpus") == b.get("corpus")
 
 
-def pairs(units, w, df):
+def overlapping(a, b, keys):
+    """Units of the same text whose read ranges overlap tag the same verses; pairing them is noise."""
+    return bool(keys.get(a["id"], set()) & keys.get(b["id"], set()))
+
+
+def pairs(units, w, df, keys=None):
+    keys = keys or {}
     out = []
     for i, a in enumerate(units):
         ma = {t["motif"]: t for t in a["tags"]}
         for b in units[i + 1:]:
             if a["tradition"] == b["tradition"] and not internal_pair(a, b):
+                continue
+            if internal_pair(a, b) and overlapping(a, b, keys):
                 continue
             mb = {t["motif"]: t for t in b["tags"]}
             shared = sorted(set(ma) & set(mb), key=lambda m: -w[m])
@@ -220,7 +247,44 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
     return leads
 
 
+def read_keys(units, quran_text, hebrew_text):
+    keys = {}
+    for u in units:
+        if u.get("original"):
+            ks = set()
+            for r in u.get("read") or []:
+                found = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
+                         else originals.hebrew_refs(r, hebrew_text))
+                ks |= {f"{u.get('corpus')}:{k}" for k in found or []}
+            keys[u["id"]] = ks
+    return keys
+
+
+def validate_file(path):
+    """Check one tag file against the shared vocabulary (for reader agents)."""
+    vocab, units = load(strict=False)
+    path = pathlib.Path(path).resolve()
+    rel = str(path.relative_to(DATA / "motif-tags"))
+    mine = [u for u in units if u["file"] == rel]
+    quran_text, hebrew_text = originals.load_quran_text(), originals.load_hebrew_text()
+    errors = validate(vocab, mine, quran_text, hebrew_text)
+    ids = {}
+    for u in units:
+        ids.setdefault(u["id"], []).append(u["file"])
+    errors += [f"{rel}: unit id {uid} also used in {[f for f in fs if f != rel]}"
+               for uid, fs in ids.items() if rel in fs and len(fs) > 1]
+    covered = set().union(*read_keys(mine, quran_text, hebrew_text).values()) if mine else set()
+    print(f"{rel}: {len(mine)} units, {sum(len(u['tags']) for u in mine)} tags, {len(covered)} verses read")
+    if errors:
+        print("\n".join(errors), file=sys.stderr)
+        sys.exit(1)
+    print("ok")
+
+
 def main():
+    if "--validate" in sys.argv:
+        validate_file(sys.argv[sys.argv.index("--validate") + 1])
+        return
     vocab, units = load()
     quran_text, hebrew_text = originals.load_quran_text(), originals.load_hebrew_text()
     errors = validate(vocab, units, quran_text, hebrew_text)
@@ -228,7 +292,7 @@ def main():
         print("\n".join(errors), file=sys.stderr)
         sys.exit(1)
     w, df = weights(units)
-    ps = pairs(units, w, df)
+    ps = pairs(units, w, df, read_keys(units, quran_text, hebrew_text))
     bench = check_benchmarks(ps)
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "pairs.json").write_text(json.dumps(dict(weights=w, pairs=ps), ensure_ascii=False, indent=1), encoding="utf-8")
