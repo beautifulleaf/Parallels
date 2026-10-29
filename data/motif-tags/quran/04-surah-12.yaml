@@ -1,0 +1,1376 @@
+# Quran chunk 4 (surahs 12-19, 752 verses), read in full from the Arabic.
+# Surah 12 re-reads the Joseph unit of data/motif-tags/joseph.yaml and reuses its ids.
+new_motifs:
+  # ---- revelation and scripture
+  best-of-stories-revealed: {label: "God tells the prophet 'the best of stories', of which he was unaware before", cluster: revelation}
+  news-of-the-unseen-revealed: {label: "A past story is called 'news of the unseen' revealed to a prophet who was not present", cluster: revelation}
+  god-guards-the-revelation: {label: "God declares that he sent down the Reminder and will himself guard it", cluster: revelation}
+  holy-spirit-brings-revelation: {label: "The Holy Spirit (ruh al-qudus) brings the revelation down from God", cluster: revelation}
+  accusation-of-foreign-teacher: {label: "Opponents claim a foreign-tongued man teaches the prophet; answer: this is clear Arabic", cluster: polemic}
+  quran-revealed-in-portions: {label: "The scripture is sent down in portions so the prophet recites it to people at intervals", cluster: revelation}
+  quran-made-easy-in-prophets-tongue: {label: "God made the scripture easy in the prophet's own tongue to give good news and warn", cluster: revelation}
+  book-without-crookedness: {label: "The Book is sent down without any crookedness, straight and upright", cluster: revelation}
+  no-changer-of-gods-words: {label: "None can change God's words", cluster: revelation}
+  scripture-as-healing: {label: "Scripture is sent down as healing and mercy for believers but only loss for wrongdoers", cluster: revelation}
+  god-erases-and-confirms-mother-of-book: {label: "God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab)", cluster: revelation}
+  every-term-has-a-book: {label: "For every term there is a book (a written decree)", cluster: providence}
+  every-town-has-fixed-decree: {label: "No town is destroyed without a known written decree; no nation outstrips its term", cluster: providence}
+  every-town-destroyed-before-resurrection: {label: "Every town will be destroyed or severely punished before the Day of Resurrection, as inscribed in the Book", cluster: eschatology}
+  people-of-book-rejoice-at-revelation: {label: "Some to whom the Book was given rejoice at the new revelation while factions deny part of it", cluster: polemic}
+  scripture-holders-as-witnesses: {label: "Those with knowledge of the earlier Book are invoked as witnesses to the prophet's mission", cluster: polemic}
+  those-who-split-the-scripture: {label: "Those who divide scripture into fragments, accepting parts and rejecting others, are condemned", cluster: polemic}
+  seven-of-the-oft-repeated: {label: "The prophet is given 'seven of the oft-repeated' (mathani) and the great recitation", cluster: revelation}
+  recitation-that-moves-mountains: {label: "Even a recitation that moved mountains, cleft the earth or made the dead speak would not convince the deniers", cluster: polemic}
+  wa-dhkur-fi-l-kitab-refrain: {label: "Refrain 'And mention in the Book ...' introducing a series of prophet portraits", cluster: form}
+  # ---- prophets and messengers (general)
+  messengers-are-men-from-towns: {label: "God sent before only men, inspired, from the people of the towns", cluster: prophecy}
+  messengers-despair-then-rescued: {label: "When the messengers despair and think they were lied to, divine help comes and the chosen are saved", cluster: prophecy}
+  messengers-had-wives-and-children: {label: "Earlier messengers were given wives and offspring", cluster: prophecy}
+  messenger-only-delivers: {label: "The messenger's duty is only to deliver the message; the reckoning belongs to God", cluster: prophecy}
+  messenger-speaks-language-of-his-people: {label: "Every messenger is sent speaking the language of his own people to make things clear", cluster: prophecy}
+  messenger-only-human: {label: "The prophet declares he is only a human messenger, a mortal like his hearers", cluster: prophecy}
+  you-are-only-humans-like-us: {label: "The people reject their messengers: 'you are only humans like us'", cluster: prophecy}
+  angel-messenger-only-for-angels: {label: "Were angels walking the earth, God would have sent them an angel as messenger", cluster: prophecy}
+  messengers-as-bearers-of-good-news-and-warners: {label: "Messengers are sent only as bearers of good news and warners", cluster: prophecy}
+  prophet-called-bewitched: {label: "Opponents say the believers follow only a bewitched man (rajul mashur)", cluster: polemic}
+  prophet-nearly-compromises: {label: "Opponents nearly lure the prophet into inventing something else; God makes him firm", cluster: prophecy}
+  prophet-grieves-over-unbelievers: {label: "The prophet is told not to destroy himself with grief over those who will not believe", cluster: prophecy}
+  prophet-predicts-kings-doom: {label: "The prophet answers the accusing king: 'I think you are doomed'", cluster: exodus}
+  prophet-shown-signs-in-vision-journey: {label: "God takes his servant on a journey to show him some of his signs", cluster: prophecy}
+  praised-station-of-the-prophet: {label: "The prophet may be raised to a 'praised station' (maqam mahmud), later read as intercession", cluster: eschatology}
+  proclaim-openly: {label: "The prophet is commanded to proclaim openly what he is ordered and turn from the polytheists", cluster: prophecy}
+  lower-wing-to-believers: {label: "The prophet is told to lower his wing (be gentle) to the believers", cluster: ethics}
+  worship-until-certainty-comes: {label: "Worship your Lord until the certainty (death) comes to you", cluster: ritual}
+  respite-then-seizure-of-mockers: {label: "Messengers were mocked; God gave the deniers respite, then seized them", cluster: punishment}
+  name-your-partner-gods: {label: "Challenge to the polytheists: 'Name them!' (the partners they ascribe to God)", cluster: polemic}
+  # ---- Joseph
+  jacob-beautiful-patience: {label: "The bereaved father answers with 'beautiful patience' (sabr jamil) and reliance on God", cluster: joseph}
+  husband-at-the-door: {label: "Fleeing the seductress, the hero and the woman find her husband at the door", cluster: joseph}
+  religion-of-the-fathers-abraham-isaac-jacob: {label: "The hero declares he follows the religion of his fathers Abraham, Isaac and Jacob", cluster: patriarchs}
+  soul-commands-evil: {label: "'The soul is ever inciting to evil' (al-nafs al-ammara bi-l-su') except whom God shows mercy", cluster: anthropology}
+  reward-of-camel-load-for-finder: {label: "A camel-load is promised to whoever brings back the missing royal cup, with a guarantor", cluster: joseph}
+  kings-law-would-not-allow-seizure: {label: "The hero could not have kept his brother under the king's law, so a stratagem is needed", cluster: joseph}
+  brother-accused-of-earlier-theft: {label: "Brothers claim the accused youth's absent brother (the hero) had also stolen before", cluster: joseph}
+  ask-the-town-and-caravan: {label: "Brothers tell their father to ask the town and the caravan to confirm their story", cluster: joseph}
+  father-grieves-for-lost-son: {label: "Father keeps lamenting his lost son for years until his sons fear he will waste away", cluster: joseph}
+  father-knows-from-god: {label: "The patriarch claims to know from God what his sons do not know", cluster: joseph}
+  do-not-despair-of-gods-mercy: {label: "Do not despair of God's mercy (rawh / rahma); only unbelievers or the astray despair", cluster: theology}
+  brothers-beg-for-charity: {label: "Famished brothers bring poor goods and ask the disguised hero for alms", cluster: joseph}
+  brothers-confess-sin: {label: "The brothers confess 'we were sinners' once the hero is revealed and ask their father to pray for them", cluster: joseph}
+  father-promises-to-pray-forgiveness: {label: "Father promises his repentant sons to ask God's forgiveness for them later", cluster: joseph}
+  satan-sows-discord: {label: "Satan stirs up enmity (nazagha) between brothers or among people", cluster: satan}
+  # ---- creation, cosmology, signs
+  heavens-raised-without-pillars: {label: "God raised the heavens without pillars that you can see", cluster: cosmology}
+  sun-and-moon-run-to-appointed-term: {label: "Sun and moon are subjected, each running to an appointed term", cluster: cosmology}
+  night-covers-day: {label: "God makes the night cover the day", cluster: cosmology}
+  one-water-different-fruits: {label: "Neighboring plots watered with one water give different fruits: a sign", cluster: cosmology}
+  thunder-glorifies-god: {label: "The thunder glorifies God with his praise, and the angels too in awe of him", cluster: cosmology}
+  thunderbolts-strike-whom-god-wills: {label: "God shows lightning in fear and hope and sends thunderbolts on whom he wills", cluster: cosmology}
+  all-in-heaven-and-earth-prostrate-with-shadows: {label: "All in heaven and earth prostrate to God, willingly or unwillingly, even their shadows morning and evening", cluster: cosmology}
+  blind-and-seeing-not-equal: {label: "Rhetorical question: are the blind and the seeing equal, or darkness and light?", cluster: form}
+  parable-of-foam-on-torrent-and-smelting: {label: "Parable: torrents and smelted metal throw up foam that vanishes, while what benefits people remains", cluster: parable}
+  constellations-adorn-sky: {label: "God set constellations (buruj) in the sky and adorned it for beholders", cluster: cosmology}
+  all-things-in-due-measure: {label: "God made everything grow in due weight and sends it down only in known measure", cluster: cosmology}
+  divine-storehouses-of-all-things: {label: "There is nothing whose storehouses are not with God", cluster: cosmology}
+  fertilizing-winds: {label: "God sends the winds as fertilizers (lawaqih), then rain to drink", cluster: cosmology}
+  god-gives-life-and-death-and-inherits: {label: "God gives life and death and is the inheritor of the earth and all on it", cluster: theology}
+  ships-rivers-sun-moon-subjected: {label: "God has subjected ships, rivers, sun, moon, night and day to human use", cluster: cosmology}
+  sun-moon-stars-subjected: {label: "Night, day, sun, moon and stars are subjected by God's command", cluster: cosmology}
+  blessings-of-god-uncountable: {label: "If you counted God's blessings you could never number them", cluster: theology}
+  cattle-created-for-human-use: {label: "Cattle were created for human warmth, food, burden-bearing and the beauty of herds coming and going", cluster: cosmology}
+  horses-mules-donkeys-to-ride: {label: "God made horses, mules and donkeys to ride and for adornment, and creates what you do not know", cluster: cosmology}
+  sea-gives-fresh-meat-and-ornaments: {label: "The subjected sea gives fresh meat and ornaments to wear, and ships cleave it", cluster: cosmology}
+  stars-for-navigation: {label: "Landmarks and stars are given for finding the way", cluster: cosmology}
+  milk-from-between-dung-and-blood: {label: "Pure milk issues from cattle's bellies from between dung and blood: a sign", cluster: cosmology}
+  intoxicant-and-good-provision-from-dates-and-grapes: {label: "From palms and vines people take an intoxicant (sakar) and good provision", cluster: cosmology}
+  revelation-to-the-bee: {label: "God reveals (awha) to the bee to build in mountains, trees and trellises and follow his paths", cluster: cosmology}
+  honey-as-healing: {label: "From the bee's belly comes a drink of many colors in which is healing for people", cluster: cosmology}
+  birds-held-up-by-god: {label: "Birds are held aloft in the air of the sky by none but God", cluster: cosmology}
+  tents-of-hides-and-shelters: {label: "God gave tents of hides light for travel, wool for furnishings, shade, mountain shelters and garments against heat and violence", cluster: cosmology}
+  night-and-day-as-two-signs: {label: "Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning years", cluster: cosmology}
+  all-creation-glorifies-god: {label: "The seven heavens, the earth and everything in them glorify God, though humans do not understand their praise", cluster: cosmology}
+  creation-with-truth-hour-coming: {label: "Heavens and earth were created only with truth, and the Hour is surely coming", cluster: eschatology}
+  creator-can-create-their-like: {label: "The creator of heavens and earth is able to create the like of them (resurrection argument)", cluster: eschatology}
+  god-could-replace-humanity: {label: "If God willed he could remove you and bring a new creation", cluster: theology}
+  earth-adornment-as-test: {label: "What is on earth is made its adornment to test who is best in deeds", cluster: theology}
+  earth-made-barren-dust: {label: "God will reduce all that is on earth to barren dust", cluster: eschatology}
+  man-from-drop-becomes-disputant: {label: "Man was created from a drop, yet he becomes an open adversary", cluster: anthropology}
+  born-knowing-nothing-given-senses: {label: "God brought you from your mothers' wombs knowing nothing and gave you hearing, sight and hearts", cluster: anthropology}
+  return-to-feeblest-age: {label: "Some are returned to the feeblest age (ardhal al-'umur), knowing nothing after knowledge", cluster: anthropology}
+  man-prays-for-evil-as-for-good: {label: "Man prays for evil as he prays for good; man is ever hasty", cluster: anthropology}
+  man-most-contentious: {label: "Man is the most contentious of all things", cluster: anthropology}
+  humans-stingy-even-with-gods-treasuries: {label: "Even owning the treasuries of God's mercy, humans would hold back for fear of spending", cluster: anthropology}
+  children-of-adam-honored: {label: "God honored the children of Adam, carried them on land and sea and preferred them above much of creation", cluster: anthropology}
+  god-knows-what-womb-carries: {label: "God knows what every female carries and how wombs shrink or swell", cluster: theology}
+  guardian-angels-before-and-behind: {label: "Each person has angels in succession (mu'aqqibat) before and behind guarding him by God's command", cluster: angels}
+  # ---- theology and polemic
+  every-people-has-a-guide: {label: "To every people there is a guide", cluster: prophecy}
+  idol-prayer-like-hands-to-water: {label: "Praying to idols is like stretching one's palms to water hoping it will reach one's mouth", cluster: parable}
+  gratitude-brings-increase: {label: "God proclaims: if you are grateful I will give you more; if ungrateful, my punishment is severe", cluster: theology}
+  god-self-sufficient-if-all-disbelieve: {label: "If you and all on earth disbelieve, God is free of need and praiseworthy", cluster: theology}
+  hands-in-mouths-rejection: {label: "The rejecting peoples thrust their hands into their mouths at the messengers", cluster: prophecy}
+  god-makes-firm-with-firm-word: {label: "God makes the believers firm with the firm word in this life and the hereafter", cluster: theology}
+  one-god-declaration: {label: "Your God is one God (ilahukum ilahun wahid)", cluster: theology}
+  do-not-take-two-gods: {label: "God says: do not take two gods; he is only one God", cluster: theology}
+  idols-dead-not-living: {label: "The idols create nothing, are themselves created, and are dead, not living", cluster: polemic}
+  where-are-my-partners: {label: "On judgment day God asks 'Where are my partners for whom you contended?'", cluster: eschatology}
+  fatalist-excuse-of-polytheists: {label: "Polytheists excuse themselves: had God willed we would not have worshipped others nor forbidden anything", cluster: polemic}
+  share-of-provision-for-idols: {label: "Idolaters assign to unknown gods a share of what God provided them", cluster: polemic}
+  daughters-ascribed-to-god: {label: "The polytheists assign daughters to God while wishing sons for themselves", cluster: polemic}
+  angels-as-daughters-of-god-rejected: {label: "Has God chosen sons for you and taken daughters from the angels? A monstrous saying", cluster: polemic}
+  other-gods-would-seek-way-to-throne: {label: "If there were other gods they would seek a way to the Lord of the Throne", cluster: polemic}
+  intercessors-themselves-seek-means-to-god: {label: "Those whom the polytheists invoke themselves seek a means (wasila) of nearness to God", cluster: polemic}
+  idols-disown-worshippers: {label: "On judgment day the false gods disown their worshippers and turn against them", cluster: eschatology}
+  worship-of-idols-is-worship-of-satan: {label: "Worshipping idols is worshipping Satan, who rebelled against the Merciful", cluster: polemic}
+  call-on-god-in-distress-forget-after: {label: "In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued", cluster: anthropology}
+  god-has-no-namesake: {label: "God has no namesake or equal (samiyy)", cluster: theology}
+  call-him-allah-or-al-rahman: {label: "Call on God as Allah or as al-Rahman: to him belong the most beautiful names", cluster: theology}
+  god-is-my-lord-and-your-lord: {label: "Jesus declares 'God is my Lord and your Lord, so worship him'", cluster: christology}
+  jesus-servant-of-god-given-book-made-prophet: {label: "The infant Jesus declares himself God's servant, given the Book and made a prophet", cluster: christology}
+  jesus-son-of-mary-word-of-truth: {label: "'That is Jesus son of Mary, the word of truth about which they dispute'", cluster: christology}
+  sects-differ-about-jesus: {label: "The factions differ among themselves about Jesus", cluster: christology}
+  claim-that-rahman-took-a-son: {label: "They say 'al-Rahman has taken a son'; it is not fitting for the Merciful", cluster: christology}
+  heavens-nearly-split-at-blasphemy: {label: "The heavens nearly burst, the earth splits and mountains collapse at the claim that God has a son", cluster: christology}
+  all-creatures-come-to-god-as-servants: {label: "Everyone in the heavens and earth comes to the Merciful only as a servant", cluster: theology}
+  love-from-al-rahman-for-believers: {label: "The Merciful will appoint love (wudd) for those who believe and do good", cluster: theology}
+  god-extends-rope-to-the-erring: {label: "God lengthens the term of those in error until they see what they were promised", cluster: theology}
+  devils-sent-to-incite-unbelievers: {label: "God sends devils against the unbelievers to goad them on", cluster: satan}
+  # ---- Satan, Iblis, jinn
+  jinn-created-from-fire: {label: "The jinn were created before humans from smokeless or scorching fire", cluster: creation}
+  iblis-expelled-and-cursed: {label: "God expels Iblis as accursed (rajim) with a curse until the Day of Judgment", cluster: satan}
+  sincere-servants-exempt-from-satan: {label: "Satan has no authority over God's sincere servants, only over those who follow him", cluster: satan}
+  iblis-incites-with-voice-cavalry-infantry: {label: "God lets Iblis incite humans with his voice, his cavalry and infantry, sharing their wealth and children", cluster: satan}
+  iblis-was-of-the-jinn: {label: "Iblis was one of the jinn and transgressed his Lord's command", cluster: satan}
+  iblis-has-offspring: {label: "Iblis has offspring (dhurriyya) whom people take as protectors", cluster: satan}
+  satan-disowns-followers: {label: "On judgment day Satan disowns his followers: 'I only called you; blame yourselves'", cluster: satan}
+  seek-refuge-from-satan-before-reciting: {label: "Before reciting scripture, seek refuge in God from the accursed Satan", cluster: ritual}
+  forgetting-blamed-on-satan: {label: "A forgetting is blamed on Satan", cluster: satan}
+  # ---- eschatology
+  resurrection-from-dust-doubted: {label: "Deniers ask 'When we are dust (or dead), shall we be created anew?'", cluster: eschatology}
+  resurrection-from-bones-and-dust-doubted: {label: "Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'", cluster: eschatology}
+  be-stone-or-iron-you-will-be-raised: {label: "Answer to the deniers: even if you were stone or iron, the one who made you first will raise you", cluster: eschatology}
+  oath-that-god-will-not-raise-dead: {label: "Deniers swear their strongest oaths that God will not raise the dead", cluster: eschatology}
+  death-from-every-side-yet-no-death: {label: "In hell death comes from every side, yet the damned does not die", cluster: eschatology}
+  deeds-like-ashes-in-wind: {label: "The deeds of unbelievers are like ashes blown by the wind on a stormy day", cluster: parable}
+  weak-and-arrogant-dispute-in-judgment: {label: "On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot", cluster: eschatology}
+  god-not-heedless-delays-the-wicked: {label: "God is not heedless; he only delays the wrongdoers to a day when eyes stare", cluster: eschatology}
+  eyes-stare-hearts-void: {label: "On that day eyes stare fixed, heads upraised, hearts empty as air", cluster: eschatology}
+  damned-ask-for-respite: {label: "The wrongdoers beg for a short respite to answer the call and follow the messengers", cluster: eschatology}
+  dwelling-in-homes-of-destroyed: {label: "They lived in the dwellings of those who wronged themselves and saw what God did to them", cluster: punishment}
+  scheme-to-move-mountains: {label: "The opponents' scheme was such that mountains might be moved by it", cluster: polemic}
+  earth-changed-into-another-earth: {label: "On the last day the earth is changed into another earth, and the heavens too", cluster: eschatology}
+  garments-of-pitch-in-hell: {label: "The damned wear garments of pitch (qatiran), fire covering their faces", cluster: eschatology}
+  god-swift-in-reckoning: {label: "God is swift in reckoning", cluster: eschatology}
+  hell-has-seven-gates: {label: "Hell has seven gates, each with an assigned portion of the damned", cluster: eschatology}
+  gardens-and-springs: {label: "The pious are in gardens and springs, entering in peace and security", cluster: eschatology}
+  no-fatigue-no-expulsion-from-paradise: {label: "In paradise no fatigue touches them and they are never expelled from it", cluster: eschatology}
+  righteous-family-reunited-in-paradise: {label: "The righteous enter paradise together with the righteous among their fathers, spouses and offspring", cluster: eschatology}
+  angels-greet-blessed-at-gates-of-paradise: {label: "Angels enter upon the blessed from every gate saying 'Peace be upon you for your patience'", cluster: eschatology}
+  tuba-blessedness: {label: "'Tuba' (blessedness, later a tree of paradise) for those who believe and do good", cluster: eschatology}
+  angels-take-souls-at-death: {label: "Angels take the souls at death, the wrongdoers protesting and the good greeted with peace", cluster: eschatology}
+  gates-of-hell-entered: {label: "The arrogant are told to enter the gates of hell to abide in it", cluster: eschatology}
+  misleaders-bear-burdens-of-misled: {label: "Those who mislead bear their own full burdens and some of the burdens of those they misled", cluster: eschatology}
+  hour-like-blink-of-eye: {label: "The coming of the Hour is like the blink of an eye, or nearer", cluster: eschatology}
+  witness-from-every-nation: {label: "On judgment day a witness is raised from every nation, and the prophet as witness over his own", cluster: eschatology}
+  fate-bird-fastened-on-neck: {label: "Every human's 'bird' (ta'ir, fate or omen) is fastened to his neck", cluster: eschatology}
+  book-of-deeds-spread-open: {label: "On judgment day each receives a book of his deeds spread open, leaving nothing small or great unrecorded", cluster: eschatology}
+  seekers-of-this-world-versus-hereafter: {label: "Those who want the hasty world get some of it and then hell; those who strive for the hereafter are thanked", cluster: eschatology}
+  degrees-in-the-hereafter: {label: "The hereafter is greater in degrees and in preference than this world", cluster: eschatology}
+  vision-as-trial-and-cursed-tree: {label: "The prophet's vision and the cursed tree in the Quran are made a trial for people", cluster: eschatology}
+  each-people-called-with-its-leader: {label: "On judgment day every people is called with its leader (imam)", cluster: eschatology}
+  blind-here-blind-hereafter: {label: "Whoever is blind in this world will be blind in the hereafter and further astray", cluster: eschatology}
+  damned-gathered-on-faces-blind-dumb-deaf: {label: "The astray are gathered on their faces, blind, dumb and deaf", cluster: eschatology}
+  fire-increased-when-it-abates: {label: "Whenever the fire of hell abates, God increases its blaze", cluster: eschatology}
+  hell-pavilion-and-molten-drink: {label: "Hell's walls (suradiq) enclose the damned; they are given water like molten metal that scalds faces", cluster: eschatology}
+  paradise-gold-bracelets-green-silk-couches: {label: "In paradise the blessed wear gold bracelets and green silk and brocade, reclining on couches", cluster: eschatology}
+  earth-laid-bare-all-gathered: {label: "On the last day the earth is seen laid bare and all are gathered, none left out", cluster: eschatology}
+  arrayed-in-rows-before-god: {label: "Humans are presented before God in rows, coming as they were first created", cluster: eschatology}
+  partners-do-not-answer-gulf-between: {label: "Called on at the judgment, the false partners do not answer; a place of perdition is set between them", cluster: eschatology}
+  peoples-surge-like-waves: {label: "At the end peoples surge into one another like waves", cluster: eschatology}
+  hell-as-hospitality-for-unbelievers: {label: "Hell is prepared as the unbelievers' hospitality (nuzul)", cluster: eschatology}
+  greatest-losers-think-they-do-good: {label: "The greatest losers are those whose efforts went astray while they thought they did good", cluster: eschatology}
+  works-weightless-on-judgment-day: {label: "The deniers' works are void; no weight is assigned them on the Day of Resurrection", cluster: eschatology}
+  gardens-of-firdaws: {label: "The gardens of Firdaws (paradise) are the believers' hospitality", cluster: eschatology}
+  day-of-regret: {label: "The Day of Regret (yawm al-hasra) when the matter is decided", cluster: eschatology}
+  provision-morning-and-evening-in-paradise: {label: "In paradise the blessed receive their provision morning and evening", cluster: eschatology}
+  damned-kneel-around-hell: {label: "The deniers and the devils are gathered and brought kneeling around hell", cluster: eschatology}
+  most-rebellious-of-each-faction-pulled-out: {label: "From every faction God draws out the one most insolent against the Merciful", cluster: eschatology}
+  everyone-must-come-to-hell: {label: "Every one of you will come to (pass by) hell; then the pious are rescued", cluster: eschatology}
+  unbelievers-boast-finer-assembly: {label: "Unbelievers boast that their side has the better station and finer assembly", cluster: polemic}
+  boaster-claims-wealth-and-children-in-hereafter: {label: "A denier boasts he will surely be given wealth and children (in the hereafter)", cluster: polemic}
+  each-comes-alone-on-judgment-day: {label: "Each person comes to God alone on the Day of Resurrection", cluster: eschatology}
+  pious-gathered-to-rahman-as-delegation: {label: "The pious are gathered to the Merciful as an honored delegation while the guilty are driven to hell like thirsty herds", cluster: eschatology}
+  not-a-whisper-remains-of-destroyed-generations: {label: "Of the destroyed generations not one can be perceived nor a whisper heard", cluster: punishment}
+  # ---- punishment of peoples, places
+  travel-and-see-ruins-of-destroyed: {label: "Travel in the land and see the end of those before you", cluster: punishment}
+  affluent-commanded-then-town-destroyed: {label: "When God would destroy a town he commands its affluent ones; they transgress and it is destroyed", cluster: punishment}
+  generations-destroyed-after-noah: {label: "How many generations God destroyed after Noah", cluster: punishment}
+  building-collapses-from-foundations: {label: "God came at the plotters' building from its foundations and the roof fell on them", cluster: punishment}
+  storm-of-stones-or-wind-at-sea: {label: "Threat: God could send a storm of stones on land or a shattering wind at sea", cluster: punishment}
+  secure-town-given-garment-of-hunger-and-fear: {label: "Parable of a secure town supplied from everywhere which was ungrateful and was made to taste the garment of hunger and fear", cluster: parable}
+  patriarch-afraid-of-guests: {label: "The patriarch tells his unknown guests 'we are afraid of you'", cluster: patriarchs}
+  angels-sent-against-criminal-people: {label: "The angelic guests reveal they are sent against a criminal people", cluster: patriarchs}
+  flee-by-night-leader-at-rear: {label: "The rescued family leaves by night, the leader following behind them", cluster: patriarchs}
+  lot-forbidden-to-host-strangers: {label: "The townsmen remind Lot they had forbidden him to receive outsiders", cluster: patriarchs}
+  oath-by-the-prophets-life: {label: "God swears by the prophet's life (la-'amruka)", cluster: form}
+  destroying-shout: {label: "The doomed people are seized by the Shout (al-sayha) at dawn or sunrise", cluster: punishment}
+  stones-of-baked-clay: {label: "Stones of baked clay (sijjil) rain on the overturned towns", cluster: punishment}
+  ruins-on-a-standing-road: {label: "The ruins of the destroyed towns lie on a road still traveled", cluster: punishment}
+  people-of-the-thicket: {label: "The people of the Thicket (ashab al-ayka) were wrongdoers and were punished", cluster: punishment}
+  # ---- Moses, Israel
+  remember-days-of-god: {label: "Moses is told to remind his people of 'the days of God'", cluster: exodus}
+  torah-given-to-moses-as-guidance: {label: "God gave Moses the Book as guidance for the Children of Israel", cluster: exodus}
+  descendants-of-those-carried-with-noah: {label: "Israel addressed as descendants of those carried with Noah, who was a grateful servant", cluster: flood}
+  israel-corrupts-twice-on-earth: {label: "It is decreed in the Book that Israel will work corruption on earth twice", cluster: kingship}
+  god-sends-foreign-army-as-punishment: {label: "God sends against Israel servants of his of great might who range through their homes", cluster: kingship}
+  restoration-after-first-punishment: {label: "After the first punishment God restores Israel's turn with wealth and sons", cluster: kingship}
+  temple-entered-and-destroyed-twice: {label: "The enemy enters the sanctuary (masjid) a second time as the first and destroys all", cluster: kingship}
+  if-you-return-we-return: {label: "Divine warning 'if you return (to sin), we will return (to punishment)'", cluster: kingship}
+  nine-signs-of-moses: {label: "Moses was given nine clear signs", cluster: exodus}
+  israel-dwells-in-land-gathered-at-end: {label: "After Pharaoh's drowning Israel is told to dwell in the land; at the last promise they are gathered in a mixed crowd", cluster: exodus}
+  moses-drawn-near-in-confidential-speech: {label: "God called Moses and drew him near in confidential converse (najiyy)", cluster: exodus}
+  journey-to-meeting-of-two-seas: {label: "Moses vows to travel until he reaches the meeting of the two seas", cluster: moses-khidr}
+  moses-with-young-servant: {label: "Moses travels with his young servant (fata)", cluster: moses-khidr}
+  fish-revives-and-escapes-to-sea: {label: "The travelers' provision fish comes to life and slips away into the sea at the destined place", cluster: moses-khidr}
+  rock-at-the-meeting-place: {label: "The travelers rest at a rock where the sign occurs", cluster: moses-khidr}
+  retrace-steps-to-find-sage: {label: "Realizing the sign, the travelers retrace their footsteps", cluster: moses-khidr}
+  servant-with-knowledge-from-god: {label: "A servant of God given mercy and knowledge from God's presence (ilm ladunni)", cluster: moses-khidr}
+  disciple-forbidden-to-question-master: {label: "The sage lets the prophet accompany him on condition he asks nothing until told", cluster: moses-khidr}
+  sage-scuttles-boat: {label: "The sage holes the boat that carries them", cluster: moses-khidr}
+  sage-kills-boy: {label: "The sage kills a boy they meet", cluster: moses-khidr}
+  inhospitable-town-refuses-food: {label: "The townspeople refuse the travelers food and hospitality", cluster: moses-khidr}
+  sage-rebuilds-falling-wall: {label: "The sage repairs a wall about to collapse in the inhospitable town without payment", cluster: moses-khidr}
+  three-strikes-then-parting: {label: "After the third objection master and disciple part", cluster: moses-khidr}
+  hidden-reasons-for-sages-deeds-revealed: {label: "The sage explains the hidden reasons for his shocking acts", cluster: moses-khidr}
+  tyrant-king-seizes-every-ship: {label: "A king ahead seizes every sound ship by force, so the damaged boat is spared", cluster: moses-khidr}
+  child-killed-to-spare-believing-parents: {label: "A boy is killed lest he burden his believing parents with rebellion; God will give them a better child", cluster: moses-khidr}
+  orphans-treasure-under-wall: {label: "A wall shelters a treasure belonging to two orphans until they come of age", cluster: moses-khidr}
+  merit-of-righteous-father-protects-children: {label: "Because their father was righteous, God protects the orphans' inheritance", cluster: moses-khidr}
+  # ---- law and ethics
+  keep-covenant-and-join-ties: {label: "The wise keep God's covenant and join the ties he commanded to be joined", cluster: ethics}
+  repel-evil-with-good: {label: "The righteous repel evil with good", cluster: ethics}
+  curse-on-covenant-breakers: {label: "Those who break God's covenant and sever ties have the curse and the evil abode", cluster: ethics}
+  god-enlarges-and-straitens-provision: {label: "God enlarges and restricts provision for whom he wills", cluster: theology}
+  hearts-rest-in-remembrance-of-god: {label: "In the remembrance of God hearts find rest", cluster: theology}
+  emigrants-for-god-rewarded: {label: "Those who emigrate for God after being wronged will be settled well in this world and rewarded more in the next", cluster: ethics}
+  father-ashamed-at-birth-of-daughter: {label: "When told of a daughter's birth the father's face darkens and he hides from people in shame", cluster: law}
+  female-infanticide-condemned: {label: "Burying a newborn daughter in the dust is condemned", cluster: law}
+  masters-will-not-share-with-slaves: {label: "Masters will not share their provision equally with their slaves (argument against partners to God)", cluster: parable}
+  spouses-from-yourselves-sons-and-grandsons: {label: "God made spouses for you from yourselves and from them sons and grandsons", cluster: anthropology}
+  parable-of-slave-and-free-man: {label: "Parable: a slave owning nothing compared with a free man who spends secretly and openly", cluster: parable}
+  parable-of-mute-man-and-just-man: {label: "Parable: a mute, helpless man who is a burden to his master compared with one who commands justice", cluster: parable}
+  justice-kindness-and-giving-to-kin: {label: "God commands justice, kindness and giving to kin, and forbids indecency, wrong and oppression", cluster: ethics}
+  keep-oaths-and-covenants: {label: "Fulfill God's covenant and do not break oaths after confirming them or use them for deceit", cluster: law}
+  woman-who-unravels-her-yarn: {label: "Do not be like the woman who unravels her yarn into strands after spinning it strong", cluster: parable}
+  what-is-with-god-endures: {label: "What you have runs out; what is with God remains", cluster: theology}
+  reward-for-male-or-female: {label: "Whoever does good, male or female, and believes, is given a good life and reward", cluster: ethics}
+  coerced-disbelief-excused: {label: "One forced to disbelieve while his heart is firm in faith is excused", cluster: law}
+  hearts-sealed: {label: "God has sealed (or veiled) their hearts, hearing and sight", cluster: theology}
+  four-food-prohibitions: {label: "Only four foods are forbidden: carrion, blood, swine and what is offered to other than God", cluster: law}
+  foods-forbidden-to-jews-as-punishment: {label: "Certain foods were forbidden to the Jews because of their own wrongdoing", cluster: law}
+  follow-religion-of-abraham: {label: "The prophet is told to follow the religion (milla) of Abraham the hanif", cluster: patriarchs}
+  sabbath-imposed-on-those-who-differed: {label: "The Sabbath was imposed only on those who differed about it", cluster: law}
+  argue-in-the-best-way: {label: "Call to God's way with wisdom and good counsel and argue in the best way", cluster: ethics}
+  retaliation-in-kind-but-patience-better: {label: "If you retaliate, do so in kind; but patience is better", cluster: law}
+  decalogue-like-code-in-quran: {label: "A Quranic code of commandments resembling the Decalogue in content", cluster: law}
+  do-not-say-uff-to-aged-parents: {label: "Do not say even 'uff' to aged parents nor rebuke them; speak to them gently", cluster: law}
+  lower-wing-of-humility-to-parents: {label: "Lower the wing of humility to parents and pray 'Lord, have mercy on them as they raised me when small'", cluster: law}
+  give-kin-poor-and-wayfarer-their-due: {label: "Give the kinsman, the poor and the wayfarer their due", cluster: law}
+  squanderers-brothers-of-devils: {label: "Squanderers are brothers of the devils", cluster: ethics}
+  hand-neither-chained-to-neck-nor-fully-open: {label: "Do not keep your hand chained to your neck nor stretch it out fully: moderation in spending", cluster: ethics}
+  do-not-kill-children-for-fear-of-poverty: {label: "Do not kill your children for fear of poverty; God provides for them and you", cluster: law}
+  killing-forbidden-except-by-right: {label: "Do not kill the soul God has made sacred except by right", cluster: law}
+  orphans-property-protected: {label: "Do not approach the orphan's property except in the best way until he comes of age", cluster: law}
+  do-not-follow-what-you-do-not-know: {label: "Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned", cluster: ethics}
+  do-not-walk-proudly-on-earth: {label: "Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height", cluster: ethics}
+  say-if-god-wills: {label: "Never say 'I will do it tomorrow' without adding 'if God wills'", cluster: ritual}
+  say-what-god-wills: {label: "On entering one's garden one should say 'What God wills; there is no power except in God'", cluster: ritual}
+  stay-with-those-who-call-morning-and-evening: {label: "Keep company with those who call on their Lord morning and evening seeking his face", cluster: ethics}
+  # ---- prayer and ritual
+  prayer-times-in-quran: {label: "Prayer is fixed from the sun's decline to the dark of night, with the dawn recitation", cluster: ritual}
+  night-vigil-prayer: {label: "Keep vigil (tahajjud) with recitation in part of the night as an extra devotion", cluster: ritual}
+  prayer-for-true-entrance-and-exit: {label: "Prayer: 'Lord, make my entrance and my exit true and grant me a helping authority'", cluster: ritual}
+  prayer-voice-neither-loud-nor-silent: {label: "Do not be loud in prayer nor too quiet; seek a way between", cluster: ritual}
+  scholars-of-earlier-scripture-prostrate-weeping: {label: "Those given knowledge before fall on their chins prostrate and weeping when the scripture is recited", cluster: polemic}
+  prophets-fall-prostrate-weeping-at-recitation: {label: "When the Merciful's verses are recited the prophets fall prostrate and weeping", cluster: ritual}
+  later-generation-neglects-prayer-follows-lusts: {label: "After the prophets came a generation that neglected prayer and followed lusts", cluster: ritual}
+  angels-descend-with-the-spirit: {label: "God sends down the angels with the spirit of his command upon whom he wills", cluster: angels}
+  angels-fear-their-lord-above: {label: "The angels are not arrogant; they fear their Lord above them and do as commanded", cluster: angels}
+  angels-descend-only-by-gods-command: {label: "The angels say 'We descend only by your Lord's command'", cluster: angels}
+  spirit-is-of-gods-command: {label: "Asked about the spirit, the prophet answers 'The spirit is of my Lord's command'", cluster: theology}
+  # ---- Night Journey, demands
+  night-journey-to-farthest-mosque: {label: "God carried his servant by night from the Sacred Mosque to the Farthest Mosque", cluster: prophecy}
+  demand-for-angels-as-proof: {label: "Opponents demand that the prophet bring the angels if he is truthful", cluster: polemic}
+  door-in-heaven-would-be-called-sorcery: {label: "Even if a door of heaven were opened and they ascended, they would say their eyes were bewitched", cluster: polemic}
+  demand-for-spring-and-garden: {label: "Opponents demand a spring gushing from the earth or a garden of palms and vines with rivers", cluster: polemic}
+  demand-sky-fall-in-pieces: {label: "Opponents demand that the sky fall on them in pieces or God and the angels appear", cluster: polemic}
+  demand-house-of-gold: {label: "Opponents demand that the prophet have a house of gold ornament", cluster: polemic}
+  demand-ascent-and-book-brought-down: {label: "Opponents demand the prophet ascend to heaven and bring down a book they can read", cluster: polemic}
+  # ---- Abraham
+  abraham-prays-sons-kept-from-idols: {label: "Abraham prays that he and his sons be kept from worshipping idols", cluster: patriarchs}
+  offspring-settled-in-barren-valley-at-sacred-house: {label: "Abraham settles some of his offspring in a barren valley by God's sacred House", cluster: patriarchs}
+  hearts-of-people-incline-to-sanctuary: {label: "Abraham prays that people's hearts yearn toward his offspring at the sanctuary", cluster: patriarchs}
+  sons-in-old-age-ishmael-and-isaac: {label: "Abraham thanks God for giving him Ishmael and Isaac in old age", cluster: patriarchs}
+  son-pleads-with-idolatrous-father: {label: "The son repeatedly and tenderly pleads with his idolatrous father ('O my father')", cluster: patriarchs}
+  son-knows-more-than-father: {label: "The son tells his father that knowledge has come to him that has not come to the father", cluster: patriarchs}
+  father-threatens-to-stone-son: {label: "The idolatrous father threatens to stone his son and banishes him", cluster: patriarchs}
+  abraham-separates-from-his-people: {label: "Abraham withdraws from his people and their gods and is given descendants", cluster: patriarchs}
+  tongue-of-truth-honor: {label: "God grants the patriarchs a lofty 'tongue of truth' (lasting renown)", cluster: patriarchs}
+  ishmael-true-to-his-promise: {label: "Ishmael was true to his promise and enjoined prayer and alms on his family", cluster: patriarchs}
+  idris-raised-to-high-place: {label: "God raised Idris to a high place", cluster: prophecy}
+  # ---- Cave
+  cave-and-the-inscription: {label: "The companions of the Cave and al-Raqim (an inscription or tablet)", cluster: sleepers}
+  youths-flee-idolatrous-people-to-cave: {label: "Believing youths stand against their idolatrous people and take refuge in a cave", cluster: sleepers}
+  sleepers-ears-sealed-for-years: {label: "God seals the sleepers' ears (puts them to sleep) in the cave for many years", cluster: sleepers}
+  two-parties-dispute-duration: {label: "The sleepers are awakened to show which party best reckoned how long they stayed", cluster: sleepers}
+  sun-turns-aside-from-cave: {label: "The sun inclines away from the sleepers' cave at rising and passes them at setting", cluster: sleepers}
+  sleepers-seem-awake-turned-side-to-side: {label: "The sleepers seem awake though asleep, and God turns them from side to side", cluster: sleepers}
+  dog-at-cave-threshold: {label: "The sleepers' dog lies stretching its forelegs at the cave's threshold", cluster: sleepers}
+  sight-of-sleepers-strikes-terror: {label: "Whoever looked upon the sleepers would flee filled with terror", cluster: sleepers}
+  sleepers-think-they-slept-a-day: {label: "Woken after centuries, the sleepers think they slept a day or part of a day", cluster: sleepers}
+  sleeper-sent-to-town-with-old-coin: {label: "One sleeper is sent to town with their silver coin to buy food discreetly", cluster: sleepers}
+  fear-of-stoning-or-forced-reconversion: {label: "The sleepers fear the townspeople will stone them or force them back to their religion", cluster: sleepers}
+  sleepers-discovered-as-sign-of-resurrection: {label: "God lets the people discover the sleepers so they know his promise of resurrection is true", cluster: sleepers}
+  shrine-built-over-sleepers: {label: "The prevailing party builds a place of worship over the sleepers", cluster: sleepers}
+  number-of-sleepers-disputed: {label: "People dispute the sleepers' number (three, five or seven, plus their dog); only God knows", cluster: sleepers}
+  sleep-of-309-years: {label: "The sleepers stayed in their cave three hundred years and nine more", cluster: sleepers}
+  # ---- two gardens
+  parable-of-proud-garden-owner: {label: "Parable of two men: one owns two rich gardens and boasts to his poorer believing companion", cluster: parable}
+  rich-man-boasts-wealth-and-followers: {label: "The rich man boasts of having more wealth and a mightier following", cluster: parable}
+  rich-man-thinks-wealth-eternal: {label: "The rich man thinks his garden will never perish and the Hour will never come", cluster: parable}
+  garden-destroyed-overnight: {label: "The proud man's garden is destroyed and he wrings his hands over what he spent on it", cluster: parable}
+  regret-of-polytheist: {label: "The ruined man says 'Would that I had associated no one with my Lord'", cluster: parable}
+  wealth-and-sons-adornment-good-deeds-endure: {label: "Wealth and sons are the adornment of this life; the enduring good deeds are better with God", cluster: ethics}
+  none-witnessed-creation: {label: "God did not make Satan and his offspring witnesses of the creation of the heavens and earth, nor of their own", cluster: creation}
+  # ---- Dhul-Qarnayn
+  two-horned-one-world-conqueror: {label: "Dhu l-Qarnayn ('the two-horned') is given power on earth and a way to everything", cluster: dhul-qarnayn}
+  sun-sets-in-muddy-spring: {label: "At the place of sunset the conqueror finds the sun setting in a muddy (or hot) spring", cluster: dhul-qarnayn}
+  conqueror-chooses-punish-or-treat-kindly: {label: "The conqueror is given the choice to punish the people at the sunset or treat them kindly", cluster: dhul-qarnayn}
+  people-at-sunrise-without-shelter: {label: "At the sun's rising the conqueror finds a people with no shelter from it", cluster: dhul-qarnayn}
+  people-between-two-barriers-barely-understand-speech: {label: "Between two mountain barriers the conqueror finds a people who scarcely understand speech", cluster: dhul-qarnayn}
+  gog-and-magog-spread-corruption: {label: "A people complain that Gog and Magog spread corruption in the land", cluster: dhul-qarnayn}
+  tribute-offered-for-barrier: {label: "The people offer tribute for a barrier; the conqueror declines payment and asks for their labor", cluster: dhul-qarnayn}
+  iron-and-copper-wall-against-gog: {label: "A barrier of iron blocks filling the gap between two cliffs, heated with bellows and sealed with molten copper, shuts out Gog and Magog", cluster: dhul-qarnayn}
+  barrier-leveled-at-appointed-time: {label: "When God's promise comes the barrier is leveled to the ground", cluster: dhul-qarnayn}
+  sea-as-ink-for-gods-words: {label: "If the sea were ink for God's words it would run dry before they ran out, even with another sea", cluster: theology}
+  # ---- Zechariah, John, Mary
+  prayer-in-a-hidden-voice: {label: "A petitioner calls to God in a hidden, secret voice", cluster: ritual}
+  bones-weak-head-aflame-with-gray: {label: "Old man's prayer: 'my bones have weakened and my head is aflame with gray'", cluster: childhood}
+  priest-fears-for-succession: {label: "The childless priest fears for his kinsmen after him and asks for an heir to the family of Jacob", cluster: childhood}
+  name-never-given-before: {label: "The announced son receives a name never given to anyone before", cluster: childhood}
+  father-doubts-annunciation-due-to-age: {label: "The aged father asks how he can have a son when his wife is barren and he is very old", cluster: childhood}
+  easy-for-god-who-created-from-nothing: {label: "God answers doubt: 'It is easy for me; I created you before when you were nothing'", cluster: childhood}
+  muteness-as-sign-of-conception: {label: "As a sign of the promised son the father cannot speak to people for three days or nights", cluster: childhood}
+  priest-emerges-from-sanctuary-and-signs: {label: "The mute priest comes out of the sanctuary and signals to the people to glorify God", cluster: childhood}
+  child-given-wisdom-as-boy: {label: "The child is given judgment and wisdom while still a boy", cluster: childhood}
+  dutiful-to-parents-not-tyrant: {label: "The prophet child is dutiful to his parent(s), not an arrogant tyrant", cluster: childhood}
+  peace-on-day-of-birth-death-and-resurrection: {label: "'Peace on him the day he was born, the day he dies and the day he is raised alive'", cluster: childhood}
+  mary-withdraws-to-eastern-place: {label: "Mary withdraws from her family to an eastern place behind a screen", cluster: childhood}
+  divine-spirit-appears-as-perfect-man: {label: "God's spirit appears to a woman in the form of a well-proportioned man", cluster: angels}
+  woman-seeks-refuge-from-visitor: {label: "The woman seeks refuge in God from the mysterious visitor", cluster: childhood}
+  annunciation-to-virgin: {label: "A divine messenger announces a son to a virgin untouched by any man", cluster: childhood}
+  labor-pains-drive-mother-to-palm-trunk: {label: "Labor pains drive the mother to the trunk of a palm tree", cluster: childhood}
+  mother-wishes-she-had-died-and-been-forgotten: {label: "In labor the mother wishes she had died before this and been utterly forgotten", cluster: childhood}
+  voice-from-beneath-consoles-mother: {label: "A voice from beneath her consoles the mother: 'do not grieve'", cluster: childhood}
+  mother-accused-of-unchastity: {label: "The mother returns with the child and her people accuse her of an enormity", cluster: childhood}
+  mary-called-sister-of-aaron: {label: "Mary is addressed as 'sister of Aaron'", cluster: childhood}
+  signs-in-heavens-ignored: {label: "People pass by countless signs in the heavens and earth and turn away from them", cluster: theology}
+  good-word-like-good-tree: {label: "Parable: a good word is like a good tree, its root firm, its branches in the sky, yielding fruit every season", cluster: parable}
+  bad-word-like-uprooted-tree: {label: "Parable: a bad word is like a bad tree uprooted from the earth, with no stability", cluster: parable}
+  veil-between-prophet-and-unbelievers: {label: "When the prophet recites, God places a hidden veil between him and those who deny the hereafter", cluster: polemic}
+  david-given-the-psalms: {label: "God gave David the Psalms (Zabur)", cluster: kingship}
+units:
+  - id: quran-12-prologue
+    tradition: islam
+    title: Prologue to the Joseph surah (the best of stories)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["12:1-3"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["12:1"], note: "alif lām rā"}
+      - {motif: arabic-quran, refs: ["12:2"], note: "qurʾānan ʿarabiyyan"}
+      - {motif: best-of-stories-revealed, refs: ["12:3"], note: "aḥsan al-qaṣaṣ; the Prophet was 'among the unaware' before it"}
+
+  - id: quran-12-joseph-full
+    tradition: islam
+    title: Joseph and his brothers (Surah 12, full read)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["12:4-101"]
+    tags:
+      - {motif: dream-heavenly-bodies-bow, refs: ["12:4"], note: "eleven stars, the sun and the moon prostrating (sājidīn)"}
+      - {motif: father-warns-against-telling-dream, refs: ["12:5"], note: "lest they plot; Satan is man's open enemy"}
+      - {motif: interpretation-from-god, refs: ["12:6", "12:21", "12:37", "12:101"], note: "taʾwīl al-aḥādīth"}
+      - {motif: father-favors-son, refs: ["12:8"], note: "Joseph and his brother are dearer to our father though we are a band (ʿuṣba)"}
+      - {motif: brothers-plot-death, refs: ["12:8", "12:9"]}
+      - {motif: one-brother-dissuades-killing, refs: ["12:10"], note: "an unnamed speaker (qāʾil minhum)"}
+      - {motif: cast-into-pit, refs: ["12:10", "12:15"], note: "ghayābat al-jubb, the depths of the well"}
+      - {motif: brothers-persuade-father-to-send, refs: ["12:11", "12:12"], note: "to graze and play"}
+      - {motif: divine-reassurance-in-pit, refs: ["12:15"], note: "revelation that he will one day tell them of this deed"}
+      - {motif: brothers-weep-to-father, refs: ["12:16"], note: "they come at nightfall (ʿishāʾan)"}
+      - {motif: wild-animal-blamed, refs: ["12:13", "12:14", "12:17"], note: "the wolf; Jacob names it first; the brothers say they were racing"}
+      - {motif: bloodied-garment-deception, refs: ["12:18"], note: "dam kadhib, 'false blood'"}
+      - {motif: father-sees-through-deception, refs: ["12:18", "12:83"], note: "'your souls have enticed you'"}
+      - {motif: jacob-beautiful-patience, refs: ["12:18", "12:83"], note: "ṣabrun jamīl, repeated twice as a refrain"}
+      - {motif: rescued-by-caravan, refs: ["12:19"], note: "water-drawer lowers his bucket: 'good news, a boy!'"}
+      - {motif: sold-for-paltry-price, refs: ["12:20"], note: "a few counted dirhams"}
+      - {motif: bought-by-egyptian-official, refs: ["12:21"], note: "later titled al-ʿAzīz (12:30)"}
+      - {motif: adopt-as-son-perhaps-useful, refs: ["12:21"]}
+      - {motif: divine-favor-in-servitude, refs: ["12:21", "12:22"]}
+      - {motif: masters-wife-seduces, refs: ["12:23", "12:30", "12:32"], note: "rāwadathu ʿan nafsihi; 'hayta laka'"}
+      - {motif: alone-in-house, refs: ["12:23"], note: "she locked the doors (ghallaqat al-abwāb)"}
+      - {motif: hero-refuses-citing-master-and-god, refs: ["12:23"], note: "maʿādh Allāh; 'he is my lord (rabbī), he made my lodging good'"}
+      - {motif: hero-nearly-yields-sign-intervenes, refs: ["12:24"], note: "she desired him and he would have desired her had he not seen the proof of his Lord"}
+      - {motif: garment-evidence-in-seduction, refs: ["12:25", "12:26", "12:27", "12:28"], note: "shirt torn from behind"}
+      - {motif: false-accusation-by-wife, refs: ["12:25"]}
+      - {motif: husband-at-the-door, refs: ["12:25"], note: "they race to the door and find her master there"}
+      - {motif: witness-shirt-test, refs: ["12:26", "12:27"], note: "a witness from her own household"}
+      - {motif: master-recognizes-wifes-guilt, refs: ["12:28", "12:29"], note: "'your guile (kayd) is great'"}
+      - {motif: women-gossip, refs: ["12:30"]}
+      - {motif: women-cut-hands, refs: ["12:31", "12:50"], note: "banquet with couches and a knife for each woman"}
+      - {motif: hero-beautiful, refs: ["12:31"], note: "'this is no mortal, only a noble angel'"}
+      - {motif: hero-prefers-prison, refs: ["12:32", "12:33", "12:34"]}
+      - {motif: hero-imprisoned, refs: ["12:35"], note: "imprisoned despite the signs, 'for a time'"}
+      - {motif: prisoners-dreams-wine-bread, refs: ["12:36"]}
+      - {motif: birds-eat-bread-from-head, refs: ["12:36", "12:41"]}
+      - {motif: hero-preaches-in-prison, refs: ["12:37", "12:38", "12:39", "12:40"], note: "'are many lords better, or God the One, the Subduer?'; names you have named"}
+      - {motif: religion-of-the-fathers-abraham-isaac-jacob, refs: ["12:38"], note: "millat ābāʾī Ibrāhīm wa-Isḥāq wa-Yaʿqūb"}
+      - {motif: one-executed-one-restored, refs: ["12:41"], note: "yuṣlab: crucified"}
+      - {motif: remember-me-to-king, refs: ["12:42"]}
+      - {motif: freed-prisoner-forgets, refs: ["12:42", "12:45"], note: "Satan made him forget; Joseph stays bidʿ sinīn (some years)"}
+      - {motif: king-dream-cows-and-ears, refs: ["12:43", "12:46"], note: "seven fat cows eaten by seven lean, seven green ears and others dry"}
+      - {motif: court-experts-fail, refs: ["12:44"], note: "aḍghāth aḥlām, 'confused dreams'"}
+      - {motif: cupbearer-recalls-hero, refs: ["12:45", "12:46"], note: "Joseph addressed as al-ṣiddīq"}
+      - {motif: famine-grain-storage-plan, refs: ["12:47", "12:48"], note: "leave the grain in the ear"}
+      - {motif: year-of-relief, refs: ["12:49"], note: "a year of rain in which they press (wine/oil): not in Genesis"}
+      - {motif: hero-demands-vindication, refs: ["12:50", "12:52"], note: "he refuses to leave prison until the women's case is examined"}
+      - {motif: wife-confesses, refs: ["12:51"], note: "'now the truth has come to light' (ḥaṣḥaṣa al-ḥaqq)"}
+      - {motif: soul-commands-evil, refs: ["12:53"], note: "al-nafs la-ammāratun bi-l-sūʾ; speaker disputed (Joseph or the wife)"}
+      - {motif: hero-appointed-over-storehouses, refs: ["12:54", "12:55", "12:56"], note: "Joseph asks for the treasuries of the land himself"}
+      - {motif: brothers-come-unrecognizing, refs: ["12:58"]}
+      - {motif: demand-youngest-brother, refs: ["12:59", "12:60"], note: "'a brother of yours from your father'"}
+      - {motif: money-returned-in-sacks, refs: ["12:62", "12:65"], note: "biḍāʿa put in their saddlebags"}
+      - {motif: father-reluctant-youngest, refs: ["12:63", "12:64"], note: "'shall I trust you with him as I trusted you with his brother?'"}
+      - {motif: pledge-to-father, refs: ["12:66", "12:80"], note: "a covenant by God (mawthiq)"}
+      - {motif: separate-gates-evil-eye, refs: ["12:67", "12:68"], note: "the evil eye is implied, not named: 'a need in Jacob's soul'"}
+      - {motif: early-reveal-to-youngest, refs: ["12:69"]}
+      - {motif: planted-cup, refs: ["12:70", "12:72"], note: "siqāya / ṣuwāʿ al-malik"}
+      - {motif: theft-accusation-pursuit, refs: ["12:70", "12:71", "12:73"], note: "a crier (muʾadhdhin) calls out 'O caravan, you are thieves'"}
+      - {motif: reward-of-camel-load-for-finder, refs: ["12:72"], note: "ḥiml baʿīr, with a guarantor (zaʿīm)"}
+      - {motif: thief-penalty-set-by-brothers, refs: ["12:74", "12:75"], note: "the thief himself becomes the penalty (enslavement)"}
+      - {motif: search-eldest-to-youngest, refs: ["12:76"]}
+      - {motif: kings-law-would-not-allow-seizure, refs: ["12:76"], note: "mā kāna li-yaʾkhudha akhāhu fī dīn al-malik"}
+      - {motif: brother-accused-of-earlier-theft, refs: ["12:77"], note: "'if he steals, a brother of his stole before'; Joseph keeps it secret"}
+      - {motif: offer-substitute, refs: ["12:78", "12:79"]}
+      - {motif: one-brother-left-in-egypt, refs: ["12:80"], note: "the eldest (kabīruhum) stays of his own accord"}
+      - {motif: ask-the-town-and-caravan, refs: ["12:82"], note: "'ask the town (al-qarya)'"}
+      - {motif: father-eyesight-fails, refs: ["12:84"], note: "his eyes whitened from grief"}
+      - {motif: father-grieves-for-lost-son, refs: ["12:84", "12:85", "12:86"], note: "yā asafā ʿalā Yūsuf"}
+      - {motif: father-knows-from-god, refs: ["12:86", "12:96"], note: "'I know from God what you do not know'"}
+      - {motif: do-not-despair-of-gods-mercy, refs: ["12:87"], note: "rawḥ Allāh"}
+      - {motif: brothers-beg-for-charity, refs: ["12:88"], note: "they come with paltry goods and ask him to give alms (taṣaddaq)"}
+      - {motif: hero-reveals-identity, refs: ["12:89", "12:90"]}
+      - {motif: brothers-confess-sin, refs: ["12:91", "12:97"]}
+      - {motif: hero-forgives-brothers, refs: ["12:92"], note: "lā tathrība ʿalaykum al-yawm"}
+      - {motif: garment-restores-sight, refs: ["12:93", "12:96"]}
+      - {motif: father-smells-son, refs: ["12:94"], note: "rīḥ Yūsuf, as soon as the caravan departs"}
+      - {motif: father-revived-by-news, refs: ["12:96"], note: "al-bashīr casts the shirt on his face"}
+      - {motif: father-promises-to-pray-forgiveness, refs: ["12:97", "12:98"], note: "sawfa astaghfiru lakum, 'I will ask forgiveness later'"}
+      - {motif: family-migrates-to-egypt, refs: ["12:93", "12:99"], note: "'from the desert (al-badw)' (12:100)"}
+      - {motif: reunion-with-father, refs: ["12:99"], note: "both parents (abawayhi)"}
+      - {motif: parents-honored-dream-fulfilled, refs: ["12:100"], note: "raised on the throne; they fall prostrate"}
+      - {motif: hero-sees-divine-plan, refs: ["12:100"]}
+      - {motif: satan-sows-discord, refs: ["12:100"], note: "nazagha al-shayṭān baynī wa-bayna ikhwatī"}
+      - {motif: hero-prays-for-good-death, refs: ["12:101"], note: "tawaffanī musliman"}
+    hints:
+      - "12:77: the brothers' charge that Joseph once stole echoes later Jewish and Islamic legends (Joseph taking an idol of his maternal grandfather, or his aunt's belt); Gen 31:19 has Rachel, Joseph's mother, steal Laban's teraphim."
+      - "12:53 'the soul that commands evil' invites comparison with the rabbinic yetzer ha-ra (Gen 6:5; 8:21)."
+
+  - id: quran-12-epilogue
+    tradition: islam
+    title: Epilogue to the Joseph surah
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["12:102-111"]
+    tags:
+      - {motif: news-of-the-unseen-revealed, refs: ["12:102"], note: "anbāʾ al-ghayb: 'you were not with them when they plotted'"}
+      - {motif: prophet-asks-no-wage, refs: ["12:104"]}
+      - {motif: signs-in-heavens-ignored, refs: ["12:105"]}
+      - {motif: hour-known-only-to-god, refs: ["12:107"], note: "al-sāʿa baghtatan"}
+      - {motif: messengers-are-men-from-towns, refs: ["12:109"], note: "rijālan ... min ahl al-qurā"}
+      - {motif: travel-and-see-ruins-of-destroyed, refs: ["12:109"]}
+      - {motif: messengers-despair-then-rescued, refs: ["12:110"]}
+      - {motif: quran-confirms-earlier-scripture, refs: ["12:111"], note: "taṣdīq alladhī bayna yadayhi"}
+
+  - id: quran-13-signs-of-creation
+    tradition: islam
+    title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["13:1-17"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["13:1"], note: "alif lām mīm rā"}
+      - {motif: heavens-raised-without-pillars, refs: ["13:2"], note: "bi-ghayri ʿamadin tarawnahā, 'without pillars you can see'"}
+      - {motif: god-established-on-throne, refs: ["13:2"], note: "thumma stawā ʿalā l-ʿarsh"}
+      - {motif: sun-and-moon-run-to-appointed-term, refs: ["13:2"]}
+      - {motif: mountains-as-pegs, refs: ["13:3"], note: "madda l-arḍ; rawāsī"}
+      - {motif: creation-in-pairs, refs: ["13:3"], note: "of every fruit two mates"}
+      - {motif: night-covers-day, refs: ["13:3"]}
+      - {motif: one-water-different-fruits, refs: ["13:4"], note: "neighboring plots, palms clustered and unclustered, watered by one water"}
+      - {motif: resurrection-from-dust-doubted, refs: ["13:5"]}
+      - {motif: hell-chains-collars-fetters, refs: ["13:5"]}
+      - {motif: unbelievers-demand-a-sign, refs: ["13:7"]}
+      - {motif: every-people-has-a-guide, refs: ["13:7"], note: "li-kulli qawmin hād"}
+      - {motif: god-knows-what-womb-carries, refs: ["13:8"], note: "what wombs shrink and swell"}
+      - {motif: guardian-angels-before-and-behind, refs: ["13:11"], note: "muʿaqqibāt guarding him 'by God's command'"}
+      - {motif: guardian-over-every-soul, refs: ["13:11"]}
+      - {motif: god-changes-not-until-people-change, refs: ["13:11"]}
+      - {motif: thunder-glorifies-god, refs: ["13:13"], note: "yusabbiḥu l-raʿdu bi-ḥamdihi; angels too, in awe"}
+      - {motif: thunderbolts-strike-whom-god-wills, refs: ["13:12", "13:13"]}
+      - {motif: idol-prayer-like-hands-to-water, refs: ["13:14"], note: "like one stretching his palms toward water for it to reach his mouth"}
+      - {motif: all-in-heaven-and-earth-prostrate-with-shadows, refs: ["13:15"], note: "willingly or unwillingly, and their shadows morning and evening"}
+      - {motif: blind-and-seeing-not-equal, refs: ["13:16"], note: "nor darkness and light"}
+      - {motif: parable-of-foam-on-torrent-and-smelting, refs: ["13:17"], note: "the foam (zabad) vanishes; what profits people remains on the earth"}
+      - {motif: dross-removed-from-silver, refs: ["13:17"], note: "the smelting half of the parable: metal melted for ornaments raises a scum"}
+
+  - id: quran-13-covenant-and-paradise
+    tradition: islam
+    title: Those who keep God's covenant and the abode of Eden (Surah 13:18-29)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["13:18-29"]
+    tags:
+      - {motif: earthful-of-gold-no-ransom, refs: ["13:18"], note: "all that is on earth and as much again"}
+      - {motif: no-ransom-for-a-brother, refs: ["13:18"], note: "no ransom avails at the reckoning"}
+      - {motif: keep-covenant-and-join-ties, refs: ["13:20", "13:21", "13:25"], note: "joining what God commanded to be joined"}
+      - {motif: repel-evil-with-good, refs: ["13:22"], note: "yadraʾūna bi-l-ḥasanati l-sayyiʾa"}
+      - {motif: gardens-of-eden-reward, refs: ["13:23"], note: "jannāt ʿadn"}
+      - {motif: righteous-family-reunited-in-paradise, refs: ["13:23"], note: "the righteous among their fathers, spouses and offspring"}
+      - {motif: angels-greet-blessed-at-gates-of-paradise, refs: ["13:23", "13:24"], note: "entering from every gate: salāmun ʿalaykum bi-mā ṣabartum"}
+      - {motif: curse-on-covenant-breakers, refs: ["13:25"]}
+      - {motif: god-enlarges-and-straitens-provision, refs: ["13:26"]}
+      - {motif: hearts-rest-in-remembrance-of-god, refs: ["13:28"]}
+      - {motif: tuba-blessedness, refs: ["13:29"], note: "ṭūbā lahum; later read as a tree of paradise"}
+
+  - id: quran-13-messengers-and-mother-of-book
+    tradition: islam
+    title: Messengers, the Mother of the Book and the witness of scripture (Surah 13:30-43)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["13:30-43"]
+    tags:
+      - {motif: divine-names-rahman-rahim, refs: ["13:30"], note: "they disbelieve in al-Raḥmān"}
+      - {motif: recitation-that-moves-mountains, refs: ["13:31"], note: "a Quran by which mountains moved, the earth was cleft or the dead spoke"}
+      - {motif: respite-then-seizure-of-mockers, refs: ["13:32"]}
+      - {motif: name-your-partner-gods, refs: ["13:33"]}
+      - {motif: gardens-with-rivers-beneath, refs: ["13:35"], note: "perpetual fruit and shade"}
+      - {motif: people-of-book-rejoice-at-revelation, refs: ["13:36"]}
+      - {motif: arabic-quran, refs: ["13:37"], note: "ḥukman ʿarabiyyan"}
+      - {motif: messengers-had-wives-and-children, refs: ["13:38"]}
+      - {motif: every-term-has-a-book, refs: ["13:38"], note: "li-kulli ajalin kitāb"}
+      - {motif: god-erases-and-confirms-mother-of-book, refs: ["13:39"], note: "yamḥū ... wa-yuthbit wa-ʿindahu umm al-kitāb"}
+      - {motif: clear-and-ambiguous-verses, refs: ["13:39"], note: "umm al-kitāb also in 3:7"}
+      - {motif: messenger-only-delivers, refs: ["13:40"], note: "ʿalayka l-balāgh"}
+      - {motif: earth-diminished-at-its-edges, refs: ["13:41"]}
+      - {motif: god-best-of-plotters, refs: ["13:42"], note: "fa-li-llāhi l-makru jamīʿan"}
+      - {motif: scripture-holders-as-witnesses, refs: ["13:43"], note: "'whoever has knowledge of the Book'"}
+
+  - id: quran-14-moses-and-messengers
+    tradition: islam
+    title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah 14:1-17)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["14:1-17"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["14:1"], note: "alif lām rā"}
+      - {motif: from-darkness-to-light, refs: ["14:1", "14:5"]}
+      - {motif: messenger-speaks-language-of-his-people, refs: ["14:4"], note: "bi-lisāni qawmihi"}
+      - {motif: remember-days-of-god, refs: ["14:5"], note: "ayyām Allāh"}
+      - {motif: king-kills-male-infants, refs: ["14:6"], note: "they slaughtered your sons and spared your women"}
+      - {motif: gratitude-brings-increase, refs: ["14:7"], note: "la-in shakartum la-azīdannakum"}
+      - {motif: god-self-sufficient-if-all-disbelieve, refs: ["14:8"]}
+      - {motif: roll-of-destroyed-peoples, refs: ["14:9"], note: "and those after them whom none knows but God"}
+      - {motif: hands-in-mouths-rejection, refs: ["14:9"], note: "raddū aydiyahum fī afwāhihim"}
+      - {motif: you-are-only-humans-like-us, refs: ["14:10", "14:11"]}
+      - {motif: return-to-our-religion-or-be-expelled, refs: ["14:13"], note: "'we will expel you from our land or you return to our religion'"}
+      - {motif: meek-inherit-the-land, refs: ["14:14"], note: "la-nuskinannakumu l-arḍa min baʿdihim"}
+      - {motif: hell-drink-boiling-water-and-pus, refs: ["14:16", "14:17"], note: "māʾ ṣadīd, which he gulps and can barely swallow"}
+      - {motif: death-from-every-side-yet-no-death, refs: ["14:17"]}
+
+  - id: quran-14-parables-and-satans-speech
+    tradition: islam
+    title: Ashes in the wind, Satan disowns his followers, the good and bad tree (Surah 14:18-34)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["14:18-34"]
+    tags:
+      - {motif: deeds-like-ashes-in-wind, refs: ["14:18"]}
+      - {motif: god-could-replace-humanity, refs: ["14:19", "14:20"], note: "yaʾti bi-khalqin jadīd"}
+      - {motif: weak-and-arrogant-dispute-in-judgment, refs: ["14:21"]}
+      - {motif: satan-disowns-followers, refs: ["14:22"], note: "'I had no authority over you except that I called you; do not blame me, blame yourselves'"}
+      - {motif: paradise-prayer-and-greeting, refs: ["14:23"]}
+      - {motif: good-word-like-good-tree, refs: ["14:24", "14:25"], note: "root firm, branches in the sky, fruit in every season"}
+      - {motif: righteous-as-tree-by-water, refs: ["14:24", "14:25"]}
+      - {motif: bad-word-like-uprooted-tree, refs: ["14:26"]}
+      - {motif: god-makes-firm-with-firm-word, refs: ["14:27"], note: "in this life and the hereafter (later applied to the grave's questioning)"}
+      - {motif: no-trade-friendship-intercession-on-that-day, refs: ["14:31"]}
+      - {motif: ships-rivers-sun-moon-subjected, refs: ["14:32", "14:33"], note: "sakhkhara lakum"}
+      - {motif: blessings-of-god-uncountable, refs: ["14:34"]}
+
+  - id: quran-14-abraham-prayer
+    tradition: islam
+    title: Abraham's prayer at the sacred house (Surah 14:35-41)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["14:35-41"]
+    tags:
+      - {motif: abraham-prays-for-secure-city, refs: ["14:35"], note: "ijʿal hādhā l-balada āminan"}
+      - {motif: abraham-prays-sons-kept-from-idols, refs: ["14:35", "14:36"], note: "the idols (aṣnām) have misled many"}
+      - {motif: offspring-settled-in-barren-valley-at-sacred-house, refs: ["14:37"], note: "bi-wādin ghayri dhī zarʿin ʿinda baytika l-muḥarram"}
+      - {motif: hearts-of-people-incline-to-sanctuary, refs: ["14:37"], note: "afʾidatan mina l-nāsi tahwī ilayhim"}
+      - {motif: sons-in-old-age-ishmael-and-isaac, refs: ["14:39"], note: "wahaba lī ʿalā l-kibari Ismāʿīla wa-Isḥāq"}
+      - {motif: abraham-prays-for-father-then-disowns, refs: ["14:41"], note: "contrast 9:114, where he dissociates from his father"}
+    hints:
+      - "Compare Gen 21:14-21 (Hagar and Ishmael in the wilderness of Beersheba) and the later Islamic Zamzam tradition."
+
+  - id: quran-14-day-of-reckoning
+    tradition: islam
+    title: The day eyes stare and the earth is changed (Surah 14:42-52)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["14:42-52"]
+    tags:
+      - {motif: god-not-heedless-delays-the-wicked, refs: ["14:42"]}
+      - {motif: eyes-stare-hearts-void, refs: ["14:42", "14:43"], note: "heads raised, gaze not returning, hearts empty air"}
+      - {motif: damned-ask-for-respite, refs: ["14:44"]}
+      - {motif: dwelling-in-homes-of-destroyed, refs: ["14:45"]}
+      - {motif: scheme-to-move-mountains, refs: ["14:46"]}
+      - {motif: earth-changed-into-another-earth, refs: ["14:48"], note: "yawma tubaddalu l-arḍu ghayra l-arḍ wa-l-samāwāt"}
+      - {motif: hell-chains-collars-fetters, refs: ["14:49"]}
+      - {motif: garments-of-pitch-in-hell, refs: ["14:50"], note: "sarābīluhum min qaṭirān"}
+      - {motif: god-swift-in-reckoning, refs: ["14:51"]}
+  - id: quran-15-prologue-and-heavens
+    tradition: islam
+    title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["15:1-25"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["15:1"], note: "alif lām rā"}
+      - {motif: every-town-has-fixed-decree, refs: ["15:4", "15:5"], note: "kitābun maʿlūm; no nation outstrips its term"}
+      - {motif: prophet-not-possessed, refs: ["15:6"], note: "majnūn"}
+      - {motif: demand-for-angels-as-proof, refs: ["15:7", "15:8"]}
+      - {motif: god-guards-the-revelation, refs: ["15:9"], note: "innā naḥnu nazzalnā l-dhikra wa-innā lahu la-ḥāfiẓūn"}
+      - {motif: prophets-mocked, refs: ["15:10", "15:11"]}
+      - {motif: door-in-heaven-would-be-called-sorcery, refs: ["15:14", "15:15"], note: "ascending through a gate of heaven they would say 'our eyes are dazzled, we are bewitched'"}
+      - {motif: constellations-adorn-sky, refs: ["15:16"], note: "burūj"}
+      - {motif: spirits-eavesdrop-on-heaven-repelled-by-meteors, refs: ["15:17", "15:18"], note: "a devil who steals a hearing is pursued by a clear flame (shihāb)"}
+      - {motif: mountains-as-pegs, refs: ["15:19"]}
+      - {motif: all-things-in-due-measure, refs: ["15:19", "15:21"], note: "mawzūn; bi-qadarin maʿlūm"}
+      - {motif: divine-storehouses-of-all-things, refs: ["15:21"], note: "wa-in min shayʾin illā ʿindanā khazāʾinuhu"}
+      - {motif: fertilizing-winds, refs: ["15:22"], note: "al-riyāḥ lawāqiḥ"}
+      - {motif: god-gives-life-and-death-and-inherits, refs: ["15:23"], note: "naḥnu l-wārithūn"}
+
+  - id: quran-15-iblis
+    tradition: islam
+    title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["15:26-50"]
+    tags:
+      - {motif: human-formed-from-earth, refs: ["15:26", "15:28", "15:33"], note: "ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered black mud"}
+      - {motif: jinn-created-from-fire, refs: ["15:27"], note: "nār al-samūm, created before man"}
+      - {motif: breath-of-life-into-nostrils, refs: ["15:29"], note: "wa-nafakhtu fīhi min rūḥī"}
+      - {motif: angels-commanded-to-prostrate-to-adam, refs: ["15:28", "15:29", "15:30"], note: "all of them together (kulluhum ajmaʿūn)"}
+      - {motif: devil-refuses-to-bow-to-adam, refs: ["15:31", "15:32", "15:33"], note: "'I will not prostrate to a mortal you created from clay'"}
+      - {motif: iblis-expelled-and-cursed, refs: ["15:34", "15:35"], note: "rajīm; the curse until the Day of Judgment"}
+      - {motif: devil-granted-respite-until-resurrection, refs: ["15:36", "15:37", "15:38"], note: "until the day of the known time"}
+      - {motif: devil-vows-to-mislead-humanity, refs: ["15:39"], note: "'because you led me astray' (bi-mā aghwaytanī) I will adorn things on earth for them"}
+      - {motif: sincere-servants-exempt-from-satan, refs: ["15:40", "15:42"], note: "al-mukhlaṣīn"}
+      - {motif: hell-has-seven-gates, refs: ["15:44"], note: "each gate with an allotted portion"}
+      - {motif: gardens-and-springs, refs: ["15:45", "15:46"]}
+      - {motif: rancor-removed-from-hearts-in-paradise, refs: ["15:47"], note: "ikhwānan ʿalā sururin mutaqābilīn"}
+      - {motif: no-fatigue-no-expulsion-from-paradise, refs: ["15:48"]}
+    hints:
+      - "Compare Life of Adam and Eve (Vita 12-16) and the Cave of Treasures, where Satan refuses to worship Adam and is cast out."
+      - "15:44: seven gates or levels of hell recur in rabbinic Gehinnom traditions (b. Eruvin 19a: seven names of Gehinnom)."
+
+  - id: quran-15-abraham-guests-lot
+    tradition: islam
+    title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["15:51-77"]
+    tags:
+      - {motif: three-divine-visitors, refs: ["15:51", "15:52"], note: "ḍayf Ibrāhīm; their number is not given"}
+      - {motif: patriarch-afraid-of-guests, refs: ["15:52", "15:53"], note: "innā minkum wajilūn"}
+      - {motif: annunciation-of-son-and-name, refs: ["15:53"], note: "a knowing boy (ghulām ʿalīm), unnamed here"}
+      - {motif: patriarch-laughs-at-promise, refs: ["15:54"], note: "here astonishment at old age, not laughter"}
+      - {motif: do-not-despair-of-gods-mercy, refs: ["15:55", "15:56"], note: "who despairs (yaqnaṭ) of his Lord's mercy but the astray?"}
+      - {motif: angels-sent-against-criminal-people, refs: ["15:57", "15:58"]}
+      - {motif: family-saved, refs: ["15:59"], note: "the family of Lot (āl Lūṭ)"}
+      - {motif: lots-wife-among-those-left-behind, refs: ["15:60"], note: "qaddarnā innahā la-mina l-ghābirīn"}
+      - {motif: angels-lodge-with-lot, refs: ["15:61", "15:62"], note: "'you are unknown people'"}
+      - {motif: flee-by-night-leader-at-rear, refs: ["15:65"], note: "bi-qiṭʿin mina l-layl; Lot follows behind them"}
+      - {motif: do-not-look-back, refs: ["15:65"], note: "lā yaltafit minkum aḥad"}
+      - {motif: mob-demands-guest, refs: ["15:67"], note: "the townsmen come rejoicing (yastabshirūn)"}
+      - {motif: lot-forbidden-to-host-strangers, refs: ["15:70"], note: "'did we not forbid you (to protect) anyone (al-ʿālamīn)?'"}
+      - {motif: host-offers-daughters, refs: ["15:71"], note: "hāʾulāʾi banātī"}
+      - {motif: oath-by-the-prophets-life, refs: ["15:72"], note: "la-ʿamruka"}
+      - {motif: destroying-shout, refs: ["15:73"], note: "al-ṣayḥa at sunrise"}
+      - {motif: cities-overturned, refs: ["15:74"], note: "jaʿalnā ʿāliyahā sāfilahā"}
+      - {motif: stones-of-baked-clay, refs: ["15:74"], note: "ḥijāratan min sijjīl"}
+      - {motif: ruins-on-a-standing-road, refs: ["15:76"], note: "la-bi-sabīlin muqīm"}
+
+  - id: quran-15-ayka-hijr-and-close
+    tradition: islam
+    title: The Thicket, al-Hijr, the seven oft-repeated and the close of the surah (Surah 15:78-99)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["15:78-99"]
+    tags:
+      - {motif: people-of-the-thicket, refs: ["15:78", "15:79"], note: "aṣḥāb al-ayka (later linked to Shuʿayb)"}
+      - {motif: houses-carved-in-mountains, refs: ["15:80", "15:82"], note: "Thamud; secure in rock-cut houses"}
+      - {motif: destroying-shout, refs: ["15:83"], note: "in the morning (muṣbiḥīn)"}
+      - {motif: creation-with-truth-hour-coming, refs: ["15:85"]}
+      - {motif: seven-of-the-oft-repeated, refs: ["15:87"], note: "sabʿan mina l-mathānī wa-l-qurʾān al-ʿaẓīm (usually the Fatiha)"}
+      - {motif: lower-wing-to-believers, refs: ["15:88"], note: "ikhfiḍ janāḥaka"}
+      - {motif: those-who-split-the-scripture, refs: ["15:90", "15:91"], note: "al-muqtasimīn who made the Quran ʿiḍīn (parts)"}
+      - {motif: proclaim-openly, refs: ["15:94"], note: "fa-ṣdaʿ bi-mā tuʾmar"}
+      - {motif: worship-until-certainty-comes, refs: ["15:99"], note: "al-yaqīn, read as death"}
+
+  - id: quran-16-blessings-of-creation
+    tradition: islam
+    title: The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["16:1-23"]
+    tags:
+      - {motif: angels-descend-with-the-spirit, refs: ["16:2"], note: "bi-l-rūḥi min amrihi"}
+      - {motif: man-from-drop-becomes-disputant, refs: ["16:4"], note: "min nuṭfatin fa-idhā huwa khaṣīmun mubīn"}
+      - {motif: cattle-created-for-human-use, refs: ["16:5", "16:6", "16:7"], note: "warmth, food, beauty when driven home and out to pasture"}
+      - {motif: horses-mules-donkeys-to-ride, refs: ["16:8"], note: "and he creates what you do not know"}
+      - {motif: rain-and-crops-as-sign, refs: ["16:10", "16:11"], note: "olives, palms, grapes"}
+      - {motif: sun-moon-stars-subjected, refs: ["16:12"]}
+      - {motif: sea-gives-fresh-meat-and-ornaments, refs: ["16:14"], note: "ships cleaving it"}
+      - {motif: mountains-stabilize-earth, refs: ["16:15"], note: "an tamīda bikum"}
+      - {motif: stars-for-navigation, refs: ["16:16"]}
+      - {motif: blessings-of-god-uncountable, refs: ["16:18"]}
+      - {motif: idols-dead-not-living, refs: ["16:20", "16:21"], note: "they create nothing and are created"}
+      - {motif: idols-cannot-see-hear-eat-smell, refs: ["16:20", "16:21"]}
+      - {motif: one-god-declaration, refs: ["16:22"]}
+
+  - id: quran-16-deniers-and-angels-of-death
+    tradition: islam
+    title: Legends of the ancients, the fallen roof, the angels who take souls (Surah 16:24-50)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["16:24-50"]
+    tags:
+      - {motif: ancients-fables-accusation, refs: ["16:24"], note: "asāṭīr al-awwalīn"}
+      - {motif: misleaders-bear-burdens-of-misled, refs: ["16:25"]}
+      - {motif: building-collapses-from-foundations, refs: ["16:26"], note: "God came at their building from the foundations and the roof fell on them (exegetes: Nimrod's tower)"}
+      - {motif: where-are-my-partners, refs: ["16:27"]}
+      - {motif: angels-take-souls-at-death, refs: ["16:28", "16:32"], note: "the wrongdoers protest; the good are greeted with peace"}
+      - {motif: gates-of-hell-entered, refs: ["16:29"]}
+      - {motif: gardens-of-eden-reward, refs: ["16:31"]}
+      - {motif: fatalist-excuse-of-polytheists, refs: ["16:35"], note: "'had God willed we would not have worshipped other than him'"}
+      - {motif: every-nation-has-a-messenger, refs: ["16:36"], note: "worship God and shun al-ṭāghūt"}
+      - {motif: travel-and-see-ruins-of-destroyed, refs: ["16:36"]}
+      - {motif: oath-that-god-will-not-raise-dead, refs: ["16:38"]}
+      - {motif: kun-fa-yakun, refs: ["16:40"], note: "kun fa-yakūn"}
+      - {motif: emigrants-for-god-rewarded, refs: ["16:41", "16:42"]}
+      - {motif: messengers-are-men-from-towns, refs: ["16:43"]}
+      - {motif: ask-the-people-of-the-reminder, refs: ["16:43"], note: "fa-sʾalū ahla l-dhikr"}
+      - {motif: earth-swallows-rebels, refs: ["16:45"], note: "an yakhsifa llāhu bihimu l-arḍ"}
+      - {motif: all-in-heaven-and-earth-prostrate-with-shadows, refs: ["16:48", "16:49"], note: "shadows incline right and left in prostration"}
+      - {motif: angels-fear-their-lord-above, refs: ["16:49", "16:50"]}
+
+  - id: quran-16-daughters-and-the-bee
+    tradition: islam
+    title: Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah 16:51-70)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["16:51-70"]
+    tags:
+      - {motif: do-not-take-two-gods, refs: ["16:51"], note: "lā tattakhidhū ilāhayni thnayn"}
+      - {motif: call-on-god-in-distress-forget-after, refs: ["16:53", "16:54"]}
+      - {motif: share-of-provision-for-idols, refs: ["16:56"]}
+      - {motif: daughters-ascribed-to-god, refs: ["16:57", "16:62"]}
+      - {motif: father-ashamed-at-birth-of-daughter, refs: ["16:58", "16:59"], note: "his face darkens; shall he keep her in contempt or bury her in the dust?"}
+      - {motif: female-infanticide-condemned, refs: ["16:59"]}
+      - {motif: buried-infant-girl-questioned, refs: ["16:59"], note: "the same practice as 81:8-9 (al-mawʾūda)"}
+      - {motif: respite-by-prior-word, refs: ["16:61"], note: "otherwise no creature would be left on earth"}
+      - {motif: rain-revives-dead-earth, refs: ["16:65"]}
+      - {motif: milk-from-between-dung-and-blood, refs: ["16:66"], note: "min bayni farthin wa-damin labanan khāliṣan"}
+      - {motif: intoxicant-and-good-provision-from-dates-and-grapes, refs: ["16:67"], note: "sakar, not yet forbidden"}
+      - {motif: revelation-to-the-bee, refs: ["16:68", "16:69"], note: "awḥā rabbuka ilā l-naḥl"}
+      - {motif: honey-as-healing, refs: ["16:69"], note: "drink of many colors, fīhi shifāʾun li-l-nās"}
+      - {motif: return-to-feeblest-age, refs: ["16:70"], note: "ardhal al-ʿumur, knowing nothing after knowledge"}
+
+  - id: quran-16-parables-and-justice
+    tradition: islam
+    title: The slave and the free, the mute man, the woman who unravels her yarn (Surah 16:71-100)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["16:71-100"]
+    tags:
+      - {motif: masters-will-not-share-with-slaves, refs: ["16:71"], note: "argument against partners to God"}
+      - {motif: spouses-from-yourselves-sons-and-grandsons, refs: ["16:72"], note: "ḥafada"}
+      - {motif: created-from-single-soul-and-its-mate, refs: ["16:72"], note: "spouses from yourselves (min anfusikum)"}
+      - {motif: parable-of-slave-and-free-man, refs: ["16:75"]}
+      - {motif: parable-of-mute-man-and-just-man, refs: ["16:76"], note: "abkam, a burden on his master"}
+      - {motif: hour-like-blink-of-eye, refs: ["16:77"], note: "ka-lamḥi l-baṣari aw huwa aqrab"}
+      - {motif: born-knowing-nothing-given-senses, refs: ["16:78"]}
+      - {motif: birds-held-up-by-god, refs: ["16:79"]}
+      - {motif: tents-of-hides-and-shelters, refs: ["16:80", "16:81"], note: "light on the day of journey; garments against heat and against violence"}
+      - {motif: witness-from-every-nation, refs: ["16:84", "16:89"], note: "and the Prophet as witness over these"}
+      - {motif: idols-disown-worshippers, refs: ["16:86", "16:87"]}
+      - {motif: justice-kindness-and-giving-to-kin, refs: ["16:90"], note: "read in Friday sermons"}
+      - {motif: keep-oaths-and-covenants, refs: ["16:91", "16:94", "16:95"]}
+      - {motif: woman-who-unravels-her-yarn, refs: ["16:92"], note: "naqaḍat ghazlahā min baʿdi quwwatin ankāthan"}
+      - {motif: what-is-with-god-endures, refs: ["16:96"]}
+      - {motif: reward-for-male-or-female, refs: ["16:97"]}
+      - {motif: seek-refuge-from-satan-before-reciting, refs: ["16:98"]}
+      - {motif: sincere-servants-exempt-from-satan, refs: ["16:99", "16:100"]}
+    hints:
+      - "16:92: Penelope unravelling her web (Odyssey 2) is the familiar image, though the Quranic woman undoes her work as a figure of broken oaths."
+
+  - id: quran-16-abrogation-food-abraham-sabbath
+    tradition: islam
+    title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath (Surah 16:101-128)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["16:101-128"]
+    tags:
+      - {motif: abrogation-of-verses, refs: ["16:101"], note: "idhā baddalnā āyatan makāna āyatin"}
+      - {motif: holy-spirit-brings-revelation, refs: ["16:102"], note: "rūḥ al-qudus"}
+      - {motif: accusation-of-foreign-teacher, refs: ["16:103"], note: "his tongue is ʿajamī, this is clear Arabic"}
+      - {motif: scripture-dismissed-as-sorcery-or-human-word, refs: ["16:103"], note: "only a mortal (bashar) teaches him"}
+      - {motif: coerced-disbelief-excused, refs: ["16:106"], note: "illā man ukriha wa-qalbuhu muṭmaʾinnun bi-l-īmān"}
+      - {motif: hearts-sealed, refs: ["16:108"]}
+      - {motif: secure-town-given-garment-of-hunger-and-fear, refs: ["16:112", "16:113"], note: "libās al-jūʿ wa-l-khawf"}
+      - {motif: four-food-prohibitions, refs: ["16:115"], note: "carrion, blood, swine, what is hallowed to other than God"}
+      - {motif: food-offered-to-other-than-god, refs: ["16:115"]}
+      - {motif: prohibition-of-eating-blood, refs: ["16:115"]}
+      - {motif: pork-forbidden, refs: ["16:115"]}
+      - {motif: necessity-permits-forbidden-food, refs: ["16:115"]}
+      - {motif: self-made-food-prohibitions-condemned, refs: ["16:116"]}
+      - {motif: foods-forbidden-to-jews-as-punishment, refs: ["16:118"], note: "refers back to 6:146"}
+      - {motif: abraham-hanif-not-jew-or-christian, refs: ["16:120", "16:123"], note: "kāna ummatan qānitan"}
+      - {motif: follow-religion-of-abraham, refs: ["16:123"]}
+      - {motif: sabbath-imposed-on-those-who-differed, refs: ["16:124"]}
+      - {motif: argue-in-the-best-way, refs: ["16:125"]}
+      - {motif: retaliation-in-kind-but-patience-better, refs: ["16:126"], note: "cf. lex talionis"}
+  - id: quran-17-night-journey-and-israel
+    tradition: islam
+    title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:1-8"]
+    tags:
+      - {motif: night-journey-to-farthest-mosque, refs: ["17:1"], note: "asrā bi-ʿabdihi laylan mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā, whose surroundings are blessed"}
+      - {motif: prophet-shown-signs-in-vision-journey, refs: ["17:1"], note: "li-nuriyahu min āyātinā"}
+      - {motif: torah-given-to-moses-as-guidance, refs: ["17:2"]}
+      - {motif: descendants-of-those-carried-with-noah, refs: ["17:3"], note: "Noah 'a grateful servant'"}
+      - {motif: israel-corrupts-twice-on-earth, refs: ["17:4"], note: "decreed for them in the Book"}
+      - {motif: god-sends-foreign-army-as-punishment, refs: ["17:5"], note: "ʿibādan lanā ulī baʾsin shadīd, who ranged through the homes"}
+      - {motif: restoration-after-first-punishment, refs: ["17:6"]}
+      - {motif: temple-entered-and-destroyed-twice, refs: ["17:7"], note: "to enter the masjid as they entered it the first time and destroy all they overran"}
+      - {motif: temple-destroyed-by-enemies, refs: ["17:7"]}
+      - {motif: if-you-return-we-return, refs: ["17:8"], note: "wa-in ʿudtum ʿudnā"}
+    hints:
+      - "17:4-7 reads naturally against the Babylonian (586 BCE) and Roman (70 CE) destructions of the Jerusalem temple; compare 2 Kgs 25 and the rabbinic two-destructions schema (b. Yoma 9b)."
+      - "17:1: later tradition joins the isrāʾ to the miʿrāj ascent; compare Enoch's and Paul's heavenly journeys (1 En 14; 2 Cor 12:2-4) and the Persian Ardā Wirāz Nāmag."
+
+  - id: quran-17-book-of-deeds
+    tradition: islam
+    title: The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:9-21"]
+    tags:
+      - {motif: man-prays-for-evil-as-for-good, refs: ["17:11"], note: "wa-kāna l-insānu ʿajūlā"}
+      - {motif: night-and-day-as-two-signs, refs: ["17:12"], note: "the sign of night effaced, the sign of day made sighted, for counting years"}
+      - {motif: luminaries-rule-day-night, refs: ["17:12"], note: "for counting years and reckoning"}
+      - {motif: fate-bird-fastened-on-neck, refs: ["17:13"], note: "alzamnāhu ṭāʾirahu fī ʿunuqihi: the omen-bird as one's destiny"}
+      - {motif: book-of-deeds-spread-open, refs: ["17:13", "17:14"], note: "kitāban yalqāhu manshūran: 'read your book; you suffice as your own reckoner'"}
+      - {motif: court-sits-books-opened, refs: ["17:13"]}
+      - {motif: individual-responsibility-for-sin, refs: ["17:15"], note: "lā taziru wāziratun wizra ukhrā"}
+      - {motif: no-punishment-without-messenger, refs: ["17:15"]}
+      - {motif: affluent-commanded-then-town-destroyed, refs: ["17:16"], note: "amarnā mutrafīhā fa-fasaqū"}
+      - {motif: generations-destroyed-after-noah, refs: ["17:17"]}
+      - {motif: seekers-of-this-world-versus-hereafter, refs: ["17:18", "17:19", "17:20"]}
+      - {motif: degrees-in-the-hereafter, refs: ["17:21"]}
+
+  - id: quran-17-commandments
+    tradition: islam
+    title: The code of commandments (Surah 17:22-39)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:22-39"]
+    tags:
+      - {motif: decalogue-like-code-in-quran, refs: ["17:22", "17:39"], note: "framed by 'set up no other god with God' at both ends"}
+      - {motif: ten-commandments, refs: ["17:23", "17:31", "17:32", "17:33"], note: "parallel content, not a list of ten"}
+      - {motif: prohibition-of-other-gods, refs: ["17:22", "17:23", "17:39"]}
+      - {motif: honor-parents-long-life, refs: ["17:23", "17:24"], note: "honor without the promise of long life"}
+      - {motif: do-not-say-uff-to-aged-parents, refs: ["17:23"], note: "lā taqul lahumā uffin"}
+      - {motif: lower-wing-of-humility-to-parents, refs: ["17:24"], note: "'my Lord, have mercy on them as they raised me when small'"}
+      - {motif: give-kin-poor-and-wayfarer-their-due, refs: ["17:26"], note: "ibn al-sabīl"}
+      - {motif: squanderers-brothers-of-devils, refs: ["17:26", "17:27"]}
+      - {motif: hand-neither-chained-to-neck-nor-fully-open, refs: ["17:29"]}
+      - {motif: open-hand-to-poor, refs: ["17:29"], note: "the Quran sets a middle way"}
+      - {motif: do-not-kill-children-for-fear-of-poverty, refs: ["17:31"], note: "'we provide for them and for you'"}
+      - {motif: adultery-prohibited, refs: ["17:32"], note: "do not even approach zinā"}
+      - {motif: killing-forbidden-except-by-right, refs: ["17:33"]}
+      - {motif: blood-avenger, refs: ["17:33"], note: "the heir (walī) of one killed wrongfully is given authority but must not exceed in killing"}
+      - {motif: orphans-property-protected, refs: ["17:34"], note: "until he reaches maturity"}
+      - {motif: just-weights-and-measures, refs: ["17:35"], note: "al-qisṭās al-mustaqīm"}
+      - {motif: do-not-follow-what-you-do-not-know, refs: ["17:36"], note: "hearing, sight and heart will be questioned"}
+      - {motif: do-not-walk-proudly-on-earth, refs: ["17:37"], note: "'you will not split the earth nor reach the mountains in height'"}
+
+  - id: quran-17-polemic-and-resurrection
+    tradition: islam
+    title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:40-60"]
+    tags:
+      - {motif: angels-as-daughters-of-god-rejected, refs: ["17:40"]}
+      - {motif: other-gods-would-seek-way-to-throne, refs: ["17:42"], note: "if there were gods with him they would seek a way to the Lord of the Throne"}
+      - {motif: seven-heavens, refs: ["17:44"]}
+      - {motif: all-creation-glorifies-god, refs: ["17:44"], note: "there is nothing but glorifies his praise, though you do not understand their glorification"}
+      - {motif: everything-that-breathes-praise, refs: ["17:44"]}
+      - {motif: veil-between-prophet-and-unbelievers, refs: ["17:45", "17:46"], note: "ḥijāban mastūran; coverings on hearts, heaviness in ears"}
+      - {motif: prophet-called-bewitched, refs: ["17:47"], note: "rajulan masḥūran"}
+      - {motif: prophet-accused-of-sorcery, refs: ["17:47"]}
+      - {motif: resurrection-from-bones-and-dust-doubted, refs: ["17:49", "17:51"], note: "ʿiẓāman wa-rufātan"}
+      - {motif: be-stone-or-iron-you-will-be-raised, refs: ["17:50", "17:51"]}
+      - {motif: dead-think-they-tarried-briefly, refs: ["17:52"]}
+      - {motif: satan-sows-discord, refs: ["17:53"], note: "yanzaghu baynahum"}
+      - {motif: prophets-ranked-some-above-others, refs: ["17:55"]}
+      - {motif: david-given-the-psalms, refs: ["17:55"], note: "wa-ātaynā Dāwūda zabūran"}
+      - {motif: intercessors-themselves-seek-means-to-god, refs: ["17:57"], note: "al-wasīla"}
+      - {motif: every-town-destroyed-before-resurrection, refs: ["17:58"], note: "inscribed in the Book (masṭūr)"}
+      - {motif: she-camel-of-god-hamstrung, refs: ["17:59"], note: "a visible sign (mubṣira) they wronged"}
+      - {motif: vision-as-trial-and-cursed-tree, refs: ["17:60"], note: "al-ruʾyā and al-shajara al-malʿūna (Zaqqum)"}
+
+  - id: quran-17-iblis-and-adam
+    tradition: islam
+    title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:61-72"]
+    tags:
+      - {motif: angels-commanded-to-prostrate-to-adam, refs: ["17:61"]}
+      - {motif: devil-refuses-to-bow-to-adam, refs: ["17:61", "17:62"], note: "'shall I prostrate to one you created of clay (ṭīn)?'"}
+      - {motif: fire-superior-to-clay-argument, refs: ["17:61", "17:62"], note: "implicit: one you created of clay, this one you honored above me"}
+      - {motif: human-formed-from-earth, refs: ["17:61"]}
+      - {motif: devil-granted-respite-until-resurrection, refs: ["17:62"]}
+      - {motif: devil-vows-to-mislead-humanity, refs: ["17:62"], note: "la-aḥtanikanna dhurriyyatahu: 'I will bridle (or uproot) his offspring'"}
+      - {motif: iblis-incites-with-voice-cavalry-infantry, refs: ["17:64"], note: "bi-ṣawtika ... bi-khaylika wa-rajilika; partner in their wealth and children"}
+      - {motif: sincere-servants-exempt-from-satan, refs: ["17:65"]}
+      - {motif: call-on-god-in-distress-forget-after, refs: ["17:67"], note: "harm at sea"}
+      - {motif: earth-swallows-rebels, refs: ["17:68"], note: "yakhsifa bikum jāniba l-barr"}
+      - {motif: storm-of-stones-or-wind-at-sea, refs: ["17:68", "17:69"], note: "ḥāṣib and qāṣif"}
+      - {motif: children-of-adam-honored, refs: ["17:70"], note: "karramnā banī Ādam"}
+      - {motif: each-people-called-with-its-leader, refs: ["17:71"], note: "bi-imāmihim"}
+      - {motif: book-of-deeds-in-right-hand-or-behind-back, refs: ["17:71"]}
+      - {motif: blind-here-blind-hereafter, refs: ["17:72"]}
+
+  - id: quran-17-prayer-spirit-and-challenge
+    tradition: islam
+    title: Near compromise, prayer times, the praised station, the spirit, the challenge and the demanded signs (Surah 17:73-100)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:73-100"]
+    tags:
+      - {motif: prophet-nearly-compromises, refs: ["17:73", "17:74", "17:75"]}
+      - {motif: plot-to-imprison-kill-or-expel-prophet, refs: ["17:76", "17:77"]}
+      - {motif: prayer-times-in-quran, refs: ["17:78"], note: "from the decline of the sun to the dark of night, and the dawn recitation (qurʾān al-fajr), which is witnessed"}
+      - {motif: prayer-three-times-daily, refs: ["17:78"], note: "three anchoring times: noon decline, nightfall, dawn"}
+      - {motif: night-vigil-prayer, refs: ["17:79"], note: "tahajjud as supererogatory (nāfila)"}
+      - {motif: praised-station-of-the-prophet, refs: ["17:79"], note: "maqāman maḥmūdan, later read as intercession"}
+      - {motif: prayer-for-true-entrance-and-exit, refs: ["17:80"]}
+      - {motif: truth-smashes-falsehood, refs: ["17:81"], note: "jāʾa l-ḥaqqu wa-zahaqa l-bāṭil"}
+      - {motif: scripture-as-healing, refs: ["17:82"], note: "shifāʾ"}
+      - {motif: spirit-is-of-gods-command, refs: ["17:85"], note: "al-rūḥu min amri rabbī; you have been given but little knowledge"}
+      - {motif: challenge-to-produce-a-surah, refs: ["17:88"], note: "even with men and jinn helping one another"}
+      - {motif: demand-for-spring-and-garden, refs: ["17:90", "17:91"]}
+      - {motif: demand-sky-fall-in-pieces, refs: ["17:92"], note: "or bring God and the angels face to face"}
+      - {motif: demand-house-of-gold, refs: ["17:93"], note: "bayt min zukhruf"}
+      - {motif: demand-ascent-and-book-brought-down, refs: ["17:93"], note: "'we will not believe your ascent until you bring down a book we can read'"}
+      - {motif: who-ascended-to-heaven-and-came-down, refs: ["17:93"]}
+      - {motif: messenger-only-human, refs: ["17:93", "17:94"], note: "hal kuntu illā basharan rasūlā"}
+      - {motif: angel-messenger-only-for-angels, refs: ["17:95"]}
+      - {motif: damned-gathered-on-faces-blind-dumb-deaf, refs: ["17:97"]}
+      - {motif: fire-increased-when-it-abates, refs: ["17:97"], note: "kullamā khabat zidnāhum saʿīrā"}
+      - {motif: resurrection-from-bones-and-dust-doubted, refs: ["17:98"]}
+      - {motif: creator-can-create-their-like, refs: ["17:99"]}
+      - {motif: humans-stingy-even-with-gods-treasuries, refs: ["17:100"]}
+
+  - id: quran-17-moses-nine-signs-and-close
+    tradition: islam
+    title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["17:101-111"]
+    tags:
+      - {motif: nine-signs-of-moses, refs: ["17:101"], note: "tisʿa āyātin bayyināt"}
+      - {motif: prophet-accused-of-sorcery, refs: ["17:101"], note: "'I think you are bewitched (masḥūr)'"}
+      - {motif: prophet-predicts-kings-doom, refs: ["17:102"], note: "'I think you are doomed (mathbūr), Pharaoh'"}
+      - {motif: pursuers-drowned-in-sea, refs: ["17:103"]}
+      - {motif: israel-dwells-in-land-gathered-at-end, refs: ["17:104"], note: "uskunū l-arḍa ... jiʾnā bikum lafīfan"}
+      - {motif: quran-revealed-in-portions, refs: ["17:106"], note: "qurʾānan faraqnāhu ... ʿalā mukth"}
+      - {motif: scholars-of-earlier-scripture-prostrate-weeping, refs: ["17:107", "17:108", "17:109"], note: "fall on their chins (adhqān)"}
+      - {motif: prostration-at-recitation, refs: ["17:107", "17:109"]}
+      - {motif: weeping-at-hearing-the-law, refs: ["17:109"]}
+      - {motif: call-him-allah-or-al-rahman, refs: ["17:110"], note: "his are the most beautiful names (al-asmāʾ al-ḥusnā)"}
+      - {motif: prayer-voice-neither-loud-nor-silent, refs: ["17:110"]}
+      - {motif: god-has-no-son, refs: ["17:111"], note: "nor any protector out of weakness"}
+    hints:
+      - "17:101: nine signs vs ten plagues; compare the variant plague counts of Ps 78 and 105 (variant-plague-list)."
+
+  - id: quran-18-prologue
+    tradition: islam
+    title: Prologue to the surah of the Cave (Surah 18:1-8)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:1-8"]
+    tags:
+      - {motif: book-without-crookedness, refs: ["18:1", "18:2"], note: "lam yajʿal lahu ʿiwajā, qayyiman"}
+      - {motif: god-has-no-son, refs: ["18:4", "18:5"], note: "a monstrous word from their mouths"}
+      - {motif: prophet-grieves-over-unbelievers, refs: ["18:6"], note: "bākhiʿun nafsaka"}
+      - {motif: earth-adornment-as-test, refs: ["18:7"]}
+      - {motif: earth-made-barren-dust, refs: ["18:8"], note: "ṣaʿīdan juruzā"}
+
+  - id: quran-18-companions-of-the-cave
+    tradition: islam
+    title: The Companions of the Cave and al-Raqim (Surah 18:9-31)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:9-31"]
+    tags:
+      - {motif: cave-and-the-inscription, refs: ["18:9"], note: "aṣḥāb al-kahf wa-l-raqīm"}
+      - {motif: youths-flee-idolatrous-people-to-cave, refs: ["18:10", "18:14", "18:15", "18:16"], note: "fitya; 'our Lord is Lord of heavens and earth'"}
+      - {motif: sleepers-ears-sealed-for-years, refs: ["18:11"], note: "ḍarabnā ʿalā ādhānihim"}
+      - {motif: two-parties-dispute-duration, refs: ["18:12"]}
+      - {motif: sun-turns-aside-from-cave, refs: ["18:17"], note: "inclining right at its rising, passing left at its setting"}
+      - {motif: sleepers-seem-awake-turned-side-to-side, refs: ["18:18"]}
+      - {motif: dog-at-cave-threshold, refs: ["18:18", "18:22"], note: "stretching its forelegs at the threshold (al-waṣīd)"}
+      - {motif: sight-of-sleepers-strikes-terror, refs: ["18:18"]}
+      - {motif: sleepers-think-they-slept-a-day, refs: ["18:19"], note: "'a day or part of a day'"}
+      - {motif: dead-think-they-tarried-briefly, refs: ["18:19"], note: "the same formula yawman aw baʿḍa yawm as 2:259 and 23:113"}
+      - {motif: sleeper-sent-to-town-with-old-coin, refs: ["18:19"], note: "bi-wariqikum: silver coin; buy the purest food and be discreet"}
+      - {motif: fear-of-stoning-or-forced-reconversion, refs: ["18:20"]}
+      - {motif: sleepers-discovered-as-sign-of-resurrection, refs: ["18:21"], note: "so that they would know God's promise is true"}
+      - {motif: shrine-built-over-sleepers, refs: ["18:21"], note: "'we will surely build a place of worship (masjid) over them'"}
+      - {motif: number-of-sleepers-disputed, refs: ["18:22"], note: "three, the fourth their dog; five, the sixth their dog; seven, the eighth their dog"}
+      - {motif: say-if-god-wills, refs: ["18:23", "18:24"], note: "do not say 'I will do it tomorrow' without in shāʾa llāh"}
+      - {motif: sleep-of-309-years, refs: ["18:25"], note: "three hundred years and nine more (often reconciled as solar vs lunar years)"}
+      - {motif: no-changer-of-gods-words, refs: ["18:27"]}
+      - {motif: stay-with-those-who-call-morning-and-evening, refs: ["18:28"]}
+      - {motif: hell-pavilion-and-molten-drink, refs: ["18:29"], note: "surādiq; water like molten metal (muhl) that scalds faces"}
+      - {motif: paradise-gold-bracelets-green-silk-couches, refs: ["18:31"], note: "sundus and istabraq; arāʾik"}
+    hints:
+      - "The Seven Sleepers of Ephesus (Jacob of Serugh's homily; Gregory of Tours; Syriac versions): youths under Decius sleep in a cave until Theodosius II, wake, send one with an old coin, and a church is built over them."
+      - "Compare Honi the circle-drawer's seventy-year sleep (b. Taanit 23a), Abimelech's sleep in 4 Baruch 5, and Epimenides."
+
+  - id: quran-18-two-gardens
+    tradition: islam
+    title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:32-49"]
+    tags:
+      - {motif: parable-of-proud-garden-owner, refs: ["18:32", "18:33", "18:34", "18:35", "18:36"], note: "two vineyards ringed with palms, a river between"}
+      - {motif: rich-man-boasts-wealth-and-followers, refs: ["18:34"], note: "'I have more wealth and a mightier band'"}
+      - {motif: rich-man-thinks-wealth-eternal, refs: ["18:35", "18:36"], note: "'I do not think this will ever perish, nor that the Hour will come'"}
+      - {motif: embryo-stages-drop-clot-form, refs: ["18:37"]}
+      - {motif: say-what-god-wills, refs: ["18:39"], note: "mā shāʾa llāh, lā quwwata illā bi-llāh"}
+      - {motif: garden-destroyed-overnight, refs: ["18:40", "18:41", "18:42"], note: "fallen in on its trellises; he wrings his hands"}
+      - {motif: regret-of-polytheist, refs: ["18:42"], note: "'would that I had associated no one with my Lord'"}
+      - {motif: worldly-life-like-rain-fed-crop, refs: ["18:45"], note: "hashīman tadhrūhu l-riyāḥ"}
+      - {motif: wicked-wither-like-grass, refs: ["18:45"]}
+      - {motif: wealth-and-sons-adornment-good-deeds-endure, refs: ["18:46"], note: "al-bāqiyāt al-ṣāliḥāt"}
+      - {motif: mountains-crumble-or-move-at-end, refs: ["18:47"]}
+      - {motif: earth-laid-bare-all-gathered, refs: ["18:47"]}
+      - {motif: arrayed-in-rows-before-god, refs: ["18:48"], note: "'you have come to us as we created you the first time'"}
+      - {motif: book-of-deeds-spread-open, refs: ["18:49"], note: "leaves nothing small or great unrecorded"}
+    hints:
+      - "Compare Luke 12:16-21 (the rich fool) and Isa 40:6-8 (all flesh is grass)."
+
+  - id: quran-18-iblis-and-judgment
+    tradition: islam
+    title: Iblis was of the jinn; the partners do not answer (Surah 18:50-59)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:50-59"]
+    tags:
+      - {motif: angels-commanded-to-prostrate-to-adam, refs: ["18:50"]}
+      - {motif: devil-refuses-to-bow-to-adam, refs: ["18:50"]}
+      - {motif: iblis-was-of-the-jinn, refs: ["18:50"], note: "kāna mina l-jinni fa-fasaqa"}
+      - {motif: iblis-has-offspring, refs: ["18:50"], note: "dhurriyyatahu"}
+      - {motif: none-witnessed-creation, refs: ["18:51"], note: "I did not make them witness the creation of the heavens and earth, nor of themselves"}
+      - {motif: none-counseled-god, refs: ["18:51"], note: "nor do I take the misleaders as helpers (ʿaḍud)"}
+      - {motif: partners-do-not-answer-gulf-between, refs: ["18:52"], note: "mawbiq, a place of perdition between them"}
+      - {motif: man-most-contentious, refs: ["18:54"]}
+      - {motif: messengers-as-bearers-of-good-news-and-warners, refs: ["18:56"]}
+      - {motif: hearts-sealed, refs: ["18:57"], note: "akinna on hearts, waqr in ears"}
+      - {motif: respite-by-prior-word, refs: ["18:58", "18:59"]}
+    hints:
+      - "18:51 echoes God's challenge in Job 38:4: 'Where were you when I laid the foundations of the earth?'"
+
+  - id: quran-18-moses-and-the-servant
+    tradition: islam
+    title: Moses and the servant of God at the meeting of the two seas (Surah 18:60-82)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:60-82"]
+    tags:
+      - {motif: journey-to-meeting-of-two-seas, refs: ["18:60", "18:61"], note: "majmaʿ al-baḥrayn, even if it takes ages (ḥuquban)"}
+      - {motif: moses-with-young-servant, refs: ["18:60", "18:62"], note: "fatāhu, unnamed (exegesis: Joshua son of Nun)"}
+      - {motif: fish-revives-and-escapes-to-sea, refs: ["18:61", "18:63"], note: "it took its way into the sea, a tunnel (saraban), a wonder"}
+      - {motif: forgetting-blamed-on-satan, refs: ["18:63"]}
+      - {motif: rock-at-the-meeting-place, refs: ["18:63"]}
+      - {motif: retrace-steps-to-find-sage, refs: ["18:64"]}
+      - {motif: servant-with-knowledge-from-god, refs: ["18:65"], note: "ʿabdan min ʿibādinā ... ʿallamnāhu min ladunnā ʿilmā (named al-Khiḍr in hadith)"}
+      - {motif: disciple-forbidden-to-question-master, refs: ["18:66", "18:67", "18:68", "18:69", "18:70"], note: "'you will not be able to bear with me patiently'"}
+      - {motif: sage-scuttles-boat, refs: ["18:71"]}
+      - {motif: sage-kills-boy, refs: ["18:74"], note: "nafsan zakiyyatan bi-ghayri nafs"}
+      - {motif: inhospitable-town-refuses-food, refs: ["18:77"], note: "they refused to host them"}
+      - {motif: sage-rebuilds-falling-wall, refs: ["18:77"], note: "a wall about to collapse; 'you could have taken a wage'"}
+      - {motif: three-strikes-then-parting, refs: ["18:72", "18:75", "18:76", "18:78"]}
+      - {motif: hidden-reasons-for-sages-deeds-revealed, refs: ["18:78", "18:79", "18:80", "18:81", "18:82"], note: "taʾwīl mā lam tasṭiʿ ʿalayhi ṣabrā"}
+      - {motif: tyrant-king-seizes-every-ship, refs: ["18:79"], note: "the damaged boat of poor seafarers escapes confiscation"}
+      - {motif: child-killed-to-spare-believing-parents, refs: ["18:80", "18:81"], note: "God would give them one purer and more merciful instead"}
+      - {motif: orphans-treasure-under-wall, refs: ["18:82"], note: "their father was righteous; 'I did not do it of my own accord'"}
+      - {motif: merit-of-righteous-father-protects-children, refs: ["18:82"]}
+    hints:
+      - "The tale of Elijah and Rabbi Joshua ben Levi (Nissim of Kairouan, Ḥibbur Yafeh) has the same structure of three shocking acts explained at the end; the Alexander Romance and Gilgamesh XI supply the fish revived by the water of life and the journey to the mouth of the rivers."
+
+  - id: quran-18-dhul-qarnayn
+    tradition: islam
+    title: Dhul-Qarnayn, the setting and rising sun, and the barrier against Gog and Magog (Surah 18:83-101)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:83-101"]
+    tags:
+      - {motif: two-horned-one-world-conqueror, refs: ["18:83", "18:84"], note: "Dhū l-Qarnayn, given 'a way to everything' (sabab)"}
+      - {motif: sun-sets-in-muddy-spring, refs: ["18:86"], note: "taghrubu fī ʿaynin ḥamiʾa (variant ḥāmiya, 'hot')"}
+      - {motif: conqueror-chooses-punish-or-treat-kindly, refs: ["18:86", "18:87", "18:88"]}
+      - {motif: people-at-sunrise-without-shelter, refs: ["18:90"], note: "lam najʿal lahum min dūnihā sitran"}
+      - {motif: people-between-two-barriers-barely-understand-speech, refs: ["18:93"]}
+      - {motif: gog-and-magog-spread-corruption, refs: ["18:94"], note: "Yaʾjūj wa-Maʾjūj"}
+      - {motif: gog-magog-released-at-end, refs: ["18:98", "18:99"], note: "the barrier is leveled at the promised time"}
+      - {motif: gog-of-magog-chief-prince, refs: ["18:94"]}
+      - {motif: tribute-offered-for-barrier, refs: ["18:94", "18:95"], note: "he refuses payment, asking only labor"}
+      - {motif: iron-and-copper-wall-against-gog, refs: ["18:95", "18:96", "18:97"], note: "blocks of iron between the two cliffs (ṣadafayn), bellows, molten copper (qiṭr) poured; they can neither climb nor pierce it"}
+      - {motif: barrier-leveled-at-appointed-time, refs: ["18:98"], note: "jaʿalahu dakkāʾ"}
+      - {motif: peoples-surge-like-waves, refs: ["18:99"], note: "yamūju baʿḍuhum fī baʿḍ"}
+      - {motif: trumpet-blown-at-resurrection, refs: ["18:99"], note: "nufikha fī l-ṣūr"}
+      - {motif: hell-brought-into-view, refs: ["18:100"]}
+    hints:
+      - "Syriac Alexander Legend (Neṣḥānā, c. 630) and the Alexander Romance: Alexander, two-horned on coins as son of Ammon, reaches the fetid sea where the sun sets and builds an iron-and-brass gate against Gog and Magog; compare Ezek 38-39 and Josephus, War 7.245."
+
+  - id: quran-18-close
+    tradition: islam
+    title: Those whose works are weightless; the sea as ink (Surah 18:102-110)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["18:102-110"]
+    tags:
+      - {motif: hell-as-hospitality-for-unbelievers, refs: ["18:102"], note: "nuzulan, ironic"}
+      - {motif: greatest-losers-think-they-do-good, refs: ["18:103", "18:104"]}
+      - {motif: works-weightless-on-judgment-day, refs: ["18:105"], note: "falā nuqīmu lahum yawma l-qiyāmati waznā"}
+      - {motif: scales-on-judgment-day, refs: ["18:105"]}
+      - {motif: gardens-of-firdaws, refs: ["18:107"], note: "jannāt al-firdaws"}
+      - {motif: sea-as-ink-for-gods-words, refs: ["18:109"], note: "the sea would run out before the words of my Lord, even with another like it"}
+      - {motif: messenger-only-human, refs: ["18:110"], note: "innamā ana basharun mithlukum"}
+      - {motif: one-god-declaration, refs: ["18:110"]}
+    hints:
+      - "18:109: compare John 21:25 and the rabbinic topos 'if all the seas were ink' (b. Shabbat 11a; Song Rabbah 1)."
+  - id: quran-19-zechariah-and-john
+    tradition: islam
+    title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["19:1-15"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["19:1"], note: "kāf hā yā ʿayn ṣād, the longest sequence"}
+      - {motif: prayer-in-a-hidden-voice, refs: ["19:3"], note: "nidāʾan khafiyyan"}
+      - {motif: bones-weak-head-aflame-with-gray, refs: ["19:4"], note: "wahana l-ʿaẓmu minnī wa-shtaʿala l-raʾsu shayban"}
+      - {motif: priest-fears-for-succession, refs: ["19:5", "19:6"], note: "fear of the kinsmen (mawālī) after him; an heir to inherit from the family of Jacob"}
+      - {motif: barren-matriarch, refs: ["19:5", "19:8"], note: "Zechariah's wife is ʿāqir"}
+      - {motif: husband-prays-for-barren-wife, refs: ["19:5", "19:6"]}
+      - {motif: zechariah-prays-for-offspring, refs: ["19:5", "19:6"], note: "here without the Mary setting of 3:37-38"}
+      - {motif: annunciation-of-son-and-name, refs: ["19:7"], note: "a boy named Yaḥyā"}
+      - {motif: name-never-given-before, refs: ["19:7"], note: "lam najʿal lahu min qablu samiyyan; compare Luke 1:61 'none of your kindred is called by this name'"}
+      - {motif: father-doubts-annunciation-due-to-age, refs: ["19:8"], note: "'I have reached extreme old age' (ʿitiyyan)"}
+      - {motif: easy-for-god-who-created-from-nothing, refs: ["19:9", "19:21"], note: "huwa ʿalayya hayyin"}
+      - {motif: muteness-as-sign-of-conception, refs: ["19:10", "19:11"], note: "three nights without speaking to people, though sound (sawiyyan)"}
+      - {motif: prophet-struck-dumb, refs: ["19:10"]}
+      - {motif: priest-emerges-from-sanctuary-and-signs, refs: ["19:11"], note: "he came out of the miḥrāb and signaled (awḥā) to them to glorify morning and evening"}
+      - {motif: child-given-wisdom-as-boy, refs: ["19:12"], note: "'take the Book with strength'; al-ḥukm ṣabiyyan"}
+      - {motif: dutiful-to-parents-not-tyrant, refs: ["19:14", "19:32"]}
+      - {motif: peace-on-day-of-birth-death-and-resurrection, refs: ["19:15", "19:33"], note: "said of John in third person, by Jesus of himself in first person"}
+    hints:
+      - "Luke 1:5-25, 57-80. Hannah's silent prayer (1 Sam 1:13) is the HB parallel to 19:3."
+
+  - id: quran-19-mary-and-jesus
+    tradition: islam
+    title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["19:16-40"]
+    tags:
+      - {motif: wa-dhkur-fi-l-kitab-refrain, refs: ["19:16"]}
+      - {motif: mary-withdraws-to-eastern-place, refs: ["19:16", "19:17"], note: "intabadhat ... makānan sharqiyyan, behind a screen (ḥijāb)"}
+      - {motif: divine-spirit-appears-as-perfect-man, refs: ["19:17"], note: "rūḥanā fa-tamaththala lahā basharan sawiyyan"}
+      - {motif: spirit-breathed-into-mary, refs: ["19:17"], note: "here the spirit is sent as a messenger, not breathed"}
+      - {motif: woman-seeks-refuge-from-visitor, refs: ["19:18"], note: "'I seek refuge in al-Raḥmān from you'"}
+      - {motif: annunciation-to-virgin, refs: ["19:19", "19:20", "19:21"], note: "'no man has touched me, nor was I unchaste'"}
+      - {motif: virgin-asks-how-untouched, refs: ["19:20"]}
+      - {motif: easy-for-god-who-created-from-nothing, refs: ["19:21"]}
+      - {motif: birth-in-solitude, refs: ["19:22"], note: "a far place (qaṣiyyan)"}
+      - {motif: labor-pains-drive-mother-to-palm-trunk, refs: ["19:23"], note: "fa-ajāʾahā l-makhāḍu ilā jidhʿi l-nakhla"}
+      - {motif: mother-wishes-she-had-died-and-been-forgotten, refs: ["19:23"], note: "nasyan mansiyyan"}
+      - {motif: voice-from-beneath-consoles-mother, refs: ["19:24"], note: "the speaker 'from beneath her' is the angel or the newborn"}
+      - {motif: miraculous-spring, refs: ["19:24"], note: "sariyyan, a rivulet beneath her"}
+      - {motif: palm-tree-provides, refs: ["19:25"], note: "shake the trunk: fresh ripe dates fall"}
+      - {motif: vow-of-silence, refs: ["19:26"], note: "a fast (ṣawm) vowed to al-Raḥmān: she will speak to no human today"}
+      - {motif: mother-accused-of-unchastity, refs: ["19:27", "19:28"], note: "'you have brought something monstrous (fariyyan)'"}
+      - {motif: mary-called-sister-of-aaron, refs: ["19:28"], note: "yā ukhta Hārūn; her father not evil, her mother not unchaste"}
+      - {motif: infant-speaks, refs: ["19:29", "19:30", "19:31", "19:32", "19:33"], note: "from the cradle (al-mahd)"}
+      - {motif: jesus-speaks-in-cradle-and-maturity, refs: ["19:29"], note: "fī l-mahdi ṣabiyyan"}
+      - {motif: jesus-servant-of-god-given-book-made-prophet, refs: ["19:30"], note: "innī ʿabdu llāhi ātāniya l-kitāba wa-jaʿalanī nabiyyā"}
+      - {motif: dutiful-to-parents-not-tyrant, refs: ["19:32"], note: "dutiful to his mother only"}
+      - {motif: peace-on-day-of-birth-death-and-resurrection, refs: ["19:33"]}
+      - {motif: jesus-son-of-mary-word-of-truth, refs: ["19:34"], note: "qawla l-ḥaqqi lladhī fīhi yamtarūn"}
+      - {motif: god-has-no-son, refs: ["19:35"]}
+      - {motif: god-neither-begets-nor-begotten, refs: ["19:35"]}
+      - {motif: kun-fa-yakun, refs: ["19:35"]}
+      - {motif: god-is-my-lord-and-your-lord, refs: ["19:36"], note: "cf. John 20:17"}
+      - {motif: sects-differ-about-jesus, refs: ["19:37"], note: "al-aḥzāb"}
+      - {motif: day-of-regret, refs: ["19:39"], note: "yawm al-ḥasra"}
+      - {motif: god-gives-life-and-death-and-inherits, refs: ["19:40"], note: "we inherit the earth and whoever is on it"}
+    hints:
+      - "Pseudo-Matthew 20-21: on the flight to Egypt the palm bends to give Mary dates at the infant Jesus' command and a spring flows from its roots. Protevangelium 17-19: birth in a cave away from people."
+      - "Arabic Infancy Gospel 1 and Syriac infancy traditions: Jesus speaks in the cradle declaring he is the Word."
+      - "19:28: Miriam is 'the sister of Aaron' in Exod 15:20; Mary and Miriam share the name Maryam."
+
+  - id: quran-19-abraham-and-his-father
+    tradition: islam
+    title: Abraham pleads with his father (Surah 19:41-50)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["19:41-50"]
+    tags:
+      - {motif: wa-dhkur-fi-l-kitab-refrain, refs: ["19:41"]}
+      - {motif: father-serves-idols, refs: ["19:42"], note: "what neither hears nor sees"}
+      - {motif: son-pleads-with-idolatrous-father, refs: ["19:42", "19:43", "19:44", "19:45"], note: "four addresses 'yā abati'"}
+      - {motif: idols-cannot-see-hear-eat-smell, refs: ["19:42"]}
+      - {motif: son-knows-more-than-father, refs: ["19:43"], note: "knowledge has come to me that has not come to you"}
+      - {motif: worship-of-idols-is-worship-of-satan, refs: ["19:44"]}
+      - {motif: father-threatens-to-stone-son, refs: ["19:46"], note: "la-arjumannaka wa-hjurnī maliyyan"}
+      - {motif: abraham-prays-for-father-then-disowns, refs: ["19:47"], note: "salāmun ʿalayka sa-astaghfiru laka rabbī"}
+      - {motif: abraham-separates-from-his-people, refs: ["19:48", "19:49"], note: "aʿtazilukum"}
+      - {motif: grandson-as-extra-gift, refs: ["19:49"], note: "Ishmael is not named here; Jacob is given as if a son"}
+      - {motif: tongue-of-truth-honor, refs: ["19:50"], note: "lisāna ṣidqin ʿaliyyan"}
+    hints:
+      - "Jubilees 12:1-8: Abraham pleads with Terah to abandon idols; Terah agrees privately but fears the people. Genesis Rabbah 38:13: Terah's idol shop."
+
+  - id: quran-19-prophets-remembered
+    tradition: islam
+    title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["19:51-65"]
+    tags:
+      - {motif: wa-dhkur-fi-l-kitab-refrain, refs: ["19:51", "19:54", "19:56"], note: "'and mention in the Book ...' introduces each figure"}
+      - {motif: right-side-of-the-mount, refs: ["19:52"], note: "min jānibi l-ṭūri l-ayman"}
+      - {motif: moses-drawn-near-in-confidential-speech, refs: ["19:52"], note: "qarrabnāhu najiyyan"}
+      - {motif: brother-as-spokesman, refs: ["19:53"], note: "Aaron given 'from our mercy' as a prophet"}
+      - {motif: ishmael-true-to-his-promise, refs: ["19:54", "19:55"], note: "ṣādiq al-waʿd; enjoined prayer and alms on his family"}
+      - {motif: idris-raised-to-high-place, refs: ["19:56", "19:57"], note: "wa-rafaʿnāhu makānan ʿaliyyan"}
+      - {motif: idris-named, refs: ["19:56"]}
+      - {motif: chosen-lineage-adam-noah-abraham-imran, refs: ["19:58"]}
+      - {motif: prophets-fall-prostrate-weeping-at-recitation, refs: ["19:58"], note: "kharrū sujjadan wa-bukiyyan (a prostration verse)"}
+      - {motif: prostration-at-recitation, refs: ["19:58"]}
+      - {motif: later-generation-neglects-prayer-follows-lusts, refs: ["19:59"], note: "fa-khalafa min baʿdihim khalfun"}
+      - {motif: gardens-of-eden-reward, refs: ["19:61"]}
+      - {motif: no-idle-talk-in-paradise, refs: ["19:62"]}
+      - {motif: provision-morning-and-evening-in-paradise, refs: ["19:62"]}
+      - {motif: angels-descend-only-by-gods-command, refs: ["19:64"], note: "wa-mā natanazzalu illā bi-amri rabbik: the angel speaks"}
+      - {motif: god-has-no-namesake, refs: ["19:65"], note: "hal taʿlamu lahu samiyyan; cf. 19:7"}
+    hints:
+      - "19:56-57: Idris is usually identified with Enoch, whom 'God took' (Gen 5:24) and who is enthroned in heaven in 1 Enoch and 3 Enoch (Metatron)."
+
+  - id: quran-19-resurrection-and-the-son
+    tradition: islam
+    title: Kneeling around hell, all will come to it; 'al-Rahman has taken a son' (Surah 19:66-98)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["19:66-98"]
+    tags:
+      - {motif: resurrection-from-dust-doubted, refs: ["19:66"], note: "'when I am dead shall I be brought out alive?'"}
+      - {motif: easy-for-god-who-created-from-nothing, refs: ["19:67"]}
+      - {motif: damned-kneel-around-hell, refs: ["19:68", "19:72"], note: "jithiyyan, gathered with the devils"}
+      - {motif: most-rebellious-of-each-faction-pulled-out, refs: ["19:69"]}
+      - {motif: everyone-must-come-to-hell, refs: ["19:71", "19:72"], note: "wa-in minkum illā wāriduhā; the pious then rescued (later: the bridge over hell)"}
+      - {motif: unbelievers-boast-finer-assembly, refs: ["19:73", "19:74"], note: "aḥsanu nadiyyan"}
+      - {motif: god-extends-rope-to-the-erring, refs: ["19:75"]}
+      - {motif: wealth-and-sons-adornment-good-deeds-endure, refs: ["19:76"], note: "al-bāqiyāt al-ṣāliḥāt"}
+      - {motif: boaster-claims-wealth-and-children-in-hereafter, refs: ["19:77", "19:78", "19:79", "19:80"]}
+      - {motif: deeds-recorded-before-god, refs: ["19:79"], note: "sa-naktubu mā yaqūl"}
+      - {motif: each-comes-alone-on-judgment-day, refs: ["19:80", "19:95"], note: "fardan"}
+      - {motif: idols-disown-worshippers, refs: ["19:81", "19:82"]}
+      - {motif: devils-sent-to-incite-unbelievers, refs: ["19:83"], note: "taʾuzzuhum azzan"}
+      - {motif: pious-gathered-to-rahman-as-delegation, refs: ["19:85", "19:86"], note: "wafdan, while sinners are driven like thirsty herds (wirdan)"}
+      - {motif: intercession-only-by-permission, refs: ["19:87"]}
+      - {motif: claim-that-rahman-took-a-son, refs: ["19:88", "19:91", "19:92"]}
+      - {motif: messiah-called-son-of-god-rejected, refs: ["19:88", "19:92"], note: "follows directly on the Jesus section of the surah"}
+      - {motif: heavens-nearly-split-at-blasphemy, refs: ["19:89", "19:90"], note: "the heavens almost burst, the earth splits, the mountains fall in ruins"}
+      - {motif: all-creatures-come-to-god-as-servants, refs: ["19:93", "19:94"], note: "counted and numbered"}
+      - {motif: god-numbers-all-things, refs: ["19:84", "19:94"]}
+      - {motif: love-from-al-rahman-for-believers, refs: ["19:96"], note: "wuddan"}
+      - {motif: quran-made-easy-in-prophets-tongue, refs: ["19:97"]}
+      - {motif: not-a-whisper-remains-of-destroyed-generations, refs: ["19:98"], note: "rikzan"}
