@@ -154,6 +154,32 @@ new_motifs:
   goddess-raised-on-knees-of-an: {label: "The goddess was brought up on the knees of An the king", cluster: cult}
   goddess-attacks-foreign-lands: {label: "The goddess goes against all foreign lands in fearsome might", cluster: theophany}
   goddess-ladyship-given-by-father: {label: "The goddess's father establishes her in ladyship over the land", cluster: cult}
+  goddess-receives-me-from-enki: {label: "The goddess receives the divine powers (me), lordship and kingship, from her father Enki in the abzu", cluster: myth}
+  hairstyle-of-cult-personnel: {label: "Cult personnel of the goddess tighten their hairgrips and adorn their locks with coloured cloth", cluster: cult}
+  neck-stocks-worn-by-young-men: {label: "Young men wearing neck-stocks sing in the goddess's procession", cluster: cult}
+  goddess-looks-down-on-black-headed: {label: "From the midst of heaven the goddess looks down with joy on the people, numerous as sheep", cluster: cult}
+  weapons-in-cult-procession: {label: "Participants in the goddess's procession carry swords, sword-belts and spears, 'the strength of battle'", cluster: cult}
+  goddess-appears-as-moon-by-night-sun-by-day: {label: "The astral goddess appears like moonlight at night and like sunlight at noon", cluster: cosmology}
+  wanderers-steer-by-the-star: {label: "The traveller on the road directs himself by the star of the goddess", cluster: cosmology}
+  libations-of-beer-and-wine: {label: "Dark and light beer, honey and wine are poured out as libations for the deity", cluster: cult}
+  goddess-takes-counsel-with-an: {label: "The goddess takes counsel with the sky god An in his lofty place", cluster: cosmology}
+  new-year-festival-rite: {label: "Rites at the New Year (zag-mu) and the day of the moon's disappearance, when the fates of all lands are determined", cluster: cult}
+  king-shines-like-sun-beside-goddess: {label: "The goddess embraces the king and seats him beside her on the throne, shining like the sun", cluster: kingship}
+  royal-banquet-with-music: {label: "The king prepares a rich banquet with loud instruments, harps and singers; the palace celebrates", cluster: cult}
+  goddess-born-with-heaven-and-earth: {label: "The goddess is 'born together with heaven and earth'", cluster: creation}
+  king-as-protective-shade: {label: "The people and lands relax under the king's broad protection (an-dul3, 'shade')", cluster: kingship}
+  wisdom-given-to-king-by-god: {label: "A god (Enki) gives the king broad understanding and knowledge of everything", cluster: wisdom}
+  king-restores-purification-rites: {label: "The king restores and puts in order the purification rites of the gods", cluster: cult}
+  kings-gaze-gives-life: {label: "The king's gaze brings men life and his speech gives them health", cluster: kingship}
+  subject-nations-at-peace-in-pasture: {label: "Under the king the people multiply and all lands lie down in pastures; they look to him as to a father", cluster: kingship}
+  dynastic-succession-from-father: {label: "The king's father, a former king, made the foundations of the kingdom firm for his son", cluster: kingship}
+  mountains-given-to-ghostly-winds: {label: "The god flattens the enemy mountains and hands them over to the ghostly winds", cluster: warfare}
+  god-of-justice-gives-verdicts: {label: "A god gives correct verdicts like the moon or sun god", cluster: law}
+  king-clothed-in-royal-robe-by-god: {label: "A god clothes the king in the royal robe of office", cluster: kingship}
+  goddess-as-raging-storm-and-lion: {label: "The goddess is a raging storm and a lion whose claws drip blood and whose mouth spews venom on the enemy", cluster: theophany}
+  goddess-wrath-like-sea-flood: {label: "The goddess's angry heart, which none can cool, drowns the foe like the sea's flood-wave", cluster: theophany}
+  curse-on-kings-enemies-by-net-and-flood: {label: "Prayer that those who plot against the king be caught as in a battle-net or drowned as by water", cluster: treaty}
+  father-of-the-gods-an: {label: "An is the sublime father of the gods", cluster: cosmology}
 units:
   - id: ane-etcsl-2-4-2-04-epithets
     tradition: ane-sumerian
@@ -951,7 +977,7 @@ units:
     tags:
       - {motif: venus-star-rising-at-evening, refs: ["ETCSL 2.5.3.1 H:89-91", "ETCSL 2.5.3.1 J:128", "ETCSL 2.5.3.1 L:135-136"], note: "an-usan-na mul dalla e3-a {mul}dili-bad: the radiant star, the Venus star, at evening; mul dili: the lone star; ur-saĝ-ĝa2 an-ta nam-ta-an-e3"}
       - {motif: all-creatures-go-to-rest-before-goddess, refs: ["ETCSL 2.5.3.1 H:92-100"], note: "nitaḫ2 mu-un-sikil-e munus mu-un-zalag-ga: men purify, women cleanse themselves; oxen, sheep, beasts of Šakkan, fish of the deep, birds of heaven hasten to their sleeping places; all bend the knee"}
-      - {motif: night-beasts-day-workers, refs: ["ETCSL 2.5.3.1 H:93-99"]}
+      - {motif: night-beasts-day-workers, refs: ["ETCSL 2.5.3.1 H:93-99"], note: "inverse of the Psalm image: at the star's evening rising beasts, fish and birds go to their sleeping places (ki-nu2-bi-še3 ĝiri3 ... ul4-e)"}
       - {motif: goddess-appears-as-moon-by-night-sun-by-day, refs: ["ETCSL 2.5.3.1 I:113-114"], note: "ĝi6 u3-na iti6-gin7 mu-un-e3 / an-bar7-gana2 ud-ud-gin7 mu-un-e3: at night like moonlight, at noon like sunlight"}
       - {motif: goddess-judges-cases-at-night, refs: ["ETCSL 2.5.3.1 I:117-121"], note: "ur3-ra nu2-a bad3-da nu2-a ... inim-bi mu-na-an-tum3-uš: those who sleep on roofs and by walls bring their cases; erim2-du di erim2 ba-ab-šum2-mu ḫul-ĝal2 mu-un-gul-le / si sa2-ra igi zid mu-un-ši-bar nam dug3 mi-ni-in-tar"}
       - {motif: wanderers-steer-by-the-star, refs: ["ETCSL 2.5.3.1 L:139"], note: "šul kaskal-la du ḫar-ra-an mu-un-na-ĝa2-ĝa2: the young man on the road directs himself by her"}
@@ -987,7 +1013,6 @@ units:
       - {motif: royal-banquet-with-music, refs: ["ETCSL 2.5.3.1 M:203-216"], note: "ĝiš-gu3-di ulu3-ta eme ĝar-ra: instruments drowning the south wind; {ĝiš}al-ĝar, {ĝiš}za3-mi2 harps; lugal-e gu7-a naĝ-a-da šu si ba-an-sa2: the king sees to food and drink; the people spend the day in plenty"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.3.1 M:215"], note: "{ĝiš}gu-za gi-rin-na ud ḫa-ba-ni-ib-sud-de3: may his days be long on the splendid throne"}
       - {motif: goddess-born-with-heaven-and-earth, refs: ["ETCSL 2.5.3.1 M:218"], note: "nu-u8-gig an ki-da tud-da-me-en: you are the Mistress born together with heaven and earth"}
-      - {motif: wisdom-as-beloved-gives-crown, refs: ["ETCSL 2.5.3.1 M:199-216"], note: "the goddess's embrace confers the king's long reign on the throne"}
     hints:
       - "Compare Song 3:11 (King Solomon crowned by his mother on his wedding day), Song 1:12-17 and Ps 45:9-16 (royal wedding with myrrh, the bride brought to the king)."
       - "Compare Prov 8:22-31 (Wisdom born before heaven and earth) for 'born together with heaven and earth'."
