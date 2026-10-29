@@ -182,6 +182,26 @@ new_motifs:
   gods-take-counsel-in-temple: {label: "The Anuna gods of heaven and earth take counsel together at a temple platform to make just decisions", cluster: cult}
   king-born-like-goddess-gives-birth-in-storm: {label: "The king's divine mother bore him 'like Ninlil who gives birth in a storm'", cluster: kingship}
   king-as-faithful-farmer-of-enlil: {label: "The king is the faithful farmer who ploughs Enlil's fields with oxen, lays out levees and ditches, and heaven's rain makes the furrows sprout", cluster: kingship}
+  king-hero-from-the-womb: {label: "The king declares he was a hero already in the womb, born to be a mighty man", cluster: kingship}
+  king-lion-begotten-by-dragon: {label: "The king calls himself a fierce lion begotten by a dragon (ušumgal)", cluster: kingship}
+  king-divine-god-of-the-lands: {label: "The king calls himself a god (diĝir) of all the lands, his name written with the divine determinative", cluster: kingship}
+  king-catalogue-of-divine-favours: {label: "Litany of 'I am': the king lists, god by god, how each high deity chose, endowed or cherished him", cluster: kingship}
+  king-as-swift-mule-and-horse: {label: "The king likens himself to a mule fit for the road and a horse whose tail waves on the highway", cluster: kingship}
+  learned-scribe-king: {label: "The king boasts he is a learned scribe of Nisaba whose wisdom equals his heroism", cluster: wisdom}
+  king-loves-justice-hates-wicked-speech: {label: "The king loves righteousness, does not tolerate wickedness and hates whoever speaks wickedly", cluster: law}
+  king-builds-road-stations-and-gardens: {label: "The king puts the highways in order, marks the double-hour distances, builds lodging-houses with gardens and staffs them so travellers find haven at night", cluster: kingship}
+  king-runs-nibru-to-urim-in-one-day: {label: "To make his name eternal, the king runs from Nibru to Urim and back in a single day and celebrates a festival in both cities", cluster: kingship}
+  name-established-for-distant-days: {label: "The king acts so that his name be established for distant days and never fall from people's mouths", cluster: kingship}
+  king-flies-like-bird-anzud: {label: "The running king spreads his arms like a fleeing pigeon's wings and stretches his legs like the Anzud bird", cluster: kingship}
+  king-undaunted-by-storm-and-hail: {label: "The king travels through a storm of seven winds, lightning, thunder and hailstones drumming on his back, unafraid", cluster: kingship}
+  seven-winds-storm: {label: "A storm in which the seven winds and lightning vie in the heavens and the storm god roars", cluster: theophany}
+  upper-and-lower-waters-mingle-in-storm: {label: "In the storm the rain of heaven mingles with the waters of the earth", cluster: cosmology}
+  king-banquets-with-sun-god-and-inana: {label: "The king drinks with the sun god, his 'brother and companion', and Inana his spouse sits with him at the banquet", cluster: kingship}
+  i-am-not-boasting-formula: {label: "The king asserts the truth of his praise: 'truly I am not boasting'", cluster: kingship}
+  oath-by-life-of-divine-father: {label: "The king swears by the life of his divine father (Lugalbanda) and the moon god that his tablet's words are true", cluster: kingship}
+  no-king-ever-like-me: {label: "Claim that no king of Sumer as great as the speaker has ever existed for the people", cluster: kingship}
+  god-crowns-king-from-heaven: {label: "The sky god places a lofty crown firmly on the king's head; he takes the sceptre in the god's temple", cluster: kingship}
+  hymns-to-be-sung-of-king: {label: "Wish that the king's name be proclaimed in the four regions and praised in holy hymns", cluster: kingship}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -805,3 +825,80 @@ units:
     read: ["ETCSL 2.4.1.8 A:1-4", "ETCSL 2.4.1.8 B:1-6"]
     tags:
       - {motif: royal-self-praise-hymn, refs: ["ETCSL 2.4.1.8 A:1", "ETCSL 2.4.1.8 B:6"], note: "only the refrain ur-{d}namma lugal kalam-ma su3-ra2 ba9-ra2 and scattered words (ebony, silver, lapis, lion, dragon) survive"}
+  - id: ane-etcsl-2-4-2-01-i-am-shulgi
+    tradition: ane-sumerian
+    title: "'I am Šulgi': the king's divine favours, wisdom and justice (Šulgi A)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.01 1-25"]
+    tags:
+      - {motif: king-hero-from-the-womb, refs: ["ETCSL 2.4.2.01 1", "ETCSL 2.4.2.01 2"], note: "lugal-me-en šag4-ta ur-saĝ-me-en"}
+      - {motif: called-from-the-womb, refs: ["ETCSL 2.4.2.01 1"]}
+      - {motif: king-lion-begotten-by-dragon, refs: ["ETCSL 2.4.2.01 3"], note: "piriĝ igi ḫuš ušumgal-e tud-da-me-en"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.4.2.01 4"]}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.4.2.01 5"], note: "na-gada sipad saĝ gig2-ga-me-en"}
+      - {motif: king-divine-god-of-the-lands, refs: ["ETCSL 2.4.2.01 6"], note: "nir-ĝal2 diĝir kur-kur-ra-me-en; {d}šul-gi throughout"}
+      - {motif: king-catalogue-of-divine-favours, refs: ["ETCSL 2.4.2.01 7-15"], note: "son of Ninsumun, choice of An's heart, fate decided by Enlil, beloved of Ninlil, wisdom from Enki, chosen by Inana"}
+      - {motif: king-as-swift-mule-and-horse, refs: ["ETCSL 2.4.2.01 16", "ETCSL 2.4.2.01 17", "ETCSL 2.4.2.01 18"], note: "anše-ĝir2-nun-na kaskal-e du7 ... anše-kur-ra ḫar-ra-an-na kun sud-sud"}
+      - {motif: learned-scribe-king, refs: ["ETCSL 2.4.2.01 19", "ETCSL 2.4.2.01 20", "ETCSL 2.4.2.01 21"], note: "dub-sar gal-zu {d}nisaba-kam-me-en"}
+      - {motif: king-loves-justice-hates-wicked-speech, refs: ["ETCSL 2.4.2.01 23", "ETCSL 2.4.2.01 24", "ETCSL 2.4.2.01 25"], note: "niĝ2-si-sa2-e ki ḫa-ba-aĝ2-ĝa2-am3 niĝ2-erim2-e ki la-ba-ra-aĝ2-ĝa2-am3"}
+      - {motif: hate-evil-love-good, refs: ["ETCSL 2.4.2.01 23-25"]}
+    hints:
+      - "Royal love of justice and hatred of the lying tongue: Ps 45:8, Ps 101:3-7, Prov 16:12-13; Prov 6:17 (lying tongue)."
+      - "Wise king: 1 Kgs 3:9-12, 1 Kgs 5:9-14; the king as lion: Gen 49:9, Prov 19:12."
+  - id: ane-etcsl-2-4-2-01-roads-and-run
+    tradition: ane-sumerian
+    title: Šulgi orders the highways and resolves to run from Nibru to Urim (Šulgi A)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.01 26-47"]
+    tags:
+      - {motif: king-builds-road-stations-and-gardens, refs: ["ETCSL 2.4.2.01 28-35"], note: "danna ḫu-mu-gen6 e2 gal-la ḫe2-bi2-du3 ... {ĝiš}kiri6 ... ki ni2 dub2-bu; nitaḫ ḫar-ra-an-na du kaskal-e ĝi6 ba-an-da-sa2-a iri du3-a-gin7 zi-ni ḫa-ba-ši-in-tum3"}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.4.2.01 28"]}
+      - {motif: name-established-for-distant-days, refs: ["ETCSL 2.4.2.01 36", "ETCSL 2.4.2.01 37", "ETCSL 2.4.2.01 38"], note: "mu-ĝu10 ud ul-le2-a-aš ĝa2-ĝa2-de3 ka-ta nu-šub-bu-de3"}
+      - {motif: king-runs-nibru-to-urim-in-one-day, refs: ["ETCSL 2.4.2.01 39", "ETCSL 2.4.2.01 40", "ETCSL 2.4.2.01 41"], note: "nibru{ki}-ta šeg12 urim2{ki}-ma-še3 danna 1-gin7 šu ni10-ni10-da"}
+      - {motif: king-flies-like-bird-anzud, refs: ["ETCSL 2.4.2.01 44", "ETCSL 2.4.2.01 45"], note: "tum12{mušen} ... a2-ĝu10 ḫu-mu-sud-sud; anzud{mušen} kur-bi-še3 igi il2-la-gin7"}
+      - {motif: mount-up-with-wings-like-eagles, refs: ["ETCSL 2.4.2.01 42", "ETCSL 2.4.2.01 45"], note: "approximate: the tireless runner (piriĝ ... nu-kuš2-u3) like the Anzud bird"}
+      - {motif: people-acclaim-king, refs: ["ETCSL 2.4.2.01 46", "ETCSL 2.4.2.01 47"], note: "uĝ3 saĝ gig2-ga u8-gin7 lu-a u6 dug3 ḫa-ma-ab-dug4"}
+    hints:
+      - "Runner who does not tire: Isa 40:31; Elijah running before Ahab's chariot 1 Kgs 18:46; 2 Sam 18:19-27 (runners)."
+      - "Making a name: Gen 11:4, 2 Sam 8:13; way-stations and hospitality: Gen 18:1-8."
+  - id: ane-etcsl-2-4-2-01-urim-storm-return
+    tradition: ane-sumerian
+    title: Šulgi feasts at Urim, runs back through the storm, and banquets with Utu and Inana (Šulgi A)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.01 48-83"]
+    tags:
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.4.2.01 51", "ETCSL 2.4.2.01 52", "ETCSL 2.4.2.01 55"], note: "approximate: the king himself brings oxen and sheep and food offerings to Suen's temple"}
+      - {motif: temple-music-drums-and-harps, refs: ["ETCSL 2.4.2.01 53", "ETCSL 2.4.2.01 54"]}
+      - {motif: king-bathes-and-feasts-in-goddess-palace, refs: ["ETCSL 2.4.2.01 57", "ETCSL 2.4.2.01 58", "ETCSL 2.4.2.01 59"], note: "e2-gal-maḫ {d}nin-e2-gal-la ... dub3 ḫe2-ni-dub2 a zal-le ḫe2-ni-tu5"}
+      - {motif: seven-winds-storm, refs: ["ETCSL 2.4.2.01 62-66"], note: "nim ĝir2-ĝir2 tum9 7-bi-ta an-na teš2 ḫe2-ni-gu7 ... {d}iškur-re an niĝ2-daĝal-la-ba gu3 ḫu-mu-ni-dub2-dub2"}
+      - {motif: upper-and-lower-waters-mingle-in-storm, refs: ["ETCSL 2.4.2.01 67"], note: "im an-na-ke4 a ki-ta gu2 ḫe2-em-ma-da-ab-la2"}
+      - {motif: king-undaunted-by-storm-and-hail, refs: ["ETCSL 2.4.2.01 68", "ETCSL 2.4.2.01 69", "ETCSL 2.4.2.01 70"], note: "na4 tur-tur-bi na4 gal-gal-bi murgu-ĝa2 ... lugal-me-en ni2 ba-ra-ba-da-te"}
+      - {motif: king-runs-nibru-to-urim-in-one-day, refs: ["ETCSL 2.4.2.01 76", "ETCSL 2.4.2.01 78"], note: "kaskal 15 danna-am3 ... ud 1-a nibru{ki} urim2{ki}-ma eš3-eš3-bi ḫu-mu-ak"}
+      - {motif: king-banquets-with-sun-god-and-inana, refs: ["ETCSL 2.4.2.01 79-83"], note: "šeš gu5-li-ĝu10 šul {d}utu-am3 ... nitalam-ĝu10 ki-sikil {d}inana"}
+    hints:
+      - "Storm with hail, thunder and lightning: Ps 18:13-15, Exod 9:23-24, Ps 29; upper and lower waters: Gen 7:11."
+      - "Fearless in storm: Ps 46:3-4, Ps 91:5."
+  - id: ane-etcsl-2-4-2-01-crown-and-praise
+    tradition: ane-sumerian
+    title: "'Truly I am not boasting': An crowns Šulgi; may hymns praise his name (Šulgi A)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.2.01 84-102"]
+    tags:
+      - {motif: i-am-not-boasting-formula, refs: ["ETCSL 2.4.2.01 84"], note: "ni2-ĝu10 silim-eš2-am3 ba-ra-ab-dug4"}
+      - {motif: oath-by-life-of-divine-father, refs: ["ETCSL 2.4.2.01 86A", "ETCSL 2.4.2.01 86B", "ETCSL 2.4.2.01 86C"], note: "one manuscript: inim-inim-ma im sar-ra-ĝu10 / zi a-a-ĝu10 kug {d}lugal-ban3-da"}
+      - {motif: no-king-ever-like-me, refs: ["ETCSL 2.4.2.01 86J"], note: "lugal [ki-en-gi]-ra ĝe26-gin7-nam uĝ3-e ba-ra-ĝal2-la; one manuscript only"}
+      - {motif: god-crowns-king-from-heaven, refs: ["ETCSL 2.4.2.01 87", "ETCSL 2.4.2.01 88", "ETCSL 2.4.2.01 89"], note: "an-ne2 aga zid maḫ saĝ-ĝa2 ḫe2-em-mi-in-gen6; e2-kur ... {ĝiš}ĝidru ḫa-ba-dab5-ba"}
+      - {motif: hymns-to-be-sung-of-king, refs: ["ETCSL 2.4.2.01 92", "ETCSL 2.4.2.01 93", "ETCSL 2.4.2.01 94"]}
+      - {motif: king-catalogue-of-divine-favours, refs: ["ETCSL 2.4.2.01 95-101"], note: "išib an ki-a gaba-ri nu-tuku, 'purification priest of heaven and earth without rival'"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.2.01 102"], note: "{d}nisaba za3-mi2"}
+    hints:
+      - "God sets a crown on the king's head: Ps 21:4, Ps 132:18; no king like him before or after: 1 Kgs 3:12-13, 2 Kgs 18:5, 2 Kgs 23:25."
+      - "Swearing by the life of the father/god: 1 Sam 20:3; Q 89:1-5 (oaths)."

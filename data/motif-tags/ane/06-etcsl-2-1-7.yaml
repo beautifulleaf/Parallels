@@ -54,6 +54,45 @@ new_motifs:
   king-commissioned-to-rebuild-temple: {label: "After the catastrophe the chief god commands a named king, his beloved shepherd, to rebuild the ruined temple", cluster: temple}
   ideal-age-of-social-harmony: {label: "The god ordains a time when no one speaks hostile words, son respects father, younger brother respects elder, weak and strong are not enslaved", cluster: kingship}
   mourners-taught-what-to-say: {label: "The lament instructs the mourner what words to speak to the god ('Say to him: My lord, how long?')", cluster: lament}
+  offering-before-prayer: {label: "Before praying the ruler offers bread and pours cold water, then goes to the god to pray", cluster: cult}
+  prayer-heard-formula: {label: "Formula: his call was heard, and the god accepted his prayer and supplication", cluster: cult}
+  gift-of-chariot-to-god: {label: "A ruler builds and presents a decorated chariot with its draught animal to his god", cluster: cult}
+  name-written-on-standard: {label: "The king makes the god's beloved standard and writes his own name on it", cluster: cult}
+  drum-named-instrument-of-god: {label: "A named balaĝ drum is the god's beloved instrument, brought before him and installed among his servants", cluster: cult}
+  god-loves-gifts: {label: "The god is called 'the warrior who loves gifts' and is approached with presents", cluster: cult}
+  fifty-names-of-god: {label: "A god is endowed with fifty powers or names by the high gods", cluster: theophany}
+  built-as-commanded: {label: "The builder declares he built the god's house exactly as he was commanded", cluster: temple}
+  new-moon-image-of-temple: {label: "The temple is likened to the new moon (crescent) shining in the sky", cluster: temple}
+  temple-mooring-post-of-land: {label: "The temple is called the 'great mooring post' (dim gal) of the land, binding heaven and earth", cluster: temple}
+  seven-squares-laid-out: {label: "The builder marks out the temple plan in seven successive squares, each named with an image", cluster: temple}
+  seven-day-completion-of-work: {label: "A building task is completed on the seventh day", cluster: temple}
+  throne-established-by-god: {label: "The god makes the king's throne firm so that no one can remove it", cluster: kingship}
+  rainbow-over-gate: {label: "The curved posts over the temple gate are called a rainbow stretched across the sky", cluster: temple}
+  seven-stones-around-house: {label: "Seven stones set around the temple take counsel with its divine owner", cluster: temple}
+  hymn-subscript-doxology: {label: "A section or composition ends with the formula 'X be praised' (za3-mi2)", cluster: hymn}
+  food-of-gods-uncooked: {label: "The gods' food is syrup, ghee, wine, milk, figs and dates, 'things untouched by fire'", cluster: cult}
+  god-woken-by-temple-servants: {label: "Temple servants wake the god from sleep each day with food, drink and noise", cluster: cult}
+  weapons-dedicated-in-temple: {label: "Weapons (maces, bow, arrows, quiver, standards) are presented to the god and kept in his temple", cluster: cult}
+  foot-on-neck-of-enemies: {label: "The ruler sets his foot on the neck of evildoers or enemies", cluster: kingship}
+  decree-of-god-unchangeable: {label: "The decree of the high gods cannot be changed or overturned: 'Who can oppose it?'", cluster: lament}
+  king-weeps-in-palace: {label: "The besieged king sits paralysed and weeps bitterly in his own palace", cluster: lament}
+  corpses-floating-in-river: {label: "Corpses float in the river after the slaughter", cluster: lament}
+  unprecedented-calamity: {label: "A catastrophe falls such as no one had ever known or seen, without a name", cluster: lament}
+  like-milk-poured-to-dogs: {label: "A city or land is poured out 'like milk to the dogs'", cluster: lament}
+  god-taken-captive-in-fetters: {label: "A god leaves his city like a prisoner of war, his hands fettered", cluster: lament}
+  justice-ceases-in-ruined-city: {label: "In the ruined city the seat of judgment stands empty and no decisions or justice are given", cluster: lament}
+  priests-carried-off-cult-ends: {label: "Temple personnel (cook, dream-interpreter, seal-keeper, linen-clad priests) are carried off and the rites forsaken", cluster: lament}
+  mourning-garment-put-on: {label: "A mourner, even a god, puts on a garment of mourning", cluster: lament}
+  god-returns-to-his-temple: {label: "After the decree of restoration the god re-enters his city and temple with head held high", cluster: lament}
+  blood-poured-like-water: {label: "The blood of the slain is splashed on the ground like a rainstorm", cluster: lament}
+  enemies-not-knowing-good-and-evil: {label: "The invading enemy is said not to know good from evil", cluster: lament}
+  cow-bereaved-of-calf: {label: "The mourning temple groans like a cow whose calf has been cut off", cluster: lament}
+  what-did-people-do-to-deserve: {label: "Lament asks what the people, who walked the true path, did to deserve the god's anger", cluster: lament}
+  consort-intercedes-for-city: {label: "The chief god's consort entreats him in prayer to restore the city", cluster: lament}
+  daily-offering-restored: {label: "The daily rations, fine flour and loaves on the god's table are restored after the catastrophe", cluster: cult}
+  enemy-expelled-from-temple: {label: "The enemy occupying a temple is driven out of it", cluster: temple}
+  darkness-lifted-from-land: {label: "A time is decreed when darkness is lifted from the land and light established so living things rejoice", cluster: kingship}
+  travel-without-fear: {label: "A time when anyone may travel where he will, even to a foreign city, without fear on the plain", cluster: kingship}
 units:
   # ---------------- ETCSL 2.1.7: Gudea cylinders A and B ----------------
   - id: ane-etcsl-2-1-7-a1-enlil-decides-dream
@@ -111,7 +150,7 @@ units:
       - {motif: heavenly-pattern-of-sanctuary, refs: ["ETCSL 2.1.7 117", "ETCSL 2.1.7 143"]}
       - {motif: fated-brick-moulded-by-king, refs: ["ETCSL 2.1.7 118-120", "ETCSL 2.1.7 144-146"], note: "dusu kug, {ĝiš}u3-šub kug, šeg12 nam tar-ra: holy basket, holy mould, fated brick"}
       - {motif: davids-vow-no-sleep-until-gods-place, refs: ["ETCSL 2.1.7 147-149"], note: "e2 du3-de3 igi-zu u3 dug3-ga nu-ši-ku4-ku4: 'building the house will not let sweet sleep come into your eyes'"}
-      - {motif: sun-image-for-god-or-king, refs: ["ETCSL 2.1.7 109", "ETCSL 2.1.7 132-133"], note: "ud ki-šar2-ra ma-ta-e3: daylight rising on the horizon = the personal god Ninĝišzida"}
+      - {motif: sun-of-righteousness-healing-in-wings, refs: ["ETCSL 2.1.7 109", "ETCSL 2.1.7 132-133"], note: "ud ki-šar2-ra ma-ta-e3: daylight rising on the horizon = the personal god Ninĝišzida"}
     hints:
       - "Compare Gen 40-41 and Dan 2; 4; 7 (dreams explained element by element) and Ezek 1:4-10 (composite figure with wings, lions)."
       - "Compare Ps 132:3-5 (no sleep to my eyes until I find a place for YHWH) and 1 Chr 28:11-19 (the plan, tavnit, in writing from YHWH's hand)."
@@ -129,8 +168,8 @@ units:
       - {motif: name-written-on-standard, refs: ["ETCSL 2.1.7 160-161", "ETCSL 2.1.7 186-187"], note: "šu-nir ki aĝ2-ni u3-mu-na-dim2, mu-zu u3-mi-sar: fashion his beloved standard and write your name on it"}
       - {motif: drum-named-instrument-of-god, refs: ["ETCSL 2.1.7 162-163", "ETCSL 2.1.7 188-189"], note: "balaĝ ki aĝ2-ni ušumgal kalam-ma: the beloved drum named 'Dragon of the Land'"}
       - {motif: god-loves-gifts, refs: ["ETCSL 2.1.7 164", "ETCSL 2.1.7 190"], note: "ur-saĝ niĝ2-ba-e ki aĝ2: the warrior who loves gifts"}
-      - {motif: gods-will-inscrutable-as-heavens, refs: ["ETCSL 2.1.7 168-169"], note: "en-na šag4 an-gin7 su3-ra2-ni: the lord's heart, remote as the heavens"}
-      - {motif: radiant-face-after-divine-encounter, refs: ["ETCSL 2.1.7 195"], note: "gu3-de2-a eš3 e2-ninnu-ta zalag-ga nam-ta-e3: Gudea came out of the shrine shining (zalag)"}
+      - {motif: gods-thoughts-higher-than-human, refs: ["ETCSL 2.1.7 168-169"], note: "en-na šag4 an-gin7 su3-ra2-ni: the lord's heart, remote as the heavens"}
+      - {motif: prophets-face-shines-after-encounter, refs: ["ETCSL 2.1.7 195"], note: "gu3-de2-a eš3 e2-ninnu-ta zalag-ga nam-ta-e3: Gudea came out of the shrine shining (zalag)"}
     hints:
       - "Compare Exod 34:29-35 (Moses' face shines after speaking with God)."
       - "Compare Isa 55:8-9 (my thoughts higher than yours as heaven than earth) and 2 Kgs 23:11 (chariots of the sun)."
@@ -144,11 +183,11 @@ units:
     read: ["ETCSL 2.1.7 196-314"]
     tags:
       - {motif: incubation-dream-at-sanctuary, refs: ["ETCSL 2.1.7 200-208", "ETCSL 2.1.7 226-227"], note: "After sacrificing sheep and kid on the hide of a virgin kid and burning juniper and cedar resin, Gudea prays and sleeps; Ninĝirsu comes to the sleeper (nu2-a-ra)"}
-      - {motif: incense-as-pleasing-to-gods, refs: ["ETCSL 2.1.7 204-206"], note: "li{ĝiš} u2 sikil kur-ra ... šim erin ir-sim diĝir-ra-kam: juniper and cedar resin, 'the scent of gods'"}
+      - {motif: pleasing-odor-to-god, refs: ["ETCSL 2.1.7 204-206"], note: "li{ĝiš} u2 sikil kur-ra ... šim erin ir-sim diĝir-ra-kam: juniper and cedar resin, 'the scent of gods'"}
       - {motif: god-stands-at-sleepers-head, refs: ["ETCSL 2.1.7 226-227"], note: "saĝ-ĝa2 mu-na-gub ul4 mu-tag-tag-e: he stood at his head, touching him quickly"}
       - {motif: divine-warrior, refs: ["ETCSL 2.1.7 209-211", "ETCSL 2.1.7 241-247"], note: "en a ḫuš gi4-a 'lord who turned back the fierce waters'; tukul-ĝu10 šar2-ur3 kur šu-še3 ĝar-ĝar"}
       - {motif: god-rebukes-sea-and-dries-rivers, refs: ["ETCSL 2.1.7 209", "ETCSL 2.1.7 241"], note: "a ḫuš gi4-a: 'who turned back the fierce waters' (interpretive match to divine control of hostile waters)"}
-      - {motif: gods-will-inscrutable-as-heavens, refs: ["ETCSL 2.1.7 217-225"], note: "šag4 ab-gin7 zi-zi ... a-ma-ru12-gin7 ... šag4 an-gin7 su3-ra2-zu: your heart rising like the sea, like a flood, remote as heaven"}
+      - {motif: gods-thoughts-higher-than-human, refs: ["ETCSL 2.1.7 217-225"], note: "šag4 ab-gin7 zi-zi ... a-ma-ru12-gin7 ... šag4 an-gin7 su3-ra2-zu: your heart rising like the sea, like a flood, remote as heaven"}
       - {motif: god-self-praise-aretalogy, refs: ["ETCSL 2.1.7 241-276"], note: "ĝe26 {d}nin-ĝir2-su ...: 'I am Ninĝirsu', listing his house, weapon, names, shrines Tiraš, E-ḫuš, E-babbar, E-bagara"}
       - {motif: fifty-names-of-god, refs: ["ETCSL 2.1.7 248-253"], note: "me 50-a zag mi-ni-keše2: his father endowed him with fifty powers; names given lugal a-ma-ru {d}en-lil2-la2"}
       - {motif: temple-terror-covers-lands, refs: ["ETCSL 2.1.7 232-240"], note: "me-lem4 ḫuš-bi an-ne2 im-us2, ni2 gal-bi kur-kur-ra mu-ri"}
@@ -156,11 +195,9 @@ units:
       - {motif: god-promises-abundance-for-temple, refs: ["ETCSL 2.1.7 277-293"], note: "an-ta ḫe2-ĝal2 ḫa-mu-ra-ta-du: abundance from heaven; fields, levees, oil and wool"}
       - {motif: blessing-from-day-of-temple-foundation, refs: ["ETCSL 2.1.7 286-293"], note: "e2-ĝa2 uš ki ĝar-ra-bi-da ḫe2-ĝal2 ḫe2-da-ĝen: with the laying of my temple's foundation abundance will come"}
       - {motif: rain-in-its-season-blessing, refs: ["ETCSL 2.1.7 283-285"], note: "an-še3 tum9 duru5-e gu3 ba-de2: I will call to heaven for humid winds"}
-      - {motif: day-builds-night-raises, refs: ["ETCSL 2.1.7 302-305"], note: "e2 ud-de3 ma-ra-du3-e ĝi6-e ma-ra-ab-mu2-mu2: the day will build the house, the night make it grow; moon and sun give light"}
-      - {motif: one-man-does-work-of-two, refs: ["ETCSL 2.1.7 300-301"], note: "lu2 dili lu2 2-da kiĝ2 mu-da-ak-ke4"}
       - {motif: foreign-king-supplies-temple-timber, refs: ["ETCSL 2.1.7 306-312"], note: "Here the god himself promises cedar, cypress, zabalum, ebony and great stones from the mountains"}
       - {motif: divine-fire-touch-as-sign, refs: ["ETCSL 2.1.7 313-314"], note: "ud-bi-a a2-zu izi bi2-tag ĝiškim-ĝu10 ḫa-mu-u3-zu: 'I will touch your arm with fire and you will know my sign'"}
-      - {motif: hero-asks-for-sign, refs: ["ETCSL 2.1.7 212-216"], note: "ĝiškim-ĝu10 nu-ĝu10: 'I have no sign'"}
+      - {motif: request-for-a-sign, refs: ["ETCSL 2.1.7 212-216"], note: "ĝiškim-ĝu10 nu-ĝu10: 'I have no sign'"}
     hints:
       - "Compare 1 Kgs 3:4-15 (sacrifice, dream at Gibeon) and 1 Sam 3:10 (YHWH came and stood and called)."
       - "Compare Hag 2:15-19 (from the day the temple foundation is laid I will bless) and Hag 1:9-11 (drought because the house lies waste)."
@@ -182,8 +219,7 @@ units:
       - {motif: burdens-and-fetters-removed, refs: ["ETCSL 2.1.7 327-331"], note: "ĝiš-šu mu-du8 ĝiš-ĝiri2 mu-zig3: he opened manacles, removed fetters; goad and whip replaced by wool"}
       - {motif: city-purified-before-building, refs: ["ETCSL 2.1.7 341-344", "ETCSL 2.1.7 353-354"], note: "iri mu-kug izi im-ma-ta-la2; uzug3-ga ... iri-ta ba-ta-e3"}
       - {motif: unclean-expelled-from-camp, refs: ["ETCSL 2.1.7 343-344"], note: "uzug3-ga ni2-ĝal2 lu2-GI.AN iri-ta ba-ta-e3: the ritually unclean expelled from the city"}
-      - {motif: standards-raised-as-banner, refs: ["ETCSL 2.1.7 351-352"], note: "anzud2{mušen} šu-nir lugal-la-na-kam urin-še3 bi2-mul"}
-      - {motif: prayer-day-and-night, refs: ["ETCSL 2.1.7 357-358"], note: "ud sizkur2-ra mu-na-a-ĝal2 ĝi6 šudu3-de3 mu-na-zal-e"}
+      - {motif: banners-raised-in-gods-name, refs: ["ETCSL 2.1.7 351-352"], note: "anzud2{mušen} šu-nir lugal-la-na-kam urin-še3 bi2-mul"}
     hints:
       - "Compare Gen 41:7 ('Pharaoh awoke, and behold, it was a dream') and 1 Kgs 3:15."
       - "Compare Ezra 3:1 and Neh 8:1 (the people gathered as one man) and Num 5:1-4 (unclean sent out of the camp)."
@@ -226,9 +262,7 @@ units:
       - {motif: personal-god-holds-kings-hand, refs: ["ETCSL 2.1.7 495-498"], note: "{d}nin-ĝiš-zid-da diĝir-ra-ni šu mu-da-ĝal2-ĝal2: his personal god held him by the hand"}
       - {motif: fated-brick-moulded-by-king, refs: ["ETCSL 2.1.7 499-522"], note: "honey, ghee and precious oil hoed into the clay; Gudea places the clay in the mould and brings the brick into being while bystanders sprinkle oil and cedar"}
       - {motif: foundation-laying-ceremony-with-music, refs: ["ETCSL 2.1.7 499-500", "ETCSL 2.1.7 511-512"], note: "a-dab6 si-im a2-la2 mu-na-du12-am3: drums played as the brick was made; city spent the day in joy"}
-      - {motif: brick-raised-like-crown, refs: ["ETCSL 2.1.7 523-528"], note: "men kug an-ne2 il2-la: the brick was like a holy crown worn by An; carried among the people"}
       - {motif: davids-vow-no-sleep-until-gods-place, refs: ["ETCSL 2.1.7 532-537"], note: "lu2-tur gibil-bi e2 du3-gin7 igi-ni u3 dug3-ga nu-ši-ku4-ku4: like a young man building his first house, sweet sleep never came to his eyes"}
-      - {motif: cow-watches-calf-simile, refs: ["ETCSL 2.1.7 534-535"], note: "ab2 amar-bi-še3 igi ĝal2-la-gin7 e2-še3 te-te-ma im-ši-ĝen"}
     hints:
       - "Compare Ezek 40:3; Zech 2:5-6 (measuring line for the temple and Jerusalem) and Ezra 3:10-11 (foundation laid with music and joy)."
       - "Compare Exod 31:3 (filled with wisdom and understanding for the work) and Ps 132:4."
@@ -251,7 +285,6 @@ units:
       - {motif: tower-reaching-heaven, refs: ["ETCSL 2.1.7 581", "ETCSL 2.1.7 588"], note: "e2 maḫ an-da gu2 la2-am3: a huge house embracing heaven (built with divine approval, not in defiance)"}
       - {motif: temple-foundations-reach-abzu, refs: ["ETCSL 2.1.7 604-608"], note: "temen abzu-bi dim gal-gal ki-a mi-ni-sig9-sig9 {d}en-ki-da ... šag4 mu-di3-ni-ib-kuš2-u3: so deep they take counsel with Enki"}
       - {motif: temple-mooring-post-of-land, refs: ["ETCSL 2.1.7 604", "ETCSL 2.1.7 609"], note: "dim gal 'great mooring post'; e2-ninnu dim gal mu-gen6"}
-      - {motif: cedar-like-temple-beams-serpents, refs: ["ETCSL 2.1.7 591-597"], note: "ušum abzu ... muš-maḫ ḫur-saĝ-ĝa2 ... muš kur-ra teš2-ba nu2: beams like dragons of the abzu, reeds like mountain snakes; cedar and cypress roofing"}
     hints:
       - "Compare Gen 11:4 (tower whose top in heaven) and Ps 78:69 (built his sanctuary like the heights)."
       - "Compare Deut 32:11 (eagle spreads its wings over its young) and Ezek 47:1 (water under the temple threshold)."
@@ -266,11 +299,10 @@ units:
     read: ["ETCSL 2.1.7 617-654"]
     tags:
       - {motif: temple-foundation-of-costly-hewn-stones, refs: ["ETCSL 2.1.7 617-618"], note: "mu 1-a mu-de6 mu 1-a mu-ak: one year to bring the stone slabs, one year to fashion them"}
-      - {motif: seven-days-completion, refs: ["ETCSL 2.1.7 620-621"], note: "a2 ud-da 1-ta mu-du3 ud 7-kam-ma-ka e2-e im-mi-dab6: one per day, by the seventh day set round the house"}
+      - {motif: seven-day-completion-of-work, refs: ["ETCSL 2.1.7 620-621"], note: "a2 ud-da 1-ta mu-du3 ud 7-kam-ma-ka e2-e im-mi-dab6: one per day, by the seventh day set round the house"}
       - {motif: named-stelae-at-temple, refs: ["ETCSL 2.1.7 625-654"], note: "Six stelae (na-du3-a) each 'named' (mu-še3 im-ma-sa4): 'Ninĝirsu has recognised Gudea', '... has looked with favour', '... chosen with his holy heart', '... made his throne firm', '... decided a good fate', 'Bau is the life of Gudea'"}
-      - {motif: king-chosen-by-god-from-heart, refs: ["ETCSL 2.1.7 636-641"], note: "gu3-de2-a en {d}nin-ĝir2-su-ke4 šag4 kug-ge bi2-pad3"}
+      - {motif: man-after-gods-heart, refs: ["ETCSL 2.1.7 636-641"], note: "gu3-de2-a en {d}nin-ĝir2-su-ke4 šag4 kug-ge bi2-pad3"}
       - {motif: throne-established-by-god, refs: ["ETCSL 2.1.7 642-646"], note: "gu-za-ni mu-gen6: made his throne firm; lugal mu-ni-še3 kur tuku2-tuku2-e 'at whose name lands tremble'"}
-      - {motif: temple-stairs-and-basins, refs: ["ETCSL 2.1.7 622-624"], note: "Trimmings laid as stairs, basins (šim) fashioned from them and set in the house"}
     hints:
       - "Compare 1 Kgs 7:21 (the pillars named Jachin and Boaz) and Gen 28:18-22; 35:14 (named standing stone)."
       - "Compare 1 Sam 13:14 and 16:7 (chosen after God's own heart) and 2 Sam 7:13,16 (throne established forever)."
@@ -288,7 +320,7 @@ units:
       - {motif: new-moon-image-of-temple, refs: ["ETCSL 2.1.7 657", "ETCSL 2.1.7 670-672"], note: "ud-sakar gibil-gin7 men bi2-il2: tiara like the new moon"}
       - {motif: monster-guardians-at-temple-gates, refs: ["ETCSL 2.1.7 665-666", "ETCSL 2.1.7 673-674", "ETCSL 2.1.7 679-680"], note: "dub-la2-bi am-gin7; ušum ... ur-maḫ-gin7; la-ḫa-ma abzu-da; ḫu-ri2-in am-še3 igi il2-il2 'eagle raising its eyes to a wild bull' on the King's Gate"}
       - {motif: rainbow-over-gate, refs: ["ETCSL 2.1.7 681-682"], note: "{ĝiš}ti kan4-e us2-sa-bi tirx(NIR)-an-na an-ne2 us2-sa-am3: the curved posts over the gate are a rainbow stretched over the sky"}
-      - {motif: god-dines-golden-bowls-honey-wine, refs: ["ETCSL 2.1.7 688-690"], note: "bur kug-sig17 lal3 ĝeštin de2-a an-ne2 šu4-ga-am3"}
+      - {motif: temple-provisions-lavish, refs: ["ETCSL 2.1.7 688-690"], note: "bur kug-sig17 lal3 ĝeštin de2-a an-ne2 šu4-ga-am3"}
       - {motif: tree-of-life, refs: ["ETCSL 2.1.7 691-693"], note: "Interpretive: the bedchamber is 'the abzu's fruit-bearing holy meš tree' (meš3 kug abzu-a gurun7 il2-la)"}
       - {motif: slain-monsters-as-temple-trophies, refs: ["ETCSL 2.1.7 698-721"], note: "šeg9-saĝ-6 'six-headed wild ram', muš-saĝ-7 'seven-headed serpent', ušum, ĝišnimbar, saĝ-alim, ur-maḫ, ku-li-an-na, ma2-gi4-lum, gud-alim; ur-saĝ ug5-ga i3-me-ša-ke4-eš 'because they were warriors slain'"}
       - {motif: multi-headed-leviathan-crushed, refs: ["ETCSL 2.1.7 701-702"], note: "muš(source: ur)-saĝ-7-am3: the Seven-headed serpent, a foe slain by Ninĝirsu (the reading muš rests on the ETCSL emendation of a source with ur)"}
@@ -307,7 +339,7 @@ units:
     tags:
       - {motif: monster-guardians-at-temple-gates, refs: ["ETCSL 2.1.7 722-737"], note: "cedar doors are Iškur roaring; locks are bisons, pivots lions, bolts horned vipers hissing; jambs young lions; roof nails dragons gripping a man"}
       - {motif: temple-terror-covers-lands, refs: ["ETCSL 2.1.7 738-739", "ETCSL 2.1.7 794-798"], note: "e2-ninnu ni2-bi kur-kur-ra tug2-gin7 im-dul4: its fearsomeness covers all lands like a garment (repeated)"}
-      - {motif: temple-music-and-hymns, refs: ["ETCSL 2.1.7 744", "ETCSL 2.1.7 773-774"], note: "šag4-bi nam-šub šir3 ḫa-mun: inside, incantations and harmonious hymns; drum hall a roaring bull; courtyard holy prayers, sim and ala drums"}
+      - {motif: cymbals-harps-lyres-trumpets-in-cult, refs: ["ETCSL 2.1.7 744", "ETCSL 2.1.7 773-774"], note: "šag4-bi nam-šub šir3 ḫa-mun: inside, incantations and harmonious hymns; drum hall a roaring bull; courtyard holy prayers, sim and ala drums"}
       - {motif: divine-council, refs: ["ETCSL 2.1.7 746-747"], note: "gu2-en bar-ra-bi ki di kud {d}a-nun-ke4-ne: its outer assembly hall is the Anuna gods' place of judgment"}
       - {motif: temple-provisions-lavish, refs: ["ETCSL 2.1.7 759-769"], note: "butter and milk from the cow-pen; ovens; wine-cellar a mountain oozing wine; brewery beer like the Tigris at flood"}
       - {motif: temple-kitchens, refs: ["ETCSL 2.1.7 761-765"], note: "udun-maḫ-bi 'its huge oven'; e2 ki šukur2-bi 'house of food rations'"}
@@ -359,7 +391,7 @@ units:
       - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["ETCSL 2.1.7 913-918"], note: "Interpretive: the god's entry is a roaring storm (ud me3-še3 gu3 ĝar-am3) and a sunrise over Lagaš"}
       - {motif: consort-goddess-enters-bedchamber, refs: ["ETCSL 2.1.7 919-927"], note: "{d}ba-u2 a2-mi-ni-še3 du-a-ni ... a2-nu2-da-ka-na kur9-ra-ni {id2}idigna a-u3-ba: her entering her bedroom was the Tigris at high water; ki lagaš ḫe2-ĝal2-la-am3"}
       - {motif: temple-dedication-fourteen-day-feast, refs: ["ETCSL 2.1.7 929-934"], note: "gud-i3 udu-i3 e2-e bi2-dab5, bur an-na mu-gub tin mu-ni-de2-de2: fattened oxen and sheep, bowls of wine in the open; the Anuna gather"}
-      - {motif: god-awakened-by-temple-service, refs: ["ETCSL 2.1.7 936-941"], note: "nir-ĝal2 dumu ki aĝ2 {d}en-lil2-la2 ur-saĝ {d}nin-ĝir2-su u3-a mi-ni-zi-zi: he woke the warrior Ninĝirsu from sleep"}
+      - {motif: god-woken-by-temple-servants, refs: ["ETCSL 2.1.7 936-941"], note: "nir-ĝal2 dumu ki aĝ2 {d}en-lil2-la2 ur-saĝ {d}nin-ĝir2-su u3-a mi-ni-zi-zi: he woke the warrior Ninĝirsu from sleep"}
     hints:
       - "Compare Exod 40:2,17 (tabernacle erected on the first day of the first month) and 1 Kgs 8:1-11 (ark brought in; the glory fills the house)."
       - "Compare 1 Kgs 8:62-66 (dedication feast) and Ps 24:7-10 (the King of glory enters the gates)."
@@ -375,14 +407,12 @@ units:
     tags:
       - {motif: divine-temple-staff-installed, refs: ["ETCSL 2.1.7 944-1057"], note: "Refrain me-ni-da mu-na-da-dib-e 'with his duties he introduced to him': Ig-alim (great door), Šul-šaga (hand-washing), Lugal-kur-dub (general), Kur-šuna-buruam, Lugal-si-sa (adviser), Šakkan (minister), Kinda-zid (chamberlain), En-šeg-nun (donkey herd), En-lulim (hind herd), Ušumgal-kalama (musician), Lugal-igi-ḫuš (drum)"}
       - {motif: gatekeepers-levitical, refs: ["ETCSL 2.1.7 944-956"], note: "ig gal dim ĝir2-nun-na gal5-la2 gal: Ig-alim 'the Great Door', chief bailiff; to guide the righteous (zid-du) and put the evildoer's neck in the stock"}
-      - {motif: temple-priestly-vestments-classes, refs: ["ETCSL 2.1.7 952-953"], note: "kuš la2 gada la2 saĝ-a mur10-a: the skin-clad, the linen-clad and those with covered heads appointed in the courtyard"}
       - {motif: bronze-laver-for-washing-hands-and-feet, refs: ["ETCSL 2.1.7 957-958"], note: "Interpretive: Šul-šaga 'to let hands always be washed (šu4-luḫ), to serve water to the lord with holy hands'"}
       - {motif: divine-warrior, refs: ["ETCSL 2.1.7 971-989"], note: "seven-headed mace, mitum, 'flood-storm' weapon; to inundate (a-gin7 ĝa2-ĝa2) Enlil's enemy land"}
-      - {motif: intercessor-prays-for-king, refs: ["ETCSL 2.1.7 993-1005"], note: "Lugal-si-sa: nam-šita ki lagaš šu du8-a ... nam-til3 sipad zid gu3-de2-a-da giri17 šu ĝal2-la: entreaties for Lagaš, prayer for the life of the shepherd"}
+      - {motif: prayer-for-life-of-king, refs: ["ETCSL 2.1.7 993-1005"], note: "Lugal-si-sa: nam-šita ki lagaš šu du8-a ... nam-til3 sipad zid gu3-de2-a-da giri17 šu ĝal2-la: entreaties for Lagaš, prayer for the life of the shepherd"}
       - {motif: music-drives-away-evil-spirit, refs: ["ETCSL 2.1.7 1048-1057"], note: "Interpretive: the balaĝ drum's duty is šag4 ḫuĝ-ĝa2-da ... igi er2 pad3-da er2 šex-da: to soothe the heart, dry weeping eyes, banish mourning, calm the god's raging heart"}
       - {motif: cymbals-harps-lyres-trumpets-in-cult, refs: ["ETCSL 2.1.7 1041-1047"], note: "ti-gi4 ... al-ĝar mi-ri2-tum: tigi, alĝar and miritum instruments"}
-      - {motif: seven-divine-daughters, refs: ["ETCSL 2.1.7 1058-1069"], note: "dumu maš 7 {d}ba-u2-me: Bau's seven daughters (septuplets) intercede for Gudea"}
-      - {motif: god-woken-by-servants, refs: ["ETCSL 2.1.7 965-967"], note: "nir-ĝal2 ... u3-a zi-zi-da: to wake Ninĝirsu from sleep with food and drink"}
+      - {motif: god-woken-by-temple-servants, refs: ["ETCSL 2.1.7 965-967"], note: "nir-ĝal2 ... u3-a zi-zi-da: to wake Ninĝirsu from sleep with food and drink"}
     hints:
       - "Compare 1 Chr 23-26 (Levites, singers, gatekeepers and treasurers appointed with their duties) and 1 Sam 16:23 (music soothes Saul)."
       - "Compare Exod 30:17-21 (washing hands and feet at the laver) and Ps 24:3-4 (clean hands)."
@@ -397,7 +427,6 @@ units:
     tags:
       - {motif: divine-temple-staff-installed, refs: ["ETCSL 2.1.7 1070-1106"], note: "Ĝišbar-e (Enlil's surveyor, farmer of Gu-edina), Lama (inspector of fisheries), Dim-gal-abzu (herald of the steppe), Lugal-ennu-iri-kuga (constable with the white cedar mace)"}
       - {motif: be-fruitful-and-multiply, refs: ["ETCSL 2.1.7 1088-1096"], note: "mušen-bi rin2-rin2-na-da, nunuz-bi ... ama-bi buluĝ3-e-da, du8-du8 maš-anše lu-a-ba ... niĝ2-kud nu-ak-da: birds lay eggs and rear young, beasts multiply undiminished"}
-      - {motif: grain-goddess-ezina, refs: ["ETCSL 2.1.7 1074-1078"], note: "{d}ezina2-ku3-su3 pa sikil-e absin3-na saĝ an-še3 il2: the grain-goddess raises her head in the furrows"}
       - {motif: temple-built-by-gods-together, refs: ["ETCSL 2.1.7 1107-1117"], note: "An made the location fitting, Enlil wound a turban on its top, Ninḫursaĝa looked approvingly, Enki drove its pegs, Suen made its powers great, Ninĝirsu chose it, Nanše cared for it"}
       - {motif: gods-chosen-sacred-city, refs: ["ETCSL 2.1.7 1113"], note: "{d}nin-ĝir2-su-ke4 eš3 numun i-a šag4-ge ba-ni-pad3: Ninĝirsu chose it with his heart"}
       - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.1.7 1118-1124"], note: "aĝrig kalag-ga {d}nanše ... sipad gu2-tuku {d}nin-ĝir2-su-ka: mighty steward of Nanše, accomplished shepherd of Ninĝirsu"}
@@ -435,7 +464,7 @@ units:
     tags:
       - {motif: god-arrives-at-new-temple, refs: ["ETCSL 2.1.7 1186-1195"], note: "lugal-bi barag ĝir2-nun-na-ka ur-saĝ {d}nin-ĝir2-su ud-de3-eš2 im-e3; stands like Utu in his blue chariot"}
       - {motif: consort-goddess-enters-bedchamber, refs: ["ETCSL 2.1.7 1198-1202"], note: "nu2-bi ... šilamx ki-nu2-ba dub3 ĝar-ra-am3; ama {d}ba-u2 en {d}nin-ĝir2-su-da ki-nu2 mu-da-ab-dug3-ge: Bau rests comfortably with Ninĝirsu on the quilt strewn with fresh herbs"}
-      - {motif: throne-in-temple-as-gods-seat, refs: ["ETCSL 2.1.7 1196-1197"], note: "gu-za gu2-en-na gub-ba-bi e2 kug an-na ul-la du2-ru-na-am3: its throne is An's holy seat"}
+      - {motif: temple-place-of-throne-and-feet, refs: ["ETCSL 2.1.7 1196-1197"], note: "gu-za gu2-en-na gub-ba-bi e2 kug an-na ul-la du2-ru-na-am3: its throne is An's holy seat"}
       - {motif: bronze-sea-on-twelve-oxen, refs: ["ETCSL 2.1.7 1206-1210"], note: "Interpretive: the bowls are huge troughs never lacking water, the goblets are the Tigris and Euphrates carrying abundance"}
       - {motif: king-remits-debts, refs: ["ETCSL 2.1.7 1216"], note: "ur5 mu-du8 šu-šu mu-luḫ: he remitted debts and made all hands clean"}
       - {motif: proclaim-liberty-throughout-the-land, refs: ["ETCSL 2.1.7 1216"], note: "ur5 mu-du8: debt release proclaimed at the temple's inauguration"}
@@ -467,7 +496,6 @@ units:
       - {motif: sheep-of-gods-pasture, refs: ["ETCSL 2.1.7 1321-1323"], note: "tur3 ḫe2-em-ši-du3-du3, a-maš ḫe2-em-ši-gibil4-gibil4, uĝ3 u2-sal-la ḫe2-ĝal2-la ḫa-mu-da-nu2: cow-pens erected, people lie down in safe pastures"}
       - {motif: yhwh-my-shepherd, refs: ["ETCSL 2.1.7 1323"], note: "uĝ3 u2-sal-la ... nu2: the people lie down in safe meadows (image only; said of the temple's blessing)"}
       - {motif: king-begotten-as-gods-son, refs: ["ETCSL 2.1.7 1342-1347"], note: "diĝir-zu en {d}nin-ĝiš-zid-da; diĝir-ama-zu {d}nin-sumun2-na ... ab2 zid-de3 dumu ba-tud-da-me: you are a child born of the true cow; gu3-de2-a dumu {d}nin-ĝiš-zid-da"}
-      - {motif: gilgamesh-named, refs: ["ETCSL 2.1.7 1340"], note: "{d}gilgameš2-da mu2-a: grown (tall) like Gilgameš (context broken)"}
       - {motif: throne-established-by-god, refs: ["ETCSL 2.1.7 1341"], note: "{ĝiš}gu-za gub-ba-bi lu2 nu-kur2-e: no one shall remove its throne set up there"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.1.7 1353-1354"], note: "gu3-de2-a dumu {d}nin-ĝiš-zid-da-ka nam-til3 ḫa-mu-ra-sud"}
       - {motif: temple-terror-covers-lands, refs: ["ETCSL 2.1.7 1355-1360"], note: "ni2 me-lem4-bi kalam-ma ru-a; an-ne2 {d}en-lil2-e nam lagaš tar-ra"}
@@ -519,7 +547,7 @@ units:
       - {motif: king-weeps-in-palace, refs: ["ETCSL 2.2.3 A:104-106"], note: "{d}i-bi2-{d}suen e2-gal ni2-te-na i-si-iš ba-ni-in-la2-la2, e2-nam-til3-la ... er2 gig mu-un-še8-še8"}
       - {motif: corpses-floating-in-river, refs: ["ETCSL 2.2.3 A:94"], note: "{id2}buranun-na ad6 i3-la2-a: corpses floating in the Euphrates"}
       - {motif: scorched-earth-campaign, refs: ["ETCSL 2.2.3 A:87-89"], note: "ĝiš maḫ ur2-bi-a mu-un-bal-e ... pu2-{ĝiš}kiri6 gurun-ba mu-un-BU-BU: trees uprooted, orchards stripped"}
-      - {motif: something-never-seen-before, refs: ["ETCSL 2.2.3 A:65-66"], note: "niĝ2 lu2 nu-zu-a niĝ2 igi nu-ĝal2-la inim nu-ĝal2-la: turmoil no one had known, unseen, nameless"}
+      - {motif: unprecedented-calamity, refs: ["ETCSL 2.2.3 A:65-66"], note: "niĝ2 lu2 nu-zu-a niĝ2 igi nu-ĝal2-la inim nu-ĝal2-la: turmoil no one had known, unseen, nameless"}
     hints:
       - "Compare Isa 13:10; Joel 2:10; Amos 8:9 (sun darkened, heavens tremble on the day of YHWH) and Exod 9:23-24 (hail and fire)."
       - "Compare Isa 10:5-6 (Assyria rod of my anger) and Hab 1:6 (I raise up the Chaldeans)."
@@ -540,10 +568,10 @@ units:
       - {motif: invader-plunders-temple-treasury, refs: ["ETCSL 2.2.3 C:168-170"], note: "kug {na4}za-gin3-bi ma2 gal-gal-e bal-še3 i3-ak-e: large boats carried off its silver and lapis lazuli"}
       - {motif: nature-reversal-curse, refs: ["ETCSL 2.2.3 C:127-132"], note: "id2 {d}en-ki-ke4 nam ku5-ra2-gin7 ka-bi-a ba-uš2: like a river cursed by Enki its mouth dammed; orchards scorched like an oven"}
       - {motif: dove-flies-from-window, refs: ["ETCSL 2.2.3 C:207-208"], note: "{d}nin-ḫur-saĝ ... tum12{mušen}-gin7 ab-lal3-ta ba-da-an-dal edin-na bar bi2-ib-gub"}
-      - {motif: wild-snake-lairs-in-ruins, refs: ["ETCSL 2.2.3 C:145"], note: "muš kur-ra-ke4 ki-nu2 ba-ni-ib-ĝar: the snake of the mountains made its lair in Adab"}
-      - {motif: statues-smashed-by-enemy, refs: ["ETCSL 2.2.3 C:189"], note: "alan dim2-ma ulutim2 sag9-ga-bi im-ze2-er-ze2-re-e-ne"}
+      - {motif: ruined-city-haunted-by-desert-creatures, refs: ["ETCSL 2.2.3 C:145"], note: "muš kur-ra-ke4 ki-nu2 ba-ni-ib-ĝar: the snake of the mountains made its lair in Adab"}
+      - {motif: temple-destroyed-by-enemies, refs: ["ETCSL 2.2.3 C:189"], note: "alan dim2-ma ulutim2 sag9-ga-bi im-ze2-er-ze2-re-e-ne"}
       - {motif: like-milk-poured-to-dogs, refs: ["ETCSL 2.2.3 C:188"], note: "ga-eš{ki} ga-gin7 ur-re ba-an-de2: Gaeš poured out like milk to dogs"}
-      - {motif: haunted-desolate-city, refs: ["ETCSL 2.2.3 C:143", "ETCSL 2.2.3 C:149"], note: "šu lil2-la2 ba-ab-dug4: Keš and Zabalam's Giguna made haunted (lil2)"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.2.3 C:143", "ETCSL 2.2.3 C:149"], note: "šu lil2-la2 ba-ab-dug4: Keš and Zabalam's Giguna made haunted (lil2)"}
       - {motif: rejected-anointed-lament, refs: ["ETCSL 2.2.3 C:193-195"], note: "{ĝiš}gu-za an-na-bi nu-ub-gub ... ĝišnimbar-gin7 ... ba-ra-an-kad4: its heavenly throne not set up, cut down like a palm and bound"}
       - {motif: dwelling-in-darkness-like-the-long-dead, refs: ["ETCSL 2.2.3 C:214-215"], note: "u18-lu lu2 ĝi6-a ba-an-dur2-ru-ne-eš: the storm made people dwell in darkness"}
     hints:
@@ -564,7 +592,6 @@ units:
       - {motif: goddess-weeps-for-destroyed-city, refs: ["ETCSL 2.2.3 C:247-248", "ETCSL 2.2.3 C:277"]}
       - {motif: famine-in-besieged-city, refs: ["ETCSL 2.2.3 C:251-253"], note: "urim5{ki}-ma lu2 u2-še3 nu-ĝen lu2 a-še3 nu-ĝen: no one went for food or water, those who went did not return"}
       - {motif: god-brings-enemy-from-mountains, refs: ["ETCSL 2.2.3 C:254-261"], note: "elam to the south, ḫa-al-ma enemy in the uplands, ti-id-nu-um strapping maces to their loins; Enlil sends Elam a second time (2-kam-ma-še3)"}
-      - {motif: three-days-and-three-nights, refs: ["ETCSL 2.2.3 C:264"], note: "ud 3-e ĝi6 3-e la-ba-da-te: not three days and three nights passed before the city was raked by a hoe"}
       - {motif: god-taken-captive-in-fetters, refs: ["ETCSL 2.2.3 C:265"], note: "kisiga{ki} {d}dumu-zid saĝ-gin7 ba-ra-e3 šu-ni ba-da-ab-du3: Dumuzid left Kisiga as a prisoner of war, hands fettered"}
       - {motif: princess-becomes-forced-laborer, refs: ["ETCSL 2.2.3 C:271-276"], note: "ga-ša-an-ĝen niĝ2-gur11-ĝa2 ga-ba-da-u5 ki-ba gi4-in de3-ĝen: 'I am queen, but I shall be a slave (gi4-in) there'"}
       - {motif: personified-city-speaks, refs: ["ETCSL 2.2.3 C:273-277"], note: "the queen of Kisiga speaks her lament in the first person (Emesal ga-ša-an, -ĝen)"}
@@ -581,17 +608,16 @@ units:
     tags:
       - {motif: famine-in-besieged-city, refs: ["ETCSL 2.2.3 E:292-302"], note: "{d}en-lil2-le šag4-ĝar lu2 niĝ2-ḫul iri-a ba-an-da-dab5: Enlil afflicted the city with famine; people like fish grabbed in a pond"}
       - {motif: gates-sunk-into-the-earth, refs: ["ETCSL 2.2.3 E:292"], note: "Interpretive: {d}en-lil2-le abul-la maḫ-ba {ĝiš}ig tum9-ma bi2-in-gub: Enlil opened the grand gate's door to the wind"}
-      - {motif: famine-strikes-king, refs: ["ETCSL 2.2.3 E:303-308"], note: "lugal niĝ2 sag9-ga gu7-gu7-a šukur2-re im-ma-an-dab5: the king who ate marvellous food grabbed at a ration"}
       - {motif: offerings-cut-off-priests-mourn, refs: ["ETCSL 2.2.3 E:309-317", "ETCSL 2.2.3 E:324-327"], note: "kiĝ2-sig unu2 gal diĝir-re-e-ne-ke4 šu ba-e-la2-la2; ma2 nesaĝ ... nesaĝ nu-mu-un-na-ab-tum3: evening meal of the gods defiled, first-fruit boat brings no first-fruits"}
       - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 2.2.3 E:325-326", "ETCSL 2.2.3 E:343-344"], note: "ma2 nesaĝ-ĝa2: the first-fruit boat to Enlil at Nibru ceases"}
       - {motif: music-of-city-silenced, refs: ["ETCSL 2.2.3 E:314-315", "ETCSL 2.2.3 E:337"], note: "e2 gud-gin7 gu3 bi2-ib-dug4-ga-a re sig9-ga-bi ba-du3: the house that bellowed like a bull silenced; no churning song"}
-      - {motif: no-sound-of-millstones, refs: ["ETCSL 2.2.3 E:317"], note: "{na4}kinkin {ĝiš}naĝa3 ĝiš-gan-na i3-dur2-dur2 lu2 nu-um-ši-gam-e: mortar, pestle and grinding stone lay idle"}
+      - {motif: sound-of-millstones-and-lamp-cease, refs: ["ETCSL 2.2.3 E:317"], note: "{na4}kinkin {ĝiš}naĝa3 ĝiš-gan-na i3-dur2-dur2 lu2 nu-um-ši-gam-e: mortar, pestle and grinding stone lay idle"}
       - {motif: roads-of-zion-mourn, refs: ["ETCSL 2.2.3 E:318-328"], note: "Shining Quay silted; rushes and mourning reeds grow (gi re-e ba-an-mu2); no paths on either bank"}
       - {motif: inheritance-turned-to-strangers, refs: ["ETCSL 2.2.3 E:331-336"], note: "cows carried to enemy land; i3-bi lu2 i3 nu-zu-ne i3-du9-du9-ne: those unfamiliar with butter churned the butter"}
       - {motif: divine-son-intercedes-with-father, refs: ["ETCSL 2.2.3 E:340-356"], note: "{d}suen-e a-a-ni {d}en-lil2-ra er2 mu-un-na-še8-še8: 'O father who begot me, why have you turned away from my city?'"}
       - {motif: why-does-god-stand-far-off, refs: ["ETCSL 2.2.3 E:341-342"], note: "a-na-aš ba-e-da-gur-re-en: why have you turned away?"}
       - {motif: restore-us-refrain, refs: ["ETCSL 2.2.3 E:352-356"], note: "a2-zu-še3 niĝin2-am3-ši-ib ... me ki-en-gi-ra ... ki-bi ḫa-ra-ab-gi4-gi4: enclose my city in your embrace; restore the divine powers of Sumer"}
-      - {motif: haunted-desolate-city, refs: ["ETCSL 2.2.3 E:345-349"], note: "du6-ur2 ... eš3 lil2-la2 ba-ab-ĝar; iri-zu igi bar-ra e2-ri-a sug4-ga: gaze on your city, an empty wasteland; en priests carried off by phantoms (lil2)"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.2.3 E:345-349"], note: "du6-ur2 ... eš3 lil2-la2 ba-ab-ĝar; iri-zu igi bar-ra e2-ri-a sug4-ga: gaze on your city, an empty wasteland; en priests carried off by phantoms (lil2)"}
       - {motif: communal-lament, refs: ["ETCSL 2.2.3 F:358"], note: "a e2 zid e2 zid a lu2-bi lu2-bi: 'O good house, good house! O its people, its people!'"}
     hints:
       - "Compare Lam 1:4; 2:6 (roads of Zion mourn, festivals forgotten) and Joel 1:9-13 (offering cut off)."
@@ -612,14 +638,13 @@ units:
       - {motif: sword-outside-death-inside, refs: ["ETCSL 2.2.3 G:399-402"], note: "urim5{ki}-ma šag4-bi nam-uš2-am3 bar-bi nam-uš2-am3, šag4-bi-a niĝ2 šag4-ĝar-ra-ka ... bar-bi-a {ĝiš}tukul elam{ki}-ma-ka"}
       - {motif: famine-in-besieged-city, refs: ["ETCSL 2.2.3 G:389-393"], note: "iri {ĝiš}tukul-e saĝ nu-šum2-mu-a šag4-ĝar-e im-us2: those not felled by weapons succumbed to hunger; hunger filled the city like water"}
       - {motif: better-slain-by-sword-than-famine, refs: ["ETCSL 2.2.3 G:389-391"], note: "Interpretive: those spared by weapons die of hunger which twists faces and muscles"}
-      - {motif: siege-weapons-and-stones, refs: ["ETCSL 2.2.3 G:381-386"], note: "{urud}ḫa-zi-in gal-gal ... {ĝiš}pan gal-gal ... {ĝiš}ti zu2-ke4 muru9 šeĝ3-ĝa2-gin7 ... na4 gal-gal: axes, spears, bows, arrows like rain, great stones"}
-      - {motif: lamenters-strike-necks-weep, refs: ["ETCSL 2.2.3 G:395-398"], note: "šu-bi gu2-bi-še3 ba-ši-ib-ri-ri er2 mu-un-še8-še8-ne ... en3-še3-am3 ka garaš2-a-ka i-im-til-le-de3-en-de3-en: 'How long until we are finished off by this catastrophe?'"}
+      - {motif: how-long-o-god, refs: ["ETCSL 2.2.3 G:395-398"], note: "šu-bi gu2-bi-še3 ba-ši-ib-ri-ri er2 mu-un-še8-še8-ne ... en3-še3-am3 ka garaš2-a-ka i-im-til-le-de3-en-de3-en: 'How long until we are finished off by this catastrophe?'"}
       - {motif: precious-sons-like-clay-pots, refs: ["ETCSL 2.2.3 G:406"], note: "{ĝiš}tukul-e {dug}saḫar2-gin7 saĝ gaz i3-ak-e: weapons smashed heads like clay pots"}
       - {motif: gentiles-enter-the-sanctuary, refs: ["ETCSL 2.2.3 G:407B", "ETCSL 2.2.3 G:442"], note: "e2-kiš-nu-ĝal2 {d}nanna-ka lu2-erim2-e ba-e-dab5; dub-šen kug lu2 igi nu-bar-re-dam erim2-e igi i-ni-in-bar: the sacred box no one had seen was seen by the enemy"}
       - {motif: temple-destroyed-by-enemies, refs: ["ETCSL 2.2.3 G:420-434"], note: "e2-e ĝiš-bur2 maḫ-bi ba-šub bad3-si-bi ba-gul; dragons and lions pulled down with ropes and carried off; doors weep like a fugitive"}
-      - {motif: statues-smashed-by-enemy, refs: ["ETCSL 2.2.3 G:408", "ETCSL 2.2.3 G:444"], note: "{urud}alan uzugx-ge si-a-bi gu2-guru5 ba-an-ne-eš"}
+      - {motif: temple-destroyed-by-enemies, refs: ["ETCSL 2.2.3 G:408", "ETCSL 2.2.3 G:444"], note: "{urud}alan uzugx-ge si-a-bi gu2-guru5 ba-an-ne-eš"}
       - {motif: scorched-earth-campaign, refs: ["ETCSL 2.2.3 G:411-419"], note: "palm trees torn out like rushes, tops in the dust, crowns burnt; cows' horns cut off"}
-      - {motif: no-justice-throne-fallen, refs: ["ETCSL 2.2.3 G:438-440"], note: "{ĝiš}gu-za ki di ku5-ru-bi nu-mu-un-gub di si nu-um-sa2-e; {d}alamuš-e {ĝiš}ĝidru ba-da-an-šub"}
+      - {motif: justice-ceases-in-ruined-city, refs: ["ETCSL 2.2.3 G:438-440"], note: "{ĝiš}gu-za ki di ku5-ru-bi nu-mu-un-gub di si nu-um-sa2-e; {d}alamuš-e {ĝiš}ĝidru ba-da-an-šub"}
       - {motif: priests-carried-off-cult-ends, refs: ["ETCSL 2.2.3 G:445-448"], note: "engiz ensi kišib3-ĝal2 ... kur2-re ba-ab-laḫ5-e-eš; šag4-gada-la2 ... iri kur2-še3 ba-e-re7-eš: cook, dream-interpreter, seal-keeper and linen-clad priests carried to a foreign city"}
       - {motif: music-of-city-silenced, refs: ["ETCSL 2.2.3 G:436-437", "ETCSL 2.2.3 G:441"], note: "tigi2 šem5 {kuš}a2-la2-e gu3 nun nu-mu-ni-ib-be2; balaĝ na-mu-un-tag-ge-ne"}
     hints:
@@ -642,8 +667,7 @@ units:
       - {motif: restoration-of-fortunes, refs: ["ETCSL 2.2.3 G:464-469"], note: "urim5{ki} giri17-zal-la ḫe2-en-du3 uĝ3 ḫe2-en-ši-gam-e ... ki-bi ḫa-ra-ab-gi4-gi4: Urim shall be rebuilt in splendour"}
       - {motif: god-returns-to-his-temple, refs: ["ETCSL 2.2.3 G:475-477A"], note: "a-a {d}nanna iri{ki}-ni urim5{ki}-ma saĝ il2-la mu-un-ĝen; šul {d}suen e2-kiš-nu-ĝal2-la-še3 im-ma-da-an-ku4-ku4"}
       - {motif: glory-returns-from-east, refs: ["ETCSL 2.2.3 G:475-476"], note: "Interpretive: the god re-enters his temple after the restoration decree"}
-      - {motif: haunted-desolate-city, refs: ["ETCSL 2.2.3 H:479-481"], note: "iri{ki} lil2-la2-am3 šag4-bi a-še-ra gi er2-ra ba-an-mu2: mourning reeds grow in the haunted city"}
-      - {motif: nations-submit-like-cloud, refs: ["ETCSL 2.2.3 G:471-473"], note: "muru9-gin7 ki us2-sa-a-gin7 šu mu-un-na-ĝa2-ĝa2: like a cloud hugging the earth they shall submit"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.2.3 H:479-481"], note: "iri{ki} lil2-la2-am3 šag4-bi a-še-ra gi er2-ra ba-an-mu2: mourning reeds grow in the haunted city"}
     hints:
       - "Compare Zech 1:12-17 (How long? ... I have returned to Jerusalem with compassion; my house shall be built) and Ezek 43:1-5 (the glory returns)."
       - "Compare Isa 52:8 (YHWH returns to Zion) and Jer 30:18 (the city rebuilt on its tell)."
@@ -675,13 +699,12 @@ units:
     read: ["ETCSL 2.2.4 A", "ETCSL 2.2.4 B"]
     tags:
       - {motif: eikhah-lament-opening, refs: ["ETCSL 2.2.4 A:1-2"], note: "lil2-e a-gin7 ib2-sag3 ki-bi me-na gi4-gi4: 'how (a-gin7) did it become haunted? when will it be restored?'"}
-      - {motif: haunted-desolate-city, refs: ["ETCSL 2.2.4 A:5-11"], note: "Refrain lil2-e a-gin7 ib2-sag3: Ki-ur, E-kur, Ubšu-unkena, Egal-maḫ"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.2.4 A:5-11"], note: "Refrain lil2-e a-gin7 ib2-sag3: Ki-ur, E-kur, Ubšu-unkena, Egal-maḫ"}
       - {motif: how-long-o-god, refs: ["ETCSL 2.2.4 A:31", "ETCSL 2.2.4 A:36-37"], note: "en-na-me-še3 ... ud en-še3 i3-šub ... en-še3 bar bi2-ib-tab2 šag4 nu-ub-ši-ḫuĝ-e: how long will his heart burn and not be placated?"}
-      - {motif: no-justice-throne-fallen, refs: ["ETCSL 2.2.4 A:18-21"], note: "ub-šu-unken-na ki di gal ku5-ru eš-bar-e si sa2 ba-ra-an-zu-uš-am3: no more decisions in the place of judgment"}
+      - {motif: justice-ceases-in-ruined-city, refs: ["ETCSL 2.2.4 A:18-21"], note: "ub-šu-unken-na ki di gal ku5-ru eš-bar-e si sa2 ba-ra-an-zu-uš-am3: no more decisions in the place of judgment"}
       - {motif: god-becomes-enemy-of-his-people, refs: ["ETCSL 2.2.4 A:28-29"], note: "ki-tuš-ba gu2-zal-a-gin7 ba-ra-an-šub ... ab2 sag2 dug4-ga-gin7 e-ne sag2 ba-ra-an-dug4: Enlil fell upon them as criminals and scattered them like a herd"}
       - {motif: lyre-turned-to-mourning, refs: ["ETCSL 2.2.4 A:38-41"], note: "{kuš}šem5 {kuš}a2-la2 mu-un-du12-a re i-lu gig-ga-a a-na-še3 ud mi-ni-ib2-zal: those who played the drums now spend the day in bitter lament"}
       - {motif: roads-of-zion-mourn, refs: ["ETCSL 2.2.4 A:32-33"], note: "e2 gu-la za-pa-aĝ2 ib2-zu-a-bi e2-ri-a sug4-gin7 lu2 nu-un-ku4-ku4"}
-      - {motif: wives-and-children-fallen, refs: ["ETCSL 2.2.4 A:42-43"], note: "lu2 dam šub-ba dumu šub-ba-ne a uru2 ḫul-a-me šir3-re-eš ba-ab-be2-ne"}
       - {motif: personified-city-speaks, refs: ["ETCSL 2.2.4 A:49"], note: "e2 zid-de3 er2 gig-ga-bi im-me: the true temple itself wails"}
       - {motif: sheep-of-gods-pasture, refs: ["ETCSL 2.2.4 A:35"], note: "uĝ3 saĝ gig2-ga u2 ḫi-a udu-gin7 bi2-ib2-gu7-a: the black-headed people ate rich grass like sheep"}
     hints:
@@ -720,7 +743,7 @@ units:
       - {motif: god-abandons-own-sanctuary, refs: ["ETCSL 2.2.4 E:86-94"], note: "šu bi2-in-dag gaba-ni ib2-ta-an-zig3 ... aĝ2-gig ... bi2-ib-ak: he abandoned it and made it a sacrilege"}
       - {motif: god-becomes-enemy-of-his-people, refs: ["ETCSL 2.2.4 E:95-102"], note: "u3-mu-un-bi im-ḫul-am3 ... uru2-bi e2-bi in-gul-gul-am3 ... dam dumu-bi šag4-ba mi-ni-in-ug5-ga-am3: its lord, like an evil wind, killed wives and children"}
       - {motif: no-one-intercedes-for-city, refs: ["ETCSL 2.2.4 E:111-112", "ETCSL 2.2.4 F:114-115"], note: "a2-bi nu-mu-un-tag-ga-am3 en3-bi nu-tar-ra-am3: no one touches his arm, no one asks after it"}
-      - {motif: madness-and-confusion-sent, refs: ["ETCSL 2.2.4 E:103-104"], note: "dim2-ma-bi ĝiri3 ib2-ta-an-kur2 ... umuš-bi in-suḫ3-am3: he made its mind wander, confused its intelligence"}
+      - {motif: madness-blindness-groping-at-noon, refs: ["ETCSL 2.2.4 E:103-104"], note: "dim2-ma-bi ĝiri3 ib2-ta-an-kur2 ... umuš-bi in-suḫ3-am3: he made its mind wander, confused its intelligence"}
       - {motif: weeping-in-the-night-tears-on-cheek, refs: ["ETCSL 2.2.4 E:93", "ETCSL 2.2.4 E:108"], note: "ĝi6 an-bar7-ba šag4-ba er2 bi2-in-si: night and day he filled its heart with tears"}
     hints:
       - "Compare Isa 59:16 and Ezek 22:30 (no intercessor, no one to stand in the breach) and Isa 60:8 (doves to their windows)."
@@ -739,7 +762,7 @@ units:
       - {motif: god-as-father-of-israel, refs: ["ETCSL 2.2.4 G:134"], note: "{d}mu-ul-lil2 a-a saĝ gig2-ga-ke4: father of the black-headed people"}
       - {motif: mourners-taught-what-to-say, refs: ["ETCSL 2.2.4 I:142-149"], note: "Refrain e-ne dug4-mu-na-ab 'say to him': u3-mu-un-ĝu10 en3-še3 i-bi2 bar-mu-ši-ib 'my lord, how long? look upon me'; 're-enter your dwelling in my darkened shrines'"}
       - {motif: how-long-o-lord, refs: ["ETCSL 2.2.4 I:143"], note: "u3-mu-un-ĝu10 en3-še3: 'my lord, how long?'"}
-      - {motif: lift-up-your-head, refs: ["ETCSL 2.2.4 I:152"], note: "saĝ-zu zi-zi-i ... ul-še3 ma-ra-an-ĝa2-ĝa2: that you lift your head high forever"}
+      - {motif: god-lifts-the-head, refs: ["ETCSL 2.2.4 I:152"], note: "saĝ-zu zi-zi-i ... ul-še3 ma-ra-an-ĝa2-ĝa2: that you lift your head high forever"}
     hints:
       - "Compare Hos 14:3 ('Take words with you and say to him') and Ps 6:4; 13:2 (how long?)."
       - "Compare Ps 3:4 (lifter of my head) and Lam 3:31-33 (he will have compassion)."
@@ -759,7 +782,7 @@ units:
       - {motif: god-returns-to-his-temple, refs: ["ETCSL 2.2.4 M:197-198", "ETCSL 2.2.4 M:210"], note: "uru2-ĝu10 šag4 kug-ĝu10 mu-e-ši-ḫuĝ za-a-ar ma-ra-an-gur-ra-am3: 'you have placated my holy heart' - he has returned to you"}
       - {motif: consort-intercedes-for-city, refs: ["ETCSL 2.2.4 M:186-188"], note: "ama gal {d}nin-lil2-le a-ra-zu-a u3-gul mu-ni-in-ĝar-ra; the brickwork itself says 'rebuild my women's quarters'"}
       - {motif: ingathering-of-exiles, refs: ["ETCSL 2.2.4 M:206-209"], note: "uĝ3 sug-zag-ge ba-ab-gu7-a-aš za-a-ar ma-ra-an-laḫ4-e-eš-am3, dumu ama-ni ba-da-an-gur-re-eš-am3 gu2 mu-un-ĝar-re-eš: devastated people brought back, children turned from mothers gathered"}
-      - {motif: gods-banquet-in-restored-temple, refs: ["ETCSL 2.2.4 M:204-205"], note: "{d}en-lil2 {d}nin-lil2-bi e2-kur-ra barag mu-ni-in-ri-eš-am3 ... kurun2 mi-ni-in-dug3-ge-eš-am3"}
+      - {motif: dinner-of-gods-at-temple-inauguration, refs: ["ETCSL 2.2.4 M:204-205"], note: "{d}en-lil2 {d}nin-lil2-bi e2-kur-ra barag mu-ni-in-ri-eš-am3 ... kurun2 mi-ni-in-dug3-ge-eš-am3"}
     hints:
       - "Compare 2 Sam 24:16 ('Enough, stay your hand') and Isa 40:1-2 (comfort, her warfare is ended)."
       - "Compare Isa 44:28; 45:1,13 and Ezra 1:2-3 (Cyrus, 'my shepherd', to rebuild the temple) and Zech 8:3 (I have returned to Zion)."
@@ -776,7 +799,6 @@ units:
       - {motif: restoration-of-fortunes, refs: ["ETCSL 2.2.4 O:214-243"], note: "ki-bi gi4-gi4-da: Eridug, Adab, Urim, Larsam, Unug-Kulaba, Zabalam, Lagaš/Ĝirsu, Umma, Kiš, Marda, Isin each restored in turn"}
       - {motif: divine-council, refs: ["ETCSL 2.2.4 O:219", "ETCSL 2.2.4 P:245"], note: "{d}a-nun-na en nam tar-re-da; an {d}en-lil2 {d}en-ki {d}nin-maḫ-bi a2-bi ḫa-ba-an-aĝ2-eš-am3"}
       - {motif: enemy-expelled-from-temple, refs: ["ETCSL 2.2.4 O:230-231"], note: "e2-bi umma{ki}-a šeg12-kur-šag4-ga ... ti-id-nu-um nu-ĝar-ra ib2-ta-an-zig3-ge4-eš-am3: the treacherous Tidnum removed from the temple at Umma"}
-      - {motif: healing-god-damu, refs: ["ETCSL 2.2.4 O:242-243"], note: "{d}da-mu ... a-zu zi-ĝal2-la-ka: Damu, healer of the living, to make foreign countries bow"}
     hints:
       - "Compare Jer 33:7-13 (cities of Judah rebuilt, flocks pass under the counter's hand) and Isa 44:26; 61:4 (ruined cities raised)."
   - id: ane-etcsl-2-2-4-q-good-day-restored
@@ -787,7 +809,7 @@ units:
     tagger: "Claude Opus 5.5, reading the Sumerian"
     read: ["ETCSL 2.2.4 Q", "ETCSL 2.2.4 R"]
     tags:
-      - {motif: good-day-ordained-by-god, refs: ["ETCSL 2.2.4 Q:247-254"], note: "Anaphora ud ... e-ne ...: a day for Nibru to lift its neck, for E-kur to shine, for houses to be built, seeds to sprout, pens to be built"}
+      - {motif: this-is-the-day-yhwh-made, refs: ["ETCSL 2.2.4 Q:247-254"], note: "Anaphora ud ... e-ne ...: a day for Nibru to lift its neck, for E-kur to shine, for houses to be built, seeds to sprout, pens to be built"}
       - {motif: dwell-securely-build-houses-plant-vineyards, refs: ["ETCSL 2.2.4 Q:252-254"], note: "ud e2 du3-du3 ĝa2-nun niĝin2-e ... ud numun i-i niĝ2-zi-ĝal2 u3-tud"}
       - {motif: be-fruitful-and-multiply, refs: ["ETCSL 2.2.4 Q:255-258"], note: "u8-e sila4-a im-mi-ib-tu-ud-da tur3-e bi2-ib-si-a ... amaš daĝal bi2-ib-tag-ga: ewes and goats bear, pens widened"}
       - {motif: lament-turns-to-praise, refs: ["ETCSL 2.2.4 R:263-266"], note: "šag4 ba-ši-ḫuĝ-ĝa2-am3 bar ba-ši-im-sed4-da-am3 ... a2 kuš2-a igi bi2-in-du8-uš-am3 ib2-ta-an-ed3-de3-eš-am3: they lifted up those sunk in exhaustion"}
@@ -806,9 +828,8 @@ units:
     read: ["ETCSL 2.2.4 S"]
     tags:
       - {motif: ideal-age-of-social-harmony, refs: ["ETCSL 2.2.4 S:284-291A"], note: "ud lu2-u3 lu2-ra inim kur2 nu-di dumu a-a-ni-ir ni2 teĝ3-ĝe26-e; šeš-ban3-da šeš-gal-la-ni ḫu-luḫ-ḫa; sig9-ga kalag-ga še29-eš2 nu-di"}
-      - {motif: honor-father-and-mother, refs: ["ETCSL 2.2.4 S:284"], note: "dumu a-a-ni-ir ni2 teĝ3-ĝe26-e: a son to respect (fear) his father"}
       - {motif: valleys-raised-mountains-leveled, refs: ["ETCSL 2.2.4 S:285", "ETCSL 2.2.4 S:289"], note: "Interpretive: tur-re maḫ dugud-da 'the small to be as weighty as the great'; kaskal suḫ3-a ĝiri3 ĝa2-ĝa2 'to travel the disordered roads'"}
-      - {motif: darkness-lifted-light-to-land, refs: ["ETCSL 2.2.4 S:292-293"], note: "ud kalam-ma niĝ2-gig-ga e3-a šag4-ba ud ĝa2-ĝa2, ud niĝ2 ku10-ku10 kalam-ma zi-zi niĝ2-zi-ĝal2 ḫul2-le"}
+      - {motif: darkness-lifted-from-land, refs: ["ETCSL 2.2.4 S:292-293"], note: "ud kalam-ma niĝ2-gig-ga e3-a šag4-ba ud ĝa2-ĝa2, ud niĝ2 ku10-ku10 kalam-ma zi-zi niĝ2-zi-ĝal2 ḫul2-le"}
       - {motif: travel-without-fear, refs: ["ETCSL 2.2.4 S:290-291A"], note: "lu2-u3 ki šag4-ga-ni-še3 du-u3 ... iri-ta iri kur2-še3 du-u3 edin-na ni2 nu-teĝ3-ĝe26-e: to go where one wills, from city to foreign city without fear on the plain"}
     hints:
       - "Compare Mal 3:23-24 (turn the hearts of fathers to sons), Exod 20:12 and Isa 9:1 (people in darkness see a great light)."
@@ -824,7 +845,7 @@ units:
       - {motif: restoration-of-fortunes, refs: ["ETCSL 2.2.4 T:297-303"], note: "me erim2-e šu ḫul bi2-in-dug4-ga si in-na-an-sa2-am3; gi-gun4-bi mu-na-an-sikil-am3: desecrated powers put in order, ziggurat purified"}
       - {motif: prayer-heard-formula, refs: ["ETCSL 2.2.4 T:304-309"], note: "šudu3-da-ni ĝiš ba-an-tuku-am3 igi in-ši-in-bar-ra-am3"}
       - {motif: king-anointed-with-oil-of-gladness, refs: ["ETCSL 2.2.4 T:305-306"], note: "Interpretive: i3-ḫe-nun-na lal3 ku7-ku7-da-gin7 su-ni bi2-ib2-ak-am3: Enlil treated his body with oil of abundance like sweetest syrup"}
-      - {motif: humble-king-prostrates, refs: ["ETCSL 2.2.4 T:310-313"], note: "sun5-na šita-ba ki la2-a-ne2-eš2 ... giri17 ki su-bu-da-ne2-eš2: because the humble one prostrated himself"}
+      - {motif: king-humbles-himself-and-is-spared, refs: ["ETCSL 2.2.4 T:310-313"], note: "sun5-na šita-ba ki la2-a-ne2-eš2 ... giri17 ki su-bu-da-ne2-eš2: because the humble one prostrated himself"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.2.4 T:314-316"], note: "nam-nun-na mu sud-su3-ra2-ni e-ne-er in-na-an-dug4-ga-am3: dominion of extended years; lugal bal sag9-ga"}
       - {motif: dwell-securely-build-houses-plant-vineyards, refs: ["ETCSL 2.2.4 T:317"], note: "uĝ3 ki-tuš ne-ḫa bi2-in-dur2-ru-na: the people to inhabit safe dwellings"}
       - {motif: sheep-of-gods-pasture, refs: ["ETCSL 2.2.4 T:320"], note: "uĝ3 saĝ gig2-ga u8-gin7 lu-a: black-headed people flocking like sheep"}

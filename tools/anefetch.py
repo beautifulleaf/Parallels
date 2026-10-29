@@ -241,13 +241,14 @@ def fetch_ebl_dictionary():
     def one(w):
         try:
             d = json.loads(get(f"{EBL}/words/{urllib.parse.quote(w)}", retries=3, timeout=60))
+            return w, {"lemma": " ".join(d.get("lemma") or []), "homonym": d.get("homonym", ""),
+                       "meaning": d.get("meaning", ""), "guideWord": d.get("guideWord", ""), "pos": d.get("pos", []),
+                       "forms": [" ".join(f.get("lemma") or []) if isinstance(f, dict) else str(f) for f in d.get("forms") or []],
+                       "logograms": [" ".join(l.get("logogram") or []) if isinstance(l, dict) else str(l)
+                                     for l in d.get("logograms") or []],
+                       "origin": d.get("origin", "")}
         except Exception:
             return w, None
-        return w, {"lemma": " ".join(d.get("lemma") or []), "homonym": d.get("homonym", ""),
-                   "meaning": d.get("meaning", ""), "guideWord": d.get("guideWord", ""), "pos": d.get("pos", []),
-                   "forms": [" ".join(f.get("lemma") or []) for f in d.get("forms") or []],
-                   "logograms": [" ".join(l.get("logogram") or []) for l in d.get("logograms") or []],
-                   "origin": d.get("origin", "")}
     done = 0
     with ThreadPoolExecutor(6) as ex:
         for w, d in ex.map(one, ids):

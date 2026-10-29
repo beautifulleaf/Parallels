@@ -1,0 +1,109 @@
+# Full read of the ANE corpus, chunk 9: ETCSL 2.5.4.01 (Ishme-Dagan A) - ETCSL 2.7.1.1 (Anam). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  god-judgments-unsearchable: {label: "The god's intricate judgments cannot be fathomed or revealed by anyone", cluster: theology}
+  god-king-of-kings: {label: "The high god is titled 'lord of princes, king of kings' (en nun-nun-e-ne lugal-a lugal-be2-e)", cluster: theology}
+  king-named-in-the-womb: {label: "The god gives the king a good name while his seed is still being placed in the womb, and a birth goddess attends his birth", cluster: kingship}
+  king-given-seven-wisdoms: {label: "A god (Enki) bestows 'seven wisdoms' (ĝeštug2 7) on the king", cluster: wisdom}
+  god-acts-as-kings-intercessor-in-temple: {label: "A warrior god speaks to the high god on the king's behalf and prays for him continually in the temple", cluster: kingship}
+  sun-god-puts-justice-in-kings-mouth: {label: "The sun god puts justice and reliable words in the king's mouth so that he can judge", cluster: law}
+  king-unites-en-priesthood-and-kingship: {label: "The king combines the priestly office of en with kingship and dwells in the goddess's ĝipar", cluster: kingship}
+  gods-say-so-be-it-to-kings-destiny: {label: "The assembled gods utter an unalterable 'So be it!' (ḫe2-am3) to the destiny decreed for the king", cluster: kingship}
+  king-restores-neglected-rites: {label: "The king gathers the god's divine powers, attends to the ancient ordinances and restores the rites that had fallen out of use", cluster: cult}
+  temple-festive-on-seventh-and-fifteenth: {label: "The king makes the temple festive each month on its seventh and fifteenth days", cluster: cult}
+  libation-poured-like-rain-from-heaven: {label: "The king pours out beer and liquor for the god like water, like rain released from heaven", cluster: cult}
+  king-serves-gods-daily-meals: {label: "The king daily decides what the god will eat and drink, as faithful steward of his table", cluster: cult}
+  holy-city-exempted-from-labour-and-war: {label: "The king exempts the citizens of the holy city from corvée basket-carrying and military service and remits their tribute", cluster: law}
+  tithe-imposed-for-temple: {label: "A tenth part (zag 10) of barley, oil, wool and beer is made a due for the temples", cluster: cult}
+  king-hears-cry-of-orphan-widow-bondsman: {label: "The king supports the cases of bondsmen, orphans and widows who cry 'Alas, Utu! Alas, Nanna!'", cluster: law}
+  king-destroys-desert-brigands: {label: "The king exterminates the brigands (lu2-sa-gaz) who roam the steppe and makes the roads safe", cluster: kingship}
+  king-like-father-and-mother: {label: "The king is kind like a father and attentive like a mother to his people; foreign lands look to him as to the father who engendered them", cluster: kingship}
+  king-as-great-tree-and-shade: {label: "The king is a tall tree with thick roots and broad shining branches, a canopy and pleasant shade over the land", cluster: kingship}
+  king-as-lamp-of-land: {label: "The king lights the land like a lamp", cluster: kingship}
+  king-as-seed-of-kingship: {label: "The king is 'the good semen of kingship, the seed of rulership', a scion of cedars", cluster: kingship}
+  tribute-of-nomads-and-distant-lands: {label: "Nomads who know no house or city, and distant lands (Dilmun, the highlands), bring the king sheep, linen, dates and precious timbers", cluster: kingship}
+  king-installs-thrones-for-god-and-consort: {label: "The king makes and installs splendid thrones for the god and his consort in the temple and seats them there", cluster: cult}
+  king-sets-copper-statues-of-ancestors-in-temple: {label: "The king brings copper statues of himself, his father and his grandfather into the god's temple", cluster: cult}
+  king-oath-before-god-with-raised-hands: {label: "A future king standing with raised hands before the god is to swear by the gods that the king's songs and stela are true", cluster: kingship}
+  descendants-to-perform-kings-songs: {label: "The king prays that his descendants on the throne perform his songs to the gods daily, at the evening and morning meals", cluster: kingship}
+  kings-dynasty-made-greater: {label: "The god, who made the king's reign follow another reign, is asked to make his descendants still greater", cluster: kingship}
+  king-dedicates-weapon-and-cult-objects: {label: "The king makes and dedicates to the gods a chariot, a sedan chair, a fifty-headed mace and a copper throne", cluster: cult}
+  temple-singers-classes-ordained: {label: "Classes of temple singers are ordained: chief singer, scholar, composer, sweet-voiced singer of the king, singer for the bedchamber, antiphonal singer", cluster: cult}
+  curse-on-who-alters-royal-monument: {label: "Blessing on a successor who does not move the king's statue or erase his name, curse on the one who does", cluster: treaty}
+units:
+  - id: ane-etcsl-2-5-4-01-a-enlil-praise
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: praise of Enlil, judge of heaven and earth, who decreed Išme-Dagan's destiny"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:1-42"]
+    tags:
+      - {motif: deity-renders-verdicts-and-judgments, refs: ["ETCSL 2.5.4.01 A:16-19"], note: "niĝ2-zid ki-bi-še3 ĝar ... eš-bar-e di-di ... di-kud an ki: re-establishing justice, judge of heaven and earth; lines 1-3 and the opening of most lines broken"}
+      - {motif: god-judgments-unsearchable, refs: ["ETCSL 2.5.4.01 A:28"], note: "di galam-ma-ni na-me nu-pad3-de3: his intricate judgments no one can reveal"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 2.5.4.01 A:30-31"], note: "a2 sa-par4 gal kur-re ... sa-al-ḫub2 ... nu-še-ga šu2-a: his strength a great battle-net, a fine-mesh net covering the disobedient"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.5.4.01 A:22"], note: "a-a {d}en-lil2 sipad saĝ gig2-ga: Father Enlil, shepherd of the black-headed"}
+      - {motif: god-attacks-like-south-wind, refs: ["ETCSL 2.5.4.01 A:35"], note: "ub-da 4-ba u18-lu i3-dul4: a south wind covering the four quarters; here an image of all-pervading power rather than attack"}
+      - {motif: god-king-of-kings, refs: ["ETCSL 2.5.4.01 A:40"], note: "{d}nu-nam-nir en nun-nun-e-ne lugal-a lugal-be2-e"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.4.01 A:41-42"], note: "iri kug-ga nam dug3 ḫa-ma-ni-in-tar: he decreed a good destiny for me in the holy city"}
+    hints:
+      - "Compare Deut 10:17 and Ps 136:2-3 (God of gods, Lord of lords) with line 40; Dan 2:47."
+      - "Compare Rom 11:33 and Ps 36:7 (judgments a great deep) with line 28; Isa 40:28."
+      - "Compare Ezek 12:13, 17:20 and Hos 7:12 (God spreads his net over the rebel) with lines 30-31."
+  - id: ane-etcsl-2-5-4-01-a-election
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: the king named in the womb and endowed by the gods one after another"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:43-89"]
+    tags:
+      - {motif: king-named-in-the-womb, refs: ["ETCSL 2.5.4.01 A:43-45"], note: "a šag4-ga ru-a-ĝa2 mu dug3 ḫa-ma-ni-in-sa4: he named me with a good name when my seed was placed in the womb; {d}nin-tur5 tud-tud-a ḫa-ma-ni-in-gub: Nintur stood by at my birth; gi-dur ku5-ra2-ĝa2 ... nam-en: when my umbilical cord was cut, the en-ship"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.5.4.01 A:43"]}
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.5.4.01 A:44"]}
+      - {motif: shepherdship-of-land-given-by-god, refs: ["ETCSL 2.5.4.01 A:46-47", "ETCSL 2.5.4.01 A:56-57"], note: "nam-sipad ki-en-gi-ra; sig igi-nim-ma nam-en-bi ḫa-ma-an-šum2"}
+      - {motif: king-chosen-from-numerous-people, refs: ["ETCSL 2.5.4.01 A:55"], note: "uĝ3-ĝa2 ḫu-mu-ni-in-suḫ-en kalam ḫe2-ni-in-pad3-en: he selected me from my people and announced me to the land"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.4.01 A:56-89"], note: "Enlil lordship, An crook and staff, Uraš nursing, Ninlil destiny, Enki crown and wisdom, Suen throne, Nuska sceptre, Ninurta intercession"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.4.01 A:60", "ETCSL 2.5.4.01 A:69", "ETCSL 2.5.4.01 A:77"], note: "šibir ešgiri2 šu-ĝu10 ḫa-ma-šum2 (An); aga3 zid maḫ (Enki); ĝidru nam-lugal-la (Nuska)"}
+      - {motif: king-nursed-on-goddess-lap, refs: ["ETCSL 2.5.4.01 A:61"], note: "{d}uraš-e dub3 kug-ga-ni-a mi2 zid ḫa-ma-ni-dug4: Uraš cared for me on her holy knees"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.4.01 A:62-67"], note: "Ninlil decreed: a lofty dais for distant days, a good reign, daily service of the E-kur"}
+      - {motif: king-given-seven-wisdoms, refs: ["ETCSL 2.5.4.01 A:71"], note: "ĝeštug2 7-a šu gal ḫa-ma-ni-du7; verb partly restored"}
+      - {motif: god-acts-as-kings-intercessor-in-temple, refs: ["ETCSL 2.5.4.01 A:81-87"], note: "Ninurta {d}nu-nam-nir inim-ma ḫa-ma-ni-in-DU ... e2-kur-ra šu ḫu-mu-da-ĝal2-ĝal2 ... maškim nam-lugal-ĝa2 ḫe2-e: he prays continually for me in the E-kur and is the constable of my kingship"}
+      - {motif: king-as-constable-of-god, refs: ["ETCSL 2.5.4.01 A:87"], note: "inverted: the god Ninurta is the maškim of the king's kingship"}
+    hints:
+      - "Compare Isa 49:1 ('YHWH called me from the womb, from my mother's body he named my name') and Jer 1:5 with line 43; Ps 22:10-11 and Ps 71:6."
+      - "Compare Isa 11:2 (sevenfold spirit of wisdom on the shoot of Jesse) and Prov 9:1 (wisdom's seven pillars) with line 71."
+      - "Compare Ps 110:2 (the sceptre sent forth from Zion), Ps 21:4 (crown of fine gold set on his head) and Ps 89:20-21."
+      - "Compare 1 Sam 16:1-13 (the king chosen from among his brothers) and Ps 78:70-71 with line 55."
+  - id: ane-etcsl-2-5-4-01-a-utu-justice
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: Utu puts justice in the king's mouth, for a social order of respect and protection of the weak"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:90-99"]
+    tags:
+      - {motif: sun-god-puts-justice-in-kings-mouth, refs: ["ETCSL 2.5.4.01 A:90"], note: "{d}utu niĝ2-si-sa2 inim gen6-na ka-ĝa2 ḫa-ma-ni-in-ĝar"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.4.01 A:91-93", "ETCSL 2.5.4.01 A:98"], note: "di ku5-ru ka-aš bar uĝ3-e si sa2-e ... niĝ2-erim2 niĝ2-a2-zig3-bi ḫa-lam-e niĝ2-si-sa2 mu2-mu2: to destroy wickedness and violence and make justice grow"}
+      - {motif: king-establishes-justice-crushes-evildoers, refs: ["ETCSL 2.5.4.01 A:93"], note: "zid-du du-us2 dab5-e erim2-du ḫa-lam-me: keep the righteous on the track, destroy the wicked"}
+      - {motif: ideal-age-of-social-harmony, refs: ["ETCSL 2.5.4.01 A:94-97"], note: "šeš-e šeš-ra niĝ2-gen6-na di a-a-ra šu-kin dab5-be2 / nin9 gal-ra inim gaba-na nu-di ama-ra ni2 tuku2-de3: brother to speak truth to brother, obey the father, not contradict the elder sister, revere the mother"}
+      - {motif: ideal-king-justice-for-poor, refs: ["ETCSL 2.5.4.01 A:96-97"], note: "si-ig-ga kalag-ga-ra nu-ĝa2-ĝa2 ... a2-tuku niĝ2 šag4-ga-na nu-ak lu2 lu2-še3 nu-di: the weak not handed to the strong, the mighty not doing as he pleases, no man assigned to another (in bondage)"}
+    hints:
+      - "Compare Exod 20:12 and Lev 19:3 (honour/revere father and mother) with lines 94-95; Mal 1:6; Q 17:23-24."
+      - "Compare Ps 72:1-4, 12-14 (the king given God's justice to defend the poor) and Isa 11:3-5 with lines 90-98; Prov 16:10 (a divine decision on the king's lips)."
+      - "Compare Lev 25:39-43 and Neh 5:1-13 (no Israelite to be enslaved to his brother) with line 97."
+  - id: ane-etcsl-2-5-4-01-a-inana-spouse
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: Inana chooses the king as spouse, en-priest and king in Unug"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:100-111"]
+    tags:
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.4.01 A:100-105"], note: "nitalam2 ki aĝ2-a-ni-še3 ḫe2-en-pad3-de3-en ... ĝiš-nu2 gi-rin-na ḫe2-bi2-in-gub-en: chose me as her beloved spouse ... made me step onto the flowery bed"}
+      - {motif: goddess-looks-on-bedchamber, refs: ["ETCSL 2.5.4.01 A:103-104"], note: "igi nam-til3-la-ka-ni ḫu-mu-ši-in-bar: she looked at me with her look of life, lifting her radiant brow"}
+      - {motif: king-chosen-for-beauty, refs: ["ETCSL 2.5.4.01 A:102"], note: "la-la ḫu-mu-ši-in-ak: put attractiveness in my (belt)"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.5.4.01 A:106-108"], note: "ĝi6-par4-ra ud sud-su3-re-ĝa2 / nam-en nam-lugal-da tab-e-a-ĝa2"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.4.01 A:109"], note: "ki unug-ga am-gin7 gu2 peš-ĝa2: that my neck grow thick like a wild bull's in Unug"}
+    hints:
+      - "Compare Ps 110:4 (king a priest forever after the order of Melchizedek) and Gen 14:18 with lines 106-107."
+      - "Compare Song 1:16 (our bed is green/flourishing) and Song 3:11 (the king crowned on his wedding day) with line 105."

@@ -100,6 +100,14 @@ new_motifs:
   city-celebrates-arrival-of-divine-treasures: {label: "A city celebrates with sacrifices, music and procession as a deity brings sacred treasures into it", cluster: cult}
   goddess-names-places-on-arrival: {label: "A goddess names quays and places in her city after what happened at each", cluster: etiology}
   talking-animal: {label: "An animal (frog, fox) speaks in human words", cluster: folktale}
+  war-goddess-clad-in-terror: {label: "A warrior goddess clad in terror and radiance, drenched in blood, roaring like a lion and storming lands", cluster: war}
+  mountain-refuses-homage-to-deity: {label: "A mountain (or land) does not bow its nose to the ground or rub its lips in the dust before a deity", cluster: war}
+  deity-asks-high-god-leave-to-attack: {label: "A deity petitions the supreme god for leave to destroy a rebellious land, recounting the powers he gave her", cluster: divine-council}
+  high-god-warns-enemy-invincible: {label: "The supreme god warns the eager deity that the enemy is too terrible and cannot be overcome; she attacks anyway", cluster: war}
+  city-cursed-never-to-be-restored: {label: "Curse: like a city An has cursed, may it never be restored or lift its neck again", cluster: curse}
+  deity-destroys-mountain: {label: "A deity storms a mountain range, seizes its neck, burns its forests, dries up its trees and kills it", cluster: war}
+  enemy-destroyed-for-its-height: {label: "A deity declares the enemy destroyed because of its height, beauty and reaching up to heaven", cluster: war}
+  birds-of-sorrow-nest-in-ruins: {label: "Birds of sorrow build nests on the flanks of the destroyed land", cluster: lament}
 units:
   - id: ane-etcsl-1-1-1-dilmun-pristine
     tradition: ane-sumerian
@@ -750,3 +758,76 @@ units:
       - {motif: city-celebrates-arrival-of-divine-treasures, refs: ["ETCSL 1.3.1 I:139-142"], note: "may there be a festival at your Ĝipar gate; citizens of Unug live; Eridug restored (ki-bi na-an-ni-ib-gi4); I:131-138 fragmentary, a third deity speaking"}
     hints:
       - "Compare Gen 26:18-22 and Gen 32:31 (places named for events), and Amos 8:5 / Mic 6:11 (short weights in trade)."
+  - id: ane-etcsl-1-3-2-hymn-to-inana
+    tradition: ane-sumerian
+    title: Hymnic prologue to Inana, the terrifying lady of battle (Inana and Ebih)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.2 1-24"]
+    tags:
+      - {motif: war-goddess-clad-in-terror, refs: ["ETCSL 1.3.2 1-9"], note: "in-nin me ḫuš-a ni2 gur3-ru me gal-la u5-a / ... mud-bi gu2 e3: 'lady of fearsome powers, clad in terror, riding on the great powers ... drenched in blood'; piriĝ-gin7 an ki-a šeg11 i-ni-in-gi4: 'like a lion you roar in heaven and earth'"}
+      - {motif: divine-warrior, refs: ["ETCSL 1.3.2 3-6", "ETCSL 1.3.2 19-20"]}
+      - {motif: god-roars-from-on-high, refs: ["ETCSL 1.3.2 7"], note: "piriĝ-gin7 an ki-a šeg11 i-ni-in-gi4 uĝ3-e su i3-ni-in-sag3"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["ETCSL 1.3.2 10-17"], note: "divergence: Inana's rising like Utu bathes the mountains in light; kur šuba2 kur ki sikil u3-tu-ud-da-za 'on your giving birth to the bright mountain'"}
+    hints:
+      - "Compare Exod 15:3, Isa 63:1-3 (warrior in blood-stained garments from Edom), Amos 1:2 (YHWH roars), Judg 5:4-5, Hab 3:3-6."
+  - id: ane-etcsl-1-3-2-ebih-insolent
+    tradition: ane-sumerian
+    title: Ebih shows Inana no respect; she vows to storm it and goes to An
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.2 25-61"]
+    tags:
+      - {motif: mountain-refuses-homage-to-deity, refs: ["ETCSL 1.3.2 30-35"], note: "ḫur-saĝ ebiḫ-ke4 te-a-me-en ni2-bi na-ma-ra-ab-ak / giri17-bi ki-še3 na-ma-ra-ab-te-a-gin7 / nundum saḫar-ra na-ma-ni-ib-ur3-ra-gin7: 'it did not put its nose to the ground, did not rub its lips in the dust for me'"}
+      - {motif: enemies-lick-dust, refs: ["ETCSL 1.3.2 34-35"], note: "divergence: the mountain refuses to do so"}
+      - {motif: deity-destroys-mountain, refs: ["ETCSL 1.3.2 36-48"], note: "a2 maḫ-bi-še3 gud maḫ ga-ba-ši-gub ('battering rams'); ešemen {d}inana 'the game (dance) of Inana' = battle; {ĝiš}tir ... izi ga-am3-sag3 'I will set fire to its forests'; {d}gibil6 lu2 sikil-la 'Gibil the purifier'"}
+      - {motif: city-cursed-never-to-be-restored, refs: ["ETCSL 1.3.2 49-52"], note: "iri an-ne2 nam ba-an-kud-da-gin7 ki-bi na-an-gi4-gi4 / {d}en-lil2-le saĝ-ki gid2-da-gin7 gu2-bi na-an-zi-zi"}
+      - {motif: war-goddess-clad-in-terror, refs: ["ETCSL 1.3.2 53-58"], note: "{tug2}pala3 ... ni2 me-lem4 ḫuš-a saĝ-ki-na ... šita saĝ 7-e: robe of royalty, terror and radiance on her brow, the seven-headed šita weapon, lapis sandals"}
+      - {motif: deity-asks-high-god-leave-to-attack, refs: ["ETCSL 1.3.2 59-61"], note: "an-usan-na ... an-ra ne-saĝ mu-un-na-an-gub sizkur mu-na-ab-be2: at dusk she makes an offering to An and prays"}
+    hints:
+      - "Compare Ps 72:9, Isa 49:23, Mic 7:17 (enemies lick the dust) and Esth 3:2-5 (one who would not bow)."
+      - "Compare Jer 51:25 ('I am against you, destroying mountain ... I will make you a burnt mountain'), Ezek 35:1-9 (Mount Seir made desolate) and Isa 13:19-20, Jer 50:39-40 (never inhabited again)."
+  - id: ane-etcsl-1-3-2-inana-and-an
+    tradition: ane-sumerian
+    title: Inana recounts to An the powers he gave her and demands Ebih's destruction; An warns that Ebih is too terrible
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.2 62-130"]
+    tags:
+      - {motif: deity-asks-high-god-leave-to-attack, refs: ["ETCSL 1.3.2 65-88"], note: "an a-a-ĝu10 silim ma-ra-ab-be2-en inim-ĝu10-uš ĝeštug2-zu: 'An, my father, I greet you, lend ear to my words'; the powers: to strike fields and orchards ti a2-ta ... zu2 bir5-gin7 'like the tooth of the locust', to remove the bolts of rebel cities' gates"}
+      - {motif: sit-at-my-right-hand-footstool, refs: ["ETCSL 1.3.2 80-81"], note: "lugal-la zid-da-na ḫe2-ni-in-kur9 ki-bal gul-gul-lu-de3: 'you placed me at the king's right hand to destroy rebel lands'; he smashes heads like a falcon"}
+      - {motif: plague-of-locusts, refs: ["ETCSL 1.3.2 76"], note: "simile only: a-gar3-e {ĝiš}kiri6 tir zu2 bir5-gin7 zi-zi: falling on fields, orchards and forests like the tooth of the locust"}
+      - {motif: mountain-refuses-homage-to-deity, refs: ["ETCSL 1.3.2 89-95"]}
+      - {motif: deity-destroys-mountain, refs: ["ETCSL 1.3.2 96-107"], note: "repeats 36-48"}
+      - {motif: city-cursed-never-to-be-restored, refs: ["ETCSL 1.3.2 108-111"]}
+      - {motif: high-god-warns-enemy-invincible, refs: ["ETCSL 1.3.2 112-130"], note: "lu2-tur-ĝu10 kur-re al bi2-dug4 šag4-bi a-na ab-ak: 'my little one demands the mountain's destruction - what is she taking on?'; ni2-bi ḫuš-a nu-mu-e-da-ku4-ku4: 'its terror is fearsome, you cannot pass through'"}
+      - {motif: pristine-land-of-the-gods, refs: ["ETCSL 1.3.2 121-126"], note: "Ebiḫ's flourishing gardens, fruit, great trees 'a crown in the heavens', lions, wild rams, stags, wild bulls, deer coupling among cypresses"}
+      - {motif: tower-reaching-heaven, refs: ["ETCSL 1.3.2 120"], note: "sukud-da-bi an-na šag4-bi nir mi-ni-ib-e3: 'its height (arrogance) reaches proudly into the midst of heaven'"}
+    hints:
+      - "Compare Ps 110:1-2, 5-6 (seated at the right hand, he shatters kings and heads), Joel 1:6, 2:3-5 (locusts like an army)."
+      - "Compare Gen 11:4-6 (a tower with its top in heaven), Isa 14:13-14 and Num 13:28-33 (the land too strong to attack)."
+  - id: ane-etcsl-1-3-2-ebih-destroyed
+    tradition: ane-sumerian
+    title: Inana storms and kills Ebih, mocks it for its height, and builds her palace
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.2 131-184"]
+    tags:
+      - {motif: war-goddess-clad-in-terror, refs: ["ETCSL 1.3.2 131-137"], note: "e2 me3-ka ĝal2 ba-an-taka4: she opened the house of battle; ud gal 'great storm'; mar-uru5 zig3-ga saḫar ḫul 'rising flood with evil silt'; im-ḫul 'evil wind'"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 1.3.2 134-137", "ETCSL 1.3.2 143"], note: "ka gal gu3-an-ne2-si-gin7 mu-un-si-il-le: 'she roared like thunder'"}
+      - {motif: deity-destroys-mountain, refs: ["ETCSL 1.3.2 138-151"], note: "ebiḫ-a gu2-bi {u2}numun2-bur-gin7 šu ba-an-ši-in-ti: 'she seized Ebiḫ's neck like esparto grass'; rocks clatter down; muš-šag4-tur3 gal-gal-la uš11 mu-un-gu2-guru5-gu2 'great serpents spat venom'; {ĝiš}tir-bi aš2 bi2-in-dug4 'she cursed its forests'; oaks killed with drought; fire and smoke"}
+      - {motif: enemy-destroyed-for-its-height, refs: ["ETCSL 1.3.2 152-159"], note: "ḫur-saĝ il2-la-zu-še3 sukud-da-zu-še3 / sag9-ga-zu-še3 ... an-ne2 šu si sa2-a-zu-še3 ... mu-ug5-ge-en: 'because of your elevation, your height ... because you reached up to heaven ... I have killed you'"}
+      - {motif: humbling-of-the-lofty, refs: ["ETCSL 1.3.2 152-162"]}
+      - {motif: great-tree-felled-for-pride, refs: ["ETCSL 1.3.2 147-148", "ETCSL 1.3.2 153-158"], note: "divergence: a mountain with its forests, not a single tree"}
+      - {motif: birds-of-sorrow-nest-in-ruins, refs: ["ETCSL 1.3.2 163-165"], note: "igi-za er2-ra si ba-ni-in-sa2 ... bar-bi-a mušen šag4 sag3-ga-ke4 gud3 im-ma-ni-us2: 'tears in your eyes, lament in your heart; birds of sorrow build nests on its flanks'"}
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 1.3.2 166-181"], note: "a-a-ĝu10 {d}mu-ul-lil2-le ... ni2 gal-ĝu10 mi-ni-in-ri; e2-gal mu-du3 ... {ĝiš}gu-za mi-ni-gub: 'I have built a palace, set up a throne'; kurĝara get dagger, gala get drums, pilipili transformed (saĝ šu bal)"}
+      - {motif: waters-heaped-by-divine-breath, refs: ["ETCSL 1.3.2 178-179"], note: "divergence: simile a maḫ e3-a-gin7 ... a zig3-ga-gin7 ĝiš-keše2-ra2 ba-sur: 'like rising water I overflowed the dam'"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.3.2 182-184"], note: "ki-sikil {d}inana za3-mi2 / {d}nisaba za3-mi2"}
+    hints:
+      - "Compare Isa 2:12-17 (against every high mountain and lofty hill, cedars and oaks of Bashan), Obad 3-4 (you who say 'who will bring me down?'), Ezek 31:10-14 (felled because it was proud of its height)."
+      - "Compare Isa 34:11-15 and Zeph 2:14 (birds lodging in the ruins); Nah 1:4-6 (mountains quake, Bashan and Carmel wither)."
+      - "Compare Q 7:143 (the mountain crumbles at God's manifestation) and Q 59:21."
