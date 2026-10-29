@@ -58,6 +58,111 @@ new_motifs:
   foundations-overturned-filled-with-dust: {label: "The city's or temple's foundations are overturned and filled with dust", cluster: lament}
   temple-tower-reaching-heaven: {label: "A temple tower (ziggurat) is said to reach up to heaven", cluster: cult}
   lament-cry-o-destroyed-city-and-house: {label: "Refrain cry 'O the destroyed city! O the destroyed house!'", cluster: lament}
+  doorkeeper-gods-of-temple-gate: {label: "Named doorkeeper deities guard the temple gate (Ka-ḫeĝala and Igi-ḫeĝala at Eridug)", cluster: cult}
+  gate-where-fates-are-determined: {label: "A temple gate (the lion-faced gate) is the place where fates are determined", cluster: cult}
+  temple-cult-and-festivals-cease: {label: "In the ruined temple the offerings, festivals, songs, drums and priestly offices cease", cluster: lament}
+  disembowelled-blood-spilled: {label: "A victim's blood and the fluids of his guts are spilled out", cluster: war}
+  birds-of-ruined-city-mourn: {label: "Birds of the destroyed city, a bird of heart's sorrow, nest or cry among the ruins", cluster: lament}
+  ruined-site-overgrown-with-thornbushes: {label: "Wild thornbushes from the mountains grow over the ruined city or shrine", cluster: lament}
+  enemy-sees-forbidden-holy-vessels: {label: "Foreign destroyers look upon the holy vessels of the temple that no one may look at", cluster: lament}
+  elam-shimashki-destroyers: {label: "The Elamites and Šimaškians are the destroyers of a Sumerian city", cluster: lament}
+  treasures-scatter-like-birds: {label: "The temple's treasures go off like small birds shooed from their hiding places", cluster: lament}
+  goddess-tears-hair-breast-eyes-in-lament: {label: "A goddess claws at her breast and eyes, tears out her hair like rushes and wails for her city", cluster: lament}
+  goddess-with-dagger-and-sword-mourning: {label: "A mourning goddess holds a dagger and a sword in her two hands and clashes them together", cluster: lament}
+  city-without-its-woman: {label: "The ruined city is addressed as one whose woman (lady) no longer dwells in it", cluster: lament}
+  god-destroys-but-does-not-abandon: {label: "Refrain: the god destroyed his city but did not abandon it, and his name is still invoked at his table", cluster: lament}
+  gods-destroy-their-own-cities-catalogue: {label: "A catalogue of deities who each destroyed their own city (Enlil Nibru, Aruru Keš, Nanna Urim, Inana Unug)", cluster: lament}
+  famine-decimates-land: {label: "The god decimates the land with famine", cluster: lament}
+  who-has-seen-such-destruction: {label: "Lament question 'who has ever seen a destruction like that of your city?'", cluster: lament}
+  how-long-built-how-long-destroyed: {label: "Lament question: for how long was it built, for how long is it destroyed?", cluster: lament}
+  no-one-goes-up-to-offering-terrace: {label: "No one goes up to the god's offering place and his name is no longer called at meals", cluster: lament}
+  god-mourns-lies-down-fasting: {label: "A god in grief wails and lies down fasting", cluster: lament}
+  appeal-to-god-to-return-to-city: {label: "Persuasion of an absent god: living in an alien city or house is miserable, return your heart to your city and temple", cluster: lament}
+  throne-and-bed-speak-to-returning-god: {label: "Prayer that the god's throne, bed, house and dais say to him 'sit down', 'lie down', 'rest'", cluster: lament}
+  citys-night-is-over-its-day-long: {label: "Consolation: the city's day is long, its night is over", cluster: lament}
+  father-an-to-soothe-heart: {label: "Prayer that the god's father An soothe his heart", cluster: lament}
+  waters-recede-from-temple-swamp-walkable: {label: "The waters around a water-girt shrine recede; one can walk on its wide swamp", cluster: lament}
+  sacred-boat-of-god: {label: "A god's sacred boat (Wild goat of the Abzu) is named and its waters dry up", cluster: cult}
+  keshs-creation-place-of-land: {label: "Keš is called the place where the Land was created (ki-ulutim2 kalam-ma)", cluster: creation}
+  temple-of-seven-corners-seven-fires: {label: "Inana's E-ana is the house of seven corners and seven fires", cluster: cult}
+  goddess-chosen-by-an-for-ladyship: {label: "The sky god An chooses a goddess in his holy heart and makes her worthy of ladyship of the Land", cluster: hymn}
+  goddess-made-fit-for-divine-husband: {label: "Enlil looks favourably on a young goddess and makes her fit as wife for her divine husband", cluster: hymn}
+  deity-decrees-fates-of-all-lands: {label: "A deity in his or her temple decides the fate of all the countries", cluster: kingship}
+  deity-renders-verdicts-and-judgments: {label: "A deity renders verdicts and decrees judgments (di kud)", cluster: kingship}
+  deity-word-firm-and-enduring: {label: "The deity's word is firmly grounded, trustworthy and enduring, never to be cut off", cluster: hymn}
+  deity-word-clear-as-daylight-for-king: {label: "The deity's holy words and joyful face shine for the king like daylight", cluster: kingship}
+  deity-gives-king-lofty-name: {label: "A deity gives the king a lofty name and speaks friendly words to him", cluster: kingship}
+  deity-chooses-shepherd-king-in-assembly: {label: "A deity chooses the ruler, 'the true shepherd', in the divine assembly for his attractiveness or worth", cluster: kingship}
+  deity-brings-divine-powers-from-heaven: {label: "A deity brings the divine powers (me) down from the midst of heaven, given by her father An", cluster: cosmology}
+  hymn-repeats-each-stanza-with-name: {label: "Each stanza is sung twice, the second time naming the deity or king (litany-like repetition)", cluster: liturgy}
+  goddess-righteous-among-gods: {label: "The goddess is called the righteous one among the gods and the wife of the warrior god", cluster: hymn}
+  ruler-will-praise-deity-in-city: {label: "Promise that the chosen ruler will duly praise the deity in her city", cluster: cult}
+  goddess-unknowable: {label: "No one can learn or know what the deity truly is", cluster: hymn}
+  goddess-issues-from-midst-of-heaven: {label: "The goddess, clothed in terrifying awe, comes forth from the midst of heaven", cluster: hymn}
+  good-shepherd-king-dies: {label: "Evil comes upon the city and makes the trustworthy shepherd-king pass away", cluster: kingship}
+  gods-change-decreed-fate-deceitfully: {label: "The high gods alter their holy word and 'deceitfully' change the fate they had decreed for the king", cluster: theodicy}
+  gods-react-to-kings-death: {label: "At the king's death the gods mourn: a goddess laments, Enki shuts his door and lies fasting, the moon god frowns, the sun does not rise", cluster: kingship}
+  queen-mother-goddess-weeps-for-son: {label: "The divine mother of the king weeps 'Oh my heart!' for her son in the public square", cluster: lament}
+  land-fails-after-kings-death: {label: "After the king's death the canals, barley and pastures fail and the land grows 'grass of mourning'", cluster: kingship}
+  king-lies-sick-hands-cannot-grasp: {label: "The dying king lies sick: his hands cannot grasp, his feet cannot step, he cannot raise his neck", cluster: death}
+  fallen-king-as-felled-tree: {label: "The fallen king is a felled cypress, boxwood or cedar against which axes are set", cluster: death}
+  appointed-day-arrived-died-in-prime: {label: "The king's appointed day arrives and he dies in his prime", cluster: death}
+  kings-offerings-rejected-by-gods: {label: "The pious king's sacrifices and gifts are no longer accepted by the gods", cluster: theodicy}
+  royal-boat-sunk-in-foreign-land: {label: "The dead king is a boat sunk in a land foreign as Dilmun, stripped of oars, poles and rudder", cluster: death}
+  animals-buried-with-dead-king: {label: "The king's donkeys and chariot are buried with him", cluster: death}
+  road-to-netherworld-desolate: {label: "The journey to the netherworld is a desolate road on which no one goes up and down", cluster: underworld}
+  gifts-to-netherworld-porters-and-gods: {label: "The dead king presents gifts to the seven chief porters and to each netherworld deity in their palaces", cluster: underworld}
+  dead-kings-and-priests-in-netherworld: {label: "Famous dead kings and dead priests in the netherworld announce the newcomer's arrival and a tumult arises", cluster: underworld}
+  bitter-food-brackish-water-of-netherworld: {label: "The food of the netherworld is bitter and its water brackish", cluster: underworld}
+  netherworld-feast-for-the-dead: {label: "The newly dead king slaughters bulls and sheep and seats the dead at a great banquet", cluster: underworld}
+  gilgamesh-king-and-judge-of-netherworld: {label: "Gilgameš is king and judge in the netherworld", cluster: underworld}
+  dead-king-made-judge-in-netherworld: {label: "The dead king is seated on a dais in the netherworld and with Gilgameš renders its judgments; the slain and the guilty are given into his hands", cluster: underworld}
+  dead-king-laments-unfinished-works: {label: "The dead king laments that he could not finish his city wall, enjoy his new palace, embrace his wife, dandle his sons or see his daughters grown", cluster: death}
+  pious-king-complains-gods-did-not-help: {label: "A pious king complains: I served the gods day and night, built them shrines and gave them treasures, yet no god stood by me", cluster: theodicy}
+  wife-of-dead-king-abandoned-by-gods: {label: "The dead king's widow weeps all day, abandoned by her protective gods, like a boat adrift in a storm or a trapped wild ass, lion or caged dog", cluster: lament}
+  music-turned-to-lament: {label: "The singer's songs and instruments are turned into lamentation and propped against the wall", cluster: lament}
+  grave-in-steppe-instead-of-throne-and-bed: {label: "Instead of his beautiful throne and bed the dead king lies in an earth-filled pit in the desolate steppe", cluster: death}
+  goddess-protests-to-high-gods-over-death: {label: "A goddess goes to the high god's temple and rails against the gods' unchangeable decree over the death of her beloved king", cluster: theodicy}
+  word-of-high-god-unchangeable: {label: "'Who can change the word that An, the king, has spoken?': the high god's decree cannot be altered", cluster: theodicy}
+  dead-king-name-praised-for-canals-and-fields: {label: "The dead king is granted a fate: his name will be invoked and his canals, fields, drained reed-beds and fortresses admired", cluster: kingship}
+  no-enough-from-an-days-not-completed: {label: "The high god does not say 'enough' (stop the evil), and the king's days are not filled", cluster: theodicy}
+  arali-netherworld-name: {label: "The netherworld is called Arali (or kur, irigal), where the dead king is brought", cluster: underworld}
+  namtar-decrees-fates: {label: "Namtar, the netherworld deity of fate, 'decrees all the fates'", cluster: underworld}
+  scribe-goddess-of-netherworld: {label: "A goddess is the chief scribe of the netherworld, given stylus, measuring line and rod", cluster: underworld}
+  seven-or-ten-days-pass: {label: "After seven days, ten days had passed (a stock time formula)", cluster: narrative}
+  goddess-absent-on-mission-at-judgment: {label: "The king's patron goddess was absent when his fate was decided, sent away by Enlil on a mission to foreign lands", cluster: theodicy}
+  goddess-in-rage-shakes-heaven-and-earth: {label: "The goddess in her fury makes heaven tremble and earth shake and destroys cattlepens and sheepfolds", cluster: theophany}
+  once-bowed-down-cannot-return: {label: "Enlil tells the grieving goddess the dead cannot come back: the shepherd has left and she will not see him again", cluster: death}
+  goddess-refuses-to-enter-temple-without-beloved: {label: "The goddess will not enter her temple unless her dead beloved can enter it before her", cluster: lament}
+  beloved-like-greenery-in-desert: {label: "Wish that the dead beloved could grow again like greenery in the desert and be moored like a boat at a calm quay", cluster: death}
+  enlil-drives-away-evil-spirits: {label: "The high god drives away the evil spirits (udug ḫul)", cluster: magic}
+  closing-praise-of-deity-za3-mi2: {label: "A Sumerian composition closes with 'praise be to (deity)' (za3-mi2)", cluster: liturgy}
+  god-chooses-king-from-multitude: {label: "The high god looks among the multitude of people and chooses the king to be his shepherd", cluster: kingship}
+  god-commissions-king-to-build-temple: {label: "The god instructs the chosen king to build or raise high his temple", cluster: cult}
+  king-prepares-brick-mould: {label: "The king himself prepares the brick mould and lays the foundation for the temple", cluster: cult}
+  temple-foundation-pegs-and-incantations: {label: "Temple foundations are laid, holy foundation pegs driven in, and priests and Enki purify it with incantations", cluster: cult}
+  temple-gates-named-and-silvered: {label: "The temple's named gates are listed and covered with refined silver", cluster: cult}
+  gods-feast-in-new-temple-decree-fate: {label: "The gods dine in the new temple, rejoice and decree a great destiny for the king who built it", cluster: cult}
+  god-speaks-my-word-immutable: {label: "The god speaks in the first person: 'I am he whose commands and decisions are immutable'", cluster: theophany}
+  god-gives-king-mace-to-crush-lands: {label: "The god gives the king a mighty mace that heaps up enemy heads like dust and smashes rebel lands", cluster: kingship}
+  king-destroys-cities-of-wicked: {label: "The king destroys the cities of the wicked and turns them into haunted ruins", cluster: kingship}
+  king-fame-to-ends-of-heaven: {label: "Wish that the king's fame spread to the borders of heaven and the foot of the mountains", cluster: kingship}
+  royal-self-praise-hymn: {label: "The king praises himself in the first person, listing what each god gave him and his deeds (Sumerian royal hymn)", cluster: kingship}
+  gods-give-rain-and-abundance-through-king: {label: "Because of the king An gives rain and the gods give floods, grain and abundance", cluster: kingship}
+  king-formed-by-mother-goddess: {label: "The king claims the birth goddess Nintur formed him and attended his birth", cluster: kingship}
+  king-conceived-in-holy-womb-of-goddess: {label: "The king's seed was placed in a holy womb and he was born of a goddess-mother (Ninsumun)", cluster: kingship}
+  king-named-and-fated-at-birth: {label: "At the king's birth the high god called him by a good name and a favourable destiny was decreed", cluster: kingship}
+  king-chosen-by-extispicy: {label: "The god chooses the king by extispicy on an auspicious day", cluster: kingship}
+  king-establishes-justice-crushes-evildoers: {label: "The king makes justice shine, defeats wickedness, puts his foot on the neck of thieves and catches evildoers like snakes", cluster: law}
+  king-as-good-shepherd-sheep-multiply: {label: "The king is the good shepherd under whom the sheep multiply and pens and folds are enlarged", cluster: kingship}
+  roads-made-safe-under-king: {label: "Under the king the roads, even in the desert, are made passable and safe", cluster: kingship}
+  king-frees-poor-from-labor-and-tax: {label: "The king frees the poor from forced duties and imposes no taxes on crops", cluster: law}
+  king-restores-after-gutian-oppression: {label: "The king frees the land from the hands of the Gutians, returns people to their homes and rebuilds walls", cluster: kingship}
+  king-brother-of-gilgamesh: {label: "The king calls himself the brother of Gilgameš, son of the goddess Ninsumun", cluster: kingship}
+  kingship-descended-from-heaven: {label: "Kingship came down from heaven (to the king or city)", cluster: kingship}
+  king-sacred-marriage-bed-in-gipar: {label: "The king, clothed in linen, lies on the splendid bed in the ĝipar (sacred-marriage setting)", cluster: cult}
+  king-digs-canals-trees-on-banks: {label: "The king releases water into canals and makes trees grow on their banks", cluster: kingship}
+  king-asks-life-as-reward: {label: "The king asks for life as the reward for his temple-building and offerings", cluster: kingship}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -232,3 +337,325 @@ units:
     hints:
       - "Tower reaching heaven brought down: Gen 11:4-9; Isa 2:15, Isa 30:25."
       - "Gates and bars broken: Lam 2:9, Neh 1:3, Ps 74:6."
+  - id: ane-etcsl-2-2-6-1a-temple-plundered
+    tradition: ane-sumerian
+    title: The lion-faced gate, the cult ended, Elam sees the holy kettles (Lament for Eridug, kirugu 3)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.A.E:51-74", "ETCSL 2.2.6 1.A.F:75-77", "ETCSL 2.2.6 1.A.G:78-99"]
+    tags:
+      - {motif: gate-where-fates-are-determined, refs: ["ETCSL 2.2.6 1.A.E:51"], note: "kan4 igi piriĝ-ĝa2 ki nam tar-re-ba"}
+      - {motif: doorkeeper-gods-of-temple-gate, refs: ["ETCSL 2.2.6 1.A.E:53"]}
+      - {motif: temple-cult-and-festivals-cease, refs: ["ETCSL 2.2.6 1.A.E:55-65"], note: "nidba gal-gal; ezem; šir3 kug; šem3 a2-la2; en lu2-maḫ nin-diĝir; most line-ends broken, so what befalls each is lost"}
+      - {motif: disembowelled-blood-spilled, refs: ["ETCSL 2.2.6 1.A.E:71"], note: "[u3]-mun-bi a{?} bal-bal-e-da uš2-ni im-bal"}
+      - {motif: birds-of-ruined-city-mourn, refs: ["ETCSL 2.2.6 1.A.G:79", "ETCSL 2.2.6 1.A.G:81", "ETCSL 2.2.6 1.A.G:82"], note: "tum12 'dove'; mušen uru2 gul-la-ke4; u3-ku-ku{mušen} mušen šag4 sag3-ga"}
+      - {motif: ruined-site-overgrown-with-thornbushes, refs: ["ETCSL 2.2.6 1.A.G:84", "ETCSL 2.2.6 1.A.G:85"], note: "{ĝiš}kiši16 kur-ra-ke4"}
+      - {motif: enemy-sees-forbidden-holy-vessels, refs: ["ETCSL 2.2.6 1.A.G:86", "ETCSL 2.2.6 1.A.G:87"], note: "{urud}šen kug lu2 igi nu-bar-re-da / šimaški{ki} elam{ki} lu2 ḫa-lam-ma igi [i-ni]-in-bar"}
+      - {motif: elam-shimashki-destroyers, refs: ["ETCSL 2.2.6 1.A.G:87"]}
+      - {motif: treasures-scatter-like-birds, refs: ["ETCSL 2.2.6 1.A.G:90", "ETCSL 2.2.6 1.A.G:92"], note: "gi16-sa kug ... buru5{mušen}-gin7 a2-[bur2-bi sar-sar]-ra ba-e-re7-eš; partly restored"}
+    hints:
+      - "Foreigners see the holy vessels: Lam 1:10 (nations entered the sanctuary), Ps 79:1, 2 Kgs 25:13-17, Dan 5:2-4; Num 4:20 (Levites must not look at the holy things)."
+      - "Thorns over ruined sanctuary: Hos 10:8, Isa 34:13; birds in ruins: Zeph 2:14, Isa 34:11, Ps 102:7."
+  - id: ane-etcsl-2-2-6-1b-enki-damgalnuna-lament
+    tradition: ane-sumerian
+    title: Enki laments; Damgalnuna tears her hair and breast (Lament for Eridug, kirugu 4-5)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.B.G:1-2", "ETCSL 2.2.6 1.B.H:3-4", "ETCSL 2.2.6 1.B.I:5-15"]
+    tags:
+      - {motif: god-weeps-over-own-city, refs: ["ETCSL 2.2.6 1.B.G:1", "ETCSL 2.2.6 1.B.H:3"], note: "a-a {d}en-ki i-lu ni2-te-na gu3 gig im-me"}
+      - {motif: god-stays-outside-city-as-if-foreign, refs: ["ETCSL 2.2.6 1.B.I:5", "ETCSL 2.2.6 1.B.I:6"]}
+      - {motif: goddess-tears-hair-breast-eyes-in-lament, refs: ["ETCSL 2.2.6 1.B.I:7", "ETCSL 2.2.6 1.B.I:8", "ETCSL 2.2.6 1.B.I:10"], note: "gaba-ni i3-ḫur-re igi-ni i3-ḫur-re ... siki-ni {u2}numun2-bur-gin7 i3-ze2-e; she is ab2 zid arḫuš-a 'the faithful cow, the compassionate'"}
+      - {motif: goddess-with-dagger-and-sword-mourning, refs: ["ETCSL 2.2.6 1.B.I:9"], note: "šu 2-a-na ĝiri2 ba-da-ra šu bi2-in-du8 teš2-bi i3-gu7-e"}
+      - {motif: city-without-its-woman, refs: ["ETCSL 2.2.6 1.B.I:11", "ETCSL 2.2.6 1.B.I:12"], note: "uru2 munus-zu nu-til-la a-la-zu nu-gi4-a-ĝu10 me-a er2-zu ba-gig"}
+      - {motif: tearing-garment-and-plucking-hair-beard, refs: ["ETCSL 2.2.6 1.B.I:10"], note: "approximate: the goddess tears out her hair (siki-ni ... i3-ze2-e)"}
+    hints:
+      - "Mother-goddess weeping for her city: Jer 31:15 (Rachel weeping), Lam 1:1-2 (Zion as widow), Lam 2:11."
+      - "Self-laceration in mourning: Jer 16:6, Jer 41:5, Jer 48:37; compare Ezra 9:3."
+  - id: ane-etcsl-2-2-6-1c-gods-destroy-own-cities
+    tradition: ane-sumerian
+    title: Each god destroyed his city but did not abandon it; who has seen such destruction? (Lament for Eridug, kirugu 6)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.C.J:1-27", "ETCSL 2.2.6 1.C.K:28-29"]
+    tags:
+      - {motif: gods-destroy-their-own-cities-catalogue, refs: ["ETCSL 2.2.6 1.C.J:3-6", "ETCSL 2.2.6 1.C.J:9-10", "ETCSL 2.2.6 1.C.J:15-16", "ETCSL 2.2.6 1.C.J:21-22"], note: "Enlil looked with an evil eye on Sumer (i-bi2 ḫul ḫe2-en-ši-bar) and smote the E-kur with the pickaxe; Aruru Iri-saĝ-rig/Keš; Nanna Urim; Inana Unug"}
+      - {motif: god-destroys-but-does-not-abandon, refs: ["ETCSL 2.2.6 1.C.J:7-8", "ETCSL 2.2.6 1.C.J:13-14", "ETCSL 2.2.6 1.C.J:19-20", "ETCSL 2.2.6 1.C.J:24-25"], note: "zag ḫe2-bi2-in-tag šu li-bi2-in-dag / kiĝ2-sig unu2 gal-ni mu-ni ḫe2-pad3-de3"}
+      - {motif: enemy-sees-forbidden-holy-vessels, refs: ["ETCSL 2.2.6 1.C.J:12"], note: "itima kug ud nu-zu-ba uĝ3-e igi ḫe2-ni-in-bar: 'the people looked into the holy dark chamber that never knew daylight' (Keš)"}
+      - {motif: famine-decimates-land, refs: ["ETCSL 2.2.6 1.C.J:17"], note: "ka-na-aĝ2-bi ḫe2-en-til"}
+      - {motif: keshs-creation-place-of-land, refs: ["ETCSL 2.2.6 1.C.J:11"], note: "keš3 ki-ulutim2 kalam-ma"}
+      - {motif: temple-of-seven-corners-seven-fires, refs: ["ETCSL 2.2.6 1.C.J:23"], note: "e2-an-na e2 ub 7 izi 7"}
+      - {motif: who-has-seen-such-destruction, refs: ["ETCSL 2.2.6 1.C.J:26"], note: "uru2-zu uru2-ze2-eb{ki}-gin7 gul-la a-ba-a igi mu-ni-in-du8; Damgalnuna speaks"}
+      - {motif: how-long-built-how-long-destroyed, refs: ["ETCSL 2.2.6 1.C.K:28"], note: "me-na ba-du3-e me-na ba-gul-e"}
+      - {motif: how-long-o-god, refs: ["ETCSL 2.2.6 1.C.K:28"]}
+    hints:
+      - "God destroys but does not abandon: Lam 3:31-33 ('the Lord will not cast off forever'), Jer 30:11 and 46:28 ('I will not make a full end of you'), Lev 26:44."
+      - "Looking into the inner sanctuary that knew no daylight: 1 Kgs 8:12 (YHWH dwells in thick darkness), Lam 1:10."
+      - "Who has seen anything like it: Lam 1:12, Lam 2:13, Joel 1:2."
+  - id: ane-etcsl-2-2-6-1c-enki-consoled
+    tradition: ane-sumerian
+    title: Enki wails and fasts and is urged to return to Eridug (Lament for Eridug, kirugu 7-8)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.C.L:30-53", "ETCSL 2.2.6 1.C.M:54-55", "ETCSL 2.2.6 1.C.N:56-59"]
+    tags:
+      - {motif: who-has-seen-such-destruction, refs: ["ETCSL 2.2.6 1.C.L:30", "ETCSL 2.2.6 1.C.L:31"]}
+      - {motif: no-one-goes-up-to-offering-terrace, refs: ["ETCSL 2.2.6 1.C.L:32", "ETCSL 2.2.6 1.C.L:33"], note: "ki-šu-tag-ga-ni lu2 nu-ed3-de3; mu-ni li-bi2-in-pad3-de3 reverses the earlier refrain"}
+      - {motif: god-mourns-lies-down-fasting, refs: ["ETCSL 2.2.6 1.C.L:35", "ETCSL 2.2.6 1.C.L:36"], note: "ni2-te-a-ni i-si-iš mi-ni-ib-la2 šag4-ka-tab-ba ba-an-nu2, moved by his wife's words"}
+      - {motif: appeal-to-god-to-return-to-city, refs: ["ETCSL 2.2.6 1.C.L:37-43"], note: "iri kur2-ra tuš-a gig-ga-am3 iri-zu-še3 muštug2-zu-še3"}
+      - {motif: citys-night-is-over-its-day-long, refs: ["ETCSL 2.2.6 1.C.L:44"], note: "eridug{ki}-ga ud-bi ba-sud-sud ĝi6-bi ba-til-til"}
+      - {motif: throne-and-bed-speak-to-returning-god, refs: ["ETCSL 2.2.6 1.C.L:45-48"]}
+      - {motif: father-an-to-soothe-heart, refs: ["ETCSL 2.2.6 1.C.L:49"]}
+      - {motif: lament-offered-by-king-to-deity, refs: ["ETCSL 2.2.6 1.C.L:50", "ETCSL 2.2.6 1.C.L:51", "ETCSL 2.2.6 1.C.L:52"], note: "lu2-ulu3 lu2 sun5-na er2 e2 zid dam-za mu-ra-an-de6: here 'a humble man', not named as king"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.6 1.C.L:53", "ETCSL 2.2.6 1.C.M:55"]}
+    hints:
+      - "Appeal to God to return: Ps 80:15 ('return, look down from heaven'), Ps 90:13, Ps 132:8 ('arise to your resting place'), Zech 1:16, Zech 8:3."
+      - "The night is over: Isa 60:1-2, Isa 60:20, Ps 30:6 ('weeping may tarry for the night, joy comes in the morning')."
+  - id: ane-etcsl-2-2-6-2-second-manuscript
+    tradition: ane-sumerian
+    title: The water-girt Abzu dries up; the lion-faced gate burned (Lament for Eridug, second source, kirugu 3-4)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: second manuscript (sections 2.A.A-2.B.B)
+    read: ["ETCSL 2.2.6 2.A.A:1-14", "ETCSL 2.2.6 2.B.A:1-7", "ETCSL 2.2.6 2.B.B:8-9"]
+    tags:
+      - {motif: waters-recede-from-temple-swamp-walkable, refs: ["ETCSL 2.2.6 2.A.A:1", "ETCSL 2.2.6 2.A.A:2"], note: "iri me nun-na a gal-la dirig-ga a-e ba-da-ri; sug daĝal-bi ĝiri3 ba-an-ĝa2-ĝa2"}
+      - {motif: ruined-site-overgrown-with-thornbushes, refs: ["ETCSL 2.2.6 2.A.A:2"], note: "{ĝiš}kiši17 kur-ra ib2-[mu2-mu2]"}
+      - {motif: sacred-boat-of-god, refs: ["ETCSL 2.2.6 2.A.A:3", "ETCSL 2.2.6 2.A.A:4"], note: "ma2 taraḫ abzu; Sirsir the boatman god"}
+      - {motif: temple-tower-reaching-heaven, refs: ["ETCSL 2.2.6 2.A.A:7"], note: "e2-u6-nir eš3 an-gin7 saĝ-bi mu-un-il2"}
+      - {motif: gate-where-fates-are-determined, refs: ["ETCSL 2.2.6 2.A.A:8"]}
+      - {motif: city-burned, refs: ["ETCSL 2.2.6 2.A.A:8"], note: "lu2-erim2-[e] {ĝiš}ig-bi izi ba-ab-[šum2]: evildoers set fire to its door"}
+      - {motif: doorkeeper-gods-of-temple-gate, refs: ["ETCSL 2.2.6 2.A.A:9"]}
+      - {motif: sumer-alas-lament-cry, refs: ["ETCSL 2.2.6 2.B.B:8"], note: "a-a {d}en-ki a e2-zu a iri-zu a nam-lu2-ulu3-zu"}
+    hints:
+      - "Waters receding from a sacred site: Isa 19:5-7, Jer 51:36; doors set on fire: Ps 74:7, Neh 1:3."
+  - id: ane-etcsl-2-3-1-adab-bau-luma
+    tradition: ane-sumerian
+    title: An adab to Bau for Luma
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.3.1 A:1-31", "ETCSL 2.3.1 B:32-34", "ETCSL 2.3.1 C:35-58"]
+    tags:
+      - {motif: goddess-chosen-by-an-for-ladyship, refs: ["ETCSL 2.3.1 A:1", "ETCSL 2.3.1 A:2"], note: "dumu an-na an gal ki gal-ta šag4 kug-ga-ni im-mi-in-pad3-de3 nam-nin kalam-ma-kam bi2-in-tum2-en"}
+      - {motif: goddess-made-fit-for-divine-husband, refs: ["ETCSL 2.3.1 A:6", "ETCSL 2.3.1 A:7", "ETCSL 2.3.1 A:8"]}
+      - {motif: deity-decrees-fates-of-all-lands, refs: ["ETCSL 2.3.1 A:12", "ETCSL 2.3.1 A:13"], note: "e2-tar-sir2-sir2 ... nam kur-kur-ra ša-mu-ni-ib2-tar-re"}
+      - {motif: deity-renders-verdicts-and-judgments, refs: ["ETCSL 2.3.1 A:14", "ETCSL 2.3.1 A:17"]}
+      - {motif: deity-word-firm-and-enduring, refs: ["ETCSL 2.3.1 A:22", "ETCSL 2.3.1 C:35", "ETCSL 2.3.1 C:36"], note: "inim maḫ-zu niĝ2 nu-silig-ge-de3"}
+      - {motif: deity-word-clear-as-daylight-for-king, refs: ["ETCSL 2.3.1 C:39", "ETCSL 2.3.1 C:40", "ETCSL 2.3.1 C:43", "ETCSL 2.3.1 C:44"], note: "lugal-ra ud-de3-eš-e mu-un-e3"}
+      - {motif: deity-gives-king-lofty-name, refs: ["ETCSL 2.3.1 C:51", "ETCSL 2.3.1 C:52"], note: "mu maḫ mu-na-an-šum2 inim zid mu-na-an-dug4"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.3.1 A:1-11", "ETCSL 2.3.1 C:35-57"]}
+      - {motif: goddess-unknowable, refs: ["ETCSL 2.3.1 B:32"], note: "niĝ2-zu lu2 nu-zu, 'no one knows what you are'"}
+    hints:
+      - "The word that endures: Isa 40:8, Ps 119:89. The god giving the king a great name: 2 Sam 7:9, Gen 12:2."
+      - "Divine judge deciding the fate of the lands: Ps 82:8, Ps 96:13."
+  - id: ane-etcsl-2-3-2-tigi-bau-gudea
+    tradition: ane-sumerian
+    title: A tigi to Bau for Gudea
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.3.2 A:1-25", "ETCSL 2.3.2 B:26-47"]
+    tags:
+      - {motif: goddess-issues-from-midst-of-heaven, refs: ["ETCSL 2.3.2 A:3"], note: "ni2 gal gur3-ru an-šag4-ta e3-a"}
+      - {motif: deity-brings-divine-powers-from-heaven, refs: ["ETCSL 2.3.2 A:9", "ETCSL 2.3.2 A:10", "ETCSL 2.3.2 A:11"], note: "an-šag4-ta me mu-e-de6; a-a tud-da-zu an lugal-e me ... mu-ri-in-rig7"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["ETCSL 2.3.2 A:17", "ETCSL 2.3.2 B:40", "ETCSL 2.3.2 B:41"], note: "sipad unken-na ḫi-li-a mu-e-ni-pad3-a; lu2 zid šag4-ga im-mi-ni-pad3 sipad zid gu3-de2-a. A:21-24 entirely restored"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.3.2 B:41"]}
+      - {motif: deity-renders-verdicts-and-judgments, refs: ["ETCSL 2.3.2 B:34", "ETCSL 2.3.2 B:37"], note: "nin di kud ka-aš bar"}
+      - {motif: goddess-righteous-among-gods, refs: ["ETCSL 2.3.2 B:35"], note: "si sa2 diĝir-re-ne-me-en dam ur-saĝ-ĝa2-me-en"}
+      - {motif: ruler-will-praise-deity-in-city, refs: ["ETCSL 2.3.2 B:42"]}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.3.2 A:1-16", "ETCSL 2.3.2 B:26-45"]}
+    hints:
+      - "God choosing the shepherd-ruler by looking on the heart: 1 Sam 16:7-12, Ps 78:70-72."
+  - id: ane-etcsl-2-4-1-1-1-ur-namma-dies
+    tradition: ane-sumerian
+    title: Disaster strikes Urim and the gods mourn the death of the shepherd Ur-Namma (Death of Ur-Namma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.1 1:1-30"]
+    tags:
+      - {motif: good-shepherd-king-dies, refs: ["ETCSL 2.4.1.1 1:6", "ETCSL 2.4.1.1 1:7"], note: "urim5{ki}-ma ḫul-ĝal2 im-ši-DU sipad zid ba-ra-ab-e3"}
+      - {motif: gods-change-decreed-fate-deceitfully, refs: ["ETCSL 2.4.1.1 1:8", "ETCSL 2.4.1.1 1:9"], note: "an-ne2 inim kug-ga du3-a mu-un-kur2; {d}en-lil2-le nam tar-ra du3-a šu lul mi-ni-ib-bal: Enlil 'with a lying hand' overturned the fate"}
+      - {motif: gods-react-to-kings-death, refs: ["ETCSL 2.4.1.1 1:10-14"]}
+      - {motif: god-mourns-lies-down-fasting, refs: ["ETCSL 2.4.1.1 1:12"], note: "{d}nu-dim2-mud itima-a-ka ba-an-kur9 šag4-ka-tab-ba ba-an-nu2"}
+      - {motif: sun-does-not-rise-in-catastrophe, refs: ["ETCSL 2.4.1.1 1:14"], note: "{d}utu an-na nu-um-ed2-e"}
+      - {motif: queen-mother-goddess-weeps-for-son, refs: ["ETCSL 2.4.1.1 1:15-19"], note: "ama lugal-la kug {d}nin-sumun2-na a šag4-ĝu10 im-me ... sila daĝal ki-a-ne-di"}
+      - {motif: national-mourning-for-leader, refs: ["ETCSL 2.4.1.1 1:20", "ETCSL 2.4.1.1 1:21"], note: "sweet sleep did not come to the people; they spent the day in lament (i-lu) for the shepherd"}
+      - {motif: land-fails-after-kings-death, refs: ["ETCSL 2.4.1.1 1:22-30"], note: "u2-a-nir ba-an-mu2, 'grass of mourning grew'; Enkimdu takes away levees and ditches"}
+    hints:
+      - "Nation mourning its king: 2 Chr 35:24-25 (Josiah lamented by Jeremiah and singers), 2 Sam 1:17-27."
+      - "Divine decree reversed: compare Jer 22:10, 2 Kgs 23:29 (the pious king Josiah dying untimely); Q 3:145 (no soul dies but by God's leave, at an appointed term)."
+  - id: ane-etcsl-2-4-1-1-1-death-and-descent
+    tradition: ane-sumerian
+    title: Ur-Namma's sickness, death and the road to the netherworld (Death of Ur-Namma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.1 1:31-75"]
+    tags:
+      - {motif: king-lies-sick-hands-cannot-grasp, refs: ["ETCSL 2.4.1.1 1:35", "ETCSL 2.4.1.1 1:36", "ETCSL 2.4.1.1 1:37", "ETCSL 2.4.1.1 1:43"], note: "šu-ni dab5-ba nu-mu-un-dab5 i3-nu2 tur5-ra-am3"}
+      - {motif: fallen-king-as-felled-tree, refs: ["ETCSL 2.4.1.1 1:45", "ETCSL 2.4.1.1 1:46", "ETCSL 2.4.1.1 1:47", "ETCSL 2.4.1.1 1:48"], note: "tir [ḫa-šu]-ur2-ra-gin7 ... {ĝiš}taškarin-gin7 ... giĝ4 mu-ni-in-ĝar-re-eš; {ĝiš}erin duru5-gin7 ... mu-ni-in-bal-bal-e-ne"}
+      - {motif: royal-house-cedars-felled, refs: ["ETCSL 2.4.1.1 1:48"]}
+      - {motif: appointed-day-arrived-died-in-prime, refs: ["ETCSL 2.4.1.1 1:51"], note: "ud dug4-ga-ni sa2 mu-ni-ib-dug4 a-la-na ba-ra-e3"}
+      - {motif: kings-offerings-rejected-by-gods, refs: ["ETCSL 2.4.1.1 1:52", "ETCSL 2.4.1.1 1:53"], note: "sizkur2 niĝ2 dug3-ga la-ba-an-tag-ge; kadra-ni {d}a-nun-na-ke4-ne inim im-ma-an-gi4"}
+      - {motif: no-enough-from-an-days-not-completed, refs: ["ETCSL 2.4.1.1 1:54"], note: "an muš3-am3 la-ba-e-gub ud-bi la-ba-ni-ib-si: An did not stand by the word 'enough'; his days were not filled"}
+      - {motif: forgotten-like-dead-broken-vessel, refs: ["ETCSL 2.4.1.1 1:58"], note: "a-gin7 ki-lul-la ur-{d}namma dug gaz-gin7 a-ba-ni-in-taka4-aš: 'how wrongfully was Ur-Namma abandoned like a broken pot'"}
+      - {motif: arali-netherworld-name, refs: ["ETCSL 2.4.1.1 1:62", "ETCSL 2.4.1.1 1:63"], note: "a-ra-li ki saĝ-ki kalam-ma-še3 ... ḫi-li-na ba-da-de6"}
+      - {motif: royal-boat-sunk-in-foreign-land, refs: ["ETCSL 2.4.1.1 1:64-69"], note: "dilmun{ki}-gin7 kur ki nu-zu-na {ĝiš}ma2-bi ba-da-ab-su; {ĝiš}ĝisal {ĝiš}gi-muš {ĝiš}zi-gan ... gu2-guru5"}
+      - {motif: animals-buried-with-dead-king, refs: ["ETCSL 2.4.1.1 1:70", "ETCSL 2.4.1.1 1:71", "ETCSL 2.4.1.1 1:74", "ETCSL 2.4.1.1 1:75"], note: "anše-ni ba-da-dur2-ru anše ki mu-un-di-ni-ib-tum2; {ĝiš}gigir ba-da-šu2"}
+      - {motif: road-to-netherworld-desolate, refs: ["ETCSL 2.4.1.1 1:73", "ETCSL 2.4.1.1 1:74"], note: "kaskal kur-ra in-di3 sug4-ga-am3"}
+      - {motif: no-return-from-sheol, refs: ["ETCSL 2.4.1.1 1:74"], note: "ḫar-ra-an im-ma-da-suḫ3 šu nu-um-ma-ni10-ni10, 'no one goes back and forth on it'"}
+    hints:
+      - "Untimely death 'in the midst of days': Ps 102:24-25, Isa 38:10 (Hezekiah: 'in the noontide of my days I must go to the gates of Sheol')."
+      - "Forgotten like a broken vessel: Ps 31:13. Felled tree: Ezek 31:10-18, Dan 4:11."
+      - "No return: Job 7:9-10, Job 10:21, 2 Sam 12:23."
+  - id: ane-etcsl-2-4-1-1-1-netherworld-gifts
+    tradition: ane-sumerian
+    title: Ur-Namma's gifts to the netherworld gods and his installation as judge (Death of Ur-Namma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.1 1:76-144"]
+    tags:
+      - {motif: gates-of-death, refs: ["ETCSL 2.4.1.1 1:76"], note: "i3-du8 gal kur-ra 7-bi niĝ2-ba ba-ab-šum2-mu: the seven chief porters of the netherworld"}
+      - {motif: gifts-to-netherworld-porters-and-gods, refs: ["ETCSL 2.4.1.1 1:76", "ETCSL 2.4.1.1 1:88-131"], note: "to Nergal (Enlil of the netherworld), Gilgameš, Ereškigala, Dumuzid, Namtar, Ḫušbisag, Ninĝišzida, Dimpikug, Ninazimua: each 'in his palace' (e2-gal-a-na ĝiš im-ma-ab-tag-ge)"}
+      - {motif: sheol-rouses-dead-kings-to-greet, refs: ["ETCSL 2.4.1.1 1:79"], note: "kur-ra za-pa-aĝ2 mu-un-ĝar: a tumult arose in the netherworld at his coming"}
+      - {motif: dead-kings-and-priests-in-netherworld, refs: ["ETCSL 2.4.1.1 1:77-80"], note: "lugal mu tuku ba-ug5-ge-eš-a / išib lu2-maḫ nin-diĝir ug5-ga maš2-e ba-dab5-ba ... kur-ra za-pa-aĝ2 mu-un-ĝar"}
+      - {motif: netherworld-feast-for-the-dead, refs: ["ETCSL 2.4.1.1 1:81", "ETCSL 2.4.1.1 1:82"]}
+      - {motif: bitter-food-brackish-water-of-netherworld, refs: ["ETCSL 2.4.1.1 1:83"], note: "u2 kur-ra sis-am3 a kur-ra mun4-na-am3"}
+      - {motif: namtar-decrees-fates, refs: ["ETCSL 2.4.1.1 1:108"], note: "{d}nam-tar lu2 nam tar-tar-ra"}
+      - {motif: scribe-goddess-of-netherworld, refs: ["ETCSL 2.4.1.1 1:123-127"], note: "Ninazimua, dub-sar maḫ of Arali, receives stylus, surveyor's line and measuring rod"}
+      - {motif: gilgamesh-king-and-judge-of-netherworld, refs: ["ETCSL 2.4.1.1 1:95", "ETCSL 2.4.1.1 1:143", "ETCSL 2.4.1.1 1:144"], note: "{d}gilgameš3 lugal kur-ra-ke4"}
+      - {motif: dead-king-made-judge-in-netherworld, refs: ["ETCSL 2.4.1.1 1:136-144"], note: "barag gal kur-ra-ke4 mu-ni-ib-tuš-u3-ne ... erin2 {ĝiš}tukul ... ba-ug5-ga / lu2 nam-tag-ga ... šu-ni-še3 im-ma-ab-šum2-mu-ne ... di kur-ra i3-kud-de3"}
+      - {motif: sheol-rouses-dead-kings-to-greet, refs: ["ETCSL 2.4.1.1 1:136"]}
+    hints:
+      - "Dead kings in the underworld greet the newcomer and a stir arises: Isa 14:9-10 ('Sheol beneath is stirred up to meet you ... it raises from their thrones all the kings of the nations'), Ezek 32:21-32."
+      - "Those slain by the sword in the underworld: Ezek 32:20-30. Gates of death: Job 38:17, Ps 9:14."
+      - "A judge among the dead: compare Q 23:99-100 (barzakh) and the role of Abraham/Moses in later traditions."
+  - id: ane-etcsl-2-4-1-1-1-ur-namma-lament
+    tradition: ane-sumerian
+    title: Ur-Namma's lament for himself, his widow and his city (Death of Ur-Namma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.1 1:145-197"]
+    tags:
+      - {motif: seven-or-ten-days-pass, refs: ["ETCSL 2.4.1.1 1:145"], note: "ud 7 ud 10-am3 ba-zal-la-ba"}
+      - {motif: dead-king-laments-unfinished-works, refs: ["ETCSL 2.4.1.1 1:148-153"], note: "bad3 urim2{ki}-ma nu-mu-un-til-la-ni; e2-gal gibil ... nu-mu-un-ḫul2-ḫul2-la-ni; dam-a-ni ur2-ra-na a-la nu-mu-un-gi4-a-ni; dumu-ni dub3-ba-na li-bi2-in-peš-a-ni"}
+      - {motif: betrothed-house-vineyard-taken-by-another, refs: ["ETCSL 2.4.1.1 1:149", "ETCSL 2.4.1.1 1:151"], note: "approximate: built a new palace and did not enjoy it, could not delight his wife"}
+      - {motif: pious-king-complains-gods-did-not-help, refs: ["ETCSL 2.4.1.1 1:156-163"], note: "diĝir ki-ĝa2 la-ba-e-gub šag4-ĝu10 la-ba-ni-ib-sed ... ud-da gub-ba ... ĝi6-da gub-ba u3 nu-ku-ĝa2-a ud im-ma-ni-til"}
+      - {motif: no-return-from-sheol, refs: ["ETCSL 2.4.1.1 1:164", "ETCSL 2.4.1.1 1:165"], note: "im an-ta šeĝ3-ĝe26-gin7 ... urim2{ki}-ma-še3 šu nu-um-ma-ni10-ni10: like rain from heaven he cannot turn back to Urim"}
+      - {motif: wife-of-dead-king-abandoned-by-gods, refs: ["ETCSL 2.4.1.1 1:166", "ETCSL 2.4.1.1 1:167", "ETCSL 2.4.1.1 1:175-186"], note: "{ĝiš}ma2-gin7 tum9 sumur-ra ba-ra-ab-dirig; anše edin-na-gin7 pu2 ḫul; piriĝ-gin7 ... ba-šub-ba; ur-gin7 {ĝiš}az-la2-e mu-un-dab5"}
+      - {motif: music-turned-to-lament, refs: ["ETCSL 2.4.1.1 1:187", "ETCSL 2.4.1.1 1:188"], note: "tigi a-da-ab gi-gid2 za-am-za-am-ĝu10 a-nir-ra mu-da-an-kur9"}
+      - {motif: grave-in-steppe-instead-of-throne-and-bed, refs: ["ETCSL 2.4.1.1 1:189-192"]}
+      - {motif: goddess-absent-on-mission-at-judgment, refs: ["ETCSL 2.4.1.1 1:196", "ETCSL 2.4.1.1 1:197"], note: "saĝ-kal {d}inana ... di-ĝa2 nu-mu-un-til3; Enlil sent her as messenger to the foreign lands"}
+    hints:
+      - "Righteous king who served God yet dies: Hezekiah's prayer 2 Kgs 20:3 / Isa 38:3 ('remember how I walked before you'), Job 29-31, Ps 44:18-23; Mal 3:14 ('it is vain to serve God')."
+      - "Not enjoying one's house and wife: Deut 20:5-7, Deut 28:30, Eccl 6:2."
+      - "Music turned to mourning: Job 30:31, Lam 5:15, Ps 137:2 (lyres hung up)."
+  - id: ane-etcsl-2-4-1-1-1-inana-protest
+    tradition: ane-sumerian
+    title: Inana rails against An and Enlil; a good fate is decreed for Ur-Namma (Death of Ur-Namma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.1 1:198-242"]
+    tags:
+      - {motif: goddess-protests-to-high-gods-over-death, refs: ["ETCSL 2.4.1.1 1:199", "ETCSL 2.4.1.1 1:200", "ETCSL 2.4.1.1 1:207"], note: "an lugal diĝir-re-e-ne-ke4 in-še3 ga-mu-un-dub2: 'I will hurl insults at An'"}
+      - {motif: word-of-high-god-unchangeable, refs: ["ETCSL 2.4.1.1 1:208", "ETCSL 2.4.1.1 1:209"], note: "an lugal inim maḫ dug4-ga-ni inim-bi a-ba mu-un-kur2"}
+      - {motif: goddess-in-rage-shakes-heaven-and-earth, refs: ["ETCSL 2.4.1.1 1:204", "ETCSL 2.4.1.1 1:205", "ETCSL 2.4.1.1 1:206"], note: "{d}inana ud ḫuš ... an i3-dub2-be2 ki i3-sag3-ge; tur3 im-gul-e amaš im-tab-e"}
+      - {motif: once-bowed-down-cannot-return, refs: ["ETCSL 2.4.1.1 1:201", "ETCSL 2.4.1.1 1:202"], note: "Enlil to Inana: sipad zid e2-an-na-ta mu-un-e3 igi nu-mu-ni-in-du8"}
+      - {motif: goddess-refuses-to-enter-temple-without-beloved, refs: ["ETCSL 2.4.1.1 1:212", "ETCSL 2.4.1.1 1:213"], note: "sipad-ĝu10 ḫi-li-a-ni nu-uš-ma-an-ku4-ku4 ĝe26-e ba-ra-ku4-ku4-de3-en"}
+      - {motif: beloved-like-greenery-in-desert, refs: ["ETCSL 2.4.1.1 1:214", "ETCSL 2.4.1.1 1:215"], note: "kalag-ga-ĝu10 u2-šim-gin7 edin-na nu-uš-ma-da-mu2-am3"}
+      - {motif: dead-king-name-praised-for-canals-and-fields, refs: ["ETCSL 2.4.1.1 1:221-231"], note: "mu maḫ-zu ḫe2-pad3; id2 ba-al-la-zu ... ĝiš-gi a-ta im-ta-ab-ed3-a-zu"}
+      - {motif: enlil-drives-away-evil-spirits, refs: ["ETCSL 2.4.1.1 1:232", "ETCSL 2.4.1.1 1:233"], note: "en {d}nu-nam-nir ... {d}udug ḫul ... bi2-in-sar-re; broken"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.1.1 1:240"], note: "en {d}nin-ĝiš-zid-da za3-mi2"}
+    hints:
+      - "Who can change God's decree: Isa 14:27, Isa 43:13, Num 23:19-20; Q 13:41 ('none can reverse His judgment')."
+      - "Name remembered after death for works: Prov 10:7, Isa 56:5; Absalom's pillar 2 Sam 18:18."
+  - id: ane-etcsl-2-4-1-1-2-second-recension
+    tradition: ane-sumerian
+    title: The death of Ur-Namma, second recension (sources 2.A-2.D)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: second recension (Nibru-type sources 2.A-2.D)
+    read: ["ETCSL 2.4.1.1 2.A:1-19", "ETCSL 2.4.1.1 2.B:1-22", "ETCSL 2.4.1.1 2.C:1-88", "ETCSL 2.4.1.1 2.D:1-20"]
+    tags:
+      - {motif: god-mourns-lies-down-fasting, refs: ["ETCSL 2.4.1.1 2.A:4"]}
+      - {motif: queen-mother-goddess-weeps-for-son, refs: ["ETCSL 2.4.1.1 2.A:5-10"], note: "variant: nam ur-{d}namma mu-un-bal-e-eš-am3, 'they overturned Ur-Namma's fate'"}
+      - {motif: land-fails-after-kings-death, refs: ["ETCSL 2.4.1.1 2.A:12-19"]}
+      - {motif: fallen-king-as-felled-tree, refs: ["ETCSL 2.4.1.1 2.B:9-12"], note: "variant: {ĝiš}erin kalam-ma-ke4 ba-da-bal, 'the cedar of the Land was uprooted'"}
+      - {motif: kings-offerings-rejected-by-gods, refs: ["ETCSL 2.4.1.1 2.B:14", "ETCSL 2.4.1.1 2.B:15"]}
+      - {motif: forgotten-like-dead-broken-vessel, refs: ["ETCSL 2.4.1.1 2.B:18"], note: "[ur]-{d}namma dug gaz im-mi-ni-taka4-e"}
+      - {motif: road-to-netherworld-desolate, refs: ["ETCSL 2.4.1.1 2.C:6-10"], note: "variant: ki-in-du su3-ud-da 'a long road'"}
+      - {motif: gifts-to-netherworld-porters-and-gods, refs: ["ETCSL 2.4.1.1 2.C:11", "ETCSL 2.4.1.1 2.C:12", "ETCSL 2.4.1.1 2.C:21-63"], note: "adds Ĝeštin-ana, the king's sister, among the recipients; Dumuzid receives shepherd's staff and crook (ešgiri2 šibir) of manu wood"}
+      - {motif: dead-king-made-judge-in-netherworld, refs: ["ETCSL 2.4.1.1 2.C:64-72"]}
+      - {motif: dead-king-laments-unfinished-works, refs: ["ETCSL 2.4.1.1 2.C:73-81"], note: "variant: ud 5-am3 ud 10-am3"}
+      - {motif: pious-king-complains-gods-did-not-help, refs: ["ETCSL 2.4.1.1 2.C:82-87"], note: "ĝe26-e im-ma-zu-a ni2 im-ma-an-zu-a"}
+      - {motif: music-turned-to-lament, refs: ["ETCSL 2.4.1.1 2.D:3", "ETCSL 2.4.1.1 2.D:4"]}
+      - {motif: goddess-protests-to-high-gods-over-death, refs: ["ETCSL 2.4.1.1 2.D:12-20"], note: "an lugal diĝir-re-e-ne in kur2 mu-un-ak-e"}
+      - {motif: word-of-high-god-unchangeable, refs: ["ETCSL 2.4.1.1 2.D:16"], note: "an lugal dug4-ga-a-ni dug4-ga-a-ni nu-kur2"}
+    hints:
+      - "Same parallels as the main recension: Isa 14:9-10; 2 Kgs 20:3; Isa 38:10."
+  - id: ane-etcsl-2-4-1-2-ekur-rebuilt
+    tradition: ane-sumerian
+    title: A tigi to Enlil for Ur-Namma, builder of the E-kur
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.2 A:1-39", "ETCSL 2.4.1.2 B:40-73"]
+    tags:
+      - {motif: god-chooses-king-from-multitude, refs: ["ETCSL 2.4.1.2 A:4", "ETCSL 2.4.1.2 A:5", "ETCSL 2.4.1.2 A:6"], note: "uĝ3-ĝa2 igi mi-ni-in-il2 ... kur gal {d}en-lil2-le uĝ3 šar2-ra-ni-a im-ma-ni-in-pad3"}
+      - {motif: god-commissions-king-to-build-temple, refs: ["ETCSL 2.4.1.2 A:7", "ETCSL 2.4.1.2 A:8", "ETCSL 2.4.1.2 A:10"], note: "šeg12 e2-kur-ra-ke4 me am3-ḫur: the plans (me) of the E-kur were drawn"}
+      - {motif: king-prepares-brick-mould, refs: ["ETCSL 2.4.1.2 A:13"], note: "{ĝiš}u3-šub-ba si am3-mi-in-sa2"}
+      - {motif: temple-foundation-pegs-and-incantations, refs: ["ETCSL 2.4.1.2 A:17", "ETCSL 2.4.1.2 A:18", "ETCSL 2.4.1.2 A:19"], note: "temen kug mi-ni-in-si-eš ... nam-šub galam-ma-na {d}en-ki-ke4"}
+      - {motif: temple-gates-named-and-silvered, refs: ["ETCSL 2.4.1.2 A:22", "ETCSL 2.4.1.2 A:23"]}
+      - {motif: temple-tower-reaching-heaven, refs: ["ETCSL 2.4.1.2 A:20", "ETCSL 2.4.1.2 B:42"], note: "e2-kur maḫ dur-an-ki-a-ka an-še3 mi-ni-in-mu2"}
+      - {motif: gods-feast-in-new-temple-decree-fate, refs: ["ETCSL 2.4.1.2 A:31-38"]}
+      - {motif: god-speaks-my-word-immutable, refs: ["ETCSL 2.4.1.2 B:40", "ETCSL 2.4.1.2 B:46"], note: "{d}nu-nam-nir dug4-ga eš-bar zid niĝ2 nu-kur2-ru ĝe26-me-en"}
+      - {motif: king-fame-to-ends-of-heaven, refs: ["ETCSL 2.4.1.2 B:45", "ETCSL 2.4.1.2 B:51"], note: "mu-zu an-zag-še3 kur-ur2-še3 ḫe2-ĝal2"}
+      - {motif: god-gives-king-mace-to-crush-lands, refs: ["ETCSL 2.4.1.2 B:52-57"], note: "udug2 maḫ ... saĝ saḫar-re-eš dub-bu ki-bal-a ša5-ša5"}
+      - {motif: king-destroys-cities-of-wicked, refs: ["ETCSL 2.4.1.2 B:58-61"], note: "ḫul-ĝal2-la uru2 am3-mi-in-gul-gul ... lil2 am3-mi-ni-in-su-ub"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.4.1.2 B:40-65"]}
+    hints:
+      - "God chooses the king and commissions the temple: 2 Sam 7:8-13, 1 Chr 28:5-6, 1 Kgs 5:3-5; dedication feast 1 Kgs 8:62-66."
+      - "God's word that does not change: Num 23:19, Mal 3:6, Isa 55:11. King crushing enemies with a rod: Ps 2:9, Ps 110:5-6."
+  - id: ane-etcsl-2-4-1-3-ur-namma-self-praise
+    tradition: ane-sumerian
+    title: Ur-Namma praises Urim and himself (Ur-Namma C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.3 1-115"]
+    tags:
+      - {motif: wall-grown-from-abzu, refs: ["ETCSL 2.4.1.3 3"], note: "iri bad3 gal ki ĝar-ra-zu abzu-ta mu2-a"}
+      - {motif: temple-where-fates-are-determined, refs: ["ETCSL 2.4.1.3 6"], note: "e2-kiš-nu-ĝal2 šag4-ga nam tar-ra"}
+      - {motif: royal-self-praise-hymn, refs: ["ETCSL 2.4.1.3 18-30", "ETCSL 2.4.1.3 31-42"], note: "[ni2-te-a]-ni mi2 zid i-ri in-ga-am3-me"}
+      - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.4.1.3 20", "ETCSL 2.4.1.3 21", "ETCSL 2.4.1.3 23"], note: "an-e ka kug-ga-ni mu-un-ba šeĝx ma-u3-tud"}
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.4.1.3 24", "ETCSL 2.4.1.3 47"], note: "{d}nin-tur5-re ĝe26-e mu-un-dim2-dim2-en gaba-ri-ĝu10 nu-tuku"}
+      - {motif: king-establishes-justice-crushes-evildoers, refs: ["ETCSL 2.4.1.3 32-39"], note: "ni2-zuḫ lu2 i-{d}utu-ka gu2-ba ĝiri3 bi2-gub / erim2-du muš-gin7 ... / niĝ2-si-sa2-e pa e3 bi2-ak niĝ2-erim2 sa2 bi2-dug4"}
+      - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.4.1.3 35"], note: "approximate: foot on the necks of thieves and criminals"}
+      - {motif: king-conceived-in-holy-womb-of-goddess, refs: ["ETCSL 2.4.1.3 43", "ETCSL 2.4.1.3 48"], note: "a-ĝu10 šag4 kug-ge ba-ri-a-ta ... šag4 ama-ĝu10 {d}nin-sumun2-ka-ta"}
+      - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.1.3 46", "ETCSL 2.4.1.3 49"], note: "{d}en-lil2-le {d}utu-gin7 kalam-ma ed2-de3 mu dug3 mu-un-sa4"}
+      - {motif: called-from-the-womb, refs: ["ETCSL 2.4.1.3 43-49"]}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.4.1.3 19", "ETCSL 2.4.1.3 54"]}
+      - {motif: king-frees-poor-from-labor-and-tax, refs: ["ETCSL 2.4.1.3 56", "ETCSL 2.4.1.3 80"], note: "dumu ukur3-ra u2 il2-i-de3 ĝen-na ama-ni-ir mu-un-gi4-gi4; buru14 ... niĝ2-kud nu-ak-e"}
+      - {motif: king-chosen-by-extispicy, refs: ["ETCSL 2.4.1.3 58"], note: "{d}en-lil2-le ud dug3-dug3-ga-na maš2-e bi2-in-pad3-de3-en"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.4.1.3 76", "ETCSL 2.4.1.3 77"], note: "sipad zid udu-ni dirig ĝal2-la-me-en"}
+      - {motif: king-sacred-marriage-bed-in-gipar, refs: ["ETCSL 2.4.1.3 73", "ETCSL 2.4.1.3 74"]}
+      - {motif: king-digs-canals-trees-on-banks, refs: ["ETCSL 2.4.1.3 83"]}
+      - {motif: king-restores-after-gutian-oppression, refs: ["ETCSL 2.4.1.3 86-92"], note: "gu-ti-um{ki} ... šu sis-na mu-du8"}
+      - {motif: king-asks-life-as-reward, refs: ["ETCSL 2.4.1.3 107"], note: "sipad ur-{d}namma-me-en til3 niĝ2-ba-ĝu10 ḫe2-a"}
+      - {motif: king-brother-of-gilgamesh, refs: ["ETCSL 2.4.1.3 112", "ETCSL 2.4.1.3 113"], note: "šeš {d}gilgameš2 gu-la-me-en"}
+      - {motif: kingship-descended-from-heaven, refs: ["ETCSL 2.4.1.3 114"], note: "[an]-ta nam-lugal ma-ra-ed3"}
+    hints:
+      - "Ideal king brings justice, rain and fertility: Ps 72:1-7, Ps 72:16; 2 Sam 23:3-4."
+      - "Formed and named in the womb: Jer 1:5, Isa 49:1, Ps 139:13; compare Ps 2:7 (divine sonship of the king)."
+      - "Kingship lowered from heaven: compare the Sumerian King List; Dan 2:37, Dan 4:17 (God gives kingdoms)."

@@ -28,6 +28,52 @@ new_motifs:
   closing-praise-of-god: {label: "A composition ends with the formula 'X, be praised!' (zami)", cluster: hymn}
   oath-by-life-of-heaven: {label: "A speaker adjures or swears 'by the life of heaven'", cluster: oath}
   name-puns-on-body-parts: {label: "Each newborn deity's name puns on the body part from which it came", cluster: wordplay}
+  in-those-days-when-heaven-and-earth-were-made: {label: "A myth opens 'In those days, when heaven and earth were made / when the fates were determined'", cluster: creation}
+  lesser-gods-toil-and-complain: {label: "Before humans exist, lesser gods do the heavy labor (digging canals, carrying baskets) and complain", cluster: creation}
+  humans-created-to-bear-gods-labor: {label: "Humankind is created as a substitute to take over the gods' toil and carry their work-basket", cluster: creation}
+  creator-god-asleep-in-deep-waters: {label: "The wise creator god lies asleep in the subterranean waters and must be woken to act", cluster: creation}
+  birth-goddesses-assist-creation-of-humans: {label: "Birth-goddesses nip off clay and stand by as the first human form is brought to birth", cluster: creation}
+  drunken-contest-of-gods: {label: "Two deities, merry with beer at a banquet, start a contest of skill", cluster: myth}
+  disabled-humans-given-a-place: {label: "A god assigns each disabled or anomalous human a fixed social role and daily bread", cluster: creation}
+  sexless-human-serves-before-king: {label: "A human without sex organs (eunuch) is destined to stand before the king", cluster: kingship}
+  barren-woman-created: {label: "A deity deliberately fashions a woman who cannot give birth", cluster: birth}
+  creature-neither-alive-nor-dead: {label: "A being is described as 'neither alive nor dead'", cluster: creation}
+  feeble-old-creature-umul: {label: "A god fashions Umul ('my day is far off'), a frail being who cannot stand, eat or speak - the first old man or newborn", cluster: creation}
+  goddess-laments-destroyed-city-and-house: {label: "A goddess laments that her city is ruined, her house destroyed, her child taken captive and she a fugitive", cluster: lament}
+  god-as-cosmic-tree-shading-earth: {label: "A god or king is likened to a great tree planted in the deep whose shade covers heaven and earth", cluster: cosmology}
+  god-orders-days-months-years: {label: "A god counts the days, sets the months in their houses and completes the years (regulates the calendar)", cluster: cosmology}
+  divine-word-makes-fertile: {label: "At the god's word or approach flocks give birth, fields yield and stores are heaped", cluster: fertility}
+  divine-self-praise-i-am: {label: "A god praises himself in a sequence of 'I am ...' statements", cluster: hymn}
+  younger-god-receives-powers-from-elder: {label: "A god receives the divine powers (me) gathered and placed in his hand by his father or elder brother", cluster: kingship}
+  god-is-firstborn-of-high-god: {label: "A god calls himself the firstborn son of the supreme god", cluster: kingship}
+  gods-ships-bring-gold-from-far-lands: {label: "Ships of distant lands (Dilmun, Magan, Meluḫa) bring timber, gold and silver to the god's city", cluster: trade}
+  god-provides-for-homeless-nomads: {label: "A god gives livestock to the nomads 'who have no city and no house'", cluster: society}
+  god-decrees-fate-of-lands: {label: "A god travels from land to land decreeing each its destiny (Sumer, Ur, Meluḫa, Dilmun)", cluster: cosmology}
+  god-ejaculates-filling-rivers: {label: "A god's ejaculation fills the river (Tigris) with sparkling water and brings fertility", cluster: creation}
+  god-appoints-deities-over-domains: {label: "A creator god organizes each sphere of the world and places a named deity in charge of it", cluster: cosmology}
+  shrine-in-sea-beyond-understanding: {label: "A god builds a holy shrine in the sea whose interior is a tangle beyond human understanding, aligned with constellations", cluster: temple}
+  net-from-which-none-escapes: {label: "A god's net from which no fish, bird or living thing escapes", cluster: divine-weapons}
+  sun-god-judge-of-gods: {label: "The sun god is judge who searches out verdicts, placed over heaven and earth", cluster: cosmology}
+  goddess-complains-of-no-portion: {label: "A goddess weeps and complains that she alone was left without functions when the domains were allotted", cluster: myth}
+  inana-sows-heads-like-seed: {label: "The war goddess heaps up human heads like dust and sows them like seed", cluster: war}
+  god-gives-women-their-crafts: {label: "A god establishes women's work: spinning, weaving, the spindle and hairpin", cluster: culture}
+  temple-of-precious-metal-and-lapis: {label: "A god's temple is built of silver (or gold) and decorated with lapis lazuli and cornelian", cluster: temple}
+  temple-speaks-and-gives-counsel: {label: "A temple's brickwork speaks, roars like a bull and gives advice; the temple praises its lord at night", cluster: temple}
+  temple-parts-as-lions-and-bulls: {label: "Each part of a temple (lock, bolt, door, stair, roof-beams) is likened to a lion or bull", cluster: temple}
+  temple-on-cosmic-waters: {label: "A temple's foundation pegs are driven into the subterranean waters (abzu); the temple floats on the water like a mountain", cluster: temple}
+  instruments-play-by-themselves: {label: "Musical instruments in a god's temple sound of their own accord", cluster: temple}
+  boat-sails-of-itself: {label: "A god's boat casts off and moves of its own accord, its tow-rope held by itself", cluster: miracle}
+  gods-banquet-seated-by-rank: {label: "At a feast of the gods the host seats the supreme god at the head and the others by rank", cluster: divine-council}
+  holy-precinct-no-one-may-enter: {label: "A god's holy dwelling is a place no one may enter or look into", cluster: temple}
+  there-was-a-city-opening: {label: "A tale opens by naming and describing a city ('There was a city ...'), its river, quay and well", cluster: narrative-form}
+  bathing-in-holy-river-forbidden: {label: "A young woman is told not to bathe in a holy river, where a god will see her", cluster: sexuality}
+  maiden-refuses-god-too-young: {label: "A maiden refuses a god's advances: she is too young and her parents will punish her", cluster: sexuality}
+  god-rapes-maiden: {label: "A god takes a maiden by force or without her consent and she conceives a god", cluster: sexuality}
+  god-banished-for-sexual-offence: {label: "The council of gods seizes a god as ritually impure for a sexual offence and expels him from the city", cluster: divine-council}
+  god-journeys-to-underworld: {label: "A god goes down toward the underworld, passing its gate, its man-eating river and its ferryman", cluster: underworld}
+  woman-follows-departing-god: {label: "A woman pregnant by a god follows him into exile", cluster: sexuality}
+  substitute-children-for-underworld: {label: "Children are begotten as substitutes so that a firstborn may be released from the underworld", cluster: underworld}
+  threefold-repeated-episode: {label: "An episode is told three or more times in nearly identical words with one element changed", cluster: narrative-form}
 units:
   - id: ane-etcsl-1-1-1-dilmun-pristine
     tradition: ane-sumerian
@@ -87,7 +133,7 @@ units:
     corpus: ane
     original: true
     tagger: Claude (model), reading the Sumerian
-    read: ["ETCSL 1.1.1 127-189"]
+    read: ["ETCSL 1.1.1 127-187"]
     tags:
       - {motif: elder-woman-warns-maiden-of-gods-lust, refs: ["ETCSL 1.1.1 127-131"], note: "na ga-e-de5 ... {d}en-ki-ke4 ambar-ra im-da-la2: Nintur advises Uttu that Enki watches from the marsh; lines 132-146 broken"}
       - {motif: fruit-gifts-to-win-woman, refs: ["ETCSL 1.1.1 147-151", "ETCSL 1.1.1 171-177"], note: "ukuš2 ... {ĝiš}ḫašḫur ... {ĝiš}ĝeštin: cucumbers, apples, grapes; Uttu herself asks for them (147-151, restored in part)"}
@@ -132,3 +178,349 @@ units:
       - "Compare Gen 2:21-22 (woman built from the man's rib, tsela') and Gen 3:20 (Eve, 'mother of all living'); the Sumerian ti / til 'rib' / 'life' pun has long been compared."
       - "Compare Gen 3:14-19 (curse after eating) and Num 12:10-15 (a sufferer healed after intercession)."
       - "Compare Job 2:8, 2:13 (sitting in the dust in grief); Judg 15:4 (foxes)."
+  - id: ane-etcsl-1-1-2-gods-toil
+    tradition: ane-sumerian
+    title: In the days of creation the lesser gods dig canals and complain (Enki and Ninmah)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 1-11"]
+    tags:
+      - {motif: in-those-days-when-heaven-and-earth-were-made, refs: ["ETCSL 1.1.2 1-3"], note: "ud re-a-ta ud an ki-bi-ta ba-an-dim2-ma-ba / ĝi6 re-a-ta ... / mu re-a-ta mu nam ba-tar-ra-ba: 'in those days, in the days when heaven and earth were fashioned; in those nights ...; in those years when the fates were determined'"}
+      - {motif: lesser-gods-toil-and-complain, refs: ["ETCSL 1.1.2 9-11"], note: "diĝir šar2-šar2 kiĝ2-ĝa2 al-sug2-ge-eš diĝir tur-tur du2-lum im-il2-il2-e-ne / diĝir id2 dun-dun-u3-ne saḫar-bi ḫa-ra-li im-dub-dub-be2-ne: 'the senior gods oversaw the work, the lesser gods bore the toil; the gods dug the canals, heaped the silt in Ḫarali'"}
+      - {motif: sons-of-god-marry-human-women, refs: ["ETCSL 1.1.2 5-7"], note: "divergence: goddesses (ama-inana) are married and distributed in heaven and earth among the gods; no humans yet"}
+    hints:
+      - "Compare Gen 2:4b-5 ('in the day YHWH God made earth and heaven ... there was no man to till the ground')."
+      - "Compare Atrahasis I (Igigi strike against the canal-digging) and Q 51:56-57 (humans created to worship, God needs no provision from them)."
+  - id: ane-etcsl-1-1-2-namma-wakes-enki
+    tradition: ane-sumerian
+    title: Namma wakes the sleeping Enki, who plans humankind from the clay of the abzu
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 12-43"]
+    tags:
+      - {motif: creator-god-asleep-in-deep-waters, refs: ["ETCSL 1.1.2 13-14"], note: "{d}en-ki-ke4 engur buru3 a-sur-ra ki diĝir na-me šag4-bi u6 nu-um-me / ki-nu2-ni i3-nu2 u3 ku nu-um-zi-zi: in the deep engur, where no god sees inside, he lay on his bed and did not rise from sleep"}
+      - {motif: why-do-you-sleep-o-lord, refs: ["ETCSL 1.1.2 15-23"], note: "the weeping gods' complaint is carried by Namma: du5-mu-ĝu10 ki-nu2-zu zig3-ga: 'my son, rise from your bed!'"}
+      - {motif: humans-created-to-bear-gods-labor, refs: ["ETCSL 1.1.2 23", "ETCSL 1.1.2 30", "ETCSL 1.1.2 37"], note: "kiĝ2-sig10 dim3-me2-er-e-ne-ke4 u3-mu-e-dim2 du2-lum-bi ḫa-ba-tu-lu-ne: 'create a substitute (?) for the gods so their toil may slacken'; zub-sig3 diĝir-re-e-ne keše2-i3: 'bind on him the gods' work-basket'"}
+      - {motif: human-formed-from-earth, refs: ["ETCSL 1.1.2 31-32"], note: "šag4 im ugu abzu-ka u3-mu-e-ni-in-šar2: 'knead the heart of the clay above the abzu'"}
+      - {motif: pinched-off-from-clay, refs: ["ETCSL 1.1.2 32"], note: "SIG7-EN SIG7-ḪI im mu-e-kir3-kir3-re-ne: 'the birth-goddesses will nip off the clay' - kir3 'to pinch off' as Hebrew qrṣ"}
+      - {motif: birth-goddesses-assist-creation-of-humans, refs: ["ETCSL 1.1.2 32-36"], note: "Ninmaḫ as assistant; Ninimma, Šu-zi-ana, Ninmada, Ninbarag, Ninmug, Ninguna stand by at the birth"}
+    hints:
+      - "Compare Job 33:6 ('I too was pinched off (qoratsti) from clay'), Gen 2:7 and Isa 64:7 ('we are the clay, you our potter')."
+      - "Compare Ps 44:24 ('Awake, why do you sleep, O Lord?') and Ps 121:4 (the guardian never sleeps); 1Kgs 18:27."
+      - "Compare Gen 1:26 (deliberation 'let us make') and Q 2:30 (God announces to the angels a vicegerent on earth); Q 15:26-29 (man from clay)."
+  - id: ane-etcsl-1-1-2-banquet-praise
+    tradition: ane-sumerian
+    title: The gods feast and praise Enki's wisdom
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 44-51"]
+    tags:
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 1.1.2 49-51"], note: "en ĝeštug2 daĝal-la a-ba-a ĝeštug2 i3-de5-ge / ... a-ba-a i3-sig10-ge: 'lord of wide wisdom, who is as wise? who can equal your deeds?'"}
+      - {motif: divine-council, refs: ["ETCSL 1.1.2 45-48"], note: "An, Enlil and Nudimmud roast holy kids; all the senior gods praise Enki"}
+    hints:
+      - "Compare Exod 15:11 and Ps 89:7-9 ('who is like you among the gods')."
+  - id: ane-etcsl-1-1-2-six-creatures
+    tradition: ane-sumerian
+    title: Drunk on beer, Ninmah makes six flawed humans and Enki decrees a fate for each
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 52-82"]
+    tags:
+      - {motif: drunken-contest-of-gods, refs: ["ETCSL 1.1.2 52-57"], note: "kaš im-na8-na8-ne šag4-bi ul mu-un-te: drinking beer their hearts grew elated; Ninmaḫ: whether a fate is good or bad depends on my heart"}
+      - {motif: human-formed-from-earth, refs: ["ETCSL 1.1.2 58"], note: "im ugu abzu-a šu-ni mu-ni-in-ti"}
+      - {motif: disabled-humans-given-a-place, refs: ["ETCSL 1.1.2 59-74"], note: "a man with weak hands > servant of the king; a man who 'turns back the light' (blind?) > musician before the king; lame (or idiot) > silversmith's work / king's servant; incontinent > bathed in enchanted water and the namtar driven out; barren woman > queen's household / weaver"}
+      - {motif: god-makes-mouth-mute-and-blind, refs: ["ETCSL 1.1.2 62-64"], note: "interpretive: lu2 u6-e 'one who stares', ĝiš-nu11 gi4-gi4 'turning back the light' - commonly understood as a blind man, given the art of the singer (nam-nar)"}
+      - {motif: barren-woman-created, refs: ["ETCSL 1.1.2 72-74"], note: "munus nu-u3-tud am3-ma-ni-in-dim2"}
+      - {motif: sexless-human-serves-before-king, refs: ["ETCSL 1.1.2 75-78"], note: "lu2 su-ba ĝiš3 nu-ĝar gal4-la nu-ĝar ... igi lugal-la-ke4 gub-bu-de3 nam-bi a-ma-ni-in-tar: 'neither penis nor vagina ... its fate to stand before the king'; named 'Nibru eunuch (tiru)'"}
+      - {motif: deity-names-creations, refs: ["ETCSL 1.1.2 77"], note: "mu-e mu-ni-in-sa4-a: Enki gives the sexless being a name"}
+    hints:
+      - "Compare Exod 4:11 ('who makes the mute, the deaf, the seeing or the blind? Is it not I?') and John 9:2-3."
+      - "Compare Isa 56:3-5 (the eunuch given a place and a name) and Dan 1:3-4 (eunuchs standing before the king); 2Kgs 20:18."
+  - id: ane-etcsl-1-1-2-umul
+    tradition: ane-sumerian
+    title: Enki fashions Umul, a frail creature Ninmah cannot help
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 83-101"]
+    tags:
+      - {motif: feeble-old-creature-umul, refs: ["ETCSL 1.1.2 88-91", "ETCSL 1.1.2 96-99"], note: "u4-mu-ul: head, eyes, neck, lungs, heart, bowels afflicted; cannot put bread in its mouth, cannot speak, sit or lie down"}
+      - {motif: creature-neither-alive-nor-dead, refs: ["ETCSL 1.1.2 101"], note: "lu2 til3-la in-nu lu2 ug5-ga in-nu: 'he is not a living man, he is not a dead man'"}
+      - {motif: be-fruitful-and-multiply, refs: ["ETCSL 1.1.2 85"], note: "divergence: a ĝiš3 ak šag4 munus-a-ka ri-a ... munus-bi mu-un-u3-tud: 'pour ejaculated semen into a woman's womb, and the woman will give birth' - procreation as Enki's design, not a blessing"}
+    hints:
+      - "Compare Q 20:74 and Q 87:13 (in hell one 'neither dies nor lives'); Eccl 12:1-7 (the failing body of old age); Ps 71:9."
+  - id: ane-etcsl-1-1-2-ninmah-lament
+    tradition: ane-sumerian
+    title: Ninmah laments her ruined city; Enki's word stands and Ninmah cannot rival him
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.2 102-141"]
+    tags:
+      - {motif: disabled-humans-given-a-place, refs: ["ETCSL 1.1.2 103-108"], note: "nam mi-ni-tar ninda mi-ni-in-šum2 repeated: 'I decreed its fate, I gave it bread'"}
+      - {motif: goddess-laments-destroyed-city-and-house, refs: ["ETCSL 1.1.2 123-128"], note: "iri-ĝu10 gel-le-eĝ3-ĝa2 e2-ĝu10 gul-la dumu-ĝu10 šu dab5-ba / lu2-kar-ra-ĝen e2-kur-ta e3-ĝen: 'my city ruined, my house destroyed, my child captured; I am a fugitive gone out of the E-kur'; 109-121 broken"}
+      - {motif: irrevocable-blessing, refs: ["ETCSL 1.1.2 130"], note: "inim ka-zu e3-a a-ba-a i3-kur2-re: 'who can change the word that has gone out of your mouth?'"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.1.2 140-141"], note: "{d}nin-maḫ-e en gal {d}en-ki-ke4 zag nu-mu-ni-in-ša4 / a-a {d}en-ki za3-mi2-zu dug3-ga"}
+    hints:
+      - "Compare Lam 1-2 (the city as a bereaved woman whose children are captive) and Isa 55:11 (the word that goes out of my mouth will not return empty); Num 23:19."
+  - id: ane-etcsl-1-1-3-hymn-to-enki
+    tradition: ane-sumerian
+    title: Hymn to Enki, the meš tree of the abzu who regulates the calendar and makes the land fertile (Enki and the world order)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 1-60"]
+    tags:
+      - {motif: god-as-cosmic-tree-shading-earth, refs: ["ETCSL 1.1.3 4-7"], note: "lugal {ĝiš}meš3 abzu-a du3-a kur-kur-ta il2-la / ušumgal maḫ eridug-ga gub-ba / ĝissu-bi an ki-a dul-la: 'king, meš tree planted in the abzu, rising over all lands; great dragon standing in Eridug, whose shade covers heaven and earth'"}
+      - {motif: god-orders-days-months-years, refs: ["ETCSL 1.1.3 17-19", "ETCSL 1.1.3 44"], note: "ud šid-e itid e2-ba ku4-ku4 mu šu du7-du7-da: 'counting the days, putting the months in their houses, completing the years'"}
+      - {motif: luminaries-rule-day-night, refs: ["ETCSL 1.1.3 17-19"], note: "interpretive: regulation of days, months and years attributed to Enki, not to sun and moon"}
+      - {motif: divine-word-makes-fertile, refs: ["ETCSL 1.1.3 21", "ETCSL 1.1.3 32-35", "ETCSL 1.1.3 52-57"], note: "ka ba-a-zu niĝ2 im-lu-lu ḫe2-ĝal2 ki bi2-ib-us2: 'you only open your mouth and everything multiplies'; good ewes, cows, goats give birth when he goes forth"}
+      - {motif: god-as-shepherd, refs: ["ETCSL 1.1.3 46-47"], note: "uĝ3 ki-tuš-ba bi2-in-tuš ... na-gada-bi bi2-in-us2: he settles the people and makes them follow their herdsman (partly broken)"}
+    hints:
+      - "Compare Dan 4:7-9 and Ezek 31:3-9 (cosmic tree whose shade shelters all), Ps 1:3."
+      - "Compare Gen 1:14-18 and Ps 104:19 (moon for seasons); Q 10:5 and Q 9:36 (months reckoned by God)."
+      - "Compare Ps 65:10-14 and Deut 28:4 (fruit of womb, flock and field blessed)."
+  - id: ane-etcsl-1-1-3-enki-self-praise
+    tradition: ane-sumerian
+    title: Enki praises himself as firstborn of An, holder of the divine powers and giver of rain
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 61-99"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 1.1.3 68-80", "ETCSL 1.1.3 88"], note: "a zid am gal-e ri-a-me-en dumu-saĝ an-na-me-en ... kišib-ĝal2 an ki-bi-da-me-en: 'I am the good seed of a wild bull, I am the firstborn of An ... I am the seal-keeper of heaven and earth'"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 1.1.3 64-67"], note: "pap-ĝu10 lugal kur-kur-ra-ke4 me mu-un-ur4-ur4 me šu-ĝu10-še3 mu-un-ĝar: 'my elder brother gathered the me and placed them in my hand'"}
+      - {motif: god-is-firstborn-of-high-god, refs: ["ETCSL 1.1.3 68", "ETCSL 1.1.3 80"]}
+      - {motif: heavenly-storehouse-of-rain, refs: ["ETCSL 1.1.3 90"], note: "an-e um-ma-te im ḫe2-ĝal2-la an-ta šeĝ3-ĝa2: 'when I approach heaven, a rain of abundance rains from heaven'"}
+      - {motif: divine-council, refs: ["ETCSL 1.1.3 74-75", "ETCSL 1.1.3 81-85"], note: "with An on An's dais he oversees justice; the Anuna stand in prayer and supplication"}
+      - {motif: divine-word-makes-fertile, refs: ["ETCSL 1.1.3 89-93"]}
+    hints:
+      - "Compare Ps 89:28 ('I will make him firstborn'), Exod 4:22, Col 1:15."
+      - "Compare Isa 44:24-28 and Isa 45:5-7 (divine 'I am' self-predication); Deut 28:12 (heavenly storehouse of rain)."
+  - id: ane-etcsl-1-1-3-cult-and-barge
+    tradition: ane-sumerian
+    title: Enki's cult in the abzu, his barge, the ships of Dilmun, Magan and Meluḫa, and gifts to the Martu
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 100-139"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 1.1.3 101", "ETCSL 1.1.3 115-117"], note: "{d}en-ki-me-en ... en-me-en ĝe26-e ga-ĝen: 'I am Enki! I am the lord! I will go!'"}
+      - {motif: gods-ships-bring-gold-from-far-lands, refs: ["ETCSL 1.1.3 123-130"], note: "{ĝiš}ma2 dilmun ... ma2-gan ... ma2-gi4-lum me-luḫ-ḫa ... kug-sig17 kug-babbar ... nibru-še3: Dilmun, Magan, Meluḫa boats carry timber, gold, silver to Nibru for Enlil"}
+      - {motif: god-provides-for-homeless-nomads, refs: ["ETCSL 1.1.3 131-132"], note: "iri nu-tuku-ra e2 nu-tuku-ra mar-tu maš2-anše saĝ-e-eš mu-ni-rig7"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 1.1.3 134-139"], note: "the Anuna: en me gal me sikil-la u5-a: 'lord who rides upon the great powers' - hymnic acclamation"}
+    hints:
+      - "Compare 1Kgs 9:26-28 and 1Kgs 10:22 (fleets bring gold of Ophir); Isa 60:9."
+      - "Compare Gen 4:20 (father of tent-dwellers with livestock) and Jer 35:6-10 (those who build no house)."
+  - id: ane-etcsl-1-1-3-procession-sumer
+    tradition: ane-sumerian
+    title: Purification rites in Eridug, the barge procession, and Enki decrees the destiny of Sumer
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 140-209"]
+    tags:
+      - {motif: god-as-cosmic-tree-shading-earth, refs: ["ETCSL 1.1.3 166-168"], note: "urin gal ... ĝissu-bi ki-šar2-ra la2-a uĝ3-e ni2 te-en-ten / us2-saĝ dimgul ... kur-kur-ta il2-la: the emblem whose shade covers the land and refreshes people, pillar rising over all lands"}
+      - {motif: god-decrees-fate-of-lands, refs: ["ETCSL 1.1.3 191-209"], note: "{d}en-ki-ke4 nam im-mi-ib-tar-re: ki-en-gi kur gal ... 'Sumer, great mountain, land of heaven and earth'"}
+      - {motif: divine-council, refs: ["ETCSL 1.1.3 202-204", "ETCSL 1.1.3 209"], note: "the Anuna take up dwellings in Sumer and decree destinies in its midst"}
+      - {motif: chosen-treasured-people, refs: ["ETCSL 1.1.3 192-198"], note: "divergence and interpretive: a land, Sumer, singled out among lands; Sumer's me are 'untouchable', its matrix 'in which gods too are born' is beyond reach; it bears kings and lords"}
+    hints:
+      - "Compare Deut 32:8-9 (allotment of the nations; Jacob YHWH's portion) and Deut 11:12 (a land God's eyes are always on)."
+  - id: ane-etcsl-1-1-3-urim-meluhha
+    tradition: ane-sumerian
+    title: Enki decrees the destinies of Urim and of Meluḫa, the black land
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 210-237"]
+    tags:
+      - {motif: god-decrees-fate-of-lands, refs: ["ETCSL 1.1.3 210-218", "ETCSL 1.1.3 219-235"]}
+      - {motif: god-as-cosmic-tree-shading-earth, refs: ["ETCSL 1.1.3 214"], note: "{ĝiš}tir ḫa-šu-ur2-ra ĝissu daĝal-la: Ur as a forest of ḫašur cypresses with broad shade"}
+      - {motif: tower-reaching-heaven, refs: ["ETCSL 1.1.3 218"], note: "divergence: blessing, not hubris - eš3 urim2 gu2 an-še3 ḫe2-zig3 'sanctuary of Urim, may you rise up to heaven!'"}
+      - {motif: tarshish-ships-apes-peacocks, refs: ["ETCSL 1.1.3 228-232"], note: "Meluḫa: francolins with cornelian beards; mušen-zu {d}ḫa-ia3{mušen} ḫe2-em 'may your birds be ḫaia-birds' (ETCSL: peacocks); kug-zu kug-sig17 ḫe2-em 'may your silver be gold'"}
+    hints:
+      - "Compare 1Kgs 10:22 (gold, silver, ivory, apes and peacocks from afar) and Isa 60:17 ('instead of bronze I will bring gold')."
+  - id: ane-etcsl-1-1-3-dilmun-rivers
+    tradition: ane-sumerian
+    title: Enki cleanses Dilmun, plunders Elam for Enlil, and fills the Tigris with his seed
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 238-273"]
+    tags:
+      - {motif: pristine-land-of-the-gods, refs: ["ETCSL 1.1.3 238-241"], note: "kur dilmun-na mu-un-sikil mu-un-dadag: he cleansed and purified Dilmun; set Ninsikila over it; palms and dates"}
+      - {motif: god-provides-for-homeless-nomads, refs: ["ETCSL 1.1.3 248-249"]}
+      - {motif: god-ejaculates-filling-rivers, refs: ["ETCSL 1.1.3 251-260"], note: "ĝiš3 im-zi-zi dub3 im-nir-re / {id2}idigna a zal-le im-ma-an-si: 'he lifted his penis, ejaculated, filled the Tigris with sparkling water'; niĝ2-mussa nam-de6 'he brought a bridal gift'"}
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.1.3 267-273"], note: "Enbilulu, inspector of waterways, over Tigris and Euphrates; formula {d}en-ki-ke4 zag-ba nam-mi-in-gub"}
+      - {motif: four-rivers-of-paradise, refs: ["ETCSL 1.1.3 251-268"], note: "divergence: the two rivers, Tigris and Euphrates, receive their water from a god; no single source river"}
+    hints:
+      - "Compare Gen 2:10-14 (Tigris and Euphrates among the rivers from Eden) and Ezek 47:1-12."
+  - id: ane-etcsl-1-1-3-marsh-sea-nanshe
+    tradition: ane-sumerian
+    title: Marshes, fisheries and the sea shrine; Nanše placed over the sea
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 274-308"]
+    tags:
+      - {motif: creation-by-word, refs: ["ETCSL 1.1.3 274-275"], note: "ambar-re gu3 ba-an-de2 ... ĝiš-gi gu3 ba-an-de2: 'he called to the marshes ... spoke to the reedbeds' and gave them carp and reeds (partly restored)"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 1.1.3 279-281"], note: "sa-par4-ra-ni ku6 nu-e3 / niĝ2-keše2-da-ni u3-tud nu-e3 / gu la2-a-na mušen nu-e3"}
+      - {motif: shrine-in-sea-beyond-understanding, refs: ["ETCSL 1.1.3 285-291"], note: "a-ab-ba eš3 mu-un-ĝar ... šag4-bi gu suḫ3-a niĝ2 lu2 nu-zu-a / ki-gub-bi {mul}iku ... {mul}ĝiš-gigir-še3: interior a tangled thread none knows; emplacement by the Field and Chariot constellations; the Anuna dare not approach"}
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.1.3 282-284", "ETCSL 1.1.3 299-308"], note: "a fisher deity (name damaged), then Nanše over the wide sea"}
+    hints:
+      - "Compare Ezek 12:13, Hos 7:12 (God's net) and Hab 1:15-17; Job 38:31-33 (constellations); Ps 104:25-26."
+  - id: ane-etcsl-1-1-3-rain-plough-build
+    tradition: ane-sumerian
+    title: Enki organizes rain, ploughing, grain, brick-making, building and the steppe, appointing a deity over each
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 309-357"]
+    tags:
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.1.3 309-317", "ETCSL 1.1.3 318-325", "ETCSL 1.1.3 326-334", "ETCSL 1.1.3 335-340", "ETCSL 1.1.3 341-348", "ETCSL 1.1.3 349-357"], note: "Iškur over rain, Enkimdu over plough and ditches, Ezina over grain, Kulla over bricks, Mušdama over building, Šakkan over the steppe"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 1.1.3 313-316"], note: "ud gal-la u5-a niĝ2-ĝir2-da du7-du7: Iškur 'who rides on the great storms, attacks with lightning'"}
+      - {motif: rainbow-radiance-around-god, refs: ["ETCSL 1.1.3 346"], note: "divergence: nir-gam-ma-ni {d}tir-an-na-gin7 an-šag4-ge us2-sa: Mušdama's vaults reach into heaven 'like the rainbow'"}
+      - {motif: human-dominion-over-animals, refs: ["ETCSL 1.1.3 352-357"], note: "divergence: Šakkan, king of the hills, not humans, is set over the multiplied wild goats and ibex"}
+      - {motif: earth-brings-forth-life, refs: ["ETCSL 1.1.3 321", "ETCSL 1.1.3 327", "ETCSL 1.1.3 351"], note: "gan2-ne2 zid-de3 še ba-an-mu2; gig-zid2 gu2-gal-la sa-zid2 ba-an-e3: he made barley, chickpeas and lentils grow"}
+    hints:
+      - "Compare Ps 104:13-23 (God waters the mountains, makes grass grow, beasts of the field) and Job 38:25-28 (who cut a channel for the rain?)."
+      - "Compare Gen 4:2, 4:17-22 (origins of farming and crafts); Isa 28:24-29 (ploughing taught by God)."
+  - id: ane-etcsl-1-1-3-dumuzid-utu-uttu
+    tradition: ane-sumerian
+    title: Dumuzid over the sheepfold, Utu over heaven and earth, Uttu over weaving
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 358-386"]
+    tags:
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.1.3 358-367", "ETCSL 1.1.3 368-380", "ETCSL 1.1.3 381-386"]}
+      - {motif: sun-god-judge-of-gods, refs: ["ETCSL 1.1.3 374-380"], note: "di-kud ka-aš bar kiĝ2 diĝir-re-e-ne / sun4 {na4}za-gin3 la2 ... {d}utu: 'the judge who searches out verdicts for the gods, with lapis beard'; also ad-da iri-gal 'father of the Great City' (underworld)"}
+      - {motif: do-not-move-boundary-stone, refs: ["ETCSL 1.1.3 370"], note: "divergence: in mu-un-dub bulug-ga mu-un-si-si - the god himself demarcates borders and fixes boundaries"}
+      - {motif: god-gives-women-their-crafts, refs: ["ETCSL 1.1.3 381-385"], note: "mug mu-un-dun temen si bi2-in-sa2 / {d}en-ki-ke4 niĝ2 nam-munus-a šu gal ba-ni-in-du7"}
+    hints:
+      - "Compare Mal 3:20 and Ps 19:5-7 (the sun as bridegroom/hero; sun of righteousness); Deut 19:14, 32:8 (boundaries fixed)."
+      - "Compare Prov 31:13, 19 (wool, flax, distaff and spindle) and Exod 35:25-26."
+  - id: ane-etcsl-1-1-3-inana-complaint
+    tradition: ane-sumerian
+    title: Inana complains she was left without functions; Enki lists the powers she already has
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.3 387-472"]
+    tags:
+      - {motif: goddess-complains-of-no-portion, refs: ["ETCSL 1.1.3 387-394", "ETCSL 1.1.3 422-423"], note: "ud-ba dili-ni ĝarza2 taka4-am3 ... er2 mu-na-še8-še8 ... kug {d}inana-me-en mar-za-ĝu10 me-a: 'I am holy Inana - where are my functions?'"}
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.1.3 395-421"], note: "Inana lists her sisters' prerogatives: Aruru/Nintur the birth-bricks and umbilical lancet, midwife of the land; Ninisina; Ninmug the metal-worker; Nisaba the scribe and measuring-reed; Nanše the fisheries"}
+      - {motif: god-gives-women-their-crafts, refs: ["ETCSL 1.1.3 432-436", "ETCSL 1.1.3 440-444"], note: "{ĝiš}bal {ĝiš}kirid šu-še3 ḫe2-em-mi-šum2: 'I placed in your hands spindle and hairpin'; eme munus-a 'women's speech'"}
+      - {motif: inana-sows-heads-like-seed, refs: ["ETCSL 1.1.3 445-446"], note: "{d}inana saĝ saḫar-re-eš ḫe2-mu-e-dub saĝ numun-e-eš ḫe2-mu-e-ĝar / niĝ2 nu-gul-u3 ḫe2-mu-e-gul niĝ2 nu-sig10-ge5 ḫe2-mu-e-sig10: 'you destroy what should not be destroyed, create what should not be created'"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 1.1.3 436"], note: "ešgiri2 šibir {ĝiš}ma-nu nam-sipad-da: staff, crook and shepherd's stick given to Inana"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.1.3 472"], note: "451-471 largely broken"}
+    hints:
+      - "Compare Josh 13-19 and Num 18:20 (allotment of portions; one left without a portion); Gen 49 (each son assigned his lot)."
+      - "Compare Eccl 3:1-8 (a time to kill and to heal, to break down and to build) and Isa 45:7."
+  - id: ane-etcsl-1-1-4-eridug-temple
+    tradition: ane-sumerian
+    title: Enki builds his silver and lapis temple in Eridug; Isimud praises the speaking temple (Enki's journey to Nibru)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.4 1-70"]
+    tags:
+      - {motif: in-those-days-when-heaven-and-earth-were-made, refs: ["ETCSL 1.1.4 1-3"], note: "ud re-a nam ba-tar-ra-ba / mu ḫe2-ĝal2 an u3-tud-da / uĝ3-e u2-šim-gin7 ki in-dar-ra-ba: 'in those days when the fates were determined ... when people broke through the earth like plants'"}
+      - {motif: earth-brings-forth-life, refs: ["ETCSL 1.1.4 3"], note: "uĝ3-e u2-šim-gin7 ki in-dar-ra-ba: humans sprouted from the earth like grass"}
+      - {motif: temple-of-precious-metal-and-lapis, refs: ["ETCSL 1.1.4 6-12", "ETCSL 1.1.4 21", "ETCSL 1.1.4 36-37"], note: "e2-a-ni kug {na4}za-gin3-na teš2-bi ba-ni-in-du3 ... gal-le-eš kug-sig17-ga šu tag ba-ni-in-dug4"}
+      - {motif: temple-speaks-and-gives-counsel, refs: ["ETCSL 1.1.4 14-17", "ETCSL 1.1.4 39-40"], note: "šeg12-bi inim dug4-dug4 ad gi4-gi4: 'its brickwork makes utterances and gives advice'; e2-e lugal-bi-ir ĝi6-a ar2 im-ma-ab-de6: 'at night the temple praises its lord'"}
+      - {motif: temple-parts-as-lions-and-bulls, refs: ["ETCSL 1.1.4 26-32"], note: "{ĝiš}si-ĝar-zu ur-maḫ ... ĝiš-ur3-zu gud an-na ... kan4-zu ur-maḫ ... kun4-zu ug lu2-ra ed3-de3: bolt a lion, beams the bull of heaven, door a lion, stairway a lion coming down on a man"}
+      - {motif: temple-on-cosmic-waters, refs: ["ETCSL 1.1.4 22", "ETCSL 1.1.4 53-57"], note: "temen-bi abzu-a sig9-ga: 'whose foundation pegs are driven into the abzu'; eridug ĝissu-zu ab-šag4-ga la2-a"}
+      - {motif: holy-precinct-no-one-may-enter, refs: ["ETCSL 1.1.4 44-48"], note: "šag4 ... lu2 igi nu-bar-re-dam: 'lets nobody look into its midst'; abgal priests let their hair hang down"}
+      - {motif: instruments-play-by-themselves, refs: ["ETCSL 1.1.4 62-67"], note: "{ĝiš}al-ĝar kug {d}en-ki-ke4 ni2-ba mu-un-na-du12: 'Enki's holy alĝar played for him by itself'; variant lines A-C list the instruments differently; 7 singers / tigi drums"}
+      - {motif: irrevocable-blessing, refs: ["ETCSL 1.1.4 68"], note: "dug4-ga {d}en-ki-ke4 šu nu-bal-e-de3: 'what Enki says cannot be altered'"}
+    hints:
+      - "Compare 1Kgs 6-7 (temple overlaid with gold; lions and cherubim on the stands, 7:29, 36; lions on the throne steps, 10:19-20); Exod 25-26."
+      - "Compare Ps 29:9 ('in his temple all say Glory'), Hab 2:11 ('the stone will cry out from the wall, the beam answer'), Isa 6:4."
+      - "Compare Ezek 47:1 (water flowing from under the temple threshold) and Ps 24:2 (founded on the seas); Lev 16:2 and Num 4:20 (none may look in)."
+  - id: ane-etcsl-1-1-4-journey-banquet
+    tradition: ane-sumerian
+    title: Enki's boat sails of itself to Nibru, where he feasts An, Enlil and the gods; Enlil praises his temple
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.4 71-129"]
+    tags:
+      - {motif: temple-on-cosmic-waters, refs: ["ETCSL 1.1.4 71-74"], note: "ḫur-saĝ galam kad5-dam a-e ba-dirig: 'an artfully built mountain floating on the water'"}
+      - {motif: boat-sails-of-itself, refs: ["ETCSL 1.1.4 88-89"], note: "{ĝiš}ma2 ni2-bi nam-du8 eš2 ni2-bi nam-dab5: 'the boat cast off by itself, the tow-rope held by itself'"}
+      - {motif: rivers-clap-hands, refs: ["ETCSL 1.1.4 80", "ETCSL 1.1.4 85", "ETCSL 1.1.4 90-92"], note: "fish rise before him like waves; the river 'answers its lord' with the lowing of a calf"}
+      - {motif: gods-banquet-seated-by-rank, refs: ["ETCSL 1.1.4 104-116"], note: "an ki maḫ-a im-ma-an-tuš / an-ra {d}en-lil2 im-ma-ni-in-us2 / {d}nin-tur5 zag gal-la im-mi-in-tuš: An at the head, Enlil next, Nintur in the place of honour, the Anuna adjacent"}
+      - {motif: wine-gladdens-gods-and-men, refs: ["ETCSL 1.1.4 98-103", "ETCSL 1.1.4 110-116"], note: "kaš ... kurun2: beer and liquor brewed with date-syrup; drinking contest from the bronze vessels of Uraš"}
+      - {motif: dedication-hanukkah-of-building, refs: ["ETCSL 1.1.4 93-95", "ETCSL 1.1.4 117-129"], note: "oxen and sheep slaughtered; Enlil before the Anuna: dumu-ĝu10 e2 mu-un-du3 lugal {d}en-ki-ke4 'my son, king Enki, has built the temple'"}
+      - {motif: holy-precinct-no-one-may-enter, refs: ["ETCSL 1.1.4 123"], note: "eridug ki sikil lu2 nu-ku4-ku4-da"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.1.4 129"]}
+    hints:
+      - "Compare 1Kgs 8:62-66 (temple dedication feast with vast sacrifices) and Ps 98:8 / Isa 55:12 (rivers clap their hands)."
+      - "Compare Judg 9:13 (wine that cheers gods and men) and Gen 43:33-34 (guests seated by rank, drinking freely)."
+  - id: ane-etcsl-1-2-1-city-and-warning
+    tradition: ane-sumerian
+    title: Nibru, its holy river, and Nun-bar-še-gunu's warning to Ninlil; Ninlil refuses Enlil (Enlil and Ninlil)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.1 1-34"]
+    tags:
+      - {motif: there-was-a-city-opening, refs: ["ETCSL 1.2.1 1-12"], note: "iri na-nam iri na-nam na-an-dur2-ru-ne-en-de3-en: 'there was a city, there was a city, the one we live in'; Id-sala its holy river, Pu-lal its sweet-water well; Enlil its young man, Ninlil its young woman"}
+      - {motif: elder-woman-warns-maiden-of-gods-lust, refs: ["ETCSL 1.2.1 13-21"], note: "her mother Nun-bar-še-gunu: i-bi2 kug-ga-am3 ... i-bi2 ba-e-ši-bar-re: 'his eye is bright, he will look at you'; he will pour semen and then leave you"}
+      - {motif: bathing-in-holy-river-forbidden, refs: ["ETCSL 1.2.1 15-16", "ETCSL 1.2.1 23"], note: "id2 kug-ga-am3 nu-nus-e id2 kug-ga-am3 a nam-mi-tu5-tu5: 'the river is holy, woman - do not bathe in it!'; she bathed"}
+      - {motif: king-sees-bathing-woman-from-roof, refs: ["ETCSL 1.2.1 23-27"], note: "divergence: not from a roof but by the river bank; igi kug-ga-am3 lugal-e ... igi im-ma-ši-in-bar: 'the king, his eye bright, looked at her'"}
+      - {motif: god-sees-maiden-and-desires-her, refs: ["ETCSL 1.2.1 25-29"]}
+      - {motif: maiden-refuses-god-too-young, refs: ["ETCSL 1.2.1 28-34"], note: "gal4-la-ĝu10 tur-ra-am3 peš11 nu-mu-un-zu / ... ama-ĝu10 ba-zu-zu šu-ĝu10 mu-un-sag3-ge: 'my vagina is small, it knows no pregnancy ... if my mother learns, she will slap my hand'"}
+    hints:
+      - "Compare 2Sam 11:2 (David sees Bathsheba bathing) and Gen 34:1-2 (Dinah goes out, is seen and taken); Gen 6:2."
+      - "Compare 2Sam 13:12-14 (Tamar's refusal 'do not force me')."
+  - id: ane-etcsl-1-2-1-rape-and-banishment
+    tradition: ane-sumerian
+    title: Enlil takes Ninlil by boat, she conceives Suen; the gods seize Enlil as impure and he leaves the city
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.1 35-64"]
+    tags:
+      - {motif: minister-encourages-masters-desire, refs: ["ETCSL 1.2.1 35-43"], note: "sukkal {d}nuska ... sukkal lugal-a-ni {ĝiš}ma2-gin7 mu-un-ši-de6: the minister ferries his master over to her"}
+      - {motif: god-rapes-maiden, refs: ["ETCSL 1.2.1 44-53"], note: "after her refusal: ĝiš3 im-ma-ni-in-dug4 ne im-ma-ni-in-su-ub / ... a {d}suen-{d}aš-im2-babbar-ra šag4 mu-na-ni-ri: 'at this one intercourse ... he poured the seed of Suen-Ašimbabbar into her womb'"}
+      - {motif: god-banished-for-sexual-offence, refs: ["ETCSL 1.2.1 54-62"], note: "diĝir gal-gal 50-ne-ne / diĝir nam tar-ra 7-na-ne-ne / {d}en-lil2 ki-ur3-ra im-ma-ni-in-dab5-be2-ne / {d}en-lil2 u2-zug4-ge iri-ta ba-ra-e3: 'the fifty great gods and the seven gods of destiny seized Enlil ... Enlil, the impure, left the city' (2 mss.: 'leave the city!')"}
+      - {motif: unclean-expelled-from-camp, refs: ["ETCSL 1.2.1 59-60"], note: "u2-zug4 'ritually impure' as the ground for leaving the city"}
+      - {motif: divine-council, refs: ["ETCSL 1.2.1 56-58"]}
+      - {motif: woman-follows-departing-god, refs: ["ETCSL 1.2.1 63-64"], note: "{d}en-lil2 i3-ĝen {d}nin-lil2 in-us2 / {d}nu-nam-nir i3-ĝen ki-sikil mu-un-sar-re"}
+    hints:
+      - "Compare Gen 34:2-7 (Dinah taken; the outrage 'such a thing ought not be done') and Deut 22:28-29."
+      - "Compare Gen 3:23-24 and Gen 4:11-16 (expulsion and wandering after the offence); Num 5:2-3 and Lev 15:16-18 (impurity of semen, sending out of the camp)."
+  - id: ane-etcsl-1-2-1-three-disguises
+    tradition: ane-sumerian
+    title: Enlil as gatekeeper, man of the man-eating river and ferryman fathers Nergal, Ninazu and Enbilulu
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.1 65-142"]
+    tags:
+      - {motif: god-disguised-to-seduce, refs: ["ETCSL 1.2.1 75-77", "ETCSL 1.2.1 87", "ETCSL 1.2.1 101-103", "ETCSL 1.2.1 113", "ETCSL 1.2.1 127-129", "ETCSL 1.2.1 139"], note: "{d}en-lil2-le nam lu2 abul-la-ra da-ga-na ba-nu2: 'Enlil, as the gatekeeper, lay with her in the chamber'; she does not recognise him"}
+      - {motif: god-journeys-to-underworld, refs: ["ETCSL 1.2.1 65-67", "ETCSL 1.2.1 93-94", "ETCSL 1.2.1 119-120"], note: "lu2 abul-la; lu2 id2-kur-ra id2 lu2 gu7-gu7-e 'man of the underworld river, the man-eating river'; SI.LU.IGI lu2 {ĝiš}ma2-addir-ra 'man of the ferryboat'"}
+      - {motif: substitute-children-for-underworld, refs: ["ETCSL 1.2.1 85-86", "ETCSL 1.2.1 111-112", "ETCSL 1.2.1 137-138"], note: "a lugal-ĝu10 an-še3 ḫe2-du a-ĝu10 ki-še3 ḫe2-du: 'my master's seed can go up to heaven, let my seed go downwards' - interpretive: the three later sons replace Suen below"}
+      - {motif: god-rapes-maiden, refs: ["ETCSL 1.2.1 88-90", "ETCSL 1.2.1 114-116", "ETCSL 1.2.1 140-142"], note: "Nergal-Mešlamta-ea, Ninazu, Enbilulu conceived"}
+      - {motif: threefold-repeated-episode, refs: ["ETCSL 1.2.1 65-90", "ETCSL 1.2.1 91-116", "ETCSL 1.2.1 117-142"]}
+    hints:
+      - "Compare Gen 38:14-19 (disguised partner, conception, unrecognised) and Gen 29:23-25."
+      - "Compare Job 38:17 (gates of death), Ps 18:5 (torrents of Belial), and Ps 49:15 (ransom from Sheol)."
+  - id: ane-etcsl-1-2-1-praise
+    tradition: ane-sumerian
+    title: Praise of Enlil, lord of heaven and earth, whose word cannot be altered
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.1 143-154"]
+    tags:
+      - {motif: irrevocable-blessing, refs: ["ETCSL 1.2.1 151-152"], note: "en dug4-ga-ni niĝ2 nu-kur2-ru-dam / dug4-ga-ni saĝ du3-du3-a šu nu-bal-e-de3: 'lord whose word cannot be changed; his primordial utterances will not be altered'"}
+      - {motif: earth-brings-forth-life, refs: ["ETCSL 1.2.1 147-149"], note: "en gu mu2-mu2 en še mu2-mu2: 'lord who makes flax grow, lord who makes barley grow'; en an-na en ki-a"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.2.1 153-154"]}
+    hints:
+      - "Compare Num 23:19, Isa 40:8 and Q 50:29 ('the word does not change with me')."
