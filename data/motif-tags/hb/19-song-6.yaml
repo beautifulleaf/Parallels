@@ -1,23 +1,18 @@
 new_motifs:
-  wasf-body-description: {label: "Love poem describes the beloved's body part by part with comparisons (hair like goats, teeth like ewes, neck like a tower)", cluster: love-poetry}
   lover-goes-down-to-garden: {label: "The lover goes down to his garden or nut orchard to graze, gather lilies and see if the vines have blossomed", cluster: love-poetry}
-  mutual-belonging-formula: {label: "Lovers' formula of mutual belonging: 'I am my beloved's and my beloved is mine'", cluster: love-poetry}
   beloved-unique-among-queens: {label: "The beloved is unique ('one is my dove') among sixty queens, eighty concubines and countless maidens, who praise her", cluster: love-poetry}
   beloved-like-dawn-moon-sun: {label: "The beloved looks forth like the dawn, fair as the moon, bright as the sun, awesome as bannered hosts", cluster: love-poetry}
   shulammite-dance: {label: "The Shulammite is called to turn back so the onlookers may gaze at her dancing ('dance of the two camps')", cluster: love-poetry}
   beloved-as-palm-climbed: {label: "The lover will climb the palm (the beloved's stature) and grasp its fruit-clusters (her breasts)", cluster: love-poetry}
   lovers-go-out-to-fields-and-vineyards: {label: "Lovers go out to the fields and villages at dawn to see the vines blossom and there make love", cluster: love-poetry}
   wish-lover-were-brother: {label: "The woman wishes her lover were her brother so she could kiss him in public and bring him to her mother's house", cluster: love-poetry}
-  adjuration-of-daughters-of-jerusalem: {label: "Refrain: 'I adjure you, daughters of Jerusalem, do not stir up love until it pleases'", cluster: love-poetry}
   love-strong-as-death: {label: "Love is strong as death, jealousy fierce as Sheol; its flames are flames of fire, 'the flame of Yah'", cluster: love-poetry}
   seal-on-heart-and-arm: {label: "Lover asks to be set as a seal (hotam) on the beloved's heart and arm", cluster: love-poetry}
   many-waters-cannot-quench-love: {label: "Many waters cannot quench love nor rivers drown it", cluster: love-poetry}
   love-cannot-be-bought: {label: "If a man offered all the wealth of his house for love he would be utterly scorned", cluster: love-poetry}
   little-sister-without-breasts: {label: "Brothers deliberate over a little sister who has no breasts yet: if she is a wall or a door they will build on or board her", cluster: love-poetry}
   solomons-vineyard-baal-hamon: {label: "Solomon's vineyard at Baal-hamon let out to keepers for a thousand silver; 'my own vineyard is before me'", cluster: love-poetry}
-  flee-my-beloved-gazelle: {label: "Closing call to the beloved to flee like a gazelle or young stag on the mountains of spices", cluster: love-poetry}
   awakened-under-apple-tree-where-mother-bore: {label: "Woman awakened her lover under the apple tree where his mother conceived and bore him", cluster: love-poetry}
-  who-is-this-coming-up-from-wilderness: {label: "Chorus asks 'Who is this coming up from the wilderness?' of the approaching woman", cluster: love-poetry}
   prophetic-book-superscription: {label: "Book or oracle opens with a heading naming the prophet, his father and the kings in whose days he saw the vision", cluster: prophecy}
   ox-knows-its-owner: {label: "Ox knows its owner and the ass its master's crib, but Israel does not know (animals wiser than God's people)", cluster: prophecy}
   rebellious-children-of-god: {label: "God's people as sons he reared who rebelled against him", cluster: prophecy}
@@ -345,6 +340,44 @@ new_motifs:
   god-as-woman-in-labor: {label: "God, silent long, now cries out like a woman in labor, gasping and panting", cluster: theology}
   blind-and-deaf-servant: {label: "Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe", cluster: prophecy}
   israel-plundered-because-of-sin: {label: "Who gave Jacob to plunder? Was it not YHWH against whom we sinned? Yet they did not take it to heart", cluster: theology}
+  called-by-name-you-are-mine: {label: "'Fear not, for I have redeemed you; I have called you by name, you are mine'", cluster: theology}
+  through-water-and-fire-unharmed: {label: "When you pass through waters God is with you and rivers will not overwhelm you; through fire you will not be burned", cluster: theology}
+  nations-given-as-ransom-for-israel: {label: "God gives Egypt, Cush and Seba as Israel's ransom (kofer) and peoples in exchange for her life", cluster: theology}
+  gather-from-four-directions: {label: "God says to north 'Give up' and to south 'Do not withhold': bring my sons from afar and my daughters from the end of the earth", cluster: eschatology}
+  israel-as-gods-witnesses: {label: "'You are my witnesses,' says YHWH: before me no god was formed and after me there shall be none", cluster: theology}
+  no-savior-but-me: {label: "'I, I am YHWH, and besides me there is no savior'", cluster: theology}
+  remember-not-former-things: {label: "'Do not remember the former things... Behold I am doing a new thing; now it springs forth': a way in the wilderness, rivers in the desert", cluster: eschatology}
+  jackals-and-ostriches-honor-god: {label: "The wild beasts, jackals and ostriches honor God for the water he gives in the desert", cluster: eschatology}
+  wearied-god-with-sins: {label: "Israel did not weary itself with offerings for God but wearied him with its sins; he blots out transgressions for his own sake", cluster: theology}
+  first-ancestor-sinned: {label: "'Your first father sinned and your interpreters (melitsim) transgressed against me'", cluster: theology}
+  jeshurun-name-for-israel: {label: "Israel called 'Jeshurun' (the upright one)", cluster: theology}
+  spirit-poured-on-offspring: {label: "God pours water on the thirsty land and his spirit on Israel's offspring; they spring up like willows by streams", cluster: eschatology}
+  proselytes-write-name-on-hand: {label: "One says 'I am YHWH's', another takes Jacob's name, another writes 'of YHWH' on his hand (a tattoo or brand of allegiance)", cluster: cult}
+  idol-from-half-a-log: {label: "The idol-maker burns half the tree to cook his meat and warm himself, and of the rest makes a god and prays 'Save me'", cluster: polemic}
+  idol-maker-hungry-and-faint: {label: "The smith who forges the idol grows hungry and faint and drinks no water", cluster: polemic}
+  idol-in-human-form-for-a-house: {label: "The carpenter marks out the idol with line and compass and makes it in the form of a man, in human beauty, to dwell in a house", cluster: polemic}
+  feeds-on-ashes-deluded-heart: {label: "The idol-worshipper 'feeds on ashes'; a deluded heart leads him astray and he cannot say 'Is there not a lie in my right hand?'", cluster: polemic}
+  sins-blotted-like-cloud: {label: "God has blotted out transgressions like a cloud and sins like mist", cluster: theology}
+  heavens-and-depths-sing: {label: "Sing, heavens; shout, depths of the earth (tahtiyyot arets); break into song, mountains and every tree of the forest", cluster: cosmology}
+  god-alone-made-all-things: {label: "'I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who was with me?'", cluster: creation}
+  god-frustrates-diviners: {label: "God frustrates the omens of the babblers, makes fools of diviners and turns the wise backward", cluster: magic}
+  god-dries-the-deep: {label: "God says to the deep (tsulah) 'Be dry, I will dry up your rivers'", cluster: mythology}
+  cyrus-my-shepherd: {label: "God calls Cyrus 'my shepherd' who fulfils his will, saying of Jerusalem 'she shall be rebuilt' and of the temple 'its foundation laid'", cluster: history}
+  cyrus-as-gods-anointed: {label: "God calls the foreign king Cyrus 'his anointed' (meshiho), whose right hand he grasps to subdue nations", cluster: messianism}
+  gates-of-bronze-broken-for-conqueror: {label: "God goes before his chosen conqueror, levelling heights, breaking bronze doors and cutting iron bars, opening gates that will not be shut", cluster: history}
+  treasures-of-darkness: {label: "God gives the conqueror 'treasures of darkness and hidden riches of secret places'", cluster: history}
+  called-by-name-though-not-knowing-god: {label: "God names and girds the foreign king though he does not know God, for the sake of Israel", cluster: theology}
+  god-creates-light-and-darkness-peace-and-evil: {label: "'I form light and create darkness, make peace and create evil (ra'); I YHWH do all these'", cluster: theology}
+  heavens-rain-righteousness: {label: "'Drip, heavens, from above, and let the skies rain righteousness; let the earth open and salvation sprout'", cluster: liturgy}
+  clay-questions-potter: {label: "Woe to him who strives with his maker, a potsherd among potsherds: shall the clay say to the potter 'What are you making?'", cluster: theology}
+  woe-to-who-questions-parents: {label: "Woe to him who says to a father 'What are you begetting?' or to a woman 'With what are you in labor?'", cluster: theology}
+  cyrus-frees-exiles-without-price: {label: "God's anointed conqueror will build God's city and free the exiles without price or reward", cluster: history}
+  nations-come-in-chains-confessing: {label: "Egypt, Cush and the tall Sabeans come over in chains and bow to Israel, saying 'Surely God is with you, there is no other'", cluster: eschatology}
+  hidden-god: {label: "'Truly you are a God who hides himself (El mistatter), O God of Israel, the Savior'", cluster: theology}
+  earth-not-created-as-tohu: {label: "God did not create the earth as a chaos (tohu) but formed it to be inhabited", cluster: creation}
+  god-did-not-speak-in-secret: {label: "'I did not speak in secret, in a land of darkness; I did not say to Jacob seek me in vain (tohu)'", cluster: theology}
+  turn-to-me-all-ends-of-earth: {label: "'Turn to me and be saved, all the ends of the earth, for I am God and there is no other'", cluster: eschatology}
+  every-knee-shall-bow: {label: "God swears by himself: to me every knee shall bow and every tongue swear", cluster: eschatology}
 units:
   - id: hb-song-6-beloved-unique
     tradition: judaism
@@ -355,8 +388,13 @@ units:
     read: ["Song 6:1-12"]
     tags:
       - {motif: lover-goes-down-to-garden, refs: ["Song 6:2", "Song 6:11"], note: "garden, beds of spices, lilies; 'nut garden' (ginnat egoz) to see if vines and pomegranates have budded"}
-      - {motif: mutual-belonging-formula, refs: ["Song 6:3"]}
-      - {motif: wasf-body-description, refs: ["Song 6:5-7"], note: "hair like goats down Gilead, teeth like ewes from the washing, temple like a slice of pomegranate"}
+      - {motif: my-beloved-is-mine-and-i-his, refs: ["Song 6:3"], note: "order reversed from 2:16: 'I am my beloved's and my beloved is mine', who grazes among the lilies"}
+      - {motif: what-is-your-beloved-more-than-another, refs: ["Song 6:1"], note: "chorus now asks where he has gone, offering to seek him with her"}
+      - {motif: wasf-description-of-body, refs: ["Song 6:5-7"], note: "repeats Song 4:1-3 almost verbatim; 'turn your eyes from me, they overwhelm me'"}
+      - {motif: hair-like-flock-of-goats-on-gilead, refs: ["Song 6:5"]}
+      - {motif: teeth-like-shorn-ewes-twins, refs: ["Song 6:6"]}
+      - {motif: lips-scarlet-thread-temples-pomegranate, refs: ["Song 6:7"]}
+      - {motif: love-poetry-dialogue-of-lovers, refs: ["Song 6:1-3"]}
       - {motif: beloved-unique-among-queens, refs: ["Song 6:8-9"], note: "sixty queens, eighty concubines"}
       - {motif: beloved-like-dawn-moon-sun, refs: ["Song 6:10", "Song 6:4"], note: "levanah (moon), hammah (sun); 'awesome as bannered hosts' (nidgalot) twice; compared to the cities Tirzah and Jerusalem"}
     hints:
@@ -371,9 +409,12 @@ units:
     read: ["Song 7:1-14"]
     tags:
       - {motif: shulammite-dance, refs: ["Song 7:1"], note: "'dance of Mahanaim'; Shulammite only named here"}
-      - {motif: wasf-body-description, refs: ["Song 7:2-6"], note: "feet to head: thighs like jewels by a craftsman, navel a round bowl never lacking mixed wine, belly a heap of wheat hedged with lilies, neck an ivory tower, eyes pools of Heshbon, nose like tower of Lebanon facing Damascus, head like Carmel; 'a king is held captive in the tresses'"}
+      - {motif: breasts-like-twin-fawns, refs: ["Song 7:4"]}
+      - {motif: neck-like-tower-of-david-shields, refs: ["Song 7:5"], note: "here an ivory tower; nose like the tower of Lebanon"}
+      - {motif: wasf-description-of-body, refs: ["Song 7:2-6"], note: "feet to head: thighs like jewels by a craftsman, navel a round bowl never lacking mixed wine, belly a heap of wheat hedged with lilies, neck an ivory tower, eyes pools of Heshbon, nose like tower of Lebanon facing Damascus, head like Carmel; 'a king is held captive in the tresses'"}
       - {motif: beloved-as-palm-climbed, refs: ["Song 7:8-9"]}
-      - {motif: mutual-belonging-formula, refs: ["Song 7:11"], note: "'his desire (teshuqah) is for me' reverses Gen 3:16"}
+      - {motif: love-better-than-wine, refs: ["Song 7:10"], note: "your palate like the best wine, gliding over the lips of sleepers"}
+      - {motif: my-beloved-is-mine-and-i-his, refs: ["Song 7:11"], note: "'his desire (teshuqah) is for me' reverses Gen 3:16"}
       - {motif: lovers-go-out-to-fields-and-vineyards, refs: ["Song 7:12-13"]}
       - {motif: mandrakes-fertility, refs: ["Song 7:14"], note: "duda'im give their fragrance; fruits new and old stored up"}
     hints:
@@ -387,8 +428,10 @@ units:
     read: ["Song 8:1-14"]
     tags:
       - {motif: wish-lover-were-brother, refs: ["Song 8:1-2"], note: "spiced wine and pomegranate juice"}
-      - {motif: adjuration-of-daughters-of-jerusalem, refs: ["Song 8:4"]}
-      - {motif: who-is-this-coming-up-from-wilderness, refs: ["Song 8:5"]}
+      - {motif: brings-lover-to-mothers-house, refs: ["Song 8:2"]}
+      - {motif: his-left-hand-under-my-head, refs: ["Song 8:3"]}
+      - {motif: adjuration-by-gazelles-not-to-awaken-love, refs: ["Song 8:4"], note: "third occurrence; here without the gazelles and does, and with 'why' (mah)"}
+      - {motif: who-is-this-coming-up-from-desert, refs: ["Song 8:5"], note: "here leaning on her beloved"}
       - {motif: awakened-under-apple-tree-where-mother-bore, refs: ["Song 8:5"]}
       - {motif: seal-on-heart-and-arm, refs: ["Song 8:6"]}
       - {motif: love-strong-as-death, refs: ["Song 8:6"], note: "reshafeha rishpei esh: 'its reshefs are reshefs of fire' (cf. the god Resheph); shalhevetyah, 'flame of Yah', the book's only divine name"}
@@ -396,7 +439,8 @@ units:
       - {motif: love-cannot-be-bought, refs: ["Song 8:7"]}
       - {motif: little-sister-without-breasts, refs: ["Song 8:8-10"], note: "'I am a wall and my breasts like towers'; 'one who finds shalom'"}
       - {motif: solomons-vineyard-baal-hamon, refs: ["Song 8:11-12"], note: "thousand to Solomon, two hundred to the keepers"}
-      - {motif: flee-my-beloved-gazelle, refs: ["Song 8:14"]}
+      - {motif: brothers-make-sister-guard-vineyards, refs: ["Song 8:12"], note: "'my own vineyard is before me' answers 1:6"}
+      - {motif: lover-like-gazelle-leaping-hills, refs: ["Song 8:14"], note: "closing 'flee (berah), my beloved, be like a gazelle on the mountains of spices'"}
     hints:
       - "Love vs. Death (Mot) and Sea (many waters) evoke Ugaritic Baal cycle; Resheph is a Canaanite plague/fire god."
       - "Mishnah Yadayim 3:5 (R. Akiva: Song is holy of holies); Christian bridal mysticism (Bernard of Clairvaux)."
@@ -1310,3 +1354,94 @@ units:
       - {motif: israel-plundered-because-of-sin, refs: ["Isa 42:22-25"]}
     hints:
       - "Matt 12:18-21 applies Isa 42:1-4 to Jesus; Luke 2:32 (light to the nations); Muslim polemic reads 42:11 (Kedar, Sela) as foretelling Muhammad and Medina (Ibn Rabban, Ibn Qutayba)."
+  - id: hb-isa-43-you-are-my-witnesses
+    tradition: judaism
+    title: I have called you by name; you are my witnesses; behold I do a new thing
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 43:1-28"]
+    tags:
+      - {motif: called-by-name-you-are-mine, refs: ["Isa 43:1"]}
+      - {motif: through-water-and-fire-unharmed, refs: ["Isa 43:2"]}
+      - {motif: through-fire-and-water, refs: ["Isa 43:2"]}
+      - {motif: nations-given-as-ransom-for-israel, refs: ["Isa 43:3-4"]}
+      - {motif: fear-not-i-am-with-you, refs: ["Isa 43:1", "Isa 43:5"]}
+      - {motif: gather-from-four-directions, refs: ["Isa 43:5-7"]}
+      - {motif: ingathering-of-exiles, refs: ["Isa 43:5-6"]}
+      - {motif: blind-and-deaf-servant, refs: ["Isa 43:8"]}
+      - {motif: trial-of-nations-and-gods, refs: ["Isa 43:9"]}
+      - {motif: israel-as-gods-witnesses, refs: ["Isa 43:10", "Isa 43:12"]}
+      - {motif: no-savior-but-me, refs: ["Isa 43:11"]}
+      - {motif: strict-monotheism-none-besides, refs: ["Isa 43:10-11"]}
+      - {motif: fallen-is-babylon, refs: ["Isa 43:14"], note: "Chaldeans brought down in their ships"}
+      - {motif: walk-on-dry-ground-waters-as-walls, refs: ["Isa 43:16-17"], note: "way in the sea; chariot and horse lie down, quenched like a wick"}
+      - {motif: remember-not-former-things, refs: ["Isa 43:18-19"]}
+      - {motif: jackals-and-ostriches-honor-god, refs: ["Isa 43:20"]}
+      - {motif: wearied-god-with-sins, refs: ["Isa 43:22-25"], note: "calamus (qaneh) not bought; 'I blot out your sins for my own sake'"}
+      - {motif: first-ancestor-sinned, refs: ["Isa 43:27"]}
+      - {motif: nations-devoted-to-herem, refs: ["Isa 43:28"], note: "here Jacob itself given to herem"}
+    hints:
+      - "Isa 43:10 'you are my witnesses' read in Sifre Deut 346 ('if you are my witnesses I am God'); Dan 3 (three youths unburned in the furnace) and Quran 21:69 (fire cool for Abraham); Rom 5:12 and the 'first father' (Adam or Jacob)."
+  - id: hb-isa-44-idol-from-half-a-log
+    tradition: judaism
+    title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 44:1-28"]
+    tags:
+      - {motif: israel-my-servant-chosen, refs: ["Isa 44:1-2", "Isa 44:21"]}
+      - {motif: jeshurun-name-for-israel, refs: ["Isa 44:2"]}
+      - {motif: spirit-poured-on-offspring, refs: ["Isa 44:3-4"]}
+      - {motif: proselytes-write-name-on-hand, refs: ["Isa 44:5"]}
+      - {motif: first-and-last, refs: ["Isa 44:6"]}
+      - {motif: strict-monotheism-none-besides, refs: ["Isa 44:6", "Isa 44:8"], note: "'is there a god besides me? there is no rock'"}
+      - {motif: israel-as-gods-witnesses, refs: ["Isa 44:8"]}
+      - {motif: idol-maker-satire, refs: ["Isa 44:9-20"], note: "hemmah in 44:9 bears extraordinary dots (puncta extraordinaria) in the Masoretic text"}
+      - {motif: puncta-extraordinaria, refs: ["Isa 44:9"], note: "dots over hemmah ('they')"}
+      - {motif: idol-maker-hungry-and-faint, refs: ["Isa 44:12"]}
+      - {motif: idol-in-human-form-for-a-house, refs: ["Isa 44:13"]}
+      - {motif: idol-from-half-a-log, refs: ["Isa 44:14-17", "Isa 44:19"]}
+      - {motif: feeds-on-ashes-deluded-heart, refs: ["Isa 44:18-20"]}
+      - {motif: sins-blotted-like-cloud, refs: ["Isa 44:22"]}
+      - {motif: heavens-and-depths-sing, refs: ["Isa 44:23"]}
+      - {motif: nature-sings-and-rejoices, refs: ["Isa 44:23"]}
+      - {motif: god-alone-made-all-things, refs: ["Isa 44:24"]}
+      - {motif: god-alone-stretches-heavens, refs: ["Isa 44:24"]}
+      - {motif: god-frustrates-diviners, refs: ["Isa 44:25"]}
+      - {motif: god-dries-the-deep, refs: ["Isa 44:27"]}
+      - {motif: cyrus-my-shepherd, refs: ["Isa 44:28"]}
+      - {motif: cyrus-edict-to-rebuild-temple, refs: ["Isa 44:28"], note: "foretold as God's word to Cyrus"}
+    hints:
+      - "Wisdom of Solomon 13:11-19 and Epistle of Jeremiah expand the half-log satire; Horace Satires 1.8 (fig-wood Priapus: 'the carpenter wondered whether to make a bench or a god'); Abraham smashing idols (Gen Rabbah 38, Quran 21:57-67)."
+  - id: hb-isa-45-cyrus-the-anointed
+    tradition: judaism
+    title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 45:1-25"]
+    tags:
+      - {motif: cyrus-as-gods-anointed, refs: ["Isa 45:1"]}
+      - {motif: gates-of-bronze-broken-for-conqueror, refs: ["Isa 45:1-2"]}
+      - {motif: treasures-of-darkness, refs: ["Isa 45:3"]}
+      - {motif: called-by-name-though-not-knowing-god, refs: ["Isa 45:3-5"]}
+      - {motif: strict-monotheism-none-besides, refs: ["Isa 45:5-6", "Isa 45:14", "Isa 45:18", "Isa 45:21-22"], note: "'ani YHWH ve-ein od' repeated"}
+      - {motif: god-creates-light-and-darkness-peace-and-evil, refs: ["Isa 45:7"]}
+      - {motif: heavens-rain-righteousness, refs: ["Isa 45:8"]}
+      - {motif: clay-questions-potter, refs: ["Isa 45:9"]}
+      - {motif: woe-to-who-questions-parents, refs: ["Isa 45:10-11"]}
+      - {motif: god-alone-stretches-heavens, refs: ["Isa 45:12"]}
+      - {motif: cyrus-frees-exiles-without-price, refs: ["Isa 45:13"]}
+      - {motif: nations-come-in-chains-confessing, refs: ["Isa 45:14"]}
+      - {motif: hidden-god, refs: ["Isa 45:15"]}
+      - {motif: earth-not-created-as-tohu, refs: ["Isa 45:18"]}
+      - {motif: god-did-not-speak-in-secret, refs: ["Isa 45:19"]}
+      - {motif: gods-challenged-to-predict, refs: ["Isa 45:20-21"], note: "those who carry their wooden idol"}
+      - {motif: turn-to-me-all-ends-of-earth, refs: ["Isa 45:22"]}
+      - {motif: every-knee-shall-bow, refs: ["Isa 45:23"]}
+      - {motif: divine-oath-by-himself, refs: ["Isa 45:23"]}
+    hints:
+      - "Cyrus Cylinder: Marduk 'pronounced his name', took his hand and made him go to Babylon; Josephus Ant. 11.5-6 says Cyrus read Isaiah's prophecy; Ezra 1:1-4."
+      - "Isa 45:7 against Zoroastrian dualism of Ahura Mazda and Angra Mainyu; liturgy changes 'creates evil' to 'creates all' (Yotser prayer, b. Berakhot 11b); Phil 2:10-11 and Rom 14:11 (every knee); Pascal's Deus absconditus (45:15)."
