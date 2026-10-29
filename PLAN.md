@@ -16,6 +16,8 @@ automatically.
 
 **No tradition is out of scope.** Ingestion order is driven by data
 availability and by the contact graph, not by any judgment of relevance.
+Traditions are grouped as Western / Central / Eastern; per-tradition
+outlines are in [TRADITIONS.md](TRADITIONS.md).
 
 Known priority corpora (non-exhaustive):
 
@@ -108,7 +110,15 @@ The classification is a hypothesis attached to the lead, not a verdict.
      its evidence, and links to sources.
    - Browse views: by motif, by tradition pair, and a contact-graph view.
    - Review status per lead (new / investigating / promising / rejected) plus
-     notes, since every lead is meant for human investigation.
+     notes. These are read from the repo; the artifact is a read-only view.
+
+## Review notes live in the repo
+
+Every lead is a file under `leads/`. Each file has YAML front matter (id,
+traditions, relation type, status, scores, evidence references) followed by
+free-form Markdown notes. Git history is the review log. The pipeline may add
+new leads and refresh evidence, but it never overwrites human-edited status or
+notes. The artifact is regenerated from the repo.
 
 ## Guarding against parallelomania
 
@@ -168,8 +178,6 @@ The classification is a hypothesis attached to the lead, not a verdict.
 
 - Which languages the reviewer reads (affects the review UI: originals-first
   or translation-first).
-- Where review status and notes should live: in the artifact's shared storage
-  or committed back into the repo.
 - Licensing: copyrighted translations (e.g., many Manichaean and Mandaean
   English translations) can be used for personal exploration but should not be
   redistributed in a public artifact.
