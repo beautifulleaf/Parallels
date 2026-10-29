@@ -1,0 +1,982 @@
+new_motifs:
+  temple-vision-guide-measures: {label: "A heavenly guide measures the visionary temple with a reed or line while the prophet watches", cluster: temple}
+  side-chambers-three-stories: {label: "Temple ringed by side chambers (tsela'ot) in three stories, thirty-three rooms, widening upward", cluster: temple}
+  two-faced-cherubim-and-palms: {label: "Temple walls carved with alternating palm trees and cherubim having a human face and a lion face", cluster: temple}
+  wooden-altar-table-before-yhwh: {label: "A wooden altar is explained as 'the table that is before YHWH'", cluster: cult}
+  priests-change-holy-garments: {label: "Priests must take off their holy garments in special chambers before going out to the people, lest the garments transmit holiness", cluster: cult}
+  sacred-precinct-square-500: {label: "The sacred precinct is a perfect square of 500 by 500, walled to separate holy from profane", cluster: temple}
+  glory-returns-from-east: {label: "The divine glory returns to the temple from the east through the east gate", cluster: temple}
+  divine-voice-like-many-waters: {label: "God's voice (or the sound of his coming) is like the sound of many waters", cluster: theophany}
+  earth-shines-with-gods-glory: {label: "The earth shines (lit up) with God's glory", cluster: theophany}
+  prophet-falls-on-face-at-vision: {label: "The prophet falls on his face at the sight of the divine glory", cluster: prophecy}
+  temple-place-of-throne-and-feet: {label: "The temple is called the place of God's throne and the soles of his feet, where he will dwell forever", cluster: temple}
+  royal-tombs-defile-temple: {label: "Kings' corpses or memorials (pigre malkehem) beside the temple defile God's holy name", cluster: temple}
+  temple-plan-to-shame-israel: {label: "The prophet is to describe the temple's plan so that Israel will be ashamed of its sins", cluster: temple}
+  temple-on-mountain-top: {label: "The temple stands on the top of a (very high) mountain whose whole territory is most holy", cluster: zion}
+  altar-hearth-ariel: {label: "The altar's top hearth is called har'el/ari'el ('mountain of God' or 'lion of God')", cluster: cult}
+  altar-stepped-like-ziggurat: {label: "The altar rises in diminishing ledges from a 'bosom of the earth' base, with steps facing east", cluster: cult}
+  seven-day-altar-consecration: {label: "The altar is purged and consecrated by sacrifices over seven days before regular worship begins on the eighth", cluster: cult}
+  east-gate-shut-god-entered: {label: "The east gate stays shut forever because YHWH the God of Israel entered by it", cluster: temple}
+  prince-eats-bread-in-gate: {label: "Only the prince (nasi) may sit in the shut gate to eat bread before YHWH", cluster: kingship}
+  foreigners-barred-from-sanctuary: {label: "No foreigner uncircumcised in heart and flesh may enter the sanctuary", cluster: cult}
+  levites-demoted-for-idolatry: {label: "Levites who went astray after idols are demoted to gatekeepers and slaughterers, barred from priestly service", cluster: cult}
+  zadokite-priests-faithful: {label: "Only the sons of Zadok, who kept faith when Israel strayed, may approach God as priests", cluster: cult}
+  priests-linen-no-wool-sweat: {label: "Priests serve in linen only, with no wool, and must not gird themselves with anything that causes sweat", cluster: cult}
+  priests-hair-trimmed: {label: "Priests may neither shave their heads nor let their hair grow long, but must trim it", cluster: cult}
+  priests-as-judges: {label: "Priests stand as judges in disputes, judging by God's ordinances", cluster: law}
+  priests-no-nevelah-terefah: {label: "Priests may not eat any bird or beast that died of itself or was torn", cluster: law}
+  first-dough-to-priest-blessing: {label: "The first of the dough (reshit arisot) is given to the priest so that blessing rests on the house", cluster: law}
+  holy-land-allotment-terumah: {label: "A sacred strip (terumah) of the land is set aside for God, the priests, the Levites and the city", cluster: land}
+  prince-not-to-oppress: {label: "The princes must not dispossess or oppress the people; they receive a fixed estate", cluster: kingship}
+  measures-standardized: {label: "Weights and measures are fixed by decree (ephah, bath, homer, shekel of twenty gerahs, mina)", cluster: law}
+  prince-provides-festival-offerings: {label: "The ruler (prince) provides the offerings for the feasts, new moons and sabbaths on behalf of the people", cluster: kingship}
+  new-year-purification-of-temple: {label: "On the first day of the first month the sanctuary is purged with blood on the doorposts and altar", cluster: cult}
+  atonement-for-inadvertent-sinner: {label: "Rite of atonement for anyone who sins inadvertently or through simplicity", cluster: cult}
+  gate-open-sabbath-new-moon: {label: "The inner east gate is shut on the six working days and opened on the sabbath and the new moon", cluster: temple}
+  worshippers-exit-opposite-gate: {label: "Worshippers who enter by the north gate must leave by the south gate, and vice versa, not returning the way they came", cluster: cult}
+  princes-gift-returns-at-liberty-year: {label: "A prince's gift of land to a servant reverts to him in the year of liberty (deror)", cluster: law}
+  temple-kitchens: {label: "Kitchens in the corners of the temple courts where the sacrifices are boiled", cluster: temple}
+  river-flows-from-temple: {label: "A river flows from under the temple threshold, growing ever deeper", cluster: eschatology}
+  dead-sea-healed: {label: "The temple river heals the salt waters of the Dead Sea so they teem with fish", cluster: eschatology}
+  trees-monthly-fruit-healing-leaves: {label: "Trees along the river bear fruit every month and their leaves are for healing", cluster: eschatology}
+  fishermen-en-gedi: {label: "Fishermen spread nets from En-gedi to En-eglaim on the healed sea", cluster: eschatology}
+  marshes-left-for-salt: {label: "The swamps and marshes are left unhealed, given over to salt", cluster: eschatology}
+  joseph-two-portions: {label: "Joseph receives two portions in the allotment of the land", cluster: land}
+  aliens-inherit-with-israel: {label: "Resident aliens with children born in the land receive an inheritance among the tribes like citizens", cluster: law}
+  tribes-in-parallel-strips: {label: "The twelve tribes receive equal parallel east-west strips of land, seven north and five south of the sacred portion", cluster: land}
+  city-twelve-gates-tribal-names: {label: "The holy city has twelve gates, three on each side, named after the twelve tribes", cluster: eschatology}
+  city-named-yhwh-is-there: {label: "The city's new name is 'YHWH is there' (YHWH shammah)", cluster: eschatology}
+  temple-vessels-taken-to-foreign-temple: {label: "The conqueror carries the vessels of God's temple into the treasury of his own god", cluster: exile}
+  noble-youths-trained-at-foreign-court: {label: "Flawless, handsome, learned youths of royal or noble blood are taken to be trained in the conqueror's court and language", cluster: court-tale}
+  refusal-of-royal-food: {label: "Pious exiles refuse the king's food and wine so as not to defile themselves", cluster: court-tale}
+  vegetable-diet-test-ten-days: {label: "A ten-day test on vegetables and water leaves the pious youths healthier than those who eat the king's food", cluster: court-tale}
+  hero-favored-by-official: {label: "God grants the hero favor and compassion in the eyes of the foreign official in charge of him", cluster: court-tale}
+  exiles-ten-times-wiser-than-magicians: {label: "The exiled youths are found ten times wiser than all the court magicians and enchanters", cluster: court-tale}
+  king-demands-dream-itself-be-told: {label: "The king demands that his experts tell him the dream itself as well as its meaning, on pain of death", cluster: court-tale}
+  long-live-the-king-formula: {label: "Courtiers address the ruler 'O king, live forever'", cluster: court-tale}
+  dismemberment-and-house-made-dunghill: {label: "Threat that offenders will be torn limb from limb and their houses made a dunghill", cluster: court-tale}
+  gods-dwell-not-with-flesh: {label: "The magicians say only the gods, whose dwelling is not with flesh, could reveal such a thing", cluster: theology}
+  order-to-kill-all-wise-men: {label: "The enraged king orders all the wise men of the capital killed", cluster: court-tale}
+  mystery-raz-revealed-in-night-vision: {label: "A hidden mystery (raz) is revealed to the seer in a night vision", cluster: apocalyptic}
+  god-changes-times-and-kings: {label: "God changes times and seasons, deposes kings and sets up kings", cluster: theology}
+  light-dwells-with-god: {label: "God knows what is in darkness and light dwells with him", cluster: theology}
+  god-in-heaven-reveals-mysteries: {label: "There is a God in heaven who reveals mysteries (gale razin) and makes known what will be at the end of days", cluster: apocalyptic}
+  statue-of-four-metals: {label: "Dream of a great statue with head of gold, chest of silver, belly of bronze, legs of iron and feet of iron mixed with clay", cluster: apocalyptic}
+  four-world-kingdoms-succession: {label: "A sequence of four world kingdoms (or ages), each inferior or more violent than the last", cluster: apocalyptic}
+  metals-decline-of-ages: {label: "Successive kingdoms or ages symbolized by declining metals (gold, silver, bronze, iron)", cluster: apocalyptic}
+  stone-cut-without-hands: {label: "A stone cut out without hands strikes the statue and becomes a great mountain filling the earth", cluster: apocalyptic}
+  chaff-of-summer-threshing-floor: {label: "Destroyed kingdoms become like chaff from the summer threshing floors carried away by the wind", cluster: judgment}
+  everlasting-kingdom-of-god: {label: "God will set up a kingdom that will never be destroyed and will crush all other kingdoms", cluster: apocalyptic}
+  iron-mixed-with-clay-intermarriage: {label: "Iron mixed with clay signifies kingdoms mingling by intermarriage ('the seed of men') yet not holding together", cluster: apocalyptic}
+  king-prostrates-before-seer: {label: "The pagan king falls on his face before the Jewish seer and orders offerings and incense for him", cluster: court-tale}
+  god-of-gods-lord-of-kings: {label: "A foreign king confesses Israel's God as 'God of gods and Lord of kings, revealer of mysteries'", cluster: theology}
+  golden-image-sixty-cubits: {label: "The king sets up a golden image sixty cubits high and six wide on the plain of Dura", cluster: court-tale}
+  officials-list-satraps-prefects: {label: "Long repeated list of imperial officials (satraps, prefects, governors, counselors, treasurers, judges, magistrates)", cluster: court-tale}
+  peoples-nations-languages: {label: "Proclamation addressed to 'peoples, nations and languages' of the whole earth", cluster: court-tale}
+  orchestra-signal-for-worship: {label: "A listed orchestra of instruments (horn, pipe, lyre, trigon, harp, symphonia) signals the moment to bow to the idol", cluster: court-tale}
+  command-to-worship-image-or-die: {label: "All are commanded to bow to the king's image on pain of being thrown into a blazing furnace", cluster: martyrdom}
+  informers-denounce-jews: {label: "Envious courtiers 'eat the pieces' (slander) of the Jews and denounce their non-compliance to the king", cluster: court-tale}
+  refusal-even-if-god-does-not-save: {label: "The faithful declare that God can save them, but even if he does not, they will not serve the king's gods", cluster: martyrdom}
+  furnace-heated-sevenfold: {label: "The furnace is heated seven times more than usual", cluster: martyrdom}
+  executioners-killed-by-flames: {label: "The flames kill the men who throw the heroes into the furnace", cluster: martyrdom}
+  fourth-figure-like-son-of-gods: {label: "A fourth figure appears walking in the fire, looking like a son of the gods (bar elahin)", cluster: angelology}
+  angel-sent-to-rescue: {label: "God sends his angel to rescue his servants from death", cluster: angelology}
+  no-smell-of-fire: {label: "The rescued have not a hair singed, their garments unchanged, and no smell of fire on them", cluster: martyrdom}
+  king-decrees-honor-for-jewish-god: {label: "The pagan king decrees that anyone who blasphemes or fails to fear the Jewish God will be punished", cluster: court-tale}
+  royal-encyclical-letter: {label: "The pagan king issues a first-person letter to all peoples praising the Most High God", cluster: court-tale}
+  cosmic-tree-reaching-heaven: {label: "Dream of an immense tree whose top reaches heaven, visible to the ends of the earth, sheltering beasts and birds", cluster: cosmology}
+  watcher-holy-one-descends: {label: "A 'watcher' ('ir), a holy one, descends from heaven and decrees the judgment", cluster: angelology}
+  tree-stump-bound-with-iron-and-bronze: {label: "The felled tree's stump is left in the earth bound with a band of iron and bronze", cluster: apocalyptic}
+  seven-times-pass-over-him: {label: "'Seven times' (periods) pass over the punished king", cluster: apocalyptic}
+  decree-of-the-watchers: {label: "The sentence is 'by the decree of the watchers and the word of the holy ones'", cluster: angelology}
+  most-high-gives-kingdom-to-lowliest: {label: "The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest of men", cluster: theology}
+  seer-dismayed-by-interpretation: {label: "The seer is dismayed and terrified when he grasps the meaning of the dream", cluster: court-tale}
+  atone-sins-by-almsgiving: {label: "Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor", cluster: ethics}
+  king-boasts-over-his-city: {label: "The king boasts 'Is not this great Babylon which I have built by my might?'", cluster: hubris}
+  voice-from-heaven-pronounces-sentence: {label: "While the words are still in his mouth a voice falls from heaven pronouncing the king's sentence", cluster: judgment}
+  king-turned-beastlike-eats-grass: {label: "A king is driven from human society to live with beasts, eating grass like oxen, wet with dew, with hair like eagles' feathers and nails like birds' claws", cluster: hubris}
+  king-restored-after-acknowledging-god: {label: "The king's reason returns when he lifts his eyes to heaven and he is restored to his throne after praising God", cluster: hubris}
+  none-can-stay-gods-hand: {label: "No one can stay God's hand or say to him 'What are you doing?'", cluster: theology}
+  belshazzars-feast: {label: "A king holds a great feast for a thousand nobles and drinks wine before them", cluster: court-tale}
+  sacred-vessels-profaned-at-feast: {label: "The king and his concubines drink from the vessels taken from God's temple while praising idols", cluster: court-tale}
+  gods-of-gold-silver-bronze-iron-wood-stone: {label: "Idols listed as gods of gold, silver, bronze, iron, wood and stone that neither see nor hear nor know", cluster: idolatry}
+  hand-writes-on-wall: {label: "Fingers of a human hand appear and write on the plaster of the palace wall opposite the lampstand", cluster: apocalyptic}
+  king-knees-knock-in-terror: {label: "The king's face blanches, his hip-joints loosen and his knees knock together in terror", cluster: court-tale}
+  reward-purple-gold-chain-third-ruler: {label: "Reward offered to the interpreter: purple robe, gold chain and rule as third in the kingdom", cluster: court-tale}
+  queen-recommends-forgotten-sage: {label: "The queen (mother) reminds the king of a forgotten sage who solved riddles in his father's day", cluster: court-tale}
+  loosing-knots-riddle-solving: {label: "The sage is renowned for interpreting dreams, explaining riddles and 'loosing knots'", cluster: magic}
+  seer-refuses-gifts: {label: "The prophet tells the king to keep his gifts for himself", cluster: prophecy}
+  mene-mene-tekel-parsin: {label: "The writing 'Mene, mene, tekel, u-pharsin' is read as numbered, weighed and divided", cluster: apocalyptic}
+  weighed-in-scales-found-wanting: {label: "A person is weighed in the balances and found wanting", cluster: judgment}
+  king-killed-same-night: {label: "That very night the king is killed and his kingdom passes to another people", cluster: judgment}
+  darius-the-mede: {label: "Darius the Mede receives the kingdom at age sixty-two", cluster: history}
+  satraps-120-three-presidents: {label: "The king appoints 120 satraps over the kingdom with three presidents above them, one of them the hero", cluster: court-tale}
+  rivals-find-fault-only-in-his-religion: {label: "Rivals can find no fault in the hero except in the matter of the law of his God", cluster: court-tale}
+  irrevocable-law-of-medes-and-persians: {label: "A royal decree written by the law of the Medes and Persians cannot be revoked, even by the king", cluster: law}
+  ban-on-prayer-except-to-king: {label: "For thirty days no one may petition any god or man except the king", cluster: martyrdom}
+  prayer-toward-jerusalem: {label: "The faithful prays facing Jerusalem through open windows", cluster: liturgy}
+  kneeling-in-prayer: {label: "The pious kneels on his knees to pray", cluster: liturgy}
+  thrown-into-lions-den: {label: "The hero is thrown into a pit of lions", cluster: martyrdom}
+  den-sealed-with-royal-signet: {label: "A stone is placed on the mouth of the pit and sealed with the king's signet and those of his nobles", cluster: martyrdom}
+  king-fasts-sleepless-night: {label: "The king spends a sleepless night fasting, without entertainment, worrying over the hero", cluster: court-tale}
+  angel-shuts-lions-mouths: {label: "God sends his angel and shuts the lions' mouths so they do not harm the innocent", cluster: martyrdom}
+  accusers-and-families-thrown-to-lions: {label: "The accusers, with their wives and children, are thrown to the lions and crushed before they reach the bottom", cluster: judgment}
+  living-god-enduring-forever: {label: "Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'", cluster: theology}
+  four-winds-stir-great-sea: {label: "The four winds of heaven stir up the great sea, out of which monstrous beasts arise", cluster: apocalyptic}
+  four-beasts-from-sea: {label: "Four great beasts rise from the sea, each different, symbolizing successive kingdoms", cluster: apocalyptic}
+  winged-lion-given-human-heart: {label: "A lion with eagle's wings has its wings plucked, is made to stand like a man and given a human heart", cluster: apocalyptic}
+  bear-with-three-ribs: {label: "A bear raised on one side with three ribs in its mouth is told 'Arise, devour much flesh'", cluster: apocalyptic}
+  four-headed-winged-leopard: {label: "A leopard with four wings and four heads is given dominion", cluster: apocalyptic}
+  ten-horned-iron-toothed-beast: {label: "A terrifying fourth beast with iron teeth and ten horns devours and tramples the rest with its feet", cluster: apocalyptic}
+  little-horn-boastful-mouth: {label: "A little horn with human eyes and a mouth speaking great things uproots three horns", cluster: apocalyptic}
+  ancient-of-days-enthroned: {label: "Thrones are set and the Ancient of Days sits, his garment white as snow and his hair like pure wool", cluster: theophany}
+  fiery-throne-with-wheels: {label: "God's throne is flames of fire with wheels of burning fire", cluster: theophany}
+  river-of-fire-before-god: {label: "A river of fire flows out from before the divine throne", cluster: theophany}
+  myriads-serve-before-throne: {label: "Thousands of thousands serve God and myriads of myriads stand before him", cluster: angelology}
+  court-sits-books-opened: {label: "The heavenly court sits in judgment and the books are opened", cluster: judgment}
+  beast-burned-in-fire: {label: "The arch-enemy beast is slain and its body given over to burning fire", cluster: judgment}
+  son-of-man-with-clouds: {label: "One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of Days", cluster: apocalyptic}
+  everlasting-dominion-given-to-figure: {label: "A heavenly figure or the holy ones are given everlasting dominion, glory and kingdom which all peoples serve", cluster: apocalyptic}
+  angelic-interpreter: {label: "The seer asks one of the attendants or an angel, who explains the vision to him", cluster: apocalyptic}
+  holy-ones-of-most-high-receive-kingdom: {label: "The holy ones of the Most High (qaddishe 'elyonin) receive and possess the kingdom forever", cluster: apocalyptic}
+  horn-wars-against-holy-ones: {label: "The horn makes war against the holy ones and prevails until the Ancient of Days comes", cluster: apocalyptic}
+  tyrant-changes-times-and-law: {label: "The tyrant plans to change the times (festivals) and the law", cluster: apocalyptic}
+  time-times-half-time: {label: "Persecution lasts 'a time, times and half a time' (three and a half periods)", cluster: apocalyptic}
+  seer-troubled-keeps-matter-in-heart: {label: "The seer is troubled, his face changes, and he keeps the matter in his heart", cluster: apocalyptic}
+  vision-at-susa-ulai: {label: "The seer finds himself in a vision at Susa the citadel by the river Ulai", cluster: apocalyptic}
+  ram-and-he-goat: {label: "A two-horned ram (Media-Persia) is trampled by a he-goat with one great horn (Greece) coming from the west without touching the ground", cluster: apocalyptic}
+  great-horn-broken-four-arise: {label: "The great horn breaks at its height and four horns arise toward the four winds (the successor kingdoms)", cluster: apocalyptic}
+  horn-grows-to-host-of-heaven: {label: "A small horn grows up to the host of heaven, casts down some of the stars and tramples them", cluster: apocalyptic}
+  daily-offering-abolished: {label: "The daily offering (tamid) is taken away and the sanctuary overthrown", cluster: apocalyptic}
+  prince-of-host-challenged: {label: "The tyrant magnifies himself against the Prince of the host / Prince of princes", cluster: apocalyptic}
+  how-long-question: {label: "A heavenly being or the seer asks 'Until when (ad matai)?' the desolation will last", cluster: apocalyptic}
+  evenings-mornings-2300: {label: "Desolation reckoned as 2,300 evenings and mornings before the sanctuary is restored", cluster: apocalyptic}
+  angel-gabriel-named: {label: "The angel Gabriel is named and sent to explain the vision", cluster: angelology}
+  seer-falls-in-trance-touched-and-raised: {label: "The seer falls into a deep sleep on his face; the angel touches him and sets him on his feet", cluster: apocalyptic}
+  vision-for-time-of-end: {label: "The vision concerns the time of the end (et qets)", cluster: apocalyptic}
+  bold-faced-king-understands-riddles: {label: "A king 'fierce of face' and understanding riddles arises, destroys the holy people, and is broken without human hand", cluster: apocalyptic}
+  seal-up-the-vision: {label: "The seer is told to shut up and seal the vision/book until the end", cluster: apocalyptic}
+  seer-sick-after-vision: {label: "The seer is exhausted and sick for days after the vision", cluster: apocalyptic}
+  seventy-years-of-jeremiah: {label: "The prophesied seventy years of Jerusalem's desolation", cluster: prophecy}
+  seer-studies-scripture-books: {label: "The seer studies the books (sefarim) to understand a prophecy", cluster: prophecy}
+  fasting-sackcloth-ashes: {label: "Prayer accompanied by fasting, sackcloth and ashes", cluster: liturgy}
+  penitential-prayer-righteousness-yours-shame-ours: {label: "Communal confession: 'To you, Lord, belongs righteousness and to us shame of face'", cluster: liturgy}
+  covenant-curse-of-moses-fulfilled: {label: "The curse and oath written in the Torah of Moses has been poured out on the people", cluster: theology}
+  prayer-not-on-our-merits: {label: "We present our pleas not because of our righteous deeds but because of your great mercy", cluster: liturgy}
+  angel-arrives-at-evening-offering: {label: "The angel arrives in swift flight at the time of the evening offering, while the seer is still praying", cluster: angelology}
+  beloved-one-hamudot: {label: "The seer is addressed as 'greatly beloved' (ish hamudot)", cluster: apocalyptic}
+  seventy-weeks-of-years: {label: "Seventy 'weeks' (seventy sevens) decreed to finish transgression, atone iniquity, bring everlasting righteousness and anoint a most holy", cluster: apocalyptic}
+  anointed-one-cut-off: {label: "An anointed one (mashiah) is cut off and has nothing", cluster: apocalyptic}
+  abomination-of-desolation: {label: "An abomination that makes desolate (shiqquts meshomem) is set up in the sanctuary", cluster: apocalyptic}
+  mourning-fast-three-weeks: {label: "The seer mourns three weeks, eating no delicacies, meat or wine and not anointing himself", cluster: liturgy}
+  vision-by-tigris: {label: "The seer receives a vision standing by the great river Tigris (Hiddeqel)", cluster: apocalyptic}
+  man-clothed-in-linen-radiant: {label: "A man clothed in linen with a gold belt, body like chrysolite, face like lightning, eyes like torches, limbs like burnished bronze", cluster: angelology}
+  companions-flee-unseen-vision: {label: "The seer's companions do not see the vision but are seized with terror and flee", cluster: apocalyptic}
+  angel-touches-lips-to-speak: {label: "A figure in human likeness touches the seer's lips so he can speak", cluster: prophecy}
+  angel-delayed-by-prince-of-persia: {label: "The angel was opposed twenty-one days by the 'prince of the kingdom of Persia' until Michael came to help", cluster: angelology}
+  nation-patron-angels: {label: "Nations have heavenly 'princes' (patron angels): the prince of Persia, prince of Greece, and Michael 'your prince'", cluster: angelology}
+  michael-archangel: {label: "Michael, 'one of the chief princes', the great prince who stands over Israel", cluster: angelology}
+  book-of-truth: {label: "What is inscribed in the 'book of truth' is revealed", cluster: apocalyptic}
+  ex-eventu-history-kings-north-south: {label: "Detailed veiled prophecy of wars between the 'king of the north' and the 'king of the south'", cluster: apocalyptic}
+  dynastic-marriage-fails: {label: "A king's daughter given in marriage to seal an alliance between rival kings, but the alliance fails", cluster: history}
+  captured-gods-carried-to-egypt: {label: "A victorious king carries off the enemy's gods, molten images and precious vessels to Egypt", cluster: history}
+  ships-of-kittim: {label: "Ships of Kittim come against the king of the north and turn him back", cluster: history}
+  wise-teachers-maskilim: {label: "The wise (maskilim) instruct the many and some fall to sword, flame and captivity to refine and purify them", cluster: martyrdom}
+  tyrant-exalts-self-above-every-god: {label: "The king exalts himself above every god, speaks monstrous things against the God of gods, and honors a 'god of fortresses'", cluster: hubris}
+  tyrant-ignores-desire-of-women: {label: "The tyrant disregards the gods of his fathers and 'the one desired by women'", cluster: apocalyptic}
+  tyrant-dies-between-seas-and-holy-mountain: {label: "The final tyrant pitches his palace tents between the seas and the holy mountain and comes to his end with none to help", cluster: apocalyptic}
+  time-of-unprecedented-trouble: {label: "A time of trouble such as never was since nations existed", cluster: apocalyptic}
+  resurrection-of-the-dead: {label: "Many who sleep in the dust of the earth awake, some to everlasting life and some to everlasting shame", cluster: afterlife}
+  wise-shine-like-stars: {label: "The wise shine like the brightness of the firmament and those who turn many to righteousness like the stars forever", cluster: afterlife}
+  many-run-to-and-fro-knowledge-increases: {label: "Many shall run to and fro and knowledge shall increase", cluster: apocalyptic}
+  angels-on-two-river-banks: {label: "Two figures stand on either bank of the river, with a linen-clad figure above the waters", cluster: angelology}
+  days-1290-and-1335: {label: "Secret reckonings: 1,290 days from the abolition of the daily offering, and blessed is he who waits for 1,335 days", cluster: apocalyptic}
+  seer-promised-rest-and-rise-to-lot: {label: "The seer is told he will rest and rise to his allotted portion at the end of days", cluster: afterlife}
+  prophet-commanded-to-marry-harlot: {label: "God commands the prophet to marry a 'woman of harlotry' as a sign of the land's unfaithfulness", cluster: prophecy}
+  children-given-symbolic-names: {label: "The prophet's children receive symbolic names announcing judgment or salvation (Jezreel, Lo-ruhamah, Lo-ammi)", cluster: prophecy}
+  blood-of-jezreel-avenged: {label: "God will avenge the blood of Jezreel on the house of Jehu", cluster: kingship}
+  name-reversal-not-my-people: {label: "'Not my people' becomes 'my people' and 'Not pitied' becomes 'pitied'", cluster: prophecy}
+  sons-of-the-living-god: {label: "Israel is called 'sons of the living God' (bene el hai)", cluster: theology}
+  israel-as-unfaithful-wife: {label: "God's people portrayed as an adulterous wife who runs after lovers (the Baals)", cluster: prophecy}
+  stripped-naked-as-day-of-birth: {label: "The unfaithful wife is threatened with being stripped naked as on the day she was born", cluster: prophecy}
+  lovers-thought-to-give-bread-wool: {label: "The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and drink, not knowing God gave them", cluster: idolatry}
+  hedge-of-thorns-blocks-way: {label: "God hedges her way with thorns and a wall so she cannot find her lovers' paths", cluster: prophecy}
+  return-to-first-husband: {label: "The straying wife resolves 'I will go back to my first husband, for it was better then'", cluster: prophecy}
+  feasts-new-moons-sabbaths-ended: {label: "God will end the land's festivals, new moons and sabbaths", cluster: judgment}
+  allure-into-wilderness-speak-to-heart: {label: "God will allure his people into the wilderness and speak to her heart, as in the days of youth", cluster: prophecy}
+  valley-of-achor-door-of-hope: {label: "The Valley of Achor ('trouble') becomes a door of hope", cluster: prophecy}
+  my-husband-not-my-baal: {label: "She will call God 'my husband (ishi)' and no longer 'my baal'; the names of the Baals removed from her mouth", cluster: idolatry}
+  covenant-with-beasts-and-peace: {label: "God makes a covenant with the beasts, birds and creeping things and abolishes bow, sword and war from the land", cluster: eschatology}
+  divine-betrothal-forever: {label: "God betroths his people to himself forever in righteousness, justice, steadfast love, mercy and faithfulness", cluster: theology}
+  cosmic-chain-of-answering: {label: "Chain of responses: God answers the heavens, the heavens the earth, the earth grain-wine-oil, and they answer Jezreel", cluster: cosmology}
+  wife-bought-for-silver-and-barley: {label: "The prophet buys back a woman for fifteen shekels and a homer and a half of barley", cluster: prophecy}
+  raisin-cakes-of-gods: {label: "Lovers of raisin cakes (ashishe anavim), offerings associated with other gods", cluster: idolatry}
+  many-days-without-king-sacrifice-pillar-ephod-teraphim: {label: "Israel will dwell many days without king, prince, sacrifice, pillar, ephod or teraphim", cluster: exile}
+  return-to-david-their-king-latter-days: {label: "In the latter days Israel will return and seek YHWH and David their king", cluster: messianism}
+  covenant-lawsuit-rib: {label: "YHWH brings a lawsuit (riv) against his people", cluster: prophecy}
+  decalogue-violations-listed: {label: "Prophet lists violations echoing the Decalogue: swearing, lying, murder, theft, adultery", cluster: law}
+  land-mourns-creatures-perish: {label: "Because of sin the land mourns and beasts, birds and even fish of the sea perish", cluster: judgment}
+  priests-reject-knowledge: {label: "My people are destroyed for lack of knowledge; the priest who rejected knowledge is rejected", cluster: prophecy}
+  priests-feed-on-sin-offerings: {label: "Priests feed on the people's sin and set their heart on their iniquity", cluster: cult}
+  like-people-like-priest: {label: "'Like people, like priest': both punished alike", cluster: prophecy}
+  divination-by-wood-and-staff: {label: "The people consult their piece of wood and their staff (rhabdomancy) gives them oracles", cluster: magic}
+  spirit-of-harlotry: {label: "A 'spirit of harlotry' (ruah zenunim) leads the people astray", cluster: idolatry}
+  cultic-sex-with-qedeshot: {label: "Men sacrifice with qedeshot (cult women) and go aside with harlots", cluster: idolatry}
+  beth-aven-for-bethel: {label: "Bethel ('house of God') mocked as Beth-aven ('house of iniquity')", cluster: polemic}
+  stubborn-heifer: {label: "Israel is like a stubborn heifer", cluster: prophecy}
+  snare-at-mizpah-net-on-tabor: {label: "The leaders have been a snare at Mizpah and a net spread on Tabor", cluster: prophecy}
+  alarm-trumpet-gibeah-ramah: {label: "Blow the shofar in Gibeah, the trumpet in Ramah, sound the alarm at Beth-aven", cluster: warfare}
+  god-like-moth-and-rot: {label: "God is like a moth (or pus) to Ephraim and like rot to Judah", cluster: theology}
+  seeking-help-from-assyria-futile: {label: "Ephraim sees its sickness and goes to the great king of Assyria, who cannot heal it", cluster: politics}
+  god-as-lion-tearing-prey: {label: "God is like a lion that tears its prey and carries it off with none to rescue", cluster: theology}
+  god-withdraws-until-they-seek: {label: "God returns to his place until the people acknowledge guilt and seek his face", cluster: theology}
+  revived-on-third-day: {label: "'After two days he will revive us; on the third day he will raise us up'", cluster: afterlife}
+  love-like-morning-dew: {label: "The people's love is like a morning cloud and the dew that vanishes early", cluster: wisdom}
+  mercy-not-sacrifice: {label: "'I desire steadfast love (hesed) and not sacrifice, knowledge of God rather than burnt offerings'", cluster: cult}
+  like-adam-transgressed-covenant: {label: "'Like Adam they transgressed the covenant'", cluster: theology}
+  priests-murder-on-road-to-shechem: {label: "A band of priests murders on the road to Shechem", cluster: prophecy}
+  conspirators-hot-as-oven: {label: "Court conspirators are like a heated oven; they devour their judges and their kings fall", cluster: kingship}
+  ephraim-unturned-cake: {label: "Ephraim is a cake not turned (half-baked)", cluster: prophecy}
+  grey-hairs-unnoticed: {label: "Grey hairs are sprinkled on him and he does not know it", cluster: wisdom}
+  silly-dove-egypt-assyria: {label: "Ephraim is like a silly dove, calling to Egypt and going to Assyria", cluster: politics}
+  god-spreads-net-on-birds: {label: "God spreads his net over the people and brings them down like birds of the sky", cluster: judgment}
+  deceitful-bow: {label: "The people are like a deceitful (slack) bow", cluster: prophecy}
+  kings-made-without-god: {label: "They made kings, but not by me; princes, but I did not know it", cluster: kingship}
+  calf-of-samaria-broken: {label: "The calf of Samaria, made by a craftsman, is no god and will be broken to pieces", cluster: idolatry}
+  sow-wind-reap-whirlwind: {label: "They sow the wind and reap the whirlwind", cluster: wisdom}
+  wild-ass-alone: {label: "Ephraim like a wild ass wandering alone, hiring lovers", cluster: prophecy}
+  myriad-torot-written-as-strange: {label: "Though God writes for him the many things of his Torah, they are counted as something strange", cluster: law}
+  return-to-egypt-as-punishment: {label: "Punishment is a return to Egypt (reversal of the exodus)", cluster: exile}
+  eating-unclean-food-in-exile: {label: "In exile (Assyria) they will eat unclean food", cluster: exile}
+  harlots-hire-on-threshing-floors: {label: "Israel loves a harlot's hire on every threshing floor of grain", cluster: idolatry}
+  bread-of-mourners: {label: "Their sacrifices are like the bread of mourners: all who eat it are defiled", cluster: cult}
+  memphis-buries-them: {label: "Egypt gathers them and Memphis (Moph) buries them; thorns in their tents", cluster: exile}
+  prophet-called-fool-madman: {label: "'The prophet is a fool, the man of the spirit is mad'", cluster: prophecy}
+  prophet-as-watchman: {label: "The prophet is a watchman (tsofeh) for the people", cluster: prophecy}
+  days-of-gibeah: {label: "Israel's sin recalled as 'the days of Gibeah'", cluster: history}
+  israel-found-like-grapes-in-wilderness: {label: "God found Israel like grapes in the wilderness, like the first fig", cluster: history}
+  baal-peor-apostasy: {label: "The apostasy at Baal-peor", cluster: history}
+  dry-womb-dry-breasts: {label: "Prayer/curse: 'Give them a miscarrying womb and dry breasts'", cluster: judgment}
+  luxuriant-vine-many-altars: {label: "Israel a luxuriant vine: the more fruit, the more altars and pillars", cluster: prophecy}
+  priests-kemarim-mourn-idol: {label: "The idol-priests (kemarim) mourn as the calf is carried off as tribute to Assyria", cluster: idolatry}
+  mountains-cover-us: {label: "They will say to the mountains 'Cover us' and to the hills 'Fall on us'", cluster: judgment}
+  thorns-on-altars: {label: "Thorns and thistles grow up on their altars", cluster: judgment}
+  trained-heifer-threshing: {label: "Ephraim a trained heifer that loves to thresh, now yoked to plow", cluster: prophecy}
+  sow-righteousness-reap-hesed: {label: "Sow for yourselves righteousness, reap steadfast love, break up your fallow ground", cluster: ethics}
+  mothers-dashed-with-children: {label: "Mothers dashed to pieces with their children (or pregnant women ripped open) in war", cluster: warfare}
+  out-of-egypt-i-called-my-son: {label: "'When Israel was a child I loved him, and out of Egypt I called my son'", cluster: theology}
+  god-as-parent-teaching-to-walk: {label: "God taught Ephraim to walk, took them in his arms and drew them with cords of love", cluster: theology}
+  divine-compassion-overturns-anger: {label: "God's heart turns over within him: 'How can I give you up? I am God and not man'", cluster: theology}
+  admah-zeboiim: {label: "Admah and Zeboiim, destroyed with Sodom, cited as the fate God refuses to inflict", cluster: history}
+  god-roars-like-lion-exiles-return: {label: "God roars like a lion and his children come trembling back from the west, Egypt and Assyria like birds and doves", cluster: prophecy}
+  oil-carried-to-egypt: {label: "Oil carried to Egypt as tribute while a covenant is made with Assyria", cluster: politics}
+  jacob-strove-with-angel-wept: {label: "Jacob strove with the angel, prevailed, wept and sought his favor; found God at Bethel", cluster: patriarchs}
+  merchant-with-false-scales: {label: "A merchant (Canaan) with false scales in his hand loves to oppress", cluster: ethics}
+  dwell-in-tents-again: {label: "God will make Israel dwell in tents again, as in the days of the appointed feast", cluster: exile}
+  god-speaks-through-prophets-parables: {label: "God has spoken through the prophets, multiplied visions and given parables by them", cluster: prophecy}
+  moses-as-prophet-led-out: {label: "By a prophet God brought Israel up from Egypt, and by a prophet it was guarded", cluster: prophecy}
+  kissing-calves: {label: "'Those who sacrifice men kiss calves'", cluster: idolatry}
+  chaff-dew-smoke-transience: {label: "The wicked vanish like the morning cloud, dew, chaff whirled from the threshing floor, and smoke from a window", cluster: wisdom}
+  no-god-but-me-no-savior: {label: "'You know no god but me, and besides me there is no savior'", cluster: theology}
+  bereaved-bear: {label: "God attacks like a bear robbed of her cubs", cluster: theology}
+  king-given-in-anger: {label: "God gives a king in his anger and takes him away in his wrath", cluster: kingship}
+  sin-bound-up-stored: {label: "Ephraim's iniquity is bound up and his sin stored away", cluster: theology}
+  child-refuses-to-be-born: {label: "Birth pangs come but he is an unwise son who does not present himself at the opening of the womb", cluster: prophecy}
+  o-death-where-are-your-plagues: {label: "'Shall I ransom them from Sheol? O Death, where are your plagues? O Sheol, where is your sting?'", cluster: afterlife}
+  east-wind-dries-spring: {label: "An east wind, the wind of YHWH, comes from the desert and dries up his spring", cluster: judgment}
+  pregnant-women-ripped-open: {label: "Infants dashed to pieces and pregnant women ripped open in war", cluster: warfare}
+  words-instead-of-bulls: {label: "Take words with you and return; we will pay the bulls (fruit) of our lips", cluster: liturgy}
+  renounce-horses-and-idols: {label: "Penitent renounces reliance on Assyria and horses and calling handiwork 'our gods'", cluster: idolatry}
+  god-as-dew: {label: "God will be like dew to Israel", cluster: theology}
+  israel-blossoms-lily-cedar-olive: {label: "Restored Israel blossoms like a lily, roots like Lebanon, beauty like the olive, fragrance like Lebanon", cluster: eschatology}
+  god-as-evergreen-cypress: {label: "God compares himself to an evergreen cypress from whom Israel's fruit comes", cluster: theology}
+  wisdom-epilogue-ways-of-yhwh: {label: "Wisdom colophon: 'Whoever is wise, let him understand; the ways of YHWH are right'", cluster: wisdom}
+units:
+  - id: hb-ezek-41-temple-house
+    tradition: judaism
+    title: Ezekiel's visionary temple, the house and its carvings
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 41:1-26"]
+    tags:
+      - {motif: temple-vision-guide-measures, refs: ["Ezek 41:1-5", "Ezek 41:13"]}
+      - {motif: holy-of-holies, refs: ["Ezek 41:4"], note: "20 by 20 cubits; 'zeh qodesh ha-qodashim'"}
+      - {motif: side-chambers-three-stories, refs: ["Ezek 41:6-7"], note: "shalosh u-sheloshim pe'amim"}
+      - {motif: two-faced-cherubim-and-palms, refs: ["Ezek 41:18-20", "Ezek 41:25"], note: "face of a man toward one palm, face of a young lion toward the other"}
+      - {motif: wooden-altar-table-before-yhwh, refs: ["Ezek 41:22"]}
+  - id: hb-ezek-42-priests-chambers
+    tradition: judaism
+    title: The priests' chambers and the outer measurement
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 42:1-20"]
+    tags:
+      - {motif: temple-vision-guide-measures, refs: ["Ezek 42:15-19"]}
+      - {motif: priests-eat-most-holy-portions, refs: ["Ezek 42:13"]}
+      - {motif: priests-change-holy-garments, refs: ["Ezek 42:14"]}
+      - {motif: sacred-precinct-square-500, refs: ["Ezek 42:16-20"], note: "le-havdil bein ha-qodesh le-hol"}
+  - id: hb-ezek-43-glory-returns
+    tradition: judaism
+    title: The glory of God returns to the temple
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 43:1-12"]
+    tags:
+      - {motif: glory-returns-from-east, refs: ["Ezek 43:2", "Ezek 43:4"]}
+      - {motif: divine-voice-like-many-waters, refs: ["Ezek 43:2"]}
+      - {motif: earth-shines-with-gods-glory, refs: ["Ezek 43:2"]}
+      - {motif: prophet-falls-on-face-at-vision, refs: ["Ezek 43:3"], note: "recalls the visions at the river Chebar"}
+      - {motif: spirit-may-carry-prophet-away, refs: ["Ezek 43:5"], note: "va-tissa'eni ruah, the spirit lifts him into the inner court"}
+      - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["Ezek 43:5"]}
+      - {motif: temple-place-of-throne-and-feet, refs: ["Ezek 43:7"]}
+      - {motif: royal-tombs-defile-temple, refs: ["Ezek 43:7-9"], note: "threshold beside my threshold, only a wall between me and them"}
+      - {motif: temple-plan-to-shame-israel, refs: ["Ezek 43:10-11"]}
+      - {motif: heavenly-pattern-of-sanctuary, refs: ["Ezek 43:10-11"], note: "tokhnit, tsurat ha-bayit written before their eyes"}
+      - {motif: temple-on-mountain-top, refs: ["Ezek 43:12"]}
+  - id: hb-ezek-43-altar
+    tradition: judaism
+    title: The altar and its seven-day consecration
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 43:13-27"]
+    tags:
+      - {motif: altar-stepped-like-ziggurat, refs: ["Ezek 43:13-17"], note: "heq ha-arets 'bosom of the earth' base; steps face east (contrast Exod 20:26)"}
+      - {motif: altar-hearth-ariel, refs: ["Ezek 43:15-16"]}
+      - {motif: horned-altar, refs: ["Ezek 43:15", "Ezek 43:20"]}
+      - {motif: zadokite-priests-faithful, refs: ["Ezek 43:19"]}
+      - {motif: blood-on-altar-horns, refs: ["Ezek 43:20"]}
+      - {motif: salt-of-the-covenant, refs: ["Ezek 43:24"], note: "priests throw salt on the burnt offerings"}
+      - {motif: seven-day-altar-consecration, refs: ["Ezek 43:25-27"]}
+  - id: hb-ezek-44-closed-gate-priests
+    tradition: judaism
+    title: The shut east gate, foreigners excluded, Levites and Zadokite priests
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 44:1-31"]
+    tags:
+      - {motif: east-gate-shut-god-entered, refs: ["Ezek 44:1-2"]}
+      - {motif: prince-eats-bread-in-gate, refs: ["Ezek 44:3"]}
+      - {motif: prophet-falls-on-face-at-vision, refs: ["Ezek 44:4"]}
+      - {motif: foreigners-barred-from-sanctuary, refs: ["Ezek 44:7", "Ezek 44:9"], note: "arle lev ve-arle basar"}
+      - {motif: uncircumcised-heart, refs: ["Ezek 44:7", "Ezek 44:9"]}
+      - {motif: levites-demoted-for-idolatry, refs: ["Ezek 44:10-14"]}
+      - {motif: zadokite-priests-faithful, refs: ["Ezek 44:15-16"]}
+      - {motif: priests-linen-no-wool-sweat, refs: ["Ezek 44:17-18"], note: "lo yahgeru ba-yeza"}
+      - {motif: priests-change-holy-garments, refs: ["Ezek 44:19"]}
+      - {motif: priests-hair-trimmed, refs: ["Ezek 44:20"]}
+      - {motif: priests-forbidden-wine-in-sanctuary, refs: ["Ezek 44:21"]}
+      - {motif: priest-marriage-restrictions, refs: ["Ezek 44:22"], note: "only virgins of Israel or a priest's widow"}
+      - {motif: priests-distinguish-holy-profane-clean-unclean, refs: ["Ezek 44:23"]}
+      - {motif: priests-as-judges, refs: ["Ezek 44:24"]}
+      - {motif: priest-avoids-corpse-except-close-kin, refs: ["Ezek 44:25-26"]}
+      - {motif: god-is-priests-inheritance, refs: ["Ezek 44:28"]}
+      - {motif: first-dough-to-priest-blessing, refs: ["Ezek 44:30"]}
+      - {motif: priests-no-nevelah-terefah, refs: ["Ezek 44:31"]}
+  - id: hb-ezek-45-holy-portion-feasts
+    tradition: judaism
+    title: The sacred allotment, the prince's duties, measures and feasts
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 45:1-25"]
+    tags:
+      - {motif: holy-land-allotment-terumah, refs: ["Ezek 45:1-6"]}
+      - {motif: prince-not-to-oppress, refs: ["Ezek 45:8-9"]}
+      - {motif: just-weights-and-measures, refs: ["Ezek 45:10"]}
+      - {motif: measures-standardized, refs: ["Ezek 45:11-14"]}
+      - {motif: prince-provides-festival-offerings, refs: ["Ezek 45:16-17", "Ezek 45:22"]}
+      - {motif: new-year-purification-of-temple, refs: ["Ezek 45:18-19"]}
+      - {motif: atonement-for-inadvertent-sinner, refs: ["Ezek 45:20"], note: "me-ish shogeh u-mi-peti"}
+      - {motif: passover-fourteenth-at-twilight, refs: ["Ezek 45:21"]}
+      - {motif: sukkot-harvest-joy, refs: ["Ezek 45:25"], note: "feast of the seventh month, 15th day; no joy mentioned, only offerings"}
+  - id: hb-ezek-46-prince-worship
+    tradition: judaism
+    title: The prince's worship, gate rules, land gifts and temple kitchens
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 46:1-24"]
+    tags:
+      - {motif: gate-open-sabbath-new-moon, refs: ["Ezek 46:1-3"]}
+      - {motif: sabbath-and-new-moon-offerings, refs: ["Ezek 46:4-7"]}
+      - {motif: worshippers-exit-opposite-gate, refs: ["Ezek 46:9"]}
+      - {motif: daily-tamid-offering, refs: ["Ezek 46:13-15"], note: "only a morning lamb here"}
+      - {motif: princes-gift-returns-at-liberty-year, refs: ["Ezek 46:16-17"]}
+      - {motif: prince-not-to-oppress, refs: ["Ezek 46:18"]}
+      - {motif: temple-kitchens, refs: ["Ezek 46:19-24"]}
+  - id: hb-ezek-47-temple-river
+    tradition: judaism
+    title: The river from the temple and the healing of the sea
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 47:1-12"]
+    tags:
+      - {motif: river-flows-from-temple, refs: ["Ezek 47:1-5"], note: "ankle, knee, loin deep, then a river that cannot be crossed, measured every thousand cubits"}
+      - {motif: temple-vision-guide-measures, refs: ["Ezek 47:3"]}
+      - {motif: dead-sea-healed, refs: ["Ezek 47:8-9"]}
+      - {motif: fishermen-en-gedi, refs: ["Ezek 47:10"]}
+      - {motif: marshes-left-for-salt, refs: ["Ezek 47:11"]}
+      - {motif: trees-monthly-fruit-healing-leaves, refs: ["Ezek 47:12"]}
+      - {motif: four-rivers-of-paradise, refs: ["Ezek 47:1", "Ezek 47:12"], note: "paradise river echo; interpretive"}
+    hints:
+      - "Compare Rev 22:1-2 (river of the water of life, tree bearing twelve fruits monthly, leaves for healing), Joel 4:18, Zech 14:8."
+  - id: hb-ezek-47-48-land-division
+    tradition: judaism
+    title: Borders and tribal allotment of the land; the city 'YHWH is there'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 47:13-48:35"]
+    tags:
+      - {motif: ideal-borders-of-land, refs: ["Ezek 47:15-20"]}
+      - {motif: joseph-two-portions, refs: ["Ezek 47:13"]}
+      - {motif: aliens-inherit-with-israel, refs: ["Ezek 47:22-23"]}
+      - {motif: tribes-in-parallel-strips, refs: ["Ezek 48:1-7", "Ezek 48:23-28"]}
+      - {motif: holy-land-allotment-terumah, refs: ["Ezek 48:8-22"]}
+      - {motif: zadokite-priests-faithful, refs: ["Ezek 48:11"]}
+      - {motif: city-twelve-gates-tribal-names, refs: ["Ezek 48:31-34"], note: "Levi included and Joseph single among the gates"}
+      - {motif: city-named-yhwh-is-there, refs: ["Ezek 48:35"]}
+    hints:
+      - "Compare Rev 21:12-13 (twelve gates named for the tribes) and the New Jerusalem text from Qumran."
+  - id: hb-dan-1-youths-at-court
+    tradition: judaism
+    title: Daniel and his companions at Nebuchadnezzar's court refuse the king's food
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 1:1-21"]
+    tags:
+      - {motif: temple-vessels-taken-to-foreign-temple, refs: ["Dan 1:2"], note: "brought to the land of Shinar, to the treasury of his god"}
+      - {motif: noble-youths-trained-at-foreign-court, refs: ["Dan 1:3-5"], note: "three years' training; 'book and tongue of the Chaldeans'"}
+      - {motif: royal-renaming-foreign-name, refs: ["Dan 1:7"], note: "Belteshazzar, Shadrach, Meshach, Abed-nego"}
+      - {motif: refusal-of-royal-food, refs: ["Dan 1:8"], note: "pat-bag (Persian loanword) of the king"}
+      - {motif: hero-favored-by-official, refs: ["Dan 1:9"]}
+      - {motif: vegetable-diet-test-ten-days, refs: ["Dan 1:12-16"], note: "zero'im and water"}
+      - {motif: interpretation-from-god, refs: ["Dan 1:17"], note: "Daniel understood all visions and dreams"}
+      - {motif: exiles-ten-times-wiser-than-magicians, refs: ["Dan 1:20"], note: "hartummim and ashshafim"}
+  - id: hb-dan-2-dream-demand
+    tradition: judaism
+    title: Nebuchadnezzar demands his dream be told; the mystery revealed to Daniel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew (2:1-4a) and the Aramaic
+    read: ["Dan 2:1-23"]
+    tags:
+      - {motif: king-demands-dream-itself-be-told, refs: ["Dan 2:3", "Dan 2:5-9"]}
+      - {motif: court-experts-fail, refs: ["Dan 2:10-11"]}
+      - {motif: long-live-the-king-formula, refs: ["Dan 2:4"], note: "the Aramaic section begins here: 'aramit malka le-'almin hei'"}
+      - {motif: dismemberment-and-house-made-dunghill, refs: ["Dan 2:5"]}
+      - {motif: gods-dwell-not-with-flesh, refs: ["Dan 2:11"]}
+      - {motif: order-to-kill-all-wise-men, refs: ["Dan 2:12-13"]}
+      - {motif: mystery-raz-revealed-in-night-vision, refs: ["Dan 2:18-19"], note: "Persian loanword raz"}
+      - {motif: god-changes-times-and-kings, refs: ["Dan 2:21"]}
+      - {motif: light-dwells-with-god, refs: ["Dan 2:22"]}
+  - id: hb-dan-2-statue-dream
+    tradition: judaism
+    title: The statue of four metals and the stone cut without hands
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 2:24-49"]
+    tags:
+      - {motif: interpretation-from-god, refs: ["Dan 2:27-30"], note: "not by any wisdom in me"}
+      - {motif: god-in-heaven-reveals-mysteries, refs: ["Dan 2:28-29"], note: "be-aharit yomayya"}
+      - {motif: statue-of-four-metals, refs: ["Dan 2:31-33"]}
+      - {motif: stone-cut-without-hands, refs: ["Dan 2:34-35", "Dan 2:45"]}
+      - {motif: chaff-of-summer-threshing-floor, refs: ["Dan 2:35"]}
+      - {motif: king-of-kings-title, refs: ["Dan 2:37"]}
+      - {motif: four-world-kingdoms-succession, refs: ["Dan 2:38-40"]}
+      - {motif: metals-decline-of-ages, refs: ["Dan 2:38-43"]}
+      - {motif: iron-mixed-with-clay-intermarriage, refs: ["Dan 2:41-43"], note: "mit'arevin le-hewon bi-zera' anasha"}
+      - {motif: everlasting-kingdom-of-god, refs: ["Dan 2:44"]}
+      - {motif: king-prostrates-before-seer, refs: ["Dan 2:46"]}
+      - {motif: god-of-gods-lord-of-kings, refs: ["Dan 2:47"]}
+      - {motif: hero-appointed-over-storehouses, refs: ["Dan 2:48-49"], note: "ruler over the province of Babylon and chief prefect of the wise men"}
+    hints:
+      - "Compare Hesiod, Works and Days 106-201 (gold, silver, bronze, heroic, iron races) and the Zoroastrian Bahman Yasht tree of four metal branches."
+  - id: hb-dan-3-golden-image-furnace
+    tradition: judaism
+    title: The golden image and the fiery furnace
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 3:1-30"]
+    tags:
+      - {motif: golden-image-sixty-cubits, refs: ["Dan 3:1"]}
+      - {motif: officials-list-satraps-prefects, refs: ["Dan 3:2-3", "Dan 3:27"]}
+      - {motif: peoples-nations-languages, refs: ["Dan 3:4", "Dan 3:7"]}
+      - {motif: orchestra-signal-for-worship, refs: ["Dan 3:5", "Dan 3:7", "Dan 3:10", "Dan 3:15"], note: "Greek loanwords qitros, psanterin, sumponyah"}
+      - {motif: command-to-worship-image-or-die, refs: ["Dan 3:6", "Dan 3:11", "Dan 3:15"]}
+      - {motif: informers-denounce-jews, refs: ["Dan 3:8-12"], note: "akhalu qartsehon di yehudaye"}
+      - {motif: refusal-even-if-god-does-not-save, refs: ["Dan 3:16-18"]}
+      - {motif: furnace-heated-sevenfold, refs: ["Dan 3:19"]}
+      - {motif: thrown-into-fire, refs: ["Dan 3:20-23"], note: "bound in their trousers, tunics and caps"}
+      - {motif: executioners-killed-by-flames, refs: ["Dan 3:22"]}
+      - {motif: fourth-figure-like-son-of-gods, refs: ["Dan 3:25"]}
+      - {motif: fire-made-harmless, refs: ["Dan 3:25", "Dan 3:27"]}
+      - {motif: no-smell-of-fire, refs: ["Dan 3:27"]}
+      - {motif: angel-sent-to-rescue, refs: ["Dan 3:28"]}
+      - {motif: king-decrees-honor-for-jewish-god, refs: ["Dan 3:29"]}
+      - {motif: dismemberment-and-house-made-dunghill, refs: ["Dan 3:29"]}
+    hints:
+      - "Compare Abraham in Nimrod's furnace (Gen. Rab. 38:13; Quran 21:68-69), the Greek Additions (Prayer of Azariah, Song of the Three) and the Quranic People of the Ditch (85:4-8)."
+  - id: hb-dan-3-4-tree-dream
+    tradition: judaism
+    title: Nebuchadnezzar's letter, the great tree dream and his madness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 3:31-4:34"]
+    tags:
+      - {motif: royal-encyclical-letter, refs: ["Dan 3:31-33", "Dan 4:31-34"]}
+      - {motif: peoples-nations-languages, refs: ["Dan 3:31"]}
+      - {motif: everlasting-kingdom-of-god, refs: ["Dan 3:33", "Dan 4:31"]}
+      - {motif: court-experts-fail, refs: ["Dan 4:4", "Dan 4:15"]}
+      - {motif: cosmic-tree-reaching-heaven, refs: ["Dan 4:7-9", "Dan 4:17-19"]}
+      - {motif: watcher-holy-one-descends, refs: ["Dan 4:10", "Dan 4:20"], note: "'ir ve-qaddish"}
+      - {motif: tree-stump-bound-with-iron-and-bronze, refs: ["Dan 4:12", "Dan 4:20", "Dan 4:23"]}
+      - {motif: seven-times-pass-over-him, refs: ["Dan 4:13", "Dan 4:20", "Dan 4:22", "Dan 4:29"]}
+      - {motif: decree-of-the-watchers, refs: ["Dan 4:14"]}
+      - {motif: most-high-gives-kingdom-to-lowliest, refs: ["Dan 4:14", "Dan 4:22", "Dan 4:29"]}
+      - {motif: seer-dismayed-by-interpretation, refs: ["Dan 4:16"]}
+      - {motif: atone-sins-by-almsgiving, refs: ["Dan 4:24"], note: "hatayakh be-tsidqah peruq"}
+      - {motif: king-boasts-over-his-city, refs: ["Dan 4:27"]}
+      - {motif: voice-from-heaven-pronounces-sentence, refs: ["Dan 4:28"]}
+      - {motif: king-turned-beastlike-eats-grass, refs: ["Dan 4:22", "Dan 4:30"]}
+      - {motif: king-restored-after-acknowledging-god, refs: ["Dan 4:31", "Dan 4:33"]}
+      - {motif: none-can-stay-gods-hand, refs: ["Dan 4:32"]}
+      - {motif: god-humbles-one-exalts-another, refs: ["Dan 4:34"], note: "those who walk in pride he is able to humble"}
+    hints:
+      - "Compare the Qumran Prayer of Nabonidus (4Q242), Nabonidus' sojourn at Teima, and Ezek 31 (the cosmic cedar)."
+  - id: hb-dan-5-writing-on-wall
+    tradition: judaism
+    title: Belshazzar's feast and the writing on the wall
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 5:1-30"]
+    tags:
+      - {motif: belshazzars-feast, refs: ["Dan 5:1"]}
+      - {motif: sacred-vessels-profaned-at-feast, refs: ["Dan 5:2-3", "Dan 5:23"]}
+      - {motif: gods-of-gold-silver-bronze-iron-wood-stone, refs: ["Dan 5:4", "Dan 5:23"]}
+      - {motif: hand-writes-on-wall, refs: ["Dan 5:5", "Dan 5:24"]}
+      - {motif: king-knees-knock-in-terror, refs: ["Dan 5:6", "Dan 5:9"]}
+      - {motif: court-experts-fail, refs: ["Dan 5:7-8", "Dan 5:15"]}
+      - {motif: reward-purple-gold-chain-third-ruler, refs: ["Dan 5:7", "Dan 5:16", "Dan 5:29"]}
+      - {motif: queen-recommends-forgotten-sage, refs: ["Dan 5:10-12"]}
+      - {motif: long-live-the-king-formula, refs: ["Dan 5:10"]}
+      - {motif: loosing-knots-riddle-solving, refs: ["Dan 5:12", "Dan 5:16"], note: "mshare qitrin"}
+      - {motif: seer-refuses-gifts, refs: ["Dan 5:17"]}
+      - {motif: god-humbles-one-exalts-another, refs: ["Dan 5:19-20"], note: "whom he wished he raised, whom he wished he humbled"}
+      - {motif: king-turned-beastlike-eats-grass, refs: ["Dan 5:20-21"], note: "with the wild asses"}
+      - {motif: mene-mene-tekel-parsin, refs: ["Dan 5:25-28"], note: "pun on Peres/Paras (Persia)"}
+      - {motif: weighed-in-scales-found-wanting, refs: ["Dan 5:27"]}
+      - {motif: king-killed-same-night, refs: ["Dan 5:30"]}
+    hints:
+      - "Compare Herodotus 1.191 and Xenophon Cyropaedia 7.5 (Babylon taken during a festival)."
+  - id: hb-dan-6-lions-den
+    tradition: judaism
+    title: Daniel in the lions' den
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 6:1-29"]
+    tags:
+      - {motif: darius-the-mede, refs: ["Dan 6:1"]}
+      - {motif: satraps-120-three-presidents, refs: ["Dan 6:2-4"]}
+      - {motif: rivals-find-fault-only-in-his-religion, refs: ["Dan 6:5-6"]}
+      - {motif: long-live-the-king-formula, refs: ["Dan 6:7", "Dan 6:22"]}
+      - {motif: ban-on-prayer-except-to-king, refs: ["Dan 6:8", "Dan 6:13"]}
+      - {motif: irrevocable-law-of-medes-and-persians, refs: ["Dan 6:9", "Dan 6:13", "Dan 6:16"]}
+      - {motif: prayer-toward-jerusalem, refs: ["Dan 6:11"]}
+      - {motif: prayer-three-times-daily, refs: ["Dan 6:11", "Dan 6:14"]}
+      - {motif: kneeling-in-prayer, refs: ["Dan 6:11"]}
+      - {motif: thrown-into-lions-den, refs: ["Dan 6:17"]}
+      - {motif: den-sealed-with-royal-signet, refs: ["Dan 6:18"]}
+      - {motif: king-fasts-sleepless-night, refs: ["Dan 6:19"]}
+      - {motif: angel-shuts-lions-mouths, refs: ["Dan 6:23"]}
+      - {motif: accusers-and-families-thrown-to-lions, refs: ["Dan 6:25"]}
+      - {motif: trapper-falls-into-own-pit, refs: ["Dan 6:25"]}
+      - {motif: royal-encyclical-letter, refs: ["Dan 6:26-28"]}
+      - {motif: living-god-enduring-forever, refs: ["Dan 6:21", "Dan 6:27"]}
+    hints:
+      - "Compare Bel and the Dragon 31-42 (Habakkuk carried to the den), and Islamic qibla and fixed daily prayers."
+  - id: hb-dan-7-four-beasts-son-of-man
+    tradition: judaism
+    title: The four beasts, the Ancient of Days and one like a son of man
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Dan 7:1-28"]
+    tags:
+      - {motif: four-winds-stir-great-sea, refs: ["Dan 7:2"]}
+      - {motif: four-beasts-from-sea, refs: ["Dan 7:3", "Dan 7:17"]}
+      - {motif: sea-monster-defeated-by-god, refs: ["Dan 7:3", "Dan 7:11"], note: "beasts from yamma rabba; interpretive link to chaos-sea myth"}
+      - {motif: winged-lion-given-human-heart, refs: ["Dan 7:4"]}
+      - {motif: bear-with-three-ribs, refs: ["Dan 7:5"]}
+      - {motif: four-headed-winged-leopard, refs: ["Dan 7:6"]}
+      - {motif: ten-horned-iron-toothed-beast, refs: ["Dan 7:7", "Dan 7:19", "Dan 7:23-24"], note: "claws of bronze (7:19)"}
+      - {motif: little-horn-boastful-mouth, refs: ["Dan 7:8", "Dan 7:11", "Dan 7:20"]}
+      - {motif: ancient-of-days-enthroned, refs: ["Dan 7:9", "Dan 7:13", "Dan 7:22"], note: "kursavan remiw: plural thrones"}
+      - {motif: fiery-throne-with-wheels, refs: ["Dan 7:9"]}
+      - {motif: river-of-fire-before-god, refs: ["Dan 7:10"], note: "nehar di-nur"}
+      - {motif: myriads-serve-before-throne, refs: ["Dan 7:10"]}
+      - {motif: court-sits-books-opened, refs: ["Dan 7:10", "Dan 7:26"]}
+      - {motif: beast-burned-in-fire, refs: ["Dan 7:11"]}
+      - {motif: son-of-man-with-clouds, refs: ["Dan 7:13"]}
+      - {motif: everlasting-dominion-given-to-figure, refs: ["Dan 7:14", "Dan 7:27"]}
+      - {motif: angelic-interpreter, refs: ["Dan 7:16"]}
+      - {motif: four-world-kingdoms-succession, refs: ["Dan 7:17", "Dan 7:23"]}
+      - {motif: holy-ones-of-most-high-receive-kingdom, refs: ["Dan 7:18", "Dan 7:22", "Dan 7:27"]}
+      - {motif: horn-wars-against-holy-ones, refs: ["Dan 7:21", "Dan 7:25"]}
+      - {motif: tyrant-changes-times-and-law, refs: ["Dan 7:25"]}
+      - {motif: time-times-half-time, refs: ["Dan 7:25"]}
+      - {motif: seer-troubled-keeps-matter-in-heart, refs: ["Dan 7:15", "Dan 7:28"]}
+    hints:
+      - "Compare 1 Enoch 14 and 46-48 (Head of Days and Son of Man), Mark 14:62, Rev 1:13-14, 13:1-2, 20:12 and the Ugaritic El/Baal enthronement."
+  - id: hb-dan-8-ram-and-goat
+    tradition: judaism
+    title: The ram, the he-goat and the little horn; Gabriel explains
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 8:1-27"]
+    tags:
+      - {motif: vision-at-susa-ulai, refs: ["Dan 8:2", "Dan 8:16"]}
+      - {motif: ram-and-he-goat, refs: ["Dan 8:3-7", "Dan 8:20-21"]}
+      - {motif: great-horn-broken-four-arise, refs: ["Dan 8:8", "Dan 8:22"]}
+      - {motif: horn-grows-to-host-of-heaven, refs: ["Dan 8:9-10"]}
+      - {motif: prince-of-host-challenged, refs: ["Dan 8:11", "Dan 8:25"]}
+      - {motif: daily-offering-abolished, refs: ["Dan 8:11-13"]}
+      - {motif: how-long-question, refs: ["Dan 8:13"], note: "one holy one asks 'the certain one' (palmoni)"}
+      - {motif: evenings-mornings-2300, refs: ["Dan 8:14", "Dan 8:26"]}
+      - {motif: angel-gabriel-named, refs: ["Dan 8:16"]}
+      - {motif: prophet-falls-on-face-at-vision, refs: ["Dan 8:17"]}
+      - {motif: seer-falls-in-trance-touched-and-raised, refs: ["Dan 8:18"]}
+      - {motif: vision-for-time-of-end, refs: ["Dan 8:17", "Dan 8:19"]}
+      - {motif: bold-faced-king-understands-riddles, refs: ["Dan 8:23-25"], note: "broken be-efes yad, without a hand"}
+      - {motif: seal-up-the-vision, refs: ["Dan 8:26"]}
+      - {motif: seer-sick-after-vision, refs: ["Dan 8:27"]}
+  - id: hb-dan-9-prayer-seventy-weeks
+    tradition: judaism
+    title: Daniel's penitential prayer and the seventy weeks
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 9:1-27"]
+    tags:
+      - {motif: seer-studies-scripture-books, refs: ["Dan 9:2"]}
+      - {motif: seventy-years-of-jeremiah, refs: ["Dan 9:2"]}
+      - {motif: fasting-sackcloth-ashes, refs: ["Dan 9:3"]}
+      - {motif: exiles-confess-sins-of-fathers, refs: ["Dan 9:5-8", "Dan 9:16", "Dan 9:20"]}
+      - {motif: penitential-prayer-righteousness-yours-shame-ours, refs: ["Dan 9:7-8"]}
+      - {motif: covenant-curse-of-moses-fulfilled, refs: ["Dan 9:11-13"]}
+      - {motif: prayer-not-on-our-merits, refs: ["Dan 9:18"]}
+      - {motif: angel-gabriel-named, refs: ["Dan 9:21"]}
+      - {motif: angel-arrives-at-evening-offering, refs: ["Dan 9:21"], note: "mu'af bi'af"}
+      - {motif: beloved-one-hamudot, refs: ["Dan 9:23"]}
+      - {motif: seventy-weeks-of-years, refs: ["Dan 9:24-27"]}
+      - {motif: anointed-one-cut-off, refs: ["Dan 9:26"], note: "mashiah nagid (9:25) and yikkaret mashiah ve-en lo (9:26)"}
+      - {motif: daily-offering-abolished, refs: ["Dan 9:27"]}
+      - {motif: abomination-of-desolation, refs: ["Dan 9:27"]}
+    hints:
+      - "Compare Mark 13:14 / Matt 24:15 and Christian messianic computations; 1 Macc 1:54; Baruch 1:15-3:8 penitential prayer."
+  - id: hb-dan-10-man-in-linen
+    tradition: judaism
+    title: The vision by the Tigris and the angelic princes of the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 10:1-21"]
+    tags:
+      - {motif: mourning-fast-three-weeks, refs: ["Dan 10:2-3"]}
+      - {motif: vision-by-tigris, refs: ["Dan 10:4"]}
+      - {motif: man-clothed-in-linen-radiant, refs: ["Dan 10:5-6"], note: "voice like the sound of a multitude"}
+      - {motif: companions-flee-unseen-vision, refs: ["Dan 10:7"]}
+      - {motif: seer-falls-in-trance-touched-and-raised, refs: ["Dan 10:9-11", "Dan 10:18"]}
+      - {motif: beloved-one-hamudot, refs: ["Dan 10:11", "Dan 10:19"]}
+      - {motif: angel-delayed-by-prince-of-persia, refs: ["Dan 10:12-13"]}
+      - {motif: nation-patron-angels, refs: ["Dan 10:13", "Dan 10:20-21"]}
+      - {motif: michael-archangel, refs: ["Dan 10:13", "Dan 10:21"]}
+      - {motif: angel-touches-lips-to-speak, refs: ["Dan 10:16"]}
+      - {motif: book-of-truth, refs: ["Dan 10:21"]}
+      - {motif: nations-divided-by-number-of-sons-of-god, refs: ["Dan 10:20"], note: "interpretive link; nation-princes"}
+    hints:
+      - "Compare Rev 1:13-16, the Zoroastrian yazatas, and the seventy angels of the nations in 1 Enoch 89 and rabbinic sarim."
+  - id: hb-dan-11-kings-north-south
+    tradition: judaism
+    title: The wars of the kings of the north and south and the arrogant king
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 11:1-45"]
+    tags:
+      - {motif: ex-eventu-history-kings-north-south, refs: ["Dan 11:5-15", "Dan 11:25-29", "Dan 11:40"]}
+      - {motif: great-horn-broken-four-arise, refs: ["Dan 11:3-4"], note: "a mighty king's kingdom divided to the four winds"}
+      - {motif: dynastic-marriage-fails, refs: ["Dan 11:6", "Dan 11:17"]}
+      - {motif: captured-gods-carried-to-egypt, refs: ["Dan 11:8"]}
+      - {motif: ships-of-kittim, refs: ["Dan 11:30"]}
+      - {motif: daily-offering-abolished, refs: ["Dan 11:31"]}
+      - {motif: abomination-of-desolation, refs: ["Dan 11:31"]}
+      - {motif: wise-teachers-maskilim, refs: ["Dan 11:33-35"]}
+      - {motif: tyrant-exalts-self-above-every-god, refs: ["Dan 11:36-39"], note: "elohe ma'uzzim"}
+      - {motif: tyrant-ignores-desire-of-women, refs: ["Dan 11:37"]}
+      - {motif: tyrant-dies-between-seas-and-holy-mountain, refs: ["Dan 11:45"]}
+  - id: hb-dan-12-resurrection-end
+    tradition: judaism
+    title: Michael arises, the resurrection, and the sealed book
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Dan 12:1-13"]
+    tags:
+      - {motif: michael-archangel, refs: ["Dan 12:1"]}
+      - {motif: time-of-unprecedented-trouble, refs: ["Dan 12:1"]}
+      - {motif: heavenly-book-of-life, refs: ["Dan 12:1"]}
+      - {motif: resurrection-of-the-dead, refs: ["Dan 12:2"], note: "yeshene admat afar yaqitsu; le-hayye olam / la-harafot le-dir'on olam"}
+      - {motif: wise-shine-like-stars, refs: ["Dan 12:3"]}
+      - {motif: seal-up-the-vision, refs: ["Dan 12:4", "Dan 12:9"]}
+      - {motif: many-run-to-and-fro-knowledge-increases, refs: ["Dan 12:4"]}
+      - {motif: angels-on-two-river-banks, refs: ["Dan 12:5-6"]}
+      - {motif: how-long-question, refs: ["Dan 12:6"]}
+      - {motif: god-swears-raising-hand-i-live-forever, refs: ["Dan 12:7"], note: "the man in linen raises both hands and swears by the One who lives forever"}
+      - {motif: time-times-half-time, refs: ["Dan 12:7"]}
+      - {motif: daily-offering-abolished, refs: ["Dan 12:11"]}
+      - {motif: abomination-of-desolation, refs: ["Dan 12:11"]}
+      - {motif: days-1290-and-1335, refs: ["Dan 12:11-12"]}
+      - {motif: seer-promised-rest-and-rise-to-lot, refs: ["Dan 12:13"]}
+    hints:
+      - "Compare Rev 10:5-6 (angel swears with raised hand), 1 Enoch 104:2 (righteous shine like stars), Zoroastrian frashokereti and Quranic resurrection from the earth."
+  - id: hb-hos-1-gomer-children
+    tradition: judaism
+    title: Hosea marries Gomer; the children Jezreel, Lo-ruhamah, Lo-ammi
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 1:1-2:3"]
+    tags:
+      - {motif: prophet-commanded-to-marry-harlot, refs: ["Hos 1:2-3"], note: "Gomer daughter of Diblaim"}
+      - {motif: children-given-symbolic-names, refs: ["Hos 1:4", "Hos 1:6", "Hos 1:9"]}
+      - {motif: blood-of-jezreel-avenged, refs: ["Hos 1:4-5"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Hos 2:1"], note: "like the sand of the sea"}
+      - {motif: name-reversal-not-my-people, refs: ["Hos 2:1", "Hos 2:3"]}
+      - {motif: sons-of-the-living-god, refs: ["Hos 2:1"]}
+      - {motif: return-to-david-their-king-latter-days, refs: ["Hos 2:2"], note: "Judah and Israel appoint one head; 'great is the day of Jezreel'"}
+  - id: hb-hos-2-unfaithful-wife
+    tradition: judaism
+    title: The unfaithful wife and the new betrothal
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 2:4-25"]
+    tags:
+      - {motif: israel-as-unfaithful-wife, refs: ["Hos 2:4", "Hos 2:7", "Hos 2:15"]}
+      - {motif: stripped-naked-as-day-of-birth, refs: ["Hos 2:5", "Hos 2:12"]}
+      - {motif: lovers-thought-to-give-bread-wool, refs: ["Hos 2:7", "Hos 2:10", "Hos 2:14"]}
+      - {motif: hedge-of-thorns-blocks-way, refs: ["Hos 2:8"]}
+      - {motif: return-to-first-husband, refs: ["Hos 2:9"]}
+      - {motif: feasts-new-moons-sabbaths-ended, refs: ["Hos 2:13"]}
+      - {motif: allure-into-wilderness-speak-to-heart, refs: ["Hos 2:16-17"]}
+      - {motif: valley-of-achor-door-of-hope, refs: ["Hos 2:17"]}
+      - {motif: my-husband-not-my-baal, refs: ["Hos 2:18-19"]}
+      - {motif: covenant-with-beasts-and-peace, refs: ["Hos 2:20"]}
+      - {motif: divine-betrothal-forever, refs: ["Hos 2:21-22"]}
+      - {motif: cosmic-chain-of-answering, refs: ["Hos 2:23-24"]}
+      - {motif: name-reversal-not-my-people, refs: ["Hos 2:25"]}
+  - id: hb-hos-3-buying-back-wife
+    tradition: judaism
+    title: Hosea buys back an adulterous woman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 3:1-5"]
+    tags:
+      - {motif: israel-as-unfaithful-wife, refs: ["Hos 3:1"]}
+      - {motif: raisin-cakes-of-gods, refs: ["Hos 3:1"]}
+      - {motif: wife-bought-for-silver-and-barley, refs: ["Hos 3:2"]}
+      - {motif: many-days-without-king-sacrifice-pillar-ephod-teraphim, refs: ["Hos 3:3-4"]}
+      - {motif: return-to-david-their-king-latter-days, refs: ["Hos 3:5"]}
+  - id: hb-hos-4-lawsuit-priests
+    tradition: judaism
+    title: YHWH's lawsuit; priests, divination and cultic harlotry
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 4:1-19"]
+    tags:
+      - {motif: covenant-lawsuit-rib, refs: ["Hos 4:1", "Hos 4:4"]}
+      - {motif: decalogue-violations-listed, refs: ["Hos 4:2"]}
+      - {motif: land-mourns-creatures-perish, refs: ["Hos 4:3"]}
+      - {motif: priests-reject-knowledge, refs: ["Hos 4:6"]}
+      - {motif: priests-feed-on-sin-offerings, refs: ["Hos 4:8"]}
+      - {motif: like-people-like-priest, refs: ["Hos 4:9"]}
+      - {motif: divination-by-wood-and-staff, refs: ["Hos 4:12"]}
+      - {motif: spirit-of-harlotry, refs: ["Hos 4:12", "Hos 5:4"]}
+      - {motif: high-places-green-trees, refs: ["Hos 4:13"], note: "under oak, poplar and terebinth, for their shade is good"}
+      - {motif: cultic-sex-with-qedeshot, refs: ["Hos 4:14"]}
+      - {motif: beth-aven-for-bethel, refs: ["Hos 4:15"]}
+      - {motif: stubborn-heifer, refs: ["Hos 4:16"]}
+  - id: hb-hos-5-6-third-day
+    tradition: judaism
+    title: Judgment on priests and kings; 'on the third day he will raise us'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 5:1-6:11"]
+    tags:
+      - {motif: snare-at-mizpah-net-on-tabor, refs: ["Hos 5:1"]}
+      - {motif: spirit-of-harlotry, refs: ["Hos 5:4"]}
+      - {motif: alarm-trumpet-gibeah-ramah, refs: ["Hos 5:8"]}
+      - {motif: beth-aven-for-bethel, refs: ["Hos 5:8"]}
+      - {motif: do-not-move-boundary-stone, refs: ["Hos 5:10"], note: "princes of Judah like those who move the boundary"}
+      - {motif: god-like-moth-and-rot, refs: ["Hos 5:12"]}
+      - {motif: seeking-help-from-assyria-futile, refs: ["Hos 5:13"], note: "melekh yarev"}
+      - {motif: god-as-lion-tearing-prey, refs: ["Hos 5:14"]}
+      - {motif: god-withdraws-until-they-seek, refs: ["Hos 5:15"]}
+      - {motif: revived-on-third-day, refs: ["Hos 6:1-2"]}
+      - {motif: love-like-morning-dew, refs: ["Hos 6:4"]}
+      - {motif: mercy-not-sacrifice, refs: ["Hos 6:6"]}
+      - {motif: like-adam-transgressed-covenant, refs: ["Hos 6:7"]}
+      - {motif: priests-murder-on-road-to-shechem, refs: ["Hos 6:9"]}
+    hints:
+      - "Hos 6:6 is quoted in Matt 9:13 and 12:7; Hos 6:2 is read with the third-day resurrection in Christian and rabbinic tradition."
+  - id: hb-hos-7-8-oven-and-calf
+    tradition: judaism
+    title: The heated oven, the silly dove and the calf of Samaria
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 7:1-8:14"]
+    tags:
+      - {motif: conspirators-hot-as-oven, refs: ["Hos 7:4-7"]}
+      - {motif: ephraim-unturned-cake, refs: ["Hos 7:8"]}
+      - {motif: grey-hairs-unnoticed, refs: ["Hos 7:9"]}
+      - {motif: silly-dove-egypt-assyria, refs: ["Hos 7:11"]}
+      - {motif: god-spreads-net-on-birds, refs: ["Hos 7:12"]}
+      - {motif: deceitful-bow, refs: ["Hos 7:16"]}
+      - {motif: alarm-trumpet-gibeah-ramah, refs: ["Hos 8:1"], note: "shofar to your lips; like an eagle over the house of YHWH"}
+      - {motif: kings-made-without-god, refs: ["Hos 8:4"]}
+      - {motif: calf-of-samaria-broken, refs: ["Hos 8:5-6"]}
+      - {motif: golden-calf, refs: ["Hos 8:5-6"]}
+      - {motif: sow-wind-reap-whirlwind, refs: ["Hos 8:7"]}
+      - {motif: wild-ass-alone, refs: ["Hos 8:9"]}
+      - {motif: myriad-torot-written-as-strange, refs: ["Hos 8:12"]}
+      - {motif: return-to-egypt-as-punishment, refs: ["Hos 8:13"]}
+  - id: hb-hos-9-no-joy-exile
+    tradition: judaism
+    title: No rejoicing for Israel; exile, the mad prophet, Baal-peor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 9:1-17"]
+    tags:
+      - {motif: harlots-hire-on-threshing-floors, refs: ["Hos 9:1"]}
+      - {motif: return-to-egypt-as-punishment, refs: ["Hos 9:3", "Hos 9:6"]}
+      - {motif: eating-unclean-food-in-exile, refs: ["Hos 9:3"]}
+      - {motif: bread-of-mourners, refs: ["Hos 9:4"]}
+      - {motif: memphis-buries-them, refs: ["Hos 9:6"]}
+      - {motif: prophet-called-fool-madman, refs: ["Hos 9:7"]}
+      - {motif: prophet-as-watchman, refs: ["Hos 9:8"]}
+      - {motif: days-of-gibeah, refs: ["Hos 9:9", "Hos 10:9"]}
+      - {motif: israel-found-like-grapes-in-wilderness, refs: ["Hos 9:10"]}
+      - {motif: baal-peor-apostasy, refs: ["Hos 9:10"], note: "va-yinnazru la-boshet: consecrated themselves to Shame"}
+      - {motif: dry-womb-dry-breasts, refs: ["Hos 9:11-16"]}
+  - id: hb-hos-10-vine-and-calves
+    tradition: judaism
+    title: The luxuriant vine, the calves of Beth-aven, sow righteousness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 10:1-15"]
+    tags:
+      - {motif: luxuriant-vine-many-altars, refs: ["Hos 10:1-2"]}
+      - {motif: priests-kemarim-mourn-idol, refs: ["Hos 10:5-6"]}
+      - {motif: beth-aven-for-bethel, refs: ["Hos 10:5", "Hos 10:8"]}
+      - {motif: mountains-cover-us, refs: ["Hos 10:8"]}
+      - {motif: thorns-on-altars, refs: ["Hos 10:8"]}
+      - {motif: days-of-gibeah, refs: ["Hos 10:9"]}
+      - {motif: trained-heifer-threshing, refs: ["Hos 10:11"]}
+      - {motif: sow-righteousness-reap-hesed, refs: ["Hos 10:12-13"]}
+      - {motif: mothers-dashed-with-children, refs: ["Hos 10:14"], note: "as Shalman destroyed Beth-arbel"}
+    hints:
+      - "Hos 10:8 is echoed in Luke 23:30 and Rev 6:16."
+  - id: hb-hos-11-father-love
+    tradition: judaism
+    title: "'Out of Egypt I called my son'; God's compassion overturns his anger"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 11:1-11"]
+    tags:
+      - {motif: out-of-egypt-i-called-my-son, refs: ["Hos 11:1"]}
+      - {motif: israel-my-firstborn-son, refs: ["Hos 11:1"]}
+      - {motif: god-as-parent-teaching-to-walk, refs: ["Hos 11:3-4"]}
+      - {motif: return-to-egypt-as-punishment, refs: ["Hos 11:5"]}
+      - {motif: divine-compassion-overturns-anger, refs: ["Hos 11:8-9"]}
+      - {motif: admah-zeboiim, refs: ["Hos 11:8"]}
+      - {motif: god-roars-like-lion-exiles-return, refs: ["Hos 11:10-11"]}
+    hints:
+      - "Matt 2:15 applies Hos 11:1 to the flight to Egypt."
+  - id: hb-hos-12-jacob
+    tradition: judaism
+    title: Jacob's story as indictment; Canaan's false scales
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 12:1-15"]
+    tags:
+      - {motif: oil-carried-to-egypt, refs: ["Hos 12:2"]}
+      - {motif: covenant-lawsuit-rib, refs: ["Hos 12:3"]}
+      - {motif: younger-twin-grasps-heel, refs: ["Hos 12:4"]}
+      - {motif: night-wrestling-with-divine-being, refs: ["Hos 12:4-5"]}
+      - {motif: jacob-strove-with-angel-wept, refs: ["Hos 12:5"], note: "the angel wept? subject ambiguous: va-yasar el mal'akh va-yukhal bakhah"}
+      - {motif: divine-name-revealed-forever, refs: ["Hos 12:6"], note: "YHWH zikhro"}
+      - {motif: merchant-with-false-scales, refs: ["Hos 12:8-9"]}
+      - {motif: dwell-in-tents-again, refs: ["Hos 12:10"]}
+      - {motif: god-speaks-through-prophets-parables, refs: ["Hos 12:11"]}
+      - {motif: serving-seven-years-for-bride, refs: ["Hos 12:13"], note: "Israel served for a wife and for a wife he kept sheep"}
+      - {motif: moses-as-prophet-led-out, refs: ["Hos 12:14"]}
+  - id: hb-hos-13-death-sheol
+    tradition: judaism
+    title: Ephraim's idols, God as predator, 'O Death, where are your plagues?'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 13:1-14:1"]
+    tags:
+      - {motif: kissing-calves, refs: ["Hos 13:2"], note: "zovhe adam agalim yishaqun"}
+      - {motif: chaff-dew-smoke-transience, refs: ["Hos 13:3"]}
+      - {motif: no-god-but-me-no-savior, refs: ["Hos 13:4"]}
+      - {motif: god-as-lion-tearing-prey, refs: ["Hos 13:7-8"], note: "lion, leopard by the way"}
+      - {motif: bereaved-bear, refs: ["Hos 13:8"]}
+      - {motif: king-given-in-anger, refs: ["Hos 13:10-11"]}
+      - {motif: sin-bound-up-stored, refs: ["Hos 13:12"]}
+      - {motif: child-refuses-to-be-born, refs: ["Hos 13:13"]}
+      - {motif: o-death-where-are-your-plagues, refs: ["Hos 13:14"]}
+      - {motif: east-wind-dries-spring, refs: ["Hos 13:15"]}
+      - {motif: pregnant-women-ripped-open, refs: ["Hos 14:1"]}
+    hints:
+      - "Hos 13:14 is quoted in 1 Cor 15:55."
+  - id: hb-hos-14-return
+    tradition: judaism
+    title: "'Return, O Israel'; God as dew and evergreen"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hos 14:2-10"]
+    tags:
+      - {motif: words-instead-of-bulls, refs: ["Hos 14:3"], note: "u-neshallemah farim sefatenu"}
+      - {motif: contrite-heart-over-sacrifice, refs: ["Hos 14:3"]}
+      - {motif: renounce-horses-and-idols, refs: ["Hos 14:4"]}
+      - {motif: god-as-dew, refs: ["Hos 14:6"]}
+      - {motif: israel-blossoms-lily-cedar-olive, refs: ["Hos 14:6-8"]}
+      - {motif: god-as-evergreen-cypress, refs: ["Hos 14:9"]}
+      - {motif: wisdom-epilogue-ways-of-yhwh, refs: ["Hos 14:10"]}
+    hints:
+      - "Hos 14:2-10 is the haftarah of Shabbat Shuvah; compare rabbinic teshuvah doctrine (b. Yoma 86a-b)."

@@ -1,0 +1,789 @@
+new_motifs:
+  day-of-yhwh: {label: "The Day of YHWH is announced as near: a day of judgment, darkness and wrath", cluster: eschatology}
+  envoy-sent-among-nations-to-rouse-war: {label: "An envoy is sent among the nations to summon them to battle against a people", cluster: prophecy}
+  proud-nest-among-stars-brought-down: {label: "The proud one who builds his nest high as the eagle or among the stars is brought down by God", cluster: prophecy}
+  edom-dwells-in-clefts-of-rock: {label: "Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down", cluster: geography}
+  thieves-and-grape-gatherers-leave-gleanings: {label: "Even thieves and grape-gatherers leave something behind, but the coming destruction leaves nothing", cluster: prophecy}
+  allies-betray-ally: {label: "A nation's treaty partners and table companions deceive and overpower it", cluster: prophecy}
+  wisdom-of-edom-teman: {label: "Edom and Teman are famed for wise men whose wisdom God will destroy", cluster: wisdom}
+  edom-violence-against-brother-jacob: {label: "Edom condemned for violence against its brother Jacob in the day of Jerusalem's fall", cluster: prophecy}
+  lots-cast-over-conquered-city: {label: "Conquerors cast lots over a captured city or its nobles", cluster: warfare}
+  gloating-over-brothers-calamity: {label: "Prohibition of gloating over, looting or handing over one's brother on the day of his calamity", cluster: ethics}
+  fugitives-cut-off-at-crossroads: {label: "The enemy stands at the crossroads to cut off and hand over the fleeing survivors", cluster: warfare}
+  as-you-have-done-it-shall-be-done-to-you: {label: "Measure for measure: as you have done, so it shall be done to you; your deed returns on your head", cluster: theology}
+  jacob-fire-esau-stubble: {label: "The house of Jacob will be fire and the house of Esau stubble consumed without survivor", cluster: prophecy}
+  exiles-in-sepharad-and-zarephath: {label: "Exiles of Jerusalem in Sepharad and of Israel as far as Zarephath will repossess the land", cluster: geography}
+  saviors-on-mount-zion-kingdom-to-yhwh: {label: "Saviors ascend Mount Zion to judge Mount Esau, and the kingship shall be YHWH's", cluster: eschatology}
+  refuge-on-mount-zion: {label: "On Mount Zion there will be escape (peletah) and holiness in the coming judgment", cluster: eschatology}
+  prophet-flees-from-gods-commission: {label: "A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message", cluster: prophecy}
+  ship-from-joppa-to-tarshish: {label: "Hero goes down to Joppa, pays the fare and boards a ship bound for Tarshish", cluster: geography}
+  great-city-wickedness-rises-before-god: {label: "The wickedness of a great city rises up before God, who sends a prophet to cry against it", cluster: prophecy}
+  god-hurls-storm-on-sea: {label: "God hurls a great wind on the sea and the ship is about to break up", cluster: sea}
+  sailors-each-cry-to-own-god: {label: "In the storm the sailors each cry out to their own god", cluster: sea}
+  cargo-jettisoned-in-storm: {label: "Sailors throw the cargo overboard to lighten the ship in a storm", cluster: sea}
+  sleeper-in-ship-during-storm: {label: "A man of God lies fast asleep in the hold while the storm threatens the ship, and is woken by others", cluster: sea}
+  captain-urges-sleeper-to-pray: {label: "The ship's captain wakes the sleeper and urges him to call on his god that they may not perish", cluster: sea}
+  lots-cast-to-find-culprit-of-storm: {label: "Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet", cluster: sea}
+  sailors-interrogate-stranger: {label: "Strangers question the hero: your occupation, where you come from, your land and your people", cluster: narrative}
+  god-of-heaven-made-sea-and-dry-land: {label: "Confession of the God of heaven who made the sea and the dry land", cluster: theology}
+  man-thrown-overboard-to-calm-sea: {label: "A man is thrown into the sea at his own request so that the storm will cease, and the sea grows calm", cluster: sea}
+  rowing-to-shore-in-vain: {label: "The sailors row hard to bring the ship back to land but cannot against the storm", cluster: sea}
+  prayer-not-to-incur-innocent-blood: {label: "Those about to kill a man pray that God not hold his innocent blood against them", cluster: ethics}
+  gentile-sailors-fear-and-sacrifice-to-yhwh: {label: "Gentile sailors, saved from the storm, fear YHWH, offer sacrifice and make vows", cluster: conversion}
+  prophet-swallowed-by-great-fish: {label: "God appoints a great fish to swallow the prophet", cluster: sea}
+  three-days-three-nights-in-belly: {label: "Hero stays three days and three nights in the belly of a fish or in the underworld", cluster: sea}
+  prayer-from-belly-of-fish: {label: "The prophet prays to God from inside the fish", cluster: prayer}
+  belly-of-sheol: {label: "The speaker cries from 'the belly of Sheol' (beten sheol)", cluster: underworld}
+  cast-into-heart-of-seas: {label: "The speaker is cast into the deep, the heart of the seas, with the current around him", cluster: underworld}
+  seaweed-wrapped-around-head: {label: "Reeds or seaweed (suf) are wrapped round the drowning man's head", cluster: underworld}
+  bars-of-earth-roots-of-mountains: {label: "The speaker goes down to the roots (or cut-offs) of the mountains where the earth's bars close behind him forever", cluster: underworld}
+  prayer-reaches-holy-temple: {label: "The dying man remembers God and his prayer reaches God's holy temple; he looks again toward the temple", cluster: prayer}
+  salvation-belongs-to-yhwh: {label: "Declaration 'Salvation belongs to YHWH'", cluster: theology}
+  fish-vomits-prophet-onto-land: {label: "At God's command the fish vomits the prophet onto dry land", cluster: sea}
+  prophet-commissioned-second-time: {label: "The word of God comes to the prophet a second time with the same commission", cluster: prophecy}
+  nineveh-three-days-walk: {label: "Nineveh is an exceedingly great city of three days' walk", cluster: geography}
+  forty-days-and-city-overturned: {label: "A prophet announces: 'Forty more days and the city will be overturned'", cluster: prophecy}
+  whole-city-repents-at-warning: {label: "A whole foreign city believes the prophet's warning, proclaims a fast and puts on sackcloth from greatest to least", cluster: repentance}
+  king-leaves-throne-sits-in-ashes: {label: "The king rises from his throne, removes his robe, covers himself with sackcloth and sits in ashes", cluster: repentance}
+  animals-fast-and-wear-sackcloth: {label: "By royal decree even the cattle and flocks fast, drink no water and are covered in sackcloth", cluster: repentance}
+  repent-of-violence-in-hands: {label: "Each is to turn from his evil way and from the violence (hamas) in his hands", cluster: repentance}
+  who-knows-god-may-turn: {label: "'Who knows? God may turn and relent' as a ground for repentance", cluster: repentance}
+  repentance-averts-announced-doom: {label: "God sees the people's repentance and does not carry out the announced destruction", cluster: repentance}
+  prophet-angry-at-divine-mercy: {label: "The prophet is bitterly angry that God has spared the sinners", cluster: prophecy}
+  prophet-asks-god-to-take-his-life: {label: "Prophet asks God to take his life: 'my death is better than my life'", cluster: prophecy}
+  prophet-sits-in-booth-to-watch-city: {label: "The prophet sits in a booth east of the city to see what will become of it", cluster: prophecy}
+  miraculous-shade-plant: {label: "God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet", cluster: nature}
+  worm-destroys-plant-at-dawn: {label: "God appoints a worm that at dawn attacks the shade plant so it withers", cluster: nature}
+  scorching-east-wind: {label: "God sends a scorching east wind (ruah qadim harishit) and the sun beats on the man's head till he faints", cluster: nature}
+  lesson-of-withered-plant: {label: "God argues from the prophet's pity for a plant that grew and perished in a night to his own pity for a city", cluster: theology}
+  city-of-twelve-myriads-who-know-not-right-from-left: {label: "Nineveh has more than 120,000 people who do not know their right hand from their left", cluster: theology}
+  god-pities-animals-of-city: {label: "God's compassion extends to the many animals of the city", cluster: theology}
+  god-appoints-agents-wayeman: {label: "God 'appoints' (wayeman) a series of natural agents: fish, plant, worm, wind", cluster: theology}
+  book-ends-with-divine-question: {label: "A book ends with an unanswered question from God", cluster: literary}
+  god-treads-high-places-of-earth: {label: "God comes forth from his place, descends and treads on the high places of the earth", cluster: theophany}
+  idols-as-harlots-hire: {label: "A city's idols and cult objects were gathered from a harlot's hire and will return to a harlot's hire", cluster: idolatry}
+  prophet-goes-naked-and-barefoot-mourning: {label: "The prophet goes stripped and barefoot, wailing like jackals and mourning like ostriches", cluster: prophecy}
+  wordplay-on-town-names-in-lament: {label: "A lament puns on the names of a series of towns (dust in Beth-leaphrah, Achzib deceives)", cluster: literary}
+  baldness-like-vulture-mourning: {label: "Mourners shave themselves bald like the vulture (nesher) for exiled children", cluster: mourning}
+  evil-plotted-on-beds: {label: "The wicked devise evil on their beds and carry it out at morning light", cluster: ethics}
+  seizing-fields-and-houses: {label: "The powerful covet and seize fields and houses, oppressing a man and his inheritance", cluster: ethics}
+  people-forbid-prophets-to-preach: {label: "The people tell the prophets: 'Do not preach (drip) these things'", cluster: prophecy}
+  prophet-of-wine-and-strong-drink: {label: "The people want a lying prophet who preaches of wine and strong drink", cluster: prophecy}
+  the-breaker-goes-before-them: {label: "'The breaker' (ha-porets) goes up before the gathered flock, their king passes before them, YHWH at their head", cluster: messianism}
+  rulers-devour-people-like-meat-in-cauldron: {label: "Rulers flay the people, break their bones and chop them like meat in a cauldron", cluster: ethics}
+  prophets-cry-peace-for-food: {label: "Prophets cry 'Peace' when fed and declare holy war on whoever puts nothing in their mouths", cluster: prophecy}
+  night-instead-of-vision: {label: "False seers will have night without vision; the sun sets on the prophets and there is no answer from God", cluster: prophecy}
+  seers-cover-their-lip: {label: "Shamed seers cover their upper lip (mustache), a mourning or leper's gesture", cluster: mourning}
+  prophet-filled-with-spirit-and-might: {label: "The true prophet is filled with power by the spirit of YHWH to declare Israel's sin", cluster: prophecy}
+  city-built-with-blood: {label: "Woe to the one who builds a city (Zion) with bloodshed and injustice", cluster: ethics}
+  priests-and-prophets-for-hire: {label: "Judges take bribes, priests teach for a price, prophets divine for money", cluster: ethics}
+  false-security-god-among-us: {label: "The corrupt leaders say 'Is not YHWH among us? No evil will come on us'", cluster: theology}
+  zion-plowed-as-field: {label: "Zion will be plowed as a field, Jerusalem a heap of ruins, the temple mount a wooded height", cluster: prophecy}
+  mountain-of-yhwh-highest-of-mountains: {label: "In the latter days the mountain of YHWH's house will be raised above all mountains and the nations will stream to it", cluster: eschatology}
+  torah-goes-forth-from-zion: {label: "Out of Zion goes forth Torah and the word of YHWH from Jerusalem", cluster: eschatology}
+  swords-into-plowshares: {label: "Nations beat swords into plowshares and spears into pruning hooks and learn war no more", cluster: eschatology}
+  each-nation-walks-in-name-of-its-god: {label: "All peoples walk each in the name of its god, but we walk in the name of YHWH", cluster: theology}
+  lame-and-outcast-gathered: {label: "God gathers the lame and the outcast and makes them a strong remnant", cluster: eschatology}
+  migdal-eder-tower-of-flock: {label: "Migdal Eder, 'tower of the flock', hill of daughter Zion, to which the former dominion returns", cluster: messianism}
+  daughter-zion-in-labor: {label: "Daughter Zion writhes like a woman in labor", cluster: prophecy}
+  redemption-from-babylon-announced: {label: "Zion will go to Babylon and there be rescued and redeemed", cluster: prophecy}
+  nations-gathered-like-sheaves-to-threshing-floor: {label: "God gathers the nations like sheaves to the threshing floor without their knowing his plan", cluster: prophecy}
+  zion-threshes-with-iron-horn: {label: "Daughter Zion threshes the peoples with a horn of iron and hooves of bronze, devoting their wealth to God", cluster: prophecy}
+  judge-of-israel-struck-on-cheek: {label: "The judge (ruler) of Israel is struck on the cheek with a rod", cluster: prophecy}
+  ruler-from-bethlehem-ephrathah: {label: "From little Bethlehem Ephrathah will come a ruler whose origins are from of old, from ancient days", cluster: messianism}
+  until-she-in-labor-gives-birth: {label: "Israel is given up until she who is in labor has given birth", cluster: messianism}
+  seven-shepherds-eight-princes: {label: "Seven shepherds and eight princes of men will be raised against Assyria", cluster: messianism}
+  assyria-land-of-nimrod: {label: "Assyria is called the land of Nimrod", cluster: geography}
+  remnant-like-dew-from-yhwh: {label: "The remnant of Jacob among the peoples is like dew from YHWH that waits for no man", cluster: prophecy}
+  remnant-like-lion-among-flocks: {label: "The remnant of Jacob among the nations is like a lion among the beasts of the forest", cluster: prophecy}
+  god-purges-horses-cities-and-sorcery: {label: "In that day God cuts off horses, chariots, fortresses, sorceries, soothsayers, idols, pillars and asherim from his own people", cluster: prophecy}
+  my-people-what-have-i-done-to-you: {label: "God's plea: 'My people, what have I done to you? How have I wearied you? Answer me'", cluster: prophecy}
+  moses-aaron-miriam-sent: {label: "God sent Moses, Aaron and Miriam before the people (Miriam named as a leader)", cluster: exodus}
+  balak-and-balaam-remembered: {label: "Remember what Balak king of Moab plotted and how Balaam son of Beor answered him", cluster: exodus}
+  offer-firstborn-for-sin-rejected: {label: "Shall I give my firstborn for my transgression? Thousands of rams and rivers of oil do not please God", cluster: cult}
+  do-justice-love-mercy-walk-humbly: {label: "What God requires: to do justice, love hesed and walk humbly with your God", cluster: ethics}
+  futility-curse-sow-not-reap: {label: "Futility curse: you will sow but not reap, tread olives but not anoint, eat but not be satisfied", cluster: curse}
+  statutes-of-omri-and-ahab: {label: "The people keep the statutes of Omri and all the works of the house of Ahab", cluster: kingship}
+  no-righteous-left-like-gleaned-vineyard: {label: "The godly have vanished from the land like a vineyard after gleaning with no cluster to eat", cluster: ethics}
+  family-members-become-enemies: {label: "Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a man's enemies are his own household", cluster: eschatology}
+  trust-no-friend-guard-mouth-from-wife: {label: "Trust no neighbor or friend; guard your mouth even from the wife in your bosom", cluster: wisdom}
+  i-fell-i-rise-god-my-light: {label: "'Do not rejoice over me, my enemy: though I fall I shall rise; though I sit in darkness YHWH is my light'", cluster: psalmody}
+  sins-cast-into-depths-of-sea: {label: "God will cast all their sins into the depths of the sea", cluster: theology}
+  truth-to-jacob-hesed-to-abraham: {label: "God will show truth to Jacob and steadfast love to Abraham as he swore to the fathers", cluster: theology}
+  god-avenger-lord-of-wrath: {label: "YHWH is an avenging God (noqem), 'lord of wrath' (ba'al hemah), keeping anger for his enemies", cluster: theology}
+  clouds-dust-of-gods-feet: {label: "God's way is in whirlwind and storm, and the clouds are the dust of his feet", cluster: theophany}
+  god-rebukes-sea-and-dries-rivers: {label: "God rebukes the sea and dries it up and makes all rivers fail; Bashan, Carmel and Lebanon wither", cluster: theophany}
+  who-can-stand-before-gods-wrath: {label: "'Who can stand before his indignation?': rhetorical question on the unendurable divine wrath", cluster: theology}
+  counselor-of-belial: {label: "One who plots evil against YHWH comes out of the enemy city, a counselor of Belial (beliyya'al)", cluster: prophecy}
+  herald-on-mountains-proclaims-peace: {label: "The feet of a herald (mevasser) on the mountains announce peace and good news", cluster: prophecy}
+  red-shields-and-flashing-chariots: {label: "Attacking warriors with red shields and scarlet clothes; chariots flash like torches and dart like lightning", cluster: warfare}
+  river-gates-opened-palace-dissolves: {label: "The river gates are opened and the palace melts away", cluster: warfare}
+  maidens-moan-like-doves-beating-breasts: {label: "The captive queen's maids moan like doves, beating their breasts", cluster: mourning}
+  empire-as-lions-den-filled-with-prey: {label: "The empire is a lions' den where the lion tore prey for his cubs and lionesses and filled his lairs", cluster: prophecy}
+  sounds-of-chariot-assault: {label: "Onomatopoeic battle scene: crack of whip, rumble of wheel, galloping horse, bounding chariot, heaps of corpses", cluster: warfare}
+  city-as-harlot-and-sorceress: {label: "The enemy city is a graceful harlot and mistress of sorceries who sells nations by her harlotries", cluster: prophecy}
+  skirts-lifted-to-expose-shame: {label: "God lifts the city's skirts over her face and shows the nations her nakedness", cluster: prophecy}
+  fall-of-thebes-as-precedent: {label: "Are you better than No-Amon (Thebes), surrounded by water, which still went into exile?", cluster: history}
+  infants-dashed-in-pieces: {label: "Infants are dashed to pieces at the head of every street", cluster: warfare}
+  fortresses-like-ripe-figs: {label: "Fortresses are like first-ripe figs that fall into the eater's mouth when shaken", cluster: prophecy}
+  soldiers-become-women: {label: "The enemy's troops are women; the gates of the land stand wide open", cluster: warfare}
+  officials-like-locusts-fly-away: {label: "Merchants and officials are like locusts that camp in the hedges in the cold and fly off when the sun rises", cluster: prophecy}
+  all-clap-hands-at-tyrants-fall: {label: "All who hear of the tyrant's downfall clap their hands, for who has not suffered his evil?", cluster: prophecy}
+  wicked-surround-righteous-justice-perverted: {label: "Torah grows numb and justice goes out crooked because the wicked surround the righteous", cluster: theodicy}
+  god-raises-chaldeans-as-instrument: {label: "God raises up the Chaldeans, a bitter and hasty nation, as his instrument of judgment", cluster: prophecy}
+  horses-swifter-than-leopards-wolves-of-evening: {label: "The invader's horses are swifter than leopards and fiercer than evening wolves; his horsemen fly like an eagle", cluster: warfare}
+  might-is-his-god: {label: "The conqueror makes his own strength his god", cluster: idolatry}
+  scribal-correction-we-shall-not-die: {label: "A verse traditionally counted among the scribal corrections (tiqqunei soferim) where 'you do not die' was altered to 'we shall not die'", cluster: textual}
+  god-too-pure-to-behold-evil: {label: "God's eyes are too pure to look on evil; why then does he look on the treacherous?", cluster: theodicy}
+  humans-as-fish-caught-in-conquerors-net: {label: "God makes humans like fish of the sea; the conqueror hauls them up with hook, net and seine", cluster: prophecy}
+  conqueror-worships-his-net: {label: "The conqueror sacrifices and burns incense to his net because it makes him rich", cluster: idolatry}
+  prophet-on-watchtower-awaits-answer: {label: "The prophet stations himself on his watchpost to see what God will answer to his complaint", cluster: prophecy}
+  write-vision-plainly-on-tablets: {label: "Write the vision plainly on tablets so that a runner may read it", cluster: prophecy}
+  though-it-tarry-wait-for-it: {label: "The vision is for an appointed time; though it tarry, wait for it, for it will surely come", cluster: eschatology}
+  righteous-shall-live-by-faith: {label: "'The righteous shall live by his faith (emunah)'", cluster: theology}
+  greed-wide-as-sheol: {label: "The arrogant man's appetite is wide as Sheol and like Death never satisfied, gathering all nations", cluster: ethics}
+  series-of-woes-on-tyrant: {label: "A series of 'woe' (hoy) taunt-sayings against an oppressor", cluster: prophecy}
+  stone-cries-out-from-wall: {label: "The stone cries out from the wall and the beam answers from the woodwork", cluster: prophecy}
+  peoples-labor-only-for-fire: {label: "Peoples toil only for fire and nations weary themselves for nothing", cluster: prophecy}
+  earth-filled-with-knowledge-as-waters-cover-sea: {label: "The earth will be filled with the knowledge of YHWH (his glory) as the waters cover the sea", cluster: eschatology}
+  neighbor-made-drunk-to-see-nakedness: {label: "Woe to one who makes his neighbor drunk in order to gaze on his nakedness", cluster: ethics}
+  cry-awake-to-wood-and-dumb-stone: {label: "Woe to the one who says to wood 'Awake!' and to dumb stone 'Arise!'; there is no breath in it", cluster: idolatry}
+  all-earth-silent-before-yhwh: {label: "'Hush (has) before YHWH, all the earth', for he is in his holy temple or has roused himself", cluster: liturgy}
+  shigionoth-heading: {label: "A prayer headed 'on shigionoth', an obscure musical or genre term", cluster: psalmody}
+  in-wrath-remember-mercy: {label: "Plea: 'in wrath remember mercy'", cluster: prayer}
+  rays-or-horns-from-gods-hand: {label: "Brightness like light, with rays (qarnayim, horns) coming from God's hand, where his power is hidden", cluster: theophany}
+  god-measures-earth-nations-startle: {label: "God stands and measures (or shakes) the earth; the eternal mountains shatter and the everlasting hills sink", cluster: theophany}
+  tents-of-cushan-and-midian-tremble: {label: "The tents of Cushan and the curtains of Midian tremble at the theophany", cluster: theophany}
+  god-rides-horses-and-chariots-against-sea: {label: "God rides his horses and chariots of salvation, angry at River and Sea, and treads the sea with his horses", cluster: theophany}
+  god-crushes-head-of-house-of-wicked: {label: "God goes out to save his anointed and crushes the head of the house of the wicked, laying it bare from foundation to neck", cluster: theophany}
+  rejoice-though-fig-does-not-blossom: {label: "Though fig and vine fail, olive and fields yield nothing and the folds are empty, yet I will rejoice in YHWH", cluster: piety}
+  prophet-genealogy-to-royal-ancestor: {label: "A prophet's genealogy is traced several generations back to a king (Hezekiah)", cluster: genealogy}
+  uncreation-sweeping-all-creatures: {label: "God will sweep away humans, beasts, birds of the air and fish of the sea from the face of the ground (creation reversed)", cluster: eschatology}
+  swearing-by-yhwh-and-malkam: {label: "People bow and swear both by YHWH and by Malkam (their king or Milcom)", cluster: idolatry}
+  day-of-yhwh-as-sacrificial-feast: {label: "The Day of YHWH is a sacrifice he has prepared, with invited guests consecrated", cluster: eschatology}
+  punishment-for-wearing-foreign-garments: {label: "God will punish officials and princes who wear foreign garments", cluster: law}
+  jerusalem-quarters-named: {label: "Named districts of Jerusalem (Fish Gate, Mishneh/Second Quarter, Maktesh/Mortar) wail", cluster: geography}
+  god-searches-jerusalem-with-lamps: {label: "God will search Jerusalem with lamps to find the complacent", cluster: theology}
+  complacent-settled-on-lees: {label: "Men thickened on their lees who say in their hearts 'YHWH will do neither good nor evil'", cluster: theology}
+  dies-irae-litany: {label: "Litany of the Day: day of wrath, distress, ruin, darkness, cloud and thick darkness, shofar and alarm", cluster: eschatology}
+  silver-gold-cannot-save-on-day-of-wrath: {label: "Neither their silver nor their gold can save them on the day of YHWH's wrath", cluster: eschatology}
+  seek-humility-perhaps-hidden: {label: "Seek righteousness, seek humility; perhaps you will be hidden on the day of YHWH's anger", cluster: piety}
+  nations-worship-yhwh-each-from-own-place: {label: "God starves the gods of the earth and all the coastlands bow to him each from its own place", cluster: eschatology}
+  ruined-city-inhabited-by-wild-creatures: {label: "A ruined city becomes a lair for flocks and wild creatures; owls and hedgehogs lodge in its capitals and a voice sings in the window", cluster: prophecy}
+  city-says-i-am-and-none-besides: {label: "The exultant city says in her heart 'I am, and there is none besides me'", cluster: prophecy}
+  officials-lions-judges-evening-wolves: {label: "The city's officials are roaring lions and its judges evening wolves that leave nothing for morning", cluster: ethics}
+  verse-containing-whole-alphabet: {label: "A verse noted by tradition as containing every letter of the Hebrew alphabet", cluster: textual}
+  pure-lip-given-to-peoples: {label: "God will change the peoples to a pure speech (safah berurah) so all call on his name and serve him shoulder to shoulder", cluster: eschatology}
+  worshipers-from-beyond-rivers-of-cush: {label: "From beyond the rivers of Cush God's worshipers, his dispersed daughter, bring him offerings", cluster: eschatology}
+  humble-poor-remnant: {label: "God leaves in Zion a humble and poor people who do no wrong, speak no lies, and lie down with none to frighten", cluster: eschatology}
+  god-rejoices-over-zion-with-singing: {label: "God in Zion's midst rejoices over her with gladness, is silent in his love, and exults over her with song", cluster: theology}
+  prophecy-dated-by-persian-kings-reign: {label: "A prophecy is dated by day, month and year of the Persian king Darius", cluster: chronology}
+  people-say-not-time-to-build-temple: {label: "The people say it is not yet time to rebuild YHWH's house", cluster: temple}
+  paneled-houses-while-gods-house-waste: {label: "The people live in paneled houses while God's house lies in ruins", cluster: temple}
+  wages-into-bag-with-holes: {label: "The wage earner puts his wages into a bag with holes", cluster: curse}
+  drought-because-temple-neglected: {label: "Heaven withholds dew and earth its produce because God's house lies waste", cluster: temple}
+  prophet-called-malakh-yhwh: {label: "A human prophet is called 'the messenger (malakh) of YHWH'", cluster: prophecy}
+  god-stirs-spirit-of-leaders: {label: "God stirs up the spirit of the leaders and people to build", cluster: temple}
+  elders-compare-new-temple-to-first: {label: "Those who saw the first temple in its glory find the new one as nothing", cluster: temple}
+  god-shakes-heaven-and-earth-once-more: {label: "'Once more, in a little while, I will shake the heavens and the earth, the sea and dry land, and all nations'", cluster: eschatology}
+  treasures-of-nations-fill-temple: {label: "The treasures (hemdah) of all nations will come and God will fill his house with glory; silver and gold are his", cluster: eschatology}
+  latter-house-glory-greater: {label: "The glory of the latter house will be greater than the former, and in this place God will give peace", cluster: temple}
+  holiness-not-transmitted-at-second-remove: {label: "Priestly ruling: holy meat in a garment's fold does not sanctify food the garment touches, but corpse impurity does defile it", cluster: law}
+  blight-mildew-hail-sent: {label: "God struck their labor with blight, mildew and hail, yet they did not return to him", cluster: curse}
+  blessing-from-day-of-temple-foundation: {label: "From the day the temple's foundation is laid, God promises to bless the harvest", cluster: temple}
+  zerubbabel-made-gods-signet-ring: {label: "God will take Zerubbabel his servant and make him like a signet ring, for he has chosen him", cluster: messianism}
+  thrones-of-kingdoms-overturned: {label: "God will overturn the thrones of kingdoms and chariots and their riders", cluster: eschatology}
+units:
+  - id: hb-obad-1-edom-brought-down
+    tradition: judaism
+    title: Obadiah's vision against Edom's pride
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Obad 1:1-9"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Obad 1:1"]}
+      - {motif: envoy-sent-among-nations-to-rouse-war, refs: ["Obad 1:1"], note: "tsir baggoyim shullah; near-verbatim in Jer 49:14"}
+      - {motif: edom-dwells-in-clefts-of-rock, refs: ["Obad 1:3"], note: "hagwei sela, punning on Sela/Petra"}
+      - {motif: proud-nest-among-stars-brought-down, refs: ["Obad 1:3", "Obad 1:4"], note: "'though you set your nest among the stars, from there I will bring you down'"}
+      - {motif: thieves-and-grape-gatherers-leave-gleanings, refs: ["Obad 1:5"]}
+      - {motif: allies-betray-ally, refs: ["Obad 1:7"], note: "'men of your covenant... your bread (companions) set a trap'"}
+      - {motif: wisdom-of-edom-teman, refs: ["Obad 1:8", "Obad 1:9"]}
+    hints:
+      - "Obad 1-9 is closely paralleled by Jer 49:7-22. The fall of the star-high proud one recalls Isa 14:12-15 (Helel ben Shahar)."
+      - "Rabbinic tradition identifies Edom/Esau with Rome; Obadiah was said (b. Sanh. 39b) to be an Edomite proselyte."
+  - id: hb-obad-1-day-of-edom
+    tradition: judaism
+    title: Edom's crimes against Jacob and the Day of YHWH
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Obad 1:10-21"]
+    tags:
+      - {motif: edom-violence-against-brother-jacob, refs: ["Obad 1:10"]}
+      - {motif: lots-cast-over-conquered-city, refs: ["Obad 1:11"], note: "'on Jerusalem they cast lots'"}
+      - {motif: gloating-over-brothers-calamity, refs: ["Obad 1:12", "Obad 1:13"], note: "eight prohibitions 'do not...' on 'the day of his calamity'"}
+      - {motif: fugitives-cut-off-at-crossroads, refs: ["Obad 1:14"]}
+      - {motif: day-of-yhwh, refs: ["Obad 1:15"]}
+      - {motif: as-you-have-done-it-shall-be-done-to-you, refs: ["Obad 1:15"]}
+      - {motif: cup-of-wrath, refs: ["Obad 1:16"], note: "the nations drink and 'become as though they had never been'"}
+      - {motif: refuge-on-mount-zion, refs: ["Obad 1:17"]}
+      - {motif: jacob-fire-esau-stubble, refs: ["Obad 1:18"]}
+      - {motif: exiles-in-sepharad-and-zarephath, refs: ["Obad 1:20"], note: "Sepharad (later read as Spain) and Zarephath (later read as France)"}
+      - {motif: saviors-on-mount-zion-kingdom-to-yhwh, refs: ["Obad 1:21"]}
+    hints:
+      - "Ps 137:7 also condemns Edom for the day of Jerusalem. Medieval Jewish naming of Spain (Sefarad) and France (Tsarfat) derives from Obad 20."
+  - id: hb-jonah-1-flight-and-storm
+    tradition: judaism
+    title: Jonah flees to Tarshish and is thrown into the sea
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jonah 1:1-16"]
+    tags:
+      - {motif: prophet-jonah-son-of-amittai, refs: ["Jonah 1:1"]}
+      - {motif: great-city-wickedness-rises-before-god, refs: ["Jonah 1:2"], note: "'their evil has come up before me'; cf. outcry of Sodom"}
+      - {motif: reason-human-wickedness, refs: ["Jonah 1:2"]}
+      - {motif: prophet-flees-from-gods-commission, refs: ["Jonah 1:3", "Jonah 1:10"], note: "'from the presence of YHWH' twice in 1:3"}
+      - {motif: ship-from-joppa-to-tarshish, refs: ["Jonah 1:3"], note: "repeated 'went down' (yarad): to Joppa, into the ship, into the hold, into sleep"}
+      - {motif: god-hurls-storm-on-sea, refs: ["Jonah 1:4"], note: "'the ship thought to be broken', personified"}
+      - {motif: sailors-each-cry-to-own-god, refs: ["Jonah 1:5"]}
+      - {motif: cargo-jettisoned-in-storm, refs: ["Jonah 1:5"]}
+      - {motif: sleeper-in-ship-during-storm, refs: ["Jonah 1:5"], note: "wayyeradam, deep sleep (cf. tardemah)"}
+      - {motif: captain-urges-sleeper-to-pray, refs: ["Jonah 1:6"], note: "rav ha-hovel; 'perhaps the god will think of us'"}
+      - {motif: lots-cast-to-find-culprit-of-storm, refs: ["Jonah 1:7"]}
+      - {motif: urim-thummim-lot, refs: ["Jonah 1:7"], note: "lot identifies the guilty party"}
+      - {motif: sailors-interrogate-stranger, refs: ["Jonah 1:8"]}
+      - {motif: god-of-heaven-made-sea-and-dry-land, refs: ["Jonah 1:9"], note: "'I am a Hebrew and I fear YHWH God of heaven'"}
+      - {motif: man-thrown-overboard-to-calm-sea, refs: ["Jonah 1:12", "Jonah 1:15"], note: "'pick me up and hurl me into the sea'; the sea 'stood still from its raging'"}
+      - {motif: rowing-to-shore-in-vain, refs: ["Jonah 1:13"]}
+      - {motif: prayer-not-to-incur-innocent-blood, refs: ["Jonah 1:14"]}
+      - {motif: gentile-sailors-fear-and-sacrifice-to-yhwh, refs: ["Jonah 1:16"]}
+    hints:
+      - "Quran 37:139-141: Yunus 'fled (abaqa) to the laden ship', cast lots (sahama) and was among the losers. Quran 21:87: Dhu'l-Nun 'went off in anger' thinking God would not constrain him."
+      - "Mark 4:35-41 (Jesus asleep in the boat in the storm; the sea stilled). Cf. Greek tales of jettisoning a guilty passenger (Arion; Antiphon on the shipwreck as evidence of guilt)."
+  - id: hb-jonah-2-in-the-fish
+    tradition: judaism
+    title: Jonah swallowed by the great fish and his psalm
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jonah 2:1-11"]
+    tags:
+      - {motif: prophet-swallowed-by-great-fish, refs: ["Jonah 2:1"], note: "dag gadol; masculine dag in 2:1, feminine daggah in 2:2"}
+      - {motif: god-appoints-agents-wayeman, refs: ["Jonah 2:1"]}
+      - {motif: three-days-three-nights-in-belly, refs: ["Jonah 2:1"]}
+      - {motif: prayer-from-belly-of-fish, refs: ["Jonah 2:2"]}
+      - {motif: belly-of-sheol, refs: ["Jonah 2:3"]}
+      - {motif: cast-into-heart-of-seas, refs: ["Jonah 2:4"]}
+      - {motif: deep-calls-to-deep, refs: ["Jonah 2:4"], note: "'all your breakers and waves passed over me' = Ps 42:8"}
+      - {motif: prayer-reaches-holy-temple, refs: ["Jonah 2:5", "Jonah 2:8"]}
+      - {motif: seaweed-wrapped-around-head, refs: ["Jonah 2:6"], note: "tehom surrounds him, suf bound to his head"}
+      - {motif: bars-of-earth-roots-of-mountains, refs: ["Jonah 2:7"]}
+      - {motif: raised-from-sheol-healed, refs: ["Jonah 2:7"], note: "'you brought up my life from the pit (shahat)'"}
+      - {motif: idols-as-vain-breath, refs: ["Jonah 2:9"], note: "'those who keep hevlei shav forsake their hesed'"}
+      - {motif: vow-of-thanksgiving-paid, refs: ["Jonah 2:10"]}
+      - {motif: salvation-belongs-to-yhwh, refs: ["Jonah 2:10"]}
+      - {motif: fish-vomits-prophet-onto-land, refs: ["Jonah 2:11"]}
+      - {motif: individual-lament, refs: ["Jonah 2:3-10"], note: "thanksgiving psalm form: distress, cry, rescue, vow"}
+    hints:
+      - "Quran 21:87-88: in the darknesses he called 'There is no god but You, glory be to You; I have been among the wrongdoers', and God saved him from distress. Quran 37:142-145: the fish swallowed him while blameworthy; had he not glorified God he would have stayed in its belly until the Day of Resurrection; he was cast onto the bare shore, sick. Quran 68:48-49: 'the companion of the fish' who called out while choked with grief (makzum)."
+      - "Matt 12:40 (sign of Jonah: three days and nights in the heart of the earth). Pirqe de-Rabbi Eliezer 10 (Jonah sees the sea floor and Leviathan from inside the fish). Greek: Heracles swallowed by the sea monster at Troy; Perseus-Andromeda localized at Joppa."
+  - id: hb-jonah-3-nineveh-repents
+    tradition: judaism
+    title: Jonah preaches and Nineveh repents down to its animals
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jonah 3:1-10"]
+    tags:
+      - {motif: prophet-commissioned-second-time, refs: ["Jonah 3:1", "Jonah 3:2"]}
+      - {motif: nineveh-three-days-walk, refs: ["Jonah 3:3"], note: "'a great city to God (le-elohim)'"}
+      - {motif: forty-days-and-city-overturned, refs: ["Jonah 3:4"], note: "nehpakhet, the Sodom verb; ambiguous 'overturned' or 'turned around'"}
+      - {motif: forty-days-period, refs: ["Jonah 3:4"]}
+      - {motif: cities-overturned, refs: ["Jonah 3:4"]}
+      - {motif: whole-city-repents-at-warning, refs: ["Jonah 3:5"], note: "'the people of Nineveh believed in God'"}
+      - {motif: king-leaves-throne-sits-in-ashes, refs: ["Jonah 3:6"]}
+      - {motif: animals-fast-and-wear-sackcloth, refs: ["Jonah 3:7", "Jonah 3:8"], note: "decree 'of the king and his nobles' (ta'am, an Akkadian-style term)"}
+      - {motif: repent-of-violence-in-hands, refs: ["Jonah 3:8"]}
+      - {motif: who-knows-god-may-turn, refs: ["Jonah 3:9"]}
+      - {motif: god-relents, refs: ["Jonah 3:10"]}
+      - {motif: repentance-averts-announced-doom, refs: ["Jonah 3:10"]}
+    hints:
+      - "Quran 10:98: of all towns only the people of Yunus believed and their punishment of disgrace was lifted. Quran 37:147-148: sent to a hundred thousand or more, who believed. Mishnah Taanit 2:1 cites Jonah 3:10 for public fasts; Jonah is read on Yom Kippur afternoon."
+      - "Herodotus 9.24 (Persians shear their horses in mourning for Masistius); Judith 4:10 (cattle in sackcloth)."
+  - id: hb-jonah-4-qiqayon
+    tradition: judaism
+    title: Jonah's anger, the qiqayon plant and God's question
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jonah 4:1-11"]
+    tags:
+      - {motif: prophet-angry-at-divine-mercy, refs: ["Jonah 4:1", "Jonah 4:4", "Jonah 4:9"], note: "'Is it good that you are angry?' asked twice"}
+      - {motif: thirteen-attributes, refs: ["Jonah 4:2"], note: "gracious, merciful, slow to anger, abundant in hesed, relenting of evil; cited as the reason for flight"}
+      - {motif: prophet-asks-god-to-take-his-life, refs: ["Jonah 4:3", "Jonah 4:8"], note: "echoes Elijah 1Kgs 19:4"}
+      - {motif: prophet-sits-in-booth-to-watch-city, refs: ["Jonah 4:5"], note: "sukkah east of the city"}
+      - {motif: miraculous-shade-plant, refs: ["Jonah 4:6"], note: "qiqayon (castor-oil plant or gourd); Jonah's 'great joy'"}
+      - {motif: god-appoints-agents-wayeman, refs: ["Jonah 4:6", "Jonah 4:7", "Jonah 4:8"]}
+      - {motif: worm-destroys-plant-at-dawn, refs: ["Jonah 4:7"]}
+      - {motif: scorching-east-wind, refs: ["Jonah 4:8"]}
+      - {motif: lesson-of-withered-plant, refs: ["Jonah 4:10", "Jonah 4:11"], note: "'son of a night it came, son of a night it perished'"}
+      - {motif: city-of-twelve-myriads-who-know-not-right-from-left, refs: ["Jonah 4:11"]}
+      - {motif: god-pities-animals-of-city, refs: ["Jonah 4:11"], note: "the book's last words: 'and many animals'"}
+      - {motif: book-ends-with-divine-question, refs: ["Jonah 4:11"]}
+    hints:
+      - "Quran 37:146: 'We caused a gourd plant (shajaratan min yaqtin) to grow over him'; the Quran sets the plant after the fish, as shelter for the sick prophet, not as a lesson. Quran 21:87 'went off in anger' (mughadiban) parallels Jonah 4:1."
+      - "Jerome's cucurbita/hedera dispute with Augustine over qiqayon. Matt 12:41 (men of Nineveh will rise in judgment)."
+  - id: hb-mic-1-theophany-samaria
+    tradition: judaism
+    title: YHWH comes down against Samaria; the prophet wails naked
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 1:1-9"]
+    tags:
+      - {motif: covenant-lawsuit-heaven-and-earth, refs: ["Mic 1:2"], note: "peoples and earth summoned; YHWH a witness from his holy temple"}
+      - {motif: god-treads-high-places-of-earth, refs: ["Mic 1:3"]}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["Mic 1:4"], note: "mountains melt like wax before fire, valleys split like water down a slope"}
+      - {motif: idolatry-as-harlotry, refs: ["Mic 1:7"]}
+      - {motif: idols-as-harlots-hire, refs: ["Mic 1:7"]}
+      - {motif: prophet-goes-naked-and-barefoot-mourning, refs: ["Mic 1:8"]}
+      - {motif: brother-to-jackals-companion-of-ostriches, refs: ["Mic 1:8"], note: "wailing 'like jackals, mourning like ostriches'"}
+    hints:
+      - "Isa 20:2-4 (Isaiah walks naked and barefoot three years). Ps 97:5 (mountains melt like wax)."
+  - id: hb-mic-1-lament-over-towns
+    tradition: judaism
+    title: Punning lament over the towns of the Shephelah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 1:10-16"]
+    tags:
+      - {motif: tell-it-not-in-gath, refs: ["Mic 1:10"], note: "quotes David's lament 2Sam 1:20"}
+      - {motif: wordplay-on-town-names-in-lament, refs: ["Mic 1:10", "Mic 1:11", "Mic 1:13", "Mic 1:14", "Mic 1:15"], note: "Beth-leaphrah/afar, Lachish/rekhesh, Achzib/akhzav, Mareshah/yoresh"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["Mic 1:10"], note: "'roll yourself in dust'"}
+      - {motif: baldness-like-vulture-mourning, refs: ["Mic 1:16"]}
+    hints:
+      - "Isa 10:28-32 is a similar town-by-town march poem. Assyrian annals of Sennacherib's 701 campaign and the Lachish reliefs."
+  - id: hb-mic-2-land-grabbers
+    tradition: judaism
+    title: Woe to those who seize fields; the breaker goes before the flock
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 2:1-13"]
+    tags:
+      - {motif: evil-plotted-on-beds, refs: ["Mic 2:1"]}
+      - {motif: seizing-fields-and-houses, refs: ["Mic 2:2"]}
+      - {motif: prohibition-of-coveting, refs: ["Mic 2:2"], note: "hamedu sadot"}
+      - {motif: land-divided-by-lot, refs: ["Mic 2:5"], note: "none left to cast the measuring line by lot in YHWH's assembly"}
+      - {motif: people-forbid-prophets-to-preach, refs: ["Mic 2:6"]}
+      - {motif: prophet-of-wine-and-strong-drink, refs: ["Mic 2:11"]}
+      - {motif: god-as-shepherd, refs: ["Mic 2:12"], note: "remnant gathered like sheep in a fold (Bozrah)"}
+      - {motif: the-breaker-goes-before-them, refs: ["Mic 2:13"]}
+    hints:
+      - "Gen. Rab. 85 and later midrash read ha-porets (Mic 2:13) as the Messiah descended from Perez. Isa 5:8 (woe to those who join house to house)."
+  - id: hb-mic-3-rulers-and-prophets
+    tradition: judaism
+    title: Cannibal rulers, hireling prophets and Zion plowed as a field
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 3:1-12"]
+    tags:
+      - {motif: rulers-devour-people-like-meat-in-cauldron, refs: ["Mic 3:2", "Mic 3:3"]}
+      - {motif: hiding-of-the-face, refs: ["Mic 3:4"]}
+      - {motif: prophets-cry-peace-for-food, refs: ["Mic 3:5"], note: "'who bite with their teeth and cry peace'"}
+      - {motif: night-instead-of-vision, refs: ["Mic 3:6", "Mic 3:7"]}
+      - {motif: seers-cover-their-lip, refs: ["Mic 3:7"]}
+      - {motif: prophet-filled-with-spirit-and-might, refs: ["Mic 3:8"]}
+      - {motif: city-built-with-blood, refs: ["Mic 3:10"]}
+      - {motif: priests-and-prophets-for-hire, refs: ["Mic 3:11"]}
+      - {motif: false-security-god-among-us, refs: ["Mic 3:11"]}
+      - {motif: zion-plowed-as-field, refs: ["Mic 3:12"]}
+    hints:
+      - "Jer 26:18 quotes Mic 3:12 as said in Hezekiah's days. Lev 13:45 (leper covers his upper lip). Ezek 22:27 (officials like wolves)."
+  - id: hb-mic-4-mountain-of-yhwh
+    tradition: judaism
+    title: Nations stream to Zion; swords into plowshares
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 4:1-8"]
+    tags:
+      - {motif: mountain-of-yhwh-highest-of-mountains, refs: ["Mic 4:1"], note: "be-aharit ha-yamim"}
+      - {motif: pilgrimage-to-zion, refs: ["Mic 4:2"]}
+      - {motif: torah-goes-forth-from-zion, refs: ["Mic 4:2"]}
+      - {motif: god-as-judge-between-nations, refs: ["Mic 4:3"]}
+      - {motif: swords-into-plowshares, refs: ["Mic 4:3"]}
+      - {motif: every-man-under-vine-and-fig, refs: ["Mic 4:4"], note: "'and none shall make them afraid'"}
+      - {motif: each-nation-walks-in-name-of-its-god, refs: ["Mic 4:5"]}
+      - {motif: lame-and-outcast-gathered, refs: ["Mic 4:6", "Mic 4:7"]}
+      - {motif: migdal-eder-tower-of-flock, refs: ["Mic 4:8"]}
+    hints:
+      - "Near-verbatim in Isa 2:2-4; reversed in Joel 4:10 (plowshares into swords). Targum Ps.-Jonathan Gen 35:21: the Messiah will be revealed at Migdal Eder."
+  - id: hb-mic-4-daughter-zion-in-labor
+    tradition: judaism
+    title: Daughter Zion in labor, exiled to Babylon, threshing the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 4:9-14"]
+    tags:
+      - {motif: daughter-zion-in-labor, refs: ["Mic 4:9", "Mic 4:10"]}
+      - {motif: redemption-from-babylon-announced, refs: ["Mic 4:10"]}
+      - {motif: coalition-of-nations-against-israel, refs: ["Mic 4:11"]}
+      - {motif: nations-gathered-like-sheaves-to-threshing-floor, refs: ["Mic 4:12"]}
+      - {motif: zion-threshes-with-iron-horn, refs: ["Mic 4:13"]}
+      - {motif: judge-of-israel-struck-on-cheek, refs: ["Mic 4:14"]}
+    hints:
+      - "Rev 12:1-6 (woman in labor). Mark 14:65 / Matt 26:67 (Jesus struck); Lam 3:30."
+  - id: hb-mic-5-ruler-from-bethlehem
+    tradition: judaism
+    title: The ruler from Bethlehem and the remnant among the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 5:1-8"]
+    tags:
+      - {motif: ruler-from-bethlehem-ephrathah, refs: ["Mic 5:1"], note: "motsa'otav mi-qedem mi-yemei olam"}
+      - {motif: until-she-in-labor-gives-birth, refs: ["Mic 5:2"]}
+      - {motif: king-as-shepherd-of-people, refs: ["Mic 5:3"]}
+      - {motif: seven-shepherds-eight-princes, refs: ["Mic 5:4"]}
+      - {motif: assyria-land-of-nimrod, refs: ["Mic 5:5"]}
+      - {motif: remnant-like-dew-from-yhwh, refs: ["Mic 5:6"]}
+      - {motif: remnant-like-lion-among-flocks, refs: ["Mic 5:7"]}
+    hints:
+      - "Matt 2:5-6 cites Mic 5:1 for the Messiah's birthplace. b. Sukkah 52b names the seven shepherds (David with Adam, Seth, Methuselah; Abraham, Jacob, Moses) and eight princes (Jesse, Saul, Samuel, Amos, Zephaniah, Zedekiah, Elijah, the Messiah)."
+  - id: hb-mic-5-purge-of-israel
+    tradition: judaism
+    title: God cuts off horses, sorcery and idols
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 5:9-14"]
+    tags:
+      - {motif: god-purges-horses-cities-and-sorcery, refs: ["Mic 5:9", "Mic 5:10", "Mic 5:11"]}
+      - {motif: divination-sorcery-necromancy-list, refs: ["Mic 5:11"], note: "keshafim and me'onenim"}
+      - {motif: destroy-idols-and-high-places, refs: ["Mic 5:12", "Mic 5:13"], note: "pesilim, matsevot, asherim"}
+      - {motif: trust-in-chariots-vs-name-of-god, refs: ["Mic 5:9"]}
+      - {motif: pour-out-wrath-on-nations, refs: ["Mic 5:14"]}
+  - id: hb-mic-6-covenant-lawsuit
+    tradition: judaism
+    title: YHWH's lawsuit with his people; what YHWH requires
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 6:1-8"]
+    tags:
+      - {motif: covenant-lawsuit-heaven-and-earth, refs: ["Mic 6:1", "Mic 6:2"], note: "mountains and the 'enduring foundations of the earth' are the jury"}
+      - {motif: my-people-what-have-i-done-to-you, refs: ["Mic 6:3"]}
+      - {motif: moses-aaron-miriam-sent, refs: ["Mic 6:4"]}
+      - {motif: balak-and-balaam-remembered, refs: ["Mic 6:5"], note: "'from Shittim to Gilgal'"}
+      - {motif: offer-firstborn-for-sin-rejected, refs: ["Mic 6:6", "Mic 6:7"]}
+      - {motif: contrite-heart-over-sacrifice, refs: ["Mic 6:6", "Mic 6:7", "Mic 6:8"]}
+      - {motif: do-justice-love-mercy-walk-humbly, refs: ["Mic 6:8"]}
+    hints:
+      - "The Good Friday Improperia ('Popule meus, quid feci tibi?') build on Mic 6:3. b. Makkot 24a: Micah reduced the 613 commandments to three."
+  - id: hb-mic-6-dishonest-city
+    tradition: judaism
+    title: False scales and futility curses
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 6:9-16"]
+    tags:
+      - {motif: honest-weights, refs: ["Mic 6:10", "Mic 6:11"], note: "scant ephah, wicked scales, bag of deceitful weights (condemned)"}
+      - {motif: futility-curse-sow-not-reap, refs: ["Mic 6:14", "Mic 6:15"]}
+      - {motif: statutes-of-omri-and-ahab, refs: ["Mic 6:16"]}
+      - {motif: byword-and-proverb-among-nations, refs: ["Mic 6:16"], note: "a desolation and a hissing"}
+    hints:
+      - "Deut 28:38-40 and Amos 5:11 (futility curses); Assyrian treaty curses (Esarhaddon's succession treaty) have the same form."
+  - id: hb-mic-7-lament-and-hope
+    tradition: judaism
+    title: No godly man left; who is a God like you?
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mic 7:1-20"]
+    tags:
+      - {motif: no-righteous-left-like-gleaned-vineyard, refs: ["Mic 7:1", "Mic 7:2"]}
+      - {motif: trust-no-friend-guard-mouth-from-wife, refs: ["Mic 7:5"]}
+      - {motif: family-members-become-enemies, refs: ["Mic 7:6"]}
+      - {motif: i-fell-i-rise-god-my-light, refs: ["Mic 7:8"]}
+      - {motif: where-is-your-god-taunt, refs: ["Mic 7:10"]}
+      - {motif: god-as-shepherd, refs: ["Mic 7:14"], note: "shepherd with your staff in Carmel, Bashan and Gilead"}
+      - {motif: hand-on-mouth-in-awe, refs: ["Mic 7:16"]}
+      - {motif: enemies-lick-dust, refs: ["Mic 7:17"], note: "'like the serpent'"}
+      - {motif: incomparability-among-the-gods, refs: ["Mic 7:18"], note: "mi el kamokha, a pun on Micah's name"}
+      - {motif: sins-cast-into-depths-of-sea, refs: ["Mic 7:19"]}
+      - {motif: truth-to-jacob-hesed-to-abraham, refs: ["Mic 7:20"]}
+    hints:
+      - "Matt 10:35-36 / Luke 12:53 quote Mic 7:6. Mishnah Sotah 9:15 applies it to the generation before the Messiah. The Tashlikh rite on Rosh Hashanah recites Mic 7:18-20 at water."
+  - id: hb-nah-1-avenging-god
+    tradition: judaism
+    title: The jealous and avenging God against Nineveh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Nah 1:1-14"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Nah 1:1"], note: "massa' Nineveh; 'book of the vision of Nahum the Elqoshite'"}
+      - {motif: jealous-god, refs: ["Nah 1:2"]}
+      - {motif: god-avenger-lord-of-wrath, refs: ["Nah 1:2"], note: "noqem three times"}
+      - {motif: thirteen-attributes, refs: ["Nah 1:3"], note: "only the severe half: slow to anger, but will by no means acquit"}
+      - {motif: acrostic-poem, refs: ["Nah 1:2-8"], note: "partial alphabetic acrostic, roughly aleph to kaf"}
+      - {motif: clouds-dust-of-gods-feet, refs: ["Nah 1:3"]}
+      - {motif: god-rebukes-sea-and-dries-rivers, refs: ["Nah 1:4"]}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["Nah 1:5", "Nah 1:6"]}
+      - {motif: who-can-stand-before-gods-wrath, refs: ["Nah 1:6"]}
+      - {motif: god-as-rock-and-fortress, refs: ["Nah 1:7"], note: "ma'oz in the day of trouble"}
+      - {motif: counselor-of-belial, refs: ["Nah 1:11"]}
+      - {motif: yoke-bars-broken-walk-upright, refs: ["Nah 1:13"]}
+      - {motif: destroy-idols-and-high-places, refs: ["Nah 1:14"], note: "idol and image cut off from the house of your gods; 'I will make your grave'"}
+    hints:
+      - "The Nineveh of Jonah repents; Nahum's Nineveh is destroyed (612 BCE). Tobit 14:4 (Nahum's prophecy against Nineveh)."
+  - id: hb-nah-2-fall-of-nineveh
+    tradition: judaism
+    title: The herald of peace and the sack of Nineveh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Nah 2:1-14"]
+    tags:
+      - {motif: herald-on-mountains-proclaims-peace, refs: ["Nah 2:1"]}
+      - {motif: red-shields-and-flashing-chariots, refs: ["Nah 2:4", "Nah 2:5"]}
+      - {motif: river-gates-opened-palace-dissolves, refs: ["Nah 2:7"]}
+      - {motif: maidens-moan-like-doves-beating-breasts, refs: ["Nah 2:8"], note: "huzzav, obscure: queen or 'it is decreed'"}
+      - {motif: heart-of-a-lion-melts, refs: ["Nah 2:11"], note: "hearts melt, knees give way, all faces grow pale"}
+      - {motif: empire-as-lions-den-filled-with-prey, refs: ["Nah 2:12", "Nah 2:13"]}
+      - {motif: no-dog-shall-whet-its-tongue, refs: ["Nah 2:12"], note: "loosely: 've-ein maharid', none to frighten"}
+    hints:
+      - "Isa 52:7 has the same herald line. Diodorus 2.26-27 and Xenophon (Anabasis 3.4) tell of Nineveh/Larisa falling when the river broke the wall. Assyrian royal lion-hunt reliefs from Nineveh."
+  - id: hb-nah-3-woe-to-bloody-city
+    tradition: judaism
+    title: Woe to the bloody city, harlot and sorceress
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Nah 3:1-19"]
+    tags:
+      - {motif: city-built-with-blood, refs: ["Nah 3:1"], note: "ir damim"}
+      - {motif: sounds-of-chariot-assault, refs: ["Nah 3:2", "Nah 3:3"]}
+      - {motif: city-as-harlot-and-sorceress, refs: ["Nah 3:4"]}
+      - {motif: skirts-lifted-to-expose-shame, refs: ["Nah 3:5", "Nah 3:6"]}
+      - {motif: fall-of-thebes-as-precedent, refs: ["Nah 3:8", "Nah 3:9", "Nah 3:10"], note: "Cush, Egypt, Put and Lubim her helpers"}
+      - {motif: infants-dashed-in-pieces, refs: ["Nah 3:10"]}
+      - {motif: lots-cast-over-conquered-city, refs: ["Nah 3:10"], note: "lots cast for her nobles"}
+      - {motif: fortresses-like-ripe-figs, refs: ["Nah 3:12"]}
+      - {motif: soldiers-become-women, refs: ["Nah 3:13"]}
+      - {motif: officials-like-locusts-fly-away, refs: ["Nah 3:15", "Nah 3:16", "Nah 3:17"]}
+      - {motif: sheep-without-shepherd, refs: ["Nah 3:18"], note: "your shepherds slumber, your people scattered on the mountains"}
+      - {motif: all-clap-hands-at-tyrants-fall, refs: ["Nah 3:19"]}
+      - {motif: book-ends-with-divine-question, refs: ["Nah 3:19"], note: "Nahum, like Jonah, ends with a question about Nineveh"}
+    hints:
+      - "Thebes was sacked by Ashurbanipal in 663 BCE. Rev 17-18 (Babylon the harlot and sorceress). Isa 47 (virgin Babylon stripped)."
+  - id: hb-hab-1-complaint
+    tradition: judaism
+    title: Habakkuk's complaint and the Chaldean fisherman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hab 1:1-17"]
+    tags:
+      - {motif: how-long-o-lord, refs: ["Hab 1:2"], note: "'ad anah... I cry hamas and you do not save'"}
+      - {motif: wicked-surround-righteous-justice-perverted, refs: ["Hab 1:3", "Hab 1:4"]}
+      - {motif: why-do-the-wicked-prosper, refs: ["Hab 1:13"]}
+      - {motif: god-raises-chaldeans-as-instrument, refs: ["Hab 1:5", "Hab 1:6"], note: "'a work you would not believe if told'"}
+      - {motif: horses-swifter-than-leopards-wolves-of-evening, refs: ["Hab 1:8"]}
+      - {motif: siege-ramp-against-city, refs: ["Hab 1:10"], note: "he heaps up dust and takes every fortress"}
+      - {motif: might-is-his-god, refs: ["Hab 1:11"]}
+      - {motif: scribal-correction-we-shall-not-die, refs: ["Hab 1:12"]}
+      - {motif: god-too-pure-to-behold-evil, refs: ["Hab 1:13"]}
+      - {motif: humans-as-fish-caught-in-conquerors-net, refs: ["Hab 1:14", "Hab 1:15"]}
+      - {motif: conqueror-worships-his-net, refs: ["Hab 1:16"]}
+    hints:
+      - "Acts 13:41 quotes Hab 1:5 (LXX). The Qumran Pesher Habakkuk (1QpHab) reads the Chaldeans as the Kittim (Romans) and notes they sacrifice to their standards. Mesopotamian 'net of the god' imagery (Stele of the Vultures; Ninurta's net)."
+  - id: hb-hab-2-watchtower-and-woes
+    tradition: judaism
+    title: The vision on tablets; the righteous live by faith; five woes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hab 2:1-20"]
+    tags:
+      - {motif: prophet-on-watchtower-awaits-answer, refs: ["Hab 2:1"]}
+      - {motif: write-vision-plainly-on-tablets, refs: ["Hab 2:2"]}
+      - {motif: though-it-tarry-wait-for-it, refs: ["Hab 2:3"]}
+      - {motif: righteous-shall-live-by-faith, refs: ["Hab 2:4"]}
+      - {motif: greed-wide-as-sheol, refs: ["Hab 2:5"], note: "wine betrays the arrogant man"}
+      - {motif: series-of-woes-on-tyrant, refs: ["Hab 2:6", "Hab 2:9", "Hab 2:12", "Hab 2:15", "Hab 2:19"], note: "mashal and hidot, taunt and riddles"}
+      - {motif: proud-nest-among-stars-brought-down, refs: ["Hab 2:9"], note: "sets his nest on high to escape harm"}
+      - {motif: stone-cries-out-from-wall, refs: ["Hab 2:11"]}
+      - {motif: city-built-with-blood, refs: ["Hab 2:12"]}
+      - {motif: peoples-labor-only-for-fire, refs: ["Hab 2:13"]}
+      - {motif: earth-filled-with-knowledge-as-waters-cover-sea, refs: ["Hab 2:14"]}
+      - {motif: neighbor-made-drunk-to-see-nakedness, refs: ["Hab 2:15"]}
+      - {motif: cup-of-wrath, refs: ["Hab 2:16"], note: "'the cup of YHWH's right hand'; he'arel, show your foreskin; qiqalon, shame"}
+      - {motif: idols-cannot-see-hear-eat-smell, refs: ["Hab 2:18"], note: "dumb idols (elilim illemim)"}
+      - {motif: cry-awake-to-wood-and-dumb-stone, refs: ["Hab 2:19"]}
+      - {motif: all-earth-silent-before-yhwh, refs: ["Hab 2:20"]}
+    hints:
+      - "Rom 1:17, Gal 3:11 and Heb 10:37-38 quote Hab 2:3-4. b. Makkot 24a: Habakkuk based all the commandments on one, 'the righteous shall live by his faith'. b. Sanh. 97b reads Hab 2:3 on calculating the end; Maimonides' twelfth principle: 'though he tarry, I will wait for him'. Luke 19:40 (the stones would cry out). Isa 11:9 has the waters-cover-the-sea line."
+  - id: hb-hab-3-prayer-theophany
+    tradition: judaism
+    title: Habakkuk's prayer; God marches from Teman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hab 3:1-19"]
+    tags:
+      - {motif: shigionoth-heading, refs: ["Hab 3:1"]}
+      - {motif: in-wrath-remember-mercy, refs: ["Hab 3:2"]}
+      - {motif: god-comes-from-sinai-seir-paran, refs: ["Hab 3:3"], note: "Eloah from Teman, the Holy One from Mount Paran"}
+      - {motif: selah, refs: ["Hab 3:3", "Hab 3:9", "Hab 3:13"]}
+      - {motif: rays-or-horns-from-gods-hand, refs: ["Hab 3:4"]}
+      - {motif: resheph-qeteb-plague-demons, refs: ["Hab 3:5"], note: "Dever goes before him, Resheph at his feet"}
+      - {motif: god-measures-earth-nations-startle, refs: ["Hab 3:6"]}
+      - {motif: tents-of-cushan-and-midian-tremble, refs: ["Hab 3:7"]}
+      - {motif: god-rides-horses-and-chariots-against-sea, refs: ["Hab 3:8", "Hab 3:15"]}
+      - {motif: sea-monster-defeated-by-god, refs: ["Hab 3:8", "Hab 3:10"], note: "anger against River and Sea; the deep (tehom) gives its voice"}
+      - {motif: divine-arrows, refs: ["Hab 3:9", "Hab 3:11"], note: "bow bared, arrows and spear's flash"}
+      - {motif: sun-stands-still, refs: ["Hab 3:11"], note: "sun and moon stand in their lofty abode"}
+      - {motif: divine-warrior, refs: ["Hab 3:12", "Hab 3:13"]}
+      - {motif: god-crushes-head-of-house-of-wicked, refs: ["Hab 3:13", "Hab 3:14"]}
+      - {motif: rejoice-though-fig-does-not-blossom, refs: ["Hab 3:17", "Hab 3:18"]}
+      - {motif: feet-like-hinds-on-heights, refs: ["Hab 3:19"], note: "ends with lamnatseah bi-neginotai, a psalm subscription"}
+    hints:
+      - "Ugaritic Baal versus Yamm and Nahar ('Prince Sea, Judge River'); Resheph as a Canaanite plague and war god. Deut 33:2 and Judg 5:4 (God from Seir/Teman). Exod 34:29 qaran (Moses' face 'horned'). Hab 3 is the haftarah for the second day of Shavuot."
+  - id: hb-zeph-1-day-of-wrath
+    tradition: judaism
+    title: Zephaniah's Day of YHWH against Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zeph 1:1-18"]
+    tags:
+      - {motif: prophet-genealogy-to-royal-ancestor, refs: ["Zeph 1:1"], note: "son of Cushi, back four generations to Hezekiah"}
+      - {motif: uncreation-sweeping-all-creatures, refs: ["Zeph 1:2", "Zeph 1:3"]}
+      - {motif: idolatrous-priests-kemarim-deposed, refs: ["Zeph 1:4"]}
+      - {motif: rooftop-altars, refs: ["Zeph 1:5"]}
+      - {motif: worship-of-host-of-heaven, refs: ["Zeph 1:5"]}
+      - {motif: swearing-by-yhwh-and-malkam, refs: ["Zeph 1:5"]}
+      - {motif: all-earth-silent-before-yhwh, refs: ["Zeph 1:7"]}
+      - {motif: day-of-yhwh, refs: ["Zeph 1:7", "Zeph 1:14"]}
+      - {motif: day-of-yhwh-as-sacrificial-feast, refs: ["Zeph 1:7", "Zeph 1:8"]}
+      - {motif: punishment-for-wearing-foreign-garments, refs: ["Zeph 1:8"]}
+      - {motif: threshold-taboo-etiology, refs: ["Zeph 1:9"], note: "those who leap over the threshold (cf. 1Sam 5:5 Dagon's priests)"}
+      - {motif: jerusalem-quarters-named, refs: ["Zeph 1:10", "Zeph 1:11"]}
+      - {motif: god-searches-jerusalem-with-lamps, refs: ["Zeph 1:12"]}
+      - {motif: complacent-settled-on-lees, refs: ["Zeph 1:12"]}
+      - {motif: futility-curse-sow-not-reap, refs: ["Zeph 1:13"], note: "build houses and not live in them, plant vineyards and not drink"}
+      - {motif: dies-irae-litany, refs: ["Zeph 1:15", "Zeph 1:16"]}
+      - {motif: silver-gold-cannot-save-on-day-of-wrath, refs: ["Zeph 1:18"]}
+    hints:
+      - "The Latin sequence 'Dies irae, dies illa' is built on Zeph 1:15 (Vulgate). b. Pesahim 7b derives searching for leaven by candlelight from Zeph 1:12. Ezek 7:19 repeats the silver-and-gold line."
+  - id: hb-zeph-2-against-nations
+    tradition: judaism
+    title: Seek humility; oracles on Philistia, Moab, Ammon, Cush and Assyria
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zeph 2:1-15"]
+    tags:
+      - {motif: seek-humility-perhaps-hidden, refs: ["Zeph 2:3"]}
+      - {motif: oracles-against-nations, refs: ["Zeph 2:4", "Zeph 2:8", "Zeph 2:12", "Zeph 2:13"]}
+      - {motif: wordplay-on-town-names-in-lament, refs: ["Zeph 2:4"], note: "Azzah azuvah, Ekron te'aqer"}
+      - {motif: philistines-from-caphtor, refs: ["Zeph 2:5"], note: "'nation of the Cherethites' (Cretans)"}
+      - {motif: land-like-sodom-brimstone-salt, refs: ["Zeph 2:9"], note: "Moab like Sodom, Ammon like Gomorrah, nettles and salt pits"}
+      - {motif: nations-worship-yhwh-each-from-own-place, refs: ["Zeph 2:11"], note: "God makes the gods of the earth lean (razah)"}
+      - {motif: ruined-city-inhabited-by-wild-creatures, refs: ["Zeph 2:14"], note: "qa'at and qippod; cedar-work laid bare"}
+      - {motif: city-says-i-am-and-none-besides, refs: ["Zeph 2:15"]}
+      - {motif: temple-ruin-passersby-hiss-and-ask-why, refs: ["Zeph 2:15"], note: "every passerby hisses and shakes his hand (over Nineveh)"}
+    hints:
+      - "Isa 47:8,10 (Babylon: 'I am, and none besides me'), a phrase otherwise used by God (Isa 45:5-6). Isa 34:11 (owl and hedgehog in ruined Edom)."
+  - id: hb-zeph-3-jerusalem-and-restoration
+    tradition: judaism
+    title: The oppressing city, a pure speech for the peoples and God's song over Zion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zeph 3:1-20"]
+    tags:
+      - {motif: officials-lions-judges-evening-wolves, refs: ["Zeph 3:3"], note: "ha-ir ha-yonah in 3:1: 'the oppressing city' or 'the dove city'"}
+      - {motif: priests-and-prophets-for-hire, refs: ["Zeph 3:4"], note: "reckless prophets, priests who do violence to Torah"}
+      - {motif: just-ruler-like-morning-sun, refs: ["Zeph 3:5"], note: "loosely: 'morning by morning he brings his justice to light'"}
+      - {motif: verse-containing-whole-alphabet, refs: ["Zeph 3:8"], note: "Masoretic note: all letters including final forms"}
+      - {motif: pour-out-wrath-on-nations, refs: ["Zeph 3:8"]}
+      - {motif: pure-lip-given-to-peoples, refs: ["Zeph 3:9"], note: "reversal of Babel's confused safah"}
+      - {motif: worshipers-from-beyond-rivers-of-cush, refs: ["Zeph 3:10"]}
+      - {motif: humble-poor-remnant, refs: ["Zeph 3:12", "Zeph 3:13"]}
+      - {motif: god-rejoices-over-zion-with-singing, refs: ["Zeph 3:14", "Zeph 3:17"]}
+      - {motif: lame-and-outcast-gathered, refs: ["Zeph 3:19"]}
+      - {motif: ingathering-of-exiles, refs: ["Zeph 3:20"]}
+      - {motif: restoration-from-zion-shuv-shevut, refs: ["Zeph 3:20"]}
+    hints:
+      - "Maimonides (Mishneh Torah, Kings 11) cites Zeph 3:9 for the messianic age. Ethiopian Christian and Beta Israel tradition reads 'beyond the rivers of Cush' (3:10) as their own. Luke 1:28 (rejoice, daughter Zion) echoes 3:14."
+  - id: hb-hag-1-rebuild-the-house
+    tradition: judaism
+    title: Haggai rouses Zerubbabel and Joshua to rebuild
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hag 1:1-15"]
+    tags:
+      - {motif: prophecy-dated-by-persian-kings-reign, refs: ["Hag 1:1", "Hag 1:15"], note: "Darius year 2, 1st of 6th month; work begins 24th"}
+      - {motif: people-say-not-time-to-build-temple, refs: ["Hag 1:2"]}
+      - {motif: paneled-houses-while-gods-house-waste, refs: ["Hag 1:4", "Hag 1:9"]}
+      - {motif: futility-curse-sow-not-reap, refs: ["Hag 1:6"]}
+      - {motif: wages-into-bag-with-holes, refs: ["Hag 1:6"]}
+      - {motif: drought-because-temple-neglected, refs: ["Hag 1:10", "Hag 1:11"], note: "horev (drought) on everything, punning on harev (ruined house)"}
+      - {motif: prophet-called-malakh-yhwh, refs: ["Hag 1:13"]}
+      - {motif: god-stirs-spirit-of-leaders, refs: ["Hag 1:14"]}
+    hints:
+      - "Ezra 5:1-2 and 6:14 (Haggai and Zechariah encourage the builders). Mesopotamian temple-rebuilding texts (Gudea cylinders) also link fertility to the temple."
+  - id: hb-hag-2-latter-glory
+    tradition: judaism
+    title: The glory of this latter house
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hag 2:1-9"]
+    tags:
+      - {motif: prophecy-dated-by-persian-kings-reign, refs: ["Hag 2:1"], note: "21st of the 7th month, during Sukkot"}
+      - {motif: elders-compare-new-temple-to-first, refs: ["Hag 2:3"]}
+      - {motif: god-shakes-heaven-and-earth-once-more, refs: ["Hag 2:6", "Hag 2:7"]}
+      - {motif: treasures-of-nations-fill-temple, refs: ["Hag 2:7", "Hag 2:8"]}
+      - {motif: latter-house-glory-greater, refs: ["Hag 2:9"]}
+    hints:
+      - "Heb 12:26-27 quotes Hag 2:6. Vulgate 'veniet desideratus cunctis gentibus' (2:7) was read as the Messiah. b. Yoma 21b lists five things missing from the second temple."
+  - id: hb-hag-2-purity-ruling
+    tradition: judaism
+    title: A priestly ruling on holiness and impurity; blessing from this day
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hag 2:10-19"]
+    tags:
+      - {motif: prophecy-dated-by-persian-kings-reign, refs: ["Hag 2:10", "Hag 2:18"], note: "24th of the 9th month"}
+      - {motif: holiness-not-transmitted-at-second-remove, refs: ["Hag 2:11", "Hag 2:12", "Hag 2:13"]}
+      - {motif: corpse-impurity, refs: ["Hag 2:13"], note: "teme nefesh"}
+      - {motif: blight-mildew-hail-sent, refs: ["Hag 2:16", "Hag 2:17"]}
+      - {motif: blessing-from-day-of-temple-foundation, refs: ["Hag 2:18", "Hag 2:19"], note: "seed, vine, fig, pomegranate, olive"}
+    hints:
+      - "Amos 4:9 (blight and mildew 'yet you did not return'). Mishnaic degrees of impurity (rishon, sheni) and m. Hagigah 2 develop this kind of ruling."
+  - id: hb-hag-2-zerubbabel-signet
+    tradition: judaism
+    title: Zerubbabel as God's signet ring
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Hag 2:20-23"]
+    tags:
+      - {motif: god-shakes-heaven-and-earth-once-more, refs: ["Hag 2:21"]}
+      - {motif: thrones-of-kingdoms-overturned, refs: ["Hag 2:22"]}
+      - {motif: enemy-turns-swords-on-each-other, refs: ["Hag 2:22"], note: "'each by the sword of his brother'"}
+      - {motif: zerubbabel-made-gods-signet-ring, refs: ["Hag 2:23"]}
+    hints:
+      - "Reverses Jer 22:24, where Zerubbabel's grandfather Jehoiachin is a signet torn off God's hand. Sir 49:11 praises Zerubbabel 'like a signet on the right hand'."

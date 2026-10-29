@@ -1,0 +1,2822 @@
+new_motifs:
+  wisdom-personified-as-woman:
+    label: Wisdom personified as a woman who speaks, builds, invites and acts
+    cluster: wisdom
+  wisdom-builds-house-seven-pillars:
+    label: Wisdom builds her house and hews out its seven pillars
+    cluster: wisdom
+  wisdom-banquet-bread-and-mixed-wine:
+    label: Personified Wisdom slaughters meat, mixes wine, sets a table and invites guests to eat her bread and drink her wine
+    cluster: wisdom
+  wisdom-calls-from-heights-of-city:
+    label: Wisdom (or Folly) calls out from the heights of the city to passers-by
+    cluster: wisdom
+  rival-women-identical-invitation:
+    label: 'Wisdom and Folly issue the same invitation: ''Whoever is simple, turn in here'''
+    cluster: wisdom
+  do-not-rebuke-scoffer:
+    label: Do not reprove a scoffer, he will hate you; reprove a wise man and he will love you
+    cluster: wisdom
+  wisdom-prolongs-life:
+    label: Wisdom or the fear of YHWH adds days and years of life; the years of the wicked are shortened
+    cluster: wisdom
+  folly-personified-as-woman:
+    label: Folly personified as a loud, ignorant woman who sits at her door luring passers-by
+    cluster: wisdom
+  stolen-waters-sweet:
+    label: '''Stolen waters are sweet and bread eaten in secret is pleasant'''
+    cluster: wisdom
+  guests-of-folly-in-sheol:
+    label: The guests of the seductive woman are already among the dead in the depths of Sheol
+    cluster: wisdom
+  solomonic-proverb-collection-heading:
+    label: A collection of sayings is headed 'Proverbs of Solomon'
+    cluster: wisdom
+  wise-son-gladdens-father:
+    label: A wise son gladdens his father; a foolish son grieves his mother
+    cluster: wisdom
+  righteousness-delivers-from-death:
+    label: Treasures of wickedness do not profit, but righteousness (tsedaqah) delivers from death
+    cluster: wisdom
+  diligent-hand-enriches-slack-hand-poor:
+    label: The diligent hand makes rich and rules; the slack hand brings poverty and forced labor
+    cluster: wisdom
+  gather-in-summer-sleep-in-harvest:
+    label: The prudent son gathers in summer; the shameful son sleeps in harvest
+    cluster: wisdom
+  name-of-wicked-rots:
+    label: The memory of the righteous is for blessing but the name of the wicked rots
+    cluster: wisdom
+  winking-eye-malice:
+    label: Winking the eye and pursing the lips signal malicious scheming
+    cluster: wisdom
+  fountain-of-life:
+    label: Wise teaching, the righteous mouth or the fear of YHWH is a 'fountain of life' (meqor hayyim)
+    cluster: wisdom
+  love-covers-all-offenses:
+    label: Hatred stirs up strife, but love covers all offenses
+    cluster: wisdom
+  rod-for-back-of-fool:
+    label: A rod is for the back of the fool (the senseless)
+    cluster: wisdom
+  wealth-as-fortified-city:
+    label: The rich man's wealth is his strong city; the poverty of the poor is their ruin
+    cluster: wisdom
+  restraint-of-speech-wise:
+    label: In many words transgression is not lacking; he who restrains his lips is wise
+    cluster: wisdom
+  wicked-pass-like-storm:
+    label: When the storm passes the wicked is no more, but the righteous is an everlasting foundation
+    cluster: wisdom
+  sluggard-like-vinegar-and-smoke:
+    label: Like vinegar to the teeth and smoke to the eyes is the sluggard to those who send him
+    cluster: wisdom
+  righteous-inherit-land-wicked-uprooted:
+    label: The righteous will never be moved and will dwell in the land; the wicked will not inhabit it
+    cluster: wisdom
+  abomination-to-yhwh-saying:
+    label: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
+    cluster: wisdom
+  pride-before-fall:
+    label: Pride goes before destruction and a haughty spirit before stumbling
+    cluster: wisdom
+  wealth-useless-on-day-of-wrath:
+    label: Wealth does not profit on the day of wrath
+    cluster: wisdom
+  wicked-ransom-for-righteous:
+    label: The righteous is rescued from trouble and the wicked goes in his place (as his ransom)
+    cluster: wisdom
+  city-rejoices-at-fall-of-wicked:
+    label: A city exults at the prosperity of the righteous and shouts for joy when the wicked perish
+    cluster: wisdom
+  talebearer-reveals-secrets:
+    label: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+    cluster: wisdom
+  safety-in-many-counselors:
+    label: Without counsel a people falls; in a multitude of counselors there is victory
+    cluster: wisdom
+  warning-against-surety:
+    label: Warning against standing surety (pledge) for a stranger or a neighbor's debt
+    cluster: wisdom
+  gold-ring-in-pigs-snout:
+    label: Like a gold ring in a pig's snout is a beautiful woman without discretion
+    cluster: wisdom
+  generous-giver-enriched:
+    label: One scatters and yet increases; the generous soul is made fat and who waters will be watered
+    cluster: wisdom
+  grain-hoarder-cursed:
+    label: The people curse him who withholds grain, but blessing is on the head of him who sells it
+    cluster: wisdom
+  righteous-flourish-like-foliage:
+    label: He who trusts in riches falls; the righteous sprout like green leaves
+    cluster: wisdom
+  inherit-the-wind:
+    label: He who troubles his household will inherit the wind
+    cluster: wisdom
+  wise-takes-souls:
+    label: The fruit of the righteous is a tree of life and the wise man 'takes souls' (wins people)
+    cluster: wisdom
+  righteous-repaid-on-earth:
+    label: If the righteous is repaid on earth, how much more the wicked and the sinner
+    cluster: wisdom
+  capable-wife-crown-of-husband:
+    label: A woman of valor (eshet hayil) is her husband's crown; a shameful one is rot in his bones
+    cluster: wisdom
+  righteous-cares-for-animals:
+    label: The righteous knows the soul (needs) of his beast; the mercies of the wicked are cruel
+    cluster: wisdom
+  fool-right-in-own-eyes:
+    label: The way of the fool is right in his own eyes, but the wise listens to counsel
+    cluster: wisdom
+  healing-tongue:
+    label: The tongue of the wise is healing; a gentle tongue is a tree of life
+    cluster: wisdom
+  truth-endures-lie-momentary:
+    label: Truthful lips endure forever, a lying tongue only for a moment
+    cluster: wisdom
+  anxiety-weighs-down-heart:
+    label: Anxiety in a man's heart weighs it down, but a good word makes it glad
+    cluster: wisdom
+  path-of-righteousness-no-death:
+    label: In the path of righteousness is life and on its way there is no death ('al-mavet)
+    cluster: wisdom
+  feigned-wealth-feigned-poverty:
+    label: One pretends to be rich and has nothing; another pretends to be poor and has great wealth
+    cluster: wisdom
+  lamp-of-wicked-extinguished:
+    label: The light of the righteous rejoices but the lamp of the wicked is put out
+    cluster: wisdom
+  hope-deferred-sickens-heart:
+    label: Hope deferred makes the heart sick, but desire fulfilled is a tree of life
+    cluster: wisdom
+  companions-shape-character:
+    label: He who walks with the wise becomes wise; the companion of fools suffers harm
+    cluster: wisdom
+  sinners-wealth-stored-for-righteous:
+    label: The good leaves an inheritance to his grandchildren; the sinner's wealth is stored up for the righteous
+    cluster: wisdom
+  spare-the-rod:
+    label: He who spares the rod hates his son; corporal discipline of children is commended
+    cluster: wisdom
+  wise-woman-builds-house:
+    label: The wisest of women builds her house; folly tears it down with her own hands
+    cluster: wisdom
+  no-oxen-clean-crib:
+    label: Where there are no oxen the crib is clean, but much produce comes by the strength of the ox
+    cluster: wisdom
+  true-and-false-witness:
+    label: A faithful witness does not lie; a false witness breathes out lies and will not go unpunished
+    cluster: wisdom
+  heart-knows-own-bitterness:
+    label: The heart knows its own bitterness and no stranger shares its joy
+    cluster: wisdom
+  way-that-seems-right-ends-in-death:
+    label: There is a way that seems right to a man, but its end is the ways of death
+    cluster: wisdom
+  laughter-with-aching-heart:
+    label: Even in laughter the heart may ache, and the end of joy is grief
+    cluster: wisdom
+  simple-believes-everything:
+    label: The simple believes every word; the prudent considers his steps
+    cluster: wisdom
+  poor-friendless-rich-many-friends:
+    label: The poor is hated even by his neighbor, but the rich has many friends
+    cluster: wisdom
+  oppressing-poor-insults-maker:
+    label: He who oppresses the poor insults his Maker; he who is gracious to the needy honors him
+    cluster: wisdom
+  king-glory-in-multitude:
+    label: A king's glory is in a multitude of people; without people a prince is ruined
+    cluster: kingship
+  envy-rots-bones:
+    label: A tranquil heart is life to the body, but jealousy is rot in the bones
+    cluster: wisdom
+  slow-to-anger-better-than-warrior:
+    label: The slow to anger is better than a mighty man, and he who rules his spirit than he who takes a city
+    cluster: wisdom
+  righteousness-exalts-nation:
+    label: Righteousness exalts a nation, but sin is a reproach to peoples
+    cluster: wisdom
+  king-favors-wise-servant:
+    label: The king's favor is toward a wise servant; his wrath toward one who shames
+    cluster: kingship
+  soft-answer-turns-wrath:
+    label: A soft answer turns away wrath, but a harsh word stirs up anger
+    cluster: wisdom
+  eyes-of-yhwh-everywhere:
+    label: The eyes of YHWH are in every place, watching the evil and the good
+    cluster: theology
+  sacrifice-of-wicked-abomination:
+    label: The sacrifice of the wicked is an abomination to YHWH, but the prayer of the upright is his delight
+    cluster: cult
+  better-than-saying:
+    label: '''Better is X than Y'' comparative saying (tov ... min)'
+    cluster: wisdom
+  dinner-of-herbs-with-love:
+    label: Better a dinner of vegetables where love is than a fattened ox with hatred
+    cluster: wisdom
+  sluggard-path-hedge-of-thorns:
+    label: The way of the sluggard is like a hedge of thorns; the path of the upright is a highway
+    cluster: wisdom
+  word-in-season:
+    label: 'A word spoken in its right time: how good it is'
+    cluster: wisdom
+  path-of-life-upward-from-sheol:
+    label: The path of life leads upward for the wise, to turn away from Sheol below
+    cluster: wisdom
+  god-guards-widows-boundary:
+    label: YHWH tears down the house of the proud but sets fast the widow's boundary
+    cluster: wisdom
+  hater-of-bribes-lives:
+    label: He who is greedy for gain troubles his house, but he who hates gifts (bribes) will live
+    cluster: wisdom
+  god-hears-prayer-of-righteous:
+    label: YHWH is far from the wicked but hears the prayer of the righteous
+    cluster: theology
+  humility-before-honor:
+    label: Before honor comes humility
+    cluster: wisdom
+  man-plans-god-disposes:
+    label: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
+    cluster: wisdom
+  god-weighs-hearts:
+    label: All a man's ways seem pure in his eyes, but YHWH weighs the spirits (hearts)
+    cluster: wisdom
+  roll-works-onto-yhwh:
+    label: Roll (commit) your works to YHWH and your plans will be established
+    cluster: wisdom
+  god-made-all-for-purpose-even-wicked:
+    label: YHWH has made everything for its purpose, even the wicked for the day of evil
+    cluster: theology
+  atonement-by-loyalty-and-truth:
+    label: By loyalty and faithfulness (hesed we-emet) iniquity is atoned for
+    cluster: theology
+  enemies-at-peace-with-righteous:
+    label: When a man's ways please YHWH he makes even his enemies to be at peace with him
+    cluster: wisdom
+  oracle-on-kings-lips:
+    label: Divination (qesem) is on the lips of the king; his mouth does not err in judgment
+    cluster: kingship
+  throne-established-by-righteousness:
+    label: The throne is established by righteousness (and loyalty)
+    cluster: kingship
+  kings-wrath-messengers-of-death:
+    label: The wrath of a king is messengers of death, but a wise man will pacify it
+    cluster: kingship
+  kings-face-light-and-spring-rain:
+    label: In the light of the king's face is life; his favor is like a cloud of the latter rain
+    cluster: kingship
+  wisdom-better-than-gold:
+    label: Getting wisdom is better than gold, understanding than silver or jewels
+    cluster: wisdom
+  pleasant-words-honeycomb:
+    label: Pleasant words are a honeycomb, sweet to the soul and healing to the bones
+    cluster: wisdom
+  hunger-drives-laborer:
+    label: The worker's appetite works for him, for his mouth urges him on
+    cluster: wisdom
+  scoundrel-speech-scorching-fire:
+    label: The worthless man (ish beliyya'al) digs up evil and on his lips is a scorching fire
+    cluster: wisdom
+  whisperer-separates-friends:
+    label: A whisperer separates close friends
+    cluster: wisdom
+  grey-hair-crown-of-glory:
+    label: Grey hair is a crown of glory, found in the way of righteousness
+    cluster: wisdom
+  lot-cast-into-lap:
+    label: The lot is cast into the lap, but its every decision is from YHWH
+    cluster: divination
+  dry-morsel-in-peace:
+    label: Better a dry morsel with quiet than a house full of feasting (zivhei riv) with strife
+    cluster: wisdom
+  wise-slave-inherits-with-sons:
+    label: A wise slave will rule over a shameful son and share the inheritance among the brothers
+    cluster: wisdom
+  crucible-for-silver-yhwh-tests-hearts:
+    label: The crucible is for silver and the furnace for gold, but YHWH tests hearts
+    cluster: wisdom
+  mocking-poor-insults-maker:
+    label: He who mocks the poor insults his Maker; he who rejoices at calamity will not go unpunished
+    cluster: wisdom
+  grandchildren-crown-of-elders:
+    label: Grandchildren are the crown of the aged and fathers the glory of their sons
+    cluster: wisdom
+  bribe-as-charm-stone:
+    label: A bribe is a stone of charm (even hen) in the eyes of its owner; wherever he turns he prospers
+    cluster: wisdom
+  bribe-from-bosom-perverts-justice:
+    label: The wicked takes a bribe from the bosom to pervert the ways of justice
+    cluster: law
+  rebuke-better-than-hundred-blows:
+    label: A rebuke goes deeper into a discerning man than a hundred blows into a fool
+    cluster: wisdom
+  bereaved-bear-rather-than-fool:
+    label: Better to meet a bear robbed of her cubs than a fool in his folly
+    cluster: wisdom
+  evil-for-good-never-leaves-house:
+    label: Whoever returns evil for good, evil will not depart from his house
+    cluster: wisdom
+  strife-like-releasing-water:
+    label: The beginning of strife is like letting out water; quit before the quarrel breaks out
+    cluster: wisdom
+  justifying-wicked-condemning-righteous:
+    label: He who justifies the wicked and he who condemns the righteous are both an abomination to YHWH
+    cluster: law
+  money-in-fools-hand-to-buy-wisdom:
+    label: Why is there a price in the hand of a fool to buy wisdom when he has no heart?
+    cluster: wisdom
+  friend-loves-brother-born-for-adversity:
+    label: A friend loves at all times and a brother is born for adversity
+    cluster: wisdom
+  cheerful-heart-good-medicine:
+    label: A joyful heart is good medicine, but a broken spirit dries up the bones
+    cluster: wisdom
+  eyes-of-fool-on-ends-of-earth:
+    label: Wisdom is before the face of the discerning, but the eyes of a fool are on the ends of the earth
+    cluster: wisdom
+  silent-fool-thought-wise:
+    label: Even a fool who keeps silent is counted wise
+    cluster: wisdom
+  words-as-deep-waters:
+    label: The words of a man's mouth are deep waters; the fountain of wisdom a gushing stream
+    cluster: wisdom
+  gossip-like-delicacies-in-belly:
+    label: The words of a whisperer are like delicious morsels that go down into the inner chambers of the belly
+    cluster: wisdom
+  name-of-yhwh-strong-tower:
+    label: The name of YHWH is a strong tower; the righteous runs into it and is safe
+    cluster: theology
+  answer-before-hearing-folly:
+    label: He who answers before he hears, it is folly and shame to him
+    cluster: wisdom
+  gift-opens-way-to-great:
+    label: A man's gift makes room for him and brings him before the great
+    cluster: wisdom
+  hear-both-sides:
+    label: The first to plead his case seems right until the other comes and examines him
+    cluster: law
+  lot-ends-disputes:
+    label: The lot puts an end to quarrels and decides between the mighty
+    cluster: divination
+  offended-brother-harder-than-city:
+    label: An offended brother is harder to win than a strong city; quarrels are like the bars of a citadel
+    cluster: wisdom
+  death-and-life-in-power-of-tongue:
+    label: Death and life are in the hand of the tongue
+    cluster: wisdom
+  finding-wife-finding-good:
+    label: He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH
+    cluster: wisdom
+  friend-closer-than-brother:
+    label: There is a friend who sticks closer than a brother
+    cluster: wisdom
+  fool-rages-against-yhwh:
+    label: A man's folly ruins his way and his heart rages against YHWH
+    cluster: wisdom
+  kings-wrath-like-lions-roar:
+    label: The king's wrath is like the growling of a young lion; his favor like dew on the grass
+    cluster: kingship
+  quarrelsome-wife-dripping-roof:
+    label: A quarrelsome wife is like a continual dripping (of a leaking roof)
+    cluster: wisdom
+  lending-to-yhwh-by-giving-to-poor:
+    label: He who is gracious to the poor lends to YHWH, and he will repay him
+    cluster: wisdom
+  sluggard-hand-in-dish:
+    label: The sluggard buries his hand in the dish and will not even bring it back to his mouth
+    cluster: wisdom
+  strike-scoffer-simple-learns:
+    label: Strike a scoffer and the simple will learn prudence
+    cluster: wisdom
+  son-who-assaults-parents:
+    label: A son who ruins his father and chases away his mother brings shame
+    cluster: wisdom
+  wine-a-mocker:
+    label: Wine is a mocker and strong drink a brawler; whoever is led astray by it is not wise
+    cluster: wisdom
+  sluggard-does-not-plow-in-winter:
+    label: The sluggard does not plow in autumn; he asks at harvest and has nothing
+    cluster: wisdom
+  counsel-deep-water-drawn-out:
+    label: Counsel in a man's heart is deep water; a man of understanding draws it out
+    cluster: wisdom
+  faithful-man-who-can-find:
+    label: Many proclaim their loyalty, but a faithful man who can find?
+    cluster: wisdom
+  king-winnows-evil-with-eyes:
+    label: A king seated on the throne of judgment winnows all evil with his eyes
+    cluster: kingship
+  who-can-say-heart-is-pure:
+    label: Who can say 'I have made my heart pure, I am clean from my sin'?
+    cluster: theology
+  god-made-ear-and-eye:
+    label: The hearing ear and the seeing eye, YHWH made them both
+    cluster: theology
+  buyer-says-bad-bad:
+    label: '''Bad, bad,'' says the buyer, then goes away and boasts'
+    cluster: wisdom
+  take-garment-of-surety:
+    label: Take the garment of him who stands surety for a stranger; hold it in pledge for a foreign woman
+    cluster: law
+  bread-of-deceit-gravel-in-mouth:
+    label: Bread gained by deceit is sweet, but afterwards the mouth is filled with gravel
+    cluster: wisdom
+  curser-of-parents-lamp-out:
+    label: He who curses father or mother, his lamp is put out in the pupil of darkness
+    cluster: wisdom
+  do-not-repay-evil-wait-for-yhwh:
+    label: Do not say 'I will repay evil'; wait for YHWH and he will save you
+    cluster: wisdom
+  rash-vow-snare:
+    label: It is a snare to say rashly 'Holy!' and only afterwards to reflect on vows
+    cluster: cult
+  king-winnows-wicked-with-wheel:
+    label: A wise king winnows the wicked and drives the threshing wheel over them
+    cluster: kingship
+  human-spirit-lamp-of-yhwh:
+    label: The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly
+    cluster: wisdom
+  strength-of-young-grey-hair-of-old:
+    label: The glory of young men is their strength, the splendor of the old their grey hair
+    cluster: wisdom
+  blows-cleanse-inner-parts:
+    label: Bruising wounds scour away evil; blows cleanse the inner chambers
+    cluster: wisdom
+  kings-heart-water-channels-in-gods-hand:
+    label: The king's heart is like channels of water in YHWH's hand; he turns it wherever he wishes
+    cluster: kingship
+  treasure-by-lies-fleeting-vapor:
+    label: Treasures gained by a lying tongue are a driven vapor (hevel), a snare of death
+    cluster: wisdom
+  roof-corner-better-than-contentious-wife:
+    label: Better to live in a corner of the roof or in the desert than with a contentious woman
+    cluster: wisdom
+  deaf-to-poor-unanswered:
+    label: Whoever stops his ear at the cry of the poor will himself cry and not be answered
+    cluster: wisdom
+  secret-gift-pacifies-anger:
+    label: A gift in secret averts anger and a bribe in the bosom strong wrath
+    cluster: wisdom
+  lover-of-pleasure-becomes-poor:
+    label: He who loves pleasure, wine and oil will not grow rich
+    cluster: wisdom
+  wise-man-scales-city-of-mighty:
+    label: A wise man scales the city of the mighty and brings down its trusted stronghold
+    cluster: wisdom
+  sluggard-killed-by-desire:
+    label: The desire of the sluggard kills him, for his hands refuse to work
+    cluster: wisdom
+  victory-belongs-to-yhwh-not-horse:
+    label: The horse is made ready for the day of battle, but victory belongs to YHWH; no wisdom avails against him
+    cluster: theology
+  good-name-better-than-riches:
+    label: A good name is to be chosen rather than great riches, favor rather than silver and gold
+    cluster: wisdom
+  rich-and-poor-same-maker:
+    label: Rich and poor meet together; YHWH is the maker of them all
+    cluster: wisdom
+  prudent-sees-danger-and-hides:
+    label: The prudent sees evil and hides; the simple go on and suffer for it
+    cluster: wisdom
+  train-up-child-in-his-way:
+    label: Train up a child according to his way; when he is old he will not depart from it
+    cluster: wisdom
+  borrower-slave-of-lender:
+    label: The rich rules the poor and the borrower is slave to the lender
+    cluster: wisdom
+  good-eye-and-evil-eye:
+    label: The 'good of eye' (generous) is blessed; the 'evil of eye' (stingy, envious) is to be shunned
+    cluster: wisdom
+  sluggard-lion-in-street:
+    label: The sluggard says 'There is a lion outside; I shall be killed in the streets'
+    cluster: wisdom
+  strange-woman-deep-pit:
+    label: The mouth of the strange woman (or harlot) is a deep pit, a narrow well into which the cursed falls
+    cluster: wisdom
+  instruction-parallel-to-amenemope:
+    label: A section of sayings closely paralleling the Egyptian Instruction of Amenemope
+    cluster: wisdom
+  words-of-the-wise-heading:
+    label: A collection introduced as 'words of (or sayings belonging to) the wise'
+    cluster: wisdom
+  thirty-sayings:
+    label: The teacher says he has written 'thirty' (shalishim) sayings of counsel and knowledge
+    cluster: wisdom
+  sayings-kept-in-belly:
+    label: Sayings kept in the belly (bitn) so that they are ready together on the lips
+    cluster: wisdom
+  do-not-rob-poor-at-gate:
+    label: Do not rob the poor because he is poor nor crush the afflicted at the gate, for YHWH pleads their case
+    cluster: wisdom
+  do-not-befriend-hothead:
+    label: Make no friendship with an angry man nor go with a hot-tempered man, lest you learn his ways
+    cluster: wisdom
+  surety-loses-his-bed:
+    label: If you have nothing to pay, why should your bed be taken from under you?
+    cluster: wisdom
+  skilled-man-stands-before-kings:
+    label: A man skillful in his work will stand before kings, not before obscure men
+    cluster: wisdom
+  eating-with-ruler-knife-to-throat:
+    label: When dining with a ruler put a knife to your throat and do not crave his delicacies, deceptive food
+    cluster: wisdom
+  riches-fly-away-like-eagle:
+    label: Riches make themselves wings and fly away like an eagle toward heaven
+    cluster: wisdom
+  stingy-hosts-food-vomited:
+    label: Do not eat the bread of the stingy host who says 'eat and drink' while his heart is not with you; you will vomit up the morsel
+    cluster: wisdom
+  do-not-speak-to-fool:
+    label: Do not speak in the ears of a fool, for he will despise the wisdom of your words
+    cluster: wisdom
+  orphans-field-strong-redeemer:
+    label: Do not enter the fields of the fatherless, for their redeemer (go'el) is strong and will plead their cause
+    cluster: wisdom
+  rod-saves-from-sheol:
+    label: Beat the child with the rod and you will save his soul from Sheol; he will not die
+    cluster: wisdom
+  kidneys-rejoice:
+    label: The speaker's kidneys (kilyot) exult at the son's upright words
+    cluster: wisdom
+  do-not-envy-the-wicked:
+    label: Do not envy sinners or evildoers, for there is a future (aharit) and your hope will not be cut off
+    cluster: wisdom
+  glutton-and-drunkard-poverty:
+    label: Do not be among wine-bibbers and gluttonous eaters of meat, for drunkard and glutton come to poverty and rags
+    cluster: wisdom
+  buy-truth-do-not-sell:
+    label: Buy truth and do not sell it, wisdom, instruction and understanding
+    cluster: wisdom
+  give-me-your-heart-my-son:
+    label: '''My son, give me your heart and let your eyes keep my ways'''
+    cluster: wisdom
+  harlot-lurks-like-robber:
+    label: The harlot lies in wait like a robber and multiplies the faithless among men
+    cluster: wisdom
+  drunkard-woes-riddle:
+    label: 'Riddle-catalogue: ''Who has woe? who has sorrow? who has strife, wounds without cause, red eyes?'' Those who linger over wine'
+    cluster: wisdom
+  wine-bites-like-serpent:
+    label: Do not look at wine when it is red and sparkles in the cup; at the last it bites like a serpent and stings like a viper
+    cluster: wisdom
+  drunkard-like-sleeper-on-mast:
+    label: The drunkard is like one lying in the heart of the sea or on top of a mast; struck and feeling nothing, he seeks more on waking
+    cluster: wisdom
+  house-built-by-wisdom:
+    label: By wisdom a house is built and by knowledge its rooms are filled with precious riches
+    cluster: wisdom
+  wisdom-too-high-for-fool:
+    label: Wisdom is too high (like corals, ra'mot) for a fool; he does not open his mouth in the gate
+    cluster: wisdom
+  schemer-called-master-of-plots:
+    label: He who plans evil will be called a master of schemes (ba'al mezimmot)
+    cluster: wisdom
+  rescue-those-led-to-death:
+    label: Rescue those being taken to death; do not say 'we did not know', for the weigher of hearts knows
+    cluster: wisdom
+  wisdom-sweet-as-honey:
+    label: Eat honey, my son, for it is good; so is wisdom sweet to your soul
+    cluster: wisdom
+  righteous-falls-seven-times-rises:
+    label: The righteous falls seven times and rises again, but the wicked stumble in calamity
+    cluster: wisdom
+  do-not-rejoice-at-enemys-fall:
+    label: Do not rejoice when your enemy falls, lest YHWH see it, be displeased and turn his anger from him
+    cluster: wisdom
+  fear-god-and-king:
+    label: Fear YHWH and the king, and do not mix with those who seek change
+    cluster: kingship
+  partiality-in-judgment-condemned:
+    label: Showing partiality in judgment is not good; he who tells the wicked 'you are righteous' is cursed by peoples
+    cluster: law
+  honest-answer-kiss-on-lips:
+    label: He who gives an honest answer kisses the lips
+    cluster: wisdom
+  prepare-field-before-house:
+    label: Prepare your work outside and get your field ready; afterwards build your house
+    cluster: wisdom
+  renounce-retaliation:
+    label: Do not say 'I will do to him as he has done to me; I will pay the man back for his deed'
+    cluster: wisdom
+  sluggards-overgrown-field:
+    label: The wise man passes the field of the sluggard, overgrown with thorns and nettles, its stone wall broken down, and draws a lesson
+    cluster: wisdom
+  little-sleep-little-slumber:
+    label: '''A little sleep, a little slumber, a little folding of the hands'', and poverty comes like a robber, want like an armed man'
+    cluster: wisdom
+  hezekiahs-men-copy-proverbs:
+    label: Proverbs of Solomon 'copied out' (he'tiqu) by the men of Hezekiah king of Judah
+    cluster: wisdom
+  glory-of-god-to-conceal-kings-to-search:
+    label: It is the glory of God to conceal a matter and the glory of kings to search it out
+    cluster: kingship
+  kings-heart-unsearchable:
+    label: As heaven for height and earth for depth, so the heart of kings is unsearchable
+    cluster: kingship
+  dross-removed-from-silver:
+    label: Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the throne is established
+    cluster: kingship
+  take-lowest-seat-before-king:
+    label: Do not put yourself forward before the king; better to be told 'Come up here' than to be humbled before a noble
+    cluster: wisdom
+  apples-of-gold-in-silver:
+    label: A word fitly spoken is like apples of gold in settings of silver
+    cluster: wisdom
+  faithful-messenger-cold-snow-at-harvest:
+    label: Like the cold of snow in harvest time is a faithful messenger to those who send him
+    cluster: wisdom
+  clouds-without-rain-boaster:
+    label: Clouds and wind without rain is a man who boasts of a gift he does not give
+    cluster: wisdom
+  soft-tongue-breaks-bone:
+    label: With patience a ruler is persuaded and a soft tongue breaks a bone
+    cluster: wisdom
+  enough-honey-lest-you-vomit:
+    label: If you find honey eat only enough, lest you be sated and vomit it
+    cluster: wisdom
+  seldom-visit-neighbor:
+    label: Let your foot be seldom in your neighbor's house, lest he grow weary of you and hate you
+    cluster: wisdom
+  treacherous-trust-bad-tooth:
+    label: Trust in a faithless man in time of trouble is like a broken tooth or a slipping foot
+    cluster: wisdom
+  songs-to-heavy-heart-vinegar-on-soda:
+    label: Singing songs to a heavy heart is like taking off a garment on a cold day or vinegar on soda (neter)
+    cluster: wisdom
+  feed-enemy-heap-coals:
+    label: If your enemy is hungry give him bread and if thirsty water, for you will heap coals of fire on his head and YHWH will reward you
+    cluster: wisdom
+  north-wind-brings-rain:
+    label: The north wind brings forth rain, and a backbiting tongue angry looks
+    cluster: wisdom
+  good-news-cold-water:
+    label: Like cold water to a weary soul is good news from a far country
+    cluster: wisdom
+  righteous-yielding-muddied-spring:
+    label: A righteous man who gives way before the wicked is like a muddied spring or polluted fountain
+    cluster: wisdom
+  city-without-wall-no-self-control:
+    label: A man without self-restraint is like a city broken into, without walls
+    cluster: wisdom
+  honor-unfit-for-fool:
+    label: Like snow in summer or rain at harvest, honor is not fitting for a fool
+    cluster: wisdom
+  causeless-curse-does-not-alight:
+    label: Like a fluttering sparrow or a flying swallow, a curse without cause does not alight
+    cluster: magic
+  answer-and-do-not-answer-fool:
+    label: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly'''
+    cluster: wisdom
+  message-by-fool-cuts-off-feet:
+    label: He who sends a message by the hand of a fool cuts off his own feet and drinks violence
+    cluster: wisdom
+  proverb-in-mouth-of-fools:
+    label: A proverb (mashal) in the mouth of fools is like lame legs or a thorn in a drunkard's hand
+    cluster: wisdom
+  stone-bound-in-sling:
+    label: Giving honor to a fool is like binding a stone in a sling
+    cluster: wisdom
+  dog-returns-to-vomit:
+    label: As a dog returns to its vomit, so a fool repeats his folly
+    cluster: wisdom
+  wise-in-own-eyes-worse-than-fool:
+    label: There is more hope for a fool than for a man wise in his own eyes
+    cluster: wisdom
+  sluggard-turns-on-bed-like-door:
+    label: As a door turns on its hinge, so does the sluggard on his bed
+    cluster: wisdom
+  sluggard-wiser-than-seven:
+    label: The sluggard is wiser in his own eyes than seven who answer with discretion
+    cluster: wisdom
+  meddler-seizes-dog-by-ears:
+    label: He who meddles in a quarrel not his own is like one who seizes a passing dog by the ears
+    cluster: wisdom
+  deceiver-says-only-joking:
+    label: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says 'I was only joking'
+    cluster: wisdom
+  no-wood-fire-goes-out:
+    label: Without wood the fire goes out; without a whisperer quarreling ceases
+    cluster: wisdom
+  glazed-pot-hypocrite:
+    label: Burning lips with an evil heart are like silver dross glazed over an earthen pot
+    cluster: wisdom
+  seven-abominations-in-heart:
+    label: When the hater speaks graciously, do not believe him, for seven abominations are in his heart
+    cluster: wisdom
+  rolled-stone-returns:
+    label: He who rolls a stone, it will come back upon him
+    cluster: wisdom
+  do-not-boast-of-tomorrow:
+    label: Do not boast about tomorrow, for you do not know what a day may bring forth
+    cluster: wisdom
+  let-stranger-praise-you:
+    label: Let another praise you and not your own mouth, a stranger and not your own lips
+    cluster: wisdom
+  fools-vexation-heavier-than-sand:
+    label: A stone is heavy and sand weighty, but a fool's provocation is heavier than both
+    cluster: wisdom
+  wounds-of-friend-faithful:
+    label: Open rebuke is better than hidden love; faithful are the wounds of a friend, profuse the kisses of an enemy
+    cluster: wisdom
+  hungry-finds-bitter-sweet:
+    label: The sated soul tramples honey; to the hungry soul every bitter thing is sweet
+    cluster: wisdom
+  wanderer-like-bird-from-nest:
+    label: Like a bird that strays from its nest is a man who strays from his place
+    cluster: wisdom
+  near-neighbor-better-than-far-brother:
+    label: Better a neighbor who is near than a brother far away
+    cluster: wisdom
+  loud-morning-blessing-a-curse:
+    label: He who blesses his neighbor with a loud voice early in the morning, it will be counted to him as a curse
+    cluster: wisdom
+  iron-sharpens-iron:
+    label: Iron sharpens iron, and one man sharpens the face of his friend
+    cluster: wisdom
+  water-reflects-face-heart-reflects-man:
+    label: As in water face answers to face, so the heart of man to man
+    cluster: wisdom
+  sheol-and-eyes-never-satisfied:
+    label: Sheol and Abaddon are never satisfied, and the eyes of man are never satisfied
+    cluster: wisdom
+  praise-tests-man-like-crucible:
+    label: The crucible is for silver and the furnace for gold, and a man is tested by his praise
+    cluster: wisdom
+  fool-in-mortar-with-pestle:
+    label: Though you crush a fool in a mortar with a pestle among the grain, his folly will not leave him
+    cluster: wisdom
+  know-your-flocks-wealth-not-forever:
+    label: Know the condition of your flocks, for riches and the crown do not last forever; lambs and goats provide clothing, field and milk
+    cluster: wisdom
+  wicked-flee-when-none-pursue:
+    label: The wicked flee when no one pursues, but the righteous are bold as a lion
+    cluster: wisdom
+  many-rulers-for-sinful-land:
+    label: When a land transgresses it has many rulers; with a man of understanding it endures
+    cluster: kingship
+  oppressing-poor-man-like-flooding-rain:
+    label: A poor man who oppresses the poor is like a beating rain that leaves no food
+    cluster: wisdom
+  torah-keepers-fight-wicked:
+    label: Those who forsake the torah praise the wicked; those who keep the torah contend with them
+    cluster: wisdom
+  usurers-wealth-goes-to-generous:
+    label: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+    cluster: wisdom
+  prayer-of-torah-refuser-abomination:
+    label: He who turns his ear from hearing the torah, even his prayer is an abomination
+    cluster: cult
+  confess-and-forsake-obtain-mercy:
+    label: He who conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy
+    cluster: theology
+  wicked-ruler-roaring-lion-charging-bear:
+    label: A wicked ruler over a poor people is a roaring lion and a charging bear
+    cluster: kingship
+  bloodguilty-flees-to-pit:
+    label: A man burdened with the blood of a life will flee to the pit; let no one support him
+    cluster: law
+  haste-to-be-rich-not-unpunished:
+    label: A faithful man has many blessings, but he who hastens to be rich will not go unpunished
+    cluster: wisdom
+  robbing-parents-no-sin-claim:
+    label: He who robs his father or mother and says 'It is no transgression' is companion to a destroyer
+    cluster: wisdom
+  giver-to-poor-lacks-nothing:
+    label: He who gives to the poor will not lack, but he who hides his eyes will get many curses
+    cluster: wisdom
+  people-hide-when-wicked-rise:
+    label: When the wicked rise men hide themselves; when they perish the righteous increase
+    cluster: kingship
+  stiff-necked-suddenly-broken:
+    label: He who is often reproved yet stiffens his neck will suddenly be broken beyond healing
+    cluster: wisdom
+  people-groan-under-wicked-ruler:
+    label: When the righteous increase the people rejoice; when the wicked rule the people groan
+    cluster: kingship
+  consorting-with-harlots-wastes-wealth:
+    label: He who keeps company with harlots squanders wealth
+    cluster: wisdom
+  flatterer-spreads-net:
+    label: A man who flatters his neighbor spreads a net for his feet
+    cluster: wisdom
+  fool-vents-all-his-spirit:
+    label: A fool gives full vent to his spirit, but the wise quietly holds it back
+    cluster: wisdom
+  ruler-listening-to-lies-corrupt-servants:
+    label: If a ruler listens to lies, all his servants become wicked
+    cluster: kingship
+  yhwh-gives-light-to-eyes-of-both:
+    label: The poor and the oppressor meet; YHWH gives light to the eyes of both
+    cluster: theology
+  without-vision-people-run-wild:
+    label: Where there is no vision (hazon) the people cast off restraint, but happy is he who keeps the torah
+    cluster: prophecy
+  slave-not-corrected-by-words:
+    label: A slave is not corrected by words; though he understands he will not respond
+    cluster: wisdom
+  pampered-slave-becomes-heir:
+    label: He who pampers his slave from youth will in the end find him an heir or a grief (manon)
+    cluster: wisdom
+  accomplice-hears-curse-silent:
+    label: The partner of a thief hates his own soul; he hears the adjuration (alah) and does not testify
+    cluster: law
+  fear-of-man-a-snare:
+    label: The fear of man lays a snare, but he who trusts in YHWH is set on high
+    cluster: wisdom
+  mutual-abomination-righteous-wicked:
+    label: The unjust man is an abomination to the righteous, and the upright an abomination to the wicked
+    cluster: wisdom
+  words-of-agur:
+    label: Sayings attributed to Agur son of Yakeh, an oracle (massa) addressed to Ithiel and Ucal
+    cluster: wisdom
+  sage-confesses-brutish-ignorance:
+    label: The sage declares himself more brutish than any man, without human understanding or knowledge of the Holy One
+    cluster: wisdom
+  who-ascended-to-heaven-and-came-down:
+    label: Who has gone up to heaven and come down, gathered the wind in his fists, wrapped the waters in a garment? What is his name and his son's name?
+    cluster: cosmology
+  name-of-his-son-riddle:
+    label: 'Riddle question about God (the creator): ''What is his name, and what is the name of his son?'''
+    cluster: theology
+  every-word-of-god-refined:
+    label: Every word of God is refined (tested); he is a shield to those who take refuge in him
+    cluster: theology
+  do-not-add-to-gods-words:
+    label: Do not add to his words lest he rebuke you and you be found a liar
+    cluster: theology
+  prayer-neither-poverty-nor-riches:
+    label: 'Prayer for two things: keep falsehood far and give neither poverty nor riches, only my allotted bread, lest I deny God or steal'
+    cluster: wisdom
+  do-not-slander-slave-to-master:
+    label: Do not slander a slave to his master lest he curse you
+    cluster: wisdom
+  generation-catalogue-of-vices:
+    label: 'Catalogue of a corrupt ''generation'' (dor): cursing parents, self-righteous yet unwashed, haughty, with sword-teeth devouring the poor'
+    cluster: wisdom
+  numerical-saying-x-x-plus-one:
+    label: 'Graded numerical saying: ''Three things... and four...'' (x / x+1)'
+    cluster: wisdom
+  leech-with-two-daughters:
+    label: 'The leech (''aluqah) has two daughters: ''Give, give!'''
+    cluster: wisdom
+  four-things-never-satisfied:
+    label: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire that never says ''Enough'''
+    cluster: wisdom
+  ravens-peck-eye-mocking-parent:
+    label: The eye that mocks a father and scorns a mother will be pecked out by ravens of the valley and eaten by young vultures
+    cluster: wisdom
+  way-of-eagle-serpent-ship-man-with-maiden:
+    label: 'Four wonders: the way of an eagle in the sky, a serpent on a rock, a ship in the sea, and a man with a young woman (''almah)'
+    cluster: wisdom
+  adulteress-eats-wipes-mouth:
+    label: The adulteress eats, wipes her mouth and says 'I have done no wrong'
+    cluster: wisdom
+  four-things-earth-cannot-bear:
+    label: 'Under four the earth trembles: a slave who becomes king, a fool sated with food, an unloved woman who marries, a maid who supplants her mistress'
+    cluster: wisdom
+  four-small-wise-creatures:
+    label: 'Four small but wise creatures: ants storing food in summer, rock-badgers housed in rock, locusts with no king marching in ranks, the lizard in kings'' palaces'
+    cluster: wisdom
+  ant-stores-food-in-summer:
+    label: The ant, a people without strength, prepares its food in summer
+    cluster: wisdom
+  locusts-without-king-in-ranks:
+    label: The locusts have no king yet all go out in ranks
+    cluster: wisdom
+  four-stately-in-stride:
+    label: 'Four stately in stride: the lion mightiest of beasts, the strutting rooster (zarzir), the he-goat, and a king with his army'
+    cluster: wisdom
+  hand-on-mouth-silence:
+    label: If you have been foolish in exalting yourself, put your hand on your mouth
+    cluster: wisdom
+  churning-milk-butter-nose-blood-wrath-strife:
+    label: Pressing milk produces butter, pressing the nose produces blood, pressing anger produces strife (pun on af 'nose/anger')
+    cluster: wisdom
+  words-of-lemuel:
+    label: Sayings of King Lemuel, an oracle (massa) his mother taught him
+    cluster: wisdom
+  queen-mother-instructs-king:
+    label: A king's mother instructs her son in royal conduct
+    cluster: kingship
+  son-of-my-vows:
+    label: The mother addresses the king as 'son of my womb, son of my vows' (bar, Aramaic 'son')
+    cluster: wisdom
+  king-not-to-give-strength-to-women:
+    label: The king is not to give his strength to women nor his ways to those who destroy kings
+    cluster: kingship
+  kings-must-not-drink-wine:
+    label: It is not for kings to drink wine nor for rulers strong drink, lest they forget the law and pervert justice for the afflicted
+    cluster: kingship
+  strong-drink-for-the-perishing:
+    label: Give strong drink to him who is perishing and wine to the bitter of soul, that he may forget his poverty
+    cluster: wisdom
+  open-mouth-for-the-mute:
+    label: Open your mouth for the mute, for the rights of all the destitute; judge righteously for the poor
+    cluster: kingship
+  woman-of-valor-poem:
+    label: 'Poem praising the ''woman of valor'' (eshet hayil): who can find her? Her worth is far beyond pearls'
+    cluster: wisdom
+  valiant-wife-works-wool-and-flax-spindle:
+    label: The ideal wife works wool and flax, holds the distaff and spindle, makes and sells linen garments and belts to the merchant
+    cluster: wisdom
+  valiant-wife-like-merchant-ships:
+    label: She is like merchant ships, bringing her food from afar
+    cluster: wisdom
+  valiant-wife-rises-at-night-lamp-not-out:
+    label: She rises while it is still night to feed her household; her lamp does not go out at night
+    cluster: wisdom
+  valiant-wife-buys-field-plants-vineyard:
+    label: She considers a field and buys it; from her own earnings she plants a vineyard
+    cluster: wisdom
+  valiant-wife-household-clad-in-scarlet:
+    label: She fears no snow, for her household is clothed in scarlet; she wears fine linen and purple
+    cluster: wisdom
+  husband-known-in-gates-with-elders:
+    label: Her husband is known in the gates when he sits among the elders of the land
+    cluster: wisdom
+  valiant-wife-laughs-at-future:
+    label: Strength and dignity are her clothing and she laughs at the time to come
+    cluster: wisdom
+  torah-of-hesed-on-her-tongue:
+    label: She opens her mouth in wisdom and the teaching of kindness (torat hesed) is on her tongue
+    cluster: wisdom
+  charm-false-beauty-vain-god-fearing-woman:
+    label: Charm is deceptive and beauty is vapor (hevel); a woman who fears YHWH is to be praised
+    cluster: wisdom
+  children-and-husband-praise-wife:
+    label: 'Her children rise up and call her blessed; her husband praises her: ''Many women have done valiantly, but you surpass them all'''
+    cluster: wisdom
+units:
+- id: hb-prov-9-wisdom-and-folly-banquets
+  tradition: judaism
+  title: Lady Wisdom's house and banquet versus Woman Folly
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 9:1-18
+  tags:
+  - motif: wisdom-personified-as-woman
+    refs:
+    - Prov 9:1
+    - Prov 9:3
+    note: hokhmot, plural of majesty, with feminine verbs
+  - motif: wisdom-builds-house-seven-pillars
+    refs:
+    - Prov 9:1
+  - motif: wisdom-banquet-bread-and-mixed-wine
+    refs:
+    - Prov 9:2
+    - Prov 9:5
+    note: '''Come, eat of my bread and drink of the wine I have mixed'''
+  - motif: wisdom-calls-from-heights-of-city
+    refs:
+    - Prov 9:3
+    - Prov 9:14
+    note: she sends out her young women (na'arot)
+  - motif: rival-women-identical-invitation
+    refs:
+    - Prov 9:4
+    - Prov 9:16
+  - motif: do-not-rebuke-scoffer
+    refs:
+    - Prov 9:7
+    - Prov 9:8
+  - motif: fear-of-lord-is-wisdom
+    refs:
+    - Prov 9:10
+    note: '''the beginning (tehillat) of wisdom is the fear of YHWH, knowledge of the Holy One(s) is understanding'''
+  - motif: wisdom-prolongs-life
+    refs:
+    - Prov 9:11
+  - motif: folly-personified-as-woman
+    refs:
+    - Prov 9:13
+    - Prov 9:14
+    note: eshet kesilut, sits on a seat at the door of her house
+  - motif: stolen-waters-sweet
+    refs:
+    - Prov 9:17
+  - motif: guests-of-folly-in-sheol
+    refs:
+    - Prov 9:18
+  - motif: rephaim-shades
+    refs:
+    - Prov 9:18
+  hints:
+  - Sirach 24:19-21 and John 6:35 (bread of life) echo Wisdom's banquet; rabbinic exegesis read the seven pillars as seven days of creation or seven books of Torah (Lev. Rab. 11).
+  - Compare Wisdom 'building a house' with the Quranic invitation to the 'abode of peace' (Q 10:25).
+- id: hb-prov-10-solomon-sayings
+  tradition: judaism
+  title: First Solomonic collection begins (antithetic sayings on righteous and wicked)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 10:1-32
+  tags:
+  - motif: solomonic-proverb-collection-heading
+    refs:
+    - Prov 10:1
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 10:1
+  - motif: righteousness-delivers-from-death
+    refs:
+    - Prov 10:2
+    note: tsedaqah later read as almsgiving (Tob 4:10; b. Shabb. 156b)
+  - motif: diligent-hand-enriches-slack-hand-poor
+    refs:
+    - Prov 10:4
+  - motif: gather-in-summer-sleep-in-harvest
+    refs:
+    - Prov 10:5
+  - motif: name-of-wicked-rots
+    refs:
+    - Prov 10:7
+  - motif: winking-eye-malice
+    refs:
+    - Prov 10:10
+  - motif: fountain-of-life
+    refs:
+    - Prov 10:11
+  - motif: love-covers-all-offenses
+    refs:
+    - Prov 10:12
+  - motif: rod-for-back-of-fool
+    refs:
+    - Prov 10:13
+  - motif: wealth-as-fortified-city
+    refs:
+    - Prov 10:15
+  - motif: restraint-of-speech-wise
+    refs:
+    - Prov 10:19
+  - motif: wicked-pass-like-storm
+    refs:
+    - Prov 10:25
+  - motif: sluggard-like-vinegar-and-smoke
+    refs:
+    - Prov 10:26
+  - motif: wisdom-prolongs-life
+    refs:
+    - Prov 10:27
+  - motif: righteous-inherit-land-wicked-uprooted
+    refs:
+    - Prov 10:30
+  hints:
+  - 10:12 is quoted in James 5:20 and 1 Peter 4:8 ('love covers a multitude of sins').
+  - 10:7 'zekher tsaddiq livrakhah' became the standard Jewish formula for the dead (z"l).
+- id: hb-prov-11-sayings
+  tradition: judaism
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 11:1-31
+  tags:
+  - motif: just-weights-and-measures
+    refs:
+    - Prov 11:1
+    note: false balances are an abomination; a full stone (even shelemah) his delight
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 11:1
+    - Prov 11:20
+  - motif: pride-before-fall
+    refs:
+    - Prov 11:2
+  - motif: wealth-useless-on-day-of-wrath
+    refs:
+    - Prov 11:4
+  - motif: righteousness-delivers-from-death
+    refs:
+    - Prov 11:4
+  - motif: wicked-ransom-for-righteous
+    refs:
+    - Prov 11:8
+  - motif: city-rejoices-at-fall-of-wicked
+    refs:
+    - Prov 11:10
+    - Prov 11:11
+  - motif: talebearer-reveals-secrets
+    refs:
+    - Prov 11:13
+  - motif: safety-in-many-counselors
+    refs:
+    - Prov 11:14
+  - motif: warning-against-surety
+    refs:
+    - Prov 11:15
+    note: he who hates striking hands (toq'im) is secure
+  - motif: gold-ring-in-pigs-snout
+    refs:
+    - Prov 11:22
+  - motif: generous-giver-enriched
+    refs:
+    - Prov 11:24
+    - Prov 11:25
+  - motif: grain-hoarder-cursed
+    refs:
+    - Prov 11:26
+  - motif: righteous-flourish-like-foliage
+    refs:
+    - Prov 11:28
+  - motif: inherit-the-wind
+    refs:
+    - Prov 11:29
+  - motif: tree-of-life
+    refs:
+    - Prov 11:30
+    note: 'metaphorical: ''the fruit of the righteous is a tree of life'''
+  - motif: wise-takes-souls
+    refs:
+    - Prov 11:30
+  - motif: righteous-repaid-on-earth
+    refs:
+    - Prov 11:31
+  hints:
+  - 11:31 is quoted from the LXX in 1 Peter 4:18; 11:24 parallels the Quranic theme that spending in charity multiplies (Q 2:261).
+  - Egyptian Amenemope ch. 16 and the Babylonian Shamash hymn condemn the false balance.
+- id: hb-prov-12-sayings
+  tradition: judaism
+  title: Sayings on the capable wife, speech and diligence
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 12:1-28
+  tags:
+  - motif: capable-wife-crown-of-husband
+    refs:
+    - Prov 12:4
+  - motif: righteous-cares-for-animals
+    refs:
+    - Prov 12:10
+  - motif: fool-right-in-own-eyes
+    refs:
+    - Prov 12:15
+  - motif: tongue-as-sharp-weapon
+    refs:
+    - Prov 12:18
+    note: rash speech like sword-thrusts
+  - motif: healing-tongue
+    refs:
+    - Prov 12:18
+  - motif: true-and-false-witness
+    refs:
+    - Prov 12:17
+  - motif: truth-endures-lie-momentary
+    refs:
+    - Prov 12:19
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 12:22
+  - motif: anxiety-weighs-down-heart
+    refs:
+    - Prov 12:25
+  - motif: diligent-hand-enriches-slack-hand-poor
+    refs:
+    - Prov 12:24
+    - Prov 12:27
+  - motif: path-of-righteousness-no-death
+    refs:
+    - Prov 12:28
+    note: '''al-mavet, ''no death'' / immortality; LXX reads differently'
+  - motif: better-than-saying
+    refs:
+    - Prov 12:9
+  hints:
+  - 12:10 is a basis of the rabbinic principle tsa'ar ba'alei hayyim (animal suffering); cf. hadith on the woman punished for a cat.
+- id: hb-prov-13-sayings
+  tradition: judaism
+  title: Sayings on discipline, hope and companions
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 13:1-25
+  tags:
+  - motif: restraint-of-speech-wise
+    refs:
+    - Prov 13:3
+  - motif: diligent-hand-enriches-slack-hand-poor
+    refs:
+    - Prov 13:4
+  - motif: feigned-wealth-feigned-poverty
+    refs:
+    - Prov 13:7
+  - motif: lamp-of-wicked-extinguished
+    refs:
+    - Prov 13:9
+  - motif: hope-deferred-sickens-heart
+    refs:
+    - Prov 13:12
+  - motif: tree-of-life
+    refs:
+    - Prov 13:12
+    note: 'metaphorical: desire fulfilled'
+  - motif: fountain-of-life
+    refs:
+    - Prov 13:14
+    note: the teaching (torah) of the wise is a fountain of life, to turn from snares of death
+  - motif: companions-shape-character
+    refs:
+    - Prov 13:20
+  - motif: sinners-wealth-stored-for-righteous
+    refs:
+    - Prov 13:22
+  - motif: spare-the-rod
+    refs:
+    - Prov 13:24
+  hints:
+  - 13:20 parallels the hadith of the perfume-seller and the blacksmith (good and bad companions) and Menander 'bad company corrupts' (1 Cor 15:33).
+  - '13:24 compare Ahiqar: ''Spare not your son the rod''.'
+- id: hb-prov-14-sayings
+  tradition: judaism
+  title: Sayings on the wise woman, the poor and the king
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 14:1-35
+  tags:
+  - motif: wise-woman-builds-house
+    refs:
+    - Prov 14:1
+  - motif: no-oxen-clean-crib
+    refs:
+    - Prov 14:4
+  - motif: true-and-false-witness
+    refs:
+    - Prov 14:5
+    - Prov 14:25
+  - motif: heart-knows-own-bitterness
+    refs:
+    - Prov 14:10
+  - motif: way-that-seems-right-ends-in-death
+    refs:
+    - Prov 14:12
+  - motif: laughter-with-aching-heart
+    refs:
+    - Prov 14:13
+  - motif: simple-believes-everything
+    refs:
+    - Prov 14:15
+  - motif: poor-friendless-rich-many-friends
+    refs:
+    - Prov 14:20
+  - motif: fountain-of-life
+    refs:
+    - Prov 14:27
+  - motif: king-glory-in-multitude
+    refs:
+    - Prov 14:28
+  - motif: slow-to-anger-better-than-warrior
+    refs:
+    - Prov 14:29
+  - motif: envy-rots-bones
+    refs:
+    - Prov 14:30
+  - motif: oppressing-poor-insults-maker
+    refs:
+    - Prov 14:31
+  - motif: righteousness-exalts-nation
+    refs:
+    - Prov 14:34
+    note: 'hesed le''ummim hatta''t: ''kindness of peoples is sin'' read by the Talmud (b. B. Bat. 10b) as gentile charity being self-serving'
+  - motif: king-favors-wise-servant
+    refs:
+    - Prov 14:35
+- id: hb-prov-15-sayings
+  tradition: judaism
+  title: Sayings on the soft answer, prayer and better-than proverbs
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 15:1-33
+  tags:
+  - motif: soft-answer-turns-wrath
+    refs:
+    - Prov 15:1
+  - motif: eyes-of-yhwh-everywhere
+    refs:
+    - Prov 15:3
+  - motif: healing-tongue
+    refs:
+    - Prov 15:4
+  - motif: tree-of-life
+    refs:
+    - Prov 15:4
+    note: 'metaphorical: a healing tongue'
+  - motif: sacrifice-of-wicked-abomination
+    refs:
+    - Prov 15:8
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 15:8
+    - Prov 15:9
+    - Prov 15:26
+  - motif: sheol-naked-before-god-abaddon
+    refs:
+    - Prov 15:11
+    note: Sheol and Abaddon are before YHWH, how much more human hearts
+  - motif: better-than-saying
+    refs:
+    - Prov 15:16
+    - Prov 15:17
+  - motif: dinner-of-herbs-with-love
+    refs:
+    - Prov 15:17
+  - motif: slow-to-anger-better-than-warrior
+    refs:
+    - Prov 15:18
+  - motif: sluggard-path-hedge-of-thorns
+    refs:
+    - Prov 15:19
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 15:20
+  - motif: safety-in-many-counselors
+    refs:
+    - Prov 15:22
+  - motif: word-in-season
+    refs:
+    - Prov 15:23
+  - motif: path-of-life-upward-from-sheol
+    refs:
+    - Prov 15:24
+  - motif: god-guards-widows-boundary
+    refs:
+    - Prov 15:25
+  - motif: hater-of-bribes-lives
+    refs:
+    - Prov 15:27
+  - motif: god-hears-prayer-of-righteous
+    refs:
+    - Prov 15:29
+  - motif: humility-before-honor
+    refs:
+    - Prov 15:33
+  - motif: fear-of-lord-is-wisdom
+    refs:
+    - Prov 15:33
+    note: fear of YHWH is the discipline of wisdom
+  hints:
+  - 15:16-17 better-than sayings parallel Amenemope ch. 6 ('better is bread with a happy heart than riches with sorrow').
+- id: hb-prov-16-sayings
+  tradition: judaism
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 16:1-33
+  tags:
+  - motif: man-plans-god-disposes
+    refs:
+    - Prov 16:1
+    - Prov 16:9
+  - motif: god-weighs-hearts
+    refs:
+    - Prov 16:2
+    note: 'tokhen ruhot: YHWH is the ''weigher of spirits'''
+  - motif: roll-works-onto-yhwh
+    refs:
+    - Prov 16:3
+  - motif: god-made-all-for-purpose-even-wicked
+    refs:
+    - Prov 16:4
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 16:5
+    - Prov 16:12
+  - motif: atonement-by-loyalty-and-truth
+    refs:
+    - Prov 16:6
+  - motif: enemies-at-peace-with-righteous
+    refs:
+    - Prov 16:7
+  - motif: better-than-saying
+    refs:
+    - Prov 16:8
+    - Prov 16:16
+    - Prov 16:19
+    - Prov 16:32
+  - motif: oracle-on-kings-lips
+    refs:
+    - Prov 16:10
+  - motif: just-weights-and-measures
+    refs:
+    - Prov 16:11
+    note: balance and scales are YHWH's; all the weights of the bag are his work
+  - motif: throne-established-by-righteousness
+    refs:
+    - Prov 16:12
+  - motif: kings-wrath-messengers-of-death
+    refs:
+    - Prov 16:14
+  - motif: kings-face-light-and-spring-rain
+    refs:
+    - Prov 16:15
+  - motif: wisdom-better-than-gold
+    refs:
+    - Prov 16:16
+  - motif: pride-before-fall
+    refs:
+    - Prov 16:18
+  - motif: pleasant-words-honeycomb
+    refs:
+    - Prov 16:24
+  - motif: way-that-seems-right-ends-in-death
+    refs:
+    - Prov 16:25
+  - motif: hunger-drives-laborer
+    refs:
+    - Prov 16:26
+  - motif: scoundrel-speech-scorching-fire
+    refs:
+    - Prov 16:27
+  - motif: whisperer-separates-friends
+    refs:
+    - Prov 16:28
+  - motif: winking-eye-malice
+    refs:
+    - Prov 16:30
+  - motif: grey-hair-crown-of-glory
+    refs:
+    - Prov 16:31
+  - motif: slow-to-anger-better-than-warrior
+    refs:
+    - Prov 16:32
+  - motif: lot-cast-into-lap
+    refs:
+    - Prov 16:33
+  hints:
+  - 16:2 'YHWH weighs the spirits' recalls the Egyptian weighing of the heart before Thoth/Osiris (Book of the Dead 125) and Quran 21:47 (scales of justice).
+  - 16:9 resembles Amenemope 19 ('the words men say are one thing, what the god does is another') and the proverb homo proponit, Deus disponit.
+  - 16:32 parallels the hadith 'the strong man is not the wrestler but the one who controls himself in anger' and Pirqe Avot 4:1.
+- id: hb-prov-17-sayings
+  tradition: judaism
+  title: Sayings on strife, bribes, friends and the silent fool
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 17:1-28
+  tags:
+  - motif: dry-morsel-in-peace
+    refs:
+    - Prov 17:1
+  - motif: better-than-saying
+    refs:
+    - Prov 17:1
+    - Prov 17:12
+  - motif: wise-slave-inherits-with-sons
+    refs:
+    - Prov 17:2
+  - motif: crucible-for-silver-yhwh-tests-hearts
+    refs:
+    - Prov 17:3
+  - motif: mocking-poor-insults-maker
+    refs:
+    - Prov 17:5
+  - motif: grandchildren-crown-of-elders
+    refs:
+    - Prov 17:6
+  - motif: bribe-as-charm-stone
+    refs:
+    - Prov 17:8
+  - motif: love-covers-all-offenses
+    refs:
+    - Prov 17:9
+    note: he who covers an offense seeks love; repeating a matter separates friends
+  - motif: rebuke-better-than-hundred-blows
+    refs:
+    - Prov 17:10
+  - motif: bereaved-bear-rather-than-fool
+    refs:
+    - Prov 17:12
+  - motif: evil-for-good-never-leaves-house
+    refs:
+    - Prov 17:13
+  - motif: strife-like-releasing-water
+    refs:
+    - Prov 17:14
+  - motif: justifying-wicked-condemning-righteous
+    refs:
+    - Prov 17:15
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 17:15
+  - motif: money-in-fools-hand-to-buy-wisdom
+    refs:
+    - Prov 17:16
+  - motif: friend-loves-brother-born-for-adversity
+    refs:
+    - Prov 17:17
+  - motif: warning-against-surety
+    refs:
+    - Prov 17:18
+  - motif: cheerful-heart-good-medicine
+    refs:
+    - Prov 17:22
+  - motif: bribe-from-bosom-perverts-justice
+    refs:
+    - Prov 17:23
+  - motif: eyes-of-fool-on-ends-of-earth
+    refs:
+    - Prov 17:24
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 17:21
+    - Prov 17:25
+    note: 'inverse: the fool''s father has no joy'
+  - motif: silent-fool-thought-wise
+    refs:
+    - Prov 17:28
+  - motif: restraint-of-speech-wise
+    refs:
+    - Prov 17:27
+  hints:
+  - 17:28 parallels the Latin 'si tacuisses, philosophus mansisses' and the hadith 'whoever believes in God... let him speak good or keep silent'.
+  - 17:2 the wise slave inheriting resembles Ahiqar's adopted heir and Gen 15:3 (Eliezer).
+- id: hb-prov-18-sayings
+  tradition: judaism
+  title: Sayings on the tongue, the strong tower and the lot
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 18:1-24
+  tags:
+  - motif: words-as-deep-waters
+    refs:
+    - Prov 18:4
+  - motif: fountain-of-life
+    refs:
+    - Prov 18:4
+    note: meqor hokhmah, 'fountain of wisdom'
+  - motif: justifying-wicked-condemning-righteous
+    refs:
+    - Prov 18:5
+    note: partiality to the wicked in judgment
+  - motif: gossip-like-delicacies-in-belly
+    refs:
+    - Prov 18:8
+  - motif: diligent-hand-enriches-slack-hand-poor
+    refs:
+    - Prov 18:9
+    note: the slack worker is brother to the destroyer
+  - motif: name-of-yhwh-strong-tower
+    refs:
+    - Prov 18:10
+  - motif: wealth-as-fortified-city
+    refs:
+    - Prov 18:11
+  - motif: pride-before-fall
+    refs:
+    - Prov 18:12
+  - motif: humility-before-honor
+    refs:
+    - Prov 18:12
+  - motif: answer-before-hearing-folly
+    refs:
+    - Prov 18:13
+  - motif: gift-opens-way-to-great
+    refs:
+    - Prov 18:16
+  - motif: hear-both-sides
+    refs:
+    - Prov 18:17
+  - motif: lot-ends-disputes
+    refs:
+    - Prov 18:18
+  - motif: offended-brother-harder-than-city
+    refs:
+    - Prov 18:19
+  - motif: death-and-life-in-power-of-tongue
+    refs:
+    - Prov 18:21
+  - motif: finding-wife-finding-good
+    refs:
+    - Prov 18:22
+  - motif: poor-friendless-rich-many-friends
+    refs:
+    - Prov 18:23
+    note: the poor speaks entreaties, the rich answers harshly
+  - motif: friend-closer-than-brother
+    refs:
+    - Prov 18:24
+  hints:
+  - 18:21 is central to Jewish laws of lashon hara and parallels the hadith on the tongue casting people into the Fire; cf. James 3:5-10.
+- id: hb-prov-19-sayings
+  tradition: judaism
+  title: Sayings on the poor, the king's wrath and the sluggard
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 19:1-29
+  tags:
+  - motif: better-than-saying
+    refs:
+    - Prov 19:1
+    - Prov 19:22
+  - motif: fool-rages-against-yhwh
+    refs:
+    - Prov 19:3
+  - motif: poor-friendless-rich-many-friends
+    refs:
+    - Prov 19:4
+    - Prov 19:6
+    - Prov 19:7
+  - motif: true-and-false-witness
+    refs:
+    - Prov 19:5
+    - Prov 19:9
+    - Prov 19:28
+  - motif: slow-to-anger-better-than-warrior
+    refs:
+    - Prov 19:11
+    note: his glory is to pass over an offense
+  - motif: kings-wrath-like-lions-roar
+    refs:
+    - Prov 19:12
+  - motif: quarrelsome-wife-dripping-roof
+    refs:
+    - Prov 19:13
+  - motif: finding-wife-finding-good
+    refs:
+    - Prov 19:14
+    note: house and wealth inherited from fathers, but a prudent wife is from YHWH
+  - motif: lending-to-yhwh-by-giving-to-poor
+    refs:
+    - Prov 19:17
+  - motif: spare-the-rod
+    refs:
+    - Prov 19:18
+    note: discipline your son while there is hope, but do not set your heart on killing him
+  - motif: man-plans-god-disposes
+    refs:
+    - Prov 19:21
+  - motif: wisdom-prolongs-life
+    refs:
+    - Prov 19:23
+  - motif: sluggard-hand-in-dish
+    refs:
+    - Prov 19:24
+  - motif: strike-scoffer-simple-learns
+    refs:
+    - Prov 19:25
+  - motif: son-who-assaults-parents
+    refs:
+    - Prov 19:26
+  - motif: rod-for-back-of-fool
+    refs:
+    - Prov 19:29
+  hints:
+  - 19:17 'lending to God' parallels Quran 2:245 and 57:11 ('who will lend God a goodly loan?') and Matt 25:40.
+- id: hb-prov-20-sayings
+  tradition: judaism
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 20:1-30
+  tags:
+  - motif: wine-a-mocker
+    refs:
+    - Prov 20:1
+  - motif: kings-wrath-like-lions-roar
+    refs:
+    - Prov 20:2
+  - motif: sluggard-does-not-plow-in-winter
+    refs:
+    - Prov 20:4
+  - motif: counsel-deep-water-drawn-out
+    refs:
+    - Prov 20:5
+  - motif: faithful-man-who-can-find
+    refs:
+    - Prov 20:6
+  - motif: king-winnows-evil-with-eyes
+    refs:
+    - Prov 20:8
+  - motif: who-can-say-heart-is-pure
+    refs:
+    - Prov 20:9
+  - motif: just-weights-and-measures
+    refs:
+    - Prov 20:10
+    - Prov 20:23
+    note: '''a stone and a stone, an ephah and an ephah'' (two standards)'
+  - motif: abomination-to-yhwh-saying
+    refs:
+    - Prov 20:10
+    - Prov 20:23
+  - motif: god-made-ear-and-eye
+    refs:
+    - Prov 20:12
+  - motif: buyer-says-bad-bad
+    refs:
+    - Prov 20:14
+  - motif: wisdom-better-than-gold
+    refs:
+    - Prov 20:15
+    note: lips of knowledge a precious vessel beyond gold and pearls
+  - motif: take-garment-of-surety
+    refs:
+    - Prov 20:16
+  - motif: warning-against-surety
+    refs:
+    - Prov 20:16
+  - motif: bread-of-deceit-gravel-in-mouth
+    refs:
+    - Prov 20:17
+  - motif: safety-in-many-counselors
+    refs:
+    - Prov 20:18
+    note: wage war by guidance (tahbulot)
+  - motif: talebearer-reveals-secrets
+    refs:
+    - Prov 20:19
+  - motif: curser-of-parents-lamp-out
+    refs:
+    - Prov 20:20
+  - motif: lamp-of-wicked-extinguished
+    refs:
+    - Prov 20:20
+  - motif: do-not-repay-evil-wait-for-yhwh
+    refs:
+    - Prov 20:22
+  - motif: man-plans-god-disposes
+    refs:
+    - Prov 20:24
+  - motif: rash-vow-snare
+    refs:
+    - Prov 20:25
+  - motif: king-winnows-wicked-with-wheel
+    refs:
+    - Prov 20:26
+  - motif: human-spirit-lamp-of-yhwh
+    refs:
+    - Prov 20:27
+  - motif: throne-established-by-righteousness
+    refs:
+    - Prov 20:28
+    note: hesed and emet guard the king
+  - motif: strength-of-young-grey-hair-of-old
+    refs:
+    - Prov 20:29
+  - motif: grey-hair-crown-of-glory
+    refs:
+    - Prov 20:29
+  - motif: blows-cleanse-inner-parts
+    refs:
+    - Prov 20:30
+  hints:
+  - 20:27 'the soul of man is the lamp of YHWH' became a key prooftext in Jewish mysticism and the custom of searching for leaven by candlelight (b. Pesah. 7b-8a); cf. the 'light' of Quran 24:35.
+  - 20:22 compare Rom 12:17-19 and Amenemope ch. 21/22 ('sit in the arms of the god').
+- id: hb-prov-21-sayings
+  tradition: judaism
+  title: Sayings on the king's heart, justice over sacrifice, and the contentious wife
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 21:1-31
+  tags:
+  - motif: kings-heart-water-channels-in-gods-hand
+    refs:
+    - Prov 21:1
+  - motif: god-weighs-hearts
+    refs:
+    - Prov 21:2
+  - motif: obedience-better-than-sacrifice
+    refs:
+    - Prov 21:3
+    note: doing righteousness and justice is more acceptable to YHWH than sacrifice
+  - motif: lamp-of-wicked-extinguished
+    refs:
+    - Prov 21:4
+    note: nir/ner of the wicked is sin
+  - motif: treasure-by-lies-fleeting-vapor
+    refs:
+    - Prov 21:6
+  - motif: roof-corner-better-than-contentious-wife
+    refs:
+    - Prov 21:9
+    - Prov 21:19
+  - motif: better-than-saying
+    refs:
+    - Prov 21:9
+    - Prov 21:19
+  - motif: strike-scoffer-simple-learns
+    refs:
+    - Prov 21:11
+  - motif: deaf-to-poor-unanswered
+    refs:
+    - Prov 21:13
+  - motif: secret-gift-pacifies-anger
+    refs:
+    - Prov 21:14
+  - motif: rephaim-shades
+    refs:
+    - Prov 21:16
+    note: the man who strays from understanding will rest in the assembly of the Rephaim
+  - motif: lover-of-pleasure-becomes-poor
+    refs:
+    - Prov 21:17
+  - motif: wicked-ransom-for-righteous
+    refs:
+    - Prov 21:18
+    note: the wicked is kofer (ransom) for the righteous
+  - motif: wise-man-scales-city-of-mighty
+    refs:
+    - Prov 21:22
+  - motif: restraint-of-speech-wise
+    refs:
+    - Prov 21:23
+  - motif: sluggard-killed-by-desire
+    refs:
+    - Prov 21:25
+  - motif: sacrifice-of-wicked-abomination
+    refs:
+    - Prov 21:27
+  - motif: true-and-false-witness
+    refs:
+    - Prov 21:28
+  - motif: man-plans-god-disposes
+    refs:
+    - Prov 21:30
+  - motif: victory-belongs-to-yhwh-not-horse
+    refs:
+    - Prov 21:30
+    - Prov 21:31
+  hints:
+  - 21:1 parallels the Egyptian image of the god guiding the king's heart, and the hadith that hearts are between two fingers of the Merciful, who turns them as he wills.
+  - 21:3 compare Hos 6:6, 1 Sam 15:22, Quran 22:37 (neither their flesh nor blood reaches God, but piety).
+- id: hb-prov-22-solomon-sayings-end
+  tradition: judaism
+  title: End of the first Solomonic collection (good name, training a child)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 22:1-16
+  tags:
+  - motif: good-name-better-than-riches
+    refs:
+    - Prov 22:1
+  - motif: rich-and-poor-same-maker
+    refs:
+    - Prov 22:2
+  - motif: prudent-sees-danger-and-hides
+    refs:
+    - Prov 22:3
+  - motif: humility-before-honor
+    refs:
+    - Prov 22:4
+    note: the reward of humility and fear of YHWH is riches, honor and life
+  - motif: train-up-child-in-his-way
+    refs:
+    - Prov 22:6
+  - motif: borrower-slave-of-lender
+    refs:
+    - Prov 22:7
+  - motif: retribution-no-innocent-perished
+    refs:
+    - Prov 22:8
+    note: he who sows injustice reaps trouble
+  - motif: good-eye-and-evil-eye
+    refs:
+    - Prov 22:9
+    note: tov 'ayin gives of his bread to the poor
+  - motif: sluggard-lion-in-street
+    refs:
+    - Prov 22:13
+  - motif: strange-woman-deep-pit
+    refs:
+    - Prov 22:14
+  - motif: spare-the-rod
+    refs:
+    - Prov 22:15
+    note: folly is bound in the heart of a youth; the rod drives it far away
+  - motif: oppressing-poor-insults-maker
+    refs:
+    - Prov 22:16
+  hints:
+  - 22:1 parallels Eccl 7:1 and the Egyptian concern for a lasting name; 22:9 'good eye/evil eye' is the basis of rabbinic 'ayin tovah / 'ayin ra'ah (m. Avot 2:9; 5:19).
+- id: hb-prov-22-amenemope-intro
+  tradition: judaism
+  title: Words of the Wise begin (Amenemope parallel), introduction and first sayings
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 22:17-29
+  tags:
+  - motif: words-of-the-wise-heading
+    refs:
+    - Prov 22:17
+  - motif: instruction-parallel-to-amenemope
+    refs:
+    - Prov 22:17
+    - Prov 22:29
+    note: the whole section 22:17-24:22
+  - motif: sayings-kept-in-belly
+    refs:
+    - Prov 22:18
+    note: 'cf. Amenemope 1: ''let them rest in the casket of your belly'''
+  - motif: thirty-sayings
+    refs:
+    - Prov 22:20
+    note: ketiv shilshom, qere shalishim; Amenemope has thirty chapters
+  - motif: do-not-rob-poor-at-gate
+    refs:
+    - Prov 22:22
+    - Prov 22:23
+    note: 'Amenemope 2: ''beware of robbing a wretch'''
+  - motif: do-not-befriend-hothead
+    refs:
+    - Prov 22:24
+    - Prov 22:25
+    note: Amenemope 9 'the heated man'
+  - motif: warning-against-surety
+    refs:
+    - Prov 22:26
+  - motif: surety-loses-his-bed
+    refs:
+    - Prov 22:27
+  - motif: do-not-move-boundary-stone
+    refs:
+    - Prov 22:28
+    note: Amenemope 6 'do not remove the markers on the boundaries of fields'
+  - motif: skilled-man-stands-before-kings
+    refs:
+    - Prov 22:29
+    note: 'Amenemope 30: ''a scribe skilled in his office finds himself worthy to be a courtier'''
+  hints:
+  - 'Instruction of Amenemope (Egypt, c. 1100 BCE): parallels identified by Erman (1924). 22:21 ''to return true words to those who sent you'' matches Amenemope''s prologue.'
+- id: hb-prov-23-amenemope-sayings
+  tradition: judaism
+  title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 23:1-14
+  tags:
+  - motif: instruction-parallel-to-amenemope
+    refs:
+    - Prov 23:1
+    - Prov 23:10
+  - motif: eating-with-ruler-knife-to-throat
+    refs:
+    - Prov 23:1
+    - Prov 23:2
+    - Prov 23:3
+    note: Amenemope 23 on eating before a noble
+  - motif: riches-fly-away-like-eagle
+    refs:
+    - Prov 23:4
+    - Prov 23:5
+    note: 'Amenemope 7: riches ''made themselves wings like geese and flew to the sky'''
+  - motif: stingy-hosts-food-vomited
+    refs:
+    - Prov 23:6
+    - Prov 23:7
+    - Prov 23:8
+    note: 'Amenemope 11: the poor man''s goods ''a choking for the throat'''
+  - motif: good-eye-and-evil-eye
+    refs:
+    - Prov 23:6
+    note: ra' 'ayin
+  - motif: do-not-speak-to-fool
+    refs:
+    - Prov 23:9
+    note: 'Amenemope 21: ''do not empty your belly to everyone'''
+  - motif: do-not-move-boundary-stone
+    refs:
+    - Prov 23:10
+  - motif: orphans-field-strong-redeemer
+    refs:
+    - Prov 23:10
+    - Prov 23:11
+  - motif: spare-the-rod
+    refs:
+    - Prov 23:13
+  - motif: rod-saves-from-sheol
+    refs:
+    - Prov 23:13
+    - Prov 23:14
+  hints:
+  - '23:13-14 matches Ahiqar (Aramaic, saying 81-82): ''if I strike you, my son, you will not die''.'
+  - 23:7 'as he reckons in his soul, so is he' is the source of the popular 'as a man thinketh'.
+- id: hb-prov-23-drunkard
+  tradition: judaism
+  title: Father's appeal, the harlot as pit, and the drunkard's woes
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 23:15-35
+  tags:
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 23:15
+    - Prov 23:24
+    - Prov 23:25
+  - motif: kidneys-rejoice
+    refs:
+    - Prov 23:16
+  - motif: do-not-envy-the-wicked
+    refs:
+    - Prov 23:17
+    - Prov 23:18
+  - motif: glutton-and-drunkard-poverty
+    refs:
+    - Prov 23:20
+    - Prov 23:21
+    note: zolel and sove, the pair from the law of the rebellious son (Deut 21:20)
+  - motif: buy-truth-do-not-sell
+    refs:
+    - Prov 23:23
+  - motif: give-me-your-heart-my-son
+    refs:
+    - Prov 23:26
+  - motif: strange-woman-deep-pit
+    refs:
+    - Prov 23:27
+    note: zonah deep pit, nokhriyyah narrow well
+  - motif: harlot-lurks-like-robber
+    refs:
+    - Prov 23:28
+  - motif: drunkard-woes-riddle
+    refs:
+    - Prov 23:29
+    - Prov 23:30
+  - motif: wine-bites-like-serpent
+    refs:
+    - Prov 23:31
+    - Prov 23:32
+  - motif: drunkard-like-sleeper-on-mast
+    refs:
+    - Prov 23:33
+    - Prov 23:34
+    - Prov 23:35
+  hints:
+  - 23:29-35 compare the Egyptian Instruction of Any on beer drinking and Quran 5:90-91 on wine (khamr) as Satan's work sowing enmity.
+- id: hb-prov-24-words-of-wise
+  tradition: judaism
+  title: End of the Words of the Wise (Amenemope parallel section)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 24:1-22
+  tags:
+  - motif: do-not-envy-the-wicked
+    refs:
+    - Prov 24:1
+    - Prov 24:19
+    - Prov 24:20
+  - motif: house-built-by-wisdom
+    refs:
+    - Prov 24:3
+    - Prov 24:4
+  - motif: safety-in-many-counselors
+    refs:
+    - Prov 24:5
+    - Prov 24:6
+  - motif: wisdom-too-high-for-fool
+    refs:
+    - Prov 24:7
+  - motif: schemer-called-master-of-plots
+    refs:
+    - Prov 24:8
+  - motif: rescue-those-led-to-death
+    refs:
+    - Prov 24:11
+    - Prov 24:12
+  - motif: god-weighs-hearts
+    refs:
+    - Prov 24:12
+    note: tokhen libbot
+  - motif: god-repays-according-to-deeds
+    refs:
+    - Prov 24:12
+  - motif: wisdom-sweet-as-honey
+    refs:
+    - Prov 24:13
+    - Prov 24:14
+  - motif: righteous-falls-seven-times-rises
+    refs:
+    - Prov 24:15
+    - Prov 24:16
+  - motif: do-not-rejoice-at-enemys-fall
+    refs:
+    - Prov 24:17
+    - Prov 24:18
+  - motif: lamp-of-wicked-extinguished
+    refs:
+    - Prov 24:20
+  - motif: fear-god-and-king
+    refs:
+    - Prov 24:21
+    - Prov 24:22
+  - motif: instruction-parallel-to-amenemope
+    refs:
+    - Prov 24:22
+    note: section close
+  hints:
+  - 24:17 is recited in the Passover tradition of spilling wine for the drowned Egyptians (cf. b. Meg. 10b) and recalls Pirqe Avot 4:19 (Samuel the Small).
+  - 24:21 is cited in 1 Peter 2:17 ('fear God, honor the king').
+- id: hb-prov-24-further-sayings-of-wise
+  tradition: judaism
+  title: '''These also are of the wise'': judgment, retaliation and the sluggard''s field'
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 24:23-34
+  tags:
+  - motif: words-of-the-wise-heading
+    refs:
+    - Prov 24:23
+  - motif: partiality-in-judgment-condemned
+    refs:
+    - Prov 24:23
+    - Prov 24:24
+    - Prov 24:25
+  - motif: honest-answer-kiss-on-lips
+    refs:
+    - Prov 24:26
+  - motif: prepare-field-before-house
+    refs:
+    - Prov 24:27
+  - motif: true-and-false-witness
+    refs:
+    - Prov 24:28
+  - motif: renounce-retaliation
+    refs:
+    - Prov 24:29
+  - motif: sluggards-overgrown-field
+    refs:
+    - Prov 24:30
+    - Prov 24:31
+    - Prov 24:32
+  - motif: little-sleep-little-slumber
+    refs:
+    - Prov 24:33
+    - Prov 24:34
+    note: doublet of Prov 6:10-11
+  hints:
+  - 24:29 contrasts with the lex talionis and parallels Matt 5:38-39 and the 'golden rule' traditions (Hillel, b. Shabb. 31a).
+  - 24:30-34 the first-person observed example (exemplum) is like the Egyptian Instruction of Any and Qohelet's 'I saw'.
+- id: hb-prov-25-hezekiah-collection
+  tradition: judaism
+  title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 25:1-28
+  tags:
+  - motif: hezekiahs-men-copy-proverbs
+    refs:
+    - Prov 25:1
+  - motif: solomonic-proverb-collection-heading
+    refs:
+    - Prov 25:1
+  - motif: glory-of-god-to-conceal-kings-to-search
+    refs:
+    - Prov 25:2
+  - motif: kings-heart-unsearchable
+    refs:
+    - Prov 25:3
+  - motif: dross-removed-from-silver
+    refs:
+    - Prov 25:4
+    - Prov 25:5
+  - motif: throne-established-by-righteousness
+    refs:
+    - Prov 25:5
+  - motif: take-lowest-seat-before-king
+    refs:
+    - Prov 25:6
+    - Prov 25:7
+  - motif: talebearer-reveals-secrets
+    refs:
+    - Prov 25:9
+    - Prov 25:10
+  - motif: apples-of-gold-in-silver
+    refs:
+    - Prov 25:11
+  - motif: word-in-season
+    refs:
+    - Prov 25:11
+  - motif: faithful-messenger-cold-snow-at-harvest
+    refs:
+    - Prov 25:13
+  - motif: clouds-without-rain-boaster
+    refs:
+    - Prov 25:14
+  - motif: soft-tongue-breaks-bone
+    refs:
+    - Prov 25:15
+  - motif: enough-honey-lest-you-vomit
+    refs:
+    - Prov 25:16
+    - Prov 25:27
+  - motif: seldom-visit-neighbor
+    refs:
+    - Prov 25:17
+  - motif: true-and-false-witness
+    refs:
+    - Prov 25:18
+    note: false witness like a club, sword and sharp arrow
+  - motif: treacherous-trust-bad-tooth
+    refs:
+    - Prov 25:19
+  - motif: songs-to-heavy-heart-vinegar-on-soda
+    refs:
+    - Prov 25:20
+  - motif: feed-enemy-heap-coals
+    refs:
+    - Prov 25:21
+    - Prov 25:22
+  - motif: north-wind-brings-rain
+    refs:
+    - Prov 25:23
+  - motif: roof-corner-better-than-contentious-wife
+    refs:
+    - Prov 25:24
+  - motif: good-news-cold-water
+    refs:
+    - Prov 25:25
+  - motif: righteous-yielding-muddied-spring
+    refs:
+    - Prov 25:26
+  - motif: city-without-wall-no-self-control
+    refs:
+    - Prov 25:28
+  hints:
+  - 25:6-7 is the basis of Jesus' parable of the wedding seats (Luke 14:8-10); 25:21-22 is quoted in Rom 12:20.
+  - '''Coals on the head'' has been linked to an Egyptian penitential rite of carrying a basin of burning coals on the head (Demotic Tale of Khamuas).'
+- id: hb-prov-26-fool-sayings
+  tradition: judaism
+  title: Sayings on the fool (the 'book of fools')
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 26:1-12
+  tags:
+  - motif: honor-unfit-for-fool
+    refs:
+    - Prov 26:1
+    - Prov 26:8
+  - motif: causeless-curse-does-not-alight
+    refs:
+    - Prov 26:2
+    note: ketiv lo' 'not', qere lo 'to him'
+  - motif: rod-for-back-of-fool
+    refs:
+    - Prov 26:3
+    note: whip for the horse, bridle for the donkey, rod for the fool's back
+  - motif: answer-and-do-not-answer-fool
+    refs:
+    - Prov 26:4
+    - Prov 26:5
+  - motif: message-by-fool-cuts-off-feet
+    refs:
+    - Prov 26:6
+  - motif: proverb-in-mouth-of-fools
+    refs:
+    - Prov 26:7
+    - Prov 26:9
+  - motif: stone-bound-in-sling
+    refs:
+    - Prov 26:8
+  - motif: dog-returns-to-vomit
+    refs:
+    - Prov 26:11
+  - motif: wise-in-own-eyes-worse-than-fool
+    refs:
+    - Prov 26:12
+  hints:
+  - 26:4-5 contradiction is discussed in b. Shabb. 30b (one concerns Torah matters, the other worldly matters); 26:11 is quoted in 2 Pet 2:22.
+- id: hb-prov-26-sluggard-quarreler-hypocrite
+  tradition: judaism
+  title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 26:13-28
+  tags:
+  - motif: sluggard-lion-in-street
+    refs:
+    - Prov 26:13
+  - motif: sluggard-turns-on-bed-like-door
+    refs:
+    - Prov 26:14
+  - motif: sluggard-hand-in-dish
+    refs:
+    - Prov 26:15
+  - motif: sluggard-wiser-than-seven
+    refs:
+    - Prov 26:16
+  - motif: meddler-seizes-dog-by-ears
+    refs:
+    - Prov 26:17
+  - motif: deceiver-says-only-joking
+    refs:
+    - Prov 26:18
+    - Prov 26:19
+  - motif: no-wood-fire-goes-out
+    refs:
+    - Prov 26:20
+    - Prov 26:21
+  - motif: gossip-like-delicacies-in-belly
+    refs:
+    - Prov 26:22
+  - motif: glazed-pot-hypocrite
+    refs:
+    - Prov 26:23
+  - motif: seven-abominations-in-heart
+    refs:
+    - Prov 26:24
+    - Prov 26:25
+    - Prov 26:26
+  - motif: digger-falls-into-own-pit
+    refs:
+    - Prov 26:27
+  - motif: rolled-stone-returns
+    refs:
+    - Prov 26:27
+  hints:
+  - '26:23 ''silver dross on potsherd'' is illuminated by Ugaritic spsg (''glaze''): ''like glaze over earthenware''. Compare Matt 23:27 (whitewashed tombs).'
+- id: hb-prov-27-sayings
+  tradition: judaism
+  title: Sayings on tomorrow, friends and the care of flocks
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 27:1-27
+  tags:
+  - motif: do-not-boast-of-tomorrow
+    refs:
+    - Prov 27:1
+  - motif: let-stranger-praise-you
+    refs:
+    - Prov 27:2
+  - motif: fools-vexation-heavier-than-sand
+    refs:
+    - Prov 27:3
+  - motif: wounds-of-friend-faithful
+    refs:
+    - Prov 27:5
+    - Prov 27:6
+  - motif: hungry-finds-bitter-sweet
+    refs:
+    - Prov 27:7
+  - motif: wanderer-like-bird-from-nest
+    refs:
+    - Prov 27:8
+  - motif: near-neighbor-better-than-far-brother
+    refs:
+    - Prov 27:10
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 27:11
+  - motif: prudent-sees-danger-and-hides
+    refs:
+    - Prov 27:12
+    note: doublet of 22:3
+  - motif: take-garment-of-surety
+    refs:
+    - Prov 27:13
+    note: doublet of 20:16
+  - motif: loud-morning-blessing-a-curse
+    refs:
+    - Prov 27:14
+  - motif: quarrelsome-wife-dripping-roof
+    refs:
+    - Prov 27:15
+    - Prov 27:16
+    note: on a rainy day; restraining her is restraining the wind
+  - motif: iron-sharpens-iron
+    refs:
+    - Prov 27:17
+  - motif: water-reflects-face-heart-reflects-man
+    refs:
+    - Prov 27:19
+  - motif: sheol-and-eyes-never-satisfied
+    refs:
+    - Prov 27:20
+  - motif: praise-tests-man-like-crucible
+    refs:
+    - Prov 27:21
+  - motif: fool-in-mortar-with-pestle
+    refs:
+    - Prov 27:22
+  - motif: know-your-flocks-wealth-not-forever
+    refs:
+    - Prov 27:23
+    - Prov 27:24
+    - Prov 27:25
+    - Prov 27:26
+    - Prov 27:27
+  hints:
+  - 27:1 parallels James 4:13-14 and Quran 31:34 / 18:23-24 (say not 'I shall do it tomorrow' without 'if God wills').
+  - 27:20 compare the hadith 'if the son of Adam had a valley of gold he would want a second; only dust fills his mouth'.
+- id: hb-prov-28-sayings
+  tradition: judaism
+  title: Sayings on torah, rulers, usury and confession
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 28:1-28
+  tags:
+  - motif: wicked-flee-when-none-pursue
+    refs:
+    - Prov 28:1
+  - motif: many-rulers-for-sinful-land
+    refs:
+    - Prov 28:2
+  - motif: oppressing-poor-man-like-flooding-rain
+    refs:
+    - Prov 28:3
+  - motif: torah-keepers-fight-wicked
+    refs:
+    - Prov 28:4
+    - Prov 28:7
+  - motif: better-than-saying
+    refs:
+    - Prov 28:6
+  - motif: prohibition-of-interest
+    refs:
+    - Prov 28:8
+    note: neshekh and tarbit
+  - motif: usurers-wealth-goes-to-generous
+    refs:
+    - Prov 28:8
+  - motif: prayer-of-torah-refuser-abomination
+    refs:
+    - Prov 28:9
+  - motif: digger-falls-into-own-pit
+    refs:
+    - Prov 28:10
+  - motif: confess-and-forsake-obtain-mercy
+    refs:
+    - Prov 28:13
+  - motif: wicked-ruler-roaring-lion-charging-bear
+    refs:
+    - Prov 28:15
+  - motif: hater-of-bribes-lives
+    refs:
+    - Prov 28:16
+    note: the ruler who hates unjust gain prolongs his days
+  - motif: bloodguilty-flees-to-pit
+    refs:
+    - Prov 28:17
+  - motif: diligent-hand-enriches-slack-hand-poor
+    refs:
+    - Prov 28:19
+    note: doublet of 12:11
+  - motif: haste-to-be-rich-not-unpunished
+    refs:
+    - Prov 28:20
+    - Prov 28:22
+  - motif: partiality-in-judgment-condemned
+    refs:
+    - Prov 28:21
+    note: for a piece of bread a man will transgress
+  - motif: good-eye-and-evil-eye
+    refs:
+    - Prov 28:22
+  - motif: robbing-parents-no-sin-claim
+    refs:
+    - Prov 28:24
+  - motif: giver-to-poor-lacks-nothing
+    refs:
+    - Prov 28:27
+  - motif: people-hide-when-wicked-rise
+    refs:
+    - Prov 28:12
+    - Prov 28:28
+  hints:
+  - 28:13 is a classic prooftext for teshuvah (confession plus abandonment of sin; Maimonides, Hilkhot Teshuvah 2) and parallels 1 John 1:9.
+  - 28:24 resembles Mark 7:11-12 (corban, depriving parents).
+- id: hb-prov-29-sayings
+  tradition: judaism
+  title: Last Hezekian sayings (vision, rulers, discipline)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 29:1-27
+  tags:
+  - motif: stiff-necked-suddenly-broken
+    refs:
+    - Prov 29:1
+  - motif: people-groan-under-wicked-ruler
+    refs:
+    - Prov 29:2
+    - Prov 29:16
+  - motif: consorting-with-harlots-wastes-wealth
+    refs:
+    - Prov 29:3
+  - motif: wise-son-gladdens-father
+    refs:
+    - Prov 29:3
+  - motif: throne-established-by-righteousness
+    refs:
+    - Prov 29:4
+    - Prov 29:14
+  - motif: flatterer-spreads-net
+    refs:
+    - Prov 29:5
+  - motif: fool-vents-all-his-spirit
+    refs:
+    - Prov 29:11
+  - motif: ruler-listening-to-lies-corrupt-servants
+    refs:
+    - Prov 29:12
+  - motif: yhwh-gives-light-to-eyes-of-both
+    refs:
+    - Prov 29:13
+  - motif: rich-and-poor-same-maker
+    refs:
+    - Prov 29:13
+  - motif: spare-the-rod
+    refs:
+    - Prov 29:15
+    - Prov 29:17
+  - motif: without-vision-people-run-wild
+    refs:
+    - Prov 29:18
+  - motif: slave-not-corrected-by-words
+    refs:
+    - Prov 29:19
+  - motif: wise-in-own-eyes-worse-than-fool
+    refs:
+    - Prov 29:20
+    note: 'a man hasty in words: more hope for a fool'
+  - motif: pampered-slave-becomes-heir
+    refs:
+    - Prov 29:21
+    note: manon is a hapax of uncertain meaning
+  - motif: pride-before-fall
+    refs:
+    - Prov 29:23
+  - motif: accomplice-hears-curse-silent
+    refs:
+    - Prov 29:24
+    note: cf. Lev 5:1, the public adjuration to testify
+  - motif: fear-of-man-a-snare
+    refs:
+    - Prov 29:25
+  - motif: mutual-abomination-righteous-wicked
+    refs:
+    - Prov 29:27
+  hints:
+  - 29:18 'where there is no vision the people perish' (KJV) is widely quoted; the Hebrew pairs prophetic vision with torah-keeping.
+- id: hb-prov-30-agur-confession
+  tradition: judaism
+  title: Words of Agur son of Yakeh, confession of ignorance and prayer
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 30:1-9
+  tags:
+  - motif: words-of-agur
+    refs:
+    - Prov 30:1
+    note: le'iti'el le'iti'el we'ukhal may also be read 'I am weary, O God, I am weary and spent'
+  - motif: sage-confesses-brutish-ignorance
+    refs:
+    - Prov 30:2
+    - Prov 30:3
+  - motif: who-ascended-to-heaven-and-came-down
+    refs:
+    - Prov 30:4
+  - motif: name-of-his-son-riddle
+    refs:
+    - Prov 30:4
+  - motif: every-word-of-god-refined
+    refs:
+    - Prov 30:5
+    note: cf. Ps 18:31
+  - motif: do-not-add-to-gods-words
+    refs:
+    - Prov 30:6
+    note: cf. Deut 4:2; 13:1
+  - motif: prayer-neither-poverty-nor-riches
+    refs:
+    - Prov 30:7
+    - Prov 30:8
+    - Prov 30:9
+    note: '''feed me with my allotted bread'' (lehem huqqi)'
+  hints:
+  - 30:4 compare John 3:13 ('no one has ascended into heaven except he who descended'), Deut 30:12, and Mesopotamian 'who can go up to heaven?' (Gilgamesh, Ludlul). Christian exegesis read 'his son' christologically.
+  - 30:8 'lehem huqqi' parallels the Lord's Prayer 'daily bread' (Matt 6:11).
+- id: hb-prov-30-numerical-sayings
+  tradition: judaism
+  title: Agur's numerical sayings (leech, four wonders, four small wise creatures)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 30:10-33
+  tags:
+  - motif: do-not-slander-slave-to-master
+    refs:
+    - Prov 30:10
+  - motif: generation-catalogue-of-vices
+    refs:
+    - Prov 30:11
+    - Prov 30:12
+    - Prov 30:13
+    - Prov 30:14
+  - motif: tongue-as-sharp-weapon
+    refs:
+    - Prov 30:14
+    note: a generation whose teeth are swords and jaws knives to devour the poor
+  - motif: leech-with-two-daughters
+    refs:
+    - Prov 30:15
+  - motif: numerical-saying-x-x-plus-one
+    refs:
+    - Prov 30:15
+    - Prov 30:18
+    - Prov 30:21
+    - Prov 30:24
+    - Prov 30:29
+  - motif: four-things-never-satisfied
+    refs:
+    - Prov 30:15
+    - Prov 30:16
+  - motif: sheol-and-eyes-never-satisfied
+    refs:
+    - Prov 30:16
+  - motif: ravens-peck-eye-mocking-parent
+    refs:
+    - Prov 30:17
+  - motif: way-of-eagle-serpent-ship-man-with-maiden
+    refs:
+    - Prov 30:18
+    - Prov 30:19
+  - motif: adulteress-eats-wipes-mouth
+    refs:
+    - Prov 30:20
+  - motif: four-things-earth-cannot-bear
+    refs:
+    - Prov 30:21
+    - Prov 30:22
+    - Prov 30:23
+  - motif: four-small-wise-creatures
+    refs:
+    - Prov 30:24
+    - Prov 30:25
+    - Prov 30:26
+    - Prov 30:27
+    - Prov 30:28
+  - motif: ant-stores-food-in-summer
+    refs:
+    - Prov 30:25
+  - motif: locusts-without-king-in-ranks
+    refs:
+    - Prov 30:27
+  - motif: four-stately-in-stride
+    refs:
+    - Prov 30:29
+    - Prov 30:30
+    - Prov 30:31
+    note: 'zarzir motnayim (''girded of loins'') uncertain: rooster, greyhound or war-horse; malkam/alqum obscure'
+  - motif: hand-on-mouth-silence
+    refs:
+    - Prov 30:32
+  - motif: churning-milk-butter-nose-blood-wrath-strife
+    refs:
+    - Prov 30:33
+  hints:
+  - Numerical sayings occur in Ugaritic poetry, Ahiqar ('two things are good, a third pleases Shamash') and Sir 25-26; Amos 1-2 uses the same form.
+  - 30:25 ants compare Quran 27:18 (the ant of Solomon) and Aesop's Ant and Grasshopper.
+- id: hb-prov-31-lemuel
+  tradition: judaism
+  title: Words of King Lemuel taught by his mother
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 31:1-9
+  tags:
+  - motif: words-of-lemuel
+    refs:
+    - Prov 31:1
+  - motif: queen-mother-instructs-king
+    refs:
+    - Prov 31:1
+  - motif: son-of-my-vows
+    refs:
+    - Prov 31:2
+    note: Aramaic bar three times; malkhin (Aramaic plural) in 31:3
+  - motif: king-not-to-give-strength-to-women
+    refs:
+    - Prov 31:3
+  - motif: kings-must-not-drink-wine
+    refs:
+    - Prov 31:4
+    - Prov 31:5
+  - motif: strong-drink-for-the-perishing
+    refs:
+    - Prov 31:6
+    - Prov 31:7
+  - motif: open-mouth-for-the-mute
+    refs:
+    - Prov 31:8
+    - Prov 31:9
+  hints:
+  - Rabbinic tradition identifies Lemuel with Solomon and his mother with Bathsheba (Num. Rab. 10:4). 31:6 is the basis of offering wine to the condemned (b. Sanh. 43a; cf. Mark 15:23).
+  - Royal instructions from a parent compare the Egyptian Instruction of Amenemhat and Merikare.
+- id: hb-prov-31-woman-of-valor
+  tradition: judaism
+  title: The woman of valor (alphabetic acrostic)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Prov 31:10-31
+  tags:
+  - motif: acrostic-poem
+    refs:
+    - Prov 31:10
+    - Prov 31:31
+    note: 22 verses aleph to tav
+  - motif: woman-of-valor-poem
+    refs:
+    - Prov 31:10
+    - Prov 31:11
+    - Prov 31:12
+  - motif: capable-wife-crown-of-husband
+    refs:
+    - Prov 31:10
+    - Prov 31:11
+  - motif: valiant-wife-works-wool-and-flax-spindle
+    refs:
+    - Prov 31:13
+    - Prov 31:19
+    - Prov 31:24
+    note: she sells belts 'to the Canaanite' (merchant)
+  - motif: valiant-wife-like-merchant-ships
+    refs:
+    - Prov 31:14
+  - motif: valiant-wife-rises-at-night-lamp-not-out
+    refs:
+    - Prov 31:15
+    - Prov 31:18
+  - motif: valiant-wife-buys-field-plants-vineyard
+    refs:
+    - Prov 31:16
+  - motif: generous-giver-enriched
+    refs:
+    - Prov 31:20
+    note: she opens her palm to the poor
+  - motif: valiant-wife-household-clad-in-scarlet
+    refs:
+    - Prov 31:21
+    - Prov 31:22
+  - motif: husband-known-in-gates-with-elders
+    refs:
+    - Prov 31:23
+  - motif: valiant-wife-laughs-at-future
+    refs:
+    - Prov 31:25
+  - motif: torah-of-hesed-on-her-tongue
+    refs:
+    - Prov 31:26
+  - motif: children-and-husband-praise-wife
+    refs:
+    - Prov 31:28
+    - Prov 31:29
+  - motif: charm-false-beauty-vain-god-fearing-woman
+    refs:
+    - Prov 31:30
+  - motif: wisdom-personified-as-woman
+    refs:
+    - Prov 31:26
+    - Prov 31:30
+    note: the poem closes the book and echoes Lady Wisdom of chs. 1-9 (interpretive)
+  hints:
+  - Sung at the Sabbath table (Eshet Hayil); midrash reads it of Sarah, Torah, the Shekhinah or the soul. Compare the ideal wife in Egyptian and Mesopotamian household texts.

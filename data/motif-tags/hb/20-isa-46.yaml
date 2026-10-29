@@ -1,0 +1,743 @@
+new_motifs:
+  babylonian-gods-bow-and-stoop: {label: "Babylon's gods Bel and Nebo bow and stoop, their images loaded as burdens on weary beasts", cluster: idolatry}
+  gods-carried-versus-god-who-carries: {label: "Idols must be carried by their worshipers, whereas God has carried his people from the womb to old age", cluster: idolatry}
+  idol-manufacture-satire: {label: "Satirical description of an idol being made by craftsmen from gold, silver, metal or wood, then carried and set up", cluster: idolatry}
+  idol-cannot-move-or-answer: {label: "The made idol cannot move from its place, speak or answer and save those who cry to it", cluster: idolatry}
+  god-declares-end-from-beginning: {label: "God alone announces the end from the beginning and proves his deity by predictions fulfilled", cluster: prophecy}
+  bird-of-prey-from-east: {label: "God summons a bird of prey from the east, the man of his counsel (the conqueror Cyrus)", cluster: prophecy}
+  daughter-babylon-dethroned: {label: "Virgin daughter Babylon is made to come down from her throne and sit in the dust", cluster: prophecy}
+  queen-city-grinds-at-millstones: {label: "The proud city personified as a lady is made a slave-girl who grinds meal, removes her veil, bares her legs and wades rivers", cluster: prophecy}
+  shamed-by-exposed-nakedness: {label: "A personified city or nation punished by having her nakedness and skirts uncovered", cluster: prophecy}
+  i-am-and-none-besides-me-boast: {label: "A proud city says in her heart 'I am, and there is none besides me' and is brought low", cluster: prophecy}
+  widowhood-and-bereavement-in-one-day: {label: "The city that said 'I shall not sit as a widow nor know bereavement' suffers both in one day", cluster: prophecy}
+  sorcerers-and-astrologers-cannot-save: {label: "A nation's sorcerers, enchanters, star-gazers and monthly prognosticators are challenged and cannot save it", cluster: divination}
+  former-things-foretold-new-things-hidden: {label: "God foretold the former things long before so no idol could claim credit, and now reveals hidden new things", cluster: prophecy}
+  iron-neck-bronze-brow: {label: "The obstinate people's neck is an iron sinew and their forehead bronze", cluster: prophecy}
+  refined-in-furnace-of-affliction: {label: "God refines his people like metal in a furnace or crucible of affliction", cluster: prophecy}
+  for-my-own-sake-my-glory-not-given: {label: "God acts for his own name's sake and will not give his glory to another", cluster: theology}
+  god-first-and-last: {label: "God declares 'I am the first and I am the last'", cluster: theology}
+  sent-by-god-and-his-spirit: {label: "A speaker declares 'the Lord YHWH has sent me, and his spirit'", cluster: prophecy}
+  go-out-from-babylon: {label: "Command to the exiles to go out and flee from Babylon, touching nothing unclean", cluster: prophecy}
+  no-peace-for-the-wicked: {label: "Refrain 'There is no peace, says YHWH, for the wicked'", cluster: prophecy}
+  called-from-the-womb: {label: "God calls, forms, knows or consecrates his servant or prophet from the womb, before birth", cluster: prophecy}
+  mouth-like-sharp-sword: {label: "God makes the servant's mouth a sharp sword and hides him as a polished arrow in his quiver", cluster: prophecy}
+  servant-named-israel: {label: "The servant of God is addressed as 'Israel', in whom God will be glorified", cluster: prophecy}
+  servant-laments-labor-in-vain: {label: "The servant complains he has labored in vain and spent his strength for nothing", cluster: prophecy}
+  light-to-the-nations: {label: "The servant or God's teaching is made a light to the nations, salvation to the end of the earth", cluster: prophecy}
+  kings-bow-to-despised-servant: {label: "Kings and princes rise, bow or shut their mouths before the once despised servant", cluster: prophecy}
+  release-of-prisoners-from-darkness: {label: "Prisoners and those in darkness are told 'Go out' and set free", cluster: prophecy}
+  highway-for-returning-exiles: {label: "God levels mountains and builds a highway in the wilderness for the returning exiles", cluster: prophecy}
+  land-of-sinim: {label: "Exiles return from far lands including the land of Sinim (later read as China)", cluster: geography}
+  zion-complains-forsaken: {label: "Zion complains 'YHWH has forsaken me, the Lord has forgotten me'", cluster: zion}
+  god-like-nursing-mother: {label: "God compares his love to a mother who cannot forget her nursing child, or comforts as a mother", cluster: theology}
+  name-engraved-on-gods-palms: {label: "God has engraved Zion on the palms of his hands; her walls are always before him", cluster: zion}
+  bereaved-zion-surprised-by-children: {label: "Bereaved, barren Zion is astonished by the multitude of children who crowd her, asking who bore them", cluster: zion}
+  kings-as-foster-fathers-to-zion: {label: "Kings become Zion's foster-fathers and queens her nurses, bowing and licking the dust of her feet", cluster: zion}
+  oppressors-eat-own-flesh: {label: "God makes the oppressors eat their own flesh and get drunk on their own blood", cluster: prophecy}
+  spoil-taken-from-the-mighty: {label: "Can prey be taken from a mighty man? God will take the captives of the mighty", cluster: prophecy}
+  god-sold-children-to-creditor-question: {label: "God asks where is the mother's bill of divorce or to which creditor he sold his children: they were sold for their sins", cluster: prophecy}
+  god-rebuke-dries-sea-fish-rot: {label: "At God's rebuke the sea dries up and rivers become desert so the fish stink and die", cluster: cosmology}
+  heavens-clothed-in-sackcloth: {label: "God clothes the heavens in blackness and makes sackcloth their covering", cluster: cosmology}
+  tongue-of-disciples-wakened-each-morning: {label: "God gives the servant 'a tongue of disciples' and wakens his ear morning by morning to listen", cluster: prophecy}
+  servant-beaten-beard-plucked-spat-on: {label: "The servant gives his back to smiters and his cheeks to those who pluck the beard and does not hide his face from spitting", cluster: prophecy}
+  face-set-like-flint: {label: "The servant sets his face like flint, knowing he will not be shamed", cluster: prophecy}
+  vindicator-is-near-who-will-contend: {label: "The accused speaker challenges his adversaries to trial, since his vindicator is near", cluster: prophecy}
+  enemies-wear-out-like-moth-eaten-garment: {label: "Enemies or the world wear out like a garment that the moth devours", cluster: prophecy}
+  kindlers-of-fire-lie-in-torment: {label: "Those who kindle their own fire and torches must walk in its flame and lie down in torment", cluster: prophecy}
+  look-to-rock-you-were-hewn-from: {label: "The people are told to look to the rock from which they were hewn: Abraham their father and Sarah who bore them", cluster: patriarchs}
+  zion-desert-made-like-eden: {label: "God makes Zion's wilderness like Eden and her desert like the garden of YHWH", cluster: zion}
+  heavens-vanish-like-smoke: {label: "The heavens will vanish like smoke and the earth wear out like a garment, but God's salvation endures forever", cluster: eschatology}
+  combat-myth-merged-with-exodus: {label: "God's primeval defeat of the sea monster is identified with drying the sea for the redeemed to cross", cluster: cosmology}
+  ransomed-return-to-zion-singing: {label: "The ransomed of YHWH return to Zion with singing, everlasting joy on their heads; sorrow and sighing flee", cluster: zion}
+  cup-of-wrath-transferred-to-enemies: {label: "God takes the cup of staggering from his people's hand and gives it to their tormentors", cluster: prophecy}
+  drunk-but-not-with-wine: {label: "A people described as drunk and staggering, but not from wine", cluster: prophecy}
+  back-made-a-street-for-conquerors: {label: "Tormentors told the captive 'Bow down that we may pass over', and she made her back like the ground for them to walk on", cluster: prophecy}
+  zion-puts-on-beautiful-garments: {label: "Zion is told to awake, shake off the dust and put on her beautiful garments; the uncircumcised will no longer enter", cluster: zion}
+  sold-for-nothing-redeemed-without-money: {label: "You were sold for nothing and will be redeemed without money", cluster: prophecy}
+  gods-name-blasphemed-among-nations: {label: "Because of the exile God's name is continually blasphemed or profaned among the nations", cluster: theology}
+  beautiful-feet-of-herald: {label: "How beautiful on the mountains are the feet of the herald announcing peace and good news: 'Your God reigns'", cluster: prophecy}
+  watchmen-see-god-return-to-zion: {label: "Zion's watchmen sing together, seeing eye to eye YHWH's return to Zion", cluster: zion}
+  god-bares-his-holy-arm: {label: "God bares his holy arm before the eyes of all the nations", cluster: theology}
+  new-exodus-not-in-haste: {label: "The new exodus will not be in haste or flight: God goes before and is the rear guard", cluster: exodus}
+  servant-exalted-and-lifted-high: {label: "God's servant will prosper and be exalted, lifted up and very high", cluster: servant}
+  servant-disfigured-beyond-human-form: {label: "The servant's appearance is marred beyond that of any man, so that many are appalled", cluster: servant}
+  servant-sprinkles-many-nations: {label: "The servant will 'sprinkle' (or startle) many nations", cluster: servant}
+  who-has-believed-our-report: {label: "'Who has believed what we have heard, and to whom has the arm of YHWH been revealed?'", cluster: servant}
+  shoot-from-dry-ground: {label: "The servant grows up like a tender shoot, a root out of dry ground", cluster: servant}
+  servant-without-form-or-beauty: {label: "The servant has no form or majesty, no beauty that we should desire him", cluster: servant}
+  despised-man-of-sorrows: {label: "The servant is despised and rejected of men, a man of sorrows acquainted with sickness, from whom faces are hidden", cluster: servant}
+  vicarious-suffering-of-servant: {label: "The servant bears others' sickness and is wounded for their transgressions; by his stripes they are healed", cluster: servant}
+  thought-stricken-by-god: {label: "Onlookers thought the sufferer was stricken and smitten by God, afflicted for his own guilt", cluster: servant}
+  all-we-like-sheep-astray: {label: "All we like sheep have gone astray, each to his own way, and God laid on him the iniquity of us all", cluster: servant}
+  silent-as-lamb-to-slaughter: {label: "The sufferer does not open his mouth, like a lamb led to slaughter and a ewe silent before its shearers", cluster: servant}
+  servant-cut-off-from-land-of-living: {label: "The servant is taken away by oppression and judgment and cut off from the land of the living", cluster: servant}
+  grave-with-wicked-and-rich: {label: "The servant's grave is set with the wicked and with a rich man in his death, though he did no violence", cluster: servant}
+  servant-life-as-guilt-offering: {label: "The servant's life is made a guilt offering (asham)", cluster: servant}
+  servant-sees-offspring-after-death: {label: "After his death the servant will see offspring, prolong his days and see light", cluster: servant}
+  servant-justifies-many: {label: "The righteous servant will make many righteous and bear their iniquities", cluster: servant}
+  numbered-with-transgressors-intercedes: {label: "The servant poured out his life to death, was numbered with transgressors, bore the sin of many and interceded for them", cluster: servant}
+  barren-zion-more-children-than-married: {label: "'Sing, barren one': the desolate woman will have more children than the married one", cluster: zion}
+  enlarge-the-place-of-your-tent: {label: "Zion told to enlarge her tent, lengthen its cords and strengthen its pegs for her expanding offspring", cluster: zion}
+  maker-is-your-husband: {label: "God is Israel's husband and maker, who takes back the forsaken wife of youth", cluster: theology}
+  brief-wrath-everlasting-compassion: {label: "God hid his face or forsook his people for a brief moment but gathers them with everlasting compassion", cluster: theology}
+  oath-like-waters-of-noah: {label: "God swears never again to be angry with Zion as he swore the waters of Noah would never again cover the earth", cluster: covenant}
+  covenant-of-peace-outlasts-mountains: {label: "Mountains may depart and hills totter, but God's steadfast love and covenant of peace will not depart", cluster: covenant}
+  jeweled-city-foundations: {label: "The restored city is built of precious stones: sapphire foundations, ruby battlements, gates of carbuncle", cluster: zion}
+  children-taught-by-god: {label: "All your children shall be taught by YHWH", cluster: zion}
+  god-created-smith-and-destroyer: {label: "God declares he created the smith who forges weapons and the destroyer who ravages", cluster: theology}
+  no-weapon-formed-shall-prosper: {label: "No weapon formed against Zion shall prosper and every accusing tongue will be condemned", cluster: zion}
+  no-one-sees-me-boast: {label: "The wrongdoer says 'No one sees me', trusting in secrecy", cluster: wisdom}
+  wicked-burned-like-stubble: {label: "The wicked or their helpers become like stubble burned up by fire", cluster: prophecy}
+  free-banquet-for-the-thirsty: {label: "Invitation: all who thirst come to the waters and buy wine and milk without money", cluster: wisdom}
+  nations-run-to-israel: {label: "Nations Israel did not know will run to her for the sake of her God", cluster: prophecy}
+  seek-god-while-he-may-be-found: {label: "Seek YHWH while he may be found, call on him while he is near; let the wicked forsake his way", cluster: theology}
+  gods-thoughts-higher-than-human: {label: "God's thoughts and ways are higher than human ways as the heavens are higher than the earth", cluster: theology}
+  word-like-rain-does-not-return-empty: {label: "God's word is like rain and snow that do not return to heaven without watering the earth; it does not return empty", cluster: theology}
+  thornbush-replaced-by-cypress-and-myrtle: {label: "In the restoration cypress grows instead of thorn and myrtle instead of brier", cluster: eschatology}
+  eunuchs-given-monument-and-name: {label: "Faithful eunuchs receive in God's house 'a monument and a name' (yad va-shem) better than sons and daughters", cluster: cult}
+  foreigners-joined-to-yhwh-accepted: {label: "Foreigners who join themselves to YHWH and keep the Sabbath are accepted at his altar", cluster: cult}
+  house-of-prayer-for-all-peoples: {label: "'My house shall be called a house of prayer for all peoples'", cluster: cult}
+  sabbath-keeping-as-sign-of-belonging: {label: "Keeping the Sabbath from profanation marks the one who holds fast to God's covenant", cluster: cult}
+  god-gathers-dispersed-of-israel: {label: "God gathers the outcasts or dispersed of Israel from the lands of exile", cluster: prophecy}
+  wild-beasts-invited-to-devour: {label: "God summons all the wild beasts of the field and birds to come and devour", cluster: prophecy}
+  blind-watchmen-mute-dogs: {label: "Israel's watchmen are blind and its leaders mute dogs that cannot bark, lovers of slumber and greedy", cluster: prophecy}
+  carousers-say-tomorrow-like-today: {label: "Carousers say 'Let us fetch wine and strong drink; tomorrow will be like today'", cluster: wisdom}
+  righteous-taken-away-before-evil: {label: "The righteous man perishes and is taken away before the calamity, entering peace and resting on his bed", cluster: theology}
+  children-of-the-sorceress: {label: "The idolatrous people addressed as children of a sorceress, seed of an adulterer and a harlot", cluster: prophecy}
+  children-slaughtered-in-ravines: {label: "Worshipers slaughter children in the wadis under the clefts of the rocks", cluster: cult}
+  smooth-stones-of-the-wadi-cult: {label: "Libations and offerings poured to the smooth stones of the wadi, 'your portion and your lot'", cluster: cult}
+  bed-on-high-mountain-cultic-harlotry: {label: "The apostate woman sets her bed on a high mountain and enlarges it for her lovers (cultic harlotry)", cluster: cult}
+  memorial-behind-the-door: {label: "Apostates set their memorial sign (zikkaron) behind the door and doorpost, a perverted mezuzah", cluster: cult}
+  envoys-sent-down-to-sheol: {label: "The apostate travels to 'the king' (Melek/Molech) with oil and perfumes and sends envoys down to Sheol", cluster: cult}
+  high-and-holy-dwells-with-contrite: {label: "The high and lofty One who inhabits eternity dwells also with the crushed and lowly in spirit to revive them", cluster: theology}
+  god-will-not-contend-forever: {label: "God will not contend forever nor always be angry, for the spirits and breaths he made would faint", cluster: theology}
+  peace-to-far-and-near: {label: "God creates the fruit of the lips: 'Peace, peace to the far and to the near'", cluster: prophecy}
+  wicked-like-tossing-sea: {label: "The wicked are like the tossing sea that cannot rest, whose waters cast up mire and mud", cluster: wisdom}
+  prophet-voice-like-shofar: {label: "The prophet is told to cry aloud and lift his voice like a ram's horn", cluster: prophecy}
+  fasting-unheeded-complaint: {label: "The people complain 'Why have we fasted and you do not see?' and are rebuked", cluster: cult}
+  true-fast-is-justice: {label: "The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the hungry and clothe the naked", cluster: cult}
+  god-answers-here-i-am: {label: "When the righteous call, God answers 'Here I am' (hinneni)", cluster: theology}
+  watered-garden-unfailing-spring: {label: "The righteous become like a watered garden and a spring whose waters never fail", cluster: wisdom}
+  repairer-of-the-breach: {label: "The restorer is called 'repairer of the breach, restorer of paths to dwell in'", cluster: prophecy}
+  sabbath-called-delight: {label: "Call the Sabbath a delight (oneg), refraining from one's own business and idle talk on it", cluster: cult}
+  sins-separate-from-god: {label: "Not God's weakness but the people's sins separate them from God and hide his face", cluster: theology}
+  hands-defiled-with-blood: {label: "The people's hands are defiled with blood and their fingers with iniquity", cluster: prophecy}
+  hatching-vipers-eggs: {label: "The wicked hatch vipers' eggs: whoever eats them dies, and a crushed one hatches a viper", cluster: wisdom}
+  feet-run-to-shed-blood: {label: "Their feet run to evil and hasten to shed innocent blood", cluster: wisdom}
+  growl-like-bears-moan-like-doves: {label: "The people growl like bears and moan like doves as they wait for justice", cluster: prophecy}
+  truth-stumbles-in-the-square: {label: "Truth stumbles in the public square and uprightness cannot enter; whoever turns from evil is plundered", cluster: prophecy}
+  god-sees-no-one-acts-alone: {label: "God sees that there is no man and no intercessor, so his own arm brings salvation", cluster: theology}
+  divine-armor-of-righteousness: {label: "God puts on righteousness as a breastplate, the helmet of salvation, garments of vengeance and zeal as a cloak", cluster: theology}
+  redeemer-comes-to-zion: {label: "A redeemer will come to Zion, to those in Jacob who turn from transgression", cluster: prophecy}
+  covenant-of-spirit-and-words-in-mouth: {label: "God's covenant: his spirit and the words in the mouth will not depart from the mouth of the offspring forever", cluster: prophecy}
+  arise-shine-your-light-has-come: {label: "Zion told 'Arise, shine, for your light has come': darkness covers the earth but God's glory rises on her", cluster: zion}
+  nations-stream-to-zion-with-wealth: {label: "Nations and kings come to Zion's light bringing their wealth, flocks and timber for the sanctuary", cluster: zion}
+  gold-and-frankincense-from-sheba: {label: "Camel caravans of Midian, Ephah and Sheba bring gold and frankincense", cluster: zion}
+  returnees-fly-like-clouds-and-doves: {label: "'Who are these that fly like a cloud, like doves to their windows?'", cluster: zion}
+  city-gates-never-shut: {label: "The gates of the restored city stand open day and night and are never shut", cluster: zion}
+  baser-metals-replaced-by-precious: {label: "In the restoration God brings gold instead of bronze, silver instead of iron, bronze instead of wood", cluster: eschatology}
+  no-sun-or-moon-god-is-light: {label: "The sun and moon will no longer be needed for light; God himself will be everlasting light", cluster: eschatology}
+  hasten-it-in-its-time: {label: "'I YHWH will hasten it in its time': the timing of redemption", cluster: eschatology}
+  spirit-anointed-herald-to-poor: {label: "'The spirit of the Lord is upon me because he anointed me to bring good news to the poor and bind up the brokenhearted'", cluster: prophecy}
+  year-of-favor-day-of-vengeance: {label: "Proclamation of a year of God's favor and a day of vengeance of our God", cluster: eschatology}
+  garland-instead-of-ashes: {label: "Mourners of Zion given a garland instead of ashes, oil of joy instead of mourning, a mantle of praise", cluster: zion}
+  foreigners-serve-israel-as-priestly-nation: {label: "Strangers tend Israel's flocks and vineyards while Israel is called priests and ministers of God", cluster: zion}
+  double-portion-instead-of-shame: {label: "Instead of shame the people receive a double portion in their land", cluster: zion}
+  clothed-in-garments-of-salvation: {label: "God clothes the speaker in garments of salvation and a robe of righteousness, like a bridegroom with a priestly headdress or a bride with jewels", cluster: zion}
+  zion-given-new-name: {label: "Zion or God's people receive a new name from God's mouth (Hephzibah, Beulah, 'Sought-out', 'not forsaken')", cluster: zion}
+  crown-of-beauty-in-gods-hand: {label: "Zion will be a crown of beauty and royal diadem in the hand of God", cluster: zion}
+  land-married-to-god: {label: "The land is called 'Married' (Beulah) and God rejoices over Zion as a bridegroom over a bride", cluster: zion}
+  watchmen-remind-god-day-and-night: {label: "Watchmen set on Jerusalem's walls never fall silent, reminding God and giving him no rest until he restores her", cluster: zion}
+  harvest-no-longer-eaten-by-enemies: {label: "God swears his people's grain and wine will no longer be eaten by enemies but by those who toiled", cluster: zion}
+  salvation-comes-reward-with-him: {label: "'Behold your salvation comes; his reward is with him and his recompense before him'", cluster: eschatology}
+  divine-warrior-from-edom: {label: "A figure in crimson garments marches from Edom and Bozrah, mighty to save", cluster: theology}
+  god-treads-winepress-of-wrath: {label: "God treads the nations alone in the winepress of his wrath and their juice spatters his garments", cluster: theology}
+  god-afflicted-in-their-affliction: {label: "In all their affliction he was afflicted, and the angel of his presence saved them", cluster: theology}
+  god-leads-through-deeps-like-horse: {label: "God led his people through the deeps like a horse in the wilderness, like cattle going down to a valley, the spirit giving rest", cluster: exodus}
+  god-our-father-though-abraham-knows-us-not: {label: "'You are our father, though Abraham does not know us and Israel does not acknowledge us'", cluster: theology}
+  why-do-you-make-us-stray: {label: "Lament asking why God makes his people stray from his ways and hardens their heart", cluster: theology}
+  rend-the-heavens-and-come-down: {label: "'O that you would rend the heavens and come down, that the mountains would quake at your presence'", cluster: theophany}
+  eye-has-not-seen-god-beside-you: {label: "No ear has heard and no eye has seen any God besides you who acts for those who wait for him", cluster: theology}
+  righteous-deeds-like-soiled-garment: {label: "All our righteous deeds are like a menstrual cloth; we wither like a leaf and our iniquities carry us off like wind", cluster: theology}
+  we-are-clay-you-are-potter: {label: "'We are the clay and you are our potter; we are all the work of your hand'", cluster: theology}
+  found-by-those-who-did-not-seek: {label: "God says he let himself be sought and found by those who did not ask for him, saying 'Here I am' to a nation that did not call his name", cluster: theology}
+  god-spreads-hands-to-rebellious-people: {label: "God spread out his hands all day to a rebellious people", cluster: theology}
+  sacrifice-in-gardens-incense-on-bricks: {label: "Apostates sacrifice in gardens and burn incense on bricks", cluster: cult}
+  lodging-among-tombs-for-oracles: {label: "Apostates sit in tombs and spend the night in hidden places (necromantic incubation)", cluster: cult}
+  holier-than-thou: {label: "Apostates say 'Keep to yourself, do not come near me, for I am holier than you'", cluster: cult}
+  deeds-recorded-before-god: {label: "The people's deeds are written before God, who will repay them into their bosom", cluster: theology}
+  do-not-destroy-it-there-is-blessing: {label: "As one says of a grape cluster with juice 'Do not destroy it, there is blessing in it', so God spares a remnant for his servants' sake", cluster: prophecy}
+  table-for-fortune-and-destiny: {label: "Apostates spread a table for Gad (Fortune) and fill mixed wine for Meni (Destiny)", cluster: cult}
+  servants-feast-apostates-hunger: {label: "Reversal: God's servants eat, drink and rejoice while the apostates hunger, thirst and are shamed", cluster: eschatology}
+  god-of-amen: {label: "God called 'the God of Amen' (Elohei Amen) by whom people bless and swear", cluster: theology}
+  new-heavens-and-new-earth: {label: "God creates new heavens and a new earth; the former things will not be remembered", cluster: eschatology}
+  new-jerusalem-without-weeping: {label: "God creates Jerusalem a joy; the sound of weeping and crying will no longer be heard in her", cluster: eschatology}
+  hundred-year-old-dies-young: {label: "In the new age no infant dies in days and one who dies at a hundred is counted a youth", cluster: eschatology}
+  build-and-inhabit-plant-and-eat: {label: "People will build houses and live in them, plant vineyards and eat their fruit, and not labor for others", cluster: eschatology}
+  answered-before-they-call: {label: "Before they call God will answer; while they are still speaking he will hear", cluster: theology}
+  peaceable-kingdom-animals: {label: "Predators and prey live in peace: wolf and lamb graze together and the lion eats straw like the ox", cluster: eschatology}
+  heaven-throne-earth-footstool: {label: "'Heaven is my throne and earth my footstool: what house could you build for me?'", cluster: theology}
+  god-looks-to-humble-and-trembling: {label: "God looks to the poor and contrite in spirit who trembles at his word", cluster: theology}
+  sacrifice-likened-to-murder: {label: "Hypocritical sacrifice is equated with crimes: slaughtering an ox is like killing a man, offering a lamb like breaking a dog's neck", cluster: cult}
+  zion-gives-birth-without-labor: {label: "Zion gives birth before her labor pains: a land born in a day, a nation at once", cluster: zion}
+  nursing-at-zions-breasts: {label: "Zion's children suck and are satisfied at her consoling breasts, carried on the hip and dandled on the knees", cluster: zion}
+  bones-flourish-like-grass: {label: "Your bones will flourish like the grass", cluster: eschatology}
+  god-comes-in-fire-with-whirlwind-chariots: {label: "God comes in fire with chariots like a whirlwind to judge all flesh by fire and sword", cluster: theophany}
+  secret-garden-rites-eating-mice: {label: "Those who sanctify themselves for the gardens, following one in the middle, eat swine, abominations and mice", cluster: cult}
+  gathering-of-all-nations-and-tongues: {label: "God gathers all nations and tongues to come and see his glory", cluster: eschatology}
+  survivors-sent-to-proclaim-to-far-nations: {label: "God sends survivors to distant nations (Tarshish, Pul, Lud, Tubal, Javan, the far islands) to declare his glory", cluster: eschatology}
+  diaspora-brought-as-offering: {label: "The nations bring all Israel's brothers to Jerusalem as an offering on horses, chariots, litters, mules and dromedaries", cluster: eschatology}
+  gentiles-taken-as-priests: {label: "God will take some of the nations as priests and Levites", cluster: eschatology}
+  all-flesh-worships-on-new-moon-and-sabbath: {label: "From new moon to new moon and Sabbath to Sabbath all flesh comes to worship before God", cluster: eschatology}
+  undying-worm-unquenched-fire: {label: "Corpses of the rebels whose worm does not die and fire is not quenched, an abhorrence to all flesh", cluster: eschatology}
+  righteousness-sprouts-like-garden: {label: "As earth brings forth its sprouts and a garden its seeds, God makes righteousness and praise sprout", cluster: prophecy}
+  brothers-cast-out-faithful: {label: "The faithful are hated and cast out by their own brothers for God's name's sake", cluster: prophecy}
+  voice-from-temple-repays-enemies: {label: "A tumult from the city, a voice from the temple: the voice of YHWH repaying his enemies", cluster: theophany}
+  god-as-midwife-of-birth: {label: "God as midwife who brings to the point of birth and does not shut the womb", cluster: theology}
+units:
+  - id: hb-isa-46-bel-nebo-carried
+    tradition: judaism
+    title: Bel and Nebo carried off; God who carries Israel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 46:1-13"]
+    tags:
+      - {motif: babylonian-gods-bow-and-stoop, refs: ["Isa 46:1", "Isa 46:2"], note: "kara' Bel, qores Nebo; images a load for animals and cattle"}
+      - {motif: idols-stolen-by-conquerors, refs: ["Isa 46:2"], note: "the gods themselves 'go into captivity' (bashevi)"}
+      - {motif: gods-carried-versus-god-who-carries, refs: ["Isa 46:3", "Isa 46:4", "Isa 46:7"], note: "borne from the belly, carried from the womb, to old age and gray hair"}
+      - {motif: incomparability-among-the-gods, refs: ["Isa 46:5"], note: "'To whom will you liken me and make me equal?'"}
+      - {motif: idol-manufacture-satire, refs: ["Isa 46:6", "Isa 46:7"], note: "they lavish gold from the purse, weigh silver, hire a goldsmith; carry it on the shoulder"}
+      - {motif: idol-cannot-move-or-answer, refs: ["Isa 46:7"]}
+      - {motif: no-god-beside-you-confession, refs: ["Isa 46:9"], note: "'I am El and there is no other, God and none like me'"}
+      - {motif: god-declares-end-from-beginning, refs: ["Isa 46:10"]}
+      - {motif: bird-of-prey-from-east, refs: ["Isa 46:11"], note: "'ayit from the east, 'the man of my counsel'"}
+    hints:
+      - "Bel = Marduk, Nebo = Nabu, whose statues were carried in the Babylonian Akitu procession; compare the Cyrus Cylinder on returning gods to their shrines."
+  - id: hb-isa-47-fall-of-lady-babylon
+    tradition: judaism
+    title: Taunt over the virgin daughter Babylon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 47:1-15"]
+    tags:
+      - {motif: daughter-babylon-dethroned, refs: ["Isa 47:1", "Isa 47:5"], note: "no longer called 'tender and delicate' or 'mistress of kingdoms' (gevaret mamlakhot)"}
+      - {motif: queen-city-grinds-at-millstones, refs: ["Isa 47:2"]}
+      - {motif: shamed-by-exposed-nakedness, refs: ["Isa 47:3"]}
+      - {motif: i-am-and-none-besides-me-boast, refs: ["Isa 47:8", "Isa 47:10"], note: "'ani we-afsi 'od', echoing God's own self-predication"}
+      - {motif: widowhood-and-bereavement-in-one-day, refs: ["Isa 47:8", "Isa 47:9"]}
+      - {motif: sorcerers-and-astrologers-cannot-save, refs: ["Isa 47:9", "Isa 47:12", "Isa 47:13"], note: "hoverei shamayim, 'dividers of the heavens', star-gazers who make known by new moons"}
+      - {motif: no-one-sees-me-boast, refs: ["Isa 47:10"], note: "'No one sees me' (ein ro'ani)"}
+      - {motif: wicked-burned-like-stubble, refs: ["Isa 47:14"], note: "not a coal to warm oneself, nor a fire to sit before"}
+    hints:
+      - "Revelation 18:7-8 reuses 'I sit as a queen, I am no widow' and 'in one day' for Babylon/Rome; Zeph 2:15 has the same boast of Nineveh."
+  - id: hb-isa-48-refined-in-affliction
+    tradition: judaism
+    title: Obstinate Israel, former and new things, flee from Babylon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 48:1-22"]
+    tags:
+      - {motif: former-things-foretold-new-things-hidden, refs: ["Isa 48:3", "Isa 48:5", "Isa 48:6", "Isa 48:7"], note: "lest you say 'my idol did them, my image commanded them'"}
+      - {motif: iron-neck-bronze-brow, refs: ["Isa 48:4"]}
+      - {motif: refined-in-furnace-of-affliction, refs: ["Isa 48:10"], note: "'not as silver; I have chosen you in the furnace of affliction'"}
+      - {motif: for-my-own-sake-my-glory-not-given, refs: ["Isa 48:9", "Isa 48:11"]}
+      - {motif: god-first-and-last, refs: ["Isa 48:12"]}
+      - {motif: god-alone-stretches-heavens, refs: ["Isa 48:13"], note: "my hand founded the earth, my right hand spread out the heavens; I call and they stand together"}
+      - {motif: sent-by-god-and-his-spirit, refs: ["Isa 48:16"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Isa 48:19"], note: "had you obeyed, your seed would be like the sand"}
+      - {motif: go-out-from-babylon, refs: ["Isa 48:20"]}
+      - {motif: water-from-flint-rock, refs: ["Isa 48:21"], note: "new exodus recalls the cleft rock"}
+      - {motif: no-peace-for-the-wicked, refs: ["Isa 48:22"]}
+    hints:
+      - "Isa 48:16 was read by early Christian writers (e.g. Origen) as a triadic text: Lord God, his Spirit, and the one sent."
+  - id: hb-isa-49-servant-light-to-nations
+    tradition: judaism
+    title: Second servant song - called from the womb, a light to the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 49:1-13"]
+    tags:
+      - {motif: called-from-the-womb, refs: ["Isa 49:1", "Isa 49:5"], note: "from my mother's belly he named my name"}
+      - {motif: mouth-like-sharp-sword, refs: ["Isa 49:2"]}
+      - {motif: servant-named-israel, refs: ["Isa 49:3"]}
+      - {motif: servant-laments-labor-in-vain, refs: ["Isa 49:4"]}
+      - {motif: light-to-the-nations, refs: ["Isa 49:6"]}
+      - {motif: kings-bow-to-despised-servant, refs: ["Isa 49:7"], note: "to one deeply despised, abhorred by the nation, a slave of rulers"}
+      - {motif: release-of-prisoners-from-darkness, refs: ["Isa 49:9"]}
+      - {motif: highway-for-returning-exiles, refs: ["Isa 49:10", "Isa 49:11"], note: "no hunger, thirst, heat or sun; led to springs"}
+      - {motif: land-of-sinim, refs: ["Isa 49:12"], note: "from the north, the sea (west) and 'erets Sinim'"}
+    hints:
+      - "Luke 2:32 and Acts 13:47 cite 'light to the nations'; Rev 1:16 the sharp sword from the mouth; Gal 1:15 Paul's call 'from my mother's womb'."
+      - "Sinim was long read as China (Sinae); modern scholars favor Syene (Aswan), cf. 1QIsaa swnyym."
+  - id: hb-isa-49-zion-not-forgotten
+    tradition: judaism
+    title: Zion not forgotten; her children return
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 49:14-26"]
+    tags:
+      - {motif: zion-complains-forsaken, refs: ["Isa 49:14"]}
+      - {motif: god-like-nursing-mother, refs: ["Isa 49:15"], note: "'Can a woman forget her suckling? ... yet I will not forget you'"}
+      - {motif: name-engraved-on-gods-palms, refs: ["Isa 49:16"]}
+      - {motif: bereaved-zion-surprised-by-children, refs: ["Isa 49:20", "Isa 49:21"], note: "'the place is too narrow for me'; 'who bore me these?'"}
+      - {motif: kings-as-foster-fathers-to-zion, refs: ["Isa 49:22", "Isa 49:23"], note: "children carried in the bosom and on the shoulder; they lick the dust of your feet"}
+      - {motif: spoil-taken-from-the-mighty, refs: ["Isa 49:24", "Isa 49:25"]}
+      - {motif: oppressors-eat-own-flesh, refs: ["Isa 49:26"]}
+      - {motif: divine-epithets-mighty-one-of-jacob-stone-of-israel, refs: ["Isa 49:26"], note: "'Avir Ya'aqov'"}
+    hints:
+      - "Mark 3:27 / Matt 12:29 (binding the strong man) echoes 49:24-25. The divine mother image compares with rabbinic and Sufi images of divine rahma (womb-mercy)."
+  - id: hb-isa-50-servant-struck
+    tradition: judaism
+    title: No bill of divorce; third servant song
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 50:1-11"]
+    tags:
+      - {motif: bill-of-divorce, refs: ["Isa 50:1"], note: "'where is your mother's bill of divorce (sefer keritut)?'"}
+      - {motif: god-sold-children-to-creditor-question, refs: ["Isa 50:1"]}
+      - {motif: divine-power-questioned, refs: ["Isa 50:2"], note: "'Is my hand too short to redeem?'"}
+      - {motif: god-rebuke-dries-sea-fish-rot, refs: ["Isa 50:2"]}
+      - {motif: heavens-clothed-in-sackcloth, refs: ["Isa 50:3"]}
+      - {motif: tongue-of-disciples-wakened-each-morning, refs: ["Isa 50:4", "Isa 50:5"]}
+      - {motif: servant-beaten-beard-plucked-spat-on, refs: ["Isa 50:6"]}
+      - {motif: face-set-like-flint, refs: ["Isa 50:7"]}
+      - {motif: vindicator-is-near-who-will-contend, refs: ["Isa 50:8", "Isa 50:9"]}
+      - {motif: enemies-wear-out-like-moth-eaten-garment, refs: ["Isa 50:9"]}
+      - {motif: kindlers-of-fire-lie-in-torment, refs: ["Isa 50:11"]}
+    hints:
+      - "Gospel passion narratives (Mark 14:65; 15:19; Luke 9:51 'set his face') echo 50:6-7; Rom 8:33-34 echoes 50:8-9."
+  - id: hb-isa-51-abraham-quarry
+    tradition: judaism
+    title: Look to the rock you were hewn from
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 51:1-8"]
+    tags:
+      - {motif: look-to-rock-you-were-hewn-from, refs: ["Isa 51:1", "Isa 51:2"], note: "Abraham was one when called; Sarah 'who writhed you forth'"}
+      - {motif: zion-desert-made-like-eden, refs: ["Isa 51:3"]}
+      - {motif: light-to-the-nations, refs: ["Isa 51:4"], note: "torah goes forth from me, my justice a light of peoples"}
+      - {motif: heavens-vanish-like-smoke, refs: ["Isa 51:6"]}
+      - {motif: enemies-wear-out-like-moth-eaten-garment, refs: ["Isa 51:6", "Isa 51:8"], note: "moth ('ash) and worm (sas) eat them like wool"}
+    hints:
+      - "Matt 3:9 'God can raise children for Abraham from these stones' plays on the quarry image; Mark 13:31 / Ps 102:26-27 on heaven passing away."
+  - id: hb-isa-51-arm-of-yhwh-rahab
+    tradition: judaism
+    title: Awake, arm of YHWH - Rahab and the dragon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 51:9-11"]
+    tags:
+      - {motif: awake-o-lord, refs: ["Isa 51:9"], note: "'uri 'uri, addressed to the arm of YHWH, 'as in days of old, generations of eternity'"}
+      - {motif: rahab-crushed, refs: ["Isa 51:9"], note: "'who hewed (mahtsevet) Rahab'"}
+      - {motif: sea-monster-defeated-by-god, refs: ["Isa 51:9", "Isa 51:10"], note: "pierced the tannin; dried Yam, the waters of the great Tehom"}
+      - {motif: combat-myth-merged-with-exodus, refs: ["Isa 51:10"], note: "made the depths of the sea a way for the redeemed to pass"}
+      - {motif: creation-from-primeval-waters, refs: ["Isa 51:10"], note: "tehom rabbah"}
+      - {motif: ransomed-return-to-zion-singing, refs: ["Isa 51:11"]}
+    hints:
+      - "Ugaritic Baal cycle (KTU 1.3 III 38-42): Anat smites Yam, the tunnanu, the twisting serpent; Enuma Elish: Marduk splits Tiamat. Ps 74:13-14 and 89:11 also fuse Rahab with the exodus."
+  - id: hb-isa-51-cup-of-staggering
+    tradition: judaism
+    title: I am your comforter; the cup of staggering
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 51:12-23"]
+    tags:
+      - {motif: humans-like-grass-withering, refs: ["Isa 51:12"]}
+      - {motif: god-alone-stretches-heavens, refs: ["Isa 51:13", "Isa 51:16"], note: "to plant the heavens and found the earth"}
+      - {motif: god-stills-sea-smites-rahab, refs: ["Isa 51:15"], note: "same phrase as Job 26:12: roga' hayam, its waves roar"}
+      - {motif: prophet-like-moses, refs: ["Isa 51:16"], note: "'I put my words in your mouth and covered you in the shadow of my hand'"}
+      - {motif: cup-of-wrath, refs: ["Isa 51:17", "Isa 51:22"], note: "the goblet (qubba'at) of the cup of staggering, drained to the dregs"}
+      - {motif: drunk-but-not-with-wine, refs: ["Isa 51:21"]}
+      - {motif: cup-of-wrath-transferred-to-enemies, refs: ["Isa 51:22", "Isa 51:23"]}
+      - {motif: back-made-a-street-for-conquerors, refs: ["Isa 51:23"]}
+    hints:
+      - "Cup of wrath recurs in Jer 25, Rev 14:10 and 16:19; compare Gethsemane 'let this cup pass' (Mark 14:36)."
+  - id: hb-isa-52-awake-zion-herald
+    tradition: judaism
+    title: Awake, Zion; the feet of the herald
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 52:1-12"]
+    tags:
+      - {motif: zion-puts-on-beautiful-garments, refs: ["Isa 52:1", "Isa 52:2"], note: "loose the bonds of your neck, captive daughter Zion"}
+      - {motif: sold-for-nothing-redeemed-without-money, refs: ["Isa 52:3"]}
+      - {motif: gods-name-blasphemed-among-nations, refs: ["Isa 52:5"]}
+      - {motif: beautiful-feet-of-herald, refs: ["Isa 52:7"], note: "mevasser, mashmia' shalom ... 'your God reigns' (malakh elohayikh)"}
+      - {motif: yhwh-malakh-proclamation, refs: ["Isa 52:7"]}
+      - {motif: watchmen-see-god-return-to-zion, refs: ["Isa 52:8"]}
+      - {motif: god-bares-his-holy-arm, refs: ["Isa 52:10"]}
+      - {motif: go-out-from-babylon, refs: ["Isa 52:11"], note: "'touch nothing unclean ... purify yourselves, bearers of YHWH's vessels'"}
+      - {motif: new-exodus-not-in-haste, refs: ["Isa 52:12"], note: "contrast hippazon of Exod 12:11"}
+    hints:
+      - "Rom 10:15 cites 52:7 for apostolic preaching; 2 Cor 6:17 cites 52:11; 'mevasser' underlies the Greek euangelion. Rom 2:24 cites 52:5."
+  - id: hb-isa-53-suffering-servant
+    tradition: judaism
+    title: Fourth servant song - the suffering servant
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 52:13-53:12"]
+    tags:
+      - {motif: servant-exalted-and-lifted-high, refs: ["Isa 52:13"], note: "yarum we-nissa we-gavah me'od, same verbs as the throne in Isa 6:1"}
+      - {motif: servant-disfigured-beyond-human-form, refs: ["Isa 52:14"]}
+      - {motif: servant-sprinkles-many-nations, refs: ["Isa 52:15"], note: "yazzeh, a cultic sprinkling verb; LXX 'many nations will marvel'"}
+      - {motif: kings-bow-to-despised-servant, refs: ["Isa 52:15"], note: "kings shut their mouths at what they had not been told"}
+      - {motif: who-has-believed-our-report, refs: ["Isa 53:1"]}
+      - {motif: shoot-from-dry-ground, refs: ["Isa 53:2"], note: "yoneq, 'suckling/shoot', and shoresh from arid land"}
+      - {motif: servant-without-form-or-beauty, refs: ["Isa 53:2"]}
+      - {motif: despised-man-of-sorrows, refs: ["Isa 53:3"], note: "ish makh'ovot, yedua' holi"}
+      - {motif: vicarious-suffering-of-servant, refs: ["Isa 53:4", "Isa 53:5", "Isa 53:6", "Isa 53:8", "Isa 53:11", "Isa 53:12"], note: "'by his bruise (havurato) there is healing for us'"}
+      - {motif: thought-stricken-by-god, refs: ["Isa 53:4"]}
+      - {motif: all-we-like-sheep-astray, refs: ["Isa 53:6"]}
+      - {motif: silent-as-lamb-to-slaughter, refs: ["Isa 53:7"]}
+      - {motif: servant-cut-off-from-land-of-living, refs: ["Isa 53:8"], note: "who will consider his generation (doro)?"}
+      - {motif: grave-with-wicked-and-rich, refs: ["Isa 53:9"]}
+      - {motif: servant-life-as-guilt-offering, refs: ["Isa 53:10"], note: "'im tasim asham nafsho"}
+      - {motif: servant-sees-offspring-after-death, refs: ["Isa 53:10", "Isa 53:11"], note: "1QIsaa and LXX add 'light' in 53:11: 'he will see light'"}
+      - {motif: servant-justifies-many, refs: ["Isa 53:11"]}
+      - {motif: numbered-with-transgressors-intercedes, refs: ["Isa 53:12"], note: "he will divide spoil with the strong; yafgia', 'made intercession'"}
+    hints:
+      - "Acts 8:32-35 (Ethiopian eunuch), Mark 15:28, Luke 22:37, 1 Pet 2:22-25, Matt 8:17 apply the song to Jesus; Jewish interpretation (Rashi, Ibn Ezra) reads the servant as Israel; Targum Jonathan applies it to the Messiah but transfers the suffering."
+      - "Compare the Babylonian substitute-king ritual (sar puhi) and the Mesopotamian 'Ludlul bel nemeqi'; also 4 Macc 6:28-29 and 17:22 on martyrs' blood as ransom."
+  - id: hb-isa-54-barren-zion
+    tradition: judaism
+    title: Sing, barren one; covenant of peace; city of jewels
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 54:1-17"]
+    tags:
+      - {motif: barren-zion-more-children-than-married, refs: ["Isa 54:1"]}
+      - {motif: enlarge-the-place-of-your-tent, refs: ["Isa 54:2", "Isa 54:3"]}
+      - {motif: maker-is-your-husband, refs: ["Isa 54:5", "Isa 54:6"], note: "bo'alayikh 'osayikh, 'your husband is your maker'; 'wife of youth when she is rejected'"}
+      - {motif: brief-wrath-everlasting-compassion, refs: ["Isa 54:7", "Isa 54:8"], note: "'in an overflow of wrath I hid my face from you for a moment'"}
+      - {motif: oath-like-waters-of-noah, refs: ["Isa 54:9"]}
+      - {motif: covenant-of-peace-outlasts-mountains, refs: ["Isa 54:10"]}
+      - {motif: jeweled-city-foundations, refs: ["Isa 54:11", "Isa 54:12"], note: "stones set in antimony (pukh), foundations of sapphires, pinnacles of kadkod, gates of eqdah"}
+      - {motif: children-taught-by-god, refs: ["Isa 54:13"]}
+      - {motif: god-created-smith-and-destroyer, refs: ["Isa 54:16"]}
+      - {motif: no-weapon-formed-shall-prosper, refs: ["Isa 54:17"]}
+    hints:
+      - "Gal 4:27 cites 54:1 for the Jerusalem above; Rev 21:18-21 and Tobit 13:16-17 expand the jeweled city; John 6:45 cites 54:13. Berakhot 64a puns banayikh 'your children' / bonayikh 'your builders'."
+  - id: hb-isa-55-come-to-the-waters
+    tradition: judaism
+    title: Ho, everyone who thirsts; the word that does not return empty
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 55:1-13"]
+    tags:
+      - {motif: free-banquet-for-the-thirsty, refs: ["Isa 55:1", "Isa 55:2"]}
+      - {motif: eternal-covenant-with-dynasty, refs: ["Isa 55:3", "Isa 55:4"], note: "the 'sure mercies of David' extended as an everlasting covenant to the people; David a witness to peoples"}
+      - {motif: nations-run-to-israel, refs: ["Isa 55:5"]}
+      - {motif: seek-god-while-he-may-be-found, refs: ["Isa 55:6", "Isa 55:7"]}
+      - {motif: gods-thoughts-higher-than-human, refs: ["Isa 55:8", "Isa 55:9"]}
+      - {motif: word-like-rain-does-not-return-empty, refs: ["Isa 55:10", "Isa 55:11"]}
+      - {motif: nature-sings-and-rejoices, refs: ["Isa 55:12"], note: "mountains break into song and all trees of the field clap their hands"}
+      - {motif: thornbush-replaced-by-cypress-and-myrtle, refs: ["Isa 55:13"], note: "an everlasting sign (ot 'olam)"}
+    hints:
+      - "Wisdom's banquet (Prov 9:5), Sirach 24:19-21 and 51:23-25, and John 7:37 echo 55:1; Acts 13:34 cites 55:3. Compare Quran 2:186 'I am near'."
+  - id: hb-isa-56-eunuchs-and-foreigners
+    tradition: judaism
+    title: Eunuchs and foreigners in God's house of prayer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 56:1-8"]
+    tags:
+      - {motif: sabbath-keeping-as-sign-of-belonging, refs: ["Isa 56:2", "Isa 56:4", "Isa 56:6"]}
+      - {motif: eunuchs-given-monument-and-name, refs: ["Isa 56:3", "Isa 56:4", "Isa 56:5"], note: "the eunuch must not say 'I am a dry tree'"}
+      - {motif: eunuch-excluded-from-assembly, refs: ["Isa 56:3"], note: "implicitly overturns Deut 23:2"}
+      - {motif: foreigners-joined-to-yhwh-accepted, refs: ["Isa 56:3", "Isa 56:6", "Isa 56:7"]}
+      - {motif: house-of-prayer-for-all-peoples, refs: ["Isa 56:7"]}
+      - {motif: god-gathers-dispersed-of-israel, refs: ["Isa 56:8"], note: "'I will gather yet others to him besides those already gathered'"}
+    hints:
+      - "Mark 11:17 cites 56:7 at the temple cleansing; Acts 8:27-39 the Ethiopian eunuch; Yad Vashem takes its name from 56:5; Matt 19:12 on eunuchs for the kingdom."
+  - id: hb-isa-56-blind-watchmen
+    tradition: judaism
+    title: Blind watchmen, mute dogs; the righteous taken away
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 56:9-57:2"]
+    tags:
+      - {motif: wild-beasts-invited-to-devour, refs: ["Isa 56:9"]}
+      - {motif: blind-watchmen-mute-dogs, refs: ["Isa 56:10", "Isa 56:11"], note: "hozim, 'dreaming/panting', lying down, loving to slumber; dogs greedy of soul; shepherds without understanding"}
+      - {motif: carousers-say-tomorrow-like-today, refs: ["Isa 56:12"]}
+      - {motif: righteous-taken-away-before-evil, refs: ["Isa 57:1", "Isa 57:2"]}
+    hints:
+      - "Rabbinic tradition (b. Bava Qamma 60a; Sanhedrin 113b) cites 57:1: the righteous are taken away before calamity; compare the death of Josiah and Wis 4:7-14."
+  - id: hb-isa-57-sorceress-children
+    tradition: judaism
+    title: Sons of the sorceress - cult under every green tree
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 57:3-13"]
+    tags:
+      - {motif: children-of-the-sorceress, refs: ["Isa 57:3", "Isa 57:4"]}
+      - {motif: high-places-green-trees, refs: ["Isa 57:5", "Isa 57:7"], note: "inflamed among the terebinths (or 'gods', ba-elim)"}
+      - {motif: children-slaughtered-in-ravines, refs: ["Isa 57:5"]}
+      - {motif: smooth-stones-of-the-wadi-cult, refs: ["Isa 57:6"], note: "be-hallqei nahal helqekh: wordplay on 'smooth stones' and 'portion'"}
+      - {motif: bed-on-high-mountain-cultic-harlotry, refs: ["Isa 57:7", "Isa 57:8"]}
+      - {motif: idolatry-as-harlotry, refs: ["Isa 57:3", "Isa 57:8"]}
+      - {motif: memorial-behind-the-door, refs: ["Isa 57:8"], note: "and 'you gazed on a hand' (yad, possibly a phallic symbol)"}
+      - {motif: envoys-sent-down-to-sheol, refs: ["Isa 57:9"]}
+      - {motif: idols-as-vain-breath, refs: ["Isa 57:13"], note: "a wind carries off your collection, a breath (hevel) takes them"}
+    hints:
+      - "Cultic necromancy and Molech worship; compare Ugaritic rpum/Malik cult of the dead kings and the stone-cults (betyls) of Arabia, cf. ansab in Quran 5:90."
+  - id: hb-isa-57-high-and-lofty
+    tradition: judaism
+    title: The high and lofty One dwells with the contrite
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 57:14-21"]
+    tags:
+      - {motif: highway-for-returning-exiles, refs: ["Isa 57:14"], note: "'Build up, build up, clear the way, remove the obstacle'"}
+      - {motif: high-and-holy-dwells-with-contrite, refs: ["Isa 57:15"], note: "shokhen 'ad, 'dwelling in eternity'"}
+      - {motif: god-will-not-contend-forever, refs: ["Isa 57:16"], note: "neshamot 'ani 'asiti, 'the breaths I have made'"}
+      - {motif: peace-to-far-and-near, refs: ["Isa 57:19"]}
+      - {motif: wicked-like-tossing-sea, refs: ["Isa 57:20"]}
+      - {motif: no-peace-for-the-wicked, refs: ["Isa 57:21"]}
+    hints:
+      - "Eph 2:13-17 applies 'peace to far and near' to Jews and gentiles; Jude 13 'wild waves casting up their shame'; 57:15 a favorite of Jewish and Christian mysticism on divine immanence."
+  - id: hb-isa-58-true-fast
+    tradition: judaism
+    title: The fast that God chooses; the Sabbath a delight
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 58:1-14"]
+    tags:
+      - {motif: prophet-voice-like-shofar, refs: ["Isa 58:1"]}
+      - {motif: fasting-unheeded-complaint, refs: ["Isa 58:3", "Isa 58:4"], note: "on fast days they pursue business, quarrel and strike with the fist"}
+      - {motif: sackcloth-and-ashes-mourning, refs: ["Isa 58:5"], note: "bowing the head like a bulrush and spreading sackcloth and ashes"}
+      - {motif: true-fast-is-justice, refs: ["Isa 58:6", "Isa 58:7", "Isa 58:10"]}
+      - {motif: god-answers-here-i-am, refs: ["Isa 58:9"], note: "with removal of the yoke and 'the pointing of the finger'"}
+      - {motif: watered-garden-unfailing-spring, refs: ["Isa 58:11"]}
+      - {motif: repairer-of-the-breach, refs: ["Isa 58:12"]}
+      - {motif: sabbath-called-delight, refs: ["Isa 58:13", "Isa 58:14"], note: "riding on the heights of the earth (cf. Deut 32:13)"}
+    hints:
+      - "Read as the haftarah of Yom Kippur morning. Compare Zech 7:5-10, Matt 6:16-18, Quran 2:177 and 90:11-16 (freeing a neck, feeding on a day of hunger)."
+  - id: hb-isa-59-sins-separate-divine-warrior
+    tradition: judaism
+    title: Your sins have separated you; God arms himself
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 59:1-21"]
+    tags:
+      - {motif: divine-power-questioned, refs: ["Isa 59:1"], note: "'YHWH's hand is not too short to save, nor his ear too heavy to hear'"}
+      - {motif: sins-separate-from-god, refs: ["Isa 59:2"]}
+      - {motif: hands-defiled-with-blood, refs: ["Isa 59:3"]}
+      - {motif: hatching-vipers-eggs, refs: ["Isa 59:5"]}
+      - {motif: trust-like-spiders-web, refs: ["Isa 59:5", "Isa 59:6"], note: "they weave spider webs that will not become clothing"}
+      - {motif: feet-run-to-shed-blood, refs: ["Isa 59:7", "Isa 59:8"]}
+      - {motif: madness-blindness-groping-at-noon, refs: ["Isa 59:9", "Isa 59:10"], note: "we grope for the wall like the blind, stumble at noon as at twilight"}
+      - {motif: growl-like-bears-moan-like-doves, refs: ["Isa 59:11"]}
+      - {motif: truth-stumbles-in-the-square, refs: ["Isa 59:14", "Isa 59:15"]}
+      - {motif: god-sees-no-one-acts-alone, refs: ["Isa 59:16"]}
+      - {motif: divine-armor-of-righteousness, refs: ["Isa 59:17"]}
+      - {motif: divine-warrior, refs: ["Isa 59:17", "Isa 59:18", "Isa 59:19"], note: "the foe comes like a river which the spirit (or wind) of YHWH drives"}
+      - {motif: redeemer-comes-to-zion, refs: ["Isa 59:20"]}
+      - {motif: covenant-of-spirit-and-words-in-mouth, refs: ["Isa 59:21"]}
+    hints:
+      - "Eph 6:14-17 and 1 Thess 5:8 (armor of God), Wis 5:17-20; Rom 3:15-17 quotes 59:7-8; Rom 11:26-27 quotes 59:20-21. 59:20-21 begins the Jewish 'Uva le-Tsiyon' prayer."
+  - id: hb-isa-60-arise-shine
+    tradition: judaism
+    title: Arise, shine - the nations come to Zion's light
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 60:1-22"]
+    tags:
+      - {motif: arise-shine-your-light-has-come, refs: ["Isa 60:1", "Isa 60:2"]}
+      - {motif: nations-stream-to-zion-with-wealth, refs: ["Isa 60:3", "Isa 60:5", "Isa 60:7", "Isa 60:11", "Isa 60:13"], note: "flocks of Kedar and rams of Nebaioth on the altar; glory of Lebanon: cypress, plane and box"}
+      - {motif: gold-and-frankincense-from-sheba, refs: ["Isa 60:6"]}
+      - {motif: returnees-fly-like-clouds-and-doves, refs: ["Isa 60:8"]}
+      - {motif: kings-of-tarshish-and-sheba-bring-gifts, refs: ["Isa 60:9"], note: "ships of Tarshish first, bringing your sons from afar"}
+      - {motif: city-gates-never-shut, refs: ["Isa 60:11"]}
+      - {motif: kings-as-foster-fathers-to-zion, refs: ["Isa 60:10", "Isa 60:14", "Isa 60:16"], note: "foreigners build your walls; oppressors' sons bow at your feet; suck the milk of nations and the breast of kings"}
+      - {motif: baser-metals-replaced-by-precious, refs: ["Isa 60:17"]}
+      - {motif: no-sun-or-moon-god-is-light, refs: ["Isa 60:19", "Isa 60:20"]}
+      - {motif: hasten-it-in-its-time, refs: ["Isa 60:22"], note: "the least becomes a thousand"}
+    hints:
+      - "Matt 2:11 (magi's gold and frankincense) and Rev 21:23-26 (no sun, open gates, glory of nations); b. Sanhedrin 98a harmonizes 'in its time' and 'I will hasten it'."
+  - id: hb-isa-61-anointed-herald
+    tradition: judaism
+    title: The spirit of the Lord is upon me
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 61:1-11"]
+    tags:
+      - {motif: spirit-anointed-herald-to-poor, refs: ["Isa 61:1"]}
+      - {motif: proclaim-liberty-throughout-the-land, refs: ["Isa 61:1"], note: "liqro lishvuyim deror, jubilee language; 'opening' (peqah-qoah) for the bound"}
+      - {motif: year-of-favor-day-of-vengeance, refs: ["Isa 61:2"]}
+      - {motif: garland-instead-of-ashes, refs: ["Isa 61:3"], note: "pe'er tahat efer (anagram pun); called 'oaks of righteousness'"}
+      - {motif: foreigners-serve-israel-as-priestly-nation, refs: ["Isa 61:5", "Isa 61:6"]}
+      - {motif: double-portion-instead-of-shame, refs: ["Isa 61:7"]}
+      - {motif: clothed-in-garments-of-salvation, refs: ["Isa 61:10"], note: "ke-hatan yekhahen pe'er: the groom 'acts as priest' with his headdress"}
+      - {motif: righteousness-sprouts-like-garden, refs: ["Isa 61:11"]}
+    hints:
+      - "Luke 4:16-21: Jesus reads 61:1-2 in the Nazareth synagogue, stopping before 'day of vengeance'; 11QMelchizedek applies it to a heavenly Melchizedek; 4Q521 links it to raising the dead."
+  - id: hb-isa-62-new-name-zion
+    tradition: judaism
+    title: Hephzibah and Beulah - Zion's new name
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 62:1-12"]
+    tags:
+      - {motif: zion-given-new-name, refs: ["Isa 62:2", "Isa 62:4", "Isa 62:12"], note: "Hefzi-vah 'my delight is in her', Be'ulah 'married'; Derushah 'sought out', 'city not forsaken'"}
+      - {motif: crown-of-beauty-in-gods-hand, refs: ["Isa 62:3"]}
+      - {motif: land-married-to-god, refs: ["Isa 62:4", "Isa 62:5"], note: "as a young man marries a virgin, your sons (or 'builders') marry you"}
+      - {motif: watchmen-remind-god-day-and-night, refs: ["Isa 62:6", "Isa 62:7"], note: "ha-mazkirim, 'you who remind YHWH, take no rest'"}
+      - {motif: divine-oath-by-himself, refs: ["Isa 62:8"], note: "sworn by his right hand and mighty arm"}
+      - {motif: harvest-no-longer-eaten-by-enemies, refs: ["Isa 62:8", "Isa 62:9"]}
+      - {motif: highway-for-returning-exiles, refs: ["Isa 62:10"], note: "clear the stones, raise a banner (nes) over the peoples"}
+      - {motif: salvation-comes-reward-with-him, refs: ["Isa 62:11"]}
+    hints:
+      - "Rev 2:17 and 3:12 (a new name), Rev 22:12 ('my reward is with me'); Hephzibah is also the name of Hezekiah's wife (2 Kgs 21:1)."
+  - id: hb-isa-63-treader-from-edom
+    tradition: judaism
+    title: Who is this coming from Edom? The winepress of wrath
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 63:1-6"]
+    tags:
+      - {motif: divine-warrior-from-edom, refs: ["Isa 63:1"], note: "puns: Edom/adom 'red', Bozrah/batsir 'vintage'"}
+      - {motif: god-treads-winepress-of-wrath, refs: ["Isa 63:2", "Isa 63:3", "Isa 63:6"]}
+      - {motif: god-sees-no-one-acts-alone, refs: ["Isa 63:3", "Isa 63:5"]}
+      - {motif: year-of-favor-day-of-vengeance, refs: ["Isa 63:4"], note: "day of vengeance in my heart, year of my redeemed"}
+      - {motif: cup-of-wrath, refs: ["Isa 63:6"], note: "I made them drunk in my fury"}
+      - {motif: divine-warrior, refs: ["Isa 63:1", "Isa 63:3"]}
+    hints:
+      - "Rev 14:19-20 and 19:13-15 (robe dipped in blood, treading the winepress); compare Anat wading in the blood of warriors (KTU 1.3 II)."
+  - id: hb-isa-63-communal-lament
+    tradition: judaism
+    title: Remembering the days of Moses - O that you would rend the heavens
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 63:7-64:11"]
+    tags:
+      - {motif: communal-lament, refs: ["Isa 63:15", "Isa 64:8", "Isa 64:11"]}
+      - {motif: god-afflicted-in-their-affliction, refs: ["Isa 63:9"], note: "ketiv lo' 'not', qere lo 'to him'; LXX: 'not an envoy or angel, but he himself saved them'"}
+      - {motif: god-carries-like-father, refs: ["Isa 63:9"], note: "he lifted them and carried them all the days of old"}
+      - {motif: holy-spirit-of-god, refs: ["Isa 63:10", "Isa 63:11", "Isa 63:14"], note: "they rebelled and grieved his holy spirit (ruah qodsho), and he became their enemy"}
+      - {motif: god-leads-through-deeps-like-horse, refs: ["Isa 63:11", "Isa 63:12", "Isa 63:13", "Isa 63:14"], note: "who brought them up from the sea with the shepherd of his flock, split the waters before them"}
+      - {motif: god-our-father-though-abraham-knows-us-not, refs: ["Isa 63:16", "Isa 64:7"]}
+      - {motif: why-do-you-make-us-stray, refs: ["Isa 63:17"]}
+      - {motif: temple-destroyed-by-enemies, refs: ["Isa 63:18", "Isa 64:9", "Isa 64:10"], note: "our holy house became a burning of fire; Zion a wilderness"}
+      - {motif: rend-the-heavens-and-come-down, refs: ["Isa 63:19", "Isa 64:1", "Isa 64:2"]}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["Isa 63:19", "Isa 64:2"]}
+      - {motif: eye-has-not-seen-god-beside-you, refs: ["Isa 64:3"]}
+      - {motif: righteous-deeds-like-soiled-garment, refs: ["Isa 64:5"], note: "ke-veged 'iddim"}
+      - {motif: we-are-clay-you-are-potter, refs: ["Isa 64:7"]}
+    hints:
+      - "1 Cor 2:9 'what no eye has seen' adapts 64:3; Eph 4:30 'do not grieve the holy spirit' echoes 63:10; Mark 1:10 (heavens torn, schizomenous) echoes 63:19; Quran 15:26 on humans from clay."
+  - id: hb-isa-65-rebels-and-servants
+    tradition: judaism
+    title: Found by those who did not seek; rebels and servants
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 65:1-16"]
+    tags:
+      - {motif: found-by-those-who-did-not-seek, refs: ["Isa 65:1"], note: "hinneni hinneni"}
+      - {motif: god-spreads-hands-to-rebellious-people, refs: ["Isa 65:2"]}
+      - {motif: sacrifice-in-gardens-incense-on-bricks, refs: ["Isa 65:3"]}
+      - {motif: lodging-among-tombs-for-oracles, refs: ["Isa 65:4"], note: "sit in the graves and lodge in the netsurim (guarded/secret places)"}
+      - {motif: necromancy-forbidden, refs: ["Isa 65:4"], note: "interpretive: tomb-sitting read as consulting the dead"}
+      - {motif: pork-forbidden, refs: ["Isa 65:4"], note: "eat swine's flesh and broth of piggul in their vessels"}
+      - {motif: holier-than-thou, refs: ["Isa 65:5"], note: "they are smoke in my nose"}
+      - {motif: deeds-recorded-before-god, refs: ["Isa 65:6", "Isa 65:7"], note: "your iniquities and your fathers' together"}
+      - {motif: do-not-destroy-it-there-is-blessing, refs: ["Isa 65:8", "Isa 65:9"], note: "al tashhitehu, cf. psalm heading 'Al tashhet'"}
+      - {motif: table-for-fortune-and-destiny, refs: ["Isa 65:11", "Isa 65:12"], note: "pun: 'I will destine (maniti) you for the sword'"}
+      - {motif: servants-feast-apostates-hunger, refs: ["Isa 65:13", "Isa 65:14"]}
+      - {motif: zion-given-new-name, refs: ["Isa 65:15"], note: "your name left as a curse; my servants called by another name"}
+      - {motif: god-of-amen, refs: ["Isa 65:16"]}
+    hints:
+      - "Rom 10:20-21 quotes 65:1-2; Rev 3:14 'the Amen'. Gad = Tyche/Fortuna (cf. Gen 30:11, Baal-gad); Meni a fate deity, compare Arabian Manat (Quran 53:20). Mark 5:2-5 demoniac dwelling among tombs."
+  - id: hb-isa-65-new-heavens-new-earth
+    tradition: judaism
+    title: New heavens and a new earth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 65:17-25"]
+    tags:
+      - {motif: new-heavens-and-new-earth, refs: ["Isa 65:17"], note: "bore' shamayim hadashim, the creation verb bara'"}
+      - {motif: new-jerusalem-without-weeping, refs: ["Isa 65:18", "Isa 65:19"]}
+      - {motif: hundred-year-old-dies-young, refs: ["Isa 65:20"], note: "the sinner at a hundred is accursed"}
+      - {motif: build-and-inhabit-plant-and-eat, refs: ["Isa 65:21", "Isa 65:22", "Isa 65:23"], note: "the days of my people like the days of a tree"}
+      - {motif: answered-before-they-call, refs: ["Isa 65:24"]}
+      - {motif: peaceable-kingdom-animals, refs: ["Isa 65:25"]}
+      - {motif: serpent-cursed-to-crawl, refs: ["Isa 65:25"], note: "'and the serpent - dust is its bread': the Eden curse persists"}
+    hints:
+      - "Rev 21:1-4; 2 Pet 3:13; 1 Enoch 10:17-19 (long life); Zoroastrian frashokereti (renovation of the world); Virgil Eclogue 4 peaceful animals; Quran 6:165 vs. hadith on paradise."
+  - id: hb-isa-66-heaven-my-throne
+    tradition: judaism
+    title: Heaven is my throne; sacrifice as abomination
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 66:1-6"]
+    tags:
+      - {motif: heaven-throne-earth-footstool, refs: ["Isa 66:1", "Isa 66:2"]}
+      - {motif: god-looks-to-humble-and-trembling, refs: ["Isa 66:2", "Isa 66:5"]}
+      - {motif: trembling-at-gods-word, refs: ["Isa 66:2", "Isa 66:5"], note: "ha-haredim el devaro"}
+      - {motif: sacrifice-likened-to-murder, refs: ["Isa 66:3"], note: "grain offering = swine's blood; incense = blessing an idol"}
+      - {motif: brothers-cast-out-faithful, refs: ["Isa 66:5"], note: "'your brothers who hate you and cast you out (menaddeikhem) for my name's sake'"}
+      - {motif: voice-from-temple-repays-enemies, refs: ["Isa 66:6"]}
+    hints:
+      - "Acts 7:49-50 (Stephen) quotes 66:1-2; Matt 5:34-35; 1 Kgs 8:27. 'Haredim' is the source of the modern name for ultra-Orthodox Jews."
+  - id: hb-isa-66-zion-in-labor
+    tradition: judaism
+    title: Zion gives birth in a day; comforted like a child by its mother
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 66:7-14"]
+    tags:
+      - {motif: zion-gives-birth-without-labor, refs: ["Isa 66:7", "Isa 66:8"], note: "she was delivered of a male child (zakhar)"}
+      - {motif: god-as-midwife-of-birth, refs: ["Isa 66:9"], note: "'Shall I bring to the breach and not cause to bring forth?'"}
+      - {motif: nursing-at-zions-breasts, refs: ["Isa 66:11", "Isa 66:12"]}
+      - {motif: god-like-nursing-mother, refs: ["Isa 66:13"], note: "'As one whom his mother comforts, so I will comfort you'"}
+      - {motif: nations-stream-to-zion-with-wealth, refs: ["Isa 66:12"], note: "peace like a river, glory of nations like a flooding stream"}
+      - {motif: bones-flourish-like-grass, refs: ["Isa 66:14"]}
+    hints:
+      - "Rev 12:1-5 (woman gives birth to a male child); John 16:21; rabbinic 'birth pangs of the Messiah' (hevlei mashiah)."
+  - id: hb-isa-66-fire-and-ingathering
+    tradition: judaism
+    title: Judgment by fire, ingathering of nations, the undying worm
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 66:15-24"]
+    tags:
+      - {motif: god-comes-in-fire-with-whirlwind-chariots, refs: ["Isa 66:15", "Isa 66:16"]}
+      - {motif: secret-garden-rites-eating-mice, refs: ["Isa 66:17"], note: "'akhbar, the mouse; 'after one in the middle'"}
+      - {motif: pork-forbidden, refs: ["Isa 66:17"]}
+      - {motif: gathering-of-all-nations-and-tongues, refs: ["Isa 66:18"]}
+      - {motif: survivors-sent-to-proclaim-to-far-nations, refs: ["Isa 66:19"], note: "'I will set a sign among them'; Pul (Put?), Lud 'drawers of the bow', Tubal, Javan (Greece)"}
+      - {motif: diaspora-brought-as-offering, refs: ["Isa 66:20"], note: "kirkarot, 'dromedaries' or 'litters'"}
+      - {motif: gentiles-taken-as-priests, refs: ["Isa 66:21"]}
+      - {motif: new-heavens-and-new-earth, refs: ["Isa 66:22"]}
+      - {motif: all-flesh-worships-on-new-moon-and-sabbath, refs: ["Isa 66:23"]}
+      - {motif: undying-worm-unquenched-fire, refs: ["Isa 66:24"], note: "dera'on 'abhorrence', the word reused in Dan 12:2; synagogue reading repeats 66:23 after it"}
+    hints:
+      - "Mark 9:48 Gehenna 'where their worm does not die'; Judith 16:17; Paul's mission to Spain (Tarshish?) in Rom 15 has been read against 66:19."
