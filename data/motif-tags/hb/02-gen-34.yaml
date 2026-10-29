@@ -1,0 +1,1142 @@
+new_motifs:
+  agricultural-calendar-note-crops: {label: "Narrator dates a plague by the growth stage of named crops (barley in ear, flax in bud, wheat late)", cluster: exodus}
+  am-i-in-place-of-god: {label: "Hero refuses to judge or avenge, asking 'Am I in the place of God?'", cluster: patriarchs}
+  amalek-born-of-concubine: {label: "Amalek's ancestor is born to a concubine in Esau's line", cluster: genealogy}
+  angel-and-cloud-move-behind-camp: {label: "God's angel and the cloud pillar move behind the fleeing people to screen them from the pursuers", cluster: exodus}
+  attack-on-third-day-of-pain: {label: "Attackers strike a town on the third day after circumcision, while the men are in pain", cluster: patriarchs}
+  bargaining-over-terms-of-release: {label: "King haggles over who and what may leave (only men, no flocks, not far away)", cluster: exodus}
+  bela-son-of-beor-king: {label: "First king of Edom is Bela son of Beor (name recalling Balaam son of Beor)", cluster: genealogy}
+  birthstool-ovnayim: {label: "Midwives observe the newborn on the birthstool (ovnayim, 'the two stones')", cluster: exodus}
+  bitter-water-sweetened-by-wood: {label: "Bitter water made drinkable by throwing in a piece of wood God shows the leader", cluster: wilderness}
+  blessing-formula-may-god-make-you-like: {label: "Blessing formula 'May God make you like X and Y' coined by a patriarch", cluster: cult}
+  blessings-of-heaven-deep-breasts-womb: {label: "Blessings of heaven above, of the deep crouching below, and of breasts and womb", cluster: cosmology}
+  blood-on-doorposts-and-lintel: {label: "Sacrificial blood daubed on the doorposts and lintel protects the household", cluster: cult}
+  boast-of-the-enemy-quoted: {label: "Victory song quotes the enemy's boastful first-person plan before his destruction", cluster: poetry}
+  bowing-on-bed-head: {label: "Dying patriarch bows down on (or over) the head of his bed (or staff)", cluster: patriarchs}
+  bread-rained-from-heaven: {label: "God rains bread from heaven to feed the people in the desert", cluster: wilderness}
+  bricks-without-straw: {label: "Slaves must make the same quota of bricks while gathering their own straw", cluster: exodus}
+  bridegroom-of-blood: {label: "Wife saves her husband from a divine attack with her son's circumcision blood, calling him 'bridegroom of blood'", cluster: exodus}
+  brother-as-spokesman: {label: "An eloquent brother is appointed to speak for the hero, who is 'as God' to him", cluster: prophecy}
+  brothers-confess-guilt-unknowing: {label: "Brothers confess their old crime in front of the victim without knowing he hears them", cluster: patriarchs}
+  brothers-eat-while-victim-in-pit: {label: "Brothers sit down to eat bread after casting their brother into the pit", cluster: patriarchs}
+  brothers-meet-at-mountain-of-god: {label: "Two brothers meet and kiss at the mountain of God", cluster: exodus}
+  brothers-separate-land-cannot-bear: {label: "Brothers separate because the land cannot support both their herds", cluster: patriarchs}
+  burning-as-penalty-for-unchastity: {label: "A woman accused of harlotry is sentenced to be burned", cluster: law}
+  burning-bush-not-consumed: {label: "God appears in a bush that burns without being consumed", cluster: theophany}
+  camp-before-baal-zephon: {label: "Israel camps by the sea opposite Baal-zephon, Migdol and Pi-hahiroth", cluster: exodus}
+  chariot-wheels-removed: {label: "God removes or clogs the wheels of the pursuers' chariots", cluster: exodus}
+  chiefs-alluf-lists: {label: "Lists of tribal chiefs (allufim) of Edom and the Horites", cluster: genealogy}
+  children-taken-from-between-knees: {label: "Children placed on or taken from the knees of a patriarch as an adoption gesture", cluster: patriarchs}
+  childs-question-ritual-explanation: {label: "A child asks the meaning of a rite and the parent recites the exodus story", cluster: cult}
+  coffin-in-egypt: {label: "Embalmed hero laid in a coffin (aron) in Egypt", cluster: patriarchs}
+  coitus-interruptus-sin: {label: "Man spills his seed on the ground to avoid raising offspring for his dead brother and is struck dead", cluster: law}
+  contest-with-court-magicians: {label: "Prophet's wonders are imitated by the king's magicians in a contest", cluster: exodus}
+  corpses-on-the-shore: {label: "The rescued people see the enemy dead on the seashore", cluster: exodus}
+  courtiers-urge-king-to-yield: {label: "The king's own servants urge him to let the people go", cluster: exodus}
+  covenant-formula-my-people-your-god: {label: "Formula 'I will take you as my people and I will be your God'", cluster: covenant}
+  cry-rises-to-god-who-remembers-covenant: {label: "The groaning of the oppressed rises to God, who hears and remembers his covenant", cluster: exodus}
+  curse-on-violent-brothers-scattered: {label: "Father curses two violent sons' anger and decrees they be scattered among the tribes", cluster: patriarchs}
+  daily-portion-as-test: {label: "Food is given daily, a day's portion at a time, to test obedience", cluster: wilderness}
+  daughter-goes-out-seized-by-prince: {label: "A daughter goes out to see the local women and is seized and violated by the local prince", cluster: patriarchs}
+  daughter-named-in-genealogy: {label: "A lone daughter is named in a male genealogy (Dinah, Serah)", cluster: genealogy}
+  dead-frogs-heaped-stink: {label: "The dead frogs are piled in heaps and the land stinks", cluster: exodus}
+  death-of-firstborn: {label: "God kills every firstborn of the land, from the king's heir to the lowest servant and cattle", cluster: exodus}
+  deathbed-blessing-of-sons: {label: "A dying father gathers his sons to bless them and foretell their destinies", cluster: patriarchs}
+  deceitful-circumcision-condition: {label: "Brothers deceitfully demand that a whole town be circumcised as a condition of marriage", cluster: patriarchs}
+  despoiling-the-egyptians: {label: "The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors", cluster: exodus}
+  destroyer-passes-over-marked-houses: {label: "The destroyer (mashhit) passes over houses marked with blood", cluster: exodus}
+  discovery-of-yemim-while-herding-asses: {label: "While herding his father's asses, a man discovers 'the yemim' in the wilderness (hot springs or mules)", cluster: genealogy}
+  divination-cup: {label: "A ruler's silver cup used for divination", cluster: patriarchs}
+  divine-epithets-mighty-one-of-jacob-stone-of-israel: {label: "Archaic divine titles: Mighty One of Jacob, Shepherd, Stone of Israel", cluster: poetry}
+  divine-name-revealed-forever: {label: "God declares his name as his everlasting memorial for all generations", cluster: theophany}
+  divine-warrior: {label: "God celebrated as a warrior ('YHWH is a man of war')", cluster: poetry}
+  do-not-go-out-until-morning: {label: "No one may leave the house until morning on the night of the destroyer", cluster: cult}
+  do-not-quarrel-on-the-way: {label: "Hero warns his brothers not to quarrel on the journey home", cluster: patriarchs}
+  donkey-firstling-redeemed-or-neck-broken: {label: "Firstling of an ass must be redeemed with a lamb or its neck broken", cluster: law}
+  double-money-returned: {label: "Brothers bring double money to return the silver found in their sacks", cluster: patriarchs}
+  double-portion-on-sixth-day: {label: "A double portion of manna falls or is gathered on the sixth day", cluster: wilderness}
+  doubled-dream-certainty: {label: "A dream given twice means God has firmly decided and will act soon", cluster: dreams}
+  dough-carried-before-it-leavened: {label: "The people carry their unleavened dough in kneading-troughs on their shoulders", cluster: exodus}
+  earth-belongs-to-yhwh: {label: "Wonder done 'so that you may know that the earth belongs to YHWH'", cluster: theology}
+  earth-swallows-enemies: {label: "The earth swallows the enemy at God's outstretched right hand", cluster: poetry}
+  eaten-in-haste-dressed-for-journey: {label: "Sacrificial meal eaten in haste, loins girded, sandals on, staff in hand", cluster: cult}
+  egyptians-dig-for-water: {label: "Egyptians dig around the Nile for drinkable water", cluster: exodus}
+  egyptians-will-not-eat-with-hebrews: {label: "Egyptians will not eat with Hebrews, for it is an abomination to them", cluster: patriarchs}
+  ehyeh-asher-ehyeh: {label: "God names himself 'I will be what I will be' (ehyeh asher ehyeh)", cluster: theophany}
+  end-of-days-prophecy: {label: "Prophecy of what will happen 'at the end of days' (aharit ha-yamim)", cluster: prophecy}
+  enemies-sink-like-stone-lead: {label: "Drowned enemies sink like a stone or like lead in mighty waters", cluster: poetry}
+  estranged-brothers-bury-father: {label: "Estranged brothers come together to bury their father", cluster: patriarchs}
+  father-life-bound-to-sons: {label: "A father's life is bound up with the life of his youngest son", cluster: patriarchs}
+  father-silent-sons-avenge: {label: "The father keeps silent about his daughter's violation while the sons take revenge", cluster: patriarchs}
+  few-and-evil-days-lament: {label: "Patriarch tells a king his years have been few and evil, shorter than his fathers'", cluster: patriarchs}
+  firstborn-belongs-to-god: {label: "Every firstborn of humans and animals is consecrated to God", cluster: law}
+  firstborn-loses-preeminence: {label: "Firstborn son loses his preeminence for lying with his father's concubine", cluster: patriarchs}
+  forced-labor-building-store-cities: {label: "Oppressed people forced to build store-cities with mortar and bricks", cluster: exodus}
+  forty-years-in-wilderness: {label: "The people eat manna or wander for forty years in the wilderness", cluster: wilderness}
+  four-expressions-of-redemption: {label: "God's promise of redemption phrased in four verbs (bring out, deliver, redeem, take)", cluster: exodus}
+  four-hundred-thirty-years-sojourn: {label: "Israel's stay in Egypt lasts 430 years to the very day", cluster: exodus}
+  furnace-soot-thrown-to-sky-boils: {label: "Soot from a kiln thrown skyward becomes boils on men and beasts", cluster: exodus}
+  gathered-to-his-people: {label: "Patriarch dies and is 'gathered to his people'", cluster: patriarchs}
+  genealogy-interrupts-narrative: {label: "A genealogy interrupts a narrative at the hero's commissioning", cluster: genealogy}
+  gift-of-choice-products-to-ruler: {label: "Gift of the land's choice products (balm, honey, spices, nuts) brought to a foreign ruler", cluster: patriarchs}
+  gifts-of-changes-of-raiment: {label: "Hero gives his brothers changes of clothing, with a larger gift to the favorite", cluster: patriarchs}
+  glory-of-yhwh-in-cloud: {label: "The glory of YHWH appears in the cloud", cluster: theophany}
+  god-as-shepherd: {label: "God called the patriarch's shepherd all his life", cluster: theology}
+  god-attacks-at-night-lodging: {label: "God attacks the hero at a night lodging and seeks to kill him", cluster: theophany}
+  god-descends-to-rescue: {label: "God has seen the affliction, heard the cry and comes down to deliver", cluster: theology}
+  god-fearing-egyptians-heed-warning: {label: "Some of the king's servants fear God's word and bring their slaves and cattle indoors", cluster: exodus}
+  god-goes-down-with-hero: {label: "God promises to go down to a foreign land with the patriarch and bring him back up", cluster: patriarchs}
+  god-goes-out-at-midnight: {label: "God goes out through the land at midnight to strike", cluster: exodus}
+  god-kills-wicked-son: {label: "God kills a man for unspecified wickedness", cluster: patriarchs}
+  god-lures-enemy-to-destruction: {label: "God sets a trap so the enemy pursues and is destroyed, gaining glory over him", cluster: exodus}
+  god-looks-down-from-pillar-at-morning-watch: {label: "At the morning watch God looks down from the pillar of fire and cloud and panics the enemy", cluster: exodus}
+  god-makes-mouth-mute-and-blind: {label: "God claims to make the mouth, the mute, the deaf, the seeing and the blind", cluster: theology}
+  god-of-abraham-isaac-jacob: {label: "God identifies himself as God of Abraham, Isaac and Jacob", cluster: theophany}
+  god-of-the-hebrews: {label: "God introduced to a foreign king as 'the God of the Hebrews'", cluster: exodus}
+  god-placed-treasure-in-sacks: {label: "Steward says their God placed hidden treasure in their sacks", cluster: patriarchs}
+  god-rewards-midwives-with-houses: {label: "God rewards the God-fearing midwives by making them houses (families)", cluster: exodus}
+  god-the-healer: {label: "God declares 'I am YHWH your healer' and withholds the diseases of Egypt", cluster: theology}
+  god-will-surely-visit-you: {label: "Dying hero foretells 'God will surely visit you' (paqod yifqod) and bring you up", cluster: patriarchs}
+  goshen-spared-from-plague: {label: "God's people in Goshen are exempted from a plague that strikes Egypt", cluster: exodus}
+  grain-like-sand-of-sea: {label: "Grain stored like the sand of the sea, beyond counting", cluster: patriarchs}
+  grand-funeral-procession-chariots: {label: "A great funeral procession with royal elders, chariots and horsemen escorts the patriarch's body", cluster: patriarchs}
+  grandsons-adopted-as-sons: {label: "Grandfather adopts two grandsons as his own sons, equal to his firstborn", cluster: patriarchs}
+  great-grandchildren-born-on-knees: {label: "Great-grandchildren born on the hero's knees", cluster: patriarchs}
+  grey-hairs-to-sheol: {label: "Father says losing his son will bring his grey hairs down to Sheol in sorrow", cluster: patriarchs}
+  guided-to-holy-abode: {label: "God leads the redeemed people to his holy abode", cluster: poetry}
+  hail-and-fire-from-heaven: {label: "God sends hail mingled with fire and thunder from heaven", cluster: exodus}
+  haker-na-recognition-formula: {label: "Evidence presented with the formula 'Please recognize (haker na)' whose is this", cluster: patriarchs}
+  hand-turned-leprous-white-as-snow: {label: "Prophet's hand turns leprous, white as snow, and is restored as a sign", cluster: exodus}
+  hardened-king-foreknown: {label: "God foretells that the king will not let the people go except under compulsion", cluster: exodus}
+  hardening-of-pharaohs-heart: {label: "The king's heart is hardened (by himself or by God) so he refuses to release the people", cluster: exodus}
+  hero-age-17-at-start: {label: "Hero's story begins when he is seventeen", cluster: patriarchs}
+  hero-age-30-at-elevation: {label: "Hero is thirty when he enters royal service", cluster: patriarchs}
+  hero-age-80-at-mission: {label: "Hero is eighty (and his brother eighty-three) when they confront the king", cluster: exodus}
+  hero-as-father-to-pharaoh: {label: "Hero made 'father' (chief adviser) to the king", cluster: patriarchs}
+  hero-flees-to-foreign-land: {label: "Hero flees the king's death sentence to a foreign land", cluster: exodus}
+  hero-hides-face-fearing-to-look-at-god: {label: "Hero hides his face, afraid to look at God", cluster: theophany}
+  hero-kills-oppressor-and-hides-body: {label: "Hero kills an oppressor beating a kinsman and hides the body in the sand", cluster: exodus}
+  hero-reports-brothers-misdeeds: {label: "Young hero brings bad reports of his brothers to their father", cluster: patriarchs}
+  hero-trusted-by-jailer: {label: "The jailer puts all the prisoners in the hero's charge", cluster: patriarchs}
+  hero-waters-flock-for-women: {label: "Hero drives off shepherds and waters the flock of women at a well", cluster: exodus}
+  hero-weeps-in-secret: {label: "Hero turns aside or withdraws to weep unseen before his brothers", cluster: patriarchs}
+  hidden-understanding-through-interpreter: {label: "Hero speaks through an interpreter so the others do not know he understands them", cluster: patriarchs}
+  hoarded-manna-breeds-worms: {label: "Manna kept overnight breeds worms and stinks", cluster: wilderness}
+  holy-convocation-no-work-except-food: {label: "Festival days are holy convocations on which no work is done except preparing food", cluster: law}
+  house-blessed-for-sake-of-righteous: {label: "God blesses a foreigner's house for the sake of the righteous slave", cluster: patriarchs}
+  households-share-lamb: {label: "Small households join neighbors to share one sacrificial lamb", cluster: cult}
+  idols-buried-under-tree: {label: "Foreign gods and earrings buried under a terebinth", cluster: patriarchs}
+  incomparability-among-the-gods: {label: "'Who is like you among the gods, YHWH?'", cluster: poetry}
+  infant-weeping-arouses-pity: {label: "The foundling's weeping moves the finder to compassion", cluster: exodus}
+  interjected-prayer-for-salvation: {label: "A brief prayer ('For your salvation I wait, YHWH') interrupts a poem", cluster: poetry}
+  intermarriage-treaty-offer: {label: "Locals propose mutual intermarriage and shared land to make one people", cluster: patriarchs}
+  israel-my-firstborn-son: {label: "God calls Israel 'my firstborn son' and threatens the oppressor's firstborn", cluster: theology}
+  jar-of-manna-kept-before-testimony: {label: "A jar of manna preserved before the testimony for future generations", cluster: cult}
+  judgment-on-gods-of-egypt: {label: "God executes judgments on all the gods of Egypt", cluster: exodus}
+  kid-as-harlots-fee: {label: "A kid of the goats promised as a harlot's hire", cluster: patriarchs}
+  king-asks-prophet-to-pray: {label: "King asks the prophet to intercede with God to remove a plague", cluster: exodus}
+  king-banishes-prophet-on-pain-of-death: {label: "King tells the prophet never to see his face again or he will die", cluster: exodus}
+  king-begs-for-blessing: {label: "Defeated king asks the departing prophet to bless him too", cluster: exodus}
+  king-regrets-release-and-pursues: {label: "King regrets releasing the slaves and pursues them with chariots", cluster: exodus}
+  kings-before-israel-had-a-king: {label: "List of kings who reigned 'before any king reigned over the Israelites'", cluster: genealogy}
+  kings-birthday-feast-amnesty: {label: "On the king's birthday feast prisoners are released or executed", cluster: patriarchs}
+  land-flowing-milk-and-honey: {label: "Promised land described as flowing with milk and honey", cluster: covenant}
+  land-of-goshen-settlement: {label: "The family is settled apart in the land of Goshen", cluster: patriarchs}
+  land-of-rameses: {label: "The settlement land is called 'the land of Rameses'", cluster: patriarchs}
+  lean-eaters-remain-lean: {label: "In a dream the lean devour the fat but remain as lean as before", cluster: dreams}
+  leaven-removed-on-pain-of-karet: {label: "Leaven must be removed from houses; whoever eats it is cut off", cluster: law}
+  leftovers-burned-by-morning: {label: "Sacrificial meat left until morning must be burned", cluster: cult}
+  let-my-people-go-demand: {label: "Prophet delivers God's demand 'Let my people go that they may serve me'", cluster: exodus}
+  levirate-marriage: {label: "A man must marry his dead brother's widow to raise seed for the brother", cluster: law}
+  levite-parents-unnamed: {label: "The hero's parents are introduced anonymously as a Levite man and a Levite woman", cluster: exodus}
+  lift-up-the-head-pun: {label: "'Lift up your head' means restoration for one and beheading for the other", cluster: dreams}
+  light-in-israelite-dwellings: {label: "During the plague of darkness the Israelites have light in their dwellings", cluster: exodus}
+  lion-of-judah: {label: "Judah likened to a lion's whelp crouching that none dare rouse", cluster: poetry}
+  list-of-six-canaanite-nations: {label: "Formulaic list of the Canaanite, Hittite, Amorite, Perizzite, Hivite and Jebusite", cluster: covenant}
+  livestock-pestilence: {label: "Pestilence kills the oppressors' livestock while sparing the oppressed's", cluster: exodus}
+  magicians-cannot-stand-for-boils: {label: "The magicians themselves are struck and cannot stand before the prophet", cluster: exodus}
+  magicians-fail-finger-of-god: {label: "Magicians fail to imitate a wonder and confess 'This is the finger of God'", cluster: exodus}
+  manna-like-coriander-tastes-of-honey-wafers: {label: "Manna is like white coriander seed and tastes like wafers in honey", cluster: wilderness}
+  manna-like-frost-on-dew: {label: "Manna appears as a fine flaky layer like hoarfrost when the dew lifts", cluster: wilderness}
+  manna-melts-in-sun: {label: "Ungathered manna melts when the sun grows hot", cluster: wilderness}
+  marriage-to-paternal-aunt: {label: "Hero's father married his own aunt", cluster: genealogy}
+  measure-gloss-omer-tenth-ephah: {label: "Explanatory gloss defining a measure (an omer is a tenth of an ephah)", cluster: wilderness}
+  meeting-future-wife-at-well: {label: "Hero meets his future wife at a well", cluster: patriarchs}
+  messianic-vine-and-ass: {label: "Ruler binds his ass's foal to the vine and washes his garments in wine, the blood of grapes", cluster: poetry}
+  midwife-reassures-a-son: {label: "Midwife comforts a woman in hard labor: 'Fear not, this too is a son'", cluster: patriarchs}
+  midwives-excuse-vigorous-hebrew-women: {label: "Midwives excuse themselves: Hebrew women are vigorous and give birth before the midwife arrives", cluster: exodus}
+  mixed-multitude-joins: {label: "A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel", cluster: exodus}
+  month-of-aviv: {label: "The exodus month is Aviv, the month of ripening grain", cluster: cult}
+  moses-great-in-egypt: {label: "The prophet becomes very great in the eyes of the king's servants and the people", cluster: exodus}
+  mother-dies-in-childbirth-names-son: {label: "Mother dying in childbirth names her son for her sorrow; the father renames him", cluster: patriarchs}
+  mother-of-hero-named: {label: "The hero's previously unnamed mother is named in a genealogy", cluster: genealogy}
+  mother-sees-child-good: {label: "Mother sees that her newborn 'is good' (ki tov)", cluster: exodus}
+  multiply-like-fish: {label: "Blessing that descendants teem like fish", cluster: patriarchs}
+  murmuring-in-wilderness: {label: "The people grumble against their leaders about food or water", cluster: wilderness}
+  mysterious-man-gives-directions: {label: "An anonymous man finds the wandering hero in the field and directs him", cluster: patriarchs}
+  name-unknown-to-patriarchs: {label: "God says he appeared to the ancestors under another name and did not make his proper name known", cluster: theophany}
+  named-midwives-defy-king: {label: "Two named midwives fear God and disobey the king's order to kill boys", cluster: exodus}
+  nations-tremble-at-report: {label: "Neighboring nations and chieftains tremble on hearing of God's deeds", cluster: poetry}
+  nazir-among-brothers: {label: "The favored son called 'nazir (consecrated/prince) among his brothers'", cluster: poetry}
+  nevalah-in-israel-formula: {label: "Outrage formula 'a disgrace (nevalah) in Israel, a thing not done'", cluster: law}
+  new-king-who-knew-not-joseph: {label: "A new king arises who did not know the former benefactor", cluster: exodus}
+  new-year-in-spring-month: {label: "The spring exodus month becomes the first month of the year", cluster: cult}
+  night-of-watching: {label: "The exodus night is a 'night of watching' for God and for Israel through the generations", cluster: cult}
+  nile-water-turned-to-blood: {label: "Nile water is turned to blood", cluster: exodus}
+  no-bone-of-sacrifice-broken: {label: "No bone of the paschal sacrifice may be broken", cluster: cult}
+  no-dog-shall-whet-its-tongue: {label: "Not even a dog will growl at the Israelites on the night of the plague", cluster: exodus}
+  no-foreigner-eats-passover-uncircumcised: {label: "No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may", cluster: law}
+  non-dynastic-king-list: {label: "King list in which each successor comes from a different city, not the son of his predecessor", cluster: genealogy}
+  none-like-me-in-all-the-earth: {label: "Plagues sent so the king will know there is none like God in all the earth", cluster: theology}
+  now-i-can-die: {label: "Aged father says he may die now that he has seen his son alive", cluster: patriarchs}
+  nurse-buried-under-oak: {label: "The matriarch's nurse dies and is buried under an oak named 'Oak of Weeping'", cluster: patriarchs}
+  oath-by-life-of-pharaoh: {label: "Hero swears 'by the life of Pharaoh'", cluster: patriarchs}
+  oath-hand-under-thigh: {label: "Oath sworn by placing the hand under the thigh of the one exacting it", cluster: patriarchs}
+  omer-per-head-equal-shares: {label: "Each gathers an omer per person; the one who gathers much has no excess, the one who gathers little no lack", cluster: wilderness}
+  one-law-for-citizen-and-stranger: {label: "One law for the native and for the stranger who sojourns among you", cluster: law}
+  one-more-plague: {label: "God announces one final plague after which the king will drive them out", cluster: exodus}
+  oppression-increases-numbers: {label: "The more the people are oppressed, the more they multiply", cluster: exodus}
+  our-sacrifice-abomination-to-egyptians: {label: "Israel's sacrifices would be an abomination to Egyptians who might stone them", cluster: exodus}
+  outstretched-arm: {label: "God redeems 'with an outstretched arm' and great judgments", cluster: theology}
+  paschal-lamb-selected-tenth-slain-fourteenth: {label: "An unblemished yearling lamb selected on the tenth and slaughtered at twilight on the fourteenth", cluster: cult}
+  patriarch-blesses-foreign-king: {label: "The aged patriarch blesses the foreign king", cluster: patriarchs}
+  patriarch-long-lifespan: {label: "A precise long lifespan is recorded for a patriarch or ancestor (110-180 years)", cluster: genealogy}
+  people-believe-and-bow: {label: "The people believe the prophet's signs and bow in worship", cluster: exodus}
+  people-believe-in-god-and-his-servant: {label: "After the deliverance the people believe in God and in Moses his servant", cluster: exodus}
+  people-blame-deliverer: {label: "The oppressed blame the deliverer for making things worse", cluster: exodus}
+  people-sell-themselves-as-slaves-for-bread: {label: "Starving people sell their land and themselves as slaves to the king for food", cluster: patriarchs}
+  people-swarm-like-creatures: {label: "The people 'swarm' (sharats) and fill the land like creatures in creation", cluster: exodus}
+  people-too-dispirited-to-listen: {label: "The people cannot listen to the prophet because of their broken spirit and hard labor", cluster: exodus}
+  people-wish-to-return-to-slavery: {label: "The people say it would be better to serve their oppressors than die in the wilderness", cluster: wilderness}
+  pharaoh-confesses-sin: {label: "The king confesses he has sinned and that God is righteous", cluster: exodus}
+  pharaoh-deceives-again: {label: "The king breaks his promise to release the people once a plague is lifted", cluster: exodus}
+  pillar-of-cloud-and-fire: {label: "God leads the people in a pillar of cloud by day and a pillar of fire by night", cluster: wilderness}
+  place-named-for-mourning: {label: "Locals name a place for the great mourning they witness (Abel-Mizraim)", cluster: patriarchs}
+  plague-at-appointed-time-tomorrow: {label: "God sets a fixed time ('tomorrow') for a plague", cluster: exodus}
+  plague-of-darkness: {label: "A palpable darkness covers the land for three days", cluster: exodus}
+  plague-of-frogs: {label: "Frogs swarm out of the river into houses, beds, ovens and kneading-troughs", cluster: exodus}
+  plague-of-lice-from-dust: {label: "The dust of the earth becomes lice on man and beast", cluster: exodus}
+  plague-of-locusts: {label: "Locusts brought by an east wind devour all vegetation left after the hail", cluster: exodus}
+  plague-of-swarms-arov: {label: "Swarms (arov) of insects or wild beasts fill the houses of Egypt", cluster: exodus}
+  planted-on-mountain-of-inheritance: {label: "God brings and plants his people on the mountain of his inheritance, his sanctuary", cluster: poetry}
+  pledge-seal-cord-staff: {label: "Seal, cord and staff left as a pledge, later used as proof of paternity", cluster: patriarchs}
+  population-relocated-to-cities: {label: "The ruler moves the population into cities from one end of the land to the other", cluster: patriarchs}
+  priestly-line-to-phinehas: {label: "Priestly genealogy from Aaron to Phinehas with named wives", cluster: genealogy}
+  priests-land-exempt: {label: "Priests' land is exempt because they receive a royal allotment", cluster: patriarchs}
+  prophet-as-god-to-king: {label: "God makes the prophet 'as God' to the king with his brother as his prophet", cluster: prophecy}
+  prophet-complains-to-god: {label: "Prophet complains to God that his mission has only made things worse", cluster: prophecy}
+  prophet-lets-king-set-the-time: {label: "Prophet lets the king choose when the plague should end, to prove God's power", cluster: exodus}
+  prophet-meets-king-at-river-at-dawn: {label: "Prophet confronts the king at the river in the morning", cluster: exodus}
+  prophet-slow-of-speech: {label: "Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips'", cluster: prophecy}
+  prophetess-leads-women-with-drums-dancing: {label: "A prophetess leads the women with drums and dances in a victory song", cluster: cult}
+  prophets-staff-swallows-magicians-staffs: {label: "The prophet's staff-serpent swallows the magicians' staff-serpents", cluster: exodus}
+  purge-of-foreign-gods-and-garments: {label: "Household purifies itself, puts away foreign gods and changes garments before going to a holy place", cluster: cult}
+  pursuers-drowned-in-sea: {label: "The returning waters drown the pursuing army; not one survives", cluster: exodus}
+  qedeshah-term: {label: "A roadside harlot referred to as a qedeshah ('consecrated woman')", cluster: cult}
+  quail-cover-the-camp: {label: "Quail come up in the evening and cover the camp", cluster: wilderness}
+  rapist-loves-victim-seeks-marriage: {label: "After the rape the prince loves the girl and asks to marry her at any bride-price", cluster: patriarchs}
+  redeeming-angel: {label: "The angel who redeemed the patriarch from all evil is invoked to bless", cluster: theology}
+  redemption-of-firstborn-sons: {label: "Firstborn sons must be redeemed", cluster: law}
+  reluctant-prophet-objects: {label: "The called prophet raises objections (who am I, they won't believe, I can't speak, send someone else)", cluster: prophecy}
+  remove-sandals-holy-ground: {label: "Hero told to remove his sandals because the place is holy ground", cluster: theophany}
+  rend-garments-grief: {label: "Men tear their garments in grief or dismay", cluster: patriarchs}
+  return-after-pursuers-die: {label: "Hero may return home because those seeking his life are dead", cluster: exodus}
+  right-hand-of-god: {label: "God's glorious right hand shatters the enemy", cluster: poetry}
+  roadside-tomb-pillar: {label: "Wife buried by the roadside and marked with a pillar that stands 'to this day'", cluster: patriarchs}
+  roast-whole-with-unleavened-bread-and-bitter-herbs: {label: "Sacrificial lamb roasted whole, head, legs and innards, eaten with unleavened bread and bitter herbs", cluster: cult}
+  roundabout-route-avoiding-war: {label: "God leads the people by a roundabout route so they will not see war and turn back", cluster: exodus}
+  royal-fifth-tax: {label: "A fifth of the harvest is paid to the king as a perpetual statute", cluster: patriarchs}
+  royal-officials-imprisoned: {label: "King's cupbearer and baker imprisoned for offending him", cluster: patriarchs}
+  royal-renaming-foreign-name: {label: "King gives the foreign hero a new native name", cluster: patriarchs}
+  ruler-fears-growing-foreign-population: {label: "Ruler fears the immigrant people will grow numerous and join his enemies", cluster: exodus}
+  sabbath-breakers-find-nothing: {label: "Those who go out to gather on the Sabbath find nothing", cluster: wilderness}
+  sabbath-manna-does-not-spoil: {label: "Manna kept for the Sabbath does not spoil or breed worms", cluster: wilderness}
+  sabbath-rest-instituted: {label: "Seventh-day rest declared holy to God, with no gathering or going out", cluster: law}
+  scarlet-thread-on-hand: {label: "Midwife ties a scarlet thread on the hand of the twin who emerges first", cluster: patriarchs}
+  scepter-shall-not-depart-until-shiloh: {label: "Scepter shall not depart from Judah until Shiloh comes and peoples obey him", cluster: prophecy}
+  sea-monster-defeated-by-god: {label: "Sea, deep or sea monster subdued or defeated by God", cluster: cosmology}
+  sea-split-by-staff-and-east-wind: {label: "Prophet stretches his staff over the sea and God splits it with a strong east wind", cluster: exodus}
+  seated-by-birth-order-uncanny: {label: "Hero seats his brothers in order of birth, and they look at one another in amazement", cluster: patriarchs}
+  serpent-bites-horses-heels: {label: "A tribe likened to a serpent by the road biting the horse's heels so the rider falls", cluster: poetry}
+  seven-day-mourning: {label: "Seven days of mourning for the dead", cluster: patriarchs}
+  seven-days-unleavened-bread: {label: "Unleavened bread eaten for seven days", cluster: cult}
+  seven-years-plenty-seven-famine: {label: "Seven years of plenty followed by seven years of famine", cluster: dreams}
+  seventy-descendants-total: {label: "The family that went down to Egypt numbers seventy persons", cluster: genealogy}
+  shall-our-sister-be-treated-as-harlot: {label: "Avenging brothers retort 'Shall he treat our sister as a harlot?'", cluster: patriarchs}
+  shaved-and-changed-clothes-before-king: {label: "Prisoner shaved and dressed in new clothes before appearing before the king", cluster: patriarchs}
+  she-is-more-righteous-than-i: {label: "Man acknowledges the wronged woman: 'She is more righteous than I'", cluster: patriarchs}
+  shechem-portion-taken-by-sword-and-bow: {label: "Patriarch bequeaths a portion (shekhem) he took from the Amorites with sword and bow", cluster: patriarchs}
+  sheep-shearing-festival: {label: "Sheep-shearing as an occasion for travel and festivity", cluster: patriarchs}
+  shepherd-called-at-mountain-of-god: {label: "A shepherd tending flocks comes to the mountain of God and is called", cluster: prophecy}
+  shepherds-abomination-to-egypt: {label: "Every shepherd is an abomination to the Egyptians", cluster: patriarchs}
+  sign-is-future-worship-on-mountain: {label: "The sign confirming the call is that the people will later worship on this mountain", cluster: prophecy}
+  sign-on-hand-between-eyes: {label: "The rite shall be a sign on your hand and a memorial between your eyes", cluster: law}
+  six-hundred-thousand-men: {label: "About 600,000 men on foot leave Egypt, besides children", cluster: exodus}
+  so-egypt-shall-know-i-am-yhwh: {label: "Wonders done so that Egypt shall know 'I am YHWH'", cluster: exodus}
+  son-closes-fathers-eyes: {label: "God promises the son will close his father's eyes at death", cluster: patriarchs}
+  son-lies-with-fathers-concubine: {label: "A son lies with his father's concubine", cluster: patriarchs}
+  son-named-for-exile: {label: "Hero names his son for being a stranger in a foreign land", cluster: exodus}
+  son-of-canaanite-woman-noted: {label: "Genealogy notes one son as 'son of the Canaanite woman'", cluster: genealogy}
+  sons-named-for-forgetting-and-fruitfulness: {label: "Hero names his sons for forgetting his hardship and being fruitful in affliction", cluster: patriarchs}
+  sons-of-korah-line: {label: "Genealogy of Korah and his sons", cluster: genealogy}
+  spirit-of-god-in-man: {label: "A foreign king recognizes 'a man in whom is the spirit of God'", cluster: patriarchs}
+  spreading-hands-in-prayer: {label: "Prophet spreads out his palms to God in prayer", cluster: cult}
+  staff-becomes-serpent: {label: "A staff thrown down becomes a serpent and turns back into a staff", cluster: exodus}
+  stand-still-and-see-salvation: {label: "'Stand still and see the salvation of YHWH; YHWH will fight for you'", cluster: exodus}
+  standing-stone-anointed-libation: {label: "A standing stone erected and anointed with oil and a libation", cluster: cult}
+  statute-given-and-people-tested: {label: "At a desert stop God gives statute and ordinance and tests the people", cluster: wilderness}
+  taskmasters-and-foremen: {label: "Foreign taskmasters over native foremen who are beaten for unmet quotas", cluster: exodus}
+  tell-it-to-your-son: {label: "Command to tell one's son and grandson of God's deeds in Egypt", cluster: cult}
+  terror-of-god-on-cities: {label: "A divine terror falls on surrounding cities so they do not pursue", cluster: patriarchs}
+  three-days-custody: {label: "Brothers held in custody for three days", cluster: patriarchs}
+  three-days-journey-to-sacrifice-pretext: {label: "Request for a three days' journey into the wilderness to sacrifice", cluster: exodus}
+  three-days-without-water: {label: "Three days in the wilderness without finding water", cluster: wilderness}
+  three-items-equal-three-days: {label: "Three items in a dream (branches, baskets) signify three days", cluster: dreams}
+  town-assembly-at-gate: {label: "Leaders persuade the townsmen at the city gate", cluster: patriarchs}
+  tribal-animal-emblems: {label: "Tribes characterized by animal images (lion, ass, serpent, hind, wolf)", cluster: poetry}
+  twelve-sons-list: {label: "Twelve sons of the patriarch listed by their mothers", cluster: genealogy}
+  twelve-springs-seventy-palms: {label: "Oasis with twelve springs and seventy palm trees", cluster: wilderness}
+  twins-struggle-at-birth: {label: "Twins contend at birth over who emerges first", cluster: patriarchs}
+  two-brothers-massacre-city: {label: "Two brothers slay all the males of a city with the sword and plunder it", cluster: patriarchs}
+  tyrant-calls-oppressed-lazy: {label: "Tyrant accuses the oppressed of idleness for wanting to worship", cluster: exodus}
+  tyrant-preserved-to-display-gods-power: {label: "God has kept the tyrant alive to show his power and make his name known in all the earth", cluster: theology}
+  unprecedented-since-founding: {label: "A plague unlike any since the nation was founded, or ever again", cluster: exodus}
+  veiled-woman-at-roadside-deceives: {label: "A widow veils herself, sits by the road and is taken for a harlot by her father-in-law", cluster: patriarchs}
+  victory-song-after-deliverance: {label: "Leader and people sing a victory song after the enemy's destruction", cluster: poetry}
+  wagons-from-egypt: {label: "Wagons sent from Egypt to carry the father and families", cluster: patriarchs}
+  walk-on-dry-ground-waters-as-walls: {label: "The people walk on dry ground through the sea with the waters as a wall on either side", cluster: exodus}
+  water-of-gold-name: {label: "A queen's ancestry includes a figure named 'Waters of Gold' (Me-Zahav)", cluster: genealogy}
+  waters-heaped-by-divine-breath: {label: "By the blast of God's nostrils the waters pile up and the deeps congeal", cluster: poetry}
+  weeping-heard-by-egypt: {label: "Hero weeps so loudly that the Egyptians and the king's house hear", cluster: patriarchs}
+  weeping-on-necks: {label: "Brothers or father and son fall on each other's necks and weep", cluster: patriarchs}
+  what-is-it-name-of-manna: {label: "Manna named from the people's question 'What is it?' (man hu)", cluster: wilderness}
+  who-is-yhwh-defiance: {label: "King defies the prophet: 'Who is YHWH that I should obey him?'", cluster: exodus}
+  who-made-you-judge-over-us: {label: "Kinsman rebuffs the hero: 'Who made you prince and judge over us?'", cluster: exodus}
+  whole-world-comes-to-buy-grain: {label: "All lands come to Egypt to buy grain from the hero", cluster: patriarchs}
+  why-do-you-cry-to-me: {label: "God tells the praying leader: 'Why do you cry to me? Tell the people to go forward'", cluster: exodus}
+  widow-withheld-from-youngest-son: {label: "Father-in-law withholds his youngest son from the widow, fearing he too will die", cluster: law}
+  wife-circumcises-son-with-flint: {label: "Wife cuts off her son's foreskin with a flint and touches it to the threatened man", cluster: exodus}
+  wind-drives-locusts-into-sea: {label: "A west wind carries the locusts into the Sea of Reeds", cluster: exodus}
+  wonder-working-staff: {label: "The hero carries 'the staff of God' with which he performs signs", cluster: exodus}
+  wordplay-blessings-on-names: {label: "Tribal sayings pun on each son's name", cluster: poetry}
+  yhwh-reigns-forever: {label: "Hymn climaxes with 'YHWH will reign forever and ever'", cluster: poetry}
+  younger-preferred-over-elder: {label: "The younger son is preferred over the elder in blessing or destiny", cluster: patriarchs}
+  youngest-given-fivefold-portion: {label: "The youngest brother is served five times as much as the others", cluster: patriarchs}
+units:
+  - id: hb-gen-34-dinah-shechem
+    tradition: judaism
+    title: Dinah, Shechem and the massacre by Simeon and Levi
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 34:1-31"]
+    tags:
+      - {motif: daughter-goes-out-seized-by-prince, refs: ["Gen 34:1", "Gen 34:2"], note: "Dinah 'went out to see the daughters of the land'; Shechem the nasi takes and humbles her"}
+      - {motif: rapist-loves-victim-seeks-marriage, refs: ["Gen 34:3", "Gen 34:4", "Gen 34:8", "Gen 34:12"], note: "his soul 'clung' to her; offers any mohar and gift"}
+      - {motif: father-silent-sons-avenge, refs: ["Gen 34:5", "Gen 34:30"], note: "Jacob 'kept silent' until his sons came"}
+      - {motif: nevalah-in-israel-formula, refs: ["Gen 34:7"], note: "'a disgrace in Israel... such a thing is not done'"}
+      - {motif: intermarriage-treaty-offer, refs: ["Gen 34:9", "Gen 34:10", "Gen 34:16", "Gen 34:21"]}
+      - {motif: deceitful-circumcision-condition, refs: ["Gen 34:13", "Gen 34:14", "Gen 34:15", "Gen 34:24"], note: "be-mirmah; uncircumcision a 'reproach'"}
+      - {motif: circumcision-covenant-sign, refs: ["Gen 34:15", "Gen 34:22"], note: "turned into a ruse"}
+      - {motif: town-assembly-at-gate, refs: ["Gen 34:20", "Gen 34:24"]}
+      - {motif: attack-on-third-day-of-pain, refs: ["Gen 34:25"], note: "while the men were 'in pain' on the third day"}
+      - {motif: two-brothers-massacre-city, refs: ["Gen 34:25", "Gen 34:26", "Gen 34:27", "Gen 34:28", "Gen 34:29"]}
+      - {motif: shall-our-sister-be-treated-as-harlot, refs: ["Gen 34:31"], note: "the brothers have the last word"}
+    hints:
+      - "Jubilees 30 and Judith 9:2-4 praise Simeon's zeal; Testament of Levi 5-7 has an angel commission Levi's sword."
+      - "Compare 2 Sam 13 (Amnon and Tamar) and the abduction of maidens in Greek myth (Persephone, Europa)."
+  - id: hb-gen-35-bethel-rachel-death
+    tradition: judaism
+    title: Purge of foreign gods, Bethel, Rachel's death in childbirth, Reuben and Bilhah, Isaac's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 35:1-29"]
+    tags:
+      - {motif: purge-of-foreign-gods-and-garments, refs: ["Gen 35:2", "Gen 35:4"], note: "foreign gods and earrings buried under the terebinth at Shechem"}
+      - {motif: idols-buried-under-tree, refs: ["Gen 35:4"]}
+      - {motif: terror-of-god-on-cities, refs: ["Gen 35:5"], note: "hittat elohim"}
+      - {motif: nurse-buried-under-oak, refs: ["Gen 35:8"], note: "Deborah, Rebekah's nurse, under Allon Bakhut 'oak of weeping'"}
+      - {motif: name-change-by-god, refs: ["Gen 35:10"], note: "Jacob renamed Israel a second time"}
+      - {motif: el-shaddai-revelation, refs: ["Gen 35:11"]}
+      - {motif: kings-will-descend-from-patriarch, refs: ["Gen 35:11"]}
+      - {motif: standing-stone-anointed-libation, refs: ["Gen 35:14"], note: "drink-offering and oil poured on massebah"}
+      - {motif: mother-dies-in-childbirth-names-son, refs: ["Gen 35:16", "Gen 35:17", "Gen 35:18"], note: "Ben-Oni 'son of my sorrow' renamed Binyamin by father"}
+      - {motif: midwife-reassures-a-son, refs: ["Gen 35:17"]}
+      - {motif: roadside-tomb-pillar, refs: ["Gen 35:19", "Gen 35:20"], note: "Rachel's tomb on the way to Ephrath/Bethlehem 'to this day'"}
+      - {motif: son-lies-with-fathers-concubine, refs: ["Gen 35:22"]}
+      - {motif: twelve-sons-list, refs: ["Gen 35:22", "Gen 35:23", "Gen 35:24", "Gen 35:25", "Gen 35:26"]}
+      - {motif: patriarch-long-lifespan, refs: ["Gen 35:28"], note: "Isaac 180 years"}
+      - {motif: estranged-brothers-bury-father, refs: ["Gen 35:29"]}
+    hints:
+      - "Gen 35:22 reported tersely with a masoretic gap (pisqa); cf. Reuben's punishment Gen 49:4 and Absalom with David's concubines 2 Sam 16:22."
+      - "Rachel weeping for her children, Jer 31:15 / Matt 2:18."
+  - id: hb-gen-36-edom-genealogy
+    tradition: judaism
+    title: Generations of Esau, Horite chiefs, kings of Edom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 36:1-43"]
+    tags:
+      - {motif: brothers-separate-land-cannot-bear, refs: ["Gen 36:6", "Gen 36:7"], note: "cf. Abram and Lot"}
+      - {motif: amalek-born-of-concubine, refs: ["Gen 36:12"], note: "Timna, concubine of Eliphaz, bears Amalek"}
+      - {motif: chiefs-alluf-lists, refs: ["Gen 36:15", "Gen 36:16", "Gen 36:29", "Gen 36:40", "Gen 36:43"]}
+      - {motif: primeval-giant-peoples, refs: ["Gen 36:20"]}
+      - {motif: discovery-of-yemim-while-herding-asses, refs: ["Gen 36:24"], note: "Anah found ha-yemim in the wilderness; meaning disputed (hot springs? mules?)"}
+      - {motif: kings-before-israel-had-a-king, refs: ["Gen 36:31"], note: "anachronism formula"}
+      - {motif: non-dynastic-king-list, refs: ["Gen 36:32", "Gen 36:33", "Gen 36:34", "Gen 36:35", "Gen 36:36", "Gen 36:37", "Gen 36:38", "Gen 36:39"], note: "each king from a different city"}
+      - {motif: bela-son-of-beor-king, refs: ["Gen 36:32"], note: "name echoes Balaam son of Beor"}
+      - {motif: water-of-gold-name, refs: ["Gen 36:39"], note: "Mehetabel daughter of Matred daughter of Me-Zahav"}
+    hints:
+      - "Rabbinic tradition (b. Pesachim 54a) makes Anah the inventor of mule-breeding; Targum Neofiti reads 'mules'."
+      - "Eliphaz the Temanite reappears as Job's friend (Job 2:11); Uz (36:28) is Job's land."
+  - id: hb-gen-37-joseph-dreams-sold
+    tradition: judaism
+    title: Joseph's dreams, the pit and the sale to Egypt
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 37:1-36"]
+    tags:
+      - {motif: hero-age-17-at-start, refs: ["Gen 37:2"], note: "Joseph seventeen, shepherding with the sons of Bilhah and Zilpah"}
+      - {motif: hero-reports-brothers-misdeeds, refs: ["Gen 37:2"], note: "dibbatam ra'ah"}
+      - {motif: father-favors-son, refs: ["Gen 37:3", "Gen 37:4"], note: "son of his old age"}
+      - {motif: special-garment-from-father, refs: ["Gen 37:3"], note: "ketonet passim"}
+      - {motif: dream-sheaves-bow, refs: ["Gen 37:7"]}
+      - {motif: dream-heavenly-bodies-bow, refs: ["Gen 37:9"]}
+      - {motif: father-rebukes-dream, refs: ["Gen 37:10", "Gen 37:11"], note: "'his father kept the matter'"}
+      - {motif: father-sends-son-to-brothers, refs: ["Gen 37:13", "Gen 37:14"]}
+      - {motif: hineni-response, refs: ["Gen 37:13"]}
+      - {motif: mysterious-man-gives-directions, refs: ["Gen 37:15", "Gen 37:16", "Gen 37:17"], note: "an anonymous 'man' finds Joseph wandering in the field"}
+      - {motif: brothers-plot-death, refs: ["Gen 37:18", "Gen 37:19", "Gen 37:20"], note: "'this master of dreams'"}
+      - {motif: wild-animal-blamed, refs: ["Gen 37:20", "Gen 37:33"]}
+      - {motif: one-brother-dissuades-killing, refs: ["Gen 37:21", "Gen 37:22", "Gen 37:26", "Gen 37:27"], note: "Reuben and then Judah"}
+      - {motif: cast-into-pit, refs: ["Gen 37:24"], note: "the pit was empty, no water in it"}
+      - {motif: brothers-eat-while-victim-in-pit, refs: ["Gen 37:25"]}
+      - {motif: rescued-by-caravan, refs: ["Gen 37:25", "Gen 37:28"], note: "Ishmaelites with gum, balm and ladanum; also Midianite traders"}
+      - {motif: sold-for-paltry-price, refs: ["Gen 37:28"], note: "twenty pieces of silver"}
+      - {motif: bloodied-garment-deception, refs: ["Gen 37:31", "Gen 37:32"], note: "goat's blood"}
+      - {motif: haker-na-recognition-formula, refs: ["Gen 37:32", "Gen 37:33"]}
+      - {motif: father-believes-and-mourns, refs: ["Gen 37:33", "Gen 37:34", "Gen 37:35"], note: "'I will go down to Sheol to my son mourning'"}
+      - {motif: bought-by-egyptian-official, refs: ["Gen 37:36"], note: "Potiphar, saris of Pharaoh, chief of the guard/cooks"}
+    hints:
+      - "Quran 12:4-20; Testaments of Zebulun and Gad. Twenty silver later read as typological for Judas's thirty (Matt 26:15)."
+      - "The Egyptian Tale of Two Brothers parallels the coming seduction episode."
+  - id: hb-gen-38-judah-tamar
+    tradition: judaism
+    title: Judah and Tamar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 38:1-30"]
+    tags:
+      - {motif: god-kills-wicked-son, refs: ["Gen 38:7", "Gen 38:10"], note: "Er and Onan slain by YHWH"}
+      - {motif: levirate-marriage, refs: ["Gen 38:8"], note: "yabbem; 'raise up seed for your brother'"}
+      - {motif: coitus-interruptus-sin, refs: ["Gen 38:9"], note: "Onan 'spoiled it on the ground'"}
+      - {motif: widow-withheld-from-youngest-son, refs: ["Gen 38:11", "Gen 38:14"]}
+      - {motif: veiled-woman-at-roadside-deceives, refs: ["Gen 38:14", "Gen 38:15"], note: "sits at Petah Enayim on the road to Timnah"}
+      - {motif: sheep-shearing-festival, refs: ["Gen 38:12", "Gen 38:13"]}
+      - {motif: pledge-seal-cord-staff, refs: ["Gen 38:17", "Gen 38:18", "Gen 38:25"], note: "hotam, petil, matteh"}
+      - {motif: kid-as-harlots-fee, refs: ["Gen 38:17", "Gen 38:20"]}
+      - {motif: qedeshah-term, refs: ["Gen 38:21", "Gen 38:22"], note: "Hirah asks for the 'qedeshah', Judah's narrator says zonah"}
+      - {motif: burning-as-penalty-for-unchastity, refs: ["Gen 38:24"]}
+      - {motif: haker-na-recognition-formula, refs: ["Gen 38:25", "Gen 38:26"]}
+      - {motif: she-is-more-righteous-than-i, refs: ["Gen 38:26"]}
+      - {motif: twins-struggle-at-birth, refs: ["Gen 38:27", "Gen 38:28", "Gen 38:29", "Gen 38:30"]}
+      - {motif: scarlet-thread-on-hand, refs: ["Gen 38:28", "Gen 38:30"], note: "midwife ties shani on Zerah's hand; Perez breaks out first"}
+    hints:
+      - "Perez is ancestor of David (Ruth 4:18-22) and appears in Matthew's genealogy (Matt 1:3). Testament of Judah 10-12."
+      - "Middle Assyrian Laws A 33 and Hittite Laws 193 on levirate obligations of the father-in-law."
+  - id: hb-gen-39-joseph-potiphar-wife
+    tradition: judaism
+    title: Joseph in Potiphar's house and in prison
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 39:1-23"]
+    tags:
+      - {motif: bought-by-egyptian-official, refs: ["Gen 39:1"]}
+      - {motif: divine-favor-in-servitude, refs: ["Gen 39:2", "Gen 39:3", "Gen 39:21", "Gen 39:23"]}
+      - {motif: master-entrusts-household, refs: ["Gen 39:4", "Gen 39:6", "Gen 39:8"], note: "except the bread he eats"}
+      - {motif: house-blessed-for-sake-of-righteous, refs: ["Gen 39:5"]}
+      - {motif: hero-beautiful, refs: ["Gen 39:6"], note: "yefeh to'ar wifeh mar'eh"}
+      - {motif: masters-wife-seduces, refs: ["Gen 39:7", "Gen 39:10", "Gen 39:12"], note: "'lie with me', day after day"}
+      - {motif: hero-refuses-citing-master-and-god, refs: ["Gen 39:8", "Gen 39:9"]}
+      - {motif: alone-in-house, refs: ["Gen 39:11"]}
+      - {motif: garment-evidence-in-seduction, refs: ["Gen 39:12", "Gen 39:13", "Gen 39:15", "Gen 39:16", "Gen 39:18"], note: "garment left in her hand"}
+      - {motif: false-accusation-by-wife, refs: ["Gen 39:14", "Gen 39:17"], note: "'a Hebrew man to mock us'"}
+      - {motif: hero-imprisoned, refs: ["Gen 39:20"], note: "beit ha-sohar where the king's prisoners are kept"}
+      - {motif: hero-trusted-by-jailer, refs: ["Gen 39:22", "Gen 39:23"]}
+    hints:
+      - "Egyptian Tale of Two Brothers (Anubis and Bata); Phaedra-Hippolytus and Bellerophon-Stheneboea (Iliad 6.155-170); Quran 12:21-35."
+  - id: hb-gen-40-prisoners-dreams
+    tradition: judaism
+    title: The cupbearer's and baker's dreams
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 40:1-23"]
+    tags:
+      - {motif: royal-officials-imprisoned, refs: ["Gen 40:1", "Gen 40:2", "Gen 40:3"], note: "chief cupbearer and chief baker"}
+      - {motif: prisoners-dreams-wine-bread, refs: ["Gen 40:5", "Gen 40:9", "Gen 40:10", "Gen 40:11", "Gen 40:16", "Gen 40:17"], note: "vine with three tendrils; three baskets on the head"}
+      - {motif: interpretation-from-god, refs: ["Gen 40:8"], note: "'do not interpretations belong to God?'"}
+      - {motif: three-items-equal-three-days, refs: ["Gen 40:12", "Gen 40:18"]}
+      - {motif: lift-up-the-head-pun, refs: ["Gen 40:13", "Gen 40:19", "Gen 40:20"], note: "'lift up your head' = restore / 'lift your head off you' = behead"}
+      - {motif: remember-me-to-king, refs: ["Gen 40:14", "Gen 40:15"], note: "'I was stolen from the land of the Hebrews'"}
+      - {motif: birds-eat-bread-from-head, refs: ["Gen 40:17", "Gen 40:19"]}
+      - {motif: one-executed-one-restored, refs: ["Gen 40:21", "Gen 40:22"], note: "baker hanged on a tree"}
+      - {motif: kings-birthday-feast-amnesty, refs: ["Gen 40:20"], note: "yom hulledet et Par'oh"}
+      - {motif: freed-prisoner-forgets, refs: ["Gen 40:23"]}
+    hints:
+      - "Quran 12:36-42 (Joseph preaches to the prisoners first). Herod's birthday feast (Mark 6:21) is the other biblical birthday-feast execution."
+  - id: hb-gen-41-pharaoh-dreams-joseph-viceroy
+    tradition: judaism
+    title: Pharaoh's dreams and Joseph's elevation
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 41:1-57"]
+    tags:
+      - {motif: king-dream-cows-and-ears, refs: ["Gen 41:1", "Gen 41:2", "Gen 41:3", "Gen 41:4", "Gen 41:5", "Gen 41:6", "Gen 41:7"], note: "cows come up out of the Nile (ye'or); ears scorched by the east wind"}
+      - {motif: lean-eaters-remain-lean, refs: ["Gen 41:21"], note: "'one could not know they had come into their bellies'"}
+      - {motif: court-experts-fail, refs: ["Gen 41:8", "Gen 41:24"], note: "hartummim"}
+      - {motif: cupbearer-recalls-hero, refs: ["Gen 41:9", "Gen 41:10", "Gen 41:11", "Gen 41:12", "Gen 41:13"]}
+      - {motif: shaved-and-changed-clothes-before-king, refs: ["Gen 41:14"]}
+      - {motif: interpretation-from-god, refs: ["Gen 41:16", "Gen 41:25", "Gen 41:28"], note: "'not I; God will answer'"}
+      - {motif: doubled-dream-certainty, refs: ["Gen 41:32"]}
+      - {motif: seven-years-plenty-seven-famine, refs: ["Gen 41:26", "Gen 41:27", "Gen 41:29", "Gen 41:30", "Gen 41:53", "Gen 41:54"]}
+      - {motif: famine-grain-storage-plan, refs: ["Gen 41:33", "Gen 41:34", "Gen 41:35", "Gen 41:36"], note: "a fifth taken in the good years"}
+      - {motif: spirit-of-god-in-man, refs: ["Gen 41:38"]}
+      - {motif: hero-appointed-over-storehouses, refs: ["Gen 41:40", "Gen 41:41", "Gen 41:44"], note: "'only in the throne will I be greater than you'"}
+      - {motif: investiture-ring-chariot, refs: ["Gen 41:42", "Gen 41:43"], note: "signet ring, linen, gold chain, second chariot, cry 'avrekh'"}
+      - {motif: royal-renaming-foreign-name, refs: ["Gen 41:45"], note: "Zaphenath-paneah"}
+      - {motif: hero-given-egyptian-wife, refs: ["Gen 41:45", "Gen 41:50"], note: "Asenath daughter of Poti-phera priest of On"}
+      - {motif: hero-age-30-at-elevation, refs: ["Gen 41:46"]}
+      - {motif: grain-like-sand-of-sea, refs: ["Gen 41:49"]}
+      - {motif: sons-named-for-forgetting-and-fruitfulness, refs: ["Gen 41:51", "Gen 41:52"], note: "Manasseh, Ephraim"}
+      - {motif: whole-world-comes-to-buy-grain, refs: ["Gen 41:55", "Gen 41:56", "Gen 41:57"], note: "'go to Joseph; what he says to you, do'"}
+    hints:
+      - "Famine Stela of Sehel (seven-year famine under Djoser, Imhotep advises); Gilgamesh VI seven years of chaff; Joseph and Aseneth expands 41:45."
+      - "'Whatever he tells you, do' (41:55) echoed by Mary at Cana, John 2:5. Quran 12:43-56."
+  - id: hb-gen-42-brothers-first-journey
+    tradition: judaism
+    title: The brothers' first journey to Egypt
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 42:1-38"]
+    tags:
+      - {motif: famine-forces-descent-to-egypt, refs: ["Gen 42:1", "Gen 42:2", "Gen 42:5"]}
+      - {motif: father-reluctant-youngest, refs: ["Gen 42:4", "Gen 42:36", "Gen 42:38"]}
+      - {motif: brothers-come-unrecognizing, refs: ["Gen 42:6", "Gen 42:7", "Gen 42:8"]}
+      - {motif: parents-honored-dream-fulfilled, refs: ["Gen 42:6", "Gen 42:9"], note: "brothers bow face to the ground; Joseph remembers the dreams"}
+      - {motif: spy-accusation, refs: ["Gen 42:9", "Gen 42:12", "Gen 42:14", "Gen 42:16"], note: "'to see the nakedness of the land'"}
+      - {motif: oath-by-life-of-pharaoh, refs: ["Gen 42:15", "Gen 42:16"]}
+      - {motif: demand-youngest-brother, refs: ["Gen 42:15", "Gen 42:20", "Gen 42:34"]}
+      - {motif: three-days-custody, refs: ["Gen 42:17", "Gen 42:18"]}
+      - {motif: brothers-confess-guilt-unknowing, refs: ["Gen 42:21", "Gen 42:22"], note: "'his blood is required'"}
+      - {motif: hidden-understanding-through-interpreter, refs: ["Gen 42:23"], note: "ha-melits between them"}
+      - {motif: hero-weeps-in-secret, refs: ["Gen 42:24"]}
+      - {motif: one-brother-left-in-egypt, refs: ["Gen 42:24"], note: "Simeon bound before their eyes"}
+      - {motif: money-returned-in-sacks, refs: ["Gen 42:25", "Gen 42:27", "Gen 42:28", "Gen 42:35"]}
+      - {motif: pledge-to-father, refs: ["Gen 42:37"], note: "Reuben: 'kill my two sons'"}
+      - {motif: grey-hairs-to-sheol, refs: ["Gen 42:38"]}
+  - id: hb-gen-43-second-journey-feast
+    tradition: judaism
+    title: Second journey with Benjamin and the feast in Joseph's house
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 43:1-34"]
+    tags:
+      - {motif: father-reluctant-youngest, refs: ["Gen 43:6", "Gen 43:14"], note: "'if I am bereaved, I am bereaved'"}
+      - {motif: pledge-to-father, refs: ["Gen 43:8", "Gen 43:9"], note: "Judah: 'I will be surety (e'ervennu) for him'"}
+      - {motif: gift-of-choice-products-to-ruler, refs: ["Gen 43:11"], note: "balm, honey, gum, ladanum, pistachios, almonds"}
+      - {motif: double-money-returned, refs: ["Gen 43:12", "Gen 43:15", "Gen 43:21", "Gen 43:22"]}
+      - {motif: god-placed-treasure-in-sacks, refs: ["Gen 43:23"], note: "steward: 'your God... gave you treasure (matmon)'"}
+      - {motif: hospitality-to-strangers, refs: ["Gen 43:24"]}
+      - {motif: parents-honored-dream-fulfilled, refs: ["Gen 43:26", "Gen 43:28"]}
+      - {motif: hero-weeps-in-secret, refs: ["Gen 43:30", "Gen 43:31"], note: "goes into the inner room to weep, washes face"}
+      - {motif: egyptians-will-not-eat-with-hebrews, refs: ["Gen 43:32"], note: "to'evah to Egyptians"}
+      - {motif: seated-by-birth-order-uncanny, refs: ["Gen 43:33"], note: "the men marvel"}
+      - {motif: youngest-given-fivefold-portion, refs: ["Gen 43:34"]}
+  - id: hb-gen-44-silver-cup-judah-plea
+    tradition: judaism
+    title: The silver cup and Judah's plea
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 44:1-34"]
+    tags:
+      - {motif: planted-cup, refs: ["Gen 44:1", "Gen 44:2"], note: "gevi'a ha-kesef"}
+      - {motif: theft-accusation-pursuit, refs: ["Gen 44:4", "Gen 44:6", "Gen 44:7", "Gen 44:8"], note: "'why have you repaid evil for good?'"}
+      - {motif: divination-cup, refs: ["Gen 44:5", "Gen 44:15"], note: "nahesh yenahesh, lecanomancy"}
+      - {motif: thief-penalty-set-by-brothers, refs: ["Gen 44:9", "Gen 44:10", "Gen 44:17"]}
+      - {motif: search-eldest-to-youngest, refs: ["Gen 44:12"]}
+      - {motif: rend-garments-grief, refs: ["Gen 44:13"]}
+      - {motif: brothers-confess-guilt-unknowing, refs: ["Gen 44:16"], note: "'God has found out the iniquity of your servants'"}
+      - {motif: father-life-bound-to-sons, refs: ["Gen 44:30"], note: "nafsho qeshurah be-nafsho"}
+      - {motif: offer-substitute, refs: ["Gen 44:33", "Gen 44:34"], note: "Judah offers himself as slave in Benjamin's place"}
+      - {motif: grey-hairs-to-sheol, refs: ["Gen 44:29", "Gen 44:31"]}
+    hints:
+      - "Quran 12:70-79 (cup/measure in Benjamin's bag; 'the penalty is the one in whose bag it is found'). Cup divination in Mesopotamian oil-omen texts."
+  - id: hb-gen-45-joseph-reveals-himself
+    tradition: judaism
+    title: Joseph makes himself known; the wagons sent for Jacob
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 45:1-28"]
+    tags:
+      - {motif: hero-reveals-identity, refs: ["Gen 45:1", "Gen 45:3", "Gen 45:4"], note: "clears the room; 'I am Joseph; is my father still alive?'"}
+      - {motif: weeping-heard-by-egypt, refs: ["Gen 45:2"]}
+      - {motif: hero-sees-divine-plan, refs: ["Gen 45:5", "Gen 45:7", "Gen 45:8"], note: "'not you sent me here but God'; to preserve a remnant"}
+      - {motif: hero-forgives-brothers, refs: ["Gen 45:5", "Gen 45:15"]}
+      - {motif: hero-as-father-to-pharaoh, refs: ["Gen 45:8"], note: "av le-Par'oh"}
+      - {motif: land-of-goshen-settlement, refs: ["Gen 45:10"]}
+      - {motif: weeping-on-necks, refs: ["Gen 45:14", "Gen 45:15"]}
+      - {motif: wagons-from-egypt, refs: ["Gen 45:19", "Gen 45:21", "Gen 45:27"]}
+      - {motif: gifts-of-changes-of-raiment, refs: ["Gen 45:22"], note: "Benjamin: 300 silver and five changes"}
+      - {motif: do-not-quarrel-on-the-way, refs: ["Gen 45:24"]}
+      - {motif: father-revived-by-news, refs: ["Gen 45:26", "Gen 45:27", "Gen 45:28"], note: "his heart went numb; his spirit revived on seeing the wagons"}
+    hints:
+      - "Quran 12:89-93 (Joseph's shirt sent to restore Jacob's sight); here it is wagons, not a shirt."
+  - id: hb-gen-46-descent-seventy-souls
+    tradition: judaism
+    title: Vision at Beersheba, the seventy who went down, reunion in Goshen
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 46:1-34"]
+    tags:
+      - {motif: hineni-response, refs: ["Gen 46:2"], note: "'Jacob, Jacob' - 'Hineni'"}
+      - {motif: god-goes-down-with-hero, refs: ["Gen 46:3", "Gen 46:4"], note: "'I will go down with you to Egypt and I will surely bring you up'"}
+      - {motif: son-closes-fathers-eyes, refs: ["Gen 46:4"], note: "'Joseph will put his hand on your eyes'"}
+      - {motif: family-migrates-to-egypt, refs: ["Gen 46:5", "Gen 46:6", "Gen 46:7"]}
+      - {motif: seventy-descendants-total, refs: ["Gen 46:26", "Gen 46:27"], note: "66 plus Joseph's house = 70"}
+      - {motif: daughter-named-in-genealogy, refs: ["Gen 46:15", "Gen 46:17"], note: "Dinah; Serah daughter of Asher"}
+      - {motif: son-of-canaanite-woman-noted, refs: ["Gen 46:10"], note: "Shaul son of the Canaanite woman"}
+      - {motif: reunion-with-father, refs: ["Gen 46:29"], note: "falls on his neck and weeps"}
+      - {motif: now-i-can-die, refs: ["Gen 46:30"]}
+      - {motif: shepherds-abomination-to-egypt, refs: ["Gen 46:34"]}
+    hints:
+      - "Serah bat Asher becomes in midrash the woman who tells Jacob Joseph lives, and who shows Moses Joseph's coffin (Mekhilta Beshallah). Seventy echoes the seventy nations (Gen 10) and Deut 32:8."
+      - "Nunc dimittis (Luke 2:29) echoes 46:30."
+  - id: hb-gen-47-jacob-before-pharaoh-land-purchase
+    tradition: judaism
+    title: Jacob before Pharaoh; Joseph's famine economics; deathbed oath
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 47:1-31"]
+    tags:
+      - {motif: land-of-goshen-settlement, refs: ["Gen 47:1", "Gen 47:4", "Gen 47:6", "Gen 47:27"]}
+      - {motif: famine-forces-descent-to-egypt, refs: ["Gen 47:4"], note: "'no pasture for the flocks'"}
+      - {motif: patriarch-blesses-foreign-king, refs: ["Gen 47:7", "Gen 47:10"]}
+      - {motif: few-and-evil-days-lament, refs: ["Gen 47:8", "Gen 47:9"], note: "130 years of sojourning, 'few and evil'"}
+      - {motif: land-of-rameses, refs: ["Gen 47:11"], note: "anachronistic place name"}
+      - {motif: famine-land-purchase, refs: ["Gen 47:14", "Gen 47:15", "Gen 47:16", "Gen 47:17", "Gen 47:18", "Gen 47:19", "Gen 47:20", "Gen 47:23"], note: "money, then livestock, then land and bodies"}
+      - {motif: people-sell-themselves-as-slaves-for-bread, refs: ["Gen 47:19", "Gen 47:25"]}
+      - {motif: population-relocated-to-cities, refs: ["Gen 47:21"]}
+      - {motif: priests-land-exempt, refs: ["Gen 47:22", "Gen 47:26"]}
+      - {motif: royal-fifth-tax, refs: ["Gen 47:24", "Gen 47:26"], note: "a fifth to Pharaoh 'to this day'"}
+      - {motif: patriarch-long-lifespan, refs: ["Gen 47:28"], note: "Jacob 147"}
+      - {motif: oath-hand-under-thigh, refs: ["Gen 47:29", "Gen 47:31"]}
+      - {motif: father-burial-in-homeland, refs: ["Gen 47:29", "Gen 47:30"]}
+      - {motif: bowing-on-bed-head, refs: ["Gen 47:31"], note: "mittah 'bed'; LXX read matteh 'staff' (Heb 11:21)"}
+  - id: hb-gen-48-ephraim-manasseh-blessing
+    tradition: judaism
+    title: Jacob adopts and blesses Ephraim and Manasseh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 48:1-22"]
+    tags:
+      - {motif: deathbed-blessing-of-sons, refs: ["Gen 48:1", "Gen 48:2", "Gen 48:9"]}
+      - {motif: grandsons-adopted-as-sons, refs: ["Gen 48:5", "Gen 48:6"], note: "'Ephraim and Manasseh shall be mine like Reuben and Simeon'"}
+      - {motif: father-eyesight-fails, refs: ["Gen 48:10"]}
+      - {motif: children-taken-from-between-knees, refs: ["Gen 48:12"], note: "adoption gesture"}
+      - {motif: crossed-hands-blessing, refs: ["Gen 48:13", "Gen 48:14", "Gen 48:17", "Gen 48:18", "Gen 48:19"], note: "sikkel et yadav"}
+      - {motif: younger-preferred-over-elder, refs: ["Gen 48:19", "Gen 48:20"]}
+      - {motif: god-as-shepherd, refs: ["Gen 48:15"]}
+      - {motif: redeeming-angel, refs: ["Gen 48:16"], note: "ha-mal'akh ha-go'el"}
+      - {motif: multiply-like-fish, refs: ["Gen 48:16"], note: "veyidgu - 'teem like fish'"}
+      - {motif: blessing-formula-may-god-make-you-like, refs: ["Gen 48:20"], note: "used to this day in the Sabbath blessing of sons"}
+      - {motif: shechem-portion-taken-by-sword-and-bow, refs: ["Gen 48:22"], note: "shekhem ahad, a conquest otherwise unrecorded"}
+  - id: hb-gen-49-blessing-of-jacob
+    tradition: judaism
+    title: The Testament (Blessing) of Jacob and his death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 49:1-33"]
+    tags:
+      - {motif: deathbed-blessing-of-sons, refs: ["Gen 49:1", "Gen 49:2", "Gen 49:28"]}
+      - {motif: end-of-days-prophecy, refs: ["Gen 49:1"], note: "be-aharit ha-yamim"}
+      - {motif: firstborn-loses-preeminence, refs: ["Gen 49:3", "Gen 49:4"], note: "Reuben 'unstable as water' for going up to his father's bed"}
+      - {motif: curse-on-violent-brothers-scattered, refs: ["Gen 49:5", "Gen 49:6", "Gen 49:7"], note: "'they hamstrung an ox'; scattered in Israel"}
+      - {motif: tribal-animal-emblems, refs: ["Gen 49:9", "Gen 49:14", "Gen 49:17", "Gen 49:21", "Gen 49:27"], note: "lion, ass, serpent, hind, wolf"}
+      - {motif: lion-of-judah, refs: ["Gen 49:9"]}
+      - {motif: scepter-shall-not-depart-until-shiloh, refs: ["Gen 49:10"], note: "ad ki yavo shiloh; obedience of peoples"}
+      - {motif: messianic-vine-and-ass, refs: ["Gen 49:11", "Gen 49:12"], note: "binds his ass's foal to the vine, washes garments in wine, 'blood of grapes'"}
+      - {motif: serpent-bites-horses-heels, refs: ["Gen 49:17"], note: "Dan as shefifon (horned viper)"}
+      - {motif: wordplay-blessings-on-names, refs: ["Gen 49:8", "Gen 49:16", "Gen 49:19"], note: "Yehudah/yodukha, Dan/yadin, Gad/gedud"}
+      - {motif: interjected-prayer-for-salvation, refs: ["Gen 49:18"]}
+      - {motif: blessings-of-heaven-deep-breasts-womb, refs: ["Gen 49:25"], note: "Shaddai / shadayim; tehom rovetset tahat"}
+      - {motif: divine-epithets-mighty-one-of-jacob-stone-of-israel, refs: ["Gen 49:24"]}
+      - {motif: nazir-among-brothers, refs: ["Gen 49:26"]}
+      - {motif: father-burial-in-homeland, refs: ["Gen 49:29", "Gen 49:30", "Gen 49:31", "Gen 49:32"], note: "Machpelah; Leah buried there"}
+      - {motif: gathered-to-his-people, refs: ["Gen 49:33"]}
+    hints:
+      - "Gen 49:10 read messianically in Targum Onqelos, 4Q252, and Christian exegesis; 49:11 echoed in Zech 9:9 and the triumphal entry. Lion of Judah in Rev 5:5."
+      - "Tribal blessings parallel Deut 33; zodiacal readings of the twelve tribes in Philo and Josephus."
+  - id: hb-gen-50-jacob-burial-joseph-death
+    tradition: judaism
+    title: Embalming and burial of Jacob; Joseph's last words and death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 50:1-26"]
+    tags:
+      - {motif: embalming, refs: ["Gen 50:2", "Gen 50:3", "Gen 50:26"], note: "physicians embalm; forty days of embalming, Egypt weeps seventy days"}
+      - {motif: father-burial-in-homeland, refs: ["Gen 50:5", "Gen 50:13"], note: "'my grave which I dug for myself'"}
+      - {motif: grand-funeral-procession-chariots, refs: ["Gen 50:7", "Gen 50:8", "Gen 50:9"]}
+      - {motif: seven-day-mourning, refs: ["Gen 50:10"], note: "at Goren ha-Atad 'threshing floor of the bramble'"}
+      - {motif: place-named-for-mourning, refs: ["Gen 50:11"], note: "Abel-Mizraim"}
+      - {motif: brothers-fear-revenge, refs: ["Gen 50:15", "Gen 50:16", "Gen 50:17", "Gen 50:18"], note: "they invent (?) a deathbed command of Jacob"}
+      - {motif: am-i-in-place-of-god, refs: ["Gen 50:19"]}
+      - {motif: hero-sees-divine-plan, refs: ["Gen 50:20"], note: "'you meant evil, God meant it for good'"}
+      - {motif: hero-forgives-brothers, refs: ["Gen 50:21"]}
+      - {motif: hero-age-110, refs: ["Gen 50:22", "Gen 50:26"]}
+      - {motif: great-grandchildren-born-on-knees, refs: ["Gen 50:23"]}
+      - {motif: god-will-surely-visit-you, refs: ["Gen 50:24", "Gen 50:25"], note: "paqod yifqod - password of redemption"}
+      - {motif: bones-carried-out-oath, refs: ["Gen 50:25"]}
+      - {motif: coffin-in-egypt, refs: ["Gen 50:26"], note: "aron"}
+    hints:
+      - "110 years is the ideal Egyptian lifespan. Midrash: Joseph's coffin sunk in the Nile and raised by Moses (Mekhilta, b. Sotah 13a)."
+  - id: hb-exod-1-oppression-midwives
+    tradition: judaism
+    title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 1:1-22"]
+    tags:
+      - {motif: seventy-descendants-total, refs: ["Exod 1:5"]}
+      - {motif: people-swarm-like-creatures, refs: ["Exod 1:7"], note: "vayishretsu - creation language (sherets)"}
+      - {motif: new-king-who-knew-not-joseph, refs: ["Exod 1:8"]}
+      - {motif: ruler-fears-growing-foreign-population, refs: ["Exod 1:9", "Exod 1:10"], note: "'let us deal wisely with them'"}
+      - {motif: forced-labor-building-store-cities, refs: ["Exod 1:11", "Exod 1:13", "Exod 1:14"], note: "Pithom and Raamses; mortar and bricks"}
+      - {motif: oppression-increases-numbers, refs: ["Exod 1:12"]}
+      - {motif: named-midwives-defy-king, refs: ["Exod 1:15", "Exod 1:17"], note: "Shiphrah and Puah"}
+      - {motif: king-kills-male-infants, refs: ["Exod 1:16", "Exod 1:22"], note: "first via midwives at the birthstool (ovnayim), then all sons thrown into the Nile"}
+      - {motif: birthstool-ovnayim, refs: ["Exod 1:16"]}
+      - {motif: midwives-excuse-vigorous-hebrew-women, refs: ["Exod 1:19"], note: "'they are hayot (lively/animals)'"}
+      - {motif: god-rewards-midwives-with-houses, refs: ["Exod 1:20", "Exod 1:21"]}
+    hints:
+      - "Quran 28:4 and 2:49 (Pharaoh slaughtering sons, sparing women). Josephus Ant. 2.205 adds a scribe's prophecy of a deliverer; Sargon, Cyrus, Krishna (Kamsa) and Herod (Matt 2:16) infanticide parallels."
+      - "Rabbinic identification of Shiphrah and Puah with Jochebed and Miriam (b. Sotah 11b)."
+  - id: hb-exod-2-moses-birth-flight-midian
+    tradition: judaism
+    title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 2:1-25"]
+    tags:
+      - {motif: levite-parents-unnamed, refs: ["Exod 2:1"]}
+      - {motif: mother-sees-child-good, refs: ["Exod 2:2"], note: "ki tov hu - creation echo"}
+      - {motif: mother-hides-infant, refs: ["Exod 2:2", "Exod 2:3"], note: "three months"}
+      - {motif: infant-set-adrift, refs: ["Exod 2:3"]}
+      - {motif: reed-container, refs: ["Exod 2:3"], note: "tevat gome - same word tevah as Noah's ark"}
+      - {motif: vessel-sealed-with-pitch, refs: ["Exod 2:3"], note: "hemar and zefet (bitumen and pitch)"}
+      - {motif: sister-watches, refs: ["Exod 2:4"]}
+      - {motif: found-by-royal-household, refs: ["Exod 2:5", "Exod 2:6"], note: "Pharaoh's daughter bathing in the Nile"}
+      - {motif: infant-weeping-arouses-pity, refs: ["Exod 2:6"]}
+      - {motif: sister-offers-nurse, refs: ["Exod 2:7", "Exod 2:8"]}
+      - {motif: returned-to-own-mother, refs: ["Exod 2:8", "Exod 2:9"], note: "mother paid wages to nurse her own son"}
+      - {motif: adopted-by-royal-woman, refs: ["Exod 2:10"]}
+      - {motif: name-from-water, refs: ["Exod 2:10"], note: "Mosheh / meshitihu"}
+      - {motif: hero-kills-oppressor-and-hides-body, refs: ["Exod 2:11", "Exod 2:12"], note: "buried in the sand after looking this way and that"}
+      - {motif: who-made-you-judge-over-us, refs: ["Exod 2:13", "Exod 2:14"]}
+      - {motif: hero-flees-to-foreign-land, refs: ["Exod 2:15"]}
+      - {motif: meeting-future-wife-at-well, refs: ["Exod 2:15", "Exod 2:16", "Exod 2:17", "Exod 2:21"], note: "seven daughters of the priest of Midian; Zipporah"}
+      - {motif: hero-waters-flock-for-women, refs: ["Exod 2:17", "Exod 2:19"]}
+      - {motif: hospitality-to-strangers, refs: ["Exod 2:20"]}
+      - {motif: son-named-for-exile, refs: ["Exod 2:22"], note: "Gershom - 'a sojourner in a foreign land'"}
+      - {motif: cry-rises-to-god-who-remembers-covenant, refs: ["Exod 2:23", "Exod 2:24", "Exod 2:25"]}
+    hints:
+      - "Sargon of Akkad birth legend (basket of rushes sealed with bitumen, set in the river). Quran 28:7-28 (Moses' mother inspired, the two daughters at the water of Madyan, eight or ten years' service)."
+      - "Acts 7:23-29 (Moses aged 40). Compare Jacob at the well (Gen 29) and the Egyptian Tale of Sinuhe (flight from Egypt)."
+  - id: hb-exod-3-burning-bush
+    tradition: judaism
+    title: The burning bush and the divine name
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 3:1-22"]
+    tags:
+      - {motif: shepherd-called-at-mountain-of-god, refs: ["Exod 3:1"], note: "Horeb, 'mountain of God', behind the wilderness"}
+      - {motif: burning-bush-not-consumed, refs: ["Exod 3:2", "Exod 3:3"], note: "seneh - pun on Sinai"}
+      - {motif: hineni-response, refs: ["Exod 3:4"]}
+      - {motif: remove-sandals-holy-ground, refs: ["Exod 3:5"]}
+      - {motif: hero-hides-face-fearing-to-look-at-god, refs: ["Exod 3:6"]}
+      - {motif: god-of-abraham-isaac-jacob, refs: ["Exod 3:6", "Exod 3:15", "Exod 3:16"]}
+      - {motif: god-descends-to-rescue, refs: ["Exod 3:7", "Exod 3:8", "Exod 3:9"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Exod 3:8", "Exod 3:17"]}
+      - {motif: list-of-six-canaanite-nations, refs: ["Exod 3:8", "Exod 3:17"]}
+      - {motif: reluctant-prophet-objects, refs: ["Exod 3:11", "Exod 3:13"], note: "'who am I?'; 'what is his name?'"}
+      - {motif: sign-is-future-worship-on-mountain, refs: ["Exod 3:12"]}
+      - {motif: ehyeh-asher-ehyeh, refs: ["Exod 3:14"], note: "'I will be what I will be'"}
+      - {motif: divine-name-revealed-forever, refs: ["Exod 3:15"], note: "zeh shemi le-olam, zeh zikhri le-dor dor"}
+      - {motif: three-days-journey-to-sacrifice-pretext, refs: ["Exod 3:18"]}
+      - {motif: god-of-the-hebrews, refs: ["Exod 3:18"]}
+      - {motif: hardened-king-foreknown, refs: ["Exod 3:19", "Exod 3:20"]}
+      - {motif: despoiling-the-egyptians, refs: ["Exod 3:21", "Exod 3:22"], note: "women ask neighbors for silver, gold and clothing"}
+    hints:
+      - "Quran 20:9-24, 27:7-12, 28:29-35 ('take off your sandals, you are in the sacred valley Tuwa'). Acts 7:30-34; Mark 12:26 (God of the living)."
+      - "Philo, Mos. 1.65-75 and LXX 'ego eimi ho on'. Compare Zoroaster's vision and theophany in fire."
+  - id: hb-exod-4-signs-aaron-bridegroom-of-blood
+    tradition: judaism
+    title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 4:1-31"]
+    tags:
+      - {motif: reluctant-prophet-objects, refs: ["Exod 4:1", "Exod 4:10", "Exod 4:13"], note: "'send by whomever you will send'"}
+      - {motif: staff-becomes-serpent, refs: ["Exod 4:2", "Exod 4:3", "Exod 4:4"], note: "Moses flees from it; seizes it by the tail"}
+      - {motif: hand-turned-leprous-white-as-snow, refs: ["Exod 4:6", "Exod 4:7"], note: "hand brought out of the bosom"}
+      - {motif: nile-water-turned-to-blood, refs: ["Exod 4:9"]}
+      - {motif: prophet-slow-of-speech, refs: ["Exod 4:10"], note: "kevad peh u-khevad lashon"}
+      - {motif: god-makes-mouth-mute-and-blind, refs: ["Exod 4:11", "Exod 4:12"]}
+      - {motif: brother-as-spokesman, refs: ["Exod 4:14", "Exod 4:15", "Exod 4:16"], note: "Aaron his 'mouth'; Moses 'as God' to him"}
+      - {motif: wonder-working-staff, refs: ["Exod 4:17", "Exod 4:20"], note: "matteh ha-elohim"}
+      - {motif: return-after-pursuers-die, refs: ["Exod 4:19"], note: "cf. Matt 2:20"}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 4:21"]}
+      - {motif: israel-my-firstborn-son, refs: ["Exod 4:22", "Exod 4:23"], note: "threat against Pharaoh's firstborn"}
+      - {motif: god-attacks-at-night-lodging, refs: ["Exod 4:24"], note: "YHWH 'sought to kill him' at the malon"}
+      - {motif: wife-circumcises-son-with-flint, refs: ["Exod 4:25"]}
+      - {motif: bridegroom-of-blood, refs: ["Exod 4:25", "Exod 4:26"], note: "hatan damim; touches 'his feet'"}
+      - {motif: brothers-meet-at-mountain-of-god, refs: ["Exod 4:27"]}
+      - {motif: people-believe-and-bow, refs: ["Exod 4:31"]}
+    hints:
+      - "Quran 20:17-23, 27:10-12, 28:31-32 (staff becomes a snake, hand comes out white 'without harm'); 20:25-32 (Moses asks for Aaron, 'untie the knot from my tongue')."
+      - "Exod 4:24-26 compared with Jacob at the Jabbok (Gen 32) and apotropaic blood rites; Exod Rabbah has the serpent swallowing Moses to the feet."
+  - id: hb-exod-5-bricks-without-straw
+    tradition: judaism
+    title: First audience with Pharaoh; bricks without straw
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 5:1-23"]
+    tags:
+      - {motif: let-my-people-go-demand, refs: ["Exod 5:1"], note: "'that they may hold a festival (hag) to me in the wilderness'"}
+      - {motif: who-is-yhwh-defiance, refs: ["Exod 5:2"], note: "'I do not know YHWH'"}
+      - {motif: three-days-journey-to-sacrifice-pretext, refs: ["Exod 5:3"]}
+      - {motif: bricks-without-straw, refs: ["Exod 5:7", "Exod 5:8", "Exod 5:10", "Exod 5:11", "Exod 5:12", "Exod 5:16", "Exod 5:18"]}
+      - {motif: taskmasters-and-foremen, refs: ["Exod 5:6", "Exod 5:10", "Exod 5:14"], note: "nogesim and Israelite shoterim beaten"}
+      - {motif: tyrant-calls-oppressed-lazy, refs: ["Exod 5:8", "Exod 5:17"], note: "nirpim"}
+      - {motif: people-blame-deliverer, refs: ["Exod 5:20", "Exod 5:21"], note: "'you made our smell stink in Pharaoh's eyes'"}
+      - {motif: prophet-complains-to-god, refs: ["Exod 5:22", "Exod 5:23"], note: "'why did you send me?'"}
+    hints:
+      - "Egyptian brickmaking quotas (Papyrus Anastasi IV/V, Louvre leather roll) and the Rekhmire tomb paintings of foreign brickmakers."
+  - id: hb-exod-6-name-and-levite-genealogy
+    tradition: judaism
+    title: "'I am YHWH': the name not known to the patriarchs; genealogy of Moses and Aaron"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 6:1-30"]
+    tags:
+      - {motif: name-unknown-to-patriarchs, refs: ["Exod 6:2", "Exod 6:3"], note: "appeared as El Shaddai; 'my name YHWH I did not make known'"}
+      - {motif: el-shaddai-revelation, refs: ["Exod 6:3"]}
+      - {motif: cry-rises-to-god-who-remembers-covenant, refs: ["Exod 6:5"]}
+      - {motif: four-expressions-of-redemption, refs: ["Exod 6:6", "Exod 6:7"], note: "bring out, deliver, redeem, take (basis of four cups)"}
+      - {motif: outstretched-arm, refs: ["Exod 6:6"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Exod 6:7"]}
+      - {motif: people-too-dispirited-to-listen, refs: ["Exod 6:9"], note: "qotser ruah"}
+      - {motif: prophet-slow-of-speech, refs: ["Exod 6:12", "Exod 6:30"], note: "aral sefatayim 'uncircumcised of lips'"}
+      - {motif: genealogy-interrupts-narrative, refs: ["Exod 6:14", "Exod 6:15", "Exod 6:16", "Exod 6:17", "Exod 6:18", "Exod 6:19", "Exod 6:20", "Exod 6:21", "Exod 6:22", "Exod 6:23", "Exod 6:24", "Exod 6:25"]}
+      - {motif: patriarch-long-lifespan, refs: ["Exod 6:16", "Exod 6:18", "Exod 6:20"], note: "Levi 137, Kohath 133, Amram 137"}
+      - {motif: marriage-to-paternal-aunt, refs: ["Exod 6:20"], note: "Amram marries Jochebed his dodah - later forbidden (Lev 18:12)"}
+      - {motif: mother-of-hero-named, refs: ["Exod 6:20"], note: "Jochebed - first theophoric Yah name"}
+      - {motif: sons-of-korah-line, refs: ["Exod 6:21", "Exod 6:24"]}
+      - {motif: priestly-line-to-phinehas, refs: ["Exod 6:23", "Exod 6:25"], note: "Elisheba sister of Nahshon; Putiel's daughter"}
+    hints:
+      - "Four cups of the Passover seder (y. Pesahim 10:1) keyed to 6:6-7. Quran 28:34 (Aaron more eloquent)."
+  - id: hb-exod-7-staff-swallows-staffs
+    tradition: judaism
+    title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 7:1-13"]
+    tags:
+      - {motif: prophet-as-god-to-king, refs: ["Exod 7:1"], note: "'I have made you elohim to Pharaoh, Aaron your navi'"}
+      - {motif: brother-as-spokesman, refs: ["Exod 7:1", "Exod 7:2"]}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 7:3", "Exod 7:13"]}
+      - {motif: so-egypt-shall-know-i-am-yhwh, refs: ["Exod 7:5"]}
+      - {motif: hero-age-80-at-mission, refs: ["Exod 7:7"], note: "Moses 80, Aaron 83"}
+      - {motif: staff-becomes-serpent, refs: ["Exod 7:9", "Exod 7:10"], note: "here tannin (sea-dragon/crocodile), not nahash"}
+      - {motif: contest-with-court-magicians, refs: ["Exod 7:11", "Exod 7:12"], note: "hakhamim, mekhashshefim, hartummim with their lahatim (secret arts)"}
+      - {motif: prophets-staff-swallows-magicians-staffs, refs: ["Exod 7:12"]}
+    hints:
+      - "Quran 7:107-122, 20:65-70, 26:32-48 (Moses' staff swallows the magicians' illusions; the magicians fall prostrate and believe). The magicians are named Jannes and Jambres in CD 5:18-19 and 2 Tim 3:8."
+      - "Westcar Papyrus: magician Webaoner's wax crocodile comes alive; Egyptian snake-charming wands."
+  - id: hb-exod-7-plagues-blood-frogs-lice
+    tradition: judaism
+    title: "Plagues 1-3: blood, frogs, lice"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 7:14-8:15"]
+    tags:
+      - {motif: prophet-meets-king-at-river-at-dawn, refs: ["Exod 7:15"], note: "Pharaoh 'going out to the water'"}
+      - {motif: let-my-people-go-demand, refs: ["Exod 7:16", "Exod 7:26"]}
+      - {motif: nile-water-turned-to-blood, refs: ["Exod 7:17", "Exod 7:19", "Exod 7:20", "Exod 7:21"], note: "even in vessels of wood and stone; fish die, the river stinks"}
+      - {motif: egyptians-dig-for-water, refs: ["Exod 7:24"]}
+      - {motif: contest-with-court-magicians, refs: ["Exod 7:22", "Exod 8:3", "Exod 8:14"]}
+      - {motif: plague-of-frogs, refs: ["Exod 7:27", "Exod 7:28", "Exod 7:29", "Exod 8:2"], note: "into bedchamber, ovens and kneading-troughs"}
+      - {motif: king-asks-prophet-to-pray, refs: ["Exod 8:4"]}
+      - {motif: prophet-lets-king-set-the-time, refs: ["Exod 8:5", "Exod 8:6"], note: "'glorify yourself over me: when shall I pray?' - 'tomorrow'"}
+      - {motif: dead-frogs-heaped-stink, refs: ["Exod 8:10"]}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 7:22", "Exod 8:11", "Exod 8:15"]}
+      - {motif: plague-of-lice-from-dust, refs: ["Exod 8:12", "Exod 8:13"]}
+      - {motif: magicians-fail-finger-of-god, refs: ["Exod 8:14", "Exod 8:15"], note: "etsba elohim"}
+    hints:
+      - "Admonitions of Ipuwer ('the river is blood'). Quran 7:133 (flood, locusts, lice, frogs, blood as 'distinct signs'). Luke 11:20 'finger of God'."
+  - id: hb-exod-8-plagues-flies-murrain-boils
+    tradition: judaism
+    title: "Plagues 4-6: swarms, pestilence of livestock, boils"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 8:16-9:12"]
+    tags:
+      - {motif: plague-of-swarms-arov, refs: ["Exod 8:17", "Exod 8:20"], note: "arov - 'mixture' (wild beasts in midrash, dog-flies in LXX)"}
+      - {motif: goshen-spared-from-plague, refs: ["Exod 8:18", "Exod 8:19", "Exod 9:4", "Exod 9:6", "Exod 9:7"], note: "pedut / hiflah - distinction between peoples"}
+      - {motif: bargaining-over-terms-of-release, refs: ["Exod 8:21", "Exod 8:22", "Exod 8:23", "Exod 8:24", "Exod 8:25"], note: "'sacrifice in the land' - 'not far'"}
+      - {motif: prophet-meets-king-at-river-at-dawn, refs: ["Exod 8:16"]}
+      - {motif: king-asks-prophet-to-pray, refs: ["Exod 8:24"]}
+      - {motif: our-sacrifice-abomination-to-egyptians, refs: ["Exod 8:22"], note: "fear of being stoned"}
+      - {motif: pharaoh-deceives-again, refs: ["Exod 8:25", "Exod 8:28"], note: "hatel"}
+      - {motif: livestock-pestilence, refs: ["Exod 9:3", "Exod 9:6"], note: "horses, asses, camels, cattle, sheep"}
+      - {motif: plague-at-appointed-time-tomorrow, refs: ["Exod 9:5"]}
+      - {motif: furnace-soot-thrown-to-sky-boils, refs: ["Exod 9:8", "Exod 9:9", "Exod 9:10"], note: "piah kivshan becomes shehin ava'bu'ot"}
+      - {motif: magicians-cannot-stand-for-boils, refs: ["Exod 9:11"]}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 8:28", "Exod 9:7", "Exod 9:12"], note: "from 9:12 YHWH hardens"}
+  - id: hb-exod-9-hail
+    tradition: judaism
+    title: "Plague 7: hail and fire"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 9:13-35"]
+    tags:
+      - {motif: none-like-me-in-all-the-earth, refs: ["Exod 9:14"]}
+      - {motif: tyrant-preserved-to-display-gods-power, refs: ["Exod 9:15", "Exod 9:16"], note: "'for this I raised you up, that my name be told in all the earth' (Rom 9:17)"}
+      - {motif: hail-and-fire-from-heaven, refs: ["Exod 9:18", "Exod 9:23", "Exod 9:24", "Exod 9:25"], note: "fire flashing amid hail, qolot (thunder)"}
+      - {motif: unprecedented-since-founding, refs: ["Exod 9:18", "Exod 9:24"]}
+      - {motif: god-fearing-egyptians-heed-warning, refs: ["Exod 9:19", "Exod 9:20", "Exod 9:21"]}
+      - {motif: goshen-spared-from-plague, refs: ["Exod 9:26"]}
+      - {motif: pharaoh-confesses-sin, refs: ["Exod 9:27"], note: "'YHWH is righteous, I and my people are the wicked'"}
+      - {motif: king-asks-prophet-to-pray, refs: ["Exod 9:28"]}
+      - {motif: spreading-hands-in-prayer, refs: ["Exod 9:29", "Exod 9:33"], note: "outside the city"}
+      - {motif: earth-belongs-to-yhwh, refs: ["Exod 9:29"]}
+      - {motif: agricultural-calendar-note-crops, refs: ["Exod 9:31", "Exod 9:32"], note: "flax and barley struck, wheat and spelt late"}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 9:34", "Exod 9:35"]}
+    hints:
+      - "Wisdom of Solomon 16:16-22 (fire burning in water, not melting the hail). Rev 8:7, 16:21 (hail and fire)."
+  - id: hb-exod-10-locusts-darkness
+    tradition: judaism
+    title: "Plagues 8-9: locusts and darkness"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 10:1-29"]
+    tags:
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 10:1", "Exod 10:20", "Exod 10:27"]}
+      - {motif: tell-it-to-your-son, refs: ["Exod 10:2"], note: "'that you may tell in the ears of your son and son's son'"}
+      - {motif: plague-of-locusts, refs: ["Exod 10:4", "Exod 10:5", "Exod 10:6", "Exod 10:12", "Exod 10:13", "Exod 10:14", "Exod 10:15"], note: "cover the 'eye of the land'; brought by east wind"}
+      - {motif: courtiers-urge-king-to-yield, refs: ["Exod 10:7"], note: "'do you not yet know Egypt is lost?'"}
+      - {motif: bargaining-over-terms-of-release, refs: ["Exod 10:8", "Exod 10:9", "Exod 10:10", "Exod 10:11", "Exod 10:24", "Exod 10:25", "Exod 10:26"], note: "'who is going?' - young and old; 'not a hoof shall remain'"}
+      - {motif: pharaoh-confesses-sin, refs: ["Exod 10:16", "Exod 10:17"]}
+      - {motif: wind-drives-locusts-into-sea, refs: ["Exod 10:19"], note: "west wind into Yam Suf"}
+      - {motif: plague-of-darkness, refs: ["Exod 10:21", "Exod 10:22", "Exod 10:23"], note: "darkness 'that can be felt', three days"}
+      - {motif: light-in-israelite-dwellings, refs: ["Exod 10:23"]}
+      - {motif: king-banishes-prophet-on-pain-of-death, refs: ["Exod 10:28", "Exod 10:29"], note: "'the day you see my face you shall die'"}
+    hints:
+      - "Wisdom of Solomon 17-18 elaborates the darkness (phantoms, terror) and the light for Israel. Joel 1-2 locusts."
+  - id: hb-exod-11-announcement-death-of-firstborn
+    tradition: judaism
+    title: Announcement of the death of the firstborn
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 11:1-10"]
+    tags:
+      - {motif: one-more-plague, refs: ["Exod 11:1"]}
+      - {motif: despoiling-the-egyptians, refs: ["Exod 11:2", "Exod 11:3"]}
+      - {motif: moses-great-in-egypt, refs: ["Exod 11:3"]}
+      - {motif: god-goes-out-at-midnight, refs: ["Exod 11:4"]}
+      - {motif: death-of-firstborn, refs: ["Exod 11:5", "Exod 11:6"], note: "from Pharaoh on the throne to the slave-girl behind the millstones, and firstborn of beasts"}
+      - {motif: no-dog-shall-whet-its-tongue, refs: ["Exod 11:7"]}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 11:9", "Exod 11:10"]}
+  - id: hb-exod-12-passover-firstborn-exodus
+    tradition: judaism
+    title: Passover law, matzot, the night of the firstborn, departure from Egypt
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 12:1-51"]
+    tags:
+      - {motif: new-year-in-spring-month, refs: ["Exod 12:2"], note: "'this month shall be the head of months'"}
+      - {motif: paschal-lamb-selected-tenth-slain-fourteenth, refs: ["Exod 12:3", "Exod 12:5", "Exod 12:6"], note: "unblemished yearling male, at twilight (bein ha-arbayim)"}
+      - {motif: households-share-lamb, refs: ["Exod 12:4"]}
+      - {motif: blood-on-doorposts-and-lintel, refs: ["Exod 12:7", "Exod 12:13", "Exod 12:22", "Exod 12:23"], note: "applied with a bunch of hyssop"}
+      - {motif: roast-whole-with-unleavened-bread-and-bitter-herbs, refs: ["Exod 12:8", "Exod 12:9"], note: "head with legs and innards, not raw or boiled"}
+      - {motif: leftovers-burned-by-morning, refs: ["Exod 12:10"]}
+      - {motif: eaten-in-haste-dressed-for-journey, refs: ["Exod 12:11"], note: "loins girded, sandals on, staff in hand, be-hippazon"}
+      - {motif: judgment-on-gods-of-egypt, refs: ["Exod 12:12"]}
+      - {motif: destroyer-passes-over-marked-houses, refs: ["Exod 12:13", "Exod 12:23", "Exod 12:27"], note: "ha-mashhit; pasah"}
+      - {motif: seven-days-unleavened-bread, refs: ["Exod 12:15", "Exod 12:17", "Exod 12:18", "Exod 12:19", "Exod 12:20"]}
+      - {motif: leaven-removed-on-pain-of-karet, refs: ["Exod 12:15", "Exod 12:19"]}
+      - {motif: holy-convocation-no-work-except-food, refs: ["Exod 12:16"]}
+      - {motif: do-not-go-out-until-morning, refs: ["Exod 12:22"]}
+      - {motif: childs-question-ritual-explanation, refs: ["Exod 12:26", "Exod 12:27"], note: "'what is this service to you?'"}
+      - {motif: death-of-firstborn, refs: ["Exod 12:29", "Exod 12:30"], note: "down to the captive in the dungeon; 'no house without a dead one'"}
+      - {motif: king-begs-for-blessing, refs: ["Exod 12:32"], note: "'and bless me also'"}
+      - {motif: dough-carried-before-it-leavened, refs: ["Exod 12:34", "Exod 12:39"]}
+      - {motif: despoiling-the-egyptians, refs: ["Exod 12:35", "Exod 12:36"]}
+      - {motif: six-hundred-thousand-men, refs: ["Exod 12:37"]}
+      - {motif: mixed-multitude-joins, refs: ["Exod 12:38"], note: "erev rav"}
+      - {motif: four-hundred-thirty-years-sojourn, refs: ["Exod 12:40", "Exod 12:41"]}
+      - {motif: prophecy-of-400-years-bondage, refs: ["Exod 12:40", "Exod 12:41"], note: "fulfilment of Gen 15:13-14 (cf. despoiling)"}
+      - {motif: night-of-watching, refs: ["Exod 12:42"], note: "leil shimmurim"}
+      - {motif: no-foreigner-eats-passover-uncircumcised, refs: ["Exod 12:43", "Exod 12:44", "Exod 12:45", "Exod 12:48"]}
+      - {motif: no-bone-of-sacrifice-broken, refs: ["Exod 12:46"]}
+      - {motif: one-law-for-citizen-and-stranger, refs: ["Exod 12:49"]}
+    hints:
+      - "John 19:36 applies 12:46 to Jesus; 1 Cor 5:7 'Christ our Passover'. Jubilees 49 (Mastema). Apotropaic doorway blood in Mesopotamian namburbi rites and Arab fidya customs; Mishnah Pesahim."
+      - "Samaritan Pentateuch and LXX at 12:40 add 'and in the land of Canaan'; Gal 3:17 counts 430 years from Abraham."
+  - id: hb-exod-13-firstborn-tefillin-pillar
+    tradition: judaism
+    title: Consecration of the firstborn, sign on hand and forehead, Joseph's bones, pillar of cloud and fire
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 13:1-22"]
+    tags:
+      - {motif: firstborn-belongs-to-god, refs: ["Exod 13:2", "Exod 13:12", "Exod 13:15"], note: "peter rehem"}
+      - {motif: seven-days-unleavened-bread, refs: ["Exod 13:3", "Exod 13:6", "Exod 13:7"]}
+      - {motif: month-of-aviv, refs: ["Exod 13:4"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Exod 13:5"]}
+      - {motif: tell-it-to-your-son, refs: ["Exod 13:8", "Exod 13:14"], note: "ve-higgadta (source of 'Haggadah')"}
+      - {motif: sign-on-hand-between-eyes, refs: ["Exod 13:9", "Exod 13:16"], note: "totafot - later tefillin"}
+      - {motif: donkey-firstling-redeemed-or-neck-broken, refs: ["Exod 13:13"]}
+      - {motif: redemption-of-firstborn-sons, refs: ["Exod 13:13", "Exod 13:15"]}
+      - {motif: childs-question-ritual-explanation, refs: ["Exod 13:14"]}
+      - {motif: roundabout-route-avoiding-war, refs: ["Exod 13:17", "Exod 13:18"], note: "not by the way of the Philistines; hamushim 'armed'"}
+      - {motif: bones-carried-out-oath, refs: ["Exod 13:19"], note: "Moses takes Joseph's bones"}
+      - {motif: pillar-of-cloud-and-fire, refs: ["Exod 13:21", "Exod 13:22"]}
+    hints:
+      - "Mishnah Menahot and the Qumran tefillin; Deut 6:8. Midrash (b. Sotah 13a) on Moses retrieving Joseph's coffin from the Nile with Serah's help."
+      - "Quran 20:77; Isa 4:5 cloud by day and fire by night over Zion."
+  - id: hb-exod-14-crossing-of-the-sea
+    tradition: judaism
+    title: The pursuit and the parting of the sea
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 14:1-31"]
+    tags:
+      - {motif: camp-before-baal-zephon, refs: ["Exod 14:2", "Exod 14:9"], note: "Pi-hahiroth, Migdol, Baal-zephon"}
+      - {motif: god-lures-enemy-to-destruction, refs: ["Exod 14:3", "Exod 14:4", "Exod 14:17", "Exod 14:18"], note: "'I will be glorified through Pharaoh'"}
+      - {motif: hardening-of-pharaohs-heart, refs: ["Exod 14:4", "Exod 14:8", "Exod 14:17"]}
+      - {motif: king-regrets-release-and-pursues, refs: ["Exod 14:5", "Exod 14:6", "Exod 14:7"], note: "600 chosen chariots with shalishim"}
+      - {motif: people-wish-to-return-to-slavery, refs: ["Exod 14:11", "Exod 14:12"], note: "'were there no graves in Egypt?'"}
+      - {motif: stand-still-and-see-salvation, refs: ["Exod 14:13", "Exod 14:14"], note: "'YHWH will fight for you; you keep silent'"}
+      - {motif: why-do-you-cry-to-me, refs: ["Exod 14:15"]}
+      - {motif: angel-and-cloud-move-behind-camp, refs: ["Exod 14:19", "Exod 14:20"], note: "darkness to one camp, light to the other"}
+      - {motif: sea-split-by-staff-and-east-wind, refs: ["Exod 14:16", "Exod 14:21"]}
+      - {motif: walk-on-dry-ground-waters-as-walls, refs: ["Exod 14:22", "Exod 14:29"]}
+      - {motif: god-looks-down-from-pillar-at-morning-watch, refs: ["Exod 14:24"]}
+      - {motif: chariot-wheels-removed, refs: ["Exod 14:25"], note: "'let us flee from Israel, YHWH fights for them'"}
+      - {motif: pursuers-drowned-in-sea, refs: ["Exod 14:26", "Exod 14:27", "Exod 14:28"], note: "'not one remained'"}
+      - {motif: corpses-on-the-shore, refs: ["Exod 14:30"]}
+      - {motif: people-believe-in-god-and-his-servant, refs: ["Exod 14:31"]}
+    hints:
+      - "Quran 26:61-66 ('strike the sea with your staff' and it parts like a great mountain), 10:90-92 (Pharaoh's last-moment faith and preserved body), 20:77-78."
+      - "Midrash of Nahshon entering the sea first (b. Sotah 37a); Joshua 3 (Jordan), 2 Kings 2:8 (Elijah). Ugaritic Baal vs Yam; Baal-zephon as the storm god's mountain."
+  - id: hb-exod-15-song-of-the-sea
+    tradition: judaism
+    title: The Song of the Sea and Miriam's song
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 15:1-21"]
+    tags:
+      - {motif: victory-song-after-deliverance, refs: ["Exod 15:1", "Exod 15:21"], note: "'horse and rider he has thrown into the sea'"}
+      - {motif: divine-warrior, refs: ["Exod 15:3"], note: "YHWH ish milhamah"}
+      - {motif: enemies-sink-like-stone-lead, refs: ["Exod 15:5", "Exod 15:10"]}
+      - {motif: right-hand-of-god, refs: ["Exod 15:6", "Exod 15:12"]}
+      - {motif: waters-heaped-by-divine-breath, refs: ["Exod 15:8", "Exod 15:10"], note: "'by the blast of your nostrils... deeps congealed in the heart of the sea'"}
+      - {motif: sea-monster-defeated-by-god, refs: ["Exod 15:8"], note: "sea/deeps (yam, tehomot) subdued; no dragon named"}
+      - {motif: boast-of-the-enemy-quoted, refs: ["Exod 15:9"], note: "five first-person verbs"}
+      - {motif: incomparability-among-the-gods, refs: ["Exod 15:11"], note: "mi khamokha ba-elim"}
+      - {motif: earth-swallows-enemies, refs: ["Exod 15:12"]}
+      - {motif: guided-to-holy-abode, refs: ["Exod 15:13"]}
+      - {motif: nations-tremble-at-report, refs: ["Exod 15:14", "Exod 15:15", "Exod 15:16"], note: "Philistia, chiefs of Edom, rams of Moab, Canaan"}
+      - {motif: planted-on-mountain-of-inheritance, refs: ["Exod 15:17"], note: "makhon le-shivtekha; sanctuary established by God's hands"}
+      - {motif: yhwh-reigns-forever, refs: ["Exod 15:18"]}
+      - {motif: prophetess-leads-women-with-drums-dancing, refs: ["Exod 15:20", "Exod 15:21"], note: "Miriam 'the prophetess, sister of Aaron'"}
+    hints:
+      - "Ugaritic Baal cycle (Baal defeats Yam, builds palace on Zaphon, kingship) maps onto 15:8-18. Rev 15:3 'song of Moses'. Mekhilta Shirata; Quran 10:90."
+      - "'Miriam sister of Aaron' (15:20) is the title behind Quran 19:28 'O sister of Harun' addressed to Maryam."
+  - id: hb-exod-15-marah-elim
+    tradition: judaism
+    title: Bitter water sweetened at Marah; Elim's twelve springs and seventy palms
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 15:22-27"]
+    tags:
+      - {motif: three-days-without-water, refs: ["Exod 15:22"], note: "wilderness of Shur"}
+      - {motif: bitter-water-sweetened-by-wood, refs: ["Exod 15:23", "Exod 15:25"], note: "YHWH 'showed (yorehu) him a tree'"}
+      - {motif: murmuring-in-wilderness, refs: ["Exod 15:24"]}
+      - {motif: statute-given-and-people-tested, refs: ["Exod 15:25"], note: "sam lo hoq u-mishpat ve-sham nissahu"}
+      - {motif: god-the-healer, refs: ["Exod 15:26"], note: "ani YHWH rof'ekha; diseases of Egypt withheld"}
+      - {motif: twelve-springs-seventy-palms, refs: ["Exod 15:27"]}
+    hints:
+      - "Elisha sweetens water with salt (2 Kgs 2:19-22). Quran 2:60 and 7:160 have twelve springs gushing from the rock struck by the staff, one per tribe."
+  - id: hb-exod-16-manna-quail-sabbath
+    tradition: judaism
+    title: Manna and quail; the first Sabbath
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 16:1-36"]
+    tags:
+      - {motif: murmuring-in-wilderness, refs: ["Exod 16:2", "Exod 16:3", "Exod 16:7", "Exod 16:8", "Exod 16:12"], note: "'fleshpots of Egypt'"}
+      - {motif: bread-rained-from-heaven, refs: ["Exod 16:4", "Exod 16:15"]}
+      - {motif: daily-portion-as-test, refs: ["Exod 16:4", "Exod 16:16", "Exod 16:21"]}
+      - {motif: glory-of-yhwh-in-cloud, refs: ["Exod 16:7", "Exod 16:10"]}
+      - {motif: quail-cover-the-camp, refs: ["Exod 16:12", "Exod 16:13"]}
+      - {motif: manna-like-frost-on-dew, refs: ["Exod 16:13", "Exod 16:14"], note: "daq mehuspas, fine as hoarfrost"}
+      - {motif: what-is-it-name-of-manna, refs: ["Exod 16:15", "Exod 16:31"], note: "man hu - 'what is it?'"}
+      - {motif: omer-per-head-equal-shares, refs: ["Exod 16:16", "Exod 16:17", "Exod 16:18"], note: "he who gathered much had no surplus (2 Cor 8:15)"}
+      - {motif: hoarded-manna-breeds-worms, refs: ["Exod 16:19", "Exod 16:20"]}
+      - {motif: manna-melts-in-sun, refs: ["Exod 16:21"]}
+      - {motif: double-portion-on-sixth-day, refs: ["Exod 16:5", "Exod 16:22", "Exod 16:29"]}
+      - {motif: sabbath-rest-instituted, refs: ["Exod 16:23", "Exod 16:25", "Exod 16:26", "Exod 16:29", "Exod 16:30"], note: "shabbaton shabbat qodesh; 'let no man leave his place'"}
+      - {motif: sabbath-manna-does-not-spoil, refs: ["Exod 16:24"]}
+      - {motif: sabbath-breakers-find-nothing, refs: ["Exod 16:27", "Exod 16:28"]}
+      - {motif: manna-like-coriander-tastes-of-honey-wafers, refs: ["Exod 16:31"]}
+      - {motif: jar-of-manna-kept-before-testimony, refs: ["Exod 16:32", "Exod 16:33", "Exod 16:34"], note: "tsintsenet"}
+      - {motif: forty-years-in-wilderness, refs: ["Exod 16:35"]}
+      - {motif: measure-gloss-omer-tenth-ephah, refs: ["Exod 16:36"]}
+    hints:
+      - "Quran 2:57, 7:160, 20:80 (al-mann wa-l-salwa). John 6:31-58 (bread from heaven); Heb 9:4 (golden jar of manna in the ark); Rev 2:17 (hidden manna). Wisdom 16:20-21 (manna suited to every taste); 2 Baruch 29:8 (manna returns in the messianic age)."
+      - "Tamarisk-scale honeydew of Sinai (Arabic mann)."

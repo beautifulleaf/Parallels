@@ -290,6 +290,62 @@ new_motifs:
   place-renamed-bethel: {label: "Luz renamed Bethel, 'house of God'", cluster: etiology}
   conditional-vow-to-god: {label: "Hero vows that if God protects and provides for him, he will worship and tithe", cluster: cult}
   divine-promise-of-protection-on-journey: {label: "God promises to be with the traveler and bring him back", cluster: covenant}
+  hero-rolls-stone-from-well: {label: "Hero single-handedly rolls a great stone from the mouth of a well", cluster: patriarchs}
+  hero-weeps-at-meeting: {label: "Hero kisses and weeps on meeting a kinswoman or kinsman", cluster: patriarchs}
+  serving-seven-years-for-bride: {label: "Suitor serves the bride's father seven years for her hand", cluster: patriarchs}
+  substituted-bride: {label: "Father substitutes the elder daughter for the promised younger bride on the wedding night", cluster: patriarchs}
+  elder-daughter-must-marry-first: {label: "Custom that the younger daughter is not given before the elder", cluster: law}
+  marriage-to-two-sisters: {label: "Hero marries two sisters", cluster: patriarchs}
+  wedding-week: {label: "A week of wedding feasting (shavua)", cluster: patriarchs}
+  deceiver-deceived: {label: "The deceiver is deceived in kind (younger for elder, darkness/blindness)", cluster: patriarchs}
+  handmaids-given-with-brides: {label: "Each bride receives a handmaid from her father", cluster: patriarchs}
+  unloved-wife-made-fertile: {label: "God opens the womb of the unloved wife while the beloved is barren", cluster: birth}
+  childbirth-naming-contest: {label: "Rival wives name sons with speeches reflecting their rivalry", cluster: birth}
+  give-me-children-or-i-die: {label: "Barren wife demands children from her husband or she will die", cluster: birth}
+  birth-on-the-knees: {label: "Slave-wife gives birth 'upon the knees' of her mistress as adoption", cluster: birth}
+  mandrakes-fertility: {label: "Mandrakes (duda'im) sought as a fertility charm", cluster: magic}
+  wife-hires-husband-for-night: {label: "One wife buys a night with the husband from the other", cluster: patriarchs}
+  twelve-sons-and-daughter: {label: "Jacob's sons born to four mothers, plus one daughter Dinah", cluster: patriarchs}
+  god-remembers-barren-woman: {label: "God remembers the barren woman and opens her womb", cluster: birth}
+  divination-reveals-blessing: {label: "A foreigner learns by divination (nihesh) that God blessed him through the hero", cluster: magic}
+  speckled-flock-wage: {label: "Hero's wage is the speckled, spotted and dark animals of the flock", cluster: patriarchs}
+  peeled-rods-breeding-magic: {label: "Peeled striped rods placed before mating animals produce striped offspring", cluster: magic}
+  trickster-shepherd-prospers: {label: "The shepherd outwits his employer and grows exceedingly rich", cluster: patriarchs}
+  god-commands-return-home: {label: "God commands the exile to return to the land of his fathers", cluster: patriarchs}
+  wages-changed-ten-times: {label: "Employer changed the hero's wages ten times, but God thwarted him", cluster: patriarchs}
+  dream-of-mating-flocks: {label: "In a dream an angel shows the hero the striped and speckled he-goats mounting the flock", cluster: revelation}
+  wives-sold-by-father: {label: "Daughters complain their father sold them and consumed their bride-price", cluster: law}
+  secret-flight-from-father-in-law: {label: "Hero flees secretly with wives, children and flocks while the father-in-law is away shearing", cluster: patriarchs}
+  theft-of-household-gods: {label: "Daughter steals her father's household idols (teraphim)", cluster: cult}
+  pursuer-warned-in-dream: {label: "Pursuer warned by God in a dream not to harm the fugitive", cluster: revelation}
+  rash-death-sentence-on-thief: {label: "Hero unknowingly pronounces death on whoever stole the object, though it is his loved one", cluster: patriarchs}
+  idols-hidden-under-menstruating-woman: {label: "Idols hidden in a camel saddle on which a woman sits, claiming menstruation", cluster: cult}
+  shepherds-complaint-twenty-years: {label: "Shepherd's speech of grievance: twenty years of heat, frost, sleeplessness and bearing losses", cluster: law}
+  shepherd-bears-loss-of-torn-animals: {label: "Shepherd made to bear the loss of animals torn by beasts", cluster: law}
+  fear-of-isaac: {label: "God called the Fear (pahad) of Isaac", cluster: theology}
+  boundary-cairn-treaty: {label: "Heap of stones and pillar set up as witness and boundary of a treaty", cluster: covenant}
+  bilingual-place-name: {label: "One place given a name in two languages (Aramaic Yegar-sahadutha, Hebrew Galeed)", cluster: etiology}
+  mizpah-watch-between: {label: "The LORD watch between me and you when we are absent from one another", cluster: covenant}
+  covenant-meal: {label: "Treaty sealed by a sacrificial meal", cluster: covenant}
+  camp-of-angels: {label: "Hero encounters a camp of God's angels (Mahanaim)", cluster: revelation}
+  brother-approaches-with-400-men: {label: "The wronged brother approaches with four hundred men", cluster: patriarchs}
+  camp-split-in-two: {label: "Hero divides his people into two camps so one may escape", cluster: war}
+  prayer-before-danger-recalling-promise: {label: "Hero prays for deliverance, reminding God of his promise", cluster: cult}
+  appeasement-gift-droves: {label: "Hero sends successive droves of animals as a gift to appease his brother", cluster: patriarchs}
+  night-wrestling-with-divine-being: {label: "Hero wrestles all night with a mysterious man/god at a river crossing", cluster: theophany}
+  must-depart-before-dawn: {label: "Supernatural being must leave before daybreak", cluster: theophany}
+  hip-injured-in-struggle: {label: "Hero's hip or thigh is struck and he limps afterward", cluster: theophany}
+  blessing-extracted-from-divine-adversary: {label: "Hero refuses to release his divine opponent until blessed", cluster: theophany}
+  renamed-israel: {label: "Jacob renamed Israel, 'for you have striven with God and men and prevailed'", cluster: covenant}
+  divine-name-withheld: {label: "Divine being refuses to tell his name: 'Why do you ask my name?'", cluster: theophany}
+  saw-god-face-to-face-and-lived: {label: "Hero sees God face to face and survives (Peniel)", cluster: theophany}
+  sinew-taboo: {label: "Israelites do not eat the sciatic sinew (gid ha-nasheh) because of the wrestling", cluster: law}
+  sevenfold-prostration: {label: "Bowing to the ground seven times before a superior", cluster: patriarchs}
+  brothers-reconciled-embrace: {label: "Estranged brothers embrace, kiss and weep in reconciliation", cluster: patriarchs}
+  brothers-face-like-gods-face: {label: "Seeing the reconciled brother's face is like seeing the face of God", cluster: theophany}
+  succoth-booths-etiology: {label: "Place named Succoth from the booths built for livestock", cluster: etiology}
+  land-purchased-at-shechem: {label: "Patriarch buys a plot of land at Shechem for 100 qesitah", cluster: patriarchs}
+  altar-el-elohe-israel: {label: "Altar named El-Elohe-Israel", cluster: cult}
 units:
   - id: hb-gen-1-creation-six-days
     tradition: judaism
@@ -450,7 +506,6 @@ units:
       - {motif: life-span-365, refs: ["Gen 5:23"]}
       - {motif: longest-lived-man, refs: ["Gen 5:27"], note: "Methuselah 969, dies in the year of the flood by the MT numbers"}
       - {motif: name-meaning-comfort-from-curse, refs: ["Gen 5:29"], note: "Noah/yenahamenu, recalls 3:17"}
-      - {motif: sevenfold-vengeance, refs: ["Gen 5:31"], note: "not vengeance: Lamech's age 777 echoes Cainite Lamech's 77; weak tag"}
     hints:
       - "Sumerian King List: ten (or eight) antediluvian kings with reigns of tens of thousands of years; seventh king Enmeduranki taken to the gods, cf. Enoch."
       - "1 Enoch, Jubilees 4, Quran 19:56-57 Idris raised to a high place; Hebrews 11:5."
@@ -563,7 +618,6 @@ units:
       - {motif: founding-of-nineveh, refs: ["Gen 10:11", "Gen 10:12"], note: "Nineveh, Rehoboth-ir, Calah, Resen 'the great city'"}
       - {motif: philistines-from-caphtor, refs: ["Gen 10:14"]}
       - {motif: earth-divided-in-pelegs-days, refs: ["Gen 10:25"]}
-      - {motif: paradise-gold-and-gems, refs: ["Gen 10:29"], note: "Ophir and Havilah, gold lands; weak tag"}
     hints:
       - "Nimrod as builder of Babel and persecutor of Abraham in midrash (Pirqe R. El. 24) and Islamic qisas; Ninurta or Tukulti-Ninurta as historical models."
       - "Deut 32:8 nations by number of the sons of God; Jubilees 8-9 division of the earth by lot; 1 Chr 1."
@@ -1091,3 +1145,154 @@ units:
     hints:
       - "Babylonian ziggurat stairway (simmiltu) and bab-ilu 'gate of god'; John 1:51 angels ascending and descending on the Son of Man; Ladder of Jacob (pseudepigraphon); Mithraic ladder of seven gates."
       - "Greek baetyl (Bethel) sacred stones anointed with oil; stone of Scone legend as Jacob's pillow; Quran 3:93 Israel's self-imposed food prohibition (sinew) linked elsewhere."
+  - id: hb-gen-29-jacob-rachel-leah
+    tradition: judaism
+    title: Jacob meets Rachel; Laban's substitution of Leah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 29:1-30"]
+    tags:
+      - {motif: meeting-at-the-well-betrothal, refs: ["Gen 29:2", "Gen 29:6", "Gen 29:9", "Gen 29:10"], note: "Rachel is a shepherdess"}
+      - {motif: hero-rolls-stone-from-well, refs: ["Gen 29:2", "Gen 29:3", "Gen 29:8", "Gen 29:10"]}
+      - {motif: hero-weeps-at-meeting, refs: ["Gen 29:11", "Gen 29:13"]}
+      - {motif: hero-beautiful, refs: ["Gen 29:17"], note: "Rachel yefat to'ar; Leah's eyes rakkot (weak/tender)"}
+      - {motif: serving-seven-years-for-bride, refs: ["Gen 29:18", "Gen 29:20", "Gen 29:27", "Gen 29:30"], note: "seemed but a few days for love"}
+      - {motif: substituted-bride, refs: ["Gen 29:23", "Gen 29:25"]}
+      - {motif: elder-daughter-must-marry-first, refs: ["Gen 29:26"]}
+      - {motif: deceiver-deceived, refs: ["Gen 29:25", "Gen 29:26"], note: "rimmitani; 'not done in our place, the younger before the firstborn (bekhirah)'"}
+      - {motif: wedding-week, refs: ["Gen 29:22", "Gen 29:27", "Gen 29:28"]}
+      - {motif: marriage-to-two-sisters, refs: ["Gen 29:28", "Gen 29:30"]}
+      - {motif: handmaids-given-with-brides, refs: ["Gen 29:24", "Gen 29:29"], note: "Zilpah and Bilhah"}
+    hints:
+      - "Quran 28:27 Moses serves eight or ten years for Shu'ayb's daughter; Lev 18:18 forbids marrying two sisters; Gen R. 70 Leah's eyes weak from weeping lest she marry Esau."
+  - id: hb-gen-29-birth-of-jacobs-children
+    tradition: judaism
+    title: Births of Jacob's children; the mandrakes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 29:31-30:24"]
+    tags:
+      - {motif: unloved-wife-made-fertile, refs: ["Gen 29:31"]}
+      - {motif: barren-matriarch, refs: ["Gen 29:31", "Gen 30:1"]}
+      - {motif: childbirth-naming-contest, refs: ["Gen 29:32", "Gen 29:33", "Gen 29:34", "Gen 29:35", "Gen 30:6", "Gen 30:8", "Gen 30:11", "Gen 30:13", "Gen 30:18", "Gen 30:20", "Gen 30:24"], note: "Reuben, Simeon, Levi, Judah, Dan, Naphtali ('wrestlings of God'), Gad, Asher, Issachar, Zebulun, Joseph"}
+      - {motif: give-me-children-or-i-die, refs: ["Gen 30:1", "Gen 30:2"]}
+      - {motif: surrogate-slave-wife, refs: ["Gen 30:3", "Gen 30:4", "Gen 30:9"]}
+      - {motif: birth-on-the-knees, refs: ["Gen 30:3"]}
+      - {motif: mandrakes-fertility, refs: ["Gen 30:14", "Gen 30:15"], note: "found by Reuben at wheat harvest"}
+      - {motif: wife-hires-husband-for-night, refs: ["Gen 30:15", "Gen 30:16"], note: "sakhor sekhartikha, basis of Issachar's name"}
+      - {motif: twelve-sons-and-daughter, refs: ["Gen 30:21"], note: "Dinah, no naming speech"}
+      - {motif: god-remembers-barren-woman, refs: ["Gen 30:22", "Gen 30:23"], note: "'God has taken away my reproach'"}
+    hints:
+      - "Mandragora as aphrodisiac in Greek (Aphrodite Mandragoritis) and Song 7:14; Hurrian Nuzi adoption-by-knee rites; Rachel's death in childbirth follows later (Gen 35)."
+  - id: hb-gen-30-jacob-outwits-laban
+    tradition: judaism
+    title: Jacob's wages and the speckled flocks
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 30:25-43"]
+    tags:
+      - {motif: divination-reveals-blessing, refs: ["Gen 30:27"]}
+      - {motif: speckled-flock-wage, refs: ["Gen 30:32", "Gen 30:33", "Gen 30:35"]}
+      - {motif: peeled-rods-breeding-magic, refs: ["Gen 30:37", "Gen 30:38", "Gen 30:39", "Gen 30:41", "Gen 30:42"], note: "livneh (poplar), luz, armon rods peeled to show white (lavan, pun on Laban)"}
+      - {motif: trickster-shepherd-prospers, refs: ["Gen 30:30", "Gen 30:43"]}
+      - {motif: deceiver-deceived, refs: ["Gen 30:35", "Gen 30:36"], note: "Laban removes the marked animals first, three days' distance"}
+    hints:
+      - "Ancient maternal-impression belief (Hippocratic, Oppian on Spartan horse-breeders, Jerome Quaest. in Gen.); Hermes the trickster herdsman."
+  - id: hb-gen-31-flight-from-laban
+    tradition: judaism
+    title: Jacob's flight from Laban and the theft of the teraphim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 31:1-42"]
+    tags:
+      - {motif: god-commands-return-home, refs: ["Gen 31:3", "Gen 31:13"]}
+      - {motif: wages-changed-ten-times, refs: ["Gen 31:7", "Gen 31:8", "Gen 31:41"]}
+      - {motif: dream-of-mating-flocks, refs: ["Gen 31:10", "Gen 31:11", "Gen 31:12"], note: "the angel attributes the result to God, not the rods"}
+      - {motif: hineni-response, refs: ["Gen 31:11"]}
+      - {motif: anointed-standing-stone, refs: ["Gen 31:13"], note: "'I am the God of Bethel where you anointed a pillar'"}
+      - {motif: wives-sold-by-father, refs: ["Gen 31:14", "Gen 31:15", "Gen 31:16"]}
+      - {motif: secret-flight-from-father-in-law, refs: ["Gen 31:17", "Gen 31:18", "Gen 31:19", "Gen 31:20", "Gen 31:21"], note: "'Jacob stole Laban's heart'"}
+      - {motif: theft-of-household-gods, refs: ["Gen 31:19", "Gen 31:30", "Gen 31:32"]}
+      - {motif: pursuer-warned-in-dream, refs: ["Gen 31:24", "Gen 31:29"]}
+      - {motif: rash-death-sentence-on-thief, refs: ["Gen 31:32"]}
+      - {motif: theft-accusation-pursuit, refs: ["Gen 31:23", "Gen 31:30", "Gen 31:33", "Gen 31:37"], note: "search of tents one by one ending with Rachel's, like the cup search in Gen 44"}
+      - {motif: search-eldest-to-youngest, refs: ["Gen 31:33"], note: "Jacob's, Leah's, the handmaids', then Rachel's tent"}
+      - {motif: idols-hidden-under-menstruating-woman, refs: ["Gen 31:34", "Gen 31:35"]}
+      - {motif: shepherds-complaint-twenty-years, refs: ["Gen 31:38", "Gen 31:40", "Gen 31:41"]}
+      - {motif: shepherd-bears-loss-of-torn-animals, refs: ["Gen 31:39"]}
+      - {motif: fear-of-isaac, refs: ["Gen 31:42"]}
+    hints:
+      - "Nuzi tablets: possession of household gods tied to inheritance; Aeneas carrying the Penates out of Troy; Code of Hammurabi 266 shepherd not liable for losses to a lion; Exod 22:12."
+      - "Gen R. 74:5 Rachel stole the teraphim to wean her father from idolatry; Rachel's death (35:16-19) read as fulfillment of Jacob's curse."
+  - id: hb-gen-31-treaty-of-galeed
+    tradition: judaism
+    title: Covenant of Jacob and Laban at Galeed/Mizpah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew (with an Aramaic phrase at 31:47)
+    read: ["Gen 31:43-54"]
+    tags:
+      - {motif: boundary-cairn-treaty, refs: ["Gen 31:44", "Gen 31:45", "Gen 31:46", "Gen 31:48", "Gen 31:51", "Gen 31:52"]}
+      - {motif: bilingual-place-name, refs: ["Gen 31:47"]}
+      - {motif: mizpah-watch-between, refs: ["Gen 31:49", "Gen 31:50"], note: "Laban forbids Jacob to take other wives"}
+      - {motif: fear-of-isaac, refs: ["Gen 31:53"]}
+      - {motif: covenant-meal, refs: ["Gen 31:46", "Gen 31:54"]}
+    hints:
+      - "Aramaean-Israelite border at Gilead; 'God of Abraham and God of Nahor' with plural verb (31:53) suggests two deities; Kudurru boundary stones."
+  - id: hb-gen-32-preparing-to-meet-esau
+    tradition: judaism
+    title: Mahanaim and Jacob's preparations to meet Esau
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 32:1-22"]
+    tags:
+      - {motif: camp-of-angels, refs: ["Gen 32:2", "Gen 32:3"], note: "brackets the ladder vision at the other border"}
+      - {motif: brother-approaches-with-400-men, refs: ["Gen 32:7"]}
+      - {motif: camp-split-in-two, refs: ["Gen 32:8", "Gen 32:9", "Gen 32:11"], note: "pun on Mahanaim"}
+      - {motif: prayer-before-danger-recalling-promise, refs: ["Gen 32:10", "Gen 32:11", "Gen 32:12", "Gen 32:13"], note: "'with my staff I crossed this Jordan'; 'mother upon children'"}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 32:13"]}
+      - {motif: appeasement-gift-droves, refs: ["Gen 32:14", "Gen 32:15", "Gen 32:16", "Gen 32:17", "Gen 32:21", "Gen 32:22"], note: "550 animals; 'I will cover (akhapperah) his face'"}
+  - id: hb-gen-32-wrestling-at-jabbok
+    tradition: judaism
+    title: Jacob wrestles at the Jabbok and becomes Israel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 32:23-33"]
+    tags:
+      - {motif: night-wrestling-with-divine-being, refs: ["Gen 32:23", "Gen 32:25"], note: "wayye'aveq, pun on Yabboq"}
+      - {motif: must-depart-before-dawn, refs: ["Gen 32:25", "Gen 32:27"]}
+      - {motif: hip-injured-in-struggle, refs: ["Gen 32:26", "Gen 32:32"]}
+      - {motif: blessing-extracted-from-divine-adversary, refs: ["Gen 32:27", "Gen 32:30"]}
+      - {motif: renamed-israel, refs: ["Gen 32:28", "Gen 32:29"]}
+      - {motif: name-change-by-god, refs: ["Gen 32:29"]}
+      - {motif: divine-name-withheld, refs: ["Gen 32:30"]}
+      - {motif: saw-god-face-to-face-and-lived, refs: ["Gen 32:31"]}
+      - {motif: sinew-taboo, refs: ["Gen 32:33"]}
+    hints:
+      - "Hosea 12:4-5 he strove with the angel and wept; river-demons and night spirits who flee at dawn; Gilgamesh and Enkidu wrestling; Menelaus wrestling Proteus to extract an answer; Judg 13:18 angel withholds his name."
+      - "Gen R. 77-78: Esau's guardian angel (Samael); Prayer of Joseph: Jacob as archangel Israel; Quran 3:93 the food Israel forbade himself."
+  - id: hb-gen-33-jacob-esau-reunion
+    tradition: judaism
+    title: Jacob and Esau reconcile; Jacob at Succoth and Shechem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 33:1-20"]
+    tags:
+      - {motif: brother-approaches-with-400-men, refs: ["Gen 33:1"]}
+      - {motif: sevenfold-prostration, refs: ["Gen 33:3", "Gen 33:6", "Gen 33:7"], note: "as in Amarna letters 'seven times and seven times'"}
+      - {motif: brothers-reconciled-embrace, refs: ["Gen 33:4"], note: "dots over wayyishshaqehu, read by Gen R. 78:9 as a bite"}
+      - {motif: hero-forgives-brothers, refs: ["Gen 33:4", "Gen 33:9"], note: "Esau forgives without speech of grievance"}
+      - {motif: appeasement-gift-droves, refs: ["Gen 33:8", "Gen 33:10", "Gen 33:11"], note: "'take my blessing (birkhati)', returning the stolen berakhah"}
+      - {motif: brothers-face-like-gods-face, refs: ["Gen 33:10"]}
+      - {motif: succoth-booths-etiology, refs: ["Gen 33:17"]}
+      - {motif: land-purchased-at-shechem, refs: ["Gen 33:18", "Gen 33:19"], note: "from the sons of Hamor; 'Jacob came shalem' (safe, or to Salem)"}
+      - {motif: altar-el-elohe-israel, refs: ["Gen 33:20"]}
+    hints:
+      - "Josh 24:32 Joseph's bones buried in this plot; John 4:5 Jacob's well at Sychar; Esau reconciliation contrasts with Joseph's brothers (joseph.yaml hero-forgives-brothers)."

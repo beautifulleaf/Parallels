@@ -1,0 +1,967 @@
+new_motifs:
+  aaron-mourning-excuses-not-eating: {label: "The bereaved priest declines to eat the sin offering on the day of his sons' death, and Moses accepts this", cluster: cult}
+  adultery-capital-both-parties: {label: "Adulterer and adulteress are both put to death", cluster: law}
+  adultery-prohibited: {label: "Sexual relations with a neighbor's wife are forbidden", cluster: law}
+  altar-dedication-hanukkah: {label: "Dedication (hanukkah) of the altar with gifts after its anointing", cluster: cult}
+  animal-killed-with-offender: {label: "In bestiality the animal is killed together with the human offender", cluster: law}
+  ark-covered-with-veil-before-journey: {label: "Before marching, priests cover the ark with the screening veil and further wrappings", cluster: cult}
+  azazel-named: {label: "A goat is designated by lot 'for Azazel', a named wilderness recipient", cluster: cult}
+  baldness-is-clean: {label: "Ordinary baldness of the head or forehead is declared clean", cluster: purity}
+  barley-jealousy-offering-without-oil-or-incense: {label: "Suspected wife's offering is barley flour without oil or frankincense, a 'meal offering of jealousy'", cluster: cult}
+  be-holy-for-i-am-holy: {label: "Command 'You shall be holy, for I am holy'", cluster: law}
+  bestiality-forbidden: {label: "Sexual relations of a man or a woman with an animal are forbidden", cluster: law}
+  betrothed-slave-woman-case: {label: "Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death, because she is not free", cluster: law}
+  bitter-water-ordeal-for-adultery: {label: "Wife suspected of adultery drinks 'water of bitterness' as an ordeal", cluster: law}
+  blemished-animal-not-sacrificed: {label: "Blemished animal (lame, blind) may not be sacrificed", cluster: cult}
+  blemished-priest-barred-from-altar: {label: "Priest with a bodily defect may not approach the altar or veil", cluster: cult}
+  blemished-priest-may-eat-holy-food: {label: "Blemished priest still eats the holy and most holy food", cluster: cult}
+  blood-given-for-atonement: {label: "God gives blood on the altar to make atonement for lives", cluster: cult}
+  blood-on-altar-horns: {label: "Blood is put on the horns of the altar with the finger and poured at its base", cluster: sacrifice}
+  blood-on-right-ear-thumb-toe: {label: "Blood is daubed on the right earlobe, thumb and big toe", cluster: sacrifice}
+  blood-over-living-water-in-earthen-vessel: {label: "Bird slaughtered over running water in an earthenware vessel", cluster: purity}
+  blood-prohibition-life-in-blood: {label: "Eating blood is forbidden because the life (nefesh) of the flesh is in the blood", cluster: law}
+  bodies-carried-out-in-tunics: {label: "Bodies of priests struck by God carried out of the camp in their tunics by relatives", cluster: cult}
+  boil-and-burn-scar-cases: {label: "Skin disease diagnosed in a healed boil or burn scar", cluster: purity}
+  boiled-shoulder-placed-in-nazirites-hands: {label: "Priest places the boiled shoulder and cakes in the hands of the shaved Nazirite and waves them", cluster: cult}
+  booths-festival-seven-days: {label: "Seven-day festival of dwelling in booths recalling the wilderness", cluster: festival}
+  brothers-wife-forbidden: {label: "Marrying or lying with a brother's wife is forbidden", cluster: law}
+  burning-penalty: {label: "Offender executed by burning", cluster: law}
+  calf-sin-offering-for-high-priest: {label: "High priest's own sin offering is a calf", cluster: cult}
+  camel-forbidden: {label: "The camel is unclean because it does not have a split hoof", cluster: dietary}
+  camp-in-four-standards-around-tent: {label: "Tribes camp in four groups of three under standards on the four sides of the sanctuary", cluster: wilderness}
+  cannibalism-in-siege: {label: "Curse: you will eat the flesh of your sons and daughters", cluster: covenant}
+  carcass-impurity-until-evening: {label: "Touching or carrying a carcass makes one unclean until evening", cluster: purity}
+  carriers-may-not-touch-or-see-holy-things: {label: "Bearers of the sanctuary objects die if they touch or even look at them uncovered", cluster: cult}
+  castration-of-animals-forbidden: {label: "Animals with crushed or cut testicles may not be offered, nor may such be done in the land", cluster: law}
+  cedar-hyssop-scarlet: {label: "Cedar wood, hyssop and scarlet thread used in a purification rite", cluster: purity}
+  census-of-men-twenty-and-up: {label: "Census of all males twenty years and older able to go to war", cluster: lists}
+  census-total-discrepancy-levites: {label: "Stated census total disagrees with the sum of the listed subtotals", cluster: lists}
+  child-passed-to-molech: {label: "Giving one's offspring to Molech is forbidden and punished", cluster: cult}
+  childbirth-impurity-double-for-daughter: {label: "Mother's impurity after a daughter's birth lasts twice as long as after a son's", cluster: purity}
+  childlessness-as-penalty: {label: "Offenders punished by dying childless", cluster: law}
+  circumcision-eighth-day: {label: "Circumcision on the eighth day after birth", cluster: law}
+  clean-unclean-animals-list: {label: "List of clean and unclean animals: split hoof and chewing cud", cluster: dietary}
+  colored-cloths-for-holy-vessels: {label: "Each holy vessel wrapped in a cloth of a specified color (blue, scarlet, purple) for transport", cluster: cult}
+  completion-offerings-of-nazirite: {label: "Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends", cluster: cult}
+  confession-of-sins-over-animal: {label: "Priest confesses the people's sins over the head of a live animal", cluster: cult}
+  confession-required-for-restitution: {label: "Wrongdoer must confess his sin and repay what he took", cluster: law}
+  corners-of-head-and-beard-not-cut: {label: "Do not round the corners of the head or destroy the corners of the beard", cluster: law}
+  corpses-on-idols-carcasses: {label: "Curse: your corpses will be heaped on the corpses of your idols", cluster: covenant}
+  covenant-curses-catalogue: {label: "Long catalogue of curses for covenant violation (disease, defeat, famine, exile)", cluster: covenant}
+  covenant-curses-escalating-sevenfold: {label: "Punishments escalate sevenfold each time the people do not listen", cluster: covenant}
+  covenant-formula-your-god-my-people: {label: "Formula 'I will be your God and you shall be my people'", cluster: covenant}
+  creatures-on-belly-forbidden: {label: "Creatures that go on their belly or have many legs are forbidden as food", cluster: dietary}
+  curse-belly-swells-thigh-falls: {label: "Ordeal curse: the guilty woman's belly swells and her thigh falls", cluster: law}
+  curser-of-parents-executed: {label: "One who curses father or mother is put to death", cluster: law}
+  cuttings-for-dead-and-tattoos-forbidden: {label: "Gashes in the flesh for the dead and tattoo marks are forbidden", cluster: law}
+  dated-divine-speech-in-tent: {label: "Divine speech dated to a precise day, month and year after the exodus", cluster: wilderness}
+  daughter-not-made-prostitute: {label: "A father must not make his daughter a prostitute", cluster: law}
+  day-of-atonement-tenth-of-seventh-month: {label: "Annual Day of Atonement on the tenth of the seventh month, with self-affliction and total rest", cluster: festival}
+  day-of-trumpet-blasts: {label: "First day of the seventh month as a 'day of blasting' (yom teru'ah)", cluster: cult}
+  day-reckoned-evening-to-evening: {label: "A holy day is kept from evening to evening", cluster: festival}
+  dedication-totals-summed: {label: "After itemized gifts, the grand totals of silver, gold and animals are summed", cluster: lists}
+  devoted-thing-herem-irredeemable: {label: "Anything devoted (herem) to God cannot be sold or redeemed; a devoted person is put to death", cluster: law}
+  disease-consumption-and-fever: {label: "Curse of consumption and fever that waste the eyes and the soul", cluster: covenant}
+  divination-and-soothsaying-forbidden: {label: "Divination, soothsaying, mediums (ov) and wizards (yidde'oni) are forbidden", cluster: magic}
+  do-not-follow-egypt-and-canaan: {label: "Do not follow the practices of Egypt where you lived or of Canaan where you are going", cluster: law}
+  do-not-stand-by-neighbors-blood: {label: "Do not stand idly by the blood of your neighbor", cluster: ethics}
+  double-amen-response: {label: "Person responds to an imprecation with 'Amen, amen'", cluster: cult}
+  earthenware-vessel-broken-when-defiled: {label: "Defiled earthenware vessel must be broken; wooden vessels are rinsed", cluster: purity}
+  eating-carrion-requires-washing: {label: "Eating an animal that died or was torn requires washing and makes unclean until evening", cluster: purity}
+  eight-unclean-swarming-creatures: {label: "A list of eight swarming creatures (mole, mouse, lizards, chameleon) whose carcasses defile", cluster: purity}
+  eighth-day-inauguration: {label: "Cult inaugurated on the eighth day after a seven-day ordination", cluster: cult}
+  eighth-day-solemn-assembly: {label: "An eighth day of solemn assembly ('atseret) closes the seven-day festival", cluster: festival}
+  eleazar-oversees-oil-incense-and-sanctuary: {label: "Priest's son Eleazar is in charge of lamp oil, incense, daily meal offering and anointing oil", cluster: cult}
+  every-tenth-under-the-rod: {label: "Every tenth animal passing under the shepherd's rod is holy as tithe", cluster: law}
+  exiles-confess-sins-of-fathers: {label: "Exiles confess their own iniquity and that of their fathers", cluster: covenant}
+  eye-for-eye: {label: "Eye for an eye, tooth for a tooth (lex talionis)", cluster: law}
+  fallow-produce-shared-with-animals-and-poor: {label: "Spontaneous growth of the fallow year is food for owner, slaves, hired men, aliens, livestock and wild animals", cluster: law}
+  fat-kidneys-liver-lobe-burned: {label: "The fat, the two kidneys and the lobe of the liver are burned on the altar", cluster: sacrifice}
+  fat-tail-offered: {label: "The sheep's fat tail is burned on the altar", cluster: cult}
+  father-silent-at-sons-death: {label: "Father remains silent on the death of his sons", cluster: narrative}
+  festival-sacrificial-calendar: {label: "Calendar of festivals with prescribed offerings (Passover, Weeks, Trumpets, Atonement, Booths)", cluster: cult}
+  field-valued-by-seed-sown: {label: "Value of a dedicated field set by the amount of seed it takes (a homer of barley = 50 shekels)", cluster: law}
+  fifty-day-count-to-weeks-festival: {label: "Seven full weeks (fifty days) counted from the sheaf offering to the new grain offering", cluster: festival}
+  fins-and-scales-rule: {label: "Water creatures are permitted only if they have fins and scales", cluster: dietary}
+  fire-consumes-offerers: {label: "Fire from God consumes those offering illegitimate incense", cluster: punishment}
+  first-sheaf-omer-waved: {label: "First sheaf (omer) of the harvest waved by the priest on the morrow after the sabbath", cluster: festival}
+  firstborn-animal-cannot-be-vowed: {label: "A firstborn animal already belongs to God and cannot be dedicated by vow", cluster: law}
+  five-chase-a-hundred: {label: "Blessing: five of you will chase a hundred, a hundred ten thousand", cluster: covenant}
+  flee-when-none-pursues: {label: "Curse: you will flee though no one pursues, chased by the sound of a driven leaf", cluster: covenant}
+  forbidden-mixtures-kilayim: {label: "Prohibition of cross-breeding animals, sowing mixed seed and wearing mixed cloth", cluster: law}
+  four-species-taken: {label: "Fruit of a goodly tree, palm fronds, leafy boughs and brook willows taken for the festival", cluster: festival}
+  fruit-trees-uncircumcised-three-years: {label: "Fruit of a new tree is 'uncircumcised' for three years, holy in the fourth, eaten in the fifth", cluster: law}
+  gleanings-and-corners-left-for-poor: {label: "Corners of the field, gleanings and fallen grapes left for the poor and the stranger", cluster: law}
+  glory-of-god-appears-to-people: {label: "The glory (kavod) of God appears to all the people", cluster: theophany}
+  god-appears-in-cloud-over-ark-cover: {label: "God appears in a cloud above the ark cover (kapporet)", cluster: theophany}
+  god-lifts-face-gives-peace: {label: "Blessing: may God lift up his face to you and give you peace", cluster: cult}
+  god-makes-face-shine: {label: "Blessing: may God make his face shine upon you", cluster: cult}
+  god-refuses-to-smell-offerings: {label: "Curse: God will not smell the pleasing odor of their offerings", cluster: covenant}
+  god-remembers-patriarchal-covenant: {label: "God remembers his covenant with Jacob, Isaac and Abraham even in exile", cluster: covenant}
+  god-sanctified-through-those-near: {label: "God says he is sanctified through those who are near him, after a fatal cultic error", cluster: theology}
+  god-sends-plague-on-houses: {label: "God himself puts a 'leprous' plague in houses of the land", cluster: purity}
+  god-walks-among-people: {label: "God promises to walk about in the midst of the people", cluster: theology}
+  god-walks-contrary-qeri: {label: "God answers the people's 'walking contrary' (qeri) by walking contrary to them", cluster: covenant}
+  gold-ladle-full-of-incense: {label: "A gold ladle (kaf) of ten shekels filled with incense presented as a gift", cluster: cult}
+  handler-of-scapegoat-washes: {label: "The man who led away the scapegoat or burned the remains washes before re-entering the camp", cluster: purity}
+  hearers-lay-hands-on-blasphemer: {label: "Those who heard the blasphemy lay their hands on the offender's head before stoning", cluster: law}
+  heavenly-fire-consumes-offering: {label: "Fire comes out from before God and consumes the offering on the altar", cluster: theophany}
+  high-priest-avoids-even-parents-corpse: {label: "High priest may not defile himself even for father or mother", cluster: cult}
+  high-priest-enters-holy-of-holies-once-a-year: {label: "High priest may enter the inner sanctuary behind the veil only on the annual day of atonement", cluster: cult}
+  high-priest-wears-plain-linen: {label: "High priest wears plain linen garments to enter the holy of holies", cluster: cult}
+  holy-objects-carried-on-shoulders: {label: "Most holy objects must be carried on the shoulders, not on wagons", cluster: cult}
+  holy-water-mixed-with-tabernacle-dust: {label: "Holy water in an earthen vessel mixed with dust from the sanctuary floor", cluster: cult}
+  hoopoe-named: {label: "The hoopoe is named in a list of birds", cluster: dietary}
+  house-demolished-if-plague-returns: {label: "House whose 'leprous' plague returns after repair is torn down", cluster: purity}
+  house-emptied-before-inspection: {label: "House is emptied before the priest inspects it so its contents are not defiled", cluster: purity}
+  hunted-animal-blood-covered-with-earth: {label: "Blood of a hunted animal or bird is poured out and covered with earth", cluster: law}
+  husband-free-of-guilt: {label: "Husband who brings an ordeal accusation is free of guilt whatever the result", cluster: law}
+  hyrax-and-hare-chew-cud: {label: "The hyrax and the hare are described as chewing the cud", cluster: dietary}
+  identical-gifts-repeated-verbatim: {label: "Twelve leaders bring identical gifts, each listed in full with the same wording", cluster: lists}
+  idols-called-elilim: {label: "Idols called 'elilim' ('nothings')", cluster: cult}
+  impartial-judgment-neither-poor-nor-great: {label: "Judge fairly, favoring neither the poor nor the great", cluster: law}
+  impurity-defiles-dwelling-of-god: {label: "Human impurity defiles God's dwelling in their midst and endangers them", cluster: purity}
+  impurity-transmitted-by-bed-and-seat: {label: "Impurity passes to the bed, seat or saddle of the unclean person and to whoever touches them", cluster: purity}
+  incense-cloud-shields-priest-from-death: {label: "Cloud of incense covers the ark cover so the priest does not die", cluster: cult}
+  incest-prohibitions-list: {label: "List of forbidden close-kin unions ('uncovering nakedness')", cluster: law}
+  infected-stones-removed-to-unclean-place: {label: "Infected stones and plaster removed to an unclean place outside the city", cluster: purity}
+  innocent-wife-will-conceive: {label: "Woman cleared by the ordeal will bear children", cluster: law}
+  intercourse-during-menstruation-forbidden: {label: "Intercourse with a menstruating woman is forbidden", cluster: law}
+  interest-forbidden-to-brother: {label: "Lending at interest or increase to a poor brother is forbidden", cluster: law}
+  israel-separated-from-peoples: {label: "God separated Israel from the peoples as clean animals are separated from unclean", cluster: theology}
+  israelite-bondman-as-hired-worker: {label: "An impoverished Israelite sold to a brother serves as a hired worker, not a slave, until the jubilee", cluster: law}
+  israelites-are-gods-slaves: {label: "Israelites cannot be sold as slaves because they are God's servants whom he brought out of Egypt", cluster: theology}
+  items-assigned-by-name: {label: "Each item to be carried is assigned to a bearer by name", cluster: cult}
+  ithamar-oversees-gershon-and-merari: {label: "Priest's son Ithamar supervises the Gershonite and Merarite Levites", cluster: cult}
+  jubilee-fiftieth-year: {label: "Fiftieth year after seven sabbatical cycles is the jubilee", cluster: law}
+  judah-camps-east-marches-first: {label: "Judah camps on the east and is first in order, ahead of the firstborn Reuben", cluster: wilderness}
+  just-weights-and-measures: {label: "Honest balances, weights, ephah and hin are commanded", cluster: ethics}
+  karet-penalty: {label: "The offender 'shall be cut off from his people' (karet)", cluster: law}
+  kinsman-redeemer: {label: "Nearest kinsman (go'el) has the right and duty to redeem land and family", cluster: law}
+  kohathites-carry-ark-and-holy-vessels: {label: "Kohathite Levites carry the ark, table, lampstand and altars", cluster: cult}
+  land-belongs-to-god-israel-sojourners: {label: "Land may not be sold permanently, for the land is God's and the people are sojourners with him", cluster: theology}
+  land-flowing-milk-and-honey: {label: "Promised land described as flowing with milk and honey", cluster: covenant}
+  land-repays-its-sabbaths-in-exile: {label: "While the people are in exile, the desolate land makes up its missed sabbath years", cluster: covenant}
+  land-returns-to-ancestral-owner: {label: "Sold land returns to its ancestral owner in the jubilee", cluster: law}
+  land-vomits-out-inhabitants: {label: "The land, defiled by abominations, vomits out its inhabitants", cluster: land}
+  law-binds-resident-alien: {label: "The law applies to the resident alien (ger) as to the Israelite", cluster: law}
+  law-given-on-mount-sinai: {label: "Laws stated to have been given at Mount Sinai", cluster: law}
+  leavened-firstfruit-loaves: {label: "Two leavened loaves of new grain offered as first fruits", cluster: festival}
+  leftover-sacrifice-third-day-abomination: {label: "Sacrificial meat left to the third day is an abomination (piggul) and must be burned", cluster: cult}
+  leper-dwells-alone-outside-camp: {label: "Person with skin disease lives alone outside the camp", cluster: purity}
+  leper-torn-clothes-cry-unclean: {label: "Person with skin disease wears torn clothes, loose hair, covers his lip and cries 'Unclean, unclean'", cluster: purity}
+  levite-census-from-one-month: {label: "Levite males are counted from one month old", cluster: lists}
+  levite-cities-perpetual-redemption: {label: "Houses in Levite cities can always be redeemed and their fields never sold", cluster: law}
+  levite-clans-camp-on-three-sides: {label: "Levite clans camp on three sides of the sanctuary and the priests on the east", cluster: wilderness}
+  levite-service-age-thirty-to-fifty: {label: "Levites perform sanctuary work from age thirty to fifty", cluster: cult}
+  levite-workforce-totals: {label: "Numbers of working Levites in each clan are totaled", cluster: lists}
+  levites-given-to-aaron: {label: "Levites are given wholly to the priest as assistants", cluster: cult}
+  levites-guard-tabernacle-outsider-dies: {label: "Levites guard the sanctuary and any outsider who approaches is put to death", cluster: cult}
+  levites-not-counted: {label: "The tribe of Levi is excluded from the military census", cluster: lists}
+  levites-substitute-for-firstborn: {label: "Levites taken in place of all the firstborn of Israel", cluster: cult}
+  life-for-life-animal-compensation: {label: "Killing a person is capital; killing an animal is compensated life for life", cluster: law}
+  live-by-the-commandments: {label: "The person who does God's statutes shall live by them", cluster: law}
+  locusts-permitted: {label: "Certain kinds of locust with jointed legs for hopping may be eaten", cluster: dietary}
+  lots-cast-over-two-goats: {label: "Lots cast over two goats to decide their roles", cluster: cult}
+  love-neighbor-as-yourself: {label: "Love your neighbor as yourself", cluster: ethics}
+  love-the-stranger-for-you-were-strangers: {label: "Love the stranger, for you were strangers in Egypt", cluster: ethics}
+  male-discharge-impurity: {label: "A man with a genital discharge is unclean", cluster: purity}
+  male-intercourse-forbidden: {label: "Lying with a male as with a woman is forbidden", cluster: law}
+  menstrual-impurity-seven-days: {label: "Menstruating woman is unclean seven days and defiles what she lies or sits on", cluster: purity}
+  moisture-makes-food-susceptible: {label: "Food or seed becomes susceptible to impurity only once water has come on it", cluster: purity}
+  mold-in-garments: {label: "Fabric or leather with spreading green or red 'leprous' mold is burned", cluster: purity}
+  moses-angry-goat-burned-not-eaten: {label: "Moses is angry that the priests burned the sin offering instead of eating it", cluster: cult}
+  mother-and-young-not-same-day: {label: "An animal and its young may not be slaughtered on the same day", cluster: law}
+  mother-barred-from-sanctuary-after-birth: {label: "Woman after childbirth may not touch holy things or enter the sanctuary until her days are complete", cluster: purity}
+  name-variant-deuel-reuel: {label: "A person's name is spelled differently in different places (Deuel/Reuel)", cluster: lists}
+  nazirite-abstains-from-all-grape-products: {label: "Nazirite abstains from wine, vinegar, grapes and everything from the vine down to seeds and skins", cluster: cult}
+  nazirite-avoids-corpse-even-of-parents: {label: "Nazirite may not become unclean even for the corpse of father, mother, brother or sister", cluster: cult}
+  nazirite-vow-man-or-woman: {label: "A man or a woman may take the vow of a Nazirite", cluster: cult}
+  new-grain-forbidden-before-offering: {label: "New bread, parched grain or fresh ears may not be eaten until the first sheaf is offered", cluster: festival}
+  newborn-animal-seven-days-with-mother: {label: "Newborn animal stays seven days with its mother before it may be sacrificed", cluster: law}
+  no-figured-stone-for-prostration: {label: "No idols, carved image, pillar or figured stone set up to bow down on", cluster: cult}
+  no-offerings-from-foreigner-blemished: {label: "Blemished animals may not be accepted as offerings from a foreigner either", cluster: cult}
+  no-one-in-tent-during-atonement: {label: "No one may be in the tent while the high priest makes atonement in the sanctuary", cluster: cult}
+  no-revenge-or-grudge: {label: "Do not take vengeance or bear a grudge against your people", cluster: ethics}
+  no-ruling-with-rigor: {label: "Do not rule over a fellow Israelite with harshness (perekh)", cluster: ethics}
+  no-stumbling-block-before-blind: {label: "Do not curse the deaf or put a stumbling block before the blind", cluster: ethics}
+  no-substitution-of-vowed-animal: {label: "A vowed animal may not be exchanged; if it is, both become holy", cluster: law}
+  offender-held-until-oracle-decides: {label: "Offender held in custody until God's ruling is given", cluster: law}
+  offering-as-gods-food: {label: "Sacrifice called God's 'bread/food' (lahmi)", cluster: cult}
+  oil-poured-on-head: {label: "Oil poured on the head of the person being purified", cluster: cult}
+  one-chieftain-per-day-twelve-days: {label: "Each of twelve tribal leaders presents his offering on his own day", cluster: cult}
+  one-law-for-alien-and-citizen: {label: "One law for the stranger and the native", cluster: law}
+  overgrown-limb-allowed-for-freewill-only: {label: "Animal with an overgrown or stunted limb accepted as a freewill offering but not for a vow", cluster: cult}
+  passover-fourteenth-at-twilight: {label: "Passover on the fourteenth of the first month at twilight", cluster: festival}
+  people-shout-and-fall-on-faces: {label: "The people shout and fall on their faces at the theophany", cluster: theophany}
+  perpetual-bread-on-table: {label: "Bread stays perpetually on the table of the presence", cluster: cult}
+  perpetual-lamp-pure-olive-oil: {label: "Lamp kept burning continually with pure beaten olive oil", cluster: cult}
+  perpetual-slaves-from-nations: {label: "Permanent slaves may be bought from surrounding nations and resident aliens and bequeathed", cluster: law}
+  poor-substitute-two-birds: {label: "Two turtledoves or two young pigeons offered (in place of a lamb if one cannot afford it)", cluster: cult}
+  poor-vower-assessed-by-means: {label: "A poor person who vows is assessed by the priest according to his means", cluster: law}
+  pork-forbidden: {label: "The pig is unclean and forbidden", cluster: dietary}
+  price-by-years-to-jubilee: {label: "Land is sold by the number of harvests remaining until the jubilee", cluster: law}
+  priest-avoids-corpse-except-close-kin: {label: "Priest may defile himself only for close kin", cluster: cult}
+  priest-diagnoses-skin-disease: {label: "Priest inspects and declares a skin affliction clean or unclean", cluster: purity}
+  priest-forbidden-mourning-rites: {label: "Priests may not dishevel hair, tear garments, shave or gash themselves in mourning", cluster: cult}
+  priest-goes-outside-camp-to-inspect: {label: "Priest goes out of the camp to examine the healed person", cluster: purity}
+  priest-keeps-donations-given-him: {label: "Holy donations given to a priest belong to that priest", cluster: cult}
+  priest-marriage-restrictions: {label: "Priests may not marry a harlot or divorcee; the high priest only a virgin of his people", cluster: cult}
+  priestly-blessing-raised-hands: {label: "Priest lifts up his hands and blesses the people", cluster: cult}
+  priests-daughter-returns-to-fathers-table: {label: "Widowed or divorced childless priest's daughter returns to eat of her father's holy food", cluster: cult}
+  priests-died-childless: {label: "Priests who died for a cultic offense left no sons", cluster: narrative}
+  priests-distinguish-holy-profane-clean-unclean: {label: "Priests must distinguish holy from profane and clean from unclean and teach the people", cluster: cult}
+  priests-eat-most-holy-portions: {label: "Priests eat the most holy portions in a holy place", cluster: cult}
+  priests-forbidden-wine-in-sanctuary: {label: "Priests may not drink wine or strong drink when entering the tent", cluster: cult}
+  priests-slave-eats-but-hired-man-does-not: {label: "A priest's purchased or house-born slave eats holy food, but a hired worker or lodger does not", cluster: cult}
+  proclaim-liberty-throughout-the-land: {label: "Proclaim release (deror) throughout the land to all its inhabitants", cluster: law}
+  pronouncing-the-name-capital: {label: "Pronouncing or pricking 'the Name' of God in blasphemy is a capital offense", cluster: law}
+  puncta-extraordinaria-dots: {label: "Masoretic extraordinary dots over a word", cluster: text}
+  purging-sanctuary-of-impurities: {label: "Blood rites purge the sanctuary and altar of the people's impurities and transgressions", cluster: cult}
+  purification-offering-after-childbirth: {label: "Mother brings a burnt offering and sin offering at the end of her purification", cluster: purity}
+  purity-at-sunset: {label: "Impure person becomes clean when the sun sets", cluster: purity}
+  putting-gods-name-on-people: {label: "Priests 'put God's name' upon the people by blessing them", cluster: cult}
+  rain-in-its-season-blessing: {label: "Blessing: rain in its season and harvests so abundant that one overtakes the next", cluster: covenant}
+  raw-flesh-sign-of-disease: {label: "Raw (living) flesh in a swelling is a sign of skin disease", cluster: purity}
+  rebuke-neighbor-not-hate-in-heart: {label: "Do not hate your brother in your heart; rebuke your neighbor instead", cluster: ethics}
+  redemption-from-alien-master: {label: "Israelite sold to a resident alien may be redeemed by kin or himself, priced by years to jubilee", cluster: law}
+  redemption-of-firstborn-five-shekels: {label: "Human firstborn redeemed for five shekels", cluster: law}
+  restitution-plus-one-fifth: {label: "Restitution of the principal plus one fifth", cluster: law}
+  restitution-to-priest-if-no-kinsman: {label: "If the wronged party has no kinsman, restitution goes to God, to the priest", cluster: law}
+  revere-mother-and-father: {label: "Each person must revere mother and father", cluster: ethics}
+  rinsing-hands-prevents-transmission: {label: "Person with a discharge who has rinsed his hands does not transmit impurity by touch", cluster: purity}
+  rise-before-the-aged: {label: "Rise before the gray-haired and honor the elderly", cluster: ethics}
+  sabbatical-year-land-rests: {label: "Every seventh year the land rests: no sowing, pruning or harvesting", cluster: law}
+  sacrifice-to-goat-demons-forbidden: {label: "People may no longer sacrifice to the goat-demons (se'irim) they whored after", cluster: cult}
+  sanctification-of-gods-name: {label: "God is to be sanctified in the midst of Israel; his holy name not profaned", cluster: theology}
+  scalp-or-beard-scall: {label: "Skin disease of the scalp or beard (neteq) judged by yellow or black hair", cluster: purity}
+  scapegoat-bears-sins-into-wilderness: {label: "Living goat bears the people's sins away into the wilderness", cluster: cult}
+  scattering-among-nations: {label: "Curse: God will scatter the people among the nations", cluster: covenant}
+  secret-adultery-without-witness: {label: "Adultery done in secret with no witness and not caught in the act", cluster: law}
+  seminal-emission-impurity-until-evening: {label: "Emission of semen makes a man (and his partner) unclean until evening", cluster: purity}
+  seven-clean-days-and-living-water: {label: "After a discharge ends, seven clean days are counted and the person bathes in living water", cluster: purity}
+  seven-day-quarantine: {label: "Priest shuts up a suspected affliction for seven days and re-examines it", cluster: purity}
+  seven-days-unleavened-bread: {label: "Unleavened bread eaten for seven days", cluster: cult}
+  sevenfold-sprinkling: {label: "Blood or water sprinkled seven times", cluster: cult}
+  shaatnez-wool-linen: {label: "Do not wear wool and linen together (sha'atnez)", cluster: law}
+  shaved-hair-burned-on-altar-fire: {label: "Nazirite's shaved hair is put on the fire under the well-being offering", cluster: cult}
+  shaving-all-hair-for-purification: {label: "The person being purified shaves all hair, including beard and eyebrows", cluster: purity}
+  shekel-of-twenty-gerahs: {label: "The sanctuary shekel is defined as twenty gerahs", cluster: lists}
+  shofar-sounded-on-atonement-day: {label: "The shofar is sounded throughout the land on the Day of Atonement to begin the jubilee", cluster: festival}
+  sibling-incest-called-hesed: {label: "Sibling incest is called 'hesed' (normally 'kindness'), here a disgrace", cluster: law}
+  sin-offering-burned-outside-camp: {label: "The flesh, skin and dung of the sin offering are burned outside the camp", cluster: sacrifice}
+  six-covered-wagons-twelve-oxen: {label: "Twelve leaders give six covered wagons and twelve oxen for transporting the sanctuary", cluster: cult}
+  six-hundred-three-thousand-total: {label: "Total of 603,550 fighting men", cluster: lists}
+  sky-as-iron-earth-as-bronze: {label: "Curse: the sky like iron and the earth like bronze", cluster: covenant}
+  slaughter-only-at-sanctuary: {label: "Animals may be slaughtered only as offerings at the sanctuary entrance", cluster: cult}
+  son-of-mixed-marriage-blasphemes: {label: "Son of an Israelite mother and Egyptian father blasphemes the Name in a quarrel", cluster: narrative}
+  spirit-of-jealousy-seizes-husband: {label: "A 'spirit of jealousy' comes over a husband who suspects his wife", cluster: law}
+  spittle-transmits-impurity: {label: "Spittle of an unclean person defiles the person it falls on", cluster: purity}
+  spring-and-cistern-remain-pure: {label: "A spring or cistern collecting water remains clean even if a carcass falls in", cluster: purity}
+  stoning-penalty: {label: "Offender stoned to death by the community", cluster: law}
+  strange-fire-deaths: {label: "Priests die for offering 'strange fire'", cluster: cult}
+  sudden-death-nearby-voids-vow: {label: "Sudden death of someone beside a Nazirite voids his vow and he must start again", cluster: cult}
+  tabernacle-anointed-on-completion: {label: "The sanctuary and its vessels anointed and consecrated on its completion", cluster: cult}
+  tahash-skin-coverings: {label: "Holy objects covered with tahash skins for transport", cluster: cult}
+  talebearing-forbidden: {label: "Do not go about as a talebearer among your people", cluster: ethics}
+  ten-women-bake-in-one-oven: {label: "Curse: ten women bake bread in one oven and it is doled out by weight", cluster: covenant}
+  tent-and-levites-march-in-center: {label: "The tent and Levite camp march in the middle of the tribal columns", cluster: wilderness}
+  thanksgiving-eaten-same-day: {label: "Thanksgiving offering eaten the same day with nothing left till morning", cluster: cult}
+  three-levite-clans-gershon-kohath-merari: {label: "Levites divided into three clans: Gershon, Kohath and Merari", cluster: lists}
+  threefold-priestly-blessing: {label: "Three-part priestly blessing: bless and keep, shine face, lift face and give peace", cluster: cult}
+  tithe-of-produce-and-herd: {label: "A tenth of the land's produce and of herd and flock is holy to God", cluster: law}
+  tribal-banners-and-signs: {label: "Each tribe camps by its standard with ensigns of its ancestral house", cluster: wilderness}
+  tribal-census-totals: {label: "Census totals given tribe by tribe", cluster: lists}
+  triple-harvest-in-sixth-year: {label: "God promises the sixth year will yield enough for three years", cluster: law}
+  twelve-loaves-showbread: {label: "Twelve loaves in two rows set before God each sabbath with frankincense", cluster: cult}
+  twelve-tribal-chieftains-named: {label: "Twelve tribal leaders listed by name and patronymic", cluster: lists}
+  two-birds-one-killed-one-released: {label: "Two birds: one slaughtered, the other dipped in its blood and set free over the field", cluster: purity}
+  two-sisters-forbidden-as-rival-wives: {label: "A man may not marry his wife's sister as a rival while the wife lives", cluster: law}
+  uncircumcised-heart: {label: "The people's 'uncircumcised heart' must be humbled", cluster: theology}
+  unclean-birds-list: {label: "List of unclean birds (eagle, vulture, raven, owl, stork, hoopoe, bat)", cluster: dietary}
+  unclean-expelled-from-camp: {label: "People with skin disease, discharge or corpse impurity are sent out of the camp", cluster: purity}
+  unclean-priest-barred-from-holy-food: {label: "Priest in a state of impurity may not eat holy food until he washes and the sun sets", cluster: cult}
+  uncut-hair-consecrated: {label: "The consecrated person lets his hair grow uncut as the sign of his vow", cluster: cult}
+  unredeemed-field-becomes-priests-at-jubilee: {label: "A dedicated field not redeemed becomes the priest's holding at the jubilee", cluster: law}
+  voice-from-between-cherubim: {label: "God's voice speaks to Moses from above the ark cover between the two cherubim", cluster: theophany}
+  vowed-person-valuation-by-age-and-sex: {label: "A person vowed to God is valued in silver by age and sex", cluster: law}
+  wages-paid-same-day: {label: "Pay the poor hired worker before sunset", cluster: ethics}
+  wagons-allotted-by-workload: {label: "Wagons and oxen allotted to Levite clans according to their loads", cluster: cult}
+  walled-city-house-redeemable-one-year: {label: "A house in a walled city can be redeemed only within a year and does not return at the jubilee", cluster: law}
+  wave-offering-breast-and-thigh: {label: "The breast and right thigh are waved before God and given to the priests", cluster: cult}
+  weekly-sabbath-rest: {label: "The seventh day is a sabbath of complete rest", cluster: festival}
+  white-hair-sign-of-disease: {label: "Hair turned white in the affected spot is a sign of skin disease", cluster: purity}
+  wholly-white-is-clean: {label: "A person whose skin disease covers the whole body and turns white is declared clean", cluster: purity}
+  wild-beasts-removed-from-land: {label: "Blessing: God removes harmful wild beasts from the land", cluster: covenant}
+  wild-beasts-sent-as-punishment: {label: "Curse: God sends wild beasts to bereave the people", cluster: covenant}
+  wine-permitted-after-vow-ends: {label: "After the vow's completion rite the Nazirite may drink wine", cluster: cult}
+  woman-with-prolonged-bleeding: {label: "Woman with bleeding beyond her menstrual period is unclean all the days of the flow", cluster: purity}
+  womans-hair-unbound-before-god: {label: "Priest unbinds the accused woman's hair before God", cluster: cult}
+  written-curse-dissolved-in-water-drunk: {label: "Written curses are wiped into water that the accused then drinks", cluster: magic}
+  yoke-bars-broken-walk-upright: {label: "God broke the bars of the yoke and made the people walk upright", cluster: exodus}
+units:
+  - id: hb-lev-9-eighth-day-inauguration
+    tradition: judaism
+    title: The eighth day - Aaron's first offerings and the divine fire
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 9:1-24"]
+    tags:
+      - {motif: eighth-day-inauguration, refs: ["Lev 9:1"], note: "After the seven days of ordination"}
+      - {motif: calf-sin-offering-for-high-priest, refs: ["Lev 9:2", "Lev 9:8"], note: "Aaron's own offering is an עֵגֶל, a calf"}
+      - {motif: blood-on-altar-horns, refs: ["Lev 9:9"]}
+      - {motif: fat-kidneys-liver-lobe-burned, refs: ["Lev 9:10", "Lev 9:19"]}
+      - {motif: sin-offering-burned-outside-camp, refs: ["Lev 9:11"]}
+      - {motif: fat-tail-offered, refs: ["Lev 9:19"], note: "הָאַלְיָה"}
+      - {motif: wave-offering-breast-and-thigh, refs: ["Lev 9:21"]}
+      - {motif: priestly-blessing-raised-hands, refs: ["Lev 9:22"]}
+      - {motif: glory-of-god-appears-to-people, refs: ["Lev 9:4", "Lev 9:6", "Lev 9:23"]}
+      - {motif: heavenly-fire-consumes-offering, refs: ["Lev 9:24"]}
+      - {motif: people-shout-and-fall-on-faces, refs: ["Lev 9:24"]}
+    hints:
+      - "Compare 1Kgs 18:38 (Elijah), 2Chr 7:1 (Solomon), Judg 6:21 and 13:20; Quran 3:183 on the demand for an offering consumed by fire."
+  - id: hb-lev-10-nadab-abihu
+    tradition: judaism
+    title: Strange fire - death of Nadab and Abihu; priestly rules
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 10:1-20"]
+    tags:
+      - {motif: strange-fire-deaths, refs: ["Lev 10:1"], note: "אֵשׁ זָרָה אֲשֶׁר לֹא צִוָּה"}
+      - {motif: fire-consumes-offerers, refs: ["Lev 10:2"]}
+      - {motif: god-sanctified-through-those-near, refs: ["Lev 10:3"], note: "בִּקְרֹבַי אֶקָּדֵשׁ"}
+      - {motif: father-silent-at-sons-death, refs: ["Lev 10:3"], note: "וַיִּדֹּם אַהֲרֹן"}
+      - {motif: bodies-carried-out-in-tunics, refs: ["Lev 10:4", "Lev 10:5"], note: "Carried out by cousins Mishael and Elzaphan, in their tunics"}
+      - {motif: priest-forbidden-mourning-rites, refs: ["Lev 10:6", "Lev 10:7"], note: "Not to dishevel hair or rend garments; anointing oil is on them"}
+      - {motif: priests-forbidden-wine-in-sanctuary, refs: ["Lev 10:8", "Lev 10:9"]}
+      - {motif: priests-distinguish-holy-profane-clean-unclean, refs: ["Lev 10:10", "Lev 10:11"]}
+      - {motif: priests-eat-most-holy-portions, refs: ["Lev 10:12", "Lev 10:13", "Lev 10:14", "Lev 10:15"]}
+      - {motif: moses-angry-goat-burned-not-eaten, refs: ["Lev 10:16", "Lev 10:17", "Lev 10:18"], note: "דָּרֹשׁ דָּרַשׁ - Masoretic midpoint of the Torah's words"}
+      - {motif: aaron-mourning-excuses-not-eating, refs: ["Lev 10:19", "Lev 10:20"], note: "Moses accepts Aaron's reply"}
+    hints:
+      - "Rabbinic tradition links 10:9 to the brothers' drunkenness (Lev. Rab. 12). Compare Num 16:35 (Korah's 250 burned) and Greek stories of illicit fire (Prometheus)."
+  - id: hb-lev-11-dietary-laws
+    tradition: judaism
+    title: Clean and unclean animals; carcass impurity
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 11:1-47"]
+    tags:
+      - {motif: clean-unclean-animals-list, refs: ["Lev 11:3"]}
+      - {motif: camel-forbidden, refs: ["Lev 11:4"]}
+      - {motif: hyrax-and-hare-chew-cud, refs: ["Lev 11:5", "Lev 11:6"], note: "Hyrax (שָׁפָן) and hare called cud-chewers"}
+      - {motif: pork-forbidden, refs: ["Lev 11:7", "Lev 11:8"]}
+      - {motif: fins-and-scales-rule, refs: ["Lev 11:9", "Lev 11:10", "Lev 11:11", "Lev 11:12"]}
+      - {motif: unclean-birds-list, refs: ["Lev 11:13", "Lev 11:14", "Lev 11:15", "Lev 11:16", "Lev 11:17", "Lev 11:18", "Lev 11:19"], note: "Includes eagle/vulture, raven, ostrich, owls, stork, hoopoe (דּוּכִיפַת) and bat"}
+      - {motif: hoopoe-named, refs: ["Lev 11:19"]}
+      - {motif: locusts-permitted, refs: ["Lev 11:21", "Lev 11:22"], note: "Four kinds of jumping locust"}
+      - {motif: carcass-impurity-until-evening, refs: ["Lev 11:24", "Lev 11:25", "Lev 11:27", "Lev 11:28", "Lev 11:39", "Lev 11:40"]}
+      - {motif: eight-unclean-swarming-creatures, refs: ["Lev 11:29", "Lev 11:30", "Lev 11:31"], note: "Mole/weasel, mouse, lizards, chameleon"}
+      - {motif: earthenware-vessel-broken-when-defiled, refs: ["Lev 11:33", "Lev 11:35"]}
+      - {motif: moisture-makes-food-susceptible, refs: ["Lev 11:34", "Lev 11:37", "Lev 11:38"]}
+      - {motif: spring-and-cistern-remain-pure, refs: ["Lev 11:36"]}
+      - {motif: creatures-on-belly-forbidden, refs: ["Lev 11:41", "Lev 11:42"], note: "הוֹלֵךְ עַל גָּחוֹן; the Masoretic middle letter of the Torah falls here"}
+      - {motif: be-holy-for-i-am-holy, refs: ["Lev 11:44", "Lev 11:45"]}
+    hints:
+      - "Compare Deut 14; Quran 2:173, 5:3, 6:145 (pig, carrion); Acts 10 (Peter's vision); Zoroastrian classifications of noxious creatures (khrafstra); the hoopoe in Quran 27:20."
+  - id: hb-lev-12-childbirth-impurity
+    tradition: judaism
+    title: Impurity after childbirth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 12:1-8"]
+    tags:
+      - {motif: childbirth-impurity-double-for-daughter, refs: ["Lev 12:2", "Lev 12:4", "Lev 12:5"], note: "Son: 7 + 33 days; daughter: 14 + 66 days"}
+      - {motif: circumcision-eighth-day, refs: ["Lev 12:3"]}
+      - {motif: mother-barred-from-sanctuary-after-birth, refs: ["Lev 12:4"]}
+      - {motif: purification-offering-after-childbirth, refs: ["Lev 12:6", "Lev 12:7"]}
+      - {motif: poor-substitute-two-birds, refs: ["Lev 12:8"], note: "Two turtledoves or two young pigeons"}
+    hints:
+      - "Luke 2:22-24 cites 12:8 for Mary's offering; compare Zoroastrian and Hindu (sutaka) postpartum impurity periods; Islamic nifas (40 days)."
+  - id: hb-lev-13-skin-disease
+    tradition: judaism
+    title: Diagnosis of tsara'at in skin, scalp and fabric
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 13:1-59"]
+    tags:
+      - {motif: priest-diagnoses-skin-disease, refs: ["Lev 13:2", "Lev 13:3"]}
+      - {motif: white-hair-sign-of-disease, refs: ["Lev 13:3", "Lev 13:10", "Lev 13:20", "Lev 13:25"]}
+      - {motif: seven-day-quarantine, refs: ["Lev 13:4", "Lev 13:5", "Lev 13:21", "Lev 13:26", "Lev 13:31", "Lev 13:33", "Lev 13:50", "Lev 13:54"]}
+      - {motif: raw-flesh-sign-of-disease, refs: ["Lev 13:10", "Lev 13:14", "Lev 13:15"]}
+      - {motif: wholly-white-is-clean, refs: ["Lev 13:12", "Lev 13:13"], note: "Paradox: disease covering whole body from head to foot renders him clean"}
+      - {motif: boil-and-burn-scar-cases, refs: ["Lev 13:18", "Lev 13:19", "Lev 13:23", "Lev 13:24", "Lev 13:28"]}
+      - {motif: scalp-or-beard-scall, refs: ["Lev 13:29", "Lev 13:30", "Lev 13:37"], note: "Thin yellow hair unclean; black hair growing means healed"}
+      - {motif: baldness-is-clean, refs: ["Lev 13:40", "Lev 13:41"]}
+      - {motif: leper-torn-clothes-cry-unclean, refs: ["Lev 13:45"], note: "Torn garments, loose hair, covers upper lip, cries טָמֵא טָמֵא"}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["Lev 13:46"]}
+      - {motif: mold-in-garments, refs: ["Lev 13:47", "Lev 13:48", "Lev 13:49", "Lev 13:51", "Lev 13:52", "Lev 13:55", "Lev 13:57"], note: "Greenish or reddish; spreading ('malignant', מַמְאֶרֶת) item burned"}
+    hints:
+      - "Compare Num 12 (Miriam), 2Kgs 5 (Naaman), 2Chr 26:19-21 (Uzziah); Mark 1:40-44 ('show yourself to the priest'); Quran 3:49 and 5:110 (Jesus heals the leper, al-abras)."
+  - id: hb-lev-14-leper-purification-house-mold
+    tradition: judaism
+    title: Purification of the healed leper; plague in houses
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 14:1-57"]
+    tags:
+      - {motif: priest-goes-outside-camp-to-inspect, refs: ["Lev 14:3"]}
+      - {motif: two-birds-one-killed-one-released, refs: ["Lev 14:4", "Lev 14:5", "Lev 14:6", "Lev 14:7", "Lev 14:49", "Lev 14:50", "Lev 14:51", "Lev 14:52", "Lev 14:53"], note: "Live bird dipped in blood of slain bird and sent off over the open field"}
+      - {motif: cedar-hyssop-scarlet, refs: ["Lev 14:4", "Lev 14:6", "Lev 14:49", "Lev 14:51"]}
+      - {motif: blood-over-living-water-in-earthen-vessel, refs: ["Lev 14:5", "Lev 14:50"], note: "מַיִם חַיִּים"}
+      - {motif: sevenfold-sprinkling, refs: ["Lev 14:7", "Lev 14:16", "Lev 14:27", "Lev 14:51"]}
+      - {motif: shaving-all-hair-for-purification, refs: ["Lev 14:8", "Lev 14:9"], note: "Head, beard, eyebrows, all hair"}
+      - {motif: blood-on-right-ear-thumb-toe, refs: ["Lev 14:14", "Lev 14:17", "Lev 14:25", "Lev 14:28"], note: "Same as priestly ordination rite; oil placed over the blood"}
+      - {motif: oil-poured-on-head, refs: ["Lev 14:18", "Lev 14:29"]}
+      - {motif: poor-substitute-two-birds, refs: ["Lev 14:21", "Lev 14:22", "Lev 14:30", "Lev 14:31", "Lev 14:32"]}
+      - {motif: god-sends-plague-on-houses, refs: ["Lev 14:34"], note: "וְנָתַתִּי נֶגַע צָרַעַת - God himself puts the mark in houses in Canaan"}
+      - {motif: house-emptied-before-inspection, refs: ["Lev 14:36"]}
+      - {motif: infected-stones-removed-to-unclean-place, refs: ["Lev 14:40", "Lev 14:41", "Lev 14:42", "Lev 14:45"]}
+      - {motif: house-demolished-if-plague-returns, refs: ["Lev 14:43", "Lev 14:44", "Lev 14:45"]}
+    hints:
+      - "The bird released over the field parallels the scapegoat (Lev 16) and Mesopotamian/Hittite elimination rites carrying impurity away on a living animal; rabbinic tradition (Arakhin 16a) links tsara'at to slander."
+  - id: hb-lev-15-genital-discharges
+    tradition: judaism
+    title: Impurity of bodily discharges, semen and menstruation
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 15:1-33"]
+    tags:
+      - {motif: male-discharge-impurity, refs: ["Lev 15:2", "Lev 15:3"]}
+      - {motif: impurity-transmitted-by-bed-and-seat, refs: ["Lev 15:4", "Lev 15:5", "Lev 15:6", "Lev 15:9", "Lev 15:10", "Lev 15:20", "Lev 15:21", "Lev 15:22", "Lev 15:23", "Lev 15:26"], note: "Includes the saddle (מֶרְכָּב) he rides on"}
+      - {motif: spittle-transmits-impurity, refs: ["Lev 15:8"]}
+      - {motif: rinsing-hands-prevents-transmission, refs: ["Lev 15:11"]}
+      - {motif: earthenware-vessel-broken-when-defiled, refs: ["Lev 15:12"]}
+      - {motif: seven-clean-days-and-living-water, refs: ["Lev 15:13", "Lev 15:28"]}
+      - {motif: poor-substitute-two-birds, refs: ["Lev 15:14", "Lev 15:29"], note: "Here the standard offering, not a concession"}
+      - {motif: seminal-emission-impurity-until-evening, refs: ["Lev 15:16", "Lev 15:17", "Lev 15:18"], note: "Intercourse renders both partners unclean until evening"}
+      - {motif: menstrual-impurity-seven-days, refs: ["Lev 15:19", "Lev 15:24"], note: "Man who lies with her is unclean seven days"}
+      - {motif: woman-with-prolonged-bleeding, refs: ["Lev 15:25", "Lev 15:26", "Lev 15:27"]}
+      - {motif: impurity-defiles-dwelling-of-god, refs: ["Lev 15:31"]}
+    hints:
+      - "The woman with an issue of blood (Mark 5:25-34) presupposes 15:25; compare Quran 2:222 on menstruation (adhan), Islamic ghusl after janaba, Zoroastrian Vendidad 16 on menstruants."
+  - id: hb-lev-16-day-of-atonement
+    tradition: judaism
+    title: The Day of Atonement and the goat for Azazel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 16:1-34"]
+    tags:
+      - {motif: high-priest-enters-holy-of-holies-once-a-year, refs: ["Lev 16:2", "Lev 16:34"]}
+      - {motif: god-appears-in-cloud-over-ark-cover, refs: ["Lev 16:2"]}
+      - {motif: high-priest-wears-plain-linen, refs: ["Lev 16:4", "Lev 16:23", "Lev 16:32"]}
+      - {motif: lots-cast-over-two-goats, refs: ["Lev 16:8"], note: "One for YHWH, one לַעֲזָאזֵל"}
+      - {motif: azazel-named, refs: ["Lev 16:8", "Lev 16:10", "Lev 16:26"]}
+      - {motif: incense-cloud-shields-priest-from-death, refs: ["Lev 16:12", "Lev 16:13"]}
+      - {motif: sevenfold-sprinkling, refs: ["Lev 16:14", "Lev 16:15", "Lev 16:19"]}
+      - {motif: purging-sanctuary-of-impurities, refs: ["Lev 16:16", "Lev 16:18", "Lev 16:19", "Lev 16:20", "Lev 16:33"]}
+      - {motif: no-one-in-tent-during-atonement, refs: ["Lev 16:17"]}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["Lev 16:10", "Lev 16:21", "Lev 16:22"], note: "Two hands on head, confession, sent with an אִישׁ עִתִּי to a 'cut-off land' (אֶרֶץ גְּזֵרָה)"}
+      - {motif: confession-of-sins-over-animal, refs: ["Lev 16:21"]}
+      - {motif: handler-of-scapegoat-washes, refs: ["Lev 16:26", "Lev 16:28"]}
+      - {motif: sin-offering-burned-outside-camp, refs: ["Lev 16:27"]}
+      - {motif: day-of-atonement-tenth-of-seventh-month, refs: ["Lev 16:29", "Lev 16:30", "Lev 16:31"], note: "Afflict your souls; sabbath of sabbaths; applies also to the resident alien"}
+    hints:
+      - "Azazel appears as a fallen angel in 1 Enoch 8-10 (Asael), Apocalypse of Abraham 13-14; Mishnah Yoma 6 (goat pushed off a cliff, scarlet thread turning white); Hebrews 9; Greek pharmakos and Hittite/Babylonian elimination rites (Ashella, akitu kuppuru with sheep carcass); Ashura fasting on the 10th of Muharram in Islamic tradition."
+  - id: hb-lev-17-blood-and-slaughter
+    tradition: judaism
+    title: Slaughter only at the tent; the blood is the life
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 17:1-16"]
+    tags:
+      - {motif: slaughter-only-at-sanctuary, refs: ["Lev 17:3", "Lev 17:4", "Lev 17:5", "Lev 17:8", "Lev 17:9"], note: "Slaughter elsewhere is 'reckoned as blood' to the man"}
+      - {motif: sacrifice-to-goat-demons-forbidden, refs: ["Lev 17:7"], note: "לַשְּׂעִירִם - satyrs/goat-demons of the field"}
+      - {motif: blood-prohibition-life-in-blood, refs: ["Lev 17:10", "Lev 17:11", "Lev 17:12", "Lev 17:14"], note: "נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא"}
+      - {motif: blood-given-for-atonement, refs: ["Lev 17:11"]}
+      - {motif: hunted-animal-blood-covered-with-earth, refs: ["Lev 17:13"]}
+      - {motif: eating-carrion-requires-washing, refs: ["Lev 17:15", "Lev 17:16"], note: "נְבֵלָה וּטְרֵפָה"}
+      - {motif: law-binds-resident-alien, refs: ["Lev 17:8", "Lev 17:10", "Lev 17:12", "Lev 17:13", "Lev 17:15"]}
+      - {motif: karet-penalty, refs: ["Lev 17:4", "Lev 17:9", "Lev 17:10", "Lev 17:14"]}
+    hints:
+      - "Acts 15:20, 29 (apostolic decree: abstain from blood and things strangled) applies these alien-binding laws to gentiles; Noahide prohibition Gen 9:4; Quran 2:173, 5:3 (blood, carrion, al-munkhaniqa); Hebrews 9:22."
+  - id: hb-lev-18-forbidden-unions
+    tradition: judaism
+    title: Forbidden sexual unions; the land vomits out its inhabitants
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 18:1-30"]
+    tags:
+      - {motif: do-not-follow-egypt-and-canaan, refs: ["Lev 18:3"]}
+      - {motif: live-by-the-commandments, refs: ["Lev 18:5"], note: "וָחַי בָּהֶם"}
+      - {motif: incest-prohibitions-list, refs: ["Lev 18:6", "Lev 18:7", "Lev 18:8", "Lev 18:9", "Lev 18:10", "Lev 18:11", "Lev 18:12", "Lev 18:13", "Lev 18:14", "Lev 18:15", "Lev 18:16", "Lev 18:17"], note: "Uncovering nakedness formula"}
+      - {motif: brothers-wife-forbidden, refs: ["Lev 18:16"]}
+      - {motif: two-sisters-forbidden-as-rival-wives, refs: ["Lev 18:18"], note: "Contrasts with Jacob's marriage to Leah and Rachel"}
+      - {motif: intercourse-during-menstruation-forbidden, refs: ["Lev 18:19"]}
+      - {motif: adultery-prohibited, refs: ["Lev 18:20"]}
+      - {motif: child-passed-to-molech, refs: ["Lev 18:21"]}
+      - {motif: male-intercourse-forbidden, refs: ["Lev 18:22"]}
+      - {motif: bestiality-forbidden, refs: ["Lev 18:23"], note: "Woman as well as man; תֶּבֶל"}
+      - {motif: land-vomits-out-inhabitants, refs: ["Lev 18:25", "Lev 18:28"]}
+    hints:
+      - "Quran 4:22-23 lists forbidden degrees (including two sisters together and father's wife); Paul cites 18:5 (Rom 10:5, Gal 3:12); 1Cor 5:1; Mark 6:18 (Herod and his brother's wife); Zoroastrian xwaetwadatha (next-of-kin marriage) as the opposite pole."
+  - id: hb-lev-19-holiness-code-a
+    tradition: judaism
+    title: Be holy - ethical laws and love of neighbor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 19:1-18"]
+    tags:
+      - {motif: be-holy-for-i-am-holy, refs: ["Lev 19:2"]}
+      - {motif: revere-mother-and-father, refs: ["Lev 19:3"], note: "Mother named first"}
+      - {motif: idols-called-elilim, refs: ["Lev 19:4"], note: "אֱלִילִים, 'nothings'"}
+      - {motif: leftover-sacrifice-third-day-abomination, refs: ["Lev 19:6", "Lev 19:7", "Lev 19:8"], note: "פִּגּוּל"}
+      - {motif: gleanings-and-corners-left-for-poor, refs: ["Lev 19:9", "Lev 19:10"]}
+      - {motif: wages-paid-same-day, refs: ["Lev 19:13"]}
+      - {motif: no-stumbling-block-before-blind, refs: ["Lev 19:14"], note: "Nor curse the deaf"}
+      - {motif: impartial-judgment-neither-poor-nor-great, refs: ["Lev 19:15"]}
+      - {motif: talebearing-forbidden, refs: ["Lev 19:16"]}
+      - {motif: do-not-stand-by-neighbors-blood, refs: ["Lev 19:16"]}
+      - {motif: rebuke-neighbor-not-hate-in-heart, refs: ["Lev 19:17"]}
+      - {motif: love-neighbor-as-yourself, refs: ["Lev 19:18"]}
+      - {motif: no-revenge-or-grudge, refs: ["Lev 19:18"]}
+    hints:
+      - "19:18 quoted by Jesus (Mark 12:31), Paul (Rom 13:9, Gal 5:14), James 2:8; Hillel's negative Golden Rule (Shabbat 31a); Akiva calls it the great principle (Sifra); compare Confucian shu (Analects 15:24), Mahabharata 13.114.8; Quran 2:177 and Ruth 2 for gleanings."
+  - id: hb-lev-19-holiness-code-b
+    tradition: judaism
+    title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 19:19-37"]
+    tags:
+      - {motif: forbidden-mixtures-kilayim, refs: ["Lev 19:19"], note: "Animals, seeds and שַׁעַטְנֵז cloth"}
+      - {motif: shaatnez-wool-linen, refs: ["Lev 19:19"]}
+      - {motif: betrothed-slave-woman-case, refs: ["Lev 19:20", "Lev 19:21", "Lev 19:22"], note: "בִּקֹּרֶת - inquiry; not put to death because she was not free"}
+      - {motif: fruit-trees-uncircumcised-three-years, refs: ["Lev 19:23", "Lev 19:24", "Lev 19:25"], note: "Fourth year holy, fifth year eaten"}
+      - {motif: divination-and-soothsaying-forbidden, refs: ["Lev 19:26", "Lev 19:31"], note: "נחש, ענן, אֹבוֹת and יִדְּעֹנִים"}
+      - {motif: corners-of-head-and-beard-not-cut, refs: ["Lev 19:27"]}
+      - {motif: cuttings-for-dead-and-tattoos-forbidden, refs: ["Lev 19:28"], note: "כְּתֹבֶת קַעֲקַע"}
+      - {motif: daughter-not-made-prostitute, refs: ["Lev 19:29"]}
+      - {motif: rise-before-the-aged, refs: ["Lev 19:32"]}
+      - {motif: love-the-stranger-for-you-were-strangers, refs: ["Lev 19:33", "Lev 19:34"]}
+      - {motif: just-weights-and-measures, refs: ["Lev 19:35", "Lev 19:36"]}
+    hints:
+      - "Peot (side-locks) custom from 19:27; Deut 22:9-11 parallels on mixtures; Quran 83:1-3 and 55:9 on just measure; Egyptian Book of the Dead 125 ('I have not diminished the bushel'); tattoo prohibition vs. hadith cursing al-washima."
+  - id: hb-lev-20-penalties
+    tradition: judaism
+    title: Penalties for Molech worship, necromancy and sexual offenses
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 20:1-27"]
+    tags:
+      - {motif: child-passed-to-molech, refs: ["Lev 20:2", "Lev 20:3", "Lev 20:4", "Lev 20:5"], note: "Stoning by the people of the land; God cuts off those who look away"}
+      - {motif: stoning-penalty, refs: ["Lev 20:2", "Lev 20:27"]}
+      - {motif: divination-and-soothsaying-forbidden, refs: ["Lev 20:6", "Lev 20:27"], note: "Medium (אוֹב) and wizard put to death"}
+      - {motif: curser-of-parents-executed, refs: ["Lev 20:9"]}
+      - {motif: adultery-capital-both-parties, refs: ["Lev 20:10"]}
+      - {motif: burning-penalty, refs: ["Lev 20:14"], note: "Man who takes a woman and her mother: all three burned"}
+      - {motif: animal-killed-with-offender, refs: ["Lev 20:15", "Lev 20:16"]}
+      - {motif: male-intercourse-forbidden, refs: ["Lev 20:13"]}
+      - {motif: sibling-incest-called-hesed, refs: ["Lev 20:17"], note: "חֶסֶד הוּא - word normally 'kindness' used for disgrace"}
+      - {motif: intercourse-during-menstruation-forbidden, refs: ["Lev 20:18"], note: "'He has laid bare her fountain'"}
+      - {motif: childlessness-as-penalty, refs: ["Lev 20:20", "Lev 20:21"], note: "עֲרִירִים"}
+      - {motif: land-vomits-out-inhabitants, refs: ["Lev 20:22"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Lev 20:24"]}
+      - {motif: israel-separated-from-peoples, refs: ["Lev 20:24", "Lev 20:25", "Lev 20:26"], note: "Separation of peoples mirrors separation of clean/unclean animals"}
+    hints:
+      - "John 8:5 (woman taken in adultery) invokes 20:10; rabbinic sages derive four modes of execution; Rabbinic Molech interpretation (passing through fire, Sanhedrin 64b) vs. Punic molk child sacrifice at Carthage tophet."
+  - id: hb-lev-21-priestly-holiness
+    tradition: judaism
+    title: Priests' mourning and marriage limits; blemished priests
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 21:1-24"]
+    tags:
+      - {motif: priest-avoids-corpse-except-close-kin, refs: ["Lev 21:1", "Lev 21:2", "Lev 21:3", "Lev 21:4"], note: "Includes virgin sister; not wife explicitly"}
+      - {motif: priest-forbidden-mourning-rites, refs: ["Lev 21:5", "Lev 21:10"], note: "No bald patch, shaving beard corners, or gashes"}
+      - {motif: offering-as-gods-food, refs: ["Lev 21:6", "Lev 21:8", "Lev 21:17", "Lev 21:21", "Lev 21:22"], note: "לֶחֶם אֱלֹהָיו"}
+      - {motif: priest-marriage-restrictions, refs: ["Lev 21:7", "Lev 21:13", "Lev 21:14"], note: "No harlot, profaned or divorced woman; high priest only a virgin of his people"}
+      - {motif: burning-penalty, refs: ["Lev 21:9"], note: "Priest's daughter who prostitutes herself is burned"}
+      - {motif: high-priest-avoids-even-parents-corpse, refs: ["Lev 21:11", "Lev 21:12"]}
+      - {motif: blemished-priest-barred-from-altar, refs: ["Lev 21:17", "Lev 21:18", "Lev 21:19", "Lev 21:20", "Lev 21:21", "Lev 21:23"], note: "Blind, lame, mutilated face, overgrown limb, hunchback, dwarf, eye defect, scabs, crushed testicle"}
+      - {motif: blemished-priest-may-eat-holy-food, refs: ["Lev 21:22"]}
+    hints:
+      - "Compare Ezek 44:20-25; the Roman flamen Dialis and Vestal rules; Hindu bodily qualifications for Brahmin officiants (Manu 3.150ff); Qumran exclusion of the blemished from the congregation (1QSa 2)."
+  - id: hb-lev-22-holy-food-and-unblemished-victims
+    tradition: judaism
+    title: Who may eat holy food; unblemished sacrificial animals
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 22:1-33"]
+    tags:
+      - {motif: unclean-priest-barred-from-holy-food, refs: ["Lev 22:3", "Lev 22:4", "Lev 22:5", "Lev 22:6", "Lev 22:7"]}
+      - {motif: purity-at-sunset, refs: ["Lev 22:7"], note: "וּבָא הַשֶּׁמֶשׁ וְטָהֵר"}
+      - {motif: eating-carrion-requires-washing, refs: ["Lev 22:8"], note: "Here forbidden to priests"}
+      - {motif: priests-slave-eats-but-hired-man-does-not, refs: ["Lev 22:10", "Lev 22:11"]}
+      - {motif: priests-daughter-returns-to-fathers-table, refs: ["Lev 22:12", "Lev 22:13"]}
+      - {motif: restitution-plus-one-fifth, refs: ["Lev 22:14"]}
+      - {motif: blemished-animal-not-sacrificed, refs: ["Lev 22:19", "Lev 22:20", "Lev 22:21", "Lev 22:22"]}
+      - {motif: overgrown-limb-allowed-for-freewill-only, refs: ["Lev 22:23"]}
+      - {motif: castration-of-animals-forbidden, refs: ["Lev 22:24"], note: "Crushed, bruised, torn, cut; 'nor shall you do this in your land'"}
+      - {motif: no-offerings-from-foreigner-blemished, refs: ["Lev 22:25"]}
+      - {motif: newborn-animal-seven-days-with-mother, refs: ["Lev 22:27"]}
+      - {motif: mother-and-young-not-same-day, refs: ["Lev 22:28"]}
+      - {motif: thanksgiving-eaten-same-day, refs: ["Lev 22:29", "Lev 22:30"]}
+      - {motif: sanctification-of-gods-name, refs: ["Lev 22:32"], note: "וְנִקְדַּשְׁתִּי - basis of qiddush ha-shem"}
+    hints:
+      - "Mal 1:8 (blind and lame offered); Deut 22:6-7 (mother bird); Quran 2:67-71 on the specifications of the sacrificial cow; Islamic udhiya defects (one-eyed, lame, sick, emaciated) in hadith."
+  - id: hb-lev-23-festival-calendar
+    tradition: judaism
+    title: The appointed times - sabbath and annual festivals
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 23:1-44"]
+    tags:
+      - {motif: weekly-sabbath-rest, refs: ["Lev 23:3"]}
+      - {motif: festival-sacrificial-calendar, refs: ["Lev 23:4", "Lev 23:37", "Lev 23:38", "Lev 23:44"]}
+      - {motif: passover-fourteenth-at-twilight, refs: ["Lev 23:5"], note: "בֵּין הָעַרְבָּיִם"}
+      - {motif: seven-days-unleavened-bread, refs: ["Lev 23:6", "Lev 23:7", "Lev 23:8"]}
+      - {motif: first-sheaf-omer-waved, refs: ["Lev 23:10", "Lev 23:11", "Lev 23:12"], note: "On the morrow after the sabbath - basis of Pharisee/Sadducee/Qumran dating dispute"}
+      - {motif: new-grain-forbidden-before-offering, refs: ["Lev 23:14"], note: "Bread, parched grain and fresh ears"}
+      - {motif: fifty-day-count-to-weeks-festival, refs: ["Lev 23:15", "Lev 23:16", "Lev 23:21"]}
+      - {motif: leavened-firstfruit-loaves, refs: ["Lev 23:17", "Lev 23:20"], note: "Unusually, leavened bread offered"}
+      - {motif: gleanings-and-corners-left-for-poor, refs: ["Lev 23:22"]}
+      - {motif: day-of-trumpet-blasts, refs: ["Lev 23:24", "Lev 23:25"], note: "זִכְרוֹן תְּרוּעָה on 1st of 7th month"}
+      - {motif: day-of-atonement-tenth-of-seventh-month, refs: ["Lev 23:27", "Lev 23:28", "Lev 23:29", "Lev 23:30", "Lev 23:31", "Lev 23:32"], note: "Evening to evening from the ninth"}
+      - {motif: day-reckoned-evening-to-evening, refs: ["Lev 23:32"]}
+      - {motif: booths-festival-seven-days, refs: ["Lev 23:34", "Lev 23:39", "Lev 23:41", "Lev 23:42", "Lev 23:43"], note: "Dwelling in booths recalls wilderness"}
+      - {motif: eighth-day-solemn-assembly, refs: ["Lev 23:36", "Lev 23:39"], note: "עֲצֶרֶת"}
+      - {motif: four-species-taken, refs: ["Lev 23:40"], note: "Fruit of hadar tree, palm fronds, leafy boughs, willows of the brook"}
+    hints:
+      - "John 7:37 and the Hoshana Rabbah water/willow rites; Acts 2 (Pentecost); Jubilees and Qumran 364-day calendar dispute about 'morrow of the sabbath'; Babylonian akitu new-year festival in Nisan/Tishri; palm branches in John 12:13 and Rev 7:9."
+  - id: hb-lev-24-lamp-bread-blasphemer
+    tradition: judaism
+    title: Perpetual lamp, showbread, and the blasphemer stoned
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 24:1-23"]
+    tags:
+      - {motif: perpetual-lamp-pure-olive-oil, refs: ["Lev 24:2", "Lev 24:3", "Lev 24:4"], note: "Beaten oil, evening to morning"}
+      - {motif: twelve-loaves-showbread, refs: ["Lev 24:5", "Lev 24:6", "Lev 24:7", "Lev 24:8", "Lev 24:9"], note: "Two rows of six, frankincense as memorial, renewed each sabbath"}
+      - {motif: son-of-mixed-marriage-blasphemes, refs: ["Lev 24:10", "Lev 24:11"], note: "Son of Shelomith daughter of Dibri of Dan and an Egyptian man"}
+      - {motif: pronouncing-the-name-capital, refs: ["Lev 24:11", "Lev 24:16"], note: "וַיִּקֹּב ... אֶת הַשֵּׁם - 'the Name' used absolutely"}
+      - {motif: offender-held-until-oracle-decides, refs: ["Lev 24:12"]}
+      - {motif: hearers-lay-hands-on-blasphemer, refs: ["Lev 24:14"]}
+      - {motif: stoning-penalty, refs: ["Lev 24:14", "Lev 24:16", "Lev 24:23"]}
+      - {motif: eye-for-eye, refs: ["Lev 24:19", "Lev 24:20"]}
+      - {motif: life-for-life-animal-compensation, refs: ["Lev 24:17", "Lev 24:18", "Lev 24:21"]}
+      - {motif: one-law-for-alien-and-citizen, refs: ["Lev 24:16", "Lev 24:22"]}
+    hints:
+      - "Matt 5:38 ('eye for eye'); Code of Hammurabi 196-200; Quran 5:45 (life for life, eye for eye); Mark 2:26 (David eats showbread); Mishnah Sanhedrin 7:5 on the blasphemer and the Name; Num 15:32-36 parallel case held 'until it be declared'."
+  - id: hb-lev-25-sabbatical-and-jubilee
+    tradition: judaism
+    title: Sabbatical year and the jubilee; the land is mine
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 25:1-24"]
+    tags:
+      - {motif: law-given-on-mount-sinai, refs: ["Lev 25:1"]}
+      - {motif: sabbatical-year-land-rests, refs: ["Lev 25:2", "Lev 25:3", "Lev 25:4", "Lev 25:5"], note: "Untrimmed vine called נָזִיר, 'Nazirite'"}
+      - {motif: fallow-produce-shared-with-animals-and-poor, refs: ["Lev 25:6", "Lev 25:7"]}
+      - {motif: jubilee-fiftieth-year, refs: ["Lev 25:8", "Lev 25:10", "Lev 25:11", "Lev 25:12", "Lev 25:13"], note: "Seven weeks of years = 49"}
+      - {motif: shofar-sounded-on-atonement-day, refs: ["Lev 25:9"]}
+      - {motif: proclaim-liberty-throughout-the-land, refs: ["Lev 25:10"], note: "דְּרוֹר - cognate of Akkadian andurāru"}
+      - {motif: land-returns-to-ancestral-owner, refs: ["Lev 25:10", "Lev 25:13"]}
+      - {motif: price-by-years-to-jubilee, refs: ["Lev 25:14", "Lev 25:15", "Lev 25:16", "Lev 25:17"], note: "You sell only the number of harvests"}
+      - {motif: triple-harvest-in-sixth-year, refs: ["Lev 25:20", "Lev 25:21", "Lev 25:22"]}
+      - {motif: land-belongs-to-god-israel-sojourners, refs: ["Lev 25:23"], note: "כִּי לִי הָאָרֶץ כִּי גֵרִים וְתוֹשָׁבִים אַתֶּם עִמָּדִי"}
+    hints:
+      - "Liberty Bell inscription (25:10); Mesopotamian mīšarum/andurāru royal debt-release edicts; Isa 61:1-2 and Luke 4:18-19; 2Chr 36:21 links exile to unkept sabbaths; Jubilees' chronology of jubilee periods; Daniel 9's seventy weeks."
+  - id: hb-lev-25-redemption-usury-slavery
+    tradition: judaism
+    title: Redemption of land, interest-free loans, and Israelite bondmen
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 25:25-55"]
+    tags:
+      - {motif: land-returns-to-ancestral-owner, refs: ["Lev 25:27", "Lev 25:28", "Lev 25:41"]}
+      - {motif: kinsman-redeemer, refs: ["Lev 25:25", "Lev 25:48", "Lev 25:49"], note: "גֹּאֵל - brother, uncle, cousin, any blood relation"}
+      - {motif: walled-city-house-redeemable-one-year, refs: ["Lev 25:29", "Lev 25:30"], note: "Exempt from jubilee; unwalled villages count as fields"}
+      - {motif: levite-cities-perpetual-redemption, refs: ["Lev 25:32", "Lev 25:33", "Lev 25:34"]}
+      - {motif: interest-forbidden-to-brother, refs: ["Lev 25:35", "Lev 25:36", "Lev 25:37"], note: "נֶשֶׁךְ וְתַרְבִּית"}
+      - {motif: israelite-bondman-as-hired-worker, refs: ["Lev 25:39", "Lev 25:40", "Lev 25:41", "Lev 25:53"]}
+      - {motif: israelites-are-gods-slaves, refs: ["Lev 25:42", "Lev 25:55"]}
+      - {motif: no-ruling-with-rigor, refs: ["Lev 25:43", "Lev 25:46", "Lev 25:53"], note: "בְּפָרֶךְ - same word as Egyptian oppression Exod 1:13"}
+      - {motif: perpetual-slaves-from-nations, refs: ["Lev 25:44", "Lev 25:45", "Lev 25:46"]}
+      - {motif: redemption-from-alien-master, refs: ["Lev 25:47", "Lev 25:50", "Lev 25:51", "Lev 25:52", "Lev 25:54"]}
+    hints:
+      - "Ruth 4 and Jer 32 (redemption of land by kin); Quran 2:275-279 (riba); Deut 23:20 permits interest to foreigners; Neh 5; Christian medieval usury debates relied on 25:36-37."
+  - id: hb-lev-26-blessings
+    tradition: judaism
+    title: Covenant blessings for obedience
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 26:1-13"]
+    tags:
+      - {motif: no-figured-stone-for-prostration, refs: ["Lev 26:1"], note: "אֶבֶן מַשְׂכִּית, מַצֵּבָה, פֶסֶל"}
+      - {motif: rain-in-its-season-blessing, refs: ["Lev 26:4", "Lev 26:5"], note: "Threshing overtakes vintage"}
+      - {motif: wild-beasts-removed-from-land, refs: ["Lev 26:6"]}
+      - {motif: five-chase-a-hundred, refs: ["Lev 26:8"], note: "Five chase 100, 100 chase 10,000"}
+      - {motif: god-walks-among-people, refs: ["Lev 26:11", "Lev 26:12"], note: "וְהִתְהַלַּכְתִּי בְּתוֹכְכֶם - same verb as Eden Gen 3:8"}
+      - {motif: covenant-formula-your-god-my-people, refs: ["Lev 26:12"]}
+      - {motif: yoke-bars-broken-walk-upright, refs: ["Lev 26:13"], note: "קוֹמְמִיּוּת"}
+    hints:
+      - "2Cor 6:16 quotes 26:12; Deut 32:30 and Josh 23:10 (one chases a thousand); Quran 8:65-66 (twenty steadfast overcome two hundred); Assyrian treaty blessings."
+  - id: hb-lev-26-curses
+    tradition: judaism
+    title: Covenant curses, exile, and remembered covenant
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 26:14-46"]
+    tags:
+      - {motif: covenant-curses-escalating-sevenfold, refs: ["Lev 26:18", "Lev 26:21", "Lev 26:24", "Lev 26:28"]}
+      - {motif: covenant-curses-catalogue, refs: ["Lev 26:16", "Lev 26:17", "Lev 26:19", "Lev 26:20", "Lev 26:22", "Lev 26:25", "Lev 26:26", "Lev 26:29", "Lev 26:30", "Lev 26:31", "Lev 26:32", "Lev 26:33"]}
+      - {motif: disease-consumption-and-fever, refs: ["Lev 26:16"]}
+      - {motif: flee-when-none-pursues, refs: ["Lev 26:17", "Lev 26:36", "Lev 26:37"], note: "Chased by the sound of a driven leaf"}
+      - {motif: sky-as-iron-earth-as-bronze, refs: ["Lev 26:19"]}
+      - {motif: wild-beasts-sent-as-punishment, refs: ["Lev 26:22"]}
+      - {motif: god-walks-contrary-qeri, refs: ["Lev 26:21", "Lev 26:24", "Lev 26:27", "Lev 26:28", "Lev 26:40", "Lev 26:41"], note: "קֶרִי - 'hostility/chance'"}
+      - {motif: ten-women-bake-in-one-oven, refs: ["Lev 26:26"], note: "Staff of bread broken; bread rationed by weight"}
+      - {motif: cannibalism-in-siege, refs: ["Lev 26:29"]}
+      - {motif: corpses-on-idols-carcasses, refs: ["Lev 26:30"], note: "חַמָּנִים incense altars, גִּלּוּלִים idols"}
+      - {motif: god-refuses-to-smell-offerings, refs: ["Lev 26:31"]}
+      - {motif: scattering-among-nations, refs: ["Lev 26:33", "Lev 26:38"]}
+      - {motif: land-repays-its-sabbaths-in-exile, refs: ["Lev 26:34", "Lev 26:35", "Lev 26:43"]}
+      - {motif: uncircumcised-heart, refs: ["Lev 26:41"]}
+      - {motif: exiles-confess-sins-of-fathers, refs: ["Lev 26:40"]}
+      - {motif: god-remembers-patriarchal-covenant, refs: ["Lev 26:42", "Lev 26:44", "Lev 26:45"], note: "Order reversed: Jacob, Isaac, Abraham; 'and the land I will remember'"}
+    hints:
+      - "Deut 28 parallel curses; 2Kgs 6:28-29 and Lam 4:10 (siege cannibalism); Vassal Treaties of Esarhaddon (sky of bronze, earth of iron, §63-64); 2Chr 36:21; Jer 4:4 and Rom 2:29 (circumcised heart); Quran 2:88 and 4:155 'our hearts are wrapped' (ghulf)."
+  - id: hb-lev-27-vows-valuations-devoted-things
+    tradition: judaism
+    title: Valuation of vowed persons, animals, houses, fields; herem and tithes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 27:1-34"]
+    tags:
+      - {motif: vowed-person-valuation-by-age-and-sex, refs: ["Lev 27:2", "Lev 27:3", "Lev 27:4", "Lev 27:5", "Lev 27:6", "Lev 27:7"], note: "Male 20-60: 50 shekels; female 30; scaled for children and the aged"}
+      - {motif: poor-vower-assessed-by-means, refs: ["Lev 27:8"]}
+      - {motif: no-substitution-of-vowed-animal, refs: ["Lev 27:10", "Lev 27:33"], note: "If exchanged, both become holy"}
+      - {motif: restitution-plus-one-fifth, refs: ["Lev 27:13", "Lev 27:15", "Lev 27:19", "Lev 27:27", "Lev 27:31"], note: "Redeemer adds a fifth"}
+      - {motif: field-valued-by-seed-sown, refs: ["Lev 27:16", "Lev 27:17", "Lev 27:18"], note: "A homer of barley seed = 50 shekels"}
+      - {motif: unredeemed-field-becomes-priests-at-jubilee, refs: ["Lev 27:20", "Lev 27:21"]}
+      - {motif: shekel-of-twenty-gerahs, refs: ["Lev 27:25"]}
+      - {motif: firstborn-animal-cannot-be-vowed, refs: ["Lev 27:26"]}
+      - {motif: devoted-thing-herem-irredeemable, refs: ["Lev 27:28", "Lev 27:29"], note: "A devoted human 'shall surely be put to death'"}
+      - {motif: tithe-of-produce-and-herd, refs: ["Lev 27:30", "Lev 27:31", "Lev 27:32"]}
+      - {motif: every-tenth-under-the-rod, refs: ["Lev 27:32"], note: "Animals counted passing under the shepherd's staff"}
+    hints:
+      - "Judg 11 (Jephthah's vow) and 1Sam 14:24-45 against 27:29; Matt 26:15 thirty pieces of silver vs. female valuation and Exod 21:32; Mishnah Arakhin; Quran 5:1 and 22:29 on fulfilling vows; Greek dekate tithes to Apollo."
+  - id: hb-num-1-first-census
+    tradition: judaism
+    title: The census of fighting men in the wilderness of Sinai
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 1:1-54"]
+    tags:
+      - {motif: dated-divine-speech-in-tent, refs: ["Num 1:1"], note: "1st of 2nd month, 2nd year after exodus"}
+      - {motif: census-of-men-twenty-and-up, refs: ["Num 1:2", "Num 1:3", "Num 1:18", "Num 1:20"], note: "'By their skulls' (לְגֻלְגְּלֹתָם)"}
+      - {motif: twelve-tribal-chieftains-named, refs: ["Num 1:4", "Num 1:5", "Num 1:6", "Num 1:7", "Num 1:8", "Num 1:9", "Num 1:10", "Num 1:11", "Num 1:12", "Num 1:13", "Num 1:14", "Num 1:15", "Num 1:16", "Num 1:44"], note: "Theophoric names with Shaddai and Tsur (Zurishaddai, Ammishaddai, Pedahzur)"}
+      - {motif: name-variant-deuel-reuel, refs: ["Num 1:14"], note: "Eliasaph son of Deuel here, son of Reuel at Num 2:14"}
+      - {motif: tribal-census-totals, refs: ["Num 1:21", "Num 1:23", "Num 1:25", "Num 1:27", "Num 1:29", "Num 1:31", "Num 1:33", "Num 1:35", "Num 1:37", "Num 1:39", "Num 1:41", "Num 1:43"], note: "Judah largest (74,600), Manasseh smallest (32,200)"}
+      - {motif: six-hundred-three-thousand-total, refs: ["Num 1:46"], note: "603,550"}
+      - {motif: levites-not-counted, refs: ["Num 1:47", "Num 1:49"]}
+      - {motif: levites-guard-tabernacle-outsider-dies, refs: ["Num 1:50", "Num 1:51", "Num 1:53"], note: "הַזָּר הַקָּרֵב יוּמָת"}
+    hints:
+      - "2Sam 24 and 1Chr 21 (David's census brings plague); Exod 30:12-16 half-shekel ransom for census; the 603,550 equals the half-shekel sum of Exod 38:26; gematria proposals (bny ysr'l kl r's = 603,551 in Hebrew numerology) discussed in modern scholarship."
+  - id: hb-num-2-camp-arrangement
+    tradition: judaism
+    title: The camp in four standards around the tent
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 2:1-34"]
+    tags:
+      - {motif: camp-in-four-standards-around-tent, refs: ["Num 2:2", "Num 2:3", "Num 2:10", "Num 2:18", "Num 2:25"], note: "Judah east, Reuben south, Ephraim west, Dan north; each with banners (אֹתֹת)"}
+      - {motif: tribal-banners-and-signs, refs: ["Num 2:2"]}
+      - {motif: judah-camps-east-marches-first, refs: ["Num 2:3", "Num 2:9"]}
+      - {motif: tent-and-levites-march-in-center, refs: ["Num 2:17"]}
+      - {motif: name-variant-deuel-reuel, refs: ["Num 2:14"]}
+      - {motif: six-hundred-three-thousand-total, refs: ["Num 2:32"]}
+      - {motif: levites-not-counted, refs: ["Num 2:33"]}
+    hints:
+      - "Rabbinic midrash assigns the four standards the cherub faces of Ezek 1:10 (lion Judah, man Reuben, ox Ephraim, eagle Dan) (Num. Rab. 2:10); compare the four living creatures of Rev 4:7, the Qumran War Scroll's banners, and Roman/Egyptian square army camps (Ramesses II at Qadesh)."
+  - id: hb-num-3-levites-for-firstborn
+    tradition: judaism
+    title: Aaron's sons; Levite clans counted and taken in place of the firstborn
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 3:1-51"]
+    tags:
+      - {motif: strange-fire-deaths, refs: ["Num 3:4"], note: "Recalled; Nadab and Abihu died childless"}
+      - {motif: priests-died-childless, refs: ["Num 3:4"]}
+      - {motif: levites-given-to-aaron, refs: ["Num 3:6", "Num 3:7", "Num 3:8", "Num 3:9"], note: "נְתוּנִם נְתוּנִם"}
+      - {motif: levites-guard-tabernacle-outsider-dies, refs: ["Num 3:10", "Num 3:38"]}
+      - {motif: levites-substitute-for-firstborn, refs: ["Num 3:12", "Num 3:13", "Num 3:41", "Num 3:45"], note: "Firstborn hallowed on the day God smote Egypt's firstborn; Levite cattle for Israel's firstborn cattle"}
+      - {motif: levite-census-from-one-month, refs: ["Num 3:15", "Num 3:22", "Num 3:28", "Num 3:34"]}
+      - {motif: three-levite-clans-gershon-kohath-merari, refs: ["Num 3:17", "Num 3:18", "Num 3:19", "Num 3:20"]}
+      - {motif: levite-clans-camp-on-three-sides, refs: ["Num 3:23", "Num 3:29", "Num 3:35", "Num 3:38"], note: "Gershon west, Kohath south, Merari north; Moses and Aaron east"}
+      - {motif: kohathites-carry-ark-and-holy-vessels, refs: ["Num 3:31"]}
+      - {motif: census-total-discrepancy-levites, refs: ["Num 3:39"], note: "Subtotals 7,500 + 8,600 + 6,200 = 22,300, but total given as 22,000"}
+      - {motif: puncta-extraordinaria-dots, refs: ["Num 3:39"], note: "Masoretic dots over וְאַהֲרֹן"}
+      - {motif: redemption-of-firstborn-five-shekels, refs: ["Num 3:43", "Num 3:46", "Num 3:47", "Num 3:48", "Num 3:49", "Num 3:50", "Num 3:51"], note: "22,273 firstborn; 273 surplus x 5 shekels = 1,365 shekels"}
+      - {motif: shekel-of-twenty-gerahs, refs: ["Num 3:47"]}
+    hints:
+      - "Pidyon ha-ben (five shekels) and Luke 2:23; rabbinic explanations of the 300 discrepancy (Bekhorot 5a: the 300 Levite firstborn); the dotted word discussed in Sifre Num 69 and ARN 34 (ten dotted places)."
+  - id: hb-num-4-kohath-gershon-merari-duties
+    tradition: judaism
+    title: Wrapping and carrying the sanctuary; Levites aged 30 to 50
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 4:1-49"]
+    tags:
+      - {motif: levite-service-age-thirty-to-fifty, refs: ["Num 4:3", "Num 4:23", "Num 4:30", "Num 4:35", "Num 4:39", "Num 4:43", "Num 4:47"]}
+      - {motif: ark-covered-with-veil-before-journey, refs: ["Num 4:5", "Num 4:6"], note: "Veil, then tahash skin, then all-blue cloth on top"}
+      - {motif: tahash-skin-coverings, refs: ["Num 4:6", "Num 4:8", "Num 4:10", "Num 4:11", "Num 4:12", "Num 4:14"]}
+      - {motif: colored-cloths-for-holy-vessels, refs: ["Num 4:6", "Num 4:7", "Num 4:8", "Num 4:9", "Num 4:11", "Num 4:12", "Num 4:13"], note: "Blue (תְּכֵלֶת), scarlet, purple for the altar"}
+      - {motif: perpetual-bread-on-table, refs: ["Num 4:7"], note: "לֶחֶם הַתָּמִיד"}
+      - {motif: carriers-may-not-touch-or-see-holy-things, refs: ["Num 4:15", "Num 4:18", "Num 4:19", "Num 4:20"], note: "'Not even to look as the holy is swallowed (כְבַלַּע) lest they die'"}
+      - {motif: eleazar-oversees-oil-incense-and-sanctuary, refs: ["Num 4:16"]}
+      - {motif: ithamar-oversees-gershon-and-merari, refs: ["Num 4:28", "Num 4:33"]}
+      - {motif: items-assigned-by-name, refs: ["Num 4:32"], note: "Merari's load assigned item by item"}
+      - {motif: levite-workforce-totals, refs: ["Num 4:36", "Num 4:40", "Num 4:44", "Num 4:48"], note: "2,750 + 2,630 + 3,200 = 8,580"}
+    hints:
+      - "2Sam 6:6-7 (Uzzah struck for touching the ark) and 1Sam 6:19 (Beth-shemesh men struck for looking into it); Egyptian processional barques carrying shrouded divine images; Num 8:24 gives 25 years instead of 30 (rabbinic harmonization: 5 years of training)."
+  - id: hb-num-5-camp-purity-and-restitution
+    tradition: judaism
+    title: Unclean sent out of the camp; confession and restitution
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 5:1-10"]
+    tags:
+      - {motif: unclean-expelled-from-camp, refs: ["Num 5:2", "Num 5:3", "Num 5:4"], note: "Leper, discharge, corpse-impure; male and female; 'I dwell in their midst'"}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["Num 5:2"]}
+      - {motif: confession-required-for-restitution, refs: ["Num 5:6", "Num 5:7"]}
+      - {motif: restitution-plus-one-fifth, refs: ["Num 5:7"]}
+      - {motif: restitution-to-priest-if-no-kinsman, refs: ["Num 5:8"], note: "If the wronged man has no גֹּאֵל"}
+      - {motif: priest-keeps-donations-given-him, refs: ["Num 5:9", "Num 5:10"]}
+    hints:
+      - "Luke 19:8 (Zacchaeus' restitution); Matt 5:23-24 (reconcile before offering); Islamic doctrine that wrongs against people (huquq al-'ibad) require restitution beyond repentance."
+  - id: hb-num-5-sotah-ordeal
+    tradition: judaism
+    title: The suspected adulteress and the bitter water
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 5:11-31"]
+    tags:
+      - {motif: spirit-of-jealousy-seizes-husband, refs: ["Num 5:14", "Num 5:30"], note: "רוּחַ קִנְאָה - even if she is innocent"}
+      - {motif: secret-adultery-without-witness, refs: ["Num 5:12", "Num 5:13"]}
+      - {motif: barley-jealousy-offering-without-oil-or-incense, refs: ["Num 5:15", "Num 5:18", "Num 5:25", "Num 5:26"], note: "'Offering of remembrance recalling iniquity'"}
+      - {motif: holy-water-mixed-with-tabernacle-dust, refs: ["Num 5:17"]}
+      - {motif: womans-hair-unbound-before-god, refs: ["Num 5:18"]}
+      - {motif: bitter-water-ordeal-for-adultery, refs: ["Num 5:18", "Num 5:19", "Num 5:24", "Num 5:27", "Num 5:28"], note: "מֵי הַמָּרִים הַמְאָרֲרִים"}
+      - {motif: curse-belly-swells-thigh-falls, refs: ["Num 5:21", "Num 5:22", "Num 5:27"]}
+      - {motif: double-amen-response, refs: ["Num 5:22"], note: "אָמֵן אָמֵן"}
+      - {motif: written-curse-dissolved-in-water-drunk, refs: ["Num 5:23", "Num 5:24"], note: "Priest writes the curses in a scroll and wipes them into the water - the divine name dissolved"}
+      - {motif: innocent-wife-will-conceive, refs: ["Num 5:28"]}
+      - {motif: husband-free-of-guilt, refs: ["Num 5:31"]}
+    hints:
+      - "Code of Hammurabi 131-132 (river ordeal for accused wife); Mishnah Sotah (abolished by Yohanan b. Zakkai, Sotah 9:9); Protevangelium of James 16 (Mary and Joseph drink the 'water of the Lord's conviction'); Quran 24:6-9 li'an oath procedure for husband's accusation; Hindu and medieval ordeals by drinking (Yajnavalkya 2.95ff kosha ordeal: drinking water used to bathe an idol); Egyptian magic of drinking dissolved written spells."
+  - id: hb-num-6-nazirite
+    tradition: judaism
+    title: The Nazirite vow
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 6:1-21"]
+    tags:
+      - {motif: nazirite-vow-man-or-woman, refs: ["Num 6:2"], note: "אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא"}
+      - {motif: nazirite-abstains-from-all-grape-products, refs: ["Num 6:3", "Num 6:4"], note: "Down to seeds and skins (חַרְצַנִּים ... זָג)"}
+      - {motif: uncut-hair-consecrated, refs: ["Num 6:5", "Num 6:7"], note: "נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ"}
+      - {motif: nazirite-avoids-corpse-even-of-parents, refs: ["Num 6:6", "Num 6:7"]}
+      - {motif: sudden-death-nearby-voids-vow, refs: ["Num 6:9", "Num 6:10", "Num 6:11", "Num 6:12"], note: "Shave on 7th day; days already counted are lost"}
+      - {motif: poor-substitute-two-birds, refs: ["Num 6:10"]}
+      - {motif: completion-offerings-of-nazirite, refs: ["Num 6:13", "Num 6:14", "Num 6:15", "Num 6:16", "Num 6:17"]}
+      - {motif: shaved-hair-burned-on-altar-fire, refs: ["Num 6:18"]}
+      - {motif: boiled-shoulder-placed-in-nazirites-hands, refs: ["Num 6:19", "Num 6:20"]}
+      - {motif: wine-permitted-after-vow-ends, refs: ["Num 6:20"]}
+    hints:
+      - "Samson (Judg 13-16) and Samuel (1Sam 1:11, 4QSam 'nazir'); Amos 2:11-12; Acts 18:18 and 21:23-26 (Paul pays for Nazirites' offerings); John the Baptist Luke 1:15; Greek hair offerings to river gods (Achilles' lock, Iliad 23.141); Islamic ihram restrictions on cutting hair until the final shaving (halq); Sikh kesh."
+  - id: hb-num-6-priestly-blessing
+    tradition: judaism
+    title: The priestly blessing
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 6:22-27"]
+    tags:
+      - {motif: threefold-priestly-blessing, refs: ["Num 6:24", "Num 6:25", "Num 6:26"], note: "Three lines of 3, 5 and 7 words"}
+      - {motif: god-makes-face-shine, refs: ["Num 6:25"]}
+      - {motif: god-lifts-face-gives-peace, refs: ["Num 6:26"]}
+      - {motif: putting-gods-name-on-people, refs: ["Num 6:27"]}
+      - {motif: priestly-blessing-raised-hands, refs: ["Num 6:23"]}
+    hints:
+      - "Ketef Hinnom silver amulets (7th-6th c. BCE) inscribe this blessing - the oldest attested biblical text; Ps 67:2 and 4:7; Ugaritic and Akkadian 'shining face' of a god/king (Amarna letters); used as Christian Aaronic benediction."
+  - id: hb-num-7-wagons-for-levites
+    tradition: judaism
+    title: The chieftains' covered wagons and oxen
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 7:1-9"]
+    tags:
+      - {motif: tabernacle-anointed-on-completion, refs: ["Num 7:1"]}
+      - {motif: six-covered-wagons-twelve-oxen, refs: ["Num 7:3"], note: "עֶגְלֹת צָב - one wagon per two chieftains, one ox each"}
+      - {motif: wagons-allotted-by-workload, refs: ["Num 7:6", "Num 7:7", "Num 7:8"], note: "Gershon 2 wagons, Merari 4"}
+      - {motif: holy-objects-carried-on-shoulders, refs: ["Num 7:9"], note: "Kohathites get no wagons"}
+    hints:
+      - "2Sam 6:3-7 - David moves the ark on a new cart and Uzzah dies (1Chr 15:13-15 blames not carrying it on shoulders); 1Sam 6:7 Philistine cart and two milch cows."
+  - id: hb-num-7-altar-dedication-a
+    tradition: judaism
+    title: Altar dedication gifts, days one to six
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 7:10-47"]
+    tags:
+      - {motif: altar-dedication-hanukkah, refs: ["Num 7:10"], note: "חֲנֻכַּת הַמִּזְבֵּחַ"}
+      - {motif: one-chieftain-per-day-twelve-days, refs: ["Num 7:11", "Num 7:12", "Num 7:18", "Num 7:24", "Num 7:30", "Num 7:36", "Num 7:42"]}
+      - {motif: judah-camps-east-marches-first, refs: ["Num 7:12"], note: "Nahshon of Judah brings first, though Reuben is firstborn"}
+      - {motif: identical-gifts-repeated-verbatim, refs: ["Num 7:13", "Num 7:14", "Num 7:15", "Num 7:16", "Num 7:17", "Num 7:19", "Num 7:20", "Num 7:21", "Num 7:22", "Num 7:23", "Num 7:25", "Num 7:26", "Num 7:27", "Num 7:28", "Num 7:29", "Num 7:31", "Num 7:32", "Num 7:33", "Num 7:34", "Num 7:35", "Num 7:37", "Num 7:38", "Num 7:39", "Num 7:40", "Num 7:41", "Num 7:43", "Num 7:44", "Num 7:45", "Num 7:46", "Num 7:47"], note: "Silver dish 130 shekels, basin 70, gold ladle 10 full of incense, plus the animal set"}
+      - {motif: gold-ladle-full-of-incense, refs: ["Num 7:14", "Num 7:20", "Num 7:26", "Num 7:32", "Num 7:38", "Num 7:44"]}
+      - {motif: name-variant-deuel-reuel, refs: ["Num 7:42", "Num 7:47"], note: "Deuel again"}
+    hints:
+      - "Rabbinic midrash (Num. Rab. 13-14) gives each identical gift a different symbolic meaning per tribe; 1Kgs 8:63 and 2Chr 7:5 (Solomon's dedication); 1Macc 4:56 and the eight-day Hanukkah; Num 7 is read at Hanukkah."
+  - id: hb-num-7-altar-dedication-b
+    tradition: judaism
+    title: Altar dedication gifts, days seven to twelve; totals; the voice from between the cherubim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 7:48-89"]
+    tags:
+      - {motif: one-chieftain-per-day-twelve-days, refs: ["Num 7:48", "Num 7:54", "Num 7:60", "Num 7:66", "Num 7:72", "Num 7:78"], note: "Sabbath not interrupting is implied by consecutive days"}
+      - {motif: identical-gifts-repeated-verbatim, refs: ["Num 7:49", "Num 7:50", "Num 7:51", "Num 7:52", "Num 7:53", "Num 7:55", "Num 7:56", "Num 7:57", "Num 7:58", "Num 7:59", "Num 7:61", "Num 7:62", "Num 7:63", "Num 7:64", "Num 7:65", "Num 7:67", "Num 7:68", "Num 7:69", "Num 7:70", "Num 7:71", "Num 7:73", "Num 7:74", "Num 7:75", "Num 7:76", "Num 7:77", "Num 7:79", "Num 7:80", "Num 7:81", "Num 7:82", "Num 7:83"]}
+      - {motif: gold-ladle-full-of-incense, refs: ["Num 7:50", "Num 7:86"]}
+      - {motif: dedication-totals-summed, refs: ["Num 7:84", "Num 7:85", "Num 7:86", "Num 7:87", "Num 7:88"], note: "2,400 shekels silver, 120 gold; 24 bulls, 60 rams, 60 goats, 60 lambs for well-being"}
+      - {motif: voice-from-between-cherubim, refs: ["Num 7:89"], note: "Moses hears the voice speaking (מִדַּבֵּר) to him from above the ark cover"}
+      - {motif: god-appears-in-cloud-over-ark-cover, refs: ["Num 7:89"]}
+    hints:
+      - "Exod 25:22 promised meeting place; rabbinic bat qol; Islamic account of Moses hearing God's speech (kalam, Quran 4:164, 7:143) and the Sakina in the ark (Quran 2:248)."

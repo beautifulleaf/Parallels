@@ -28,7 +28,10 @@ is read by one reader and written to one file in this folder.
    every verse of your chunk. The validator prints how many verses your units
    read; it must equal the chunk's verse count.
 
-Touch no file except your own.
+Touch no file except your own. Keep scratch files only in your own folder,
+`<scratchpad>/chunkNN/`: readers run in parallel, and shared scratch file
+names have mixed one reader's units into another's file. The validator
+rejects any unit outside your chunk.
 
 ## File format
 

@@ -1,0 +1,1168 @@
+new_motifs:
+  twelve-memorial-stones: {label: "Twelve stones, one per tribe, taken from the riverbed as a memorial of the crossing", cluster: conquest}
+  stones-set-up-in-riverbed: {label: "Stones set up in the middle of the river where the priests stood, visible 'to this day'", cluster: conquest}
+  crossing-recapitulates-sea-crossing: {label: "A river crossing is explicitly compared to the crossing of the Red Sea", cluster: conquest}
+  dated-crossing-tenth-of-first-month: {label: "The crossing into the land is dated to the tenth day of the first month", cluster: conquest}
+  gilgal-sanctuary: {label: "Gilgal as the first camp and sanctuary in the land", cluster: cult}
+  miracle-so-all-peoples-know: {label: "A miracle is done so that all the peoples of the earth may know God's power", cluster: theology}
+  flint-knives-circumcision: {label: "Circumcision performed with flint knives", cluster: cult}
+  hill-of-foreskins: {label: "A place called the Hill of Foreskins, where mass circumcision took place", cluster: cult}
+  wilderness-generation-uncircumcised: {label: "The generation born in the wilderness was not circumcised", cluster: cult}
+  passover-celebrated-at-turning-point: {label: "Passover kept at a decisive turning point (entry into the land)", cluster: cult}
+  manna-ceases: {label: "The manna stops the day after the people eat the produce of the land", cluster: exodus}
+  commander-of-heavenly-army: {label: "A figure with a sword reveals himself as commander of YHWH's army", cluster: angels}
+  city-circled-seven-days: {label: "A besieged city is circled once a day for six days and seven times on the seventh", cluster: conquest}
+  seven-priests-seven-rams-horns: {label: "Seven priests blow seven rams' horns before the ark", cluster: cult}
+  ark-leads-army: {label: "The ark goes before the army in battle or procession", cluster: cult}
+  imposed-silence-until-signal: {label: "The army must keep total silence until the leader gives the signal to shout", cluster: conquest}
+  walls-fall-at-shout: {label: "City walls collapse at a trumpet blast and a great shout", cluster: conquest}
+  metals-consecrated-to-treasury: {label: "Captured silver, gold, bronze and iron are holy, for the treasury of YHWH", cluster: cult}
+  hospitable-harlot-spared: {label: "The harlot who hid the spies is spared with her family when the city falls", cluster: conquest}
+  curse-on-rebuilder-of-city: {label: "Curse that whoever rebuilds the destroyed city will lose his firstborn and youngest sons", cluster: conquest}
+  city-burned: {label: "A conquered city is burned with fire", cluster: conquest}
+  theft-from-devoted-things: {label: "A man secretly takes from the goods devoted to God (herem)", cluster: law}
+  defeat-because-of-hidden-sin: {label: "The army is defeated because of one member's hidden sin", cluster: conquest}
+  mourning-rites-torn-clothes-dust: {label: "Leader and elders tear their clothes, fall on their faces and put dust on their heads", cluster: ritual}
+  leader-complains-to-god-wishes-had-stayed: {label: "Leader complains to God after a defeat: would that we had stayed where we were", cluster: theology}
+  confession-give-glory-to-god: {label: "The culprit is urged to 'give glory to God' by confessing", cluster: law}
+  coveted-saw-took-hid: {label: "Sin described as a sequence: I saw, I coveted, I took, I hid", cluster: wisdom}
+  family-executed-with-sinner: {label: "The sinner's children, animals and property are destroyed with him", cluster: law}
+  stone-heap-over-executed: {label: "A great heap of stones is raised over an executed man, 'to this day'", cluster: ritual}
+  outstretched-javelin-until-victory: {label: "Leader holds out his javelin and does not lower his hand until victory is complete", cluster: conquest}
+  enemy-king-hanged-till-sunset: {label: "A captured enemy king is killed and hanged on a tree until sunset, then buried under stones", cluster: conquest}
+  city-made-eternal-tell: {label: "A destroyed city is made a perpetual ruin-mound (tel olam)", cluster: conquest}
+  public-reading-of-law-to-all: {label: "The whole law is read aloud before the assembly, including women, children and foreigners", cluster: law}
+  coalition-of-canaanite-kings: {label: "The kings of the land form a coalition against Israel", cluster: conquest}
+  disguise-as-travelers-from-afar: {label: "Locals disguise themselves with worn clothes and old provisions to pass as travelers from a far country", cluster: trickster}
+  moldy-bread-as-proof: {label: "Dry, crumbled bread shown as proof of a long journey", cluster: trickster}
+  failure-to-consult-god: {label: "Leaders make a decision without asking the oracle of YHWH", cluster: theology}
+  oath-binding-though-obtained-by-deceit: {label: "An oath sworn by God stays binding even though obtained by deceit", cluster: law}
+  people-murmur-against-leaders: {label: "The congregation grumbles against its chiefs over a decision", cluster: conquest}
+  hewers-of-wood-drawers-of-water: {label: "A subject people made perpetual woodcutters and water-drawers for the sanctuary", cluster: cult}
+  curse-of-servitude: {label: "A people is cursed to perpetual slavery", cluster: law}
+  fame-of-god-reaches-foreigners: {label: "Foreigners have heard the fame of Israel's God and what he did in Egypt", cluster: theology}
+  five-king-coalition: {label: "Five kings form an alliance and are defeated together", cluster: conquest}
+  king-of-jerusalem-zedek-name: {label: "A king of Jerusalem bears a name with 'tsedeq' (Adoni-zedek, Melchizedek)", cluster: kingship}
+  night-march-surprise: {label: "The army marches all night and attacks the enemy by surprise", cluster: conquest}
+  god-throws-enemy-into-panic: {label: "God throws the enemy into confusion and panic before Israel", cluster: conquest}
+  hailstones-from-heaven-kill-enemy: {label: "God casts great hailstones from heaven, killing more than the sword", cluster: cosmology}
+  sun-stands-still: {label: "At a leader's command the sun and moon stand still until the battle is won", cluster: cosmology}
+  citation-of-lost-book: {label: "A lost source book is cited (the Book of Jashar)", cluster: literature}
+  god-obeys-voice-of-man: {label: "God heeds the command of a man, a unique event", cluster: theology}
+  kings-hide-in-cave: {label: "Defeated kings hide in a cave, which is sealed with great stones", cluster: conquest}
+  no-one-whets-tongue-against-israel: {label: "Idiom: no one 'sharpened his tongue' against Israel", cluster: literature}
+  feet-on-necks-of-kings: {label: "Captains put their feet on the necks of captured kings", cluster: kingship}
+  conquest-summary-from-kadesh-to-gaza: {label: "Summary of a sweeping conquest of the whole south from Kadesh-barnea to Gaza", cluster: conquest}
+  army-like-sand-of-sea: {label: "An enemy army as numerous as the sand on the seashore", cluster: conquest}
+  hamstring-horses-burn-chariots: {label: "The enemy's horses are hamstrung and their chariots burned by divine command", cluster: conquest}
+  pursuit-to-sidon: {label: "The enemy is pursued as far as Great Sidon", cluster: conquest}
+  hazor-head-of-kingdoms: {label: "Hazor, 'head of all those kingdoms', is the only city burned in the north", cluster: conquest}
+  land-had-rest-from-war: {label: "'And the land had rest from war' after conquest", cluster: conquest}
+  sihon-and-og-defeated: {label: "The defeat of Sihon of Heshbon and Og of Bashan recalled", cluster: conquest}
+  list-of-conquered-kings: {label: "A numbered list of conquered city-kings (thirty-one)", cluster: conquest}
+  king-of-goiim-at-gilgal: {label: "A 'king of the nations (Goiim)' among the conquered kings", cluster: kingship}
+  aged-leader-told-much-remains: {label: "God tells the aged leader that much land remains to be possessed", cluster: conquest}
+  five-philistine-lords: {label: "The five lords (seranim) of the Philistine cities", cluster: nations}
+  shihor-border-of-egypt: {label: "The Shihor 'before Egypt' as the land's southern limit", cluster: geography}
+  land-unconquered-remains: {label: "A tribe could not drive out the inhabitants, who remain 'to this day'", cluster: conquest}
+  five-midianite-princes: {label: "Five named Midianite princes (Evi, Rekem, Zur, Hur, Reba)", cluster: nations}
+  tribal-boundary-list: {label: "A tribe's boundary traced point by point", cluster: geography}
+  land-divided-by-lot: {label: "The land is apportioned to the tribes by casting lots before YHWH", cluster: conquest}
+  joseph-two-tribes: {label: "The sons of Joseph count as two tribes, Manasseh and Ephraim", cluster: patriarchs}
+  faithful-spy-rewarded: {label: "The faithful spy receives the land his foot trod on", cluster: conquest}
+  vigor-undiminished-in-old-age: {label: "An old hero says he is as strong as on the day he was sent out forty-five years before", cluster: heroes}
+  hebron-formerly-kiriath-arba: {label: "Hebron was formerly Kiriath-arba, named for the greatest of the Anakim", cluster: geography}
+  scorpion-ascent: {label: "The 'Ascent of Scorpions' (Ma'aleh Aqrabbim) on the border", cluster: geography}
+  stone-of-bohan-son-of-reuben: {label: "A boundary stone named for Bohan son of Reuben", cluster: geography}
+  spring-of-the-sun: {label: "A spring called Ein Shemesh, 'spring of the sun'", cluster: geography}
+  valley-of-hinnom: {label: "The Valley of the son of Hinnom (later Gehenna) marks Jerusalem's border", cluster: geography}
+  valley-of-rephaim: {label: "A valley named for the Rephaim near Jerusalem", cluster: geography}
+  brook-of-egypt: {label: "The Brook (Wadi) of Egypt as the southwestern border", cluster: geography}
+  baalah-kiriath-jearim: {label: "Kiriath-jearim also called Baalah or Kiriath-baal", cluster: geography}
+  three-sons-of-anak: {label: "The three sons of Anak, Sheshai, Ahiman and Talmai, driven out of Hebron", cluster: heroes}
+  city-of-the-book: {label: "A city formerly called Kiriath-sepher, 'town of the book'", cluster: geography}
+  daughter-offered-to-city-conqueror: {label: "A father promises his daughter in marriage to whoever captures a city", cluster: heroes}
+  daughter-asks-father-for-springs: {label: "A bride dismounts and asks her father for springs of water as a blessing", cluster: heroes}
+  town-list-by-district: {label: "List of towns grouped by district with totals", cluster: geography}
+  beth-dagon-place-name: {label: "A town named Beth-dagon, 'house of Dagon'", cluster: geography}
+  city-of-salt-en-gedi: {label: "The City of Salt and En-gedi listed in the Judean wilderness", cluster: geography}
+  philistine-cities-and-daughters: {label: "Philistine cities listed with their 'daughters' (dependent villages)", cluster: geography}
+  canaanites-made-forced-labor: {label: "Canaanites who are not driven out are put to forced labor", cluster: conquest}
+  firstborn-warrior-gets-gilead: {label: "Machir, the warrior firstborn of Manasseh, receives Gilead and Bashan", cluster: patriarchs}
+  daughters-inherit-without-sons: {label: "Daughters of a man without sons receive an inheritance among their kin", cluster: law}
+  clan-names-as-town-names: {label: "Clan or daughter names in a genealogy are also town names", cluster: geography}
+  tribe-complains-of-small-allotment: {label: "A tribe complains that its allotment is too small for its numbers", cluster: conquest}
+  clear-forest-for-land: {label: "A tribe is told to clear forest to make more land", cluster: conquest}
+  iron-chariots-of-canaanites: {label: "The Canaanites of the valleys have iron chariots that Israel cannot face", cluster: conquest}
+  tabernacle-at-shiloh: {label: "The tent of meeting is set up at Shiloh", cluster: cult}
+  land-subdued-before-them: {label: "'The land was subdued before them' (kivshah), echoing the creation command", cluster: conquest}
+  survey-of-land-written-in-book: {label: "Surveyors walk the land and write it in a book in portions", cluster: conquest}
+  leader-rebukes-slackness: {label: "Leader rebukes the people: how long will you be slack to possess the land?", cluster: conquest}
+  beth-aven-wilderness: {label: "Beth-aven, 'house of iniquity', near Bethel", cluster: geography}
+  tribe-absorbed-into-another: {label: "A tribe's territory lies inside another tribe's", cluster: conquest}
+  bethlehem-of-zebulun: {label: "A second Bethlehem in Zebulun", cluster: geography}
+  town-named-for-goddess-anath: {label: "Towns named after the goddess Anat or the sun (Beth-anath, Beth-shemesh)", cluster: geography}
+  oak-of-zaanannim: {label: "The oak (Elon) of Zaanannim, a landmark where a Kenite camps", cluster: geography}
+  tyre-fortress-city: {label: "Tyre called a fortified city on Asher's border", cluster: geography}
+  mount-tabor-boundary: {label: "Mount Tabor as a boundary point or mustering place", cluster: geography}
+  leader-receives-portion-last: {label: "The leader receives his own inheritance only after all the tribes", cluster: conquest}
+  manslayer-pleads-at-city-gate: {label: "The fugitive manslayer states his case to the elders at the city gate", cluster: law}
+  unintentional-killing-no-prior-hatred: {label: "Killing counts as unintentional if there was no hatred 'yesterday or the day before'", cluster: law}
+  refuge-open-to-resident-alien: {label: "The cities of refuge are open to resident aliens too", cluster: law}
+  aaronide-priests-get-cities-in-judah-benjamin: {label: "The priests, sons of Aaron, receive thirteen cities in Judah, Simeon and Benjamin", cluster: cult}
+  not-one-word-failed: {label: "Not one of all the good words God spoke has failed; all came to pass", cluster: theology}
+  love-god-cleave-to-him: {label: "Command to love God, walk in his ways and cleave to him with all heart and soul", cluster: theology}
+  share-spoil-with-those-at-home: {label: "Returning warriors divide the spoil with their brothers at home", cluster: law}
+  rival-altar-crisis: {label: "An altar built outside the central sanctuary almost leads to civil war", cluster: cult}
+  priestly-delegation-phinehas: {label: "Phinehas the priest leads a delegation of tribal princes to investigate", cluster: cult}
+  sin-of-peor-remembered: {label: "The sin of Peor recalled as guilt not yet cleansed", cluster: theology}
+  transjordan-as-unclean-land: {label: "Land outside YHWH's possession east of the Jordan is suggested to be unclean", cluster: cult}
+  divine-name-triple-oath: {label: "An oath invoking God by a repeated triple title (El, Elohim, YHWH)", cluster: theology}
+  future-generations-deny-share-in-god: {label: "Fear that future generations will say a group has no portion in YHWH", cluster: cult}
+  replica-altar-as-witness: {label: "A replica of the altar built not for sacrifice but as a witness", cluster: cult}
+  farewell-speech-of-dying-leader: {label: "The aged leader gathers the people for a farewell exhortation before death", cluster: literature}
+  turn-neither-right-nor-left: {label: "Keep the law, turning neither to the right nor to the left", cluster: law}
+  blessing-and-curse-symmetry: {label: "As every good word came true, so will every threatened evil", cluster: theology}
+  historical-recital-of-salvation: {label: "God's acts recited from the patriarchs through exodus and conquest", cluster: theology}
+  darkness-between-israel-and-egypt: {label: "God set darkness between Israel and the pursuing Egyptians", cluster: exodus}
+  choose-whom-you-will-serve: {label: "The people are told to choose this day whom they will serve", cluster: theology}
+  you-cannot-serve-holy-jealous-god: {label: "Leader warns: you cannot serve YHWH, for he is a holy and jealous God", cluster: theology}
+  people-witnesses-against-themselves: {label: "The people are made witnesses against themselves to their choice", cluster: law}
+  covenant-book-written: {label: "The words of a covenant are written in a book of the law of God", cluster: law}
+  witness-stone-that-hears: {label: "A great stone set up as a witness because it has heard all God's words", cluster: cult}
+  burial-at-mount-gaash: {label: "Joshua buried at Timnath-serah/heres north of Mount Gaash", cluster: heroes}
+  priest-buried-at-sons-hill: {label: "A priest is buried on the hill belonging to his son", cluster: cult}
+  thumbs-and-big-toes-cut-off: {label: "A captured king's thumbs and big toes are cut off", cluster: conquest}
+  seventy-kings-under-table: {label: "Seventy mutilated kings gather scraps under a tyrant's table", cluster: kingship}
+  measure-for-measure-retribution: {label: "The punished man says: as I have done, so God has repaid me", cluster: law}
+  kenites-settle-with-judah: {label: "The Kenites, kin of Moses' father-in-law, settle among Judah", cluster: nations}
+  informant-shows-city-entrance: {label: "A man from the city shows the attackers the way in and is spared", cluster: conquest}
+  angel-rebukes-people: {label: "The angel of YHWH rebukes the people for making covenants and not destroying altars", cluster: angels}
+  generation-that-knew-not-god: {label: "A new generation arises that did not know YHWH or his deeds", cluster: theology}
+  baal-and-ashtaroth-worship: {label: "Israel serves the Baals and the Ashtaroth/Asherahs", cluster: cult}
+  idolatry-as-harlotry: {label: "Worship of other gods described as 'whoring after' them", cluster: theology}
+  nations-left-to-test-israel: {label: "Nations are left in the land to test Israel and teach war", cluster: theology}
+  oppressor-with-mocking-name: {label: "An oppressor bears a mocking name (Cushan of Double Wickedness)", cluster: literature}
+  land-rests-forty-years: {label: "After a deliverance the land has rest for forty (or eighty) years", cluster: theology}
+  city-of-palms-captured: {label: "The City of Palms (Jericho) is taken by enemies", cluster: conquest}
+  left-handed-warrior: {label: "A left-handed hero uses his unexpected hand to strike", cluster: heroes}
+  tribute-as-pretext-for-assassination: {label: "The bearer of tribute uses the audience to assassinate the king", cluster: heroes}
+  hidden-double-edged-dagger: {label: "A short double-edged sword hidden on the right thigh under the garment", cluster: heroes}
+  fat-king-killed: {label: "A very fat king is stabbed so the fat closes over the blade", cluster: heroes}
+  secret-word-for-the-king: {label: "The assassin claims a secret message (a word of God) for the king alone", cluster: heroes}
+  carved-stones-at-gilgal: {label: "The 'carved images' (pesilim) at Gilgal used as a landmark", cluster: cult}
+  locked-room-servants-think-king-relieving-himself: {label: "Servants delay at a locked door thinking the king is relieving himself", cluster: heroes}
+  seize-fords-of-jordan: {label: "The fords of the Jordan are seized to cut off the fleeing enemy", cluster: conquest}
+  oxgoad-kills-six-hundred: {label: "A hero kills six hundred Philistines with an oxgoad", cluster: heroes}
+  hero-named-for-goddess-anath: {label: "A hero is called 'son of Anath'", cluster: heroes}
+  woman-prophet-judge: {label: "A woman prophet judges Israel", cluster: prophecy}
+  judging-under-sacred-tree: {label: "A judge gives judgments seated under a named tree", cluster: law}
+  commander-refuses-without-prophetess: {label: "The commander will not go to battle unless the prophetess goes with him", cluster: prophecy}
+  glory-to-a-woman-not-the-warrior: {label: "The warrior is told the glory will go to a woman", cluster: heroes}
+  general-flees-on-foot: {label: "The enemy general leaves his chariot and flees on foot", cluster: conquest}
+  woman-kills-enemy-commander: {label: "A woman kills the enemy commander with her own hand", cluster: heroes}
+  hospitality-violated-to-kill-guest: {label: "A woman invites a fugitive into her tent, comforts him, then kills him", cluster: heroes}
+  milk-given-for-water: {label: "Asked for water, the woman gives milk", cluster: heroes}
+  victory-song-by-woman: {label: "A woman leader sings the victory song", cluster: poetry}
+  theophany-earth-quakes-mountains-melt: {label: "At God's coming the earth quakes, heavens drip and mountains flow", cluster: cosmology}
+  roads-deserted-under-oppression: {label: "Under oppression the highways are deserted and travelers use byways", cluster: poetry}
+  mother-in-israel: {label: "A woman leader is called 'a mother in Israel'", cluster: poetry}
+  no-shield-or-spear-in-israel: {label: "Not a shield or spear to be seen among forty thousand in Israel", cluster: poetry}
+  riders-on-white-donkeys: {label: "Nobles described as riders on white (tawny) she-donkeys", cluster: poetry}
+  roll-call-of-tribes-praise-and-blame: {label: "A poem lists the tribes, praising those who fought and shaming those who stayed home", cluster: poetry}
+  stars-fight-from-heaven: {label: "The stars fight from their courses against the enemy", cluster: cosmology}
+  river-sweeps-away-enemy: {label: "A torrent sweeps away the enemy army", cluster: cosmology}
+  galloping-of-horses: {label: "The hoofbeats of galloping horses depicted in poetry", cluster: poetry}
+  curse-on-town-that-did-not-help: {label: "An angel curses a town that did not come to YHWH's help", cluster: poetry}
+  blessed-among-women: {label: "A woman is called 'most blessed of women'", cluster: poetry}
+  enemy-mother-waits-at-window: {label: "The enemy's mother waits at the window for her son who will not return", cluster: poetry}
+  woman-at-the-window: {label: "A woman looks out through the window lattice", cluster: poetry}
+  lovers-of-god-like-rising-sun: {label: "Those who love God are like the sun rising in its strength", cluster: poetry}
+  hiding-in-caves-and-strongholds: {label: "The oppressed people hide in caves, dens and mountain strongholds", cluster: conquest}
+  nomad-raiders-destroy-harvest: {label: "Nomad raiders with camels come each harvest and destroy the produce", cluster: conquest}
+  enemies-numerous-as-locusts: {label: "Enemies and their camels are as numerous as locusts", cluster: conquest}
+  anonymous-prophet-rebukes: {label: "An unnamed prophet is sent to rebuke the people with the exodus", cluster: prophecy}
+  angel-sits-under-sacred-tree: {label: "The angel of YHWH sits under a sacred tree before calling the hero", cluster: angels}
+  hero-called-at-work: {label: "The hero is called while secretly at work (threshing wheat in a winepress)", cluster: heroes}
+  mighty-man-of-valor-greeting: {label: "The angel greets the hero: YHWH is with you, mighty man of valor", cluster: angels}
+  called-one-questions-gods-absence: {label: "The one called asks where God's wonders are if God is with us", cluster: theology}
+  request-for-a-sign: {label: "The called one asks for a sign that it is God who speaks", cluster: prophecy}
+  meal-offered-to-divine-visitor: {label: "A man prepares a meal for a divine visitor", cluster: angels}
+  fire-from-rock-consumes-offering: {label: "The angel touches the offering with his staff and fire from the rock consumes it", cluster: angels}
+  seven-year-old-bull-sacrificed: {label: "A seven-year-old bull is sacrificed on wood of the felled Asherah", cluster: cult}
+  townsmen-demand-death-of-iconoclast: {label: "The townsmen demand the death of the one who destroyed their god's altar", cluster: cult}
+  let-the-god-defend-himself: {label: "If he is a god, let him defend himself", cluster: theology}
+  person-renamed-for-deed: {label: "A person receives a new name commemorating his deed", cluster: heroes}
+  fleece-test: {label: "A fleece is left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet", cluster: prophecy}
+  army-reduced-so-god-gets-glory: {label: "God reduces the army so that Israel cannot boast its own hand saved it", cluster: conquest}
+  fearful-sent-home: {label: "The fearful are sent home before battle", cluster: conquest}
+  soldiers-chosen-by-way-of-drinking: {label: "Soldiers are selected by how they drink water", cluster: conquest}
+  spying-enemy-camp-at-night: {label: "The hero creeps into the enemy camp at night with his servant", cluster: conquest}
+  enemy-dream-foretells-defeat: {label: "An enemy soldier's dream, overheard, foretells their defeat", cluster: dreams}
+  jars-torches-and-horns: {label: "Torches hidden in jars are revealed and horns blown to panic the enemy at night", cluster: conquest}
+  war-cry-sword-for-god-and-leader: {label: "The war cry 'A sword for YHWH and for Gideon!'", cluster: conquest}
+  enemy-turns-swords-on-each-other: {label: "God sets the enemy's swords against one another", cluster: conquest}
+  enemy-princes-raven-and-wolf: {label: "Enemy princes named Raven and Wolf are killed at places named after them", cluster: conquest}
+  hill-of-moreh: {label: "The Hill of Moreh ('teacher') and the Spring of Harod ('trembling')", cluster: geography}
+  tribe-angry-not-called-to-battle: {label: "A tribe angrily complains that it was not called to the battle", cluster: conquest}
+  soft-answer-turns-away-wrath: {label: "The leader pacifies an angry tribe with a flattering proverb", cluster: wisdom}
+  towns-refuse-bread-to-pursuing-army: {label: "Towns refuse bread to the pursuing army and are later punished", cluster: conquest}
+  punishment-with-desert-thorns: {label: "Elders punished with desert thorns and briers", cluster: law}
+  tower-pulled-down: {label: "The tower of a hostile town is pulled down", cluster: conquest}
+  captured-youth-writes-list: {label: "A captured youth writes down the names of the town's officials", cluster: literature}
+  blood-vengeance-for-brothers: {label: "The hero kills captured kings to avenge his brothers", cluster: law}
+  young-son-afraid-to-execute: {label: "The hero's young son is afraid to execute the captives", cluster: heroes}
+  kings-ask-hero-to-kill-them: {label: "Captive kings ask the hero himself to kill them: as the man, so his strength", cluster: heroes}
+  crescent-ornaments-on-camels: {label: "Crescent-shaped ornaments hang on the camels' necks", cluster: material}
+  hero-refuses-kingship-god-rules: {label: "The hero refuses dynastic kingship: God will rule over you", cluster: kingship}
+  earrings-collected-for-cult-object: {label: "Gold earrings from the spoil are collected to make a cult object", cluster: cult}
+  ephod-becomes-snare: {label: "An ephod made by the hero becomes an object of idolatry and a snare", cluster: cult}
+  seventy-sons: {label: "A leader has seventy sons", cluster: heroes}
+  son-of-concubine-named-my-father-is-king: {label: "A concubine's son is named Abimelech, 'my father is king'", cluster: kingship}
+  baal-berith: {label: "Baal-berith ('lord of the covenant') worshiped at Shechem", cluster: cult}
+  appeal-to-kinship-bone-and-flesh: {label: "A claimant appeals: remember that I am your bone and your flesh", cluster: kingship}
+  temple-treasury-funds-usurper: {label: "Silver from a temple treasury funds a usurper's hired men", cluster: kingship}
+  fratricide-of-seventy-on-one-stone: {label: "A usurper kills his seventy brothers on one stone", cluster: kingship}
+  youngest-son-escapes-massacre: {label: "The youngest son escapes the massacre by hiding", cluster: kingship}
+  king-crowned-at-sacred-tree: {label: "A king is made king by a sacred oak or pillar", cluster: kingship}
+  speech-from-mountaintop: {label: "A speech or curse is shouted from a mountaintop to the people below", cluster: literature}
+  fable-of-trees-choosing-king: {label: "Fable: the trees seek a king; the useful trees decline and the bramble accepts", cluster: wisdom}
+  wine-gladdens-gods-and-men: {label: "Wine gladdens gods and men; olive oil honors gods and men", cluster: wisdom}
+  conditional-curse-of-mutual-fire: {label: "A conditional curse: may fire come out from each party and devour the other", cluster: literature}
+  hero-flees-to-beer: {label: "The survivor flees to Beer and lives there", cluster: heroes}
+  god-sends-evil-spirit: {label: "God sends an evil spirit between a ruler and his subjects", cluster: theology}
+  blood-guilt-returns-on-head: {label: "The bloodshed returns on the heads of the killer and his accomplices", cluster: law}
+  drunken-vintage-festival-insults-ruler: {label: "At a vintage festival in a temple, revelers curse the ruler", cluster: cult}
+  shadows-of-mountains-mistaken-for-men: {label: "Someone is told he mistakes the shadows of the mountains for men", cluster: literature}
+  navel-of-the-earth: {label: "A place called the navel of the earth (tabbur ha-arets)", cluster: cosmology}
+  diviners-oak: {label: "The oak of the diviners (Elon Meonenim)", cluster: cult}
+  city-sown-with-salt: {label: "A destroyed city is sown with salt", cluster: conquest}
+  tower-burned-with-people-inside: {label: "A tower with people taking refuge inside is set on fire", cluster: conquest}
+  do-as-i-do: {label: "The leader tells his men: what you see me do, do likewise", cluster: literature}
+  woman-drops-millstone-on-attacker: {label: "A woman drops an upper millstone from a tower onto the attacker's head", cluster: heroes}
+  asks-armor-bearer-to-kill-him: {label: "The dying leader asks his armor-bearer to kill him so it is not said a woman killed him", cluster: heroes}
+  curse-fulfilled: {label: "A spoken curse comes upon those cursed", cluster: theology}
+  minor-judge-notice: {label: "Brief notice of a judge: origin, years of judging, death and burial", cluster: literature}
+  thirty-sons-on-thirty-donkeys: {label: "A judge's many sons ride on donkeys as a mark of status", cluster: kingship}
+  god-grieved-by-misery: {label: "God's soul grows impatient (grieved) at Israel's misery", cluster: theology}
+  leadership-offered-to-whoever-fights-first: {label: "Leadership is offered to whoever will begin the fight", cluster: kingship}
+  son-of-harlot-becomes-leader: {label: "The son of a harlot becomes a mighty warrior and leader", cluster: heroes}
+  half-brothers-expel-heir: {label: "Half-brothers drive out a son of another woman so he cannot inherit", cluster: heroes}
+  outcast-leads-band-of-worthless-men: {label: "An outcast gathers a band of 'empty men' around him", cluster: heroes}
+  rejected-one-recalled-in-crisis: {label: "Those who rejected the hero come to him for help in their distress", cluster: heroes}
+  covenant-sealed-before-god-at-mizpah: {label: "The agreement with the leader is spoken before YHWH at Mizpah", cluster: law}
+  diplomatic-message-with-historical-argument: {label: "The leader sends messengers to the enemy king arguing from history", cluster: literature}
+  each-nation-possesses-what-its-god-gives: {label: "Each nation possesses the land its own god gives it (Chemosh, YHWH)", cluster: theology}
+  three-hundred-years-claim: {label: "Israel claims to have held the land for three hundred years", cluster: literature}
+  god-as-judge-between-nations: {label: "God the Judge is called to judge between two nations", cluster: theology}
+  rash-vow-first-to-come-out: {label: "A father vows to sacrifice whatever first comes out of his house to meet him", cluster: law}
+  daughter-greets-victor-with-timbrels: {label: "The daughter comes out with timbrels and dances to greet the returning victor", cluster: ritual}
+  daughter-sacrificed-by-fathers-vow: {label: "An only daughter is sacrificed to fulfill her father's vow", cluster: ritual}
+  virgin-laments-on-mountains: {label: "The doomed virgin goes with her companions to the mountains for two months to bewail her virginity", cluster: ritual}
+  annual-womens-ritual-commemoration: {label: "The daughters of Israel go yearly for four days to commemorate her", cluster: ritual}
+  took-life-in-hand: {label: "Idiom: 'I put my life in my hand' (took a mortal risk)", cluster: literature}
+  shibboleth-pronunciation-test: {label: "Fugitives are identified by how they pronounce a word (shibboleth / sibboleth)", cluster: conquest}
+  fugitives-taunt: {label: "A taunt calls the other group fugitives", cluster: literature}
+  thirty-sons-thirty-daughters-exogamy: {label: "A judge sends out thirty daughters in marriage and brings in thirty brides", cluster: heroes}
+  amalekite-mountain-in-ephraim: {label: "A 'hill country of the Amalekite' inside Ephraim", cluster: geography}
+units:
+  - id: hb-josh-4-twelve-stones
+    tradition: judaism
+    title: Twelve memorial stones from the Jordan; the river returns
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 4:1-24"]
+    tags:
+      - {motif: twelve-memorial-stones, refs: ["Josh 4:3", "Josh 4:8", "Josh 4:20"], note: "one stone per tribe, carried on the shoulder (4:5)"}
+      - {motif: stones-set-up-in-riverbed, refs: ["Josh 4:9"], note: "a second set of twelve stones set up inside the Jordan where the priests' feet stood, 'there to this day'"}
+      - {motif: childs-question-ritual-explanation, refs: ["Josh 4:6-7", "Josh 4:21-22"], note: "'when your children ask tomorrow: what are these stones?'"}
+      - {motif: river-waters-stand-in-heap, refs: ["Josh 4:7", "Josh 4:18", "Josh 4:23"], note: "waters 'cut off' before the ark; they return to their place when the priests' soles touch dry ground"}
+      - {motif: crossing-recapitulates-sea-crossing, refs: ["Josh 4:23"], note: "explicit comparison with the Reed Sea (yam suf)"}
+      - {motif: successor-exalted-like-predecessor, refs: ["Josh 4:14"], note: "they feared Joshua as they had feared Moses"}
+      - {motif: transjordan-tribes-fight-first, refs: ["Josh 4:12-13"], note: "about 40,000 armed men"}
+      - {motif: dated-crossing-tenth-of-first-month, refs: ["Josh 4:19"], note: "the day the Passover lamb is selected (Exod 12:3)"}
+      - {motif: gilgal-sanctuary, refs: ["Josh 4:19-20"]}
+      - {motif: miracle-so-all-peoples-know, refs: ["Josh 4:24"]}
+    hints:
+      - "Compare Gen 31:46 (cairn of witness), Exod 24:4 (twelve pillars), 1Kgs 18:31 (Elijah's twelve stones); 2Kgs 2:8 (Elijah and Elisha part the Jordan)."
+      - "Matt 3:9 'God can raise children to Abraham from these stones' has been linked by commentators to the Gilgal stones near the baptism site."
+  - id: hb-josh-5-circumcision-passover-commander
+    tradition: judaism
+    title: Mass circumcision at Gilgal, Passover, end of manna, the commander of YHWH's army
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 5:1-15"]
+    tags:
+      - {motif: melting-hearts-of-canaanites, refs: ["Josh 5:1"], note: "'their heart melted and there was no more spirit in them'"}
+      - {motif: flint-knives-circumcision, refs: ["Josh 5:2-3"], note: "harvot tsurim; 'circumcise a second time'"}
+      - {motif: hill-of-foreskins, refs: ["Josh 5:3"], note: "Givat ha-Aralot"}
+      - {motif: wilderness-generation-uncircumcised, refs: ["Josh 5:4-7"]}
+      - {motif: forty-years-wandering, refs: ["Josh 5:6"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Josh 5:6"]}
+      - {motif: place-name-etiology, refs: ["Josh 5:9"], note: "Gilgal from galloti 'I have rolled away' the reproach of Egypt"}
+      - {motif: passover-celebrated-at-turning-point, refs: ["Josh 5:10"]}
+      - {motif: manna-ceases, refs: ["Josh 5:11-12"], note: "manna stops the day after they eat parched grain of the land"}
+      - {motif: angel-with-drawn-sword, refs: ["Josh 5:13"]}
+      - {motif: commander-of-heavenly-army, refs: ["Josh 5:14"], note: "sar tseva YHWH; answers 'No' to 'are you for us or for our enemies?'"}
+      - {motif: remove-sandals-holy-ground, refs: ["Josh 5:15"], note: "verbal echo of Exod 3:5"}
+    hints:
+      - "Compare Exod 4:25 (Zipporah's flint), Num 22:31 and 1Chr 21:16 (angel with drawn sword); Dan 10:13 and 12:1 (Michael the prince); Quran 20:12 (Moses told to remove his sandals in the sacred valley Tuwa)."
+      - "Rabbinic tradition identifies the commander as Michael; patristic reading as the pre-incarnate Logos."
+      - "LXX Josh 24:31a says the flint knives were buried with Joshua at Timnath-serah."
+  - id: hb-josh-6-jericho
+    tradition: judaism
+    title: Fall of Jericho; Rahab spared; curse on the rebuilder
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 6:1-27"]
+    tags:
+      - {motif: city-circled-seven-days, refs: ["Josh 6:3-4", "Josh 6:14-15"], note: "once a day for six days, seven times on the seventh"}
+      - {motif: seven-priests-seven-rams-horns, refs: ["Josh 6:4", "Josh 6:6", "Josh 6:8", "Josh 6:13"], note: "shofrot ha-yovelim"}
+      - {motif: ark-leads-army, refs: ["Josh 6:6-9", "Josh 6:11"]}
+      - {motif: imposed-silence-until-signal, refs: ["Josh 6:10"], note: "not a word may leave your mouth until I say 'shout'"}
+      - {motif: walls-fall-at-shout, refs: ["Josh 6:5", "Josh 6:20"], note: "'the wall fell down in its place' (tahteyha)"}
+      - {motif: herem-total-destruction, refs: ["Josh 6:17-19", "Josh 6:21"]}
+      - {motif: metals-consecrated-to-treasury, refs: ["Josh 6:19", "Josh 6:24"]}
+      - {motif: hospitable-harlot-spared, refs: ["Josh 6:17", "Josh 6:22-23", "Josh 6:25"], note: "Rahab and her family set 'outside the camp', then dwell 'in the midst of Israel to this day'"}
+      - {motif: curse-on-rebuilder-of-city, refs: ["Josh 6:26"], note: "foundation laid at the cost of his firstborn, gates set up at the cost of his youngest"}
+      - {motif: city-burned, refs: ["Josh 6:24"]}
+    hints:
+      - "Fulfilled in 1Kgs 16:34 (Hiel of Bethel loses Abiram and Segub): foundation-sacrifice motif."
+      - "Heb 11:30-31; Jas 2:25; Matt 1:5 (Rahab in Jesus' genealogy); rabbinic tradition has Rahab marry Joshua and become ancestor of prophets (b. Meg 14b)."
+      - "Compare ritual processions around a city; seven-day cycles in Ugaritic epic (Kirta's siege of Udm)."
+  - id: hb-josh-7-achan
+    tradition: judaism
+    title: Defeat at Ai and the trespass of Achan
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 7:1-26"]
+    tags:
+      - {motif: theft-from-devoted-things, refs: ["Josh 7:1", "Josh 7:11", "Josh 7:21"], note: "a Shinar mantle, 200 shekels of silver, a gold 'tongue' of 50 shekels, buried under his tent"}
+      - {motif: spies-scout-land, refs: ["Josh 7:2-3"]}
+      - {motif: defeat-because-of-hidden-sin, refs: ["Josh 7:4-5", "Josh 7:12"], note: "thirty-six men fall; 'the heart of the people melted and became water'"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["Josh 7:6"]}
+      - {motif: leader-complains-to-god-wishes-had-stayed, refs: ["Josh 7:7-9"], note: "'would that we had been content to stay beyond the Jordan'; 'what will you do for your great name?'"}
+      - {motif: urim-thummim-lot, refs: ["Josh 7:14-18"], note: "tribe, clan, household, man"}
+      - {motif: confession-give-glory-to-god, refs: ["Josh 7:19-20"]}
+      - {motif: coveted-saw-took-hid, refs: ["Josh 7:21"], note: "va-ere ... va-ehmedem va-eqqahem: saw, coveted, took (cf. Gen 3:6)"}
+      - {motif: family-executed-with-sinner, refs: ["Josh 7:24-25"], note: "sons, daughters, livestock and tent taken; stoned and burned"}
+      - {motif: stone-heap-over-executed, refs: ["Josh 7:26"]}
+      - {motif: place-name-etiology, refs: ["Josh 7:25-26"], note: "Valley of Achor, pun on 'akhar 'trouble'"}
+    hints:
+      - "1Chr 2:7 names him Achar 'troubler of Israel'; Hos 2:17 'the valley of Achor a door of hope'. Compare Acts 5:1-11 (Ananias and Sapphira keep back devoted goods)."
+      - "Rabbinic: Achan's confession earned him a share in the world to come (m. Sanh 6:2)."
+  - id: hb-josh-8-ai-ebal
+    tradition: judaism
+    title: Ambush and capture of Ai; altar and Torah inscribed on Mount Ebal
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 8:1-35"]
+    tags:
+      - {motif: feigned-retreat-ambush, refs: ["Josh 8:2", "Josh 8:4-7", "Josh 8:15-21"]}
+      - {motif: outstretched-javelin-until-victory, refs: ["Josh 8:18", "Josh 8:26"], note: "Joshua does not draw back his hand with the kidon until all Ai is destroyed (cf. Moses' hands, Exod 17:11-12)"}
+      - {motif: smoke-signal-from-burning-city, refs: ["Josh 8:20-21"]}
+      - {motif: enemy-king-hanged-till-sunset, refs: ["Josh 8:23", "Josh 8:29"], note: "body taken down at sunset (Deut 21:22-23) and cast at the city gate under a cairn"}
+      - {motif: stone-heap-over-executed, refs: ["Josh 8:29"]}
+      - {motif: city-made-eternal-tell, refs: ["Josh 8:28"], note: "tel olam shemamah; ha-Ai = 'the ruin'"}
+      - {motif: altar-of-unhewn-stones, refs: ["Josh 8:30-31"], note: "no iron lifted on them"}
+      - {motif: plastered-stones-inscribed-with-torah, refs: ["Josh 8:32"], note: "mishneh torat Mosheh written on the stones"}
+      - {motif: gerizim-blessing-ebal-curse, refs: ["Josh 8:33-34"], note: "half facing Gerizim, half facing Ebal"}
+      - {motif: public-reading-of-law-to-all, refs: ["Josh 8:34-35"], note: "women, children and resident aliens included"}
+      - {motif: herem-total-destruction, refs: ["Josh 8:26-27"], note: "but this time livestock and spoil are allowed"}
+    hints:
+      - "The Mount Ebal altar is central to Samaritan claims (Samaritan Pentateuch reads Gerizim in Deut 27:4). Compare Judg 20:29-48 (the same ambush tactic at Gibeah)."
+  - id: hb-josh-9-gibeonite-ruse
+    tradition: judaism
+    title: The Gibeonites trick Israel into a treaty
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 9:1-27"]
+    tags:
+      - {motif: coalition-of-canaanite-kings, refs: ["Josh 9:1-2"]}
+      - {motif: disguise-as-travelers-from-afar, refs: ["Josh 9:4-6", "Josh 9:12-13"], note: "worn sacks, split and patched wineskins, patched sandals, worn clothes, bread dry and crumbled (niqqudim)"}
+      - {motif: moldy-bread-as-proof, refs: ["Josh 9:5", "Josh 9:12"], note: "'this our bread was hot when we took it from our houses'"}
+      - {motif: failure-to-consult-god, refs: ["Josh 9:14"], note: "they took of their provisions and did not ask the mouth of YHWH"}
+      - {motif: oath-binding-though-obtained-by-deceit, refs: ["Josh 9:15", "Josh 9:18-20"], note: "princes cannot touch them 'lest wrath come upon us because of the oath'"}
+      - {motif: people-murmur-against-leaders, refs: ["Josh 9:18"]}
+      - {motif: hewers-of-wood-drawers-of-water, refs: ["Josh 9:21", "Josh 9:23", "Josh 9:27"], note: "perpetual temple servitude; cf. Deut 29:10"}
+      - {motif: curse-of-servitude, refs: ["Josh 9:23"], note: "'you are cursed: there shall never fail to be a slave among you'"}
+      - {motif: fame-of-god-reaches-foreigners, refs: ["Josh 9:9-10", "Josh 9:24"]}
+      - {motif: centralized-sanctuary-chosen-place, refs: ["Josh 9:27"]}
+    hints:
+      - "2Sam 21:1-14: Saul's violation of the Gibeonite oath brings famine. Compare Gen 9:25 (curse of Canaan to servitude) and Greek stories of oaths kept despite deception."
+      - "Rabbinic Netinim are identified with the Gibeonites (b. Yev 79a)."
+  - id: hb-josh-10-sun-stands-still
+    tradition: judaism
+    title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 10:1-43"]
+    tags:
+      - {motif: five-king-coalition, refs: ["Josh 10:3-5"], note: "Adoni-zedek of Jerusalem with Hoham, Piram, Japhia, Debir"}
+      - {motif: king-of-jerusalem-zedek-name, refs: ["Josh 10:1", "Josh 10:3"], note: "Adoni-tsedeq 'my lord is righteousness'"}
+      - {motif: night-march-surprise, refs: ["Josh 10:9"]}
+      - {motif: god-throws-enemy-into-panic, refs: ["Josh 10:10"], note: "vayhummem"}
+      - {motif: hailstones-from-heaven-kill-enemy, refs: ["Josh 10:11"], note: "more died by hailstones than by the sword"}
+      - {motif: sun-stands-still, refs: ["Josh 10:12-13"], note: "'Sun, be silent (dom) in Gibeon, and moon in the valley of Aijalon'; sun stood in mid-heaven about a whole day"}
+      - {motif: citation-of-lost-book, refs: ["Josh 10:13"], note: "Sefer ha-Yashar (Book of Jashar)"}
+      - {motif: god-obeys-voice-of-man, refs: ["Josh 10:14"], note: "'no day like it before or after, that YHWH heeded the voice of a man'"}
+      - {motif: divine-warrior, refs: ["Josh 10:14", "Josh 10:42"]}
+      - {motif: kings-hide-in-cave, refs: ["Josh 10:16-18"], note: "cave at Makkedah sealed with great stones"}
+      - {motif: no-one-whets-tongue-against-israel, refs: ["Josh 10:21"], note: "'no one sharpened his tongue against Israel'"}
+      - {motif: feet-on-necks-of-kings, refs: ["Josh 10:24"]}
+      - {motif: enemy-king-hanged-till-sunset, refs: ["Josh 10:26-27"], note: "five kings on five trees, then thrown into the cave; stones there 'to this very day'"}
+      - {motif: herem-total-destruction, refs: ["Josh 10:28-39"], note: "stereotyped formula repeated for Makkedah, Libnah, Lachish, Eglon, Hebron, Debir"}
+      - {motif: conquest-summary-from-kadesh-to-gaza, refs: ["Josh 10:40-42"]}
+    hints:
+      - "Compare Iliad 2.412-418 (Agamemnon prays the sun not to set before victory), Iliad 18.239-242 (Hera hastens sunset); Hab 3:11; Sir 46:4. Islamic tradition (Sahih Bukhari, hadith of a prophet whose sun was held back, identified as Joshua/Yusha')."
+      - "Hailstones: compare Exod 9:23-25, Rev 16:21. Book of Jashar also quoted in 2Sam 1:18; medieval pseudepigraphal Sefer ha-Yashar expands it."
+      - "Feet on necks: Assyrian and Egyptian royal iconography of kings treading on enemies; Ps 110:1."
+  - id: hb-josh-11-hazor-northern-campaign
+    tradition: judaism
+    title: Northern coalition under Jabin of Hazor; hamstrung horses; Anakim destroyed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 11:1-23"]
+    tags:
+      - {motif: coalition-of-canaanite-kings, refs: ["Josh 11:1-5"], note: "Jabin king of Hazor and kings of Madon, Shimron, Achshaph; at the waters of Merom"}
+      - {motif: army-like-sand-of-sea, refs: ["Josh 11:4"]}
+      - {motif: hamstring-horses-burn-chariots, refs: ["Josh 11:6", "Josh 11:9"]}
+      - {motif: pursuit-to-sidon, refs: ["Josh 11:8"], note: "to Great Sidon and Misrephoth-maim"}
+      - {motif: hazor-head-of-kingdoms, refs: ["Josh 11:10-11", "Josh 11:13"], note: "only Hazor burned; other cities 'standing on their tells' left"}
+      - {motif: god-hardens-enemy-heart, refs: ["Josh 11:20"], note: "it was from YHWH to strengthen their heart for battle so they would be destroyed"}
+      - {motif: giants-in-the-land, refs: ["Josh 11:21-22"], note: "Anakim remain only in Gaza, Gath and Ashdod (Goliath's Gath)"}
+      - {motif: land-had-rest-from-war, refs: ["Josh 11:23"]}
+      - {motif: fame-of-god-reaches-foreigners, refs: ["Josh 11:19"], note: "no city made peace except Gibeon"}
+    hints:
+      - "Jabin of Hazor reappears in Judg 4. Hazor is attested in Mari letters and Amarna (Abdi-Tirshi). Compare Exod 14 (hardening of Pharaoh's heart)."
+  - id: hb-josh-12-list-of-kings
+    tradition: judaism
+    title: List of the kings defeated by Moses and Joshua (thirty-one kings)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 12:1-24"]
+    tags:
+      - {motif: last-of-the-giants, refs: ["Josh 12:4"], note: "Og 'of the remnant of the Rephaim' dwelling at Ashtaroth and Edrei"}
+      - {motif: sihon-and-og-defeated, refs: ["Josh 12:2-6"]}
+      - {motif: list-of-conquered-kings, refs: ["Josh 12:9-24"], note: "each line ends 'ehad' (one); total 31 kings"}
+      - {motif: seven-nations-of-canaan, refs: ["Josh 12:8"], note: "here six named: Hittite, Amorite, Canaanite, Perizzite, Hivite, Jebusite"}
+      - {motif: king-of-goiim-at-gilgal, refs: ["Josh 12:23"], note: "'king of nations (goyim)' — cf. Tidal king of Goiim, Gen 14:1"}
+    hints:
+      - "Compare Egyptian topographical lists of conquered towns (Thutmose III at Karnak, Shishak list), which share names such as Megiddo, Taanach, Aphek."
+  - id: hb-josh-13-land-remaining-transjordan
+    tradition: judaism
+    title: Land still to be conquered; Transjordanian allotments; Balaam's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 13:1-33"]
+    tags:
+      - {motif: aged-leader-told-much-remains, refs: ["Josh 13:1"], note: "'you are old, advanced in days, and very much land remains'"}
+      - {motif: five-philistine-lords, refs: ["Josh 13:3"], note: "seranim of Gaza, Ashdod, Ashkelon, Gath, Ekron; plus the Avvim"}
+      - {motif: shihor-border-of-egypt, refs: ["Josh 13:3"]}
+      - {motif: land-unconquered-remains, refs: ["Josh 13:2-6", "Josh 13:13"], note: "Geshur and Maacath dwell in Israel 'to this day'"}
+      - {motif: ideal-borders-of-land, refs: ["Josh 13:5"], note: "the land of the Gebalites (Byblos) and all Lebanon"}
+      - {motif: levites-no-inheritance-god-is-portion, refs: ["Josh 13:14", "Josh 13:33"], note: "13:14 'the fire-offerings of YHWH are his inheritance'; 13:33 'YHWH is their inheritance'"}
+      - {motif: last-of-the-giants, refs: ["Josh 13:12"]}
+      - {motif: five-midianite-princes, refs: ["Josh 13:21"], note: "Evi, Rekem, Zur, Hur, Reba, called vassals (nesikhim) of Sihon"}
+      - {motif: seer-killed-in-battle, refs: ["Josh 13:22"], note: "Balaam son of Beor 'ha-qosem' (the diviner) slain by the sword"}
+      - {motif: towns-named-after-conqueror, refs: ["Josh 13:30"]}
+      - {motif: tribal-boundary-list, refs: ["Josh 13:15-32"], note: "Reuben, Gad, half-Manasseh; Baal-meon, Bamoth-baal, Beth-peor, Zereth-shahar ('splendor of dawn')"}
+    hints:
+      - "Balaam son of Beor is named in the Deir Alla plaster inscription (8th c. BCE), a 'seer of the gods'. Compare Num 31:8 and 2Pet 2:15; Rev 2:14."
+  - id: hb-josh-14-caleb-hebron
+    tradition: judaism
+    title: Allotment by lot begins; Caleb at eighty-five claims Hebron
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 14:1-15"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 14:1-2"], note: "by Eleazar the priest, Joshua and the heads of the fathers"}
+      - {motif: levites-no-inheritance-god-is-portion, refs: ["Josh 14:3-4"], note: "only cities and pasture lands"}
+      - {motif: joseph-two-tribes, refs: ["Josh 14:4"]}
+      - {motif: faithful-spy-rewarded, refs: ["Josh 14:6-9", "Josh 14:14"], note: "Caleb 'fully followed' (mille aharei) YHWH; 'the land your foot has trodden'"}
+      - {motif: vigor-undiminished-in-old-age, refs: ["Josh 14:10-11"], note: "85 years old, as strong as at 40"}
+      - {motif: giants-in-the-land, refs: ["Josh 14:12"], note: "Anakim and great fortified cities"}
+      - {motif: hebron-formerly-kiriath-arba, refs: ["Josh 14:15"], note: "Arba 'the greatest man among the Anakim'"}
+      - {motif: land-had-rest-from-war, refs: ["Josh 14:15"]}
+    hints:
+      - "Compare Deut 34:7 (Moses' eye not dim). Caleb 'the Kenizzite' — a Kenizzite (Edomite-linked, Gen 36:11) clan absorbed into Judah."
+  - id: hb-josh-15-judah-boundaries
+    tradition: judaism
+    title: The boundaries of Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 15:1-12"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 15:1"]}
+      - {motif: tribal-boundary-list, refs: ["Josh 15:2-12"]}
+      - {motif: scorpion-ascent, refs: ["Josh 15:3"], note: "Ma'aleh Aqrabbim 'ascent of scorpions'"}
+      - {motif: stone-of-bohan-son-of-reuben, refs: ["Josh 15:6"], note: "a boundary stone named for a Reubenite 'Bohan' ('thumb')"}
+      - {motif: spring-of-the-sun, refs: ["Josh 15:7"], note: "Ein Shemesh; also Ein Rogel 'fuller's/spy's spring'"}
+      - {motif: valley-of-hinnom, refs: ["Josh 15:8"], note: "Gei ben-Hinnom at the shoulder of the Jebusite, i.e. Jerusalem — the later Gehenna"}
+      - {motif: valley-of-rephaim, refs: ["Josh 15:8"], note: "valley named for the Rephaim (shades/giants)"}
+      - {motif: brook-of-egypt, refs: ["Josh 15:4"]}
+      - {motif: baalah-kiriath-jearim, refs: ["Josh 15:9-10"], note: "town also called Baalah, later home of the ark"}
+    hints:
+      - "Gehenna as place of punishment: 1 Enoch 27, Matt 5:22, rabbinic Gehinnom, Quranic Jahannam (from the same name)."
+      - "Rephaim as shades of the dead: Ugaritic rpum, Phoenician funerary inscriptions (Tabnit, Eshmunazar)."
+  - id: hb-josh-15-achsah-springs
+    tradition: judaism
+    title: Caleb drives out the three sons of Anak; Othniel wins Achsah; she asks for springs
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 15:13-19"]
+    tags:
+      - {motif: three-sons-of-anak, refs: ["Josh 15:14"], note: "Sheshai, Ahiman, Talmai"}
+      - {motif: giants-in-the-land, refs: ["Josh 15:14"]}
+      - {motif: hebron-formerly-kiriath-arba, refs: ["Josh 15:13"], note: "Arba 'father of the Anak'"}
+      - {motif: city-of-the-book, refs: ["Josh 15:15"], note: "Debir formerly Kiriath-sepher 'town of the scroll'"}
+      - {motif: daughter-offered-to-city-conqueror, refs: ["Josh 15:16-17"]}
+      - {motif: daughter-asks-father-for-springs, refs: ["Josh 15:18-19"], note: "she dismounts from the donkey; 'give me a blessing ... upper and lower springs (gullot)'"}
+    hints:
+      - "Repeated almost verbatim in Judg 1:11-15. Compare folk motif of the hero who wins a princess by a deed (Saul's offer, 1Sam 17:25; Greek suitor contests)."
+  - id: hb-josh-15-judah-cities
+    tradition: judaism
+    title: City list of Judah by districts; Jebusites remain in Jerusalem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 15:20-63"]
+    tags:
+      - {motif: town-list-by-district, refs: ["Josh 15:21-62"], note: "Negev, Shephelah, hill country and wilderness districts with city totals"}
+      - {motif: beth-dagon-place-name, refs: ["Josh 15:41"], note: "'house of Dagon' in Judah"}
+      - {motif: city-of-salt-en-gedi, refs: ["Josh 15:62"], note: "Ir ha-Melah and Ein Gedi in the wilderness by the Dead Sea"}
+      - {motif: baalah-kiriath-jearim, refs: ["Josh 15:60"], note: "Kiriath-baal = Kiriath-jearim"}
+      - {motif: land-unconquered-remains, refs: ["Josh 15:63"], note: "Judah could not dispossess the Jebusites of Jerusalem"}
+      - {motif: philistine-cities-and-daughters, refs: ["Josh 15:45-47"], note: "Ekron, Ashdod, Gaza 'and her daughters (villages)'"}
+    hints:
+      - "Ir ha-Melah is often identified with Khirbet Qumran (Qumran community). The LXX inserts an extra district including Bethlehem and Tekoa after 15:59."
+  - id: hb-josh-16-ephraim
+    tradition: judaism
+    title: Lot of the sons of Joseph; Ephraim's border; Gezer under forced labor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 16:1-10"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 16:1"]}
+      - {motif: tribal-boundary-list, refs: ["Josh 16:1-8"], note: "Bethel-Luz, Ataroth, Beth-horon, Taanath-shiloh, Wadi Kanah"}
+      - {motif: place-renamed-bethel, refs: ["Josh 16:2"]}
+      - {motif: canaanites-made-forced-labor, refs: ["Josh 16:10"], note: "Canaanites of Gezer remain 'to this day' as mas oved"}
+      - {motif: land-unconquered-remains, refs: ["Josh 16:10"]}
+    hints:
+      - "Gezer was given to Solomon as dowry by Pharaoh (1Kgs 9:16)."
+  - id: hb-josh-17-manasseh-zelophehad
+    tradition: judaism
+    title: Manasseh's lot; the daughters of Zelophehad receive land
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 17:1-13"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 17:1"]}
+      - {motif: firstborn-warrior-gets-gilead, refs: ["Josh 17:1"], note: "Machir, firstborn of Manasseh, 'a man of war', gets Gilead and Bashan"}
+      - {motif: daughters-inherit-without-sons, refs: ["Josh 17:3-4", "Josh 17:6"], note: "Mahlah, Noah, Hoglah, Milcah, Tirzah claim the land promised via Moses"}
+      - {motif: clan-names-as-town-names, refs: ["Josh 17:2-3"], note: "Shechem, Hepher, Abiezer; daughters' names Noah, Hoglah, Tirzah also towns (cf. Samaria ostraca)"}
+      - {motif: tribal-boundary-list, refs: ["Josh 17:7-11"], note: "Beth-shean, Ibleam, Dor, Endor, Taanach, Megiddo 'the three heights (nafet)'"}
+      - {motif: canaanites-made-forced-labor, refs: ["Josh 17:12-13"]}
+      - {motif: land-unconquered-remains, refs: ["Josh 17:12"]}
+    hints:
+      - "Num 27:1-11 and 36. Samaria ostraca (8th c.) name districts Abiezer, Helek, Asriel, Shechem, Shemida, Noah, Hoglah. Compare Mesopotamian and Greek epikleros (heiress) law."
+  - id: hb-josh-17-joseph-forest
+    tradition: judaism
+    title: Joseph's complaint of one lot; clear the forest; iron chariots
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 17:14-18"]
+    tags:
+      - {motif: tribe-complains-of-small-allotment, refs: ["Josh 17:14"], note: "'why have you given me one lot, one portion, though I am a numerous people?'"}
+      - {motif: clear-forest-for-land, refs: ["Josh 17:15", "Josh 17:18"], note: "'go up to the forest and clear (u-veretha, lit. create/cut) for yourself in the land of the Perizzites and Rephaim'"}
+      - {motif: iron-chariots-of-canaanites, refs: ["Josh 17:16", "Josh 17:18"], note: "Canaanites of the valley and Jezreel have iron chariots"}
+    hints:
+      - "Compare Judg 1:19; 4:3 (900 iron chariots of Sisera). Forest clearing as land-making: Gilgamesh's Cedar Forest expedition is a royal analogue."
+  - id: hb-josh-18-shiloh-survey
+    tradition: judaism
+    title: Tent of meeting set up at Shiloh; land surveyed in a book; seven lots cast
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 18:1-10"]
+    tags:
+      - {motif: tabernacle-at-shiloh, refs: ["Josh 18:1", "Josh 18:8-10"]}
+      - {motif: land-subdued-before-them, refs: ["Josh 18:1"], note: "ha-arets nikhbesha lifnehem, echoing Gen 1:28 kivshuha"}
+      - {motif: survey-of-land-written-in-book, refs: ["Josh 18:4", "Josh 18:6", "Josh 18:8-9"], note: "three men per tribe walk the land and write it in seven parts 'on a scroll'"}
+      - {motif: land-divided-by-lot, refs: ["Josh 18:6", "Josh 18:8", "Josh 18:10"], note: "lot cast 'here before YHWH'"}
+      - {motif: leader-rebukes-slackness, refs: ["Josh 18:3"], note: "'how long will you be slack to go in and possess?'"}
+      - {motif: levites-no-inheritance-god-is-portion, refs: ["Josh 18:7"], note: "'the priesthood of YHWH is his inheritance'"}
+    hints:
+      - "Compare cadastral surveys in Egypt and Mesopotamia; Greek colonial land division by lot (kleros)."
+  - id: hb-josh-18-benjamin
+    tradition: judaism
+    title: Benjamin's borders and cities
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 18:11-28"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 18:11"]}
+      - {motif: tribal-boundary-list, refs: ["Josh 18:12-20"]}
+      - {motif: valley-of-hinnom, refs: ["Josh 18:16"]}
+      - {motif: stone-of-bohan-son-of-reuben, refs: ["Josh 18:17"]}
+      - {motif: spring-of-the-sun, refs: ["Josh 18:17"]}
+      - {motif: place-renamed-bethel, refs: ["Josh 18:13"]}
+      - {motif: town-list-by-district, refs: ["Josh 18:21-28"], note: "includes 'the Jebusite, that is Jerusalem' assigned to Benjamin"}
+      - {motif: beth-aven-wilderness, refs: ["Josh 18:12"], note: "Beth-aven ('house of iniquity') near Bethel"}
+    hints:
+      - "Jerusalem assigned to Benjamin here but to Judah's border in 15:8, 63 — a rabbinic topic (temple courts split between Judah and Benjamin, b. Yoma 12a)."
+  - id: hb-josh-19-simeon
+    tradition: judaism
+    title: Simeon's inheritance within Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 19:1-9"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 19:1"]}
+      - {motif: tribe-absorbed-into-another, refs: ["Josh 19:1", "Josh 19:9"], note: "Simeon inherits inside Judah because Judah's portion was too large"}
+      - {motif: town-list-by-district, refs: ["Josh 19:2-8"], note: "Beth-markaboth 'house of chariots', Hazar-susah 'village of mares'"}
+    hints:
+      - "Gen 49:7 'I will scatter them in Jacob' (Simeon and Levi) is often read as fulfilled here."
+  - id: hb-josh-19-northern-tribes
+    tradition: judaism
+    title: Lots of Zebulun, Issachar, Asher and Naphtali
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 19:10-39"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 19:10", "Josh 19:17", "Josh 19:24", "Josh 19:32"]}
+      - {motif: tribal-boundary-list, refs: ["Josh 19:10-14", "Josh 19:18-22", "Josh 19:25-30", "Josh 19:33-38"]}
+      - {motif: bethlehem-of-zebulun, refs: ["Josh 19:15"], note: "a second Bethlehem in Galilee"}
+      - {motif: beth-dagon-place-name, refs: ["Josh 19:27"]}
+      - {motif: town-named-for-goddess-anath, refs: ["Josh 19:38"], note: "Beth-anath 'house of Anat'; also Beth-shemesh 'house of the sun' (19:22, 19:38)"}
+      - {motif: oak-of-zaanannim, refs: ["Josh 19:33"], note: "Elon be-Tsa'anannim — where Heber the Kenite camps in Judg 4:11"}
+      - {motif: tyre-fortress-city, refs: ["Josh 19:29"], note: "ir mivtsar Tsor"}
+      - {motif: mount-tabor-boundary, refs: ["Josh 19:12", "Josh 19:22", "Josh 19:34"]}
+    hints:
+      - "Kinnereth (19:35) gives its name to the Sea of Galilee. Shunem (19:18) is home of the Shunammite (2Kgs 4). Compare Ugaritic Anat; Egyptian lists naming Beth-anath."
+  - id: hb-josh-19-dan-leshem
+    tradition: judaism
+    title: Dan's lot; Danites capture Leshem and rename it Dan
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 19:40-48"]
+    tags:
+      - {motif: land-divided-by-lot, refs: ["Josh 19:40"]}
+      - {motif: town-list-by-district, refs: ["Josh 19:41-46"], note: "Zorah, Eshtaol, Ir-shemesh ('city of the sun'), Me-jarkon near Joppa"}
+      - {motif: city-renamed-after-ancestor, refs: ["Josh 19:47"], note: "Leshem renamed Dan 'after Dan their father'"}
+    hints:
+      - "Expanded in Judg 18 (Laish). Zorah/Eshtaol is Samson's country (Judg 13:25)."
+  - id: hb-josh-19-joshua-timnath-serah
+    tradition: judaism
+    title: Joshua's own inheritance at Timnath-serah; end of allotment at Shiloh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 19:49-51"]
+    tags:
+      - {motif: leader-receives-portion-last, refs: ["Josh 19:49-50"], note: "Joshua receives his city Timnath-serah only after all tribes"}
+      - {motif: land-divided-by-lot, refs: ["Josh 19:51"], note: "at the entrance of the tent of meeting in Shiloh"}
+      - {motif: tabernacle-at-shiloh, refs: ["Josh 19:51"]}
+    hints:
+      - "Judg 2:9 spells it Timnath-heres ('portion of the sun'); rabbinic tradition linked it to a sun image on Joshua's tomb (Rashi on Judg 2:9)."
+  - id: hb-josh-20-cities-of-refuge
+    tradition: judaism
+    title: Six cities of refuge designated
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 20:1-9"]
+    tags:
+      - {motif: cities-of-refuge, refs: ["Josh 20:2-3", "Josh 20:7-9"], note: "Kedesh, Shechem, Kiriath-arba/Hebron; Bezer, Ramoth-gilead, Golan"}
+      - {motif: blood-avenger, refs: ["Josh 20:3", "Josh 20:5", "Josh 20:9"], note: "go'el ha-dam"}
+      - {motif: manslayer-pleads-at-city-gate, refs: ["Josh 20:4"], note: "states his case in the ears of the elders at the gate"}
+      - {motif: unintentional-killing-no-prior-hatred, refs: ["Josh 20:3", "Josh 20:5"], note: "bi-shgagah, bi-vli da'at; 'did not hate him yesterday or the day before'"}
+      - {motif: release-at-high-priests-death, refs: ["Josh 20:6"]}
+      - {motif: refuge-open-to-resident-alien, refs: ["Josh 20:9"]}
+    hints:
+      - "Num 35; Deut 19. Compare Greek asylia of sanctuaries and the Athenian court at Phreatto for exiled homicides; the death of the high priest as expiation (b. Makkot 11b)."
+  - id: hb-josh-21-levitical-cities
+    tradition: judaism
+    title: Forty-eight Levitical cities by lot; all promises fulfilled
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 21:1-45"]
+    tags:
+      - {motif: levitical-cities, refs: ["Josh 21:2-3", "Josh 21:41-42"], note: "48 cities with migrash (pasture lands)"}
+      - {motif: land-divided-by-lot, refs: ["Josh 21:4-8"], note: "Kohathites (Aaronides first), Gershonites, Merarites"}
+      - {motif: aaronide-priests-get-cities-in-judah-benjamin, refs: ["Josh 21:10-19"], note: "13 cities including Hebron, Anathoth (Jeremiah's town)"}
+      - {motif: cities-of-refuge, refs: ["Josh 21:13", "Josh 21:21", "Josh 21:27", "Josh 21:32", "Josh 21:38"]}
+      - {motif: hebron-formerly-kiriath-arba, refs: ["Josh 21:11-12"], note: "city to priests, its fields to Caleb"}
+      - {motif: town-list-by-district, refs: ["Josh 21:13-40"]}
+      - {motif: land-had-rest-from-war, refs: ["Josh 21:44"]}
+      - {motif: not-one-word-failed, refs: ["Josh 21:45"], note: "lo nafal davar mi-kol ha-davar ha-tov ... ha-kol ba"}
+    hints:
+      - "1Chr 6:39-66 parallel. 21:36-37 (Reuben's cities) are missing in some Masoretic manuscripts and printed with a note; present in this WLC text."
+  - id: hb-josh-22-altar-of-witness
+    tradition: judaism
+    title: Eastern tribes dismissed; the altar 'Ed' by the Jordan nearly causes civil war
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 22:1-34"]
+    tags:
+      - {motif: transjordan-tribes-fight-first, refs: ["Josh 22:1-4"], note: "dismissed after keeping faith with their brothers"}
+      - {motif: love-god-cleave-to-him, refs: ["Josh 22:5"], note: "le-ahava ... u-ledovqa vo ... be-khol levavkhem u-vkhol nafshekhem"}
+      - {motif: share-spoil-with-those-at-home, refs: ["Josh 22:8"]}
+      - {motif: rival-altar-crisis, refs: ["Josh 22:10-12", "Josh 22:16", "Josh 22:19"], note: "a 'great altar to look at' at Geliloth by the Jordan; congregation musters at Shiloh for war"}
+      - {motif: priestly-delegation-phinehas, refs: ["Josh 22:13-14", "Josh 22:30-32"], note: "Phinehas with ten princes, one per ancestral house"}
+      - {motif: sin-of-peor-remembered, refs: ["Josh 22:17"], note: "'from which we have not cleansed ourselves to this day'"}
+      - {motif: transjordan-as-unclean-land, refs: ["Josh 22:19"], note: "'if the land of your possession is unclean, cross over to YHWH's possession where his tabernacle dwells'"}
+      - {motif: collective-vs-individual-guilt, refs: ["Josh 22:18", "Josh 22:20"], note: "Achan cited: 'he did not perish alone in his iniquity'"}
+      - {motif: divine-name-triple-oath, refs: ["Josh 22:22"], note: "'El Elohim YHWH, El Elohim YHWH, he knows'"}
+      - {motif: future-generations-deny-share-in-god, refs: ["Josh 22:24-25", "Josh 22:27-28"], note: "fear that future children will say 'you have no portion in YHWH'"}
+      - {motif: replica-altar-as-witness, refs: ["Josh 22:26-28", "Josh 22:34"], note: "tavnit mizbah YHWH 'a copy' not for offerings but as witness (ed)"}
+      - {motif: place-name-etiology, refs: ["Josh 22:34"], note: "altar named 'Witness'"}
+    hints:
+      - "Compare Gen 31:44-52 (Galeed, heap of witness); Isa 19:19 (altar in Egypt as witness). Debates on central sanctuary vs. outside altars: Samaritan Gerizim, the Elephantine and Leontopolis temples."
+  - id: hb-josh-23-farewell-address
+    tradition: judaism
+    title: Joshua's farewell warning against intermarriage and foreign gods
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 23:1-16"]
+    tags:
+      - {motif: farewell-speech-of-dying-leader, refs: ["Josh 23:1-2", "Josh 23:14"], note: "'I am going today the way of all the earth'"}
+      - {motif: not-one-word-failed, refs: ["Josh 23:14"]}
+      - {motif: turn-neither-right-nor-left, refs: ["Josh 23:6"]}
+      - {motif: do-not-mention-other-gods-names, refs: ["Josh 23:7"], note: "do not mention their names nor swear by them"}
+      - {motif: one-chases-a-thousand, refs: ["Josh 23:10"]}
+      - {motif: no-intermarriage-with-nations, refs: ["Josh 23:12"]}
+      - {motif: remaining-natives-as-thorns, refs: ["Josh 23:13"], note: "trap, snare, scourge in your sides, thorns in your eyes"}
+      - {motif: blessing-and-curse-symmetry, refs: ["Josh 23:15-16"], note: "as every good word came, so will every evil word"}
+      - {motif: divine-warrior, refs: ["Josh 23:3", "Josh 23:10"]}
+    hints:
+      - "Compare Deut 32:30, Lev 26:8; Gen 47-49 and Deut 33 (testaments); the genre of the Testaments of the Twelve Patriarchs; 1Kgs 2:2 (David: 'I go the way of all the earth')."
+  - id: hb-josh-24-shechem-covenant
+    tradition: judaism
+    title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Josh 24:1-33"]
+    tags:
+      - {motif: father-serves-idols, refs: ["Josh 24:2", "Josh 24:14-15"], note: "Terah, father of Abraham and Nahor, served other gods beyond the River"}
+      - {motif: historical-recital-of-salvation, refs: ["Josh 24:2-13"], note: "patriarchs, Egypt, Sea, Amorites, Balaam, Jericho"}
+      - {motif: darkness-between-israel-and-egypt, refs: ["Josh 24:7"], note: "ma'afel set between you and the Egyptians"}
+      - {motif: balaam-curse-turned-to-blessing, refs: ["Josh 24:9-10"]}
+      - {motif: hornet-drives-out-enemies, refs: ["Josh 24:12"], note: "ha-tsir'ah drove out the two Amorite kings; 'not by your sword nor your bow'"}
+      - {motif: inherit-houses-not-built, refs: ["Josh 24:13"], note: "land not labored, cities not built, vineyards and olives not planted"}
+      - {motif: choose-whom-you-will-serve, refs: ["Josh 24:15"], note: "'as for me and my house, we will serve YHWH'"}
+      - {motif: you-cannot-serve-holy-jealous-god, refs: ["Josh 24:19-20"], note: "elohim qedoshim (plural adjective), el qanno"}
+      - {motif: people-witnesses-against-themselves, refs: ["Josh 24:22"]}
+      - {motif: putting-away-foreign-gods, refs: ["Josh 24:14", "Josh 24:23"], note: "cf. Gen 35:2-4 at the same Shechem oak"}
+      - {motif: covenant-book-written, refs: ["Josh 24:25-26"], note: "written in the 'book of the Torah of God'"}
+      - {motif: witness-stone-that-hears, refs: ["Josh 24:26-27"], note: "great stone under the oak (alah) in YHWH's sanctuary: 'it has heard all the words of YHWH'"}
+      - {motif: sacred-tree-sanctuary, refs: ["Josh 24:26"]}
+      - {motif: hero-age-110, refs: ["Josh 24:29"], note: "Joshua dies at 110, like Joseph"}
+      - {motif: burial-at-mount-gaash, refs: ["Josh 24:30"], note: "Timnath-serah north of Mount Gaash ('quaking')"}
+      - {motif: bones-carried-out-oath, refs: ["Josh 24:32"], note: "Joseph's bones buried at Shechem in the plot Jacob bought for 100 qesitah"}
+      - {motif: priest-buried-at-sons-hill, refs: ["Josh 24:33"], note: "Eleazar buried at Gibeah of Phinehas"}
+    hints:
+      - "Quran 6:74, 19:42-48 and 21:52 (Abraham's father Azar an idolater); Jubilees 11-12 and Apocalypse of Abraham (Terah makes idols); Genesis Rabbah 38 (Terah's idol shop)."
+      - "Hornet: Exod 23:28, Deut 7:20. Speaking/hearing stones: Luke 19:40; Hab 2:11. Compare Hittite vassal treaties (historical prologue, witnesses, deposit of text)."
+      - "LXX adds that the flint knives of circumcision were buried with Joshua."
+  - id: hb-judg-1-incomplete-conquest
+    tradition: judaism
+    title: Judah goes up first; Adoni-bezek's thumbs; Luz betrayed; list of unconquered cities
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 1:1-36"]
+    tags:
+      - {motif: oracle-who-goes-up-first, refs: ["Judg 1:1-2"], note: "answer: Judah (repeated in Judg 20:18)"}
+      - {motif: thumbs-and-big-toes-cut-off, refs: ["Judg 1:6-7"], note: "Adoni-bezek; seventy kings with cut thumbs and toes gathered scraps under his table"}
+      - {motif: seventy-kings-under-table, refs: ["Judg 1:7"]}
+      - {motif: measure-for-measure-retribution, refs: ["Judg 1:7"], note: "'as I have done, so God has repaid me'"}
+      - {motif: three-sons-of-anak, refs: ["Judg 1:10", "Judg 1:20"]}
+      - {motif: daughter-offered-to-city-conqueror, refs: ["Judg 1:12-13"]}
+      - {motif: daughter-asks-father-for-springs, refs: ["Judg 1:14-15"]}
+      - {motif: city-of-the-book, refs: ["Judg 1:11"]}
+      - {motif: kenites-settle-with-judah, refs: ["Judg 1:16"], note: "sons of the Kenite, Moses' father-in-law, from the City of Palms"}
+      - {motif: place-name-etiology, refs: ["Judg 1:17"], note: "Zephath devoted (herem) and renamed Hormah"}
+      - {motif: iron-chariots-of-canaanites, refs: ["Judg 1:19"]}
+      - {motif: informant-shows-city-entrance, refs: ["Judg 1:24-26"], note: "man of Luz shows the way in, is spared, founds a new Luz in Hittite land"}
+      - {motif: land-unconquered-remains, refs: ["Judg 1:21", "Judg 1:27-36"]}
+      - {motif: canaanites-made-forced-labor, refs: ["Judg 1:28", "Judg 1:30", "Judg 1:33", "Judg 1:35"]}
+    hints:
+      - "Mutilation of thumbs so captives cannot wield weapons: Athenians and Aeginetans (Aelian, Var. Hist. 2.9); Assyrian practice."
+      - "Rabbinic legend: the new Luz is the city where the angel of death has no power (b. Sotah 46b); also the Luz bone of resurrection."
+  - id: hb-judg-2-bochim-cycle
+    tradition: judaism
+    title: Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 2:1-23"]
+    tags:
+      - {motif: angel-rebukes-people, refs: ["Judg 2:1-3"], note: "mal'akh YHWH comes up from Gilgal to Bochim speaking in first person as God"}
+      - {motif: remaining-natives-as-thorns, refs: ["Judg 2:3"]}
+      - {motif: place-name-etiology, refs: ["Judg 2:4-5"], note: "Bochim 'weepers'"}
+      - {motif: hero-age-110, refs: ["Judg 2:8"]}
+      - {motif: burial-at-mount-gaash, refs: ["Judg 2:9"], note: "here Timnath-heres ('portion of the sun')"}
+      - {motif: generation-that-knew-not-god, refs: ["Judg 2:10"]}
+      - {motif: baal-and-ashtaroth-worship, refs: ["Judg 2:11", "Judg 2:13"]}
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 2:14-19"], note: "programmatic statement of the Judges cycle"}
+      - {motif: god-relents, refs: ["Judg 2:18"], note: "yinnahem YHWH mi-na'aqatam"}
+      - {motif: idolatry-as-harlotry, refs: ["Judg 2:17"]}
+      - {motif: nations-left-to-test-israel, refs: ["Judg 2:21-23"]}
+    hints:
+      - "Cyclical history: compare Polybius' anacyclosis, Hesiod's ages; Quran's repeated pattern of nations sent messengers then punished (e.g. Q 7)."
+  - id: hb-judg-3-othniel
+    tradition: judaism
+    title: Nations left to teach war; Othniel defeats Cushan-rishathaim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 3:1-11"]
+    tags:
+      - {motif: nations-left-to-test-israel, refs: ["Judg 3:1-4"], note: "also 'to teach war' to generations that had not known it"}
+      - {motif: five-philistine-lords, refs: ["Judg 3:3"]}
+      - {motif: no-intermarriage-with-nations, refs: ["Judg 3:6"], note: "violated: they took their daughters and gave theirs"}
+      - {motif: baal-and-ashtaroth-worship, refs: ["Judg 3:7"], note: "Baals and Asherahs"}
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 3:8-11"]}
+      - {motif: oppressor-with-mocking-name, refs: ["Judg 3:8", "Judg 3:10"], note: "Cushan Rish'atayim 'Cushan of double wickedness', king of Aram-naharaim"}
+      - {motif: spirit-of-god-rushes-on-hero, refs: ["Judg 3:10"]}
+      - {motif: land-rests-forty-years, refs: ["Judg 3:11"]}
+    hints:
+      - "Othniel is the only judge from Judah; rabbinic tradition identifies him with Jabez (1Chr 4:9-10)."
+  - id: hb-judg-3-ehud-eglon
+    tradition: judaism
+    title: Left-handed Ehud assassinates fat King Eglon; Shamgar's oxgoad
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 3:12-31"]
+    tags:
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 3:12-15"]}
+      - {motif: city-of-palms-captured, refs: ["Judg 3:13"], note: "Moab, Ammon and Amalek take the City of Palms (Jericho)"}
+      - {motif: left-handed-warrior, refs: ["Judg 3:15", "Judg 3:21"], note: "itter yad yemino, 'bound in his right hand' — ironic in a Ben-jamin ('son of the right')"}
+      - {motif: tribute-as-pretext-for-assassination, refs: ["Judg 3:15", "Judg 3:17-18"]}
+      - {motif: hidden-double-edged-dagger, refs: ["Judg 3:16", "Judg 3:21"], note: "a gomed long, strapped on the right thigh under his garment"}
+      - {motif: fat-king-killed, refs: ["Judg 3:17", "Judg 3:22"], note: "Eglon ('calf') 'very fat'; fat closes over the blade, the hilt goes in after it; parshedonah (excrement/anus) comes out"}
+      - {motif: secret-word-for-the-king, refs: ["Judg 3:19-20"], note: "'I have a secret word'; 'a word of God I have for you' — the king rises"}
+      - {motif: carved-stones-at-gilgal, refs: ["Judg 3:19", "Judg 3:26"], note: "ha-pesilim near Gilgal (idols or the twelve stones?)"}
+      - {motif: locked-room-servants-think-king-relieving-himself, refs: ["Judg 3:23-25"], note: "'he is covering his feet in the cool chamber'; they wait 'until shame', then use the key"}
+      - {motif: seize-fords-of-jordan, refs: ["Judg 3:28"]}
+      - {motif: land-rests-forty-years, refs: ["Judg 3:30"], note: "eighty years"}
+      - {motif: oxgoad-kills-six-hundred, refs: ["Judg 3:31"], note: "Shamgar son of Anath kills 600 Philistines with a cattle-goad"}
+      - {motif: hero-named-for-goddess-anath, refs: ["Judg 3:31"]}
+    hints:
+      - "Compare Judg 20:16 (700 left-handed Benjaminite slingers). Assassination by a tribute-bearer: Mucius Scaevola, the assassination of Philip II; Jael's killing of Sisera (Judg 4)."
+      - "Shamgar ben Anath: compare Ugaritic warrior goddess Anat; Judg 5:6; 2Sam 23:11-12 (Shammah)."
+  - id: hb-judg-4-deborah-jael
+    tradition: judaism
+    title: Deborah and Barak defeat Sisera; Jael kills him with a tent peg
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 4:1-24"]
+    tags:
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 4:1-3"]}
+      - {motif: iron-chariots-of-canaanites, refs: ["Judg 4:3", "Judg 4:13"], note: "nine hundred iron chariots"}
+      - {motif: woman-prophet-judge, refs: ["Judg 4:4-5"], note: "Deborah, 'woman of Lappidoth' (or 'fiery woman'), judges under the Palm of Deborah"}
+      - {motif: judging-under-sacred-tree, refs: ["Judg 4:5"]}
+      - {motif: commander-refuses-without-prophetess, refs: ["Judg 4:8"], note: "'if you go with me I will go; if not, I will not go'"}
+      - {motif: glory-to-a-woman-not-the-warrior, refs: ["Judg 4:9"], note: "'into the hand of a woman YHWH will sell Sisera'"}
+      - {motif: mount-tabor-boundary, refs: ["Judg 4:6", "Judg 4:12", "Judg 4:14"], note: "muster on Mount Tabor"}
+      - {motif: god-throws-enemy-into-panic, refs: ["Judg 4:15"], note: "vayyahom"}
+      - {motif: general-flees-on-foot, refs: ["Judg 4:15", "Judg 4:17"]}
+      - {motif: oak-of-zaanannim, refs: ["Judg 4:11"], note: "Heber the Kenite separated from the Kenites, descendants of Hobab father-in-law of Moses"}
+      - {motif: woman-kills-enemy-commander, refs: ["Judg 4:21-22"], note: "tent peg and hammer driven through his temple into the ground while he sleeps"}
+      - {motif: hospitality-violated-to-kill-guest, refs: ["Judg 4:18-20"], note: "'turn aside, my lord, do not fear'; covers him with a rug, gives milk instead of water"}
+      - {motif: milk-given-for-water, refs: ["Judg 4:19"]}
+    hints:
+      - "Compare Judith 13 (Judith beheads drunken Holofernes in his tent); Luke 1:42 ('blessed among women'); Rabbinic: Jael gave him milk to make him drowsy (b. Nid 55b; Targum)."
+      - "Sisera's name may be non-Semitic (Luwian/Sea Peoples). Harosheth-ha-goiim 'smithy of the nations'."
+  - id: hb-judg-5-song-of-deborah
+    tradition: judaism
+    title: The Song of Deborah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 5:1-31"]
+    tags:
+      - {motif: victory-song-by-woman, refs: ["Judg 5:1", "Judg 5:3", "Judg 5:12"], note: "'awake, awake, Deborah, utter a song'"}
+      - {motif: god-comes-from-sinai-seir-paran, refs: ["Judg 5:4"], note: "theophany from the southern mountains"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["Judg 5:4-5"], note: "heavens drip, mountains flow; 'zeh Sinai' — 'the One of Sinai'"}
+      - {motif: roads-deserted-under-oppression, refs: ["Judg 5:6-7"]}
+      - {motif: mother-in-israel, refs: ["Judg 5:7"], note: "'until I, Deborah, arose, arose a mother in Israel'"}
+      - {motif: no-shield-or-spear-in-israel, refs: ["Judg 5:8"], note: "not a shield or spear among forty thousand"}
+      - {motif: riders-on-white-donkeys, refs: ["Judg 5:10"], note: "atonot tsehorot"}
+      - {motif: roll-call-of-tribes-praise-and-blame, refs: ["Judg 5:14-18"], note: "Reuben among the sheepfolds, Gilead, Dan with ships, Asher at the coast rebuked; Zebulun and Naphtali risk their lives"}
+      - {motif: stars-fight-from-heaven, refs: ["Judg 5:20"], note: "'from their courses (mesillot) the stars fought against Sisera'"}
+      - {motif: river-sweeps-away-enemy, refs: ["Judg 5:21"], note: "'the torrent Kishon swept them away, the ancient torrent'"}
+      - {motif: galloping-of-horses, refs: ["Judg 5:22"]}
+      - {motif: curse-on-town-that-did-not-help, refs: ["Judg 5:23"], note: "Meroz cursed by the angel of YHWH"}
+      - {motif: woman-kills-enemy-commander, refs: ["Judg 5:24-27"], note: "'between her feet he sank, fell, lay'"}
+      - {motif: milk-given-for-water, refs: ["Judg 5:25"], note: "curds in a lordly bowl"}
+      - {motif: blessed-among-women, refs: ["Judg 5:24"]}
+      - {motif: enemy-mother-waits-at-window, refs: ["Judg 5:28-30"], note: "Sisera's mother peers through the lattice; her wise ladies imagine 'a womb, two wombs for each man' and dyed embroidered spoil"}
+      - {motif: woman-at-the-window, refs: ["Judg 5:28"]}
+      - {motif: lovers-of-god-like-rising-sun, refs: ["Judg 5:31"]}
+      - {motif: land-rests-forty-years, refs: ["Judg 5:31"]}
+    hints:
+      - "Woman at the window: Phoenician ivory plaques; Michal (2Sam 6:16); Jezebel (2Kgs 9:30). Stars fighting: Josephus says a storm with hail blinded the Canaanites (Ant. 5.205); compare cosmic battle motifs, Baal's storm theophany."
+      - "Theophany from Seir/Teman: Deut 33:2, Hab 3:3; Kuntillet Ajrud inscriptions 'YHWH of Teman'."
+      - "Luke 1:42 (Elizabeth to Mary: 'blessed are you among women') echoes 5:24."
+  - id: hb-judg-6-midian-prophet
+    tradition: judaism
+    title: Midianite oppression like locusts; an anonymous prophet rebukes Israel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 6:1-10"]
+    tags:
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 6:1", "Judg 6:6-7"]}
+      - {motif: hiding-in-caves-and-strongholds, refs: ["Judg 6:2"], note: "minharot (dens/tunnels), caves and strongholds in the mountains"}
+      - {motif: nomad-raiders-destroy-harvest, refs: ["Judg 6:3-5"], note: "Midian, Amalek and the Sons of the East"}
+      - {motif: enemies-numerous-as-locusts, refs: ["Judg 6:5"], note: "camels without number"}
+      - {motif: anonymous-prophet-rebukes, refs: ["Judg 6:8-10"], note: "'ish navi' recites the Exodus"}
+    hints:
+      - "Earliest biblical scene of mass camel-riding raiders; compare Assyrian reliefs of Arab camel riders (Ashurbanipal)."
+  - id: hb-judg-6-gideon-call
+    tradition: judaism
+    title: Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 6:11-24"]
+    tags:
+      - {motif: angel-sits-under-sacred-tree, refs: ["Judg 6:11"], note: "under the terebinth (elah) at Ophrah"}
+      - {motif: hero-called-at-work, refs: ["Judg 6:11"], note: "beating out wheat in the winepress to hide it from Midian"}
+      - {motif: mighty-man-of-valor-greeting, refs: ["Judg 6:12"], note: "'YHWH is with you, mighty man of valor'"}
+      - {motif: called-one-questions-gods-absence, refs: ["Judg 6:13"], note: "'where are all his wonders that our fathers told us?'"}
+      - {motif: reluctant-prophet-objects, refs: ["Judg 6:15"], note: "'my clan is the weakest in Manasseh and I am the least in my father's house'"}
+      - {motif: request-for-a-sign, refs: ["Judg 6:17"]}
+      - {motif: meal-offered-to-divine-visitor, refs: ["Judg 6:18-19"], note: "kid, an ephah of matzot, broth in a pot"}
+      - {motif: fire-from-rock-consumes-offering, refs: ["Judg 6:20-21"], note: "angel touches it with the tip of his staff; then vanishes"}
+      - {motif: fear-of-death-after-seeing-god, refs: ["Judg 6:22-23"], note: "'I have seen the angel of YHWH face to face' — 'you shall not die'"}
+      - {motif: altar-given-divine-name, refs: ["Judg 6:24"], note: "YHWH-shalom"}
+    hints:
+      - "Compare Gen 18 (meal for visitors under the oaks of Mamre); Judg 13:19-20 (angel ascends in the flame); Exod 3-4 (Moses' objections); 1Sam 9:21 (Saul 'least of the tribes'); Lev 9:24, 1Kgs 18:38 (fire consumes offering)."
+  - id: hb-judg-6-jerubbaal-fleece
+    tradition: judaism
+    title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 6:25-40"]
+    tags:
+      - {motif: father-serves-idols, refs: ["Judg 6:25"], note: "the Baal altar and Asherah belong to Gideon's father Joash"}
+      - {motif: hero-smashes-idols, refs: ["Judg 6:25-28"], note: "done at night with ten servants for fear of his family and the town"}
+      - {motif: seven-year-old-bull-sacrificed, refs: ["Judg 6:25-26", "Judg 6:28"], note: "the second bull, seven years old, burned on wood of the Asherah"}
+      - {motif: townsmen-demand-death-of-iconoclast, refs: ["Judg 6:29-30"]}
+      - {motif: let-the-god-defend-himself, refs: ["Judg 6:31"], note: "Joash: 'if he is a god, let him contend for himself'"}
+      - {motif: person-renamed-for-deed, refs: ["Judg 6:32"], note: "Jerubbaal 'let Baal contend with him'"}
+      - {motif: spirit-of-god-rushes-on-hero, refs: ["Judg 6:34"], note: "ruah YHWH lavsha 'clothed itself with' Gideon"}
+      - {motif: fleece-test, refs: ["Judg 6:36-40"], note: "dew on the fleece only, wrung out a bowlful; then dry fleece with dew around"}
+      - {motif: request-for-a-sign, refs: ["Judg 6:36-37", "Judg 6:39"]}
+    hints:
+      - "Quran 21:58-68 and 37:91-98 (Abraham smashes idols; people demand punishment; 'ask them if they can speak'); 1Kgs 18:27 (Elijah mocks Baal). Gideon's fleece in Christian typology for Mary's virginal conception (Ps 72:6 Vulgate)."
+  - id: hb-judg-7-gideons-three-hundred
+    tradition: judaism
+    title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 7:1-25"]
+    tags:
+      - {motif: army-reduced-so-god-gets-glory, refs: ["Judg 7:2-3", "Judg 7:7"], note: "'lest Israel boast: my own hand saved me'"}
+      - {motif: fearful-sent-home, refs: ["Judg 7:3"], note: "22,000 return"}
+      - {motif: soldiers-chosen-by-way-of-drinking, refs: ["Judg 7:4-7"], note: "those lapping like a dog (300) vs kneeling to drink"}
+      - {motif: spying-enemy-camp-at-night, refs: ["Judg 7:9-11"], note: "with his servant Purah"}
+      - {motif: enemies-numerous-as-locusts, refs: ["Judg 7:12"], note: "as locusts, camels as sand of the sea"}
+      - {motif: enemy-dream-foretells-defeat, refs: ["Judg 7:13-15"], note: "a cake of barley bread tumbles into the camp and overturns the tent"}
+      - {motif: jars-torches-and-horns, refs: ["Judg 7:16", "Judg 7:19-20"], note: "torches hidden in empty jars, smashed at the middle watch"}
+      - {motif: war-cry-sword-for-god-and-leader, refs: ["Judg 7:18", "Judg 7:20"], note: "'For YHWH and for Gideon!' / 'A sword for YHWH and for Gideon!'"}
+      - {motif: enemy-turns-swords-on-each-other, refs: ["Judg 7:22"]}
+      - {motif: seize-fords-of-jordan, refs: ["Judg 7:24"]}
+      - {motif: enemy-princes-raven-and-wolf, refs: ["Judg 7:25"], note: "Oreb ('raven') killed at the Rock of Oreb, Zeeb ('wolf') at the Winepress of Zeeb; heads brought to Gideon"}
+      - {motif: hill-of-moreh, refs: ["Judg 7:1"], note: "Gibeath ha-Moreh 'hill of the teacher/oracle'; Ein Harod 'spring of trembling'"}
+    hints:
+      - "Quran 2:249: Talut (Saul) tests his army at a river — those who drink are excluded except a scoop by hand; the few defeat Goliath. Clear transfer of Gideon's test."
+      - "Ruse of torches and noise: Hannibal's oxen with torches on their horns (Livy 22.16-17); Isa 9:3 and 10:26 recall 'the day of Midian' and the rock of Oreb."
+  - id: hb-judg-8-zebah-zalmunna
+    tradition: judaism
+    title: Ephraim appeased; Succoth and Penuel punished; the kings of Midian slain
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 8:1-21"]
+    tags:
+      - {motif: tribe-angry-not-called-to-battle, refs: ["Judg 8:1-3"], note: "Ephraim quarrels; Gideon: 'are not the gleanings of Ephraim better than the vintage of Abiezer?'"}
+      - {motif: soft-answer-turns-away-wrath, refs: ["Judg 8:2-3"]}
+      - {motif: towns-refuse-bread-to-pursuing-army, refs: ["Judg 8:5-9"], note: "'is the palm of Zebah already in your hand?'"}
+      - {motif: punishment-with-desert-thorns, refs: ["Judg 8:7", "Judg 8:16"], note: "threshes/teaches the elders of Succoth with thorns and briers"}
+      - {motif: tower-pulled-down, refs: ["Judg 8:9", "Judg 8:17"], note: "tower of Penuel"}
+      - {motif: captured-youth-writes-list, refs: ["Judg 8:14"], note: "a na'ar of Succoth writes down 77 officials and elders — casual evidence of literacy"}
+      - {motif: blood-vengeance-for-brothers, refs: ["Judg 8:18-19"], note: "the slain at Tabor were 'my brothers, sons of my mother'; they 'resembled sons of a king'"}
+      - {motif: young-son-afraid-to-execute, refs: ["Judg 8:20"], note: "firstborn Jether does not draw his sword"}
+      - {motif: kings-ask-hero-to-kill-them, refs: ["Judg 8:21"], note: "'rise yourself and fall on us, for as the man is, so is his strength'"}
+      - {motif: crescent-ornaments-on-camels, refs: ["Judg 8:21"], note: "saharonim (moon-shaped amulets) on the camels' necks"}
+    hints:
+      - "Ps 83:12 (make their nobles like Oreb and Zeeb, Zebah and Zalmunna). Crescent amulets: Isa 3:18; pre-Islamic Arabian lunar symbols."
+  - id: hb-judg-8-gideon-refuses-kingship
+    tradition: judaism
+    title: Gideon refuses to rule; the golden ephod; seventy sons and Abimelech
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 8:22-35"]
+    tags:
+      - {motif: hero-refuses-kingship-god-rules, refs: ["Judg 8:22-23"], note: "'I will not rule over you, nor my son; YHWH will rule over you'"}
+      - {motif: earrings-collected-for-cult-object, refs: ["Judg 8:24-26"], note: "1,700 shekels of gold earrings from 'Ishmaelite' spoil spread on a cloak"}
+      - {motif: ephod-becomes-snare, refs: ["Judg 8:27"], note: "all Israel 'went whoring after it' at Ophrah"}
+      - {motif: land-rests-forty-years, refs: ["Judg 8:28"]}
+      - {motif: seventy-sons, refs: ["Judg 8:30"]}
+      - {motif: son-of-concubine-named-my-father-is-king, refs: ["Judg 8:31"], note: "Abimelech 'my father is king' born to a Shechemite concubine"}
+      - {motif: death-old-and-full-of-days, refs: ["Judg 8:32"]}
+      - {motif: baal-berith, refs: ["Judg 8:33"], note: "'Baal of the covenant' made their god"}
+    hints:
+      - "Exod 32:2-4 (golden calf from earrings); 1Sam 8:7 (rejecting God as king). Ishmaelites = Midianites here as in Gen 37:28, 36."
+  - id: hb-judg-9-abimelech-jotham
+    tradition: judaism
+    title: Abimelech kills his seventy brothers on one stone; Jotham's fable of the trees
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 9:1-21"]
+    tags:
+      - {motif: appeal-to-kinship-bone-and-flesh, refs: ["Judg 9:2-3"], note: "'I am your bone and your flesh'"}
+      - {motif: temple-treasury-funds-usurper, refs: ["Judg 9:4"], note: "seventy silver from the house of Baal-berith hires worthless men"}
+      - {motif: fratricide-of-seventy-on-one-stone, refs: ["Judg 9:5", "Judg 9:18"]}
+      - {motif: youngest-son-escapes-massacre, refs: ["Judg 9:5"], note: "Jotham hides"}
+      - {motif: king-crowned-at-sacred-tree, refs: ["Judg 9:6"], note: "by the oak of the pillar (elon mutsav) at Shechem"}
+      - {motif: speech-from-mountaintop, refs: ["Judg 9:7"], note: "from the top of Mount Gerizim"}
+      - {motif: fable-of-trees-choosing-king, refs: ["Judg 9:8-15"], note: "olive, fig and vine decline; the bramble (atad) accepts: 'take refuge in my shade, or fire will come from the bramble and devour the cedars of Lebanon'"}
+      - {motif: wine-gladdens-gods-and-men, refs: ["Judg 9:13"], note: "and olive oil 'by which gods and men are honored' (9:9)"}
+      - {motif: conditional-curse-of-mutual-fire, refs: ["Judg 9:19-20"]}
+      - {motif: hero-flees-to-beer, refs: ["Judg 9:21"]}
+    hints:
+      - "Plant-dispute fables: Sumerian/Akkadian disputation poems (Tamarisk and Palm), Aesop; 2Kgs 14:9 (thistle and cedar). Compare the Persian/Greek fable of the trees' king; Rabbinic and Christian allegory of the bramble."
+      - "Massacre of royal brothers by a usurper: compare 2Kgs 10:1-7 (seventy sons of Ahab), 2Kgs 11:1-2 (Joash hidden), Ottoman fratricide."
+  - id: hb-judg-9-fall-of-abimelech
+    tradition: judaism
+    title: Evil spirit between Abimelech and Shechem; Gaal's revolt; Shechem sown with salt; millstone at Thebez
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 9:22-57"]
+    tags:
+      - {motif: god-sends-evil-spirit, refs: ["Judg 9:23"], note: "ruah ra'ah between Abimelech and the lords of Shechem"}
+      - {motif: blood-guilt-returns-on-head, refs: ["Judg 9:24", "Judg 9:56-57"]}
+      - {motif: drunken-vintage-festival-insults-ruler, refs: ["Judg 9:27-29"], note: "hillulim in the house of their god; Gaal son of Ebed: 'who is Abimelech?'"}
+      - {motif: shadows-of-mountains-mistaken-for-men, refs: ["Judg 9:36"], note: "Zebul: 'you see the shadow of the mountains as men'"}
+      - {motif: navel-of-the-earth, refs: ["Judg 9:37"], note: "tabbur ha-arets near Shechem; 'oak of the diviners' (elon me'onenim)"}
+      - {motif: diviners-oak, refs: ["Judg 9:37"]}
+      - {motif: feigned-retreat-ambush, refs: ["Judg 9:32-35", "Judg 9:43-44"]}
+      - {motif: city-sown-with-salt, refs: ["Judg 9:45"]}
+      - {motif: tower-burned-with-people-inside, refs: ["Judg 9:46-49"], note: "tower (tseriah) of El-berith; brushwood cut on Mount Zalmon; about 1,000 men and women die"}
+      - {motif: do-as-i-do, refs: ["Judg 9:48"], note: "'what you have seen me do, hurry, do like me'"}
+      - {motif: woman-drops-millstone-on-attacker, refs: ["Judg 9:53"], note: "upper millstone (pelah rekhev) crushes Abimelech's skull at Thebez"}
+      - {motif: asks-armor-bearer-to-kill-him, refs: ["Judg 9:54"], note: "'lest they say: a woman killed him'"}
+      - {motif: curse-fulfilled, refs: ["Judg 9:57"], note: "Jotham's curse"}
+    hints:
+      - "2Sam 11:21 recalls the millstone at Thebez. Pyrrhus of Epirus killed at Argos by a roof tile thrown by a woman (Plutarch, Pyrrhus 34). Saul asks his armor-bearer to kill him (1Sam 31:4)."
+      - "Sowing with salt: Hittite and Assyrian curses on destroyed cities (Ashurbanipal at Susa); the later legend of Carthage. Navel of the earth: Ezek 38:12; Delphi's omphalos; Samaritan tradition of Gerizim as the earth's navel."
+  - id: hb-judg-10-tola-jair-ammon
+    tradition: judaism
+    title: Minor judges Tola and Jair; apostasy to seven gods; God refuses, then is moved
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 10:1-18"]
+    tags:
+      - {motif: minor-judge-notice, refs: ["Judg 10:1-5"], note: "Tola son of Puah son of Dodo (23 years); Jair the Gileadite (22 years)"}
+      - {motif: thirty-sons-on-thirty-donkeys, refs: ["Judg 10:4"], note: "pun: 30 'ayarim (donkeys) and 30 'ayarim (towns), Havvoth-jair"}
+      - {motif: towns-named-after-conqueror, refs: ["Judg 10:4"], note: "here thirty towns"}
+      - {motif: baal-and-ashtaroth-worship, refs: ["Judg 10:6"], note: "plus gods of Aram, Sidon, Moab, Ammon, the Philistines — seven groups"}
+      - {motif: history-recital-sin-cry-deliverance, refs: ["Judg 10:7-10"]}
+      - {motif: mocking-where-are-their-gods, refs: ["Judg 10:13-14"], note: "'go cry to the gods you have chosen; let them save you'"}
+      - {motif: putting-away-foreign-gods, refs: ["Judg 10:16"]}
+      - {motif: god-grieved-by-misery, refs: ["Judg 10:16"], note: "va-tiqtsar nafsho ba-'amal Yisrael 'his soul was short/impatient with Israel's misery'"}
+      - {motif: leadership-offered-to-whoever-fights-first, refs: ["Judg 10:18"]}
+    hints:
+      - "Compare Deut 32:37-38 ('where are their gods... let them rise up and help you'); Jer 2:28. Sons riding donkeys as status: Judg 12:14; Zech 9:9."
+  - id: hb-judg-11-jephthah-outcast-diplomacy
+    tradition: judaism
+    title: Jephthah son of a harlot recalled from Tob; his historical argument with the king of Ammon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 11:1-28"]
+    tags:
+      - {motif: son-of-harlot-becomes-leader, refs: ["Judg 11:1"]}
+      - {motif: half-brothers-expel-heir, refs: ["Judg 11:2"], note: "'you shall not inherit in our father's house, for you are son of another woman'"}
+      - {motif: outcast-leads-band-of-worthless-men, refs: ["Judg 11:3"], note: "in the land of Tob"}
+      - {motif: rejected-one-recalled-in-crisis, refs: ["Judg 11:5-11"], note: "'did you not hate me ... why come now when you are in distress?'"}
+      - {motif: covenant-sealed-before-god-at-mizpah, refs: ["Judg 11:10-11"]}
+      - {motif: diplomatic-message-with-historical-argument, refs: ["Judg 11:12-27"], note: "recites wilderness route, refusal by Edom and Moab, defeat of Sihon"}
+      - {motif: each-nation-possesses-what-its-god-gives, refs: ["Judg 11:24"], note: "'what Chemosh your god dispossesses for you, will you not possess?'"}
+      - {motif: three-hundred-years-claim, refs: ["Judg 11:26"], note: "Israel dwelt in Heshbon 300 years"}
+      - {motif: god-as-judge-between-nations, refs: ["Judg 11:27"], note: "'YHWH the Judge judge today between Israel and Ammon'"}
+    hints:
+      - "Chemosh is properly Moab's god (Mesha stele); here attributed to Ammon. Compare Deut 32:8-9 (nations allotted to divine beings); Mic 4:5. Outcast hero recalled: Coriolanus, David at Ziklag, Idrimi of Alalakh (lived among Habiru)."
+  - id: hb-judg-11-jephthahs-daughter
+    tradition: judaism
+    title: Jephthah's vow and the sacrifice of his only daughter
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 11:29-40"]
+    tags:
+      - {motif: spirit-of-god-rushes-on-hero, refs: ["Judg 11:29"]}
+      - {motif: rash-vow-first-to-come-out, refs: ["Judg 11:30-31"], note: "'whatever comes out of the doors of my house to meet me ... I will offer it as a burnt offering'"}
+      - {motif: daughter-greets-victor-with-timbrels, refs: ["Judg 11:34"], note: "with tuppim and dances; 'she was his only one (yehidah)'"}
+      - {motif: daughter-sacrificed-by-fathers-vow, refs: ["Judg 11:35-36", "Judg 11:39"], note: "'I have opened my mouth to YHWH and cannot go back'; she: 'do to me as it came out of your mouth'"}
+      - {motif: virgin-laments-on-mountains, refs: ["Judg 11:37-38"], note: "two months bewailing her virginity with companions"}
+      - {motif: annual-womens-ritual-commemoration, refs: ["Judg 11:39-40"], note: "daughters of Israel go yearly four days 'to recount (letannot)' for her; 'it became a custom (hoq)'"}
+    hints:
+      - "Iphigenia sacrificed by Agamemnon; Idomeneus' vow to sacrifice the first he meets (Servius on Aeneid 3.121); Gen 22 (only son). Pseudo-Philo LAB 40 names her Seila and gives her lament."
+      - "Annual mourning rites by women: Adonis/Tammuz (Ezek 8:14), Persephone/Kore. Medieval exegetes (Kimhi) argued she was secluded, not killed."
+  - id: hb-judg-12-shibboleth-minor-judges
+    tradition: judaism
+    title: Ephraim slaughtered at the fords by the Shibboleth test; Ibzan, Elon, Abdon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Judg 12:1-15"]
+    tags:
+      - {motif: tribe-angry-not-called-to-battle, refs: ["Judg 12:1-3"], note: "Ephraim threatens to burn Jephthah's house over him"}
+      - {motif: took-life-in-hand, refs: ["Judg 12:3"], note: "va-asima nafshi ve-khappi"}
+      - {motif: seize-fords-of-jordan, refs: ["Judg 12:5-6"]}
+      - {motif: shibboleth-pronunciation-test, refs: ["Judg 12:5-6"], note: "Ephraimites say 'sibbolet' and are slain: 42,000"}
+      - {motif: fugitives-taunt, refs: ["Judg 12:4"], note: "'you Gileadites are fugitives of Ephraim'"}
+      - {motif: minor-judge-notice, refs: ["Judg 12:7-15"], note: "Jephthah 6 years; Ibzan of Bethlehem 7; Elon 10; Abdon 8"}
+      - {motif: thirty-sons-thirty-daughters-exogamy, refs: ["Judg 12:9"], note: "Ibzan sends out 30 daughters and brings in 30 brides for his 30 sons"}
+      - {motif: thirty-sons-on-thirty-donkeys, refs: ["Judg 12:14"], note: "Abdon: 40 sons and 30 grandsons on 70 donkeys"}
+      - {motif: amalekite-mountain-in-ephraim, refs: ["Judg 12:15"], note: "Pirathon 'in the hill country of the Amalekite'"}
+    hints:
+      - "Shibboleth tests: the Sicilian Vespers (1282, 'ciciri'), the Parsley Massacre (1937), Flemish 'schild en vriend' (1302). Rabbinic tradition identifies Ibzan with Boaz of Bethlehem (b. Bava Batra 91a)."

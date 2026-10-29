@@ -344,6 +344,7 @@ new_motifs:
   fat-of-carcass-usable-not-edible: {label: "Fat of a carcass or torn animal may be used for work but not eaten", cluster: law}
   offerer-brings-with-own-hands: {label: "The offerer must bring the offering with his own hands", cluster: sacrifice}
   whole-congregation-assembled-at-tent: {label: "The whole congregation is assembled at the tent entrance to witness a rite", cluster: cult}
+  sacred-object-dimensions-in-cubits: {label: "Exact dimensions in cubits are given for a sacred object of the sanctuary", cluster: cult}
   moses-acts-as-priest: {label: "Moses himself performs the priestly rites at the ordination", cluster: priesthood}
 units:
   - id: hb-exod-17-water-from-rock
@@ -634,7 +635,7 @@ units:
       - {motif: god-dwells-among-people, refs: ["Exod 25:8"]}
       - {motif: heavenly-pattern-of-sanctuary, refs: ["Exod 25:9", "Exod 25:40"], note: "tavnit shown to Moses on the mountain"}
       - {motif: ark-of-the-covenant, refs: ["Exod 25:10-16"]}
-      - {motif: vessel-dimensions-given, refs: ["Exod 25:10", "Exod 25:17", "Exod 25:23"], note: "ark 2.5 x 1.5 x 1.5 cubits; cover and table also measured (aron, not tevah as for Noah)"}
+      - {motif: sacred-object-dimensions-in-cubits, refs: ["Exod 25:10", "Exod 25:17", "Exod 25:23"], note: "ark 2.5 x 1.5 x 1.5 cubits; cover and table also measured"}
       - {motif: carrying-poles-never-removed, refs: ["Exod 25:15"]}
       - {motif: tablets-of-testimony-in-ark, refs: ["Exod 25:16", "Exod 25:21"]}
       - {motif: mercy-seat-kapporet, refs: ["Exod 25:17", "Exod 25:21"]}
@@ -720,7 +721,7 @@ units:
       - {motif: blood-on-altar-horns, refs: ["Exod 29:12"]}
       - {motif: fat-kidneys-liver-lobe-burned, refs: ["Exod 29:13", "Exod 29:22"]}
       - {motif: sin-offering-burned-outside-camp, refs: ["Exod 29:14"]}
-      - {motif: pleasing-odor-to-god, refs: ["Exod 29:18", "Exod 29:25", "Exod 29:41"]}
+      - {motif: pleasing-odor-to-god, refs: ["Exod 29:18", "Exod 29:25"]}
       - {motif: blood-on-right-ear-thumb-toe, refs: ["Exod 29:20"]}
       - {motif: sprinkling-blood-and-oil-on-garments, refs: ["Exod 29:21"]}
       - {motif: fat-tail-offering, refs: ["Exod 29:22"], note: "alyah"}
@@ -741,6 +742,7 @@ units:
     tags:
       - {motif: daily-morning-and-evening-lamb, refs: ["Exod 29:38", "Exod 29:39", "Exod 29:42"], note: "bein ha-arbayim 'between the evenings'"}
       - {motif: libation-of-wine, refs: ["Exod 29:40"]}
+      - {motif: pleasing-odor-to-god, refs: ["Exod 29:41"]}
       - {motif: tent-of-meeting-where-god-meets, refs: ["Exod 29:42", "Exod 29:43"]}
       - {motif: god-dwells-among-people, refs: ["Exod 29:45", "Exod 29:46"], note: "purpose of the exodus is that God may dwell among them"}
     hints:

@@ -15,6 +15,7 @@ pipeline leads in leads/.
 """
 import json
 import math
+import re
 import pathlib
 import sys
 from collections import Counter
@@ -283,6 +284,20 @@ def validate_file(path):
     errors += [f"{rel}: unit id {uid} also used in {[f for f in fs if f != rel]}"
                for uid, fs in ids.items() if rel in fs and len(fs) > 1]
     covered = set().union(*read_keys(mine, quran_text, hebrew_text).values()) if mine else set()
+    m = re.match(r"hb/(\d+)-", rel)
+    if m:   # a full-read chunk file may only hold units inside its own chunk
+        import hbread
+        chunk = hbread.plan(hebrew_text)[int(m.group(1)) - 1]
+        allowed = {f"hebrew-bible:{r}" for _, _, refs in chunk for r in refs}
+        for u in mine:
+            outside = read_keys([u], quran_text, hebrew_text)[u["id"]] - allowed
+            if outside:
+                errors.append(f"{rel}: unit {u['id']} reads verses outside chunk {m.group(1)} "
+                              f"(e.g. {sorted(outside)[0].split(':', 1)[1]}); it belongs to another reader's file")
+        missing = allowed - covered
+        if missing:
+            errors.append(f"{rel}: {len(missing)} verses of chunk {m.group(1)} not yet in any unit's read ranges "
+                          f"(e.g. {sorted(missing)[0].split(':', 1)[1]})")
     print(f"{rel}: {len(mine)} units, {sum(len(u['tags']) for u in mine)} tags, {len(covered)} verses read")
     if errors:
         print("\n".join(errors), file=sys.stderr)
