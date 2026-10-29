@@ -54,6 +54,122 @@ new_motifs:
   time-passes-days-and-years-formula: {label: "Stock formula for passing time: 'the days passed, the years grew long'", cluster: narrative-form}
   god-gives-king-strength-to-build-temples: {label: "The chief god gives the king strength to build the temples of the great gods and raise levees and ditches", cluster: kingship}
   people-eat-well-under-good-king: {label: "Under the good king the people eat excellent food and the city prospers in wool and oil", cluster: kingship}
+  fruit-served-like-maid-before-mistress: {label: "In a dispute one rival says the other's produce is set before it like a slave-girl approaching her mistress", cluster: wisdom}
+  sower-of-discord-among-kin: {label: "The wicked man stirs up quarrels in another man's household and never calms a heated quarrel", cluster: wisdom}
+  curse-walk-unfamiliar-path-among-thorns: {label: "Curse that the wicked man walk a strange path among the thorns of the mountains", cluster: curse}
+  dying-man-lies-starving-refusing-food: {label: "A sick man closes his mouth, will not eat and lies famished until he dies", cluster: mourning}
+  wife-becomes-widow-forever: {label: "The mourner tells the dead man that his wife's husband is a thing of the past and she will be a widow forever", cluster: mourning}
+  death-caused-by-evil-plot: {label: "A man dies a violent death through evil planned against him by others", cluster: mourning}
+  evil-eye-strikes-beautiful-woman: {label: "The evil eye falls on a beautiful young woman and brings her death or harm", cluster: magic}
+  dead-laid-out-like-golden-statue: {label: "The dead young woman is laid out like a golden statue and all who see her weep", cluster: mourning}
+  prayer-that-dead-persons-name-be-remembered: {label: "The mourner prays that the dead person's way of life not be forgotten and that her name be invoked", cluster: mourning}
+  demon-blamed-for-death-is-cursed: {label: "The mourner curses the demon (galla) who laid his hand on the dead person", cluster: magic}
+  daylight-first-breaks-forth-at-creation: {label: "At creation the god acts and daylight first breaks forth", cluster: creation}
+  riddle-four-fathers-eight-mothers: {label: "Riddling words to a young ox: 'your fathers are four, your mothers are eight' (parts of the plough)", cluster: wisdom}
+  married-young-with-sons-blessing: {label: "The ideal young man has had a wife and sons from his youth", cluster: family}
+  wise-father-instructs-son: {label: "A wise old man (a named sage or king) gives a collection of instructions to his son", cluster: wisdom}
+  flood-hero-as-son-receiving-wisdom: {label: "The flood hero (Ziusudra) appears as the son who receives his father's wise instructions", cluster: flood}
+  field-not-placed-by-road-or-public-square: {label: "Advice not to place one's field by a road, dig a well in it or build a house by the public square, where people do damage", cluster: wisdom}
+  thief-is-a-lion-until-caught: {label: "Saying: the thief is a lion, but once caught he is a slave", cluster: wisdom}
+  do-not-sit-alone-with-married-woman: {label: "Advice not to sit alone in a room with a married woman or play with a married girl, because the slander is serious", cluster: wisdom}
+  eat-no-stolen-food: {label: "Advice not to eat stolen bread with a thief", cluster: wisdom}
+  careless-words-become-a-trap: {label: "Improper speech later lays a trap (net) for the speaker", cluster: wisdom}
+  do-not-travel-by-night: {label: "Advice not to travel by night, for the night hides both good and evil", cluster: wisdom}
+  sex-with-slave-girl-forbidden: {label: "Advice not to have sex with one's slave girl", cluster: wisdom}
+  debtor-not-driven-away: {label: "Advice not to drive away a debtor, who will become hostile", cluster: wisdom}
+  arrogant-housemate-makes-life-slavery: {label: "Advice not to set up house with an arrogant man, who will make you like a slave girl and the object of shouts", cluster: wisdom}
+  rape-of-daughter-forbidden-courtyard-knows: {label: "Advice not to force (rape) another man's daughter: the courtyard will learn of it", cluster: law}
+  slanderers-shifty-eyes: {label: "The slanderer's eyes move restlessly like a spindle; do not stand in his presence", cluster: wisdom}
+  sun-god-alone-equals-many: {label: "The sun god (or a hero) is unique: alone he is the equal of many; stand on his side", cluster: theology}
+  promised-gift-never-given: {label: "Saying: 'I will give it to you' is easy, but the giving is as far away as heaven and the bread is always just finished", cluster: wisdom}
+  children-worth-more-than-property: {label: "Property can be increased, but nothing equals one's little children", cluster: family}
+  sweet-mouth-gathers-sweet-herbs: {label: "Saying: the skilled mouth recites, the harsh mouth brings lawsuits, the sweet (honeyed) mouth gathers sweet herbs", cluster: wisdom}
+  boaster-has-empty-bag: {label: "The haughty boaster brings an empty bag and fills his empty mouth only with boasting", cluster: wisdom}
+  fool-loses-things-while-sleeping: {label: "The fool loses things while he sleeps and then pleads 'do not bind me, let me live'", cluster: wisdom}
+  hired-worker-eats-then-leaves: {label: "A hired worker shares your bread bag, eats it up and then leaves to serve the palace", cluster: wisdom}
+  heaven-far-earth-precious: {label: "Saying: heaven is far, earth is most precious, but it is through heaven (rain) that goods multiply", cluster: wisdom}
+  gather-like-slave-eat-like-queen-at-harvest: {label: "At harvest, gather like a slave girl and eat like a queen", cluster: wisdom}
+  prayer-is-cool-water-for-the-heart: {label: "Prayer is cool water that cools the heart and brings abundance", cluster: wisdom}
+  arrogant-speech-sickens-like-herb: {label: "Arrogant speech is like an abscess, a herb that sickens the stomach", cluster: wisdom}
+  do-not-beat-farmers-son: {label: "Advice not to beat a farmer's son, for he built your embankments and ditches", cluster: wisdom}
+  do-not-buy-prostitute-or-houseborn-slave: {label: "Advice not to buy a prostitute, a house-born slave, a free man or a palace slave girl", cluster: wisdom}
+  foreign-slave-without-kin-is-loyal: {label: "Buy a foreign slave from the mountains: with no family or city to return to, he stays and serves loyally", cluster: wisdom}
+  fate-is-a-slippery-bank: {label: "Fate is a wet river bank that makes a man slip", cluster: wisdom}
+  elder-brother-like-father-elder-sister-like-mother: {label: "The elder brother is like a father, the elder sister like a mother: obey them", cluster: family}
+  hunger-drives-people-over-mountains: {label: "The need for bread drives people up the mountains and brings foreigners and traitors down from them", cluster: wisdom}
+  married-man-well-equipped-unmarried-sleeps-in-hay: {label: "The married man is well provided; the unmarried man sleeps in a haystack", cluster: family}
+  grasp-neck-of-ox-to-cross-river: {label: "Saying: holding the neck of a big ox one crosses the river; stay beside the great men of your city to rise", cluster: wisdom}
+  curse-boat-of-evil-sink-waterskin-split: {label: "Curse on the evil one: may his boat sink in the river, may his waterskin split in the desert", cluster: curse}
+  submit-to-the-powerful: {label: "Advice to bow before the respected and be humble before the powerful", cluster: wisdom}
+  do-not-choose-wife-at-festival: {label: "Advice not to choose a wife at a festival, when her silver, lapis, dress and linen are all borrowed", cluster: family}
+  reliable-woman-for-good-household: {label: "A reliable woman is chosen for a good household", cluster: family}
+  woman-with-own-property-ruins-house: {label: "Saying: a woman with her own property ruins the household", cluster: family}
+  gadabout-woman-in-streets: {label: "The meddling woman enters every house, peers down every street and pants after quarrels", cluster: wisdom}
+  let-things-serve-you: {label: "Saying: nothing is to be valued but that life be sweet; do not serve things, let things serve you", cluster: wisdom}
+  do-not-abduct-a-wife: {label: "Advice not to abduct a wife or make her cry out", cluster: law}
+  father-is-like-a-god: {label: "The mother is like the sun god who gives birth, the father like a god whose word is true; obey the father's instruction", cluster: family}
+  man-eating-gods-of-the-mountains: {label: "On the unknown road in the mountains the gods are man-eaters who build no houses or cities as men do", cluster: wisdom}
+  wise-words-are-a-gift-soothing-the-heart: {label: "Wise instruction is a gift of words that soothes the heart, even in the palace", cluster: wisdom}
+  insoluble-case-brought-before-king: {label: "Litigants bring the king a legal puzzle that he cannot solve himself", cluster: law}
+  owners-of-ox-cow-and-waggon-refuse-to-fetch-water: {label: "Three partners each refuse to leave his own animal or waggon to fetch water for the others", cluster: folktale}
+  calf-born-on-journey-ownership-disputed: {label: "A calf is born to jointly used animals on a journey and the partners dispute who owns it", cluster: law}
+  king-consults-cloistered-wise-woman: {label: "The king, unable to decide a case, consults a wise cloistered woman (sekrum) who gives the verdict", cluster: wisdom}
+  wise-verdict-dissatisfies-all-parties: {label: "After the verdict every litigant is dissatisfied; one leaves his wife, another abandons his goods", cluster: law}
+  god-meets-man-on-road-in-disguise: {label: "A high god meets a man on the road disguised as an animal (a raven) and questions him", cluster: theophany}
+  god-asks-where-have-you-come-from: {label: "A god meeting a man asks 'Where have you come from?'", cluster: theophany}
+  man-sees-through-gods-disguise: {label: "The man recognises the disguised god ('you are not a raven, you are Enlil') and the god asks how he knew", cluster: theophany}
+  deposed-elder-god-enmesara: {label: "An elder god (En-me-šara) who usurped the rank of Enlil is held captive", cluster: theogony}
+  votive-object-dedicated-with-prayer-for-life-and-afterlife: {label: "A donor dedicates an object to a god and asks to be looked after in life and given clean water to drink in the netherworld", cluster: cult}
+  dog-sacred-to-healing-goddess: {label: "A dog is the sacred animal or messenger of the healing goddess (Nintinuga/Gula)", cluster: healing}
+  votive-object-given-a-name: {label: "A dedicated object (statue, dog figure) is given its own name", cluster: cult}
+  donor-promises-to-repair-or-replace-gift: {label: "The donor promises the god to repair the dedicated object if it breaks and replace it if it is lost", cluster: cult}
+  fisherman-builds-house-to-lure-fish: {label: "A fisherman addresses a fish, describing the comfortable house (a trap) he has built for it and urging it to enter", cluster: folktale}
+  house-full-of-food-and-beer-incense: {label: "A welcoming house is described as full of the best food, good beer, honey cakes and the scent of incense and cedar", cluster: hospitality}
+  whole-family-invited-to-enter: {label: "The host invites the guest to bring every relative: father, grandfather, brothers' sons, wife, children, friends, in-laws, neighbours", cluster: hospitality}
+  house-of-rest-without-quarrel: {label: "In the promised house no sleeper is disturbed and no one sitting there is drawn into a quarrel", cluster: hospitality}
+  no-escape-face-towards-me-refrain: {label: "Refrain urging the prey not to escape to its lair but to turn its face towards the speaker", cluster: folktale}
+  catalogue-of-fish-species-with-descriptions: {label: "A catalogue of named fish species, each given a riddling physical description", cluster: wisdom}
+  fish-taboo-not-offered-in-shrines: {label: "Certain fish (the sting-ray, a tasty fish) are taboo (niĝ2-gig) and are not placed as offerings in the shrines", cluster: purity}
+  gods-delight-in-the-catch: {label: "The gods of herds and fishermen (Suen, Dumuzid, Nanše) rejoice when the animals enter the pen or the trap", cluster: folktale}
+  predators-of-the-fish-listed: {label: "The birds and crocodile that would seize the fish in their claws are listed", cluster: folktale}
+  reedbeds-of-named-cities-refrain: {label: "A refrain lists the reedbeds and lagoons of named cities 'whose growth is good'", cluster: nature}
+  plants-likened-to-ages-and-ranks-of-people: {label: "Each kind of reed or plant is likened to an age or rank of people: child, maiden, young man, daughter-in-law, old man, old woman, king", cluster: nature}
+  bird-asks-god-for-place-to-lay-eggs: {label: "A bird asks the god (Enki) for a wide place to lay its eggs and is granted the reedbeds", cluster: folktale}
+  quarrelsome-turtle-self-description: {label: "The quarrelsome turtle describes itself with snake's eyes, mouth and tongue, a puppy's bite, an oven brick and a dirty basket", cluster: folktale}
+  nest-destroyed-young-thrown-into-water: {label: "An attacker overturns a bird's nest, throws its young into the water and wounds the mother", cluster: folktale}
+  wronged-creature-takes-case-to-god-for-verdict: {label: "A wronged animal weeps and takes its case to the god as king, asking him to judge and give a verdict", cluster: law}
+  predator-crushes-eggs-and-young: {label: "A predator gathers eggs and spawn and crushes them", cluster: folktale}
+  god-waters-plants-with-hand-and-foot: {label: "A god waters the little plants with his hand and the big ones with his foot", cluster: creation}
+  turtle-caught-in-hunting-net: {label: "Hunters spread a net to catch a wrongdoing animal", cluster: folktale}
+  wickedness-thwarts-the-sun-god: {label: "Saying: if wickedness exerts itself, how can the sun god (justice) succeed?", cluster: wisdom}
+  what-is-destroyed-belongs-to-god: {label: "Saying: what is destroyed (lost) belongs to a god; no one can take it back", cluster: wisdom}
+  leftover-bread-eaten-by-stranger: {label: "Saying: bread left over is eaten by the mongoose or by a stranger", cluster: wisdom}
+  wealth-far-poverty-near: {label: "Saying: wealth is far away, poverty is close at hand", cluster: wisdom}
+  borrowed-bread-not-returned: {label: "Saying: borrowed bread is never returned", cluster: wisdom}
+  curse-food-stick-in-throat: {label: "Curse that a man's food be foul and stick in his throat", cluster: curse}
+  poor-man-always-lacks-something: {label: "The poor man always lacks something: when he has bread he has no salt, when he has salt no bread", cluster: wisdom}
+  poor-man-ungreeted-and-called-bad-name: {label: "No one greets the poor man in the street and at home he is called 'Bad Name'", cluster: wisdom}
+  poor-mans-life-forgotten-at-death: {label: "Saying: the life of the poor does not outlast his death (he is forgotten)", cluster: wisdom}
+  overeater-cannot-sleep: {label: "Saying: he who eats too much cannot sleep", cluster: wisdom}
+  city-without-dogs-fox-is-boss: {label: "Saying: in a city without dogs the fox is overseer; in the city of the lame the cripple is courier", cluster: wisdom}
+  curse-cannot-be-accepted-unlike-verdict: {label: "Saying: a verdict can be accepted, a curse cannot", cluster: wisdom}
+  secret-spoken-revealed-in-womens-quarters: {label: "Saying: what is said in secret will be revealed (in the women's quarters)", cluster: wisdom}
+  honest-boat-guided-to-harbour-by-sun-god: {label: "Saying: the honest boat is guided by the sun god to a safe harbour; the dishonest boat runs aground", cluster: wisdom}
+  heart-overflowing-lamentable-restraint-princely: {label: "Saying: an overflowing heart is lamentable; he who keeps things in his heart is a prince", cluster: wisdom}
+  speech-not-heart-creates-hatred: {label: "Saying: the heart does not create hatred, speech creates hatred", cluster: wisdom}
+  what-comes-from-tree-is-known-by-tree: {label: "Saying: what comes from the heart of the tree is known by the heart of the tree", cluster: wisdom}
+  drought-no-fish-for-fisherman: {label: "When the water meadows dry up the fisherman catches no fish and has nothing to bring", cluster: wisdom}
+  husband-sweeter-than-any-plant: {label: "Saying: no plant in the steppe is as sweet as a husband", cluster: love}
+  brothers-destroy-fathers-estate-in-anger: {label: "Brothers in anger destroy their father's estate", cluster: family}
+  accept-your-lot-make-mother-and-god-happy: {label: "Saying: accept your lot and make your mother happy; run fast and make your god happy", cluster: wisdom}
+  blessing-wife-and-many-sons: {label: "Blessing that a god give a man a passionate wife and strong sons", cluster: family}
+  malicious-wife-worse-than-disease: {label: "Saying: a malicious wife living in the house is worse than all diseases", cluster: family}
+  man-who-supports-no-wife-or-child-has-no-joy: {label: "Saying: he who supports neither wife nor child has no cause for celebration", cluster: family}
+  born-without-father-or-mother: {label: "Something (a reed) born without father or mother, out of the storm", cluster: wisdom}
+  disorderly-son-better-unborn: {label: "Saying: a disorderly son - his mother should not have borne him, his god should not have made him", cluster: family}
+  chattering-girl-silenced-boy-not: {label: "Saying: a chattering girl is silenced by her mother, a chattering boy is not", cluster: family}
+  sick-and-pregnant-too-much: {label: "Saying: to be sick is acceptable, to be pregnant painful, but pregnant and sick is too much", cluster: wisdom}
+  son-in-law-tested-by-quarrels: {label: "Saying: as a vessel is tested by salt and a jar by water, an unknown son-in-law is tested by quarrels", cluster: family}
 units:
   - id: ane-etcsl-5-3-6-a-silver-copper-opening
     tradition: ane-sumerian
@@ -158,7 +274,6 @@ units:
       - {motif: tamarisk-wood-is-the-body-of-the-gods, refs: ["ETCSL 5.3.7 3", "ETCSL 5.3.7 16"], note: "su-ĝu10 su diĝir-re-e-ne-ke4 'my body is the body of the gods'"}
       - {motif: fruit-served-like-maid-before-mistress, refs: ["ETCSL 5.3.7 4-6"], note: "geme2-gin7 igi nin-a-ni 'like a slave-girl before her mistress': the palm's fruit is placed before the tamarisk (cult statue)"}
       - {motif: silver-overlays-divine-statues, refs: ["ETCSL 5.3.7 18"], note: "kug-babbar kuš diĝir-re-e-ne 'silver is the skin of the gods'"}
-      - {motif: oath-sworn-before-the-gods, refs: ["ETCSL 5.3.7 15"], note: "diĝir nu-un-pad3-de3-ne 'they do not swear by the gods'; obscure"}
     hints:
       - "Compare Isa 44:13-19 and Jer 10:3-5, 10:9 (tree cut, carved into a god and overlaid with silver and gold) and Judg 9:8-15 (Jotham's fable: the trees dispute who shall rule)."
       - "Compare Gen 21:33 (Abraham plants a tamarisk at Beersheba)."
@@ -173,10 +288,9 @@ units:
       - {motif: insult-catalogue-of-animals, refs: ["ETCSL 5.4.12 1-3", "ETCSL 5.4.12 6"], note: "numun ur 'seed of a dog', ur-bar-ra 'wolf', ir {d}nin-kilim 'stench of a mongoose', ka5-a 'fox', ugu4-bi 'monkey', dumu ur-gir15 'son of a hound'"}
       - {motif: slanderer-with-forked-tongue, refs: ["ETCSL 5.4.12 8-9", "ETCSL 5.4.12 13"], note: "ka ḫul eme dar 'evil mouth, split tongue'; ud šu2-uš ildum2-na inim ḫul 'daily evil talk among his clan'"}
       - {motif: thief-digs-through-house-wall, refs: ["ETCSL 5.4.12 12"], note: "ni2-zuḫ e2 buru3-buru3 {ĝiš}ig ... za-ra suḫ 'thief who bores through houses, tears out the door pivot'"}
-      - {motif: troublemaker-stirs-quarrels-in-household, refs: ["ETCSL 5.4.12 16", "ETCSL 5.4.12 20"], note: "du14 mu-na-ĝal2 e2 mu-na-lu3-lu3 'quarrels with him, disturbs his house'; du14 NE-a ba-ra-an-si-ig 'never calms a heated quarrel'"}
-      - {motif: madman-and-cripple-as-insult, refs: ["ETCSL 5.4.12 4-7"], note: "lu2-ed3-de3 'madman'; muš3-me-ni dim2 ḫul 'his face disfigured'"}
+      - {motif: sower-of-discord-among-kin, refs: ["ETCSL 5.4.12 16", "ETCSL 5.4.12 20"], note: "du14 mu-na-ĝal2 e2 mu-na-lu3-lu3 'quarrels with him, disturbs his house'; du14 NE-a ba-ra-an-si-ig 'never calms a heated quarrel'"}
+      - {motif: insult-catalogue-of-animals, refs: ["ETCSL 5.4.12 4-7"], note: "lu2-ed3-de3 'madman'; muš3-me-ni dim2 ḫul 'his face disfigured'"}
       - {motif: curse-walk-unfamiliar-path-among-thorns, refs: ["ETCSL 5.4.12 38-39"], note: "ĝiri3 kur2 ḫe2-eb-dab5-be2 'may he take a foreign path'; {ĝiš}kiši16 kur-ra 'thorns of the mountains'"}
-      - {motif: snake-charmer-image, refs: ["ETCSL 5.4.12 44"], note: "muš-laḫ5 'snake-charmer'"}
     hints:
       - "Compare Prov 6:12-19 (the worthless man with crooked mouth, sowing discord among brothers) and Ps 52:4, 120:2-3 (deceitful tongue)."
       - "Compare Q 68:10-13 (the despicable slanderer, going about with calumnies, 'utull, zanim') and Q 104:1 (humaza lumaza)."
@@ -191,12 +305,10 @@ units:
     tags:
       - {motif: son-sends-courier-with-greeting-to-mother, refs: ["ETCSL 5.5.1 1-8", "ETCSL 5.5.1 53-54"], note: "lu2-kaš4-e lugal-la 'royal courier'; message: {m}lu2-diĝir-ra dumu ki aĝ2-zu silim-ma 'your beloved son Lu-diĝira is well'"}
       - {motif: messenger-given-signs-to-recognise-recipient, refs: ["ETCSL 5.5.1 9", "ETCSL 5.5.1 21", "ETCSL 5.5.1 32", "ETCSL 5.5.1 40", "ETCSL 5.5.1 47"], note: "five ĝiškim 'signs', numbered 1-5"}
-      - {motif: anxious-mother-asks-travellers-for-news, refs: ["ETCSL 5.5.1 4-6"], note: "mud-am3 u3 nu-mu-ni-ku-ku 'she is anxious, cannot sleep'; asks the wayfarers about my well-being"}
       - {motif: ideal-wife-runs-her-household, refs: ["ETCSL 5.5.1 14", "ETCSL 5.5.1 18"], note: "ne3 ni-te-am3 e2 ušbar-ra-ni si sa2 'single-handed she keeps in order her father-in-law's house'; niĝ2-gur11 mu-un-šar2-šar2 'makes possessions multiply'"}
       - {motif: mother-praised-in-similes-of-light-gems-and-fruit, refs: ["ETCSL 5.5.1 20", "ETCSL 5.5.1 22-31", "ETCSL 5.5.1 33-39", "ETCSL 5.5.1 48-52"], note: "su3-ra2-aĝ2 'bright light'; lu-lim ḫur-saĝ-ĝa2 'doe on the hills'; mul a2-gu2-zig3-ga 'morning star'; gug, du8-ši-a gems; šeĝ14 an-na 'rain of heaven'; ĝiš kiri6 'garden'; zu2-lum dilmun 'Dilmun date'; ĝišnimbar 'palm'; lal3 i3-nun 'honey, ghee'"}
-      - {motif: woman-serves-goddess-humbly, refs: ["ETCSL 5.5.1 15-16"], note: "diĝir nin-a-ni-še3 sun5-na-še3 gub-ba 'stands humbly before her divine mistress'; knows Inana's place"}
       - {motif: captive-returns-to-his-mother-good-news, refs: ["ETCSL 5.5.1 46"], note: "inim de6-a lu2-nam-ra ama-ni-še3 gur-ra-am3"}
-      - {motif: woman-as-alabaster-statue-on-lapis-pedestal, refs: ["ETCSL 5.5.1 30"], note: "{d}lamma {na4}ĝiš-nu11-gal ki-gal {na4}za-gin3-na gub-ba"}
+      - {motif: lover-body-as-gold-and-jewel-statue, refs: ["ETCSL 5.5.1 30"], note: "{d}lamma {na4}ĝiš-nu11-gal ki-gal {na4}za-gin3-na gub-ba"}
     hints:
       - "Compare Prov 31:10-31 (the woman of valour: her household, her diligence, her worth above rubies) and Song 4:1-15, 6:10 ('fair as the moon, bright as the sun'; garden, palm, spices)."
       - "Compare Song 2:9, 2:17 (gazelle/doe on the mountains) and Prov 5:19 (loving doe)."
@@ -212,11 +324,11 @@ units:
       - {motif: father-dies-while-son-far-away, refs: ["ETCSL 5.5.2 1-3", "ETCSL 5.5.2 16-18"], note: "dumu ki ba9-ra2 ĝen-na 'the son had gone far'; the son had not answered his father's message"}
       - {motif: repeated-refrain-struck-by-illness, refs: ["ETCSL 5.5.2 3-8"], note: "tur5-ra gaba ba-ri six times"}
       - {motif: dead-man-was-god-fearing, refs: ["ETCSL 5.5.2 7-8"], note: "lu2 gen6-na ni2 teĝ3-ĝe26 diĝir-bi 'a man of truth, who reveres his god'; gal-zu ĝiš-ḫur-ra 'wise in divine plans', me-te unken-na 'ornament of the assembly'"}
-      - {motif: sick-man-refuses-food, refs: ["ETCSL 5.5.2 9-10"], note: "ka u3-ba-e-šu2 ninda nu-mu-un-šu2-šu2 'having closed his mouth he ate no bread'"}
+      - {motif: dying-man-lies-starving-refusing-food, refs: ["ETCSL 5.5.2 9-10"], note: "ka u3-ba-e-šu2 ninda nu-mu-un-šu2-šu2 'having closed his mouth he ate no bread'"}
       - {motif: sitting-in-dust-in-grief, refs: ["ETCSL 5.5.2 19"], note: "dumu er2 in-pad3 saḫar-ta ma-ra-da-šub 'the son shed tears and threw himself in the dust'"}
       - {motif: son-composes-lament-for-dead-parent, refs: ["ETCSL 5.5.2 19-20"], note: "{m}lu2-diĝir-ra ... i-lu ab-sar-re 'Lu-diĝira wrote a lament'"}
       - {motif: wife-becomes-widow-forever, refs: ["ETCSL 5.5.2 23-26"], note: "dam-zu ... nitalam-a-ni na-nam 'your wife ... (her) husband is gone'; she moans like a cow"}
-      - {motif: violent-death-by-evil-plot, refs: ["ETCSL 5.5.2 15", "ETCSL 5.5.2 21-22"], note: "ki-lul-la ba-an-ug5 'died in a place of violence'; šag4 ḫul dim2-ma-ni-ta kur-še3 'by the evil planned against him, to the netherworld'"}
+      - {motif: death-caused-by-evil-plot, refs: ["ETCSL 5.5.2 15", "ETCSL 5.5.2 21-22"], note: "ki-lul-la ba-an-ug5 'died in a place of violence'; šag4 ḫul dim2-ma-ni-ta kur-še3 'by the evil planned against him, to the netherworld'"}
       - {motif: death-is-the-gods-lot-for-man, refs: ["ETCSL 5.5.2 68"], note: "nam-uš2 niĝ2 dug3 diĝir-ra-kam ki nam tar-ra 'death is the gods' good thing, the place where fate is decreed'"}
       - {motif: murderer-of-dead-cursed-justice-to-king-and-utu, refs: ["ETCSL 5.5.2 77-84"], note: "šu ĝar gen6 lugal sipad ... sa2-ĝar gen6 {d}utu-u3-kam; lu2-bi lu2 nam kud ḫe2-a 'may that man be accursed'; may his possessions fly away like birds"}
       - {motif: sun-god-judges-dead-in-underworld, refs: ["ETCSL 5.5.2 88-89"], note: "{d}utu en gal a-ra-li-ke4 ki ku10-ku10 ud-še3 ... di kud-zu i3-kud-de3 'Utu, great lord of Arali, turning dark places to day, will judge your case'"}
@@ -236,18 +348,18 @@ units:
     tagger: Claude (model), reading the Sumerian
     read: ["ETCSL 5.5.3 1-66"]
     tags:
-      - {motif: evil-eye, refs: ["ETCSL 5.5.3 2"], note: "munus sag9-ga ki-sikil ḫe2-du7-ra igi ḫul ba-[…] 'upon the fair woman the evil eye ...'"}
+      - {motif: evil-eye-strikes-beautiful-woman, refs: ["ETCSL 5.5.3 2"], note: "munus sag9-ga ki-sikil ḫe2-du7-ra igi ḫul ba-[…] 'upon the fair woman the evil eye ...'"}
       - {motif: death-of-young-wife-like-trapped-bird, refs: ["ETCSL 5.5.3 3-6"], note: "mušen amar-bi ... sa im-[…] 'fledgling ... a net'; ama gan ... ĝiš-bur 'fecund mother ... snare'; šilam 'wild cow'"}
       - {motif: dead-laid-out-like-golden-statue, refs: ["ETCSL 5.5.3 15"], note: "alan kug-sig17-gin7 niĝ2 ĝar-ra-ni-še3"}
       - {motif: songs-turned-into-laments, refs: ["ETCSL 5.5.3 18-19"], note: "šir3 ... i-lu šag4-ne-ša4 ... ib2-ši-kur2-ru-a"}
       - {motif: bright-light-turned-to-darkness-in-grief, refs: ["ETCSL 5.5.3 29"], note: "ama ugu-ni-ir ud zalag ba-da-ḫe2-ši"}
-      - {motif: priestess-does-not-enter-gipar, refs: ["ETCSL 5.5.3 24-26"], note: "nin-diĝir ... ĝi6-par3-še3 la-ba-ni-in-kur9-ra 'the nin-diĝir priestess did not enter the ĝipar'; the chosen she-ass not accepted as an offering"}
+      - {motif: en-priestess-in-gipar, refs: ["ETCSL 5.5.3 24-26"], note: "negated: nin-diĝir ... ĝi6-par3-še3 la-ba-ni-in-kur9-ra 'the nin-diĝir priestess did not enter the ĝipar'; the chosen she-ass not accepted as an offering"}
       - {motif: widower-cries-where-is-refrain, refs: ["ETCSL 5.5.3 47-56"], note: "me-am3 ga-mu-ri-in-pad3 'where is ...? I would call on you' nine times"}
-      - {motif: mourner-moans-like-cow, refs: ["ETCSL 5.5.3 46"], note: "ab2-gin7 ib2-e3"}
+      - {motif: cow-bereaved-of-calf, refs: ["ETCSL 5.5.3 46"], note: "ab2-gin7 ib2-e3"}
       - {motif: prayer-that-dead-mans-sin-be-erased, refs: ["ETCSL 5.5.3 58"], note: "nam-tag-ga e2-e-zu ḫa-ba-an-ze2-er šul-a-lum-zu ḫa-ba-an-du8"}
-      - {motif: name-of-dead-be-called-not-forgotten, refs: ["ETCSL 5.5.3 57"], note: "a-ra2-zu na-an-ḫa-lam-e mu-zu ḫa-ma-pad3-de3"}
+      - {motif: prayer-that-dead-persons-name-be-remembered, refs: ["ETCSL 5.5.3 57"], note: "a-ra2-zu na-an-ḫa-lam-e mu-zu ḫa-ma-pad3-de3"}
       - {motif: sun-god-judges-dead-in-underworld, refs: ["ETCSL 5.5.3 62"], note: "{d}utu kur-ta ud zalag ḫa-ra-ta-e3 'may Utu bring forth bright light for you from the netherworld'"}
-      - {motif: curse-on-galla-demon-who-killed, refs: ["ETCSL 5.5.3 64-65"], note: "gal5-la2 šu-ni ma-ra-an-de6-a aš2 ḫul-bi ḫe2-en-dug4 'may an evil curse be uttered on the galla who laid his hand on you'"}
+      - {motif: demon-blamed-for-death-is-cursed, refs: ["ETCSL 5.5.3 64-65"], note: "gal5-la2 šu-ni ma-ra-an-de6-a aš2 ḫul-bi ḫe2-en-dug4 'may an evil curse be uttered on the galla who laid his hand on you'"}
       - {motif: blessings-on-dead-mans-family, refs: ["ETCSL 5.5.3 59-61"]}
     hints:
       - "Compare Ezek 24:15-18 (death of the prophet's wife, 'the delight of your eyes') and Gen 23:2 (Abraham mourns and weeps for Sarah)."
@@ -265,16 +377,14 @@ units:
       - {motif: axis-of-world-at-duranki, refs: ["ETCSL 5.5.4 7"], note: "dur-an-ki-ka bulug nam-mi-in-la2 'he suspended the axis (bulug, 'needle') at Dur-an-ki'"}
       - {motif: humans-sprout-from-the-earth, refs: ["ETCSL 5.5.4 3", "ETCSL 5.5.4 6", "ETCSL 5.5.4 20"], note: "numun kalam-ma ki-ta ed2-de3 'to make the seed of the Land come up from the earth'; uzu-e3-a 'Where Flesh Came Forth'; kalam-ma-ni ki mu-un-ši-in-dar-re 'his Land broke through the soil toward Enlil'"}
       - {motif: hoe-creates-humankind, refs: ["ETCSL 5.5.4 18-19"], note: "saĝ nam-lu2-ulu3 u3-šub-ba mi-ni-in-ĝar 'he placed the head (model) of mankind in the brick mould'"}
-      - {motif: light-breaks-forth-at-creation, refs: ["ETCSL 5.5.4 8"], note: "{ĝiš}al-e mu-un-ĝar ud al-e3 'he set the hoe, daylight came forth'"}
+      - {motif: daylight-first-breaks-forth-at-creation, refs: ["ETCSL 5.5.4 8"], note: "{ĝiš}al-e mu-un-ĝar ud al-e3 'he set the hoe, daylight came forth'"}
       - {motif: black-headed-people, refs: ["ETCSL 5.5.4 21", "ETCSL 5.5.4 25"]}
       - {motif: humans-created-to-bear-gods-labor, refs: ["ETCSL 5.5.4 9-10", "ETCSL 5.5.4 28-31"], note: "eš2-gar3 mu-un-du3 'he established the tasks'; {ĝiš}al-e {ĝiš}dusu-e 'hoe and basket'; diĝir-re-e-ne-ra šukur2-še3 mu-un-dab5-be2 'recruited them to provide food for the gods'"}
       - {motif: hoe-praised-as-maker-of-civilisation, refs: ["ETCSL 5.5.4 11-17", "ETCSL 5.5.4 94-108"], note: "the hoe of gold and lapis; nam mi-ni-ib-tar-re 'he decreed its destiny'; {ĝiš}al {ĝiš}dusu niĝ2 iri du3-du3-dam 'hoe and basket build cities'"}
       - {motif: composition-built-on-puns-on-one-word, refs: ["ETCSL 5.5.4 8-10", "ETCSL 5.5.4 36", "ETCSL 5.5.4 43-45", "ETCSL 5.5.4 83-93"], note: "al 'hoe' punned with al-e3, al-tar, al-du3, al-mu2, allanum, arganum, algameš"}
       - {motif: gods-each-build-temple-with-hoe, refs: ["ETCSL 5.5.4 35-58"], note: "E-kur, Tummal, Abzu at Eridug, Keš, E-ana, Zabalam, E-ḫamun"}
-      - {motif: mother-goddess-starts-human-birth, refs: ["ETCSL 5.5.4 26-27"], note: "{d}nin-men-na-ke4 tud-tud al-ĝa2-ĝa2 'Ninmena set birth going'"}
+      - {motif: birth-goddesses-assist-creation-of-humans, refs: ["ETCSL 5.5.4 26-27"], note: "{d}nin-men-na-ke4 tud-tud al-ĝa2-ĝa2 'Ninmena set birth going'"}
       - {motif: hoe-buries-and-brings-up-dead, refs: ["ETCSL 5.5.4 74-75"], note: "irigal-am3 {ĝiš}al saĝ ki-a tum2-ma adx {ĝiš}al-e ki-ta tum2-ma-am3"}
-      - {motif: gilgamesh-ferries-with-oars, refs: ["ETCSL 5.5.4 76-79"], note: "{d}gilgameš2 ... {ĝiš}ĝisal-e dub-saĝ 'pre-eminent with oars'"}
-      - {motif: weeds-uprooted-by-hoe, refs: ["ETCSL 5.5.4 104-106"]}
       - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 5.5.4 109"], note: "{d}nisaba za3-mi2"}
     hints:
       - "Compare Gen 2:5-7 (no man to till the ground; man formed of dust) and Gen 1:6-8 (separation of heaven and earth), Q 21:30 (heavens and earth were joined and we split them)."
@@ -295,7 +405,381 @@ units:
       - {motif: riddle-four-fathers-eight-mothers, refs: ["ETCSL 5.5.5 57-60"], note: "{ĝiš}KU ad-da-zu 4-am3 {ĝiš}KU ama-zu 8-am3"}
       - {motif: plough-made-ready-by-carpenter, refs: ["ETCSL 5.5.5 119-125"], note: "{ĝiš}apin kug-zu {ĝiš}dal-a la2-a-ba ... nagar gal-zu gu ḫu-mu-ra-ab-tag-ge"}
       - {motif: married-young-with-sons-blessing, refs: ["ETCSL 5.5.5 62-65"], note: "ĝuruš-e ud tur-ra-ni-ta dam an-tuku dumu an-tuku 'the young man who since youth has had a wife and sons'"}
-      - {motif: furrows-walked-straight, refs: ["ETCSL 5.5.5 145"], note: "ab-sin2 ... us2 si sa2 'walk the sides straight'; cf. {d}utu ... si ḫe2-ri-ib-sa2 (61)"}
     hints:
       - "Compare Num 22:28-30 (Balaam's ass speaks to its master) and Deut 25:4 (do not muzzle the ox treading grain), Isa 28:24-26 (God teaches the ploughman)."
       - "Compare Ps 128:3 and Ps 127:4-5 (wife and sons of one's youth as blessing) and Luke 9:62 (plough furrows straight)."
+  - id: ane-etcsl-5-6-1-shuruppag-prologue
+    tradition: ane-sumerian
+    title: Instructions of Shuruppag, prologue (father to his son Ziusudra)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.1 1-13"]
+    tags:
+      - {motif: in-those-days-primordial-opening, refs: ["ETCSL 5.6.1 1-3"], note: "ud re-a ud su3-ra2 re-a / ĝi6 re-a / mu re-a"}
+      - {motif: wise-father-instructs-son, refs: ["ETCSL 5.6.1 4-9"], note: "šuruppag{ki} ĝeštug2 tuku inim galam inim zu-a ... dumu-ni-ra na na-mu-un-de5-de5"}
+      - {motif: flood-hero-as-son-receiving-wisdom, refs: ["ETCSL 5.6.1 7-8"], note: "zi-ud-su3-ra2, son of Šuruppag son of ubara-tu-tu: the flood hero of the Sumerian flood story"}
+      - {motif: fathers-instruction-mothers-torah, refs: ["ETCSL 5.6.1 9-13"], note: "dumu-ĝu10 na ga-de5 ... ĝizzal ḫe2-em-ši-ak 'my son, let me instruct you, pay attention'; na de5 ab-ba niĝ2 kal-la-am3 'an old man's instruction is precious'"}
+    hints:
+      - "Compare Prov 1:8, 4:1-4 ('Hear, my son, your father's instruction'), and Prov 1:1 (the sayings of a named sage)."
+      - "Ziusudra = the Sumerian Noah; compare Gen 6:9 (Noah righteous) and the Islamic tradition of Luqman's advice to his son (Q 31:13-19)."
+  - id: ane-etcsl-5-6-1-shuruppag-first-instructions
+    tradition: ane-sumerian
+    title: Instructions of Shuruppag, first series of precepts
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.1 14-75"]
+    tags:
+      - {motif: warning-against-surety, refs: ["ETCSL 5.6.1 19-20"], note: "šu du8-a nu-e-tum3 lu2-bi ša-ba-e-dab5-be2 'do not stand guarantee: that man will have a hold on you'"}
+      - {motif: field-not-placed-by-road-or-public-square, refs: ["ETCSL 5.6.1 15-18"], note: "no field on a road, no well in your field ('people will damage it'), no house by the public square"}
+      - {motif: meddler-seizes-dog-by-ears, refs: ["ETCSL 5.6.1 22-27", "ETCSL 5.6.1 35"], note: "keep away from another's quarrel; du14-de3 lu2-ki-inim-ma nam-ba-e-ku4-ku4 'do not let the quarrel make you a witness'"}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["ETCSL 5.6.1 28-31", "ETCSL 5.6.1 33-34", "ETCSL 5.6.1 40"], note: "niĝ2 nam-mu-zuḫ-zuḫ 'do not steal'; e2 na-a-an-ni-buru3-e-en 'do not break into a house'; ki-sikil dam tuku-da 'married young woman'; šu-zu uš2-am3 'your hand in blood'"}
+      - {motif: thief-is-a-lion-until-caught, refs: ["ETCSL 5.6.1 30"], note: "ni2-zu piriĝ na-nam ul-dab5 saĝ na-nam 'the thief is a lion, caught he is a slave'"}
+      - {motif: do-not-sit-alone-with-married-woman, refs: ["ETCSL 5.6.1 33-34"], note: "dumu-ĝu10 dagan-na lu2 dam tuku-da dur2 nam-bi2-e-ĝa2-ĝa2; inim sig-ga maḫ-am3 'slander is serious'"}
+      - {motif: let-stranger-praise-you, refs: ["ETCSL 5.6.1 37", "ETCSL 5.6.1 67"], note: "ka nam-tar-tar-re-e-en inim-zu ĝar-ra-am3; in the beer hall like a liar"}
+      - {motif: eat-no-stolen-food, refs: ["ETCSL 5.6.1 39"], note: "lu2-zuḫ-a ninda zuḫ-a nam-mu-da-gu7-e"}
+      - {motif: fivefold-fourfold-restitution-for-stolen-livestock, refs: ["ETCSL 5.6.1 41"], note: "only 'you will be made to restore the ox, restore the sheep' (gud ša-ba-ri-ib-su-su udu ...); no multiple stated"}
+      - {motif: careless-words-become-a-trap, refs: ["ETCSL 5.6.1 42-43"], note: "eĝer-bi-še3 ĝiš-par3-gin7 ši-me-ši-ib2-la2-e 'later it will lay a trap for you'"}
+      - {motif: do-not-travel-by-night, refs: ["ETCSL 5.6.1 47"], note: "kaskal ĝi6 na-an-du šag4-bi sag9 ḫul-a 'night hides good and evil'"}
+      - {motif: sex-with-slave-girl-forbidden, refs: ["ETCSL 5.6.1 49"]}
+      - {motif: causeless-curse-does-not-alight, refs: ["ETCSL 5.6.1 50"], note: "here the opposite image: a strong curse rebounds on the curser; aš2 a2 zig3 na-ab-bal-e šu-uš im-ši-ni10-ni10 'do not curse violently: it returns to you'"}
+      - {motif: debtor-not-driven-away, refs: ["ETCSL 5.6.1 53"], note: "ur5 tuku na-an-bad-e 'do not drive away a debtor'"}
+      - {motif: arrogant-housemate-makes-life-slavery, refs: ["ETCSL 5.6.1 54-57"], note: "neighbours shout ši-du-un ši-du-un 'there you go!'"}
+      - {motif: rape-of-daughter-forbidden-courtyard-knows, refs: ["ETCSL 5.6.1 62"], note: "dumu lu2-ra ĝiš3 a2 zig3 na-an-ne-en kisal-e bi2-zu-zu"}
+      - {motif: slanderers-shifty-eyes, refs: ["ETCSL 5.6.1 65-66"], note: "lu2 inim sig-ga-ke4 igi {ĝiš}bal-gin7 'the slanderer's eye moves like a spindle'"}
+      - {motif: sun-god-alone-equals-many, refs: ["ETCSL 5.6.1 68-72"], note: "{d}utu dili na-nam dili-ni lu2 šar2-ra-am3 'Utu is one; alone he is the equal of many'; side with the warrior and with Utu"}
+    hints:
+      - "Compare Prov 6:1-5, 11:15, 17:18, 22:26 (do not stand surety) and Prov 26:17 (meddling in another's quarrel)."
+      - "Compare Exod 20:13-16 and Deut 5:17-20 (do not murder, commit adultery, steal); Exod 21:37 / 22:3 (restitution for ox and sheep)."
+      - "Compare Prov 6:30-31 (the thief caught must repay sevenfold), Prov 5:3-14 and 7:6-27 (keep from the married woman), Prov 27:2 (let another praise you)."
+      - "Compare Prov 26:2 (a causeless curse does not alight) and Ps 109:17-18 (he loved cursing, let it come on him); Deut 15:7-11, Exod 22:24 (the debtor)."
+      - "Compare Deut 22:28-29 and Exod 22:15 (rape or seduction of a girl); Lev 19:20 (sex with a slave woman)."
+      - "Compare Deut 6:4 / Zech 14:9 (the LORD is one) and Ps 118:6 / Rom 8:31 (on the side of God against many) for 'Utu is one, alone the equal of many'."
+  - id: ane-etcsl-5-6-1-shuruppag-second-instructions
+    tradition: ane-sumerian
+    title: Instructions of Shuruppag, second series of precepts
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.1 76-145"]
+    tags:
+      - {motif: fathers-instruction-mothers-torah, refs: ["ETCSL 5.6.1 76-82A"], note: "repetition of the opening formula, 2-kam-ma-še3 'a second time'"}
+      - {motif: four-things-never-satisfied, refs: ["ETCSL 5.6.1 94-96"], note: "the palace, like a river, is never filled: e2-gal id2 maḫ-am3 ... niĝ2 ku4-ku4 niĝ2 sa2 nu-di-dam 'what enters never fills it'"}
+      - {motif: promised-gift-never-given, refs: ["ETCSL 5.6.1 97-100"], note: "ga-ra-ab-šum2 'I will give it to you' ... šum2-mu-da-bi an ba9-ra2-am3 'the giving is as far as heaven'"}
+      - {motif: children-worth-more-than-property, refs: ["ETCSL 5.6.1 101-102"], note: "niĝ2-u2-rum ... lu2-tur-ĝu10 niĝ2 nu-mu-un-da-sa2 'nothing equals my little ones'"}
+      - {motif: sweet-mouth-gathers-sweet-herbs, refs: ["ETCSL 5.6.1 103-105"], note: "ka lal3-e u2-lal3 e-bur12-re 'the honeyed mouth gathers honey-plants'"}
+      - {motif: boaster-has-empty-bag, refs: ["ETCSL 5.6.1 106-108"]}
+      - {motif: fool-loses-things-while-sleeping, refs: ["ETCSL 5.6.1 111-114"], note: "{lu2}lil-e niĝ2 u2-gu i3-de2-e"}
+      - {motif: hired-worker-eats-then-leaves, refs: ["ETCSL 5.6.1 119-123"]}
+      - {motif: kings-must-not-drink-wine, refs: ["ETCSL 5.6.1 126"], note: "kaš naĝ-a-zu-ne di na-an-ne-e 'you should not pass judgement when you drink beer'; addressed to the son, not a king"}
+      - {motif: heaven-far-earth-precious, refs: ["ETCSL 5.6.1 128-130"], note: "an su3-ud-dam ki kal-kal-la-am3"}
+      - {motif: gather-like-slave-eat-like-queen-at-harvest, refs: ["ETCSL 5.6.1 131-133"], note: "geme2-gin7 de5-ga-ab egir2-gin7 gu7-a"}
+      - {motif: eat-modestly-greed-kills, refs: ["ETCSL 5.6.1 134-135"], note: "aš2 dug4-dug4-ge bar ši-in-dar igi-tum3 la2 saĝ ĝiš im-ra-ra 'cursing only cuts the skin, greedy eyes kill'"}
+      - {motif: prayer-is-cool-water-for-the-heart, refs: ["ETCSL 5.6.1 140-141"], note: "inim šudu3-de3-ĝu10 ḫe2-ĝal2-la-am3 a-ra-zu a sedx-da šag4-ge im-sedx-e 'prayer is cool water that cools the heart'"}
+      - {motif: arrogant-speech-sickens-like-herb, refs: ["ETCSL 5.6.1 138"], note: "inim dirig ... u2 lipiš gig-ga-am3"}
+    hints:
+      - "Compare Prov 31:4-5 (not for kings to drink wine lest they pervert judgment) and Isa 28:7 (priest and prophet reel with beer in judgment)."
+      - "Compare Prov 3:27-28 ('do not say, Go and come again, tomorrow I will give'), Prov 25:14 (clouds without rain)."
+      - "Compare Eccl 1:7 (all streams run to the sea, yet the sea is not full) and Prov 27:20, 30:15-16 (things never satisfied)."
+      - "Compare Ps 127:3-5 (sons a heritage from the LORD) and Prov 6:6-8 (the ant gathers in harvest); Prov 15:4, 16:24 (gracious words a honeycomb)."
+      - "Compare Ps 42:2 and Q 13:28 ('in the remembrance of God hearts find rest') for prayer cooling the heart."
+  - id: ane-etcsl-5-6-1-shuruppag-third-instructions-a
+    tradition: ane-sumerian
+    title: Instructions of Shuruppag, third series (slaves, kin, the heart)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.1 146-207"]
+    tags:
+      - {motif: fathers-instruction-mothers-torah, refs: ["ETCSL 5.6.1 146-152A"], note: "3-kam-ma-še3 'a third time'"}
+      - {motif: do-not-beat-farmers-son, refs: ["ETCSL 5.6.1 153"]}
+      - {motif: do-not-buy-prostitute-or-houseborn-slave, refs: ["ETCSL 5.6.1 154-157"], note: "kar-ke4 'prostitute' ka u4-sar-ra 'a mouth that bites'; ama-a-tud 'house-born slave'; dumu-gir15 'free citizen'; geme2 e2-gal-la 'palace slave-girl'"}
+      - {motif: foreign-slave-without-kin-is-loyal, refs: ["ETCSL 5.6.1 158-164"], note: "e2 nu-tuku e2-a-ni-še3 la-ba-du iri nu-tuku iri-ni-še3 la-ba-du 'without house he does not go to his house, without city he does not go to his city'"}
+      - {motif: fate-is-a-slippery-bank, refs: ["ETCSL 5.6.1 170-171"], note: "nam-tar peš10 dur5-ra-am3"}
+      - {motif: elder-brother-like-father-elder-sister-like-mother, refs: ["ETCSL 5.6.1 172-174"], note: "šeš-gal a-a na-nam nin9 gal ama na-nam"}
+      - {motif: hunger-drives-people-over-mountains, refs: ["ETCSL 5.6.1 178-180"], note: "ninda-e lu2 kur-ra bi2-in-ed3-de3"}
+      - {motif: married-man-well-equipped-unmarried-sleeps-in-hay, refs: ["ETCSL 5.6.1 185-186"], note: "dam nu-un-tuku še-er-tab-ba mu-un-nu2"}
+      - {motif: grasp-neck-of-ox-to-cross-river, refs: ["ETCSL 5.6.1 189-192"], note: "keep close to the great men of your city to rise"}
+      - {motif: evil-inclination-of-heart, refs: ["ETCSL 5.6.1 193-199"], note: "of the slave girl from the hills; sag9-ga šu-am3 ḫul šag4 an-ga-am3 'the good is in the hands, the evil in the heart'"}
+      - {motif: curse-boat-of-evil-sink-waterskin-split, refs: ["ETCSL 5.6.1 200-201"], note: "ḫul-da id2-da ma2 ḫe2-en-da-su an-edin-na {kuš}ummud ḫe2-en-da-dar"}
+      - {motif: wise-woman-builds-house, refs: ["ETCSL 5.6.1 202-203"], note: "the loving heart (not a woman) builds the house: šag4 ki aĝ2 niĝ2 e2 du3-du3-u3-dam šag4 ḫul gig niĝ2 e2 gul-gul-lu-dam"}
+      - {motif: submit-to-the-powerful, refs: ["ETCSL 5.6.1 204-207"], note: "a2-tuku ni2-zu ḫe2-en-ne-ši-la2 'be humble before the strong'"}
+    hints:
+      - "Compare Prov 14:1 (the wise woman builds her house, folly tears it down) and Prov 15:17, 17:1."
+      - "Compare Gen 8:21 and Jer 17:9 (the inclination of man's heart is evil); Matt 15:19."
+      - "Compare Gen 42:1-3, Ruth 1:1 (famine sends people to foreign lands) and Prov 18:24 / 17:17 (brother born for adversity)."
+      - "Compare Gen 2:18 (not good for man to be alone), Eccl 4:9-12."
+  - id: ane-etcsl-5-6-1-shuruppag-third-instructions-b
+    tradition: ane-sumerian
+    title: Instructions of Shuruppag, third series (wives, mother and father, the unknown road) and colophon
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.1 208-280"]
+    tags:
+      - {motif: do-not-choose-wife-at-festival, refs: ["ETCSL 5.6.1 208-212"], note: "ezem-ma-ka dam na-an-tuku-tuku-e; kug ḫuĝ-ĝa2-am3 za-gin3 ḫuĝ-ĝa2-am3 'her silver is borrowed, her lapis is borrowed'"}
+      - {motif: reliable-woman-for-good-household, refs: ["ETCSL 5.6.1 215"], note: "munus zid e2 zid-še3"}
+      - {motif: woman-with-own-property-ruins-house, refs: ["ETCSL 5.6.1 220"]}
+      - {motif: glutton-and-drunkard-poverty, refs: ["ETCSL 5.6.1 221"], note: "kurun naĝ-naĝ-e buru14 im-su-su-su 'the drunkard drowns the harvest'"}
+      - {motif: gadabout-woman-in-streets, refs: ["ETCSL 5.6.1 222-232"], note: "e2-e2-a i-in-ku4-ku4-ku4 e-sir2-e-sir2-ra gu2 mu-un-gi-gi-de3 'she enters every house, peers into every street'"}
+      - {motif: let-things-serve-you, refs: ["ETCSL 5.6.1 242-243"], note: "niĝ2-nam nu-kal zi ku7-ku7-da 'nothing is precious, but life should be sweet'"}
+      - {motif: do-not-abduct-a-wife, refs: ["ETCSL 5.6.1 248-249"]}
+      - {motif: honor-parents-long-life, refs: ["ETCSL 5.6.1 255-260"], note: "ama-zu-ur2 inim dirig nam-ba-na-ab-be2-en; inim ama-za inim diĝir-za 'the word of your mother, the word of your god'; no promise of long life here"}
+      - {motif: father-is-like-a-god, refs: ["ETCSL 5.6.1 257-259"], note: "ama {d}utu-am3 lu2 mu-un-u3-tud ab-ba diĝir-ra-am3 ... inim-ma-ni zid-da"}
+      - {motif: lost-man-worse-than-lost-dog, refs: ["ETCSL 5.6.1 266-266A"], note: "ur nu-zu ḫul-am3 lu2 nu-zu ḫuš-am3"}
+      - {motif: man-eating-gods-of-the-mountains, refs: ["ETCSL 5.6.1 267-269"], note: "diĝir kur-ra lu2 gu7-gu7-u3-me-eš 'the gods of the mountains are man-eaters'; they build no houses or cities like men"}
+      - {motif: wise-words-are-a-gift-soothing-the-heart, refs: ["ETCSL 5.6.1 274-276"], note: "kadra inim-ma-bi niĝ2 šag4 ten-na"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 5.6.1 278-280"], note: "ki-sikil {d}nisaba za3-mi2"}
+    hints:
+      - "Compare Exod 20:12, Deut 5:16, Lev 19:3 (honour/fear mother and father) and Prov 1:8, 23:22; Q 17:23-24 and 31:14 (kindness to parents)."
+      - "Compare Prov 31:30 (charm is deceitful, beauty vain) for the wife chosen at a festival in borrowed finery; Prov 7:11-12 (her feet do not stay at home, now in the street, now in the squares)."
+      - "Compare Prov 23:20-21 and 21:17 (the drunkard comes to poverty)."
+      - "Compare Num 13:32 (a land that devours its inhabitants) for the man-eating mountain gods."
+  - id: ane-etcsl-5-6-5-three-ox-drivers
+    tradition: ane-sumerian
+    title: The three ox-drivers from Adab (a case for the king's judgement)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.6.5 1-95"]
+    tags:
+      - {motif: insoluble-case-brought-before-king, refs: ["ETCSL 5.6.5 1-3", "ETCSL 5.6.5 15"], note: "gu5-li-li 3-am3 dumu adab{ki} 'three friends, citizens of Adab' ... lugal-e an-ta ba-an-gi; amar-e a-ba-kam 'whose is the calf?'"}
+      - {motif: owners-of-ox-cow-and-waggon-refuse-to-fetch-water, refs: ["ETCSL 5.6.5 4-13"], note: "each refuses: 'what if a lion eats my ox / my cow goes into the desert / the load is taken from my waggon?'"}
+      - {motif: calf-born-on-journey-ownership-disputed, refs: ["ETCSL 5.6.5 14-15", "ETCSL 5.6.5 29-30"], note: "the ox mounts the cow, she drops a calf, the calf eats the waggon's load"}
+      - {motif: two-mothers-dispute-child, refs: ["ETCSL 5.6.5 15"], note: "analogue only: three owners dispute who owns the newborn calf"}
+      - {motif: king-consults-cloistered-wise-woman, refs: ["ETCSL 5.6.5 16-17", "ETCSL 5.6.5 89"], note: "lugal-e inim nu-mu-un-ne-ši-ib2-gi se2-ek-rum-še3 ba-da-an-kur9 'the king gave no answer but went to the cloistered woman (sekrum)'"}
+      - {motif: fulfilment-repeats-command-verbatim, refs: ["ETCSL 5.6.5 18-30"], note: "the king repeats the plaintiffs' speech word for word"}
+      - {motif: wise-verdict-dissatisfies-all-parties, refs: ["ETCSL 5.6.5 89-92"], note: "lu2 dam-a-ni ḫul an-gig-ga-am3 dam-a-ni-ta ba-an-da-ĝen 'the man who hated his wife left his wife'"}
+      - {motif: scribal-colophon, refs: ["ETCSL 5.6.5 95"], note: "{d}pa5-niĝin3-ĝar-ra ... um-mi-a diĝir adab{ki}-ke4 dub-sar-bi"}
+    hints:
+      - "Compare 1 Kgs 3:16-28 (Solomon's judgement of the two harlots and the living child) and 2 Sam 14:1-20 and 20:16-22 (the wise woman of Tekoa, of Abel)."
+      - "Compare Exod 21:35-36 and 22:9 (disputes over oxen and animals that die or are lost); Q 21:78-79 (David and Solomon judge the sheep that strayed into the field)."
+  - id: ane-etcsl-5-7-1-enlil-namzidtara
+    tradition: ane-sumerian
+    title: Enlil and Nam-zid-tara (Enlil disguised as a raven)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.7.1 1-27"]
+    tags:
+      - {motif: god-meets-man-on-road-in-disguise, refs: ["ETCSL 5.7.1 1-14"], note: "{d}en-lil2-le igi-ni mu-ni-in-gi4 uga{mušen}-aš u3-mu-ni-in-kur9 'Enlil changed his appearance, turned into a raven' and croaks"}
+      - {motif: god-asks-where-have-you-come-from, refs: ["ETCSL 5.7.1 3"], note: "me-ta-am3 nam-zid-tar-ra"}
+      - {motif: man-sees-through-gods-disguise, refs: ["ETCSL 5.7.1 15-16"], note: "uga{mušen} nu-me-en {d}en-lil2-me-en ... a-gin7 bi2-zu 'how did you know?'"}
+      - {motif: wealth-useless-on-day-of-wrath, refs: ["ETCSL 5.7.1 19-21"], note: "the day of death, not wrath: kug ḫe2-tuku za ḫe2-tuku gud ḫe2-tuku udu ḫe2-tuku ud nam-lu2-u18-lu al-ku-nu niĝ2-tuku-zu me-še3 e-tum3-ma 'the day of mankind draws near; where does your wealth lead?'"}
+      - {motif: name-is-destiny, refs: ["ETCSL 5.7.1 24-25"], note: "nam-zid-tar-ra 'well-destined'; mu-zu-gin7 nam-zu ḫe2-tar-re 'as your name, so let your fate be decreed'"}
+      - {motif: perpetual-priesthood-by-anointing, refs: ["ETCSL 5.7.1 26-27"], note: "no anointing: temple service granted to his heirs; ibila-zu e2-ĝa2 si sa2-e ḫe2-en-dib-dib-be2-ne 'your heirs shall come and go in my temple'"}
+      - {motif: deposed-elder-god-enmesara, refs: ["ETCSL 5.7.1 17-18"], note: "ud en-me-šar2-ra šeš ad-da-zu LU2×KAR2-da-a 'when your uncle En-me-šara was captive', having taken the rank of Enlil"}
+    hints:
+      - "Compare Gen 32:27-30 (the night visitor: 'What is your name?' and a new destiny), Gen 18 and Judg 13:17-18 (divine visitor unrecognised)."
+      - "Compare Ps 49:17-18, Eccl 5:14, Luke 12:16-21 and Q 104:2-3, 92:11 (wealth does not go with man at death)."
+      - "Compare 1 Sam 2:35, Num 25:13 (a perpetual priesthood for one's descendants) and 1 Sam 25:25 (as his name is, so is he)."
+  - id: ane-etcsl-5-7-2-nintinuga-dog
+    tradition: ane-sumerian
+    title: Nintinuga's dog (dedication of a dog figure to the healing goddess)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.7.2 1-18"]
+    tags:
+      - {motif: votive-object-dedicated-with-prayer-for-life-and-afterlife, refs: ["ETCSL 5.7.2 1-2", "ETCSL 5.7.2 17-18"], note: "a master-scribe of Nibru fashions the dog tu6-ni-lu2-sag9; ud til3-la-ĝa2 igi ḫu-mu-un-du8 ud ba-ug7-en kur-ra a sig9-ga ḫu-mu-un-na8-na8"}
+      - {motif: dog-sacred-to-healing-goddess, refs: ["ETCSL 5.7.2 2-3"], note: "ur kiĝ2-gi4-a 'messenger dog' of Nintinuga, wags its tail for its mistress"}
+      - {motif: healing-goddess-with-scalpel, refs: ["ETCSL 5.7.2 6-9"], note: "no scalpel here: she diagnoses the asag demon, examines bones and 'sinews of life and death', a-zu sag9-ge 'kindly physician', šim-mu2 'exorcist'"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 5.7.2 18"], note: "the dedicant asks the goddess herself to give him clean water to drink in the netherworld"}
+      - {motif: votive-object-given-a-name, refs: ["ETCSL 5.7.2 10-11", "ETCSL 5.7.2 16"], note: "mu-še3 mu-un-sa4"}
+    hints:
+      - "Compare Tob 5:17, 11:4 (the dog with Tobias and the angel Raphael 'God heals') and Exod 15:26 ('I am the LORD your healer')."
+  - id: ane-etcsl-5-7-3-axe-to-nergal
+    tradition: ane-sumerian
+    title: The dedication of an axe to Nergal
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.7.3 1-16"]
+    tags:
+      - {motif: votive-object-dedicated-with-prayer-for-life-and-afterlife, refs: ["ETCSL 5.7.3 1-4", "ETCSL 5.7.3 14-16"], note: "a merchant's son has a tin axe made for Nergal; same closing petition for clean water in the kur"}
+      - {motif: weapons-dedicated-in-temple, refs: ["ETCSL 5.7.3 4-9"], note: "ḫa-zi-in nagga 'tin axe', handle of arganum wood, head of antasura stone"}
+      - {motif: donor-promises-to-repair-or-replace-gift, refs: ["ETCSL 5.7.3 10-13"], note: "ga-mu-na-ab-silim ... ki-bi ga-mu-na-ab-gi4 'should it break I will repair it, should it be lost I will replace it'"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 5.7.3 15-16"], note: "kur-ra a sig9-ga ḫu-mu-un-na8-na8 'may he give me clean water to drink in the netherworld'"}
+    hints:
+      - "Compare 1 Sam 21:10 (Goliath's sword kept behind the ephod at Nob) and Lev 27 (vows and their redemption)."
+  - id: ane-etcsl-5-9-1-a-home-of-the-fish-invitation
+    tradition: ane-sumerian
+    title: The home of the fish, the house built and the invitation (A 1-44)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.9.1 A:1-44"]
+    tags:
+      - {motif: fisherman-builds-house-to-lure-fish, refs: ["ETCSL 5.9.1 A:1-13", "ETCSL 5.9.1 A:25-31"], note: "ku6-ĝu10 e2 ma-ra-an-du3 araḫ4 ma-ra-an-du3 'my fish, I have built you a house, a storehouse'; the house is in fact a fish trap; refrain kur9-ra-ma-ni-ib dumu ki aĝ2-ĝu10 'enter, my beloved son'"}
+      - {motif: house-full-of-food-and-beer-incense, refs: ["ETCSL 5.9.1 A:4", "ETCSL 5.9.1 A:6-13"], note: "niĝ2-gu7 saĝ-ĝa2; kaš sig5-ga; ir-bi tir šim {ĝiš}erin-na-gin7 'its scent like a cedar forest'; no flies buzz"}
+      - {motif: whole-family-invited-to-enter, refs: ["ETCSL 5.9.1 A:14-24"], note: "ḫe2-em-du 'let them come': father, grandfather, brothers' sons, wife, children, friends, in-laws, neighbours"}
+      - {motif: house-of-rest-without-quarrel, refs: ["ETCSL 5.9.1 A:32-33"], note: "lu2 nu2-a ba-ra-ab-zi-zi lu2 tuš-a du14 ba-ra-mu2-mu2 'none who sleeps there is disturbed, none who sits there quarrels'"}
+      - {motif: no-escape-face-towards-me-refrain, refs: ["ETCSL 5.9.1 A:40-44"], note: "na-an-ga-ba-e-da-du-e igi-zu ki-ĝu10-uš-še3 'may you not get away: face towards me!'"}
+    hints:
+      - "Compare Prov 9:1-6 and 9:13-18 (Wisdom and Folly each build a house, set a feast and call 'turn in here'; her guests are in the depths of Sheol) and Prov 7:22-23 (like a bird hastening to the snare)."
+      - "Compare Eccl 9:12 (as fish taken in an evil net) and Hab 1:14-17 (men made like fish caught in the net)."
+  - id: ane-etcsl-5-9-1-a-fish-catalogue
+    tradition: ane-sumerian
+    title: The home of the fish, catalogue of fish invited in, and the birds that threaten (A 45-117, B, C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.9.1 A:45-118", "ETCSL 5.9.1 B:1-7", "ETCSL 5.9.1 C:1-17"]
+    tags:
+      - {motif: catalogue-of-fish-species-with-descriptions, refs: ["ETCSL 5.9.1 A:68-117", "ETCSL 5.9.1 B:1-4"], note: "suḫur-gal, suḫur-tur, eštub, gubi (eel), mur (sting-ray), kiĝ, ĝir-gid, gir, ab-suḫur, agargar, kamar ... each with a riddling description and the refrain ḫe2-en-ga-mu-e-da-an-ku4-ku4 'may he also enter with you'"}
+      - {motif: fish-taboo-not-offered-in-shrines, refs: ["ETCSL 5.9.1 A:94", "ETCSL 5.9.1 A:106"], note: "niĝ2-gig eš3 iri sa2-dug4 nu-ĝa2-ĝa2 'taboo, not placed as offering in the city's shrines' (sting-ray); ku6 dug3-ga i3-ĝal2 niĝ2-gig-ga 'tasty yet an abomination'"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["ETCSL 5.9.1 A:94", "ETCSL 5.9.1 A:106"]}
+      - {motif: gods-delight-in-the-catch, refs: ["ETCSL 5.9.1 A:45-52", "ETCSL 5.9.1 C:16-17"], note: "Suen, Dumuzid ḫe2-en-da-ḫul2-ḫul2; {d}nanše ... ga-ša-an {lu2}šu-KU6-da 'Nanše, lady of the fishermen'"}
+      - {motif: predators-of-the-fish-listed, refs: ["ETCSL 5.9.1 C:1-12"], note: "akane, ubure, egret (kiši6-bar), kib birds and the kuda crocodile: šu-še3 ba-e-la2-e 'you would dangle from its claws'"}
+      - {motif: no-escape-face-towards-me-refrain, refs: ["ETCSL 5.9.1 C:13-15"], note: "ud zal-zal-la za-e ugu-ĝu10-uš ĝa2-nu 'time is passing, come to me'"}
+    hints:
+      - "Compare Lev 11:9-12 and Deut 14:9-10 (fish without fins and scales are an abomination, sheqets/to'evah) for the taboo sting-ray and the 'tasty yet abominable' fish."
+      - "Compare 1 Kgs 5:13 (Solomon spoke of beasts, birds, creeping things and fish) for the catalogue."
+  - id: ane-etcsl-5-9-2-a-heron-turtle-reedbeds-and-plea
+    tradition: ane-sumerian
+    title: The heron and the turtle, the reedbeds, the heron's nest and the turtle's attack (A 1-106)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.9.2 A:1-106"]
+    tags:
+      - {motif: reedbeds-of-named-cities-refrain, refs: ["ETCSL 5.9.2 A:1-9"], note: "mu2-a-bi dug3-ga-am3 'whose growth is good': Tutub, Kiritaba, Akšak, Enki's lagoons, Urim"}
+      - {motif: plants-likened-to-ages-and-ranks-of-people, refs: ["ETCSL 5.9.2 A:11-21"], note: "kumul = little ones; enbar = maiden; ubzal = young man; pela = daughter-in-law and son; gašam = old man; zi reed = old woman; reedbed = Gudea; ildag tree = king"}
+      - {motif: bird-asks-god-for-place-to-lay-eggs, refs: ["ETCSL 5.9.2 A:32-47"], note: "igira2{mušen} lugal {d}en-ki e2-a ba-ši-in-kur9 ... ki daĝal šum2-ma-ab nunuz ki ḫa-ba-ni-in-tag"}
+      - {motif: quarrelsome-turtle-self-description, refs: ["ETCSL 5.9.2 A:48-59"], note: "du14 ga-nam mu-da-mu2 'I will pick a quarrel' refrain; igi muš 'snake's eyes', ka muš, eme muš, gug ur tur 'a puppy's bite', šeg12 udun-na 'oven brick', {ĝiš}dusu ... nu-luḫ-ḫa 'unwashed refuse-basket'"}
+      - {motif: nest-destroyed-young-thrown-into-water, refs: ["ETCSL 5.9.2 A:60-66", "ETCSL 5.9.2 A:100-106"], note: "gud3 us2-sa-ni ba-ni-in-suḫ3-suḫ3 dumu-ni a-e ba-ni-in-ra; claws in her forehead, blood on her breast"}
+      - {motif: wronged-creature-takes-case-to-god-for-verdict, refs: ["ETCSL 5.9.2 A:67-71", "ETCSL 5.9.2 A:80-89"], note: "lugal-ĝu10 di-ĝu10 ḫe2-kud-de3 ka-aš-ĝu10 ḫe2-bar-re '{d}en-ki-ke4 di-ĝu10 ḫe2-kud-de3 'let Enki judge my case'"}
+      - {motif: predator-crushes-eggs-and-young, refs: ["ETCSL 5.9.2 A:22-31", "ETCSL 5.9.2 A:72-78"], note: "nunuz im-de5-de5-ge zag im-ma-ni-in-tag 'collects eggs and crushes them'; a curse that the gift-bringing heron be unable to bring gifts"}
+    hints:
+      - "Compare Deut 22:6-7 (do not take the mother bird with the young) and Isa 10:14 (gathering eggs, none moved a wing); Ps 84:4 (the bird finds a nest by God's altar)."
+      - "Compare Judg 9:8-15 and 2 Kgs 14:9 (fables of trees and animals) and Ps 104:16-17 (the stork's nest in the trees God planted)."
+  - id: ane-etcsl-5-9-2-a-enki-intervenes
+    tradition: ane-sumerian
+    title: The heron and the turtle, Enki's instructions to Isimud and the creation of flax; fragments (A 107-208, B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.9.2 A:107-208", "ETCSL 5.9.2 B:1-9"]
+    tags:
+      - {motif: fulfilment-repeats-command-verbatim, refs: ["ETCSL 5.9.2 A:107-117", "ETCSL 5.9.2 A:121-128"], note: "Enki to his minister: sukkal {d}isimud-ĝu10 mu dug3 an-na-ĝu10 ... i3-gub-be2-en ud-ul a-ra-zu 'I stand at your service'; the bronze box (pisaĝ zabar) instructions are then carried out word for word"}
+      - {motif: beings-created-from-dirt-under-fingernail, refs: ["ETCSL 5.9.2 A:171", "ETCSL 5.9.2 B:6"], note: "umbin-si-ni mu-dur7 ba-ra-an-de6 dim3-gi4-še3 ba-an-du3 'he took dirt from his fingernail and created the dimgi plant'"}
+      - {motif: god-waters-plants-with-hand-and-foot, refs: ["ETCSL 5.9.2 A:173-176"], note: "tur-tur-bi a šu-ta bi2-in-de2 gal-gal-bi a ĝiri3-ta 'the little ones he watered with his hand, the big ones with his foot'; the flax (gu) grows"}
+      - {motif: turtle-caught-in-hunting-net, refs: ["ETCSL 5.9.2 A:193-197", "ETCSL 5.9.2 B:4-5"], note: "sa-par4 im-ma-an-sal-e-ne 'they spread the hunting net'; fragmentary, the outcome is lost"}
+    hints:
+      - "Compare Deut 11:10 (Egypt watered with the foot) for watering 'with the foot'."
+      - "Compare Gen 2:7-9 (the ground made to bring forth plants) and Ezek 12:13, 32:3 (God spreads his net over the offender)."
+  - id: ane-etcsl-6-1-01-a-righteousness-and-possessions
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on righteousness, loss, wealth and possessions (A.1.1-30)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 A.1.1:1-A.1.30:38"]
+    tags:
+      - {motif: path-of-righteousness-no-death, refs: ["ETCSL 6.1.01 A.1.1:1"], note: "niĝ2-gen6-na-da a-ba in-da-sa2 nam-til3 i3-u3-tud 'who can match righteousness (truth)? it gives birth to life'"}
+      - {motif: wickedness-thwarts-the-sun-god, refs: ["ETCSL 6.1.01 A.1.2:2"], note: "niĝ2-erim2-e a2-bi ḫe2-bi2-ib2-kuš2-u3 {d}utu me-da tum3"}
+      - {motif: what-is-destroyed-belongs-to-god, refs: ["ETCSL 6.1.01 A.1.7:7"], note: "niĝ2 ḫa-lam-ma diĝir-ra-kam šu tu-tu nu-ub-zu"}
+      - {motif: leftover-bread-eaten-by-stranger, refs: ["ETCSL 6.1.01 A.1.9:10-11"], note: "ninda ḫe2-ĝal2-e {d}nin-kilim ib2-gu7 ... lu2-kur2-ra ib2-gu7 'the mongoose eats it ... a stranger eats it'"}
+      - {motif: wealth-far-poverty-near, refs: ["ETCSL 6.1.01 A.1.15:19-20"], note: "niĝ2-tuku-tuku al-su3-ud nam-ukur3-ra al-ku-nu"}
+      - {motif: wealth-brings-sleeplessness, refs: ["ETCSL 6.1.01 A.1.16:21"], note: "niĝ2 am3-da-tuku-tuku igi am3-da-uru3-e 'he who has many things is always on guard'"}
+      - {motif: riches-fly-away-like-eagle, refs: ["ETCSL 6.1.01 A.1.18:23-24"], note: "niĝ2-gur11 buru5{mušen} dal-dal ki-tuš nu-pad3-de3-dam 'possessions are flying sparrows that find no place to settle'"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["ETCSL 6.1.01 A.1.23:30"], note: "niĝ2-tuku al di keše2-re niĝ2-gig-ga-am3 'to be rich and still demand is an abomination'"}
+    hints:
+      - "Compare Prov 23:4-5 (riches make wings and fly like an eagle), Prov 12:28 and 11:19 (righteousness leads to life), Eccl 5:11 (the rich man's abundance does not let him sleep)."
+      - "Compare Eccl 6:2 (a stranger eats his wealth) and Ps 39:7 (heaping up, not knowing who will gather)."
+  - id: ane-etcsl-6-1-01-a-bread-and-the-poor
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on bread, libations, curses on food and the poor man (A.1.31-61)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 A.1.31:39-A.1.61:82"]
+    tags:
+      - {motif: borrowed-bread-not-returned, refs: ["ETCSL 6.1.01 A.1.31:39"], note: "ninda šu-a ti-a li-bi2-in-gur-ra"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 6.1.01 A.1.38:47-50"], note: "a ib2-ta-de2 ki-in-du ba-ab-naĝ kur-ra ki kal-la ... a-de2-da mu-pad3-de3-dam 'water poured out is drunk by the ground; in the netherworld it is called a water libation'"}
+      - {motif: curse-food-stick-in-throat, refs: ["ETCSL 6.1.01 A.1.40:52-A.1.43:56"], note: "ninda-ni niĝ2-u2-zug4 ḫe2-a 'let his bread be foul'; zi-ni ḫe2-keše2 'let it stick in his throat' (Akkadian gloss liššiqšu)"}
+      - {motif: poor-man-always-lacks-something, refs: ["ETCSL 6.1.01 A.1.55:71-73"], note: "ukur3 ḫa-ba-ug7 ... ninda i3-pad3 mun nu-pad3 mun i3-pad3 ninda nu-pad3 'when he finds bread he finds no salt ...'"}
+      - {motif: poor-man-ungreeted-and-called-bad-name, refs: ["ETCSL 6.1.01 A.1.56:74-75"], note: "e-sir2-ra ḫe2-du silim-eš2 gu3 nu-um-de2 ... mu ḫul mu-bi-im"}
+      - {motif: poor-mans-life-forgotten-at-death, refs: ["ETCSL 6.1.01 A.1.57:76"], note: "ukur3 nam-til3-bi nam-uš2-da nu-ub-dirig"}
+      - {motif: overeater-cannot-sleep, refs: ["ETCSL 6.1.01 A.1.44:57"], note: "niĝ2 maḫ gu7-gu7; cf. B.1.103"}
+    hints:
+      - "Compare Prov 14:20 and 19:4, 7 (the poor man is hated even by his neighbour, his brothers avoid him), Eccl 9:15-16 (the poor wise man forgotten)."
+      - "Compare Prov 22:7 (the borrower is the lender's slave) and Ps 37:21 (the wicked borrows and does not repay)."
+      - "Compare Ps 69:23 (let their table become a snare) for curses on food."
+  - id: ane-etcsl-6-1-01-b-city-curse-boat-heart
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on cities, curses, the honest and dishonest boat, and the heart (B.1.62-99)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 B.1.62:1-B.1.99:64"]
+    tags:
+      - {motif: city-without-dogs-fox-is-boss, refs: ["ETCSL 6.1.01 B.1.65:12-B.1.66:13"], note: "iri{ki} nu ur-gir15-ra ka5-a nu-banda3; iri{ki} ad4-ne-ka ba-za lu2-kaš4-e 'in the city of the lame the cripple is courier'"}
+      - {motif: insulter-is-insulted, refs: ["ETCSL 6.1.01 B.1.79:32-B.1.80:35"], note: "in-na in-bi-im aš2-e aš2-bi-im 'an insult from an insult, a curse from a curse'"}
+      - {motif: curse-cannot-be-accepted-unlike-verdict, refs: ["ETCSL 6.1.01 B.1.81:36"], note: "di gid2-i al-ĝal2 aš2 gid2-i nu-ĝal2"}
+      - {motif: secret-spoken-revealed-in-womens-quarters, refs: ["ETCSL 6.1.01 B.1.82:37"], note: "puzur5 u3-bi2-dug4 ama5-e ḫe2-bur2-re"}
+      - {motif: honest-boat-guided-to-harbour-by-sun-god, refs: ["ETCSL 6.1.01 B.1.83:38-B.1.84:41"], note: "{ĝiš}ma2 niĝ2-gen6-na ... {d}utu kar gen6-na mu-un-na-ab-ši-kiĝ2-kiĝ2 / {ĝiš}ma2 niĝ2-erim2-e ... peš10-peš10-e im-ta-tag-tag-e"}
+      - {motif: heart-overflowing-lamentable-restraint-princely, refs: ["ETCSL 6.1.01 B.1.96:57-58"], note: "šag4-ga sig10-ga dumu lugal-la-ka 'he who keeps it in his heart is a prince'"}
+      - {motif: what-comes-from-tree-is-known-by-tree, refs: ["ETCSL 6.1.01 B.1.98:61-62"]}
+    hints:
+      - "Compare Prov 10:9 and 28:18 (he who walks in integrity walks securely), Ps 107:30 (God brings them to their desired haven)."
+      - "Compare Eccl 10:20 (a bird of the air will carry your secret word) and Luke 12:3 (what is whispered in private rooms proclaimed from housetops)."
+      - "Compare Prov 16:32, 17:27-28, 29:11 (a fool vents all his spirit; the one who controls his spirit is better than the mighty) and Prov 15:1 (a harsh word stirs up anger)."
+      - "Compare Matt 7:16-18 (a tree known by its fruit)."
+  - id: ane-etcsl-6-1-01-b-eating-heart-husband
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on eating, sceptre, drought, husband and the raven-mongoose-lion (B.1.100-C.1.129)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 B.1.100:65-C.1.129:15"]
+    tags:
+      - {motif: speech-not-heart-creates-hatred, refs: ["ETCSL 6.1.01 B.1.105:71-72"], note: "šag4-ge šag4 ḫul gig nu-ub-tu-ud dug4-ge šag4 ḫul gig ib2-tu-ud"}
+      - {motif: overeater-cannot-sleep, refs: ["ETCSL 6.1.01 B.1.103:69"], note: "niĝ2 maḫ gu7-gu7-e u3 nu-um-ši-ku-ku"}
+      - {motif: drought-no-fish-for-fisherman, refs: ["ETCSL 6.1.01 B.1.106:73-77"], note: "a-gar3-e a ba-ḫad2 šu-KU6-de3 ku6 nu-un-de6"}
+      - {motif: wordplay-blessings-on-names, refs: ["ETCSL 6.1.01 B.1.112:89"], note: "pun an bal ... an-ba ki an-ba; not a name-blessing but a pun-proverb"}
+      - {motif: husband-sweeter-than-any-plant, refs: ["ETCSL 6.1.01 C.1.126:6"], note: "u2 dam-gin7 ze2-ba edin-na nu-un-mu2"}
+      - {motif: no-escape-raven-mongoose-lion, refs: ["ETCSL 6.1.01 C.1.128:9-13"], note: "an uga{mušen}-am3 ki {d}nin-kilim edin-na ur-maḫ ... mu-ud-na-ĝu10 me-še3 ga-ĝen"}
+    hints:
+      - "Compare Ps 139:7-12 and Amos 5:19 / 9:2-3 (as if a man fled from a lion and a bear met him; no hiding in Sheol, heaven or sea) for raven, mongoose and lion."
+      - "Compare Eccl 5:11 (the sleep of the labourer is sweet, the rich man's surfeit does not let him sleep)."
+      - "Compare Song 2:3 (like an apple tree among the trees of the wood, so is my beloved)."
+  - id: ane-etcsl-6-1-01-d-family-and-marriage
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on brothers, sisters, marriage, wives and sons (D.1.140-170)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 D.1.140:1-D.1.170:62"]
+    tags:
+      - {motif: brothers-destroy-fathers-estate-in-anger, refs: ["ETCSL 6.1.01 D.1.141:2-3"], note: "šeš-e lipiš-ta e2 ad-da-ne-ne in-gul-lu-uš"}
+      - {motif: accept-your-lot-make-mother-and-god-happy, refs: ["ETCSL 6.1.01 D.1.145:11-12"], note: "ĝiš-šub us2-sa-ab ama-zu ḫul2-la-ab kaš4 dug4-ga-ab diĝir-zu ḫul2-la-ab"}
+      - {motif: blessing-wife-and-many-sons, refs: ["ETCSL 6.1.01 D.1.146:13-D.1.147:17"], note: "{d}inana-ke4 dam ur2 kum2-ma ḫa-ra-nu2-a dumu a2 tal2-tal2-la ḫa-ra-an-ba-e 'may Inana lay a hot-limbed wife with you, give you broad-shouldered sons'"}
+      - {motif: malicious-wife-worse-than-disease, refs: ["ETCSL 6.1.01 D.1.151:24-26", "ETCSL 6.1.01 D.1.154:31-32"], note: "dam nu-ĝar-ra e2-a til3-la-am3 a2-sag3-a2-sag3-e dirig-ga-am3"}
+      - {motif: quarrelsome-wife-dripping-roof, refs: ["ETCSL 6.1.01 D.1.154:31-32"], note: "analogue: the malicious wife at home is worse than all diseases"}
+      - {motif: man-who-supports-no-wife-or-child-has-no-joy, refs: ["ETCSL 6.1.01 D.1.153:29-30"], note: "dam nu-il2 dumu nu-il2 giri17-zal-še3 nu-il2"}
+      - {motif: born-without-father-or-mother, refs: ["ETCSL 6.1.01 D.1.155:33-35"], note: "ad-da-a a ḫur nu-ri ama-a a ḫur nu-ri {gi}en3-bar gaba ud-da-ka e3-a 'no father begot it, no mother: the enbar reed came out of the storm'"}
+      - {motif: disorderly-son-better-unborn, refs: ["ETCSL 6.1.01 D.1.157:38-39"], note: "dumu si nu-sa2 ama-a-ni na-an-u3-tud diĝir-ra-ni na-an-dim2-dim2-e"}
+      - {motif: wives-human-children-divine, refs: ["ETCSL 6.1.01 D.1.160:43-44"], note: "dam tuku-tuku lu2-ulu3-ka dumu tuku-tuku diĝir-ra-ka"}
+    hints:
+      - "Compare Prov 21:9, 19 and 27:15 (better a corner of the roof than a contentious wife; a continual dripping) and Prov 12:4 (a disgraceful wife is rot in his bones)."
+      - "Compare Ps 127:3 and Gen 30:2 ('Am I in God's stead who withheld the fruit of the womb?') for 'having children is divine'; Q 42:49-50 (He gives daughters and sons to whom he wills)."
+      - "Compare Prov 17:21, 25 and 10:1 (a foolish son is his mother's grief), Job 3:3-16, Eccl 6:3 (better the stillborn)."
+      - "Compare Heb 7:3 (without father, without mother) and Ps 128:3 (wife a fruitful vine, sons like olive shoots)."
+  - id: ane-etcsl-6-1-01-d-sayings-and-fragments
+    tradition: ane-sumerian
+    title: Proverbs collection 1, on effort, sickness and pregnancy, testing a son-in-law; fragments (D.1.171-G.1.g4)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.01 D.1.171:63-G.1.g4:8"]
+    tags:
+      - {motif: tireless-sleepless-walker, refs: ["ETCSL 6.1.01 D.1.174:70-71"], note: "al-di-di-de3-en nu-kuš2-u3-me-en ... u3 nu-ku-ku-me-en"}
+      - {motif: chattering-girl-silenced-boy-not, refs: ["ETCSL 6.1.01 D.1.185:89-90"]}
+      - {motif: sick-and-pregnant-too-much, refs: ["ETCSL 6.1.01 D.1.193–194:106-108"], note: "tur5-ra dug3-ga-am3 peš13 gig-ga-am3 peš13 tur5-ra im-ma-dirig-ga-bi"}
+      - {motif: son-in-law-tested-by-quarrels, refs: ["ETCSL 6.1.01 D.1.196:111-113"], note: "utul2 ... mun-ta ... dug sur-ra ... a-ta ... mussa ... du14 mu2-mu2 al-sig10 'a vessel is tested with salt, a jar with water, a son-in-law by quarrels'"}
+      - {motif: rich-eat-fine-poor-eat-coarse, refs: ["ETCSL 6.1.01 D.1.190:99-D.1.191:102"], note: "fatty meat is good ... what shall we give the slave girl? let her eat the ham of a pig"}
+    hints:
+      - "Compare Prov 17:3 and 27:21 (the crucible for silver, the furnace for gold, and the LORD tests hearts) and Gen 3:16 (pain in childbearing)."
+      - "Compare Ps 121:4 (he who keeps Israel neither slumbers nor sleeps)."

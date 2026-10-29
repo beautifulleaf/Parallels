@@ -9361,6 +9361,62 @@ texts:
   source: EUPT
   lines: 118
   chunk: 39
+- siglum: KTU 1.2
+  title: 'Baal Cycle, tablet 2: Baal and Yam'
+  file: ugaritic/KTU_1.2.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 132
+  chunk: 39
+- siglum: KTU 1.3
+  title: 'Baal Cycle, tablet 3: Baal and Anat'
+  file: ugaritic/KTU_1.3.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 259
+  chunk: 39
+- siglum: KTU 1.4
+  title: 'Baal Cycle, tablet 4: Baal''s palace'
+  file: ugaritic/KTU_1.4.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 447
+  chunk: 39
+- siglum: KTU 1.5
+  title: 'Baal Cycle, tablet 5: Baal and Mot'
+  file: ugaritic/KTU_1.5.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 172
+  chunk: 39
+- siglum: KTU 1.6
+  title: 'Baal Cycle, tablet 6: Baal and Mot'
+  file: ugaritic/KTU_1.6.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 243
+  chunk: 39
+- siglum: KTU 1.7
+  title: Mythological fragment (Baal/Anat)
+  file: ugaritic/KTU_1.7.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 55
+  chunk: 39
+- siglum: KTU 1.9
+  title: Mythological fragment
+  file: ugaritic/KTU_1.9.json
+  tradition: ane-ugaritic
+  language: uga
+  source: EUPT
+  lines: 4
+  chunk: 39
 - siglum: KTU 1.10
   title: Baal and Anat (Baal and the heifer)
   file: ugaritic/KTU_1.10.json
@@ -9368,14 +9424,6 @@ texts:
   language: uga
   source: EUPT
   lines: 104
-  chunk: 39
-- siglum: KTU 1.100
-  title: Horon and the snakes (snake incantation)
-  file: ugaritic/KTU_1.100.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 79
   chunk: 39
 - siglum: KTU 1.11
   title: Baal and Anat (fragment)
@@ -9408,7 +9456,7 @@ texts:
   language: uga
   source: EUPT
   lines: 301
-  chunk: 39
+  chunk: 40
 - siglum: KTU 1.15
   title: Kirta Epic, tablet 2
   file: ugaritic/KTU_1.15.json
@@ -9416,7 +9464,7 @@ texts:
   language: uga
   source: EUPT
   lines: 176
-  chunk: 39
+  chunk: 40
 - siglum: KTU 1.16
   title: Kirta Epic, tablet 3
   file: ugaritic/KTU_1.16.json
@@ -9424,7 +9472,7 @@ texts:
   language: uga
   source: EUPT
   lines: 265
-  chunk: 39
+  chunk: 40
 - siglum: KTU 1.17
   title: Aqhat Epic, tablet 1
   file: ugaritic/KTU_1.17.json
@@ -9432,7 +9480,7 @@ texts:
   language: uga
   source: EUPT
   lines: 190
-  chunk: 39
+  chunk: 40
 - siglum: KTU 1.18
   title: Aqhat Epic, tablet 2
   file: ugaritic/KTU_1.18.json
@@ -9440,7 +9488,7 @@ texts:
   language: uga
   source: EUPT
   lines: 76
-  chunk: 39
+  chunk: 40
 - siglum: KTU 1.19
   title: Aqhat Epic, tablet 3
   file: ugaritic/KTU_1.19.json
@@ -9448,14 +9496,6 @@ texts:
   language: uga
   source: EUPT
   lines: 226
-  chunk: 39
-- siglum: KTU 1.2
-  title: 'Baal Cycle, tablet 2: Baal and Yam'
-  file: ugaritic/KTU_1.2.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 132
   chunk: 40
 - siglum: KTU 1.23
   title: Birth of the Gracious Gods (Shachar and Shalim)
@@ -9473,53 +9513,13 @@ texts:
   source: EUPT
   lines: 50
   chunk: 40
-- siglum: KTU 1.3
-  title: 'Baal Cycle, tablet 3: Baal and Anat'
-  file: ugaritic/KTU_1.3.json
+- siglum: KTU 1.100
+  title: Horon and the snakes (snake incantation)
+  file: ugaritic/KTU_1.100.json
   tradition: ane-ugaritic
   language: uga
   source: EUPT
-  lines: 259
-  chunk: 40
-- siglum: KTU 1.4
-  title: 'Baal Cycle, tablet 4: Baal''s palace'
-  file: ugaritic/KTU_1.4.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 447
-  chunk: 40
-- siglum: KTU 1.5
-  title: 'Baal Cycle, tablet 5: Baal and Mot'
-  file: ugaritic/KTU_1.5.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 172
-  chunk: 40
-- siglum: KTU 1.6
-  title: 'Baal Cycle, tablet 6: Baal and Mot'
-  file: ugaritic/KTU_1.6.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 243
-  chunk: 40
-- siglum: KTU 1.7
-  title: Mythological fragment (Baal/Anat)
-  file: ugaritic/KTU_1.7.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 55
-  chunk: 40
-- siglum: KTU 1.9
-  title: Mythological fragment
-  file: ugaritic/KTU_1.9.json
-  tradition: ane-ugaritic
-  language: uga
-  source: EUPT
-  lines: 4
+  lines: 79
   chunk: 40
 - siglum: Amenemope
   title: Instruction of Amenemope
@@ -9737,6 +9737,3158 @@ texts:
   source: TLA
   lines: 405
   chunk: 44
+- siglum: CTH 1
+  title: Anitta-Text
+  file: hittite/CTH_1.TLHdig.json
+  tradition: ane-hittite
+  language: hit
+  source: TLHdig XML dataset (Zenodo)
+  lines: 176
+  chunk: 44
+- siglum: CTH 19
+  title: Erlass des Telipinu
+  file: hittite/CTH_19.TLHdig.json
+  tradition: ane-hittite
+  language: hit
+  source: TLHdig XML dataset (Zenodo)
+  lines: 643
+  chunk: 45
+- siglum: CTH 25
+  title: Vertrag Zidanzas II. mit Pillija von Kizzuwatna
+  file: hittite/CTH_25.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 45
+- siglum: CTH 26
+  title: Der Vertrag eines Hethiterkönigs mit Paddatiššu von Kizzuwatna
+  file: hittite/CTH_26.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 103
+  chunk: 45
+- siglum: CTH 41.I.1
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (akk. Fassung)
+  file: hittite/CTH_41.I.1.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 100
+  chunk: 45
+- siglum: CTH 41.I.2
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (akk. Fassung)
+  file: hittite/CTH_41.I.2.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 302
+  chunk: 45
+- siglum: CTH 41.I.3
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (Fragment einer weiteren akk. Fassung)
+  file: hittite/CTH_41.I.3.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 45
+- siglum: CTH 41.I.4
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (Fragment einer weiteren akk. Fassung)
+  file: hittite/CTH_41.I.4.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 45
+- siglum: CTH 41.II.1
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (heth. Fassung)
+  file: hittite/CTH_41.II.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 45
+- siglum: CTH 41.II.2
+  title: Vertrag Tutḫaliyas I. mit Šunaššura von Kizzuwatna (heth. Fassung)
+  file: hittite/CTH_41.II.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 72
+  chunk: 45
+- siglum: CTH 42
+  title: Vertrag Suppiluliumas I. mit Ḫuqqana von Ḫajaša
+  file: hittite/CTH_42.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 304
+  chunk: 45
+- siglum: CTH 44
+  title: Einsetzung des Telipinu als "Priester" von Kizzuwatna
+  file: hittite/CTH_44.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 63
+  chunk: 45
+- siglum: CTH 50
+  title: ''
+  file: hittite/CTH_50.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 35
+  chunk: 45
+- siglum: CTH 51.I
+  title: Der Vertrag Šuppiluliumas I. von Ḫatti mit Šattiwazza von Mittani
+  file: hittite/CTH_51.I.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 262
+  chunk: 45
+- siglum: CTH 52.I
+  title: Der Eid Šattiwazzas und der Leute von Hurri gegenüber Šuppiluliuma I.
+  file: hittite/CTH_52.I.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 221
+  chunk: 45
+- siglum: CTH 53
+  title: Vertrag Šuppiluliumas I. mit Tette von Nuḫašše
+  file: hittite/CTH_53.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 164
+  chunk: 46
+- siglum: CTH 57
+  title: ''
+  file: hittite/CTH_57.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 46
+- siglum: CTH 62
+  title: Vertrag Muršilis II. mit Duppi-Tesšup von Amurru (akk./heth. Fassung)
+  file: hittite/CTH_62.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 209
+  chunk: 46
+- siglum: CTH 67
+  title: Vertrag Muršilis II. mit Targašnalli von Ḫapalla
+  file: hittite/CTH_67.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 242
+  chunk: 46
+- siglum: CTH 69
+  title: Der Vertrag zwischen Muršili II. und Manapa-Tarḫunta vom Šeḫa-Fluss-Land
+  file: hittite/CTH_69.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 240
+  chunk: 46
+- siglum: CTH 75
+  title: Bestätigung des zwischen Muršili II. und Talmi-Šarruma von Ḫalab geschlossenen Vertrages
+  file: hittite/CTH_75.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 66
+  chunk: 46
+- siglum: CTH 76
+  title: Vertrag Muwatallis II. mit Alaksandu von Wiluša
+  file: hittite/CTH_76.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 316
+  chunk: 46
+- siglum: CTH 78
+  title: ''
+  file: hittite/CTH_78.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 46
+- siglum: CTH 89
+  title: Dekret Ḫattušilis III. hinsichtlich der Leute von Tiliura
+  file: hittite/CTH_89.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 135
+  chunk: 46
+- siglum: CTH 92
+  title: Vertrag mit Bentešina von Amurru
+  file: hittite/CTH_92.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 130
+  chunk: 46
+- siglum: CTH 96
+  title: Erklärung des Kuruntas in Bezug auf seine Einsetzung in Tarhuntašša
+  file: hittite/CTH_96.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 22
+  chunk: 46
+- siglum: CTH 105
+  title: Vertrag Tudḫalijas IV. mit Šauškamuwa von Amurru
+  file: hittite/CTH_105.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 192
+  chunk: 46
+- siglum: CTH 122
+  title: Vertrag mit Talmi-Teššup von Kargamiš
+  file: hittite/CTH_122.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 3
+  chunk: 46
+- siglum: CTH 123
+  title: Vertrag mit einem unbekannten Herrscher
+  file: hittite/CTH_123.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 321
+  chunk: 46
+- siglum: CTH 132
+  title: Ein späthethitischer Vertrag mit Kizzuwatna
+  file: hittite/CTH_132.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 46
+- siglum: CTH 133
+  title: Vertrag Arnuwandas I. mit den Leuten von Imerikka
+  file: hittite/CTH_133.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 147
+  chunk: 46
+- siglum: CTH 134
+  title: Vertrag eines unbekannten hethitischen Großkönigs mit Kuruštama
+  file: hittite/CTH_134.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 47
+  chunk: 46
+- siglum: CTH 135
+  title: Vertrag eines Hethiterkönigs (Šuppiluliuma I.?) mit Lab'u und den Leuten von Tunip
+  file: hittite/CTH_135.json
+  tradition: ane-hittite
+  language: akk
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 155
+  chunk: 47
+- siglum: CTH 136
+  title: Vertrag Šuppiluliumas I. mit Mukiš
+  file: hittite/CTH_136.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 47
+- siglum: CTH 137.1
+  title: Vertrag Arnuwandas I. mit den Kaškäern
+  file: hittite/CTH_137.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 134
+  chunk: 47
+- siglum: CTH 141
+  title: Vertrag Šuppiluliumas II. mit Alašija
+  file: hittite/CTH_141.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 49
+  chunk: 47
+- siglum: CTH 144
+  title: ''
+  file: hittite/CTH_144.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 41
+  chunk: 47
+- siglum: CTH 146
+  title: immer in Ligatur geschriebenen – die deutliche Analogien mit dem Madduwatta-Text
+  file: hittite/CTH_146.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 289
+  chunk: 47
+- siglum: CTH 264
+  title: Instruktionen für Tempelbedienstete
+  file: hittite/CTH_264.TLHdig.json
+  tradition: ane-hittite
+  language: hit
+  source: TLHdig XML dataset (Zenodo)
+  lines: 800
+  chunk: 47
+- siglum: CTH 321
+  title: Der Drachenkampf oder „Illuyanka“
+  file: hittite/CTH_321.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 128
+  chunk: 47
+- siglum: CTH 322.1
+  title: Telipinu und die Tochter des Meeres
+  file: hittite/CTH_322.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 43
+  chunk: 47
+- siglum: CTH 322.2
+  title: Ein Fragment des Mythos um Telipinu und die Tochter des Meeres
+  file: hittite/CTH_322.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 24
+  chunk: 47
+- siglum: CTH 322.3
+  title: Ein Fragment des Mythos um Telipinu und die Tochter des Meeres
+  file: hittite/CTH_322.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 47
+- siglum: CTH 322.4
+  title: Ein Fragment des Mythos um Telipinu und die Tochter des Meeres
+  file: hittite/CTH_322.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 47
+- siglum: CTH 323.1
+  title: Vom Verschwinden und der Wiederkehr der Sonnengottheit
+  file: hittite/CTH_323.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 211
+  chunk: 47
+- siglum: CTH 323.2
+  title: Vom Verschwinden und der Wiederkehr der Sonnengottheit
+  file: hittite/CTH_323.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 47
+- siglum: CTH 324.1
+  title: Erste Version des Telipinu-Mythos
+  file: hittite/CTH_324.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 267
+  chunk: 47
+- siglum: CTH 324.2
+  title: Zweite Version des Telipinu-Mythos
+  file: hittite/CTH_324.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 98
+  chunk: 47
+- siglum: CTH 324.3
+  title: Dritte Version des Telipinu-Mythos
+  file: hittite/CTH_324.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 91
+  chunk: 48
+- siglum: CTH 324.4
+  title: Vierte Version des Telipinu-Mythos
+  file: hittite/CTH_324.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 44
+  chunk: 48
+- siglum: CTH 324.5
+  title: Ein Fragment des Telipinu-Mythos
+  file: hittite/CTH_324.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 48
+- siglum: CTH 324.6
+  title: Ein Fragment des Telipinu-Mythos
+  file: hittite/CTH_324.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 48
+- siglum: CTH 324.7
+  title: Ein Fragment des Telipinu-Mythos
+  file: hittite/CTH_324.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 58
+  chunk: 48
+- siglum: CTH 324.8
+  title: Zwei Fragmente des Telipinu-Mythos
+  file: hittite/CTH_324.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 58
+  chunk: 48
+- siglum: CTH 324.9
+  title: Ein Fragment des Telipinu-Mythos
+  file: hittite/CTH_324.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 48
+- siglum: CTH 325
+  title: Der Mythos vom Verschwinden und der Wiederkehr des Wettergottes (mugawar)
+  file: hittite/CTH_325.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 274
+  chunk: 48
+- siglum: CTH 326
+  title: Der Wettergott der Königin Ašmunikkal
+  file: hittite/CTH_326.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 75
+  chunk: 48
+- siglum: CTH 327.1
+  title: Der Wettergott der Königin Ḫarapšili
+  file: hittite/CTH_327.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 69
+  chunk: 48
+- siglum: CTH 327.2
+  title: Ein Fragment des Mythos des Wettergottes der Königin Ḫarapšili
+  file: hittite/CTH_327.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 48
+- siglum: CTH 327.3
+  title: Ein Fragment des Mythos des Wettergottes der Königin Ḫarapšili
+  file: hittite/CTH_327.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 48
+- siglum: CTH 328
+  title: Der Mythos des Wettergottes des Schreibers Pirwa
+  file: hittite/CTH_328.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 61
+  chunk: 48
+- siglum: CTH 331.1
+  title: Der Mythos des Wettergottes in Liḫzina
+  file: hittite/CTH_331.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 88
+  chunk: 48
+- siglum: CTH 331.2
+  title: Ein Fragment zum Mythos des Wettergottes in Liḫzina
+  file: hittite/CTH_331.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 48
+- siglum: CTH 332.1
+  title: 'Der Wettergott: mugawar-Fragmente (Erstes Fragment)'
+  file: hittite/CTH_332.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 22
+  chunk: 48
+- siglum: CTH 332.2
+  title: 'Der Wettergott: mugawar-Fragmente (Zweites Fragment)'
+  file: hittite/CTH_332.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 52
+  chunk: 48
+- siglum: CTH 332.3
+  title: 'Der Wettergott: mugawar-Fragmente (Drittes Fragment)'
+  file: hittite/CTH_332.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 78
+  chunk: 48
+- siglum: CTH 332.4
+  title: 'Der Wettergott: mugawar-Fragmente (Viertes Fragment)'
+  file: hittite/CTH_332.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 53
+  chunk: 48
+- siglum: CTH 332.5
+  title: 'Der Wettergott: mugawar-Fragmente (Fünftes Fragment)'
+  file: hittite/CTH_332.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 2
+  chunk: 48
+- siglum: CTH 332.6
+  title: 'Der Wettergott: mugawar-Fragmente (Sechstes Fragment)'
+  file: hittite/CTH_332.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 48
+- siglum: CTH 332.7
+  title: 'Der Wettergott: mugawar-Fragmente (Siebtes Fragment)'
+  file: hittite/CTH_332.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 45
+  chunk: 48
+- siglum: CTH 332.8
+  title: 'Der Wettergott: mugawar-Fragmente (Achtes Fragment)'
+  file: hittite/CTH_332.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 48
+- siglum: CTH 333
+  title: Verschwinden und Wiederkehr von Anzili und Zukki
+  file: hittite/CTH_333.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 104
+  chunk: 48
+- siglum: CTH 334.1.1
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.1.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 39
+  chunk: 48
+- siglum: CTH 334.1.2
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.1.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 48
+- siglum: CTH 334.1.3
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.1.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 48
+- siglum: CTH 334.2.1
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.2.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 48
+- siglum: CTH 334.2.2
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.2.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 55
+  chunk: 48
+- siglum: CTH 334.3
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 32
+  chunk: 48
+- siglum: CTH 334.4
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 57
+  chunk: 48
+- siglum: CTH 334.5
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 48
+- siglum: CTH 334.6
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 48
+- siglum: CTH 334.7
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 27
+  chunk: 48
+- siglum: CTH 334.8
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 48
+- siglum: CTH 334.9
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 48
+- siglum: CTH 334.10
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 48
+- siglum: CTH 334.11
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 33
+  chunk: 48
+- siglum: CTH 334.12
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.12.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 48
+- siglum: CTH 334.13
+  title: Mythos des Verschwindens von Ḫannaḫanna
+  file: hittite/CTH_334.13.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 48
+- siglum: CTH 335.1.1
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.1.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 48
+- siglum: CTH 335.1.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.1.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 48
+- siglum: CTH 335.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 56
+  chunk: 48
+- siglum: CTH 335.3.1
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.3.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 48
+- siglum: CTH 335.3.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.3.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 48
+- siglum: CTH 335.4
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 48
+- siglum: CTH 335.5
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 48
+- siglum: CTH 335.6.1
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.6.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 32
+  chunk: 48
+- siglum: CTH 335.6.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.6.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 48
+- siglum: CTH 335.7.1
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.7.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 48
+- siglum: CTH 335.7.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.7.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 26
+  chunk: 48
+- siglum: CTH 335.8
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 48
+- siglum: CTH 335.10
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 14
+  chunk: 48
+- siglum: CTH 335.11
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 48
+- siglum: CTH 335.12
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.12.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 31
+  chunk: 48
+- siglum: CTH 335.13
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.13.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 48
+- siglum: CTH 335.14
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.14.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 48
+- siglum: CTH 335.15
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.15.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 48
+- siglum: CTH 335.16
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.16.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 14
+  chunk: 48
+- siglum: CTH 335.17
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.17.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 132
+  chunk: 48
+- siglum: CTH 335.18
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.18.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 26
+  chunk: 48
+- siglum: CTH 335.19.1
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.19.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 48
+- siglum: CTH 335.19.2
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.19.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 48
+- siglum: CTH 335.20
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.20.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 48
+- siglum: CTH 335.21
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.21.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 24
+  chunk: 48
+- siglum: CTH 335.22
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.22.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 48
+- siglum: CTH 335.23
+  title: mugawar-Fragment von verschwundenen und wiederkehrenden Gottheiten
+  file: hittite/CTH_335.23.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 48
+- siglum: CTH 336.1
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 88
+  chunk: 49
+- siglum: CTH 336.2
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 52
+  chunk: 49
+- siglum: CTH 336.3
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 45
+  chunk: 49
+- siglum: CTH 336.4
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 22
+  chunk: 49
+- siglum: CTH 336.5
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 53
+  chunk: 49
+- siglum: CTH 336.6
+  title: Mythen der Göttin Inara
+  file: hittite/CTH_336.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 48
+  chunk: 49
+- siglum: CTH 337.1
+  title: Ein Mythenfragment des Gottes Pirwa
+  file: hittite/CTH_337.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 49
+- siglum: CTH 337.2
+  title: Ein Mythenfragment des Gottes Pirwa
+  file: hittite/CTH_337.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 49
+- siglum: CTH 342.1.1
+  title: Elknurniša und Ašertu – 1. Version, Text eins
+  file: hittite/CTH_342.1.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 86
+  chunk: 49
+- siglum: CTH 342.1.2
+  title: Elknurniša und Ašertu – 1. Version, Text zwei
+  file: hittite/CTH_342.1.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 63
+  chunk: 49
+- siglum: CTH 342.1.3
+  title: Elknurniša und Ašertu – 1. Version, ein Fragment
+  file: hittite/CTH_342.1.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 49
+- siglum: CTH 342.2.1
+  title: Elknurniša und Ašertu – 2. Version, Text eins
+  file: hittite/CTH_342.2.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 41
+  chunk: 49
+- siglum: CTH 342.2.2
+  title: Elknurniša und Ašertu – 2. Version, Text zwei
+  file: hittite/CTH_342.2.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 34
+  chunk: 49
+- siglum: CTH 342.2.3
+  title: Elknurniša und Ašertu – 2. Version, Text drei
+  file: hittite/CTH_342.2.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 34
+  chunk: 49
+- siglum: CTH 342.2.4
+  title: Elknurniša und Ašertu – 2. Version, ein Fragment
+  file: hittite/CTH_342.2.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 49
+- siglum: CTH 342.2.5
+  title: Elknurniša und Ašertu – 2. Version, ein Fragment
+  file: hittite/CTH_342.2.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 18
+  chunk: 49
+- siglum: CTH 343.1
+  title: Mythos vom Königtum des Gottes LAMMA – Erste Version
+  file: hittite/CTH_343.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 159
+  chunk: 49
+- siglum: CTH 343.2
+  title: Mythos vom Königtum des Gottes LAMMA – Zweite Version
+  file: hittite/CTH_343.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 49
+- siglum: CTH 343.3.1
+  title: Mythos vom Königtum des Gottes LAMMA – Dritte Version, Exemplar eins
+  file: hittite/CTH_343.3.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 49
+- siglum: CTH 343.3.2
+  title: Mythos vom Königtum des Gottes LAMMA – Dritte Version, Exemplar zwei
+  file: hittite/CTH_343.3.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 49
+- siglum: CTH 343.4
+  title: Mythos vom Königtum des Gottes LAMMA – ein Fragment
+  file: hittite/CTH_343.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 49
+- siglum: CTH 343.5
+  title: Mythos vom Königtum des Gottes LAMMA – ein Fragment
+  file: hittite/CTH_343.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 49
+- siglum: CTH 343.6
+  title: Mythos vom Königtum des Gottes LAMMA – ein Fragment
+  file: hittite/CTH_343.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 49
+- siglum: CTH 344
+  title: '„Das Lied vom Ursprung“: Das Königtum im Himmel oder die Theogonie'
+  file: hittite/CTH_344.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 296
+  chunk: 49
+- siglum: CTH 345.I.1
+  title: 'Das Lied von Ullikummi: Hethitische Version – Erste Tafel'
+  file: hittite/CTH_345.I.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 253
+  chunk: 49
+- siglum: CTH 345.I.2
+  title: 'Das Lied von Ullikummi: Hethitische Version – Zweite Tafel'
+  file: hittite/CTH_345.I.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 169
+  chunk: 49
+- siglum: CTH 345.I.3.1
+  title: 'Das Lied von Ullikummi: Hethitische Version – Dritte Tafel'
+  file: hittite/CTH_345.I.3.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 301
+  chunk: 49
+- siglum: CTH 345.I.3.2
+  title: 'Das Lied von Ullikummi: Hethitische Version – Dritte Tafel; ein Fragment'
+  file: hittite/CTH_345.I.3.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 49
+- siglum: CTH 345.I.4
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 49
+- siglum: CTH 345.I.5
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 49
+- siglum: CTH 345.I.6
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 49
+- siglum: CTH 345.I.7
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 49
+- siglum: CTH 345.I.8
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 49
+- siglum: CTH 345.I.9
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 49
+- siglum: CTH 345.I.10
+  title: 'Das Lied von Ullikummi: Hethitische Version, ein Fragment'
+  file: hittite/CTH_345.I.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 49
+- siglum: CTH 346.1
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 55
+  chunk: 49
+- siglum: CTH 346.2
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 22
+  chunk: 49
+- siglum: CTH 346.3
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 49
+- siglum: CTH 346.4
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 40
+  chunk: 49
+- siglum: CTH 346.5
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 39
+  chunk: 49
+- siglum: CTH 346.6
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 49
+- siglum: CTH 346.7
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 49
+- siglum: CTH 346.8
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 49
+- siglum: CTH 346.9
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 32
+  chunk: 49
+- siglum: CTH 346.10
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 49
+- siglum: CTH 346.11
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 26
+  chunk: 49
+- siglum: CTH 346.12
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.12.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 49
+- siglum: CTH 346.13
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.13.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 49
+- siglum: CTH 346.14
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.14.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 49
+- siglum: CTH 346.15
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.15.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 50
+- siglum: CTH 346.16
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.16.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 56
+  chunk: 50
+- siglum: CTH 346.17
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.17.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 50
+- siglum: CTH 346.18
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.18.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 50
+- siglum: CTH 346.19
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.19.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 50
+- siglum: CTH 346.20
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.20.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 50
+- siglum: CTH 346.21
+  title: 'Mythos von Kumarbi: Ein Fragment'
+  file: hittite/CTH_346.21.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 50
+- siglum: CTH 347.1
+  title: 'Atramḫasis: Ein Fragment'
+  file: hittite/CTH_347.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 49
+  chunk: 50
+- siglum: CTH 347.2
+  title: 'Atramḫasis: Ein Fragment'
+  file: hittite/CTH_347.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 50
+- siglum: CTH 348.I.1
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 128
+  chunk: 50
+- siglum: CTH 348.I.2
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 24
+  chunk: 50
+- siglum: CTH 348.I.3
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 50
+- siglum: CTH 348.I.4
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 49
+  chunk: 50
+- siglum: CTH 348.I.5
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 50
+- siglum: CTH 348.I.6
+  title: Das Ḫedammu-Lied (1.Tafel nach Kolophon)
+  file: hittite/CTH_348.I.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 40
+  chunk: 50
+- siglum: CTH 348.I.7
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 20
+  chunk: 50
+- siglum: CTH 348.I.8
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 52
+  chunk: 50
+- siglum: CTH 348.I.9
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 27
+  chunk: 50
+- siglum: CTH 348.I.10
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 50
+- siglum: CTH 348.I.11
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 50
+- siglum: CTH 348.I.12
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.12.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 50
+- siglum: CTH 348.I.13
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.13.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 50
+- siglum: CTH 348.I.14
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.14.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 50
+- siglum: CTH 348.I.15
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.15.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 50
+- siglum: CTH 348.I.16
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.16.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 50
+- siglum: CTH 348.I.17
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.17.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 50
+- siglum: CTH 348.I.18
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.18.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 50
+- siglum: CTH 348.I.19
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.19.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 50
+- siglum: CTH 348.I.20
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.20.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 50
+- siglum: CTH 348.I.21
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.21.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 50
+- siglum: CTH 348.I.22
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.22.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 50
+- siglum: CTH 348.I.23
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.23.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 50
+- siglum: CTH 348.I.24
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.24.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 50
+- siglum: CTH 348.I.25
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.25.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 50
+- siglum: CTH 348.I.26
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.26.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 50
+- siglum: CTH 348.I.27
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.27.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 27
+  chunk: 50
+- siglum: CTH 348.I.28
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.28.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 50
+- siglum: CTH 348.I.29
+  title: Das Ḫedammu-Lied
+  file: hittite/CTH_348.I.29.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 50
+- siglum: CTH 349.1
+  title: Der Tešub-Zyklus – Ein Fragment
+  file: hittite/CTH_349.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 28
+  chunk: 50
+- siglum: CTH 349.2.1
+  title: Der Tešub-Zyklus – Ein Fragment
+  file: hittite/CTH_349.2.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 50
+- siglum: CTH 349.2.2
+  title: Der Tešub-Zyklus – Ein Fragment
+  file: hittite/CTH_349.2.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 50
+- siglum: CTH 350.1
+  title: Fragment mit Nennung der Göttin Ištar
+  file: hittite/CTH_350.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 31
+  chunk: 50
+- siglum: CTH 350.2
+  title: Fragment mit Nennung der Göttin Ištar
+  file: hittite/CTH_350.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 50
+- siglum: CTH 350.3
+  title: Fragment mit Nennung der Göttin Ištar
+  file: hittite/CTH_350.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 25
+  chunk: 50
+- siglum: CTH 350.4
+  title: Fragment mit Nennung der Göttin Ištar
+  file: hittite/CTH_350.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 50
+- siglum: CTH 350.5
+  title: Fragment mit Nennung der Göttin Ištar
+  file: hittite/CTH_350.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 50
+- siglum: CTH 351.1
+  title: Fragment mit Nennung des Gottes Ea
+  file: hittite/CTH_351.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 136
+  chunk: 50
+- siglum: CTH 351.2
+  title: Fragment mit Nennung des Gottes Ea
+  file: hittite/CTH_351.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 50
+- siglum: CTH 352.1
+  title: Fragment mit Nennung der Gottheit Ḫuranu
+  file: hittite/CTH_352.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 32
+  chunk: 50
+- siglum: CTH 352.2
+  title: Fragment mit Nennung der Gottheit Ḫuranu
+  file: hittite/CTH_352.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 50
+- siglum: CTH 353.1
+  title: Fragment mit Nennung der Tochter der Plejaden (dINIM.INIM.BI)
+  file: hittite/CTH_353.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 50
+- siglum: CTH 353.2
+  title: Fragment mit Nennung der Tochter der Plejaden (dINIM.INIM.BI)
+  file: hittite/CTH_353.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 50
+- siglum: CTH 360.1
+  title: Das Märchen von Appu und seinen Söhnen – Erste Tafel
+  file: hittite/CTH_360.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 174
+  chunk: 50
+- siglum: CTH 360.2
+  title: Das Märchen von Appu und seinen Söhnen – ein Fragment
+  file: hittite/CTH_360.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 50
+- siglum: CTH 360.3
+  title: Das Märchen von Appu und seinen Söhnen – ein Fragment
+  file: hittite/CTH_360.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 50
+- siglum: CTH 360.4
+  title: Das Märchen von Appu und seinen Söhnen – ein Fragment
+  file: hittite/CTH_360.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 4
+  chunk: 50
+- siglum: CTH 361.I.1
+  title: Das Märchen vom Jäger Kešši und seiner schönen Frau (Hethitische Version) – Erste Tafel
+  file: hittite/CTH_361.I.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 94
+  chunk: 50
+- siglum: CTH 361.I.2
+  title: Das Märchen vom Jäger Kešši und seiner schönen Frau (Hethitische Version)
+  file: hittite/CTH_361.I.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 50
+- siglum: CTH 361.I.3
+  title: Das Märchen vom Jäger Kešši und seiner schönen Frau (Hethitische Version)
+  file: hittite/CTH_361.I.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 50
+- siglum: CTH 361.I.4
+  title: Das Märchen vom Jäger Kešši und seiner schönen Frau (Hethitische Version)
+  file: hittite/CTH_361.I.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 50
+- siglum: CTH 362.1
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 70
+  chunk: 50
+- siglum: CTH 362.2
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 50
+- siglum: CTH 362.3
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 50
+- siglum: CTH 362.4
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 44
+  chunk: 50
+- siglum: CTH 362.5
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 50
+- siglum: CTH 362.6
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 50
+- siglum: CTH 362.7
+  title: Die Heldentaten des Gurparanzaḫ
+  file: hittite/CTH_362.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 50
+- siglum: CTH 363.1
+  title: Das Märchen von dem Sonnengott, der Kuh und dem Fischer
+  file: hittite/CTH_363.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 170
+  chunk: 50
+- siglum: CTH 363.2
+  title: 'Das Märchen von dem Sonnengott, der Kuh und dem Fischer: ein Fragment'
+  file: hittite/CTH_363.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 50
+- siglum: CTH 364.1
+  title: Das Lied vom Silber – Proömium
+  file: hittite/CTH_364.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 50
+- siglum: CTH 364.2
+  title: Das Lied vom Silber – Die Geburt des Silbers
+  file: hittite/CTH_364.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 107
+  chunk: 50
+- siglum: CTH 364.3
+  title: Das Lied vom Silber – ein Fragment
+  file: hittite/CTH_364.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 50
+- siglum: CTH 364.4
+  title: Das Lied vom Silber – ein Fragment
+  file: hittite/CTH_364.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 50
+- siglum: CTH 364.5
+  title: Das Lied vom Silber – ein Fragment
+  file: hittite/CTH_364.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 24
+  chunk: 50
+- siglum: CTH 364.6
+  title: Das Lied vom Silber – ein Fragment
+  file: hittite/CTH_364.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 15
+  chunk: 50
+- siglum: CTH 365
+  title: Ritual und Mythos um den Euphrat (Māla)
+  file: hittite/CTH_365.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 45
+  chunk: 50
+- siglum: CTH 371.1
+  title: Das Gebet an die Sonnengöttin der Erde
+  file: hittite/CTH_371.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 90
+  chunk: 50
+- siglum: CTH 371.2
+  title: Das Gebet an die Sonnengöttin der Erde
+  file: hittite/CTH_371.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 50
+- siglum: CTH 372
+  title: Hymne und Gebet an den Sonnengott
+  file: hittite/CTH_372.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 211
+  chunk: 51
+- siglum: CTH 373
+  title: Kantuzzilis Gebet an den Sonnengott
+  file: hittite/CTH_373.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 103
+  chunk: 51
+- siglum: CTH 374
+  title: Gebet eines Königs an den Sonnengott
+  file: hittite/CTH_374.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 114
+  chunk: 51
+- siglum: CTH 375.1
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 92
+  chunk: 51
+- siglum: CTH 375.2
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 51
+- siglum: CTH 375.3
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnegöttin von Arinna
+  file: hittite/CTH_375.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 51
+- siglum: CTH 375.4
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 51
+- siglum: CTH 375.5
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 26
+  chunk: 51
+- siglum: CTH 375.6
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 51
+- siglum: CTH 375.7
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 51
+- siglum: CTH 375.8
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 51
+- siglum: CTH 375.9
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 3
+  chunk: 51
+- siglum: CTH 375.10
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 2
+  chunk: 51
+- siglum: CTH 375.11
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 51
+- siglum: CTH 375.12
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.12.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 51
+- siglum: CTH 375.13
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.13.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 51
+- siglum: CTH 375.14
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.14.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 51
+- siglum: CTH 375.15
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.15.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 3
+  chunk: 51
+- siglum: CTH 375.16
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.16.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 51
+- siglum: CTH 375.17
+  title: Gebet Arnuwandas I. und Ašmunikkals an die Sonnengöttin von Arinna
+  file: hittite/CTH_375.17.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 51
+- siglum: CTH 376.1
+  title: Hymnen und Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_376.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 170
+  chunk: 51
+- siglum: CTH 376.2
+  title: Hymnen und Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_376.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 43
+  chunk: 51
+- siglum: CTH 376.3
+  title: Hymnen und Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_376.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 51
+- siglum: CTH 376.4
+  title: Hymnen und Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_376.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 38
+  chunk: 51
+- siglum: CTH 377
+  title: Hymne und Gebet Muršilis II. an den Gott Telipinu
+  file: hittite/CTH_377.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 63
+  chunk: 51
+- siglum: CTH 378.1
+  title: „Erstes“ Pestgebet Muršilis II.
+  file: hittite/CTH_378.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 148
+  chunk: 51
+- siglum: CTH 378.2
+  title: „Zweites“ Pestgebet Muršilis II.
+  file: hittite/CTH_378.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 184
+  chunk: 51
+- siglum: CTH 378.3
+  title: „Drittes“ Pestgebet Muršilis II.
+  file: hittite/CTH_378.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 40
+  chunk: 51
+- siglum: CTH 378.4
+  title: „Viertes“ Pestgebet Muršilis II.
+  file: hittite/CTH_378.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 123
+  chunk: 51
+- siglum: CTH 378.5
+  title: Pestgebet Muršilis II.
+  file: hittite/CTH_378.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 4
+  chunk: 51
+- siglum: CTH 378.6
+  title: Pestgebet Muršilis II.
+  file: hittite/CTH_378.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 11
+  chunk: 51
+- siglum: CTH 378.7
+  title: Pestgebet Muršilis II.
+  file: hittite/CTH_378.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 51
+- siglum: CTH 378.8
+  title: Pestgebet Muršilis II.
+  file: hittite/CTH_378.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 12
+  chunk: 51
+- siglum: CTH 379
+  title: Pestgebet Muršilis II. an die Götterversammlung
+  file: hittite/CTH_379.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 57
+  chunk: 51
+- siglum: CTH 380.1
+  title: Gebet für die Genesung von Gaššuliyawia
+  file: hittite/CTH_380.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 58
+  chunk: 51
+- siglum: CTH 380.2
+  title: Die Zuordnung der beiden Fragmente KBo 22.232
+  file: hittite/CTH_380.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 5
+  chunk: 51
+- siglum: CTH 380.3
+  title: Gebet für die Genesung von Gaššuliyawia
+  file: hittite/CTH_380.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 2
+  chunk: 51
+- siglum: CTH 381
+  title: Gebet Muwatallis II. an die Götterversammlung
+  file: hittite/CTH_381.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 223
+  chunk: 51
+- siglum: CTH 382
+  title: Gebet Muwatallis II. an den Wettergott von Kummanni
+  file: hittite/CTH_382.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 153
+  chunk: 51
+- siglum: CTH 383.1
+  title: Gebet Ḫattušilis III. und der Puduḫepa an die Sonnengöttin von Arinna
+  file: hittite/CTH_383.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 164
+  chunk: 51
+- siglum: CTH 383.2
+  title: Gebet Muršilis oder Hattušilis
+  file: hittite/CTH_383.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 36
+  chunk: 51
+- siglum: CTH 384.1
+  title: Gebet der Puduḫepa an die Sonnengöttin von Arinna
+  file: hittite/CTH_384.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 163
+  chunk: 52
+- siglum: CTH 384.2
+  title: Gebet der Puduḫepa an die Sonnengöttin von Arinna
+  file: hittite/CTH_384.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 52
+- siglum: CTH 384.3
+  title: Gebet der Puduḫepa an die Sonnengöttin von Arinna
+  file: hittite/CTH_384.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 52
+- siglum: CTH 385.1
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 17
+  chunk: 52
+- siglum: CTH 385.2
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 31
+  chunk: 52
+- siglum: CTH 385.3
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 52
+- siglum: CTH 385.4
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 26
+  chunk: 52
+- siglum: CTH 385.5
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 20
+  chunk: 52
+- siglum: CTH 385.6
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 52
+- siglum: CTH 385.7
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 14
+  chunk: 52
+- siglum: CTH 385.8
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 52
+- siglum: CTH 385.9
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 47
+  chunk: 52
+- siglum: CTH 385.10
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.10.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 87
+  chunk: 52
+- siglum: CTH 385.11
+  title: Fragmente der Gebete an die Sonnengöttin von Arinna
+  file: hittite/CTH_385.11.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 52
+- siglum: CTH 386.1
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 40
+  chunk: 52
+- siglum: CTH 386.2
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 18
+  chunk: 52
+- siglum: CTH 386.3
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 48
+  chunk: 52
+- siglum: CTH 386.4
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 27
+  chunk: 52
+- siglum: CTH 386.5
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 16
+  chunk: 52
+- siglum: CTH 386.6
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 52
+- siglum: CTH 386.7
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 52
+- siglum: CTH 386.8
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.8.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 7
+  chunk: 52
+- siglum: CTH 386.9
+  title: Gebet an den Wettergott von Nerik
+  file: hittite/CTH_386.9.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 18
+  chunk: 52
+- siglum: CTH 387.1
+  title: Gebet Muršilis III.
+  file: hittite/CTH_387.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 112
+  chunk: 52
+- siglum: CTH 387.2
+  title: Gebet Muršilis III.
+  file: hittite/CTH_387.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 52
+- siglum: CTH 387.3
+  title: Gebet Muršilis III.
+  file: hittite/CTH_387.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 43
+  chunk: 52
+- siglum: CTH 387.4
+  title: Gebet Muršilis III.
+  file: hittite/CTH_387.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 52
+- siglum: CTH 387.5
+  title: Gebet Muršilis III.
+  file: hittite/CTH_387.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 52
+- siglum: CTH 390
+  title: Rituale der Ayatarša, Wattitti und Šušumaniga
+  file: hittite/CTH_390.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 284
+  chunk: 52
+- siglum: CTH 391.1
+  title: Das Ritual der Ambazzi
+  file: hittite/CTH_391.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 260
+  chunk: 52
+- siglum: CTH 391.2
+  title: Eine zweite Version des Rituals der Ambazzi
+  file: hittite/CTH_391.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 52
+- siglum: CTH 393
+  title: Ritual der Anniwiyani für die LAMMA-Gottheiten
+  file: hittite/CTH_393.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 153
+  chunk: 52
+- siglum: CTH 394
+  title: Ritual des Ašḫella gegen eine Seuche in der Armee
+  file: hittite/CTH_394.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 109
+  chunk: 52
+- siglum: CTH 395.1
+  title: 'Ritual der Ḫantitaššu von Ḫurma: „Wenn die Jahre eines Menschen gestört sind“'
+  file: hittite/CTH_395.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 165
+  chunk: 52
+- siglum: CTH 395.2.1
+  title: Ritual der Ḫantitaššu
+  file: hittite/CTH_395.2.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 100
+  chunk: 52
+- siglum: CTH 395.2.2
+  title: Ritual der Ḫantitaššu
+  file: hittite/CTH_395.2.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 44
+  chunk: 52
+- siglum: CTH 395.3.1
+  title: Fragment des Rituals der Ḫantitaššu
+  file: hittite/CTH_395.3.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 55
+  chunk: 52
+- siglum: CTH 395.3.2
+  title: Fragment des Rituals der Ḫantitaššu
+  file: hittite/CTH_395.3.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 42
+  chunk: 52
+- siglum: CTH 395.4
+  title: Fragment des Rituals der Ḫantitaššu
+  file: hittite/CTH_395.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 52
+- siglum: CTH 396.1.1
+  title: Ritual der Ḫatiya von Kanzapida gegen die dämonische Wišuriyant
+  file: hittite/CTH_396.1.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 97
+  chunk: 52
+- siglum: CTH 396.1.2
+  title: Ritual mit Nennung der Wišuriyant
+  file: hittite/CTH_396.1.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 37
+  chunk: 53
+- siglum: CTH 396.2
+  title: Ritual mit Nennung der Wišuriyant
+  file: hittite/CTH_396.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 53
+- siglum: CTH 396.3
+  title: Ritual mit Nennung der Wišuriyant
+  file: hittite/CTH_396.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 14
+  chunk: 53
+- siglum: CTH 397
+  title: Das Ritual der Ḫepatarakki aus Zuḫaruwa
+  file: hittite/CTH_397.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 80
+  chunk: 53
+- siglum: CTH 398
+  title: Das Ritual des Auguren Ḫuwarlu
+  file: hittite/CTH_398.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 215
+  chunk: 53
+- siglum: CTH 399
+  title: Das Ritual des Jarri aus Lallupiya gegen Verunreinigungen
+  file: hittite/CTH_399.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 20
+  chunk: 53
+- siglum: CTH 400.1
+  title: Ritual des Irija für die Reinigung einer Stadt
+  file: hittite/CTH_400.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 113
+  chunk: 53
+- siglum: CTH 401.1
+  title: Das Ritual des Banippi
+  file: hittite/CTH_401.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 62
+  chunk: 53
+- siglum: CTH 401.2
+  title: Ritual mit Beschwörungen ähnlich zu CTH 400
+  file: hittite/CTH_401.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 94
+  chunk: 53
+- siglum: CTH 401.3
+  title: Fragment eines Rituals, ähnlich zu CTH 400
+  file: hittite/CTH_401.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 53
+- siglum: CTH 401.4
+  title: Ritualfragment, evtl. zu CTH 400/401 gehörig
+  file: hittite/CTH_401.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 53
+- siglum: CTH 401.5
+  title: Ritual zur Reinigung einer Stadt von Krankheit und Seuche
+  file: hittite/CTH_401.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 51
+  chunk: 53
+- siglum: CTH 401.6
+  title: Ritualfragment mit Nennung einer Stadt, Pflöcken und roter Wolle
+  file: hittite/CTH_401.6.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 10
+  chunk: 53
+- siglum: CTH 401.7
+  title: Fragment eines Rituals mit Nennung von EN.LÍL und der Zunge der Menge
+  file: hittite/CTH_401.7.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 9
+  chunk: 53
+- siglum: CTH 402
+  title: Das Ritual der Alli
+  file: hittite/CTH_402.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 318
+  chunk: 53
+- siglum: CTH 403.1
+  title: Ein Ritual der Mallidunna für den Sonnengott
+  file: hittite/CTH_403.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 45
+  chunk: 53
+- siglum: CTH 403.2
+  title: Ein Ritual der Mallidunna für Ḫannaḫanna
+  file: hittite/CTH_403.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 45
+  chunk: 53
+- siglum: CTH 403.3.1
+  title: Opferungen an den Sonnengott
+  file: hittite/CTH_403.3.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 29
+  chunk: 53
+- siglum: CTH 403.3.2
+  title: Ein Paralleltext zu CTH 403.3.1
+  file: hittite/CTH_403.3.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 21
+  chunk: 53
+- siglum: CTH 404.1.I
+  title: Ritual der Maštigga von Kizzuwatna gegen Familienzwist
+  file: hittite/CTH_404.1.I.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 256
+  chunk: 53
+- siglum: CTH 404.1.II
+  title: Ritual der Maštigga von Kizzuwatna gegen Familienzwist
+  file: hittite/CTH_404.1.II.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 215
+  chunk: 53
+- siglum: CTH 404.1.III
+  title: Ritual der Maštigga von Kizzuwatna gegen Familienzwist
+  file: hittite/CTH_404.1.III.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 121
+  chunk: 53
+- siglum: CTH 406
+  title: Das Ritual der Paškuwatti gegen Impotenz
+  file: hittite/CTH_406.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 149
+  chunk: 53
+- siglum: CTH 407
+  title: Ritual des Puliša gegen eingeschleppte Seuchen
+  file: hittite/CTH_407.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 56
+  chunk: 53
+- siglum: CTH 410
+  title: Das Ritual des Uḫḫamuwa
+  file: hittite/CTH_410.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 33
+  chunk: 53
+- siglum: CTH 411
+  title: Das Ritual der Uruwanda gegen die Auswirkungen von Verleumdungen
+  file: hittite/CTH_411.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 27
+  chunk: 53
+- siglum: CTH 413.1
+  title: Ein junghethitisches Bauritual zur Errichtung neuer Tempel oder Häuser
+  file: hittite/CTH_413.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 77
+  chunk: 53
+- siglum: CTH 413.2
+  title: Ein Beschwörungsritual
+  file: hittite/CTH_413.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 30
+  chunk: 53
+- siglum: CTH 413.3
+  title: Ein Paralleltext zum Beschwörungsritual CTH 413.2
+  file: hittite/CTH_413.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 53
+  chunk: 53
+- siglum: CTH 413.4
+  title: Ein weiteres Bauritualfragment
+  file: hittite/CTH_413.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 53
+- siglum: CTH 414.1
+  title: Ein Palastbauritual
+  file: hittite/CTH_414.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 224
+  chunk: 54
+- siglum: CTH 414.2
+  title: Ein Palastbauritual
+  file: hittite/CTH_414.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 19
+  chunk: 54
+- siglum: CTH 414.3
+  title: Ein Festritualfragment
+  file: hittite/CTH_414.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 54
+- siglum: CTH 414.4
+  title: Ein Fragment mit Nennung des Sonnengottes und tabarna
+  file: hittite/CTH_414.4.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 8
+  chunk: 54
+- siglum: CTH 414.5
+  title: Fragment eines Palastbaurituals
+  file: hittite/CTH_414.5.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 23
+  chunk: 54
+- siglum: CTH 415
+  title: Ein Tempelbauritual
+  file: hittite/CTH_415.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 172
+  chunk: 54
+- siglum: CTH 416
+  title: Vier althethitische Rituale für das Königspaar
+  file: hittite/CTH_416.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 285
+  chunk: 54
+- siglum: CTH 417.1
+  title: Rituale contro i nemici del re
+  file: hittite/CTH_417.1.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 13
+  chunk: 54
+- siglum: CTH 417.2
+  title: Rituale contro i nemici del re
+  file: hittite/CTH_417.2.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 6
+  chunk: 54
+- siglum: CTH 417.3
+  title: Rituale contro i nemici del re
+  file: hittite/CTH_417.3.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 24
+  chunk: 54
+- siglum: CTH 418
+  title: 'Ritual: Wenn ein Fremder ein Vergehen gegen das Königspaar verübt'
+  file: hittite/CTH_418.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 92
+  chunk: 54
+- siglum: CTH 757
+  title: Das Ritual des Zarpiya aus Kizzuwatna
+  file: hittite/CTH_757.json
+  tradition: ane-hittite
+  language: hit
+  source: hethiter.net (Hethitologie-Portal Mainz) / TLHdig
+  lines: 118
+  chunk: 54
+- siglum: Arad ostraca
+  title: Arad ostraca (Eliashib archive, selected letters)
+  file: nws/Arad_ostraca.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikipedia.org: מכתבי ערד (rev 43523463, 2026-07-02T16:54:40Z; retrieved 2026-10-29T21:25:06Z)'
+  lines: 63
+  chunk: 54
+- siglum: Elephantine (selection)
+  title: Elephantine Aramaic papyri (selection)
+  file: nws/Elephantine_selection.json
+  tradition: ane-levantine
+  language: aramaic
+  source: 'he.wikipedia.org: מכתבי יב (rev 43523448, 2026-07-02T16:52:20Z; retrieved 2026-10-29T21:37:09Z)'
+  lines: 31
+  chunk: 54
+- siglum: KAI 1
+  title: Ahiram sarcophagus inscription
+  file: nws/KAI_1.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Ahiram sarcophagus (rev 1354804544, 2026-05-18T09:35:22Z; retrieved 2026-10-29T21:36:06Z)'
+  lines: 11
+  chunk: 54
+- siglum: KAI 4
+  title: Yehimilk inscription (Byblos)
+  file: nws/KAI_4.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Yehimilk inscription (rev 1381498697, 2026-10-22T22:42:51Z; retrieved 2026-10-29T21:36:08Z); he.wikipedia.org: כתובות
+    מלכי גבל (rev 41085144, 2025-05-23T15:34:39Z; retrieved 2026-10-29T21:36:09Z)'
+  lines: 14
+  chunk: 54
+- siglum: KAI 5
+  title: Abibaʿal inscription (Byblos)
+  file: nws/KAI_5.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'he.wikipedia.org: כתובות מלכי גבל (rev 41085144, 2025-05-23T15:34:39Z; retrieved 2026-10-29T21:36:09Z)'
+  lines: 2
+  chunk: 54
+- siglum: KAI 6
+  title: Elibaʿal inscription (Byblos)
+  file: nws/KAI_6.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'he.wikipedia.org: כתובות מלכי גבל (rev 41085144, 2025-05-23T15:34:39Z; retrieved 2026-10-29T21:36:09Z)'
+  lines: 3
+  chunk: 54
+- siglum: KAI 7
+  title: Shipitbaʿal inscription (Byblos)
+  file: nws/KAI_7.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'he.wikipedia.org: כתובות מלכי גבל (rev 41085144, 2025-05-23T15:34:39Z; retrieved 2026-10-29T21:36:09Z)'
+  lines: 5
+  chunk: 54
+- siglum: KAI 10
+  title: Yehawmilk stele (Byblos)
+  file: nws/KAI_10.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'he.wikipedia.org: מצבת יחומלך (rev 41752167, 2025-08-31T05:49:15Z; retrieved 2026-10-29T21:37:05Z)'
+  lines: 16
+  chunk: 54
+- siglum: KAI 13
+  title: Tabnit sarcophagus inscription
+  file: nws/KAI_13.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Tabnit sarcophagus (rev 1362636735, 2026-07-05T08:36:14Z; retrieved 2026-10-29T21:39:02Z)'
+  lines: 11
+  chunk: 54
+- siglum: KAI 14
+  title: Eshmunazar II sarcophagus inscription (lid)
+  file: nws/KAI_14.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Sarcophagus of Eshmunazar II (rev 1363142165, 2026-07-08T09:01:07Z; retrieved 2026-10-29T21:36:04Z)'
+  lines: 22
+  chunk: 54
+- siglum: KAI 24
+  title: Kilamuwa stele
+  file: nws/KAI_24.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Kilamuwa Stela (rev 1376050770, 2026-09-21T18:54:14Z; retrieved 2026-10-29T21:35:03Z)'
+  lines: 16
+  chunk: 54
+- siglum: KAI 27
+  title: Arslan Tash amulets (incantations)
+  file: nws/KAI_27.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Arslan Tash amulets (rev 1361795257, 2026-06-30T03:42:06Z; retrieved 2026-10-29T21:34:04Z)'
+  lines: 42
+  chunk: 54
+- siglum: KAI 181
+  title: Mesha Stele (Moabite Stone)
+  file: nws/KAI_181.json
+  tradition: ane-levantine
+  language: moabite
+  source: 'en.wikisource.org: Page:The Inscription on the Stele of Méša commonly called the Moabite Stone.djvu/11 (rev 9138434, 2019-03-08T05:27:24Z;
+    retrieved 2026-10-29T21:19:07Z); en.wikisource.org: Page:The Inscription on the Stele of Méša commonly called the Moabite Stone.djvu/7 (rev
+    14876341, 2025-02-16T15:51:48Z; retrieved 2026-10-29T21:17:01Z); en.wikisource.org: Page:The Inscription on the Stele of Méša commonly called
+    the Moabite Stone.djvu/14 (rev 9000445, 2018-12-24T08:23:00Z; retrieved 2026-10-29T21:22:01Z)'
+  lines: 34
+  chunk: 54
+- siglum: KAI 182
+  title: Gezer calendar
+  file: nws/KAI_182.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'en.wikipedia.org: Gezer calendar (rev 1375686271, 2026-09-19T10:12:36Z; retrieved 2026-10-29T21:38:02Z)'
+  lines: 8
+  chunk: 54
+- siglum: KAI 189
+  title: Siloam tunnel inscription
+  file: nws/KAI_189.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikisource.org: כתובת השילוח (rev 942740, 2020-02-25T10:24:32Z; retrieved 2026-10-29T21:30:01Z); en.wikipedia.org: Siloam inscription
+    (rev 1381745020, 2026-10-24T14:31:11Z; retrieved 2026-10-29T21:31:03Z)'
+  lines: 6
+  chunk: 54
+- siglum: KAI 192-199
+  title: Lachish ostraca (letters)
+  file: nws/KAI_192-199.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikipedia.org: מכתבי לכיש (rev 43523454, 2026-07-02T16:53:29Z; retrieved 2026-10-29T21:25:01Z)'
+  lines: 144
+  chunk: 54
+- siglum: KAI 200
+  title: Yavne-Yam (Meṣad Ḥashavyahu) ostracon
+  file: nws/KAI_200.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'en.wikipedia.org: Yavne-Yam ostracon (rev 1359688268, 2026-06-16T17:06:22Z; retrieved 2026-10-29T21:38:11Z)'
+  lines: 14
+  chunk: 54
+- siglum: KAI 202
+  title: Zakkur stele (Zakkur of Hamath and Luʿash)
+  file: nws/KAI_202.json
+  tradition: ane-levantine
+  language: aramaic
+  source: 'he.wikipedia.org: כתובת זכור (rev 43497550, 2026-06-27T17:20:42Z; retrieved 2026-10-29T21:35:02Z)'
+  lines: 47
+  chunk: 54
+- siglum: KAI 214
+  title: Hadad statue inscription (Panamuwa I)
+  file: nws/KAI_214.json
+  tradition: ane-levantine
+  language: samalian
+  source: 'en.wikipedia.org: Hadad Statue (rev 1376049179, 2026-09-21T18:42:42Z; retrieved 2026-10-29T21:35:05Z)'
+  lines: 34
+  chunk: 54
+- siglum: KAI 215
+  title: Panamuwa II inscription (by Bar-Rakib)
+  file: nws/KAI_215.json
+  tradition: ane-levantine
+  language: samalian
+  source: 'en.wikipedia.org: Panamuwa II inscription (rev 1345346906, 2026-03-25T17:02:42Z; retrieved 2026-10-29T21:36:02Z)'
+  lines: 23
+  chunk: 54
+- siglum: KAI 222
+  title: Sefire stele I (treaty of Bar-Gaʾyah and Matiʿel)
+  file: nws/KAI_222.json
+  tradition: ane-levantine
+  language: aramaic
+  source: 'he.wikipedia.org: כתובות ספירה (Wed, 12 Aug 2026 06:00:25 GMT; retrieved 2026-10-29T21:34:12Z)'
+  lines: 111
+  chunk: 54
+- siglum: KAI 223
+  title: Sefire stele II
+  file: nws/KAI_223.json
+  tradition: ane-levantine
+  language: aramaic
+  source: 'he.wikipedia.org: כתובות ספירה (Wed, 12 Aug 2026 06:00:25 GMT; retrieved 2026-10-29T21:34:12Z)'
+  lines: 16
+  chunk: 54
+- siglum: KAI 277
+  title: Pyrgi tablets (Phoenician text)
+  file: nws/KAI_277.json
+  tradition: ane-levantine
+  language: phoenician
+  source: 'en.wikipedia.org: Pyrgi Tablets (rev 1363877186, 2026-07-13T01:22:52Z; retrieved 2026-10-29T21:38:13Z)'
+  lines: 5
+  chunk: 54
+- siglum: KAI 310
+  title: Tel Dan stele
+  file: nws/KAI_310.json
+  tradition: ane-levantine
+  language: aramaic
+  source: 'en.wikipedia.org: Tel Dan stele (rev 1380893880, 2026-10-18T16:05:13Z; retrieved 2026-10-29T21:31:05Z)'
+  lines: 13
+  chunk: 54
+- siglum: KAI 312
+  title: Deir Alla plaster inscription (Balaam son of Beor)
+  file: nws/KAI_312.json
+  tradition: ane-levantine
+  language: deir-alla
+  source: 'he.wikipedia.org: כתובת בלעם (rev 43465636, 2026-06-21T09:06:42Z; retrieved 2026-10-29T21:31:06Z)'
+  lines: 17
+  chunk: 54
+- siglum: KH 1-2
+  title: Ketef Hinnom silver amulets (Priestly Blessing)
+  file: nws/KH_1-2.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikipedia.org: לוחיות ברכת כהנים (rev 43711815, 2026-08-05T09:57:47Z; retrieved 2026-10-29T21:33:02Z); en.wikipedia.org: Ketef Hinnom
+    scrolls (rev 1378179986, 2026-10-03T08:57:15Z; retrieved 2026-10-29T21:34:03Z)'
+  lines: 31
+  chunk: 54
+- siglum: Khirbet el-Qom 3
+  title: Khirbet el-Qom tomb inscriptions (Uriyahu)
+  file: nws/Khirbet_el-Qom_3.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikipedia.org: חורבת אל כום (rev 43776493, 2026-08-18T20:40:37Z; retrieved 2026-10-29T21:24:31Z); en.wikipedia.org: Khirbet el-Qom
+    (rev 1364715454, 2026-07-18T02:54:34Z; retrieved 2026-10-29T21:32:06Z)'
+  lines: 8
+  chunk: 54
+- siglum: Kuntillet Ajrud
+  title: Kuntillet ʿAjrud (Horvat Teman) inscriptions
+  file: nws/Kuntillet_Ajrud.json
+  tradition: ane-levantine
+  language: hebrew
+  source: 'he.wikipedia.org: כתובות חורבת תימן (rev 43631481, 2026-07-21T18:33:43Z; retrieved 2026-10-29T21:32:02Z); en.wikipedia.org: Kuntillet
+    Ajrud inscriptions (rev 1360969037, 2026-06-24T20:20:45Z; retrieved 2026-10-29T21:32:04Z)'
+  lines: 71
+  chunk: 54
 left_out:
 - siglum: Q Q000400
   title: A hymn to Nanna for Šulgi (Šulgi F)
@@ -9746,3 +12898,303 @@ left_out:
   title: Letter from Nabi-Enlil to a king
   lines: 30
   why: ORACC epsd2/literary composite outside ETCSL's catalogue; left for a later pass
+- siglum: CTH 68
+  title: Vertrag Muršilis II. mit Kupanta-Kurunta von Mira-Kuwaliya
+  lines: 1028
+  why: only TLHdig manuscript transliterations (several overlapping manuscripts, no composite, no translation)
+- siglum: CTH 106
+  title: Vertrag Tutḫaliyas IV. mit Kurunta von Tarḫuntašša (u. a. Bronzetafel)
+  lines: 474
+  why: only TLHdig manuscript transliterations (several overlapping manuscripts, no composite, no translation)
+- siglum: CTH 389.1
+  title: Gebetsfragment
+  lines: 223
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.2
+  title: Gebetsfragment
+  lines: 92
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.3
+  title: Gebetsfragment
+  lines: 3
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.4
+  title: Gebetsfragment
+  lines: 2
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.5
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.6
+  title: Gebetsfragment
+  lines: 23
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.7
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.8
+  title: Gebetsfragment
+  lines: 10
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.9
+  title: Gebetsfragment
+  lines: 19
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.10
+  title: Gebetsfragment
+  lines: 34
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.11
+  title: Gebetsfragment
+  lines: 12
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.12
+  title: Gebetsfragment
+  lines: 18
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.13
+  title: Gebetsfragment
+  lines: 14
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.14
+  title: Gebetsfragment
+  lines: 23
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.15
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.16
+  title: Gebetsfragment
+  lines: 9
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.17
+  title: Gebetsfragment
+  lines: 12
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.18
+  title: Gebetsfragment
+  lines: 34
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.19
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.20
+  title: Gebetsfragment
+  lines: 16
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.21
+  title: Gebetsfragment
+  lines: 18
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.22
+  title: Gebetsfragment
+  lines: 7
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.23
+  title: Gebetsfragment
+  lines: 16
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.24
+  title: Gebetsfragment
+  lines: 21
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.25
+  title: Gebetsfragment
+  lines: 4
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.26
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.27
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.28
+  title: Gebetsfragment
+  lines: 18
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.29
+  title: Gebetsfragment
+  lines: 7
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.30
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.31
+  title: Gebetsfragment
+  lines: 12
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.32
+  title: Gebetsfragment
+  lines: 17
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.33
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.34
+  title: Gebetsfragment
+  lines: 7
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.35
+  title: Gebetsfragment
+  lines: 19
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.36
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.37
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.38
+  title: Gebetsfragment
+  lines: 13
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.39
+  title: Gebetsfragment
+  lines: 25
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.40
+  title: Gebetsfragment
+  lines: 10
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.41
+  title: Gebetsfragment
+  lines: 6
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.42
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.43
+  title: Gebetsfragment
+  lines: 5
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.44
+  title: Gebetsfragment
+  lines: 13
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.45
+  title: Gebetsfragment
+  lines: 10
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.46
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.47
+  title: Gebetsfragment
+  lines: 6
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.48
+  title: Gebetsfragment
+  lines: 6
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.49
+  title: Gebetsfragment
+  lines: 16
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.50
+  title: Gebetsfragment
+  lines: 7
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.51
+  title: Gebetsfragment
+  lines: 6
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.52
+  title: Gebetsfragment
+  lines: 9
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.53
+  title: Gebetsfragment
+  lines: 5
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.54
+  title: Gebetsfragment
+  lines: 8
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.55
+  title: Gebetsfragment
+  lines: 6
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.56
+  title: Gebetsfragment
+  lines: 9
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.57
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.58
+  title: Gebetsfragment
+  lines: 18
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.59
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.60
+  title: Gebetsfragment
+  lines: 14
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.61
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.62
+  title: Gebetsfragment
+  lines: 15
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.63
+  title: Gebetsfragment
+  lines: 13
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.64
+  title: Gebetsfragment
+  lines: 18
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.65
+  title: Gebetsfragment
+  lines: 10
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.66
+  title: Gebetsfragment
+  lines: 41
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.67
+  title: Gebetsfragment
+  lines: 16
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.68
+  title: Gebetsfragment
+  lines: 25
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.69
+  title: Gebetsfragment
+  lines: 11
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.70
+  title: Gebetsfragment
+  lines: 13
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.71
+  title: Gebetsfragment
+  lines: 4
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 389.72
+  title: Gebetsfragment
+  lines: 10
+  why: 'CTH 389 prayer fragments: transliteration of small fragments only, no translation online'
+- siglum: CTH 409
+  title: Ritual der Tunnawiya
+  lines: 1356
+  why: only TLHdig manuscript transliterations (several overlapping manuscripts, no composite, no translation)

@@ -196,6 +196,7 @@ def norm_loc(section, n):
     section, n = section.strip(), str(n).strip()
     if not section and " " in n:
         section, _, n = n.rpartition(" ")
+    section = re.sub(r"§\s+", "§", section)          # Hittite paragraphs: '§ 12' -> '§12'
     section = re.sub(r"[,\s]+", ".", section).strip(".")
     n = re.sub(r"[\s:;,]+", "_", n).replace("-", "–")
     n = re.sub(r"^0+(?=\d)", "", n)            # ORACC pads line numbers: 001 -> 1

@@ -24,6 +24,99 @@ new_motifs:
   royal-awe-worn-as-garment: {label: "The king (or god) is cloaked in the awesome radiance of kingship as in a mantle", cluster: kingship}
   king-feeds-and-waters-people: {label: "The king feeds his people lavishly and gives them abundant drink, like a shepherd at pasture", cluster: kingship}
   king-of-sumer-and-akkad: {label: "The king is titled king of Sumer and Akkad, with a list of the cities he rules", cluster: kingship}
+  letter-opening-say-to-my-lord: {label: "A letter opens with the formula 'Say to my lord (X): thus says Y, your servant' (or, from the king, 'thus says your lord')", cluster: letters}
+  letter-closing-may-my-lord-know: {label: "A letter closes with 'May my lord know!' or 'It is urgent!'", cluster: letters}
+  letter-address-praises-recipient-with-epithets: {label: "A letter's address heaps praise-epithets and images on the recipient (king or god) before 'thus says your servant'", cluster: letters}
+  envoy-not-greeted-at-gate: {label: "At an official's palace gate no one asks after the king's well-being or rises and bows before the king's envoy", cluster: letters}
+  official-arrogates-royal-honours: {label: "A provincial official sits on a raised throne with a golden footstool, flanked by troops, and usurps the king's own rites", cluster: kingship}
+  envoy-refuses-to-sit-before-delivering-message: {label: "Offered a seat (and food), the envoy refuses to sit until he has delivered his master's instructions", cluster: letters}
+  guest-honoured-with-fattened-oxen-and-sheep: {label: "A visitor's table is laid with fattened oxen and sheep", cluster: hospitality}
+  king-makes-servant-equal-to-himself: {label: "The king raises a servant to rule as his equal: a throne on a dais, power to appoint and remove governors and to kill or blind, and messengers prostrate before him", cluster: kingship}
+  king-rebukes-disobedient-servant: {label: "The king rebukes an official: 'This is what I ordered you; why have you not done as I said?'", cluster: letters}
+  written-orders-to-be-heeded: {label: "Officials are told to heed the king's written tablet and agree among themselves", cluster: letters}
+  fortresses-garrisoned-and-troops-subdued: {label: "The governor sets strong guards in the fortresses and makes the troops of the province submit", cluster: warfare}
+  governor-drains-flooded-fields: {label: "An official drains flooded arable land and repairs leaking embankments", cluster: civilization}
+  servant-ready-to-do-all-lord-says: {label: "The servant declares: 'Whatever my lord says, I will do'", cluster: letters}
+  troops-missing-at-muster: {label: "When the levy is inspected, thousands of the troops are found to be missing", cluster: warfare}
+  king-word-as-word-of-god: {label: "A subject tells the king that his word is the word of the high god, irrevocable like a god's and countless as rain", cluster: kingship}
+  fortress-wall-against-nomads: {label: "A king builds a great fortress or wall across the land to keep out nomadic invaders (Martu, Tidnum)", cluster: warfare}
+  king-recalls-fathers-fortress: {label: "A king refers to the fortress built by his father, the dynasty's founder", cluster: kingship}
+  king-gives-gold-to-gods-for-own-life: {label: "The gold and silver the king fashions for the gods is given for his own life", cluster: cult}
+  captured-fugitive-informs-on-enemy: {label: "A captured deserter gives information about the enemy's movements", cluster: warfare}
+  enemy-intentions-known-from-omens: {label: "A commander knows from oracular signs that the enemy has regained strength for battle", cluster: divination}
+  wall-breaches-measured-by-sector: {label: "Breaches in a defensive wall are reported sector by sector, each assigned to a named official, with their length in measures", cluster: warfare}
+  commander-requests-workmen-and-troops: {label: "'If my lord agrees': a commander asks the king for thousands of workmen to carry baskets and for troops", cluster: warfare}
+  enemy-plans-to-resettle-population: {label: "The enemy plans to remove and resettle the population of the land", cluster: warfare}
+  wall-repaired-within-one-month: {label: "The king orders the fallen sections of a fortress rebuilt and the work completed within one month", cluster: warfare}
+  building-work-night-and-day-without-sleep: {label: "The builders must work night and noonday without sleep to complete the fortification", cluster: warfare}
+  nomads-roam-freely-with-tents-and-pens: {label: "A people in the open country: men and women go wherever they please, pens set up in the desert, tents and camps pitched", cluster: civilization}
+  habiru-sa-gaz: {label: "Bandits or brigands called sa-gaz (Akkadian ḫabbātu, the Ḫabiru/ʿapiru)", cluster: peoples}
+  merchant-goods-seized-by-official: {label: "A merchant sent abroad with the king's silver has his purchased goods seized by a foreign official", cluster: trade}
+  house-born-slave-trusted: {label: "The king praises a house-born slave as uniquely capable and loyal", cluster: letters}
+  king-sends-silver-and-gold-to-buy-grain: {label: "The king sends vast amounts of silver and gold to an official to purchase grain at any price", cluster: famine}
+  aged-counsellor-of-king: {label: "An aged counsellor of long standing, 'a grandfather to me', advises the king", cluster: wisdom}
+  king-calls-servant-his-son: {label: "The king tells a loyal servant 'You are my son who gladdens my heart'", cluster: kingship}
+  builders-also-fight: {label: "A commander builds the fortification and fights the enemy at the same time, day and night", cluster: warfare}
+  official-boasts-of-lineage: {label: "An official reminds the king that he comes from a great lineage", cluster: letters}
+  son-king-distinguishes-his-reign-from-fathers: {label: "A son-king declares that his throne is not his father's throne, setting his rule apart from his father's", cluster: kingship}
+  grain-carried-by-fleet-of-boats: {label: "Hundreds of barges are requested to carry a vast stock of grain by river to the capital", cluster: famine}
+  oath-before-sun-god: {label: "A speaker affirms 'Before the sun god, I will not change my word'", cluster: oath}
+  god-gives-city-to-enemy: {label: "The high god comes to hate the king and his city's god and hands the city over to the enemy", cluster: lament}
+  god-will-turn-again-to-his-city: {label: "Hope that on the day the high god turns back to his city (and its god), the traitors will be exposed", cluster: lament}
+  servant-profiteers-on-grain-price: {label: "A servant buys grain cheaply with the king's silver and charges the king double", cluster: famine}
+  commander-lets-enemy-into-land: {label: "A frontier commander lets the enemy nomads pass into the land without a fight", cluster: warfare}
+  usurper-claims-divine-mandate-to-conquer: {label: "A rival ruler claims the high god has given him shepherdship of the land and told him to seize its cities", cluster: kingship}
+  oath-by-personal-god: {label: "A ruler swears by the name of the high god and of his personal god that he will take a city", cluster: oath}
+  conqueror-installs-his-statues-and-priests: {label: "A conqueror plans to install his statues, emblems and his own en priests and priestesses in the shrines of the conquered cities and hold their festivals", cluster: cult}
+  wall-given-a-name: {label: "A ruler rebuilds a city wall and gives it a programmatic name", cluster: kingship}
+  governors-captured-or-reinstated-by-conqueror: {label: "A conqueror captures some governors and reinstates others in their posts", cluster: warfare}
+  no-ally-seeks-refuge-with-king: {label: "A threatened governor says he has no ally and asks to flee to the king if attacked", cluster: letters}
+  god-raises-upstart-foreigner-to-kingship: {label: "The high god turns against the land and raises a foreign upstart, not of native seed (an 'ape from the mountains'), to kingship", cluster: kingship}
+  divine-assembly-dispersed: {label: "The assembly of the gods and the land are dispersed", cluster: lament}
+  governors-defect-to-rival: {label: "Governors of the king's cities defect to a rising rival, as the god's word has decreed", cluster: kingship}
+  scribe-boasts-of-writing-stelae: {label: "A writer declares 'I am a scribe; I write on stelae'", cluster: scribal}
+  disgraced-servant-bound-in-mourning-clothes: {label: "A disgraced servant describes himself bowed in the dirt, hands bound, in mourning clothes, with dust in his eyes", cluster: lament}
+  proverbs-of-the-strong-and-the-poor: {label: "A string of proverbs: dogs devour corpses, fire consumes watered reeds, yet the sun god who eats cream still touches the table of the poor", cluster: wisdom}
+  son-of-widow-no-one-cares: {label: "The petitioner pleads: 'I am a widow's son, no one cares for me'", cluster: lament}
+  petition-for-restoration-of-kings-favour: {label: "A disgraced servant asks when the king's heart will be restored to him", cluster: letters}
+  army-of-spearmen-archers-axemen: {label: "Troops sent in equal divisions of spear-throwers, archers and axe-wielders", cluster: warfare}
+  city-turns-to-rival-king: {label: "A town turns against its king and admits a rival king's troops", cluster: warfare}
+  guards-check-all-who-enter-and-leave: {label: "Guards are posted to check all who enter and leave", cluster: warfare}
+  letter-to-a-god: {label: "A king or individual writes a letter to a god, with the epistolary formula, setting out distress and asking for help (letter-prayer)", cluster: prayer}
+  god-loves-to-keep-humans-alive: {label: "The god is one who loves to keep people alive (or revive them)", cluster: theology}
+  city-lament-young-men-harvested-like-barley: {label: "The city's young men are harvested like barley and plucked like fruit, people smashed like clay figurines, children snatched from their mothers' laps", cluster: lament}
+  god-like-enemy-to-own-city: {label: "The city's god stands aside from his city like an enemy", cluster: lament}
+  prayer-god-say-alas-for-city: {label: "The god is asked to look favourably on his city, say 'Alas!' over it and show it compassion", cluster: lament}
+  petition-to-keep-fathers-estate: {label: "A citizen petitions the king that no one take away his father's household and estate", cluster: law}
+  disease-demon-in-body-expelled-by-god: {label: "A disease demon (namtar) settled in a person's body that no one knows how to expel is driven out by a healing deity", cluster: healing}
+  physicians-fail-sufferer-turns-to-god: {label: "Repeated treatments by physicians fail (a bandage that does not hold) and the sufferer appeals to the healing deity", cluster: healing}
+  god-who-binds-and-looses: {label: "The god is one who knows how to bind and to release", cluster: theology}
+  moon-god-crown-of-heaven-and-earth: {label: "The moon god is the crown of heaven and earth, whose light spreads widely and who is entrusted with the heavens", cluster: theology}
+  deity-more-beautiful-than-moon-barge: {label: "Refrain asking whether the moon's barge or Inana's emblem is as beautiful as the deity praised", cluster: hymn}
+  divine-messenger-brings-tablet-of-life: {label: "A divine minister brings the tablet of life down from the midst of heaven and sends rain and abundance", cluster: cosmology}
+  divine-name-sweet-in-mouth: {label: "The deity's name fills the mouth like cakes, butter and cream (or honey)", cluster: hymn}
+  protective-goddess-gives-husband-in-place-of-father: {label: "A protective goddess gives a woman a husband in place of her father and a son in place of a field", cluster: family}
+  holy-city-intolerant-of-evil: {label: "In the god's holy city slander, hostile speech, arrogance, violence and boasting are abominations not tolerated", cluster: temple}
+  temple-interior-like-boundless-sea: {label: "The temple's interior is a wide sea without horizon, its divine powers those of the abzu that no one may look upon", cluster: temple}
+  temple-priests-perfect-in-rites: {label: "The temple's classes of priests are expert in blessing, lustration and holy prayer", cluster: cult}
+  king-as-farmer-of-god: {label: "The king is the god's great farmer and good shepherd, bringing rich offerings to his temple", cluster: kingship}
+  no-one-can-look-on-gods-face: {label: "No god (or no one) can look upon the high god's face", cluster: theophany}
+  without-god-nothing-exists-litany: {label: "Litany: without the high god no city would be built, no king raised, no rain fall, no fish spawn, no animal give birth", cluster: theology}
+  gods-ways-inscrutable-own-counsellor: {label: "The god's ingenuity is like tangled threads no eye can follow; he is his own counsellor and no one comprehends his deeds", cluster: theology}
+  gods-word-is-abundance-of-heaven-and-earth: {label: "The god's word, heavy as heaven, is a foundation on earth: it pours abundance from heaven and is flax, grain and the life-giving flood", cluster: theology}
+  god-as-shepherd-of-all-creatures: {label: "The high god is the faithful shepherd and herdsman of the multitudes and of all living creatures", cluster: theology}
+  river-turned-to-blood: {label: "Blood is poured into a land's rivers so that its people must drink it (or cannot drink)", cluster: plague}
+  light-scorches-shade-becomes-storm: {label: "The sufferer approaches the light and it scorches; approaches the shade and is covered by a storm; the honeyed mouth becomes scum", cluster: lament}
+  priestess-driven-from-temple-into-wilderness: {label: "A priest(ess) is driven from the temple, flies off like a swallow from the window, walks the thornbushes of the mountains and is stripped of the crown of office", cluster: lament}
+  god-does-not-decide-sufferers-case: {label: "The sufferer complains that his or her god has not pronounced a verdict on the case", cluster: lament}
+  petitioner-protests-innocence: {label: "The petitioner protests innocence by listing sins not committed", cluster: prayer}
+  be-it-known-refrain: {label: "Litany refrain 'Be it known that you ...' (ḫe2-zu-am3) proclaiming the deity's greatness and terror", cluster: hymn}
+  hymn-sung-by-night-repeated-at-noon: {label: "A song recited to the deity at dead of night is to be repeated by a singer at noon", cluster: cult}
+  deity-accepts-offering-and-is-appeased: {label: "The angry deity accepts the petitioner's offering and her heart is restored; she shines like the rising moon", cluster: cult}
+  food-and-milk-of-death: {label: "The goddess gives the food and milk of death; whoever eats it does not last, gall burns his mouth", cluster: warfare}
+  high-god-yields-powers-to-goddess: {label: "The sky god, afraid of the goddess, seats her in his dwelling and hands over to her the royal and divine rites", cluster: theology}
+  deity-gathers-dispersed-people: {label: "The deity gathers the scattered people and returns them to their homes", cluster: theology}
+  penitent-feels-gods-punishment-in-body: {label: "The petitioner says the deity's great punishment has been felt in his or her body and lament keeps sleep away", cluster: lament}
 units:
   - id: ane-etcsl-2-8-2-1-hammurabi-a
     tradition: ane-sumerian
@@ -269,3 +362,633 @@ units:
       - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.8.5.1 A:11", "ETCSL 2.8.5.1 B:13"], note: "ki-ru-gu2 1-a-kam-ma; ĝiš-gi-ĝal2-bi-im"}
     hints:
       - "Marduk's elevation by An and Enlil compares Enūma eliš IV-VI and the Laws of Hammurabi prologue i 1-15 (Enlilship given to Marduk); compare Ps 82 and Ps 89:6-8 (who among the sons of god is like YHWH?). God as knower of hearts: 1Sam 16:7, Jer 17:10, Q 67:13 (ʿalīm bi-dhāt al-ṣudūr)."
+  - id: ane-etcsl-3-1-01-aradgu-apillasa
+    tradition: ane-sumerian
+    title: Letter from Aradĝu to Šulgi about Apillaša, the arrogant official
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.01 1-34"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.01 1-2"], note: "lugal-ĝu10-ra u3-na-a-dug4 / {m}arad2-ĝu10 arad2-zu na-ab-be2-a"}
+      - {motif: envoy-not-greeted-at-gate, refs: ["ETCSL 3.1.01 9-11", "ETCSL 3.1.01 22"], note: "silim-ma lugal-ĝa2-ke4 en3 li-bi2-in-tar; dur2 na-ma-ta-an-zig3 ki-a nu-ub-za 'no one rose from his seat or bowed down'"}
+      - {motif: official-arrogates-royal-honours, refs: ["ETCSL 3.1.01 13-21"], note: "{ĝiš}gu-za barag {tug2}šutur-e ri-a i-ib2-tuš; {ĝiš}ĝiri3-gub kug-sig17-ka ĝiri3-ni i-ib2-ĝar; 5 li-mu-um soldiers right and left; šu-luḫ lugal-ĝa2-ke4 sa2 bi2-in-dug4 'he took over my lord's lustration rites'"}
+      - {motif: envoy-refuses-to-sit-before-delivering-message, refs: ["ETCSL 3.1.01 24-25"], note: "tuš-a ma-an-dug4 / a2 aĝ2-ĝa2 lugal-ĝa2-ke4 i3-gub-be2-en nu-tuš-u3-de3-en"}
+      - {motif: guest-honoured-with-fattened-oxen-and-sheep, refs: ["ETCSL 3.1.01 20", "ETCSL 3.1.01 26-28"], note: "6 gud niga 60 udu niga; then the king's soldiers overturn his table and he is terrified (su ba-da-zig3)"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.01 34"], note: "lugal-ĝu10 ḫe2-en-zu; month-names Ezen-Ninazu and U-bigu date the mission"}
+    hints:
+      - "The envoy who will not sit or eat until he has spoken his master's word: Gen 24:33 (Abraham's servant: 'I will not eat until I have told my errand'). A subordinate who sits enthroned with a footstool: Esth 3:1-2 (Haman, before whom all must bow) and Ps 110:1."
+  - id: ane-etcsl-3-1-02-shulgi-aradgu
+    tradition: ane-sumerian
+    title: Letter from Šulgi to Aradĝu about Apillaša
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.02 1-35"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.02 1-2"], note: "king to servant: {m}arad2-ĝu10-ra u3-na-a-dug4 / {m}{d}šul-gi lugal-zu na-ab-be2-a"}
+      - {motif: king-batters-enemy-like-storm, refs: ["ETCSL 3.1.02 10-12"], note: "za-pa-aĝ2-ĝu10 kur-kur-ra ḫe2-ri; u18-lu-ĝu10 kalam-ma ḫe2-eb-dul 'let my storm cover the land'"}
+      - {motif: king-makes-servant-equal-to-himself, refs: ["ETCSL 3.1.02 18-26"], note: "tukum-bi gal-zu unken-na-ĝu10 ĝa2-a-gin7-nam nu-ub-gur4-re: throne on dais, golden footstool, power to appoint and remove governors, lu2 nu-un-gaz igi nu-un-ḫul 'if he does not kill or blind anyone ... how can he secure the provinces?'"}
+      - {motif: king-rebukes-disobedient-servant, refs: ["ETCSL 3.1.02 16-17"], note: "a-na-aš-am3 ĝa2-a-gin7-nam nu-un-ak 'why have you not done as I ordered?'"}
+      - {motif: written-orders-to-be-heeded, refs: ["ETCSL 3.1.02 31-32"], note: "igi 2-na-zu-ne-ne im sar-ra gu3 ḫe2-em-ta-de2-de2-e: 'pay heed to the written tablet'"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.02 35"], note: "a-ma-ru-kam 'it is urgent (a flood)!'"}
+    hints:
+      - "The king's deputy enthroned with power over officials and life: Gen 41:40-44 (Joseph: 'only in the throne will I be greater than you'), Esth 8:2,8, Dan 2:48; power 'to kill or keep alive': Dan 5:19."
+  - id: ane-etcsl-3-1-03-aradgu-irrigation
+    tradition: ane-sumerian
+    title: Letter from Aradĝu to Šulgi about irrigation work
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.03 1-18"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.03 1-2"]}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["ETCSL 3.1.03 4-6"], note: "the king's realm from the sea and Dilmun, the salt waters and the Martu border, to Simurrum and Subir"}
+      - {motif: fortresses-garrisoned-and-troops-subdued, refs: ["ETCSL 3.1.03 12-13"], note: "bad3-bi en-nu-uĝ3 kalag-ga bi2-gub; ugnim-bi gu2 ĝiš bi2-ĝar-ĝar 'made their troops bow the neck (to the yoke)'"}
+      - {motif: governor-drains-flooded-fields, refs: ["ETCSL 3.1.03 15-16"], note: "a-gar3 a ĝar-ra-bi a-ta im-ta-e3; lines 9-11, 14, 17-18 partly unclear"}
+    hints:
+      - "A realm defined by sea and river boundaries: 1Kgs 5:1,4 (from the River to Gaza), Ps 72:8."
+  - id: ane-etcsl-3-1-04-aradgu-citizens
+    tradition: ane-sumerian
+    title: Letter from Aradĝu to Šulgi about attentive citizens
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.04"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.04 A:1-2"]}
+      - {motif: king-addressed-as-god-of-his-land, refs: ["ETCSL 3.1.04 A:6-7"], note: "nam-lu2-ulu3 sig igi-nim-ma diĝir-bi za-e-me-en / igi-bi ma-ra-ši-ĝal2 'you are the god of mankind ... their eyes are on you'"}
+      - {motif: black-headed-people, refs: ["ETCSL 3.1.04 A:5", "ETCSL 3.1.04 A:8"], note: "uĝ3 u2-gin7 lu-lu 'people abundant as grass'"}
+      - {motif: long-live-the-king-acclamation, refs: ["ETCSL 3.1.04 A:8-9"], note: "lugal-ĝu10 silim-ma ab-dug4-ga 'they say: hail, my lord!' from the Tigris and Euphrates"}
+      - {motif: servant-ready-to-do-all-lord-says, refs: ["ETCSL 3.1.04 B:5-8"], note: "Gutium, Mari and Rapiqum 'listen'; niĝ2 lugal-ĝu10 ab-be2-na ga-ab-ak 'whatever my lord says I will do'"}
+    hints:
+      - "'The eyes of all wait upon you': Ps 145:15; the people's acclamation 'Long live the king': 1Sam 10:24, 1Kgs 1:39. 'All that the LORD has spoken we will do': Exod 19:8."
+  - id: ane-etcsl-3-1-05-aradgu-missing-troops
+    tradition: ane-sumerian
+    title: Letter from Aradĝu to Šulgi about Aba-indasa's missing troops
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.05 1-15"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.05 1-2"]}
+      - {motif: troops-missing-at-muster, refs: ["ETCSL 3.1.05 5-8"], note: "{m}a-ba-in-da-sa2-a erin2-bi igi u3-bi2-in-kar2 / 2 li-mu-um erin2-bi nu-ĝal2: 2,000 of the levy missing"}
+      - {motif: servant-ready-to-do-all-lord-says, refs: ["ETCSL 3.1.05 14"]}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.05 15"], note: "lines 9-13 broken; an offence (šer7-da) is mentioned"}
+    hints:
+      - "Counting the troops after a battle and finding men missing (or none missing): Num 31:49, 2Sam 2:30."
+  - id: ane-etcsl-3-1-06-aradgu-igi-hursanga
+    tradition: ane-sumerian
+    title: Letter from Aradĝu to Šulgi about the fortress Igi-ḫursaĝa (bilingual)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.06"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.06 A:1-2"]}
+      - {motif: king-word-as-word-of-god, refs: ["ETCSL 3.1.06 A:3-4"], note: "lugal-ĝu10 inim-zu inim an-na; nam tar-ra-zu diĝir-gin7 šu-zu ĝar-ra (Akk. a-wa-at-ka a-wa-at a-nim; ši-ma-tu-ka ki-ma DIĜIR)"}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.06 A:5-6", "ETCSL 3.1.06 A:9"], note: "ĝiri3 lu2-kur2-e kalam-še3 ba-bad 'the enemy's foot is kept away from the land'; mar-tu gu2-erim2 bi2-in-gi-gi"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["ETCSL 3.1.06 A:7-8"], note: "mu maḫ lugal-ĝu10 ... {d}utu e3-ta ud šu2-uš zag-še3: the king's great name from sunrise to sunset"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 3.1.06 A:12"], note: "u3 a-ba-a an-da-sa2 'and who can rival him?'"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 3.1.06 A:3-11", "ETCSL 3.1.06 B:1-2"], note: "Akkadian glosses render Kurgamabi as Kunšī-mātum"}
+    hints:
+      - "'The word of the king is like an angel of God': 2Sam 14:17,20; 'where the word of a king is, there is power': Eccl 8:4. 'From the rising of the sun to its setting my name is great': Mal 1:11, Ps 113:3."
+  - id: ane-etcsl-3-1-06-1-shulgi-aradgu-aba-indasa
+    tradition: ane-sumerian
+    title: Letter from Šulgi to Aradĝu about Aba-indasa
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.06.1"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.06.1 1:1-2"]}
+      - {motif: king-rebukes-disobedient-servant, refs: ["ETCSL 3.1.06.1 1:5-9"], note: "šer7-da il2-la-zu 'your bearing the offence'; a-na-aš-am3 erin2-bi-ta mu-un-zi-zi; the captain is to be returned to his troops (erin2-bi-ta gi4-gi4-mu-un-na-ab)"}
+      - {motif: king-recalls-fathers-fortress, refs: ["ETCSL 3.1.06.1 2:2-3"], note: "[{m}ur]-{d}namma a-a ugu-ĝu10 ... ḫa-ra-kalag 'Ur-Namma, my own father ... the fortress'"}
+      - {motif: king-makes-servant-equal-to-himself, refs: ["ETCSL 3.1.06.1 1:21", "ETCSL 3.1.06.1 2:10"], note: "igi-zu-še3 {ĝiš}gu-za ḫa-ra-ab-tuš-de3-en 'you should take your seat on a throne'; very broken context"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.06.1 1:22"], note: "a-ma-ru-kam; lines 1:12-13 and much of section 2 lost"}
+  - id: ane-etcsl-3-1-07-puzur-shulgi-enemy-advance
+    tradition: ane-sumerian
+    title: Letter from Puzur-Šulgi to Šulgi about the advance of the enemy
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.07 1-34"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.07 1-3"], note: "the sender's name varies by manuscript: Puzur-Šulgi / Puzur-Marduk / Puzur-Numušda"}
+      - {motif: king-gives-gold-to-gods-for-own-life, refs: ["ETCSL 3.1.07 4-5"], note: "kug-sig17 kug-babbar diĝir-re-e-ne in-ne-dim2-dim2-ma / zi-ni-še3-am3 in-nu-u3 'is it not for his own life?'"}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.07 6-8"], note: "bad3 gal igi-ḫur-saĝ-ĝa2 mu lu2-kur2 ḫul-ĝal2-še3"}
+      - {motif: captured-fugitive-informs-on-enemy, refs: ["ETCSL 3.1.07 9-11"], note: "lu2 igi-ĝa2 saḫ6-bi i-im-tum2-ma dab5-dab5-be2 / inim ma-an-dug4"}
+      - {motif: enemy-intentions-known-from-omens, refs: ["ETCSL 3.1.07 12-13"], note: "ĝiškim lu2-kur2-ra ĝe26-e i3-zu 'I know the (oracular) signs of the enemy': his strength is replenished, mine is small"}
+      - {motif: wall-breaches-measured-by-sector, refs: ["ETCSL 3.1.07 15-22"], note: "nam {m}šu-{d}nu-muš-da ... 5 nindan ḫe2-ni-dar-dar; Lugal-melem 40 nindan; Ka-kugani 45 nindan destroyed; Takil-ilišu 50 nindan collapsed"}
+      - {motif: commander-requests-workmen-and-troops, refs: ["ETCSL 3.1.07 26-29"], note: "tukum-bi lugal-ĝa2 an-na-kam / 7200 erin2 ... {ĝiš}dusu-a ma-ab-il2-e 'to carry baskets'; 70 Šimaškian attendants"}
+      - {motif: enemy-plans-to-resettle-population, refs: ["ETCSL 3.1.07 30-31"], note: "ki-tuš-bi ga-ba-ni-kur2 'I will change their dwelling'; nam-tag-ni dugud 'his sin is heavy'"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.07 32-34"], note: "arad {d}šul-gi lugal-ĝa2 gen6-na-me-en / nam-ba-da-ug5-en 'let me not die for this!'"}
+    hints:
+      - "Rebuilding a breached wall by named sectors, each official responsible for so many measures: Neh 3:1-32; basket-carriers and guarding while building: Neh 4:10-17. Resettlement of a conquered population: 2Kgs 17:6,24, 18:31-32."
+  - id: ane-etcsl-3-1-08-shulgi-puzur-shulgi-fortress
+    tradition: ane-sumerian
+    title: Letter from Šulgi to Puzur-Šulgi about work on the fortress Igi-ḫursaĝa (two versions, one syllabic and bilingual)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Version 1 (standard orthography) and version 2 (syllabic Sumerian with Akkadian translation)"
+    read: ["ETCSL 3.1.08"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.08 1.A:1-3", "ETCSL 3.1.08 2:1-2"]}
+      - {motif: shepherdship-of-land-given-by-god, refs: ["ETCSL 3.1.08 1.A:5-6", "ETCSL 3.1.08 2:4"], note: "kur-kur uĝ3 daĝal-la an-ne2 {d}en-lil2-le nam-en-na-bi; Akk. AN-nu u3 {d}KUR.GAL ... id-di-nu-ni"}
+      - {motif: nomads-roam-freely-with-tents-and-pens, refs: ["ETCSL 3.1.08 2:6-13"], note: "uĝ3 ... u2-sal-la i-nu 'the people lay in meadows'; nitaḫ2-be ki šag4-ga-an-ne e-du; munus with spindle and hair-clasp; za-la-am ga-na-be-et-te (zalam-ĝar maš-gana2) tents and camps; here the king's own pacified land"}
+      - {motif: wall-repaired-within-one-month, refs: ["ETCSL 3.1.08 1.B:3-6", "ETCSL 3.1.08 2:23-27"], note: "ki bad3 šub-ba ki-bi-še3 ḫu-mu-un-ĝar / šag4 itid 1-kam a2 šub-ba ḫa-ba-til3"}
+      - {motif: building-work-night-and-day-without-sleep, refs: ["ETCSL 3.1.08 1.B:19-20", "ETCSL 3.1.08 2:35"], note: "ĝi6 an-bar7 kiĝ2 ḫe2-en-du3 / ĝi6 an-bar7 u3 nu-ku-ku-un-ze2-en 'you shall not sleep by night or in the noon heat'"}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.08 1.B:7"], note: "tidnum-e kur-bi-ta ma-ra-an-gur 'the Tidnum have come back from their mountain'"}
+      - {motif: omen-consulted-before-temple-building, refs: ["ETCSL 3.1.08 2:16-17"], note: "Akk. aš-ta-al am-ta-li-ik-ma 'I consulted and deliberated'; ETCSL 'by consulting omens'; interpretive"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 3.1.08 2:4-36"], note: "version 2 is Sumerian written syllabically (up pa-ad = bad3, ki-im = kiĝ2) with Akkadian translation"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.08 1.B:21", "ETCSL 3.1.08 2:36"]}
+    hints:
+      - "Night-and-day building under threat, completed quickly: Neh 4:16-17,21-23 and Neh 6:15 (finished in 52 days). Men and women going wherever they please in security: compare 1Kgs 5:5 (each under his vine) and Zech 8:4-5."
+  - id: ane-etcsl-3-1-10-shulgi-waterways
+    tradition: ane-sumerian
+    title: Letter from Šulgi to Puzur-Šulgi about waterways
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.10 1-28"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.10 1-2"]}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.10 3"], note: "bad3 gal igi-ḫur-saĝ-ĝa2 mu-du3-a; the rest concerns water that cannot be drunk because of a breach of the Tigris and Euphrates (line 5); lines 6-27 largely broken, line 9 missing"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.10 28"]}
+  - id: ane-etcsl-3-1-11-bandits
+    tradition: ane-sumerian
+    title: Letter to Šulgi about bandits and brigands
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.11 1-20"]
+    tags:
+      - {motif: nomads-roam-freely-with-tents-and-pens, refs: ["ETCSL 3.1.11 2-7"], note: "lu2 la-ga lu2-sa-gaz-e 'bandits and brigands' (sa-gaz = Akk. ḫabbātu, cf. Ḫabiru) level the desert; man and woman go where they please; ĝa2-rig7 pens, za-lam-ĝar maš-gana2 tents and camps"}
+      - {motif: habiru-sa-gaz, refs: ["ETCSL 3.1.11 2"], note: "lu2-sa-gaz"}
+      - {motif: building-work-night-and-day-without-sleep, refs: ["ETCSL 3.1.11 8-9"], note: "a2 aĝ2-ĝa2 {d}šul-gi lugal-ĝa2-ke4 gu2-ĝu10 nu-mu-da-šub / ĝi6-ba an-bar7-ba"}
+      - {motif: wickedness-cannot-pass-before-kings-eyes, refs: ["ETCSL 3.1.11 12"], note: "lugal-ĝu10 igi bar-ra diĝir-ra ... lu2 ḫul bi2-i-ni-in-zu 'my lord, with a god's open eye, you know the evildoer'"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 3.1.11 14", "ETCSL 3.1.11 20"], note: "lugal-ĝu10 lugal nu-mu-e-da-sa2 šag4-zu ḫe2-eb-dug3-ge"}
+    hints:
+      - "Sa-gaz/Ḫabiru compare the ʿapiru of the Amarna letters and the debated link with 'Hebrews' (Gen 14:13, 1Sam 14:21). The king who discerns evil like a god: 2Sam 14:17,20; Prov 20:8."
+  - id: ane-etcsl-3-1-11-1-urdun-cedar-resin
+    tradition: ane-sumerian
+    title: Letter from the merchant Ur-DUN to Šulgi about the purchase of cedar resin
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.11.1 1-20"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.11.1 1-2"], note: "ur-DUN dam-gara3 arad-zu"}
+      - {motif: merchant-goods-seized-by-official, refs: ["ETCSL 3.1.11.1 3-9", "ETCSL 3.1.11.1 18"], note: "šim {ĝiš}erin-na sa10-sa10-de3 ... {m}a-pi2-la-ša ... sam2-ĝu10 mu-da-an-kar2-re-eš 'they took away my goods'; usu nu-tuku 'I had no strength'"}
+      - {motif: envoy-not-greeted-at-gate, refs: ["ETCSL 3.1.11.1 10-11"], note: "kan4 e2-gal-la-ni ... lu2 na-me inim-ĝu10 en3 nu-bi-tar"}
+      - {motif: servant-ready-to-do-all-lord-says, refs: ["ETCSL 3.1.11.1 20"]}
+    hints:
+      - "Cedar products fetched from a distant land with royal silver: 1Kgs 5:6-10; a merchant's complaint of seizure compares the Amarna letters on robbed caravans (EA 8)."
+  - id: ane-etcsl-3-1-13-2-shulgi-ishbi-erra-grain
+    tradition: ane-sumerian
+    title: Letter from Šulgi to Išbi-Erra about the purchase of grain (syllabic, bilingual)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.13.2 1-29"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.13.2 1-2"], note: "syllabic: mu-un-ne-du (u3-na-a-dug4); lu2-gal-zu2 na-ap-pa-a"}
+      - {motif: house-born-slave-trusted, refs: ["ETCSL 3.1.13.2 4-5"], note: "e-me-du (eme-du 'house-born slave'); Akk. IR3 ... ma-an-nu i-na-an-di-na 'who could give me (a slave like you)?'"}
+      - {motif: king-sends-silver-and-gold-to-buy-grain, refs: ["ETCSL 3.1.13.2 8-10", "ETCSL 3.1.13.2 15-16"], note: "600 talents of silver and 600 of gold via Babati; 'buy grain at whatever rate'"}
+      - {motif: aged-counsellor-of-king, refs: ["ETCSL 3.1.13.2 8-9"], note: "Babati the archivist, 'a grandfather to me, an adviser of long standing' (Akk. la-be-ra ... mi-it-lu-u2-ka i-du-u2)"}
+      - {motif: king-calls-servant-his-son, refs: ["ETCSL 3.1.13.2 18"], note: "u2-da-da dumu ša3-az zu-ga-am-gu-u2 de-mi-in; Akk. DUMU-rum mu-ṭi3-ib li-ib-bi-ia at-ta 'you are my son who gladdens my heart'"}
+      - {motif: king-makes-servant-equal-to-himself, refs: ["ETCSL 3.1.13.2 19-27"], note: "Martu land and Elam placed before you, ki-ma ia-a-ti 'like me'; sit on a throne on a golden dais; their messengers shall prostrate (li-iš-ke-nu-ni-ik-ku); appoint and remove governors; kill the murderer, blind him"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 3.1.13.2 3-29"]}
+    hints:
+      - "Joseph made over Egypt and the grain: Gen 41:40-44 (throne, signet, 'abrek' cried before him), Gen 41:55-57; the trusted house-born servant: Gen 15:2-3, 24:2. 'You are my son': Ps 2:7. Q 12:54-56 (the king makes Joseph 'established and trusted', over the storehouses of the land)."
+  - id: ane-etcsl-3-1-15-sharrum-bani-martu
+    tradition: ane-sumerian
+    title: Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.15 1-43"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.15 1-2"]}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.15 3-8", "ETCSL 3.1.15 12"], note: "bad3 gal mu-ri-iq-tidnim 'Repeller of the Tidnum'; mar-tu ma-da-aš mu-un-šub-šub-bu-uš; bad3 du3-u3-de3 ĝiri3-bi ku5-ru-de3; 26 danna long"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 3.1.15 5", "ETCSL 3.1.15 14-15"], note: "the Martu camp in the mountains, helped by Simurrum"}
+      - {motif: builders-also-fight, refs: ["ETCSL 3.1.15 24", "ETCSL 3.1.15 40"], note: "bad3 du3-u3-de3 nu-šub-be2-en i3-du3-en u3 {ĝiš}tukul i3-sag3-ge-en 'I build and fight at the same time', at nightfall and midnight"}
+      - {motif: commander-requests-workmen-and-troops, refs: ["ETCSL 3.1.15 19-20", "ETCSL 3.1.15 27-33"], note: "7200 workers sent; lu2 {gi}dusu ib2-si lu2 {ĝiš}tukul sag3-ge bi2-ib-tur 'basket men are plenty, fighting men few'"}
+      - {motif: official-boasts-of-lineage, refs: ["ETCSL 3.1.15 25"], note: "gal-zu unken-na im-ri-a gu-la-am3 'as Sage of the Assembly I am of a great clan'"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.15 42-43"], note: "ud kur-kur ḫe2-en-dul 'let the storm cover all the lands'"}
+    hints:
+      - "Building with one hand and holding a weapon with the other: Neh 4:11-12 (4:17-18 Eng). A wall to keep out invaders compares Q 18:94-97 (Dhu l-Qarnayn's barrier against Gog and Magog)."
+  - id: ane-etcsl-3-1-16-shu-suen-trench
+    tradition: ane-sumerian
+    title: Letter from Šu-Suen to Šarrum-bāni about digging a trench
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.16 1-45"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.16 1-2"]}
+      - {motif: king-rebukes-disobedient-servant, refs: ["ETCSL 3.1.16 23-24"], note: "a2-še3 mu-e-da-aĝ2 / a-na-aš-am3 ĝa2-a-gin7-nam nu-ak"}
+      - {motif: king-makes-servant-equal-to-himself, refs: ["ETCSL 3.1.16 25-27"], note: "lu2 gaz-de3 igi ḫul-ḫul-le-de3 / iri gul-gul-de3 šu-zu-še3 nu-ĝar-ra / nam-nir-ĝal2 mu-ra-šum2: power to kill, blind and destroy cities, given (or withheld?) by the king; the sense is disputed"}
+      - {motif: son-king-distinguishes-his-reign-from-fathers, refs: ["ETCSL 3.1.16 28-30"], note: "{d}šul-gi ad-da-ĝu10 ... {ĝiš}gu-za-ĝa2 {ĝiš}gu-za {d}šul-gi-ra-ka in-nu 'my throne is not the throne of Šulgi'"}
+      - {motif: fortress-wall-against-nomads, refs: ["ETCSL 3.1.16 35-38"], note: "bad3-bi ḫe2-du3-a; [ḫi]-ri-tum2 ba-al-la2 'dig the trench' (Akk. ḫirītum)"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.16 43-45"], note: "news of the eastern provinces ({d}utu ed2-da-bi); a-ma-ru-kam; lines 3-22 partly unclear"}
+    hints:
+      - "A son-king insisting his rule differs from his father's: 1Kgs 12:10-14 (Rehoboam: 'my little finger is thicker than my father's loins')."
+  - id: ane-etcsl-3-1-17-ishbi-erra-grain
+    tradition: ane-sumerian
+    title: Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.17 1-58"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.17 1-2"]}
+      - {motif: famine-inflated-market-prices, refs: ["ETCSL 3.1.17 5-6"], note: "ganba 1 še gur-ta-am3 'one gur of grain per shekel'; 20 talents of silver invested"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 3.1.17 7-12"], note: "inim mar-tu lu2-kur2-ra ... bad3 gal-gal dili-dili-bi im-mi-in-dab5-dab5 'they seized the great fortresses one by one'"}
+      - {motif: grain-carried-by-fleet-of-boats, refs: ["ETCSL 3.1.17 13-21"], note: "600 barges of 120 gur each; up the Kura and Palištum watercourses"}
+      - {motif: famine-grain-storage-plan, refs: ["ETCSL 3.1.17 8", "ETCSL 3.1.17 29-30"], note: "72,000 gur stored in Isin; še mu 15-ta-am3 šag4-gal e2-gal-zu 'grain for 15 years for your palace and cities'"}
+      - {motif: barbarians-subhuman-description, refs: ["ETCSL 3.1.17 43-44"], note: "elam ur-idim lu2 niĝ2 ḫa-lam-ma 'Elam, a raging dog, a destroyer' will not defile E-kiš-nu-ĝal"}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["ETCSL 3.1.17 46-47"], note: "an {d}en-lil2 {d}en-ki ... {m}i-bi-{d}suen-ka šag4-ta-am3 ki aĝ2-me-eš 'who loved Ibbi-Suen from the womb'"}
+      - {motif: oath-before-sun-god, refs: ["ETCSL 3.1.17 58"], note: "igi {d}utu-kam ka-ĝu10 nu-bal-e 'before Utu, I will not change my word'"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 3.1.17 51"], note: "lugal {d}en-lil2 ... gaba-ri nu-tuku-me-en"}
+    hints:
+      - "Grain stored for many years for palace and cities, and the official who controls it rising to power: Gen 41:35-49, 47:13-26; Q 12:47-49. 'Before I formed you in the womb I knew you': Jer 1:5, Isa 49:1, Ps 22:11."
+  - id: ane-etcsl-3-1-18-ibbi-suen-ishbi-erra
+    tradition: ane-sumerian
+    title: Letter from Ibbi-Suen to Išbi-Erra about his bad conduct
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.18 1-18"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.18 1-2"]}
+      - {motif: god-gives-city-to-enemy, refs: ["ETCSL 3.1.18 5-8"], note: "{d}en-lil2-le ĝa2-a-ra ḫul ba-an-gig / dumu-ni {d}suen-na-ra ḫul ba-an-gig / urim2 lu2-kur2-ra bi2-in-šum2-mu 'Enlil hates me, hates his son Suen, and gives Urim to the enemy'"}
+      - {motif: god-will-turn-again-to-his-city, refs: ["ETCSL 3.1.18 9-10"], note: "ud {d}en-lil2-le dumu-ni {d}suen-na-ra im-me-gur / za-e inim-zu ĝiškim im-ma-an-tuku: on that day the traitor's word will be marked"}
+      - {motif: servant-profiteers-on-grain-price, refs: ["ETCSL 3.1.18 11-13"], note: "bought at 2 gur per shekel, charged the king 1 gur per shekel"}
+      - {motif: commander-lets-enemy-into-land, refs: ["ETCSL 3.1.18 14-18"], note: "Puzur-Numušda of Igi-ḫursaĝa let the Martu into the land; lu2 saĝ-du nu-tuku"}
+    hints:
+      - "God handing his own city to the enemy: Jer 21:10, 32:28, 2Kgs 21:14; Lam 2:7. The day God turns back to his people: Zech 1:3, Isa 54:7-8. False balances in selling grain: Amos 8:5."
+  - id: ane-etcsl-3-1-19-puzur-shulgi-ishbi-erra-claim
+    tradition: ane-sumerian
+    title: Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.19 1-53"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.19 1-3"]}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 3.1.19 4-29"], note: "the rival's message quoted within the letter"}
+      - {motif: usurper-claims-divine-mandate-to-conquer, refs: ["ETCSL 3.1.19 7-14", "ETCSL 3.1.19 18"], note: "{d}en-lil2 lugal-ĝu10 nam-sipad kalam-ma ... {d}en-lil2-le ĝa2-a-ra ma-an-dug4: Enlil told me to bring the cities, gods and troops before Ninisina and make Isin Enlil's storehouse"}
+      - {motif: oath-by-personal-god, refs: ["ETCSL 3.1.19 16-17"], note: "mu {d}en-lil2 lugal-ĝu10 u3 {d}da-gan diĝir-ĝu10 i3-pad3 ... ka-zal-lu šu-ĝa2 sa2 ḫe2-eb-be2"}
+      - {motif: conqueror-installs-his-statues-and-priests, refs: ["ETCSL 3.1.19 19-25"], note: "alan-ĝu10 šu-nir-ĝu10 en lu2-maḫ nin-diĝir-ĝu10-ne ĝi6-par4-ra-ne-ne-a ga-bi2-ib-dur2-ru-durun; ešeš festivals"}
+      - {motif: wall-given-a-name, refs: ["ETCSL 3.1.19 28-32"], note: "i3-si-in-na bad3-bi ... i-di-il-pa-šu-nu mu-še3 ba-an-sa4 'Īdil-pāšunu' (Akk. 'He blocked their mouth'?)"}
+      - {motif: governors-captured-or-reinstated-by-conqueror, refs: ["ETCSL 3.1.19 33-40", "ETCSL 3.1.19 45-47"], note: "captures Nibru and its šaĝa Niĝdugani, imprisons Zinnum; returns governors of Ešnunna, Kiš, Bad-ziaba to their posts; captures Girbubu"}
+      - {motif: no-ally-seeks-refuge-with-king, refs: ["ETCSL 3.1.19 49-52"], note: "{lu2}tab-ba nu-tuku ... u3-mu-un-šub ga-am3-ma-ĝen"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.19 53"]}
+    hints:
+      - "An invader claiming the god of the land sent him: 2Kgs 18:25 / Isa 36:10 (Rabshakeh: 'YHWH said to me, go up against this land'); 2Chr 35:21 (Necho). 'Just as he said, so he did': cf. Num 23:19."
+  - id: ane-etcsl-3-1-20-ibbi-suen-puzur-shulgi
+    tradition: ane-sumerian
+    title: Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.20"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.1.20 1:1-3"]}
+      - {motif: king-rebukes-disobedient-servant, refs: ["ETCSL 3.1.20 1:6-14"], note: "a-na-aš-am3 ... igi-ni-še3 la-ba-an-sug2-ge-za-na 'why did you not confront him?'"}
+      - {motif: god-raises-upstart-foreigner-to-kingship, refs: ["ETCSL 3.1.20 1:15-19", "ETCSL 3.1.20 2:9-13"], note: "{d}en-lil2-le ki-en-gi ḫul mu-un-gi4 / {ugu2}ugu4-bi kur-bi-ta ed3-de3 nam-sipad kalam-ma-še3 mu-un-il2 'an ape come down from the mountains'; numun ki-en-gi-ra nu-me-a nam-lugal-la mu-na-an-šum2"}
+      - {motif: divine-assembly-dispersed, refs: ["ETCSL 3.1.20 1:20"], note: "pu-uḫ2-rum ki diĝir-re-e-ne ki-en-gi sag2 ba-ab-dug4"}
+      - {motif: city-destruction-decreed-by-gods, refs: ["ETCSL 3.1.20 1:21-24"], note: "a-a {d}en-lil2 dug4-ga-dug4-ga-ni ... iš-bi-{d}er3-ra lu2 ma2-ri2 suḫuš-bi ba-bur12-re / ki-en-gi ḫe2-aĝ2-e 'he will measure out Sumer like grain'"}
+      - {motif: barbarians-subhuman-description, refs: ["ETCSL 3.1.20 1:34"], note: "lu2 ma2-ri2-ke4 ĝalga ur-re 'the man of Mari with a dog's understanding'"}
+      - {motif: god-stirs-up-spirit-of-enemy, refs: ["ETCSL 3.1.20 1:35-36"], note: "mar-tu kur-bi-ta {d}en-lil2 a2-taḫ-ĝu10 im-ma-zig3: Enlil my helper raises the Martu to repel Elam and seize Išbi-Erra"}
+      - {motif: governors-defect-to-rival, refs: ["ETCSL 3.1.20 1:25-28", "ETCSL 3.1.20 2:20-21"], note: "inim {d}en-lil2-la2-ta iš-bi-er3-ra i3-bal-e-eš-a"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.1.20 1:38"], note: "section 2 is a broken duplicate (lines 2:2, 2:15-17 missing)"}
+    hints:
+      - "God raising a lowly or foreign ruler: Dan 4:14 (4:17 Eng) 'he sets over it the lowliest of men'; Deut 28:43-44; 1Sam 2:7-8. God gives kingship to whom he will: Q 3:26, Q 2:247 (Saul not of royal stock). God stirring up one nation against another: Isa 13:17, Jer 51:11."
+  - id: ane-etcsl-3-1-21-aba-indasa-neglect
+    tradition: ane-sumerian
+    title: Letter from Aba-indasa to Šulgi about his neglect (a petition from disgrace)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.1.21 1-24A"]
+    tags:
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["ETCSL 3.1.21 1-5"], note: "maš2 ḫur-saĝ-ĝa2 a2 sag9-sag9-ĝu10 / anše-kur ḫur-saĝ-ĝa2 umbin ḫu-ri2-in / {ĝiš}ĝišnimbar ... zu2-lum {na4}za-gin3 la2: mountain kid, mountain horse with eagle's claws, date palm"}
+      - {motif: servant-ready-to-do-all-lord-says, refs: ["ETCSL 3.1.21 9-13"], note: "a string of 'when X is available I will Y': boat-rudder, water-plunge, wind-winnow"}
+      - {motif: scribe-boasts-of-writing-stelae, refs: ["ETCSL 3.1.21 14"], note: "dub-sar-me-en na-du3-a ab-sar-re-en"}
+      - {motif: disgraced-servant-bound-in-mourning-clothes, refs: ["ETCSL 3.1.21 16-19"], note: "ĝiš-gin7 {ĝiš}tir-ĝa2 mu-un-du3-nam mu-dur7-re im-gam-e; šu-ĝu10 eš2 im-ma-an-la2; tug2-mu-dur7-ra ba-an-mur10; saḫar igi-ĝa2"}
+      - {motif: proverbs-of-the-strong-and-the-poor, refs: ["ETCSL 3.1.21 20-23"], note: "ur-e ad6 ib2-gu7; {d}utu i3 un-gu7 ga un-gu7 {ĝiš}banšur ukur3-ra-še3 šu-ni ib2-ši-tum3 'Utu, who eats butter and cream, still touches the table of the poor'"}
+      - {motif: son-of-widow-no-one-cares, refs: ["ETCSL 3.1.21 23A-23B"], note: "1 ms.: dumu nu-mu-un-su-me-en lu2 en3 tar-re la-ba-an-tuku"}
+      - {motif: petition-for-restoration-of-kings-favour, refs: ["ETCSL 3.1.21 24-24A"], note: "ĝa2-a me-na-am3 šag4 {d}šul-gi lugal-ĝa2 ki-bi ḫa-ma-gi4-gi4"}
+    hints:
+      - "A disgraced servant asking to be remembered before the king: Gen 40:14-15, 41:9-13; bound and in sackcloth: Ps 30:12, Ps 102:10. 'No one cares for my soul': Ps 142:5. God's care for the poor at table: Ps 113:7-8, 1Sam 2:8. The widow's son: 1Kgs 17:17-24, Luke 7:12."
+  - id: ane-etcsl-3-2-01-suen-illat-martu
+    tradition: ane-sumerian
+    title: Letter from Sîn-illat to Iddin-Dagan about confronting the Martu
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.2.01 1-11"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.2.01 1-3"], note: "ra-bi-si2-ka3-tum-ma (Akk. rabi sikkatim 'general')"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 3.2.01 4-7"], note: "mar-tu ... šubtum6-ta im-zig3 'rose from their ambush'; 70 captured"}
+      - {motif: commander-requests-workmen-and-troops, refs: ["ETCSL 3.2.01 8-10"], note: "if the king orders the troops to encamp, let them take their tied leather sacks ({kuš}a-ĝa2-la2)"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.2.01 11"]}
+  - id: ane-etcsl-3-2-02-iddin-dagan-troops
+    tradition: ane-sumerian
+    title: Letter from Iddin-Dagan to Sîn-illat about the troops
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.2.02 1-19"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.2.02 1-2"]}
+      - {motif: god-awe-fills-heaven-and-earth, refs: ["ETCSL 3.2.02 6"], note: "of the king: me-lem4-ĝu10 kalam-ma ba-e-dul"}
+      - {motif: gods-escort-king-on-road, refs: ["ETCSL 3.2.02 5"], note: "the lamma, Dagan and Enlil with the troops; partly broken"}
+      - {motif: guards-check-all-who-enter-and-leave, refs: ["ETCSL 3.2.02 12-14"], note: "en-nu-uĝ3 ĝa2-ĝa2-da ... ku4-ku4 ed2-de3 kiĝ2 bar ḫa-ra-ak-ne"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.2.02 18-19"], note: "ul4-la-bi ĝa2-nam-ma 'come quickly!'; ka lul-za 'your lying mouth' (line 16, broken)"}
+  - id: ane-etcsl-3-2-03-nanna-kiang-gungunum
+    tradition: ane-sumerian
+    title: Letter from Nanna-ki-aĝ to Lipit-Eštar about Gungunum's troops
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.2.03 1-19"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.2.03 1-3"]}
+      - {motif: city-turns-to-rival-king, refs: ["ETCSL 3.2.03 4-6"], note: "e2-danna lugal-ĝu10 ba-an-da-bal; Atta-mannum brings in 600 troops of Gungunum (of Larsa)"}
+      - {motif: commander-requests-workmen-and-troops, refs: ["ETCSL 3.2.03 12-17"], note: "highland crews, bows, arrows, small boats, fishermen, leather sacks, weapons"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.2.03 18-19"]}
+  - id: ane-etcsl-3-2-04-lipit-eshtar-nanna-kiang
+    tradition: ane-sumerian
+    title: Letter from Lipit-Eštar to Nanna-ki-aĝ about driving away the enemy
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.2.04 1-17"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["ETCSL 3.2.04 1-3"]}
+      - {motif: king-rebukes-disobedient-servant, refs: ["ETCSL 3.2.04 5-7"], note: "{m}at-ta2-ma-nu-um lu2 lugal-a-ni-ir bi2-in-sag9-ge: the enemy's servant serves his lord better than you"}
+      - {motif: army-of-spearmen-archers-axemen, refs: ["ETCSL 3.2.04 8-10"], note: "2 li-mu-um erin2 lu2 {ĝiš}šukur / lu2 {ĝiš}pan / lu2 dur10-tab-ba: 2000 each of spear-throwers, archers and double-axe men (numbers vary by manuscript)"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["ETCSL 3.2.04 17"]}
+    hints:
+      - "Army divisions by weapon: 2Chr 14:7 (shield and spear from Judah, bowmen from Benjamin), 1Chr 12:2,8."
+  - id: ane-etcsl-3-2-05-sin-iddinam-utu
+    tradition: ane-sumerian
+    title: Letter-prayer from Sîn-iddinam to the god Utu about the distress of Larsa
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.2.05 1-46"]
+    tags:
+      - {motif: letter-to-a-god, refs: ["ETCSL 3.2.05 1", "ETCSL 3.2.05 10-11"], note: "{d}utu lugal-ĝu10-ur2 ... u2-na-de3-taḫ / {m}{d}suen-i-din-nam lugal larsam arad-zu na-ab-be2-a"}
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["ETCSL 3.2.05 1-10"]}
+      - {motif: sun-god-judge-of-gods, refs: ["ETCSL 3.2.05 1"], note: "di-kud maḫ an ki 'exalted judge of heaven and earth'"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 3.2.05 3-4"], note: "diĝir zid lu2 til3-le-de3 ki aĝ2 a-ra-zu ĝiš tuku / arḫuš sud"}
+      - {motif: god-loves-to-keep-humans-alive, refs: ["ETCSL 3.2.05 3"], note: "lu2 til3-le-de3 ki aĝ2"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["ETCSL 3.2.05 10"], note: "a-a saĝ gig2-ga 'father of the black-headed'; sun4 {na4}za-gin3 'lapis-lazuli beard'; opens the bolts of heaven and earth"}
+      - {motif: city-lament-young-men-harvested-like-barley, refs: ["ETCSL 3.2.05 13-19"], note: "ĝuruš-zu še ud a2-ba-gin7 ab-gur10; uĝ3-ĝa2 alan im-gin7 im-ma-an-gul-lu-uš; di4-di4-la2 ... ama-be2-ne-ta ud ḫul ba-an-da-kar"}
+      - {motif: god-like-enemy-to-own-city, refs: ["ETCSL 3.2.05 20"], note: "šul {d}utu iri-za larsam-ma lu2-kur2-gin7 bar-ta ba-da-gub"}
+      - {motif: prosperity-of-the-wicked, refs: ["ETCSL 3.2.05 21-29"], note: "Elam, Subir and the Šimaškian, who know no reverence for the gods, are not weakened; erin2-a-ni u2-gin7 lu-lu-a; namtar and asag do not approach him; lu2 mu diĝir sal-la-bi ... ugnim-bi silim-ma"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 3.2.05 26-27"], note: "of the Šimaškian: za-lam-ĝar til3-la ki diĝir-re-e-ne nu-mu-un-zu-a ... zid2 sizkur2 nu-mu-un-zu-a 'tent-dweller who does not know the places of the gods ... flour and prayers'"}
+      - {motif: pious-king-complains-gods-did-not-help, refs: ["ETCSL 3.2.05 30-33"], note: "mu 7-kam-ma (var. 5) ... ur-maḫ-e lu2 gu7-e; diĝir gal-gal-e-ne sizkur2 ud šu2-uš-e al-gub-be2-en"}
+      - {motif: prayer-god-say-alas-for-city, refs: ["ETCSL 3.2.05 34-37"], note: "igi zid bar-mu-un-ši-ib / a iri-zu dug4-ga-ba-ab / arḫuš sud larsam-ma šu te-ba-ab"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 3.2.05 45-46"], note: "ni2 teĝ3-ĝe26-ĝu10-uš nam-til3 šum2-mu-na-ab / zi su3-ud-ĝal2 niĝ2-ba-e-eš2 ba-mu-na-ab"}
+    hints:
+      - "Why do the impious foreigners prosper while the pious suffer: Jer 12:1-2, Hab 1:13-17, Ps 73:3-12, Ps 44:18-23. God became like an enemy: Lam 2:4-5. 'Look upon your city': Dan 9:18-19, Ps 74. Lions killing men in the land: 2Kgs 17:25. Young men harvested: Jer 9:21. God who desires not the death of anyone: Ezek 18:32."
+  - id: ane-etcsl-3-3-01-ur-saga-fathers-household
+    tradition: ane-sumerian
+    title: Letter from Ur-saga to a king fearing the loss of his father's household (bilingual)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.3.01 1-14"]
+    tags:
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["ETCSL 3.3.01 1-5"], note: "lugal gud igi gun3 sun4 {na4}za-gin3 la2; alan kug-sig17 ud dug3-ga tud-da 'my golden statue born on a favourable day'; water buffalo of the holy fold, chosen in Inana's heart"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 3.3.01 6"], note: "za-e dim2-ma-zu dumu an-na-me-en 'you are fashioned like a son of An'"}
+      - {motif: king-word-as-word-of-god, refs: ["ETCSL 3.3.01 7-8"], note: "dug4-ga-zu inim diĝir-ra-gin7 ḫur nu-gi4-gi4-dam (Akk. la ta-ar) / inim-zu im an-ta šeĝ3-ĝe26-gin7 šid nu-tuku-tuku-dam"}
+      - {motif: petition-to-keep-fathers-estate, refs: ["ETCSL 3.3.01 10-14"], note: "dumu urim2-ma-me-en; e2 ad-da-ĝa2 lu2 nam-ba-ab-tum3 / ki-ur3 e2 ad-da-ĝa2 lu2 nam-mu-da-an-kar-re"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 3.3.01 1", "ETCSL 3.3.01 3-4", "ETCSL 3.3.01 6-8"]}
+    hints:
+      - "Holding on to the father's inheritance against seizure: 1Kgs 21:3 (Naboth), Num 27:4, Ruth 4:5; 2Kgs 8:3-6 (woman petitions the king for her house and field). 'Let the word of my lord be like rain': Deut 32:2, 2Sam 23:4."
+  - id: ane-etcsl-3-3-21-nanna-manshum-nininsina
+    tradition: ane-sumerian
+    title: Letter-prayer from Nanna-manšum to Nininsina about his unsuccessful medical treatment
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.3.21 1-20"]
+    tags:
+      - {motif: letter-to-a-god, refs: ["ETCSL 3.3.21 1", "ETCSL 3.3.21 11-13"], note: "nin-ĝu10-ra u2-na-a-dug4 / {m}{d}nanna-ma-an-šum2 dub-sar ... arad2-zu"}
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["ETCSL 3.3.21 1-11"], note: "dumu-saĝ an kug-ga; dam ... {d}pa-bil-saĝ"}
+      - {motif: healing-goddess-with-scalpel, refs: ["ETCSL 3.3.21 5-9"], note: "ama kalam-ma a-zu gal saĝ gig2-ga šim-mu2 uĝ3 lu-a 'great physician of the black-headed, incantation-priestess'; {tug2}niĝ2-la2 sed4-de3 'soothing bandage'"}
+      - {motif: disease-demon-in-body-expelled-by-god, refs: ["ETCSL 3.3.21 8"], note: "nam-tar ... su lu2-ka ĝal2-la zig3-ga nu-ub-zu 'namtar settled in a man's body which no one knows how to expel'"}
+      - {motif: physicians-fail-sufferer-turns-to-god, refs: ["ETCSL 3.3.21 14-20"], note: "nine treatments on the head; physicians gathered from Nibru and Isin nam-til3-ĝu10 ... la-ba-an-šum2-mu-uš; {tug2}niĝ2-la2 nu-keše2-da 'a bandage that does not hold'; a fattened dove (tum12{mušen} niga) brought"}
+    hints:
+      - "Physicians who could not heal, so the sufferer turns to the divine healer: Mark 5:26 (woman who spent all on physicians), 2Chr 16:12 (Asa sought physicians, not YHWH), Jer 8:22, Job 13:4. Birds in purification of the sick: Lev 14:4-7. Q 26:80 'when I am sick, He heals me'."
+  - id: ane-etcsl-3-3-22-letter-to-nanna
+    tradition: ane-sumerian
+    title: Letter-prayer from X to the god Nanna (bilingual)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 3.3.22 1-16"]
+    tags:
+      - {motif: letter-to-a-god, refs: ["ETCSL 3.3.22 1-2", "ETCSL 3.3.22 7"], note: "u3-na-a-dug4 / u3-ne-de3-taḫ addressed to Nanna; the sender's name and request are lost after line 16"}
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["ETCSL 3.3.22 1-16"]}
+      - {motif: gracious-merciful-slow-to-anger-formula, refs: ["ETCSL 3.3.22 5-6"], note: "lugal šag4-la2 ... diĝir arḫuš sud šag4 gur-ru a-ra-zu ĝiš tuku; Akk. šar-ri-im re-me-ni-im ... i-lim re-me-ni-im ta-a-a-ri-im še-mi te-es3-li-tim 'merciful king ... merciful, relenting god who hears prayer'"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 3.3.22 1", "ETCSL 3.3.22 6"], note: "šudu3-de3 ki aĝ2 'who loves prayers'"}
+      - {motif: god-loves-to-keep-humans-alive, refs: ["ETCSL 3.3.22 4"], note: "en gal lu2 til3-til3 ki aĝ2-me-en (Akk. a-we-lam bu-lu-ṭu2 i-ra-mu)"}
+      - {motif: god-who-binds-and-looses, refs: ["ETCSL 3.3.22 5"], note: "sug4 si-il u3 du8 mu-un-zu-a (Akk. ru-ma-am u3 pa-ṭa-ra-am mu-du-u2) 'who knows how to untie and release'"}
+      - {motif: moon-god-crown-of-heaven-and-earth, refs: ["ETCSL 3.3.22 3", "ETCSL 3.3.22 8-11"], note: "men an uraš-a (Akk. a-ge-e ša-me-e u3 er-ṣe-tim); me-lem4-zu an kug-ga šu2-a"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["ETCSL 3.3.22 14"], note: "[ud e3-ta ud šu2]-uš-e za-e maḫ-me-en (Akk. i-na ṣi2-it ša-am-ši u3 e-re-eb ša-am-ši)"}
+      - {motif: god-decrees-fate-of-lands, refs: ["ETCSL 3.3.22 15-16"], note: "an šu-zu-uš mu-un-ĝar; [an ki]-bi-ta lugal-bi za-e-me-en nam-bi i3-tar-re"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 3.3.22 3-16"]}
+    hints:
+      - "Exod 34:6 (raḥum we-ḥannun) and Q 1:1-3 (al-raḥmān al-raḥīm) compare 'merciful, relenting god who hears prayer'. Ps 65:3 'you who hear prayer'. Binding and loosing: Job 12:18, Isa 58:6, Matt 16:19."
+  - id: ane-etcsl-4-02-1-bau-lamma
+    tradition: ane-sumerian
+    title: A hymn to Bau's beneficent protective goddess (Bau A), partly bilingual
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.02.1"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.02.1 A:4", "ETCSL 4.02.1 A:13", "ETCSL 4.02.1 A:26", "ETCSL 4.02.1 B:8", "ETCSL 4.02.1 C:4", "ETCSL 4.02.1 C:10", "ETCSL 4.02.1 D:7", "ETCSL 4.02.1 D:18", "ETCSL 4.02.1 D:27"], note: "refrain {d}lamma sag9-ga {d}ba-u2 mi2-bi su3-ud-še3 ga-mu-e-i-i-de3-en 'let us praise you forever'"}
+      - {motif: deity-more-beautiful-than-moon-barge, refs: ["ETCSL 4.02.1 A:11-12", "ETCSL 4.02.1 A:24-25"], note: "ma2-gur8 {d}suen sud-sud nin a-na-zu nu-zil2-zil2-i 'the barge of Suen: lady, is not yours as beautiful?'"}
+      - {motif: divine-name-sweet-in-mouth, refs: ["ETCSL 4.02.1 A:30"], note: "mu-zu gug2 i3 ga-gin7 ka-ge mu-na-ab-si-a (Akk. šum-ki ki-ma ku-uk-ki šam-ni u3 lil2-di)"}
+      - {motif: protective-goddess-gives-husband-in-place-of-father, refs: ["ETCSL 4.02.1 A:35-36"], note: "dam a-a-še3 mu-na-e-šum2 dumu a-šag4 šukur2-še3 mu-na-e-šum2: a husband in place of a father, a son in place of a field-allotment"}
+      - {motif: divine-messenger-brings-tablet-of-life, refs: ["ETCSL 4.02.1 B:2-4"], note: "sukkal-maḫ ama {d}ba-u2 zi lugal-la u3-tud / ra-gaba kug an-šag4-ta dub nam-til3-la an-ed3-de3 / im an-ta ĝiri3-a DU ḫe2-ĝal2"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 4.02.1 D:2"], note: "šudu3 inim-ma ĝiš tuku"}
+      - {motif: sun-god-of-justice, refs: ["ETCSL 4.02.1 B:1"], note: "of the lamma: munus zid {d}utu kalam-ma 'the Utu of the land'; nin niĝ2-gen6-e ki aĝ2 (D:3)"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 4.02.1 A:5-36"]}
+    hints:
+      - "A tablet of life brought from heaven compares the heavenly book of life (Exod 32:32-33, Ps 69:29, Dan 12:1) and Q 56:77-79 / 85:21-22 (the preserved tablet). A name sweet like oil: Song 1:3; sweeter than honey: Ps 19:11. God as husband and father to the widow and orphan: Ps 68:6, Isa 54:5."
+  - id: ane-etcsl-4-05-1-enlil-a-ekur-nibru
+    tradition: ane-sumerian
+    title: Enlil in the E-kur (Enlil A), part 1, Enlil's word and his city Nibru
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.05.1 1-83"]
+    tags:
+      - {motif: word-of-high-god-unchangeable, refs: ["ETCSL 4.05.1 1-2"], note: "niĝ2 nu-kur2-ru ka-ta e3-a-ni nam ul-še3 tar-re"}
+      - {motif: all-gods-bow-to-yhwh, refs: ["ETCSL 4.05.1 7-9"], note: "here of Enlil: diĝir ki ni2-ba mu-un-na-gam-e-eš; the Anuna enter and obey"}
+      - {motif: navel-of-the-earth, refs: ["ETCSL 4.05.1 13", "ETCSL 4.05.1 68"], note: "nibru uz3-saĝ maḫ an ki-ka; dur-an-ki 'bond of heaven and earth' in the middle of the four quarters (ub-da 4-ba murub4-ba)"}
+      - {motif: holy-city-intolerant-of-evil, refs: ["ETCSL 4.05.1 14-25"], note: "list of niĝ2-gig not tolerated in the city: slander, hostile speech, arrogance, boasting ..."}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 4.05.1 17", "ETCSL 4.05.1 26-28"], note: "nibru a2-bi sa-par3 gal-la-am3 ... lu2-erim2 lu2 ḫul-ĝal2 šu-bi la-ba-ra-e3; the ḫurin eagle spreads its talons"}
+      - {motif: honour-elders-mother-older-brother, refs: ["ETCSL 4.05.1 32-34"], note: "šeš-gal šeš-ban3-da dugud-de3-da; inim ab-ba-še3 ĝizzal ak-de3; dumu ama-ni-ir sun5-na ... nam-ab-ba sud-de3"}
+      - {motif: honor-parents-long-life, refs: ["ETCSL 4.05.1 34"], note: "the child humble to his mother 'attains old age' (nam-ab-ba sud-de3)"}
+      - {motif: temple-interior-like-boundless-sea, refs: ["ETCSL 4.05.1 43-44"], note: "me-bi me abzu lu2 igi nu-bar-re-de3 / šag4-bi ab su3-ra2 an-zag nu-zu-a"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["ETCSL 4.05.1 25", "ETCSL 4.05.1 55"], note: "šu gid2 igi-tum3 la2 šu sumur niĝ2-gig-ga: greed and grasping are abominations in Enlil's temple"}
+      - {motif: temple-priests-perfect-in-rites, refs: ["ETCSL 4.05.1 56-59"], note: "lagar, abzu gudug and nueš priests expert in blessing, lustration and holy prayers"}
+      - {motif: king-as-farmer-of-god, refs: ["ETCSL 4.05.1 60-64"], note: "engar maḫ-bi sipad zid kalam-ma / ud dug3-ga zid-de3-eš tu-ud-da-am3"}
+      - {motif: tower-reaching-heaven, refs: ["ETCSL 4.05.1 78-80"], note: "of the E-kur: ni2 me-lem4-bi an-ne2 im-us2 / ĝissu-bi kur-kur-ra ša-mu-un-la2 / suḫ10-bi an-šag4-ga-aš 'its crenellation reaches the midst of heaven'"}
+      - {motif: kings-bring-tribute-to-temple, refs: ["ETCSL 4.05.1 81-83"], note: "en-en-e barag-barag-ge2-ne nidba kug-ge si mu-ni-in-sa2-eš"}
+    hints:
+      - "Jerusalem/Zion as the navel and center of the earth: Ezek 5:5, 38:12; Ps 48:2-3. Who may dwell on God's holy mountain (no slander, no evil): Ps 15, Ps 101:5-8, Isa 33:14-16. Honour parents for long life: Exod 20:12, Deut 5:16; Q 17:23-24. Kings bringing gifts to the temple: Ps 68:30, 72:10-11, Isa 60:3-11. Tower with top in heaven: Gen 11:4."
+  - id: ane-etcsl-4-05-1-enlil-a-shepherd-and-word
+    tradition: ane-sumerian
+    title: Enlil in the E-kur (Enlil A), part 2, the shepherd, the 'without Enlil' litany, Enlil's word and Ninlil
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.05.1 84-171"]
+    tags:
+      - {motif: foreign-lands-placed-under-kings-feet, refs: ["ETCSL 4.05.1 84-87"], note: "{d}en-lil2 sipad igi zid bar-ra-zu ... kur šu-ni-še3 kur ĝiri3-ni-še3"}
+      - {motif: tribute-of-nomads-and-distant-lands, refs: ["ETCSL 4.05.1 88-90"], note: "maš2-da-ri-a gu2-un dugud-da-bi ... e2 niĝ2-gur11-ra-ka 'heavy tribute like cool water to the treasury'"}
+      - {motif: deity-spans-sky-like-rainbow, refs: ["ETCSL 4.05.1 97-99"], note: "{d}tir-an-na-gin7 an-e ši-in-gi4 / dungu dirig-ga-gin7"}
+      - {motif: no-one-can-look-on-gods-face, refs: ["ETCSL 4.05.1 103", "ETCSL 4.05.1 138"], note: "diĝir na-me igi nu-mu-ni-in-du8; muš3-za diĝir igi nu-bar-re-dam"}
+      - {motif: divine-minister-ushers-king-before-god, refs: ["ETCSL 4.05.1 104-108"], note: "Nuska the sukkal-maḫ learns Enlil's commands and executes them"}
+      - {motif: without-god-nothing-exists-litany, refs: ["ETCSL 4.05.1 109-130"], note: "kur gal {d}en-lil2-da nu-me-a: no city built, no pen, no king raised, no en born, no extispicy, no fish spawning, no bird nesting, no rain, no grain, no calving; even Nintur would not kill"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["ETCSL 4.05.1 131-136"], note: "šag4-bi gu suḫ3-a si nu-sa2-e-dam / gu-gu gilim-ma igi nu-pad3-de3-dam ... šag4 kuš2-u3 ad gi4-gi4 en ni2-te-na-me-en / niĝ2 ak-zu a-ba i3-zu-zu"}
+      - {motif: sun-god-judge-of-gods, refs: ["ETCSL 4.05.1 139-140"], note: "of Enlil: en diĝir lugal ... di-kud ka-aš bar an ki-me-en"}
+      - {motif: gods-word-is-abundance-of-heaven-and-earth, refs: ["ETCSL 4.05.1 141-153"], note: "inim maḫ-zu an-gin7 dugud-da ... an-ta ḫe2-ĝal2 im-da-šeĝ3-šeĝ3 ... inim-zu gu-am3 inim-zu še-am3 'your word is flax, your word is grain'"}
+      - {motif: god-as-shepherd-of-all-creatures, refs: ["ETCSL 4.05.1 93-94", "ETCSL 4.05.1 154"], note: "sipad zid teš2-ba lu-a / na-gada mas-su niĝ2-zi-ĝal2-la-ka"}
+      - {motif: goddess-decides-destinies-with-husband, refs: ["ETCSL 4.05.1 156-166"], note: "Ninlil sits on the throne with him, takes counsel; nam tar-re ki {d}utu e3-a 'they decide the fates at the place of sunrise'; her words like fine oil for the heart"}
+      - {motif: word-of-high-god-unchangeable, refs: ["ETCSL 4.05.1 167-170"]}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.05.1 171"], note: "kur gal a-a {d}en-lil2 za3-mi2-zu maḫ-am3"}
+    hints:
+      - "'Unless YHWH builds the house ...': Ps 127:1; all creation depends on God: Ps 104:27-30, John 1:3. 'Who has directed the spirit of YHWH, or as his counsellor taught him?': Isa 40:13-14, Job 11:7-9, Rom 11:33-34. No one can see God's face and live: Exod 33:20. God's word like rain that does not return empty: Isa 55:10-11. God as shepherd of all: Ps 23, Ps 80:2."
+  - id: ane-etcsl-4-07-1-inana-a-balbale
+    tradition: ane-sumerian
+    title: A balbale to Inana (Inana A)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.1 1-24"]
+    tags:
+      - {motif: war-goddess-clad-in-terror, refs: ["ETCSL 4.07.1 1-2", "ETCSL 4.07.1 4"], note: "ud ḫuš gal; {d}inana me3-a ni2 me-lem4 gur3-ru; su piriĝ sa piriĝ-ĝa2 ši-im-ma-zi-zi-de3-en 'you raise a lion's body and lion's sinews'"}
+      - {motif: goddess-as-great-judge, refs: ["ETCSL 4.07.1 16-19"], note: "ka-aš maḫ unken-na ša-mu-un-bar-re-en; ĝiš-nu11-gin7 an-ta ... zid-du ša-mu-un-ni-DU erim2-du ša-mu-ni-dab5 'like a light from heaven in the assembly you guide the righteous and seize the wicked'"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 4.07.1 13-15", "ETCSL 4.07.1 22-23"], note: "an lugal-da me ba-a-me-en; Enlil gave you your fierce face (igi-zu ḫuš-am3 saĝ-ki-zu dugud-dam)"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 4.07.1 24"], note: "rubric bal-bal-e {d}inana-kam"}
+    hints:
+      - "God judging in the divine assembly: Ps 82:1; the light that separates righteous and wicked: Mal 3:18-20, Ps 1:5-6."
+  - id: ane-etcsl-4-07-2-inana-b-exaltation
+    tradition: ane-sumerian
+    title: The exaltation of Inana (Inana B, nin-me-šar-ra), part 1, the goddess of all the divine powers
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.2 1-65"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.07.2 1", "ETCSL 4.07.2 5-8"], note: "nin me šar2-ra; me 7-bi šu sa2 dug4-ga; me mu-e-il2 me šu-zu-še3 mu-e-la2 / me mu-e-ur4 me gaba-za bi2-tab"}
+      - {motif: god-pours-spittle-on-rebel-land, refs: ["ETCSL 4.07.2 9"], note: "ušumgal-gin7 kur-re uš11 ba-e-šum2 'like a dragon you deposit venom on the foreign land'"}
+      - {motif: goddess-as-raging-storm-and-lion, refs: ["ETCSL 4.07.2 10-13", "ETCSL 4.07.2 28-32"], note: "{d}iškur-gin7 ki šegx gi4-a-za {d}ezina2 la-ba-e-ši-ĝal2; a-ma-ru 'flood'; izi bar7-bar7-ra kalam-e šeĝ3-ĝa2 'raining blazing fire on the land'; ĝiri3-za nu-kuš2-u3"}
+      - {motif: goddess-rides-lion, refs: ["ETCSL 4.07.2 14"], note: "nin ur-ra u5-a"}
+      - {motif: gods-flee-like-birds-hide-like-mice, refs: ["ETCSL 4.07.2 34-37"], note: "{d}a-nun-na ... su-din{mušen} dal-la-gin7 du6-de3 mu-e-ši-ib-ra-aš 'fly to the ruin mounds like bats'"}
+      - {motif: goddess-wrath-like-sea-flood, refs: ["ETCSL 4.07.2 38-41"], note: "šag4 ib2-ba-za a-ba ib2-te-en-te-en ... ib2-ba nu-te-en-te-en dumu gal {d}suen-na"}
+      - {motif: mountain-refuses-homage-to-deity, refs: ["ETCSL 4.07.2 42-57"], note: "the city that has not said 'the land is yours': its vegetation ruined, gates burned, id2-ba uš2 ma-ra-an-de2 uĝ3-bi ma-ra-na8-na8 'blood poured into its rivers and its people drink it'; troops led captive; the wife no longer confides in her husband at night"}
+      - {motif: river-turned-to-blood, refs: ["ETCSL 4.07.2 45"], note: "id2-ba uš2 ma-ra-an-de2; variant 'could not drink'"}
+      - {motif: goddess-greater-than-mountains-like-an-and-enlil, refs: ["ETCSL 4.07.2 59", "ETCSL 4.07.2 61"], note: "nin an-ra dirig-ga 'lady greater than An'; ama ugu-ni-ir dirig-ga 'greater than her own mother'"}
+      - {motif: hymn-words-composed-by-god, refs: ["ETCSL 4.07.2 63-65"], note: "here the singer: šir3 kug-zu ga-am3-dug4; me-zu ga-mu-ra-ab-dug4 'I will recite your holy song, enumerate your powers'; tag tentative"}
+    hints:
+      - "Rivers turned to blood so the people cannot drink: Exod 7:17-21, Ps 78:44, Rev 16:4; Q 7:133 (blood among the signs on Pharaoh's people). The deity whose wrath none can withstand: Nah 1:6, Ps 76:8. Fire raining on the land: Gen 19:24, Ps 11:6."
+  - id: ane-etcsl-4-07-2-inana-b-enheduana-exile
+    tradition: ane-sumerian
+    title: The exaltation of Inana (Inana B), part 2, En-ḫedu-ana's expulsion, plea and vindication
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.2 66-154"]
+    tags:
+      - {motif: enheduana-high-priestess-named, refs: ["ETCSL 4.07.2 66-67", "ETCSL 4.07.2 81"], note: "en-me-en en-ḫe2-du7-an-na-me-en"}
+      - {motif: en-priestess-in-gipar, refs: ["ETCSL 4.07.2 66-69"], note: "ĝi6-par3 kug-ĝa2 ḫu-mu-ši-in-kur9-re-en; funeral offerings brought 'as if I had never lived there' (ĝe26-e nu-mu-un-til3-le-en)"}
+      - {motif: light-scorches-shade-becomes-storm, refs: ["ETCSL 4.07.2 70-73"], note: "ud-de3 ba-te ud mu-da-bil2 / ĝissu ne ba-te u18-lu-da im-mi-dul / ka lal3-ĝu10 šu uḫ3-a ba-ab-dug4 'my honeyed mouth became scum'"}
+      - {motif: king-desecrates-gods-own-temple, refs: ["ETCSL 4.07.2 85-90"], note: "Lugal-Ane: šu-luḫ an kug-ga-ke4 niĝ2-nam-ma-ni in-kur2 / an-da e2-an-na ḫa-ba-da-an-kar ... e2-bi e2 ḫul-a ... kur9; ninim 'envy'"}
+      - {motif: tears-accepted-as-offering, refs: ["ETCSL 4.07.2 82-83"], note: "er2-ĝa2 kaš dug3-ga-gin7 kug {d}inana-ra šu ga-mu-ni-ri-bar 'I give free vent to my tears like sweet beer'"}
+      - {motif: imprecatory-prayer-against-enemies, refs: ["ETCSL 4.07.2 91-98"], note: "lu2 ḫu-mu-sar-re-en lu2 ḫe2-em-mi-dab5-be2-en; iri-bi an-ne2 ḫa-ba-ra-an-si-il-le / {d}en-lil2-le nam ḫa-ba-da-an-kud-de3 / dumu er2 pad3-da-bi ama-ni na-an-sed4-e 'may its weeping child not be soothed by its mother'"}
+      - {motif: priestess-driven-from-temple-into-wilderness, refs: ["ETCSL 4.07.2 99-108"], note: "u3-ma gub-gub-ba e2-ta ba-ra-an-e3-en / sim{mušen}-gin7 ab-ta ba-ra-an-dal-en ... {ĝiš}kiši16 kur-ra-ke4 bi2-in-du-e-en / aga zid nam-en-na mu-da-an-kar / ĝiri2 ba-da-ra ma-an-šum2 a-ra-ab-du7 'dagger and sword: these suit you'"}
+      - {motif: god-does-not-decide-sufferers-case, refs: ["ETCSL 4.07.2 100-103", "ETCSL 4.07.2 122"], note: "{d}nanna-ĝu10 en3-ĝu10 ba-ra-an-tar ... {d}aš-im2-babbar-e di-ĝu10 ba-ra-bi2-in-dug4: Nanna has not decided my case"}
+      - {motif: petitioner-protests-innocence, refs: ["ETCSL 4.07.2 117-119"], note: "ĝiš-nu2 gi-rin-na šu nu-um-mi-la2 / inim dug4-ga {d}nin-gal lu2-ra nu-mu-na-bur2: I did not touch the flowered bed, did not reveal Ningal's words"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["ETCSL 4.07.2 113", "ETCSL 4.07.2 116"], note: "{d}a-nun-na-ke4-ne nundum-nundum-bi-ta ki su-ub ma-ra-ak-ke4-ne 'the Anuna kiss the ground with their lips before you'"}
+      - {motif: be-it-known-refrain, refs: ["ETCSL 4.07.2 122-134"], note: "ḫe2-zu-am3 x 11: an-gin7 maḫ-a-za ... ur-gin7 ad6 gu7-u3-za ḫe2-zu-am3 'be it known that you devour corpses like a dog'"}
+      - {motif: hymn-sung-by-night-repeated-at-noon, refs: ["ETCSL 4.07.2 137-141"], note: "ne-mur mu-dub šu-luḫ si bi2-sa2 'I heaped up coals in the censer'; niĝ2 ĝi6 u3-na ma-ra-an-dug4-ga-am3 / gala-e an-bar7-ka šu ḫu-mu-ra-ab-gi4-gi4"}
+      - {motif: deity-accepts-offering-and-is-appeased, refs: ["ETCSL 4.07.2 144-151"], note: "sizkur2-ra-na šu ba-an-ši-in-ti / šag4 kug {d}inana ki-bi ba-an-na-ab-gi4; iti6 e3-a-gin7 la-la ba-an-guru3; Ningal blesses her; the door posts greet her"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.07.2 154"], note: "nin-ĝu10 ḫi-li gu2 e3 {d}inana za3-mi2"}
+    hints:
+      - "A priestly author expelled, wandering in the thorns, pleading for vindication: compare the laments of Jeremiah (Jer 20:7-18) and Ps 42-43 (driven from the temple), Ps 55:7-8 ('oh that I had wings like a dove, I would fly away'). Weeping child not comforted: Jer 31:15. Protestation of innocence: Job 31, Ps 7:4-6. Tears as offering: Ps 56:9, Ps 126:5. Imprecation on the city of the enemy: Ps 137:7-9."
+  - id: ane-etcsl-4-07-3-inana-c-terror
+    tradition: ane-sumerian
+    title: A hymn to Inana (Inana C, in-nin šag4-gur4-ra), part 1, the terror of the goddess
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.3 1-114"]
+    tags:
+      - {motif: goddess-greater-than-mountains-like-an-and-enlil, refs: ["ETCSL 4.07.3 1-4", "ETCSL 4.07.3 96-98"], note: "an gal-da zag ša4; an-da {d}en-lil2-da mu-e-da-sa2 zag gal-bi mu-e-dur2-ru-e"}
+      - {motif: goddess-indispensable-to-divine-decisions, refs: ["ETCSL 4.07.3 14", "ETCSL 4.07.3 114"], note: "{d}inana e-ne-da nu-me-a an gal ka-aš nu-um-bar {d}en-lil2 nam nu-un-tar; za-e-da nu-me-a nam-nam-ma nu-un-tar"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["ETCSL 4.07.3 6-7", "ETCSL 4.07.3 69-70"], note: "in-di3-bi an nu-zu-zu; niĝ2 ak-ak-da-ni ab-ši-kur2-ru ĝar-bi niĝ2 nu-zu; ĝalga suḫ3 pu-uḫ3-ru-um diĝir gal-gal-e-ne ĝar-bi niĝ2 nu-zu"}
+      - {motif: gods-flee-in-terror, refs: ["ETCSL 4.07.3 11-13"], note: "{d}a-nun-na gi dili-gin7 saĝ mu-da-ab-sag3-sag3-ge-ne / dum-dam za-ni-še3 kilib3-ba-bi a2-ur2 mu-un-dab5-be2-e-ne"}
+      - {motif: war-goddess-clad-in-terror, refs: ["ETCSL 4.07.3 18-29"], note: "battle is her game; dalḫamun whirlwind garment; {d}inana piriĝ gi-il-gi-il-la dur2-ru; nemur ḫur-saĝ-ĝa2; am gal"}
+      - {motif: goddess-rides-lion, refs: ["ETCSL 4.07.3 23", "ETCSL 4.07.3 105"], note: "ur gal-gal 7-bi ba-e-u5 an-na ba-e-ed2-de3 'you ride seven great beasts as you come forth from heaven'"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 4.07.3 27", "ETCSL 4.07.3 31", "ETCSL 4.07.3 65-66", "ETCSL 4.07.3 85"], note: "sa la2-a-ni engur-ra ku6 ab-dab5-dab5-be2 ... mušen-du3 kug-zu-gin7 ... mušen nu-e3; ḫu-ri2-in{mušen} lu2 šu nu-bar-re"}
+      - {motif: food-and-milk-of-death, refs: ["ETCSL 4.07.3 39-43"], note: "er2 u2 ga nam-uš2-a ... lu2 gu7-bi nu-til-le / ze2 mu-un-tab2-tab2-be2; šir3 nam-uš2-a edin-na mu-un-ĝa2-ĝa2 'she sings the song of death on the plain'"}
+      - {motif: warrior-washes-blood-after-battle, refs: ["ETCSL 4.07.3 45-48"], note: "inverted: {ĝiš}tukul-bi uš2 lugud mu-un-tu5-tu5 'she washes their weapons in blood and gore'; blood poured on their first offerings"}
+      - {motif: goddess-turns-light-to-darkness, refs: ["ETCSL 4.07.3 49"], note: "ud zalag ku10-ku10 an-bar7 mul-sig7-še3 'darkening bright day, turning midday into (star-lit) night'"}
+      - {motif: goddess-reverses-gender-roles, refs: ["ETCSL 4.07.3 80-90"], note: "{ĝiš}šukur i-ni-kud nitaḫ-gin7 šag4-ga-ni {ĝiš}tukul an-na-ab-šum2-mu; pilipili, kurĝara, saĝursaĝ cult personnel; the woman given a spear"}
+      - {motif: high-god-yields-powers-to-goddess, refs: ["ETCSL 4.07.3 106-108"], note: "an gal-e muš3-za ni2 bi2-te ki-tuš-zu im-mi-ḫu-luḫ ... ĝarza2 maḫ ĝarza gal-gal šu-zu ga-mu-un-si 'Great An feared your dwelling ... I will hand over to you the august rites'"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["ETCSL 4.07.3 104", "ETCSL 4.07.3 109"], note: "diĝir gal-e-ne giri17 ki-a bi2-in-su-ub-bu-uš šu-kin mu-un-dab5-be2-eš"}
+      - {motif: mountain-refuses-homage-to-deity, refs: ["ETCSL 4.07.3 110-112"], note: "ebiḫ giri17 ki-še3 nu-mu-ra-an-te ... gu3-an-ne2-si-gin7 ib2-ba si-il-la-za ud-gin7 ib2-ra-ra"}
+    hints:
+      - "The day turned to darkness at noon: Amos 8:9, Joel 2:10, Jer 15:9. God's net that none escapes: Ezek 12:13, 17:20, Hos 7:12. A deity whose plans the gods cannot know: Isa 40:13-14, 55:8-9. The cup of poison/wrath given to drink: Jer 25:15-16, Ps 75:9; gall to eat: Jer 9:14."
+  - id: ane-etcsl-4-07-3-inana-c-yours-litany
+    tradition: ane-sumerian
+    title: A hymn to Inana (Inana C), part 2, the 'are yours, Inana' litany and the goddess's sovereignty
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.3 115-218"]
+    tags:
+      - {motif: catalogue-of-divine-powers-me, refs: ["ETCSL 4.07.3 115-172"], note: "refrain {d}inana za-a-kam 'are yours, Inana': running, escaping, opening roads, wealth and loss, choice, offering, inspection, protective deities, cult centres, slander, terror, gathering the dispersed ... (lines 143-154 missing)"}
+      - {motif: uproot-and-plant-commission, refs: ["ETCSL 4.07.3 119"], note: "gul-lu dim2-me zi-zi ĝa2-ĝa2 {d}inana za-a-kam: 'to destroy, to build, to tear out and to settle are yours'; said of the goddess, not of a prophet"}
+      - {motif: goddess-reverses-gender-roles, refs: ["ETCSL 4.07.3 120"], note: "nitaḫ munus-ra munus nitaḫ-ra ku4-ku4-de3 {d}inana za-kam"}
+      - {motif: god-humbles-one-exalts-another, refs: ["ETCSL 4.07.3 140-141", "ETCSL 4.07.3 155"], note: "ḫu-ru kalag-ga lu2-gam-ma lu2-sig-ga ḫi-ḫi; il2-la2 du5-la2 saĝ il2-la2 ib2-ba-lal ḫi-ḫi; tur maḫ sig daĝal"}
+      - {motif: most-high-gives-kingdom-to-lowliest, refs: ["ETCSL 4.07.3 142"], note: "aga {ĝiš}gu-za {ĝiš}ĝidru nam-lugal šum2-mu {d}inana za-kam"}
+      - {motif: deity-gathers-dispersed-people, refs: ["ETCSL 4.07.3 170"], note: "uĝ3 [sag2 dug4-ga] gu2 ĝar-ĝar ki-bi-še3 gi4-gi4 'to gather the scattered people and restore them to their place'; partly restored"}
+      - {motif: goddess-turns-light-to-darkness, refs: ["ETCSL 4.07.3 177"], note: "igi suḫ-a-zu dadag-ga ku10-ku10 an-bar7 mul-sig7-še3"}
+      - {motif: goddess-as-great-judge, refs: ["ETCSL 4.07.3 180"], note: "{d}inana e2-gal kadra nu-di-kud 'the judge who takes no bribe (gift) in the palace'"}
+      - {motif: gods-say-so-be-it-to-kings-destiny, refs: ["ETCSL 4.07.3 202-208"], note: "here the goddess's own ḫe2-am3: ḫe2-am3-zu ḫe2-am3 gul-lu; eš-bar ... an ki-ta nu-kur2-ru; ki ḫe2-am3 bi2-in-dug4 gul-lu nu-DI"}
+      - {motif: word-of-high-god-unchangeable, refs: ["ETCSL 4.07.3 198-206"]}
+      - {motif: deity-inspects-land-to-tell-just-from-wicked, refs: ["ETCSL 4.07.3 210-212"], note: "izi-ĝar-zu ub an-na zalag-ge; nitaḫ munus-bi gu dili-a mi-ri-ed2-de3 ... {d}utu-gin7 igi-zu-še3 i3-dib-be2: men and women pass before you in a row for inspection"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 4.07.3 217-218"], note: "of the goddess: diĝir a-ba za-gin7 ur4 an ki ur4-ur4 'which god is like you?'"}
+    hints:
+      - "'A time to tear down and a time to build up, to plant and to uproot': Eccl 3:2-8; Jer 1:10. 'YHWH makes poor and makes rich, brings low and lifts up': 1Sam 2:6-8, Ps 75:8, Luke 1:52; Q 3:26 ('You give kingship to whom You will ... You honour whom You will and humble whom You will'). God judges without bribe: Deut 10:17. Gathering the dispersed: Deut 30:3-4, Isa 11:12. Passing under the shepherd's inspection: Ezek 20:37, Jer 33:13. 'Who is like you among the gods?': Exod 15:11."
+  - id: ane-etcsl-4-07-3-inana-c-enheduana-prayer
+    tradition: ane-sumerian
+    title: A hymn to Inana (Inana C), part 3, En-ḫedu-ana's closing prayer
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.3 219-274"]
+    tags:
+      - {motif: enheduana-high-priestess-named, refs: ["ETCSL 4.07.3 219-220"], note: "en-ḫe2-du7-an-na-me-<en> zirru ... {d}nanna-me-en; lines 221-242 mostly missing"}
+      - {motif: penitent-feels-gods-punishment-in-body, refs: ["ETCSL 4.07.3 250-251"], note: "šer7-da gu-la-zu su-ĝu10 ba-e-zu-zu / a-nir niĝ2 gig-ga igi ma-lib 'bitter lament keeps me sleepless'"}
+      - {motif: gracious-merciful-slow-to-anger-formula, refs: ["ETCSL 4.07.3 245", "ETCSL 4.07.3 252"], note: "arḫuš šag4-ne-ša4 igi bar-bar šag4 gur-ru giri17 šu ĝal2 za-a-kam 'mercy, compassion, care, relenting and homage are yours'"}
+      - {motif: throne-and-bed-speak-to-returning-god, refs: ["ETCSL 4.07.3 258-262"], note: "an gal ... muš3-am3-zu ḫe2-eb-be2 'may An say: enough!'; ki-tuš ... tuš-a ḫu-mu-ra-ab-be2 / ki-nu2 kug-ga-zu ni2 dub2-bu ḫu-mu-ra-ab-be2"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 4.07.3 256-257"], note: "za-e nam-diĝir-zu a-ba e-da-sa2"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.07.3 274"], note: "ki-sikil {d}inana za3-mi2-zu dug3-ga-am3"}
+    hints:
+      - "'Enough! Stay your hand' said to the destroying angel: 2Sam 24:16; God relenting: Joel 2:13, Jon 4:2. 'Your hand was heavy on me ... my body wasted': Ps 32:3-4, 38:2-4. 'Arise, YHWH, to your resting place': Ps 132:8, Num 10:36."

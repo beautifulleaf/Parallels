@@ -43,6 +43,57 @@ new_motifs:
   god-raises-people-from-below-to-above: {label: "A deity makes people go up from below to above and makes peoples change their place", cluster: theology}
   king-and-goddess-jointly-charged-with-temple-cult: {label: "The high gods jointly entrust the king and his divine spouse with building temples and supplying daily offerings and drink", cluster: cult}
   divine-minister-speaks-for-king-before-god: {label: "The chief god's minister (Nuska) is asked to bring good words for the king before the high god and his consort at their festival", cluster: kingship}
+  holy-city-built-as-food-of-gods: {label: "The holy city was built as the life-giving food of the gods, beautified for their eating and drinking, a sheepfold for their life", cluster: temple}
+  gods-look-to-high-gods-as-parents: {label: "The lesser gods gaze at the high god and his consort as at their own father and mother and heed their holy words", cluster: theology}
+  god-creates-seed-of-mankind-and-teaches-practices: {label: "The wise god makes the seed of mankind come forth, decrees their good destiny and teaches them the proper practices and rites", cluster: creation}
+  god-distributes-sceptres-and-crowns: {label: "A god assigns the sceptres and distributes the crowns to the gods (or kings) and proclaims their names", cluster: kingship}
+  god-feeds-people-as-father-and-mother: {label: "The god is lord and father of the settled people and shepherd who seeks food for the nomads, speaking to them like a father and mother and satisfying them with food and drink", cluster: theology}
+  king-handsome-in-body-praised: {label: "The king praises his own beauty: strong muscular youth, beautiful eyes and lips, fine fingers, a lapis-lazuli beard", cluster: kingship}
+  king-as-farmer-shepherd-fisher-of-land: {label: "The king calls himself the farmer heaping grain, the shepherd making butter and milk abundant, the one who makes fish and birds grow, a river of plenty", cluster: kingship}
+  king-as-cool-waterskin-for-soldiers: {label: "The king is life for the young men like a waterskin of cool water, and a shield and screen for the army", cluster: kingship}
+  king-judges-carefully-without-haste: {label: "The king judges without haste, searching out the background of each case and weighing his words fairly; he never destroys a just man", cluster: law}
+  king-human-god: {label: "The deified king calls himself 'a human god' (diĝir nam-lu2-ulu3)", cluster: kingship}
+  writing-goddess-guides-kings-hand: {label: "The goddess of writing (Nisaba) guides the king's fingers on the clay, adorns him with a golden stylus and gives him the measuring rod and line", cluster: wisdom}
+  king-discerns-true-and-false-in-thoughts: {label: "The just king recognises truth and falsehood even in people's thoughts when deciding cases", cluster: law}
+  king-commutes-death-sentence: {label: "The king knows how to save a man by commuting his death sentence, freeing him from severe punishment", cluster: law}
+  scribal-school-praises-king-forever: {label: "The king's praise is to be spoken by the tablets and scribes of the tablet-house (e2-dub-ba-a) without ceasing", cluster: wisdom}
+  god-chooses-king-in-overflowing-heart-and-blesses: {label: "In the overflowing of his heart the sky god chooses the king and pronounces a direct blessing on him: radiance, rule over far lands, concord", cluster: kingship}
+  mother-goddess-suckles-warrior-god: {label: "The mother goddess suckles the young warrior god at her sweet breasts with the milk of vigour and makes his limbs massive", cluster: myth}
+  mother-presents-son-to-father-for-fate: {label: "The mother leads her son by the right wrist before his father in the temple and asks him to decree a great fate for 'your avenging son'", cluster: myth}
+  weapon-snaps-enemies-like-reeds: {label: "The god puts into the king's hand a weapon that snaps his enemies like reeds", cluster: warfare}
+  goddess-petitions-high-god-dialogue-for-king: {label: "In dialogue form, the high god tells a goddess the king will be her provider; she answers humbly and asks him to decree the king's fate; he blesses the king", cluster: kingship}
+  enemies-gathered-like-swallows-spread-like-sheaves: {label: "The warrior god will collect the king's enemies like swallows and spread them out like sheaves", cluster: warfare}
+  god-commissioned-to-open-rivers-and-send-rain: {label: "The high god commissions a god to open the mouths of the Tigris and Euphrates, make the clouds rain on the fields, make grain rise in the furrow and orchards grow like forests", cluster: cosmology}
+  god-creates-and-keeps-mankind-alive: {label: "To create mankind and to keep them alive is in the power of the god seated on the dais of destinies", cluster: creation}
+  goddess-equal-in-rank-with-an: {label: "The goddess has equal rank with the sky god An and decides destinies with him; her word is as firm as Enlil's", cluster: theology}
+  god-declares-himself-sole-holder-of-powers: {label: "The sky god speaks: 'I am the only one among the gods with the great divine powers; my utterance shall never be altered'", cluster: theology}
+  king-told-to-trust-in-gods-name: {label: "The god tells the king to whom he has given power to trust in the god's name", cluster: kingship}
+  storm-god-sends-winds-in-succession-for-harvest: {label: "The storm god sends a first, second, third and fourth wind or cloud, and grain stands in the fields for the king", cluster: cosmology}
+  god-promises-king-days-like-sun: {label: "The god promises to make the king's days as numerous as the sun god's", cluster: kingship}
+  name-placed-on-tablet-of-life: {label: "The goddess of writing places the king's name on the 'tablet of life' (im nam-til3-la)", cluster: cosmology}
+  king-pardons-sin-and-heals: {label: "The king knows how to undo sin and its illness and does not put transgressors to death", cluster: law}
+  rival-kings-make-peace-and-bring-gifts: {label: "All rulers become allies of the king; they bring oxen, sheep, gold and gems into his palace and kiss the ground before him", cluster: kingship}
+  moon-god-shines-day-and-night: {label: "The moon god comes forth on high and shines like bright sunlight at noon and in the night", cluster: cosmology}
+  king-to-gather-scattered-people-and-restore-city: {label: "Prayer that the king bring back the scattered people of the land and restore the god's city to its place", cluster: kingship}
+  first-fruits-brought-by-boat-to-gods: {label: "The king ships choice grain, flour and gold as new-year first-fruit offerings by boat to the moon god's quay and on to the high god", cluster: cult}
+  son-god-prays-father-for-king: {label: "A god brings the king's offerings to his father, the high god, and asks him to decree an eternal destiny and long life for the king", cluster: kingship}
+  god-destiny-decreed-in-womb: {label: "A god's favourable destiny was decreed while he was still in the womb; he is born amid plenty in the holy mountains", cluster: theology}
+  god-with-lion-face-and-eagle-claws: {label: "A warrior god has the face of a lion, the muzzle of a dragon and the claws of an eagle grasping the wicked", cluster: theology}
+  king-restores-abandoned-cities-and-canals: {label: "By the high god's command the king makes the forgotten plan of a city visible, resettles abandoned cities and dredges canals and ditches so water never fails", cluster: kingship}
+  scribe-god-keeps-tablets-of-destiny: {label: "A scribal god holds the great tablets, keeps count of every assignment and covers the great tablets of destiny with writing with a holy stylus", cluster: cosmology}
+  opening-of-the-mouth-for-gods: {label: "A craftsman god performs the 'opening of the mouth' (ka du8) for the gods in heaven and the underworld", cluster: cult}
+  kings-years-marked-on-tablet-of-life: {label: "Prayer that the god mark the years of the king's long reign on the tablet of life, unalterable forever", cluster: cosmology}
+  gate-gods-greet-king-entering-city: {label: "The protective gods of peace who guard the city's Great Gate open the doors, rejoice at the king, carry his greeting to the gods and stand at his right and left", cluster: cult}
+  right-and-justice-as-helper-gods: {label: "Right (Niĝ-zid) and Justice (Niĝ-si-sa), personified as deities, are to be the king's helpers", cluster: law}
+  gate-gods-named-in-litany: {label: "Named minor gods of a city gate are invoked one by one in a litany, each line beginning with the gate's name", cluster: cult}
+  favourable-signs-set-before-king: {label: "Gods are asked to set favourable signs and encouraging words before the king and make his feet stand in holy places of life", cluster: cult}
+  catalogue-of-offerings-drink-and-dairy: {label: "The king's offerings are listed one by one: milk and grain, liquor, wine, emmer beer, double-strength beer, mountain honey, butter, ghee, pressed oil, cream", cluster: cult}
+  god-asked-to-accept-pure-food-and-water: {label: "The god is asked to accept with joyful heart the pure food to eat and pure water to drink offered by the king and grant his prayer", cluster: cult}
+  kings-years-numerous-as-stars: {label: "Prayer that the king be given years as numerous as the stars of the heavens, beyond counting", cluster: kingship}
+  temple-gate-eagle-seizing-stags-emblem: {label: "The temple doorway bears an emblem of a rapacious eagle seizing stags turning left and right, and gods guard the doorway", cluster: temple}
+  temple-built-of-holy-reeds-in-marsh: {label: "A temple's door frame, lock, leaves and bolt are made of holy reeds, gold-yellow and silver-white, beside the sacred marsh where cattle and calves stand", cluster: temple}
+  temple-gateway-like-beautiful-woman: {label: "The temple gateway is endowed with charms like a fine woman with head raised, attractive like ripe fruit, yet awesome like the mountains", cluster: temple}
+  protective-gods-sweep-temple-in-rotation: {label: "The temple's protective deities take turns of office from the new moon and are seen sweeping the ground of the building as guardians of the gate", cluster: temple}
 units:
   - id: ane-etcsl-2-5-4-01-a-enlil-praise
     tradition: ane-sumerian
@@ -442,3 +493,519 @@ units:
     hints:
       - "Compare Zech 1:12-13 and Job 33:23-26 (an angelic mediator speaks good words for a man) and Tob 12:12, 15 with B.B:9-16."
       - "Compare Ps 65:3 (you who hear prayer) and Ps 61:7-8 (prolong the king's life; may he be enthroned forever) with B.B:17-24."
+  - id: ane-etcsl-2-5-4-23-nibru-hymn
+    tradition: ane-sumerian
+    title: "Ishme-Dagan W: hymn to Nibru, mooring post of the people, its incomparable lord and lady, Ninurta and Nuska"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.23 A:1-C:18"]
+    tags:
+      - {motif: temple-tower-reaching-heaven, refs: ["ETCSL 2.5.4.23 A:1-7", "ETCSL 2.5.4.23 A:34-37"], note: "u18-ru-zu maḫ dib2: your towers surpassing; ḫur-saĝ sukux-ra2 šu nu-teĝ3-ĝe26-me-en / saĝ il2 zag dib-ba / an-ne2 us2-sa-me-en: a lofty mountain no one can reach, reaching to heaven"}
+      - {motif: temple-mooring-post-of-land, refs: ["ETCSL 2.5.4.23 A:20-22"], note: "us2-saĝ sig igi-nim-ma / dim gal uĝ3 šar2-ra-me-en"}
+      - {motif: temple-foundations-reach-abzu, refs: ["ETCSL 2.5.4.23 A:25-27"], note: "ĝiš-ḫur-zu abzu sig9-ga-gin7: your plans as if rooted in the abzu"}
+      - {motif: holy-city-built-as-food-of-gods, refs: ["ETCSL 2.5.4.23 A:41-47"], note: "{d}a-nun-na-ke4-ne-er u2 nam-til3-la-bi-še3 za-e ši-im-ma-ab-du3-en / gu7 naĝ-bi-še3 ... amaš zi-bi-še3"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 2.5.4.23 A:48-50"], note: "a2-zu-ta gu sa-par4 gid2-gin7 niĝ2-nam la-ba-ra-e3"}
+      - {motif: temple-of-precious-metal-and-lapis, refs: ["ETCSL 2.5.4.23 A:63-71"], note: "eš3 za-gin3 eš3 nam tar-re-dam / e2-kur e2 za-gin3 e2 nam tar-re-dam: lapis sanctuary, the house that decides destinies"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.5.4.23 A:72-81", "ETCSL 2.5.4.23 C:12-15"], note: "e-ne-e-ne-gin7 kalam-ma diĝir a-ba mu-un-til3: what god lives in the land like these two?; {d}en-lil2 {d}nin-lil2-gin7 diĝir na-me nu-dib2"}
+      - {motif: gods-look-to-high-gods-as-parents, refs: ["ETCSL 2.5.4.23 A:90-96", "ETCSL 2.5.4.23 B:5"], note: "{d}a-nun-na-ke4-ne ama a-a ugu-bi-gin7 igi-bi im-ši-ĝal2"}
+      - {motif: hoe-praised-as-maker-of-civilisation, refs: ["ETCSL 2.5.4.23 A:97-114"], note: "Enlil and Ninlil look at heaven and set bounds on earth; the Anuna set to work: {ĝiš}al {ĝiš}dusu niĝ2 iri ki ĝa2-ĝa2: hoe and basket, tools for founding cities; text then breaks"}
+      - {motif: gods-bear-corvee-labor, refs: ["ETCSL 2.5.4.23 A:107-111"], note: "diĝir {d}a-nun-na an ki-ke4-ne kiĝ2 ib2-gi4-gi4-ne"}
+      - {motif: father-god-blesses-victorious-son, refs: ["ETCSL 2.5.4.23 B:10-17"], note: "Enlil and Ninlil put into Ninurta's hand power to make heaven and earth tremble; me an-na me ki šu-ni [im-mi-in-sig9-ge-eš] (restored); ka-ga-ni i3 li ku7-ku7-da-gin7: his mouth covered as with sweet oil"}
+      - {motif: royal-hymns-sung-perpetually-in-temple, refs: ["ETCSL 2.5.4.23 C:17-18"], note: "nibru{ki} šir3 kug-zu ... {d}iš-me-{d}da-gan-me-en du-ri2-še3 ka-ga14 mu-ni-ĝar; C:16 Nuska given the powers of minister"}
+    hints:
+      - "Compare Gen 11:4 (a tower with its top in the heavens) with A:34-37; Ps 48:2-3 (Zion, beautiful in elevation, joy of all the earth)."
+      - "Compare Exod 15:11 and Ps 86:8 (who is like you among the gods?) with A:78-81 and C:12-15."
+      - "Compare Ezek 38:12 (navel of the earth) for Nibru as mooring post; Ps 87:5-7."
+      - "Compare Gen 2:15 and Ps 104:23 (work given to man) and the Atrahasis opening for the gods' labour with A:107-114."
+  - id: ane-etcsl-2-5-4-24-enki-hymn
+    tradition: ane-sumerian
+    title: "Ishme-Dagan X: hymn to Enki, creator of the seed of mankind, their father, mother and shepherd"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.24 1-41"]
+    tags:
+      - {motif: deity-renders-verdicts-and-judgments, refs: ["ETCSL 2.5.4.24 1-2"], note: "en eš-bar galam diĝir-re-e-ne; ešgiri2 šu du8 nam-bi tar-tar: holding a staff he decrees their destinies as the Anuna come to him"}
+      - {motif: god-creates-seed-of-mankind-and-teaches-practices, refs: ["ETCSL 2.5.4.24 7-8"], note: "en numun i nam dug3-bi tud-tud us2 dab5-bi pad3-pad3 / ĝarza maḫ ... u2-gin7 zid-de3-eš mu2: makes rites proliferate like grass"}
+      - {motif: god-distributes-sceptres-and-crowns, refs: ["ETCSL 2.5.4.24 9-10"], note: "ĝidru šum2-šum2 aga3 zid ḫal-ḫa mu maḫ-bi sa4-sa4"}
+      - {motif: enki-counsellor-of-an-and-enlil, refs: ["ETCSL 2.5.4.24 12-16"], note: "ad gi4-gi4 en a-ga-na šag4 kuš2-u3: adviser who deliberates only with himself; nun šag4 su3-ra2 inim-ma nu-kam3-me: deep-hearted, whose words do not change"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.5.4.24 17-23"], note: "diĝir-re-e-ne-er šu-mu-un-ne-maḫ-en; u18-ru-zu li-ib-gin7 ... u18-lu-gin7 šu-mu-ne-dul: your eminence like an awesome stillness, covers them like a storm"}
+      - {motif: god-feeds-people-as-father-and-mother, refs: ["ETCSL 2.5.4.24 24-26"], note: "uĝ3 ĝar-ĝar-ra-bi en a-a-bi-me-en / nu-DI-DI-a sipad u2 kiĝ2-kiĝ2-bi / ama a-a-bi-gin7 mu-ne-dug4 uĝ3 gu7 naĝ sug4-sug4-bi"}
+      - {motif: god-provides-for-homeless-nomads, refs: ["ETCSL 2.5.4.24 25"], note: "nu-DI-DI-a: those not settled(?); reading uncertain"}
+      - {motif: wisdom-builds-house-seven-pillars, refs: ["ETCSL 2.5.4.24 27-28"], note: "e2 umuš ĝar ĝeštug2 dirig-zu ĝal2 bi2-taka4: you opened your house of instruction and surpassing wisdom; lines 29-41 increasingly fragmentary, c. 21 lines missing"}
+    hints:
+      - "Compare Isa 40:13-14 ('Whom did he consult?') and Job 12:13 with lines 12-16; Prov 9:1-6 (Wisdom opens her house) with lines 27-28."
+      - "Compare Ps 145:15-16 (you give them their food in due season, satisfying every living thing) and Isa 49:15, 66:13 (God as mother) with lines 24-26; Q 26:79 (he who feeds me and gives me drink)."
+  - id: ane-etcsl-2-5-5-1-lipit-eshtar-a
+    tradition: ane-sumerian
+    title: "Lipit-Eshtar A: the king's self-praise: beauty, divine endowments, piety, warfare, justice, and Inana's embrace"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.5.1 1-108"]
+    tags:
+      - {motif: king-born-of-goddess-mother, refs: ["ETCSL 2.5.5.1 1-2"], note: "šag4-ta numun zid-me-en / dumu {d}en-lil2-la2-me-en: good seed from the womb, son of Enlil"}
+      - {motif: king-wrestler-and-athlete, refs: ["ETCSL 2.5.5.1 3-5"], note: "{ĝiš}isimu2 {ĝiš}erin-na-gin7 saĝ mu-il2-la-ta / nitaḫ usu-tuku lirum-ma-me-en: since I raised my head like a cedar shoot, a man strong in athletics"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.5.1 6-11"], note: "piriĝ; ušumgal ka du8-a; anzud{mušen} kur-šag4-ga igi ĝal2; am; alim igi gun3; sun4 {na4}za-gin3: lapis-lazuli beard"}
+      - {motif: king-handsome-in-body-praised, refs: ["ETCSL 2.5.5.1 11-16"], note: "igi sag9 ka sag9 ... ulutim2 ḫuš-ḫuš-a ḫi-li du8-du8-a ... a2 il2-la šu-si sag9-sag9 ... šul sag9-ga u6 di dug3-ga"}
+      - {motif: king-human-god, refs: ["ETCSL 2.5.5.1 20"], note: "diĝir nam-lu2-ulu3 nir-ĝal2 uĝ3 šar2-ra-me-en"}
+      - {motif: king-addressed-as-elohim, refs: ["ETCSL 2.5.5.1 20"]}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.5.1 23-42"], note: "An the crown, Enlil the sceptre in the Ki-ur, Ninlil a good fate, Nintur beauty in Keš, Nanna assent in Urim, Uta-ulu awe, Enki wisdom and kingship in Eridug, Inana (spouse) in Unug, Nisaba scribal skill, Utu truth"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.5.1 24-26"], note: "an-ne2 aga zid maḫ saĝ-ĝa2 mu-ni-in-ge-en / ... ki-ur3-ra {ĝiš}ĝidru ma-ni-in-šum2"}
+      - {motif: clean-hands-pure-heart, refs: ["ETCSL 2.5.5.1 23"], note: "išib an-na šu dadag-ga-me-en: An's purification priest with purified hands"}
+      - {motif: king-boasts-scribal-and-musical-skill, refs: ["ETCSL 2.5.5.1 39"], note: "dub-sar a-ra2 zu {d}nisaba-kam-me-en"}
+      - {motif: king-as-farmer-shepherd-fisher-of-land, refs: ["ETCSL 2.5.5.1 43-48"], note: "engar guru7-ni dub-dub-ba / sipad {e2}tur3-re i3 ga maḫ / ambar ku6 mušen gal-gal-la / id2 ḫe2-ĝal2-la"}
+      - {motif: king-brings-offerings-to-goddess-temple, refs: ["ETCSL 2.5.5.1 51-67"], note: "lugal kadra-še3 maš2 gaba tab-ba: the king clasping a kid to his breast as a gift; nesaĝ tum3 e2-babbar nu-dib-be2: bringing first fruits I do not pass by the E-babbar"}
+      - {motif: lifting-hands-in-prayer, refs: ["ETCSL 2.5.5.1 54-59"], note: "sun5-sun5-na giri17 šu ĝal2-la-me-en / lugal šudu3-de3 gub-ba-me-en: I pray in humility, a king standing in prayer"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 2.5.5.1 62"]}
+      - {motif: arrows-flash-like-lightning, refs: ["ETCSL 2.5.5.1 71-74"], note: "me3-a nim-gin7 ĝir2-ĝir2-re-me-en: in battle I flash like lightning; zu2 keše2 nu-du8: never loosen my harness"}
+      - {motif: king-as-cool-waterskin-for-soldiers, refs: ["ETCSL 2.5.5.1 77", "ETCSL 2.5.5.1 80-81"], note: "{kuš}gur21 igi tab ugnim-ma; {kuš}ummud a sed-de3 zi ĝuruš-a-me-en"}
+      - {motif: king-judges-carefully-without-haste, refs: ["ETCSL 2.5.5.1 83-90"], note: "a-ra-zu kiĝ2-ĝa2 ... niĝ2-nam-e nu-ul4-en eĝer-bi kiĝ2-kiĝ2-me-en / si sa2 da-ri2 nu-ḫa-lam-e-me-en / di-kud ka-aš bar-re-da inim si sa2-e-me-en"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.5.1 88", "ETCSL 2.5.5.1 92-95", "ETCSL 2.5.5.1 105"], note: "niĝ2-si-sa2 ki-en-gi ki-uri-a mu-ni-ĝar; niĝ2-gen6-na ka-ga14 ĝal2-la: truth in my mouth"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.5.1 98-103"], note: "nitalam-ĝu10 kug {d}inana-ke4 {ĝiš}gu-za-ĝa2 suḫuš-bi ma-ni-in-ge-en ... ki-nu2 ... in-nin9-ra ud ga-mu-un-di-ni-ib-zal-e"}
+      - {motif: hymns-to-be-sung-of-king, refs: ["ETCSL 2.5.5.1 106-108"], note: "mu-ĝu10 kur-kur-ra zid-de3-eš ḫu-mu-un-pad3-de3 ... za3-mi2-ĝu10 dug3-ga-am3"}
+    hints:
+      - "Compare 1 Sam 16:12 and 17:42 (David ruddy and handsome) and Ps 45:3 ('you are fairer than the sons of men; grace is poured on your lips') with lines 11-16."
+      - "Compare Ps 45:7 and Ps 82:6 ('you are gods') with line 20."
+      - "Compare Ps 24:3-4 (clean hands and pure heart) with line 23; Exod 23:19 (first-fruits to the house of YHWH) with line 62."
+      - "Compare Deut 1:16-17, 2 Chr 19:6-7 and Prov 18:13, 17 (hear the case fully before answering) with lines 83-90; Gen 18:25 (shall not the judge of all the earth slay the righteous?) with line 89."
+      - "Compare Prov 25:13, 25 (like cold water to a weary soul) with line 80; Isa 32:2 (the king as shade, as streams of water)."
+  - id: ane-etcsl-2-5-5-2-lipit-eshtar-b
+    tradition: ane-sumerian
+    title: "Lipit-Eshtar B: the king taught by Nisaba, wise judge who reads thoughts and pardons, heir of Išme-Dagan, praised in the schools"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.5.2 1-63"]
+    tags:
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.5.5.2 3"], note: "{d}utu-gin7 du še-er-zid kalam-ma"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.5.2 8-9"], note: "men aga zid ... šibir šu du8 saĝ gig2-ga"}
+      - {motif: king-as-great-tree-and-shade, refs: ["ETCSL 2.5.5.2 2", "ETCSL 2.5.5.2 11"], note: "ḫe2-du7 {ĝiš}isimu2 nam-lugal-la: seemly offshoot of kingship; uĝ3 laḫ5-laḫ5-e ĝissu dug3-ga: leads people to relax in pleasant shade"}
+      - {motif: writing-goddess-guides-kings-hand, refs: ["ETCSL 2.5.5.2 18-24"], note: "si-zu im-ma si ba-ni-in-sa2 / šag4 dub-ba-ka gu-šum2 mi-ni-in-sag9-sag9 / gi-dub-ba kug-sig17-ka ... gi-1-nindan eš2-gana2 za-gin3 ĝiš-as4-lum"}
+      - {motif: king-discerns-true-and-false-in-thoughts, refs: ["ETCSL 2.5.5.2 31-32"], note: "inim šag4-ga ĝal2-la lul zid-bi mu-e-zu: you know the false and true of words in the heart"}
+      - {motif: king-commutes-death-sentence, refs: ["ETCSL 2.5.5.2 33-35"], note: "ka šer7-da-ka ĝiri3 saga11 dug4 lu2 zi-zi-i mu-e-zu / nam-tag dugud ka garaš2-kam lu2 til-le: from the jaws of destruction"}
+      - {motif: ideal-king-justice-for-poor, refs: ["ETCSL 2.5.5.2 36-39"], note: "a2-tuku sa gaz nu-mu-un-ši-ak-e / kalag-ga sig9-ga še29-eš2 nu-mu-un-ak-e: the mighty no longer rob, the strong no longer abuse the weak"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.5.2 42-50"], note: "Ninurta his maškim, Nuska his aid, Nintur chose him as purification priest of Keš, Suen, Enki headdress, Inana, Ninisina throne-dais in Isin"}
+      - {motif: dynastic-succession-from-father, refs: ["ETCSL 2.5.5.2 51-56"], note: "ad-da-zu {d}iš-me-{d}da-gan lugal kalam-ma-ke4 / {ĝiš}gu-za-na suḫuš-bi mu-ra-an-ge-en"}
+      - {motif: scribal-school-praises-king-forever, refs: ["ETCSL 2.5.5.2 57-63"], note: "za3-mi2-zu e2-dub-ba-a-ka ... dub-sar-re a-le ḫe2-em-ši-ak-e ... ar2-zu e2-dub-ba-a-ka muš3 nam-ba-an-tum2-mu"}
+    hints:
+      - "Compare 1 Kgs 3:9-12, 16-28 (Solomon's discerning heart in judgment) and Prov 20:8; 1 Sam 16:7 (God sees the heart) with lines 31-32."
+      - "Compare 2 Sam 14:1-11 and 19:22-24 (the king spares a man condemned to death) with lines 33-35; Prov 20:28."
+      - "Compare 1 Kgs 2:12 and 2:24 (Solomon's throne established, his father David) with lines 51-56."
+      - "Compare Deut 17:18-19 (the king writes a copy of the Torah) with lines 18-24."
+  - id: ane-etcsl-2-5-5-3-an-adab
+    tradition: ane-sumerian
+    title: "Lipit-Eshtar C: adab of An, who chooses the king and blesses him in direct speech"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.5.3 A:1-I:60"]
+    tags:
+      - {motif: god-king-of-kings, refs: ["ETCSL 2.5.5.3 A:1-2", "ETCSL 2.5.5.3 B:9"], note: "pa-bil2-ga en-en-e-ne: grandfather of all the lords; an lugal diĝir-re-e-ne-ke4"}
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.5.5.3 B:6", "ETCSL 2.5.5.3 C:15-18"], note: "maḫ dug4-ga-ni sag2 di nu-zu; an-na dug4-ga-ni inim ki-bi-še3 ĝar-ra / diĝir na-me saĝ la-ba-ab-šum2-mu / {d}a-nun-na ... ki nam tar-re-da gu2 mu-na-si-si-eš"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.5.3 C:11-14"], note: "nam-til3 su3-ra2-še3 mu-na-an-šum2"}
+      - {motif: god-chooses-king-in-overflowing-heart-and-blesses, refs: ["ETCSL 2.5.5.3 G:33-50"], note: "an-e šag4 gu2-bi gi4-a-na lugal mu-ni-in-pad3 ... {d}li-pi2-it-eš4-tar2 a2 šum2-ma-ĝu10-me-en gu2 an-še3 ḫe2-zig3; kur ki su3-ra2-še3 lugal-bi ḫe2-me-en; G:51-52 missing"}
+      - {motif: god-attacks-like-south-wind, refs: ["ETCSL 2.5.5.3 G:36-37"], note: "ud gu3 di saĝ-bi zi-zi-gin7 ... u18-lu-zu ḫe2-em-dul: your storm cover the disobedient lands"}
+      - {motif: king-chosen-from-numerous-people, refs: ["ETCSL 2.5.5.3 G:41"], note: "uĝ3 saĝ gig2-ga u8-gin7 lu-a us2 zid ḫu-mu-ra-ab-sig9-ge5: the black-headed, numerous as ewes, follow the right path under you"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.5.3 G:43-48"], note: "Enlil throne, Suen crown, Enki princely powers, Inana garment, the udug and lamma of E-kur stand by him"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.5.3 A:3", "ETCSL 2.5.5.3 B:10", "ETCSL 2.5.5.3 C:19", "ETCSL 2.5.5.3 D:22", "ETCSL 2.5.5.3 E:29", "ETCSL 2.5.5.3 F:32", "ETCSL 2.5.5.3 G:53", "ETCSL 2.5.5.3 H:55", "ETCSL 2.5.5.3 I:59-60"], note: "barsud, šagbatuku, sa-gida, sa-ĝara, ĝišgiĝal, uru"}
+    hints:
+      - "Compare Ps 2:7-9 and Ps 110:1-3 (the god's direct speech to the newly chosen king; rule over the nations) with G:33-50."
+      - "Compare Ps 72:8 (dominion from sea to sea) with G:42; Ps 89:2-5 and 20-30 with G:33-50."
+  - id: ane-etcsl-2-5-5-4-ninurta-adab
+    tradition: ane-sumerian
+    title: "Lipit-Eshtar D: adab to Ninurta, suckled by Nintur and presented to Enlil for his fate, asked to arm the king"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.5.4 A:1-H:51"]
+    tags:
+      - {motif: mother-goddess-suckles-warrior-god, refs: ["ETCSL 2.5.5.4 B:5-8"], note: "{d}nin-tur5-re šu niĝ2 dim2-ma-ni za-ra mu-ri-in-bad / ubur dug3-ga-na ka ma-ra-ni-in-ba ga nam-šul-la mi-ri-in-gu7 / am u6 di-gin7 alan-zu mu-un-er9"}
+      - {motif: mother-presents-son-to-father-for-fate, refs: ["ETCSL 2.5.5.4 B:9-11"], note: "kišib-la2 zid-da-zu im-ma-an-dab5 ... e2-kur ... mi-ni-in-kur9-re-en a-a-zu {d}en-lil2-ra / ... dumu šu ĝar gi4-zu nam gal tar-mu-ni-ib2"}
+      - {motif: father-god-blesses-victorious-son, refs: ["ETCSL 2.5.5.4 C:13-15", "ETCSL 2.5.5.4 D:17-23"], note: "{d}en-lil2-le igi ḫul2 mu-ši-in-bar nam mu-ni-ib2-tar-re / u4-ta-u18-lu an ki šu2-a-še3 mu-zu ḫe2-em-maḫ"}
+      - {motif: god-attacks-like-south-wind, refs: ["ETCSL 2.5.5.4 D:19-21"], note: "im-ḫul-im-ḫul-gin7 zi-zi-i-da-zu-ne / {d}gibil ...: rising like all the evil winds, like Gibil (fire)"}
+      - {motif: consort-intercedes-for-king, refs: ["ETCSL 2.5.5.4 F:33-36"], note: "nitalam2-zu nin zid {d}nin-nibru{ki} ... inim sag9-ga {d}li-pi2-it-eš4-tar2-ra-da ud šu2-še3 ḫa-ra-da-gub; ki šu il2-la-ni a2-taḫ-ni ḫe2-me-en: be his aid where he raises his hands (prays)"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.5.4 F:40-42"], note: "niĝ2-si-sa2 ki-en-gi ki-uri-a mu-ni-in-ĝar / su kalam-ma mu-dug3"}
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.5.5.4 H:46-47"], note: "en a-ma-ru maḫ suḫuš erim2-ma bur12-re: lord, mighty flood tearing out the enemy's roots"}
+      - {motif: weapon-snaps-enemies-like-reeds, refs: ["ETCSL 2.5.5.4 H:48-49"], note: "{ĝiš}tukul ḫul-du-ni gi-gin7 ša5-ša5 šu maḫ-a-ni si-bi2-ib2"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.5.4 A:4", "ETCSL 2.5.5.4 B:12", "ETCSL 2.5.5.4 C:16", "ETCSL 2.5.5.4 D:24", "ETCSL 2.5.5.4 E:27", "ETCSL 2.5.5.4 F:43", "ETCSL 2.5.5.4 G:45", "ETCSL 2.5.5.4 H:50-51"]}
+    hints:
+      - "Compare Ps 22:10 (you made me trust at my mother's breasts) and Isa 66:11 with B:5-6."
+      - "Compare 1 Kgs 1:15-21 (Bathsheba presents Solomon's claim before the king his father) with B:9-11."
+      - "Compare Ps 18:35 and 144:1 (who trains my hands for war) and Ps 2:9 (shatter them like a potter's vessel) with H:48-49; Isa 42:3 (a bruised reed)."
+  - id: ane-etcsl-2-5-5-5-nininsina-shirnamgala
+    tradition: ane-sumerian
+    title: "Lipit-Eshtar E: Enlil and Ninisina in dialogue decree an unalterable fate for the king"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.5.5 A:1-F:31"]
+    tags:
+      - {motif: goddess-petitions-high-god-dialogue-for-king, refs: ["ETCSL 2.5.5.5 A:1-2", "ETCSL 2.5.5.5 B:4-13", "ETCSL 2.5.5.5 D:17-24"], note: "{d}li-pi2-it-eš4-tar2 u2-a-zu ḫe2-am3; sun5-na-bi mu-na-ni-ib-gi4-gi4: she answered humbly; [igi nam-til3]-la-zu mu-un-ši-bar na-aĝ2 zid tar-mu-ni-ib (Emesal); B:9-11 broken"}
+      - {motif: goddess-petitions-high-god-for-king, refs: ["ETCSL 2.5.5.5 B:4-13"]}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.5.5 C:15"], note: "nam-til3 ud su3-ra2 saĝ-e-eš rig7-ba-ab"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.5.5.5 D:20"], note: "{d}li-pi2-it-eš4-tar2 mu pad3-da-ĝu10-me-en: you whom I have called by name"}
+      - {motif: king-leads-people-as-mother-and-father, refs: ["ETCSL 2.5.5.5 D:21"], note: "zi-ĝal2-e ama a-a ugu-bi-gin7 igi-bi ḫe2-en-ši-ĝal2-le-eš"}
+      - {motif: enemies-gathered-like-swallows-spread-like-sheaves, refs: ["ETCSL 2.5.5.5 D:22-24"], note: "u4-ta-u18-lu ... a2-taḫ-zu ḫe2-am3 / ḫul-du-zu sim{mušen}-gin7 ḫa-ra-ur4-ru zar-re-eš ḫa-ra-ab-sal-e"}
+      - {motif: corpses-heaped-like-grain-piles, refs: ["ETCSL 2.5.5.5 D:24"]}
+      - {motif: god-of-the-city-sends-good-fate-to-king, refs: ["ETCSL 2.5.5.5 E:26-27", "ETCSL 2.5.5.5 F:29-30"], note: "{d}en-lil2-me-en an-še3 il2-me-en ki-še3 en me šar2-me-en / ... nam dug3 mi-ni-ib-tar-re niĝ2 nu-kur2-ru ḫe2-am3: Enlil speaks in the first person"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.5.5 A:3", "ETCSL 2.5.5.5 B:14", "ETCSL 2.5.5.5 C:16", "ETCSL 2.5.5.5 D:25", "ETCSL 2.5.5.5 E:28", "ETCSL 2.5.5.5 F:31"], note: "3rd and 4th kirugu, ĝišgiĝal; šir-namgala of Ninisina"}
+    hints:
+      - "Compare Isa 43:1 and 45:3-4 ('I have called you by name') with D:20; Num 23:19-20 and Isa 14:27 (what God has decreed cannot be reversed) with F:29-30."
+      - "Compare Ps 18:43 (beat them fine as dust before the wind) and Mic 4:12 (gathered like sheaves to the threshing floor) with D:24."
+  - id: ane-etcsl-2-5-6-2-enki-tigi
+    tradition: ane-sumerian
+    title: "Ur-Ninurta B: tigi to Enki, junior Enlil, commissioned by An to water the land, creator and preserver of mankind"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.6.2 A:1-D:48"]
+    tags:
+      - {motif: god-judgments-unsearchable, refs: ["ETCSL 2.5.6.2 A:1-4"], note: "šag4 su3-ud niĝ2-nam zu: whose heart is deep (unfathomable); gal-an-zu tu6 ĝar ... eš-bar-ra igi ĝal2 / sa2 pad3-de3 ud e3-ta ud šu2-uš-še3 ĝalga šum2-mu"}
+      - {motif: urim-origin-of-human-seed, refs: ["ETCSL 2.5.6.2 A:6"], note: "a-a-zu an lugal en numun i-i uĝ3 ki ĝar-ĝar-ra: An, the lord who made human seed come forth and placed mankind on earth"}
+      - {motif: god-commissioned-to-open-rivers-and-send-rain, refs: ["ETCSL 2.5.6.2 A:7-12"], note: "{id2}idigna {id2}buranuna ka kug-bi du8-u3 / dungu sir2-re a ḫe2-ĝal2-la šum2-mu a-gar3-ra šeĝ3-šeĝ3 / {d}ezina2 ab-sin2-na saĝ il2-il2-i / pu2-{ĝiš}kiri6 lal3 ĝeštin ... tir-gin7 sud-sud-e"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.5.6.2 A:13-16"], note: "{d}en-lil2 ban3-da-me-en / an ki-a dili-ni diĝir-ra-am3 dub-us2-a-ni za-e-me-en: in heaven and earth he alone is god, you are his younger brother"}
+      - {motif: god-feeds-people-as-father-and-mother, refs: ["ETCSL 2.5.6.2 A:18-19"], note: "{d}sa2-bar-a ... gu7 naĝ-bi-še3 im-da-kuš2-u3-de3-en a-a zid-bi za-e"}
+      - {motif: god-as-cosmic-tree-shading-earth, refs: ["ETCSL 2.5.6.2 C:29-30"], note: "of the abzu: ĝissu-bi ud e3-ta ud šu-uš kur-kur-ra ši-im-dul: its shadow covers all lands from sunrise to sunset"}
+      - {motif: god-creates-and-keeps-mankind-alive, refs: ["ETCSL 2.5.6.2 C:32-34"], note: "nam-lu2-ulu3 u3-tud til3-le i3-ĝal2 / a-a {d}en-ki barag nam-tar-ra-za dur2 ĝar-ra-zu-ne"}
+      - {motif: house-of-learning-opened-by-god, refs: ["ETCSL 2.5.6.2 D:37-38"], note: "e2 ĝeštug2-ga nam-gal-an-zu dirig-še3 niĝin ĝal2-la-za / ĝal2 u3-bi2-in-taka4: may (the king) open your house of wisdom"}
+      - {motif: foreign-lands-send-precious-goods, refs: ["ETCSL 2.5.6.2 D:41-42"], note: "gu2-un dugud a-ab-ba sig igi-nim-ma: weighty tribute of the upper and lower seas brought into E-kur"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.6.2 D:43-44"]}
+      - {motif: incomparable-king, refs: ["ETCSL 2.5.6.2 B:22-23"], note: "nir ḫe2-ĝal2 gaba gi4 na-an-tuku-tuku: let him have no rivals"}
+    hints:
+      - "Compare Deut 11:11-14, Ps 65:10-14 and Ps 104:13-16 (God waters the fields from his upper chambers, grain and wine) with A:8-11; Jer 5:24."
+      - "Compare Deut 4:35, 39 and 6:4 ('in heaven above and on earth beneath he is God, there is no other') with A:15 (dili-ni diĝir-ra-am3, Enlil alone is god)."
+      - "Compare Neh 9:6 (you give life to them all) and Job 12:10 with C:33; Q 2:258, 50:43 (he gives life and death)."
+      - "Compare Ps 80:11 (its shade covered the mountains) with C:29."
+  - id: ane-etcsl-2-5-6-3-ninurta-adab
+    tradition: ane-sumerian
+    title: "Ur-Ninurta C: adab of Ninurta, right arm of Enlil, who entrusts the four quarters to Ur-Ninurta"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.6.3 A:1-H:55"]
+    tags:
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.5.6.3 A:1-4"], note: "ur-saĝ ušum ni2 ri ... mar-uru5 šu zig3-ga: rising hurricane; a2 nam-ur-saĝ-ĝa2 šag4-ta tum2-a: fitted for heroism from the womb"}
+      - {motif: god-overturns-mountains-shakes-earth, refs: ["ETCSL 2.5.6.3 B:6-11"], note: "piriĝ ḫuš ... an ki ši-im-tuku4-e ... igi il2-i-zu ḫur-saĝ gal teš2-ba ši-im-da-tu-ku: lifting your gaze makes the great hills tremble"}
+      - {motif: god-destroys-by-raising-one-eye, refs: ["ETCSL 2.5.6.3 B:11"]}
+      - {motif: god-is-right-arm-of-high-god, refs: ["ETCSL 2.5.6.3 C:13-15"], note: "{d}nin-urta a2 zid-da kur gal-la-aš ... eš-bar dug4-ga-ni ki-bi-še3 ĝa2-ĝa2"}
+      - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.5.6.3 D:17-18"], note: "en barag-barag ni2 er9-be2-ne ĝiri3 saga11: lord who tramples all rulers; ḫul-du erim2-ĝal2 nu-mu-un-e3"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.5.6.3 D:20-21"], note: "ub-da an ki uĝ3 ki ĝar-ra-ba saĝ-e-eš mu-ni-rig7: entrusted the quarters of heaven and earth to Ur-Ninurta"}
+      - {motif: king-chosen-from-numerous-people, refs: ["ETCSL 2.5.6.3 D:23", "ETCSL 2.5.6.3 F:37"], note: "saĝ gig2 udu-gin7 lu-a-bi; šul si sa2 uĝ3 daĝal-la pad3-da: just youth called from among the widespread people"}
+      - {motif: father-god-blesses-victorious-son, refs: ["ETCSL 2.5.6.3 F:31-35"], note: "a-a ugu-zu sipad diĝir-re-ne ... me gal-gal an ki-a ... šu-za ma-ra-ni-in-ge-en"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.5.6.3 F:36"], note: "a-ba za-gin7 diĝir pa e3-a-e mu-ni an-zag-še3: who is like you, a god whose name reaches the limits of heaven?"}
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.5.6.3 F:43"], note: "saĝ gig2-ge {d}utu e3-gin7 igi-bi ḫe2-me-ši-ĝal2 (of the god)"}
+      - {motif: weapons-given-to-king-by-god, refs: ["ETCSL 2.5.6.3 F:44-46"], note: "{ĝiš}tukul kur gu2-erim2-ĝal2 ... u3-mu-un-šum2 ... sug-zag-ge4 bi2-ib-gu7-e"}
+      - {motif: god-of-the-city-sends-good-fate-to-king, refs: ["ETCSL 2.5.6.3 H:50-53"], note: "en nam tar-ra-zu sag2 nu-di ... du-ri2-še3 nu-kur2-ru nam-e-eš tar-mu-ni-ib"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.6.3 A:5", "ETCSL 2.5.6.3 B:12", "ETCSL 2.5.6.3 C:16", "ETCSL 2.5.6.3 D:24", "ETCSL 2.5.6.3 E:26", "ETCSL 2.5.6.3 F:47", "ETCSL 2.5.6.3 G:49", "ETCSL 2.5.6.3 H:54-55"]}
+    hints:
+      - "Compare Exod 15:6, 12 and Ps 118:15-16 (YHWH's right hand) and Ps 80:18 (the man of your right hand) with C:14."
+      - "Compare Exod 15:11 and Ps 89:7-9 (who is like you?) with F:36; Ps 104:32 (he looks on the earth and it trembles) with B:11."
+      - "Compare Jer 1:5 and Judg 13:5 (set apart from the womb for a task) with A:4."
+  - id: ane-etcsl-2-5-6-4-inana-adab
+    tradition: ane-sumerian
+    title: "Ur-Ninurta D: adab of Inana, equal of An, who chose Ur-Ninurta as en and lover"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.6.4 A:1-F:42"]
+    tags:
+      - {motif: goddess-receives-me-from-enki, refs: ["ETCSL 2.5.6.4 A:1", "ETCSL 2.5.6.4 B:8-9"], note: "me kilib3-ba ur4-ur4; me-zu ud silim-ma-bi ba-e-de6 niĝ2-nam la-ba-e-da-šub: you fetched your powers on a favourable day and none slipped away"}
+      - {motif: venus-star-rising-at-evening, refs: ["ETCSL 2.5.6.4 A:3", "ETCSL 2.5.6.4 D:26"], note: "piriĝ an-na mul-mul-lu: lioness shining in heaven; ĝi6 u3-na kar2-kar2: shining by night"}
+      - {motif: god-judgments-unsearchable, refs: ["ETCSL 2.5.6.4 B:6"], note: "dim2-ma-zu abzu su3-ra2-am3 igi bar-re nu-um-zu: your ideas deep as the abzu, no one has perceived them"}
+      - {motif: goddess-equal-in-rank-with-an, refs: ["ETCSL 2.5.6.4 B:10-12"], note: "an lugal-da zag mu-un-de3-ša4 nam mu-un-di-ni-ib-tar-re / {d}en-lil2-gin7 ka-ta e3-a-zu ki-bi-še3 al-ĝa2-ĝa2"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.5.6.4 B:14"], note: "šul igi il2-la-zu me-te-zu-uš en-e: the youth you chose, en for your honour"}
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.5.6.4 B:15-17"], note: "{d}nin-tur5-re ḫi-li mu-un-ši-in-tu-ud: Nintur created attractiveness for him"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.6.4 B:18-19", "ETCSL 2.5.6.4 E:36"], note: "ir-sim dug3-ga ku7-ku7-da-ke4 šag4 kug-zu ḫe2-em-tum3: your heart drawn to him as to sweet scent; ĝiš-nu2 gi4-rin ḫi-li si-a-za; ur2 kug niĝ2 dug3-za: in your sweet holy embrace"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.5.6.4 D:33-34"], note: "uĝ3 u2-sal-la ḫu-mu-un-de3-nu2 na-gada-bi ḫe2-a: may the people lie in meadows with him as their herdsman"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.6.4 D:30"], note: "am gal-bi ḫe2-a"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.6.4 E:36", "ETCSL 2.5.6.4 F:40"], note: "ḫe2-ĝal2 zi su3-ud-ĝal2 saĝ-e-eš mu-ni-rig7"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.6.4 A:5", "ETCSL 2.5.6.4 B:22", "ETCSL 2.5.6.4 C:24", "ETCSL 2.5.6.4 D:35", "ETCSL 2.5.6.4 E:37", "ETCSL 2.5.6.4 F:41-42"]}
+    hints:
+      - "Compare Ps 23:2 ('he makes me lie down in green pastures') with D:33; Ezek 34:14-15."
+      - "Compare Song 1:3, 12-13 (fragrance of the beloved's oils; myrrh between my breasts) and Song 1:16 with B:18-19."
+  - id: ane-etcsl-2-5-6-5-an-adab
+    tradition: ane-sumerian
+    title: "Ur-Ninurta E: adab of An, who gives the king throne, crook and sceptre and addresses him: 'trust in my name'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.6.5 A:1-E:50"]
+    tags:
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.6.5 A:3-4"], note: "an lugal-la nam gal tar-ra-ni / {d}ur-{d}nin-urta-ra šu zid ḫu-mu-na-ab-ĝar: An laid his hand truly on Ur-Ninurta"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.6.5 B:13-16"], note: "{ĝiš}gu-za nam-lugal-la ul-še3 suḫuš gen6-na / šibir maḫ me kalam-ma ur4-ur4 / ĝidru niĝ2-gen6-na uĝ3 šar2 laḫ5-laḫ5-e"}
+      - {motif: gods-say-so-be-it-to-kings-destiny, refs: ["ETCSL 2.5.6.5 B:17-C:21"], note: "unken ĝar-ra-ba ḫe2-am3 ba-ni-in-ne-eš: in their place of assembly they said 'Let it be so!'"}
+      - {motif: fate-of-abundance-decreed-for-king, refs: ["ETCSL 2.5.6.5 C:22-25"], note: "iri du3-du3 a2-dam ki ĝar-ra / kur gam-e kalam suḫuš gen6-na / mu ḫe2-ĝal2 bal ud sud-da"}
+      - {motif: god-chooses-king-in-overflowing-heart-and-blesses, refs: ["ETCSL 2.5.6.5 D:27-44"], note: "dumu ki aĝ2-ĝa2-ni mi2 zid-de2-eš ša-mu-un-e: he spoke kindly to his beloved son; direct speech to the end"}
+      - {motif: king-told-to-trust-in-gods-name, refs: ["ETCSL 2.5.6.5 D:33"], note: "{d}ur-{d}nin-urta a2 gal šum2-ma-ĝu10 mu-ĝu10-še3 nir ḫe2-ĝal2"}
+      - {motif: god-as-neck-stock-on-wicked, refs: ["ETCSL 2.5.6.5 D:34"], note: "inim-zu {ĝiš}rab3 maḫ-gin7 ḫul-ĝal2-e šu ḫe2-em-ri-ri: may your words clamp down on the wicked like a great neck-stock"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.6.5 D:37-38"], note: "niĝ2-gen6-na za-e lu2-bi ḫe2-me-en ... niĝ2-si-sa2 šag4-ta e3-a-me-en {d}utu ba-gub-ba"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.5.6.5 D:40"], note: "{d}lamma sag9-ga nam-en nam-lugal-la: protective deities of en-ship and kingship"}
+      - {motif: god-declares-himself-sole-holder-of-powers, refs: ["ETCSL 2.5.6.5 E:46-48"], note: "1(AŠ) diĝir-re-ne me gal-gal-la i3-me-en / an lugal 1(AŠ) diĝir-re-ne ... / ka-ta e3-a-ĝu10 ul-še3 na-ra-kur2-ru"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.6.5 A:5", "ETCSL 2.5.6.5 B:20", "ETCSL 2.5.6.5 C:26", "ETCSL 2.5.6.5 D:45", "ETCSL 2.5.6.5 E:49-50"]}
+    hints:
+      - "Compare Isa 44:6, 45:5-7 and Deut 32:39 ('I, I am he, there is no god beside me') with E:46-47; Isa 55:11 (my word will not return empty) with E:48."
+      - "Compare Ps 20:8 (some trust in chariots, we in the name of YHWH) and Prov 18:10 with D:33."
+      - "Compare Ps 2:7-9 and Ps 110 (oracle to the beloved son, rule over enemies) with D:27-44."
+  - id: ane-etcsl-2-5-6-6-ishkur-hymn
+    tradition: ane-sumerian
+    title: "Ur-Ninurta F: hymn to Iškur, the storm whose successive winds and clouds bring the harvest"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.6.6 A.A:1-B.E:17"]
+    tags:
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.5.6.6 A.A:1-2", "ETCSL 2.5.6.6 A.B:4-8"], note: "ur-saĝ nam-ḫe2-a gu3 ru-ru-gu2: hero of abundance, rumbling; a-ma-ru {tum9}u18-lu {tum9}mir; nim ĝir2-ĝir2: flashing lightning; A.B:9 and following broken"}
+      - {motif: storm-god-sends-winds-in-succession-for-harvest, refs: ["ETCSL 2.5.6.6 B.C:2-5"], note: "2-kam-ma-ra {tum9}u18-lu ... 3-kam-ma-ra im-ḫul an-na-ke4 ... 4-kam-ma dungu sir2 an-na-ke4 gu3 im-ma-an-de2 / gana2 zid-da še gu-nu im-gub"}
+      - {motif: rain-makes-grain-grow-of-itself, refs: ["ETCSL 2.5.6.6 B.C:5-9"], note: "guru7-du6 guru7-maš a-gar3 mu-na-an-dub; ud dug3-ga numun-bi mu-ni-in-sig10"}
+      - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.5.6.6 B.C:7-10", "ETCSL 2.5.6.6 B.E:14-16"], note: "a-a {d}iškur en ku3-ĝal2 an ki uĝ3 kug zi šum2 / ur-{d}nin-urta ḫe2-ĝal2 ḫu-mu-na-ĝal2"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.6.6 A.A:3", "ETCSL 2.5.6.6 B.C:11", "ETCSL 2.5.6.6 B.D:13", "ETCSL 2.5.6.6 B.E:17"]}
+    hints:
+      - "Compare Ps 29 (the voice of YHWH over the waters, the storm) and Ps 65:10-14 (rain and full granaries) with A.B:4-B.C:9; Q 30:48 (winds raise clouds and rain comes forth)."
+      - "Compare 1 Kgs 18:41-45 (successive looks toward the sea before the rain cloud appears) with B.C:2-4; Q 7:57."
+  - id: ane-etcsl-2-5-7-2-enlil-adab
+    tradition: ane-sumerian
+    title: "Bur-Sîn B: adab to Enlil, whose word none can interpret, who promises the king days like Utu's"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.7.2 A.A:1-B.D:16"]
+    tags:
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.5.7.2 A.A:1-6"], note: "an ki-še3 dili-ni dib ... ka-ta e3-a-ni sag2 nu-di / {d}nu-nam-nir eš-bar dug4-ga nu-kur2-ru"}
+      - {motif: house-of-life-enamtila, refs: ["ETCSL 2.5.7.2 A.A:7-9"], note: "here the E-kur: e2-kur e2 nam tar-tar-re-da"}
+      - {motif: consort-intercedes-for-king, refs: ["ETCSL 2.5.7.2 A.A:10-13"], note: "[ama] {d}nin-lil2 kur gal-da zag ša4 ... gu2-da u3-mu-ni-in-la2 ... inim mu-na-ab-dug4-ge ... šag4-ge pad3-da: Ninlil embraces him and speaks; content of her words broken, unknown lines missing"}
+      - {motif: god-judgments-unsearchable, refs: ["ETCSL 2.5.7.2 B.B:3-4"], note: "{d}en-lil2-me-en dug4-ga-zu maḫ-am3 / diĝir na-me nu-mu-e-da-bur2-re: no god can interpret it"}
+      - {motif: god-promises-king-days-like-sun, refs: ["ETCSL 2.5.7.2 B.B:5-7"], note: "nam i-ri-tar pa e3 ga-mu-ra-ab-dirig / nam-til3-zu nam-til3 ga-mu-ra-ab-taḫ / {d}utu-gin7 ud-zu ga-ra-ab-sud-su3-ud"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.7.2 B.D:12"], note: "niĝ2-zid niĝ2-gen6-na pa bi2-a-e3 su kalam-ma mu-dug3"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.7.2 B.B:9", "ETCSL 2.5.7.2 B.C:11", "ETCSL 2.5.7.2 B.D:15-16"]}
+    hints:
+      - "Compare Ps 72:5, 17 and Ps 89:37-38 (his throne as long as the sun, may his name endure as long as the sun) with B.B:7; Ps 21:5."
+  - id: ane-etcsl-2-5-8-1-enlil-bani-wisdom-justice
+    tradition: ane-sumerian
+    title: "Enlil-bani A: the king created by An, his name set on the tablet of life by Nisaba, a merciful judge"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.8.1 1–3-91"]
+    tags:
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.5.8.1 4-8"], note: "šu dug4-ga an-na / {d}en-lil2-le il2-la / {d}utu-gin7 ud kur-kur-ra-ke4: created by An, elevated by Enlil, like Utu the light of all lands"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.8.1 16-17"], note: "ešgiri2 šibir uĝ3 šar2 gal bi2-tuš"}
+      - {motif: king-as-great-tree-and-shade, refs: ["ETCSL 2.5.8.1 22-23"], note: "an-dul3 daĝal kur-kur-re si-a: broad shade filling all lands"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.8.1 34"], note: "dam kug {d}inana-ka; lines 32-33 missing"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.8.1 35-56"], note: "Asarluḫi gave wisdom; Nisaba counsel, vision and her house of wisdom E-zagin"}
+      - {motif: name-placed-on-tablet-of-life, refs: ["ETCSL 2.5.8.1 37-48"], note: "{d}nisaba ... im nam-til3-la-ka mu-ni bi2-in-gub: has placed his name on the tablet of life; lines 41-46 broken"}
+      - {motif: house-of-learning-opened-by-god, refs: ["ETCSL 2.5.8.1 53-56"], note: "e2-za-gin3 e2-ĜEŠTUG2.{d}NISABA-ka-ni sa2 pad3-de3 nam-še3 mu-ri-in-tar"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.8.1 57-60", "ETCSL 2.5.8.1 68-79"], note: "[si] sa2 kug-sig17-gin7 mu-e-zalag-e / si nu-sa2 ud za-ḫal-e ak-e: you make justice shine like gold, obliterate injustice; line 66 missing"}
+      - {motif: king-discerns-true-and-false-in-thoughts, refs: ["ETCSL 2.5.8.1 72-75"], note: "šag4-ge inim ĝal2-la nu-ĝar-ra tam-ma ba-e-zu: you know how to clear away the malice that lies in the heart"}
+      - {motif: king-pardons-sin-and-heals, refs: ["ETCSL 2.5.8.1 82-86"], note: "nam-tag-ga du8-u3 tur5-ra-bi mu-e-zu / šer7-da-a saĝ ĝiš nu-ub-ra-ra-an: you know how to loosen sin and its illness; you do not strike down the guilty"}
+      - {motif: king-commutes-death-sentence, refs: ["ETCSL 2.5.8.1 84-85"]}
+      - {motif: god-loves-justice-hates-evil, refs: ["ETCSL 2.5.8.1 88-89"], note: "šag4-la2 sug4 lu2 zid ki aĝ2-e: compassionate, loving the just (of the king)"}
+    hints:
+      - "Compare Exod 32:32-33, Ps 69:29, Isa 4:3, Mal 3:16 and Dan 12:1 (names written in God's book of life) with lines 37-48; Q 83:18-21 ('illiyyun, a written register)."
+      - "Compare Ps 103:3 (who forgives all your iniquity, who heals all your diseases) with lines 82-83; Ezek 18:23, 33:11 (no pleasure in the death of the wicked) with lines 84-85."
+      - "Compare Ps 72:1-2 and Isa 11:3-4 (the king judges not by appearance) with lines 68-79."
+  - id: ane-etcsl-2-5-8-1-enlil-bani-tribute-gods
+    tradition: ane-sumerian
+    title: "Enlil-bani A: kings bow and bring tribute; the gods' gifts; praise in the scribal academy"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.8.1 92-184"]
+    tags:
+      - {motif: incomparable-king, refs: ["ETCSL 2.5.8.1 96-97"], note: "{ĝiš}tukul-zu {ĝiš}tukul gaba-ri nu-tuku-am3"}
+      - {motif: rival-kings-make-peace-and-bring-gifts, refs: ["ETCSL 2.5.8.1 98-111"], note: "barag-barag-ga nam-gi4-me-eš3 a-ra-ak-ne / du14 mu2-mu2 zi ba-ni-ib2-gi4-gi4 / gud šar2-da udu šar2-da / kug-sig17 {na4}gug za-gin3-a-ta / e2-gal-zu-še3 ... nundum-bi-a ki su-ub ma-ra-ak-ne"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["ETCSL 2.5.8.1 110-111"], note: "kings, not messengers, kiss the ground with their lips"}
+      - {motif: king-provisions-temple-kitchens, refs: ["ETCSL 2.5.8.1 112-119"], note: "nibru{ki}-še3 nesaĝ kaš4 kar-re-me-en / še maḫ tum3 e2-kiš-nu-ĝal2-me-en: speeds first-offerings to Nibru, brings the best grain to E-kiš-nu-ĝal"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.5.8.1 120-123"], note: "{d}en-lil2-e mu sa4-me-en / {d}nin-lil2-le niĝ2-u4-rum-ni-me-en: Ninlil's own property"}
+      - {motif: corpses-heaped-like-grain-piles, refs: ["ETCSL 2.5.8.1 124-131"], note: "Ninurta du6-gin7 mu-ra-an-du8 / zar-gin7 mu-ra-an-sal: made the rebel lands into ruin-mounds and spread them out like sheaves"}
+      - {motif: king-named-in-the-womb, refs: ["ETCSL 2.5.8.1 136–138-142"], note: "diĝir-maḫ ... nam i-ri-in-tar / gi-en3-dur kud-da-zu nam-en mu-ra-an-ak: when your umbilical cord was cut she appointed you to lordship"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.8.1 143-167"], note: "Nanna aga nam-til3-la (crown of life); Nudimmud abundance from the abzu; Inana her bedchamber; Ninisina foundation in Isin; Utu the sceptre of justice; line 168 missing"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.8.1 151-158"], note: "ki-nu2 kug-ga-ni-še3 gal-bi mi-ri-in-tum2-mu / ĝi6 u3-na ud mi-ni-ib2-zal-zal-e-de3"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.5.8.1 175-177"], note: "ub-da 4-ba-ke4 sizkur nam-lugal-la mi2 i-ri-in-dug4; line 170 missing"}
+      - {motif: scribal-school-praises-king-forever, refs: ["ETCSL 2.5.8.1 178-184"], note: "dub-sar umun2 ak e2-dub-ba-a e2 na de5 kalam-ma-ka za3-mi2-zu ĝa2-la nam-ba-an-dag-ge"}
+    hints:
+      - "Compare Ps 72:9-11 (his enemies lick the dust; kings bring tribute and bow down) and Isa 49:23 with lines 98-111."
+      - "Compare Rev 2:10 and Jas 1:12 (the crown of life) with line 145; Ps 21:4."
+      - "Compare 1 Kgs 5:4 (peace on every side) with lines 101-105."
+  - id: ane-etcsl-2-6-2-1-nanna-adab
+    tradition: ane-sumerian
+    title: "Gungunum A: adab to Nanna, who is to gather the scattered of Sumer and give the king long life in Urim"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.2.1 A.A:2-B.E:15"]
+    tags:
+      - {motif: moon-god-shines-day-and-night, refs: ["ETCSL 2.6.2.1 A.B:7-9"], note: "en {d}aš-im2-babbar an-e ... ši-ma-ab-du7-un / ... un3-na e3 an-bar7-gana2 ĝi6 u3-na ud zalag-gin7 mu-un-e3; A.A:1 missing"}
+      - {motif: god-decrees-fate-of-lands, refs: ["ETCSL 2.6.2.1 A.B:10-12"], note: "only of the god: [{d}en]-ki {d}nin-ki pa-bil2-ga-ni nam dug3-ge-eš tar-re: his grandparents Enki and Ninki decreed his good fate"}
+      - {motif: king-to-gather-scattered-people-and-restore-city, refs: ["ETCSL 2.6.2.1 B.D:3-5"], note: "iri-zu ki-bi ḫa-ra-ab-gi4-gi4 ... [ki-en]-gi ki-uri sag2 dug4-ga ki-bi ḫa-ra-ab-gi4-gi4: may he restore your city ... may he bring back the scattered of Sumer and Akkad; A.C and B.D:1 fragmentary"}
+      - {motif: incomparable-king, refs: ["ETCSL 2.6.2.1 B.D:4"], note: "gaba gi4 na-an-tuku-tuku"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.2.1 B.D:7-9", "ETCSL 2.6.2.1 B.E:11-13"], note: "e2-kiš-nu-ĝal2 ud nu-dib-be2: the house which light does not enter; gu-un-gu-nu-um šag4-ge pad3-da-zu nam-til3 ud su3-ra2"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.6.2.1 A.A:4", "ETCSL 2.6.2.1 A.B:13", "ETCSL 2.6.2.1 B.D:10", "ETCSL 2.6.2.1 B.E:14-15"]}
+    hints:
+      - "Compare Deut 30:3-5, Isa 11:12 and Jer 23:3 (God gathers the scattered and restores them) with B.D:3-5."
+      - "Compare Ps 89:38 (enduring like the moon, a faithful witness in the sky) and Ps 72:5."
+  - id: ane-etcsl-2-6-6-1-sin-iddinam-first-fruits
+    tradition: ane-sumerian
+    title: "Sîn-iddinam A: the king ships new-year first-fruits to Urim; Suen carries them to Enlil and prays for the king"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.6.1 1-25"]
+    tags:
+      - {motif: first-fruits-brought-by-boat-to-gods, refs: ["ETCSL 2.6.6.1 1-6", "ETCSL 2.6.6.1 10"], note: "zid2-da kug-sig17 še mu-na-ĝa2-ĝa2 ... kar nam-til3-la kar urim5{ki}-ma-še3 gu2-un-bi im-mi-ni-u5 ... ḫe2-ĝal2 nesaĝ2 sikil nesaĝ2 zag-mu-ka: pure first-fruits of the new year, to the Quay of Life"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 2.6.6.1 10"]}
+      - {motif: new-year-festival-rite, refs: ["ETCSL 2.6.6.1 10"], note: "nesaĝ2 zag-mu-ka"}
+      - {motif: son-god-prays-father-for-king, refs: ["ETCSL 2.6.6.1 11-18"], note: "{d}suen-e nidba si bi2-in-sa2 nibru{ki}-še3 ... {d}en-lil2 nidba-da ḫul2-la-e nam dug3 mu-ni-tar / ... nam {d}suen-i-din-nam su3-ra2-še3 tar-re-e-de3 šu mu-un-ne-mu2-mu2"}
+      - {motif: divine-son-intercedes-with-father-god, refs: ["ETCSL 2.6.6.1 13A-18"]}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.6.1 15-25"], note: "sipad sun5-na: the humble shepherd; mu sag9-sag9 ud til3-la itid silim-ma; {ĝiš}gu-za nam-lugal-la saĝ ḫe2-il2-la du-ri2-še3"}
+      - {motif: deity-smells-offering, refs: ["ETCSL 2.6.6.1 12"], note: "only the god's delight: {d}en-lil2 nidba-da ḫul2-la-e"}
+    hints:
+      - "Compare Lev 23:10-14 and Deut 26:1-11 (the first sheaf and first-fruits brought to the sanctuary) with lines 1-10; Exod 23:16, 34:22 (feast at the turn of the year)."
+      - "Compare Ps 61:7-8 and Ps 21:5 (he asked life of you; you gave him length of days forever) with lines 14-18."
+  - id: ane-etcsl-2-6-7-1-numushda-hymn
+    tradition: ane-sumerian
+    title: "Sîn-iqisham A: hymn to Numušda, fated in the womb, lion-faced and eagle-clawed, for whose city Kazallu the king restores canals"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.7.1 A:1-D:60"]
+    tags:
+      - {motif: god-destiny-decreed-in-womb, refs: ["ETCSL 2.6.7.1 A:1-8"], note: "en gal šag4 zid-ta nam dug3-ge-eš tar-ra / numun kug ... {d}suen-e bi2-in-ru-a / kur sikil-la ḫe2-ĝal2-e u3-tud-da / gurun kiri6 sig7-ga gu7-a / an {d}en-lil2-bi mu dug3 sa4-a"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.6.7.1 A:7"], note: "of the god: mu dug3 sa4-a by An and Enlil"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.6.7.1 A:10", "ETCSL 2.6.7.1 B:13-15", "ETCSL 2.6.7.1 D:36"], note: "of the god: sumun2 gal ki-bal si mul di; piriĝ guru5-uš; muš-šag4-tur3; ušumgal; gud-alim"}
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.6.7.1 B:17-18"], note: "i-zi ḫu-luḫ-ḫa na-me gaba nu-ru-gu2 / a e3-e maḫ peš10 ur4-ur4-re"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.6.7.1 B:20-21"], note: "saĝ-kal nam-ur-saĝ-ĝa2 a-ba e-da-sa2-am3: who can rival you?"}
+      - {motif: god-with-lion-face-and-eagle-claws, refs: ["ETCSL 2.6.7.1 B:22", "ETCSL 2.6.7.1 C:26"], note: "igi-zu piriĝ-am3 giri17 muš-ḫuš ni2 ri; umbin-zu umbin ḫu-ri2-in-na lu2 ḫul-ĝal2 ḫa-ḫa-X (Akkadian gloss i-ta-ma-aḫ: seizes)"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 2.6.7.1 C:25"], note: "a2-zu sa-par3-am3 kur še nu-zu-ba: your arm a battle-net in the land that knows no grain"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 2.6.7.1 C:25"], note: "kur še nu-zu: the land not knowing grain"}
+      - {motif: god-loves-justice-hates-evil, refs: ["ETCSL 2.6.7.1 D:37-38"], note: "a-a-zu {d}suen-gin7 zi til3-le ki ba-e-a-aĝ2 / niĝ2-zid-de3 bar tam-me niĝ2-erim2 ud za-ḫa-al ak"}
+      - {motif: king-restores-abandoned-cities-and-canals, refs: ["ETCSL 2.6.7.1 D:42-56"], note: "ĝiš-ḫur ḫa-lam-ma-a-bi pa e3-a ak-de3 / iri šub-šub-bu-da-bi ki-bi gi4-gi4-de3 ... id2-zu mu-ba-al-ba-al eg2 pa5 si mi-in-sa2 / a ḫe2-ĝal2 du-ri2-še3 nu-til-le-da"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.7.1 D:57-60"]}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.6.7.1 A:12", "ETCSL 2.6.7.1 B:24", "ETCSL 2.6.7.1 C:33"]}
+    hints:
+      - "Compare Ezek 1:10 and 10:14 (faces of lion and eagle) and Dan 7:4 (lion with eagle's wings) with B:22, C:26; Hos 13:7-8."
+      - "Compare Isa 58:12 and 61:4 (rebuild the ancient ruins, restore the desolate cities) and Amos 9:14 with D:48-53."
+      - "Compare Jer 1:5 with A:1-2 (destiny fixed in the womb)."
+  - id: ane-etcsl-2-6-9-1-rim-sin-prayer
+    tradition: ane-sumerian
+    title: "Rim-Sîn A: a servant's prayer that Enlil and the gods of Nibru grant the king throne, reign and life"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.1 1-25"]
+    tags:
+      - {motif: goddess-as-grain, refs: ["ETCSL 2.6.9.1 4"], note: "{d}ezina2 lu2 sag9 nam-lu2-ulu3 saĝ-e-eš ḫe2-en-na-rig7: may (Enlil) grant him Ezina (grain), the good of mankind"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.9.1 7-9", "ETCSL 2.6.9.1 21-24"], note: "{ĝiš}gu-za nam-lugal-bi ḫe2-en-na-gen6 bal-bi ḫe2-en-na-su3-ud / ĝidru-ni sig igi-nim-ma / lugal gu2-zal-a-bi ḫe2-en-na-ab-gam-e"}
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.6.9.1 3", "ETCSL 2.6.9.1 10-12"], note: "nidba ... tur maḫ-e nibru{ki} e2-kur; šu-si-bi-ta lal3 i3-nun-gin7 al-biz-biz-ze2-e: syrup drips like ghee from its fingers; obscure"}
+      - {motif: god-of-the-city-sends-good-fate-to-king, refs: ["ETCSL 2.6.9.1 20-24"], note: "{d}en-lil2 kur gal-a-ni mu-zu-gin7 {d}ri-im-{d}suen kur gal-a-zu ḫe2-me; Ninurta, Ninnibru (arḫuš2 šag4-la2: mercy), Ninšubur declare life for the king"}
+    hints:
+      - "The speaker calls himself dumu lu2 'son of a man' (lines 11, 15-16), apparently a servant or official; text obscure. Compare Ps 72:1-2, 15 (prayer for the king continually)."
+  - id: ane-etcsl-2-6-9-2-haia-hymn
+    tradition: ane-sumerian
+    title: "Rim-Sîn B: hymn to Ḫaia, scribe of the tablets of destiny, archivist of heaven and earth, who hears prayer"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.2 A:1-B:60"]
+    tags:
+      - {motif: scribe-god-keeps-tablets-of-destiny, refs: ["ETCSL 2.6.9.2 A:2-5"], note: "{d}ḫa-ia3 dub gal-gal ḫa-ḫa-za ... pisaĝ-dub-ba e2-gal an ki-a kiĝ2 kilib-ba šid-šid / gi kug-ga šu ĝal2-le im nam-tar gal-gal mul-mul"}
+      - {motif: scribal-goddess-holds-tablets, refs: ["ETCSL 2.6.9.2 A:3", "ETCSL 2.6.9.2 A:32"], note: "e2-ĜEŠTUG2.{d}NISABA; nitalam ki aĝ2-zu ki-sikil {d}nisaba nin gal nin-e-ne"}
+      - {motif: enki-counsellor-of-an-and-enlil, refs: ["ETCSL 2.6.9.2 A:6-7"], note: "of Ḫaia: inim ĝeštug2 de5-ge ud-bi-še3 an kug-ga-ra / kišib-ĝal2 a-a {d}en-lil2-la2: prompts An with words, seal-holder of Enlil"}
+      - {motif: opening-of-the-mouth-for-gods, refs: ["ETCSL 2.6.9.2 A:19-20"], note: "{d}indagara saĝĝa7 utaḫ-ḫe2 kur-ta ka du8-u3 diĝir-re-e-ne-ke4 / šag4 dub-ba su3-ud-da zu-a"}
+      - {motif: food-of-gods-uncooked, refs: ["ETCSL 2.6.9.2 A:24-26"], note: "ninda babbar sikil-la: pure white loaves; u2 gal-gal sud-sud an {d}en-lil2-la2: providers of An and Enlil's great meals"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.6.9.2 A:31"], note: "a-ba za-a-gin7 diĝir-re-e-ne-ke4 me kug-ga-aš tum2-ma"}
+      - {motif: priest-chosen-by-omen, refs: ["ETCSL 2.6.9.2 A:39"], note: "en ĝi6-par3-e mu-ni-ib-ḫuĝ-en: you appoint the en for the ĝipar"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 2.6.9.2 A:41", "ETCSL 2.6.9.2 B:59"], note: "{d}ḫa-ia3 diĝir kalam-ma a-ra-zu uĝ3 šar2-ra ĝiš tuku-me-en; ga-til3-e ki aĝ2: who loves (the plea) 'let me live!'; a2 bad tal2-ni: extend your broad arms round the king"}
+      - {motif: kings-years-marked-on-tablet-of-life, refs: ["ETCSL 2.6.9.2 A:50-53"], note: "im nam-til3-la-ke4 du-ri2-še3 nu-kur2-ru mu-bi gub-i3"}
+      - {motif: heavenly-book-of-life, refs: ["ETCSL 2.6.9.2 A:52"]}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.6.9.2 A:40-42"], note: "sipad kalam-ma-ra ĝidru maḫ ud su3-ra2 šu-ni-še3 bi2-ib-dab5-e-en"}
+      - {motif: god-lifts-the-head, refs: ["ETCSL 2.6.9.2 A:45"], note: "uĝ3 ... gu2-bi an-še3 ši-bi2-ib2-zi-zi: you make the people lift their necks to heaven"}
+    hints:
+      - "Compare Ps 139:16 ('in your book were written all the days'), Exod 32:32, Ps 69:29 and Mal 3:16 (book of remembrance) with A:5 and A:52; Q 57:22 (nothing befalls but it is in a book) and Q 6:59."
+      - "Compare Ezek 9:2-4 (the man clothed in linen with a scribe's inkhorn) with A:5, A:9."
+      - "Compare Deut 33:27 (underneath are the everlasting arms) with B:59; Ps 65:3 (you who hear prayer)."
+  - id: ane-etcsl-2-6-9-3-an-prayer
+    tradition: ane-sumerian
+    title: "Rim-Sîn C: prayer to An for the king called by name in the womb: crown, throne of life, sceptre, and the breasts of heaven opened"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.3 1-29"]
+    tags:
+      - {motif: king-named-in-the-womb, refs: ["ETCSL 2.6.9.3 1-3"], note: "sipad mu pad3-da an kug-ge nam gal an-na tar / nun šag4 zid-ta nam-lugal-la mu-un-sa2: prince who attained kingship in the true womb"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.6.9.3 7-10", "ETCSL 2.6.9.3 16-17"], note: "a-a diĝir-re-e-ne nam tar-tar-re-de3 ... dug4-ga niĝ2-nam nu-kur2-da zi su3-ra2 ḫu-mu-ra-ab-taḫ"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.6.9.3 13"], note: "niĝ2-si-sa2-zu-še3 gu3 zid-de3-eš ḫu-mu-ra-ab-de"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.6.9.3 18-22"], note: "aga kug-ge ... {ĝiš}gu-za nam-til3-la-ka ... u3-luḫ niĝ2-si-sa2 ... ešgiri2 kalam ge-en-ge-en ... šibir uĝ3 lu-a: throne of life, sceptre of justice, staff, crook"}
+      - {motif: udders-of-heaven-open, refs: ["ETCSL 2.6.9.3 23"], note: "ubur an sud-aĝ2 ĝal2 ḫu-mu-ra-ab-taka4 šeĝx an-na ḫu-mu-ra-ab-šeĝ3: may he open the breasts of the brilliant heaven and make heaven's rain fall"}
+      - {motif: fate-of-abundance-decreed-for-king, refs: ["ETCSL 2.6.9.3 24-26"], note: "mu ma-da ud nam-ḫe2 an-šag4-ta zag ḫu-mu-ra-ab-keše2"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.9.3 14-17", "ETCSL 2.6.9.3 27-28"]}
+    hints:
+      - "Compare Gen 49:25 (blessings of heaven above ... of breasts and womb), Deut 28:12 (YHWH will open his good treasury, the heavens, to give rain) and Mal 3:10 with line 23."
+      - "Compare Isa 49:1 and Jer 1:5 with lines 1-3; Ps 45:7-8 (sceptre of equity) with line 20."
+      - "Line 29 is a scribal subscript: '28 lines; a prayer to An'."
+  - id: ane-etcsl-2-6-9-4-gate-prayer
+    tradition: ane-sumerian
+    title: "Rim-Sîn D: prayer to the gods of peace at the Great Gate of Urim as the king enters"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.4 1-49"]
+    tags:
+      - {motif: right-and-justice-as-helper-gods, refs: ["ETCSL 2.6.9.4 3"], note: "[{d}niĝ2]-zid {d}niĝ2-si-sa2 a2-taḫ-zu ḫe2-a"}
+      - {motif: gate-gods-greet-king-entering-city, refs: ["ETCSL 2.6.9.4 6-21", "ETCSL 2.6.9.4 31-47"], note: "abula maḫ abula urim5{ki}-ma ku4-ku4-da-zu-ne / [{d}udug sag9]-ga {d}lamma silim-ma-ka / i3-du8 abula maḫ-a-ke4 ... {ĝiš}ig ĝal2 ḫu-mu-ra-ab-da13-da13-aš: may they open the doors for you; zid-da gab2-bu-zu: at your right and left"}
+      - {motif: protective-spirits-go-before-and-behind, refs: ["ETCSL 2.6.9.4 8", "ETCSL 2.6.9.4 42-43"]}
+      - {motif: gate-gods-named-in-litany, refs: ["ETCSL 2.6.9.4 35-41"], note: "four named gate-gods at Du-barag-gal-maḫ, each line beginning with the place-name: {d}niĝ2-erim2-šu-tab-bi, {d}niĝ2-erim2-šu-ur4-ur4, {d}dug4-ga-ab-šu-gi4-gi4, {d}dug4-ga-ab-šu-tab-bi; names apparently 'Evil-is-seized', 'Evil-is-swept-away', 'Speak-and-it-is-answered' (interpretive)"}
+      - {motif: consort-intercedes-for-king, refs: ["ETCSL 2.6.9.4 11-13", "ETCSL 2.6.9.4 44-45"], note: "inim sag9-ga-zu {d}nanna {d}nin-gal-ra ḫe2-ni-ib-kur9-re-eš-a / nam-til3 silim-ma ... ḫe2-ri-ib-gi4-ne: bring your greeting to Nanna and Ningal and an answer of life and peace"}
+      - {motif: favourable-signs-set-before-king, refs: ["ETCSL 2.6.9.4 31-33", "ETCSL 2.6.9.4 46-47"], note: "[ĝiškim] sag9-sag9-ga inim niĝ2 šag4 dug3-ga igi-zu-še3 ḫa-ra-ab-ĝar-re-eš / ki kug ki nam-til3-la ĝiri3-zu ḫe2-ri-ib-gub-bu-ne; lines 24-30 fragmentary"}
+    hints:
+      - "Compare Ps 24:7-10 ('Lift up your heads, O gates, that the King of glory may come in') and Ps 118:19-20 (open to me the gates of righteousness) with lines 7-23."
+      - "Compare Ps 85:11-14 and 89:15 (righteousness and justice go before God, as personified attendants) with line 3."
+      - "Compare Ps 121:8 (YHWH will keep your going out and coming in) and Ps 91:11 with lines 33-43."
+  - id: ane-etcsl-2-6-9-5-rim-sin-offerings-prayer
+    tradition: ane-sumerian
+    title: "Rim-Sîn E: prayer that the god accept the king's pure offerings and give him life, stars' years and a fruitful land"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.5 1-85"]
+    tags:
+      - {motif: clean-hands-pure-heart, refs: ["ETCSL 2.6.9.5 1-2", "ETCSL 2.6.9.5 7"], note: "išib an-na sizkur sikil-la tum2-ma; šu sikil-la ak-a-ni: purification priest of An, fit for pure prayers, offering with pure hands"}
+      - {motif: king-named-in-the-womb, refs: ["ETCSL 2.6.9.5 3"], note: "[X šag4] kug-ta bi2-pad3-da-zu: whom you called from the holy womb (partly restored)"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.6.9.5 5-6", "ETCSL 2.6.9.5 60", "ETCSL 2.6.9.5 65"], note: "ešgiri2 kalam ge-en-ge-en ... šibir uĝ3 zi-ĝal2; u3-luḫ niĝ2-si-sa2"}
+      - {motif: catalogue-of-offerings-drink-and-dairy, refs: ["ETCSL 2.6.9.5 8-17"], note: "ga {d}ezina2 ... kurun ĝeštin ... &kaš;ulušin3 ... kaš tab-ba ... lal3 babbar ... ḫur-saĝ-ta e3-a / i3 ab2 kug-ga i3-nun ... i3-ĝiš ... gara2"}
+      - {motif: god-asked-to-accept-pure-food-and-water, refs: ["ETCSL 2.6.9.5 21-26"], note: "u2 sikil-la u2-bi gu7 a sikil-la a-bi naĝ-a / ne-saĝ dug4-ga-zu šag4 ḫul2-la-zu-ta šu te-en-ši-ib / a-ra-zu-ni še-ga-an"}
+      - {motif: personal-god-of-ruler, refs: ["ETCSL 2.6.9.5 38"], note: "za-ra diĝir-bi-gin7 igi-bi ma-ra-ši-ĝal2: he looks to you as to his (personal) god"}
+      - {motif: lifting-hands-in-prayer, refs: ["ETCSL 2.6.9.5 41", "ETCSL 2.6.9.5 44", "ETCSL 2.6.9.5 52"], note: "šu il2-la-ni-še3 še-ga-mu-un-ši-ib nam dug3 tar-mu-na-ab (partly restored)"}
+      - {motif: god-overturns-mountains-shakes-earth, refs: ["ETCSL 2.6.9.5 36"], note: "only image: me-lem4 guru3-a-ni im dugud-da-gin7 lugal gu2 du3-a-ni ḫe2-em-dul: his radiance cover the hostile king like a heavy raincloud"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.6.9.5 54"], note: "ub-da 4 ĝiri3-ni-še3 gam-mu-na"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.6.9.5 55-56"], note: "ma-da-na u2-sal-la nu2-a: reclining in meadows in his land"}
+      - {motif: kings-years-numerous-as-stars, refs: ["ETCSL 2.6.9.5 67-69"], note: "mu šar2-a mul-an za-gin3-gin7 šid-bi nu-til-le saĝ-e-eš rig7-mu-na-ab"}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.6.9.5 74-76"], note: "ma-da ki-bi gi4-a ... ĝiri3 ma-da si sa2-mu-na-ab / gu3 kalam-ma teš2-a sig10-ge5-mu-na-ab: make the land speak with one voice"}
+      - {motif: land-fertile-under-blessed-king, refs: ["ETCSL 2.6.9.5 78-84"], note: "id2-bi a ... a-šag4-ga še ... pu2-kiri6 lal3 ĝeštin ... ambar ku6 mušen ... {e2}tur3-e amaš ... šeĝx an-ta a-bi bad-ta ḫe2-en-na-ge-en: may heaven's rain, otherwise sporadic, be regular"}
+    hints:
+      - "Compare Gen 15:5 and 22:17 (descendants as the stars of heaven) and Ps 89:30, 37 (throne as the days of heaven) with lines 67-68."
+      - "Compare Deut 11:13-15 and 28:4-12 (rain in its season; grain, wine, oil, flocks) and Lev 26:4 with lines 78-84."
+      - "Compare Num 28:7, 14 (drink offerings of strong drink and wine) and Deut 32:14 (butter of cattle, milk of sheep, best of wheat, blood of the grape) with lines 8-17; contrast Ps 50:12-13."
+      - "Compare Zeph 3:9 (to serve him with one accord) with line 76."
+  - id: ane-etcsl-2-6-9-6-ekishnugal-abzu
+    tradition: ane-sumerian
+    title: "Rim-Sîn F: the abzu shrine of E-kiš-nu-ĝal, its eagle emblem, reed doors, sacred marsh and guardian gods"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.6 1-46"]
+    tags:
+      - {motif: temple-on-cosmic-waters, refs: ["ETCSL 2.6.9.6 2-4"], note: "abzu eš3 kug maḫ e2-kiš-nu-ĝal2-la-ke4 / nam-maḫ gal šag4-ta bar-ta-bi"}
+      - {motif: house-full-of-food-and-beer-incense, refs: ["ETCSL 2.6.9.6 5"], note: "ir dug3-ga tir šim {ĝiš}erin-na ḫa-šu-ur2-ra-kam: fragrant like a forest of aromatic cedars"}
+      - {motif: temple-gate-eagle-seizing-stags-emblem, refs: ["ETCSL 2.6.9.6 9-12"], note: "ĝiš-ḫur kan4-na / ĝiš-bur2-e aš-me saĝ-ĝa2-ni urin ḫu-ri-in laḫ4-laḫ4 / lulim-ma zid-da gab2-bu-bi kiĝ2 gal šu dab-dab-be2 / diĝir kan4-na en-nu-uĝ3 i3-ak-ne"}
+      - {motif: temple-built-of-holy-reeds-in-marsh, refs: ["ETCSL 2.6.9.6 13-27"], note: "zag-du8 a-sal4-bar-ra si-ĝar kun4 dub-bi / {ĝiš}ig {ĝiš}saĝ-kul2 {ĝiš}šu-min3 e2-ke4 ... gi-zi kug-kug-bi kug-zig3 kug-babbar-ra / da ambar abzu-a; lines 20-25 partly broken"}
+      - {motif: temple-parts-as-lions-and-bulls, refs: ["ETCSL 2.6.9.6 14-16"], note: "parts listed (door frame, architrave, lock, leaves, bolt, bar) but described as holy reeds rather than animals"}
+      - {motif: temple-gateway-like-beautiful-woman, refs: ["ETCSL 2.6.9.6 28-31"], note: "mi2 zid ul gur3-ru-a šu du7-a nam-nun-na saĝ il2 / ḫi-li sud-sud gurun-gin7 sig7-ga / ... ḫur-saĝ-gin7 me-lem4-ma šu du7"}
+      - {motif: protective-gods-sweep-temple-in-rotation, refs: ["ETCSL 2.6.9.6 32-38"], note: "šag4 ud-sakar ĝar-ra bal-bal-e-de3 / {d}udug e2 {d}lamma e2-ke4 / diĝir gub-ba dumu e2-ke4 ... dur2 ki ma-ra-sar-sar"}
+      - {motif: divine-council-gathers-at-new-moon, refs: ["ETCSL 2.6.9.6 34"], note: "only the turn of office beginning at the new moon (ud-sakar)"}
+      - {motif: consort-intercedes-for-king, refs: ["ETCSL 2.6.9.6 39-46"], note: "niĝ2-na de5-ga ĝiš-bi dug4-ga-zu: when you light the wood of the censers; {d}nanna {d}nin-gal-bi šu ḫe2-eb-šu-teĝ3-ĝe26-ne / inim kug-ga-ne-ne-a šu ḫa-ra-mu2-mu2-ne"}
+    hints:
+      - "Compare 1 Chr 9:17-27 and 24-26 (Levite gatekeepers in rotating courses guarding the temple) with lines 32-38; Ps 84:11 (doorkeeper in the house of my God)."
+      - "Compare 1 Kgs 6:29-35 and Ezek 41:17-20 (carved cherubim and palms on the temple doors) with lines 9-12; Ezek 1:10 (eagle face)."
+      - "Compare Exod 30:7-8 and Ps 141:2 (incense rising before God) with line 43."

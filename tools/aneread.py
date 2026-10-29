@@ -50,6 +50,22 @@ GKAB_GENRES = {"Literary", "Hymn-Prayer", "Incantation-Ritual", "Ritual", "Incan
 UGARIT_RELIGIOUS = {"māmītu", "adê", "riksu", "rikiltu", "nīšu", "ilu", "kirru"}
 
 
+HITTITE_TLH_ONLY_KEEP = {"CTH 1", "CTH 19", "CTH 264"}   # no online edition, but lemmatized and central
+
+
+def hittite_left_out(f, d):
+    """Hittite editions are read in full, except (1) the CTH 389 prayer fragments, which have no translation and
+    are small scraps, and (2) compositions that exist only as TLHdig manuscript transliterations, which repeat one
+    text in several overlapping manuscripts without a composite or translation (CTH 68, 106, 409); the Anitta text,
+    the Telipinu Proclamation and the Instructions to temple officials are kept."""
+    sig = d["siglum"]
+    if re.match(r"CTH 389\b", sig):
+        return "CTH 389 prayer fragments: transliteration of small fragments only, no translation online"
+    if f.name.endswith(".TLHdig.json") and sig.split(" [")[0] not in HITTITE_TLH_ONLY_KEEP:
+        return "only TLHdig manuscript transliterations (several overlapping manuscripts, no composite, no translation)"
+    return None
+
+
 def oracc_docs(proj):
     for f in sorted((RAW / "oracc" / proj).glob("*.json")):
         yield f, json.loads(f.read_text(encoding="utf-8"))
@@ -114,10 +130,16 @@ def in_scope():
             add(f, d, "ane-ugaritic" if alpha else "ane-akkadian", siglum=f"Ugarit {d['title'].split(' (')[0]}")
     # the other sources, written by tools/ane_sources/fetch_<name>.py
     for name, trad in (("ugaritic", "ane-ugaritic"), ("egyptian", "ane-egyptian"), ("hittite", "ane-hittite"), ("nws", "ane-levantine")):
-        for f in sorted(p for p in (RAW / name).glob("*.json") if not p.name.startswith("_")):
+        files = [p for p in (RAW / name).glob("*.json") if not p.name.startswith("_")]
+        for f in sorted(files, key=lambda p: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", p.stem)]):
             d = json.loads(f.read_text(encoding="utf-8"))
-            if nlines(d):
-                add(f, d, trad)
+            if not nlines(d):
+                continue
+            why = hittite_left_out(f, d) if name == "hittite" else None
+            if why:
+                out.append((d["siglum"], d["title"], nlines(d), why))
+                continue
+            add(f, d, trad)
     # sigla must be unique
     seen = Counter(t["siglum"] for t in texts)
     for t in texts:

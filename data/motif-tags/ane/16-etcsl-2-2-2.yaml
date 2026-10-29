@@ -1,0 +1,569 @@
+# Full read of the ANE corpus, chunk 16: ETCSL 2.2.2 - ETCSL 4.03.1 (Lament for Urim, Ur III and Isin-Larsa royal hymns, letters, Asarluḫi and Damgalnuna hymns).
+# Read from the ORACC lemmatized Sumerian composites (no translation); word glosses used as reading aids.
+new_motifs:
+  city-built-in-falsehood-destroyed-in-truth: {label: "Lament paradox: the city or house was built as a falsehood (lul) but its destruction is truth (zid), i.e. its building came to nothing and its ruin is real", cluster: lament}
+  house-like-harvest-shelter-in-wind-and-rain: {label: "The destroyed house is like a tent or harvest-field shelter torn open and exposed to wind and rain", cluster: lament}
+  goddess-pleads-with-high-gods-to-spare-city: {label: "A city goddess weeps before the high gods (An, Enlil) and begs them 'let my city not be destroyed, let its people not perish', but they do not change their word", cluster: lament}
+  goddess-sleepless-in-grief: {label: "A grieving goddess finds no sleep or rest in her bedchamber by night because of the coming doom of her city", cluster: lament}
+  storm-entrusted-to-storm-keeper: {label: "The high god hands the destroying storm over to a divine storm-keeper or enlists the fire god as its helper", cluster: lament}
+  corpses-in-gates-and-streets: {label: "After the sack corpses lie in the city's great gate, its festival streets and its roads", cluster: lament}
+  corpses-melt-like-fat-in-sun: {label: "The bodies of the slain melt away like fat left in the sun", cluster: lament}
+  slain-like-trapped-gazelle-mouth-in-dust: {label: "The slain lie like a gazelle caught in a trap, their mouths biting the dust", cluster: lament}
+  infants-carried-off-like-fish-by-water: {label: "Little children lying in their mothers' laps are carried off like fish by the water", cluster: lament}
+  temple-valued-at-thirty-shekels: {label: "The destroyers value the holy house at a contemptible thirty shekels", cluster: lament}
+  children-carried-off-in-boats: {label: "The goddess's daughters and sons are carried off as captives in boats to a foreign city", cluster: lament}
+  goddess-no-longer-queen-of-her-city: {label: "A goddess laments that her city no longer exists for her and she is no longer its queen", cluster: lament}
+  exiled-goddess-has-nowhere-to-sit-or-stand: {label: "The displaced goddess asks where she is to sit and stand: shall another city or house be built for her in place of her own?", cluster: lament}
+  no-lament-singer-left: {label: "In the ruined land there is no lament-singer left to perform the penitential lament; he has gone to foreign lands", cluster: lament}
+  ruined-house-bricks-cry-where-are-you: {label: "The bricks of the ruined temple cry out like a person to the departed deity: 'Where are you?'", cluster: lament}
+  plea-deity-return-like-ox-to-pen: {label: "The departed deity is begged to return to her city like an ox to its pen, a sheep to its fold, a young child to its chamber", cluster: lament}
+  plea-that-high-god-say-enough: {label: "Prayer that the high god say 'It is enough!' and end the destruction", cluster: lament}
+  storm-knows-no-kin: {label: "The destroying storm knows neither mother nor father, wife nor child, sister, brother nor neighbour", cluster: lament}
+  account-of-calamity-hung-on-peg: {label: "The account (tally) of the catastrophe is closed and hung on a peg in the high god's house, never to be reopened", cluster: lament}
+  plea-city-gates-bolted-against-storm: {label: "Prayer that the city gates be bolted against the storm as gates are barred at night, so that it never returns", cluster: lament}
+  god-releases-sin-of-supplicant: {label: "The god is asked to loosen (release) the sin of the penitent human who utters prayer, so that his heart is soothed", cluster: sin}
+  personal-god-brings-greeting-gift-for-suppliant: {label: "A man's personal god brings a greeting gift (kadra) to the great god on behalf of the man who prays", cluster: cult}
+  sacred-chest-no-eye-has-seen: {label: "A holy chest or box (dub-šen) of the god, kept in the heart of the city or temple, which no eye has seen", cluster: cult}
+  king-as-physician: {label: "The king is praised as a physician (a-zu) who heals", cluster: kingship}
+  lullaby-come-sleep: {label: "A mother sings a lullaby to her son: 'Come, sleep, come to my son; put his restless eyes to sleep'", cluster: childhood}
+  lullaby-promises-wife-and-son: {label: "The lullaby promises the baby a wife and a son of his own, a nursemaid and a happy future", cluster: childhood}
+  king-visits-temples-gods-rejoice: {label: "The king travels in turn to the temple cities of the great gods, and at each the god rejoices at his coming", cluster: kingship}
+  enemy-dies-of-thirst-in-haunted-steppe: {label: "The enemy army is cut off and dies of thirst in the open steppe where ghosts (lil2) howl", cluster: war}
+  god-of-netherworld-as-junior-enlil: {label: "The underworld god (Nergal) is the 'junior Enlil' of the eternal house, the netherworld, who decides fates and gives judgments there", cluster: underworld}
+  warrior-son-soothes-fathers-angry-heart: {label: "The warrior god sprinkles cool water on (soothes) the angry heart of his father the high god", cluster: divine-family}
+  king-born-for-divinity: {label: "The king is called a hero born for godhood (nam-diŋir), fit for the ornaments of kingship", cluster: kingship}
+  moon-god-judges-netherworld-at-disappearance: {label: "On the day the moon lies down (disappears), the moon god as lord of the netherworld renders great judgments and decisions there", cluster: underworld}
+  temple-interior-intricate-unknowable: {label: "The inside of the god's temple is intricate and tied together, a thing no one knows", cluster: cult}
+units:
+  # ---------------- ETCSL 2.2.2: The lament for Urim ----------------
+  - id: ane-etcsl-2-2-2-k1-gods-abandon-folds
+    tradition: ane-sumerian
+    title: "Kirugu 1: god after god abandons stall and sheepfold to the wind (Lament for Urim 1-38)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 1-38"]
+    tags:
+      - {motif: gods-desert-their-cities, refs: ["ETCSL 2.2.2 1-34"], note: "Refrain tur3-ra-na muš3 mi-ni-in-ga amaš-a-na lil2-e: 'he has abandoned his stall, (left) his sheepfold to the wind (lil2)', said of Enlil, Ninlil, the lady of Keš, Ninisina, Inana, Nanna, Ningal, Šara, Bau, Lamma, Dumuzid-abzu and others"}
+      - {motif: deity-abandons-city, refs: ["ETCSL 2.2.2 4-6", "ETCSL 2.2.2 13-16"], note: "{d}mu-ul-lil2-le eš3-e nibru{ki}-a ... {d}suen-e e2-kiš-nu-ŋal2-la: each god leaves his named temple (E-kur's Nibru, Kiur, Ekišnuĝal, Agrunkug)"}
+      - {motif: lament-refrain-at-named-places, refs: ["ETCSL 2.2.2 1-34"], note: "the refrain is repeated for each city: Nibru, Keš, Isin, Unug, Urim, Uruzeb, Larag, Umma, Urukug, Lagaš, Niĝin, Kinirša, Guabba"}
+      - {motif: nature-reversal-curse, refs: ["ETCSL 2.2.2 37"], note: "ab2 gu3-zu {e2}tur3-ra nu-mu-un-ŋal2: 'the cow's lowing is no longer in the stall'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 35", "ETCSL 2.2.2 38"]}
+      - {motif: goddess-weeps-for-destroyed-city, refs: ["ETCSL 2.2.2 36"], note: "amaš-a-na lil2-e ba-ni-in-ŋar i-si-iš-bi mu-un-kuš2-u3: its lament wearies (her)"}
+    hints:
+      - "Compare Ezek 10:18-19; 11:22-23 (the glory leaves the temple) and Jer 12:7 (I have forsaken my house, abandoned my heritage)."
+      - "Compare Jer 9:9-10 (lowing of cattle not heard) and Lam 1:4."
+  - id: ane-etcsl-2-2-2-k2-bitter-lament-for-shrines
+    tradition: ane-sumerian
+    title: "Kirugu 2: 'O city, a bitter lament is set up for you' at each shrine; the city's rites changed (Lament for Urim 39-75)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 39-75"]
+    tags:
+      - {motif: alas-for-my-city-lament, refs: ["ETCSL 2.2.2 39-44"], note: "uru2 a-še-er gig-ga a-še-er-zu ŋar-ra: 'O city, a bitter lament is set up as your lament'"}
+      - {motif: lament-refrain-at-named-places, refs: ["ETCSL 2.2.2 47-61"], note: "the brickwork of Urim, Ekišnuĝal, Agrunkug, Kiur, Nibru, E-kur, Ĝaĝišua, Ubšuukkina, Urukug, Etarsirsir, Maguena, Isin, Egalmah, Unug, Uruzeb each 'has its bitter lament set up'"}
+      - {motif: how-long-o-god, refs: ["ETCSL 2.2.2 45-46", "ETCSL 2.2.2 62-63", "ETCSL 2.2.2 70-71"], note: "ga-ša-an-zu mu-lu er2-re en3-še3 mu-un-kuš2-u3: 'your lady, the weeping one, how long will she be weary?' (en3-še3 'until when')"}
+      - {motif: divine-powers-of-city-overturned, refs: ["ETCSL 2.2.2 68-69"], note: "uru2 ŋarza-zu im-me-de3-kur2-ra, me-zu me kur2-ra šu bal ba-ni-ib-ak: your rites have become alien, your divine powers changed into foreign ones"}
+      - {motif: nature-reversal-curse, refs: ["ETCSL 2.2.2 66-67"], note: "uru2-ŋu10 u8 zid-gin7 sila4-zu ba-e-da-tar: 'my city, like a true ewe your lamb has been cut off'"}
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.2.2 64-65"], note: "uru2 mu-zu i3-ŋal2 za-e ba-e-da-gul-e: 'O city, your name exists, but you have been destroyed'; walls raised, land finished"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 72-75"]}
+    hints:
+      - "Compare Lam 1:1-2 and Lam 2:1-9 (each part of Zion named in its ruin); Ps 74:4-8."
+      - "Compare Ps 79:5 and Zech 1:12 (how long?)."
+  - id: ane-etcsl-2-2-2-k3-ningal-grief
+    tradition: ane-sumerian
+    title: "Kirugu 3: Ningal cannot sleep; she wails day and night for the doom of her city (Lament for Urim 76-135)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 76-100A", "ETCSL 2.2.2 101-135"]
+    tags:
+      - {motif: goddess-weeps-for-destroyed-city, refs: ["ETCSL 2.2.2 76-84"], note: "e-ne-ra nam uru2-na mu-na-te er2 gig i3-še8-še8: the fate of her city approached her and she wept bitterly"}
+      - {motif: goddess-sleepless-in-grief, refs: ["ETCSL 2.2.2 80", "ETCSL 2.2.2 99-100"], note: "{d}nin-gal kalam-ma-ni-še3 u3 nu-ku-ku-de3; ki-nu2 ŋi6 u3-na-ŋa2 ... lib ba-ra-an-mar: in my night bedchamber no rest"}
+      - {motif: weeping-in-the-night-tears-on-cheek, refs: ["ETCSL 2.2.2 95-97"], note: "me-e ŋi6-bi-še3 zarah he2-em-ši-ak: 'I wailed through the night'; by day too (92)"}
+      - {motif: lament-offered-by-king-to-deity, refs: ["ETCSL 2.2.2 85-86"], note: "Interpretive: munus-e ad-a-ni balaŋ er2-ra ... i-lu ma sig9-ga ni2-te-na mi-ni-ib-be2: the woman herself sings the lament on the balaĝ of tears, quietly in the silent house; not by a king"}
+      - {motif: dove-flies-from-window, refs: ["ETCSL 2.2.2 105-106"], note: "mušen an-na-gin7 a2 dub2 he2-em-ši-ak, me-e uru2-ŋu10-še3 he2-em-ši-dal-dal-en: 'like a bird of the sky I flapped my wings, I would have flown to my city'"}
+      - {motif: storm-of-divine-wrath, refs: ["ETCSL 2.2.2 87-94", "ETCSL 2.2.2 109-111"], note: "ud ... šu ud-da an-ta ba-ŋal2-la: the hand of the storm from above; 110 gu3 hu-mu-dub2 edin-na ud gi4-a: 'I cried out to the storm, turn back!' but its breast did not rise"}
+      - {motif: city-built-in-falsehood-destroyed-in-truth, refs: ["ETCSL 2.2.2 125"], note: "lul-e-eš du3-u3-ba zid-de3-eš gul-lu-ba: built as a lie, destroyed in truth"}
+      - {motif: house-like-harvest-shelter-in-wind-and-rain, refs: ["ETCSL 2.2.2 127-128"], note: "za-lam-ŋar e2 ki-buru14 bur12-ra-gin7 ... tum9 šeŋ3-ŋa2 ha-ba-an-ŋar: like a tent, a harvest-place house torn open, exposed to wind and rain"}
+      - {motif: temple-cult-and-festivals-cease, refs: ["ETCSL 2.2.2 116"], note: "ezen-bi-ta ib2-ba su-mu-ug-ga: its festivals turned to anger and darkness"}
+      - {motif: city-flooded-into-swamp, refs: ["ETCSL 2.2.2 132"], note: "niŋ2-gur11 uru2 ŋal2-ŋal2-la-ŋu10 sug-ge hu-mu-da-ab-gu7: the swamp swallowed the property of my city"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 133-135"]}
+    hints:
+      - "Compare Lam 1:2 (she weeps bitterly in the night) and Jer 9:17-20 (women taught to wail)."
+      - "Compare Isa 1:8 (Zion like a booth in a vineyard, a hut in a cucumber field) and Ps 55:7 (O that I had wings like a dove)."
+      - "Compare Ps 127:1 (unless YHWH builds the house, its builders labour in vain)."
+  - id: ane-etcsl-2-2-2-k4-ningal-pleads-an-enlil
+    tradition: ane-sumerian
+    title: "Kirugu 4: Ningal twice pleads with An and Enlil in the assembly, but their word does not change (Lament for Urim 136-171)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 136-171"]
+    tags:
+      - {motif: goddess-pleads-with-high-gods-to-spare-city, refs: ["ETCSL 2.2.2 143-148", "ETCSL 2.2.2 154-158"], note: "an-ra a i-bi2-ŋa2 me-e he2-em-ma-na-de2, {d}mu-ul-lil2-ra ni2-ŋu10 šag4-ne-ša4 he2-em-ma-na-ak, uru2-ŋu10 nam-ba-gul-lu: 'I poured out the water of my eyes to An, I made supplication to Enlil: Let my city not be destroyed'"}
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.2.2 149-153", "ETCSL 2.2.2 159-160"], note: "an-ne2 e-ne-eŋ3-bi ba-ra-mu-un-gur; {d}mu-ul-lil2-le i3-sag9 he2-am3-bi šag4-ŋu10 ba-ra-bi2-in-sed4: An did not turn back his word; Enlil did not soothe my heart with 'It is good, so be it'"}
+      - {motif: divine-council, refs: ["ETCSL 2.2.2 151-152"], note: "2-kam-ma-še3 pu-uh2-rum ... {d}a-nun-na: a second time in the assembly where the Anuna sat"}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["ETCSL 2.2.2 152"], note: "{d}a-nun-na e-ne-eŋ3 zu2 keše2-da-bi ba-da-an-dur2-ru-ne-eš: the Anuna sat bound to their word (by oath)"}
+      - {motif: city-destruction-decreed-by-gods, refs: ["ETCSL 2.2.2 138-141", "ETCSL 2.2.2 161-166"], note: "uru2-ŋu10 gul-gul-da im-me-ne-eš-a-ba ... uŋ3-bi ug5-ge-de3 na-aŋ2-bi ha-ba-an-tar-re-eš: they ordered my city destroyed, decreed that its people be killed"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.2.2 167-168"], note: "an-ne2 dug4-ga-ni hur nu-kur2-ru-dam, {d}mu-ul-lil2-le ka-ta e3-a-ni šu nu-bal-e-de3: An's command is never changed; what goes out from Enlil's mouth is not altered"}
+      - {motif: storm-of-divine-wrath, refs: ["ETCSL 2.2.2 136-138"], note: "ud-ba ud ne-en ba-sag3-sag3-ga-ba ... ba-dim2-dim2-ma-ba: when this storm was created"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 169-171"]}
+    hints:
+      - "Compare Gen 18:23-32 (Abraham pleads for Sodom) and Exod 32:11-14, Amos 7:1-6 (intercession that does or does not avert destruction); contrast Jer 15:1 (even Moses and Samuel could not turn my heart)."
+      - "Compare Isa 45:23; 55:11 (the word that goes out from my mouth shall not return) and Num 23:19."
+  - id: ane-etcsl-2-2-2-k5-enlil-calls-storm
+    tradition: ane-sumerian
+    title: "Kirugu 5: Enlil calls the storm; fire, darkness and the sunless day cover Urim like a cloak (Lament for Urim 172-206)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 172-206"]
+    tags:
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["ETCSL 2.2.2 172-182", "ETCSL 2.2.2 198"], note: "{d}en-lil2-le ud-de3 gu3 ba-an-de2 uŋ3-e še am3-ša4: Enlil called the storm, the people groan (refrain); ud a-ma-ru-gin7 uru2 i3-gul-gul-e: the storm destroys the city like a flood (amaru)"}
+      - {motif: storm-entrusted-to-storm-keeper, refs: ["ETCSL 2.2.2 176", "ETCSL 2.2.2 179"], note: "kin-gal-ud-da ud-da gub-ba šu-na im-ma-an-šum2: he gave the storm into the hand of Kiĝgaluda; {d}en-lil2-le {d}gibil a2-tah-a-ni mu-na-ni-in-kur9-re: Enlil brought in Gibil (fire) as his helper"}
+      - {motif: divine-word-destroys-city, refs: ["ETCSL 2.2.2 202"], note: "ud hul gig dug4-ga {d}en-lil2-la2: the evil storm ordered by Enlil"}
+      - {motif: day-of-the-lords-anger, refs: ["ETCSL 2.2.2 185-191"], note: "an-na ur2-ba kana6 mu-un-ni10-ni10: darkness surrounds the base of heaven; fire burns at the storm's front; the midday heat"}
+      - {motif: sun-does-not-rise-in-catastrophe, refs: ["ETCSL 2.2.2 190"], note: "kalam-ma ud zalag-ga la-ba-an-e3 mul an-usan6-gin7 ba-zal: in the land the bright sun did not rise; it shone only like the evening star"}
+      - {motif: hail-and-fire-from-heaven, refs: ["ETCSL 2.2.2 186-188", "ETCSL 2.2.2 192"], note: "izi mu-un-bar7-bar7-e; šika bar7-bar7-re-da: fire burning, hot potsherds (or hail) and dust"}
+      - {motif: storm-covers-city-like-cloak, refs: ["ETCSL 2.2.2 203"], note: "urim2{ki}-ma tug2-gin7 ba-e-dul gada-gin7 ba-e-bur2: it covered Urim like a garment, was spread over it like linen"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.2.2 193"], note: "saŋ gig2-ga tum9-tum9 ba-an-dal: the black-headed people were blown away by the winds"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 204-206"]}
+    hints:
+      - "Compare Amos 8:9 and Joel 2:2, 10 (day of darkness, sun dark at noon) and Zeph 1:15."
+      - "Compare Jer 4:11-13 (a hot wind from the bare heights; chariots like the whirlwind) and Ps 18:8-15."
+  - id: ane-etcsl-2-2-2-k6-sack-of-urim
+    tradition: ane-sumerian
+    title: "Kirugu 6: the city made ruin mounds; corpses in gates and streets; families torn apart; Elam sacks Ekišnuĝal (Lament for Urim 207-253)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 207-209A", "ETCSL 2.2.2 210-253"]
+    tags:
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.2.2 207-208", "ETCSL 2.2.2 245"], note: "a-a {d}nanna uru2-ni du6-du6-da ba-da-an-ŋar: father Nanna's city was turned into ruin mounds"}
+      - {motif: corpses-in-gates-and-streets, refs: ["ETCSL 2.2.2 211-215"], note: "abula mah ŋiri3 ŋal2-la-ba ad6 im-ma-an-ŋar-ŋar; sila daŋal ezem-ma ... saŋ bal-e-eš ba-ab-ŋar: corpses in the great gate, heads scattered in the festival streets"}
+      - {motif: blood-poured-like-water, refs: ["ETCSL 2.2.2 216"], note: "u3-mun kalam-ma-ke4 urud an-na-gin7 sur3-sur3 ba-ni-in-de6-eš: the land's blood filled the ditches like (molten) copper or tin"}
+      - {motif: corpses-melt-like-fat-in-sun, refs: ["ETCSL 2.2.2 217"], note: "ad6-bi {uzu}i3-udu ud-de3 ŋal2-la-gin7 ni2-bi-a mu-un-zal-eš"}
+      - {motif: slain-like-trapped-gazelle-mouth-in-dust, refs: ["ETCSL 2.2.2 219"], note: "maš-da3 ŋiš-bur2-ra dab5-ba-gin7 ka sahar-ra bi2-in-us2"}
+      - {motif: corpses-heaped-like-grain-piles, refs: ["ETCSL 2.2.2 215"], note: "uŋ3 zar-re-eš ba-an-du8: the people lay like sheaves"}
+      - {motif: famine-in-besieged-city, refs: ["ETCSL 2.2.2 226"], note: "urim2{ki}-ma sig9-ga kalag-ga-bi šag4-ŋar-ra im-til: weak and strong of Urim perished by famine"}
+      - {motif: young-and-old-massacred, refs: ["ETCSL 2.2.2 227"], note: "um-ma ab-ba e2-ta nu-e3 izi mu-ni-in-sig10-sig10-ge5-eš: old women and men who could not leave the house were burned"}
+      - {motif: infants-carried-off-like-fish-by-water, refs: ["ETCSL 2.2.2 228-229"], note: "di4-di4-la2 ur2 ama-ba-ka nu2-a ku6-gin7 a ba-an-de6; the nursemaids' strength was loosened"}
+      - {motif: family-bonds-dissolve-in-catastrophe, refs: ["ETCSL 2.2.2 232-234"], note: "ama dumu-ni igi-ni ba-ra-e3; ad-da dumu-ni-ta ba-da-an-kur2; uru2-a dam ba-šub dumu ba-šub: mother left her child, father turned from his son, wife and child abandoned"}
+      - {motif: dove-flies-from-window, refs: ["ETCSL 2.2.2 236-237"], note: "nin-gal-e mušen ni2 te-a-gin7 uru2-ni ba-ra-e3: Ningal left her city like a frightened bird"}
+      - {motif: elam-shimashki-destroyers, refs: ["ETCSL 2.2.2 243"], note: "šimaški{ki} elam{ki} lu2 ha-lam-ma"}
+      - {motif: temple-valued-at-thirty-shekels, refs: ["ETCSL 2.2.2 243"], note: "lu2 ha-lam-ma 30 giŋ4 ba-an-ak-e-eš: the destroyers reckoned it (the house) at 30 shekels"}
+      - {motif: temple-destroyed-by-enemies, refs: ["ETCSL 2.2.2 241-244"], note: "hur-saŋ sukud-ra2 šu nu-teŋ3-ŋe26 e2-kiš-nu-ŋal2-la ... {urud}ha-zi-in gal-gal-e teš2-bi i3-gu7-e: the lofty untouchable mountain Ekišnuĝal devoured by great axes; hoes thrust into it"}
+      - {motif: alas-for-my-city-lament, refs: ["ETCSL 2.2.2 246-249"], note: "{d}nin-gal-e a uru2-ŋu10 im-me a e2-ŋu10 im-me"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 250-253"]}
+    hints:
+      - "Compare Lam 2:21 (young and old lie on the ground in the streets) and Lam 4:5, 2:11-12 (infants faint in the squares)."
+      - "Compare Zech 11:12-13 (the lordly price of thirty shekels at which I was valued) and Exod 21:32."
+      - "Compare Isa 49:15 (can a mother forget her nursing child?) and Ps 79:2-3 (blood poured like water round Jerusalem, none to bury)."
+  - id: ane-etcsl-2-2-2-k7-ningal-lament
+    tradition: ane-sumerian
+    title: "Kirugu 7: Ningal's lament in the first person: An cursed my city, my children are carried off, I am no longer its queen (Lament for Urim 254-330)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 254-330"]
+    tags:
+      - {motif: god-stays-outside-city-as-if-foreign, refs: ["ETCSL 2.2.2 254"], note: "ama {d}nin-gal uru2-ni lu2-erim2-gin7 bar-ta ba-da-gub: Mother Ningal stands outside her city like an enemy"}
+      - {motif: divine-curse-on-city, refs: ["ETCSL 2.2.2 257-260"], note: "an-ne2 uru2-ŋu10 na-aŋ2 ha-ba-da-an-kud ... {d}mu-ul-lil2-le e2-ŋu10 šu he2-bi2-in-bal {ŋiš}al-e ha-ba-ra: An cursed my city, Enlil overturned my house and struck it with the hoe; fire and lightning (u3-bu-bu-ul) cast down"}
+      - {motif: goddess-laments-destroyed-city-and-house, refs: ["ETCSL 2.2.2 261-264", "ETCSL 2.2.2 292-293"], note: "uru2 bar-ra ... uru2 šag4-ba ... hu-mu-da-an-gul a uru2-ŋu10 ga-am3-dug4: outer city and inner city destroyed, 'alas my city' I will say"}
+      - {motif: shepherd-god-killed-by-robbers, refs: ["ETCSL 2.2.2 265-268"], note: "Interpretive: uru2-ŋu10 u8 zid-gin7 ... sipad zid-bi ba-ra-ŋen: the true shepherd has gone away; oxen and sheep left in stall and fold without their herdsman"}
+      - {motif: ruined-city-haunted-by-desert-creatures, refs: ["ETCSL 2.2.2 269"], note: "id2 uru2-ŋa2-ke4 sahar ha-ba-niŋin2 e2 ka5-a ha-ba-an-du3: my city's river silted up, a fox's den built in it"}
+      - {motif: nature-reversal-curse, refs: ["ETCSL 2.2.2 270-274"], note: "no flowing water, the tax-collector gone; fields bear no grain, the farmer gone; mul-gana2 weeds; the plain cracked like an oven (gir4-gin7)"}
+      - {motif: ruined-site-overgrown-with-thornbushes, refs: ["ETCSL 2.2.2 273"], note: "pu2-kiri6 lal3 gurun dirig-ŋu10 {ŋiš}kiši16 kur-ra ha-ba-mu2: my orchards of syrup and fruit grow mountain thorn"}
+      - {motif: inheritance-turned-to-strangers, refs: ["ETCSL 2.2.2 275-281"], note: "kug-ŋu10 lu2 kug nu-zu-u3-ne šu-bi ha-ba-da-ab-si: those who never knew silver have filled their hands with my silver, those who never knew gems their necks with my gems"}
+      - {motif: children-carried-off-in-boats, refs: ["ETCSL 2.2.2 283-284"], note: "gi4-in du5-mu-ŋu10 ma2-e ha-ba-ab-lah4-e-eš ... uru2 kur2-ra šu-še-er kur2 ha-ba-an-dab5: my daughters and sons carried off in boats, taken into a foreign city"}
+      - {motif: mourning-garment-put-on, refs: ["ETCSL 2.2.2 285"], note: "šul-ŋu10 edin ki nu-zu-na tug2-mu-un-dur7 ha-ba-an-ak: my young men in an unknown desert wear mourning clothes"}
+      - {motif: goddess-no-longer-queen-of-her-city, refs: ["ETCSL 2.2.2 286-287", "ETCSL 2.2.2 302-303"], note: "me-li-e-a uru2-ŋu10 nu-me-a me-e ga-ša-an-bi nu-ŋen: 'alas, my city is no more, I am not its queen'"}
+      - {motif: exiled-goddess-has-nowhere-to-sit-or-stand, refs: ["ETCSL 2.2.2 288-296", "ETCSL 2.2.2 306-308"], note: "me-li-e-a me-a tuš-u3-de3 me-a gub-bu-de3: 'where am I to sit, where am I to stand?'; uru2-ŋu10-ta e2 kur2 ma-ra-an-du3-u3-de3: shall another house be built for me? 308 i-gi4-in-zu gir5 uru2 kur2-ra: like a stranger in a foreign city"}
+      - {motif: goddess-tears-hair-breast-eyes-in-lament, refs: ["ETCSL 2.2.2 299-301"], note: "lu2 siki-ni numun2-bur-gin7 šu mu-ni-in-dub2-dub2, gaba-ni ub3 kug-ga-am3 i3-sag3-ge: she tore her hair like rushes, beat her breast as a holy drum"}
+      - {motif: city-built-in-falsehood-destroyed-in-truth, refs: ["ETCSL 2.2.2 321"], note: "me-li-e-a du3-a-zu lul-la-am3 gul-la-zu gig-ga-am3: your building was a lie, your destruction is bitter"}
+      - {motif: temple-cult-and-festivals-cease, refs: ["ETCSL 2.2.2 322-323"], note: "eš3 urim2{ki} nidba-bi i3-ba-kur2-ra-am3: the offerings of Urim's shrine are changed"}
+      - {motif: lament-series-of-who-and-why-questions, refs: ["ETCSL 2.2.2 324-325"], note: "ta-a-aš hul-a-ŋu10: 'why has it been ravaged?'"}
+      - {motif: alas-for-my-city-lament, refs: ["ETCSL 2.2.2 329"], note: "a uru2-ŋu10 a e2-ŋu10"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 328-330"]}
+    hints:
+      - "Compare Lam 1:1 (she that was great among the nations is become a widow) and Isa 47:5-8 (no longer called mistress of kingdoms)."
+      - "Compare Lam 5:18 (foxes prowl on Zion) and Deut 28:68 (taken back in ships)."
+      - "Compare Lam 1:10 and 5:2 (strangers seize her treasures) and Jer 6:26; Mic 1:8 (mourning, wailing, tearing)."
+  - id: ane-etcsl-2-2-2-k8-how-can-you-live
+    tradition: ane-sumerian
+    title: "Kirugu 8: 'Lady, how can your heart endure?': priests, festivals and music gone; return to your city (Lament for Urim 331-389)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 331-389"]
+    tags:
+      - {motif: personified-city-speaks, refs: ["ETCSL 2.2.2 331-338"], note: "Refrain nin šag4-zu a-gin7 du3-mu-un za-e a-gin7 i3-til3-le-en: 'lady, how has your heart led you on, how can you live?' addressed to Ningal"}
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.2.2 339", "ETCSL 2.2.2 345"], note: "uru2 du6-du6-da ba-ŋar-ra-zu mušen-bi nu-ŋen: your city made ruin mounds, you are no longer its bird"}
+      - {motif: no-lament-singer-left, refs: ["ETCSL 2.2.2 343"], note: "er2-šag4-ne-ša4 nu-tuku-am3 kur-kur im-ma-an-tuš: there is no one to perform the eršaneša lament; he dwells in foreign lands"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.2.2 347"], note: "urim2{ki} eš3 lil2-e im-ma-an-ŋar: Urim's shrine given to the wind (haunted)"}
+      - {motif: priests-carried-off-cult-ends, refs: ["ETCSL 2.2.2 348-354"], note: "gudug priest, en priestess in the ĝipar, uzga purifier, išib priest with holy prayer, lumah priest in linen: none performs his office"}
+      - {motif: temple-cult-and-festivals-cease, refs: ["ETCSL 2.2.2 355-358"], note: "a-u3-a e2 ezem-ma-za ezen nu-mu-ni-in-dug3-ge-eš: festivals in your festival-house not celebrated"}
+      - {motif: mourning-turned-to-dancing, refs: ["ETCSL 2.2.2 359-360"], note: "Inverted: en3-du-zu er2-ra ba-e-da-an-kur9 ... tigi-zu a-nir-ra: your songs have turned into weeping, your tigi music into lament"}
+      - {motif: music-of-city-silenced, refs: ["ETCSL 2.2.2 356"], note: "šem3 {kuš}a2-la2-e ... tigi-a nu-mu-ra-an-du12-uš"}
+      - {motif: nature-reversal-curse, refs: ["ETCSL 2.2.2 361-366"], note: "your ox brings no butter, your sheep no milk; the fisherman's catch seized by evil; the fowler"}
+      - {motif: roads-of-zion-mourn, refs: ["ETCSL 2.2.2 367-368"], note: "id2 ma2-gur8-ra ... teme{sar} ba-mu2; har-ra-an {ŋiš}gigir-ra ... {ŋiš}kiši16 kur-ra ba-mu2: grass grows in the barge-river, mountain thorn on the chariot road"}
+      - {motif: weeps-to-god-as-to-father, refs: ["ETCSL 2.2.2 369-370"], note: "uru2-zu ama-bi-gin7-nam er2 mu-e-ši-še8-še8; dumu sila ha-lam-ma-gin7 ki mu-e-ši-kiŋ2-kiŋ2: your city weeps to you as to its mother, seeks you like a child lost in the street"}
+      - {motif: ruined-house-bricks-cry-where-are-you, refs: ["ETCSL 2.2.2 372"], note: "šeg12 e2 zid-da-zu lu2-ulu3-gin7 me-a-zu im-me: the bricks of your true house say like a human 'where are you?'"}
+      - {motif: how-long-o-god, refs: ["ETCSL 2.2.2 374"], note: "en3-še3-am3 uru2-za lu2-erim2-gin7 bar-ta ba-e-da-gub: how long will you stand aside from your city like an enemy?"}
+      - {motif: god-stays-outside-city-as-if-foreign, refs: ["ETCSL 2.2.2 374-375"]}
+      - {motif: plea-deity-return-like-ox-to-pen, refs: ["ETCSL 2.2.2 378-380"], note: "ama {d}nin-gal gud-gin7 tur3-zu-še3 udu-gin7 amaš-zu-še3 ... dumu ban3-da-gin7 ama5-zu-še3"}
+      - {motif: plea-that-high-god-say-enough, refs: ["ETCSL 2.2.2 381"], note: "an lugal diŋir-re-e-ne-ke4 muš3-am3-zu he2-em-me: may An, king of the gods, say 'It is enough!' (glossed 'compassion')"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.2.2 382"], note: "Here for the goddess: {d}en-lil2 lugal kur-kur-ra-ke4 nam-zu he2-eb-tar-re: may Enlil decree your fate"}
+      - {motif: restoration-of-fortunes, refs: ["ETCSL 2.2.2 383-386"], note: "uru2-zu ki-bi ha-ra-ab-gi4-gi4 nam-nin-bi ak-a: may your city be restored for you; Nibru, Urim, Isin restored"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 387-389"]}
+    hints:
+      - "Compare Lam 5:15 (our dancing turned to mourning), Lam 1:4 (priests groan, festivals forgotten) and Lam 2:6."
+      - "Compare Jer 31:15-17 (lament and the promise of return) and Hos 14:1-8 (return)."
+      - "Compare 2 Sam 24:16 (It is enough, stay your hand) and Isa 40:1-2 (her term of service is ended)."
+  - id: ane-etcsl-2-2-2-k9-storm-that-destroys
+    tradition: ane-sumerian
+    title: "Kirugu 9: the storm that destroyed city, house, stall and fold (Lament for Urim 390-399)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 390-399"]
+    tags:
+      - {motif: storm-of-divine-wrath, refs: ["ETCSL 2.2.2 390-394"], note: "e ud-de3 ud-de3 kalam teš2-a mi-ni-ib-ra; ud gal an-na-ke4: the great storm of heaven; ud uru2 gul-gul-e ud e2 gul-gul-e"}
+      - {motif: divine-powers-of-city-overturned, refs: ["ETCSL 2.2.2 395-396"], note: "ŋarza kug-ga šu bi2-ib2-la2-a; ŋalga niŋ2 aratta{ki}-ka šu pe-el-la2 im-mi-ib-dug4-ga: holy rites removed, the counsel of Aratta defiled"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.2.2 398"], note: "ud saŋ gig2-ga a2 bi2-ib-la2-a: the storm that bound the arms of the black-headed"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 399"]}
+    hints:
+      - "Compare Jer 23:19; 30:23 (the storm of YHWH has gone forth in wrath) and Nah 1:3."
+  - id: ane-etcsl-2-2-2-k10-storm-knows-no-kin
+    tradition: ane-sumerian
+    title: "Kirugu 10: the storm that knows no mother or father; may it not return; its account hung on Enlil's peg (Lament for Urim 400-417)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 400-417"]
+    tags:
+      - {motif: storm-knows-no-kin, refs: ["ETCSL 2.2.2 402-406"], note: "ud ama nu-zu re ud a-a nu-zu re, ud dam nu-zu ... ud nin9 ... ud šeš ... ud ušur ... ud ma-la nu-zu re"}
+      - {motif: storm-strikes-good-and-evil-alike, refs: ["ETCSL 2.2.2 400"], note: "ud re ud igi-ba teš2 nu-ŋal2-la re: the storm before which there is no shame (respect)"}
+      - {motif: divine-word-destroys-city, refs: ["ETCSL 2.2.2 408"], note: "ud hul gig dug4-ga {d}en-lil2-la2-ta: the evil storm commanded by Enlil"}
+      - {motif: storm-sent-back-against-enemies, refs: ["ETCSL 2.2.2 409-411"], note: "Here only that it not return: a-a {d}nanna ud-bi uru2-zu-ta ki nam-ba-ŋa2-ŋa2 ... im an-ta šeŋ3-ŋe26-gin7 ki-tuš-bi nam-ba-gur-ru: let that storm not be set in your city; like rain from heaven may it not return to its place"}
+      - {motif: plea-city-gates-bolted-against-storm, refs: ["ETCSL 2.2.2 414"], note: "abula ŋi6 u3-na-gin7 {ŋiš}ig he2-bi2-in-keše2-da: may the door be fastened like a gate at night"}
+      - {motif: account-of-calamity-hung-on-peg, refs: ["ETCSL 2.2.2 415-416"], note: "ud-ba šudum-ma na-an-ni-ŋa2-ŋa2, niŋ2-kas7-bi e2 {d}en-lil2-la2-ta {ŋiš}gag-ta he2-em-ta-si-ig: let that storm not be reckoned; let its account be hung on a peg in Enlil's house"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 417"]}
+    hints:
+      - "Compare Gen 9:11-15 (never again a flood) and Isa 54:9 (as I swore the waters of Noah would not again cover the earth)."
+      - "Compare Isa 40:2 (her iniquity is paid) and Col 2:14 (the record nailed to the cross); Q 80:34-37 (on that day a man flees his brother, mother, father, wife and sons)."
+  - id: ane-etcsl-2-2-2-k11-prayer-to-nanna
+    tradition: ane-sumerian
+    title: "Kirugu 11: closing prayer to Nanna: the humble seize your feet; release their sin; restore the city (Lament for Urim 418-438)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.2.2 418-432A", "ETCSL 2.2.2 433-438"]
+    tags:
+      - {motif: humble-suppliant-grasps-deitys-feet, refs: ["ETCSL 2.2.2 421"], note: "{d}nanna lu2 sun5-na ŋiri3-zu mu-un-dab5-be2: the humble man seizes your feet"}
+      - {motif: tears-accepted-as-offering, refs: ["ETCSL 2.2.2 422"], note: "er2 e2 sig9-ga-bi mu-ra-an-de6 igi-zu-še3: he brings you the tears of the silent house before your face"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.2.2 423"], note: "saŋ gig2 ba-ra-šub-bu-uš-a-bi giri17 šu ha-ra-ab-tag-ge-ne: may the scattered black-headed people greet you with hand to nose (prostration gesture)"}
+      - {motif: restoration-of-fortunes, refs: ["ETCSL 2.2.2 424-425", "ETCSL 2.2.2 437"], note: "{d}nanna uru2{ki} ki-bi gi4-a-za pa e3 ha-ra-ab-ak-e: when the city is restored to its place may it shine for you"}
+      - {motif: personal-god-brings-greeting-gift-for-suppliant, refs: ["ETCSL 2.2.2 427", "ETCSL 2.2.2 432A"], note: "diŋir lu2-u18-lu-ke4 kadra mu-ra-an-de6: the personal god of the man brings you a greeting gift"}
+      - {motif: god-releases-sin-of-supplicant, refs: ["ETCSL 2.2.2 431-432"], note: "{d}nanna lu2-ulu3-bi nam-tag-ga-ni u3-mu-e-du8, lu2 a-ra-zu im-me-a-bi šag4 ha-ba-na-huŋ-e: Nanna, when you have released that man's sin, may the heart of the one who prays be soothed"}
+      - {motif: prayer-heard-formula, refs: ["ETCSL 2.2.2 433"], note: "lu2 sizkur2-ra mu-un-gub-ba-bi-ir igi zid mu-un-ši-in-bar: you looked with a faithful eye on the man who stood in prayer"}
+      - {motif: god-pities-like-father, refs: ["ETCSL 2.2.2 429"], note: "{d}nanna arhuš kalam-ma-me-en: Nanna, you are the compassion (arhuš, lit. womb) of the land"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 2.2.2 437"], note: "me-teš2 he2-i-i: may (the city) praise you"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.2 438"]}
+    hints:
+      - "Compare Lam 5:21 (restore us to yourself, YHWH, renew our days as of old) and Ps 51:3-4, 19 (blot out my transgression; a broken heart you will not despise)."
+      - "Compare 1 Kgs 8:33-34, 46-50 (when they pray toward this house, forgive their sin and restore them) and Q 39:53; 2:37 (God turns to the penitent)."
+      - "Compare Ps 103:13 (as a father has compassion) and Isa 49:15; the arhuš / raḥamim 'womb-compassion' pairing."
+  # ---------------- ETCSL 2.4.1.a: Ur-Namma I ----------------
+  - id: ane-etcsl-2-4-1-a-ur-namma-white-mes-tree
+    tradition: ane-sumerian
+    title: "Ur-Namma, white mes tree of Urim, son of Ninsumun, endowed by the great gods (Ur-Namma I, fragments)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.1.a"]
+    tags:
+      - {motif: king-as-great-tree-and-shade, refs: ["ETCSL 2.4.1.a Seg.B:3-5"], note: "lugal mes babbar2 urim5{ki}-ma ki dug3-ge mu2-a, ŋiš-an-dul3 pa gal-gal-la igi an-na gub-ba, ŋissu-zu-uš ... kur2-kur2-ra dul4-la: king, white mes tree grown in a good place in Urim, canopy with great branches standing before An; your shade covers the lands"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.4.1.a Seg.B:8-11"], note: "Enlil gave strength (a2 šum2-ma), Ninlil spoke favourably, Ninḫursaĝa's heart was pleased, Enki gave great wisdom (ŋeštug2 mah)"}
+      - {motif: king-born-of-goddess-mother, refs: ["ETCSL 2.4.1.a Seg.B:7", "ETCSL 2.4.1.a Seg.C:1"], note: "ur-{d}namma dumu {d}nin-sumun2-ke4; ama tud-da-zu {d}nin-sumun2 e2-kiš-nu-ŋal2-la gaba-na he2-em-tab: may your mother who bore you, Ninsumun, clasp you to her breast in Ekišnuĝal"}
+      - {motif: sun-god-of-justice, refs: ["ETCSL 2.4.1.a Seg.A:5"], note: "fragmentary: {d}utu lugal igi-ni-še3 ba-ŋen: Utu the king went before him"}
+    hints:
+      - "Compare Dan 4:7-9 and Ezek 31:3-9 (the king as a great tree whose shade shelters all) and Judg 9:15."
+      - "Compare 1 Kgs 3:12 (God gives the king a wise heart)."
+  # ---------------- ETCSL 2.4.2.07: Šulgi G ----------------
+  - id: ane-etcsl-2-4-2-07-enlil-and-the-birth-of-shulgi
+    tradition: ane-sumerian
+    title: "Adab to Enlil: Enlil's net and the E-kur; Šulgi born of the en priestess and given sceptre and throne (Šulgi G 1-34)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.07 sa–gida.A"]
+    tags:
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 2.4.2.07 sa–gida.A:7"], note: "sa-par3 mah an ki šu2-a eš2 kur-kur-ra la2-a: great net spread over heaven and earth, a rope cast over the lands"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.4.2.07 sa–gida.A:8"], note: "{d}en-lil2-da a-ba a2 mu-da-an-aŋ2 a-ba-ga-an-da-sa2: who can rival Enlil, who can equal him?"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.4.2.07 sa–gida.A:1", "ETCSL 2.4.2.07 sa–gida.A:9-10"], note: "niŋ2-dug4-ga-ni zid: his utterance is true; his heart a great river"}
+      - {motif: throne-established-by-god, refs: ["ETCSL 2.4.2.07 sa–gida.A:13-14"], note: "e2-kur lu2 zid-de3 i3-du3-e mu da-ri2-kam, dumu lu2 zid-da-ke4 ŋidru mi-ni-ib2-su3-ra2 {ŋiš}gu-za-bi nu-kur2: the true man who builds E-kur has an eternal name; his son holds the sceptre long, his throne unchanged"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 2.4.2.07 sa–gida.A:15-20"], note: "Ašimbabbar speaks to Enlil; e2-dug3-ga {d}nanna ... en-ne2 a šag4-tur-še3 ŋal2-la-na lu2 zid mi-ni-u3-tud: in Nanna's Edugga the en priestess bore the true man from the seed placed in her womb; dumu nam-lugal ... šul-gi"}
+      - {motif: god-chooses-king-in-heart, refs: ["ETCSL 2.4.2.07 sa–gida.A:24"], note: "šul-gi {d}en-lil2-le šag4 kug-ge bi2-pad3: Enlil chose Šulgi in his holy heart"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.2.07 sa–gida.A:25-27"], note: "šibir ešgiri2 a2-na mu-ni-la2 ... ŋidru {d}nanna šu nu-bal-e šu-ni-še3 mu-ŋar; dur2 nam-lugal ... gu2 an-še3 mi-ni-zig3: staff and crook, Nanna's unchangeable sceptre, the throne of kingship raised to heaven"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.4.2.07 sa–gida.A:23", "ETCSL 2.4.2.07 sa–gida.A:25", "ETCSL 2.4.2.07 sa–gida.A:29"], note: "sipad kur-kur-ra; sipad he2-ŋal2-la šul-gi"}
+      - {motif: yhwh-my-shepherd, refs: ["ETCSL 2.4.2.07 sa–gida.A:28"], note: "ud šudu3-dam ŋi6 nam-šita-am3 kalam u2-sal-la-am3: days of prayer, nights of supplication, the land a meadow (lying down in pasture)"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.4.2.07 sa–gida.A:31", "ETCSL 2.4.2.07 sa–gida.A:34"], note: "sa-gid2-da with its ŋiš-gi4-ŋal2"}
+    hints:
+      - "Compare 2 Sam 7:12-16 (the son who builds the house: his throne established forever) and Ps 89:30, 37."
+      - "Compare Ps 2:7 and Ps 110:3 (born from the womb of the dawn) and Isa 9:5-6."
+      - "Compare Hab 1:15-17; Ezek 12:13; 17:20 (God's net) and Ps 23:1-2."
+  - id: ane-etcsl-2-4-2-07-shulgi-provider-of-ekur
+    tradition: ane-sumerian
+    title: "Šulgi as provisioner of E-kur; Urim with its holy chest of the abzu; Enlil's good day for Šulgi's reign (Šulgi G 35-70)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.07 sa–jara.C", "ETCSL 2.4.2.07 uru.E"]
+    tags:
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.4.2.07 sa–jara.C:37-39", "ETCSL 2.4.2.07 sa–jara.C:47", "ETCSL 2.4.2.07 sa–jara.C:51-52"], note: "šul-gi e2-kur-ra u2-a-bi na-nam ... gu-bi gu na-nam še-bi še na-nam: Šulgi is E-kur's provisioner, flax and barley; great offerings to gladden E-kur"}
+      - {motif: sacred-chest-no-eye-has-seen, refs: ["ETCSL 2.4.2.07 sa–jara.C:45"], note: "šag4-bi dub-šen kug abzu igi nu-bar: in Urim's heart the holy chest of the abzu, which no eye has seen"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.4.2.07 sa–jara.C:42", "ETCSL 2.4.2.07 sa–jara.C:49", "ETCSL 2.4.2.07 sa–jara.C:60-62"], note: "šul-gi sipad kalam-ma saŋ {d}en-lil2-le zu; sipad zid šul-gi"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.4.2.07 sa–jara.C:46", "ETCSL 2.4.2.07 sa–jara.C:50"], note: "nam-išib dug3-ga-kam šu-luh dadag-ga-kam; šul-gi nam-en-na tug2-ba13 sud-sud-am3: Šulgi wears the garment of en-ship; good išib-priesthood, pure purification rites"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.4.2.07 sa–jara.C:36", "ETCSL 2.4.2.07 sa–jara.C:53", "ETCSL 2.4.2.07 sa–jara.C:64"], note: "nam dug3 tar-ra-ni; šul-gi bal-za {d}en-lil2-le ud dug3 ma-ra-ni-in-e3: in your reign Enlil has made a good day shine for you"}
+      - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.4.2.07 sa–jara.C:59"], note: "ma-da mu-gen6-ge-en6 uŋ3 ŋiri3-ni-še3 mu-nu2: he made the land firm, the people lie at his feet"}
+      - {motif: king-as-protective-shade, refs: ["ETCSL 2.4.2.07 sa–jara.C:61-62"], note: "šeg12 {d}en-lil2-la2 ŋissu-bi dug3-ga-am3 ... ni2 he2-em-ši-ib2-ten-ten: the brickwork of Enlil whose shade is sweet, where the shepherd cools himself"}
+      - {motif: god-chooses-king-in-heart, refs: ["ETCSL 2.4.2.07 uru.E:68"], note: "šul-gi bal zid-da šag4-ge-eš i-pad3: Enlil chose Šulgi in his heart for a righteous reign"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.4.2.07 sa–jara.C:63", "ETCSL 2.4.2.07 sa–jara.C:65", "ETCSL 2.4.2.07 uru.E:69"]}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.4.2.07 uru.E:70"], note: "subscript: a-da-ab {d}en-lil2-la2-kam, an adab of Enlil"}
+    hints:
+      - "Compare Ps 110:4 (a priest forever) and Exod 28 (priestly garments); compare 1 Kgs 8:9 and Heb 9:4 (the ark that no one sees)."
+      - "Compare Ps 121:5 (YHWH is your shade) and Ps 91:1."
+  # ---------------- ETCSL 2.4.2.12: Šulgi L ----------------
+  - id: ane-etcsl-2-4-2-12-shulgi-physician-shepherd
+    tradition: ane-sumerian
+    title: "Fragments of a tigi for Šulgi: the shepherd, the physician, conquest of the rebel land (Šulgi L)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.12"]
+    tags:
+      - {motif: king-as-physician, refs: ["ETCSL 2.4.2.12 sa–gida.A:3", "ETCSL 2.4.2.12 sa–gida.A:5"], note: "fragmentary: a-zu ... mu-na-a-šum2; x sipad a-zu-u3 me-teš2 ša-mu-u3-i-i: the shepherd, the physician, is praised"}
+      - {motif: king-as-shepherd-of-people, refs: ["ETCSL 2.4.2.12 sa–gida.A:4"], note: "sipad šul-gi ni2 kur2-ra i3-ru: shepherd Šulgi imposes terror on the foreign land"}
+      - {motif: rebel-land-to-be-destroyed, refs: ["ETCSL 2.4.2.12 unknown.B:7-12", "ETCSL 2.4.2.12 sa–jara.C:4-6"], note: "aga3-kar2 im-mi-sig10 ... ki-bal-a-ke4 gu2-kiri6 im-mi-dug4: defeat inflicted, the rebel land cries out; tir izi šum2-ma-gin7: like a forest set on fire"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.4.2.12 sa–gida.A:6", "ETCSL 2.4.2.12 sa–jara.C:7"]}
+    hints:
+      - "Compare Exod 15:26 (I am YHWH your healer) and Isa 10:17-18 (as a fire consumes the forest)."
+  # ---------------- ETCSL 2.4.2.14: Šulgi N, lullaby ----------------
+  - id: ane-etcsl-2-4-2-14-lullaby-for-shulgis-son
+    tradition: ane-sumerian
+    title: "A mother's lullaby for a son of Šulgi: come, sleep; a wife and son for you (Šulgi N)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.14 1-114"]
+    tags:
+      - {motif: lullaby-come-sleep, refs: ["ETCSL 2.4.2.14 10-18", "ETCSL 2.4.2.14 92"], note: "du5-mu-ŋu10 u3-sa2-ge ša-mu-un-ku4-ku4-ku4 ... u3-sa2 ŋa2-nu u3-sa2 ŋa2-nu, ki du5-mu-ŋa2-še3: 'sleep come, sleep come to my son'; igi lib4-lib4-a-ni u3 ku-ni-ib: put his restless eyes to sleep"}
+      - {motif: lullaby-promises-wife-and-son, refs: ["ETCSL 2.4.2.14 27-38", "ETCSL 2.4.2.14 57-59"], note: "dam ga-an-na-an-ze2-eŋ3 du5-mu ga-an-na-an-ze2-eŋ3: I will give him a wife, I will give him a son; emeda šag4 hul2-la: a joyful nursemaid; may the wife lie in his warm lap, the son on his knee"}
+      - {motif: righteous-like-green-olive-tree, refs: ["ETCSL 2.4.2.14 2-5"], note: "Interpretive: u3-ru-ru-ŋa2 he2-em-ma-buluŋ3-e ... {ŋiš}i-ri9-na-gin7 ur2 he2-gur4-re, {u2}šakir3-ra-gin7 pa he2-tal2-tal2-e: may he grow strong, may his root be thick like madder, his branches broad like the šakir plant"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 2.4.2.14 21-23"], note: "Here the child is du5-mu u3-mu-un-na {d}šul-gi-ra-kam: the son of the lord Šulgi (divine determinative on the king)"}
+      - {motif: blessing-on-city-wives-and-children, refs: ["ETCSL 2.4.2.14 60-63"], note: "{d}ezina2-{d}ku3-su3 a2-tah-zu ... {d}lamma tuku he2-me-en, bal ud sag9-ga: may the grain goddess be your helper, may you have a protective lamma, a reign of good days"}
+      - {motif: date-palm-every-part-useful, refs: ["ETCSL 2.4.2.14 90-94"], note: "Interpretive: mu-nim-mar-zu pa la2-la2-de3, {ŋiš}peš3-gin7 asila he2-la2: may your date palm spread its fronds, may joy hang on you like figs"}
+      - {motif: night-demons-enter-houses, refs: ["ETCSL 2.4.2.14 41-48"], note: "Interpretive, obscure: the star and the new moon watch; then the man on the wall weeps, the shrew beats the drum, the gecko scratches the cheek, the fly, the lizard: night creatures around the sleeper; lines 69-91 and 101-114 largely broken"}
+    hints:
+      - "Compare Ps 128:3 (your wife like a fruitful vine, your children like olive shoots) and Ps 92:13-15."
+      - "Compare Ps 4:9 and Prov 3:24 (lie down and your sleep will be sweet); Ps 121:6 (the sun shall not strike you, nor the moon by night)."
+  # ---------------- ETCSL 2.4.2.20: Šulgi T ----------------
+  - id: ane-etcsl-2-4-2-20-ninurta-tigi-for-shulgi
+    tradition: ane-sumerian
+    title: "Tigi to Ninurta, dragon-eyed warrior of Nibru, for Šulgi's long life (Šulgi T)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.20"]
+    tags:
+      - {motif: divine-warrior, refs: ["ETCSL 2.4.2.20 sa–gida.A:1-5", "ETCSL 2.4.2.20 sa–jara.B:18-21"], note: "en nam-ur-saŋ-ŋa2 šu du7-a; ušum igi huš muš-šag4-tur3 ki-bal-a uš11-bi: dragon with fierce eyes, viper venom on the rebel land; ud huš izi er9-ra: fierce storm, mighty fire"}
+      - {motif: rebel-land-to-be-destroyed, refs: ["ETCSL 2.4.2.20 sa–gida.A:4", "ETCSL 2.4.2.20 sa–jara.B:20"], note: "ki-bal-a"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.4.2.20 sa–gida.A:5", "ETCSL 2.4.2.20 sa–gida.A:10", "ETCSL 2.4.2.20 sa–gida.A:13"], note: "said of Ninurta: piriŋ, ušumgal kalam-ma"}
+      - {motif: wisdom-given-to-king-by-god, refs: ["ETCSL 2.4.2.20 sa–gida.A:14", "ETCSL 2.4.2.20 sa–jara.B:22"], note: "lugal ŋeštug2 daŋal: the king (Ninurta) of broad wisdom, the clamp of the gods"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.4.2.20 sa–jara.B:29"], note: "šul-gi-re til3 su3-ud mu nam-he2 saŋ-e-eš rig7-ga: long life and years of abundance granted to Šulgi"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.2.20 sa–jara.B:27"], note: "{d}nin-urta za3-mi2"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.4.2.20 sa–gida.A:17", "ETCSL 2.4.2.20 sa–jara.B:28", "ETCSL 2.4.2.20 sa–jara.B:30-31"], note: "subscript ti-gi {d}nin-urta-ka-kam"}
+    hints:
+      - "Compare Ps 18:8-15 and Deut 32:33 (venom of serpents) and Ps 21:5 (he asked life of you)."
+  # ---------------- ETCSL 2.4.2.a: song of Šulgi ----------------
+  - id: ane-etcsl-2-4-2-a-shulgi-visits-temples
+    tradition: ane-sumerian
+    title: "Šulgi goes to Eridug, Nibru, Ešumeša, Keš, Urim, Ebabbar, Kulaba and Zabalam, and each god rejoices"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.a 1-36"]
+    tags:
+      - {motif: king-visits-temples-gods-rejoice, refs: ["ETCSL 2.4.2.a 5-36"], note: "refrain lugal-ŋu10 eridug{ki}-še3 na-ŋen, nun gal a-a {d}en-ki hul2-la-a: 'my king has gone to Eridug, the great prince father Enki rejoicing'; then Enlil, Ninurta, Ninsumun, Dilimbabbar, the lapis-bearded (Utu) at Ebabbar, Ninirigal, Inana"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.4.2.a 5-36"], note: "each couplet repeated with lugal-ŋu10 and then {d}šul-gi-re"}
+      - {motif: lapis-lazuli-beard, refs: ["ETCSL 2.4.2.a 26", "ETCSL 2.4.2.a 28"], note: "sun4 za-gin3 at the Ebabbar (Utu)"}
+    hints:
+      - "Compare Ps 122:1-4 and Ps 84:6-8 (pilgrimage from strength to strength) and 1 Sam 7:16 (Samuel's circuit of Bethel, Gilgal and Mizpah)."
+  # ---------------- ETCSL 2.4.2.b: praise poem of Šulgi ----------------
+  - id: ane-etcsl-2-4-2-b-shulgi-true-shepherd-run
+    tradition: ane-sumerian
+    title: "Šulgi, true shepherd of Sumer, establishes justice, swears by Enlil his praise is no lie, runs from Nibru to Urim"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.2.b"]
+    tags:
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.4.2.b Seg.A:9-10"], note: "šul-gi sipad zid ki-en-gi-ra-me-en3 niŋ2-zid ki-bi-še3 hu-mu-ŋar-ŋa2-ar, niŋ2-erim2 a-ŋi6 a e3-a-gin7 ... he2-mi-bu3: I set righteousness in its place, tore out evil like a rising wave"}
+      - {motif: oath-that-inscriptions-are-not-lies, refs: ["ETCSL 2.4.2.b Seg.A:11-12"], note: "mi2 gal-gal ni2-ŋu10 en-na bi2-dug4-ga, mu {d}en-lil2-la2 lul ba-ra-na he2-gen6: the great praise I have spoken of myself, by the name of Enlil it is no lie, may it be firm"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.2.b Seg.A:5-7"], note: "men kug-ga; ŋidru mah nam-he2-a ... šu-ŋu10-še3 ŋal2-la-bi; {ŋiš}gu-za suhuš gen6-na: holy crown, great sceptre of abundance in my hand, throne of firm foundation"}
+      - {motif: king-runs-nibru-to-urim-in-one-day, refs: ["ETCSL 2.4.2.b Seg.B:9-11"], note: "eš3 nibru{ki}-še3 ŋiri3 urim5{ki}-ma-še3 šu niŋin2-niŋin2-na-ŋa2, kaskal da-na 30 ŋen-na-ŋa2: when I made the round trip from Nibru to Urim, a journey of 30 danna"}
+      - {motif: king-hunts-wild-bulls-and-asses, refs: ["ETCSL 2.4.2.b Seg.A:13", "ETCSL 2.4.2.b Seg.B:8"], note: "Interpretive: am babbar2-gin7 saŋ he2-ši-x; ŋešba2 lirum3-ta a2 ha-ma-gun3: like a white wild bull; wrestling strength"}
+      - {motif: hymns-to-be-sung-of-king, refs: ["ETCSL 2.4.2.b Seg.B:3", "ETCSL 2.4.2.b Seg.B:6-7", "ETCSL 2.4.2.b Seg.B:11"], note: "refrain ŋa2-ra mi2 zid-bi-im hu-mu-dug4: may they speak true praise of me"}
+    hints:
+      - "Compare 2 Sam 8:15 and Ps 72:1-4 (the king does justice) and 2 Sam 23:3-4."
+      - "Compare 1 Kgs 18:46 (Elijah runs before Ahab to Jezreel) and 2 Sam 22:34 (feet like hinds')."
+  # ---------------- ETCSL 2.4.4.9: Šu-Suen I ----------------
+  - id: ane-etcsl-2-4-4-9-shu-suen-forceful-lord
+    tradition: ane-sumerian
+    title: "Šu-Suen, king, mighty lord (Šu-Suen I, incipit only)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.4.9 1"]
+    tags:
+      - {motif: hero-hailed-by-epithets, refs: ["ETCSL 2.4.4.9 1"], note: "{d}šu-{d}suen lugal en gaba-ŋal2: only the first line survives; the king's name bears the divine determinative"}
+  # ---------------- ETCSL 2.4.4.a: hymn for Šu-Suen ----------------
+  - id: ane-etcsl-2-4-4-a-shu-suen-born-of-uras
+    tradition: ane-sumerian
+    title: "Hymn for Šu-Suen: god of abundance born of Uraš, chosen by Enlil and Ninlil, born for godhood (kirugu 1-4 and fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.4.4.a"]
+    tags:
+      - {motif: king-born-of-deity, refs: ["ETCSL 2.4.4.a :1", "ETCSL 2.4.4.a :5-6"], note: "diŋir nam-he u3-tud-da an-na igi bar-ra {d}uraš-a: god of abundance, born (of) Uraš, looked on by An; e2-kur za-gin3-ta saŋ il2-la {d}uraš-e tud-da"}
+      - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.4.a :3"], note: "u3-tud-da-zu-ta lu2 ne-me-en mu {d}nanna-e sa4: from your birth you were a man of strength, named by Nanna"}
+      - {motif: king-born-for-divinity, refs: ["ETCSL 2.4.4.a :41"], note: "ur-saŋ nam-diŋir-še3 tud-da me-te nam-lugal-la: hero born for godhood, the ornament of kingship"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.4.a :7-8"], note: "suh-gir11 saŋ mah {d}en-lil2-la2-kam {ŋiš}ŋidru-ni he2-su3-ud: Enlil's diadem; may his sceptre be long"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.4.4.a :23-27"], note: "a-a {d}en-lil2 en nam tar-re ... {d}en-ki nam tar-re a-a ŋeštug2 daŋal-la: Enlil and Enki who decree fates"}
+      - {motif: king-born-of-goddess-mother, refs: ["ETCSL 2.4.4.a :33"], note: "dumu {d}nin-sumun2-na"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.4.4.a :2", "ETCSL 2.4.4.a :28"], note: "di ku5-ru ka-aš bar-re-da: to judge cases and make decisions"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.4.4.a :21", "ETCSL 2.4.4.a :39"], note: "piriŋ gal barag-ge2-e-ne"}
+      - {motif: lapis-lazuli-beard, refs: ["ETCSL 2.4.4.a :17"], note: "sun4 za-gin3 sud-sud {d}utu-gin7: long lapis beard like Utu"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.4.4.a :12"], note: "{d}šu-{d}suen til3-la ud su3-ra2"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.4.4.a :35-36"], note: "Interpretive: {d}šu-{d}suen kug {d}inana-ke4 pa e3 ... šag4 ki aŋ2 hi-li niŋ2 nu-til-le-dam munus zid: Inana makes him resplendent; beloved heart, unending allure"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.4.4.a :11", "ETCSL 2.4.4.a :13", "ETCSL 2.4.4.a :22", "ETCSL 2.4.4.a :30", "ETCSL 2.4.4.a :32", "ETCSL 2.4.4.a :43"]}
+    hints:
+      - "Compare Ps 2:7; 110:3 and Isa 9:5 ('el gibbor) for the divine birth and titles of the king."
+      - "Compare Jer 1:5 and Isa 49:1 (named from the womb)."
+  # ---------------- ETCSL 2.5.1.2: Išbi-Erra B ----------------
+  - id: ane-etcsl-2-5-1-2-ishbi-erra-and-kindattu
+    tradition: ane-sumerian
+    title: "Išbi-Erra, farmer of Enlil, against Kindattu the Elamite (Išbi-Erra B, fragments)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.1.2"]
+    tags:
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.5.1.2 Seg.A:4-6"], note: "inim {d}en-lil2-la2-ta ... iri{ki} du6-du6-da šid-e-de3 ... nam im-ma-ni-in-tar: by Enlil's word, fate decreed that the city be counted as ruin mounds"}
+      - {motif: king-as-serpent-dragon-darting-tongue, refs: ["ETCSL 2.5.1.2 Seg.B:4"], note: "muš-gin7 uš7 ze2 guru5-a-ni erim2-ma im-mi-in-te: like a snake with venom and gall he approached the enemy"}
+      - {motif: elam-shimashki-destroyers, refs: ["ETCSL 2.5.1.2 Seg.C:4-6", "ETCSL 2.5.1.2 Seg.E:7-8", "ETCSL 2.5.1.2 Seg.F:9"], note: "ba-ši-mi{ki} gaba a-ab-ba ... a-ra-wa{ki} saŋ-kul elam{ki}-ma ... ki-in-da-tu lu2 elam; an-ša4-an{ki} šimaški{ki}: Elam from the sea-coast to Marḫaši, Arawa 'the bolt of Elam'"}
+      - {motif: enemy-dies-of-thirst-in-haunted-steppe, refs: ["ETCSL 2.5.1.2 Seg.E:5-6"], note: "{id2}buranun-na {id2}idigna ... zag-bi im-mi-in-gu7, edin bar-rim4 lil2 bu-bu-da enmen-e mi-ni-in-ug7: (the banks of Euphrates, Tigris, Kirsig and Kiš consumed); in the steppe and dry land where ghosts howl he killed them with thirst"}
+      - {motif: king-as-faithful-farmer-of-enlil, refs: ["ETCSL 2.5.1.2 Seg.E:11-12"], note: "{d}iš-bi-er3-ra-ŋu10 engar {d}en-lil2-le ... a2 mah mu-na-an-šum2: my Išbi-Erra, farmer of Enlil, given great strength"}
+      - {motif: plunder-brought-into-temple-before-god, refs: ["ETCSL 2.5.1.2 Seg.E:3"], note: "Interpretive: kug-sig17 niŋ2-gur11 gi16-sa-a-bi barag-še3 mu-un-du3: gold, property and treasure packed into sacks"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.1.2 Seg.A:8", "ETCSL 2.5.1.2 Seg.C:14", "ETCSL 2.5.1.2 Seg.E:10", "ETCSL 2.5.1.2 Seg.E:13"]}
+    hints:
+      - "Compare 2 Kgs 3:9-20 (an army without water in the wilderness) and Isa 11:14; Jer 49:34-39 (Elam broken)."
+      - "Note: the data has a stray line numbered 40 without a section between Seg.C and Seg.D ('{ŋiš}gigir mah', great chariot)."
+  # ---------------- ETCSL 2.5.2.1: Šu-ilīšu A ----------------
+  - id: ane-etcsl-2-5-2-1-nergal-adab-shu-ilishu
+    tradition: ane-sumerian
+    title: "Adab to Nergal: storm-warrior, dragon drinking blood, junior Enlil of the netherworld; Nergal plucks the king's enemy like a swallow (Šu-ilīšu A)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.2.1"]
+    tags:
+      - {motif: divine-warrior, refs: ["ETCSL 2.5.2.1 barsud.A:1-4", "ETCSL 2.5.2.1 barsud.C:13-15"], note: "en ud huš du7-ru kur2-kur2 suh3-e: lord, raging storm that confounds the foreign lands; šul zig3-ga-ni mir a-ma-ru: his rising a wind and flood"}
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.5.2.1 barsud.C:15"], note: "mir a-ma-ru kur-kur un-tu11-be2"}
+      - {motif: monster-described-mouth-of-dragon-face-of-lion, refs: ["ETCSL 2.5.2.1 barsud.C:16"], note: "{d}nergal ušumgal u3-mun dul4-lu uš2 zi-ŋal2-la na8-na8: dragon covered with gore, drinking the blood of living creatures"}
+      - {motif: god-of-netherworld-as-junior-enlil, refs: ["ETCSL 2.5.2.1 cagbatuku.D:18-23"], note: "{d}nergal e2 da-ri2 iri11-gal {d}en-lil2 ban3-da-me-en, nam tar-re di kud ka-aš bar-re-da za-a-da ša-mu-e-da-ŋal2: Nergal, you are the junior Enlil of the eternal house, the netherworld; deciding fates and judging are yours"}
+      - {motif: sun-god-judges-dead-in-underworld, refs: ["ETCSL 2.5.2.1 barsud.E:25-27"], note: "Interpretive: ki ud šu2-a {d}utu ma-ra-an-e3 ... ki ud e3: at the place of sunset Utu comes out to you; you are lord there and at the place of sunrise"}
+      - {motif: warrior-son-soothes-fathers-angry-heart, refs: ["ETCSL 2.5.2.1 sa–jara.H:42", "ETCSL 2.5.2.1 sa–jara.H:55"], note: "{d}nergal šag4 mir {d}en-lil2-la2 a sed su3: Nergal sprinkles cool water on Enlil's angry heart; šag4 a-a-na mu-un-sed"}
+      - {motif: god-piles-up-skulls, refs: ["ETCSL 2.5.2.1 sa–jara.H:50"], note: "šeg12-bi in-dal-gin7 an-na um-mi-gu7: you make its brickwork vanish into the sky like chaff"}
+      - {motif: blood-poured-like-water, refs: ["ETCSL 2.5.2.1 sa–jara.H:52"], note: "u3-mun-bi šeŋ14-gin7 sur3-sur3-ra i-ni-in-de2: its blood poured like rain into the ditches"}
+      - {motif: net-from-which-none-escapes, refs: ["ETCSL 2.5.2.1 sa–jara.H:46"], note: "{sa}šu2-uš-gal hul-du šu šu2-ur gu2-erim2-ŋal2-la: great battle-net over the evil and hostile"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.2.1 barsud.F:30"], note: "sipad gen6-ne šul zid {d}utu-gin7 di si sa2 kud-kud: steadfast shepherd who judges straight like Utu"}
+      - {motif: enemies-like-tumbleweed-and-chaff, refs: ["ETCSL 2.5.2.1 barsud.F:32", "ETCSL 2.5.2.1 sa–jara.H:60"], note: "hul-du-ni zar-re-eš sal-mu-na-ab: lay his wicked out like sheaves; sim{mušen}-gin7 za-e ur4-ur4-u4-mu-na-ab: pluck them like swallows"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.2.1 barsud.F:37", "ETCSL 2.5.2.1 uru.I:66"], note: "nam-til3-la-ni eš3 e2-meš3-lam-ma ul-še3 ša-mu-ra-ab-mu2-mu2: may his life flourish in Emeslam forever"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.2.1 uru.I:67-68"], note: "barsud, šagbatuku, sa-gida, sa-ĝara and uru sections; subscript a-da-ab {d}nergal-ka-am3"}
+    hints:
+      - "Compare Ps 139:8 (if I make my bed in Sheol, you are there) and Deut 32:41-42 (arrows drunk with blood)."
+      - "Compare Ps 1:4; 83:14 (like chaff before the wind) and Ps 18:9-16."
+  # ---------------- ETCSL 2.5.2.3: Šu-ilīšu C ----------------
+  - id: ane-etcsl-2-5-2-3-adab-shu-ilishu-fragment
+    tradition: ane-sumerian
+    title: "Adab for Šu-ilīšu: final lines only, a prayer for long days"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.2.3"]
+    tags:
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.2.3 uru.A:2"], note: "{d}šu-i3-li2-šu nam X ud ha-ba-ni-X-su3-ud: may his days be long"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.2.3 uru.A:3-4"], note: "u18-ru12-bi-im; a-da-ab {d}x"}
+  # ---------------- ETCSL 2.5.4.08: Išme-Dagan H ----------------
+  - id: ane-etcsl-2-5-4-08-enlil-adab-ishme-dagan
+    tradition: ane-sumerian
+    title: "Adab to Enlil: the Anuna look to Enlil whose word is unalterable; the E-kur's mystery; long reign for Išme-Dagan (Išme-Dagan H)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.08"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 2.5.4.08 sa–gida.A:1-2", "ETCSL 2.5.4.08 sa–gida.A:12"], note: "me gal-gal-la šu du7: perfecter of the great divine powers; me-zu me-a dirig"}
+      - {motif: god-awe-fills-heaven-and-earth, refs: ["ETCSL 2.5.4.08 sa–gida.A:3-4"], note: "ni2-zu an ki-a pa e3: your terror shines in heaven and earth; diŋir an-na an-na bi2-su8-ug: the gods of heaven stand (in awe) in heaven"}
+      - {motif: divine-council, refs: ["ETCSL 2.5.4.08 sa–gida.A:7-8", "ETCSL 2.5.4.08 sa–gida.A:10"], note: "{d}a-nun-na diŋir gal-gal-bi igi-zu-uš si mu-sa2-e-eš ... ŋizzal im-ši-ma-an-ak-eš: the Anuna, the great gods, turn to you and listen to your holy word"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.5.4.08 sa–gida.A:11", "ETCSL 2.5.4.08 sa–jara.C:24-25"], note: "dug4-ga-ni nu-kam3-me-dam; niŋ2 nu-kur2-ru dug4-ga-zu ki-bi-še3 ŋar: your utterance unchangeable, set in its place"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.5.4.08 sa–gida.A:9"], note: "an ki niŋin2-na-bi dili-zu-ni mah-me-en: in all heaven and earth you alone are great"}
+      - {motif: temple-interior-intricate-unknowable, refs: ["ETCSL 2.5.4.08 sa–gida.A:15-17"], note: "e2-kur-ra šag4-bi galam kad4-am3 niŋ2 lu2 nu-zu-am3; ŋarza-bi kug-kug-ga-am3 niŋ2 ka-ge dib-ba-am3: its rites holy, beyond speaking"}
+      - {motif: god-chooses-king-in-heart, refs: ["ETCSL 2.5.4.08 sa–gida.A:13-14"], note: "Here the city: ki-ur3 dur-an-ki šag4-ge pad3-da-za: Kiur, Duranki chosen in your heart"}
+      - {motif: king-begotten-as-gods-son, refs: ["ETCSL 2.5.4.08 sa–gida.A:20", "ETCSL 2.5.4.08 sa–jara.C:28"], note: "{d}iš-me-{d}da-gan dumu ki aŋ2-za: Išme-Dagan your beloved son; dumu {d}en-lil2-la2"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.08 sa–gida.A:20", "ETCSL 2.5.4.08 uru.D:44-45"], note: "nam-lugal-la-a-na bal-bi ha-ra-su3-ud: may the reign of his kingship be long; bal dug3 mu nam-he2"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.4.08 sa–jara.C:27"], note: "nam dug3 tar-mu-ni-ib"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.08 uru.D:46-47"], note: "a-da-ab {d}en-lil2-la2-kam; most of sa-ĝara (32-40) is broken"}
+    hints:
+      - "Compare Ps 89:7-9 (who in the skies is like YHWH, feared in the council of the holy ones) and Isa 40:8, 55:11."
+      - "Compare 1 Kgs 8:12 (YHWH dwells in thick darkness) and Ps 132:13 (YHWH has chosen Zion)."
+  # ---------------- ETCSL 2.5.4.13: Išme-Dagan M ----------------
+  - id: ane-etcsl-2-5-4-13-nanna-adab-ishme-dagan
+    tradition: ane-sumerian
+    title: "Adab to Nanna: the crescent orders months and years; Nanna judges in the netherworld on the day of disappearance; offerings and a good reign for Išme-Dagan (Išme-Dagan M)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.13 sa–gida.A", "ETCSL 2.5.4.13 unknown.C", "ETCSL 2.5.4.13 sa–jara.D", "ETCSL 2.5.4.13 uru.F"]
+    tags:
+      - {motif: god-orders-days-months-years, refs: ["ETCSL 2.5.4.13 sa–gida.A:7"], note: "itid ud-sakar gu-a gen6-ne2 mu ki-bi-še3 X-ŋar: making firm the month and the crescent, setting the year in its place"}
+      - {motif: moon-god-judges-netherworld-at-disappearance, refs: ["ETCSL 2.5.4.13 sa–gida.A:19-20"], note: "ud nu2-a itid šu du7-a-zu ... en kur-ra di gal mu-ku5-re6-en ka-aš mah mu-bar-re-en: on the day of lying down, completing the month, as lord of the netherworld you render great judgment"}
+      - {motif: moon-god-renews-his-light, refs: ["ETCSL 2.5.4.13 sa–gida.A:22", "ETCSL 2.5.4.13 sa–gida.A:25", "ETCSL 2.5.4.13 sa–gida.A:27"], note: "a-a ud-sakar u3-tud: father, born as the crescent; ŋiš-he2 daŋal-la ŋir2 ud mu-ni-bur2 ku10-ku10 X mu-a-dadag: you flash in the broad firmament and brighten the dark"}
+      - {motif: god-brings-early-flood-and-grain, refs: ["ETCSL 2.5.4.13 sa–gida.A:10-12"], note: "{id2}idigna {id2}buranuna-bi a zal-le tum3; še gu-nu; u2-šim: Tigris and Euphrates bring flowing water; dappled barley; greenery"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.4.13 sa–gida.A:21", "ETCSL 2.5.4.13 sa–gida.A:24", "ETCSL 2.5.4.13 uru.F:29-31"], note: "{d}en-ki {d}nin-ki ... en nam tar-re-bi; en gal an kug-ta nam tar-re gal-an-zu"}
+      - {motif: divine-council, refs: ["ETCSL 2.5.4.13 sa–gida.A:26"], note: "e3-zu-še3 sizkur2 a-ra-zu-a {d}a-nun-na X im-ma-sug2-sug2-ge-eš: at your rising the Anuna stand in prayer and supplication"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.5.4.13 sa–jara.D:3-6"], note: "a-a-zu me-ta me ma-ra-an-šum2 en {d}nu-nam-nir-e ... nam-{d}en-lil2-la2 saŋ-e-eš hu-mu-rig7; men aga zid barag mah: your father Enlil gave you divine power upon power, Enlil-ship, crown and dais"}
+      - {motif: men-snared-like-fish-and-birds, refs: ["ETCSL 2.5.4.13 sa–jara.D:7"], note: "kur-kur ku6-gin7 ... saŋ keše2-bi ma-ra-an-šum2: he gave you the foreign lands to bind by the head like fish"}
+      - {motif: god-pities-like-father, refs: ["ETCSL 2.5.4.13 sa–jara.D:12"], note: "uŋ3 saŋ gig2-ga a-a-bi-gin7 igi-bi šu-mu-a-ši-ŋal2: the black-headed look to you as to their father"}
+      - {motif: first-fruits-offered-at-new-moon, refs: ["ETCSL 2.5.4.13 sa–jara.D:11", "ETCSL 2.5.4.13 sa–jara.D:16-18"], note: "buru14 ezen gal: the harvest, a great festival; Išme-Dagan brings fattened bulls, oil and cream (i3 saŋ ga saŋ) to the holy dining hall"}
+      - {motif: king-begotten-as-gods-son, refs: ["ETCSL 2.5.4.13 sa–jara.D:27", "ETCSL 2.5.4.13 uru.F:31"], note: "{d}iš-me-{d}da-gan dumu {d}en-lil2-la2"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.13 uru.F:32-33"], note: "a-da-ab {d}nanna"}
+    hints:
+      - "Compare Ps 104:19 (he made the moon for seasons) and Gen 1:14-16; Sir 43:6-8."
+      - "Compare Ps 145:15-16 (the eyes of all look to you) and Num 28:11-15 (new moon offerings)."
+  - id: ane-etcsl-2-5-4-13-second-manuscript
+    tradition: ane-sumerian
+    title: "Second manuscript of the adab to Nanna for Išme-Dagan (fragmentary line beginnings)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    version: "parallel manuscript (unknown.A, sa–jara.B, uru.D)"
+    read: ["ETCSL 2.5.4.13 unknown.A", "ETCSL 2.5.4.13 sa–jara.B", "ETCSL 2.5.4.13 uru.D"]
+    tags:
+      - {motif: moon-god-judges-netherworld-at-disappearance, refs: ["ETCSL 2.5.4.13 unknown.A:2-5"], note: "only line openings: ud nu2-a ... uŋ3 ... en kur-ra ... ka-aš: repeats sa-gida 19-21"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.13 uru.D:23-24"], note: "a-da-ab {d}nanna-kam; sa-ĝara (B) with Išme-Dagan's name, otherwise broken"}

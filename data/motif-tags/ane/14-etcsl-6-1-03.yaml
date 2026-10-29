@@ -77,6 +77,147 @@ new_motifs:
   lion-in-trap-easily-taken: {label: "Saying: a lion caught in the trap becomes mine simply when the owner removes the wood", cluster: wisdom}
   lion-against-louse-rat-at-work: {label: "Saying: he moves like a lion against a louse, but like a rat when there is work to be done", cluster: wisdom}
   royal-names-in-proverbs: {label: "A proverb names a historical Sumerian king (Išbi-Erra, Ur-Namma, Naram-Suen, Šulgi, Nanni)", cluster: wisdom}
+  four-winds-characterised: {label: "Saying characterising the winds one by one: the north wind satisfying, the south wind harmful, the east wind rain-bearing and a friend of the king, the west wind", cluster: cosmology}
+  knower-should-not-conceal: {label: "Saying: why should someone who knows something conceal it?", cluster: wisdom}
+  one-sows-another-reaps-each-his-task: {label: "Saying: he who ploughs should plough, he who harvests should harvest (each to his own task)", cluster: wisdom}
+  wise-heart-must-know-accounts: {label: "Saying: a heart that does not know accounting, is that a wise heart?", cluster: wisdom}
+  witness-like-fruitful-tree: {label: "Saying: a witness should be like the prosopis tree, from which fruit pods come forth", cluster: wisdom}
+  charm-after-snake-caught: {label: "Saying: after the snake has been caught for him, he himself recites the incantation (taking credit too late)", cluster: wisdom}
+  dreams-of-slave-girl: {label: "Saying: what are the dreams of a slave girl, what are the prayers of a toiling slave?", cluster: wisdom}
+  man-on-roof-to-man-in-house: {label: "Saying: the man lying on the roof says to the man living in the house, 'It is too bright up here!'", cluster: wisdom}
+  thief-steals-honest-mans-work: {label: "Saying: what the thief has taken was made by an honest man", cluster: wisdom}
+  man-covered-in-dust-earth-for-gods: {label: "Saying: to value the earth is for the gods; I am merely covered in dust", cluster: wisdom}
+  bitterness-enters-by-the-mouth: {label: "Saying on body and speech: bitterness that afflicts the anus entered by the mouth; the anus breaks wind, talking produces excess words", cluster: wisdom}
+  bawdy-proverb: {label: "A proverb with frank sexual or scatological content (penis, vulva, anus, breaking wind) used for humour", cluster: wisdom}
+  animal-fable-with-speech: {label: "Short Sumerian animal fable in which animals (elephant, wren, lion, goat, wolf, fox, dog, horse, donkey) speak and are answered", cluster: wisdom}
+  elephant-boasts-wren-answers: {label: "Fable: the elephant boasts that no creature of Šakkan is like him; the small wren answers that it too was created just as he was", cluster: wisdom}
+  wild-bull-free-of-plough: {label: "Sayings on the wild bull: taboo for the plough, free of the plough, wandering in the rushes, doing only what pleases it", cluster: wisdom}
+  barren-cow-seeks-nonexistent-calf: {label: "Saying: like a cow that has never calved, you look for a calf of yours that does not exist", cluster: wisdom}
+  horse-throws-rider-complains-of-load: {label: "Fable: the horse, having thrown its rider, says that were its load always like this it would grow weak; the donkey, having thrown its packs, forgets former burdens", cluster: wisdom}
+  donkey-not-for-omen: {label: "Saying: using a donkey in place of sheep will not give you an omen (the sacrificial animal must be a sheep)", cluster: cult}
+  clever-goat-tricks-lion: {label: "Fable: a she-goat caught by a lion promises a ewe in exchange, calls herself 'I-am-cleverer-than-you' and, once released, mocks the lion from across the fold", cluster: wisdom}
+  lion-deafened-by-boar-squeal: {label: "Fable: the lion catching a wild boar complains that its squeals have deafened his ears before its flesh has filled his mouth", cluster: wisdom}
+  fox-mocks-trapped-lion: {label: "Fable: when the lion falls into a trap, the fox comes and offers to carry his sandals home for him", cluster: wisdom}
+  place-where-lion-ate-man-avoided: {label: "Saying: no one walks a second time where a lion has eaten a man", cluster: wisdom}
+  fox-divides-spoil-nine-for-himself: {label: "Fable: nine wolves catch ten sheep and cannot share them; the fox gives the nine wolves one sheep and takes nine for himself (the lion's share)", cluster: wisdom}
+  trapped-wolf-swears-to-sun-god: {label: "Fable: the wolf caught in a trap swears to Utu by a righteous oath to eat no more sheep, then asks what he can eat now", cluster: wisdom}
+  wolf-weeps-alone-before-sun-god: {label: "Fable: the wolf weeps before Utu that the animals frisk together while he is all alone", cluster: wisdom}
+  wolf-where-shepherd-cannot-increase: {label: "Saying: where the wolf takes sheep the shepherd cannot increase his flock", cluster: wisdom}
+  dog-learns-nothing-twice-beaten: {label: "Fable: a dog beaten with a door-bolt in a warehouse goes back the same night for more and has its leg broken again", cluster: wisdom}
+  dog-knows-take-not-give: {label: "Saying: the dog understands 'Take it!' but not 'Put it down!'", cluster: wisdom}
+  dog-knows-who-loves-him: {label: "Saying: the dog recognises a man who loves him", cluster: wisdom}
+  snarling-dog-given-morsel: {label: "Saying: if a dog snarls, throw a morsel into its mouth", cluster: wisdom}
+  bitch-forbids-funeral-food: {label: "Fable: the bitches tell their young not to eat the food of a funeral offering (ninda ki-sig10-ga)", cluster: wisdom}
+  mother-loves-own-young-whatever-colour: {label: "Fable: the bitch tells the kid that whether yellow or mottled she still loves her own little ones", cluster: wisdom}
+  dog-leaves-party-expecting-more: {label: "Fable: a dog at a party sees only bones and leaves, sure he will get more to eat where he is going", cluster: wisdom}
+  curse-on-destroyed-place: {label: "Saying-curse: where places are destroyed let more be destroyed, where not, let a breach be made, let his place be like chopped turnips", cluster: wisdom}
+  verdict-bearable-curse-not: {label: "Saying: a verdict (di) can be accepted, a curse (aš2) cannot", cluster: wisdom}
+  vermin-provided-for: {label: "Saying: linen is stretched out for the flea, a reed mat woven for the fly, a storehouse built for the gecko (even vermin are provided for)", cluster: wisdom}
+  hoarder-must-slaughter-pig: {label: "Saying: he gathered everything for himself but had to slaughter his pig, used up his wood", cluster: wisdom}
+  borrowed-bread-not-returned: {label: "Saying: you do not return borrowed bread", cluster: wisdom}
+  goes-back-on-word: {label: "Saying: he spoke, but went back on what he said", cluster: wisdom}
+  fate-is-a-biting-dog: {label: "Saying: Fate (nam-tar) is a dog well able to bite; it clings like dirty rags", cluster: wisdom}
+  call-on-god-boat-arrives: {label: "Saying: one cried 'Woe!' and his boat sank, another 'Alas!' and the rudder broke, the young man said 'Ah, god!' and the boat reached its destination", cluster: wisdom}
+  strangers-ox-eats-own-starves: {label: "Saying: a stranger's ox eats grass while one's own ox lies hungry", cluster: wisdom}
+  reed-born-without-father-or-mother: {label: "Riddle-saying: conceived by no father, conceived by no mother, the reed came out of the breast of the storm", cluster: wisdom}
+  surplus-eaten-by-lord: {label: "Saying: do not pile up the barley; once piled it will be eaten by your lord", cluster: wisdom}
+  tell-lie-tell-truth: {label: "Saying: 'Tell a lie, tell the truth' (the two set side by side)", cluster: wisdom}
+  songs-of-city-its-omens: {label: "Saying: the songs of a city are its omen diviners (what is sung shows the city's fate)", cluster: wisdom}
+  excitable-not-foreman: {label: "Saying: those who get excited should not become foremen; a shepherd should not become a farmer", cluster: wisdom}
+  tireless-sleepless-walker: {label: "Saying: I walk about and do not tire, I keep moving and do not sleep", cluster: wisdom}
+  pig-to-slaughter-ancestors-went-same-road: {label: "Fable: the pig squeals on its way to slaughter and the butcher tells it that its ancestors and forebears walked the same road", cluster: wisdom}
+  lost-sow-pigsty-strengthened: {label: "Saying: having lost the sow, they sit and strengthen the pigsty (locking the stable after the horse has gone)", cluster: wisdom}
+  bear-says-sleep-is-gods-gift: {label: "Fable: the hibernating bear turns on its side and says that if An did not give people sleep as he gives it to the bear, they would die", cluster: wisdom}
+  fox-borrows-wild-bull-horns: {label: "Fable: the fox asks Enlil for the wild bull's horns; caught in rain, unable to enter its burrow, it vows to return the feature to its rightful owner", cluster: wisdom}
+  fox-boastful-liar: {label: "Fox sayings: the fox is full of lies, plots treachery, boasts that no one sees its bent behind, and talks its way out of traps", cluster: wisdom}
+  fox-and-goat-shoes: {label: "Fable: the fox wants to leave its shoes in the goat's house but will not stay the night once it hears a dog lives there", cluster: wisdom}
+  raven-waters-tigris-euphrates: {label: "Fable: a raven with a porous jar tells the fox it sprinkles the water into the Tigris and the Euphrates", cluster: wisdom}
+  tree-complains-stone-hurled-at-it: {label: "Fable of trees: a tree tells its kin 'you and I are brothers'; the other is afraid because a stone stronger than it is hurled at it", cluster: wisdom}
+  talking-furniture: {label: "Fable or saying in which an object (table, chair, door) speaks or rejoices", cluster: wisdom}
+  authority-speaks-unpleasant-unjust: {label: "Saying: whatever the man in authority (nir-ĝal2) said, it was not pleasant; it was not right", cluster: wisdom}
+  wise-authorities-loyal-poor-blessing: {label: "Saying: when the authorities are wise and the poor loyal, it is the blessing of Aratta", cluster: wisdom}
+  mighty-man-master-of-earth: {label: "Saying: the mighty man (a2-tuku) is master of the earth", cluster: wisdom}
+  strength-cannot-match-intelligence: {label: "Saying: strength (usu) cannot keep pace with intelligence (igi-ĝal2), and strength comes from a man's mouth", cluster: wisdom}
+  gods-strength-completes-mine: {label: "Saying: the strength of my god completes (or supplants) my own", cluster: theology}
+  old-mans-lament-lost-vigour: {label: "An old man laments his age: youthful vigour has fled his loins like a runaway donkey, his black mountain has sprouted white gypsum, a man from the forest has paralysed his hands, his mongoose no longer stretches toward the ghee", cluster: wisdom}
+  fools-numerous-in-palace: {label: "Saying: ignoramuses are numerous in the palace", cluster: wisdom}
+  knower-silent-is-fool: {label: "Saying: he who knows but does not speak is a fool (is-ḫab2)", cluster: wisdom}
+  fattened-pig-replace-what-i-eat: {label: "Saying: the fattened pig about to be slaughtered says 'let me replace what I eat'; the piglet says it does not eat for pleasure", cluster: wisdom}
+  ruler-kneels-slave-dies: {label: "Saying: when the ruler's wife kneels the slave girl dies; when the ruler kneels, the slave dies (the low pay for the troubles of the great)", cluster: wisdom}
+  slave-usurps-masters-role: {label: "Saying on a slave who has taken the role of lord and a slave girl who has taken the role of lady", cluster: wisdom}
+  run-says-king-wealth-undoes-me: {label: "Saying: 'Run!' is the king's command; because of my silver, my gold, my money chest, I am finished", cluster: wisdom}
+  utu-judge-turn-dream-to-good: {label: "Prayer: Utu, you are my judge, decide my case; turn the dream I have seen into a favourable one", cluster: cult}
+  walk-straight-to-reach-companion: {label: "Saying: let me walk straight, so that I can catch up with my companion", cluster: wisdom}
+  who-can-compare-with-humility: {label: "Saying: who can compare with humility (nam-sun5-na)? it is set in goodness", cluster: wisdom}
+  strong-gathers-wood-weak-waits: {label: "Saying: collecting firewood is a job for the strong man; the weak man sits waiting for him on dry land", cluster: wisdom}
+  lament-priest-safe-while-boat-sinks: {label: "Saying: though the lamentation priest's grain boat was sinking, he would be walking on dry land", cluster: wisdom}
+  sleep-not-in-reedbeds-rats: {label: "Saying: do not sleep in the reedbeds; the rats of the reedbeds will eat you", cluster: wisdom}
+  palace-falls-of-itself: {label: "Saying: a palace will fall of its own accord", cluster: wisdom}
+  revenge-belongs-to-ninurta: {label: "Saying: to take revenge (šu gi4-gi4) is the prerogative (or abomination) of Ninurta", cluster: theology}
+  friend-reaches-goal-like-ship-to-harbour: {label: "Wish: may your friend reach his goal like a ship a good harbour; may your enemy, like flood water, return to his own city", cluster: wisdom}
+  looks-far-not-at-self: {label: "Saying: those who live by the water look to the mountains, they do not look at themselves", cluster: wisdom}
+  adapa-knows-no-loss: {label: "Saying: Adapa (the sage) knows no loss as he walks within the mountains", cluster: wisdom}
+  unpaid-debts-are-debts-to-utu: {label: "Saying: uncleared debts become debts owed to the sun god Utu", cluster: wisdom}
+  scribe-cannot-write-own-name: {label: "Saying mocking a scribe who cannot write his own name: shame on you", cluster: scribal}
+  loving-heart-builds-houses: {label: "Saying: a loving heart builds houses, a hating heart destroys houses", cluster: wisdom}
+  no-wife-chosen-at-festival: {label: "Saying: do not choose a wife during a festival", cluster: wisdom}
+  capable-scribe-boast: {label: "Saying of a scribe boasting of his skill and the prominent place it will win him", cluster: scribal}
+  whirlwind-sent-to-agade: {label: "Saying: 'Whirlwind, I sent you to Agade: what did you do in Agade?' - 'The dream was favourable'", cluster: wisdom}
+  master-knows-steward-does-not: {label: "Saying: the master knows, the steward does not know", cluster: wisdom}
+  loser-loses-for-the-seeker: {label: "Saying: the man who is always losing things loses them for the man who has to look for them", cluster: wisdom}
+  masters-changed-mourning-clothes: {label: "Saying: their masters have changed; they are dressed in mourning clothes", cluster: wisdom}
+  damp-reed-man-untruthful: {label: "Saying: a man who behaves like a damp reed (pliant, servile) towards others does not tell the truth either", cluster: wisdom}
+  paralysis-for-not-praying-to-goddess: {label: "Saying: the man whose knees are paralysed has not prayed devoutly to the birth goddess Nintur (illness as neglect of a deity)", cluster: theology}
+  millstone-floats-for-righteous: {label: "Saying: even a millstone will float in the river for a righteous man (si sa2)", cluster: wisdom}
+  rich-eat-fine-poor-eat-coarse: {label: "Saying: let the wealthy man eat (fine food), let the poor man eat coarse flour", cluster: wisdom}
+  untied-sack-angers-friend: {label: "Saying: a man who did not tie up his leather sack made his friend angry", cluster: wisdom}
+  thief-sayings: {label: "A run of sayings on the thief and burglar (lu2-zuḫ): seen at noon yet carrying off the loot, making a narrow hole, the householder strengthening the windows, caught breaking in", cluster: wisdom}
+  thief-flees-lion-meets-cub: {label: "Saying: the thief, out of fear of facing a lion, ends up facing a lion cub", cluster: wisdom}
+  burglar-digs-through-house: {label: "A burglar breaks into (digs through, buru3) a house wall and is caught", cluster: law}
+  crafty-man-sayings: {label: "A run of sayings on the crafty person (galam): he feasts his neighbour, stirs up the crowd, hangs precious metal on himself", cluster: wisdom}
+  lame-man-sayings: {label: "Sayings and anecdotes about a lame man (kud-ku5-ra2): his mother mocks him, he asks where the runners went, he commands his feet to walk", cluster: wisdom}
+  ecstatic-fathers-child-in-mans-house: {label: "Anecdote: an ecstatic (lu2-gub-ba) enters a man's house and a boy is born to the man's wife; the ecstatic announces the birth to the neighbourhood", cluster: prophecy}
+  ecstatic-at-inanas-gate: {label: "Anecdote: an ecstatic takes his place at Inana's gate and his daughter tells the crowd that her mother's word is true", cluster: prophecy}
+  house-of-debt-no-light: {label: "Saying: a house of debt is a house in which no light shines; let it go up in smoke; creditors chase the indebted household away", cluster: wisdom}
+  mistreating-immigrant-abomination: {label: "Saying: treating an immigrant (gir5) badly is an abomination (niĝ2-gig) to Ninurta", cluster: law}
+  gardener-spares-confessing-boy: {label: "Anecdote: gardeners chase boys out of the orchard; the one caught who agrees to come down and bring the others is promised he will not be punished in his father's house", cluster: wisdom}
+  favour-repaid-to-repayer: {label: "Saying-wish: let the favour be repaid to him who repays a favour; may the god grant good to him who speaks well of others", cluster: wisdom}
+  workers-look-to-enlil-for-cursed-city: {label: "Litany-saying: the farmer, the herdsman, the potter each lift their eyes to Enlil, praying that he look again on the city he cursed", cluster: theology}
+  palace-sayings: {label: "Sayings on the palace (e2-gal): it cannot ignore waste land; it is an ox to be caught by the tail; one day a mother giving birth, the next a mother in mourning; a slippery place; like the netherworld it demands obedience", cluster: kingship}
+  palace-and-netherworld-demand-obedience: {label: "Saying: both the palace and the netherworld (iri11-gal) require obedience from their inhabitants", cluster: wisdom}
+  wives-human-children-divine: {label: "Saying: having wives is human, having children is from the gods", cluster: wisdom}
+  malicious-wife-worst-affliction: {label: "Saying: a malicious wife living in the house is the worst of all afflictions; woe to one who married a malicious husband or bore a malicious son", cluster: wisdom}
+  no-plant-sweet-as-husband: {label: "Saying: a plant as sweet as a husband does not grow in the desert; my husband heaps up for me, my child measures out, my lover picks the bones from the fish", cluster: wisdom}
+  temple-destroyed-by-king-without-posterity: {label: "Saying: the E-babbar that Mesilim built was destroyed by Nanni, a man whose seed was cut off", cluster: wisdom}
+  stranger-leader-in-foreign-city: {label: "Saying: a stranger (gir5) is the leader in a foreign city", cluster: wisdom}
+  well-wisher-mother-of-refugee: {label: "Saying: the well-wisher is the mother of the refugee; may the people wish you well and your god grant what you agree with", cluster: wisdom}
+  enlil-helper-of-lame: {label: "Saying: do not give a lame man a staff (or weapon); Enlil is his helper", cluster: theology}
+  herdsman-must-be-tough: {label: "Saying: let the herdsman whip the ox, the shepherd slaughter the sheep; where there is no toughness no man can go about his business", cluster: wisdom}
+  oil-in-sceptre-unseen: {label: "Saying: if oil is poured into (or onto) the shaft of a sceptre, no one would know", cluster: wisdom}
+  temple-inventory-nothing-added: {label: "Saying: the things of Enlil's temple are counted; nothing may be added to what has been counted, and the names of those who do are to be destroyed", cluster: cult}
+  tigris-duck-euphrates-goose: {label: "Saying: the Tigris is a duck, the Euphrates a goose", cluster: wisdom}
+  rain-on-banks-not-dry-land: {label: "Saying: it rained on the river banks but the dry land did not get a drop", cluster: wisdom}
+  unsound-mind-like-mined-mountain: {label: "Saying: like a mountain mined for precious metal (full of holes), he is a man whose judgment is unsound", cluster: wisdom}
+  thief-becomes-outcast: {label: "Saying: after becoming a thief one becomes an outcast", cluster: wisdom}
+  merchant-through-slave-girls-window: {label: "Saying: he enters through the slave girl's window; he is indeed a merchant", cluster: wisdom}
+  poor-man-never-strikes-son: {label: "Saying: the poor man does not strike his son a single blow; he treasures him forever", cluster: wisdom}
+  poor-man-sayings: {label: "Sayings on the poor man (ukur3): he dines on the broth of the breast, he stares into the soup", cluster: wisdom}
+  idle-low-life-fire-at-midday: {label: "Saying: the idleness of a good-for-nothing (a-ḫur-rum) causes losses; hire him and fire him after half a day", cluster: wisdom}
+  talker-gets-into-palace: {label: "Saying: the quick one hid, the strong one fled, the talker (ka tuku) got into the palace", cluster: wisdom}
+  worth-from-chance: {label: "Saying: your worthiness is the result of chance (ĝiš-šub, the lot)", cluster: wisdom}
+  hills-and-depths-levelled: {label: "Saying: the hills and the depths will be levelled; whenever there is excess, an axe remedies it", cluster: wisdom}
+  misleading-omen-to-naram-suen: {label: "Saying: the whirlwind sent to Agade gave Naram-Suen a lying dream (maš2-ĝi6 lul-la) and provided an interpreter", cluster: prophecy}
+  slave-negligent-at-burial: {label: "Saying: a slave entrusted with a burial will be negligent", cluster: wisdom}
+  build-like-lord-live-like-slave: {label: "Saying: build like a lord and you live like a slave; build like a slave and you live like a lord", cluster: wisdom}
+  house-destroyer-destroys-silver: {label: "Saying: he who destroys houses destroys silver and gold", cluster: wisdom}
+  accept-your-lot-make-mother-happy: {label: "Saying: accept your lot (ĝiš-šub) and make your mother happy; run fast and make your god happy", cluster: wisdom}
+  marriage-blessing-by-inana: {label: "Wedding wish: marry the wife of your choice; may Inana make a hot-limbed wife lie with you and give you broad-shouldered sons", cluster: wisdom}
+  man-s-goods-and-kin-listed: {label: "List-saying: a man's waterskin is his life, his sandals his eyes, his wife his supervisor, his son his protective shade, his daughter his servant, his daughter-in-law his policeman", cluster: wisdom}
+  bird-flees-own-behind: {label: "Saying: the um bird flees, running away from its own behind", cluster: wisdom}
+  great-river-is-grave: {label: "Saying: a great river is a grave (ki-maḫ)", cluster: wisdom}
+  insatiable-glutton-land-too-small: {label: "Saying: from the horizon to the heart of heaven the bread is too little for his great stomach; the grain of the whole land is too little for him", cluster: wisdom}
+  early-worker-early-married-incomparable: {label: "Saying: the early-working shepherd, the early-working farmer, the young man who married while young: who compares to them?", cluster: wisdom}
+  school-food-onions-and-bread: {label: "Saying: morsels of bread and tasty onions are the food of the school (e2-dub-ba-a)", cluster: scribal}
 units:
   - id: ane-etcsl-6-1-03-a-outcast-son-and-time
     tradition: ane-sumerian
@@ -255,7 +396,6 @@ units:
       - {motif: free-worker-worth-several-slaves, refs: ["ETCSL 6.1.03 A.3.183"]}
       - {motif: leader-burning-followers-indifferent, refs: ["ETCSL 6.1.03 A.3.188"]}
       - {motif: righteousness-cut-off-injustice-grows, refs: ["ETCSL 6.1.03 A.3.190"], note: "si sa2 un-tar-e niĝ2-erim2 ib2-il2-e"}
-      - {motif: necromancy, refs: ["ETCSL 6.1.03 A.3.168"], note: "only the lu2-gidim-ma 'necromancer' is named, as one for whom muš barley is taboo"}
     hints:
       - "Fate indifferent to just and wicked: compare Eccl 9:2-3 and Job 9:22."
       - "A word cannot be taken back: compare Prov 18:21, Eccl 5:1-5, Num 30:3."
@@ -272,3 +412,661 @@ units:
     read: ["ETCSL 6.1.03 B.3.b1:1-D.3.d1:4"]
     tags:
       - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.03 B.3.b1:1-D.3.d1:4"], note: "nothing coherent survives: C.3.c1 '[...] nu-dug3 [...] kalag-ga' (not good ... strong), C.3.c2 'a naĝ-naĝ' (drinking water), D.3.d1 nin9 'sister', igi-ni 'his eyes'"}
+  - id: ane-etcsl-6-1-04-a-sky-and-winds
+    tradition: ane-sumerian
+    title: "Proverbs collection 4, source A: the shouting statue, the sky-holder, the four winds, the knower who conceals"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.04 A.4.1:1-A.4.20:28"]
+    tags:
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.04 A.4.1:1-A.4.20:28"]}
+      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.1.04 A.4.4"], note: "an an-guru3 ki šu-ni-še3 an-la2; same as 6.1.03 A.3.167"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.04 A.4.7"], note: "ud šu2-uš ĝiš3-e a ab-ra-an / uš2 šag4-ba-gin7 gi duru5-a ab-la2-en"}
+      - {motif: four-winds-characterised, refs: ["ETCSL 6.1.04 A.4.9"], note: "{tum9}si-sa2 (north), {tum9}u18-lu (south), {tum9}sa12-ti-um (east) tum9 šeĝ14-ĝa2 and tum9 ḫe2-ĝal2-la gu5-li {d}na-ra-am-{d}suen, {tum9}mar-tu (west)"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.04 A.4.9:13"], note: "Naram-Suen, friend of the east wind"}
+      - {motif: knower-should-not-conceal, refs: ["ETCSL 6.1.04 A.4.10"], note: "niĝ2 zu a-na-aš ḫe2-en-de3-šu2"}
+      - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.04 A.4.6"], note: "loosely: 'I will come down on those who speak proudly' (saĝ-gu2-ne-ka-ra), interpretation uncertain"}
+    hints:
+      - "The four winds characterised: compare Prov 25:23 (the north wind brings rain), Job 37:9, Song 4:16, Hos 13:15 (east wind) and Q 30:46."
+      - "The one who knows should not conceal it: compare Prov 11:26 and Q 2:159, 2:174."
+  - id: ane-etcsl-6-1-04-b-witness-thief-and-body
+    tradition: ane-sumerian
+    title: "Proverbs collection 4, source B: the witness like a fruit tree, each to his task, the man on the roof, the thief and the honest man"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.04 B.4.41:1-B.4.63:38"]
+    tags:
+      - {motif: witness-like-fruitful-tree, refs: ["ETCSL 6.1.04 B.4.45"], note: "{ĝiš}kiši16 nam-lu2-inim-ma / ḫarub-ba-am3 im-ta-e3-a"}
+      - {motif: wise-heart-must-know-accounts, refs: ["ETCSL 6.1.04 B.4.46"], note: "šag4 niĝ2-kas7 nu-zu šag4 igi-ĝal2-tuku"}
+      - {motif: one-sows-another-reaps-each-his-task, refs: ["ETCSL 6.1.04 B.4.47"]}
+      - {motif: charm-after-snake-caught, refs: ["ETCSL 6.1.04 B.4.49"], note: "muš un-na-dab5 e-ne ka-inim-ma ba-ab-šum2-mu"}
+      - {motif: snake-bites-before-charming, refs: ["ETCSL 6.1.04 B.4.49"], note: "interpretive: both play on the timing of the snake-charm"}
+      - {motif: dreams-of-slave-girl, refs: ["ETCSL 6.1.04 B.4.51"], note: "ta-am3 ma-mu2 gi4-in-na-kam / ta-am3 sizkur2 e-re sig10 ki-in-na-kam"}
+      - {motif: man-on-roof-to-man-in-house, refs: ["ETCSL 6.1.04 B.4.56"], note: "lu2 ur3-ra-ke4 lu2 e2-a til3-la-ka ... im-ma-zalag-ge-e-še (partly restored)"}
+      - {motif: roof-corner-better-than-contentious-wife, refs: ["ETCSL 6.1.04 B.4.56"], note: "interpretive: the roof-dweller contrasted with the house-dweller"}
+      - {motif: thief-steals-honest-mans-work, refs: ["ETCSL 6.1.04 B.4.58"], note: "lu2-IM ib2-dab5-ba lu2 gen6-na ba-an-dim2"}
+      - {motif: man-covered-in-dust-earth-for-gods, refs: ["ETCSL 6.1.04 B.4.59"], note: "saḫar-ra-am3 bi2-ib2-šu2-šu2-un"}
+      - {motif: bitterness-enters-by-the-mouth, refs: ["ETCSL 6.1.04 B.4.61", "ETCSL 6.1.04 B.4.62"], note: "nam-sis-a bid3 ib-ra ka ba-an-kur9; še10 dur2-e dug4-ge inim dirig-ge am3-ta-ab-tum3"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.04 B.4.48", "ETCSL 6.1.04 B.4.60", "ETCSL 6.1.04 B.4.62"]}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.04 B.4.43", "ETCSL 6.1.04 B.4.54"], note: "left-over clothes are the slave-girl's child's share; 'my mother behaves as if she were my slave-girl'"}
+    hints:
+      - "Each to his own task: compare Eccl 11:6 and John 4:37."
+      - "The good witness bears fruit: compare Ps 1:3, Jer 17:8 and Q 14:24-25."
+      - "The man on the roof: compare Prov 21:9 and 25:24."
+      - "What goes into the mouth: compare Matt 15:11, 17-18 and Prov 18:20-21."
+      - "Covered in dust: compare Gen 18:27 (I am dust and ashes) and Job 30:19."
+  - id: ane-etcsl-6-1-05-a-elephant-bull-ox-horse
+    tradition: ane-sumerian
+    title: "Proverbs collection 5 (animal fables), sources A-B: the elephant and the wren, wild bull, ox, cow, horse and donkey"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 A.5.1:1-B.5.40:24"]
+    tags:
+      - {motif: animal-fable-with-speech, refs: ["ETCSL 6.1.05 A.5.1", "ETCSL 6.1.05 B.5.38", "ETCSL 6.1.05 B.5.39"]}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 A.5.1", "ETCSL 6.1.05 B.5.38"]}
+      - {motif: elephant-boasts-wren-answers, refs: ["ETCSL 6.1.05 A.5.1"], note: "am-si ni2-te-a-ni maš2-anše {d}šakkan2-ka / niĝ2 ĝe26-gin7-nam nu-ĝal2 ... u3 ĝe26-e igi-te-en-ĝu10-še3 / za-a-gin7-nam al-dim2-me-en-e-še; one manuscript (lines A-E) has a bilingual Akkadian version in which the boast is about defecating (zu-u2)"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 6.1.05 A.5.1:A-A.5.1:E", "ETCSL 6.1.05 A.5.2"]}
+      - {motif: wild-bull-free-of-plough, refs: ["ETCSL 6.1.05 A.5.3", "ETCSL 6.1.05 A.5.4", "ETCSL 6.1.05 A.5.5", "ETCSL 6.1.05 A.5.6"], note: "am-e niĝ2-gig apin-na-kam; am-e {ĝiš}apin-na du8-du8-u3"}
+      - {motif: wild-bull-taboo-for-plough, refs: ["ETCSL 6.1.05 A.5.3"]}
+      - {motif: barren-cow-seeks-nonexistent-calf, refs: ["ETCSL 6.1.05 B.5.34"], note: "ab2 u3-nu-tud-da-gin7 amar-za nu-me-a mi-ni-ib-kiĝ2-kiĝ2-e-en"}
+      - {motif: horse-throws-rider-complains-of-load, refs: ["ETCSL 6.1.05 B.5.38", "ETCSL 6.1.05 B.5.39"]}
+      - {motif: dog-barks-if-not-fed, refs: ["ETCSL 6.1.05 A.5.14"], note: "variant: the dog snarls at an ox scrubbed with soap"}
+    hints:
+      - "The elephant and the wren: compare the boast of the axe, Isa 10:15, and the small creatures that are wise, Prov 30:24-28; Q 27:18-19 (the ant)."
+      - "The wild bull that will not plough: compare Job 39:9-12."
+      - "Gordon's 'from many oxen, is there no dung?' (B.5.26-27): compare Prov 14:4."
+  - id: ane-etcsl-6-1-05-c-donkey
+    tradition: ane-sumerian
+    title: "Proverbs collection 5, source C: donkey sayings and fables"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 C.5.41:1-C.5.51:22"]
+    tags:
+      - {motif: animal-fable-with-speech, refs: ["ETCSL 6.1.05 C.5.42", "ETCSL 6.1.05 C.5.47", "ETCSL 6.1.05 C.5.51"]}
+      - {motif: donkey-not-for-omen, refs: ["ETCSL 6.1.05 C.5.46"], note: "anše bar udu ḫi-a-ka ĝiškim nu-mu-e-da-tuku"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.05 C.5.44"]}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 C.5.47", "ETCSL 6.1.05 C.5.51"], note: "the donkey advises on not living in the brother-in-law's house and when to choose a wife; a sick donkey is told a canal inspector (ku3-ĝal2) will make its bones well"}
+    hints:
+      - "A donkey unfit for an omen sacrifice: compare Exod 13:13 (the firstling of a donkey redeemed with a lamb)."
+      - "The talking donkey: compare Num 22:28-30."
+  - id: ane-etcsl-6-1-05-d-lion
+    tradition: ane-sumerian
+    title: "Proverbs collection 5, source D: the lion fables (the clever goat, the boar, the trapped lion and the fox)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 D.5.52:1-D.5.68:33"]
+    tags:
+      - {motif: clever-goat-tricks-lion, refs: ["ETCSL 6.1.05 D.5.55"], note: "umun2 mu-e-da-ak-e mu-ĝu10-um 'I-am-cleverer-than-you is my name'; ... bar udu ḫi-a-ka nu-dur2-ru-na-e-še 'no sheep live here'"}
+      - {motif: lion-deafened-by-boar-squeal, refs: ["ETCSL 6.1.05 D.5.57"]}
+      - {motif: fox-mocks-trapped-lion, refs: ["ETCSL 6.1.05 D.5.58"], note: "ur-maḫ-e pu2 niĝ2 ĝiri3-a-ka u3-mu-ni-in-šub / ka5-a ... {kuš}e-sir2-zu ... e2-še3 mu-e-ši-tum3-mu-un-e-še"}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.55", "ETCSL 6.1.05 D.5.57", "ETCSL 6.1.05 D.5.58"]}
+      - {motif: place-where-lion-ate-man-avoided, refs: ["ETCSL 6.1.05 D.5.67"]}
+      - {motif: dog-knows-who-loves-him, refs: ["ETCSL 6.1.05 D.5.60"], note: "analogous: 'in the reedbeds the lion does not eat his acquaintance' (lu2 zu-a-ni nu-ub-gu7)"}
+      - {motif: lion-in-trap-easily-taken, refs: ["ETCSL 6.1.05 D.5.58"]}
+    hints:
+      - "The lion in the pit: compare Ezek 19:4, 8 and Ps 7:16, 57:7."
+      - "When the lion roars (D.5.63): compare Amos 3:8 and Prov 19:12, 20:2."
+  - id: ane-etcsl-6-1-05-d-wolf-and-fox
+    tradition: ane-sumerian
+    title: "Proverbs collection 5, source D: wolf fables (the fox's share, the wolf's oath to Utu, the lonely wolf)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 D.5.x1:34-D.5.x13:70"]
+    tags:
+      - {motif: fox-divides-spoil-nine-for-himself, refs: ["ETCSL 6.1.05 D.5.x5"], note: "9 za-e-en-ze2-en 1-am3 šu te-ba-ab-ze2-en / ĝe26-e dili-ĝu10-ne 9 šu ga-ba-ab-ti"}
+      - {motif: trapped-wolf-swears-to-sun-god, refs: ["ETCSL 6.1.05 D.5.x10"], note: "{d}utu-ra an-na-ab-be2 ... sila4 na-an-gu7-e-en ... mu zid-ĝu10-a i-ni-dug4-ga / DU ĝe26-e a-na ga-gu7-e-še"}
+      - {motif: wolf-weeps-alone-before-sun-god, refs: ["ETCSL 6.1.05 D.5.x11"], note: "ur-bar-ra {d}utu-ra er2 i3-še8-še8 maš2-anše ba-du7-du7 / ĝe26-e dili-ĝu10-ne-e-še"}
+      - {motif: wolf-where-shepherd-cannot-increase, refs: ["ETCSL 6.1.05 D.5.x13"]}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.x5", "ETCSL 6.1.05 D.5.x6", "ETCSL 6.1.05 D.5.x7", "ETCSL 6.1.05 D.5.x10"]}
+      - {motif: animal-fable-with-speech, refs: ["ETCSL 6.1.05 D.5.x6"], note: "Utu tells the eating wolf it will grow fat if it praises him"}
+    hints:
+      - "The repentant wolf in the trap: compare the promise made in distress and broken, Exod 9:27-28, 34-35; Q 10:12, 10:22-23."
+      - "Wolf and sheep: compare Isa 11:6, 65:25 and John 10:12."
+  - id: ane-etcsl-6-1-05-d-dog-1
+    tradition: ane-sumerian
+    title: "Proverbs collection 5, source D: dog sayings and fables (the dog and the door-bolt)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 D.5.75:71-D.5.102:125"]
+    tags:
+      - {motif: dog-knows-take-not-give, refs: ["ETCSL 6.1.05 D.5.81"], note: "ur-gir15-re šu te-ba-ab mu-un-zu / ĝa2-ĝa2 nu-un-zu"}
+      - {motif: dog-knows-who-loves-him, refs: ["ETCSL 6.1.05 D.5.83"], note: "ur-gir15-re lu2 ki aĝ2-bi mu-un-zu"}
+      - {motif: dog-learns-nothing-twice-beaten, refs: ["ETCSL 6.1.05 D.5.102"], note: "šaĝan-la2 {ĝiš}suḫub4 ib2-ba-ni ba-an-ḫaš ... an-ga-am3 gur-ru-da-ni-ta ib2-ba-ni ba-an-ḫaš"}
+      - {motif: dog-returns-to-vomit, refs: ["ETCSL 6.1.05 D.5.102"], note: "interpretive: the dog that goes back for the same blow"}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.77", "ETCSL 6.1.05 D.5.78", "ETCSL 6.1.05 D.5.84", "ETCSL 6.1.05 D.5.102"], note: "the dog speaks to its master, to its anus, to its tail"}
+      - {motif: dog-barks-if-not-fed, refs: ["ETCSL 6.1.05 D.5.93"], note: "ur-gir15 {ĝiš}ellag ra-gin7 dum-dam i3-ib2-za, = 6.1.03 A.3.95"}
+      - {motif: insult-catalogue-of-animals, refs: ["ETCSL 6.1.05 D.5.98", "ETCSL 6.1.05 D.5.99", "ETCSL 6.1.05 D.5.100", "ETCSL 6.1.05 D.5.101"], note: "loosely: comparisons with rabid dogs (ur mu2-da-gin7)"}
+    hints:
+      - "The dog that goes back for the same blow: compare Prov 26:11 and 2Pet 2:22."
+      - "Dog sayings: compare 1Sam 17:43, 2Sam 9:8 and Q 7:176 (the panting dog)."
+  - id: ane-etcsl-6-1-05-d-dog-2
+    tradition: ane-sumerian
+    title: "Proverbs collection 5, source D: more dog sayings (the snarling dog, the dog at the party, the bitch and her puppies)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.05 D.5.103:126-D.5.125:161", "ETCSL 6.1.05 E.5.e1:1-E.5.e2:3"]
+    tags:
+      - {motif: snarling-dog-given-morsel, refs: ["ETCSL 6.1.05 D.5.107"], note: "ur-gir15-re zu2 mu-ra-ra / ninda pax-ra2 ka-ga14-na"}
+      - {motif: dog-leaves-party-expecting-more, refs: ["ETCSL 6.1.05 D.5.116"]}
+      - {motif: bitch-forbids-funeral-food, refs: ["ETCSL 6.1.05 D.5.119"], note: "ninda ki-sig10-ga na-an-gu7-un-ze2-en"}
+      - {motif: mother-loves-own-young-whatever-colour, refs: ["ETCSL 6.1.05 D.5.123"], note: "mi-ni-ib-sig7-sig7-ge-en / mi-ni-ib-gun3-gun3-un dumu-ĝu10 ki ab-aĝ2-e-še"}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.05 D.5.116", "ETCSL 6.1.05 D.5.119", "ETCSL 6.1.05 D.5.123"]}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.05 E.5.e1:1-E.5.e2:3"], note: "source E: only line-ends survive"}
+    hints:
+      - "Food of the funeral offering: compare Deut 26:14 (not eaten of it in mourning, nor given of it to the dead) and Ps 106:28."
+      - "A dog on the roof (D.5.109) and a dog with nowhere to sleep (D.5.111): compare Matt 8:20."
+  - id: ane-etcsl-6-1-07-ab-destroyed-place-and-boat
+    tradition: ane-sumerian
+    title: "Proverbs collection 7, sources A-B: the curse on the destroyed place, the sinking boat, verdict and curse, flea and fly, borrowed bread"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.07 A.7.1:1-A.7.1:6", "ETCSL 6.1.07 B.7.9:1-B.7.53:65"]
+    tags:
+      - {motif: curse-on-destroyed-place, refs: ["ETCSL 6.1.07 A.7.1"], note: "largely restored from parallels: [ki gul-la-ba ki] ḫe2-en-gul / [ki nu-gul]-la-ba [gu2-ĝiri3] ḫe2-en-ĝal2 / [ki-ni ki lu-ub2] ku5-ra2 ḫe2-a; then 'where there are bonds (di-ir-ga-a) you should not destroy the place'"}
+      - {motif: lion-against-louse-rat-at-work, refs: ["ETCSL 6.1.07 B.7.13"]}
+      - {motif: cobblers-children-unshod, refs: ["ETCSL 6.1.07 B.7.14"]}
+      - {motif: nothing-changes-saying, refs: ["ETCSL 6.1.07 B.7.21"], note: "'If the boat sinks I will pull out the cargo' ... ud mu-da-zal a-na mu-e-ši-ti / i3-dirig nu-su-su (the time passed, what did you gain? it floats, it did not sink)"}
+      - {motif: verdict-bearable-curse-not, refs: ["ETCSL 6.1.07 B.7.28"], note: "line 28 restored: [di gid2-i al-ĝal2] / aš2 gid2-i nu-ĝal2"}
+      - {motif: vermin-provided-for, refs: ["ETCSL 6.1.07 B.7.29"], note: "partly restored: [umun3-e gada] ba-la2 / [nim-saḫar-ra] {gi}kid-aš-rin ba-e-sig9 / [muš-da]-gur4-ra šutum ba-na-an-du3"}
+      - {motif: hoarder-must-slaughter-pig, refs: ["ETCSL 6.1.07 B.7.31", "ETCSL 6.1.07 B.7.32"], note: "restored throughout from 6.1.01"}
+      - {motif: borrowed-bread-not-returned, refs: ["ETCSL 6.1.07 B.7.37"], note: "ninda šu ti-a [li-bi2-in-gur-ra], restored"}
+      - {motif: wicked-borrows-righteous-gives, refs: ["ETCSL 6.1.07 B.7.37"]}
+      - {motif: goes-back-on-word, refs: ["ETCSL 6.1.07 B.7.41"], note: "bi2-in-dug4 ba-da-an-gur"}
+      - {motif: lie-increases-evil-and-ruin, refs: ["ETCSL 6.1.07 B.7.48"]}
+      - {motif: tireless-sleepless-walker, refs: ["ETCSL 6.1.07 B.7.47"], note: "al-di-di-de3-en nu-kuš2-u3-de3-en / i3-di-di-de3-en u3 nu-ku-ku-me-en"}
+      - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.07 B.7.44"], note: "inverse: ka ba-an-la2-a dam-a-ni gi4-in-nam 'he whose speech is humble (lowered mouth), his wife is a slave girl'"}
+    hints:
+      - "Even the flea and the fly are provided for: compare Ps 104:27-28, 145:15-16, Matt 6:26 and Q 11:6."
+      - "Borrowed bread not returned: compare Ps 37:21."
+      - "He went back on his word: compare Num 30:3 and Eccl 5:4-5."
+      - "Never tiring, never sleeping: compare Ps 121:4 and Isa 40:28."
+  - id: ane-etcsl-6-1-07-c-fate-and-the-reed
+    tradition: ane-sumerian
+    title: "Proverbs collection 7, source C: Fate a biting dog, the boat that reached port, the stranger's ox, the fatherless reed, the songs of a city"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.07 C.7.70:1-C.7.122:96"]
+    tags:
+      - {motif: fate-is-a-biting-dog, refs: ["ETCSL 6.1.07 C.7.70"], note: "nam-tar [ur]-am3 [zu2 mu-un-da-ab-kud] / tug2-mu-dur7-ra-gin7 [im-ma-tab-tab]; the dog and its bite are restored from 6.1.02"}
+      - {motif: call-on-god-boat-arrives, refs: ["ETCSL 6.1.07 C.7.77"], note: "ĝuruš-e u8-a diĝir-ra-am3 di {ĝiš}ma2 ki-bi ba-te"}
+      - {motif: woe-and-boat-sinks, refs: ["ETCSL 6.1.07 C.7.77"]}
+      - {motif: strangers-ox-eats-own-starves, refs: ["ETCSL 6.1.07 C.7.81"], note: "gud kur2-ra u2 gu7-gu7 / gud ni2-ba i3-šim-ma nu2-nu2"}
+      - {motif: brothers-make-sister-guard-vineyards, refs: ["ETCSL 6.1.07 C.7.81"], note: "interpretive: tending others' while one's own goes hungry"}
+      - {motif: reed-born-without-father-or-mother, refs: ["ETCSL 6.1.07 C.7.93"], note: "[ad]-da a ḫur nu-ri / [ama-a] a ḫur nu-ri / [{gi}en3-bar] gaba ud-da [e3]-a"}
+      - {motif: nomad-does-not-know-grain, refs: ["ETCSL 6.1.07 C.7.95"]}
+      - {motif: surplus-eaten-by-lord, refs: ["ETCSL 6.1.07 C.7.96"]}
+      - {motif: tell-lie-tell-truth, refs: ["ETCSL 6.1.07 C.7.89"], note: "lul dug4-ga-ab / zid dug4-ga-ab"}
+      - {motif: lost-loincloth-becomes-fine-garment, refs: ["ETCSL 6.1.07 C.7.99"]}
+      - {motif: live-for-today-bound-like-bull, refs: ["ETCSL 6.1.07 C.7.100"]}
+      - {motif: excitable-not-foreman, refs: ["ETCSL 6.1.07 C.7.104"], note: "line 65 wholly restored; sipad engar [nam-me]"}
+      - {motif: free-worker-worth-several-slaves, refs: ["ETCSL 6.1.07 C.7.105"]}
+      - {motif: songs-of-city-its-omens, refs: ["ETCSL 6.1.07 C.7.121"], note: "[iri en3]-du-bi [maš2-šu]-gid2-gid2-bi, partly restored"}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.07 C.7.88"], note: "'let me ..., let me destroy it' is the way of the slave girl of a lukur priestess"}
+    hints:
+      - "Crying 'Ah god!' and the boat reaches port: compare Ps 107:23-30, Jonah 1:5-6, 14-15 and Q 10:22, 29:65, 31:32."
+      - "Without father, without mother: compare Heb 7:3 (Melchizedek) and Q 3:59 (Jesus like Adam)."
+      - "The stranger's ox eats: compare Song 1:6 and Deut 28:31-33."
+      - "Fate a biting dog: compare Eccl 9:11-12."
+  - id: ane-etcsl-6-1-08-ab-pig-goat-fox
+    tradition: ane-sumerian
+    title: "Proverbs collection 8, sources A-B: pig, goat, bear and fox fables"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.08 A.8.a1:1-A.8.a7:11", "ETCSL 6.1.08 B.8.b1:1-B.8.b36:70"]
+    tags:
+      - {motif: animal-fable-with-speech, refs: ["ETCSL 6.1.08 A.8.a2", "ETCSL 6.1.08 B.8.b14", "ETCSL 6.1.08 B.8.b20", "ETCSL 6.1.08 B.8.b28", "ETCSL 6.1.08 B.8.b29"]}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.08 B.8.b6", "ETCSL 6.1.08 B.8.b14", "ETCSL 6.1.08 B.8.b19", "ETCSL 6.1.08 B.8.b28"]}
+      - {motif: pig-to-slaughter-ancestors-went-same-road, refs: ["ETCSL 6.1.08 A.8.a2"], note: "kaskal ninda2-zu u3 pa-bil-ga-zu i3-re7-eš-am3 / u3 za-e al-du-un-na-ni gu3 i3-ra-ra-e-še"}
+      - {motif: way-of-all-the-earth, refs: ["ETCSL 6.1.08 A.8.a2"], note: "interpretive: the road all the ancestors walked"}
+      - {motif: lost-sow-pigsty-strengthened, refs: ["ETCSL 6.1.08 B.8.b2"], note: "megida2 u2-gu de2-a-ta i3-dur2-ru-ne / {e2}ir-da mu-un-kal-la-ge-ne"}
+      - {motif: goat-knows-wasteland-unvisited, refs: ["ETCSL 6.1.08 B.8.b7"]}
+      - {motif: bear-says-sleep-is-gods-gift, refs: ["ETCSL 6.1.08 B.8.b14"], note: "az-e itid 6-kam-ma ti-ba u3-un-bal / an u3-sa2 na-an-šum2-mu-un / ĝa2-a-gin7-nam ḫe2-ug7-e-še"}
+      - {motif: fox-borrows-wild-bull-horns, refs: ["ETCSL 6.1.08 B.8.b20"], note: "ka5-a {d}en-lil2-le si-am-e al u3-bi2-in-dug4 ... ĝarza2 lugal-a-ni-ir ga-ba-ni-ib-gur-e-še"}
+      - {motif: fox-boastful-liar, refs: ["ETCSL 6.1.08 B.8.b22", "ETCSL 6.1.08 B.8.b30", "ETCSL 6.1.08 B.8.b33", "ETCSL 6.1.08 B.8.b35"], note: "e-ne dirig ne-e lul ab-dirig-e-še; ka5-a nam-lul-la ĝeštug2-ga-ni in-gub-ma"}
+      - {motif: fox-and-goat-shoes, refs: ["ETCSL 6.1.08 B.8.b28"]}
+      - {motif: elephant-boasts-wren-answers, refs: ["ETCSL 6.1.08 B.8.b19"], note: "the small mocks the great: a fox stamps on the elephant's crotch, 'It's enough, it's too much!'"}
+      - {motif: little-foxes-spoil-vineyards, refs: ["ETCSL 6.1.08 B.8.b29"], note: "loosely: the fox in the thorny den the dog cannot enter"}
+    hints:
+      - "The fox who asked for horns and gave them back: compare the fable of the trees (Judg 9:8-15) and the bramble that wants to rule."
+      - "Sleep as the god's gift: compare Ps 127:2 and Q 25:47, 78:9 (sleep made for rest)."
+      - "The pig's ancestors went the same road: compare Josh 23:14, 1Kgs 2:2 and Eccl 3:19-20."
+      - "Foxes: compare Song 2:15, Ezek 13:4, Luke 13:32."
+  - id: ane-etcsl-6-1-08-cde-birds-trees-furniture
+    tradition: ane-sumerian
+    title: "Proverbs collection 8, sources C-E: birds, the raven and the fox, trees and furniture that speak"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.08 C.8.c1:1-E.8.e10:18"]
+    tags:
+      - {motif: silver-grain-cattle-bring-sleep, refs: ["ETCSL 6.1.08 C.8.c1"], note: "lu2 še tuku-tuku ... u3 mu-un-[ku-ku], partly restored"}
+      - {motif: raven-waters-tigris-euphrates, refs: ["ETCSL 6.1.08 D.8.d2"], note: "uga{mušen} {dug}saḫar ... {id2}idigna {id2}buranun-na-še3 i-ni-in-su3-e"}
+      - {motif: talking-animal, refs: ["ETCSL 6.1.08 D.8.d2"]}
+      - {motif: tree-complains-stone-hurled-at-it, refs: ["ETCSL 6.1.08 E.8.e2", "ETCSL 6.1.08 E.8.e3"], note: "[ĝe26]-e u3 za-e šeš-me-en-de3-en ... na4 dirig ĝe26-e al-kal-la-ge ugu-ĝa2 i3-ra-ra-e-še"}
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 6.1.08 E.8.e1", "ETCSL 6.1.08 E.8.e2"], note: "loosely: a date-palm and trees speak to their relatives"}
+      - {motif: talking-furniture, refs: ["ETCSL 6.1.08 E.8.e5"], note: "{ĝiš}banšur in-ḫul2 id2-da i3 mu-sur / {ĝiš}banšur igi-zu-še3 al-ĝa2-ĝa2"}
+      - {motif: thief-steals-honest-mans-work, refs: ["ETCSL 6.1.08 E.8.e8"], note: "the thief hurls a throw-stick at a tied-up sheep"}
+    hints:
+      - "Trees that speak: compare Judg 9:8-15 and 2Kgs 14:9."
+      - "A table set before you: compare Ps 23:5 and Q 5:112-114 (the table sent down)."
+  - id: ane-etcsl-6-1-09-a-authority-and-strength
+    tradition: ane-sumerian
+    title: "Proverbs collection 9, source A: the man in authority, strength and intelligence, lost youth, the fattened pig"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.09 A.9.a1:1-A.9.a18:23"]
+    tags:
+      - {motif: authority-speaks-unpleasant-unjust, refs: ["ETCSL 6.1.09 A.9.a1", "ETCSL 6.1.09 A.9.a2"], note: "nir-ĝal2-e a-na bi2-in-dug4 nu-sag9 / nu-zid"}
+      - {motif: wise-authorities-loyal-poor-blessing, refs: ["ETCSL 6.1.09 A.9.a3"]}
+      - {motif: mighty-man-master-of-earth, refs: ["ETCSL 6.1.09 A.9.a4"]}
+      - {motif: strength-cannot-match-intelligence, refs: ["ETCSL 6.1.09 A.9.a5", "ETCSL 6.1.09 A.9.a6"], note: "usu igi-ĝal2-tuku nu-ub-da-sa2"}
+      - {motif: wisdom-better-than-weapons, refs: ["ETCSL 6.1.09 A.9.a6"]}
+      - {motif: gods-strength-completes-mine, refs: ["ETCSL 6.1.09 A.9.a7"], note: "usu diĝir-ĝa2 ni2-ĝa2 ba-til"}
+      - {motif: old-mans-lament-lost-vigour, refs: ["ETCSL 6.1.09 A.9.a8"], note: "nam-ĝuruš-ĝu10 anše kar-ra-gin7 ḫaš2-ĝa2 ba-e-taka4"}
+      - {motif: fools-numerous-in-palace, refs: ["ETCSL 6.1.09 A.9.a9"]}
+      - {motif: knower-silent-is-fool, refs: ["ETCSL 6.1.09 A.9.a10"], note: "zu-a nu-di is-ḫab2-ba-am3"}
+      - {motif: fattened-pig-replace-what-i-eat, refs: ["ETCSL 6.1.09 A.9.a12", "ETCSL 6.1.09 A.9.a13"]}
+      - {motif: ruler-kneels-slave-dies, refs: ["ETCSL 6.1.09 A.9.a14"], note: "line ends restored from parallels: [geme2 ug5-ga]-am3, [arad ug5-ga-am3]"}
+    hints:
+      - "Strength cannot match intelligence: compare Eccl 9:16-18, Prov 21:22, 24:5."
+      - "The strength of my god completes mine: compare Ps 18:33, Isa 40:29-31, Phil 4:13."
+      - "Lost youthful vigour and white hair: compare Eccl 12:1-5, Ps 71:9, Q 19:4 (my head is aflame with grey)."
+      - "The silent knower a fool: contrast Prov 17:28 (even a fool who keeps silent is thought wise)."
+  - id: ane-etcsl-6-1-09-b-h-slaves-utu-humility
+    tradition: ane-sumerian
+    title: "Proverbs collection 9, sources B-H: Nanni, the slave as lord, 'Run!' says the king, Utu as judge of the dream, humility"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.09 B.9.b1:1-H.9.h6:15"]
+    tags:
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.09 B.9.b1"], note: "Nanni and his old age (libir-ra), mostly restored"}
+      - {motif: slave-usurps-masters-role, refs: ["ETCSL 6.1.09 B.9.b8"], note: "e-re na-aĝ2-u3-mu-un ir-ra gi4-in-e na-aĝ2-ga-ša-an ir-ra, largely restored from 6.1.21; Emesal forms"}
+      - {motif: four-things-earth-cannot-bear, refs: ["ETCSL 6.1.09 B.9.b8"], note: "restored: a slave who becomes lord, a slave girl who becomes lady"}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.09 B.9.b4"], note: "B.9.b4 is not printed here: ETCSL edits it separately as 5.6.8, The lazy slave girl"}
+      - {motif: run-says-king-wealth-undoes-me, refs: ["ETCSL 6.1.09 D.9.d4"], note: "kaš4 dug4-ga-ab lugal-[la-kam] / kug-ĝa2-ke4-eš kug-sig17-ĝa2-[ke4-eš] / dub-šen-[ĝa2] / ĝe26-e [ba-til-de3-en]"}
+      - {motif: utu-judge-turn-dream-to-good, refs: ["ETCSL 6.1.09 E.9.e4"], note: "{d}utu di-kud-me-en di-ĝu10 kud-de3 / ka-aš bar-bar-re-me-en ka-aš-ĝu10 bar-ra / maš2-ĝi6 igi ba-ni-in-du8-a sag9-ga-aš kur9-ni-ib2"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["ETCSL 6.1.09 E.9.e4"]}
+      - {motif: walk-straight-to-reach-companion, refs: ["ETCSL 6.1.09 E.9.e5"]}
+      - {motif: who-can-compare-with-humility, refs: ["ETCSL 6.1.09 E.9.e7"], note: "nam-sun5-na-da a-ba in-da-sa2 sag9-ga an-ši-ĝal2"}
+      - {motif: humility-before-honor, refs: ["ETCSL 6.1.09 E.9.e7"]}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.09 D.9.d3"], note: "the fool's hand in his backside (is-ḫab2 ... šu-ni bid3-da ba-ni-ib-gid2)"}
+      - {motif: dust-and-ashes-humility, refs: ["ETCSL 6.1.09 H.9.h2"], note: "fragmentary: saḫar-ra šu-ĝa2 la-ba-ni-in-si 'do not fill my hands with dust'"}
+    hints:
+      - "Wealth that undoes its owner when the king says 'Run!': compare Prov 11:4, Zeph 1:18, Ezek 7:19 and Q 69:28-29 (my wealth has not availed me)."
+      - "'Judge me, Utu': compare Ps 7:9, 26:1, 43:1 and Gen 41:16, 25 (God shows the meaning of the dream)."
+      - "Who compares with humility: compare Prov 15:33, 18:12, 22:4."
+      - "The slave who plays the lord: compare Prov 30:22 and Eccl 10:7."
+  - id: ane-etcsl-6-1-10-old-man
+    tradition: ane-sumerian
+    title: "Proverbs collection 10: the man in authority, strength and wisdom, and the old man's lament"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.10"]
+    tags:
+      - {motif: authority-speaks-unpleasant-unjust, refs: ["ETCSL 6.1.10 10.1", "ETCSL 6.1.10 10.2"]}
+      - {motif: wise-authorities-loyal-poor-blessing, refs: ["ETCSL 6.1.10 10.3–4"]}
+      - {motif: mighty-man-master-of-earth, refs: ["ETCSL 6.1.10 10.5"]}
+      - {motif: strength-cannot-match-intelligence, refs: ["ETCSL 6.1.10 10.6", "ETCSL 6.1.10 10.7"]}
+      - {motif: gods-strength-completes-mine, refs: ["ETCSL 6.1.10 10.8"]}
+      - {motif: old-mans-lament-lost-vigour, refs: ["ETCSL 6.1.10 10.9", "ETCSL 6.1.10 10.10", "ETCSL 6.1.10 10.11", "ETCSL 6.1.10 10.12"], note: "[ḫur-saĝ] gig2-ĝu10 im-babbar ba-an-mu2 'my black mountain has sprouted white gypsum'; ama-ĝu10 {ĝiš}tir-ta lu2 mu-ši-in-gi4 / šu dab5-ĝu10 ma-an-šum2; {d}nin-kilim ... dug i3-nun-na-še3 gu2 nu-mu-un-ši-la2-e"}
+      - {motif: allegory-of-old-age, refs: ["ETCSL 6.1.10 10.9", "ETCSL 6.1.10 10.10", "ETCSL 6.1.10 10.11", "ETCSL 6.1.10 10.12"], note: "the body described through images (mountain turned white, mongoose, paralysed hands)"}
+      - {motif: bones-weak-head-aflame-with-gray, refs: ["ETCSL 6.1.10 10.10"]}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.10 10.13", "ETCSL 6.1.10 10.14", "ETCSL 6.1.10 10.15", "ETCSL 6.1.10 10.16"], note: "a woman's words to one breaching her defences, 'let me fill your new storehouse with my old hay', and her girl friend's answer: the end of the old-man-and-young-girl dialogue (cf. 5.6.7)"}
+    hints:
+      - "The old man's body in images: compare Eccl 12:1-7 (keepers of the house tremble, the almond blossoms) and 2Sam 19:35."
+      - "My black mountain has sprouted white: compare Q 19:4 and Hos 7:9 (grey hairs are sprinkled on him)."
+  - id: ane-etcsl-6-1-11-a-d-lies-wood-nanni
+    tradition: ane-sumerian
+    title: "Proverbs collection 11, sources A-D: lies, the strong and the weak, Nanni, the broken word, the whirlwind to Agade"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.11 A.11.4:5-D.11.57:12"]
+    tags:
+      - {motif: lie-increases-evil-and-ruin, refs: ["ETCSL 6.1.11 A.11.5"]}
+      - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.11 A.11.6"], note: "u2 de5-de5-ga kalag-ga-še3 / sig9-ga bar-rim4-ma mu-un-na-tuš"}
+      - {motif: lament-priest-safe-while-boat-sinks, refs: ["ETCSL 6.1.11 A.11.8"], note: "gala-a ma2 še-ka-ni ḫa-ba-an-da-su-su / bar-rim4-ma ḫa-ba-e-ĝen"}
+      - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.1.11 B.11.18"], note: "mostly restored; e2 {d}[en-lil2-la2] [i3-du3] nu-[un-til] 'he built Enlil's temple but did not finish it'; ur5 na-an-[ni] [šag4 sig-ga] kur-še3 ba-[ra-an-de6]"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.11 B.11.18"]}
+      - {motif: goes-back-on-word, refs: ["ETCSL 6.1.11 B.11.21"], note: "bi2-in-dug4 nu-mu-un-gen6 / ab-be2 ab-da-ab-gur"}
+      - {motif: insulter-is-insulted, refs: ["ETCSL 6.1.11 B.11.22"]}
+      - {motif: foreman-must-assign-work, refs: ["ETCSL 6.1.11 B.11.25"]}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.11 B.11.23", "ETCSL 6.1.11 B.11.24"], note: "the slave girl: 'it has been carried away!'; 'let the master's god split it'"}
+      - {motif: sleep-not-in-reedbeds-rats, refs: ["ETCSL 6.1.11 B.11.26"]}
+      - {motif: excitable-not-foreman, refs: ["ETCSL 6.1.11 D.11.53"], note: "šag4-bi zig3-ga ugula nam-me / sipad engar nam-me"}
+      - {motif: palace-falls-of-itself, refs: ["ETCSL 6.1.11 D.11.56"], note: "e2-gal ni2-bi-še3 gam-e-dam"}
+      - {motif: whirlwind-sent-to-agade, refs: ["ETCSL 6.1.11 D.11.57"], note: "sig-sig a-ga-de3{ki}-še3 i3-gi4-in / a-ga-de3{ki}-a a-na-am3 i3-ak maš2-ĝi6 zid-da"}
+      - {motif: wild-bull-free-of-plough, refs: ["ETCSL 6.1.11 C.11.39"], note: "loosely: 'you cannot butt me with your horns ... I am running away'"}
+    hints:
+      - "A palace falling of itself: compare Ps 127:1 and Prov 14:1."
+      - "The whirlwind sent to Agade: compare the curse of Agade and Jer 23:19, 25:32."
+      - "Nanni's unfinished temple: compare 1Chr 22:7-8 and 2Sam 7:5-13."
+  - id: ane-etcsl-6-1-11-e-k-revenge-friend-scribe
+    tradition: ane-sumerian
+    title: "Proverbs collection 11, sources E-K: revenge belongs to Ninurta, the friend's harbour, Adapa, debts to Utu, the scribe, the loving heart"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.11 E.11.66:1-K.11.162:8"]
+    tags:
+      - {motif: revenge-belongs-to-ninurta, refs: ["ETCSL 6.1.11 E.11.66"], note: "šu gi4-gi4 [niĝ2-gig {d}nin-urta-kam]: the predicate is restored from 6.1.26; with niĝ2-gig it reads 'revenge is an abomination to Ninurta', ETCSL renders 'prerogative'"}
+      - {motif: no-revenge-or-grudge, refs: ["ETCSL 6.1.11 E.11.66"]}
+      - {motif: friend-reaches-goal-like-ship-to-harbour, refs: ["ETCSL 6.1.11 E.11.67", "ETCSL 6.1.11 E.11.68"], note: "sag9-ga-zu ma2 kar sag9-ga-gin7 kar-ra ḫe2-em-us2 / ḫul-zu a-ĝi6-a-ĝi6 id2-da-gin7 iri-ni-še3 ḫa-ba-gi4"}
+      - {motif: looks-far-not-at-self, refs: ["ETCSL 6.1.11 E.11.69"]}
+      - {motif: adapa-knows-no-loss, refs: ["ETCSL 6.1.11 E.11.70"], note: "a-da-ab-e niĝ2 im-ba nu-zu / kur-šag4-ge di-di"}
+      - {motif: man-on-roof-to-man-in-house, refs: ["ETCSL 6.1.11 I.11.131"]}
+      - {motif: unpaid-debts-are-debts-to-utu, refs: ["ETCSL 6.1.11 I.11.133"], note: "ur5 nu-luḫ-ḫa ... niĝ2 {d}utu ur5 ak"}
+      - {motif: scribe-cannot-write-own-name, refs: ["ETCSL 6.1.11 J.11.146"], note: "dub-sar-me-en mu ni2-za nu-zu / igi ni2-za sag3-ga"}
+      - {motif: loving-heart-builds-houses, refs: ["ETCSL 6.1.11 J.11.147", "ETCSL 6.1.11 J.11.148"], note: "šag4 ki aĝ2 niĝ2 e2 du3-du3-u3-dam / šag4 ḫul gig niĝ2 e2 gul-gul-lu-dam"}
+      - {motif: wise-woman-builds-house, refs: ["ETCSL 6.1.11 J.11.147", "ETCSL 6.1.11 J.11.148"]}
+      - {motif: no-wife-chosen-at-festival, refs: ["ETCSL 6.1.11 J.11.150"], note: "ezem-ma-kam dam na-an-tuku-tuku-un-e-še"}
+      - {motif: capable-scribe-boast, refs: ["ETCSL 6.1.11 K.11.162"], note: "dub-sar sag9-ga-me-en / saĝ ki-bi ma-an-ĝal2"}
+      - {motif: merchant-not-to-be-friend, refs: ["ETCSL 6.1.11 F.11.84"], note: "only lul 'lie', dam-gara3 'merchant', tab-ba 'partner' survive"}
+    hints:
+      - "Revenge reserved to the god: compare Deut 32:35, Lev 19:18, Prov 20:22, Rom 12:19 and Q 42:40-43."
+      - "The loving heart builds houses: compare Prov 14:1, 24:3 and 15:17."
+      - "Unpaid debts owed to the sun god: compare Deut 24:14-15 (the wage withheld; he cry to YHWH) and Prov 19:17."
+      - "Looking far but not at oneself: compare Matt 7:3 and Q 2:44."
+  - id: ane-etcsl-6-1-12-a-master-and-steward
+    tradition: ane-sumerian
+    title: "Proverbs collection 12, source A: master, steward and household"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.12 A.12.a1:1-A.12.a20:39"]
+    tags:
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.12 A.12.a1:1-A.12.a20:39"], note: "a group arranged by the keyword lugal 'master' (A.12.a2-a7), then lu2 'man'; much broken"}
+      - {motif: master-knows-steward-does-not, refs: ["ETCSL 6.1.12 A.12.a4"], note: "lugal-e mu-un-zu / aĝrig-e nu-mu-un-zu"}
+      - {motif: loser-loses-for-the-seeker, refs: ["ETCSL 6.1.12 A.12.a10"], note: "lu2 u2-gu de2-a u2-gu de2-a lu2 kiĝ2-kiĝ2-da-aš u2-gu i-ni-in-de2"}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.12 A.12.a5"], note: "'may the master sleep at your side and the mistress slap your face' (lugal-e da ḫa-ra-nu2 u3 nin-e muš3-me-zu ḫe2-eb-ra), addressed to a servant woman"}
+      - {motif: four-things-earth-cannot-bear, refs: ["ETCSL 6.1.12 A.12.a5"], note: "interpretive: the servant who shares the master's bed and suffers the mistress (compare Hagar)"}
+    hints:
+      - "The master's bed and the mistress's slap: compare Gen 16:4-6 (Sarai deals harshly with Hagar) and Prov 30:23."
+      - "The master knows, the steward does not: compare John 15:15 and Luke 16:1-8."
+  - id: ane-etcsl-6-1-12-b-f-man-sayings
+    tradition: ane-sumerian
+    title: "Proverbs collection 12, sources B-F: changed masters, the damp reed, Nintur and paralysis, the millstone that floats for the righteous"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.12 B.12.b1:1-F.12.f4:5"]
+    tags:
+      - {motif: masters-changed-mourning-clothes, refs: ["ETCSL 6.1.12 B.12.b3"], note: "lugal-be2-ne bi2-in-kur2-ru-uš / tug2-ku-ru-um am3-mur10-re-eš"}
+      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.1.12 B.12.b5"], note: "lu2 an il2-la še10 nu-ub-dur2-re 'a man who lifts the heavens and does not fart' (bawdy)"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.12 B.12.b5", "ETCSL 6.1.12 F.12.f4"]}
+      - {motif: damp-reed-man-untruthful, refs: ["ETCSL 6.1.12 B.12.b6"], note: "lu2 gi duru5 ak-gin7 lu2-lu2-u3-ra / niĝ2-gen6-na inim nu-mu-un-da-ab-bal-e"}
+      - {motif: paralysis-for-not-praying-to-goddess, refs: ["ETCSL 6.1.12 B.12.b9"], note: "lu2 dug3 dab5-ba {d}nin-tur5-re / inim-ma nu-mu-na-an-sig10-e-še"}
+      - {motif: slanderer-with-forked-tongue, refs: ["ETCSL 6.1.12 C.12.c1"], note: "inim sig gu7-gu7, with a witness (lu2-inim)"}
+      - {motif: untied-sack-angers-friend, refs: ["ETCSL 6.1.12 C.12.c4"]}
+      - {motif: millstone-floats-for-righteous, refs: ["ETCSL 6.1.12 C.12.c5"], note: "lu2 si sa2-ra {na4}kinkin id2-da mu-na-ab-dirig-dirig; probably alluding to the river ordeal, where the righteous comes up"}
+      - {motif: floating-axe-head, refs: ["ETCSL 6.1.12 C.12.c5"], note: "the heavy stone or iron made to float"}
+      - {motif: rich-eat-fine-poor-eat-coarse, refs: ["ETCSL 6.1.12 C.12.c6"]}
+    hints:
+      - "The millstone that floats for the righteous: compare the river ordeal in Laws of Hammurabi 2 and Num 5:11-31; and 2Kgs 6:5-7 (the axe-head floats)."
+      - "Illness from neglecting a god: compare John 9:2 and Job 4:7-8."
+      - "The weeping farmer whose barley sprouts (C.12.c3): compare Ps 126:5-6."
+  - id: ane-etcsl-6-1-13-thieves-crafty-lame
+    tradition: ane-sumerian
+    title: "Proverbs collection 13, nos. 1-40: thieves and burglars, the crafty, the lame man and his mother"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.13 13.1:1-13.40:64"]
+    tags:
+      - {motif: thief-sayings, refs: ["ETCSL 6.1.13 13.3", "ETCSL 6.1.13 13.4", "ETCSL 6.1.13 13.6", "ETCSL 6.1.13 13.7", "ETCSL 6.1.13 13.8", "ETCSL 6.1.13 13.9", "ETCSL 6.1.13 13.40"], note: "lu2-zuḫ-a an-bar7-a igi mu-ni-in-du8-uš 'they saw a thief at noon'; lu2-zuḫ-zuḫ-a ab lugal e2-e-ke4 ḫe2-eb-kal-la-ge 'the householder should strengthen the window (ab) against thieves'"}
+      - {motif: thief-flees-lion-meets-cub, refs: ["ETCSL 6.1.13 13.5"]}
+      - {motif: burglar-digs-through-house, refs: ["ETCSL 6.1.13 13.8", "ETCSL 6.1.13 13.10"], note: "lu2-zuḫ e2 buru3-buru3-da mu-ni-in-dab5-be2-eš"}
+      - {motif: night-burglar-killed-no-bloodguilt, refs: ["ETCSL 6.1.13 13.10"], note: "only the capture of the burglar breaking in is told"}
+      - {motif: invaders-enter-windows-like-thief, refs: ["ETCSL 6.1.13 13.9"]}
+      - {motif: crafty-man-sayings, refs: ["ETCSL 6.1.13 13.13", "ETCSL 6.1.13 13.14", "ETCSL 6.1.13 13.15", "ETCSL 6.1.13 13.16", "ETCSL 6.1.13 13.17", "ETCSL 6.1.13 13.18", "ETCSL 6.1.13 13.20", "ETCSL 6.1.13 13.21"]}
+      - {motif: lame-man-sayings, refs: ["ETCSL 6.1.13 13.22", "ETCSL 6.1.13 13.23", "ETCSL 6.1.13 13.24", "ETCSL 6.1.13 13.25"], note: "kud-ku5-ra2 na-ab-be2-a ĝiri3-ĝu10 ĝen-na-ab-ze2-en-e-še 'O my feet, walk!'"}
+      - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.13 13.12"], note: "loosely: even the strongest labourer is beaten by the owner of the barley"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.13 13.29"]}
+    hints:
+      - "The thief breaking in and the householder's watch: compare Exod 22:1-2, Job 24:16, Matt 24:43 and Jer 9:20 (death comes up through the windows)."
+      - "Fleeing a lion to meet a cub: compare Amos 5:19 (as if a man fled from a lion and a bear met him)."
+      - "The lame man told to walk: compare Isa 35:6, Acts 3:6-8."
+  - id: ane-etcsl-6-1-13-ecstatic-debt-immigrant
+    tradition: ane-sumerian
+    title: "Proverbs collection 13, nos. 41-59: the ecstatic, the boys in the orchard, the house of debt, the dishonest man, the immigrant"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.13 13.41:65-13.59:104"]
+    tags:
+      - {motif: ecstatic-fathers-child-in-mans-house, refs: ["ETCSL 6.1.13 13.41"], note: "lu2-gub-ba e2 lu2-še3 in-kur9-ma dam-ba nitaḫ-am3 ib2-tu-ud ... mu kug-zu nu-ḫul-ḫul 'your holy name has not been harmed'; the implication (adultery or a wonder-birth) is left unstated"}
+      - {motif: false-prophets-commit-adultery, refs: ["ETCSL 6.1.13 13.41"], note: "interpretive"}
+      - {motif: ecstatic-at-inanas-gate, refs: ["ETCSL 6.1.13 13.42"], note: "lu2-gub-ba kan4 {d}inana-ka u3-bi2-in-gub / dumu-munus-a-ni erin2-na an-na-ab-be2 / inim ama-ĝu10 lul-aš gen6-na-am3"}
+      - {motif: ecstatic-prophesying, refs: ["ETCSL 6.1.13 13.41", "ETCSL 6.1.13 13.42", "ETCSL 6.1.13 13.43"], note: "lu2-gub-ba, an ecstatic attached to Inana's cult, as a figure of fun"}
+      - {motif: gardener-spares-confessing-boy, refs: ["ETCSL 6.1.13 13.48"]}
+      - {motif: house-of-debt-no-light, refs: ["ETCSL 6.1.13 13.49", "ETCSL 6.1.13 13.50", "ETCSL 6.1.13 13.51"], note: "e2 ur5-ra e2 šag4-ga nu-un-zalag"}
+      - {motif: borrower-slave-of-lender, refs: ["ETCSL 6.1.13 13.51"]}
+      - {motif: thief-steals-honest-mans-work, refs: ["ETCSL 6.1.13 13.52"], note: "lu2-IM kug ba-an-zuḫ lu2 gen6-na giĝ4 mu-ni-in-ak-de3"}
+      - {motif: mistreating-immigrant-abomination, refs: ["ETCSL 6.1.13 13.57"], note: "gir5-ra in-na-an-ḫul-le-eš ... niĝ2-gig [{d}nin]-urta-am3"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.13 13.57"]}
+      - {motif: protect-stranger-for-you-were-strangers, refs: ["ETCSL 6.1.13 13.57"]}
+    hints:
+      - "Mistreating the immigrant an abomination to Ninurta: compare Exod 22:20, 23:9, Lev 19:33-34, Deut 10:18-19, Jer 7:6 and Q 4:36 (the neighbour who is a stranger, the wayfarer)."
+      - "The ecstatic and a birth in another man's house: compare 2Kgs 4:14-17 (the man of God and the Shunammite's son) and Jer 29:23."
+      - "The house of debt: compare Prov 22:7, Neh 5:1-5, 2Kgs 4:1."
+  - id: ane-etcsl-6-1-14-a-favour-and-enlils-city
+    tradition: ane-sumerian
+    title: "Proverbs collection 14, source A: repaying favours, the workers' prayer for Enlil's cursed city, the drought"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.14 A.14.1:1-A.14.7:14"]
+    tags:
+      - {motif: favour-repaid-to-repayer, refs: ["ETCSL 6.1.14 A.14.1", "ETCSL 6.1.14 A.14.2"], note: "[šu gi4-gi4]-ra šu ḫe2-en-na-gi4; [{d}lum-ma] lu2 inim-ĝar sag9-ga-ra [sag9]-ga ḫe2-en-na-ĝal2 (Luma partly restored)"}
+      - {motif: hand-answers-hand-reciprocity, refs: ["ETCSL 6.1.14 A.14.1"]}
+      - {motif: workers-look-to-enlil-for-cursed-city, refs: ["ETCSL 6.1.14 A.14.3", "ETCSL 6.1.14 A.14.4", "ETCSL 6.1.14 A.14.5"], note: "[igi engar-e] mu-e-ši-in-il2-la / [{d}en-lil2]-le iri nam ku5-ra2-ni ḫa-ba-ši-ib2-il2-la; repeated for sipad-tur and baḫar2"}
+      - {motif: eyes-of-servants-to-masters-hand, refs: ["ETCSL 6.1.14 A.14.3"], note: "interpretive: lifting the eyes to the god"}
+      - {motif: drought-cloudy-day-no-rain, refs: ["ETCSL 6.1.14 A.14.6"], note: "partly restored from 6.1.03"}
+    hints:
+      - "Each worker lifts his eyes to the god for the cursed city: compare Ps 121:1, 123:1-2 and Lam 5:1, 20-22."
+      - "Repay favour to the one who repays: compare Prov 17:13 and Q 55:60 (is the reward of good anything but good?)."
+  - id: ane-etcsl-6-1-14-bc-palace-and-household
+    tradition: ane-sumerian
+    title: "Proverbs collection 14, sources B-C: Enlil's temple, the palace, wives and children, the malicious spouse, the stranger leader"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.14 B.14.15:1-C.14.64:21"]
+    tags:
+      - {motif: temple-destroyed-by-king-without-posterity, refs: ["ETCSL 6.1.14 B.14.16"], note: "e2-babbar me-silim-e mu-un-du3-a / {d}na-ni lu2 numun til-til-la šu ḫul mu-un-du3-e"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.14 B.14.16"], note: "Mesilim (of Kiš) and Nanni"}
+      - {motif: temple-as-accounts-office, refs: ["ETCSL 6.1.14 B.14.18"]}
+      - {motif: covetousness-abomination-to-ninurta, refs: ["ETCSL 6.1.14 B.14.18"], note: "not Ninurta here: in Enlil's temple šu gid2 igi-tum3 la2 šu sumur niĝ2-gig-ga-kam 'reaching out, greedy eyes and grasping are abominations'"}
+      - {motif: palace-sayings, refs: ["ETCSL 6.1.14 B.14.19", "ETCSL 6.1.14 B.14.20", "ETCSL 6.1.14 B.14.21", "ETCSL 6.1.14 B.14.22", "ETCSL 6.1.14 B.14.23"], note: "e2-gal gud-dam kun-bi ḫe2-dab5 / {d}utu lugal-am3 igi-zu ḫe2-en-ši-ni-ĝal2; e2-gal ud 1 ama tud-da-am3 / ud 1 ama a-nir-ra-am3"}
+      - {motif: palace-and-netherworld-demand-obedience, refs: ["ETCSL 6.1.14 B.14.19"], note: "e2-gal iri11-gal šag4-bi teš2-a ab-sig10-ge5"}
+      - {motif: wives-human-children-divine, refs: ["ETCSL 6.1.14 B.14.39"], note: "dam tuku-tuku lu2-[ulu3-kam] / dumu tuku-tuku diĝir-ra-kam"}
+      - {motif: sons-as-arrows-in-quiver, refs: ["ETCSL 6.1.14 B.14.39"]}
+      - {motif: malicious-wife-worst-affliction, refs: ["ETCSL 6.1.14 B.14.40", "ETCSL 6.1.14 B.14.44"], note: "dam nu-ĝar-ra e2-a til3-la a2-sag3-a2-sag3-a dirig-ga"}
+      - {motif: quarrelsome-wife-dripping-roof, refs: ["ETCSL 6.1.14 B.14.44"]}
+      - {motif: no-plant-sweet-as-husband, refs: ["ETCSL 6.1.14 B.14.41", "ETCSL 6.1.14 B.14.42"], note: "u2 dam-gin7 ze2-ba edin-ta nu-un-mu2; mu-ud-na-ĝu10 ku6-ta ĝiri3-pax-ra2 ma-ni-ib2-de5-de5-ge"}
+      - {motif: servant-cools-soup-bones-fish, refs: ["ETCSL 6.1.14 B.14.41"]}
+      - {motif: pig-to-slaughter-ancestors-went-same-road, refs: ["ETCSL 6.1.14 B.14.45"], note: "variant: the pig nearing its fate (nam-tar u3-mu-un-na-te)"}
+      - {motif: stranger-leader-in-foreign-city, refs: ["ETCSL 6.1.14 C.14.55"], note: "the line is restored from 6.1.15"}
+    hints:
+      - "Children from the gods: compare Ps 127:3, Gen 30:2, 33:5 and Q 42:49-50."
+      - "The malicious wife: compare Prov 21:9, 21:19, 25:24, 27:15 and Sir 25:16-26."
+      - "The palace one day a birth, the next a mourning: compare Eccl 7:2-4 and 3:2."
+      - "The stranger as leader: compare Gen 41:40-43 (Joseph) and Deut 28:43."
+  - id: ane-etcsl-6-1-15-ab-well-wisher-and-enlil
+    tradition: ane-sumerian
+    title: "Proverbs collection 15, sources A-B: the well-wisher, the workers' prayer for Enlil's cursed city, Enlil the helper of the lame"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.15 A.15.a1:1-B.15.b8:15"]
+    tags:
+      - {motif: well-wisher-mother-of-refugee, refs: ["ETCSL 6.1.15 A.15.a5", "ETCSL 6.1.15 A.15.a6"], note: "in-ga-ḫul2-e ama lu2-kar-ra-kam; in-ga-ḫul2-zu uĝ3-e ḫe2-em-me"}
+      - {motif: palace-sayings, refs: ["ETCSL 6.1.15 A.15.a4"], note: "e2-gal me-te-bi-im 'it is the dignity of the palace'"}
+      - {motif: workers-look-to-enlil-for-cursed-city, refs: ["ETCSL 6.1.15 B.15.b1", "ETCSL 6.1.15 B.15.b2", "ETCSL 6.1.15 B.15.b3"], note: "shepherd boy, potter, gardener: igi ... mu-e-ši-in-il2-e / {d}en-lil2-le iri nam ku5-ra2-ni ḫa-ba-ši-in-il2-e"}
+      - {motif: rain-on-banks-not-dry-land, refs: ["ETCSL 6.1.15 B.15.b5"], note: "peš10-a [im al]-šeĝ3-am3 / bar-rim4-ma im nu-um-bi-iz"}
+      - {motif: enlil-helper-of-lame, refs: ["ETCSL 6.1.15 B.15.b6"], note: "{urud}šukur na-šum2-mu-un / {d}en-lil2 a2-taḫ-a-ni-im; the first half is uncertain"}
+      - {motif: goddess-emissary-helps-the-lame, refs: ["ETCSL 6.1.15 B.15.b6"]}
+      - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.1.15 B.15.b8"], note: "e2 {d}en-lil2-la2 i3-du3 nu-un-til / bad3 [nibru] i3-du3 (the Nanni saying, broken off)"}
+    hints:
+      - "Enlil the helper of the lame: compare Ps 146:8-9, Ps 54:6 and Isa 35:6."
+      - "Rain on one place and not another: compare Amos 4:7."
+      - "The well-wisher, mother of the refugee: compare Isa 16:3-4 and Deut 23:16-17 (the runaway slave sheltered)."
+  - id: ane-etcsl-6-1-15-c-f-sceptre-temple-rivers
+    tradition: ane-sumerian
+    title: "Proverbs collection 15, sources C-F: toughness, oil on the sceptre, the stranger as leader, nothing added to Enlil's temple, the rivers"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.15 C.15.c1:1-F.15.f8:16"]
+    tags:
+      - {motif: herdsman-must-be-tough, refs: ["ETCSL 6.1.15 C.15.c2"], note: "ki saĝ-ki nu-ĝal2-la lu2 na-an-ni-dib2-be2"}
+      - {motif: oil-in-sceptre-unseen, refs: ["ETCSL 6.1.15 C.15.c3"], note: "šag4 ĝidru-ka i3 ḫe2-en-de2 [lu2] na-me nu-zu"}
+      - {motif: stranger-leader-in-foreign-city, refs: ["ETCSL 6.1.15 C.15.c4"], note: "[gir5] iri kur2-ra-am3 saĝ-ĝa2-am3"}
+      - {motif: temple-inventory-nothing-added, refs: ["ETCSL 6.1.15 C.15.c6"], note: "e2 {d}en-lil2-la2 niĝ2-ni ab-šid-šid-de3 / niĝ2-ni šid-a-de3 nam-ba-ab-taḫ-e / mu-ne-ne ḫe2-ḫa-lam-e"}
+      - {motif: do-not-add-to-gods-words, refs: ["ETCSL 6.1.15 C.15.c6"], note: "formal parallel: nothing to be added (taḫ) to the counted things"}
+      - {motif: tigris-duck-euphrates-goose, refs: ["ETCSL 6.1.15 C.15.c15"], note: "{id2}idigna uz{mušen}-am3 {id2}buranun-na kur-gi4{mušen}-am3"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.15 D.15.d4"], note: "only analogous: a plant 'of ill fate' (u2 nam-tar gig-ga-kam)"}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.15 D.15.d1:1-F.15.f8:16"], note: "sources D, E and F are almost all fragmentary; E.15.e5 'the houses of the highlands, their masters are not near'"}
+    hints:
+      - "Nothing to be added to what is counted: compare Deut 4:2, 13:1, Prov 30:6, Eccl 3:14 and Rev 22:18-19."
+      - "The rising waters measured in cubits (C.15.c14): compare Gen 7:20."
+  - id: ane-etcsl-6-1-16-a-c-shepherds-and-enlil
+    tradition: ane-sumerian
+    title: "Proverbs collection 16, sources A-C: shepherds, the unjust heir, 'I will go tomorrow', the workers' prayer for Enlil's cursed city"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.16 A.16.a1:1-C.16.c5:10"]
+    tags:
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.16 A.16.a1:1-A.16.a3:16"], note: "source A: line-ends only"}
+      - {motif: shepherd-removed-sheep-lost, refs: ["ETCSL 6.1.16 B.16.b2", "ETCSL 6.1.16 B.16.b3"]}
+      - {motif: heir-who-does-not-support-wife-and-child, refs: ["ETCSL 6.1.16 B.16.b5"]}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.16 B.16.b4"], note: "sipad ĝiš3-a-ni / nu-{ĝiš}kiri6 suḫur-ni"}
+      - {motif: procrastination-i-will-go-tomorrow, refs: ["ETCSL 6.1.16 B.16.b7"]}
+      - {motif: workers-look-to-enlil-for-cursed-city, refs: ["ETCSL 6.1.16 C.16.c1", "ETCSL 6.1.16 C.16.c2", "ETCSL 6.1.16 C.16.c3"], note: "C.16.c1 wholly restored"}
+      - {motif: drought-cloudy-day-no-rain, refs: ["ETCSL 6.1.16 C.16.c5"], note: "mostly restored"}
+    hints:
+      - "Compare Zech 13:7 (strike the shepherd) and Prov 27:1 (do not boast of tomorrow)."
+  - id: ane-etcsl-6-1-16-d-f-friend-merchant-thief
+    tradition: ane-sumerian
+    title: "Proverbs collection 16, sources D-F: friend and colleague, the merchant at the window, the unsound mind, the thief as outcast"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.16 D.16.d1:1-F.16.f2:2"]
+    tags:
+      - {motif: friendship-short-kinship-lasting, refs: ["ETCSL 6.1.16 D.16.d2"], note: "gu5-li-ĝu10 [niĝ2 ud 1-kam] / gi-me-[a-aš-ĝu10 ...], mostly restored"}
+      - {motif: merchant-through-slave-girls-window, refs: ["ETCSL 6.1.16 E.16.e3"], note: "ab geme2-ta na-ab-ku4-ku4 / dam-gara3 e-ne"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.16 E.16.e6"], note: "<niĝ2-gig> {d}suen-na-kam, with niĝ2-gig supplied by the editor; the act is unclear"}
+      - {motif: unsound-mind-like-mined-mountain, refs: ["ETCSL 6.1.16 E.16.e7"], note: "kur kug ba-al-[gin7] / lu2 dim2-ma nu-sag9"}
+      - {motif: thief-becomes-outcast, refs: ["ETCSL 6.1.16 E.16.e14"], note: "eĝer ni2-zuḫ ti-ri2-da mu-deḫi2"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 6.1.16 F.16.f2"], note: "an Akkadian gloss (iš-ḫi-...-ik ... el ra-ma-ni-šu) follows the broken Sumerian"}
+    hints:
+      - "The thief an outcast: compare Job 30:5 (driven out from among men; they shout after them as after a thief) and Gen 4:12-14."
+  - id: ane-etcsl-6-1-17-heaven-old-age-poor
+    tradition: ane-sumerian
+    title: "Proverbs collection 17: no one reaches heaven, the old man's lament, the poor man and his son, the merchant, the palace"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.17"]
+    tags:
+      - {motif: no-one-tall-enough-to-reach-heaven, refs: ["ETCSL 6.1.17 B.17.b2"], note: "sukud-de3 an-na šu nu-um-[da-la2] / daĝal-e ki-a <igi> nu-um-ma-an-il2-il2 / kalag-ga ki-nu2 ni2 nu-mu-un-gid2-de3"}
+      - {motif: what-mortal-has-reached-heaven, refs: ["ETCSL 6.1.17 B.17.b2"]}
+      - {motif: old-mans-lament-lost-vigour, refs: ["ETCSL 6.1.17 B.17.b3"], note: "here the personal god and protective deity also leave him: šul diĝir-ĝu10 ĝiri3 {d}lamma-ĝu10 / nam-ĝuruš anše kar-ra-[gin7] / ḫaš2-ĝa2 ba-an-[taka4] / ḫur-saĝ gig2-ĝu10 im-babbar ba-[an-mu2]"}
+      - {motif: allegory-of-old-age, refs: ["ETCSL 6.1.17 B.17.b3"]}
+      - {motif: poor-man-never-strikes-son, refs: ["ETCSL 6.1.17 B.17.b4"], note: "ukur3-re dumu-na tibir2 1-am3 šu nu-um-ma-ni-dug4-ge / gi16-sa da-ri2-še3 mu-un-na-ni-ak-e"}
+      - {motif: spare-the-rod, refs: ["ETCSL 6.1.17 B.17.b4"], note: "the poor man's tenderness, not a recommendation of the rod"}
+      - {motif: poor-man-sayings, refs: ["ETCSL 6.1.17 B.17.b5", "ETCSL 6.1.17 B.17.b6"]}
+      - {motif: merchant-not-to-be-friend, refs: ["ETCSL 6.1.17 B.17.b7", "ETCSL 6.1.17 B.17.b8"], note: "{ĝiš}pu2 niĝ2-lul ak-a 'a pit made of lies'"}
+      - {motif: palace-sayings, refs: ["ETCSL 6.1.17 B.17.b9"], note: "the palace: one day birth, one day mourning; mostly restored"}
+    hints:
+      - "No one tall enough to reach heaven: compare Gilgamesh and Huwawa A 28-29, Prov 30:4, Deut 30:12 and Q 17:37 (you will not reach the mountains in height)."
+      - "The poor man who never strikes his son: compare Prov 13:24, 23:13-14 and 2Sam 12:3 (the poor man's lamb like a daughter)."
+      - "Old age: compare Eccl 12:1-7 and Ps 71:9, 18."
+  - id: ane-etcsl-6-1-18-idler-talker-agade
+    tradition: ane-sumerian
+    title: "Proverbs collection 18: the idler, the talker who got into the palace, the levelling of hills, the lying dream of Agade"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.18"]
+    tags:
+      - {motif: surplus-eaten-by-lord, refs: ["ETCSL 6.1.18 A.18.2"], note: "[...]-ta lugal-zu ba-an-gu7"}
+      - {motif: idle-low-life-fire-at-midday, refs: ["ETCSL 6.1.18 A.18.4", "ETCSL 6.1.18 A.18.5"], note: "[a]-ḫur-rum keše2-ra-ab / ud MAŠ-a du8-du8-a-ab"}
+      - {motif: idle-hands-roof-leaks, refs: ["ETCSL 6.1.18 A.18.4"]}
+      - {motif: worth-from-chance, refs: ["ETCSL 6.1.18 A.18.7"], note: "za-e ĝiš-šub-e ni2 bi2-ib-kal"}
+      - {motif: talker-gets-into-palace, refs: ["ETCSL 6.1.18 A.18.8"], note: "[dub3-tuku bar] in-dab5 / usu-tuku ba-da-an-kar / [ka tuku] e2-gal-la ba-ni-in-kur9; the swift and the talker are partly restored"}
+      - {motif: race-not-to-swift, refs: ["ETCSL 6.1.18 A.18.7", "ETCSL 6.1.18 A.18.8"]}
+      - {motif: hills-and-depths-levelled, refs: ["ETCSL 6.1.18 A.18.11", "ETCSL 6.1.18 A.18.12"], note: "ḫe2-em-dirig {urud}ḫa-zi-in al-su-su; du6-la2 dul2-bi bi2-ib-sig9-sig9"}
+      - {motif: valleys-raised-mountains-leveled, refs: ["ETCSL 6.1.18 A.18.12"]}
+      - {motif: slave-negligent-at-burial, refs: ["ETCSL 6.1.18 A.18.13"]}
+      - {motif: whirlwind-sent-to-agade, refs: ["ETCSL 6.1.18 A.18.15"]}
+      - {motif: misleading-omen-to-naram-suen, refs: ["ETCSL 6.1.18 A.18.15"], note: "maš2-ĝi6 lul-la im-ma-an-na-ĝar / lu2 bur2-ru-bi bi2-in-tuku"}
+      - {motif: lying-spirit-sent-by-god, refs: ["ETCSL 6.1.18 A.18.15"], note: "a lying dream sent to the king of Agade"}
+    hints:
+      - "The swift hid, the strong fled, the talker got in: compare Eccl 9:11 and Amos 2:14-16."
+      - "Hills and depths levelled: compare Isa 40:4 and Luke 3:5."
+      - "The lying dream for Agade's king: compare 1Kgs 22:19-23, Jer 23:25-32 and Deut 13:2-4."
+      - "Worth by the lot: compare Prov 16:33."
+  - id: ane-etcsl-6-1-19-a-c-old-age-lot-and-marriage
+    tradition: ane-sumerian
+    title: "Proverbs collection 19, sources A-C: the old man, the fattened pig, build like a lord, accept your lot, Inana's marriage blessing, a man's goods and kin"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.19 A.19.a1:1-C.19.c9:16"]
+    tags:
+      - {motif: old-mans-lament-lost-vigour, refs: ["ETCSL 6.1.19 A.19.a1"], note: "partly restored: [ḫur-saĝ gig2]-ĝu10 [im-babbar ba]-an-mu2"}
+      - {motif: fattened-pig-replace-what-i-eat, refs: ["ETCSL 6.1.19 B.19.b1", "ETCSL 6.1.19 B.19.b2"]}
+      - {motif: build-like-lord-live-like-slave, refs: ["ETCSL 6.1.19 B.19.b3"], note: "[en]-gin7 du3 saĝ-gin7 til3 / saĝ-gin7 du3 en-gin7 til3"}
+      - {motif: house-destroyer-destroys-silver, refs: ["ETCSL 6.1.19 B.19.b4"]}
+      - {motif: ruler-kneels-slave-dies, refs: ["ETCSL 6.1.19 B.19.b5"]}
+      - {motif: grind-while-there-is-light, refs: ["ETCSL 6.1.19 C.19.c2"], note: "go in when the sun sets"}
+      - {motif: accept-your-lot-make-mother-happy, refs: ["ETCSL 6.1.19 C.19.c3"], note: "ĝiš-šub us2-sa ama-zu ḫul2-la / kaš4 <dug4>-ga-ab diĝir-zu ḫul2-la"}
+      - {motif: marriage-blessing-by-inana, refs: ["ETCSL 6.1.19 C.19.c4", "ETCSL 6.1.19 C.19.c5"], note: "igi il2-la-za dam tuku-ba-ni-ib; {d}inana-ke4 dam ur2 kum2-ma ḫa-ra-an-nu2-e / dumu a2 tal2-tal2-la ḫa-ra-an-ba-e"}
+      - {motif: no-plant-sweet-as-husband, refs: ["ETCSL 6.1.19 C.19.c6"], note: "u2 dam-da ze2-eb u2 ama-da ze2-eb / {d}ezina2-{d}ku3-su3 e2-a ḫe2-me-da-an-til3"}
+      - {motif: man-s-goods-and-kin-listed, refs: ["ETCSL 6.1.19 C.19.c7"], note: "{kuš}ummud zi lu2-kam {kuš}e-sir2 igi lu2-kam / dam dim4-ma lu2-kam dumu-nitaḫ ĝissu lu2-kam / dumu-munus saĝ šu ĝar lu2-kam e2-gi4-a gal5-la2 lu2-kam"}
+      - {motif: wives-human-children-divine, refs: ["ETCSL 6.1.19 C.19.c7"], note: "loosely: the son as a man's protective shade (ĝissu)"}
+    hints:
+      - "The marriage blessing for a fruitful wife and strong sons: compare Ruth 4:11-12, Ps 128:3, Gen 24:60."
+      - "Accept your lot: compare Eccl 3:22, 5:17-18, 9:9 and Prov 16:33."
+      - "A son as a man's shade: compare Ps 127:4-5 and Ps 121:5 (YHWH your shade)."
+  - id: ane-etcsl-6-1-19-d-h-slave-girl-glutton-river
+    tradition: ane-sumerian
+    title: "Proverbs collection 19, sources D-H: the um bird, the slave girl's banquet, the fool, the river grave, the insatiable glutton, the early-married youth"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.19 D.19.d1:1-H.19.h1:6"]
+    tags:
+      - {motif: bird-flees-own-behind, refs: ["ETCSL 6.1.19 D.19.d3"], note: "um{mušen} al-[saḫ6 gu-du-bi] am3-[kar], partly restored"}
+      - {motif: flees-from-own-past, refs: ["ETCSL 6.1.19 D.19.d3"]}
+      - {motif: slave-girl-feasts-when-mistress-away, refs: ["ETCSL 6.1.19 D.19.d9"]}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.19 D.19.d10", "ETCSL 6.1.19 D.19.d11"], note: "gi4-in-ĝen ga-ša-an-ra še-er nu-mu-un-na-ma-al / mu-[ud-na-ĝu10] [ga-an-ze2-e-še] 'I have no authority over my mistress, so let me pull my husband's hair'"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.19 E.19.e3"]}
+      - {motif: great-river-is-grave, refs: ["ETCSL 6.1.19 F.19.f2"], note: "id2 maḫ ki-maḫ-[(X)]"}
+      - {motif: insatiable-glutton-land-too-small, refs: ["ETCSL 6.1.19 F.19.f3"], note: "ninda šag4-gal-la-ni-še3 bi2-in-tur / šu kalam-ma-ni-ta še ba-an-da-tur"}
+      - {motif: four-things-never-satisfied, refs: ["ETCSL 6.1.19 F.19.f3"]}
+      - {motif: school-food-onions-and-bread, refs: ["ETCSL 6.1.19 F.19.f5"], note: "ninda pad-pax-ra2 šum2-sikil zil2-la2 ninda e2-dub-ba-a"}
+      - {motif: early-worker-early-married-incomparable, refs: ["ETCSL 6.1.19 G.19.g7"], note: "sipad šu-nim-ma engar šu-nim-ma / ĝuruš-e ud tur-ra-na-ka dam ba-tuku-tuku-u2-a / a-ba-a mu-da-ab-sa2-e"}
+      - {motif: god-witness-to-marriage-covenant, refs: ["ETCSL 6.1.19 G.19.g7"], note: "loosely: the wife married in youth"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.19 G.19.g5"], note: "not a king: the cities Umma and Šuruppag are named in a broken line"}
+    hints:
+      - "The young man who married in his youth: compare Prov 5:18, Mal 2:14-15 and Eccl 11:9."
+      - "The insatiable glutton: compare Prov 30:15-16, Eccl 6:7, Isa 5:14 and Q 50:30."
+      - "Onions and bread as plain fare: compare Num 11:5."

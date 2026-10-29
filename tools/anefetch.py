@@ -507,8 +507,8 @@ def short_witnesses(folder):
             continue
         d = json.loads(f.read_text(encoding="utf-8"))
         secs = d["sections"]
-        if not any(" " in s["name"] or "/" in s["name"] for s in secs):
-            continue
+        if not any(" " in s["name"] or "/" in s["name"] for s in secs) or all(s["name"].startswith("§") for s in secs):
+            continue   # short names, or Hittite paragraphs ('§ 12', which the reference loader writes '§12')
         for i, s in enumerate(secs, 1):
             s.setdefault("title", s.get("witness") or s["name"])
             s["name"] = "" if len(secs) == 1 else f"W{i}"
