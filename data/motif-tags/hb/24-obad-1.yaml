@@ -193,6 +193,56 @@ new_motifs:
   blessing-from-day-of-temple-foundation: {label: "From the day the temple's foundation is laid, God promises to bless the harvest", cluster: temple}
   zerubbabel-made-gods-signet-ring: {label: "God will take Zerubbabel his servant and make him like a signet ring, for he has chosen him", cluster: messianism}
   thrones-of-kingdoms-overturned: {label: "God will overturn the thrones of kingdoms and chariots and their riders", cluster: eschatology}
+  return-to-me-and-i-will-return: {label: "'Return to me and I will return to you', says God", cluster: repentance}
+  former-prophets-ignored: {label: "The 'former prophets' called the fathers to repent and they did not listen", cluster: prophecy}
+  fathers-and-prophets-mortal-word-endures: {label: "'Your fathers, where are they? And the prophets, do they live forever?' Yet God's words overtook them", cluster: prophecy}
+  babylonian-month-names: {label: "Months are dated by their Babylonian names (Shevat, Kislev)", cluster: chronology}
+  night-vision-series: {label: "A prophet sees a series of night visions, each explained by an angel", cluster: apocalyptic}
+  horsemen-among-myrtles: {label: "A man on a red horse stands among the myrtles in the deep (metsulah), with horses behind him", cluster: apocalyptic}
+  colored-horses-of-apocalyptic-vision: {label: "Horses of different colors (red, sorrel, white, black, dappled) are sent out by God through the earth", cluster: apocalyptic}
+  interpreting-angel: {label: "'The angel who talked with me' (ha-malakh ha-dover bi) explains the visions to the prophet", cluster: apocalyptic}
+  angel-intercedes-for-jerusalem: {label: "The angel of YHWH intercedes: 'How long will you not have mercy on Jerusalem?'", cluster: angelology}
+  measuring-line-over-jerusalem: {label: "A measuring line will be stretched over Jerusalem for rebuilding", cluster: temple}
+  four-horns-scattered-judah: {label: "Vision of four horns, the powers that scattered Judah, Israel and Jerusalem", cluster: apocalyptic}
+  four-craftsmen-throw-down-horns: {label: "Four craftsmen (harashim) come to terrify and cast down the horns of the nations", cluster: apocalyptic}
+  angel-measures-city: {label: "A man with a measuring line goes to measure the length and breadth of Jerusalem", cluster: apocalyptic}
+  jerusalem-unwalled-god-wall-of-fire: {label: "Jerusalem will be unwalled for its multitude; God will be a wall of fire around it and glory within", cluster: eschatology}
+  flee-from-land-of-north: {label: "Call to the exiles: 'Flee from the land of the north; escape, Zion, who dwells with daughter Babylon'", cluster: prophecy}
+  many-nations-join-yhwh: {label: "Many nations will join themselves to YHWH in that day and become his people", cluster: eschatology}
+  term-holy-land: {label: "Judah called God's portion in 'the holy land' (admat ha-qodesh)", cluster: geography}
+  yhwh-rebuke-you-satan: {label: "'YHWH rebuke you, Satan!': the accuser is rebuked in the heavenly court", cluster: angelology}
+  brand-plucked-from-fire: {label: "The rescued one is 'a brand plucked from the fire'", cluster: theology}
+  filthy-garments-exchanged-for-festal-robes: {label: "The high priest's filthy garments are removed and replaced with festal robes and a pure turban, signifying removal of guilt", cluster: cult}
+  priest-granted-access-among-angels: {label: "If faithful, the high priest is granted a place to walk among the heavenly attendants who stand there", cluster: angelology}
+  messianic-branch-tsemah: {label: "God will bring his servant 'the Branch' (Tsemah) who will build the temple", cluster: messianism}
+  stone-with-seven-eyes: {label: "A stone set before the high priest with seven eyes on it, which God will engrave", cluster: apocalyptic}
+  prophet-woken-as-from-sleep: {label: "The angel rouses the prophet like a man woken from sleep before the vision", cluster: apocalyptic}
+  lampstand-fed-by-two-olive-trees: {label: "A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes", cluster: apocalyptic}
+  not-by-might-but-by-spirit: {label: "'Not by might, nor by power, but by my spirit', says YHWH", cluster: theology}
+  mountain-becomes-plain-before-builder: {label: "'Who are you, great mountain? Before Zerubbabel you become a plain'", cluster: temple}
+  capstone-acclaimed-grace-grace: {label: "The headstone is brought out with shouts of 'Grace, grace to it'", cluster: temple}
+  day-of-small-things: {label: "'Who has despised the day of small things?' (small beginnings of the rebuilding)", cluster: temple}
+  two-anointed-sons-of-oil: {label: "Two 'sons of oil' (anointed ones) stand by the Lord of all the earth", cluster: messianism}
+  flying-scroll: {label: "A huge flying scroll, twenty by ten cubits, is seen in a vision", cluster: apocalyptic}
+  curse-enters-house-and-consumes-it: {label: "A curse goes out over the land, enters the house of the thief and the false swearer, lodges there and consumes its timber and stones", cluster: curse}
+  woman-in-ephah-wickedness: {label: "A woman sitting inside an ephah measure is identified as Wickedness (ha-rish'ah)", cluster: apocalyptic}
+  lead-lid-seals-wickedness: {label: "Wickedness is thrust back into the ephah and a lead weight is thrown over its mouth", cluster: apocalyptic}
+  winged-women-with-stork-wings: {label: "Two women with wind in their wings like the wings of a stork lift the ephah between earth and heaven", cluster: apocalyptic}
+  wickedness-enshrined-in-shinar: {label: "Wickedness is carried off to Shinar (Babylonia) where a house is built for it and it is set on its base", cluster: apocalyptic}
+  four-chariots-from-bronze-mountains: {label: "Four chariots come out from between two mountains of bronze", cluster: apocalyptic}
+  four-winds-as-chariots: {label: "The chariots are the four winds (spirits) of heaven that go out after presenting themselves before the Lord of all the earth", cluster: apocalyptic}
+  gods-spirit-at-rest-in-north: {label: "The horses going to the north country have set God's spirit at rest there", cluster: apocalyptic}
+  crown-placed-on-high-priest: {label: "Crowns made from the exiles' silver and gold are set on the head of the high priest", cluster: messianism}
+  royal-and-priestly-figures-in-harmony: {label: "A ruler on his throne and a priest by (or on) his throne with 'counsel of peace between the two of them'", cluster: messianism}
+  crowns-kept-as-memorial-in-temple: {label: "The crowns are kept in the temple as a memorial for named donors", cluster: temple}
+  question-whether-to-keep-mourning-fast: {label: "A delegation asks the priests whether to keep weeping and abstaining in the fifth month now the temple is rebuilt", cluster: liturgy}
+  fasting-for-god-or-self: {label: "'When you fasted and mourned these seventy years, was it for me that you fasted?'", cluster: liturgy}
+  hearts-made-hard-as-shamir: {label: "The people made their hearts like shamir (adamant or flint) so as not to hear the Torah", cluster: theology}
+  they-called-i-did-not-hear: {label: "As God called and they would not hear, so they will call and he will not hear", cluster: theology}
+  jerusalem-city-of-truth: {label: "Jerusalem will be called 'the city of truth' and Zion 'the holy mountain'", cluster: eschatology}
+  old-people-and-children-fill-streets: {label: "Old men and women with staffs sit again in Jerusalem's squares and boys and girls play in its streets", cluster: eschatology}
+  four-fasts-turned-to-feasts: {label: "The fasts of the fourth, fifth, seventh and tenth months will become joy and festivals", cluster: liturgy}
+  ten-gentiles-grasp-hem-of-jew: {label: "Ten men of every tongue will grasp the corner of a Jew's garment: 'Let us go with you, for we have heard God is with you'", cluster: eschatology}
 units:
   - id: hb-obad-1-edom-brought-down
     tradition: judaism
@@ -558,7 +608,6 @@ units:
       - {motif: maidens-moan-like-doves-beating-breasts, refs: ["Nah 2:8"], note: "huzzav, obscure: queen or 'it is decreed'"}
       - {motif: heart-of-a-lion-melts, refs: ["Nah 2:11"], note: "hearts melt, knees give way, all faces grow pale"}
       - {motif: empire-as-lions-den-filled-with-prey, refs: ["Nah 2:12", "Nah 2:13"]}
-      - {motif: no-dog-shall-whet-its-tongue, refs: ["Nah 2:12"], note: "loosely: 've-ein maharid', none to frighten"}
     hints:
       - "Isa 52:7 has the same herald line. Diodorus 2.26-27 and Xenophon (Anabasis 3.4) tell of Nineveh/Larisa falling when the river broke the wall. Assyrian royal lion-hunt reliefs from Nineveh."
   - id: hb-nah-3-woe-to-bloody-city
@@ -787,3 +836,208 @@ units:
       - {motif: zerubbabel-made-gods-signet-ring, refs: ["Hag 2:23"]}
     hints:
       - "Reverses Jer 22:24, where Zerubbabel's grandfather Jehoiachin is a signet torn off God's hand. Sir 49:11 praises Zerubbabel 'like a signet on the right hand'."
+  - id: hb-zech-1-return-to-me
+    tradition: judaism
+    title: Zechariah's call to return
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 1:1-6"]
+    tags:
+      - {motif: prophecy-dated-by-persian-kings-reign, refs: ["Zech 1:1"], note: "8th month, year 2 of Darius"}
+      - {motif: return-to-me-and-i-will-return, refs: ["Zech 1:3"]}
+      - {motif: former-prophets-ignored, refs: ["Zech 1:4"]}
+      - {motif: fathers-and-prophets-mortal-word-endures, refs: ["Zech 1:5", "Zech 1:6"]}
+    hints:
+      - "Mal 3:7 repeats 'Return to me and I will return to you'. Lam 5:21; Quran 2:160 (God turns to those who turn)."
+  - id: hb-zech-1-horsemen-among-myrtles
+    tradition: judaism
+    title: First night vision, the horsemen among the myrtles
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 1:7-17"]
+    tags:
+      - {motif: babylonian-month-names, refs: ["Zech 1:7"], note: "'the eleventh month, that is the month Shevat'"}
+      - {motif: night-vision-series, refs: ["Zech 1:8"]}
+      - {motif: horsemen-among-myrtles, refs: ["Zech 1:8", "Zech 1:10", "Zech 1:11"]}
+      - {motif: colored-horses-of-apocalyptic-vision, refs: ["Zech 1:8"], note: "red, sorrel (seruqqim) and white"}
+      - {motif: interpreting-angel, refs: ["Zech 1:9", "Zech 1:13", "Zech 1:14"]}
+      - {motif: roaming-the-earth-report, refs: ["Zech 1:10", "Zech 1:11"], note: "'we have walked to and fro in the earth, and all the earth sits at rest'"}
+      - {motif: angel-intercedes-for-jerusalem, refs: ["Zech 1:12"]}
+      - {motif: how-long-o-lord, refs: ["Zech 1:12"]}
+      - {motif: seventy-years-of-exile, refs: ["Zech 1:12"]}
+      - {motif: jealous-god, refs: ["Zech 1:14"], note: "'I am jealous for Jerusalem with a great jealousy'"}
+      - {motif: measuring-line-over-jerusalem, refs: ["Zech 1:16"]}
+    hints:
+      - "Rev 6:1-8 (four horsemen of different colors). b. Sanh. 93a reads the myrtles as the righteous (Hananiah, Mishael, Azariah) and the rider as Gabriel; Esther's name Hadassah (myrtle). Job 1:7 (the satan roams the earth)."
+  - id: hb-zech-2-horns-and-craftsmen
+    tradition: judaism
+    title: Second night vision, four horns and four craftsmen
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 2:1-4"]
+    tags:
+      - {motif: four-horns-scattered-judah, refs: ["Zech 2:1", "Zech 2:2"]}
+      - {motif: four-craftsmen-throw-down-horns, refs: ["Zech 2:3", "Zech 2:4"]}
+      - {motif: do-not-lift-up-horn, refs: ["Zech 2:4"], note: "horn as political power; the nations 'lifted a horn' against Judah"}
+      - {motif: interpreting-angel, refs: ["Zech 2:2"]}
+    hints:
+      - "b. Sukkah 52b: the four craftsmen are Messiah son of David, Messiah son of Joseph, Elijah and the Righteous Priest (Melchizedek). Dan 7-8 (horns as kings); 1 Enoch 90."
+  - id: hb-zech-2-measuring-jerusalem
+    tradition: judaism
+    title: Third night vision, the measuring line and the wall of fire
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 2:5-17"]
+    tags:
+      - {motif: angel-measures-city, refs: ["Zech 2:5", "Zech 2:6"]}
+      - {motif: jerusalem-unwalled-god-wall-of-fire, refs: ["Zech 2:8", "Zech 2:9"], note: "perazot, open villages, for the multitude of people and beasts"}
+      - {motif: flee-from-land-of-north, refs: ["Zech 2:10", "Zech 2:11"], note: "scattered 'like the four winds of heaven'"}
+      - {motif: apple-of-the-eye, refs: ["Zech 2:12"], note: "'whoever touches you touches the pupil (bavah) of his eye', a traditional tiqqun soferim"}
+      - {motif: many-nations-join-yhwh, refs: ["Zech 2:15"]}
+      - {motif: term-holy-land, refs: ["Zech 2:16"]}
+      - {motif: all-earth-silent-before-yhwh, refs: ["Zech 2:17"], note: "'Hush, all flesh, before YHWH, for he has roused himself from his holy dwelling'"}
+    hints:
+      - "Ezek 40-42 and Rev 11:1 and 21:15-17 (measuring the temple/city); Rev 21 (city of God). 'Admat ha-qodesh' is the source of the later term 'Holy Land' (terra sancta)."
+  - id: hb-zech-3-joshua-and-the-satan
+    tradition: judaism
+    title: Fourth vision, the high priest, the satan and the Branch
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 3:1-10"]
+    tags:
+      - {motif: divine-council-scene, refs: ["Zech 3:1", "Zech 3:4", "Zech 3:7"], note: "'those standing before him'"}
+      - {motif: satan-as-heavenly-accuser, refs: ["Zech 3:1"], note: "ha-satan standing at his right hand 'to accuse him' (le-sitno)"}
+      - {motif: yhwh-rebuke-you-satan, refs: ["Zech 3:2"]}
+      - {motif: brand-plucked-from-fire, refs: ["Zech 3:2"]}
+      - {motif: filthy-garments-exchanged-for-festal-robes, refs: ["Zech 3:3", "Zech 3:4", "Zech 3:5"], note: "bgadim tso'im (excrement-soiled); makhalatsot; tsanif tahor"}
+      - {motif: priest-granted-access-among-angels, refs: ["Zech 3:7"]}
+      - {motif: messianic-branch-tsemah, refs: ["Zech 3:8"], note: "'my servant the Branch'; Joshua's companions are 'men of portent'"}
+      - {motif: stone-with-seven-eyes, refs: ["Zech 3:9"]}
+      - {motif: every-man-under-vine-and-fig, refs: ["Zech 3:10"]}
+    hints:
+      - "Jude 9 ('The Lord rebuke you' to the devil disputing over Moses' body); Rev 12:10 (the accuser cast down). Job 1-2 (the satan in the court). Amos 4:11 (brand plucked from burning). Zoroastrian heavenly-trial imagery; Iranian 'adversary' figures. Rabbinic midrash (b. Sanh. 93a) explains Joshua's soiled clothes by his sons' foreign marriages."
+  - id: hb-zech-4-lampstand-and-olive-trees
+    tradition: judaism
+    title: Fifth vision, the lampstand, the two olive trees and Zerubbabel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 4:1-14"]
+    tags:
+      - {motif: prophet-woken-as-from-sleep, refs: ["Zech 4:1"]}
+      - {motif: seven-branched-lampstand, refs: ["Zech 4:2"], note: "all gold, with a bowl on top, seven lamps and seven spouts each"}
+      - {motif: lampstand-fed-by-two-olive-trees, refs: ["Zech 4:3", "Zech 4:11", "Zech 4:12"]}
+      - {motif: not-by-might-but-by-spirit, refs: ["Zech 4:6"]}
+      - {motif: mountain-becomes-plain-before-builder, refs: ["Zech 4:7"]}
+      - {motif: capstone-acclaimed-grace-grace, refs: ["Zech 4:7"]}
+      - {motif: day-of-small-things, refs: ["Zech 4:9", "Zech 4:10"], note: "Zerubbabel's hands founded and will finish the house; the 'tin stone' (plummet)"}
+      - {motif: eyes-of-yhwh-roam-the-earth, refs: ["Zech 4:10"], note: "the seven are the eyes of YHWH roaming the earth"}
+      - {motif: two-anointed-sons-of-oil, refs: ["Zech 4:14"]}
+    hints:
+      - "Rev 11:4 (the two witnesses are the two olive trees and two lampstands). Qumran messianism of two anointed (Aaron and Israel), 1QS 9:11. Zech 2:14-4:7 is the haftarah of Shabbat Hanukkah. Iranian seven Amesha Spentas and Mesopotamian seven-eyed imagery have been compared to the seven eyes."
+  - id: hb-zech-5-flying-scroll
+    tradition: judaism
+    title: Sixth vision, the flying scroll
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 5:1-4"]
+    tags:
+      - {motif: flying-scroll, refs: ["Zech 5:1", "Zech 5:2"]}
+      - {motif: curse-enters-house-and-consumes-it, refs: ["Zech 5:3", "Zech 5:4"], note: "the curse ('alah) on the thief and the one who swears falsely by God's name"}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["Zech 5:3"], note: "theft and false oath, one from each tablet in rabbinic reading"}
+    hints:
+      - "Twenty by ten cubits are the dimensions of Solomon's temple porch (1Kgs 6:3). Ezek 2:9-3:3 (scroll written front and back). Greek and Near Eastern curse tablets (defixiones) that 'go out' against thieves and perjurers."
+  - id: hb-zech-5-woman-in-the-ephah
+    tradition: judaism
+    title: Seventh vision, the woman in the ephah carried to Shinar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 5:5-11"]
+    tags:
+      - {motif: woman-in-ephah-wickedness, refs: ["Zech 5:6", "Zech 5:7", "Zech 5:8"], note: "'this is their eye (appearance/iniquity) in all the land'"}
+      - {motif: lead-lid-seals-wickedness, refs: ["Zech 5:7", "Zech 5:8"], note: "kikkar oferet, a lead talent"}
+      - {motif: winged-women-with-stork-wings, refs: ["Zech 5:9"]}
+      - {motif: wickedness-enshrined-in-shinar, refs: ["Zech 5:10", "Zech 5:11"], note: "a temple (bayit) and pedestal, as for a cult image"}
+      - {motif: interpreting-angel, refs: ["Zech 5:5", "Zech 5:10"]}
+    hints:
+      - "Rev 17-18 (the woman Babylon). Gen 11:2 (Shinar, the plain of Babel). Commentators compare winged female genii in Assyrian art and the removal of a goddess image (Asherah/Queen of Heaven) to Babylon. 1 Enoch's binding of sin under stones."
+  - id: hb-zech-6-four-chariots
+    tradition: judaism
+    title: Eighth vision, four chariots between bronze mountains
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 6:1-8"]
+    tags:
+      - {motif: four-chariots-from-bronze-mountains, refs: ["Zech 6:1"]}
+      - {motif: colored-horses-of-apocalyptic-vision, refs: ["Zech 6:2", "Zech 6:3", "Zech 6:6"], note: "red, black, white, dappled; north and south (Teman)"}
+      - {motif: four-winds-as-chariots, refs: ["Zech 6:5"]}
+      - {motif: winds-as-angels-fire-as-ministers, refs: ["Zech 6:5"]}
+      - {motif: roaming-the-earth-report, refs: ["Zech 6:7"]}
+      - {motif: gods-spirit-at-rest-in-north, refs: ["Zech 6:8"]}
+    hints:
+      - "Shamash rises between twin mountains on Mesopotamian cylinder seals; Mashu twin-peaked mountain in Gilgamesh IX. Rev 6:1-8; 2Kgs 23:11 (horses of the sun)."
+  - id: hb-zech-6-crowning-the-branch
+    tradition: judaism
+    title: Crowns for Joshua; the man named Branch
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 6:9-15"]
+    tags:
+      - {motif: crown-placed-on-high-priest, refs: ["Zech 6:10", "Zech 6:11"], note: "from Heldai, Tobijah and Jedaiah, returned from Babylon"}
+      - {motif: messianic-branch-tsemah, refs: ["Zech 6:12"], note: "'a man whose name is Branch; he shall branch out from his place and build the temple'"}
+      - {motif: royal-and-priestly-figures-in-harmony, refs: ["Zech 6:13"]}
+      - {motif: crowns-kept-as-memorial-in-temple, refs: ["Zech 6:14"]}
+      - {motif: many-nations-join-yhwh, refs: ["Zech 6:15"], note: "'those far off will come and build'"}
+    hints:
+      - "Jer 23:5 and 33:15 (righteous Branch of David). Targum renders Tsemah as 'Messiah'. Heb 7 (priest-king); Qumran priestly and royal messiahs. Christian 'Ecce homo' readings of 6:12 (LXX Anatole, 'Dawn', later a name for Christ)."
+  - id: hb-zech-7-fasting-question
+    tradition: judaism
+    title: The Bethel delegation's question about fasting
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 7:1-14"]
+    tags:
+      - {motif: prophecy-dated-by-persian-kings-reign, refs: ["Zech 7:1"], note: "4th of the 9th month, Kislev, Darius year 4"}
+      - {motif: babylonian-month-names, refs: ["Zech 7:1"]}
+      - {motif: question-whether-to-keep-mourning-fast, refs: ["Zech 7:2", "Zech 7:3"], note: "Sharezer and Regem-melech, Babylonian names"}
+      - {motif: fasting-for-god-or-self, refs: ["Zech 7:5", "Zech 7:6"]}
+      - {motif: seventy-years-of-exile, refs: ["Zech 7:5"]}
+      - {motif: former-prophets-ignored, refs: ["Zech 7:7", "Zech 7:12"]}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Zech 7:9", "Zech 7:10"], note: "do not oppress widow, orphan, stranger and poor; do not plot evil against a brother"}
+      - {motif: hearts-made-hard-as-shamir, refs: ["Zech 7:11", "Zech 7:12"]}
+      - {motif: they-called-i-did-not-hear, refs: ["Zech 7:13"]}
+      - {motif: scattering-among-nations, refs: ["Zech 7:14"], note: "'I tossed them with a whirlwind'"}
+    hints:
+      - "Isa 58:3-7 (the fast God chooses). Shamir is, in rabbinic legend (m. Avot 5:6; b. Gittin 68a), the stone-cutting creature Solomon used to build the temple without iron tools; Ezek 3:9 and Jer 17:1 use shamir for adamant."
+  - id: hb-zech-8-zion-restored
+    tradition: judaism
+    title: Ten promises for Zion; fasts become feasts; ten men grasp a Jew's garment
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 8:1-23"]
+    tags:
+      - {motif: jealous-god, refs: ["Zech 8:2"]}
+      - {motif: jerusalem-city-of-truth, refs: ["Zech 8:3"]}
+      - {motif: old-people-and-children-fill-streets, refs: ["Zech 8:4", "Zech 8:5"]}
+      - {motif: ingathering-of-exiles, refs: ["Zech 8:7", "Zech 8:8"], note: "from the land of sunrise and sunset"}
+      - {motif: mutual-covenant-declaration, refs: ["Zech 8:8"]}
+      - {motif: futility-curse-sow-not-reap, refs: ["Zech 8:10"], note: "before these days there was no wage for man or beast"}
+      - {motif: curse-turned-to-blessing, refs: ["Zech 8:13"], note: "as you were a curse among nations, you will be a blessing"}
+      - {motif: as-you-have-done-it-shall-be-done-to-you, refs: ["Zech 8:14", "Zech 8:15"], note: "as God purposed evil and did not relent, so now he purposes good"}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Zech 8:16", "Zech 8:17"], note: "loosely: speak truth, judge peace in your gates, love no false oath"}
+      - {motif: four-fasts-turned-to-feasts, refs: ["Zech 8:19"]}
+      - {motif: pilgrimage-to-zion, refs: ["Zech 8:20", "Zech 8:21", "Zech 8:22"]}
+      - {motif: ten-gentiles-grasp-hem-of-jew, refs: ["Zech 8:23"]}
+    hints:
+      - "The four fasts are traditionally 17 Tammuz, 9 Av, the Fast of Gedaliah and 10 Tevet (b. Rosh Hashanah 18b). Zech 8:16 is cited in m. Avot 1:18 (truth, judgment and peace). Zech 8:23 and the kanaf (tassel corner) of Num 15:38; Matt 9:20 (the woman touches the hem of Jesus' garment)."

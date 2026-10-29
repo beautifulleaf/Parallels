@@ -204,6 +204,108 @@ new_motifs:
   seventy-years-of-forgetting: {label: "A city forgotten for seventy years, 'like the days of one king', then visited again by God", cluster: prophecy}
   song-of-the-harlot: {label: "The forgotten city is told to take a lyre and go about like a forgotten harlot singing to be remembered", cluster: prophecy}
   harlots-hire-holy-to-yhwh: {label: "The city's trade and harlot's hire will be holy to YHWH, feeding and clothing those who dwell before him", cluster: cult}
+  earth-emptied-and-laid-waste: {label: "YHWH empties the earth and lays it waste, twisting its surface and scattering its inhabitants: priest as people, master as slave", cluster: eschatology}
+  earth-defiled-by-broken-eternal-covenant: {label: "The earth is polluted under its inhabitants because they transgressed laws and broke the everlasting covenant; a curse devours it", cluster: eschatology}
+  city-of-chaos-tohu: {label: "The 'city of chaos' (qiryat tohu) is broken; every house shut, joy banished", cluster: eschatology}
+  my-secret-to-me: {label: "Prophet cries 'razi li, razi li' ('my leanness/my secret is mine'), woe to me, the treacherous deal treacherously", cluster: prophecy}
+  terror-pit-and-snare: {label: "Wordplay pahad, pahat, pah: who flees the terror falls in the pit, who climbs out is caught in the snare", cluster: prophecy}
+  windows-of-heaven-opened-foundations-shake: {label: "The windows on high are opened and the foundations of the earth shake (flood imagery)", cluster: cosmology}
+  earth-reels-like-drunkard: {label: "The earth breaks, splits, totters and reels like a drunkard and sways like a hut; it falls and will not rise", cluster: eschatology}
+  host-of-heaven-punished-and-imprisoned: {label: "On that day YHWH punishes the host of the height in the height and the kings of the earth, gathering them as prisoners in a pit, shut up and punished after many days", cluster: eschatology}
+  sun-and-moon-ashamed-before-gods-reign: {label: "The moon is abashed and the sun ashamed, for YHWH reigns on Mount Zion with glory before his elders", cluster: eschatology}
+  fortified-city-made-heap: {label: "God turned the city into a heap, the foreigners' palace never to be rebuilt; strong peoples fear him", cluster: eschatology}
+  god-as-refuge-shade-from-heat: {label: "God is a stronghold for the poor, refuge from the storm and shade from the heat", cluster: theology}
+  eschatological-banquet-on-mountain: {label: "On this mountain YHWH makes for all peoples a feast of rich foods and well-aged wines", cluster: eschatology}
+  veil-over-nations-swallowed: {label: "God swallows the shroud (lot) and veil spread over all peoples", cluster: eschatology}
+  death-swallowed-forever: {label: "God will swallow up death forever (bila ha-mavet la-netsah)", cluster: eschatology}
+  god-wipes-away-tears: {label: "The Lord YHWH will wipe away tears from all faces and remove his people's disgrace", cluster: eschatology}
+  this-is-our-god-we-waited: {label: "'Behold, this is our God; we waited for him and he saved us'", cluster: liturgy}
+  moab-trampled-in-dung: {label: "Moab trampled like straw in a dung-pit, spreading his hands like a swimmer", cluster: prophecy}
+  strong-city-gates-open-for-righteous: {label: "'We have a strong city... Open the gates that the righteous nation that keeps faith may enter'", cluster: eschatology}
+  perfect-peace-for-trusting-mind: {label: "God keeps the steadfast mind in perfect peace (shalom shalom) because it trusts in him", cluster: theology}
+  yah-rock-of-ages: {label: "In Yah YHWH is an everlasting rock (tsur olamim)", cluster: theology}
+  soul-longs-for-god-at-night: {label: "'My soul yearns for you in the night; my spirit within me seeks you at dawn'", cluster: piety}
+  dead-oppressors-shall-not-rise: {label: "Other lords ruled us; they are dead, they will not live; shades (rephaim) will not rise; their memory is wiped out", cluster: afterlife}
+  people-in-labor-bear-wind: {label: "We were pregnant, we writhed, but gave birth only to wind; we brought no salvation to the earth", cluster: prophecy}
+  resurrection-of-the-dead: {label: "Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing", cluster: afterlife}
+  dew-of-lights-revives-dead: {label: "God's dew is a 'dew of lights' (tal orot) and the earth will give birth to the shades (rephaim)", cluster: afterlife}
+  hide-in-chambers-until-wrath-passes: {label: "'Go, my people, enter your chambers and shut the doors behind you; hide a little moment until the wrath passes'", cluster: eschatology}
+  earth-discloses-its-blood: {label: "The earth will disclose the blood shed on it and no longer cover its slain", cluster: eschatology}
+  leviathan-fleeing-twisting-serpent: {label: "YHWH with his hard, great, strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and slay the dragon (tannin) in the sea", cluster: mythology}
+  vineyard-of-delight-guarded: {label: "Song of the pleasant vineyard that YHWH guards, waters every moment and keeps night and day; he has no wrath, but would burn its briars", cluster: prophecy}
+  jacob-takes-root-fills-world: {label: "Jacob will take root, Israel blossom and bud and fill the face of the world with fruit", cluster: eschatology}
+  atonement-by-pulverizing-altars: {label: "Jacob's guilt is atoned by making all altar stones like crushed chalk, no Asherim or incense-stands standing", cluster: cult}
+  threshing-and-gleaning-israel-one-by-one: {label: "God threshes from the Euphrates to the Wadi of Egypt and the Israelites are gathered one by one", cluster: eschatology}
+  great-shofar-gathers-exiles: {label: "On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain", cluster: eschatology}
+  drunken-crown-of-ephraim: {label: "Woe to the proud crown of Ephraim's drunkards, a fading flower on the head of the rich valley, swallowed like an early fig", cluster: prophecy}
+  god-as-crown-of-remnant: {label: "On that day YHWH of hosts will be a crown of beauty and diadem of glory to the remnant of his people", cluster: eschatology}
+  drunken-priests-and-prophets-vomit: {label: "Priest and prophet reel with strong drink and err in vision; all tables are full of vomit", cluster: prophecy}
+  tsav-latsav-qav-laqav: {label: "Mocking babble 'tsav la-tsav, qav la-qav, ze'ir sham' (precept upon precept, line upon line)", cluster: prophecy}
+  god-speaks-through-foreign-tongue: {label: "God will speak to this people through stammering lips and a foreign tongue", cluster: prophecy}
+  covenant-with-death-and-sheol: {label: "Rulers boast 'We have made a covenant with Death and a pact with Sheol; the overwhelming scourge will not reach us'", cluster: afterlife}
+  tested-cornerstone-in-zion: {label: "God lays in Zion a tested stone, a precious cornerstone of sure foundation: 'whoever believes will not hasten'", cluster: messianism}
+  justice-as-measuring-line: {label: "God makes justice the measuring line and righteousness the plummet", cluster: theology}
+  gods-strange-work: {label: "God will rise as at Mount Perazim and the valley of Gibeon to do his strange deed and his alien work", cluster: theology}
+  bed-too-short-blanket-too-narrow: {label: "Proverb: the bed is too short to stretch out and the blanket too narrow to wrap oneself", cluster: wisdom}
+  farmers-parable-of-divine-wisdom: {label: "Parable of the farmer who knows when to plow, sow (dill, cumin, wheat, barley, spelt) and how to thresh each crop, taught by God", cluster: wisdom}
+  ariel-altar-hearth-city: {label: "Jerusalem called 'Ariel' (altar-hearth / lion of God), the city where David camped, to be besieged and become 'like an ariel'", cluster: zion}
+  voice-like-ghost-from-dust: {label: "The humbled city's voice will come from the ground like a ghost's (ov) and chirp from the dust", cluster: afterlife}
+  enemies-vanish-like-dream: {label: "The multitude of nations fighting Zion will be like a dream of the night: like a hungry man who dreams he eats and wakes empty", cluster: prophecy}
+  spirit-of-deep-sleep: {label: "God pours out a spirit of deep sleep (tardemah) and shuts the eyes of prophets and seers", cluster: prophecy}
+  sealed-book-unreadable: {label: "Vision is like a sealed book: the literate cannot read it because it is sealed, the illiterate because he cannot read", cluster: prophecy}
+  lip-service-heart-far: {label: "This people honors God with lips while its heart is far; its fear of him is a commandment of men learned by rote", cluster: theology}
+  wisdom-of-the-wise-perishes: {label: "God will do wonders so that the wisdom of the wise perishes and the understanding of the prudent is hidden", cluster: wisdom}
+  who-sees-us-hidden-plans: {label: "Woe to those who hide their plans deep from God and say 'Who sees us? Who knows us?'", cluster: theology}
+  pot-questions-potter: {label: "Shall the clay say to the potter 'he did not make me' or 'he has no understanding'?", cluster: theology}
+  lebanon-becomes-orchard: {label: "In a little while Lebanon will become a fruitful field (Carmel) and the field be counted a forest", cluster: eschatology}
+  deaf-hear-blind-see: {label: "On that day the deaf will hear the words of a book and the eyes of the blind will see out of darkness", cluster: eschatology}
+  god-who-redeemed-abraham: {label: "YHWH 'who redeemed Abraham' (a deliverance of Abraham alluded to)", cluster: patriarchs}
+  egypt-is-rahab-who-sits-still: {label: "Egypt's help is vain and empty; God calls her 'Rahab who sits still' (rahav hem shavet)", cluster: mythology}
+  beasts-of-negev-flying-serpents: {label: "Oracle on the beasts of the Negev: a land of lioness, viper and flying seraph through which envoys carry treasure on donkeys and camels", cluster: geography}
+  write-it-for-witness-forever: {label: "Prophet commanded to write the oracle on a tablet and in a book as a witness for the last day, forever", cluster: prophecy}
+  people-tell-seers-not-to-see: {label: "People tell the seers 'do not see', and the visionaries 'speak smooth things to us, prophesy illusions'", cluster: prophecy}
+  wall-bulge-collapses-suddenly: {label: "Iniquity like a bulging breach in a high wall that collapses suddenly, smashed like a potter's jar with no sherd left", cluster: prophecy}
+  returning-and-rest-salvation: {label: "'In returning and rest you shall be saved; in quietness and trust shall be your strength' - but you would not", cluster: theology}
+  flight-on-horses-punished: {label: "'We will flee on horses' - therefore you shall flee; a thousand flee at the threat of one until left like a flagpole on a hill", cluster: prophecy}
+  god-waits-to-be-gracious: {label: "YHWH waits to be gracious; blessed are all who wait for him; he answers at the sound of your cry", cluster: theology}
+  hidden-teacher-seen-voice-behind: {label: "Your Teacher will no longer hide; your eyes will see him and your ears hear a word behind you: 'This is the way, walk in it'", cluster: prophecy}
+  idols-cast-away-like-menstrual-cloth: {label: "Silver-plated idols and gold-covered images thrown away like a menstrual cloth: 'Get out!'", cluster: cult}
+  eschatological-fertility: {label: "In the future God gives abundant rain, rich bread, broad pastures and fodder; streams flow on every high hill", cluster: eschatology}
+  moonlight-as-sunlight-sun-sevenfold: {label: "The moon's light will be like the sun's and the sun's light sevenfold, like the light of seven days", cluster: eschatology}
+  name-of-yhwh-comes-from-afar: {label: "The Name of YHWH comes from afar, burning with anger, lips full of wrath, tongue like devouring fire, breath like an overflowing torrent", cluster: theophany}
+  sieve-and-bridle-of-nations: {label: "God sifts the nations with a sieve of destruction and puts a misleading bridle on the peoples' jaws", cluster: prophecy}
+  night-of-holy-festival-song: {label: "Your song will be as on the night when a festival is hallowed, with gladness like one going with the flute to the mountain of YHWH", cluster: liturgy}
+  topheth-pyre-prepared-for-king: {label: "Topheth, long prepared and deep, is ready for the king (melekh/Molech): a pyre of fire and wood kindled by YHWH's breath like a stream of brimstone", cluster: afterlife}
+  egypt-is-flesh-not-spirit: {label: "'Egypt is man and not God, their horses flesh and not spirit'", cluster: theology}
+  god-like-lion-over-prey: {label: "YHWH comes down to fight on Mount Zion like a lion growling over its prey, undaunted by the shepherds' shouts", cluster: theophany}
+  god-hovers-like-birds-to-protect: {label: "Like hovering birds YHWH protects Jerusalem; he will 'pass over' (pasoah) and rescue it", cluster: theophany}
+  assyria-falls-by-sword-not-of-man: {label: "Assyria will fall by a sword not of man; YHWH's fire is in Zion and his furnace in Jerusalem", cluster: prophecy}
+  righteous-king-and-princes: {label: "A king will reign in righteousness and princes rule in justice; each like a shelter from wind and shade of a great rock", cluster: messianism}
+  fool-no-longer-called-noble: {label: "The fool (naval) will no longer be called noble nor the knave respectable", cluster: wisdom}
+  complacent-women-summoned-to-mourn: {label: "Complacent, secure women told to tremble, strip and gird sackcloth and beat their breasts for the lost vintage", cluster: prophecy}
+  spirit-poured-from-on-high: {label: "Until a spirit is poured on us from on high and the wilderness becomes a fruitful field", cluster: eschatology}
+  fruit-of-righteousness-is-peace: {label: "The work of righteousness will be peace, and its effect quietness and trust forever", cluster: theology}
+  destroyer-destroyed-in-turn: {label: "Woe to the destroyer never destroyed: when you finish destroying you will be destroyed", cluster: prophecy}
+  heralds-of-peace-weep: {label: "The valiant ones (er'elam) cry outside and messengers of peace weep bitterly; covenant broken, highways desolate", cluster: prophecy}
+  who-can-dwell-with-devouring-fire: {label: "Sinners in Zion ask 'Who of us can dwell with the devouring fire, with everlasting burnings?'; answer: one who walks righteously", cluster: theology}
+  see-the-king-in-his-beauty: {label: "Your eyes will see the king in his beauty and behold a land stretching afar", cluster: eschatology}
+  zion-tent-never-moved: {label: "Jerusalem a quiet habitation, a tent whose stakes will never be pulled up nor cords broken", cluster: zion}
+  zion-place-of-broad-rivers: {label: "In Zion YHWH is for us a place of broad rivers and streams where no galley with oars can go", cluster: zion}
+  yhwh-judge-lawgiver-king: {label: "'YHWH is our judge, YHWH our lawgiver, YHWH our king; he will save us'", cluster: liturgy}
+  no-inhabitant-says-i-am-sick: {label: "No inhabitant will say 'I am sick'; the people dwelling there are forgiven", cluster: eschatology}
+  heavens-rolled-up-like-scroll: {label: "All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves from vine and fig", cluster: eschatology}
+  gods-sword-drunk-in-heaven: {label: "God's sword has drunk its fill in heaven and descends on Edom, sated with blood and fat as at a sacrifice in Bozrah", cluster: eschatology}
+  day-of-vengeance-year-of-recompense: {label: "A day of vengeance for YHWH, a year of recompense for the cause of Zion", cluster: eschatology}
+  land-turned-to-pitch-and-brimstone: {label: "Edom's streams turned to pitch and soil to brimstone; its smoke goes up forever, night and day unquenched", cluster: eschatology}
+  line-of-tohu-stones-of-bohu: {label: "God stretches over the land the measuring line of chaos (tohu) and the plummet of emptiness (bohu)", cluster: cosmology}
+  lilith-rests-in-ruins: {label: "In the ruins goat-demons call to each other and Lilith (lilit) settles and finds herself a resting place", cluster: demonology}
+  book-of-yhwh-records-creatures: {label: "'Seek in the book of YHWH and read: not one of these is missing'; God has allotted the land to the wild creatures by lot", cluster: theology}
+  desert-blossoms: {label: "The wilderness and dry land rejoice and blossom like the crocus, given the glory of Lebanon, Carmel and Sharon", cluster: eschatology}
+  strengthen-weak-hands: {label: "'Strengthen the weak hands and make firm the feeble knees; say to the anxious: be strong, fear not, your God comes'", cluster: prophecy}
+  lame-leap-mute-sing: {label: "Then the eyes of the blind will open, the deaf hear, the lame leap like a deer and the mute tongue sing", cluster: eschatology}
+  waters-break-out-in-desert: {label: "Waters break out in the wilderness and streams in the desert; burning sand becomes a pool", cluster: eschatology}
+  holy-way-for-redeemed: {label: "A highway called 'the Way of Holiness': no unclean one, lion or ravenous beast on it; only the redeemed walk there", cluster: eschatology}
+  ransomed-return-to-zion-singing: {label: "The ransomed of YHWH return to Zion with singing, everlasting joy upon their heads; sorrow and sighing flee away", cluster: eschatology}
 units:
   - id: hb-song-6-beloved-unique
     tradition: judaism
@@ -745,3 +847,260 @@ units:
       - {motif: harlots-hire-holy-to-yhwh, refs: ["Isa 23:17-18"]}
     hints:
       - "Ezek 26-28 and Rev 18 (merchants and ships lament the great city); seventy years as in Jer 25:11 and Esarhaddon's Babylon inscription (70 years decreed, reversed to 11)."
+  - id: hb-isa-24-world-judgment
+    tradition: judaism
+    title: The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 24:1-23"]
+    tags:
+      - {motif: earth-emptied-and-laid-waste, refs: ["Isa 24:1-3"]}
+      - {motif: earth-defiled-by-broken-eternal-covenant, refs: ["Isa 24:5-6"], note: "berit olam (cf. Noahic covenant); few men left"}
+      - {motif: bloodshed-pollutes-land, refs: ["Isa 24:5"], note: "hanfah, polluted"}
+      - {motif: city-of-chaos-tohu, refs: ["Isa 24:10-12"]}
+      - {motif: gleaning-remnant-olive-beating, refs: ["Isa 24:13"]}
+      - {motif: nations-praise-god-refrain, refs: ["Isa 24:14-16"], note: "from the west, the east (be-urim, 'in the regions of light'), the islands, the wing of the earth"}
+      - {motif: my-secret-to-me, refs: ["Isa 24:16"]}
+      - {motif: terror-pit-and-snare, refs: ["Isa 24:17-18"]}
+      - {motif: windows-of-heaven-opened-foundations-shake, refs: ["Isa 24:18"]}
+      - {motif: earth-reels-like-drunkard, refs: ["Isa 24:19-20"]}
+      - {motif: host-of-heaven-punished-and-imprisoned, refs: ["Isa 24:21-22"]}
+      - {motif: sun-and-moon-ashamed-before-gods-reign, refs: ["Isa 24:23"]}
+    hints:
+      - "Imprisoned host: 1 Enoch 10 and 18-21 (Watchers bound in a pit until judgment), 2 Pet 2:4, Jude 6, Rev 20:1-3; Rabbinic 'razi li' read as mystical secret (b. Sanhedrin 94a)."
+  - id: hb-isa-25-banquet-and-death-swallowed
+    tradition: judaism
+    title: Thanksgiving; the feast on the mountain; death swallowed forever
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 25:1-12"]
+    tags:
+      - {motif: fortified-city-made-heap, refs: ["Isa 25:2-3"]}
+      - {motif: god-as-refuge-shade-from-heat, refs: ["Isa 25:4-5"]}
+      - {motif: eschatological-banquet-on-mountain, refs: ["Isa 25:6"], note: "shemanim memuhayim, shemarim mezuqqaqim"}
+      - {motif: veil-over-nations-swallowed, refs: ["Isa 25:7"]}
+      - {motif: death-swallowed-forever, refs: ["Isa 25:8"], note: "God swallows Death (Mot), who in Ugaritic myth swallows others"}
+      - {motif: god-wipes-away-tears, refs: ["Isa 25:8"]}
+      - {motif: this-is-our-god-we-waited, refs: ["Isa 25:9"]}
+      - {motif: moab-trampled-in-dung, refs: ["Isa 25:10-12"]}
+    hints:
+      - "1 Cor 15:54 'Death is swallowed up in victory'; Rev 7:17 and 21:4 (God wipes away every tear); messianic banquet with Leviathan's flesh (2 Bar 29, b. Bava Batra 75a); Ugaritic Mot's devouring jaws."
+  - id: hb-isa-26-song-and-resurrection
+    tradition: judaism
+    title: Song of the strong city; your dead shall live
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 26:1-21"]
+    tags:
+      - {motif: strong-city-gates-open-for-righteous, refs: ["Isa 26:1-2"]}
+      - {motif: perfect-peace-for-trusting-mind, refs: ["Isa 26:3"]}
+      - {motif: yah-rock-of-ages, refs: ["Isa 26:4"]}
+      - {motif: humbling-of-the-lofty, refs: ["Isa 26:5-6"], note: "the lofty city trampled by the feet of the poor"}
+      - {motif: soul-longs-for-god-at-night, refs: ["Isa 26:9"]}
+      - {motif: dead-oppressors-shall-not-rise, refs: ["Isa 26:13-14"]}
+      - {motif: rephaim-shades, refs: ["Isa 26:14", "Isa 26:19"]}
+      - {motif: people-in-labor-bear-wind, refs: ["Isa 26:17-18"]}
+      - {motif: resurrection-of-the-dead, refs: ["Isa 26:19"]}
+      - {motif: dew-of-lights-revives-dead, refs: ["Isa 26:19"]}
+      - {motif: hide-in-chambers-until-wrath-passes, refs: ["Isa 26:20"]}
+      - {motif: earth-discloses-its-blood, refs: ["Isa 26:21"]}
+      - {motif: blood-cries-from-ground, refs: ["Isa 26:21"]}
+    hints:
+      - "Dew of resurrection in rabbinic lore (b. Shabbat 88b, y. Berakhot 5:2; the 'tal' prayer); Dan 12:2; Zoroastrian resurrection (Bundahishn 34); Isa 26:20 echoes Passover night (Exod 12:22-23)."
+  - id: hb-isa-27-leviathan-and-great-shofar
+    tradition: judaism
+    title: Leviathan slain; the vineyard of delight; the great shofar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 27:1-13"]
+    tags:
+      - {motif: leviathan, refs: ["Isa 27:1"]}
+      - {motif: leviathan-fleeing-twisting-serpent, refs: ["Isa 27:1"], note: "nahash bariah, nahash aqallaton"}
+      - {motif: sea-monster-defeated-by-god, refs: ["Isa 27:1"]}
+      - {motif: vineyard-of-delight-guarded, refs: ["Isa 27:2-5"]}
+      - {motif: israel-as-vine, refs: ["Isa 27:2-6"]}
+      - {motif: jacob-takes-root-fills-world, refs: ["Isa 27:6"]}
+      - {motif: atonement-by-pulverizing-altars, refs: ["Isa 27:9"]}
+      - {motif: hammanim-incense-stands, refs: ["Isa 27:9"]}
+      - {motif: threshing-and-gleaning-israel-one-by-one, refs: ["Isa 27:12"]}
+      - {motif: great-shofar-gathers-exiles, refs: ["Isa 27:13"]}
+      - {motif: ingathering-of-exiles, refs: ["Isa 27:12-13"]}
+    hints:
+      - "Ugaritic KTU 1.5 I 1-3: Baal smote 'Lotan the fleeing serpent, the twisting serpent, the mighty one with seven heads' - nearly verbatim; Rev 12:9 and 20:2; Zoroastrian Azhi Dahaka; Vritra slain by Indra; Typhon."
+      - "The great shofar of Isa 27:13 enters the Amidah's tenth blessing (teqa be-shofar gadol) and 1 Thess 4:16 / Matt 24:31 (last trumpet)."
+  - id: hb-isa-28-covenant-with-death
+    tradition: judaism
+    title: Ephraim's drunkards; tsav la-tsav; covenant with death; the cornerstone; the farmer's wisdom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 28:1-29"]
+    tags:
+      - {motif: woe-oracle-series, refs: ["Isa 28:1"]}
+      - {motif: drunken-crown-of-ephraim, refs: ["Isa 28:1-4"]}
+      - {motif: god-as-crown-of-remnant, refs: ["Isa 28:5-6"]}
+      - {motif: drunken-priests-and-prophets-vomit, refs: ["Isa 28:7-8"]}
+      - {motif: tsav-latsav-qav-laqav, refs: ["Isa 28:10", "Isa 28:13"]}
+      - {motif: god-speaks-through-foreign-tongue, refs: ["Isa 28:11"]}
+      - {motif: covenant-with-death-and-sheol, refs: ["Isa 28:15", "Isa 28:18"], note: "brit et mavet; 'we made lies our refuge'"}
+      - {motif: tested-cornerstone-in-zion, refs: ["Isa 28:16"]}
+      - {motif: justice-as-measuring-line, refs: ["Isa 28:17"]}
+      - {motif: gods-strange-work, refs: ["Isa 28:21"]}
+      - {motif: bed-too-short-blanket-too-narrow, refs: ["Isa 28:20"]}
+      - {motif: decreed-destruction-overflowing, refs: ["Isa 28:22"]}
+      - {motif: farmers-parable-of-divine-wisdom, refs: ["Isa 28:23-29"]}
+    hints:
+      - "1 Cor 14:21 quotes Isa 28:11 on tongues; Isa 28:16 in Rom 9:33, 1 Pet 2:6, Eph 2:20; Qumran (1QS 8:7) calls the community the tested wall and precious cornerstone; covenant with Mot evokes Canaanite death-god."
+  - id: hb-isa-29-ariel-and-sealed-book
+    tradition: judaism
+    title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 29:1-24"]
+    tags:
+      - {motif: ariel-altar-hearth-city, refs: ["Isa 29:1-2", "Isa 29:7"]}
+      - {motif: voice-like-ghost-from-dust, refs: ["Isa 29:4"]}
+      - {motif: theophany-thunder-lightning-trumpet, refs: ["Isa 29:6"], note: "thunder, earthquake, great noise, whirlwind, tempest, flame of devouring fire"}
+      - {motif: enemies-vanish-like-dream, refs: ["Isa 29:5", "Isa 29:7-8"]}
+      - {motif: spirit-of-deep-sleep, refs: ["Isa 29:9-10"]}
+      - {motif: sealed-book-unreadable, refs: ["Isa 29:11-12"]}
+      - {motif: lip-service-heart-far, refs: ["Isa 29:13"]}
+      - {motif: wisdom-of-the-wise-perishes, refs: ["Isa 29:14"]}
+      - {motif: who-sees-us-hidden-plans, refs: ["Isa 29:15"]}
+      - {motif: pot-questions-potter, refs: ["Isa 29:16"]}
+      - {motif: lebanon-becomes-orchard, refs: ["Isa 29:17"]}
+      - {motif: deaf-hear-blind-see, refs: ["Isa 29:18"]}
+      - {motif: god-who-redeemed-abraham, refs: ["Isa 29:22"]}
+    hints:
+      - "Mark 7:6-7 / Matt 15:8-9 quote Isa 29:13; 1 Cor 1:19 quotes 29:14; Rom 9:20 (potter); Mesha Stele 'r'l (altar-hearth); midrash of Abraham saved from Nimrod's furnace read from 29:22 (Gen Rabbah 38); Quran 21:68-69."
+      - "Sealed book given to one who 'cannot read' is invoked in Muslim polemic for the unlettered prophet (Quran 96:1, 'Read!')."
+  - id: hb-isa-30-rahab-who-sits-still
+    tradition: judaism
+    title: Woe to the rebellious children going down to Egypt; returning and rest; the Teacher; Topheth prepared
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 30:1-33"]
+    tags:
+      - {motif: rebellious-children-of-god, refs: ["Isa 30:1", "Isa 30:9"]}
+      - {motif: reliance-on-egypt-condemned, refs: ["Isa 30:1-5", "Isa 30:7"], note: "envoys at Zoan and Hanes"}
+      - {motif: beasts-of-negev-flying-serpents, refs: ["Isa 30:6"]}
+      - {motif: egypt-is-rahab-who-sits-still, refs: ["Isa 30:7"]}
+      - {motif: rahab-as-egypt, refs: ["Isa 30:7"]}
+      - {motif: write-it-for-witness-forever, refs: ["Isa 30:8"]}
+      - {motif: people-tell-seers-not-to-see, refs: ["Isa 30:10-11"]}
+      - {motif: wall-bulge-collapses-suddenly, refs: ["Isa 30:13-14"]}
+      - {motif: returning-and-rest-salvation, refs: ["Isa 30:15"]}
+      - {motif: flight-on-horses-punished, refs: ["Isa 30:16-17"]}
+      - {motif: one-chases-a-thousand, refs: ["Isa 30:17"], note: "inverted: a thousand flee before one"}
+      - {motif: god-waits-to-be-gracious, refs: ["Isa 30:18-19"]}
+      - {motif: hidden-teacher-seen-voice-behind, refs: ["Isa 30:20-21"], note: "moreykha, 'your teacher(s)', no longer hidden by a wing"}
+      - {motif: idols-cast-away-like-menstrual-cloth, refs: ["Isa 30:22"]}
+      - {motif: eschatological-fertility, refs: ["Isa 30:23-25"]}
+      - {motif: moonlight-as-sunlight-sun-sevenfold, refs: ["Isa 30:26"]}
+      - {motif: name-of-yhwh-comes-from-afar, refs: ["Isa 30:27-28", "Isa 30:30"]}
+      - {motif: sieve-and-bridle-of-nations, refs: ["Isa 30:28"]}
+      - {motif: hook-in-nose-bridle-in-lips, refs: ["Isa 30:28"]}
+      - {motif: night-of-holy-festival-song, refs: ["Isa 30:29"]}
+      - {motif: topheth-pyre-prepared-for-king, refs: ["Isa 30:33"]}
+    hints:
+      - "Sevenfold light of the sun in the world to come: b. Pesahim 68a, b. Sanhedrin 91b; Topheth -> Gehenna (Valley of Hinnom) and the lake of fire and brimstone in Rev 19:20; 'Teacher of Righteousness' at Qumran (moreh)."
+  - id: hb-isa-31-not-to-egypt
+    tradition: judaism
+    title: Woe to those who go down to Egypt; YHWH like a lion and hovering birds over Zion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 31:1-9"]
+    tags:
+      - {motif: reliance-on-egypt-condemned, refs: ["Isa 31:1"], note: "trusting horses and chariots"}
+      - {motif: egypt-is-flesh-not-spirit, refs: ["Isa 31:3"]}
+      - {motif: god-like-lion-over-prey, refs: ["Isa 31:4"]}
+      - {motif: god-hovers-like-birds-to-protect, refs: ["Isa 31:5"]}
+      - {motif: idols-called-elilim, refs: ["Isa 31:7"]}
+      - {motif: assyria-falls-by-sword-not-of-man, refs: ["Isa 31:8-9"]}
+    hints:
+      - "Passover verb pasah used for God's protection of the city (Isa 31:5; cf. Exod 12:13); Matt 23:37 (hen gathering chicks)."
+  - id: hb-isa-32-righteous-king-and-spirit
+    tradition: judaism
+    title: A king will reign in righteousness; complacent women; the spirit poured from on high
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 32:1-20"]
+    tags:
+      - {motif: righteous-king-and-princes, refs: ["Isa 32:1-2"]}
+      - {motif: deaf-hear-blind-see, refs: ["Isa 32:3-4"], note: "the stammerer's tongue speaks clearly"}
+      - {motif: fool-no-longer-called-noble, refs: ["Isa 32:5-8"]}
+      - {motif: complacent-women-summoned-to-mourn, refs: ["Isa 32:9-14"], note: "the Ophel and watchtower become caves forever, joy of wild asses"}
+      - {motif: spirit-poured-from-on-high, refs: ["Isa 32:15"]}
+      - {motif: lebanon-becomes-orchard, refs: ["Isa 32:15"]}
+      - {motif: fruit-of-righteousness-is-peace, refs: ["Isa 32:16-18"]}
+    hints:
+      - "Spirit poured out: Joel 3:1-2, Acts 2:17; Isa 32:17 is a common inscription text."
+  - id: hb-isa-33-who-can-dwell-with-fire
+    tradition: judaism
+    title: Woe to the destroyer; who can dwell with devouring fire; the king in his beauty; Zion's broad rivers
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 33:1-24"]
+    tags:
+      - {motif: destroyer-destroyed-in-turn, refs: ["Isa 33:1"]}
+      - {motif: woe-oracle-series, refs: ["Isa 33:1"]}
+      - {motif: heralds-of-peace-weep, refs: ["Isa 33:7-9"], note: "er'elam, read by rabbis as angels weeping"}
+      - {motif: who-can-dwell-with-devouring-fire, refs: ["Isa 33:14-16"]}
+      - {motif: entrance-liturgy-who-may-dwell, refs: ["Isa 33:14-16"], note: "refuses bribes, stops ears to bloodshed, shuts eyes to evil"}
+      - {motif: see-the-king-in-his-beauty, refs: ["Isa 33:17"]}
+      - {motif: zion-tent-never-moved, refs: ["Isa 33:20"]}
+      - {motif: zion-place-of-broad-rivers, refs: ["Isa 33:21"]}
+      - {motif: river-gladdens-city-of-god, refs: ["Isa 33:21"]}
+      - {motif: yhwh-judge-lawgiver-king, refs: ["Isa 33:22"]}
+      - {motif: no-inhabitant-says-i-am-sick, refs: ["Isa 33:24"]}
+    hints:
+      - "Ps 15 and 24 (entrance liturgies); b. Makkot 24a counts six principles in Isa 33:15; er'elam as weeping angels at the binding of Isaac (Gen Rabbah 56)."
+  - id: hb-isa-34-edom-and-lilith
+    tradition: judaism
+    title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 34:1-17"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Isa 34:1-2", "Isa 34:5"]}
+      - {motif: sacrifice-to-other-gods-herem, refs: ["Isa 34:2", "Isa 34:5"], note: "God devotes (heherim) the nations to destruction"}
+      - {motif: heavens-rolled-up-like-scroll, refs: ["Isa 34:4"]}
+      - {motif: gods-sword-drunk-in-heaven, refs: ["Isa 34:5-7"], note: "wild oxen (re'emim) go down with them"}
+      - {motif: god-sword-devours-flesh-drunk-arrows, refs: ["Isa 34:5-6"]}
+      - {motif: day-of-vengeance-year-of-recompense, refs: ["Isa 34:8"]}
+      - {motif: land-turned-to-pitch-and-brimstone, refs: ["Isa 34:9-10"]}
+      - {motif: land-like-sodom-brimstone-salt, refs: ["Isa 34:9"]}
+      - {motif: line-of-tohu-stones-of-bohu, refs: ["Isa 34:11"]}
+      - {motif: ruined-city-haunted-by-desert-creatures, refs: ["Isa 34:11-15"], note: "qa'at, qippod, yanshuf, orev, tannim, benot ya'anah, tsiyyim, iyyim, sa'ir, qippoz, dayyot"}
+      - {motif: lilith-rests-in-ruins, refs: ["Isa 34:14"]}
+      - {motif: book-of-yhwh-records-creatures, refs: ["Isa 34:16-17"]}
+    hints:
+      - "Lilith: Mesopotamian lilitu wind-demons; Talmud (b. Shabbat 151b), Alphabet of Ben Sira (Adam's first wife), Aramaic incantation bowls; Rev 6:13-14 (sky rolled up like a scroll); Rev 14:11 (smoke goes up forever)."
+  - id: hb-isa-35-desert-blooms
+    tradition: judaism
+    title: The desert blossoms; the blind see and the lame leap; the Way of Holiness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Isa 35:1-10"]
+    tags:
+      - {motif: desert-blossoms, refs: ["Isa 35:1-2"], note: "havatselet (crocus/lily)"}
+      - {motif: strengthen-weak-hands, refs: ["Isa 35:3-4"]}
+      - {motif: lame-leap-mute-sing, refs: ["Isa 35:5-6"]}
+      - {motif: deaf-hear-blind-see, refs: ["Isa 35:5"]}
+      - {motif: waters-break-out-in-desert, refs: ["Isa 35:6-7"]}
+      - {motif: holy-way-for-redeemed, refs: ["Isa 35:8-9"]}
+      - {motif: highway-for-returning-remnant, refs: ["Isa 35:8"]}
+      - {motif: ransomed-return-to-zion-singing, refs: ["Isa 35:10"]}
+    hints:
+      - "Matt 11:5 / Luke 7:22 (Jesus' answer to John: the blind see, the lame walk); 4Q521 messianic apocalypse; Heb 12:12."

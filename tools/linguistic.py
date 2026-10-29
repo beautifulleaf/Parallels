@@ -21,7 +21,7 @@ Adding a corpus: every text added to the project gets this layer. Write an
 adapter returning (verses, counts, first_ref, names) like `hebrew_tokens` /
 `quran_tokens` (ordered content lemmas per verse or line, token counts per
 lemma, first place of each lemma, and the set of proper-noun lemmas), then
-add it to `run_corpus` calls in `main`. Phrase, doublet and rare-word
+run it in `main` alongside the Hebrew Bible and Quran. Phrase, doublet and rare-word
 detection are corpus-independent.
 """
 import json
