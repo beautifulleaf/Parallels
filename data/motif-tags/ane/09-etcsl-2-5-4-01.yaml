@@ -198,3 +198,65 @@ units:
       - "Compare 1 Kgs 7:7 and 10:18-20 (Solomon's throne of ivory and gold) and Ps 132:7-8 (arise to your resting place) with lines 282-292."
       - "Compare 2 Sam 18:18 (Absalom's pillar so his name be remembered) with lines 297-320; contrast Deut 4:16-18, Exod 20:4."
       - "Compare 1 Kgs 15:15 (Asa brings his father's dedicated things into the temple) with lines 316-320."
+  - id: ane-etcsl-2-5-4-01-a-songs-and-learning
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: the king's songs, his scribal and musical learning, the oath of their truth and the wish for his dynasty"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:330-419"]
+    tags:
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.01 A:330-339"], note: "a-da-ab tigi2 šumun-ša4 ma-al-ga-tum / šir3-gid2-da ... a-ra-ḫi bal-bal-e za-am-za-am kun-ĝar-bi; Ĝeštin-ana, the honey-mouthed lady, as patroness of the songs"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.5.4.01 A:345-352"], note: "An looked favourably, Ninlil my protection, Enki gave me wisdom, Nanna loves me, mussa {d}nin-gal: son-in-law of Ningal, Inana gave me attractiveness"}
+      - {motif: king-puts-roads-and-boundaries-in-order, refs: ["ETCSL 2.5.4.01 A:355-356"], note: "in-ĝu10 dub-ba ki-ĝu10 sur-ra / eg2-ĝu10 sig9-ga pa5-ĝu10: my boundaries marked, my embankments piled, my ditches; context broken"}
+      - {motif: king-boasts-scribal-and-musical-skill, refs: ["ETCSL 2.5.4.01 A:359-374"], note: "šag4 dub-ba šudum niĝ2-šid ... gana2 gen6-ne2 ĝiš-as4-lum gi e3: tablets, counting, field surfaces, the measuring reed; dub ki-en-gi ki-uri-ka sar-re-bi mu-un-zu-a; instruments al-ĝar-sur9, sa-eš, sabitum, ḫarḫar, zanaru"}
+      - {motif: king-oath-hymns-contain-no-lies, refs: ["ETCSL 2.5.4.01 A:378-383"], note: "niĝ2 en3-du-ĝa2 a-na ab-ĝal2-la / na-du3-a-ĝa2 a-na ab-sar-ra lul ba-ra-na ḫe2-ge-en: what is in my odes and written on my stela is no lie but true"}
+      - {motif: king-oath-before-god-with-raised-hands, refs: ["ETCSL 2.5.4.01 A:378-380"], note: "{d}en-lil2-la2 šu il2-il2-la-ni mu-na-da-gub-ba / mu diĝir-re-e-ne nam-erim2 ... ḫe2-ni-kud-de3"}
+      - {motif: royal-hymns-sung-perpetually-in-temple, refs: ["ETCSL 2.5.4.01 A:384-393", "ETCSL 2.5.4.01 A:400-407"], note: "e2-a šir3-ĝu10 ... en3-du-ĝu10 šu-a ḫu-mu-un-bal-e: handed down; ka nar-e-ne-ka su3-ud-še3 ge-en: fixed forever in the singers' mouths"}
+      - {motif: hymns-written-down-for-posterity, refs: ["ETCSL 2.5.4.01 A:391-393"], note: "erim3 niĝ2 da-ri2 ibila lugal-la: lasting treasure of the king's heirs"}
+      - {motif: kings-dynasty-made-greater, refs: ["ETCSL 2.5.4.01 A:397-399"], note: "bal-ĝu10 bal-a im-mi-us2-sa / šag4-bal-bal-ĝu10 ḫe2-em-da-gal-gal: as he made my reign follow a reign, may he make my offspring greater"}
+      - {motif: descendants-to-perform-kings-songs, refs: ["ETCSL 2.5.4.01 A:400-407"], note: "kiĝ2-nim kiĝ2-sig šir3-ĝu10 ḫe2-na-DI: perform my songs at the morning and evening meals; lines 412-419 fragmentary, c. 34 lines lost"}
+      - {motif: incomparable-king, refs: ["ETCSL 2.5.4.01 A:409"], note: "kur-zag til-la-ba gaba-ri ḫe2-me-ni-in-tuku (negated sense): no rival to the borders of the mountains; reading uncertain"}
+    hints:
+      - "Compare 1 Kgs 5:9-14 (Solomon's 3,000 proverbs and 1,005 songs) and 1 Chr 25:1-7 (David organizes the singers) with lines 330-377."
+      - "Compare Ps 89:36-38 and 2 Sam 7:12-16 (dynasty established) and 1 Kgs 1:37, 47 ('may God make Solomon's throne greater than David's') with lines 397-399."
+      - "Compare Ps 72:20 and the Davidic superscriptions; Ps 45:18 ('I will make your name remembered in all generations') with lines 384-393."
+      - "Compare Gen 14:22 and Dan 12:7 (oath with raised hand) with lines 378-380."
+  - id: ane-etcsl-2-5-4-01-b-dedications
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A, segment B: chariot, sedan chair, fifty-headed mace and statues dedicated in Enlil's temple"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 B:1-24"]
+    tags:
+      - {motif: king-dedicates-weapon-and-cult-objects, refs: ["ETCSL 2.5.4.01 B:9-16"], note: "{ĝiš}gigir maḫ; {ĝiš}mar-šum {d}nin-lil2-ra mu-dim2-ma-a: a sedan chair for Ninlil; šita2 saĝ 50 {ĝiš}tukul-e dib-ba ... {d}nin-urta; {urud}gu-za maḫ"}
+      - {motif: named-weapons-of-divine-warrior, refs: ["ETCSL 2.5.4.01 B:14-15"], note: "the fifty-headed mace (šita2 saĝ 50) for Ninurta"}
+      - {motif: king-statue-set-before-god, refs: ["ETCSL 2.5.4.01 B:17-19"], note: "{urud}alan ... me-dim2-ma sig10-ga / alan {na4}esi ulutim2-ĝu10-še3 ak-a: copper statue fitted to my limbs, diorite statue made in my form"}
+      - {motif: diorite-from-magan-for-statues, refs: ["ETCSL 2.5.4.01 B:18"], note: "only the diorite statue; Magan not named"}
+    hints:
+      - "Compare 1 Kgs 7:13-51 (bronze and gold furnishings made for the temple) and 2 Sam 8:10-11 (dedicated articles)."
+  - id: ane-etcsl-2-5-4-01-c-singers
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A, segment C: let there be singers of every kind"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 C:1-13"]
+    tags:
+      - {motif: temple-singers-classes-ordained, refs: ["ETCSL 2.5.4.01 C:6-13"], note: "nar gal ḫe2-a / um-mi-a lu2 šir3 ḫe2-a / en3-du ĝar-ĝar ad ša4 di ḫe2-a / nar gu3 dug3-ga lugal-a ḫe2-a ... nar ka silim-ma a2-nu2-da-ka ḫe2-a / nar gu3 bal-bal: c. 31 lines lost after"}
+      - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.5.4.01 C:4-5"], note: "{d}en-ki {d}iškur {d}ezina2 ... diĝir ḫe2-ĝal2-la ... ḫe2-ĝal2 an ki-a: abundance in heaven and earth; context broken"}
+    hints:
+      - "Compare 1 Chr 15:16-24, 16:4-7 and 25:1-31 (classes of Levitical singers appointed) and Neh 12:46."
+  - id: ane-etcsl-2-5-4-01-d-monument-curse
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A, segment D: blessing on the successor who respects the monument, curse on the one who effaces it"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 D:1-17"]
+    tags:
+      - {motif: curse-on-who-alters-royal-monument, refs: ["ETCSL 2.5.4.01 D:4-16"], note: "{na4}esi eš3-e nibru{ki}-a ... ki-ba la-ba-an-kur2 ... mu la-ba-an-sar / niĝ2-erim2 niĝ2-a2-zig3 la-ba-an-ak: if he did not move (the diorite statue) from its place nor write (his name) ..., saĝ an-še3 ḫe2-ni-in-il2; but [nam]-erim2-ma ib2-ku5-ru-a ... mu-ni bi2-ib2-sar ... {d}en-lil2 lugal diĝir-re-e-ke4-ne: the curse itself is lost"}
+      - {motif: curse-on-who-removes-kings-name, refs: ["ETCSL 2.5.4.01 D:13-16"]}
+    hints:
+      - "Compare Deut 27:17 (cursed who moves a landmark) and Rev 22:18-19 (curse on who adds or removes); Prov 22:28."

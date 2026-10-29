@@ -1,0 +1,125 @@
+# Full read of the ANE corpus, chunk 11: ETCSL 4.07.8 - 4.15.3 (Sumerian love songs of Inana and Dumuzid; hymns to Martu, Nanna, Nanshe and Nergal).
+# Read from the ETCSL composite transliterations; ETCSL's English prose used as a reading aid only.
+new_motifs:
+  woman-as-field-to-be-ploughed: {label: "The woman offers her body (vulva) as a field, canal or furrow, and asks who will plough or water it", cluster: love}
+  lover-praised-body-part-is-womanly: {label: "Refrain praising the beloved's hand, foot, speech and glance one by one ('your hand is womanly, your foot is womanly')", cluster: love}
+  come-with-me-my-beloved-sister: {label: "Lover's call 'Come, my beloved sister' (ĝen nin9 ki aĝ2-ĝu10) repeated as a refrain", cluster: love}
+  lover-brings-bread-and-wine: {label: "The beloved comes to the lover bringing bread and wine", cluster: love}
+  goddess-i-am-litany-of-roles: {label: "A goddess describes herself in an 'I am' litany of roles she plays in each place: in battle, in the alehouse, at the gate", cluster: divine-epithets}
+  goddess-both-woman-and-young-man: {label: "The goddess says she is both a woman and a young man (gender-crossing)", cluster: divine-epithets}
+  gods-are-small-birds-goddess-is-falcon: {label: "Boast: the other gods are small birds, I am the falcon; the gods butt one another, I am the wild cow", cluster: divine-epithets}
+  goddess-holds-mountains-in-hand: {label: "A deity says the mountains are in her hand and at her feet, with a foreign land (Elam) in her grip", cluster: divine-epithets}
+  supplicants-go-to-goddess-for-king: {label: "Worshippers announce 'we shall go in supplication' to the goddess for the life of the lord and king", cluster: petition}
+  flax-to-bridal-sheet-chain: {label: "A chain dialogue: the brother brings flax and the sister asks who will ret, spin, twine, warp, weave and bleach it, ending 'who will lie down on it with me?'", cluster: love}
+  sun-god-as-brother-matchmaker: {label: "The sun god, as the goddess's brother, arranges her marriage and names her bridegroom", cluster: love}
+  bridegroom-farmer-and-shepherd: {label: "The chosen bridegroom is praised as both a rich farmer with heaped grain and a shepherd with woolly sheep", cluster: love}
+  woman-demands-lover-swear-fidelity: {label: "The woman makes her lover swear an oath that he will touch no other woman as long as he lives", cluster: love}
+  oath-sworn-hand-on-genitals: {label: "An oath is sworn by placing the right hand on the genitals of the one who demands it", cluster: oath}
+  lover-as-garden-of-fruit-trees: {label: "The lover is called an apple garden or a fruitful garden of trees", cluster: love}
+  dialogue-what-were-you-doing-in-house: {label: "Love-song dialogue: 'What were you doing in the house?' answered by a catalogue of bathing and dressing", cluster: love}
+  puberty-breasts-stand-hair-grows: {label: "A girl announces that her breasts have risen and her pubic hair has grown: she is ready for a man", cluster: love}
+  lover-promises-gifts-of-flocks: {label: "The beloved demands and the lover promises butter, cream, lambs and kids for her house", cluster: love}
+  lovers-bed-dripping-honey: {label: "The lovers lie on a bed 'dripping with honey'", cluster: love}
+  lover-begs-to-be-let-go: {label: "After the night the lover (or beloved) says 'Let me go, let me go home'", cluster: love}
+  father-sees-daughter-still-a-child: {label: "A father says that to his eye his daughter is still a small child", cluster: love}
+  lover-as-well-watered-lettuce: {label: "The lover is praised as sprouting, well-watered lettuce (a fertility image)", cluster: love}
+  king-grows-like-tree-in-temple-courtyard: {label: "The goddess will make the king flourish like a (meš) tree in the temple courtyard", cluster: kingship}
+  lover-hailed-with-string-of-offices: {label: "The bridegroom is hailed with a string of offices and kin titles ('you are our brother, our son-in-law, our city father and judge ...')", cluster: love}
+  lovers-coming-is-life-and-abundance: {label: "'Your coming is life, your entering the house is abundance': the lover's arrival as blessing", cluster: love}
+  lover-teaches-girl-lie-for-mother: {label: "The lover teaches the girl 'the lies of women' to tell her mother about where she spent the day", cluster: love}
+  lover-waits-at-mothers-gate: {label: "The lover stands at the girl's mother's gate while she runs about in excitement", cluster: love}
+  if-not-for-mother-lover-would-chase: {label: "The girl says that if it were not for her mother (and family) the young man would chase her through the desert", cluster: love}
+  lovers-quarrel-family-as-good-as-yours: {label: "Lovers' quarrel: 'my father is as good as your father, my mother as good as your mother'", cluster: love}
+  ploughing-with-jewels: {label: "The lover 'ploughs' with jewels, sowing small gems like seed and heaping large ones like grain for his beloved", cluster: love}
+  woman-leans-from-roof-or-wall: {label: "The beloved leans out towards the lover from the roof or the wall", cluster: love}
+  mourner-lacerates-own-face-and-body: {label: "A mourner lacerates her eyes, mouth and body for a lost kinsman", cluster: mourning}
+  seven-singers-know-stars-and-roads: {label: "The temple singers (seven, or fifty lament singers) know the stars of heaven and the roads of the earth", cluster: cult}
+  goddess-chooses-consort-as-god-of-land: {label: "The goddess looks over the people and chooses her consort (Dumuzid) as god of the land, exalting his name and decreeing his fate", cluster: kingship}
+  vegetation-springs-from-sacred-union: {label: "When the goddess rises from the king's embrace, flax and barley rise with her and the desert becomes a garden", cluster: fertility}
+  goddess-asks-bridegroom-for-milk: {label: "The goddess asks her shepherd-bridegroom to 'make the milk yellow' so she may drink it with him", cluster: love}
+  house-of-life-enamtila: {label: "The king's house E-namtila ('house of life') where the destinies of all lands are decreed and long life is granted", cluster: temple}
+  may-my-sheep-eat-my-plants-litany: {label: "Litany 'may my sheep eat my plants', naming plant after plant of the steppe", cluster: love}
+  plants-support-of-orphans-and-widows: {label: "The plants of the field are called the support of orphans and the sustenance of widows", cluster: justice}
+  bridegroom-stands-in-prayer-before-bride: {label: "The divine bridegroom stands in prayer (supplication) before the goddess", cluster: love}
+  mother-bore-me-for-you: {label: "The beloved says: 'my mother gave birth to me for your sake'", cluster: love}
+  flowered-bed-of-lovers: {label: "The lovers will lie on 'my flowered bed' (ki-nu2 gi-rin)", cluster: love}
+  wedding-gifts-from-shepherd-farmer-fowler-fisherman: {label: "The bride sends messengers to the shepherd, farmer, fowler and fisherman, who bring butter, milk, birds and carp", cluster: love}
+  bride-comes-forth-like-moonlight: {label: "The bride steps out of the house to the bridegroom like moonlight", cluster: love}
+  bride-brought-to-house-of-grooms-god: {label: "The bridegroom brings his bride to the house of his personal god and seats her in the god's seat of honour", cluster: love}
+  bride-not-taken-as-slave: {label: "The bridegroom assures his bride: 'I have not carried you off to be my slave girl'; she will eat at a splendid table and need not weave or spin", cluster: love}
+  goddess-prepares-bed-for-king: {label: "A bed is purified and spread for the sacred union, and the goddess 'desires the couch'", cluster: love}
+  sacred-marriage-at-moons-disappearance: {label: "The sacred marriage is set on the day of the moon's disappearance (new moon), when the couch is inspected", cluster: cult}
+  minister-leads-king-to-goddess: {label: "The goddess's minister takes the king by the right hand and leads him to the goddess's embrace with a blessing", cluster: love}
+  dominion-from-sunrise-to-sunset: {label: "The king is to rule from the rising to the setting of the sun, from the upper to the lower sea", cluster: kingship}
+  land-fertile-under-blessed-king: {label: "Prayer that under the king there be flax, barley, fish, birds, reeds, wild herds, syrup, wine and long life in the palace", cluster: kingship}
+  king-goes-head-high-to-goddess: {label: "The king goes 'with head held high' to the holy embrace of the goddess", cluster: love}
+  girl-sings-in-apple-and-fig-orchard: {label: "The lover speaks to the beloved among apple trees, fig trees and willows", cluster: love}
+units:
+  - id: ane-etcsl-4-07-8-1-nanaya-balbale
+    tradition: ane-sumerian
+    title: A balbale to Inana as Nanaya, main text (Inana H)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.07.8 1:1-33"]
+    tags:
+      - {motif: wasf-description-of-body, refs: ["ETCSL 4.07.8 1:7-11", "ETCSL 4.07.8 1:16-20"], note: "breast (gaba-za), navel (en3-dur-za), hand, foot, hips (ib2-ib2) praised in turn"}
+      - {motif: lover-praised-body-part-is-womanly, refs: ["ETCSL 4.07.8 1:16-18B"], note: "šu-zu munus-am3 ĝiri3-zu munus-am3"}
+      - {motif: come-with-me-my-beloved-sister, refs: ["ETCSL 4.07.8 1:13-14", "ETCSL 4.07.8 1:15A", "ETCSL 4.07.8 1:31"], note: "ĝen-ma-da nin-ĝu10; ĝen nin9 ki aĝ2-ĝu10 (15A is in ms. c only)"}
+      - {motif: woman-as-field-to-be-ploughed, refs: ["ETCSL 4.07.8 1:21-26"], note: "id2 na-an-ba-al-le id2-zu ḫe2-me-en / a-šag4 na-an-ur11-ru a-šag4-zu ḫe2-me-en: 'do not dig a canal, let me be your canal; do not plough a field, let me be your field'; mu-un-gar3 ki duru5 ... 'farmer, ... let this be your wet place'"}
+      - {motif: lover-brings-bread-and-wine, refs: ["ETCSL 4.07.8 1:29-30"], note: "ninda ĝeštin-da ma-da-du-du-nam"}
+      - {motif: goddess-sister-lover-dialogue, refs: ["ETCSL 4.07.8 1:31-32"], note: "nin9 'sister' for the beloved; {d}na-na-a ne ge4-su-ub 'Nanaya, let me kiss you'"}
+      - {motif: love-poetry-dialogue-of-lovers, refs: ["ETCSL 4.07.8 1:7-32"]}
+    hints:
+      - "Compare Song 4:1-7 and 7:1-9 (wasf, body praised part by part), Song 7:2 (navel)."
+      - "The woman as field to be ploughed: compare Q 2:223 (nisa'ukum harthun lakum, 'your women are a tilth for you') and Judg 14:18 ('had you not ploughed with my heifer')."
+      - "Compare Song 1:2 ('let him kiss me') and Song 4:9-10 ('my sister, bride')."
+  - id: ane-etcsl-4-07-8-2-nanaya-fragments
+    tradition: ane-sumerian
+    title: A balbale to Inana as Nanaya, fragments of a second version (Inana H, segments 2.A-2.B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: fragmentary duplicate/variant
+    read: ["ETCSL 4.07.8 2.A:1-9", "ETCSL 4.07.8 2.B:1-7"]
+    tags:
+      - {motif: explicit-erotic-description, refs: ["ETCSL 4.07.8 2.A:5-8"], note: "gal4-la-za sar-ra 'in your vulva ... gardens'; gu-du-za a-šag4 'in your buttocks/anus ... fields'; line ends broken"}
+      - {motif: woman-as-field-to-be-ploughed, refs: ["ETCSL 4.07.8 2.A:5-8"], note: "body parts linked with sar 'garden plots', a-šag4 'field', bur3 gana2 'acres'; broken, so the exact predicate is lost"}
+      - {motif: come-with-me-my-beloved-sister, refs: ["ETCSL 4.07.8 2.A:9", "ETCSL 4.07.8 2.B:2"]}
+      - {motif: wasf-description-of-body, refs: ["ETCSL 4.07.8 2.A:1-3"], note: "navel, back (murgu) of the 'sweet sister'"}
+    hints:
+      - "Compare Song 4:12-16 (the beloved as garden) and Song 7:3 (belly a heap of wheat)."
+  - id: ane-etcsl-4-07-9-a-inana-i-am-litany
+    tradition: ane-sumerian
+    title: A shir-namshub to Inana, segment A - Inana's self-praise (Inana I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.07.9 A:1-34"]
+    tags:
+      - {motif: goddess-i-am-litany-of-roles, refs: ["ETCSL 4.07.9 A:1-21"], note: "each couplet: '...-ĝu10-ne' (when I ...) followed by 'me-e-ĝen-na' (I am ...)"}
+      - {motif: goddess-goes-before-king-in-battle, refs: ["ETCSL 4.07.9 A:8-15"], note: "only partly: she stands at the mouth, the middle (murub2) and the rear (eĝer) of battle; lipiš me3-a 'the guts of battle'. No king is mentioned"}
+      - {motif: goddess-both-woman-and-young-man, refs: ["ETCSL 4.07.9 A:16-17"], note: "nu-nus-ĝen šul giri17-zal-la me-e-ĝen-na: 'I am a woman, I am an exuberant young man'"}
+      - {motif: inana-as-prostitute-at-tavern, refs: ["ETCSL 4.07.9 A:20-22"], note: "kan4 eš2-dam-ma-ka tuš-a-ĝu10-ne / kar-ke4 ...: 'when I sit at the gate of the tavern I am a prostitute'; mu-tin-na gu5-li-ni munus-e ma-la-ga 'friend of a man, girlfriend of a woman'"}
+      - {motif: goddess-holds-mountains-in-hand, refs: ["ETCSL 4.07.9 A:25-26"], note: "kur šu-ĝu10-še3 kur me-ri-ĝu10-še3 / elam{ki} šu-ĝu10-še3; a dagger at her belt"}
+      - {motif: gods-are-small-birds-goddess-is-falcon, refs: ["ETCSL 4.07.9 A:27-28"], note: "dim3-me-er buru5{mušen}-me-eš me-e mu-tin-ĝen; Anuna butting (du7-du7) while she is the wild cow (sumun2)"}
+      - {motif: king-catalogue-of-divine-favours, refs: ["ETCSL 4.07.9 A:29-31"], note: "applied to the goddess herself: daughter of Enlil, formidable one of father Suen, queen created by Nudimmud"}
+      - {motif: dumuzid-milk-of-god, refs: ["ETCSL 4.07.9 A:23-24"], note: "diĝir-ra {d}du5-mu-zid-da ga-ĝen: 'I am the milk of the god, of Dumuzid'"}
+    hints:
+      - "Divine self-predication in an 'I am' litany: compare Isa 44:24-28, Isa 45:5-7 and Q 20:14 ('Indeed I am God, there is no god but I')."
+      - "The goddess at the tavern gate as harlot: compare Prov 7:10-12 (the woman at the corners, in harlot's garb) and Gen 38:14-15."
+  - id: ane-etcsl-4-07-9-b-supplication-for-king
+    tradition: ane-sumerian
+    title: A shir-namshub to Inana, segment B - supplication for the life of the king (Inana I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.07.9 B:1-30"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.9 B:1-7", "ETCSL 4.07.9 B:10-19"], note: "the list of B:1-7 is repeated with the refrain ni2-ĝu10 il2-la 'imbued with my awesomeness' (reading uncertain)"}
+      - {motif: supplicants-go-to-goddess-for-king, refs: ["ETCSL 4.07.9 B:22-27"], note: "in-ĝa2-e-re7-de3-en ... šudu3 u3-mu-un-na-še3 ... šudu3 lugal-la-še3: 'we shall go for the supplication of the lord, of the king'"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 4.07.9 B:1-2", "ETCSL 4.07.9 B:11-12"], note: "nam-til3 u3-mu-un-na / nam-til3 lugal-la 'the life of the lord, the life of the king'; the predicate is broken in B:1-2"}
+      - {motif: goddess-mother-of-heaven, refs: ["ETCSL 4.07.9 B:28"], note: "ama {d}inana an-na-ke4 'mother Inana of heaven'"}
+    hints:
+      - "Compare Ps 21:4-6 and Ps 61:6-7 (prayer for the king's life and length of days)."
+      - "'Queen of heaven' as Inana/Ištar: compare Jer 7:18 and 44:17-19."

@@ -1,0 +1,147 @@
+# Full read of the ANE corpus, chunk 12: ETCSL 4.16.1-5.3.2 (hymns to Nisaba, Ninĝišzida, Ninisina, Ninkasi, Ninlil, Ninšubur, Ninurta, Nuska, Šara, Sadarnuna, Kusu; the Temple Hymns, the Keš Temple Hymn, the E-kur hymn; the Poem of early rulers; Sheep and Grain). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  goddess-coloured-like-starry-sky: {label: "A goddess is 'coloured like the stars of heaven' (mul-an-gin7 gun3-a)", cluster: hymn}
+  deity-nursed-on-holy-milk: {label: "A deity (or king) is nourished from birth on holy, good milk", cluster: birth}
+  goddess-cleanses-body-dons-priestly-robe: {label: "A goddess washes her body and puts on the holy priestly garment before performing the rites", cluster: cult}
+  deity-institutes-offerings-where-none-were: {label: "A deity establishes bread offerings and libations where none existed before, appointing priests and festivals", cluster: cult}
+  goddess-consults-star-tablet: {label: "A goddess consults a holy tablet of the heavenly stars, set on her knees", cluster: divination}
+  house-of-learning-opened-by-god: {label: "A god opens the house of learning (e2-ĝeštug2, 'house of wisdom') for a goddess of writing", cluster: wisdom}
+  goddess-blessed-to-be-steward-of-stores: {label: "A goddess is blessed to be the butter in the pen, the seal-keeper of the treasury and the heaper of grain in the stores", cluster: abundance}
+  temple-destroyed-and-overgrown: {label: "A ruined temple is overgrown: grasses of lamentation and long grass sprout by its walls, willows everywhere", cluster: lament}
+  goddess-lies-alone-weeping-in-moonlight: {label: "A bereft goddess lies down alone in the moonlight and weeps bitter tears, her man walled off from her", cluster: lament}
+  gods-word-and-angry-heart-destroy: {label: "Destruction is ascribed to 'the word of An and the word of Enlil', to the angry heart of the high gods", cluster: lament}
+  god-as-falcon-preying-on-gods: {label: "A warrior god is a falcon preying on the gods (or on enemies)", cluster: divine-warrior}
+  gods-mouth-like-magicians-or-snakes: {label: "A god's mouth is that of a magician or of a great-tongued, poisonous snake", cluster: hymn}
+  gods-word-known-only-to-the-knowing: {label: "The god's holy word is known to those who know it and unknown to those who do not; who can find out his intentions?", cluster: wisdom}
+  divine-warrior-as-river-flood-wave: {label: "A warrior god falls on the river as a flood-wave and rises in the fields as a devastating flood", cluster: divine-warrior}
+  kirugu-section-structure: {label: "A hymn is divided into numbered sections (kirugu), each ending with a refrain", cluster: hymn}
+  god-brings-early-flood-and-grain: {label: "Through the god the early flood comes in the river and fine grain in the fields, and the gods rejoice", cluster: fertility}
+  goddess-hands-medical-art-to-son: {label: "A healing goddess perfects the arts of medicine and hands them over to her son with the charge 'pay attention to everything medical'", cluster: healing}
+  wound-dressed-with-bandage-and-salve: {label: "A wound is treated: bandages wiped and anointed, plaster softened, blood and pus mopped up, a warm hand laid on it", cluster: healing}
+  sick-man-writhes-like-snake: {label: "The sick person writhes like a snake on scorching ground, hissing, and cries out 'My heart! My stomach!'", cluster: healing}
+  illness-leaves-like-wind: {label: "Healing incantation makes illness leave the body like wind and die out like a fire of its own accord", cluster: healing}
+  personal-gods-plead-healer-intercedes: {label: "The personal gods of mankind plead with the healing goddess, who intercedes for them before An and Enlil", cluster: intercession}
+  named-demons-beset-mankind: {label: "Named demons (udug, lamma, Dimme, Namtar, Asag) beset mankind, entering by night and not leaving a man alone", cluster: demons}
+  sick-man-seeks-dream-interpreter: {label: "A sick man calls a dream interpreter (ensi) to learn the future, then prays to the healing deity", cluster: divination}
+  healer-stretches-finger-over-patient: {label: "The healing goddess stretches her finger over the sufferer, who then praises her and calls on her name", cluster: healing}
+  goddess-invents-jewellery: {label: "'At that time' an ornament (šuba-stone jewellery) did not exist; a goddess invented it", cluster: culture}
+  goddess-as-midwife-cuts-cord: {label: "A goddess as midwife cuts the umbilical cord, decrees the newborn's destiny and makes it cry", cluster: birth}
+  goddess-conceived-by-an-and-uras: {label: "A goddess says her mother Uraš (earth) lay with An (heaven) in the holy bedchamber to engender her", cluster: theogony}
+  city-older-than-dilmun-made-from-date-palm: {label: "A god's city/house was created from a date palm before the land of Dilmun existed", cluster: creation}
+  temple-shines-like-moon-and-sun: {label: "The temple shines at night like moonlight and at noon like sunlight", cluster: temple}
+  goddess-sent-by-father-against-rebel-land: {label: "The high god, angered, sends his daughter (goddess) against the rebel land; she destroys its shepherd and reports back", cluster: divine-warrior}
+  enemy-forgotten-none-finds-him: {label: "The destroyed enemy is consigned to oblivion: no one knows him in his city, no one finds him in his pasture", cluster: war}
+  heavens-fold-like-garment-before-deity: {label: "The heavens fold (bow) like a garment in the deity's presence and the earth is flooded", cluster: theophany}
+  deity-hears-prayer-and-pleading: {label: "A deity is titled 'she/he who hears prayer and pleading' (šudu3 a-ra-zu ĝiš tuku)", cluster: hymn}
+units:
+  - id: ane-etcsl-4-16-1-1-nisaba-epithets
+    tradition: ane-sumerian
+    title: "Nisaba A: epithets of the scribal and grain goddess and her priestly role"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.16.1 1:1-26"]
+    tags:
+      - {motif: goddess-coloured-like-starry-sky, refs: ["ETCSL 4.16.1 1:1"], note: "nin mul-an-gin7 gun3-a"}
+      - {motif: scribal-goddess-holds-tablets, refs: ["ETCSL 4.16.1 1:1", "ETCSL 4.16.1 1:12"], note: "dub za-gin3 šu du8: holding a lapis-lazuli tablet; dub-sar maḫ an-na saĝ-tun3 {d}en-lil2-la2: chief scribe of An, record-keeper of Enlil"}
+      - {motif: deity-nursed-on-holy-milk, refs: ["ETCSL 4.16.1 1:3"], note: "šeg9-bar naĝa kug-ga ga zid gu7-a: wild sheep fed on good milk among holy alkaline plants"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.16.1 1:5"], note: "me gal 50-e šu du7-a: perfect in fifty great me"}
+      - {motif: human-formed-from-earth, refs: ["ETCSL 4.16.1 1:8"], note: "{d}a-ru-ru kalam-ma im-ta KA-KA dug4: Nisaba called Aruru (mother goddess) of the Land, '... from the clay'; obscure, the verb unclear"}
+      - {motif: goddess-of-wisdom-instructs-land, refs: ["ETCSL 4.16.1 1:11", "ETCSL 4.16.1 1:13"], note: "ĝeštug2 ĝar kur gal-e tud-da: engendered with wisdom by the Great Mountain; gal-zu igi-ĝal2 diĝir-re-e-ne: wise sage of the gods"}
+      - {motif: goddess-as-grain, refs: ["ETCSL 4.16.1 1:14-18"], note: "barley and flax (še gu) grow in the furrows (ab-sin2) for Enlil's harvest festival"}
+      - {motif: goddess-cleanses-body-dons-priestly-robe, refs: ["ETCSL 4.16.1 1:19-20"], note: "su nam-mi-in-su-ub ... tug2-ba13 kug šag4-ge nam-mi-in-mur10"}
+      - {motif: deity-institutes-offerings-where-none-were, refs: ["ETCSL 4.16.1 1:21-26"], note: "nidba nu-ĝal2-la ĝa2-ĝa2-de3: to establish bread offerings where none existed; en gal mu-un-ḫuĝ-e ezen mu-un-ḫuĝ-e"}
+    hints:
+      - "Compare Exod 31:18 and Exod 32:16 (tablets written by God) and Ezek 9:2-4 (the scribe with the writing case) for a divine scribe."
+      - "Compare Prov 8:22-31 (Wisdom as the first of God's works, beside him as craftsman) for a goddess of wisdom engendered by the high god."
+  - id: ane-etcsl-4-16-1-1-enki-honours-nisaba
+    tradition: ane-sumerian
+    title: "Nisaba A: Enki opens the house of learning for Nisaba and blesses her"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.16.1 1:27-57"]
+    tags:
+      - {motif: house-of-learning-opened-by-god, refs: ["ETCSL 4.16.1 1:29", "ETCSL 4.16.1 1:45-46"], note: "e2-ĜEŠTUG2.{d}NISABA-ke4 ĝal2 nam-mi-in-taka4; e2 ĝeštug2-ga-ke4 ĝal2 taka4-a-ni; {ĝiš}ig ĝeštug2-ga: the door of wisdom. Akkadian gloss bīt uznim"}
+      - {motif: goddess-consults-star-tablet, refs: ["ETCSL 4.16.1 1:30-31"], note: "dub za-gin3 dub3-ba nam-mi-in-ĝar / dub mul-an kug-ta šag4 im-ma-da-kuš2-u3: the lapis tablet on her knees, she consults the holy tablet of the stars of heaven"}
+      - {motif: goddess-reads-star-tablet, refs: ["ETCSL 4.16.1 1:31"]}
+      - {motif: god-of-wisdom-enki-sage, refs: ["ETCSL 4.16.1 1:38-44"], note: "engar gal ... nagar eridug{ki}-ga, lugal šu-luḫ-luḫ-ḫa: Enki the great farmer, the carpenter of Eridug, master of purification rites; abgal siki bar-ra du8-a-ni: the sage with his hair hanging loose"}
+      - {motif: goddess-blessed-to-be-steward-of-stores, refs: ["ETCSL 4.16.1 1:51-55"], note: "tur3-ra i3 ḫe2-me-en amaš-a gara2 ḫe2-me-en / e2 niĝ2-gur11-ra kišib-ĝal2 ḫe2-me-en / e2-gal-la aĝrig zid ḫe2-me-en / guru7-du6 ... ḫe2-me-en"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.16.1 1:57"], note: "a-a {d}en-ki za3-mi2-zu dug3-ga-am3: the hymn to Nisaba closes by praising Enki"}
+    hints:
+      - "Compare Gen 41:34-49 and Q 12:55 (Joseph set over the storehouses of the land) for the goddess blessed as steward of grain stores and treasury."
+      - "Compare 1 Kgs 5:9-14 (Solomon's wisdom) and Dan 1:17 (God gives knowledge in every kind of writing and wisdom)."
+  - id: ane-etcsl-4-16-1-2-nisaba-variant
+    tradition: ane-sumerian
+    title: "Nisaba A, second version: the opening epithets"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: "manuscript tradition 2 (opening only)"
+    read: ["ETCSL 4.16.1 2:1-9"]
+    tags:
+      - {motif: goddess-coloured-like-starry-sky, refs: ["ETCSL 4.16.1 2:1-2"], note: "nin mul-an gun3-a / dub za-gin3 šu du8; repeats 1:1-8 with small variants (born by Uraš 'in the great sheepfold')"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.16.1 2:6"], note: "me gal 50 šu du7-a"}
+      - {motif: deity-nursed-on-holy-milk, refs: ["ETCSL 4.16.1 2:4"]}
+  - id: ane-etcsl-4-16-2-nisaba-lament
+    tradition: ane-sumerian
+    title: "Nisaba B: lament for Nisaba's destroyed house; the goddess weeps alone in the moonlight"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.16.2 1-34"]
+    tags:
+      - {motif: goddess-weeps-for-destroyed-city, refs: ["ETCSL 4.16.2 1-7"], note: "refrain ba-gul 'is destroyed': [e2] {d}nisaba mu-lu2 dub-ba-ka ba-gul, the house of Nisaba of the tablets; E-ḫamun"}
+      - {motif: temple-destroyed-and-overgrown, refs: ["ETCSL 4.16.2 8-10"], note: "u2-a-nir ba-am3-mu2 šu-mu ba-am3-mu2: the plant of lamentation has sprouted; bad3-bi u2 gid2-da ba-am3-mu2: long grass by its walls"}
+      - {motif: gods-word-and-angry-heart-destroy, refs: ["ETCSL 4.16.2 11-13"], note: "e-ne-eĝ3 an-na e-ne-eĝ3 {d}mu-ul-lil2-la2; šag4 ib2-ba an gu-la; ša3-ab ḫul-ĝal2-la {d}mu-ul-lil2-la2 (Emesal)"}
+      - {motif: goddess-lies-alone-weeping-in-moonlight, refs: ["ETCSL 4.16.2 14-30"], note: "iti6-še3 ki sikil iti6-še3 1(AŠ)-ša mu-un-nu2-en: in the moonlight, the pure place, I lie down alone; mu-lu-ĝu10-ra ... bad3-de3 mu-na-ab-la2: walled off from my man; er2 gig i3-še8-še8"}
+      - {motif: goddess-weeps, refs: ["ETCSL 4.16.2 31-33"], note: "ama {d}ezina2-{d}ku3-su3 ... er2-še3 ba-še8-še8: Mother Ezina-Kusu still weeps amid her splendour"}
+    hints:
+      - "Compare Lam 1:1-2 (she weeps bitterly in the night, alone, with none to comfort her) and Jer 31:15 (Rachel weeping)."
+      - "Compare Isa 34:13 and Hos 9:6 (thorns and nettles grow in the ruined strongholds and tents) for the overgrown temple."
+      - "Compare Lam 2:1-8 (the Lord in his anger destroyed the dwelling, the word he commanded) for the destruction ascribed to the high god's word and anger."
+  - id: ane-etcsl-4-19-2-ningishzida-balbale
+    tradition: ane-sumerian
+    title: "Ninĝišzida B: the savage warrior god whose word is known only to the knowing"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.19.2 1-25"]
+    tags:
+      - {motif: god-as-falcon-preying-on-gods, refs: ["ETCSL 4.19.2 3"], note: "ur-saĝ sur2-du3{mušen} diĝir-re-e-ne"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 4.19.2 5-6"], note: "nemurx (leopard), muš-ḫuš šeg11 gi4-gi4 (howling mušḫuš), ušumgal ambar-ra (dragon in the lagoon), said of the god"}
+      - {motif: gods-mouth-like-magicians-or-snakes, refs: ["ETCSL 4.19.2 8-9"], note: "ka-zu maš-maš maš; variant muš eme maḫ maš-maš maḫ, muš uš11 (poisonous snake)"}
+      - {motif: gods-word-known-only-to-the-knowing, refs: ["ETCSL 4.19.2 10-14"], note: "šag4-zu a-ba mu-un-zu: who knows your heart? inim kug-zu mu-un-zu-ra mu-un-zu nu-mu-un-zu-ra nu-mu-un-zu"}
+      - {motif: divine-warrior-as-river-flood-wave, refs: ["ETCSL 4.19.2 16-18"], note: "id2-da a-ĝi6-am3 na-šub-šub / a-šag4-ga mar-uru5-am3 na-zi-zi; ma2-gi-lum a-u3 me: Magilum boat, flood of battle"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.19.2 24"], note: "lines 19-23 fragmentary ('as a dead man')"}
+    hints:
+      - "Compare Isa 40:13 and Rom 11:34 (who has known the mind of the Lord?), and Isa 55:8-9."
+      - "Compare Mark 4:11-12 and Q 3:7 (only those firm in knowledge understand) for knowledge confined to the knowing."
+      - "Compare Num 21:6-9 and 2 Kgs 18:4 (the bronze serpent) for a serpent-god Ninĝišzida."
+  - id: ane-etcsl-4-19-3-ningishzida-kirugu
+    tradition: ane-sumerian
+    title: "Ninĝišzida C: hymn in kirugu sections; the god brings flood and grain"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.19.3 A:1-A:6", "ETCSL 4.19.3 B:7-B:14", "ETCSL 4.19.3 C:15-C:23", "ETCSL 4.19.3 D:24-D:31", "ETCSL 4.19.3 E:32-E:40", "ETCSL 4.19.3 F:41-F:45"]
+    tags:
+      - {motif: divine-warrior-as-river-flood-wave, refs: ["ETCSL 4.19.3 A:2"], note: "a-ĝi6 id2-da kuš7 su-gin7 su-su"}
+      - {motif: kirugu-section-structure, refs: ["ETCSL 4.19.3 A:6", "ETCSL 4.19.3 B:14", "ETCSL 4.19.3 C:23", "ETCSL 4.19.3 D:31", "ETCSL 4.19.3 E:40"]}
+      - {motif: god-brings-early-flood-and-grain, refs: ["ETCSL 4.19.3 C:17-C:18"], note: "[id2-da a]-eštub ḫe2-e-da-ĝal2 {d}en-ki ḫe2-e-da-ḫul2 / [a-šag4-ga] še gu-nu ḫe2-e-da-ĝal2"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.19.3 A:5", "ETCSL 4.19.3 B:13", "ETCSL 4.19.3 C:22", "ETCSL 4.19.3 D:29-D:30", "ETCSL 4.19.3 E:38-E:39"], note: "refrain at the end of each kirugu; sections E and F largely broken"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 4.19.3 C:21"], note: "umbin ḫe2-e-da-gid2-de3: you stretch out your claws"}
+    hints:
+      - "Compare Ps 65:10-14 (God waters the furrows and crowns the year) and Deut 11:14 (the early and late rain)."
+  - id: ane-etcsl-4-19-4-ningishzida-song
+    tradition: ane-sumerian
+    title: "Ninĝišzida D: An gives power to the princely son among the Anuna"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.19.4 1-7"]
+    tags:
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 4.19.4 5-6"], note: "dumu nun an-ne2 a2 ma-ra-an-šum2: An has given you strength, princely son; the rest broken"}
+      - {motif: divine-council-anunna, refs: ["ETCSL 4.19.4 3-4"], note: "{d}a-nun-ke4-ne diĝir ki-a: the Anuna, gods of the earth (underworld)"}
+    hints:
+      - "Compare Ps 82:1 and Ps 89:6-8 (God among the council of the holy ones)."
