@@ -231,6 +231,35 @@ def fetch_ebl_words():
     print(f"  eBL dictionary: {len(words)} lemmas")
 
 
+def fetch_ebl_dictionary():
+    """The whole eBL Akkadian dictionary (based on the Concise Dictionary of Akkadian): meaning, forms and
+    logograms of every lemma. The lexical track uses it for Akkadian cognates and Sumerian loans."""
+    path = RAW / "ebl-dictionary.json"
+    words = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    ids = [w for w in json.loads(get(f"{EBL}/words/all")) if w not in words]
+
+    def one(w):
+        try:
+            d = json.loads(get(f"{EBL}/words/{urllib.parse.quote(w)}", retries=3, timeout=60))
+        except Exception:
+            return w, None
+        return w, {"lemma": " ".join(d.get("lemma") or []), "homonym": d.get("homonym", ""),
+                   "meaning": d.get("meaning", ""), "guideWord": d.get("guideWord", ""), "pos": d.get("pos", []),
+                   "forms": [" ".join(f.get("lemma") or []) for f in d.get("forms") or []],
+                   "logograms": [" ".join(l.get("logogram") or []) for l in d.get("logograms") or []],
+                   "origin": d.get("origin", "")}
+    done = 0
+    with ThreadPoolExecutor(6) as ex:
+        for w, d in ex.map(one, ids):
+            if d:
+                words[w] = d
+            done += 1
+            if done % 2000 == 0:
+                path.write_text(json.dumps(words, ensure_ascii=False), encoding="utf-8")
+    path.write_text(json.dumps(words, ensure_ascii=False), encoding="utf-8")
+    print(f"  eBL dictionary: {len(words)} entries")
+
+
 # ---------------------------------------------------------------- ETCSL
 
 def etcsl_catalogue():
@@ -500,7 +529,7 @@ def index():
     print(f"index: {len(out)} texts, {sum(x['lines'] for x in out)} lines")
 
 
-SOURCES = {"ebl": fetch_ebl, "etcsl": fetch_etcsl, "oracc": lambda: (fetch_oracc_literary(), fetch_oracc()),
+SOURCES = {"ebl": fetch_ebl, "ebldict": fetch_ebl_dictionary, "etcsl": fetch_etcsl, "oracc": lambda: (fetch_oracc_literary(), fetch_oracc()),
            "ugaritic": lambda: fetch_module("ugaritic"), "egyptian": lambda: fetch_module("egyptian"),
            "hittite": lambda: fetch_module("hittite"), "nws": lambda: fetch_module("nws")}
 

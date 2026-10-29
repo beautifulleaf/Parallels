@@ -3577,6 +3577,14 @@ texts:
   source: eBL
   lines: 77
   chunk: 24
+- siglum: Shuila Ištar SB
+  title: šuʾilas to Ištar (Standard Babylonian)
+  file: ebl/Shuila_I_tar_SB.json
+  tradition: ane-akkadian
+  language: akk
+  source: eBL
+  lines: 564
+  chunk: 25
 - siglum: Shuila Ninlil SB
   title: šuʾilas to Ninlil (Standard Babylonian)
   file: ebl/Shuila_Ninlil_SB.json
@@ -3584,7 +3592,7 @@ texts:
   language: akk
   source: eBL
   lines: 3
-  chunk: 24
+  chunk: 25
 - siglum: Shuila Šamaš SB
   title: šuʾilas to Šamaš (Standard Babylonian)
   file: ebl/Shuila_ama_SB.json
@@ -3616,14 +3624,6 @@ texts:
   language: akk
   source: eBL
   lines: 42
-  chunk: 25
-- siglum: eBL Mag.2.13 SB
-  title: šuʾilas to Ištar (Standard Babylonian)
-  file: ebl/eBL_Mag.2.13_SB.json
-  tradition: ane-akkadian
-  language: akk
-  source: eBL
-  lines: 564
   chunk: 25
 - siglum: SAA 02 009
   title: SAA 02 009

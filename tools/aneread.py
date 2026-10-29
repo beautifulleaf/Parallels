@@ -273,7 +273,7 @@ def print_keys(keys, corpus, lemmas=False):
             continue
         if line.get("translation"):
             rng = f" [{line['translation_lines']}]" if line.get("translation_lines") else ""
-            print(f"  ={rng} {line['translation']}")
+            print(f"  ={rng} {re.sub(r'@[a-z]+[{]([^{}]*)[}]', r'\1', line['translation'])}")
         elif line.get("lemmas") and corpus.meta[sig].get("source", "").startswith(("ORACC", "eBL")):
             g = gloss_line(line) if not corpus.meta[sig]["source"].startswith("eBL") else " ".join(
                 f"{x['lemma']}[{ebl_gloss(x['lemma'], ebl_words())}]" if ebl_gloss(x["lemma"], ebl_words()) else x["lemma"]

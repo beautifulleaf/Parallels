@@ -17,6 +17,9 @@ whole Quran (Quranic Arabic Corpus lemmas):
 
 Writes results/linguistic/*.json and results/linguistic/REPORT.md.
 
+The ancient Near Eastern texts in scope (data/ane/texts.yaml) run per
+language group through `ane_tokens`, with each edition's lemmas.
+
 Adding a corpus: every text added to the project gets this layer. Write an
 adapter returning (verses, counts, first_ref, names) like `hebrew_tokens` /
 `quran_tokens` (ordered content lemmas per verse or line, token counts per
@@ -97,13 +100,105 @@ def quran_tokens():
     return dict(verses), counts, first_ref, roots, names
 
 
+# ancient Near East: one adapter per language group, over the texts in scope (data/ane/texts.yaml)
+ANE_GROUPS = {"ane-sumerian": "Sumerian", "ane-akkadian": "Akkadian", "ane-ugaritic": "Ugaritic",
+              "ane-egyptian": "Egyptian", "ane-hittite": "Hittite", "ane-levantine": "Northwest Semitic"}
+CONTENT_POS = re.compile(r"^(N|V|AJ|A$|NU|DN|PN|GN|RN|TN|WN|SN|EN|ON|MN|substantive|verb|adjective|epith|entity|noun|name)", re.I)
+NAME_POS = re.compile(r"^(DN|PN|GN|RN|TN|WN|SN|EN|ON|MN|N:DN|N:PN|N:GN|N:TN|N:SN|entity_name|name)", re.I)
+AKK_FUNCTION = set("""ana ina ša u ul lā kī kīma ištu adi eli itti ana ma ul ū lū šumma inūma enūma assurrē
+anāku attā attī šū šī nīnu attunu šunu šina annû ullû mimma mamma ayyu mīnu mannu""".split())
+
+
+def ane_tokens(tradition):
+    """Ordered content lemmas per line for one ANE language group, with token counts, first places and names.
+    A line's ref is '<siglum> <section>:<line>'; its document (for doublets) is the text and section."""
+    import yaml
+    import originals
+    spec = yaml.safe_load(originals.ANE_INDEX.read_text(encoding="utf-8"))["texts"]
+    words = {}
+    wpath = originals.ANE_RAW / "ebl-dictionary.json"
+    if wpath.exists():
+        words = json.loads(wpath.read_text(encoding="utf-8"))
+    verses, counts, first_ref, names, glosses = {}, Counter(), {}, set(), {}
+    for t in spec:
+        if t["tradition"] != tradition:
+            continue
+        d = json.loads((originals.ANE_RAW / t["file"]).read_text(encoding="utf-8"))
+        for s in d["sections"]:
+            for line in s["lines"]:
+                sec, n = originals.norm_loc(s["name"], line["n"])
+                ref = f"{t['siglum']} {sec}:{n}" if sec else f"{t['siglum']} {n}"
+                seq = []
+                for x in line.get("lemmas") or []:
+                    lem = x.get("lemma")
+                    if not lem or lem in ("X", "…", "x"):
+                        continue
+                    pos = x.get("pos") or " ".join((words.get(lem) or {}).get("pos") or [])
+                    counts[lem] += 1
+                    first_ref.setdefault(lem, ref)
+                    glosses.setdefault(lem, x.get("gloss") or x.get("sense") or "")
+                    if NAME_POS.match(pos or "") or (not pos and lem[:1].isupper()):
+                        names.add(lem)
+                    if (pos and CONTENT_POS.match(pos)) or (not pos and re.sub(r"\s+[IVX]+$", "", lem) not in AKK_FUNCTION):
+                        seq.append(lem)
+                verses[ref] = seq
+    return verses, counts, first_ref, names, glosses
+
+
+def ane_document(ref):
+    """'Gilg SB XI:11' -> 'Gilg SB XI'; 'ETCSL 1.1.1 5' -> 'ETCSL 1.1.1'."""
+    return ref.rsplit(":", 1)[0] if ":" in ref.rsplit(" ", 1)[-1] else ref.rsplit(" ", 1)[0]
+
+
+def ane_layer():
+    out, lines = {}, []
+    for trad, name in ANE_GROUPS.items():
+        verses, counts, first_ref, names, glosses = ane_tokens(trad)
+        if not verses:
+            continue
+        phr, doub, pairs = find_phrases(verses, ane_document)
+        echo, form, doubhits, lists = classify(phr, doub, verses, names, ane_document)
+        rare = [dict(lemma=l, count=c, gloss=glosses.get(l, ""), ref=first_ref[l]) for l, c in counts.items() if c <= 2]
+        hap = [r for r in rare if r["count"] == 1]
+        out[trad] = dict(lines=len(verses), lemmatized=sum(1 for v in verses.values() if v), echoes=echo, formulas=form,
+                         doublet_phrases=doubhits, name_lists=lists,
+                         doublet_pairs=sorted(f"{a} = {b} ({pairs[(a, b)]})" for a, b in doub), rare=rare)
+        lines += ["", f"## {name}: summary", "",
+                  f"- Lines: {len(verses):,}, with lemmas: {out[trad]['lemmatized']:,}",
+                  f"- Phrase echoes: {len(echo):,}; stock formulas: {len(form):,}; name-heavy sequences: {len(lists):,}",
+                  f"- Doublet section pairs (versions, witnesses and parallel passages): {len(doub):,}",
+                  f"- Hapax legomena: {len(hap):,}; dis legomena: {len(rare) - len(hap):,}", "",
+                  f"### {name}: top phrase echoes", "", "| Score | Phrase (lemmas) | Count | Places |", "|---|---|---|---|"]
+        for e in echo[:60]:
+            lines.append(f"| {e['score']} | {' · '.join(e['lemmas'])} | {e['count']} | {', '.join(e['refs'][:8])} |")
+        lines += ["", f"### {name}: most frequent stock formulas", "", "| Phrase | Count |", "|---|---|"]
+        for e in sorted(form, key=lambda e: -e["count"])[:25]:
+            lines.append(f"| {' · '.join(e['lemmas'])} | {e['count']} |")
+        lines += ["", f"### {name}: doublet section pairs", ""] + [f"- {p}" for p in out[trad]["doublet_pairs"][:60]]
+    # loanword candidates: Akkadian words written with a Sumerian logogram that they echo (tools/anelex.py)
+    try:
+        import anelex
+        chains = json.loads((ROOT / "results" / "lexical" / "loan-chains.json").read_text(encoding="utf-8"))
+        loans = chains["sumerian_loans"]
+        out["sumerian_loans_in_akkadian"] = loans
+        lines += ["", f"## Akkadian: Sumerian loanword candidates ({len(loans):,})", "",
+                  "Akkadian words written with a Sumerian logogram whose Sumerian reading they echo (eBL dictionary). "
+                  "Run `tools/anelex.py` (or `tools/lexical.py`) first to refresh.", "",
+                  "| Akkadian | Sumerian | Logogram | Sumerian attested |", "|---|---|---|---|"]
+        for x in sorted(loans, key=lambda x: (not x["attested_sux"], x["akk"]))[:300]:
+            lines.append(f"| {x['akk']} | {x['sux']} | {x['logogram']} | {x['sux_n'] or ''} |")
+    except (FileNotFoundError, ImportError):
+        pass
+    return out, lines
+
+
 # ---------------------------------------------------------------- phrases
 
 def chapter_of(ref):
     return ref.rsplit(".", 1)[0] if "." in ref else ref.split(":")[0]
 
 
-def find_phrases(verses):
+def find_phrases(verses, chapter_of=chapter_of):
     occ = defaultdict(set)
     for ref, seq in verses.items():
         for n in range(MIN_N, MAX_N + 1):
@@ -134,7 +229,7 @@ def find_phrases(verses):
     return phrases, doublet_pairs, pair_count
 
 
-def classify(phrases, doublet_pairs, verses, names):
+def classify(phrases, doublet_pairs, verses, names, chapter_of=chapter_of):
     """Score = sum over the phrase's lemmas of log(verses / verses containing
     the lemma), times log(verses / occurrences): rare words in a rare
     sequence score highest. Sequences that are mostly names (genealogies,
@@ -213,6 +308,8 @@ def main():
                           doublet_chapter_pairs=sorted(f"{a} = {b} ({h_pairs[(a, b)]})" for a, b in h_doub),
                           rare=h_rare, loans=h_loans),
         quran=dict(echoes=q_echo, formulas=q_form, rare=q_rare, rootless=q_rootless))
+    ane, ane_lines = ane_layer()
+    payload["ancient_near_east"] = ane
     (OUT / "linguistic.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
 
     hap = [r for r in h_rare if r["count"] == 1]
@@ -258,10 +355,19 @@ def main():
     lines += ["", f"## Quran: rootless lemmas (loanword candidates, {len(q_rootless):,})", "",
               "| Lemma | Count | First place |", "|---|---|---|"]
     lines += [f"| {x['lemma']} | {x['count']} | {x['ref']} |" for x in q_rootless]
+    if ane_lines:
+        lines += ["", "# Ancient Near East", "",
+                  "Over the ANE texts in scope (data/ane/texts.yaml), with each edition's lemmas: eBL and ORACC "
+                  "(Akkadian), ETCSL and ORACC (Sumerian), ORACC and EUPT (Ugaritic), the TLA (Egyptian). A line "
+                  "is the unit; versions and manuscript witnesses of one work show up as doublet section pairs."] + ane_lines
     (OUT / "REPORT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Hebrew Bible: {len(h_echo)} echoes, {len(h_form)} formulas, {len(h_doub)} doublet pairs, "
           f"{len(hap)} hapax, {len(h_loans)} loan candidates")
     print(f"Quran: {len(q_echo)} echoes, {len(q_form)} formulas, {len(q_rootless)} rootless lemmas")
+    for trad, x in ane.items():
+        if isinstance(x, dict):
+            print(f"{ANE_GROUPS[trad]}: {x['lines']} lines, {len(x['echoes'])} echoes, {len(x['formulas'])} formulas, "
+                  f"{len(x['doublet_pairs'])} doublet pairs, {sum(1 for r in x['rare'] if r['count'] == 1)} hapax")
     print("wrote results/linguistic/")
 
 
