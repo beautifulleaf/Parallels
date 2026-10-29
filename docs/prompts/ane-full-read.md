@@ -106,18 +106,44 @@ scope and why. Plan the reading chunks from those sizes.
 ## After the read
 
 1. Merge near-duplicate motifs. Use embedding candidates, judged pair by
-   pair, as was done for the Hebrew Bible (see the commit "Merge duplicate
-   motifs…").
-2. Run `python3 tools/motifs.py --write-leads`, `python3 tools/lexical.py
+   pair, as was done for the Hebrew Bible and the Quran (see the commits
+   "Merge duplicate motifs…" and "Merge near-duplicate motifs after the full
+   Quran read…").
+2. **Side-by-side comparison pass.** This is required, not optional. Separate
+   full reads only match where two readers chose the same motif id. After the
+   Hebrew Bible and Quran reads, only 22% of the Quran's tags shared an id
+   with the Hebrew Bible, and more than half of the Quran's units had no
+   Hebrew Bible partner. The comparison pass fixes this.
+   - Read `data/alignments/README.md` and `tools/compare.py`. They implement
+     the pass for HB × Quran.
+   - Generalize `tools/compare.py` to take the pair as an argument, so that it
+     works for `ane-hb` and `ane-quran`. Keep `hb-quran` working unchanged.
+   - Generate candidates for every ANE unit from three sources: the reader's
+     hints, units sharing one or two motifs, and label similarity.
+   - Run comparison readers in waves of about 8. Each one reads both originals
+     side by side and writes `data/alignments/<pair>/NN-<pair>.yaml`.
+   - Readers record parallels, echoes, **deliberate divergences** (the same
+     element deliberately changed: divine titles, who acts, motives, endings,
+     omissions, reversals), responses and contrasts. Each records the decisive
+     words of both sides in the note.
+   - Divergences matter as much as similarities. One example is the flood
+     hero's motive and the gods' hunger after the flood (Atrahasis III)
+     against Gen 8:21. Another is the birth story told of Sargon against
+     the one told of Moses.
+   - Validate each file with `python3 tools/compare.py validate <file>`. The
+     loader in `tools/motifs.py` turns confirmed matches into shared tags,
+     and every confirmed pair becomes a lead.
+3. Run `python3 tools/motifs.py --write-leads`, `python3 tools/lexical.py
    --write-leads`, `python3 tools/linguistic.py`, `python3 tools/originals.py`,
    `python3 tools/coverage.py` and `python3 tools/build.py`. All benchmarks
    must pass, apart from documented, expected misses.
-3. Report back, in this order:
+4. Report back, in this order:
    - an inventory of what was fully read (text, edition, lines), what was
      partly read and what was left out;
    - the benchmark results;
-   - the most interesting new leads, ANE ↔ Hebrew Bible and ANE ↔ Quran,
-     with line and verse references.
+   - the comparison pass's counts by relation;
+   - the most interesting new leads and deliberate divergences, ANE ↔ Hebrew
+     Bible and ANE ↔ Quran, with line and verse references.
 
 ## Rules
 
@@ -127,5 +153,5 @@ scope and why. Plan the reading chunks from those sizes.
 - Check each source's license. Keep raw copyrighted text out of git when the
   license doesn't allow redistribution, and say what you did.
 - Don't create pull requests unless asked.
-- Don't edit `data/motif-tags/hb/` or `data/motif-tags/quran/`. Those reads
-  belong to other sessions.
+- Don't edit `data/motif-tags/hb/`, `data/motif-tags/quran/` or
+  `data/alignments/hb-quran/`. Those reads belong to other sessions.
