@@ -1,0 +1,2974 @@
+{
+ "corpus": "hebrew-bible-aramaic",
+ "verses": 268,
+ "narratives": {
+  "daniel": "Daniel (Aramaic court tales and vision)",
+  "ezra-letters": "Ezra's Aramaic letters and decrees"
+ },
+ "parameters": {
+  "min_verses": 3,
+  "min_share": 0.6,
+  "min_dispersion": 2,
+  "max_q": 0.05,
+  "bridge_max_verses": 40
+ },
+ "concentration": [
+  {
+   "lemma": "H1124",
+   "n": 19,
+   "narrative": "ezra-letters",
+   "k": 18,
+   "share": 0.9473684210526315,
+   "base_rate": 0.25,
+   "dispersion": 3,
+   "p": 3.269497078995801e-11,
+   "refs": [
+    "Ezra.4.12",
+    "Ezra.4.13",
+    "Ezra.4.16",
+    "Ezra.4.21",
+    "Ezra.5.2",
+    "Ezra.5.3",
+    "Ezra.5.4",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.5.13",
+    "Ezra.5.15",
+    "Ezra.5.16",
+    "Ezra.5.17",
+    "Ezra.6.3",
+    "Ezra.6.7",
+    "Ezra.6.8",
+    "Ezra.6.14",
+    "Dan.4.27"
+   ],
+   "q": 2.6155976631966406e-09,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 9.93,
+   "form": "בְּנָא",
+   "gloss": "to build",
+   "root": "",
+   "pos": "V",
+   "translit": "bᵉnâʼ"
+  },
+  {
+   "lemma": "H1005",
+   "n": 38,
+   "narrative": "ezra-letters",
+   "k": 29,
+   "share": 0.7631578947368421,
+   "base_rate": 0.25,
+   "dispersion": 4,
+   "p": 4.559925633949113e-13,
+   "refs": [
+    "Ezra.4.24",
+    "Ezra.5.2",
+    "Ezra.5.3",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.5.12",
+    "Ezra.5.13",
+    "Ezra.5.14",
+    "Ezra.5.15",
+    "Ezra.5.16",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.4",
+    "Ezra.6.5",
+    "Ezra.6.7",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.6.15",
+    "Ezra.6.16",
+    "Ezra.6.17",
+    "Ezra.7.16",
+    "Ezra.7.17",
+    "Ezra.7.19",
+    "Ezra.7.20",
+    "Ezra.7.23",
+    "Ezra.7.24",
+    "Dan.2.5",
+    "Dan.2.17",
+    "Dan.3.29",
+    "Dan.4.1",
+    "Dan.4.27",
+    "Dan.5.3",
+    "Dan.5.10",
+    "Dan.5.23",
+    "Dan.6.11"
+   ],
+   "q": 7.295881014318581e-11,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 9.42,
+   "form": "בַּיִת",
+   "gloss": "a house (in the greatest variation of applications, especially family, etc.)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bayith"
+  },
+  {
+   "lemma": "H3635",
+   "n": 7,
+   "narrative": "ezra-letters",
+   "k": 7,
+   "share": 1.0,
+   "base_rate": 0.25,
+   "dispersion": 3,
+   "p": 4.7768280696951394e-05,
+   "refs": [
+    "Ezra.4.12",
+    "Ezra.4.13",
+    "Ezra.4.16",
+    "Ezra.5.3",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.6.14"
+   ],
+   "q": 0.0015285849823024446,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.32,
+   "form": "כְּלַל",
+   "gloss": "to complete",
+   "root": "",
+   "pos": "V",
+   "translit": "kᵉlal"
+  },
+  {
+   "lemma": "H2942",
+   "n": 24,
+   "narrative": "ezra-letters",
+   "k": 17,
+   "share": 0.7083333333333334,
+   "base_rate": 0.25,
+   "dispersion": 4,
+   "p": 8.411198849336093e-07,
+   "refs": [
+    "Ezra.4.8",
+    "Ezra.4.9",
+    "Ezra.4.17",
+    "Ezra.4.19",
+    "Ezra.4.21",
+    "Ezra.5.3",
+    "Ezra.5.9",
+    "Ezra.5.13",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.6.14",
+    "Ezra.7.13",
+    "Ezra.7.21",
+    "Dan.2.14",
+    "Dan.3.10",
+    "Dan.3.12",
+    "Dan.3.29",
+    "Dan.4.3",
+    "Dan.6.14",
+    "Dan.6.27"
+   ],
+   "q": 3.364479539734437e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.3,
+   "form": "טְעֵם",
+   "gloss": "properly, flavor",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ṭᵉʻêm"
+  },
+  {
+   "lemma": "H6032",
+   "n": 28,
+   "narrative": "daniel",
+   "k": 28,
+   "share": 1.0,
+   "base_rate": 0.746268656716418,
+   "dispersion": 6,
+   "p": 0.00016385314096864517,
+   "refs": [
+    "Dan.2.5",
+    "Dan.2.7",
+    "Dan.2.8",
+    "Dan.2.10",
+    "Dan.2.15",
+    "Dan.2.20",
+    "Dan.2.26",
+    "Dan.2.27",
+    "Dan.2.47",
+    "Dan.3.9",
+    "Dan.3.14",
+    "Dan.3.16",
+    "Dan.3.19",
+    "Dan.3.24",
+    "Dan.3.25",
+    "Dan.3.26",
+    "Dan.3.28",
+    "Dan.4.16",
+    "Dan.4.27",
+    "Dan.5.7",
+    "Dan.5.10",
+    "Dan.5.13",
+    "Dan.5.17",
+    "Dan.6.13",
+    "Dan.6.14",
+    "Dan.6.17",
+    "Dan.6.21",
+    "Dan.7.2"
+   ],
+   "q": 0.00374521465071189,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.79,
+   "form": "עֲנָה",
+   "gloss": "properly, to eye or (generally) to heed, i.e. pay attention",
+   "root": "",
+   "pos": "V",
+   "translit": "ʻănâh"
+  },
+  {
+   "lemma": "H560",
+   "n": 65,
+   "narrative": "daniel",
+   "k": 59,
+   "share": 0.9076923076923077,
+   "base_rate": 0.746268656716418,
+   "dispersion": 6,
+   "p": 0.00024342025110775687,
+   "refs": [
+    "Ezra.5.3",
+    "Ezra.5.4",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.5.15",
+    "Jer.10.11",
+    "Dan.2.4",
+    "Dan.2.5",
+    "Dan.2.7",
+    "Dan.2.8",
+    "Dan.2.9",
+    "Dan.2.10",
+    "Dan.2.12",
+    "Dan.2.15",
+    "Dan.2.20",
+    "Dan.2.24",
+    "Dan.2.25",
+    "Dan.2.26",
+    "Dan.2.27",
+    "Dan.2.36",
+    "Dan.2.46",
+    "Dan.2.47",
+    "Dan.3.4",
+    "Dan.3.9",
+    "Dan.3.13",
+    "Dan.3.14",
+    "Dan.3.16",
+    "Dan.3.19",
+    "Dan.3.20",
+    "Dan.3.24",
+    "Dan.3.25",
+    "Dan.3.26",
+    "Dan.3.28",
+    "Dan.3.29",
+    "Dan.4.4",
+    "Dan.4.5",
+    "Dan.4.6",
+    "Dan.4.11",
+    "Dan.4.15",
+    "Dan.4.16",
+    "Dan.4.20",
+    "Dan.4.23",
+    "Dan.4.27",
+    "Dan.4.28",
+    "Dan.4.32",
+    "Dan.5.2",
+    "Dan.5.7",
+    "Dan.5.10",
+    "Dan.5.13",
+    "Dan.5.17",
+    "Dan.5.29",
+    "Dan.6.6",
+    "Dan.6.7",
+    "Dan.6.13",
+    "Dan.6.14",
+    "Dan.6.16",
+    "Dan.6.17",
+    "Dan.6.21",
+    "Dan.6.24",
+    "Dan.6.25",
+    "Dan.7.1",
+    "Dan.7.2",
+    "Dan.7.5",
+    "Dan.7.16",
+    "Dan.7.23"
+   ],
+   "q": 0.004327471130804566,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.28,
+   "form": "אֲמַר",
+   "gloss": "to say (used with great latitude)",
+   "root": "",
+   "pos": "V",
+   "translit": "ʼămar"
+  },
+  {
+   "lemma": "H1240",
+   "n": 5,
+   "narrative": "ezra-letters",
+   "k": 5,
+   "share": 1.0,
+   "base_rate": 0.25,
+   "dispersion": 4,
+   "p": 0.0008703123082245941,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.7.14"
+   ],
+   "q": 0.011604164109661254,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.06,
+   "form": "בְּקַר",
+   "gloss": "properly, to plough, or (generally) break forth, i.e. (figuratively) to inspect,",
+   "root": "",
+   "pos": "V",
+   "translit": "bᵉqar"
+  },
+  {
+   "lemma": "H989",
+   "n": 5,
+   "narrative": "ezra-letters",
+   "k": 5,
+   "share": 1.0,
+   "base_rate": 0.25,
+   "dispersion": 3,
+   "p": 0.0008703123082245941,
+   "refs": [
+    "Ezra.4.21",
+    "Ezra.4.23",
+    "Ezra.4.24",
+    "Ezra.5.5",
+    "Ezra.6.8"
+   ],
+   "q": 0.011604164109661254,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.06,
+   "form": "בְּטֵל",
+   "gloss": "to stop",
+   "root": "",
+   "pos": "V",
+   "translit": "bᵉṭêl"
+  },
+  {
+   "lemma": "H7868",
+   "n": 5,
+   "narrative": "ezra-letters",
+   "k": 5,
+   "share": 1.0,
+   "base_rate": 0.25,
+   "dispersion": 2,
+   "p": 0.0008703123082245941,
+   "refs": [
+    "Ezra.5.5",
+    "Ezra.5.9",
+    "Ezra.6.7",
+    "Ezra.6.8",
+    "Ezra.6.14"
+   ],
+   "q": 0.011604164109661254,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.06,
+   "form": "שִׂיב",
+   "gloss": "properly, to become aged, i.e. (by implication) to grow gray",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sîyb"
+  },
+  {
+   "lemma": "H2370",
+   "n": 29,
+   "narrative": "daniel",
+   "k": 28,
+   "share": 0.9655172413793104,
+   "base_rate": 0.746268656716418,
+   "dispersion": 5,
+   "p": 0.0014637547259863065,
+   "refs": [
+    "Ezra.4.14",
+    "Dan.2.8",
+    "Dan.2.26",
+    "Dan.2.31",
+    "Dan.2.34",
+    "Dan.2.41",
+    "Dan.2.43",
+    "Dan.2.45",
+    "Dan.3.19",
+    "Dan.3.25",
+    "Dan.3.27",
+    "Dan.4.2",
+    "Dan.4.6",
+    "Dan.4.7",
+    "Dan.4.10",
+    "Dan.4.15",
+    "Dan.4.17",
+    "Dan.4.20",
+    "Dan.5.5",
+    "Dan.5.23",
+    "Dan.7.1",
+    "Dan.7.2",
+    "Dan.7.4",
+    "Dan.7.6",
+    "Dan.7.7",
+    "Dan.7.9",
+    "Dan.7.11",
+    "Dan.7.13",
+    "Dan.7.21"
+   ],
+   "q": 0.018015442781369927,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.74,
+   "form": "חֲזָא",
+   "gloss": "to gaze upon",
+   "root": "",
+   "pos": "V",
+   "translit": "chăzâʼ"
+  },
+  {
+   "lemma": "H7972",
+   "n": 14,
+   "narrative": "ezra-letters",
+   "k": 10,
+   "share": 0.7142857142857143,
+   "base_rate": 0.25,
+   "dispersion": 4,
+   "p": 0.0002273788896813292,
+   "refs": [
+    "Ezra.4.11",
+    "Ezra.4.14",
+    "Ezra.4.17",
+    "Ezra.4.18",
+    "Ezra.5.6",
+    "Ezra.5.7",
+    "Ezra.5.17",
+    "Ezra.6.12",
+    "Ezra.6.13",
+    "Ezra.7.14",
+    "Dan.3.2",
+    "Dan.3.28",
+    "Dan.5.24",
+    "Dan.6.23"
+   ],
+   "q": 0.004327471130804566,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.6,
+   "form": "שְׁלַח",
+   "gloss": "to send away, for, or out (in a great variety of applications)",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉlach"
+  },
+  {
+   "lemma": "H2423",
+   "n": 19,
+   "narrative": "daniel",
+   "k": 19,
+   "share": 1.0,
+   "base_rate": 0.746268656716418,
+   "dispersion": 4,
+   "p": 0.0030576586812127815,
+   "refs": [
+    "Dan.2.38",
+    "Dan.4.9",
+    "Dan.4.11",
+    "Dan.4.12",
+    "Dan.4.13",
+    "Dan.4.18",
+    "Dan.4.20",
+    "Dan.4.22",
+    "Dan.4.29",
+    "Dan.5.21",
+    "Dan.7.3",
+    "Dan.7.5",
+    "Dan.7.6",
+    "Dan.7.7",
+    "Dan.7.11",
+    "Dan.7.12",
+    "Dan.7.17",
+    "Dan.7.19",
+    "Dan.7.23"
+   ],
+   "q": 0.03261502593293634,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.51,
+   "form": "חֵיוָא",
+   "gloss": "an animal",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chêyvâʼ"
+  },
+  {
+   "lemma": "H4061",
+   "n": 4,
+   "narrative": "ezra-letters",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.25,
+   "dispersion": 3,
+   "p": 0.0036470230058919593,
+   "refs": [
+    "Ezra.4.13",
+    "Ezra.4.20",
+    "Ezra.6.8",
+    "Ezra.7.24"
+   ],
+   "q": 0.03647023005891959,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.44,
+   "form": "מִדָּה",
+   "gloss": "tribute in money",
+   "root": "",
+   "pos": "Nc",
+   "translit": "middâh"
+  },
+  {
+   "lemma": "H7761",
+   "n": 25,
+   "narrative": "ezra-letters",
+   "k": 15,
+   "share": 0.6,
+   "base_rate": 0.25,
+   "dispersion": 4,
+   "p": 9.524975222487383e-05,
+   "refs": [
+    "Ezra.4.19",
+    "Ezra.4.21",
+    "Ezra.5.3",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.13",
+    "Ezra.5.14",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.7.13",
+    "Ezra.7.21",
+    "Dan.2.5",
+    "Dan.3.10",
+    "Dan.3.12",
+    "Dan.3.29",
+    "Dan.4.3",
+    "Dan.5.12",
+    "Dan.6.14",
+    "Dan.6.15",
+    "Dan.6.18",
+    "Dan.6.27"
+   ],
+   "q": 0.002539993392663302,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.41,
+   "form": "שׂוּם",
+   "gloss": "to put (used in a great variety of applications, literal, figurative, inferentia",
+   "root": "",
+   "pos": "V",
+   "translit": "sûwm"
+  }
+ ],
+ "bridges": [
+  {
+   "lemma": "H1005",
+   "n": 38,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    9,
+    29
+   ],
+   "p": 0.8582089552240074,
+   "refs": [
+    "Ezra.4.24",
+    "Ezra.5.2",
+    "Ezra.5.3",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.5.12",
+    "Ezra.5.13",
+    "Ezra.5.14",
+    "Ezra.5.15",
+    "Ezra.5.16",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.4",
+    "Ezra.6.5",
+    "Ezra.6.7",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.6.15",
+    "Ezra.6.16",
+    "Ezra.6.17",
+    "Ezra.7.16",
+    "Ezra.7.17",
+    "Ezra.7.19",
+    "Ezra.7.20",
+    "Ezra.7.23",
+    "Ezra.7.24",
+    "Dan.2.5",
+    "Dan.2.17",
+    "Dan.3.29",
+    "Dan.4.1",
+    "Dan.4.27",
+    "Dan.5.3",
+    "Dan.5.10",
+    "Dan.5.23",
+    "Dan.6.11"
+   ],
+   "form": "בַּיִת",
+   "gloss": "a house (in the greatest variation of applications, especially family, etc.)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bayith"
+  },
+  {
+   "lemma": "H6966",
+   "n": 30,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    28,
+    2
+   ],
+   "p": 0.8880597014925566,
+   "refs": [
+    "Ezra.5.2",
+    "Ezra.6.18",
+    "Dan.2.21",
+    "Dan.2.31",
+    "Dan.2.39",
+    "Dan.2.44",
+    "Dan.3.1",
+    "Dan.3.2",
+    "Dan.3.3",
+    "Dan.3.5",
+    "Dan.3.7",
+    "Dan.3.12",
+    "Dan.3.14",
+    "Dan.3.18",
+    "Dan.3.24",
+    "Dan.4.14",
+    "Dan.5.11",
+    "Dan.5.21",
+    "Dan.6.2",
+    "Dan.6.4",
+    "Dan.6.8",
+    "Dan.6.9",
+    "Dan.6.16",
+    "Dan.6.20",
+    "Dan.7.4",
+    "Dan.7.5",
+    "Dan.7.10",
+    "Dan.7.16",
+    "Dan.7.17",
+    "Dan.7.24"
+   ],
+   "form": "קוּם",
+   "gloss": "to rise (in various applications, literal, figurative, intensive and causative)",
+   "root": "",
+   "pos": "V",
+   "translit": "qûwm"
+  },
+  {
+   "lemma": "H2370",
+   "n": 29,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    28,
+    1
+   ],
+   "p": 0.8917910447763345,
+   "refs": [
+    "Ezra.4.14",
+    "Dan.2.8",
+    "Dan.2.26",
+    "Dan.2.31",
+    "Dan.2.34",
+    "Dan.2.41",
+    "Dan.2.43",
+    "Dan.2.45",
+    "Dan.3.19",
+    "Dan.3.25",
+    "Dan.3.27",
+    "Dan.4.2",
+    "Dan.4.6",
+    "Dan.4.7",
+    "Dan.4.10",
+    "Dan.4.15",
+    "Dan.4.17",
+    "Dan.4.20",
+    "Dan.5.5",
+    "Dan.5.23",
+    "Dan.7.1",
+    "Dan.7.2",
+    "Dan.7.4",
+    "Dan.7.6",
+    "Dan.7.7",
+    "Dan.7.9",
+    "Dan.7.11",
+    "Dan.7.13",
+    "Dan.7.21"
+   ],
+   "form": "חֲזָא",
+   "gloss": "to gaze upon",
+   "root": "",
+   "pos": "V",
+   "translit": "chăzâʼ"
+  },
+  {
+   "lemma": "H3052",
+   "n": 28,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    20,
+    8
+   ],
+   "p": 0.895522388060034,
+   "refs": [
+    "Ezra.4.20",
+    "Ezra.5.12",
+    "Ezra.5.14",
+    "Ezra.5.16",
+    "Ezra.6.4",
+    "Ezra.6.8",
+    "Ezra.6.9",
+    "Ezra.7.19",
+    "Dan.2.21",
+    "Dan.2.23",
+    "Dan.2.37",
+    "Dan.2.38",
+    "Dan.2.48",
+    "Dan.3.28",
+    "Dan.4.13",
+    "Dan.5.17",
+    "Dan.5.18",
+    "Dan.5.19",
+    "Dan.5.28",
+    "Dan.6.3",
+    "Dan.7.4",
+    "Dan.7.6",
+    "Dan.7.11",
+    "Dan.7.12",
+    "Dan.7.14",
+    "Dan.7.22",
+    "Dan.7.25",
+    "Dan.7.27"
+   ],
+   "form": "יְהַב",
+   "gloss": "to give (whether literal or figurative)",
+   "root": "",
+   "pos": "V",
+   "translit": "yᵉhab"
+  },
+  {
+   "lemma": "H7761",
+   "n": 25,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    10,
+    15
+   ],
+   "p": 0.9067164179104187,
+   "refs": [
+    "Ezra.4.19",
+    "Ezra.4.21",
+    "Ezra.5.3",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.13",
+    "Ezra.5.14",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.7.13",
+    "Ezra.7.21",
+    "Dan.2.5",
+    "Dan.3.10",
+    "Dan.3.12",
+    "Dan.3.29",
+    "Dan.4.3",
+    "Dan.5.12",
+    "Dan.6.14",
+    "Dan.6.15",
+    "Dan.6.18",
+    "Dan.6.27"
+   ],
+   "form": "שׂוּם",
+   "gloss": "to put (used in a great variety of applications, literal, figurative, inferentia",
+   "root": "",
+   "pos": "V",
+   "translit": "sûwm"
+  },
+  {
+   "lemma": "H2942",
+   "n": 24,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    7,
+    17
+   ],
+   "p": 0.9104477611940561,
+   "refs": [
+    "Ezra.4.8",
+    "Ezra.4.9",
+    "Ezra.4.17",
+    "Ezra.4.19",
+    "Ezra.4.21",
+    "Ezra.5.3",
+    "Ezra.5.9",
+    "Ezra.5.13",
+    "Ezra.5.17",
+    "Ezra.6.1",
+    "Ezra.6.3",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.6.14",
+    "Ezra.7.13",
+    "Ezra.7.21",
+    "Dan.2.14",
+    "Dan.3.10",
+    "Dan.3.12",
+    "Dan.3.29",
+    "Dan.4.3",
+    "Dan.6.14",
+    "Dan.6.27"
+   ],
+   "form": "טְעֵם",
+   "gloss": "properly, flavor",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ṭᵉʻêm"
+  },
+  {
+   "lemma": "H8133",
+   "n": 21,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    19,
+    2
+   ],
+   "p": 0.921641791044968,
+   "refs": [
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Dan.2.9",
+    "Dan.2.21",
+    "Dan.3.19",
+    "Dan.3.27",
+    "Dan.3.28",
+    "Dan.4.13",
+    "Dan.5.6",
+    "Dan.5.9",
+    "Dan.5.10",
+    "Dan.6.9",
+    "Dan.6.16",
+    "Dan.6.18",
+    "Dan.7.3",
+    "Dan.7.7",
+    "Dan.7.19",
+    "Dan.7.23",
+    "Dan.7.24",
+    "Dan.7.25",
+    "Dan.7.28"
+   ],
+   "form": "שְׁנָא",
+   "gloss": "to alter",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉnâʼ"
+  },
+  {
+   "lemma": "H1124",
+   "n": 19,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    18
+   ],
+   "p": 0.9291044776122348,
+   "refs": [
+    "Ezra.4.12",
+    "Ezra.4.13",
+    "Ezra.4.16",
+    "Ezra.4.21",
+    "Ezra.5.2",
+    "Ezra.5.3",
+    "Ezra.5.4",
+    "Ezra.5.8",
+    "Ezra.5.9",
+    "Ezra.5.11",
+    "Ezra.5.13",
+    "Ezra.5.15",
+    "Ezra.5.16",
+    "Ezra.5.17",
+    "Ezra.6.3",
+    "Ezra.6.7",
+    "Ezra.6.8",
+    "Ezra.6.14",
+    "Dan.4.27"
+   ],
+   "form": "בְּנָא",
+   "gloss": "to build",
+   "root": "",
+   "pos": "V",
+   "translit": "bᵉnâʼ"
+  },
+  {
+   "lemma": "H7229",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    12,
+    3
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.10",
+    "Ezra.5.8",
+    "Ezra.5.11",
+    "Dan.2.10",
+    "Dan.2.14",
+    "Dan.2.31",
+    "Dan.2.35",
+    "Dan.2.45",
+    "Dan.2.48",
+    "Dan.4.6",
+    "Dan.4.27",
+    "Dan.5.1",
+    "Dan.5.11",
+    "Dan.7.2",
+    "Dan.7.20"
+   ],
+   "form": "רַב",
+   "gloss": "abundant",
+   "root": "",
+   "pos": "A",
+   "translit": "rab"
+  },
+  {
+   "lemma": "H858",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    12,
+    3
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.12",
+    "Ezra.5.3",
+    "Ezra.5.16",
+    "Dan.3.2",
+    "Dan.3.13",
+    "Dan.3.26",
+    "Dan.5.2",
+    "Dan.5.3",
+    "Dan.5.13",
+    "Dan.5.23",
+    "Dan.6.17",
+    "Dan.6.18",
+    "Dan.6.25",
+    "Dan.7.13",
+    "Dan.7.22"
+   ],
+   "form": "אָתָה",
+   "gloss": "to arrive",
+   "root": "",
+   "pos": "V",
+   "translit": "ʼâthâh"
+  },
+  {
+   "lemma": "H7912",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    11,
+    4
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Ezra.6.2",
+    "Ezra.7.16",
+    "Dan.2.25",
+    "Dan.2.35",
+    "Dan.5.11",
+    "Dan.5.12",
+    "Dan.5.14",
+    "Dan.5.27",
+    "Dan.6.5",
+    "Dan.6.6",
+    "Dan.6.12",
+    "Dan.6.23",
+    "Dan.6.24"
+   ],
+   "form": "שְׁכַח",
+   "gloss": "to discover (literally or figuratively)",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉkach"
+  },
+  {
+   "lemma": "H5957",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    13,
+    2
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Dan.2.4",
+    "Dan.2.20",
+    "Dan.2.44",
+    "Dan.3.9",
+    "Dan.3.33",
+    "Dan.4.31",
+    "Dan.5.10",
+    "Dan.6.7",
+    "Dan.6.22",
+    "Dan.6.27",
+    "Dan.7.14",
+    "Dan.7.18",
+    "Dan.7.27"
+   ],
+   "form": "עָלַם",
+   "gloss": "remote time, i.e. the future or past indefinitely",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻâlam"
+  },
+  {
+   "lemma": "H3118",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    11,
+    4
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Ezra.6.9",
+    "Ezra.6.15",
+    "Dan.2.28",
+    "Dan.2.44",
+    "Dan.4.31",
+    "Dan.5.11",
+    "Dan.6.8",
+    "Dan.6.11",
+    "Dan.6.13",
+    "Dan.6.14",
+    "Dan.7.9",
+    "Dan.7.13",
+    "Dan.7.22"
+   ],
+   "form": "יוֹם",
+   "gloss": "a day",
+   "root": "",
+   "pos": "Nc",
+   "translit": "yôwm"
+  },
+  {
+   "lemma": "H2298",
+   "n": 14,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    10,
+    4
+   ],
+   "p": 0.947761194030101,
+   "refs": [
+    "Ezra.4.8",
+    "Ezra.5.13",
+    "Ezra.6.2",
+    "Ezra.6.3",
+    "Dan.2.9",
+    "Dan.2.31",
+    "Dan.2.35",
+    "Dan.3.19",
+    "Dan.4.16",
+    "Dan.6.3",
+    "Dan.6.18",
+    "Dan.7.1",
+    "Dan.7.5",
+    "Dan.7.16"
+   ],
+   "form": "חַד",
+   "gloss": "as card. one",
+   "root": "",
+   "pos": "A",
+   "translit": "chad"
+  },
+  {
+   "lemma": "H7972",
+   "n": 14,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    10
+   ],
+   "p": 0.947761194030101,
+   "refs": [
+    "Ezra.4.11",
+    "Ezra.4.14",
+    "Ezra.4.17",
+    "Ezra.4.18",
+    "Ezra.5.6",
+    "Ezra.5.7",
+    "Ezra.5.17",
+    "Ezra.6.12",
+    "Ezra.6.13",
+    "Ezra.7.14",
+    "Dan.3.2",
+    "Dan.3.28",
+    "Dan.5.24",
+    "Dan.6.23"
+   ],
+   "form": "שְׁלַח",
+   "gloss": "to send away, for, or out (in a great variety of applications)",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉlach"
+  },
+  {
+   "lemma": "H1459",
+   "n": 13,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    10,
+    3
+   ],
+   "p": 0.9514925373134031,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.5.7",
+    "Ezra.6.2",
+    "Dan.3.6",
+    "Dan.3.11",
+    "Dan.3.15",
+    "Dan.3.21",
+    "Dan.3.23",
+    "Dan.3.24",
+    "Dan.3.25",
+    "Dan.3.26",
+    "Dan.4.7",
+    "Dan.7.15"
+   ],
+   "form": "גַּו",
+   "gloss": "the middle",
+   "root": "",
+   "pos": "Nc",
+   "translit": "gav"
+  },
+  {
+   "lemma": "H7690",
+   "n": 13,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    12,
+    1
+   ],
+   "p": 0.9514925373134031,
+   "refs": [
+    "Ezra.5.11",
+    "Dan.2.6",
+    "Dan.2.12",
+    "Dan.2.31",
+    "Dan.2.48",
+    "Dan.4.7",
+    "Dan.4.9",
+    "Dan.4.18",
+    "Dan.5.9",
+    "Dan.6.15",
+    "Dan.6.24",
+    "Dan.7.5",
+    "Dan.7.28"
+   ],
+   "form": "שַׂגִּיא",
+   "gloss": "large (in size, quantity or number, also adverbial)",
+   "root": "",
+   "pos": "A",
+   "translit": "saggîyʼ"
+  },
+  {
+   "lemma": "H1882",
+   "n": 13,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    8,
+    5
+   ],
+   "p": 0.9514925373134031,
+   "refs": [
+    "Ezra.7.12",
+    "Ezra.7.14",
+    "Ezra.7.21",
+    "Ezra.7.25",
+    "Ezra.7.26",
+    "Dan.2.9",
+    "Dan.2.13",
+    "Dan.2.15",
+    "Dan.6.6",
+    "Dan.6.9",
+    "Dan.6.13",
+    "Dan.6.16",
+    "Dan.7.25"
+   ],
+   "form": "דָּת",
+   "gloss": "a royal edict or statute",
+   "root": "",
+   "pos": "Nc",
+   "translit": "dâth"
+  },
+  {
+   "lemma": "H7412",
+   "n": 12,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    11,
+    1
+   ],
+   "p": 0.9552238805971727,
+   "refs": [
+    "Ezra.7.24",
+    "Dan.3.6",
+    "Dan.3.11",
+    "Dan.3.15",
+    "Dan.3.20",
+    "Dan.3.21",
+    "Dan.3.24",
+    "Dan.6.8",
+    "Dan.6.13",
+    "Dan.6.17",
+    "Dan.6.25",
+    "Dan.7.9"
+   ],
+   "form": "רְמָה",
+   "gloss": "to throw, set, (figuratively) assess",
+   "root": "",
+   "pos": "V",
+   "translit": "rᵉmâh"
+  },
+  {
+   "lemma": "H4083",
+   "n": 11,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    7,
+    4
+   ],
+   "p": 0.958955223880727,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.5.8",
+    "Ezra.6.2",
+    "Ezra.7.16",
+    "Dan.2.48",
+    "Dan.2.49",
+    "Dan.3.1",
+    "Dan.3.2",
+    "Dan.3.3",
+    "Dan.3.12",
+    "Dan.3.30"
+   ],
+   "form": "מְדִינָה",
+   "gloss": "properly, a judgeship, i.e. jurisdiction",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mᵉdîynâh"
+  },
+  {
+   "lemma": "H8532",
+   "n": 11,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    9,
+    2
+   ],
+   "p": 0.958955223880727,
+   "refs": [
+    "Ezra.6.4",
+    "Ezra.6.15",
+    "Dan.3.23",
+    "Dan.3.24",
+    "Dan.6.3",
+    "Dan.6.11",
+    "Dan.6.14",
+    "Dan.7.5",
+    "Dan.7.8",
+    "Dan.7.20",
+    "Dan.7.24"
+   ],
+   "form": "תְּלָת",
+   "gloss": "three or third",
+   "root": "",
+   "pos": "A",
+   "translit": "tᵉlâth"
+  },
+  {
+   "lemma": "H5308",
+   "n": 11,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    10,
+    1
+   ],
+   "p": 0.958955223880727,
+   "refs": [
+    "Ezra.7.20",
+    "Dan.2.46",
+    "Dan.3.5",
+    "Dan.3.6",
+    "Dan.3.7",
+    "Dan.3.10",
+    "Dan.3.11",
+    "Dan.3.15",
+    "Dan.3.23",
+    "Dan.4.28",
+    "Dan.7.20"
+   ],
+   "form": "נְפַל",
+   "gloss": "to fall, in a great variety of applications (intransitive or causative, literal ",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉphal"
+  },
+  {
+   "lemma": "H7606",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    6
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.4.9",
+    "Ezra.4.10",
+    "Ezra.4.17",
+    "Ezra.6.16",
+    "Ezra.7.18",
+    "Ezra.7.20",
+    "Dan.2.18",
+    "Dan.7.7",
+    "Dan.7.12",
+    "Dan.7.19"
+   ],
+   "form": "שְׁאָר",
+   "gloss": "a remainder",
+   "root": "",
+   "pos": "Nc",
+   "translit": "shᵉʼâr"
+  },
+  {
+   "lemma": "H7123",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    8,
+    2
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.4.18",
+    "Ezra.4.23",
+    "Dan.3.4",
+    "Dan.4.11",
+    "Dan.5.7",
+    "Dan.5.8",
+    "Dan.5.12",
+    "Dan.5.15",
+    "Dan.5.16",
+    "Dan.5.17"
+   ],
+   "form": "קְרָא",
+   "gloss": "to call out to (i.e. properly, address by name, but used in a wide variety of ap",
+   "root": "",
+   "pos": "V",
+   "translit": "qᵉrâʼ"
+  },
+  {
+   "lemma": "H7990",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    8,
+    2
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.4.20",
+    "Ezra.7.24",
+    "Dan.2.10",
+    "Dan.2.15",
+    "Dan.4.14",
+    "Dan.4.22",
+    "Dan.4.23",
+    "Dan.4.29",
+    "Dan.5.21",
+    "Dan.5.29"
+   ],
+   "form": "שַׁלִּיט",
+   "gloss": "mighty",
+   "root": "",
+   "pos": "A",
+   "translit": "shallîyṭ"
+  },
+  {
+   "lemma": "H6347",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    6
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.5.3",
+    "Ezra.5.6",
+    "Ezra.5.14",
+    "Ezra.6.6",
+    "Ezra.6.7",
+    "Ezra.6.13",
+    "Dan.3.2",
+    "Dan.3.3",
+    "Dan.3.27",
+    "Dan.6.8"
+   ],
+   "form": "פֶּחָה",
+   "gloss": "a prefect (of a city or small district)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "pechâh"
+  },
+  {
+   "lemma": "H1123",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    6,
+    4
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.6.9",
+    "Ezra.6.10",
+    "Ezra.6.16",
+    "Ezra.7.23",
+    "Dan.2.25",
+    "Dan.2.38",
+    "Dan.5.13",
+    "Dan.5.21",
+    "Dan.6.14",
+    "Dan.6.25"
+   ],
+   "form": "בֵּן",
+   "gloss": "a son (as a builder of the family name), in the widest sense",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bên"
+  },
+  {
+   "lemma": "H6399",
+   "n": 10,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    9,
+    1
+   ],
+   "p": 0.9626865671645348,
+   "refs": [
+    "Ezra.7.24",
+    "Dan.3.12",
+    "Dan.3.14",
+    "Dan.3.17",
+    "Dan.3.18",
+    "Dan.3.28",
+    "Dan.6.17",
+    "Dan.6.21",
+    "Dan.7.14",
+    "Dan.7.27"
+   ],
+   "form": "פְּלַח",
+   "gloss": "to serve or worship",
+   "root": "",
+   "pos": "V",
+   "translit": "pᵉlach"
+  },
+  {
+   "lemma": "H5312",
+   "n": 9,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    7,
+    2
+   ],
+   "p": 0.9664179104478064,
+   "refs": [
+    "Ezra.5.14",
+    "Ezra.6.5",
+    "Dan.2.13",
+    "Dan.2.14",
+    "Dan.3.26",
+    "Dan.5.2",
+    "Dan.5.3",
+    "Dan.5.5",
+    "Dan.7.10"
+   ],
+   "form": "נְפַק",
+   "gloss": "to issue",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉphaq"
+  },
+  {
+   "lemma": "H7127",
+   "n": 9,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    6,
+    3
+   ],
+   "p": 0.9664179104478064,
+   "refs": [
+    "Ezra.6.10",
+    "Ezra.6.17",
+    "Ezra.7.17",
+    "Dan.3.8",
+    "Dan.3.26",
+    "Dan.6.13",
+    "Dan.6.21",
+    "Dan.7.13",
+    "Dan.7.16"
+   ],
+   "form": "קְרֵב",
+   "gloss": "to approach (causatively, bring near) for whatever purpose",
+   "root": "",
+   "pos": "V",
+   "translit": "qᵉrêb"
+  },
+  {
+   "lemma": "H1541",
+   "n": 8,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    6,
+    2
+   ],
+   "p": 0.9701492537315018,
+   "refs": [
+    "Ezra.4.10",
+    "Ezra.5.12",
+    "Dan.2.19",
+    "Dan.2.22",
+    "Dan.2.28",
+    "Dan.2.29",
+    "Dan.2.30",
+    "Dan.2.47"
+   ],
+   "form": "גְּלָה",
+   "gloss": "to denude (especially in a disgraceful sense)",
+   "root": "",
+   "pos": "V",
+   "translit": "gᵉlâh"
+  },
+  {
+   "lemma": "H69",
+   "n": 8,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    6,
+    2
+   ],
+   "p": 0.9701492537315018,
+   "refs": [
+    "Ezra.5.8",
+    "Ezra.6.4",
+    "Dan.2.34",
+    "Dan.2.35",
+    "Dan.2.45",
+    "Dan.5.4",
+    "Dan.5.23",
+    "Dan.6.18"
+   ],
+   "form": "אֶבֶן",
+   "gloss": "a stone",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼeben"
+  },
+  {
+   "lemma": "H3790",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    4
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.4.8",
+    "Ezra.5.7",
+    "Ezra.5.10",
+    "Ezra.6.2",
+    "Dan.5.5",
+    "Dan.6.26",
+    "Dan.7.1"
+   ],
+   "form": "כְּתַב",
+   "gloss": "to grave, by implication, to write (describe, inscribe, prescribe, subscribe)",
+   "root": "",
+   "pos": "V",
+   "translit": "kᵉthab"
+  },
+  {
+   "lemma": "H236",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    3
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.4.23",
+    "Ezra.5.8",
+    "Ezra.5.15",
+    "Dan.2.17",
+    "Dan.2.24",
+    "Dan.6.19",
+    "Dan.6.20"
+   ],
+   "form": "אֲזַל",
+   "gloss": "to depart",
+   "root": "",
+   "pos": "V",
+   "translit": "ʼăzal"
+  },
+  {
+   "lemma": "H8140",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    5
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.4.24",
+    "Ezra.5.11",
+    "Ezra.5.13",
+    "Ezra.6.3",
+    "Ezra.6.15",
+    "Dan.6.1",
+    "Dan.7.1"
+   ],
+   "form": "שְׁנָה",
+   "gloss": "a year (as a revolution of time)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "shᵉnâh"
+  },
+  {
+   "lemma": "H1247",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    3
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.5.1",
+    "Ezra.5.2",
+    "Ezra.6.14",
+    "Dan.3.25",
+    "Dan.5.22",
+    "Dan.6.1",
+    "Dan.7.13"
+   ],
+   "form": "בַּר",
+   "gloss": "a son, grandson, etc.",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bar"
+  },
+  {
+   "lemma": "H8421",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    3
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.5.5",
+    "Ezra.5.11",
+    "Ezra.6.5",
+    "Dan.2.14",
+    "Dan.3.16",
+    "Dan.4.31",
+    "Dan.4.33"
+   ],
+   "form": "תּוּב",
+   "gloss": "specifically (transitive and ellip.) to reply",
+   "root": "",
+   "pos": "V",
+   "translit": "tûwb"
+  },
+  {
+   "lemma": "H8450",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    3
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.6.9",
+    "Ezra.6.17",
+    "Ezra.7.17",
+    "Dan.4.22",
+    "Dan.4.29",
+    "Dan.4.30",
+    "Dan.5.21"
+   ],
+   "form": "תּוֹר",
+   "gloss": "a bull",
+   "root": "",
+   "pos": "Nc",
+   "translit": "tôwr"
+  },
+  {
+   "lemma": "H2452",
+   "n": 7,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    6,
+    1
+   ],
+   "p": 0.9738805970149431,
+   "refs": [
+    "Ezra.7.25",
+    "Dan.2.20",
+    "Dan.2.21",
+    "Dan.2.23",
+    "Dan.2.30",
+    "Dan.5.11",
+    "Dan.5.14"
+   ],
+   "form": "חׇכְמָה",
+   "gloss": "wisdom",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chokmâh"
+  },
+  {
+   "lemma": "H5415",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    2
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.4.13",
+    "Ezra.7.20",
+    "Dan.2.16",
+    "Dan.4.14",
+    "Dan.4.22",
+    "Dan.4.29"
+   ],
+   "form": "נְתַן",
+   "gloss": "give",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉthan"
+  },
+  {
+   "lemma": "H2429",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.4.23",
+    "Dan.3.4",
+    "Dan.3.20",
+    "Dan.4.11",
+    "Dan.4.32",
+    "Dan.5.7"
+   ],
+   "form": "חַיִל",
+   "gloss": "an army, or strength",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chayil"
+  },
+  {
+   "lemma": "H5673",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    4
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.4.24",
+    "Ezra.5.8",
+    "Ezra.6.7",
+    "Ezra.6.18",
+    "Dan.2.49",
+    "Dan.3.12"
+   ],
+   "form": "עֲבִידָה",
+   "gloss": "labor or business",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻăbîydâh"
+  },
+  {
+   "lemma": "H8271",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.5.2",
+    "Dan.2.22",
+    "Dan.3.25",
+    "Dan.5.6",
+    "Dan.5.12",
+    "Dan.5.16"
+   ],
+   "form": "שְׁרֵא",
+   "gloss": "to free, separate",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉrêʼ"
+  },
+  {
+   "lemma": "H7593",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    3
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.5.9",
+    "Ezra.5.10",
+    "Ezra.7.21",
+    "Dan.2.10",
+    "Dan.2.11",
+    "Dan.2.27"
+   ],
+   "form": "שְׁאֵל",
+   "gloss": "to inquire",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉʼêl"
+  },
+  {
+   "lemma": "H5182",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    3
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.5.15",
+    "Ezra.6.1",
+    "Ezra.6.5",
+    "Dan.4.10",
+    "Dan.4.20",
+    "Dan.5.20"
+   ],
+   "form": "נְחַת",
+   "gloss": "to descend",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉchath"
+  },
+  {
+   "lemma": "H2255",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.6.12",
+    "Dan.2.44",
+    "Dan.4.20",
+    "Dan.6.23",
+    "Dan.6.27",
+    "Dan.7.14"
+   ],
+   "form": "חֲבַל",
+   "gloss": "to ruin",
+   "root": "",
+   "pos": "V",
+   "translit": "chăbal"
+  },
+  {
+   "lemma": "H703",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.6.17",
+    "Dan.3.25",
+    "Dan.7.2",
+    "Dan.7.3",
+    "Dan.7.6",
+    "Dan.7.17"
+   ],
+   "form": "אַרְבַּע",
+   "gloss": "four",
+   "root": "",
+   "pos": "A",
+   "translit": "ʼarbaʻ"
+  },
+  {
+   "lemma": "H7655",
+   "n": 6,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 0.9776119402987374,
+   "refs": [
+    "Ezra.7.14",
+    "Dan.3.19",
+    "Dan.4.13",
+    "Dan.4.20",
+    "Dan.4.22",
+    "Dan.4.29"
+   ],
+   "form": "שִׁבְעָה",
+   "gloss": "seven (as the sacred full one)",
+   "root": "",
+   "pos": "A",
+   "translit": "shibʻâh"
+  },
+  {
+   "lemma": "H3488",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    2
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.4.10",
+    "Ezra.4.17",
+    "Dan.7.9",
+    "Dan.7.10",
+    "Dan.7.26"
+   ],
+   "form": "יְתִב",
+   "gloss": "to sit or dwell",
+   "root": "",
+   "pos": "V",
+   "translit": "yᵉthib"
+  },
+  {
+   "lemma": "H5559",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.4.12",
+    "Dan.2.29",
+    "Dan.7.3",
+    "Dan.7.8",
+    "Dan.7.20"
+   ],
+   "form": "סְלִק",
+   "gloss": "to ascend",
+   "root": "",
+   "pos": "V",
+   "translit": "çᵉliq"
+  },
+  {
+   "lemma": "H8624",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.4.20",
+    "Dan.2.40",
+    "Dan.2.42",
+    "Dan.3.33",
+    "Dan.7.7"
+   ],
+   "form": "תַּקִּיף",
+   "gloss": "powerful",
+   "root": "",
+   "pos": "A",
+   "translit": "taqqîyph"
+  },
+  {
+   "lemma": "H636",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    3
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.5.8",
+    "Ezra.6.4",
+    "Ezra.6.11",
+    "Dan.5.4",
+    "Dan.5.23"
+   ],
+   "form": "אָע",
+   "gloss": "a tree or wood",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼâʻ"
+  },
+  {
+   "lemma": "H7662",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.6.7",
+    "Dan.2.44",
+    "Dan.4.12",
+    "Dan.4.20",
+    "Dan.4.23"
+   ],
+   "form": "שְׁבַק",
+   "gloss": "to quit, i.e. allow to remain",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉbaq"
+  },
+  {
+   "lemma": "H6236",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.6.17",
+    "Dan.4.26",
+    "Dan.7.7",
+    "Dan.7.20",
+    "Dan.7.24"
+   ],
+   "form": "עֲשַׂר",
+   "gloss": "ten",
+   "root": "",
+   "pos": "A",
+   "translit": "ʻăsar"
+  },
+  {
+   "lemma": "H4483",
+   "n": 5,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 0.9813432835823479,
+   "refs": [
+    "Ezra.7.25",
+    "Dan.2.24",
+    "Dan.2.49",
+    "Dan.3.12",
+    "Dan.5.26"
+   ],
+   "form": "מְנָא",
+   "gloss": "to count, appoint",
+   "root": "",
+   "pos": "V",
+   "translit": "mᵉnâʼ"
+  },
+  {
+   "lemma": "H5142",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    3
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.4.13",
+    "Ezra.4.15",
+    "Ezra.4.22",
+    "Dan.6.3"
+   ],
+   "form": "נְזַק",
+   "gloss": "to suffer (causatively, inflict) loss",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉzaq"
+  },
+  {
+   "lemma": "H5609",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    3
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.6.1",
+    "Ezra.6.18",
+    "Dan.7.10"
+   ],
+   "form": "סְפַר",
+   "gloss": "a book",
+   "root": "",
+   "pos": "Nc",
+   "translit": "çᵉphar"
+  },
+  {
+   "lemma": "H7960",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    2
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.4.22",
+    "Ezra.6.9",
+    "Dan.3.29",
+    "Dan.6.5"
+   ],
+   "form": "שָׁלוּ",
+   "gloss": "a fault",
+   "root": "",
+   "pos": "Nc",
+   "translit": "shâlûw"
+  },
+  {
+   "lemma": "H8648",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    2
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.4.24",
+    "Ezra.6.17",
+    "Dan.4.26",
+    "Dan.6.1"
+   ],
+   "form": "תְּרֵין",
+   "gloss": "two",
+   "root": "",
+   "pos": "A",
+   "translit": "tᵉrêyn"
+  },
+  {
+   "lemma": "H5870",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    1
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.5.5",
+    "Dan.4.31",
+    "Dan.7.8",
+    "Dan.7.20"
+   ],
+   "form": "עַיִן",
+   "gloss": "an eye",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻayin"
+  },
+  {
+   "lemma": "H6744",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    2
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.5.8",
+    "Ezra.6.14",
+    "Dan.3.30",
+    "Dan.6.29"
+   ],
+   "form": "צְלַח",
+   "gloss": "to advance (transitive or intransitive)",
+   "root": "",
+   "pos": "V",
+   "translit": "tsᵉlach"
+  },
+  {
+   "lemma": "H4223",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    3,
+    1
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.6.11",
+    "Dan.2.34",
+    "Dan.2.35",
+    "Dan.4.32"
+   ],
+   "form": "מְחָא",
+   "gloss": "to strike in pieces",
+   "root": "",
+   "pos": "V",
+   "translit": "mᵉchâʼ"
+  },
+  {
+   "lemma": "H2597",
+   "n": 4,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    2
+   ],
+   "p": 0.9850746268655658,
+   "refs": [
+    "Ezra.6.16",
+    "Ezra.6.17",
+    "Dan.3.2",
+    "Dan.3.3"
+   ],
+   "form": "חֲנֻכָּא",
+   "gloss": "consecration",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chănukkâʼ"
+  },
+  {
+   "lemma": "H5376",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.4.19",
+    "Ezra.5.15",
+    "Dan.2.35"
+   ],
+   "form": "נְשָׂא",
+   "gloss": "to lift",
+   "root": "",
+   "pos": "V",
+   "translit": "nᵉsâʼ"
+  },
+  {
+   "lemma": "H2257",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.4.22",
+    "Dan.3.25",
+    "Dan.6.24"
+   ],
+   "form": "חֲבַל",
+   "gloss": "harm (personal or pecuniary)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chăbal"
+  },
+  {
+   "lemma": "H7680",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.4.22",
+    "Dan.3.31",
+    "Dan.6.26"
+   ],
+   "form": "שְׂגָא",
+   "gloss": "to increase",
+   "root": "",
+   "pos": "V",
+   "translit": "sᵉgâʼ"
+  },
+  {
+   "lemma": "H8000",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.5.16",
+    "Ezra.7.19",
+    "Dan.5.26"
+   ],
+   "form": "שְׁלַם",
+   "gloss": "to complete, to restore",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉlam"
+  },
+  {
+   "lemma": "H8361",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.6.3",
+    "Dan.3.1",
+    "Dan.6.1"
+   ],
+   "form": "שִׁתִּין",
+   "gloss": "sixty",
+   "root": "",
+   "pos": "A",
+   "translit": "shittîyn"
+  },
+  {
+   "lemma": "H5122",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.6.11",
+    "Dan.2.5",
+    "Dan.3.29"
+   ],
+   "form": "נְוָלוּ",
+   "gloss": "a sink",
+   "root": "",
+   "pos": "Nc",
+   "translit": "nᵉvâlûw"
+  },
+  {
+   "lemma": "H3969",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.6.17",
+    "Ezra.7.22",
+    "Dan.6.2"
+   ],
+   "form": "מְאָה",
+   "gloss": "a hundred",
+   "root": "",
+   "pos": "A",
+   "translit": "mᵉʼâh"
+  },
+  {
+   "lemma": "H613",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.7.26",
+    "Dan.4.12",
+    "Dan.4.20"
+   ],
+   "form": "אֱסוּר",
+   "gloss": "a bond (especially manacles of a prisoner)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼĕçûwr"
+  },
+  {
+   "lemma": "H6928",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.5.11",
+    "Dan.6.11"
+   ],
+   "form": "קַדְמָה",
+   "gloss": "former time",
+   "root": "",
+   "pos": "Nc",
+   "translit": "qadmâh"
+  },
+  {
+   "lemma": "H2869",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.5.17",
+    "Dan.2.32"
+   ],
+   "form": "טָב",
+   "gloss": "good",
+   "root": "",
+   "pos": "A",
+   "translit": "ṭâb"
+  },
+  {
+   "lemma": "H521",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.3",
+    "Dan.3.1"
+   ],
+   "form": "אַמָּה",
+   "gloss": "properly, a mother (i.e. unit of measure, or the fore-arm (below the elbow), i.e",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼammâh"
+  },
+  {
+   "lemma": "H3983",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.9",
+    "Dan.4.14"
+   ],
+   "form": "מֵאמַר",
+   "gloss": "something (authoritatively) said, i.e. an edict",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mêʼmar"
+  },
+  {
+   "lemma": "H2818",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.9",
+    "Dan.3.16"
+   ],
+   "form": "חֲשַׁח",
+   "gloss": "to be necessary (from the idea of convenience) or (transitively) to need",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chăshach"
+  },
+  {
+   "lemma": "H6739",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.10",
+    "Dan.6.11"
+   ],
+   "form": "צְלָא",
+   "gloss": "pray",
+   "root": "",
+   "pos": "V",
+   "translit": "tsᵉlâʼ"
+  },
+  {
+   "lemma": "H5208",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.10",
+    "Dan.2.46"
+   ],
+   "form": "נִיחוֹחַ",
+   "gloss": "pleasure",
+   "root": "",
+   "pos": "Nc",
+   "translit": "nîychôwach"
+  },
+  {
+   "lemma": "H7932",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.12",
+    "Dan.4.18"
+   ],
+   "form": "שְׁכַן",
+   "gloss": "to reside or permanently stay (literally or figuratively)",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉkan"
+  },
+  {
+   "lemma": "H8353",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.15",
+    "Dan.3.1"
+   ],
+   "form": "שֵׁת",
+   "gloss": "six",
+   "root": "",
+   "pos": "A",
+   "translit": "shêth"
+  },
+  {
+   "lemma": "H3393",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.15",
+    "Dan.4.26"
+   ],
+   "form": "יְרַח",
+   "gloss": "a month",
+   "root": "",
+   "pos": "Nc",
+   "translit": "yᵉrach"
+  },
+  {
+   "lemma": "H5648",
+   "n": 25,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    11,
+    13
+   ],
+   "p": 0.9999999999999722,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Ezra.4.22",
+    "Ezra.5.8",
+    "Ezra.6.8",
+    "Ezra.6.11",
+    "Ezra.6.12",
+    "Ezra.6.13",
+    "Ezra.6.16",
+    "Ezra.7.18",
+    "Ezra.7.21",
+    "Ezra.7.23",
+    "Ezra.7.26",
+    "Jer.10.11",
+    "Dan.2.5",
+    "Dan.3.1",
+    "Dan.3.15",
+    "Dan.3.29",
+    "Dan.3.32",
+    "Dan.4.32",
+    "Dan.5.1",
+    "Dan.6.11",
+    "Dan.6.23",
+    "Dan.6.28",
+    "Dan.7.21"
+   ],
+   "form": "עֲבַד",
+   "gloss": "to do, make, prepare, keep, etc.",
+   "root": "",
+   "pos": "V",
+   "translit": "ʻăbad"
+  }
+ ]
+}

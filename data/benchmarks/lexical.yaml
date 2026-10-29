@@ -25,6 +25,12 @@ expectations:
     kind: bridge
     lemma: H8392
     narratives: [moses, noah]
+  - description: "Quran kursī ↔ Biblical Aramaic korsêʾ (H3764), the -rs- form the Arabic shows"
+    corpus: quran
+    kind: cognate
+    lemma: كُرْسِيّ
+    hebrew: H3764
+    lead: kursi-loan-chain
   - description: "Quran kursī ↔ Hebrew kissēʾ (H3678); needs the Aramaic loan-chain layer (v2)"
     corpus: quran
     kind: cognate

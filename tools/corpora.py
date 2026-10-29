@@ -36,6 +36,7 @@ class Lemma:
     gloss: str = ""
     translit: str = ""
     definition: str = ""    # full dictionary text, used to check cognate meanings
+    gloss_words: frozenset = frozenset()   # every content word in the lemma's word-by-word glosses
 
 
 @dataclass
@@ -97,6 +98,12 @@ def load_quran():
         lemma_glosses[lid].append(glosses.get(f"{s}:{v}:{w}"))
     for lid, lem in lemmas.items():
         lem.gloss = head_gloss(lemma_glosses[lid])
+        words = set()
+        for g in lemma_glosses[lid]:
+            for w in re.findall(r"[a-z]+", (g or "").lower()):
+                if w not in STOP_GLOSS and len(w) > 2:
+                    words.add(w[:-1] if w.endswith("s") and len(w) > 3 and not w.endswith("ss") else w)
+        lem.gloss_words = frozenset(words)
     names = attach_narratives(verses, "quran.yaml", quran_ref_range)
     return Corpus("quran", list(verses.values()), lemmas, names)
 
@@ -124,7 +131,10 @@ def load_strongs():
     return json.loads(js[start:js.rindex("}") + 1])
 
 
-def load_hebrew_bible():
+def load_hebrew_bible(language="H"):
+    """language "H": the Hebrew text (Aramaic words skipped, they would swamp
+    the statistics). "A": the Biblical Aramaic sections as their own corpus
+    (Gen 31:47, Jer 10:11, Ezra 4:8-6:18 and 7:12-26, Dan 2:4-7:28)."""
     strongs = load_strongs()
     verses, lemmas, pos_votes = {}, {}, defaultdict(Counter)
     for book in BOOK_ORDER:
@@ -134,8 +144,8 @@ def load_hebrew_bible():
             verse = verses.setdefault(ref, Verse(ref=ref, document=ref.rsplit(".", 1)[0]))
             for w in vel.iter(OSIS + "w"):
                 parts = w.get("lemma", "").split("/")
-                if w.get("morph", "").startswith("A"):
-                    continue    # Aramaic sections (Daniel, Ezra) would swamp the Hebrew statistics
+                if not w.get("morph", "").startswith(language):
+                    continue
                 morph = w.get("morph", "")[1:].split("/")
                 # the content word is the last lemma part that is a number
                 for lem_part, m in zip(reversed(parts), reversed(morph)):
@@ -156,6 +166,12 @@ def load_hebrew_bible():
                             definition=f"{entry.get('strongs_def', '')} {entry.get('kjv_def', '')}".lower())
     for verse in verses.values():
         verse.lemmas = [l for l in verse.lemmas if lemmas[l].pos in HEBREW_CONTENT_POS]
+    if language == "A":
+        verses = {r: v for r, v in verses.items() if v.lemmas}
+        names = attach_narratives(verses, "hebrew-bible-aramaic.yaml", lambda r: hebrew_ref_range(r, verses))
+        for lem in lemmas.values():
+            lem.translit = lem.translit or lem.id
+        return Corpus("hebrew-bible-aramaic", list(verses.values()), lemmas, names)
     names = attach_narratives(verses, "hebrew-bible.yaml", lambda r: hebrew_ref_range(r, verses))
     return Corpus("hebrew-bible", list(verses.values()), lemmas, names)
 

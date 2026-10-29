@@ -12,6 +12,7 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | Quran al-yamm ↔ Hebrew yam (H3220) | yes |
 | Quran tannūr ↔ Hebrew tannûr (H8574) | yes |
 | Hebrew tēbâ (H8392) links Noah's ark and Moses' basket | yes |
+| Quran kursī ↔ Biblical Aramaic korsêʾ (H3764), the -rs- form the Arabic shows | yes |
 | Quran kursī ↔ Hebrew kissēʾ (H3678); needs the Aramaic loan-chain layer (v2) | no (expected: known limitation) |
 
 ## Quran: concentration (34 candidates)
@@ -30,17 +31,17 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 6.93 | أَيْمَن *ʾayman* “right” (root يمن) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 | synonym skew vs قَيِّم (5, 0% here); Hebrew cognate יְמָנִי *yᵉmânîy* H3233, יָמַן *yâman* H3231 |
 | 6.67 | ناقَة *nāqa* “camel” (root نوق) | Salih and Thamud | 5/7 (71%; base 1%) | 4 | 1.2e-08 |  |
 | 6.25 | عَقَرَ *ʿaqara* “hamstrung” (root عقر) | Salih and Thamud | 4/5 (80%; base 1%) | 4 | 2.4e-07 |  |
-| 6.19 | أُمْطِرَتْ *ʾumṭirat* “rained” (root مطر) | Lot | 5/7 (71%; base 1%) | 5 | 4.5e-08 |  |
+| 6.19 | أُمْطِرَتْ *ʾumṭirat* “rained” (root مطر) | Lot | 5/7 (71%; base 1%) | 5 | 4.5e-08 | Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
 | 4.43 | أَصْنام *ʾaṣnām* “idol” (root صنم) | Abraham | 4/5 (80%; base 3%) | 4 | 2.5e-05 |  |
 | 4.33 | آنَسَ *ʾānasa* “perceive” (root انس) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs يَشْعُرُ (25, 8% here) |
 | 4.33 | اخْتارَ *akhtāra* “chose” (root خير) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs اجْتَبَى (10, 0% here) |
 | 3.53 | مُغْرَق *mughraq* “drowned” (root غرق) | Noah | 3/4 (75%; base 2%) | 2 | 1.0e-04 |  |
-| 3.46 | مَدائِن *madāʾin* “citie” (root مدن) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
 | 3.46 | حاشِر *ḥāshir* “gatherer” (root حشر) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
+| 3.46 | مَدائِن *madāʾin* “citie” (root مدن) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
 | 3.46 | مُلْقي *mulqy* “throw” (root لقي) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 |  |
 | 3.43 | يَبْخَسْ *yabkhas* “deprive” (root بخس) | Shuʿayb and Midian | 3/5 (60%; base 1%) | 3 | 1.8e-05 |  |
 | 2.98 | مَطَر *maṭar* “rain” (root مطر) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
-| 2.98 | جَواب *jawāb* “answer” (root جوب) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 |  |
+| 2.98 | جَواب *jawāb* “answer” (root جوب) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | Hebrew cognate גֶּבֶא *gebeʼ* H1360 |
 | 2.98 | ضَيْف *ḍayf* “guest” (root ضيف) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 |  |
 | 2.86 | مَهْد *mahd* “cradle” (root مهد) | Jesus and Mary | 3/5 (60%; base 1%) | 3 | 9.5e-05 |  |
 | 2.57 | يَسْتَحْىِۦ *yastaḥāi* “live” (root حيي) | Moses | 5/8 (62%; base 7%) | 4 | 3.3e-04 | Hebrew cognate חַי *chay* H2416, חָיָה *châyâh* H2421 |
@@ -192,3 +193,77 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 5.7e-03 | גּוֹזָל *gôwzâl* “a nestling (as being comparatively nude of feathers)” (H1469) | Abraham (1) + Moses (1) | 2 |
 | 1.1e-02 | יָרַט *yâraṭ* “to precipitate or hurl (rush) headlong” (H3399) | Job (1) + Moses (1) | 2 |
 | 1.2e-02 | חָזֵק *châzêq* “powerful” (H2390) | David (1) + Moses (1) | 2 |
+
+## Biblical Aramaic: concentration (14 candidates)
+
+| Score | Lemma | Narrative | In narrative | Units | q | Flags |
+|---|---|---|---|---|---|---|
+| 9.93 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Ezra's Aramaic letters and decrees | 18/19 (95%; base 25%) | 3 | 2.6e-09 |  |
+| 9.42 | בַּיִת *bayith* “a house (in the greatest variation of applications, especially family, etc.)” (H1005) | Ezra's Aramaic letters and decrees | 29/38 (76%; base 25%) | 4 | 7.3e-11 |  |
+| 4.32 | כְּלַל *kᵉlal* “to complete” (H3635) | Ezra's Aramaic letters and decrees | 7/7 (100%; base 25%) | 3 | 1.5e-03 |  |
+| 4.3 | טְעֵם *ṭᵉʻêm* “properly, flavor” (H2942) | Ezra's Aramaic letters and decrees | 17/24 (71%; base 25%) | 4 | 3.4e-05 |  |
+| 3.79 | עֲנָה *ʻănâh* “properly, to eye or (generally) to heed, i.e. pay attention” (H6032) | Daniel (Aramaic court tales and vision) | 28/28 (100%; base 75%) | 6 | 3.7e-03 |  |
+| 3.28 | אֲמַר *ʼămar* “to say (used with great latitude)” (H560) | Daniel (Aramaic court tales and vision) | 59/65 (91%; base 75%) | 6 | 4.3e-03 |  |
+| 3.06 | בְּקַר *bᵉqar* “properly, to plough, or (generally) break forth, i.e. (figuratively) to inspect,” (H1240) | Ezra's Aramaic letters and decrees | 5/5 (100%; base 25%) | 4 | 1.2e-02 |  |
+| 3.06 | בְּטֵל *bᵉṭêl* “to stop” (H989) | Ezra's Aramaic letters and decrees | 5/5 (100%; base 25%) | 3 | 1.2e-02 |  |
+| 3.06 | שִׂיב *sîyb* “properly, to become aged, i.e. (by implication) to grow gray” (H7868) | Ezra's Aramaic letters and decrees | 5/5 (100%; base 25%) | 2 | 1.2e-02 |  |
+| 2.74 | חֲזָא *chăzâʼ* “to gaze upon” (H2370) | Daniel (Aramaic court tales and vision) | 28/29 (97%; base 75%) | 5 | 1.8e-02 |  |
+| 2.6 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Ezra's Aramaic letters and decrees | 10/14 (71%; base 25%) | 4 | 4.3e-03 |  |
+| 2.51 | חֵיוָא *chêyvâʼ* “an animal” (H2423) | Daniel (Aramaic court tales and vision) | 19/19 (100%; base 75%) | 4 | 3.3e-02 |  |
+| 2.44 | מִדָּה *middâh* “tribute in money” (H4061) | Ezra's Aramaic letters and decrees | 4/4 (100%; base 25%) | 3 | 3.6e-02 |  |
+| 2.41 | שׂוּם *sûwm* “to put (used in a great variety of applications, literal, figurative, inferentia” (H7761) | Ezra's Aramaic letters and decrees | 15/25 (60%; base 25%) | 4 | 2.5e-03 |  |
+
+## Biblical Aramaic: bridges (82 candidates)
+
+| p | Lemma | Narratives | Verses |
+|---|---|---|---|
+| 8.6e-01 | בַּיִת *bayith* “a house (in the greatest variation of applications, especially family, etc.)” (H1005) | Daniel (Aramaic court tales and vision) (9) + Ezra's Aramaic letters and decrees (29) | 38 |
+| 8.9e-01 | קוּם *qûwm* “to rise (in various applications, literal, figurative, intensive and causative)” (H6966) | Daniel (Aramaic court tales and vision) (28) + Ezra's Aramaic letters and decrees (2) | 30 |
+| 8.9e-01 | חֲזָא *chăzâʼ* “to gaze upon” (H2370) | Daniel (Aramaic court tales and vision) (28) + Ezra's Aramaic letters and decrees (1) | 29 |
+| 9.0e-01 | יְהַב *yᵉhab* “to give (whether literal or figurative)” (H3052) | Daniel (Aramaic court tales and vision) (20) + Ezra's Aramaic letters and decrees (8) | 28 |
+| 9.1e-01 | שׂוּם *sûwm* “to put (used in a great variety of applications, literal, figurative, inferentia” (H7761) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (15) | 25 |
+| 9.1e-01 | טְעֵם *ṭᵉʻêm* “properly, flavor” (H2942) | Daniel (Aramaic court tales and vision) (7) + Ezra's Aramaic letters and decrees (17) | 24 |
+| 9.2e-01 | שְׁנָא *shᵉnâʼ* “to alter” (H8133) | Daniel (Aramaic court tales and vision) (19) + Ezra's Aramaic letters and decrees (2) | 21 |
+| 9.3e-01 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Daniel (Aramaic court tales and vision) (1) + Ezra's Aramaic letters and decrees (18) | 19 |
+| 9.4e-01 | רַב *rab* “abundant” (H7229) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
+| 9.4e-01 | אָתָה *ʼâthâh* “to arrive” (H858) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
+| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
+| 9.4e-01 | יוֹם *yôwm* “a day” (H3118) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.5e-01 | חַד *chad* “as card. one” (H2298) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (4) | 14 |
+| 9.5e-01 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (10) | 14 |
+| 9.5e-01 | גַּו *gav* “the middle” (H1459) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (3) | 13 |
+| 9.5e-01 | שַׂגִּיא *saggîyʼ* “large (in size, quantity or number, also adverbial)” (H7690) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (1) | 13 |
+| 9.5e-01 | דָּת *dâth* “a royal edict or statute” (H1882) | Daniel (Aramaic court tales and vision) (8) + Ezra's Aramaic letters and decrees (5) | 13 |
+| 9.6e-01 | רְמָה *rᵉmâh* “to throw, set, (figuratively) assess” (H7412) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (1) | 12 |
+| 9.6e-01 | מְדִינָה *mᵉdîynâh* “properly, a judgeship, i.e. jurisdiction” (H4083) | Daniel (Aramaic court tales and vision) (7) + Ezra's Aramaic letters and decrees (4) | 11 |
+| 9.6e-01 | תְּלָת *tᵉlâth* “three or third” (H8532) | Daniel (Aramaic court tales and vision) (9) + Ezra's Aramaic letters and decrees (2) | 11 |
+| 9.6e-01 | נְפַל *nᵉphal* “to fall, in a great variety of applications (intransitive or causative, literal ” (H5308) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (1) | 11 |
+| 9.6e-01 | שְׁאָר *shᵉʼâr* “a remainder” (H7606) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (6) | 10 |
+| 9.6e-01 | קְרָא *qᵉrâʼ* “to call out to (i.e. properly, address by name, but used in a wide variety of ap” (H7123) | Daniel (Aramaic court tales and vision) (8) + Ezra's Aramaic letters and decrees (2) | 10 |
+| 9.6e-01 | שַׁלִּיט *shallîyṭ* “mighty” (H7990) | Daniel (Aramaic court tales and vision) (8) + Ezra's Aramaic letters and decrees (2) | 10 |
+| 9.6e-01 | פֶּחָה *pechâh* “a prefect (of a city or small district)” (H6347) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (6) | 10 |
+| 9.6e-01 | בֵּן *bên* “a son (as a builder of the family name), in the widest sense” (H1123) | Daniel (Aramaic court tales and vision) (6) + Ezra's Aramaic letters and decrees (4) | 10 |
+| 9.6e-01 | פְּלַח *pᵉlach* “to serve or worship” (H6399) | Daniel (Aramaic court tales and vision) (9) + Ezra's Aramaic letters and decrees (1) | 10 |
+| 9.7e-01 | נְפַק *nᵉphaq* “to issue” (H5312) | Daniel (Aramaic court tales and vision) (7) + Ezra's Aramaic letters and decrees (2) | 9 |
+| 9.7e-01 | קְרֵב *qᵉrêb* “to approach (causatively, bring near) for whatever purpose” (H7127) | Daniel (Aramaic court tales and vision) (6) + Ezra's Aramaic letters and decrees (3) | 9 |
+| 9.7e-01 | גְּלָה *gᵉlâh* “to denude (especially in a disgraceful sense)” (H1541) | Daniel (Aramaic court tales and vision) (6) + Ezra's Aramaic letters and decrees (2) | 8 |
+| 9.7e-01 | אֶבֶן *ʼeben* “a stone” (H69) | Daniel (Aramaic court tales and vision) (6) + Ezra's Aramaic letters and decrees (2) | 8 |
+| 9.7e-01 | כְּתַב *kᵉthab* “to grave, by implication, to write (describe, inscribe, prescribe, subscribe)” (H3790) | Daniel (Aramaic court tales and vision) (3) + Ezra's Aramaic letters and decrees (4) | 7 |
+| 9.7e-01 | אֲזַל *ʼăzal* “to depart” (H236) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (3) | 7 |
+| 9.7e-01 | שְׁנָה *shᵉnâh* “a year (as a revolution of time)” (H8140) | Daniel (Aramaic court tales and vision) (2) + Ezra's Aramaic letters and decrees (5) | 7 |
+| 9.7e-01 | בַּר *bar* “a son, grandson, etc.” (H1247) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (3) | 7 |
+| 9.7e-01 | תּוּב *tûwb* “specifically (transitive and ellip.) to reply” (H8421) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (3) | 7 |
+| 9.7e-01 | תּוֹר *tôwr* “a bull” (H8450) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (3) | 7 |
+| 9.7e-01 | חׇכְמָה *chokmâh* “wisdom” (H2452) | Daniel (Aramaic court tales and vision) (6) + Ezra's Aramaic letters and decrees (1) | 7 |
+| 9.8e-01 | נְתַן *nᵉthan* “give” (H5415) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (2) | 6 |
+| 9.8e-01 | חַיִל *chayil* “an army, or strength” (H2429) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
+| 9.8e-01 | עֲבִידָה *ʻăbîydâh* “labor or business” (H5673) | Daniel (Aramaic court tales and vision) (2) + Ezra's Aramaic letters and decrees (4) | 6 |
+| 9.8e-01 | שְׁרֵא *shᵉrêʼ* “to free, separate” (H8271) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
+| 9.8e-01 | שְׁאֵל *shᵉʼêl* “to inquire” (H7593) | Daniel (Aramaic court tales and vision) (3) + Ezra's Aramaic letters and decrees (3) | 6 |
+| 9.8e-01 | נְחַת *nᵉchath* “to descend” (H5182) | Daniel (Aramaic court tales and vision) (3) + Ezra's Aramaic letters and decrees (3) | 6 |
+| 9.8e-01 | חֲבַל *chăbal* “to ruin” (H2255) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
+| 9.8e-01 | אַרְבַּע *ʼarbaʻ* “four” (H703) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
+| 9.8e-01 | שִׁבְעָה *shibʻâh* “seven (as the sacred full one)” (H7655) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
+| 9.8e-01 | יְתִב *yᵉthib* “to sit or dwell” (H3488) | Daniel (Aramaic court tales and vision) (3) + Ezra's Aramaic letters and decrees (2) | 5 |
+| 9.8e-01 | סְלִק *çᵉliq* “to ascend” (H5559) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (1) | 5 |

@@ -63,7 +63,8 @@
      "translit": "yâm",
      "gloss": "a sea (as breaking in noisy surf) or large body of water",
      "verses": 339,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H3117",
@@ -71,7 +72,17 @@
      "translit": "yôwm",
      "gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one ",
      "verses": 1930,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H3118",
+     "form": "יוֹם",
+     "translit": "yôwm",
+     "gloss": "a day",
+     "verses": 15,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H3222",
@@ -79,7 +90,8 @@
      "translit": "yêm",
      "gloss": "a warm spring",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -132,7 +144,8 @@
      "translit": "shachar",
      "gloss": "dawn (literal, figurative or adverbial)",
      "verses": 24,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5503",
@@ -140,7 +153,8 @@
      "translit": "çâchar",
      "gloss": "to travel round (specifically as a pedlar)",
      "verses": 20,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7838",
@@ -148,7 +162,8 @@
      "translit": "shâchôr",
      "gloss": "properly, dusky, but also (absol.) jetty",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5505",
@@ -156,15 +171,17 @@
      "translit": "çâchar",
      "gloss": "an emporium",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
-     "lemma": "H5507",
-     "form": "סֹחֵרָה",
-     "translit": "çôchêrâh",
-     "gloss": "something surrounding the person, i.e. a shield",
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -214,7 +231,8 @@
      "translit": "ʻâbar",
      "gloss": "to cross over",
      "verses": 493,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5676",
@@ -222,7 +240,8 @@
      "translit": "ʻêber",
      "gloss": "properly, a region across",
      "verses": 83,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5668",
@@ -230,7 +249,8 @@
      "translit": "ʻâbûwr",
      "gloss": "properly, crossed, i.e. (abstractly) transit",
      "verses": 47,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5669",
@@ -238,7 +258,8 @@
      "translit": "ʻâbûwr",
      "gloss": "passed, i.e. kept over",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5679",
@@ -246,7 +267,8 @@
      "translit": "ʻăbârâh",
      "gloss": "a crossing-place",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -329,7 +351,8 @@
      "translit": "raʻ",
      "gloss": "bad or (as noun) evil (natural or moral)",
      "verses": 623,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7462",
@@ -337,7 +360,8 @@
      "translit": "râʻâh",
      "gloss": "to tend a flock",
      "verses": 139,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7321",
@@ -345,7 +369,8 @@
      "translit": "rûwaʻ",
      "gloss": "to mar (especially by breaking)",
      "verses": 40,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7455",
@@ -353,7 +378,8 @@
      "translit": "rôaʻ",
      "gloss": "badness (as marring), physically or morally",
      "verses": 19,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7473",
@@ -361,7 +387,8 @@
      "translit": "rôʻîy",
      "gloss": "pastoral",
      "verses": 8,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -397,7 +424,8 @@
      "translit": "chârâh",
      "gloss": "to glow or grow warm",
      "verses": 87,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2715",
@@ -405,7 +433,8 @@
      "translit": "chôr",
      "gloss": "properly, white or pure (from the cleansing or shining power of fire",
      "verses": 13,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2356",
@@ -413,7 +442,8 @@
      "translit": "chôwr",
      "gloss": "a cavity, socket, den",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2750",
@@ -421,7 +451,8 @@
      "translit": "chŏrîy",
      "gloss": "a burning (i.e. intense) anger",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2353",
@@ -429,7 +460,8 @@
      "translit": "chûwr",
      "gloss": "white linen",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -464,7 +496,8 @@
      "translit": "ʻâqâr",
      "gloss": "sterile (as if extirpated in the generative organs)",
      "verses": 11,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H6131",
@@ -472,7 +505,26 @@
      "translit": "ʻâqar",
      "gloss": "to pluck up (especially by the roots)",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H6136",
+     "form": "עִקַּר",
+     "translit": "ʻiqqar",
+     "gloss": "a stock",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H6132",
+     "form": "עֲקַר",
+     "translit": "ʻăqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H6133",
@@ -480,7 +532,8 @@
      "translit": "ʻêqer",
      "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -515,7 +568,8 @@
      "translit": "sᵉlâv",
      "gloss": "the quail collectively (as slow in flight from its weight)",
      "verses": 4,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H7961",
@@ -523,7 +577,8 @@
      "translit": "shâlêv",
      "gloss": "tranquil",
      "verses": 8,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7962",
@@ -531,7 +586,17 @@
      "translit": "shalvâh",
      "gloss": "security (genuine or false)",
      "verses": 8,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H7960",
+     "form": "שָׁלוּ",
+     "translit": "shâlûw",
+     "gloss": "a fault",
+     "verses": 4,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H7987",
@@ -539,7 +604,8 @@
      "translit": "shᵉlîy",
      "gloss": "privacy",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [
@@ -618,7 +684,8 @@
      "translit": "yᵉmânîy",
      "gloss": "right (i.e. at the right hand)",
      "verses": 19,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H3231",
@@ -626,7 +693,8 @@
      "translit": "yâman",
      "gloss": "to be right-handed or take the right-hand side",
      "verses": 4,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -665,7 +733,8 @@
      "translit": "nâqîy",
      "gloss": "innocent",
      "verses": 42,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5352",
@@ -673,7 +742,17 @@
      "translit": "nâqâh",
      "gloss": "to be (or make) clean (literally or figuratively)",
      "verses": 33,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H5343",
+     "form": "נְקֵא",
+     "translit": "nᵉqêʼ",
+     "gloss": "clean",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     }
    ],
    "cross_corpus": [],
@@ -710,7 +789,8 @@
      "translit": "ʻâqâr",
      "gloss": "sterile (as if extirpated in the generative organs)",
      "verses": 11,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6131",
@@ -718,7 +798,26 @@
      "translit": "ʻâqar",
      "gloss": "to pluck up (especially by the roots)",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H6136",
+     "form": "עִקַּר",
+     "translit": "ʻiqqar",
+     "gloss": "a stock",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H6132",
+     "form": "עֲקַר",
+     "translit": "ʻăqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H6133",
@@ -726,7 +825,8 @@
      "translit": "ʻêqer",
      "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -765,7 +865,8 @@
      "translit": "mâṭar",
      "gloss": "rain",
      "verses": 36,
-     "gloss_match": false
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H4305",
@@ -773,7 +874,17 @@
      "translit": "mâṭar",
      "gloss": "to rain",
      "verses": 14,
-     "gloss_match": false
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4307",
+     "form": "מַטָּרָא",
+     "translit": "maṭṭârâʼ",
+     "gloss": "a jail (as a guard-house)",
+     "verses": 15,
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -810,7 +921,8 @@
      "translit": "tsânam",
      "gloss": "to blast or shrink",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -852,7 +964,8 @@
      "translit": "ʼĕnôwsh",
      "gloss": "a man in general (singly or collectively)",
      "verses": 41,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H605",
@@ -860,7 +973,17 @@
      "translit": "ʼânash",
      "gloss": "to be frail, feeble, or (figuratively) melancholy",
      "verses": 9,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H598",
+     "form": "אֲנַס",
+     "translit": "ʼănaç",
+     "gloss": "figuratively, to distress",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H597",
@@ -868,7 +991,8 @@
      "translit": "ʼânaç",
      "gloss": "to insist",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -910,7 +1034,8 @@
      "translit": "chârâh",
      "gloss": "to glow or grow warm",
      "verses": 87,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2715",
@@ -918,7 +1043,8 @@
      "translit": "chôr",
      "gloss": "properly, white or pure (from the cleansing or shining power of fire",
      "verses": 13,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2356",
@@ -926,7 +1052,8 @@
      "translit": "chôwr",
      "gloss": "a cavity, socket, den",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2750",
@@ -934,7 +1061,8 @@
      "translit": "chŏrîy",
      "gloss": "a burning (i.e. intense) anger",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2353",
@@ -942,7 +1070,8 @@
      "translit": "chûwr",
      "gloss": "white linen",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -978,7 +1107,8 @@
      "translit": "ʻâraq",
      "gloss": "to gnaw, i.e. (figuratively) eat (by hyberbole)",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -989,65 +1119,6 @@
    "root": "غرق",
    "pos": "N",
    "translit": "mughraq"
-  },
-  {
-   "lemma": "مَدائِن",
-   "n": 3,
-   "narrative": "moses",
-   "k": 3,
-   "share": 1.0,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 2,
-   "p": 0.0003442965528233439,
-   "refs": [
-    "7:111",
-    "26:36",
-    "26:53"
-   ],
-   "q": 0.001074205244808833,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H4066",
-     "form": "מָדוֹן",
-     "translit": "mâdôwn",
-     "gloss": "a contest or quarrel",
-     "verses": 17,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H4079",
-     "form": "מִדְיָן",
-     "translit": "midyân",
-     "gloss": "a contest or quarrel",
-     "verses": 9,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H4090",
-     "form": "מְדָן",
-     "translit": "mᵉdân",
-     "gloss": "a contest or quarrel",
-     "verses": 3,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H4067",
-     "form": "מָדוֹן",
-     "translit": "mâdôwn",
-     "gloss": "extensiveness, i.e. height",
-     "verses": 1,
-     "gloss_match": false
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 3.46,
-   "form": "مَدائِن",
-   "gloss": "citie",
-   "root": "مدن",
-   "pos": "N",
-   "translit": "madāʾin"
   },
   {
    "lemma": "حاشِر",
@@ -1072,7 +1143,8 @@
      "translit": "chashrâh",
      "gloss": "properly, a combination or gathering, i.e. of watery clouds",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1083,6 +1155,69 @@
    "root": "حشر",
    "pos": "N",
    "translit": "ḥāshir"
+  },
+  {
+   "lemma": "مَدائِن",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:111",
+    "26:36",
+    "26:53"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H4066",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "a contest or quarrel",
+     "verses": 17,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4079",
+     "form": "מִדְיָן",
+     "translit": "midyân",
+     "gloss": "a contest or quarrel",
+     "verses": 9,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4090",
+     "form": "מְדָן",
+     "translit": "mᵉdân",
+     "gloss": "a contest or quarrel",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4067",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "extensiveness, i.e. height",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.46,
+   "form": "مَدائِن",
+   "gloss": "citie",
+   "root": "مدن",
+   "pos": "N",
+   "translit": "madāʾin"
   },
   {
    "lemma": "مُلْقي",
@@ -1163,7 +1298,8 @@
      "translit": "mâṭar",
      "gloss": "rain",
      "verses": 36,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H4305",
@@ -1171,7 +1307,17 @@
      "translit": "mâṭar",
      "gloss": "to rain",
      "verses": 14,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4307",
+     "form": "מַטָּרָא",
+     "translit": "maṭṭârâʼ",
+     "gloss": "a jail (as a guard-house)",
+     "verses": 15,
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1203,12 +1349,22 @@
    "synonym_skew": [],
    "cognates": [
     {
+     "lemma": "H1360",
+     "form": "גֶּבֶא",
+     "translit": "gebeʼ",
+     "gloss": "a reservoir",
+     "verses": 2,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
      "lemma": "H1361",
      "form": "גָּבַהּ",
      "translit": "gâbahh",
      "gloss": "to soar, i.e. be lofty",
      "verses": 33,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1364",
@@ -1216,7 +1372,8 @@
      "translit": "gâbôahh",
      "gloss": "elevated (or elated), powerful, arrogant",
      "verses": 32,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1363",
@@ -1224,7 +1381,8 @@
      "translit": "gôbahh",
      "gloss": "elation, grandeur, arrogance",
      "verses": 16,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1362",
@@ -1232,15 +1390,8 @@
      "translit": "gâbâhh",
      "gloss": "lofty (literally or figuratively)",
      "verses": 4,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H1356",
-     "form": "גֵּב",
-     "translit": "gêb",
-     "gloss": "a log (as cut out)",
-     "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1277,7 +1428,8 @@
      "translit": "tsâphâh",
      "gloss": "to sheet over (especially with metal)",
      "verses": 40,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6822",
@@ -1285,7 +1437,8 @@
      "translit": "tsâphâh",
      "gloss": "properly, to lean forward, i.e. to peer into the distance",
      "verses": 33,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6826",
@@ -1293,7 +1446,8 @@
      "translit": "tsippûwy",
      "gloss": "encasement (with metal)",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6687",
@@ -1301,7 +1455,8 @@
      "translit": "tsûwph",
      "gloss": "to overflow",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6688",
@@ -1309,7 +1464,8 @@
      "translit": "tsûwph",
      "gloss": "comb of honey (from dripping)",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1377,7 +1533,8 @@
      "translit": "chay",
      "gloss": "alive",
      "verses": 450,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H2421",
@@ -1385,7 +1542,8 @@
      "translit": "châyâh",
      "gloss": "to live, whether literally or figuratively",
      "verses": 239,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H2425",
@@ -1393,7 +1551,17 @@
      "translit": "châyay",
      "gloss": "to live",
      "verses": 20,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H2418",
+     "form": "חֲיָא",
+     "translit": "chăyâʼ",
+     "gloss": "to live",
+     "verses": 6,
+     "gloss_match": true,
+     "lang": "arc"
     },
     {
      "lemma": "H2422",
@@ -1401,7 +1569,8 @@
      "translit": "châyeh",
      "gloss": "vigorous",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1441,7 +1610,8 @@
      "translit": "bûwts",
      "gloss": "probably cotton (of some sort)",
      "verses": 8,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H1000",
@@ -1449,7 +1619,8 @@
      "translit": "bêytsâh",
      "gloss": "an egg (from its whiteness)",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1207",
@@ -1457,7 +1628,8 @@
      "translit": "bitstsâh",
      "gloss": "a swamp",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1206",
@@ -1465,7 +1637,8 @@
      "translit": "bôts",
      "gloss": "mud (as whitish clay)",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1502,7 +1675,8 @@
      "translit": "ʼâman",
      "gloss": "properly, to build up or support",
      "verses": 102,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H529",
@@ -1510,7 +1684,17 @@
      "translit": "ʼêmûwn",
      "gloss": "established, i.e. (figuratively) trusty",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H540",
+     "form": "אֲמַן",
+     "translit": "ʼăman",
+     "gloss": "properly, to build up or support",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H548",
@@ -1518,7 +1702,8 @@
      "translit": "ʼămânâh",
      "gloss": "something fixed, i.e. a covenant. an allowance",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H547",
@@ -1526,15 +1711,8 @@
      "translit": "ʼômᵉnâh",
      "gloss": "a column",
      "verses": 1,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H545",
-     "form": "אׇמְנָה",
-     "translit": "ʼomnâh",
-     "gloss": "tutelage",
-     "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1570,7 +1748,8 @@
      "translit": "sûwm",
      "gloss": "to put (used in a great variety of applications, literal, figurative, inferentia",
      "verses": 550,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H8047",
@@ -1578,7 +1757,17 @@
      "translit": "shammâh",
      "gloss": "ruin",
      "verses": 39,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H7761",
+     "form": "שׂוּם",
+     "translit": "sûwm",
+     "gloss": "to put (used in a great variety of applications, literal, figurative, inferentia",
+     "verses": 25,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H5561",
@@ -1586,7 +1775,8 @@
      "translit": "çam",
      "gloss": "an aroma",
      "verses": 15,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7762",
@@ -1594,7 +1784,8 @@
      "translit": "shûwm",
      "gloss": "garlic (from its rank odor)",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1630,7 +1821,8 @@
      "translit": "yâʻad",
      "gloss": "to fix upon (by agreement or appointment)",
      "verses": 29,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1666,7 +1858,8 @@
      "translit": "gêz",
      "gloss": "a fleece (as shorn)",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1492",
@@ -1674,7 +1867,8 @@
      "translit": "gâzzah",
      "gloss": "a fleece",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1468",
@@ -1682,7 +1876,8 @@
      "translit": "gûwz",
      "gloss": "properly, to shear off",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1746,7 +1941,8 @@
      "translit": "nâtsar",
      "gloss": "to guard, in a good sense (to protect, maintain, obey, etc.) or a bad one (to co",
      "verses": 62,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5342",
@@ -1754,7 +1950,8 @@
      "translit": "nêtser",
      "gloss": "a shoot",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5336",
@@ -1762,7 +1959,8 @@
      "translit": "nâtsîyr",
      "gloss": "properly, conservative",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1799,7 +1997,8 @@
      "translit": "châyâh",
      "gloss": "to live, whether literally or figuratively",
      "verses": 239,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2331",
@@ -1807,7 +2006,8 @@
      "translit": "châvâh",
      "gloss": "properly, to live",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2844",
@@ -1815,7 +2015,8 @@
      "translit": "chath",
      "gloss": "concretely, crushed",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2333",
@@ -1823,7 +2024,8 @@
      "translit": "chavvâh",
      "gloss": "by implication, an encampment or village",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2846",
@@ -1831,7 +2033,8 @@
      "translit": "châthâh",
      "gloss": "to lay hold of",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1873,7 +2076,8 @@
      "translit": "râdâh",
      "gloss": "to tread down, i.e. subjugate",
      "verses": 25,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7300",
@@ -1881,7 +2085,8 @@
      "translit": "rûwd",
      "gloss": "to tramp about, i.e. ramble (free or disconsolate)",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1918,7 +2123,8 @@
      "translit": "tsâphâh",
      "gloss": "to sheet over (especially with metal)",
      "verses": 40,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6822",
@@ -1926,7 +2132,8 @@
      "translit": "tsâphâh",
      "gloss": "properly, to lean forward, i.e. to peer into the distance",
      "verses": 33,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6826",
@@ -1934,7 +2141,8 @@
      "translit": "tsippûwy",
      "gloss": "encasement (with metal)",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6687",
@@ -1942,7 +2150,8 @@
      "translit": "tsûwph",
      "gloss": "to overflow",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6688",
@@ -1950,7 +2159,8 @@
      "translit": "tsûwph",
      "gloss": "comb of honey (from dripping)",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -1988,7 +2198,8 @@
      "translit": "bâqâr",
      "gloss": "beef cattle or an animal of the ox family of either gender (as used for plowing)",
      "verses": 172,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H1242",
@@ -1996,7 +2207,8 @@
      "translit": "bôqer",
      "gloss": "properly, dawn (as the break of day)",
      "verses": 189,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1239",
@@ -2004,7 +2216,17 @@
      "translit": "bâqar",
      "gloss": "properly, to plough, or (generally) break forth, i.e. (figuratively) to inspect,",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H1240",
+     "form": "בְּקַר",
+     "translit": "bᵉqar",
+     "gloss": "properly, to plough, or (generally) break forth, i.e. (figuratively) to inspect,",
+     "verses": 5,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H1243",
@@ -2012,15 +2234,8 @@
      "translit": "baqqârâh",
      "gloss": "a looking after",
      "verses": 1,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H951",
-     "form": "בּוֹקֵר",
-     "translit": "bôwqêr",
-     "gloss": "a cattle-tender",
-     "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2057,7 +2272,8 @@
      "translit": "châyâh",
      "gloss": "to live, whether literally or figuratively",
      "verses": 239,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2331",
@@ -2065,7 +2281,8 @@
      "translit": "châvâh",
      "gloss": "properly, to live",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2844",
@@ -2073,7 +2290,8 @@
      "translit": "chath",
      "gloss": "concretely, crushed",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2333",
@@ -2081,7 +2299,8 @@
      "translit": "chavvâh",
      "gloss": "by implication, an encampment or village",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2846",
@@ -2089,7 +2308,8 @@
      "translit": "châthâh",
      "gloss": "to lay hold of",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2124,7 +2344,8 @@
      "translit": "rahaṭ",
      "gloss": "a channel or watering-box",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2159,7 +2380,8 @@
      "translit": "pᵉthîy",
      "gloss": "silly (i.e. seducible)",
      "verses": 18,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2222,7 +2444,8 @@
      "translit": "tsânam",
      "gloss": "to blast or shrink",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2258,7 +2481,8 @@
      "translit": "gêz",
      "gloss": "a fleece (as shorn)",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1492",
@@ -2266,7 +2490,8 @@
      "translit": "gâzzah",
      "gloss": "a fleece",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1468",
@@ -2274,7 +2499,8 @@
      "translit": "gûwz",
      "gloss": "properly, to shear off",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2308,7 +2534,8 @@
      "translit": "ʻereb",
      "gloss": "dusk",
      "verses": 125,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6160",
@@ -2316,7 +2543,8 @@
      "translit": "ʻărâbâh",
      "gloss": "a desert",
      "verses": 57,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6148",
@@ -2324,7 +2552,8 @@
      "translit": "ʻârab",
      "gloss": "to braid, i.e. intermix",
      "verses": 23,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6154",
@@ -2332,7 +2561,8 @@
      "translit": "ʻêreb",
      "gloss": "the web (or transverse threads of cloth)",
      "verses": 15,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6158",
@@ -2340,7 +2570,8 @@
      "translit": "ʻôrêb",
      "gloss": "a raven (from its dusky hue)",
      "verses": 10,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2401,7 +2632,8 @@
      "translit": "ʻâraq",
      "gloss": "to gnaw, i.e. (figuratively) eat (by hyberbole)",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2461,7 +2693,8 @@
      "translit": "shemen",
      "gloss": "grease, especially liquid (as from the olive, often perfumed)",
      "verses": 176,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H8082",
@@ -2469,7 +2702,8 @@
      "translit": "shâmên",
      "gloss": "greasy, i.e. gross",
      "verses": 10,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H8080",
@@ -2477,7 +2711,8 @@
      "translit": "shâman",
      "gloss": "to shine, i.e. (by analogy) be (causatively, make) oily or gross",
      "verses": 4,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H8083",
@@ -2485,7 +2720,8 @@
      "translit": "shᵉmôneh",
      "gloss": "a cardinal number, eight (as if a surplus above the 'perfect' seven)",
      "verses": 105,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H8066",
@@ -2493,7 +2729,8 @@
      "translit": "shᵉmîynîy",
      "gloss": "eight",
      "verses": 27,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2527,7 +2764,17 @@
      "translit": "qâṭar",
      "gloss": "to smoke, i.e. turn into fragrance by fire (especially as an act of worship)",
      "verses": 112,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H7001",
+     "form": "קְטַר",
+     "translit": "qᵉṭar",
+     "gloss": "a knot (as tied up), i.e. (figuratively) a riddle",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H7008",
@@ -2535,7 +2782,8 @@
      "translit": "qîyṭôwr",
      "gloss": "a fume, i.e. cloud",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7002",
@@ -2543,7 +2791,8 @@
      "translit": "qiṭṭêr",
      "gloss": "perfume",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7000",
@@ -2551,7 +2800,8 @@
      "translit": "qâṭar",
      "gloss": "to inclose",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2585,7 +2835,8 @@
      "translit": "shachar",
      "gloss": "dawn (literal, figurative or adverbial)",
      "verses": 24,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5503",
@@ -2593,7 +2844,8 @@
      "translit": "çâchar",
      "gloss": "to travel round (specifically as a pedlar)",
      "verses": 20,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H7838",
@@ -2601,7 +2853,8 @@
      "translit": "shâchôr",
      "gloss": "properly, dusky, but also (absol.) jetty",
      "verses": 6,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5505",
@@ -2609,15 +2862,17 @@
      "translit": "çâchar",
      "gloss": "an emporium",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
-     "lemma": "H5507",
-     "form": "סֹחֵרָה",
-     "translit": "çôchêrâh",
-     "gloss": "something surrounding the person, i.e. a shield",
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2651,7 +2906,8 @@
      "translit": "tsᵉbîy",
      "gloss": "splendor (as conspicuous)",
      "verses": 32,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6646",
@@ -2659,7 +2915,17 @@
      "translit": "tsᵉbîyâh",
      "gloss": "a female gazelle",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H6640",
+     "form": "צְבוּ",
+     "translit": "tsᵉbûw",
+     "gloss": "properly, will",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     }
    ],
    "cross_corpus": [],
@@ -2686,7 +2952,26 @@
     "2:249",
     "23:30"
    ],
-   "cognates": [],
+   "cognates": [
+    {
+     "lemma": "H1093",
+     "form": "בְּלוֹ",
+     "translit": "bᵉlôw",
+     "gloss": "excise (on articles consumed)",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H1094",
+     "form": "בְּלוֹא",
+     "translit": "bᵉlôwʼ",
+     "gloss": "(only in plural construction) rags",
+     "verses": 2,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
    "cross_corpus": [],
    "cross_bridge": [],
    "form": "مُبْتَلِي",
@@ -2719,7 +3004,8 @@
      "translit": "tsᵉrîyach",
      "gloss": "a citadel",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H6873",
@@ -2727,7 +3013,8 @@
      "translit": "tsârach",
      "gloss": "to be clear (in tone, i.e. shrill), i.e. to whoop",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2762,7 +3049,8 @@
      "translit": "kâphal",
      "gloss": "to fold together",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H3718",
@@ -2770,7 +3058,8 @@
      "translit": "kephel",
      "gloss": "a duplicate",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2830,7 +3119,8 @@
      "translit": "gâbahh",
      "gloss": "to soar, i.e. be lofty",
      "verses": 33,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1364",
@@ -2838,7 +3128,8 @@
      "translit": "gâbôahh",
      "gloss": "elevated (or elated), powerful, arrogant",
      "verses": 32,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1363",
@@ -2846,7 +3137,8 @@
      "translit": "gôbahh",
      "gloss": "elation, grandeur, arrogance",
      "verses": 16,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1362",
@@ -2854,7 +3146,8 @@
      "translit": "gâbâhh",
      "gloss": "lofty (literally or figuratively)",
      "verses": 4,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1356",
@@ -2862,7 +3155,8 @@
      "translit": "gêb",
      "gloss": "a log (as cut out)",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2897,7 +3191,8 @@
      "translit": "pᵉthîy",
      "gloss": "silly (i.e. seducible)",
      "verses": 18,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2932,7 +3227,8 @@
      "translit": "bârach",
      "gloss": "to bolt, i.e. figuratively, to flee suddenly",
      "verses": 64,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1280",
@@ -2940,7 +3236,8 @@
      "translit": "bᵉrîyach",
      "gloss": "a bolt",
      "verses": 37,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H1281",
@@ -2948,7 +3245,8 @@
      "translit": "bârîyach",
      "gloss": "a fugitive, i.e. the serpent (as fleeing), and the constellation by that name",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -2983,15 +3281,8 @@
      "translit": "çâphan",
      "gloss": "to hide by covering",
      "verses": 6,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H8226",
-     "form": "שָׂפַן",
-     "translit": "sâphan",
-     "gloss": "to conceal (as a valuable)",
-     "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5604",
@@ -2999,7 +3290,17 @@
      "translit": "çippun",
      "gloss": "a wainscot",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H8226",
+     "form": "שָׂפַן",
+     "translit": "sâphan",
+     "gloss": "to conceal (as a valuable)",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3058,7 +3359,8 @@
      "translit": "shiqmâh",
      "gloss": "a sycamore (usually the tree)",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3119,7 +3421,8 @@
      "translit": "châraq",
      "gloss": "to grate the teeth",
      "verses": 5,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3178,7 +3481,17 @@
      "translit": "bâʼash",
      "gloss": "to smell bad",
      "verses": 17,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H888",
+     "form": "בְּאֵשׁ",
+     "translit": "bᵉʼêsh",
+     "gloss": "to smell bad",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
     },
     {
      "lemma": "H890",
@@ -3186,7 +3499,8 @@
      "translit": "boʼshâh",
      "gloss": "stink-weed or any other noxious or useless plant",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3220,7 +3534,8 @@
      "translit": "mâshal",
      "gloss": "to rule",
      "verses": 74,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H4912",
@@ -3228,7 +3543,8 @@
      "translit": "mâshâl",
      "gloss": "properly, a pithy maxim, usually of metaphorical nature",
      "verses": 39,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H4911",
@@ -3236,7 +3552,8 @@
      "translit": "mâshal",
      "gloss": "to liken, i.e. (transitively) to use figurative language (an allegory, adage, so",
      "verses": 15,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H4914",
@@ -3244,7 +3561,8 @@
      "translit": "mᵉshôl",
      "gloss": "a satire",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3303,7 +3621,8 @@
      "translit": "têbâh",
      "gloss": "a box",
      "verses": 25,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3349,7 +3668,8 @@
      "translit": "châbar",
      "gloss": "to join (literally or figuratively)",
      "verses": 25,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2267",
@@ -3357,7 +3677,8 @@
      "translit": "cheber",
      "gloss": "a society",
      "verses": 7,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2274",
@@ -3365,7 +3686,8 @@
      "translit": "chebrâh",
      "gloss": "association",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H2271",
@@ -3373,7 +3695,8 @@
      "translit": "chabbâr",
      "gloss": "a partner",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3432,7 +3755,8 @@
      "translit": "pᵉrîy",
      "gloss": "fruit (literally or figuratively)",
      "verses": 107,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3491,7 +3815,8 @@
      "translit": "shâraq",
      "gloss": "properly, to be shrill, i.e. to whistle or hiss (as a call or in scorn)",
      "verses": 12,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H8322",
@@ -3499,7 +3824,8 @@
      "translit": "shᵉrêqâh",
      "gloss": "a derision",
      "verses": 8,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H8321",
@@ -3507,7 +3833,8 @@
      "translit": "sôrêq",
      "gloss": "a vine stock (properly, one yielding purple grapes, the richest variety)",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H8320",
@@ -3515,7 +3842,8 @@
      "translit": "sâruq",
      "gloss": "bright red (as piercing to the sight), i.e. bay",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3549,7 +3877,8 @@
      "translit": "kabbîyr",
      "gloss": "vast, whether in extent (figuratively, of power, mighty",
      "verses": 9,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H3530",
@@ -3557,7 +3886,8 @@
      "translit": "kibrâh",
      "gloss": "properly, length, i.e. a measure (of uncertain dimension)",
      "verses": 3,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H3523",
@@ -3565,7 +3895,8 @@
      "translit": "kᵉbîyr",
      "gloss": "a matrass (of intertwined materials)",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H3527",
@@ -3573,7 +3904,8 @@
      "translit": "kâbar",
      "gloss": "properly, to plait together, i.e. (figuratively) to augment (especially in numbe",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H3531",
@@ -3581,7 +3913,8 @@
      "translit": "kᵉbârâh",
      "gloss": "a sieve (as netted)",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3615,7 +3948,8 @@
      "translit": "ʻălîyâh",
      "gloss": "something lofty, i.e. a stair-way",
      "verses": 20,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5942",
@@ -3623,15 +3957,8 @@
      "translit": "ʻillîy",
      "gloss": "high",
      "verses": 2,
-     "gloss_match": false
-    },
-    {
-     "lemma": "H5940",
-     "form": "עֱלִי",
-     "translit": "ʻĕlîy",
-     "gloss": "a pestle (as lifted)",
-     "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     },
     {
      "lemma": "H5932",
@@ -3639,7 +3966,17 @@
      "translit": "ʻalvâh",
      "gloss": "moral perverseness",
      "verses": 1,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H5940",
+     "form": "עֱלִי",
+     "translit": "ʻĕlîy",
+     "gloss": "a pestle (as lifted)",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],
@@ -3673,7 +4010,8 @@
      "translit": "lâqaṭ",
      "gloss": "properly, to pick up, i.e. (generally) to gather",
      "verses": 34,
-     "gloss_match": true
+     "gloss_match": true,
+     "lang": "he"
     },
     {
      "lemma": "H3951",
@@ -3681,7 +4019,8 @@
      "translit": "leqeṭ",
      "gloss": "the gleaning",
      "verses": 2,
-     "gloss_match": false
+     "gloss_match": false,
+     "lang": "he"
     }
    ],
    "cross_corpus": [],

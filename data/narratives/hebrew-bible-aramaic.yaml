@@ -1,0 +1,7 @@
+# Narrative labels for the Biblical Aramaic corpus (verses that contain
+# Aramaic words). Small by nature; mainly a frame for concentration and
+# bridge detection inside the Aramaic sections.
+corpus: hebrew-bible-aramaic
+narratives:
+  daniel: {name: Daniel (Aramaic court tales and vision), ranges: ["Dan 2:4-7:28"]}
+  ezra-letters: {name: Ezra's Aramaic letters and decrees, ranges: ["Ezra 4:8-6:18", "Ezra 7:12-26"]}

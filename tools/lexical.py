@@ -239,6 +239,8 @@ def hebrew_index(heb, heb_occ):
         keys = {sk, sk[:1] + re.sub(r"[וי]", "", sk[1:])}
         if sk.endswith("ה") and len(sk) > 2:
             keys.add(sk[:-1])
+        if sk.endswith("א") and len(sk) > 2:      # Aramaic emphatic/absolute -ā
+            keys |= {sk[:-1], sk[:1] + re.sub(r"[וי]", "", sk[1:-1])}
         for key in keys:
             index[key].append(lid)
     return index
@@ -256,8 +258,10 @@ def cognates(lemma, index, heb, heb_occ):
                 continue
             h = heb.lemmas[lid]
             words = {w[:-1] if w.endswith("s") and len(w) > 3 else w for w in re.findall(r"[a-z]+", h.definition)}
+            arabic_words = set(lemma.gloss_words) | ({gloss} if gloss else set())
             found[lid] = dict(lemma=lid, form=h.form, translit=h.translit, gloss=h.gloss,
-                              verses=len(heb_occ[lid]), gloss_match=bool(gloss) and gloss in words)
+                              verses=len(heb_occ[lid]), gloss_match=bool(arabic_words & words),
+                              lang="arc" if lid in ARAMAIC_LEMMAS else "he")
     return sorted(found.values(), key=lambda f: (not f["gloss_match"], -f["verses"]))[:5]
 
 
@@ -289,16 +293,30 @@ def describe(corpus, lid):
     return f"{lem.form} *{lem.translit}* “{lem.gloss}” ({lid})"
 
 
+ARAMAIC_LEMMAS = set()
+
+
+def cognate_space(heb, h_occ, ara, a_occ):
+    """Hebrew and Biblical Aramaic lemmas together, for cognate lookup."""
+    ARAMAIC_LEMMAS.clear()
+    ARAMAIC_LEMMAS.update(l for l in ara.lemmas if l not in heb.lemmas)
+    lemmas = {**ara.lemmas, **heb.lemmas}
+    occ = defaultdict(set, {**{l: s for l, s in a_occ.items()}, **{l: s for l, s in h_occ.items()}})
+    return corpora.Corpus("hebrew-and-aramaic", [], lemmas, {}), occ
+
+
 def run():
-    quran, heb = corpora.load_quran(), corpora.load_hebrew_bible()
+    quran, heb, ara = corpora.load_quran(), corpora.load_hebrew_bible(), corpora.load_hebrew_bible("A")
     q_conc, q_bridges, q_occ = analyze(quran)
     h_conc, h_bridges, h_occ = analyze(heb)
+    a_conc, a_bridges, a_occ = analyze(ara)
     h_best = {c["lemma"]: c for c in h_conc}
     h_bridge = {b["lemma"]: b for b in h_bridges}
-    index = hebrew_index(heb, h_occ)
+    cog, cog_occ = cognate_space(heb, h_occ, ara, a_occ)
+    index = hebrew_index(cog, cog_occ)
 
     for c in q_conc + q_bridges:
-        c["cognates"] = cognates(quran.lemmas[c["lemma"]], index, heb, h_occ)
+        c["cognates"] = cognates(quran.lemmas[c["lemma"]], index, cog, cog_occ)
         targets = [c["narrative"]] if "narrative" in c else c["narratives"]
         c["cross_corpus"] = [dict(lemma=g["lemma"], narrative=h_best[g["lemma"]]["narrative"],
                                   share=round(h_best[g["lemma"]]["share"], 3))
@@ -312,14 +330,16 @@ def run():
 
     def score(c):
         return -math.log10(max(c["p"], 1e-300)) * c["share"] * (2 if c["synonym_skew"] else 1) * (2 if c["cross_corpus"] else 1)
-    for c in q_conc + h_conc:
+    for c in q_conc + h_conc + a_conc:
         c.setdefault("cross_corpus", [])
         c["score"] = round(score(c), 2)
     q_conc.sort(key=lambda c: -c["score"])
     h_conc.sort(key=lambda c: -c["score"])
+    a_conc.sort(key=lambda c: -c["score"])
 
     OUT.mkdir(parents=True, exist_ok=True)
-    for name, corpus, conc, bridges in (("quran", quran, q_conc, q_bridges), ("hebrew-bible", heb, h_conc, h_bridges)):
+    for name, corpus, conc, bridges in (("quran", quran, q_conc, q_bridges), ("hebrew-bible", heb, h_conc, h_bridges),
+                                        ("hebrew-bible-aramaic", ara, a_conc, a_bridges)):
         def lem_info(lid):
             l = corpus.lemmas[lid]
             return dict(form=l.form, gloss=l.gloss, root=l.root, pos=l.pos,
@@ -331,8 +351,8 @@ def run():
                        bridges=[{**b, **lem_info(b["lemma"])} for b in bridges])
         (OUT / f"{name}.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    bench = check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges)
-    write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench)
+    bench = check_benchmarks(quran, cog, q_conc, h_conc, q_bridges, h_bridges)
+    write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara, a_conc, a_bridges)
     return quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench
 
 
@@ -355,7 +375,7 @@ def check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges):
                 hit = c
         if b["kind"] == "cognate" and not hit:
             # cognate benchmarks also count when the lemma is not itself a candidate
-            index = hebrew_index(heb, {l: {0} for l in heb.lemmas})
+            index = hebrew_index(heb, {l: {0} for l in heb.lemmas})   # heb is the Hebrew+Aramaic cognate space here
             lem = quran.lemmas.get(b["lemma"])
             if lem and any(g["lemma"] == b["hebrew"] for g in matched(cognates(lem, index, heb, defaultdict(set)))):
                 hit = {"lemma": b["lemma"]}
@@ -363,7 +383,7 @@ def check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges):
     return results
 
 
-def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench):
+def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara=None, a_conc=(), a_bridges=()):
     lines = ["# Lexical track report", "",
              f"Generated {date.today().isoformat()} by `tools/lexical.py`. Raw candidates are in "
              "`quran.json` and `hebrew-bible.json`.", "",
@@ -373,7 +393,10 @@ def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench):
     for b in bench:
         verdict = "yes" if b["recovered"] else ("no (expected: known limitation)" if not b["expect"] else "**no**")
         lines.append(f"| {b['description']} | {verdict} |")
-    for title, corpus, conc, bridges in (("Quran", quran, q_conc, q_bridges), ("Hebrew Bible", heb, h_conc, h_bridges)):
+    sections = [("Quran", quran, q_conc, q_bridges), ("Hebrew Bible", heb, h_conc, h_bridges)]
+    if ara is not None:
+        sections.append(("Biblical Aramaic", ara, list(a_conc), list(a_bridges)))
+    for title, corpus, conc, bridges in sections:
         lines += ["", f"## {title}: concentration ({len(conc)} candidates)", "",
                   "| Score | Lemma | Narrative | In narrative | Units | q | Flags |", "|---|---|---|---|---|---|---|"]
         for c in conc[:40]:
