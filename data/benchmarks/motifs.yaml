@@ -9,6 +9,8 @@ expectations:
   - {a: quran-moses-infancy, b: hb-moses-infancy, lead: sargon-moses-basket}
   - {a: quran-mary-infancy, b: ec-protevangelium, lead: mary-in-temple}
   - {a: quran-abraham-idols, b: jud-genesis-rabbah-38, lead: abraham-idols}
+  - {a: quran-joseph, b: hb-joseph}
+  - {a: quran-joseph, b: eg-two-brothers}
 
 # Units already discussed together by an existing benchmark lead. Pairs made
 # only of units from one list do not get a separate pipeline lead.

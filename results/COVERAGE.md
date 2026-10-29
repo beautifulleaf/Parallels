@@ -8,8 +8,8 @@ A parallel can only surface from text that the pipeline has scanned or a reader 
 
 | Corpus | Verses | Scanned by the lexical track | Inside a narrative label | Read in full for motif tagging |
 |---|---|---|---|---|
-| Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 96 / 6,236 (1.5%) |
-| Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 48 / 23,213 (0.2%) |
+| Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 207 / 6,236 (3.3%) |
+| Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 468 / 23,213 (2.0%) |
 
 Concentration and bridge detection only see verses inside narrative labels. Synonym and cognate checks see every scanned verse.
 
@@ -25,7 +25,7 @@ Concentration and bridge detection only see verses inside narrative labels. Syno
 | Abraham | 175 | 14 / 175 (8.0%) |
 | Lot | 65 | 0 / 65 (0.0%) |
 | Shuʿayb and Midian | 37 | 0 / 37 (0.0%) |
-| Joseph | 98 | 0 / 98 (0.0%) |
+| Joseph | 98 | 98 / 98 (100.0%) |
 | Moses | 438 | 11 / 438 (2.5%) |
 | Saul (Talut) and Goliath | 6 | 0 / 6 (0.0%) |
 | David | 15 | 0 / 15 (0.0%) |
@@ -47,8 +47,8 @@ Concentration and bridge detection only see verses inside narrative labels. Syno
 | Tower of Babel | 9 | 0 / 9 (0.0%) |
 | Abraham | 377 | 0 / 377 (0.0%) |
 | Lot and Sodom | 74 | 0 / 74 (0.0%) |
-| Jacob | 364 | 0 / 364 (0.0%) |
-| Joseph | 419 | 0 / 419 (0.0%) |
+| Jacob | 364 | 1 / 364 (0.3%) |
+| Joseph | 419 | 419 / 419 (100.0%) |
 | Moses | 1,370 | 11 / 1,370 (0.8%) |
 | Joshua | 658 | 1 / 658 (0.2%) |
 | Samson | 96 | 0 / 96 (0.0%) |
@@ -85,10 +85,15 @@ These were tagged from what is known about the text, not from the text itself, w
 | Gospel of Pseudo-Matthew | Early Christianity & Gnostics | 2 |
 | Arabic (Syriac) Infancy Gospel | Eastern Christianity | 1 |
 | Infancy Gospel of Thomas | Early Christianity & Gnostics | 1 |
+| Tale of Two Brothers (Papyrus d'Orbiney) | Egyptian | 3 |
+| Joseph sees his father's image (Babylonian Talmud, Sotah 36b) | Judaism | 2 |
+| The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev) | Judaism | 2 |
+| Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5) | Judaism | 2 |
+| Joseph and Aseneth | Judaism | 2 |
 
 ## Leads
 
-- 61 leads in total; 26 written by hand (the benchmark set) and 35 by the pipeline.
+- 71 leads in total; 26 written by hand (the benchmark set) and 45 by the pipeline.
 - The hand-written benchmark leads were drafted from secondary knowledge. Only their Quran and Hebrew passages show original text.
 
 ## Traditions with no original text in the repo yet

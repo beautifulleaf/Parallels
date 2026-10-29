@@ -1,8 +1,8 @@
 ---
 id: motif-quran-mary-infancy-vs-hb-samuel-childhood
 title: Mary and the infant Jesus in the Quran ↔ Hannah's vow and Samuel at Shiloh
-summary: 'These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn)
-  child to god''s service.'
+summary: 'These two units share 2 motifs: mother vows her (unborn) child to god''s service, child raised
+  in the sanctuary or temple.'
 status: new
 relations:
 - transmission
@@ -14,30 +14,9 @@ traditions:
 layers:
 - motif
 motifs:
-- child-raised-in-sanctuary
 - mother-dedicates-child
+- child-raised-in-sanctuary
 passages:
-- tradition: islam
-  ref: Quran 3:37
-  note: Child raised in the sanctuary or temple (al-miḥrāb)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
-    كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
-    لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
-- tradition: judaism
-  ref: 1Sam 2:11
-  note: Child raised in the sanctuary or temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
-    עֵלִ֥י הַכֹּהֵֽן
-- tradition: judaism
-  ref: 1Sam 2:18
-  note: Child raised in the sanctuary or temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
 - tradition: islam
   ref: Quran 3:35
   note: Mother vows her (unborn) child to God's service
@@ -60,9 +39,30 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה
     וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה
+- tradition: islam
+  ref: Quran 3:37
+  note: Child raised in the sanctuary or temple (al-miḥrāb)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
+    كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
+    لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+- tradition: judaism
+  ref: 1Sam 2:11
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
+    עֵלִ֥י הַכֹּהֵֽן
+- tradition: judaism
+  ref: 1Sam 2:18
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
 evidence:
-- text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows
-    her (unborn) child to God''s service (weight 2.1). Pair score 4.2.'
+- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 2.4); Child
+    raised in the sanctuary or temple (weight 2.4). Pair score 4.8.'
   basis: reading
 - text: 'Only in Mary and the infant Jesus in the Quran: Mother gives birth alone in a remote place; Child
     makes birds from clay that come alive; The newborn speaks; Lots, rods or reeds decide who will be

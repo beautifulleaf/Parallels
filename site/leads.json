@@ -2384,9 +2384,114 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
+   "id": "motif-hb-joseph-vs-eg-two-brothers",
+   "title": "Joseph in Genesis (37, 39–50) ↔ Tale of Two Brothers (Papyrus d'Orbiney)",
+   "summary": "These two units share 3 motifs: master entrusts his whole household to the hero, the woman falsely accuses the hero of assault, the master's wife tries to seduce the hero.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "judaism",
+    "ane-egyptian"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "master-entrusts-household",
+    "false-accusation-by-wife",
+    "masters-wife-seduces"
+   ],
+   "passages": [
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:4",
+     "note": "Master entrusts his whole household to the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֨הוּ֙ עַל בֵּית֔וֹ וְכָל יֶשׁ ל֖וֹ נָתַ֥ן בְּיָדֽוֹ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:6",
+     "note": "Master entrusts his whole household to the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיַּעֲזֹ֣ב כָּל אֲשֶׁר לוֹ֮ בְּיַד יוֹסֵף֒ וְלֹא יָדַ֤ע אִתּוֹ֙ מְא֔וּמָה כִּ֥י אִם הַלֶּ֖חֶם אֲשֶׁר ה֣וּא אוֹכֵ֑ל וַיְהִ֣י יוֹסֵ֔ף יְפֵה תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה"
+    },
+    {
+     "tradition": "ane-egyptian",
+     "ref": "Tale of Two Brothers (Papyrus d'Orbiney): Two Brothers",
+     "note": "Master entrusts his whole household to the hero"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:14",
+     "note": "The woman falsely accuses the hero of assault",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַתִּקְרָ֞א לְאַנְשֵׁ֣י בֵיתָ֗הּ וַתֹּ֤אמֶר לָהֶם֙ לֵאמֹ֔ר רְא֗וּ הֵ֥בִיא לָ֛נוּ אִ֥ישׁ עִבְרִ֖י לְצַ֣חֶק בָּ֑נוּ בָּ֤א אֵלַי֙ לִשְׁכַּ֣ב עִמִּ֔י וָאֶקְרָ֖א בְּק֥וֹל גָּדֽוֹל"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:17",
+     "note": "The woman falsely accuses the hero of assault",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַתְּדַבֵּ֣ר אֵלָ֔יו כַּדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר בָּֽא אֵלַ֞י הָעֶ֧בֶד הָֽעִבְרִ֛י אֲשֶׁר הֵבֵ֥אתָ לָּ֖נוּ לְצַ֥חֶק בִּֽי"
+    },
+    {
+     "tradition": "ane-egyptian",
+     "ref": "Tale of Two Brothers (Papyrus d'Orbiney): Two Brothers",
+     "note": "The woman falsely accuses the hero of assault"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:7",
+     "note": "The master's wife tries to seduce the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת אֲדֹנָ֛יו אֶת עֵינֶ֖יהָ אֶל יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:10",
+     "note": "The master's wife tries to seduce the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיְהִ֕י כְּדַבְּרָ֥הּ אֶל יוֹסֵ֖ף י֣וֹם י֑וֹם וְלֹא שָׁמַ֥ע אֵלֶ֛יהָ לִשְׁכַּ֥ב אֶצְלָ֖הּ לִהְי֥וֹת עִמָּֽהּ"
+    },
+    {
+     "tradition": "ane-egyptian",
+     "ref": "Tale of Two Brothers (Papyrus d'Orbiney): Two Brothers",
+     "note": "The master's wife tries to seduce the hero (the elder brother's wife and the younger brother Bata)"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Master entrusts his whole household to the hero (weight 2.8); The woman falsely accuses the hero of assault (weight 2.4); The master's wife tries to seduce the hero (weight 2.4). Pair score 7.6.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in Genesis (37, 39–50): tagged by Claude (model), reading the Hebrew.",
+     "basis": "reading"
+    },
+    {
+     "text": "Tale of Two Brothers (Papyrus d'Orbiney): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
    "id": "motif-hb-samuel-childhood-vs-ec-protevangelium",
    "title": "Hannah's vow and Samuel at Shiloh ↔ Protevangelium of James",
-   "summary": "These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn) child to god's service.",
+   "summary": "These two units share 2 motifs: mother vows her (unborn) child to god's service, child raised in the sanctuary or temple.",
    "status": "new",
    "relations": [
     "transmission",
@@ -2401,31 +2506,10 @@
     "motif"
    ],
    "motifs": [
-    "child-raised-in-sanctuary",
-    "mother-dedicates-child"
+    "mother-dedicates-child",
+    "child-raised-in-sanctuary"
    ],
    "passages": [
-    {
-     "tradition": "judaism",
-     "ref": "1Sam 2:11",
-     "note": "Child raised in the sanctuary or temple",
-     "lang": "he",
-     "source": "Westminster Leningrad Codex (OSHB)",
-     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
-    },
-    {
-     "tradition": "judaism",
-     "ref": "1Sam 2:18",
-     "note": "Child raised in the sanctuary or temple",
-     "lang": "he",
-     "source": "Westminster Leningrad Codex (OSHB)",
-     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
-    },
-    {
-     "tradition": "christianity-early",
-     "ref": "Protevangelium of James: 7–8",
-     "note": "Child raised in the sanctuary or temple"
-    },
     {
      "tradition": "judaism",
      "ref": "1Sam 1:11",
@@ -2446,11 +2530,32 @@
      "tradition": "christianity-early",
      "ref": "Protevangelium of James: 4",
      "note": "Mother vows her (unborn) child to God's service"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:11",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:18",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
+    },
+    {
+     "tradition": "christianity-early",
+     "ref": "Protevangelium of James: 7–8",
+     "note": "Child raised in the sanctuary or temple"
     }
    ],
    "evidence": [
     {
-     "text": "Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows her (unborn) child to God's service (weight 2.1). Pair score 4.2.",
+     "text": "Shared motifs, rarest first: Mother vows her (unborn) child to God's service (weight 2.4); Child raised in the sanctuary or temple (weight 2.4). Pair score 4.8.",
      "basis": "reading"
     },
     {
@@ -2505,14 +2610,6 @@
      "text": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
     },
     {
-     "tradition": "islam",
-     "ref": "Quran 37:97",
-     "note": "Hero thrown into a fire or furnace by a king or people",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ"
-    },
-    {
      "tradition": "judaism",
      "ref": "Dan 3:20",
      "note": "Hero thrown into a fire or furnace by a king or people",
@@ -2555,7 +2652,7 @@
    ],
    "evidence": [
     {
-     "text": "Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 2.1); The fire does not harm the hero (weight 2.1). Pair score 4.2.",
+     "text": "Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 2.4); The fire does not harm the hero (weight 2.4). Pair score 4.8.",
      "basis": "reading"
     },
     {
@@ -2578,7 +2675,7 @@
   {
    "id": "motif-quran-abraham-idols-vs-jud-jubilees-12",
    "title": "Abraham and the idols in the Quran ↔ Abraham burns the house of idols (Jubilees 12)",
-   "summary": "These two units share 3 motifs: hero reasons from the stars, moon and sun to the one god, hero smashes or burns idols, hero's father makes, sells or worships idols.",
+   "summary": "These two units share 3 motifs: hero smashes or burns idols, hero reasons from the stars, moon and sun to the one god, hero's father makes, sells or worships idols.",
    "status": "new",
    "relations": [
     "transmission",
@@ -2593,40 +2690,11 @@
     "motif"
    ],
    "motifs": [
-    "heavenly-bodies-argument",
     "hero-smashes-idols",
+    "heavenly-bodies-argument",
     "father-serves-idols"
    ],
    "passages": [
-    {
-     "tradition": "islam",
-     "ref": "Quran 6:76",
-     "note": "Hero reasons from the stars, moon and sun to the one God",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ"
-    },
-    {
-     "tradition": "islam",
-     "ref": "Quran 6:77",
-     "note": "Hero reasons from the stars, moon and sun to the one God",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ"
-    },
-    {
-     "tradition": "islam",
-     "ref": "Quran 6:78",
-     "note": "Hero reasons from the stars, moon and sun to the one God",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ"
-    },
-    {
-     "tradition": "judaism",
-     "ref": "Abraham burns the house of idols (Jubilees 12): 12:16–18",
-     "note": "Hero reasons from the stars, moon and sun to the one God"
-    },
     {
      "tradition": "islam",
      "ref": "Quran 21:58",
@@ -2650,6 +2718,27 @@
     },
     {
      "tradition": "islam",
+     "ref": "Quran 6:76",
+     "note": "Hero reasons from the stars, moon and sun to the one God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:77",
+     "note": "Hero reasons from the stars, moon and sun to the one God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Abraham burns the house of idols (Jubilees 12): 12:16–18",
+     "note": "Hero reasons from the stars, moon and sun to the one God"
+    },
+    {
+     "tradition": "islam",
      "ref": "Quran 6:74",
      "note": "Hero's father makes, sells or worships idols",
      "lang": "ar",
@@ -2665,14 +2754,6 @@
      "text": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا"
     },
     {
-     "tradition": "islam",
-     "ref": "Quran 21:52",
-     "note": "Hero's father makes, sells or worships idols",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ"
-    },
-    {
      "tradition": "judaism",
      "ref": "Abraham burns the house of idols (Jubilees 12): 12:1–8",
      "note": "Hero's father makes, sells or worships idols"
@@ -2680,7 +2761,7 @@
    ],
    "evidence": [
     {
-     "text": "Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight 2.1); Hero smashes or burns idols (weight 2.1); Hero's father makes, sells or worships idols (weight 1.8). Pair score 6.1.",
+     "text": "Shared motifs, rarest first: Hero smashes or burns idols (weight 2.4); Hero reasons from the stars, moon and sun to the one God (weight 2.4); Hero's father makes, sells or worships idols (weight 2.1). Pair score 6.9.",
      "basis": "reading"
     },
     {
@@ -2697,9 +2778,84 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
-   "id": "motif-quran-mary-infancy-vs-hb-samuel-childhood",
-   "title": "Mary and the infant Jesus in the Quran ↔ Hannah's vow and Samuel at Shiloh",
-   "summary": "These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn) child to god's service.",
+   "id": "motif-quran-joseph-vs-eg-two-brothers",
+   "title": "Joseph in the Quran (Surah 12) ↔ Tale of Two Brothers (Papyrus d'Orbiney)",
+   "summary": "These two units share 2 motifs: the woman falsely accuses the hero of assault, the master's wife tries to seduce the hero.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "ane-egyptian"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "false-accusation-by-wife",
+    "masters-wife-seduces"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:25",
+     "note": "The woman falsely accuses the hero of assault",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ"
+    },
+    {
+     "tradition": "ane-egyptian",
+     "ref": "Tale of Two Brothers (Papyrus d'Orbiney): Two Brothers",
+     "note": "The woman falsely accuses the hero of assault"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:23",
+     "note": "The master's wife tries to seduce the hero",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:32",
+     "note": "The master's wife tries to seduce the hero",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّٰغِرِينَ"
+    },
+    {
+     "tradition": "ane-egyptian",
+     "ref": "Tale of Two Brothers (Papyrus d'Orbiney): Two Brothers",
+     "note": "The master's wife tries to seduce the hero (the elder brother's wife and the younger brother Bata)"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: The woman falsely accuses the hero of assault (weight 2.4); The master's wife tries to seduce the hero (weight 2.4). Pair score 4.8.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Tale of Two Brothers (Papyrus d'Orbiney): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-joseph-vs-hb-isaac-smells-garment",
+   "title": "Joseph in the Quran (Surah 12) ↔ Isaac smells Jacob's garments (Genesis 27:27)",
+   "summary": "These two units share 1 motifs: father recognizes his son's scent.",
    "status": "new",
    "relations": [
     "transmission",
@@ -2714,34 +2870,727 @@
     "motif"
    ],
    "motifs": [
-    "child-raised-in-sanctuary",
-    "mother-dedicates-child"
+    "father-smells-son"
    ],
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 3:37",
-     "note": "Child raised in the sanctuary or temple (al-miḥrāb)",
+     "ref": "Quran 12:94",
+     "note": "Father recognizes his son's scent (rīḥ Yūsuf, sensed when the caravan sets out with the shirt)",
      "lang": "ar",
      "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ"
+     "text": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ"
     },
     {
      "tradition": "judaism",
-     "ref": "1Sam 2:11",
-     "note": "Child raised in the sanctuary or temple",
+     "ref": "Gen 27:27",
+     "note": "Father recognizes his son's scent (rêaḥ bənî, the smell of my son, from his garments)",
      "lang": "he",
      "source": "Westminster Leningrad Codex (OSHB)",
-     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
+     "text": "וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙ רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Father recognizes his son's scent (weight 2.8). Pair score 2.8.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we will take him as a son; Seduction attempt when the two are alone in the house; Birds eat bread from on top of the dreamer's head; Brothers bring the hero's garment with false blood; Hero bought by an Egyptian official; Brothers come for grain and do not recognize the hero; Brothers persuade the reluctant father to send the hero with them; Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero cast into a pit or well; The king's experts cannot interpret the dream; The freed prisoner remembers the hero and recommends him; Hero demands they bring their youngest brother; God's favor rests on the hero while he is a slave or prisoner; God reassures the hero in the pit; Dream of sun, moon and eleven stars bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the famine years; The father's eyesight fails; Father loves the hero more than his brothers; Father refuses at first to send the youngest; Father revives on hearing the hero lives; Father does not believe the brothers' story; Father warns the hero not to tell his dream to his brothers; The freed prisoner forgets the hero for years; Hero's garment becomes evidence in the seduction episode; Hero's garment restores the father's sight; Hero placed over the land's storehouses or the kingdom; Hero's beauty is remarked on; Hero refuses release until his innocence is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly yields but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing loyalty to his master and to God; Hero reveals his identity to his brothers; Hero declares that God turned the brothers' deed to good; Hero attributes his dream interpretation to God; King dreams of seven fat cows eaten by seven lean, and seven green ears and seven dry; The husband recognizes his wife's guilt; The master's wife tries to seduce the hero; Their payment is secretly returned in their bags; A brother offers himself or another in place of the youngest; One brother talks the others out of killing him; One brother stays behind in Egypt; One prisoner is restored, the other executed and his body exposed; Family prostrates before the hero, fulfilling the dream; Hero's cup is hidden in the youngest brother's bag; A brother or the brothers give the father a pledge for the youngest; Two fellow prisoners dream of pressing wine and carrying bread; Hero asks the freed prisoner to mention him to the king; A passing caravan takes the hero from the pit; Hero meets and embraces his father; Search proceeds through the others' bags before the youngest's; Father tells the sons to enter by separate gates; Hero sold for a small sum of silver; Brothers pursued and accused of theft; The brothers themselves name the thief's penalty; The wife confesses the hero's innocence; A wild animal is blamed for the hero's death; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut their hands; Women of the city gossip about the wife's passion; A year of rain and relief follows the famine.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Isaac smells Jacob's garments (Genesis 27:27): tagged by Claude (model), reading the Hebrew.",
+     "basis": "reading"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-joseph-vs-hb-joseph",
+   "title": "Joseph in the Quran (Surah 12) ↔ Joseph in Genesis (37, 39–50)",
+   "summary": "These two units share 48 motifs: hero's cup is hidden in the youngest brother's bag, the freed prisoner remembers the hero and recommends him, one brother talks the others out of killing him, brothers pursued and accused of theft….",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "planted-cup",
+    "cupbearer-recalls-hero",
+    "one-brother-dissuades-killing",
+    "theft-accusation-pursuit",
+    "parents-honored-dream-fulfilled",
+    "thief-penalty-set-by-brothers",
+    "hero-refuses-citing-master-and-god",
+    "prisoners-dreams-wine-bread",
+    "cast-into-pit",
+    "demand-youngest-brother",
+    "pledge-to-father",
+    "divine-favor-in-servitude",
+    "brothers-come-unrecognizing",
+    "king-dream-cows-and-ears",
+    "one-executed-one-restored",
+    "wild-animal-blamed",
+    "offer-substitute",
+    "reunion-with-father",
+    "father-favors-son",
+    "birds-eat-bread-from-head",
+    "father-eyesight-fails",
+    "famine-grain-storage-plan",
+    "hero-forgives-brothers",
+    "court-experts-fail",
+    "bloodied-garment-deception",
+    "search-eldest-to-youngest",
+    "bought-by-egyptian-official",
+    "dream-heavenly-bodies-bow",
+    "sold-for-paltry-price",
+    "freed-prisoner-forgets",
+    "hero-sees-divine-plan",
+    "brothers-plot-death",
+    "hero-appointed-over-storehouses",
+    "father-revived-by-news",
+    "rescued-by-caravan",
+    "hero-imprisoned",
+    "garment-evidence-in-seduction",
+    "hero-reveals-identity",
+    "remember-me-to-king",
+    "one-brother-left-in-egypt",
+    "family-migrates-to-egypt",
+    "interpretation-from-god",
+    "money-returned-in-sacks",
+    "father-reluctant-youngest",
+    "false-accusation-by-wife",
+    "alone-in-house",
+    "masters-wife-seduces",
+    "hero-beautiful"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:70",
+     "note": "Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:72",
+     "note": "Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ"
     },
     {
      "tradition": "judaism",
-     "ref": "1Sam 2:18",
-     "note": "Child raised in the sanctuary or temple",
+     "ref": "Gen 44:2",
+     "note": "Hero's cup is hidden in the youngest brother's bag",
      "lang": "he",
      "source": "Westminster Leningrad Codex (OSHB)",
-     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
+     "text": "וְאֶת גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְר֑וֹ וַיַּ֕עַשׂ כִּדְבַ֥ר יוֹסֵ֖ף אֲשֶׁ֥ר דִּבֵּֽר"
     },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 44:5",
+     "note": "Hero's cup is hidden in the youngest brother's bag",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "הֲל֣וֹא זֶ֗ה אֲשֶׁ֨ר יִשְׁתֶּ֤ה אֲדֹנִי֙ בּ֔וֹ וְה֕וּא נַחֵ֥שׁ יְנַחֵ֖שׁ בּ֑וֹ הֲרֵעֹתֶ֖ם אֲשֶׁ֥ר עֲשִׂיתֶֽם"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:45",
+     "note": "The freed prisoner remembers the hero and recommends him",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 41:9",
+     "note": "The freed prisoner remembers the hero and recommends him",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיְדַבֵּר֙ שַׂ֣ר הַמַּשְׁקִ֔ים אֶת פַּרְעֹ֖ה לֵאמֹ֑ר אֶת חֲטָאַ֕י אֲנִ֖י מַזְכִּ֥יר הַיּֽוֹם"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 41:12",
+     "note": "The freed prisoner remembers the hero and recommends him",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וְשָׁ֨ם אִתָּ֜נוּ נַ֣עַר עִבְרִ֗י עֶ֚בֶד לְשַׂ֣ר הַטַּבָּחִ֔ים וַנְּ֨סַפֶּר ל֔וֹ וַיִּפְתָּר לָ֖נוּ אֶת חֲלֹמֹתֵ֑ינוּ אִ֥ישׁ כַּחֲלֹמ֖וֹ פָּתָֽר"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:10",
+     "note": "One brother talks the others out of killing him",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 37:21",
+     "note": "One brother talks the others out of killing him (Reuben, then Judah)",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיִּשְׁמַ֣ע רְאוּבֵ֔ן וַיַּצִּלֵ֖הוּ מִיָּדָ֑ם וַיֹּ֕אמֶר לֹ֥א נַכֶּ֖נּוּ נָֽפֶשׁ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 37:22",
+     "note": "One brother talks the others out of killing him (Reuben, then Judah)",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֹּ֨אמֶר אֲלֵהֶ֣ם רְאוּבֵן֮ אַל תִּשְׁפְּכוּ דָם֒ הַשְׁלִ֣יכוּ אֹת֗וֹ אֶל הַבּ֤וֹר הַזֶּה֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר וְיָ֖ד אַל תִּשְׁלְחוּ ב֑וֹ לְמַ֗עַן הַצִּ֤יל אֹתוֹ֙ מִיָּדָ֔ם לַהֲשִׁיב֖וֹ אֶל אָבִֽיו"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:70",
+     "note": "Brothers pursued and accused of theft",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:71",
+     "note": "Brothers pursued and accused of theft",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 44:4",
+     "note": "Brothers pursued and accused of theft",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "הֵ֠ם יָֽצְא֣וּ אֶת הָעִיר֮ לֹ֣א הִרְחִיקוּ֒ וְיוֹסֵ֤ף אָמַר֙ לַֽאֲשֶׁ֣ר עַל בֵּית֔וֹ ק֥וּם רְדֹ֖ף אַחֲרֵ֣י הָֽאֲנָשִׁ֑ים וְהִשַּׂגְתָּם֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם לָ֛מָּה שִׁלַּמְתֶּ֥ם רָעָ֖ה תַּ֥חַת טוֹבָֽה"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 44:6",
+     "note": "Brothers pursued and accused of theft",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַֽיַּשִּׂגֵ֑ם וַיְדַבֵּ֣ר אֲלֵהֶ֔ם אֶת הַדְּבָרִ֖ים הָאֵֽלֶּה"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:100",
+     "note": "Family prostrates before the hero, fulfilling the dream",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 42:6",
+     "note": "Family prostrates before the hero, fulfilling the dream (the brothers bow; Joseph remembers his dreams. Rachel is already dead (Gen 48:7).)",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙ אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 42:9",
+     "note": "Family prostrates before the hero, fulfilling the dream (the brothers bow; Joseph remembers his dreams. Rachel is already dead (Gen 48:7).)",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים אַתֶּ֔ם לִרְא֛וֹת אֶת עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:74",
+     "note": "The brothers themselves name the thief's penalty",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:75",
+     "note": "The brothers themselves name the thief's penalty",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 44:9",
+     "note": "The brothers themselves name the thief's penalty",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "אֲשֶׁ֨ר יִמָּצֵ֥א אִתּ֛וֹ מֵעֲבָדֶ֖יךָ וָמֵ֑ת וְגַם אֲנַ֕חְנוּ נִֽהְיֶ֥ה לַֽאדֹנִ֖י לַעֲבָדִֽים"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 44:10",
+     "note": "The brothers themselves name the thief's penalty",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֹּ֕אמֶר גַּם עַתָּ֥ה כְדִבְרֵיכֶ֖ם כֶּן ה֑וּא אֲשֶׁ֨ר יִמָּצֵ֤א אִתּוֹ֙ יִהְיֶה לִּ֣י עָ֔בֶד וְאַתֶּ֖ם תִּהְי֥וּ נְקִיִּֽם"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:23",
+     "note": "Hero refuses, citing loyalty to his master and to God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:8",
+     "note": "Hero refuses, citing loyalty to his master and to God",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיְמָאֵ֓ן וַיֹּ֨אמֶר֙ אֶל אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא יָדַ֥ע אִתִּ֖י מַה בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר יֶשׁ ל֖וֹ נָתַ֥ן בְּיָדִֽי"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 39:9",
+     "note": "Hero refuses, citing loyalty to his master and to God",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא חָשַׂ֤ךְ מִמֶּ֨נִּי֙ מְא֔וּמָה כִּ֥י אִם אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:36",
+     "note": "Two fellow prisoners dream of pressing wine and carrying bread",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 40:5",
+     "note": "Two fellow prisoners dream of pressing wine and carrying bread",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 40:9",
+     "note": "Two fellow prisoners dream of pressing wine and carrying bread",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיְסַפֵּ֧ר שַֽׂר הַמַּשְׁקִ֛ים אֶת חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה גֶ֖פֶן לְפָנָֽי"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:10",
+     "note": "Hero cast into a pit or well",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:15",
+     "note": "Hero cast into a pit or well",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 37:24",
+     "note": "Hero cast into a pit or well (the pit was empty, no water in it)",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיִּ֨קָּחֻ֔הוּ וַיַּשְׁלִ֥כוּ אֹת֖וֹ הַבֹּ֑רָה וְהַבּ֣וֹר רֵ֔ק אֵ֥ין בּ֖וֹ מָֽיִם"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:59",
+     "note": "Hero demands they bring their youngest brother",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:60",
+     "note": "Hero demands they bring their youngest brother",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 42:15",
+     "note": "Hero demands they bring their youngest brother",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "בְּזֹ֖את תִּבָּחֵ֑נוּ חֵ֤י פַרְעֹה֙ אִם תֵּצְא֣וּ מִזֶּ֔ה כִּ֧י אִם בְּב֛וֹא אֲחִיכֶ֥ם הַקָּטֹ֖ן הֵֽנָּה"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Gen 42:20",
+     "note": "Hero demands they bring their youngest brother",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וְאֶת אֲחִיכֶ֤ם הַקָּטֹן֙ תָּבִ֣יאוּ אֵלַ֔י וְיֵאָמְנ֥וּ דִבְרֵיכֶ֖ם וְלֹ֣א תָמ֑וּתוּ וַיַּעֲשׂוּ כֵֽן"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Passages are shown for the 10 rarest of 48 shared motifs; the full list follows.",
+     "basis": "reading"
+    },
+    {
+     "text": "Shared motifs, rarest first: Hero's cup is hidden in the youngest brother's bag (weight 2.8); The freed prisoner remembers the hero and recommends him (weight 2.8); One brother talks the others out of killing him (weight 2.8); Brothers pursued and accused of theft (weight 2.8); Family prostrates before the hero, fulfilling the dream (weight 2.8); The brothers themselves name the thief's penalty (weight 2.8); Hero refuses, citing loyalty to his master and to God (weight 2.8); Two fellow prisoners dream of pressing wine and carrying bread (weight 2.8); Hero cast into a pit or well (weight 2.8); Hero demands they bring their youngest brother (weight 2.8); A brother or the brothers give the father a pledge for the youngest (weight 2.8); God's favor rests on the hero while he is a slave or prisoner (weight 2.8); Brothers come for grain and do not recognize the hero (weight 2.8); King dreams of seven fat cows eaten by seven lean, and seven green ears and seven dry (weight 2.8); One prisoner is restored, the other executed and his body exposed (weight 2.8); A wild animal is blamed for the hero's death (weight 2.8); A brother offers himself or another in place of the youngest (weight 2.8); Hero meets and embraces his father (weight 2.8); Father loves the hero more than his brothers (weight 2.8); Birds eat bread from on top of the dreamer's head (weight 2.8); The father's eyesight fails (weight 2.8); Plan to store grain in the good years for the famine years (weight 2.8); Hero forgives his brothers (weight 2.8); The king's experts cannot interpret the dream (weight 2.8); Brothers bring the hero's garment with false blood (weight 2.8); Search proceeds through the others' bags before the youngest's (weight 2.8); Hero bought by an Egyptian official (weight 2.8); Dream of sun, moon and eleven stars bowing to the hero (weight 2.8); Hero sold for a small sum of silver (weight 2.8); The freed prisoner forgets the hero for years (weight 2.8); Hero declares that God turned the brothers' deed to good (weight 2.8); Brothers, out of envy, plot to kill the hero (weight 2.8); Hero placed over the land's storehouses or the kingdom (weight 2.8); Father revives on hearing the hero lives (weight 2.8); A passing caravan takes the hero from the pit (weight 2.8); Hero thrown into prison (weight 2.8); Hero's garment becomes evidence in the seduction episode (weight 2.8); Hero reveals his identity to his brothers (weight 2.8); Hero asks the freed prisoner to mention him to the king (weight 2.8); One brother stays behind in Egypt (weight 2.8); The whole family moves to Egypt (weight 2.8); Hero attributes his dream interpretation to God (weight 2.8); Their payment is secretly returned in their bags (weight 2.8); Father refuses at first to send the youngest (weight 2.4); The woman falsely accuses the hero of assault (weight 2.4); Seduction attempt when the two are alone in the house (weight 2.4); The master's wife tries to seduce the hero (weight 2.4); Hero's beauty is remarked on (weight 2.1). Pair score 132.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we will take him as a son; Brothers persuade the reluctant father to send the hero with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero reveals himself to the youngest brother first; Father does not believe the brothers' story; Father recognizes his son's scent; Father warns the hero not to tell his dream to his brothers; Hero's garment restores the father's sight; Hero refuses release until his innocence is established; Hero nearly yields but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; The husband recognizes his wife's guilt; Father tells the sons to enter by separate gates; The wife confesses the hero's innocence; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut their hands; Women of the city gossip about the wife's passion; A year of rain and relief follows the famine.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Joseph in Genesis (37, 39–50): Hero makes them swear to carry his bones out of Egypt; After the father's death the brothers fear revenge; Grandfather crosses his hands to bless the younger first; Dream of the brothers' sheaves bowing to the hero's sheaf; Embalming in the Egyptian manner; Hero buys the people's land for the king during the famine; Father believes the hero is dead and refuses comfort; Father asks to be buried with his ancestors; Father rebukes the hero for his dream but keeps it in mind; Father himself sends the hero to his brothers; Hero dies at 110; Hero given an Egyptian priest's daughter as wife; King invests the hero with ring, linen and chariot; Master entrusts his whole household to the hero; Father gives the hero a special garment; Hero accuses his brothers of being spies.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in Genesis (37, 39–50): tagged by Claude (model), reading the Hebrew.",
+     "basis": "reading"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-joseph-vs-jud-genesis-rabbah-91",
+   "title": "Joseph in the Quran (Surah 12) ↔ Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5)",
+   "summary": "These two units share 2 motifs: father tells the sons to enter by separate gates, father refuses at first to send the youngest.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "separate-gates-evil-eye",
+    "father-reluctant-youngest"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:67",
+     "note": "Father tells the sons to enter by separate gates",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:68",
+     "note": "Father tells the sons to enter by separate gates",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91:6",
+     "note": "Father tells the sons to enter by separate gates (check the exact section; Rashi on Gen 42:5 cites this tradition)"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:63",
+     "note": "Father refuses at first to send the youngest",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:64",
+     "note": "Father refuses at first to send the youngest",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91",
+     "note": "Father refuses at first to send the youngest"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 2.8); Father refuses at first to send the youngest (weight 2.4). Pair score 5.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-joseph-vs-jud-sotah-36b",
+   "title": "Joseph in the Quran (Surah 12) ↔ Joseph sees his father's image (Babylonian Talmud, Sotah 36b)",
+   "summary": "These two units share 2 motifs: hero nearly yields but a sign from god stops him, seduction attempt when the two are alone in the house.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "hero-nearly-yields-sign-intervenes",
+    "alone-in-house"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:24",
+     "note": "Hero nearly yields but a sign from God stops him (burhān rabbihi)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ هَمَّتْ بِهِۦ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Joseph sees his father's image (Babylonian Talmud, Sotah 36b): Sotah 36b",
+     "note": "Hero nearly yields but a sign from God stops him (his father's image appeared to him)"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:23",
+     "note": "Seduction attempt when the two are alone in the house (she locked the doors)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Joseph sees his father's image (Babylonian Talmud, Sotah 36b): Sotah 36b",
+     "note": "Seduction attempt when the two are alone in the house"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 2.8); Seduction attempt when the two are alone in the house (weight 2.4). Pair score 5.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph sees his father's image (Babylonian Talmud, Sotah 36b): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-joseph-vs-jud-tanhuma-vayeshev",
+   "title": "Joseph in the Quran (Surah 12) ↔ The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev)",
+   "summary": "These two units share 2 motifs: women dazzled by the hero cut their hands, hero's beauty is remarked on.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "women-cut-hands",
+    "hero-beautiful"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:31",
+     "note": "Women dazzled by the hero cut their hands",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:50",
+     "note": "Women dazzled by the hero cut their hands",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): Vayeshev 5",
+     "note": "Women dazzled by the hero cut their hands (they cut their hands while peeling citrons; Tanhuma's redaction is dated variously, so the direction of influence is open)"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:31",
+     "note": "Hero's beauty is remarked on",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): Vayeshev 5",
+     "note": "Hero's beauty is remarked on"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 2.8); Hero's beauty is remarked on (weight 2.1). Pair score 4.9.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-mary-infancy-vs-ec-arabic-infancy",
+   "title": "Mary and the infant Jesus in the Quran ↔ Arabic (Syriac) Infancy Gospel",
+   "summary": "These two units share 1 motifs: the newborn speaks.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "christianity-eastern"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "infant-speaks"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:29",
+     "note": "The newborn speaks",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَشَارَتْ إِلَيْهِ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:30",
+     "note": "The newborn speaks",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّا"
+    },
+    {
+     "tradition": "christianity-eastern",
+     "ref": "Arabic (Syriac) Infancy Gospel: 1",
+     "note": "The newborn speaks"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: The newborn speaks (weight 2.8). Pair score 2.8.",
+     "basis": "reading"
+    },
+    {
+     "text": "Mary and the infant Jesus in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Arabic (Syriac) Infancy Gospel: tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-mary-infancy-vs-hb-samuel-childhood",
+   "title": "Mary and the infant Jesus in the Quran ↔ Hannah's vow and Samuel at Shiloh",
+   "summary": "These two units share 2 motifs: mother vows her (unborn) child to god's service, child raised in the sanctuary or temple.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "mother-dedicates-child",
+    "child-raised-in-sanctuary"
+   ],
+   "passages": [
     {
      "tradition": "islam",
      "ref": "Quran 3:35",
@@ -2765,11 +3614,35 @@
      "lang": "he",
      "source": "Westminster Leningrad Codex (OSHB)",
      "text": "וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 3:37",
+     "note": "Child raised in the sanctuary or temple (al-miḥrāb)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:11",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:18",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
     }
    ],
    "evidence": [
     {
-     "text": "Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows her (unborn) child to God's service (weight 2.1). Pair score 4.2.",
+     "text": "Shared motifs, rarest first: Mother vows her (unborn) child to God's service (weight 2.4); Child raised in the sanctuary or temple (weight 2.4). Pair score 4.8.",
      "basis": "reading"
     },
     {
@@ -2790,9 +3663,9 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
-   "id": "motif-quran-noah-vs-jud-sanhedrin-108b",
-   "title": "Noah in the Quran ↔ The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)",
-   "summary": "These two units share 3 motifs: people mock the hero while he builds the vessel, hero warns or preaches to his people before the flood, the flood waters are hot or boiling.",
+   "id": "motif-quran-moses-infancy-vs-jud-sotah-12b",
+   "title": "The infant Moses in the Quran ↔ Moses and the Egyptian nurses (Babylonian Talmud, Sotah 12b)",
+   "summary": "These two units share 1 motifs: infant refuses other wet nurses.",
    "status": "new",
    "relations": [
     "transmission",
@@ -2807,24 +3680,126 @@
     "motif"
    ],
    "motifs": [
-    "people-mock-builder",
-    "hero-preaches-to-people",
-    "boiling-waters"
+    "infant-refuses-nurses"
    ],
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 11:38",
-     "note": "People mock the hero while he builds the vessel",
+     "ref": "Quran 28:12",
+     "note": "Infant refuses other wet nurses",
      "lang": "ar",
      "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ"
+     "text": "وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ"
     },
     {
      "tradition": "judaism",
-     "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
-     "note": "People mock the hero while he builds the vessel"
+     "ref": "Moses and the Egyptian nurses (Babylonian Talmud, Sotah 12b): Sotah 12b",
+     "note": "Infant refuses other wet nurses"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Infant refuses other wet nurses (weight 2.8). Pair score 2.8.",
+     "basis": "reading"
     },
+    {
+     "text": "The infant Moses in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Moses and the Egyptian nurses (Babylonian Talmud, Sotah 12b): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-moses-infancy-vs-quran-joseph",
+   "title": "The infant Moses in the Quran ↔ Joseph in the Quran (Surah 12)",
+   "summary": "These two units share 1 motifs: foster parent says: perhaps he will benefit us, or we will take him as a son.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "adopt-as-son-perhaps-useful"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 28:9",
+     "note": "Foster parent says: perhaps he will benefit us, or we will take him as a son (the same formula as 12:21 for Joseph)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:21",
+     "note": "Foster parent says: perhaps he will benefit us, or we will take him as a son (the same formula as 28:9 for the infant Moses)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Foster parent says: perhaps he will benefit us, or we will take him as a son (weight 2.8). Pair score 2.8.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in The infant Moses in the Quran: Infant adopted by a royal woman; Infant found by members of a royal household; Infant refuses other wet nurses; Infant placed in a container and set on the water; Ruler orders the killing of male infants; Mother receives divine instruction about the infant; Infant returned to his own mother to nurse; Sister offers to find a nurse; Infant's sister watches over him.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Joseph in the Quran (Surah 12): Seduction attempt when the two are alone in the house; Birds eat bread from on top of the dreamer's head; Brothers bring the hero's garment with false blood; Hero bought by an Egyptian official; Brothers come for grain and do not recognize the hero; Brothers persuade the reluctant father to send the hero with them; Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero cast into a pit or well; The king's experts cannot interpret the dream; The freed prisoner remembers the hero and recommends him; Hero demands they bring their youngest brother; God's favor rests on the hero while he is a slave or prisoner; God reassures the hero in the pit; Dream of sun, moon and eleven stars bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the famine years; The father's eyesight fails; Father loves the hero more than his brothers; Father refuses at first to send the youngest; Father revives on hearing the hero lives; Father does not believe the brothers' story; Father recognizes his son's scent; Father warns the hero not to tell his dream to his brothers; The freed prisoner forgets the hero for years; Hero's garment becomes evidence in the seduction episode; Hero's garment restores the father's sight; Hero placed over the land's storehouses or the kingdom; Hero's beauty is remarked on; Hero refuses release until his innocence is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly yields but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing loyalty to his master and to God; Hero reveals his identity to his brothers; Hero declares that God turned the brothers' deed to good; Hero attributes his dream interpretation to God; King dreams of seven fat cows eaten by seven lean, and seven green ears and seven dry; The husband recognizes his wife's guilt; The master's wife tries to seduce the hero; Their payment is secretly returned in their bags; A brother offers himself or another in place of the youngest; One brother talks the others out of killing him; One brother stays behind in Egypt; One prisoner is restored, the other executed and his body exposed; Family prostrates before the hero, fulfilling the dream; Hero's cup is hidden in the youngest brother's bag; A brother or the brothers give the father a pledge for the youngest; Two fellow prisoners dream of pressing wine and carrying bread; Hero asks the freed prisoner to mention him to the king; A passing caravan takes the hero from the pit; Hero meets and embraces his father; Search proceeds through the others' bags before the youngest's; Father tells the sons to enter by separate gates; Hero sold for a small sum of silver; Brothers pursued and accused of theft; The brothers themselves name the thief's penalty; The wife confesses the hero's innocence; A wild animal is blamed for the hero's death; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut their hands; Women of the city gossip about the wife's passion; A year of rain and relief follows the famine.",
+     "basis": "reading"
+    },
+    {
+     "text": "The infant Moses in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-noah-vs-jud-sanhedrin-108b",
+   "title": "Noah in the Quran ↔ The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)",
+   "summary": "These two units share 3 motifs: hero warns or preaches to his people before the flood, the flood waters are hot or boiling, people mock the hero while he builds the vessel.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "hero-preaches-to-people",
+    "boiling-waters",
+    "people-mock-builder"
+   ],
+   "passages": [
     {
      "tradition": "islam",
      "ref": "Quran 11:25",
@@ -2840,14 +3815,6 @@
      "lang": "ar",
      "source": "Quranic Arabic Corpus (Uthmani script)",
      "text": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ"
-    },
-    {
-     "tradition": "islam",
-     "ref": "Quran 71:5",
-     "note": "Hero warns or preaches to his people before the flood",
-     "lang": "ar",
-     "source": "Quranic Arabic Corpus (Uthmani script)",
-     "text": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا"
     },
     {
      "tradition": "judaism",
@@ -2866,11 +3833,24 @@
      "tradition": "judaism",
      "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
      "note": "The flood waters are hot or boiling"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:38",
+     "note": "People mock the hero while he builds the vessel",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
+     "note": "People mock the hero while he builds the vessel"
     }
    ],
    "evidence": [
     {
-     "text": "Shared motifs, rarest first: People mock the hero while he builds the vessel (weight 2.5); Hero warns or preaches to his people before the flood (weight 2.5); The flood waters are hot or boiling (weight 2.5). Pair score 7.6.",
+     "text": "Shared motifs, rarest first: Hero warns or preaches to his people before the flood (weight 2.8); The flood waters are hot or boiling (weight 2.8); People mock the hero while he builds the vessel (weight 2.8). Pair score 8.4.",
      "basis": "reading"
     },
     {

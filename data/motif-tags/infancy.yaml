@@ -12,6 +12,7 @@ units:
       - {motif: infant-set-adrift, refs: ["20:39", "28:7"]}
       - {motif: found-by-royal-household, refs: ["28:8"]}
       - {motif: adopted-by-royal-woman, refs: ["28:9"], note: "Pharaoh's wife (imraʾat Firʿawn), not his daughter"}
+      - {motif: adopt-as-son-perhaps-useful, refs: ["28:9"], note: "the same formula as 12:21 for Joseph"}
       - {motif: sister-watches, refs: ["28:11"]}
       - {motif: sister-offers-nurse, refs: ["20:40", "28:12"]}
       - {motif: infant-refuses-nurses, refs: ["28:12"]}

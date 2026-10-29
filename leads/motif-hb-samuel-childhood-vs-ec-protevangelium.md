@@ -1,8 +1,8 @@
 ---
 id: motif-hb-samuel-childhood-vs-ec-protevangelium
 title: Hannah's vow and Samuel at Shiloh ↔ Protevangelium of James
-summary: 'These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn)
-  child to god''s service.'
+summary: 'These two units share 2 motifs: mother vows her (unborn) child to god''s service, child raised
+  in the sanctuary or temple.'
 status: new
 relations:
 - transmission
@@ -14,25 +14,9 @@ traditions:
 layers:
 - motif
 motifs:
-- child-raised-in-sanctuary
 - mother-dedicates-child
+- child-raised-in-sanctuary
 passages:
-- tradition: judaism
-  ref: 1Sam 2:11
-  note: Child raised in the sanctuary or temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
-    עֵלִ֥י הַכֹּהֵֽן
-- tradition: judaism
-  ref: 1Sam 2:18
-  note: Child raised in the sanctuary or temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
-- tradition: christianity-early
-  ref: 'Protevangelium of James: 7–8'
-  note: Child raised in the sanctuary or temple
 - tradition: judaism
   ref: 1Sam 1:11
   note: Mother vows her (unborn) child to God's service
@@ -51,9 +35,25 @@ passages:
 - tradition: christianity-early
   ref: 'Protevangelium of James: 4'
   note: Mother vows her (unborn) child to God's service
+- tradition: judaism
+  ref: 1Sam 2:11
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
+    עֵלִ֥י הַכֹּהֵֽן
+- tradition: judaism
+  ref: 1Sam 2:18
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
+- tradition: christianity-early
+  ref: 'Protevangelium of James: 7–8'
+  note: Child raised in the sanctuary or temple
 evidence:
-- text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows
-    her (unborn) child to God''s service (weight 2.1). Pair score 4.2.'
+- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 2.4); Child
+    raised in the sanctuary or temple (weight 2.4). Pair score 4.8.'
   basis: reading
 - text: 'Hannah''s vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

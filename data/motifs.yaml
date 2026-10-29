@@ -71,3 +71,89 @@ motifs:
   thrown-into-fire: {label: "Hero thrown into a fire or furnace by a king or people", cluster: abraham}
   fire-made-harmless: {label: "The fire does not harm the hero", cluster: abraham}
   sibling-dies-in-fire: {label: "A relative dies in connection with the fire", cluster: abraham}
+  # ---- Joseph
+  dream-heavenly-bodies-bow: {label: "Dream of sun, moon and eleven stars bowing to the hero", cluster: joseph}
+  dream-sheaves-bow: {label: "Dream of the brothers' sheaves bowing to the hero's sheaf", cluster: joseph}
+  father-warns-against-telling-dream: {label: "Father warns the hero not to tell his dream to his brothers", cluster: joseph}
+  father-rebukes-dream: {label: "Father rebukes the hero for his dream but keeps it in mind", cluster: joseph}
+  father-favors-son: {label: "Father loves the hero more than his brothers", cluster: joseph}
+  special-garment-from-father: {label: "Father gives the hero a special garment", cluster: joseph}
+  brothers-plot-death: {label: "Brothers, out of envy, plot to kill the hero", cluster: joseph}
+  one-brother-dissuades-killing: {label: "One brother talks the others out of killing him", cluster: joseph}
+  cast-into-pit: {label: "Hero cast into a pit or well", cluster: joseph}
+  divine-reassurance-in-pit: {label: "God reassures the hero in the pit", cluster: joseph}
+  brothers-persuade-father-to-send: {label: "Brothers persuade the reluctant father to send the hero with them", cluster: joseph}
+  father-sends-son-to-brothers: {label: "Father himself sends the hero to his brothers", cluster: joseph}
+  wild-animal-blamed: {label: "A wild animal is blamed for the hero's death", cluster: joseph}
+  bloodied-garment-deception: {label: "Brothers bring the hero's garment with false blood", cluster: joseph}
+  father-sees-through-deception: {label: "Father does not believe the brothers' story", cluster: joseph}
+  father-believes-and-mourns: {label: "Father believes the hero is dead and refuses comfort", cluster: joseph}
+  brothers-weep-to-father: {label: "Brothers come to their father at night, weeping", cluster: joseph}
+  rescued-by-caravan: {label: "A passing caravan takes the hero from the pit", cluster: joseph}
+  sold-for-paltry-price: {label: "Hero sold for a small sum of silver", cluster: joseph}
+  bought-by-egyptian-official: {label: "Hero bought by an Egyptian official", cluster: joseph}
+  adopt-as-son-perhaps-useful: {label: "Foster parent says: perhaps he will benefit us, or we will take him as a son", cluster: [joseph, infancy]}
+  divine-favor-in-servitude: {label: "God's favor rests on the hero while he is a slave or prisoner", cluster: joseph}
+  master-entrusts-household: {label: "Master entrusts his whole household to the hero", cluster: joseph}
+  hero-beautiful: {label: "Hero's beauty is remarked on", cluster: joseph}
+  masters-wife-seduces: {label: "The master's wife tries to seduce the hero", cluster: joseph}
+  hero-refuses-citing-master-and-god: {label: "Hero refuses, citing loyalty to his master and to God", cluster: joseph}
+  hero-nearly-yields-sign-intervenes: {label: "Hero nearly yields but a sign from God stops him", cluster: joseph}
+  alone-in-house: {label: "Seduction attempt when the two are alone in the house", cluster: joseph}
+  garment-evidence-in-seduction: {label: "Hero's garment becomes evidence in the seduction episode", cluster: joseph}
+  false-accusation-by-wife: {label: "The woman falsely accuses the hero of assault", cluster: joseph}
+  witness-shirt-test: {label: "A witness proposes judging by where the shirt is torn", cluster: joseph}
+  master-recognizes-wifes-guilt: {label: "The husband recognizes his wife's guilt", cluster: joseph}
+  women-gossip: {label: "Women of the city gossip about the wife's passion", cluster: joseph}
+  women-cut-hands: {label: "Women dazzled by the hero cut their hands", cluster: joseph}
+  hero-prefers-prison: {label: "Hero prays that prison is preferable to sin", cluster: joseph}
+  hero-imprisoned: {label: "Hero thrown into prison", cluster: joseph}
+  prisoners-dreams-wine-bread: {label: "Two fellow prisoners dream of pressing wine and carrying bread", cluster: joseph}
+  birds-eat-bread-from-head: {label: "Birds eat bread from on top of the dreamer's head", cluster: joseph}
+  hero-preaches-in-prison: {label: "Hero preaches monotheism to his fellow prisoners", cluster: joseph}
+  interpretation-from-god: {label: "Hero attributes his dream interpretation to God", cluster: joseph}
+  one-executed-one-restored: {label: "One prisoner is restored, the other executed and his body exposed", cluster: joseph}
+  remember-me-to-king: {label: "Hero asks the freed prisoner to mention him to the king", cluster: joseph}
+  freed-prisoner-forgets: {label: "The freed prisoner forgets the hero for years", cluster: joseph}
+  king-dream-cows-and-ears: {label: "King dreams of seven fat cows eaten by seven lean, and seven green ears and seven dry", cluster: joseph}
+  court-experts-fail: {label: "The king's experts cannot interpret the dream", cluster: joseph}
+  cupbearer-recalls-hero: {label: "The freed prisoner remembers the hero and recommends him", cluster: joseph}
+  famine-grain-storage-plan: {label: "Plan to store grain in the good years for the famine years", cluster: joseph}
+  year-of-relief: {label: "A year of rain and relief follows the famine", cluster: joseph}
+  hero-demands-vindication: {label: "Hero refuses release until his innocence is established", cluster: joseph}
+  wife-confesses: {label: "The wife confesses the hero's innocence", cluster: joseph}
+  hero-appointed-over-storehouses: {label: "Hero placed over the land's storehouses or the kingdom", cluster: joseph}
+  investiture-ring-chariot: {label: "King invests the hero with ring, linen and chariot", cluster: joseph}
+  hero-given-egyptian-wife: {label: "Hero given an Egyptian priest's daughter as wife", cluster: joseph}
+  brothers-come-unrecognizing: {label: "Brothers come for grain and do not recognize the hero", cluster: joseph}
+  spy-accusation: {label: "Hero accuses his brothers of being spies", cluster: joseph}
+  demand-youngest-brother: {label: "Hero demands they bring their youngest brother", cluster: joseph}
+  one-brother-left-in-egypt: {label: "One brother stays behind in Egypt", cluster: joseph}
+  money-returned-in-sacks: {label: "Their payment is secretly returned in their bags", cluster: joseph}
+  father-reluctant-youngest: {label: "Father refuses at first to send the youngest", cluster: joseph}
+  pledge-to-father: {label: "A brother or the brothers give the father a pledge for the youngest", cluster: joseph}
+  separate-gates-evil-eye: {label: "Father tells the sons to enter by separate gates", cluster: joseph}
+  early-reveal-to-youngest: {label: "Hero reveals himself to the youngest brother first", cluster: joseph}
+  planted-cup: {label: "Hero's cup is hidden in the youngest brother's bag", cluster: joseph}
+  theft-accusation-pursuit: {label: "Brothers pursued and accused of theft", cluster: joseph}
+  thief-penalty-set-by-brothers: {label: "The brothers themselves name the thief's penalty", cluster: joseph}
+  search-eldest-to-youngest: {label: "Search proceeds through the others' bags before the youngest's", cluster: joseph}
+  offer-substitute: {label: "A brother offers himself or another in place of the youngest", cluster: joseph}
+  father-eyesight-fails: {label: "The father's eyesight fails", cluster: joseph}
+  hero-reveals-identity: {label: "Hero reveals his identity to his brothers", cluster: joseph}
+  hero-forgives-brothers: {label: "Hero forgives his brothers", cluster: joseph}
+  garment-restores-sight: {label: "Hero's garment restores the father's sight", cluster: joseph}
+  father-smells-son: {label: "Father recognizes his son's scent", cluster: joseph}
+  father-revived-by-news: {label: "Father revives on hearing the hero lives", cluster: joseph}
+  family-migrates-to-egypt: {label: "The whole family moves to Egypt", cluster: joseph}
+  reunion-with-father: {label: "Hero meets and embraces his father", cluster: joseph}
+  parents-honored-dream-fulfilled: {label: "Family prostrates before the hero, fulfilling the dream", cluster: joseph}
+  hero-sees-divine-plan: {label: "Hero declares that God turned the brothers' deed to good", cluster: joseph}
+  hero-prays-for-good-death: {label: "Hero prays to die in submission and join the righteous", cluster: joseph}
+  brothers-fear-revenge: {label: "After the father's death the brothers fear revenge", cluster: joseph}
+  father-burial-in-homeland: {label: "Father asks to be buried with his ancestors", cluster: joseph}
+  embalming: {label: "Embalming in the Egyptian manner", cluster: joseph}
+  bones-carried-out-oath: {label: "Hero makes them swear to carry his bones out of Egypt", cluster: joseph}
+  hero-age-110: {label: "Hero dies at 110", cluster: joseph}
+  famine-land-purchase: {label: "Hero buys the people's land for the king during the famine", cluster: joseph}
+  crossed-hands-blessing: {label: "Grandfather crosses his hands to bless the younger first", cluster: joseph}

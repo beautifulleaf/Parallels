@@ -31,6 +31,7 @@ DATA = ROOT / "data"
 OUT = ROOT / "results" / "motifs"
 MIN_SHARED = 2
 TOP_PER_UNIT = 3
+MAX_PASSAGE_MOTIFS = 10   # passages shown per lead: the rarest shared motifs
 
 
 def load():
@@ -98,18 +99,25 @@ def weights(units):
     return {m: math.log(n / c) for m, c in df.items()}, df
 
 
-def pairs(units, w):
+def internal_pair(a, b):
+    """Two units from the same text, e.g. two Quran narratives echoing each other."""
+    return a["tradition"] == b["tradition"] and a.get("original") and b.get("original") and a.get("corpus") == b.get("corpus")
+
+
+def pairs(units, w, df):
     out = []
     for i, a in enumerate(units):
         ma = {t["motif"]: t for t in a["tags"]}
         for b in units[i + 1:]:
-            if a["tradition"] == b["tradition"]:
+            if a["tradition"] == b["tradition"] and not internal_pair(a, b):
                 continue
             mb = {t["motif"]: t for t in b["tags"]}
             shared = sorted(set(ma) & set(mb), key=lambda m: -w[m])
-            if len(shared) < MIN_SHARED:
+            # one shared motif is enough when no other unit has it: obscure links are often a single detail
+            unique = len(shared) == 1 and df[shared[0]] == 2
+            if len(shared) < MIN_SHARED and not unique:
                 continue
-            out.append(dict(a=a["id"], b=b["id"], score=round(sum(w[m] for m in shared), 3),
+            out.append(dict(a=a["id"], b=b["id"], internal=bool(internal_pair(a, b)), score=round(sum(w[m] for m in shared), 3),
                             shared=shared, only_a=sorted(set(ma) - set(mb)), only_b=sorted(set(mb) - set(ma))))
     return sorted(out, key=lambda p: -p["score"])
 
@@ -146,6 +154,18 @@ def write_report(units, vocab, w, df, ps, bench):
         a, b = by_id[p["a"]], by_id[p["b"]]
         shared = ", ".join(f"{vocab[m]['label']} ({w[m]:.1f})" for m in p["shared"])
         lines.append(f"| {p['score']:.1f} | {a['title']} ↔ {b['title']} | {shared} |")
+    lines += ["", "## Unmatched motifs: search targets", "",
+              "Motifs found in only one unit. For units read from their original text, these are the details "
+              "no other tagged text shares yet, so they are the places to look next (rabbinic, Syriac, "
+              "apocryphal and other literature).", ""]
+    for u in units:
+        if not u.get("original"):
+            continue
+        lonely = [t for t in u["tags"] if df[t["motif"]] == 1]
+        if lonely:
+            lines.append(f"**{u['title']}**")
+            lines += [f"- {vocab[t['motif']]['label']} ({', '.join(t['refs'])})" for t in lonely]
+            lines.append("")
     lines += ["", "## Motif frequency", "", "| Motif | Units |", "|---|---|"]
     for m, c in sorted(df.items(), key=lambda x: (x[1], x[0])):
         lines.append(f"| {vocab[m]['label']} | {c} |")
@@ -164,14 +184,17 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
             continue
         a, b = by_id[p["a"]], by_id[p["b"]]
         passages, evidence = [], []
-        for m in p["shared"]:
+        for m in p["shared"][:MAX_PASSAGE_MOTIFS]:
             for u in (a, b):
                 t = next(t for t in u["tags"] if t["motif"] == m)
-                for r in t["refs"][:3]:
+                for r in t["refs"][:2]:
                     psg = passage_for(u, r, quran_text, hebrew_text)
                     psg["note"] = vocab[m]["label"] + (f" ({t['note']})" if t.get("note") else "")
                     passages.append(psg)
         originals.fill_passages(passages, quran_text, hebrew_text)
+        if len(p["shared"]) > MAX_PASSAGE_MOTIFS:
+            evidence.append({"text": f"Passages are shown for the {MAX_PASSAGE_MOTIFS} rarest of {len(p['shared'])} shared motifs; "
+                                     "the full list follows.", "basis": "reading"})
         evidence.append({"text": f"Shared motifs, rarest first: " + "; ".join(f"{vocab[m]['label']} (weight {w[m]:.1f})" for m in p["shared"])
                                  + f". Pair score {p['score']:.1f}.", "basis": "reading"})
         for u, only in ((a, p["only_a"]), (b, p["only_b"])):
@@ -189,7 +212,8 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
             "summary": f"These two units share {len(p['shared'])} motifs: "
                        + ", ".join(vocab[m]["label"].lower() for m in p["shared"][:4])
                        + ("…" if len(p["shared"]) > 4 else "") + ".",
-            "status": "new", "relations": ["transmission", "convergence"], "standing": "proposed",
+            "status": "new", "relations": ["internal"] if p["internal"] else ["transmission", "convergence"],
+            "standing": "proposed",
             "traditions": traditions, "layers": ["motif"], "motifs": p["shared"],
             "passages": passages, "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
         })
@@ -204,7 +228,7 @@ def main():
         print("\n".join(errors), file=sys.stderr)
         sys.exit(1)
     w, df = weights(units)
-    ps = pairs(units, w)
+    ps = pairs(units, w, df)
     bench = check_benchmarks(ps)
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "pairs.json").write_text(json.dumps(dict(weights=w, pairs=ps), ensure_ascii=False, indent=1), encoding="utf-8")

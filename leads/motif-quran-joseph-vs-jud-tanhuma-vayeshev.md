@@ -1,0 +1,65 @@
+---
+id: motif-quran-joseph-vs-jud-tanhuma-vayeshev
+title: Joseph in the Quran (Surah 12) ↔ The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev)
+summary: 'These two units share 2 motifs: women dazzled by the hero cut their hands, hero''s beauty is
+  remarked on.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- islam
+- judaism
+layers:
+- motif
+motifs:
+- women-cut-hands
+- hero-beautiful
+passages:
+- tradition: islam
+  ref: Quran 12:31
+  note: Women dazzled by the hero cut their hands
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ
+    كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ
+    وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ
+- tradition: islam
+  ref: Quran 12:50
+  note: Women dazzled by the hero cut their hands
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ
+    مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ
+- tradition: judaism
+  ref: 'The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): Vayeshev 5'
+  note: Women dazzled by the hero cut their hands (they cut their hands while peeling citrons; Tanhuma's
+    redaction is dated variously, so the direction of influence is open)
+- tradition: islam
+  ref: Quran 12:31
+  note: Hero's beauty is remarked on
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ
+    كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ
+    وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ
+- tradition: judaism
+  ref: 'The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): Vayeshev 5'
+  note: Hero's beauty is remarked on
+evidence:
+- text: 'Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 2.8); Hero''s
+    beauty is remarked on (weight 2.1). Pair score 4.9.'
+  basis: reading
+- text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
+  basis: reading
+- text: 'The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): tagged by Claude (model), from secondary
+    knowledge.'
+  basis: scholarship
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

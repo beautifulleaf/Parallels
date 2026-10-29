@@ -1,0 +1,209 @@
+# Joseph cluster. The Quran and Genesis units were read in full: every verse,
+# not only the passages already known to have parallels.
+units:
+  - id: quran-joseph
+    tradition: islam
+    title: Joseph in the Quran (Surah 12)
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["12:1-111"]   # verses read in full from the original
+    tags:
+      - {motif: dream-heavenly-bodies-bow, refs: ["12:4"]}
+      - {motif: father-warns-against-telling-dream, refs: ["12:5"]}
+      - {motif: interpretation-from-god, refs: ["12:6", "12:37", "12:101"]}
+      - {motif: father-favors-son, refs: ["12:8"]}
+      - {motif: brothers-plot-death, refs: ["12:8", "12:9"]}
+      - {motif: one-brother-dissuades-killing, refs: ["12:10"]}
+      - {motif: cast-into-pit, refs: ["12:10", "12:15"]}
+      - {motif: brothers-persuade-father-to-send, refs: ["12:11", "12:12", "12:13"]}
+      - {motif: divine-reassurance-in-pit, refs: ["12:15"]}
+      - {motif: brothers-weep-to-father, refs: ["12:16"]}
+      - {motif: wild-animal-blamed, refs: ["12:13", "12:17"], note: "the wolf (al-dhiʾb), which Jacob himself names first in 12:13"}
+      - {motif: bloodied-garment-deception, refs: ["12:18"]}
+      - {motif: father-sees-through-deception, refs: ["12:18"]}
+      - {motif: rescued-by-caravan, refs: ["12:19"], note: "their water-drawer lets down his bucket"}
+      - {motif: sold-for-paltry-price, refs: ["12:20"]}
+      - {motif: bought-by-egyptian-official, refs: ["12:21"]}
+      - {motif: adopt-as-son-perhaps-useful, refs: ["12:21"], note: "the same formula as 28:9 for the infant Moses"}
+      - {motif: divine-favor-in-servitude, refs: ["12:21", "12:22"]}
+      - {motif: masters-wife-seduces, refs: ["12:23", "12:32"]}
+      - {motif: alone-in-house, refs: ["12:23"], note: "she locked the doors"}
+      - {motif: hero-refuses-citing-master-and-god, refs: ["12:23"]}
+      - {motif: hero-nearly-yields-sign-intervenes, refs: ["12:24"], note: "burhān rabbihi"}
+      - {motif: garment-evidence-in-seduction, refs: ["12:25", "12:26", "12:27", "12:28"], note: "shirt torn from behind"}
+      - {motif: false-accusation-by-wife, refs: ["12:25"]}
+      - {motif: witness-shirt-test, refs: ["12:26", "12:27"]}
+      - {motif: master-recognizes-wifes-guilt, refs: ["12:28", "12:29"]}
+      - {motif: women-gossip, refs: ["12:30"]}
+      - {motif: women-cut-hands, refs: ["12:31", "12:50"]}
+      - {motif: hero-beautiful, refs: ["12:31"]}
+      - {motif: hero-prefers-prison, refs: ["12:33"]}
+      - {motif: hero-imprisoned, refs: ["12:35"]}
+      - {motif: prisoners-dreams-wine-bread, refs: ["12:36"]}
+      - {motif: birds-eat-bread-from-head, refs: ["12:36", "12:41"]}
+      - {motif: hero-preaches-in-prison, refs: ["12:37", "12:38", "12:39", "12:40"]}
+      - {motif: one-executed-one-restored, refs: ["12:41"], note: "yuṣlab: crucified"}
+      - {motif: remember-me-to-king, refs: ["12:42"]}
+      - {motif: freed-prisoner-forgets, refs: ["12:42"], note: "Satan made him forget; he stayed some years"}
+      - {motif: king-dream-cows-and-ears, refs: ["12:43"]}
+      - {motif: court-experts-fail, refs: ["12:44"]}
+      - {motif: cupbearer-recalls-hero, refs: ["12:45"]}
+      - {motif: famine-grain-storage-plan, refs: ["12:47", "12:48"], note: "leave the grain in the ear"}
+      - {motif: year-of-relief, refs: ["12:49"]}
+      - {motif: hero-demands-vindication, refs: ["12:50", "12:52"]}
+      - {motif: wife-confesses, refs: ["12:51"]}
+      - {motif: hero-appointed-over-storehouses, refs: ["12:54", "12:55", "12:56"], note: "Joseph asks for the post himself"}
+      - {motif: brothers-come-unrecognizing, refs: ["12:58"]}
+      - {motif: demand-youngest-brother, refs: ["12:59", "12:60"]}
+      - {motif: money-returned-in-sacks, refs: ["12:62", "12:65"]}
+      - {motif: father-reluctant-youngest, refs: ["12:63", "12:64"]}
+      - {motif: pledge-to-father, refs: ["12:66"]}
+      - {motif: separate-gates-evil-eye, refs: ["12:67", "12:68"]}
+      - {motif: early-reveal-to-youngest, refs: ["12:69"]}
+      - {motif: planted-cup, refs: ["12:70", "12:72"], note: "siqāya / ṣuwāʿ al-malik"}
+      - {motif: theft-accusation-pursuit, refs: ["12:70", "12:71", "12:73"]}
+      - {motif: thief-penalty-set-by-brothers, refs: ["12:74", "12:75"]}
+      - {motif: search-eldest-to-youngest, refs: ["12:76"]}
+      - {motif: offer-substitute, refs: ["12:78"]}
+      - {motif: one-brother-left-in-egypt, refs: ["12:80"], note: "the eldest stays of his own accord"}
+      - {motif: father-eyesight-fails, refs: ["12:84"], note: "from grief"}
+      - {motif: hero-reveals-identity, refs: ["12:89", "12:90"]}
+      - {motif: hero-forgives-brothers, refs: ["12:92"]}
+      - {motif: garment-restores-sight, refs: ["12:93", "12:96"]}
+      - {motif: father-smells-son, refs: ["12:94"], note: "rīḥ Yūsuf, sensed when the caravan sets out with the shirt"}
+      - {motif: father-revived-by-news, refs: ["12:96"]}
+      - {motif: family-migrates-to-egypt, refs: ["12:93", "12:99"]}
+      - {motif: reunion-with-father, refs: ["12:99"], note: "both parents (abawayhi)"}
+      - {motif: parents-honored-dream-fulfilled, refs: ["12:100"]}
+      - {motif: hero-sees-divine-plan, refs: ["12:100"]}
+      - {motif: hero-prays-for-good-death, refs: ["12:101"]}
+
+  - id: hb-joseph
+    tradition: judaism
+    title: Joseph in Genesis (37, 39–50)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 37", "Gen 39", "Gen 40", "Gen 41", "Gen 42", "Gen 43", "Gen 44", "Gen 45", "Gen 46", "Gen 47", "Gen 48", "Gen 49", "Gen 50"]
+    tags:
+      - {motif: father-favors-son, refs: ["Gen 37:3", "Gen 37:4"]}
+      - {motif: special-garment-from-father, refs: ["Gen 37:3"]}
+      - {motif: dream-sheaves-bow, refs: ["Gen 37:7"]}
+      - {motif: dream-heavenly-bodies-bow, refs: ["Gen 37:9"]}
+      - {motif: father-rebukes-dream, refs: ["Gen 37:10", "Gen 37:11"]}
+      - {motif: father-sends-son-to-brothers, refs: ["Gen 37:13", "Gen 37:14"]}
+      - {motif: brothers-plot-death, refs: ["Gen 37:18", "Gen 37:20"]}
+      - {motif: wild-animal-blamed, refs: ["Gen 37:20", "Gen 37:33"], note: "an evil beast (ḥayyā rāʿā)"}
+      - {motif: one-brother-dissuades-killing, refs: ["Gen 37:21", "Gen 37:22", "Gen 37:26", "Gen 37:27"], note: "Reuben, then Judah"}
+      - {motif: cast-into-pit, refs: ["Gen 37:24"], note: "the pit was empty, no water in it"}
+      - {motif: rescued-by-caravan, refs: ["Gen 37:25", "Gen 37:28"]}
+      - {motif: sold-for-paltry-price, refs: ["Gen 37:28"], note: twenty pieces of silver}
+      - {motif: bloodied-garment-deception, refs: ["Gen 37:31", "Gen 37:32"]}
+      - {motif: father-believes-and-mourns, refs: ["Gen 37:33", "Gen 37:34", "Gen 37:35"]}
+      - {motif: bought-by-egyptian-official, refs: ["Gen 37:36", "Gen 39:1"]}
+      - {motif: divine-favor-in-servitude, refs: ["Gen 39:2", "Gen 39:3", "Gen 39:21", "Gen 39:23"]}
+      - {motif: master-entrusts-household, refs: ["Gen 39:4", "Gen 39:6"]}
+      - {motif: hero-beautiful, refs: ["Gen 39:6"]}
+      - {motif: masters-wife-seduces, refs: ["Gen 39:7", "Gen 39:10", "Gen 39:12"]}
+      - {motif: hero-refuses-citing-master-and-god, refs: ["Gen 39:8", "Gen 39:9"]}
+      - {motif: alone-in-house, refs: ["Gen 39:11"]}
+      - {motif: garment-evidence-in-seduction, refs: ["Gen 39:12", "Gen 39:13", "Gen 39:16"], note: "garment left in her hand"}
+      - {motif: false-accusation-by-wife, refs: ["Gen 39:14", "Gen 39:17", "Gen 39:18"]}
+      - {motif: hero-imprisoned, refs: ["Gen 39:20"]}
+      - {motif: prisoners-dreams-wine-bread, refs: ["Gen 40:5", "Gen 40:9", "Gen 40:10", "Gen 40:11", "Gen 40:16", "Gen 40:17"]}
+      - {motif: birds-eat-bread-from-head, refs: ["Gen 40:17", "Gen 40:19"]}
+      - {motif: interpretation-from-god, refs: ["Gen 40:8", "Gen 41:16", "Gen 41:25"]}
+      - {motif: one-executed-one-restored, refs: ["Gen 40:13", "Gen 40:19", "Gen 40:21", "Gen 40:22"], note: "hanged on a tree"}
+      - {motif: remember-me-to-king, refs: ["Gen 40:14"]}
+      - {motif: freed-prisoner-forgets, refs: ["Gen 40:23", "Gen 41:1"], note: two years}
+      - {motif: king-dream-cows-and-ears, refs: ["Gen 41:2", "Gen 41:3", "Gen 41:4", "Gen 41:5", "Gen 41:6", "Gen 41:7"]}
+      - {motif: court-experts-fail, refs: ["Gen 41:8", "Gen 41:24"]}
+      - {motif: cupbearer-recalls-hero, refs: ["Gen 41:9", "Gen 41:12"]}
+      - {motif: famine-grain-storage-plan, refs: ["Gen 41:34", "Gen 41:35", "Gen 41:48"]}
+      - {motif: hero-appointed-over-storehouses, refs: ["Gen 41:40", "Gen 41:41", "Gen 41:56"]}
+      - {motif: investiture-ring-chariot, refs: ["Gen 41:42", "Gen 41:43"]}
+      - {motif: hero-given-egyptian-wife, refs: ["Gen 41:45"]}
+      - {motif: brothers-come-unrecognizing, refs: ["Gen 42:6", "Gen 42:7", "Gen 42:8"]}
+      - {motif: spy-accusation, refs: ["Gen 42:9", "Gen 42:14"]}
+      - {motif: demand-youngest-brother, refs: ["Gen 42:15", "Gen 42:20", "Gen 42:34"]}
+      - {motif: one-brother-left-in-egypt, refs: ["Gen 42:24"], note: Simeon is held}
+      - {motif: money-returned-in-sacks, refs: ["Gen 42:25", "Gen 42:27", "Gen 42:35"]}
+      - {motif: father-reluctant-youngest, refs: ["Gen 42:36", "Gen 42:38", "Gen 43:6"]}
+      - {motif: pledge-to-father, refs: ["Gen 42:37", "Gen 43:9"], note: "Reuben, then Judah"}
+      - {motif: planted-cup, refs: ["Gen 44:2", "Gen 44:5"]}
+      - {motif: theft-accusation-pursuit, refs: ["Gen 44:4", "Gen 44:6", "Gen 44:8"]}
+      - {motif: thief-penalty-set-by-brothers, refs: ["Gen 44:9", "Gen 44:10"]}
+      - {motif: search-eldest-to-youngest, refs: ["Gen 44:12"]}
+      - {motif: offer-substitute, refs: ["Gen 44:33"]}
+      - {motif: hero-reveals-identity, refs: ["Gen 45:3", "Gen 45:4"]}
+      - {motif: hero-sees-divine-plan, refs: ["Gen 45:5", "Gen 45:8", "Gen 50:20"]}
+      - {motif: hero-forgives-brothers, refs: ["Gen 45:5", "Gen 50:19", "Gen 50:21"]}
+      - {motif: family-migrates-to-egypt, refs: ["Gen 45:9", "Gen 45:10", "Gen 46:5", "Gen 46:6"]}
+      - {motif: father-revived-by-news, refs: ["Gen 45:26", "Gen 45:27"]}
+      - {motif: reunion-with-father, refs: ["Gen 46:29", "Gen 46:30"]}
+      - {motif: parents-honored-dream-fulfilled, refs: ["Gen 42:6", "Gen 42:9", "Gen 50:18"], note: "the brothers bow; Joseph remembers his dreams. Rachel is already dead (Gen 48:7)."}
+      - {motif: famine-land-purchase, refs: ["Gen 47:20", "Gen 47:23", "Gen 47:24"]}
+      - {motif: father-burial-in-homeland, refs: ["Gen 47:29", "Gen 47:30", "Gen 49:29", "Gen 50:5"]}
+      - {motif: father-eyesight-fails, refs: ["Gen 48:10"], note: "from old age"}
+      - {motif: crossed-hands-blessing, refs: ["Gen 48:14"]}
+      - {motif: embalming, refs: ["Gen 50:2", "Gen 50:3", "Gen 50:26"]}
+      - {motif: brothers-fear-revenge, refs: ["Gen 50:15", "Gen 50:16", "Gen 50:17"]}
+      - {motif: bones-carried-out-oath, refs: ["Gen 50:25"]}
+      - {motif: hero-age-110, refs: ["Gen 50:22", "Gen 50:26"]}
+
+  - id: hb-isaac-smells-garment
+    tradition: judaism
+    title: Isaac smells Jacob's garments (Genesis 27:27)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 27:27"]
+    tags:
+      - {motif: father-smells-son, refs: ["Gen 27:27"], note: "rêaḥ bənî, the smell of my son, from his garments"}
+
+  - id: eg-two-brothers
+    tradition: ane-egyptian
+    title: Tale of Two Brothers (Papyrus d'Orbiney)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: masters-wife-seduces, refs: ["Two Brothers"], note: "the elder brother's wife and the younger brother Bata"}
+      - {motif: false-accusation-by-wife, refs: ["Two Brothers"]}
+      - {motif: master-entrusts-household, refs: ["Two Brothers"]}
+
+  - id: jud-sotah-36b
+    tradition: judaism
+    title: Joseph sees his father's image (Babylonian Talmud, Sotah 36b)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: hero-nearly-yields-sign-intervenes, refs: ["Sotah 36b"], note: "his father's image appeared to him"}
+      - {motif: alone-in-house, refs: ["Sotah 36b"]}
+
+  - id: jud-tanhuma-vayeshev
+    tradition: judaism
+    title: The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: women-cut-hands, refs: ["Vayeshev 5"], note: "they cut their hands while peeling citrons; Tanhuma's redaction is dated variously, so the direction of influence is open"}
+      - {motif: hero-beautiful, refs: ["Vayeshev 5"]}
+
+  - id: jud-genesis-rabbah-91
+    tradition: judaism
+    title: Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: separate-gates-evil-eye, refs: ["91:6"], note: "check the exact section; Rashi on Gen 42:5 cites this tradition"}
+      - {motif: father-reluctant-youngest, refs: ["91"]}
+
+  - id: jud-joseph-aseneth
+    tradition: judaism
+    title: Joseph and Aseneth
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: hero-given-egyptian-wife, refs: ["1–21"]}
+      - {motif: hero-beautiful, refs: ["6"]}

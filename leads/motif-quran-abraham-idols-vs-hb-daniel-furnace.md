@@ -30,12 +30,6 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ
     مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 37:97
-  note: Hero thrown into a fire or furnace by a king or people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
 - tradition: judaism
   ref: Dan 3:20
   note: Hero thrown into a fire or furnace by a king or people
@@ -72,8 +66,8 @@ passages:
     לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ
     וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן
 evidence:
-- text: 'Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 2.1);
-    The fire does not harm the hero (weight 2.1). Pair score 4.2.'
+- text: 'Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 2.4);
+    The fire does not harm the hero (weight 2.4). Pair score 4.8.'
   basis: reading
 - text: 'Only in Abraham and the idols in the Quran: Hero''s father makes, sells or worships idols; Hero
     reasons from the stars, moon and sun to the one God; Hero smashes or burns idols; Hero blames the
