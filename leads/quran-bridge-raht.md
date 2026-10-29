@@ -22,12 +22,25 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 11:91
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًا
+    وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍ
 - tradition: islam
   ref: Quran 11:92
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا
+    إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ
 - tradition: islam
   ref: Quran 27:48
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 evidence:
-- p = 2.4e-06 (hypergeometric, verse level).
+- text: p = 2.4e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic
+    Corpus lemmas.
+  basis: original
 origin: pipeline
 added: '2026-10-29'
 ---

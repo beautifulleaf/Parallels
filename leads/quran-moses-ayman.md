@@ -36,14 +36,33 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 19:52
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
 - tradition: islam
   ref: Quran 20:80
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
+    ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
 - tradition: islam
   ref: Quran 28:30
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
+    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
 evidence:
-- p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.
-- Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition;
-  check them before relying on them.
+- text: p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the
+    Quranic Arabic Corpus lemmas.
+  basis: original
+- text: 'Synonym skew: قَيِّم (qayyim, 5 verses) has only 0% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
+- text: Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept
+    only if Strong's English definition contains the Arabic word's English gloss. The meaning check is
+    gloss-based; confirm it in the originals.
+  basis: gloss
 origin: pipeline
 added: '2026-10-29'
 ---

@@ -46,45 +46,69 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 7:136
-  text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا
-    وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ
   note: Pharaoh's people drowned in the yamm
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟
+    عَنْهَا غَٰفِلِينَ
 - tradition: islam
   ref: Quran 20:39
-  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
-    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ
   note: Infant Moses cast into the yamm (two occurrences)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
+    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 - tradition: islam
   ref: Quran 20:78
-  text: فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ
   note: Pharaoh's army overwhelmed
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ
 - tradition: islam
   ref: Quran 20:97
-  text: لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
   note: The golden calf scattered into the yamm
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن
+    تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ
+    فِى ٱلْيَمِّ نَسْفًا
 - tradition: islam
   ref: Quran 28:7
-  text: فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ
   note: Moses' mother told to cast him into the yamm
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى
+    ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
 - tradition: islam
   ref: Quran 28:40
-  text: فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ
   note: Pharaoh and his army cast into the yamm
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ
 - tradition: islam
   ref: Quran 51:40
-  text: فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
   note: Pharaoh and his army cast into the yamm
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
 - tradition: judaism
   ref: Exodus 15:4
   note: Pharaoh's officers drowned in yam suf
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם סֽוּף
 evidence:
-- 8 occurrences of the lemma, verified with the Quran word concordance (root ي م م); the other root hits
-  are the unrelated verb tayammum (2:267, 4:43, 5:6).
-- 'Dispersion: 4 surahs (7, 20, 28, 51), 1 narrative. Concentrated in one story while spread across the
-  text.'
-- 'Synonym-choice skew: bahr is the general word for sea elsewhere in the Quran.'
-- Egyptian ym is a Semitic loanword, so this is shared Semitic vocabulary fitting the Egyptian setting,
-  not an Egyptian borrowing into Arabic.
+- text: 8 occurrences of the lemma, verified with the Quran word concordance (root ي م م); the other root
+    hits are the unrelated verb tayammum (2:267, 4:43, 5:6).
+  basis: original
+- text: 'Dispersion: 4 surahs (7, 20, 28, 51), 1 narrative. Concentrated in one story while spread across
+    the text.'
+  basis: original
+- text: 'Synonym-choice skew: bahr is the general word for sea elsewhere in the Quran.'
+  basis: original
+- text: Egyptian ym is a Semitic loanword, so this is shared Semitic vocabulary fitting the Egyptian setting,
+    not an Egyptian borrowing into Arabic.
+  basis: scholarship
 sources:
 - label: Quran 20:39 (quran.com)
   url: https://quran.com/20/39

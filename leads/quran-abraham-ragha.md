@@ -26,12 +26,31 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 37:91
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
 - tradition: islam
   ref: Quran 37:93
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
 - tradition: islam
   ref: Quran 51:26
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
 evidence:
-- p = 2.2e-05 (hypergeometric, verse level), q = 1.1e-04.
+- text: p = 2.2e-05 (hypergeometric, verse level), q = 1.1e-04. Counted from the original text with the
+    Quranic Arabic Corpus lemmas.
+  basis: original
+- text: 'Synonym skew: قَلَّبُ (qallabu, 6 verses) has only 0% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
+- text: 'Synonym skew: أَدْبَرَ (ʾadbara, 4 verses) has only 0% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
 origin: pipeline
 added: '2026-10-29'
 ---

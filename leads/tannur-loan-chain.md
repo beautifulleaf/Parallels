@@ -35,10 +35,21 @@ passages:
 - tradition: islam
   ref: Quran 11:40
   note: and the oven boiled (fāra al-tannūr)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
+    قَلِيلٌ
 - tradition: islam
   ref: Quran 23:27
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
+    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 evidence:
-- The loan chain is established. The motif link (a hot or boiling flood) is the lead to investigate.
+- text: The loan chain is established. The motif link (a hot or boiling flood) is the lead to investigate.
+  basis: scholarship
 sources:
 - label: Quran 11:40 (quran.com)
   url: https://quran.com/11/40

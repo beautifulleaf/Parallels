@@ -187,7 +187,10 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 21:51–70; 37:83–98"
+     "ref": "Quran 21:51–70; 37:83–98",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     }
    ],
    "sources": [
@@ -234,7 +237,10 @@
     {
      "tradition": "judaism",
      "ref": "Proverbs 22:17–24:22",
-     "note": "'thirty sayings' in Proverbs 22:20"
+     "note": "'thirty sayings' in Proverbs 22:20",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     }
    ],
    "benchmark": true,
@@ -289,7 +295,10 @@
     }
    ],
    "evidence": [
-    "The name chain bodhisattva → Būdhāsaf → Yūdāsaf → Iōasaph is the lexical spine of the lead."
+    {
+     "text": "The name chain bodhisattva → Būdhāsaf → Yūdāsaf → Iōasaph is the lexical spine of the lead.",
+     "basis": "scholarship"
+    }
    ],
    "benchmark": true,
    "origin": "human",
@@ -319,7 +328,10 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 5:31"
+     "ref": "Quran 5:31",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ"
     },
     {
      "tradition": "judaism",
@@ -327,7 +339,10 @@
     }
    ],
    "evidence": [
-    "Who learns from the raven differs (Cain vs. Adam). Dating PRE relative to the Quran is part of the question."
+    {
+     "text": "Who learns from the raven differs (Cain vs. Adam). Dating PRE relative to the Quran is part of the question.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -367,11 +382,17 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 3:49; 5:110"
+     "ref": "Quran 3:49; 5:110",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "(3:49) وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ (5:110) إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ"
     }
    ],
    "evidence": [
-    "The Quran adds 'by God's permission' (bi-idhnī), which reframes the miracle theologically. That is a response-type detail."
+    {
+     "text": "The Quran adds 'by God's permission' (bi-idhnī), which reframes the miracle theologically. That is a response-type detail.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -414,7 +435,10 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 18:83–102"
+     "ref": "Quran 18:83–102",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     },
     {
      "tradition": "christianity-eastern",
@@ -426,7 +450,10 @@
     }
    ],
    "evidence": [
-    "The Syriac Legend is often dated around 630 (Reinink), close to the Quran. The direction and the dating are both debated."
+    {
+     "text": "The Syriac Legend is often dated around 630 (Reinink), close to the Quran. The direction and the dating are both debated.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -479,7 +506,10 @@
     },
     {
      "tradition": "judaism",
-     "ref": "Genesis 6–9"
+     "ref": "Genesis 6–9",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     },
     {
      "tradition": "islam",
@@ -499,9 +529,18 @@
     }
    ],
    "evidence": [
-    "Specificity test: the bird-release sequence (Gilgamesh XI; Genesis 8) is a rare motif combination that marks the Mesopotamian–Hebrew link. The Quran has no bird release.",
-    "Noah's drowned son (Quran 11:42–43) has no Genesis counterpart and is a sub-lead.",
-    "The Chinese story is about controlling the flood, not surviving it, so it is a weak match."
+    {
+     "text": "Specificity test: the bird-release sequence (Gilgamesh XI; Genesis 8) is a rare motif combination that marks the Mesopotamian–Hebrew link. The Quran has no bird release.",
+     "basis": "scholarship"
+    },
+    {
+     "text": "Noah's drowned son (Quran 11:42–43) has no Genesis counterpart and is a sub-lead.",
+     "basis": "scholarship"
+    },
+    {
+     "text": "The Chinese story is about controlling the flood, not surviving it, so it is a weak match.",
+     "basis": "scholarship"
+    }
    ],
    "benchmark": true,
    "origin": "human",
@@ -619,7 +658,10 @@
     }
    ],
    "evidence": [
-    "haykal does not occur in the Quran; it is a control case for the lexical track."
+    {
+     "text": "haykal does not occur in the Quran; it is a control case for the lexical track.",
+     "basis": "scholarship"
+    }
    ],
    "benchmark": true,
    "origin": "human",
@@ -660,11 +702,17 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:34; 7:11–12; 15:28–33; 17:61; 18:50; 20:116; 38:71–76"
+     "ref": "Quran 2:34; 7:11–12; 15:28–33; 17:61; 18:50; 20:116; 38:71–76",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     }
    ],
    "evidence": [
-    "Iblis's argument from substance, fire vs. clay (7:12, 38:76): check whether the Syriac sources make the same argument."
+    {
+     "text": "Iblis's argument from substance, fire vs. clay (7:12, 38:76): check whether the Syriac sources make the same argument.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -838,16 +886,25 @@
     {
      "tradition": "islam",
      "ref": "Quran 2:255",
-     "note": "His kursī encompasses the heavens and the earth"
+     "note": "His kursī encompasses the heavens and the earth",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 38:34",
-     "note": "Solomon's kursī"
+     "note": "Solomon's kursī",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ"
     }
    ],
    "evidence": [
-    "Arabic kursī shows the Aramaic -r- form (dissimilated -ss- > -rs-), which points to Aramaic as the immediate source."
+    {
+     "text": "Arabic kursī shows the Aramaic -r- form (dissimilated -ss- > -rs-), which points to Aramaic as the immediate source.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -885,7 +942,10 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 33:40"
+     "ref": "Quran 33:40",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا"
     },
     {
      "tradition": "manichaeism",
@@ -893,7 +953,10 @@
     }
    ],
    "evidence": [
-    "See Stroumsa, 'Seal of the Prophets: The Nature of a Manichaean Metaphor' (1986), for the case against reading it as a Manichaean title."
+    {
+     "text": "See Stroumsa, 'Seal of the Prophets: The Nature of a Manichaean Metaphor' (1986), for the case against reading it as a Manichaean title.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -934,7 +997,10 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 3:35–37, 3:44"
+     "ref": "Quran 3:35–37, 3:44",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "(3:35) إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ (3:36) فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ (3:37) فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ (3:44) ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ"
     }
    ],
    "sources": [
@@ -976,11 +1042,17 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 19:22–26"
+     "ref": "Quran 19:22–26",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "(19:22) فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا (19:23) فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا (19:24) فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا (19:25) وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا (19:26) فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا"
     }
    ],
    "evidence": [
-    "The setting moves from the flight to Egypt to the birth itself."
+    {
+     "text": "The setting moves from the flight to Egypt to the birth itself.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -1028,19 +1100,39 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 37:91"
+     "ref": "Quran 37:91",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 37:93"
+     "ref": "Quran 37:93",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 51:26"
+     "ref": "Quran 51:26",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ"
     }
    ],
    "evidence": [
-    "p = 2.2e-05 (hypergeometric, verse level), q = 1.1e-04."
+    {
+     "text": "p = 2.2e-05 (hypergeometric, verse level), q = 1.1e-04. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: قَلَّبُ (qallabu, 6 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: أَدْبَرَ (ʾadbara, 4 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1081,39 +1173,70 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 2:36"
+     "ref": "Quran 2:36",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:38"
+     "ref": "Quran 2:38",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:61"
+     "ref": "Quran 2:61",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:74"
+     "ref": "Quran 2:74",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 7:13"
+     "ref": "Quran 7:13",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ فَٱهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخْرُجْ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 7:24"
+     "ref": "Quran 7:24",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 11:48"
+     "ref": "Quran 11:48",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:123"
+     "ref": "Quran 20:123",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ"
     }
    ],
    "evidence": [
-    "p = 1.0e-08 (hypergeometric, verse level), q = 1.8e-07."
+    {
+     "text": "p = 1.0e-08 (hypergeometric, verse level), q = 1.8e-07. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: نَزَّلَ (nazzala, 61 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1149,27 +1272,45 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 6:74"
+     "ref": "Quran 6:74",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 7:138"
+     "ref": "Quran 7:138",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 14:35"
+     "ref": "Quran 14:35",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 21:57"
+     "ref": "Quran 21:57",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 26:71"
+     "ref": "Quran 26:71",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ"
     }
    ],
    "evidence": [
-    "p = 9.0e-06 (hypergeometric, verse level)."
+    {
+     "text": "p = 9.0e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1213,32 +1354,56 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 2:67"
+     "ref": "Quran 2:67",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:68"
+     "ref": "Quran 2:68",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:69"
+     "ref": "Quran 2:69",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 2:71"
+     "ref": "Quran 2:71",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:43"
+     "ref": "Quran 12:43",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:46"
+     "ref": "Quran 12:46",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ"
     }
    ],
    "evidence": [
-    "p = 3.9e-07 (hypergeometric, verse level).",
-    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+    {
+     "text": "p = 3.9e-07 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1274,27 +1439,45 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 11:78"
+     "ref": "Quran 11:78",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 15:51"
+     "ref": "Quran 15:51",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 15:68"
+     "ref": "Quran 15:68",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 51:24"
+     "ref": "Quran 51:24",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 54:37"
+     "ref": "Quran 54:37",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ"
     }
    ],
    "evidence": [
-    "p = 8.1e-08 (hypergeometric, verse level)."
+    {
+     "text": "p = 8.1e-08 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1330,19 +1513,31 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 12:62"
+     "ref": "Quran 12:62",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 18:10"
+     "ref": "Quran 18:10",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 18:13"
+     "ref": "Quran 18:13",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًى"
     }
    ],
    "evidence": [
-    "p = 6.3e-06 (hypergeometric, verse level)."
+    {
+     "text": "p = 6.3e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1378,27 +1573,45 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 7:163"
+     "ref": "Quran 7:163",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 18:61"
+     "ref": "Quran 18:61",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًا"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 18:63"
+     "ref": "Quran 18:63",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًا"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 37:142"
+     "ref": "Quran 37:142",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 68:48"
+     "ref": "Quran 68:48",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ"
     }
    ],
    "evidence": [
-    "p = 2.0e-06 (hypergeometric, verse level)."
+    {
+     "text": "p = 2.0e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1434,19 +1647,31 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 11:91"
+     "ref": "Quran 11:91",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًا وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 11:92"
+     "ref": "Quran 11:92",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 27:48"
+     "ref": "Quran 27:48",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ"
     }
    ],
    "evidence": [
-    "p = 2.4e-06 (hypergeometric, verse level)."
+    {
+     "text": "p = 2.4e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1482,35 +1707,59 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 12:23"
+     "ref": "Quran 12:23",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:26"
+     "ref": "Quran 12:26",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:30"
+     "ref": "Quran 12:30",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍ مُّبِينٍ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:32"
+     "ref": "Quran 12:32",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّٰغِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:51"
+     "ref": "Quran 12:51",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 12:61"
+     "ref": "Quran 12:61",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 54:37"
+     "ref": "Quran 54:37",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ"
     }
    ],
    "evidence": [
-    "p = 7.3e-12 (hypergeometric, verse level)."
+    {
+     "text": "p = 7.3e-12 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1554,18 +1803,36 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 2:248"
+     "ref": "Quran 2:248",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:39"
+     "ref": "Quran 20:39",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ"
     }
    ],
    "evidence": [
-    "p = 5.1e-03 (hypergeometric, verse level).",
-    "The Quranic Arabic Corpus gives no root, which often marks a loanword.",
-    "Hebrew cognate תֵּבָה (H8392) is itself a rare word linking two Hebrew Bible narratives: Moses (2) and Noah and the Flood (23). Both words connect stories, and they share at least one.",
-    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+    {
+     "text": "p = 5.1e-03 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "The Quranic Arabic Corpus gives no root, which often marks a loanword.",
+     "basis": "original"
+    },
+    {
+     "text": "Hebrew cognate תֵּבָה (H8392) is itself a rare word linking two Hebrew Bible narratives: Moses (2) and Noah and the Flood (23). Both words connect stories, and they share at least one.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1601,19 +1868,31 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 7:22"
+     "ref": "Quran 7:22",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:121"
+     "ref": "Quran 20:121",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 38:33"
+     "ref": "Quran 38:33",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ"
     }
    ],
    "evidence": [
-    "p = 6.8e-06 (hypergeometric, verse level)."
+    {
+     "text": "p = 6.8e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1654,35 +1933,67 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 7:83"
+     "ref": "Quran 7:83",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 15:60"
+     "ref": "Quran 15:60",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 26:171"
+     "ref": "Quran 26:171",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 27:57"
+     "ref": "Quran 27:57",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 29:32"
+     "ref": "Quran 29:32",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ إِنَّ فِيهَا لُوطًا قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 29:33"
+     "ref": "Quran 29:33",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 37:135"
+     "ref": "Quran 37:135",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ"
     }
    ],
    "evidence": [
-    "p = 2.2e-09 (hypergeometric, verse level), q = 4.5e-08."
+    {
+     "text": "p = 2.2e-09 (hypergeometric, verse level), q = 4.5e-08. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: خَلْف (khalf, 22 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: وَراء (warāʾ, 24 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1723,23 +2034,42 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 7:155"
+     "ref": "Quran 7:155",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:13"
+     "ref": "Quran 20:13",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 28:68"
+     "ref": "Quran 28:68",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 44:32"
+     "ref": "Quran 44:32",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ"
     }
    ],
    "evidence": [
-    "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03."
+    {
+     "text": "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1780,23 +2110,42 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 4:6"
+     "ref": "Quran 4:6",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:10"
+     "ref": "Quran 20:10",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 27:7"
+     "ref": "Quran 27:7",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 28:29"
+     "ref": "Quran 28:29",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ"
     }
    ],
    "evidence": [
-    "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03."
+    {
+     "text": "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: يَشْعُرُ (yashʿuru, 25 verses) has only 8% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1851,20 +2200,39 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 19:52"
+     "ref": "Quran 19:52",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:80"
+     "ref": "Quran 20:80",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 28:30"
+     "ref": "Quran 28:30",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ"
     }
    ],
    "evidence": [
-    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.",
-    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+    {
+     "text": "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: قَيِّم (qayyim, 5 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1907,21 +2275,39 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 2:57"
+     "ref": "Quran 2:57",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 7:160"
+     "ref": "Quran 7:160",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:80"
+     "ref": "Quran 20:80",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ"
     }
    ],
    "evidence": [
-    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.",
-    "Hebrew cognate שְׂלָו (H7958) is also concentrated in the same narrative in the Hebrew Bible (75% of its verses).",
-    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+    {
+     "text": "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Hebrew cognate שְׂלָו (H7958) is also concentrated in the same narrative in the Hebrew Bible (75% of its verses).",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -1962,19 +2348,35 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 7:117"
+     "ref": "Quran 7:117",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 20:69"
+     "ref": "Quran 20:69",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 26:45"
+     "ref": "Quran 26:45",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ"
     }
    ],
    "evidence": [
-    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03."
+    {
+     "text": "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: خَسَفَ (khasafa, 8 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
    ],
    "origin": "pipeline",
    "added": "2026-10-29",
@@ -2013,11 +2415,17 @@
    "passages": [
     {
      "tradition": "islam",
-     "ref": "Quran 2:62; 5:69; 22:17"
+     "ref": "Quran 2:62; 5:69; 22:17",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "(2:62) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ (5:69) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـُٔونَ وَٱلنَّصَٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ (22:17) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلْمَجُوسَ وَٱلَّذِينَ أَشْرَكُوٓا۟ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ"
     }
    ],
    "evidence": [
-    "A proposed etymology links the name to Aramaic/Mandaic ṣbaʿ 'immerse', which would fit a baptist group."
+    {
+     "text": "A proposed etymology links the name to Aramaic/Mandaic ṣbaʿ 'immerse', which would fit a baptist group.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -2062,17 +2470,29 @@
     {
      "tradition": "judaism",
      "ref": "Exodus 2:1–10",
-     "note": "papyrus basket daubed with bitumen and pitch"
+     "note": "papyrus basket daubed with bitumen and pitch",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "(2:1) וַיֵּ֥לֶךְ אִ֖ישׁ מִבֵּ֣ית לֵוִ֑י וַיִּקַּ֖ח אֶת בַּת לֵוִֽי (2:2) וַתַּ֥הַר הָאִשָּׁ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתֵּ֤רֶא אֹתוֹ֙ כִּי ט֣וֹב ה֔וּא וַֽתִּצְפְּנֵ֖הוּ שְׁלֹשָׁ֥ה יְרָחִֽים (2:3) וְלֹא יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר וּבַזָּ֑פֶת וַתָּ֤שֶׂם בָּהּ֙ אֶת הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל שְׂפַ֥ת הַיְאֹֽר (2:4) וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ (2:5) וַתֵּ֤רֶד בַּת פַּרְעֹה֙ לִרְחֹ֣ץ עַל הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא אֶת הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת אֲמָתָ֖הּ וַתִּקָּחֶֽהָ (2:6) וַתִּפְתַּח֙ וַתִּרְאֵ֣הוּ אֶת הַיֶּ֔לֶד וְהִנֵּה נַ֖עַר בֹּכֶ֑ה וַתַּחְמֹ֣ל עָלָ֔יו וַתֹּ֕אמֶר מִיַּלְדֵ֥י הָֽעִבְרִ֖ים זֶֽה (2:7) וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד (2:8) וַתֹּֽאמֶר לָ֥הּ בַּת פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֨לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת אֵ֥ם הַיָּֽלֶד (2:9) וַתֹּ֧אמֶר לָ֣הּ בַּת פַּרְעֹ֗ה הֵילִ֜יכִי אֶת הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י אֶתֵּ֣ן אֶת שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ (2:10) וַיִגְדַּ֣ל הַיֶּ֗לֶד וַתְּבִאֵ֨הוּ֙ לְבַת פַּרְעֹ֔ה וַֽיְהִי לָ֖הּ לְבֵ֑ן וַתִּקְרָ֤א שְׁמוֹ֙ מֹשֶׁ֔ה וַתֹּ֕אמֶר כִּ֥י מִן הַמַּ֖יִם מְשִׁיתִֽהוּ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 20:38–39; 28:7–13",
-     "note": "cast into the tābūt and the yamm"
+     "note": "cast into the tābūt and the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "(20:38) إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ (20:39) أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ (28:7) وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ (28:8) فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ (28:9) وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ (28:10) وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ (28:11) وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ (28:12) وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ (28:13) فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
     }
    ],
    "evidence": [
-    "Shares the yamm passages with lead yamm-sea.",
-    "The bitumen sealing is a specific shared detail between Sargon and Exodus."
+    {
+     "text": "Shares the yamm passages with lead yamm-sea.",
+     "basis": "scholarship"
+    },
+    {
+     "text": "The bitumen sealing is a specific shared detail between Sargon and Exodus.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -2112,12 +2532,21 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 5:32"
+     "ref": "Quran 5:32",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ"
     }
    ],
    "evidence": [
-    "The Quran explicitly frames it as a precept for the Children of Israel.",
-    "Mishnah manuscripts differ: some read 'a single life', others 'a single life of Israel'. Compare which reading the Quran matches."
+    {
+     "text": "The Quran explicitly frames it as a precept for the Children of Israel.",
+     "basis": "scholarship"
+    },
+    {
+     "text": "Mishnah manuscripts differ: some read 'a single life', others 'a single life of Israel'. Compare which reading the Quran matches.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -2168,7 +2597,10 @@
     }
    ],
    "evidence": [
-    "Majmaʿ al-Baḥrayn ('the meeting of the two seas') takes its title from Quran 18:60."
+    {
+     "text": "Majmaʿ al-Baḥrayn ('the meeting of the two seas') takes its title from Quran 18:60.",
+     "basis": "scholarship"
+    }
    ],
    "benchmark": true,
    "origin": "human",
@@ -2209,11 +2641,17 @@
     },
     {
      "tradition": "islam",
-     "ref": "Quran 18:9–26"
+     "ref": "Quran 18:9–26",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text_omitted": "longer than 12 verses; read it in the source"
     }
    ],
    "evidence": [
-    "The Quran's debate over how many sleepers there were (18:22) suggests the audience knew competing versions."
+    {
+     "text": "The Quran's debate over how many sleepers there were (18:22) suggests the audience knew competing versions.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -2273,15 +2711,24 @@
     {
      "tradition": "islam",
      "ref": "Quran 11:40",
-     "note": "and the oven boiled (fāra al-tannūr)"
+     "note": "and the oven boiled (fāra al-tannūr)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ"
     },
     {
      "tradition": "islam",
-     "ref": "Quran 23:27"
+     "ref": "Quran 23:27",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ"
     }
    ],
    "evidence": [
-    "The loan chain is established. The motif link (a hot or boiling flood) is the lead to investigate."
+    {
+     "text": "The loan chain is established. The motif link (a hot or boiling flood) is the lead to investigate.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {
@@ -2371,7 +2818,10 @@
     }
    ],
    "evidence": [
-    "Mendenhall (1954) argued for the Hittite model. Many scholars now consider Neo-Assyrian treaties the closer parallel. Which source is closer is the open question."
+    {
+     "text": "Mendenhall (1954) argued for the Hittite model. Many scholars now consider Neo-Assyrian treaties the closer parallel. Which source is closer is the open question.",
+     "basis": "scholarship"
+    }
    ],
    "benchmark": true,
    "origin": "human",
@@ -2440,56 +2890,85 @@
     {
      "tradition": "islam",
      "ref": "Quran 7:136",
-     "text": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
-     "note": "Pharaoh's people drowned in the yamm"
+     "note": "Pharaoh's people drowned in the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 20:39",
-     "text": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ",
-     "note": "Infant Moses cast into the yamm (two occurrences)"
+     "note": "Infant Moses cast into the yamm (two occurrences)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 20:78",
-     "text": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
-     "note": "Pharaoh's army overwhelmed"
+     "note": "Pharaoh's army overwhelmed",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 20:97",
-     "text": "لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
-     "note": "The golden calf scattered into the yamm"
+     "note": "The golden calf scattered into the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا"
     },
     {
      "tradition": "islam",
      "ref": "Quran 28:7",
-     "text": "فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ",
-     "note": "Moses' mother told to cast him into the yamm"
+     "note": "Moses' mother told to cast him into the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 28:40",
-     "text": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ",
-     "note": "Pharaoh and his army cast into the yamm"
+     "note": "Pharaoh and his army cast into the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ"
     },
     {
      "tradition": "islam",
      "ref": "Quran 51:40",
-     "text": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ",
-     "note": "Pharaoh and his army cast into the yamm"
+     "note": "Pharaoh and his army cast into the yamm",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ"
     },
     {
      "tradition": "judaism",
      "ref": "Exodus 15:4",
-     "note": "Pharaoh's officers drowned in yam suf"
+     "note": "Pharaoh's officers drowned in yam suf",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם סֽוּף"
     }
    ],
    "evidence": [
-    "8 occurrences of the lemma, verified with the Quran word concordance (root ي م م); the other root hits are the unrelated verb tayammum (2:267, 4:43, 5:6).",
-    "Dispersion: 4 surahs (7, 20, 28, 51), 1 narrative. Concentrated in one story while spread across the text.",
-    "Synonym-choice skew: bahr is the general word for sea elsewhere in the Quran.",
-    "Egyptian ym is a Semitic loanword, so this is shared Semitic vocabulary fitting the Egyptian setting, not an Egyptian borrowing into Arabic."
+    {
+     "text": "8 occurrences of the lemma, verified with the Quran word concordance (root ي م م); the other root hits are the unrelated verb tayammum (2:267, 4:43, 5:6).",
+     "basis": "original"
+    },
+    {
+     "text": "Dispersion: 4 surahs (7, 20, 28, 51), 1 narrative. Concentrated in one story while spread across the text.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym-choice skew: bahr is the general word for sea elsewhere in the Quran.",
+     "basis": "original"
+    },
+    {
+     "text": "Egyptian ym is a Semitic loanword, so this is shared Semitic vocabulary fitting the Egyptian setting, not an Egyptian borrowing into Arabic.",
+     "basis": "scholarship"
+    }
    ],
    "sources": [
     {

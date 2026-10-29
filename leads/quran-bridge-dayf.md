@@ -22,16 +22,35 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 11:78
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ قَالَ
+    يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ
+    أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
 - tradition: islam
   ref: Quran 15:51
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
 - tradition: islam
   ref: Quran 15:68
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
 - tradition: islam
   ref: Quran 51:24
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ
 - tradition: islam
   ref: Quran 54:37
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
 evidence:
-- p = 8.1e-08 (hypergeometric, verse level).
+- text: p = 8.1e-08 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic
+    Corpus lemmas.
+  basis: original
 origin: pipeline
 added: '2026-10-29'
 ---

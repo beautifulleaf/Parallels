@@ -22,6 +22,8 @@ RELATIONS = {"internal", "inheritance", "transmission", "convergence", "response
 STANDINGS = {"established", "proposed", "contested", "fringe"}
 LAYERS = {"lexical", "motif", "concept"}
 ORIGINS = {"human", "pipeline"}
+BASES = {"original", "lexicon", "gloss", "scholarship"}
+VERDICTS = {"confirmed", "corrected", "disputed"}
 REQUIRED = ["id", "title", "summary", "status", "relations", "standing",
             "traditions", "layers", "origin", "added"]
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
@@ -71,6 +73,15 @@ def validate(lead, path, tradition_ids):
     for p in lead.get("passages") or []:
         if p.get("tradition") not in tradition_ids:
             errors.append(f"passage '{p.get('ref')}' has unknown tradition")
+    for e in lead.get("evidence") or []:
+        if isinstance(e, dict) and (not e.get("text") or e.get("basis") not in BASES):
+            errors.append(f"evidence items need 'text' and a 'basis' in {sorted(BASES)}")
+            break
+    for r in lead.get("reviews") or []:
+        if not isinstance(r, dict) or not r.get("by") or r.get("verdict") not in VERDICTS:
+            errors.append(f"reviews need 'by' and a 'verdict' in {sorted(VERDICTS)}")
+            break
+        r["date"] = str(r.get("date", ""))
     for key in ("motifs", "concepts"):
         bad = [v for v in lead.get(key) or [] if not SLUG.match(str(v))]
         if bad:

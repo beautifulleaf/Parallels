@@ -36,7 +36,8 @@ lexical:
   translit: Iōasaph
   gloss: Josaphat
 evidence:
-- The name chain bodhisattva → Būdhāsaf → Yūdāsaf → Iōasaph is the lexical spine of the lead.
+- text: The name chain bodhisattva → Būdhāsaf → Yūdāsaf → Iōasaph is the lexical spine of the lead.
+  basis: scholarship
 benchmark: true
 origin: human
 added: '2026-10-29'

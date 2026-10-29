@@ -35,7 +35,8 @@ lexical:
   translit: haykal
   gloss: temple, structure
 evidence:
-- haykal does not occur in the Quran; it is a control case for the lexical track.
+- text: haykal does not occur in the Quran; it is a control case for the lexical track.
+  basis: scholarship
 benchmark: true
 origin: human
 added: '2026-10-29'

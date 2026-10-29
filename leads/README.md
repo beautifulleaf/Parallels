@@ -22,16 +22,37 @@ fields marked **human** below, and it never changes the notes body.
 | `motifs` | no | — | kebab-case motif tags (pipeline leads use narrative ids here) |
 | `concepts` | no | — | kebab-case concept tags |
 | `lexical` | no | — | list of `{lang, form, translit, gloss}` |
-| `passages` | no | — | list of `{tradition, ref, text?, note?}`; `text` only when it comes from a verified source |
-| `evidence` | no | — | list of strings: counts, observations, arguments |
+| `passages` | no | — | list of `{tradition, ref, text?, lang?, source?, translation?, note?}`. `text` is always the original language, filled by `tools/originals.py` from the corpora; `translation` is optional and secondary |
+| `evidence` | no | — | list of `{text, basis}`; `basis` is `original` (read or counted from the original text), `lexicon` (a cited dictionary), `gloss` (depends on English glosses or translations), or `scholarship` (a secondary-literature claim to verify) |
 | `sources` | no | — | list of `{label, url?}` |
 | `benchmark` | no | — | `true` for the v0 gold set of known parallels |
+| `reviews` | no | **human** | list of `{by, date, verdict, scope?, note?}`; `verdict` is `confirmed` · `corrected` · `disputed` |
 | `origin` | yes | — | `human` or `pipeline` |
 | `added` | yes | — | ISO date |
 
 `status` records your review. `standing` records where scholarship stands.
 They are independent: an `established` parallel can still be `rejected` as
 uninteresting, and a `fringe` one can be `promising` for your purposes.
+
+## Checking a lead in the original
+
+Every lead shows the original-language text of its passages first. English
+glosses appear only as reading aids. Evidence marked `gloss` or `scholarship`
+is the part that most needs a reader of the original.
+
+After checking, add an entry to `reviews` (initials or name are fine):
+
+```yaml
+reviews:
+  - by: A. Reviewer
+    date: 2026-11-02
+    verdict: corrected          # confirmed | corrected | disputed
+    scope: Arabic passages and cognate
+    note: yamm and bahr are not interchangeable in 20:77-78; see notes.
+```
+
+Correct the lead itself where needed, and explain in the notes. The pipeline
+never edits `reviews`, `status`, or the notes.
 
 ## Body
 

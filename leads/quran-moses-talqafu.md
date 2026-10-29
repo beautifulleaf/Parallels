@@ -26,12 +26,28 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 7:117
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 - tradition: islam
   ref: Quran 20:69
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا يُفْلِحُ
+    ٱلسَّاحِرُ حَيْثُ أَتَىٰ
 - tradition: islam
   ref: Quran 26:45
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 evidence:
-- p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.
+- text: p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the
+    Quranic Arabic Corpus lemmas.
+  basis: original
+- text: 'Synonym skew: خَسَفَ (khasafa, 8 verses) has only 0% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
 origin: pipeline
 added: '2026-10-29'
 ---

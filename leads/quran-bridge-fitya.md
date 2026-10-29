@@ -22,12 +22,26 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 12:62
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا
+    ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
 - tradition: islam
   ref: Quran 18:10
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ
+    لَنَا مِنْ أَمْرِنَا رَشَدًا
 - tradition: islam
   ref: Quran 18:13
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ
+    هُدًى
 evidence:
-- p = 6.3e-06 (hypergeometric, verse level).
+- text: p = 6.3e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic
+    Corpus lemmas.
+  basis: original
 origin: pipeline
 added: '2026-10-29'
 ---

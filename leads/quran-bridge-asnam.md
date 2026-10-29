@@ -22,16 +22,36 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 6:74
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ
+    وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ
 - tradition: islam
   ref: Quran 7:138
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
+    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
 - tradition: islam
   ref: Quran 14:35
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ
+    ٱلْأَصْنَامَ
 - tradition: islam
   ref: Quran 21:57
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
 - tradition: islam
   ref: Quran 26:71
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
 evidence:
-- p = 9.0e-06 (hypergeometric, verse level).
+- text: p = 9.0e-06 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic
+    Corpus lemmas.
+  basis: original
 origin: pipeline
 added: '2026-10-29'
 ---

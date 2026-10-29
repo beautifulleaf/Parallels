@@ -25,8 +25,13 @@ passages:
   ref: Gregory of Tours, Passio septem dormientium
 - tradition: islam
   ref: Quran 18:9–26
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text_omitted: longer than 12 verses; read it in the source
 evidence:
-- The Quran's debate over how many sleepers there were (18:22) suggests the audience knew competing versions.
+- text: The Quran's debate over how many sleepers there were (18:22) suggests the audience knew competing
+    versions.
+  basis: scholarship
 sources:
 - label: Quran 18:9 (quran.com)
   url: https://quran.com/18/9

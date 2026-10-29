@@ -129,6 +129,20 @@ free-form Markdown notes. Git history is the review log. The pipeline may add
 new leads and refresh evidence, but it never overwrites human-edited status or
 notes. The artifact is regenerated from the repo.
 
+## Grounding in the originals
+
+Leads are built on original-language texts, not translations or glosses.
+
+- Every passage shows its original text, filled from the source corpora by
+  `tools/originals.py`. Translations are optional and secondary.
+- Every evidence item states its basis: `original`, `lexicon`, `gloss`, or
+  `scholarship`. Gloss-based signals (synonym pairing, the cognate meaning
+  check) are leads to check, never conclusions.
+- Readers of the original languages sign off per lead in `reviews`.
+- To do: replace the English-gloss heuristics with original-language lexica
+  (Lane's Lexicon for Arabic; BDB for Hebrew, whose open digital edition
+  marks where an Arabic cognate is cited but omits the Arabic word itself).
+
 ## Guarding against parallelomania
 
 - **Benchmark-first.** A gold set of established parallels must be recovered

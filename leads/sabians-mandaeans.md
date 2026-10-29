@@ -24,8 +24,19 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 2:62; 5:69; 22:17
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: (2:62) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ
+    بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ
+    عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ (5:69) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـُٔونَ
+    وَٱلنَّصَٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ
+    وَلَا هُمْ يَحْزَنُونَ (22:17) إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ
+    وَٱلْمَجُوسَ وَٱلَّذِينَ أَشْرَكُوٓا۟ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ
+    ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 evidence:
-- A proposed etymology links the name to Aramaic/Mandaic ṣbaʿ 'immerse', which would fit a baptist group.
+- text: A proposed etymology links the name to Aramaic/Mandaic ṣbaʿ 'immerse', which would fit a baptist
+    group.
+  basis: scholarship
 sources:
 - label: Quran 2:62 (quran.com)
   url: https://quran.com/2/62

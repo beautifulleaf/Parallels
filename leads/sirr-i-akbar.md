@@ -24,7 +24,8 @@ passages:
 - tradition: western-philosophy
   ref: Anquetil-Duperron, Oupnek'hat; Schopenhauer
 evidence:
-- Majmaʿ al-Baḥrayn ('the meeting of the two seas') takes its title from Quran 18:60.
+- text: Majmaʿ al-Baḥrayn ('the meeting of the two seas') takes its title from Quran 18:60.
+  basis: scholarship
 benchmark: true
 origin: human
 added: '2026-10-29'

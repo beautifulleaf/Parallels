@@ -22,6 +22,9 @@ passages:
   ref: Genesis Rabbah 38:13
 - tradition: islam
   ref: Quran 21:51–70; 37:83–98
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text_omitted: longer than 12 verses; read it in the source
 sources:
 - label: Genesis Rabbah 38:13 (Sefaria)
   url: https://www.sefaria.org/Bereshit_Rabbah.38.13

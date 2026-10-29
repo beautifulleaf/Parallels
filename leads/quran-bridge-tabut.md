@@ -28,15 +28,30 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 2:248
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
+    مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
+    إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 - tradition: islam
   ref: Quran 20:39
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
+    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
 evidence:
-- p = 5.1e-03 (hypergeometric, verse level).
-- The Quranic Arabic Corpus gives no root, which often marks a loanword.
-- 'Hebrew cognate תֵּבָה (H8392) is itself a rare word linking two Hebrew Bible narratives: Moses (2)
-  and Noah and the Flood (23). Both words connect stories, and they share at least one.'
-- Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition;
-  check them before relying on them.
+- text: p = 5.1e-03 (hypergeometric, verse level). Counted from the original text with the Quranic Arabic
+    Corpus lemmas.
+  basis: original
+- text: The Quranic Arabic Corpus gives no root, which often marks a loanword.
+  basis: original
+- text: 'Hebrew cognate תֵּבָה (H8392) is itself a rare word linking two Hebrew Bible narratives: Moses
+    (2) and Noah and the Flood (23). Both words connect stories, and they share at least one.'
+  basis: gloss
+- text: Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept
+    only if Strong's English definition contains the Arabic word's English gloss. The meaning check is
+    gloss-based; confirm it in the originals.
+  basis: gloss
 origin: pipeline
 added: '2026-10-29'
 ---

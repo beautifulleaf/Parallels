@@ -26,14 +26,36 @@ lexical:
 passages:
 - tradition: islam
   ref: Quran 7:155
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 - tradition: islam
   ref: Quran 20:13
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ
 - tradition: islam
   ref: Quran 28:68
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ
+    عَمَّا يُشْرِكُونَ
 - tradition: islam
   ref: Quran 44:32
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ
 evidence:
-- p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03.
+- text: p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the
+    Quranic Arabic Corpus lemmas.
+  basis: original
+- text: 'Synonym skew: اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
 origin: pipeline
 added: '2026-10-29'
 ---

@@ -24,8 +24,9 @@ passages:
 - tradition: judaism
   ref: Deuteronomy
 evidence:
-- Mendenhall (1954) argued for the Hittite model. Many scholars now consider Neo-Assyrian treaties the
-  closer parallel. Which source is closer is the open question.
+- text: Mendenhall (1954) argued for the Hittite model. Many scholars now consider Neo-Assyrian treaties
+    the closer parallel. Which source is closer is the open question.
+  basis: scholarship
 benchmark: true
 origin: human
 added: '2026-10-29'

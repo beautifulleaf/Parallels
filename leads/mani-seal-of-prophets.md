@@ -20,11 +20,16 @@ concepts:
 passages:
 - tradition: islam
   ref: Quran 33:40
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ
+    وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 - tradition: manichaeism
   ref: Kephalaia 1; al-Biruni's quotation of the Shābuhragān
 evidence:
-- 'See Stroumsa, ''Seal of the Prophets: The Nature of a Manichaean Metaphor'' (1986), for the case against
-  reading it as a Manichaean title.'
+- text: 'See Stroumsa, ''Seal of the Prophets: The Nature of a Manichaean Metaphor'' (1986), for the case
+    against reading it as a Manichaean title.'
+  basis: scholarship
 sources:
 - label: Quran 33:40 (quran.com)
   url: https://quran.com/33/40

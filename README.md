@@ -15,6 +15,7 @@ investigate them.
 pip install pyyaml
 python3 tools/fetch.py                  # download corpora into data/raw/ (not committed)
 python3 tools/lexical.py --write-leads  # lexical track: results/lexical/ + pipeline leads
+python3 tools/originals.py              # fill lead passages with original Arabic/Hebrew text
 python3 tools/build.py                  # validate leads, regenerate site/index.html
 ```
 

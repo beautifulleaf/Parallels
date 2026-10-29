@@ -42,12 +42,22 @@ passages:
 - tradition: islam
   ref: Quran 2:255
   note: His kursī encompasses the heavens and the earth
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
+    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
+    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
+    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 - tradition: islam
   ref: Quran 38:34
   note: Solomon's kursī
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ فَتَنَّا سُلَيْمَٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ
 evidence:
-- Arabic kursī shows the Aramaic -r- form (dissimilated -ss- > -rs-), which points to Aramaic as the immediate
-  source.
+- text: Arabic kursī shows the Aramaic -r- form (dissimilated -ss- > -rs-), which points to Aramaic as
+    the immediate source.
+  basis: scholarship
 sources:
 - label: Quran 2:255 (quran.com)
   url: https://quran.com/2/255

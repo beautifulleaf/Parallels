@@ -32,6 +32,9 @@ passages:
   ref: Atrahasis III; Gilgamesh XI (Utnapishtim)
 - tradition: judaism
   ref: Genesis 6–9
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text_omitted: longer than 12 verses; read it in the source
 - tradition: islam
   ref: Quran 11:25–49; sura 71
 - tradition: hinduism
@@ -41,10 +44,13 @@ passages:
 - tradition: chinese-religion
   ref: Shujing; Mencius (Gun and Yu tame the flood)
 evidence:
-- 'Specificity test: the bird-release sequence (Gilgamesh XI; Genesis 8) is a rare motif combination that
-  marks the Mesopotamian–Hebrew link. The Quran has no bird release.'
-- Noah's drowned son (Quran 11:42–43) has no Genesis counterpart and is a sub-lead.
-- The Chinese story is about controlling the flood, not surviving it, so it is a weak match.
+- text: 'Specificity test: the bird-release sequence (Gilgamesh XI; Genesis 8) is a rare motif combination
+    that marks the Mesopotamian–Hebrew link. The Quran has no bird release.'
+  basis: scholarship
+- text: Noah's drowned son (Quran 11:42–43) has no Genesis counterpart and is a sub-lead.
+  basis: scholarship
+- text: The Chinese story is about controlling the flood, not surviving it, so it is a weak match.
+  basis: scholarship
 benchmark: true
 origin: human
 added: '2026-10-29'

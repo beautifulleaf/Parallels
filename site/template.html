@@ -1,7 +1,7 @@
 <title>Parallels Ledger</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Naskh+Arabic:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Serif+Hebrew:wght@400;600&display=swap">
 <style>
 /* Layout: a ledger. Filter rail on the left, lead entries as a single reading column; entries open in place. */
 :root {
@@ -22,6 +22,7 @@
   --font-body: "Source Serif 4", "Noto Naskh Arabic", Georgia, "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   --font-arabic: "Noto Naskh Arabic", "Geeza Pro", "Traditional Arabic", serif;
+  --font-hebrew: "Noto Serif Hebrew", "SBL Hebrew", "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -125,12 +126,24 @@ table { border-collapse: collapse; font-size: 14px; min-width: 100%; }
 th, td { text-align: left; padding: 5px 10px 5px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
 th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
 .form { font-size: 18px; }
-[lang="ar"], [lang="he"], [lang="arc"], [lang="myz"] { font-family: var(--font-arabic); }
+[lang="ar"], [lang="arc"], [lang="myz"] { font-family: var(--font-arabic); }
+[lang="he"] { font-family: var(--font-hebrew); }
 .passage { display: grid; gap: 2px; padding: 8px 0; border-bottom: 1px solid var(--rule); }
 .passage:last-child { border-bottom: 0; }
 .passage .ref { font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
 .passage .trad { color: var(--muted); }
-.passage .text { font-family: var(--font-arabic); font-size: 20px; line-height: 1.9; direction: rtl; text-align: right; }
+.passage .text { font-size: 20px; line-height: 1.9; }
+.passage .text[dir="rtl"] { text-align: right; }
+.passage .translation { font-size: 14px; color: var(--muted); font-style: italic; }
+.passage .src { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+.basis { font-family: var(--font-mono); font-size: 10px; padding: 1px 6px; border-radius: 4px; margin-right: 6px; border: 1px solid var(--rule); color: var(--muted); white-space: nowrap; }
+.basis[data-basis="original"] { border-color: var(--est); color: var(--est); }
+.basis[data-basis="gloss"] { border-color: var(--cont); color: var(--cont); }
+.basis[data-basis="scholarship"] { border-color: var(--prop); color: var(--prop); }
+.tag.review { background: transparent; border: 1px dashed var(--cont); color: var(--cont); }
+.tag.review[data-checked="true"] { border-style: solid; border-color: var(--est); color: var(--est); }
+.review-item { font-size: 14px; }
+.hint { font-size: 13px; color: var(--muted); }
 .passage .note { font-size: 14px; color: var(--muted); }
 .notes { font-size: 15px; }
 .notes p { margin: 0 0 6px; }
@@ -160,6 +173,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       <div><h2>Standing</h2><div class="chips" id="f-standing"></div></div>
       <div><h2>Review status</h2><div class="chips" id="f-status"></div></div>
       <div><h2>Layer</h2><div class="chips" id="f-layers"></div></div>
+      <div><h2>Checked in the original</h2><div class="chips" id="f-review"></div></div>
       <div><h2>Traditions</h2><div id="f-traditions"></div></div>
       <div class="legend" aria-label="Standing colors">
         <span style="--c: var(--est)">established in scholarship</span>
@@ -190,15 +204,19 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     standing: ["established", "proposed", "contested", "fringe"],
     status: ["new", "investigating", "promising", "rejected"],
     layers: ["lexical", "motif", "concept"],
+    review: ["checked", "unchecked"],
   };
-  const state = { q: "", relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), traditions: new Set(), sort: "title" };
+  const RTL = new Set(["ar", "he", "arc", "syc", "myz"]);
+  const BASIS = { original: "from the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
+  const state = { q: "", relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), review: new Set(), traditions: new Set(), sort: "title" };
 
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const leadValue = (lead, key) => key === "standing" || key === "status" ? [lead[key]] : (lead[key] || []);
+  const leadValue = (lead, key) => key === "standing" || key === "status" ? [lead[key]]
+    : key === "review" ? [(lead.reviews || []).length ? "checked" : "unchecked"] : (lead[key] || []);
 
   function haystack(lead) {
     if (lead._hay) return lead._hay;
-    const parts = [lead.title, lead.summary, lead.notes, lead.direction, ...(lead.motifs || []), ...(lead.concepts || []), ...(lead.evidence || []),
+    const parts = [lead.title, lead.summary, lead.notes, lead.direction, ...(lead.motifs || []), ...(lead.concepts || []), ...(lead.evidence || []).map(e => e.text || e),
       ...(lead.traditions || []).map(t => TRAD[t]?.name),
       ...(lead.lexical || []).flatMap(x => [x.form, x.translit, x.gloss]),
       ...(lead.passages || []).flatMap(p => [p.ref, p.text, p.note])];
@@ -209,7 +227,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 
   function matches(lead, skip) {
     if (state.q && !norm(state.q).split(/\s+/).filter(Boolean).every(w => haystack(lead).includes(w))) return false;
-    for (const key of ["relations", "standing", "status", "layers"]) {
+    for (const key of ["relations", "standing", "status", "layers", "review"]) {
       if (key === skip || !state[key].size) continue;
       if (!leadValue(lead, key).some(v => state[key].has(v))) return false;
     }
@@ -225,7 +243,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   }
 
   function renderFilters() {
-    for (const key of ["relations", "standing", "status", "layers"]) {
+    for (const key of ["relations", "standing", "status", "layers", "review"]) {
       const pool = DATA.leads.filter(l => matches(l, key));
       document.getElementById("f-" + key).innerHTML = ORDER[key]
         .map(v => chip(v, v, key, pool.filter(l => leadValue(l, key).includes(v)).length)).join("");
@@ -269,16 +287,25 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       `<span class="tag status" data-status="${esc(lead.status)}">${esc(lead.status)}</span>`,
       ...lead.relations.map(r => `<span class="tag">${esc(r)}</span>`),
       lead.benchmark ? `<span class="tag bench">benchmark</span>` : "",
+      `<span class="tag review" data-checked="${(lead.reviews || []).length > 0}">${(lead.reviews || []).length ? "checked in original" : "not yet checked"}</span>`,
     ].join("");
     const lexical = lead.lexical?.length ? `<section><h3>Words</h3><div class="table-scroll"><table>
-        <thead><tr><th>Lang</th><th>Form</th><th>Translit.</th><th>Gloss</th></tr></thead><tbody>
+        <thead><tr><th>Lang</th><th>Original</th><th>Translit.</th><th>English gloss (aid only)</th></tr></thead><tbody>
         ${lead.lexical.map(x => `<tr><td>${esc(x.lang)}</td><td class="form" lang="${esc(x.lang)}">${esc(x.form)}</td><td><i>${esc(x.translit)}</i></td><td>${esc(x.gloss)}</td></tr>`).join("")}
         </tbody></table></div></section>` : "";
     const passages = lead.passages?.length ? `<section><h3>Passages</h3>${lead.passages.map(p => `<div class="passage">
         <div><span class="ref">${esc(p.ref)}</span> <span class="trad">${esc(TRAD[p.tradition]?.name || p.tradition)}</span></div>
-        ${p.text ? `<div class="text" lang="ar">${esc(p.text)}</div>` : ""}
-        ${p.note ? `<div class="note">${esc(p.note)}</div>` : ""}</div>`).join("")}</section>` : "";
-    const evidence = lead.evidence?.length ? `<section><h3>Evidence</h3><ul>${lead.evidence.map(e => `<li>${esc(e)}</li>`).join("")}</ul></section>` : "";
+        ${p.text ? `<div class="text" lang="${esc(p.lang || "")}"${RTL.has(p.lang) ? ' dir="rtl"' : ""}>${esc(p.text)}</div>` : ""}
+        ${p.text_omitted ? `<div class="hint">Original not shown: ${esc(p.text_omitted)}.</div>` : ""}
+        ${p.translation ? `<div class="translation">${esc(p.translation)}</div>` : ""}
+        ${p.note ? `<div class="note">${esc(p.note)}</div>` : ""}
+        ${p.source ? `<div class="src">${esc(p.source)}</div>` : ""}</div>`).join("")}</section>` : "";
+    const evidence = lead.evidence?.length ? `<section><h3>Evidence</h3><ul>${lead.evidence.map(e => typeof e === "string"
+      ? `<li>${esc(e)}</li>`
+      : `<li><span class="basis" data-basis="${esc(e.basis)}" title="${esc(BASIS[e.basis] || e.basis)}">${esc(e.basis)}</span>${esc(e.text)}</li>`).join("")}</ul></section>` : "";
+    const reviews = `<section><h3>Checked in the original</h3>${(lead.reviews || []).length
+      ? lead.reviews.map(r => `<div class="review-item"><b>${esc(r.verdict)}</b> by ${esc(r.by)}${r.date ? ` · ${esc(r.date)}` : ""}${r.scope ? ` · ${esc(r.scope)}` : ""}${r.note ? `<div class="hint">${esc(r.note)}</div>` : ""}</div>`).join("")
+      : `<p class="hint">No reviewer has checked this lead against the original texts yet. Add an entry under <code>reviews</code> in the lead file.</p>`}</section>`;
     const tagsList = [...(lead.motifs || []), ...(lead.concepts || [])];
     const motifs = tagsList.length ? `<section><h3>Motifs &amp; concepts</h3><div class="meta">${tagsList.map(m => `<span class="tag">${esc(m)}</span>`).join("")}</div></section>` : "";
     const sources = lead.sources?.length ? `<section><h3>Sources</h3><ul>${lead.sources.map(s => `<li>${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>` : esc(s.label)}</li>`).join("")}</ul></section>` : "";
@@ -286,6 +313,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     return `<li class="lead" id="${esc(lead.id)}" data-standing="${esc(lead.standing)}"><details${open ? " open" : ""}>
       <summary><div class="meta">${tags}</div><p class="lead-title">${esc(lead.title)}</p><p class="lead-summary">${esc(lead.summary)}</p><div class="trads">${esc(trads)}</div></summary>
       <div class="body">${lexical}${passages}${evidence}${direction}${motifs}${sources}
+        ${reviews}
         <section><h3>Review notes</h3><div class="notes">${notesHtml(lead.notes)}</div></section>
         <div class="path">leads/${esc(lead.id)}.md · added ${esc(lead.added)} · ${esc(lead.origin)}</div>
       </div></details></li>`;
@@ -323,7 +351,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
   document.getElementById("reset").addEventListener("click", () => {
     state.q = ""; document.getElementById("q").value = "";
-    for (const k of ["relations", "standing", "status", "layers", "traditions"]) state[k].clear();
+    for (const k of ["relations", "standing", "status", "layers", "review", "traditions"]) state[k].clear();
     render();
   });
   window.addEventListener("hashchange", () => {

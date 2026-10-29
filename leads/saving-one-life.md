@@ -20,10 +20,18 @@ passages:
   ref: Mishnah Sanhedrin 4:5
 - tradition: islam
   ref: Quran 5:32
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ
+    نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ
+    أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم
+    بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
 evidence:
-- The Quran explicitly frames it as a precept for the Children of Israel.
-- 'Mishnah manuscripts differ: some read ''a single life'', others ''a single life of Israel''. Compare
-  which reading the Quran matches.'
+- text: The Quran explicitly frames it as a precept for the Children of Israel.
+  basis: scholarship
+- text: 'Mishnah manuscripts differ: some read ''a single life'', others ''a single life of Israel''.
+    Compare which reading the Quran matches.'
+  basis: scholarship
 sources:
 - label: Mishnah Sanhedrin 4:5 (Sefaria)
   url: https://www.sefaria.org/Mishnah_Sanhedrin.4.5

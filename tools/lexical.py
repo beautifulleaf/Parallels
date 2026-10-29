@@ -28,6 +28,7 @@ import yaml
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import corpora  # noqa: E402
+import originals  # noqa: E402
 
 ROOT = corpora.ROOT
 OUT = ROOT / "results" / "lexical"
@@ -404,6 +405,7 @@ def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench):
 
 # ---------------------------------------------------------------- leads
 
+QURAN_TEXT, HEBREW_TEXT = {}, {}
 PIPELINE_FIELDS = {"title", "summary", "relations", "standing", "traditions", "layers", "lexical",
                    "passages", "evidence", "motifs"}
 
@@ -470,22 +472,36 @@ def _lead(quran, heb, c, lid, title, summary, narratives):
         lexical.append({"lang": "ar", "form": sl.form, "translit": translit(sl.form), "gloss": f"{sl.gloss} (common synonym)"})
     for g in matched(c.get("cognates", []))[:2]:
         lexical.append({"lang": "he", "form": g["form"], "translit": g["translit"], "gloss": f"{g['gloss']} ({g['lemma']}, possible cognate)"})
-    evidence = [f"p = {c['p']:.1e} (hypergeometric, verse level)" + (f", q = {c['q']:.1e}" if "q" in c else "") + "."]
+    def ev(text, basis):
+        return {"text": text, "basis": basis}
+    evidence = [ev(f"p = {c['p']:.1e} (hypergeometric, verse level)" + (f", q = {c['q']:.1e}" if "q" in c else "")
+                   + ". Counted from the original text with the Quranic Arabic Corpus lemmas.", "original")]
+    for sk in c.get("synonym_skew", [])[:2]:
+        sl = quran.lemmas[sk["lemma"]]
+        evidence.append(ev(f"Synonym skew: {sl.form} ({translit(sl.form)}, {sk['n']} verses) has only "
+                           f"{sk['share_in_narrative']:.0%} of its verses in this narrative. The two words are paired "
+                           "only because their English word-by-word glosses match; confirm in the Arabic that they "
+                           "are real synonyms.", "gloss"))
     if not lem.root:
-        evidence.append("The Quranic Arabic Corpus gives no root, which often marks a loanword.")
+        evidence.append(ev("The Quranic Arabic Corpus gives no root, which often marks a loanword.", "original"))
         weak = [g for g in c.get("cognates", []) if not g["gloss_match"]][:1]
         if weak and not matched(c.get("cognates", [])):
             g = weak[0]
-            evidence.append(f"Possible Hebrew cognate by sound only: {g['form']} ({g['translit']}, {g['lemma']}) “{g['gloss']}”. The glosses differ, so check it.")
+            evidence.append(ev(f"Possible Hebrew cognate by consonants only: {g['form']} ({g['translit']}, {g['lemma']}). "
+                               "The meanings were not compared.", "original"))
     for x in c.get("cross_corpus", []):
-        evidence.append(f"Hebrew cognate {heb.lemmas[x['lemma']].form} ({x['lemma']}) is also concentrated in the same narrative "
-                        f"in the Hebrew Bible ({x['share']:.0%} of its verses).")
+        evidence.append(ev(f"Hebrew cognate {heb.lemmas[x['lemma']].form} ({x['lemma']}) is also concentrated in the same "
+                           f"narrative in the Hebrew Bible ({x['share']:.0%} of its verses).", "gloss"))
     for x in c.get("cross_bridge", []):
         names = " and ".join(f"{heb.narratives[n]} ({k})" for n, k in zip(x["narratives"], x["counts"]))
-        evidence.append(f"Hebrew cognate {heb.lemmas[x['lemma']].form} ({x['lemma']}) is itself a rare word linking two "
-                        f"Hebrew Bible narratives: {names}. Both words connect stories, and they share at least one.")
+        evidence.append(ev(f"Hebrew cognate {heb.lemmas[x['lemma']].form} ({x['lemma']}) is itself a rare word linking two "
+                           f"Hebrew Bible narratives: {names}. Both words connect stories, and they share at least one.", "gloss"))
     if matched(c.get("cognates", [])):
-        evidence.append("Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them.")
+        evidence.append(ev("Hebrew cognates are matched by regular sound correspondence on the original consonants, then "
+                           "kept only if Strong's English definition contains the Arabic word's English gloss. The meaning "
+                           "check is gloss-based; confirm it in the originals.", "gloss"))
+    passages = [{"tradition": "islam", "ref": quran_ref_label(r)} for r in c["refs"][:15]]
+    originals.fill_passages(passages, QURAN_TEXT, HEBREW_TEXT)
     return {
         "id": lid, "title": title, "summary": summary, "status": "new",
         "relations": ["internal"] + (["inheritance"] if matched(c.get("cognates", [])) else []),
@@ -493,7 +509,7 @@ def _lead(quran, heb, c, lid, title, summary, narratives):
         "traditions": ["islam"] + (["judaism"] if matched(c.get("cognates", [])) else []),
         "layers": ["lexical"], "motifs": narratives,
         "lexical": lexical,
-        "passages": [{"tradition": "islam", "ref": quran_ref_label(r)} for r in c["refs"][:15]],
+        "passages": passages,
         "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
     }
 
@@ -506,6 +522,8 @@ def main():
         label = "recovered " if b["recovered"] else ("expected miss " if not b["expect"] else "MISSED    ")
         print("  " + label + b["description"])
     if "--write-leads" in sys.argv:
+        global QURAN_TEXT, HEBREW_TEXT
+        QURAN_TEXT, HEBREW_TEXT = originals.load_quran_text(), originals.load_hebrew_text()
         for lead in build_leads(quran, heb, q_conc, q_bridges, bench):
             print(f"  lead {lead['id']}: {write_lead(lead)}")
     print("wrote results/lexical/")

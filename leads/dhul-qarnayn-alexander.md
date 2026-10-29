@@ -21,13 +21,17 @@ motifs:
 passages:
 - tradition: islam
   ref: Quran 18:83–102
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text_omitted: longer than 12 verses; read it in the source
 - tradition: christianity-eastern
   ref: Syriac Alexander Legend (Neshana)
 - tradition: greco-roman
   ref: Alexander Romance (Pseudo-Callisthenes)
 evidence:
-- The Syriac Legend is often dated around 630 (Reinink), close to the Quran. The direction and the dating
-  are both debated.
+- text: The Syriac Legend is often dated around 630 (Reinink), close to the Quran. The direction and the
+    dating are both debated.
+  basis: scholarship
 sources:
 - label: Quran 18:83 (quran.com)
   url: https://quran.com/18/83

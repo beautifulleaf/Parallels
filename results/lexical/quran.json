@@ -159,10 +159,10 @@
      "gloss_match": false
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false
     }
@@ -2612,10 +2612,10 @@
      "gloss_match": false
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false
     }
@@ -2986,18 +2986,18 @@
      "gloss_match": false
     },
     {
-     "lemma": "H5604",
-     "form": "סִפֻּן",
-     "translit": "çippun",
-     "gloss": "a wainscot",
-     "verses": 1,
-     "gloss_match": false
-    },
-    {
      "lemma": "H8226",
      "form": "שָׂפַן",
      "translit": "sâphan",
      "gloss": "to conceal (as a valuable)",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5604",
+     "form": "סִפֻּן",
+     "translit": "çippun",
+     "gloss": "a wainscot",
      "verses": 1,
      "gloss_match": false
     }
