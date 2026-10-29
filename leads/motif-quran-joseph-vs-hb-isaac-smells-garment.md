@@ -29,6 +29,9 @@ passages:
   text: וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙
     רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 2.8). Pair score 2.8.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we

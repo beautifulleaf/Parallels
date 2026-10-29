@@ -31,6 +31,9 @@ passages:
   ref: 'Arabic (Syriac) Infancy Gospel: 1'
   note: The newborn speaks
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: The newborn speaks (weight 2.8). Pair score 2.8.'
   basis: reading
 - text: 'Mary and the infant Jesus in the Quran: tagged by Claude (model), reading the Arabic.'

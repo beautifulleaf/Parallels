@@ -34,6 +34,7 @@ OUT = ROOT / "results" / "motifs"
 MIN_SHARED = 2
 TOP_PER_UNIT = 3
 MAX_PASSAGE_MOTIFS = 10   # passages shown per lead: the rarest shared motifs
+MAX_INTERNAL_LEADS = 30   # internal pairs (one text echoing itself) written as lead files, per corpus; the rest stay in the report
 
 
 def load(strict=True):
@@ -223,13 +224,18 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
     by_id = {u["id"]: u for u in units}
     spec = yaml.safe_load((DATA / "benchmarks" / "motifs.yaml").read_text(encoding="utf-8"))
     groups = [set(v) for v in (spec.get("lead_units") or {}).values()]
-    leads = []
+    leads, internal = [], Counter()
     for p in ps:
         if any(p["a"] in g and p["b"] in g for g in groups):
             continue
         if not any(w[m] >= 1.5 for m in p["shared"]):   # needs at least one fairly rare motif
             continue
         a, b = by_id[p["a"]], by_id[p["b"]]
+        if p["internal"]:
+            # cross-tradition pairs are the point; a fully read text echoes itself thousands of times
+            internal[a["corpus"]] += 1
+            if internal[a["corpus"]] > MAX_INTERNAL_LEADS:
+                continue
         passages, evidence = [], []
         for m in p["shared"][:MAX_PASSAGE_MOTIFS]:
             for u in (a, b):
@@ -343,8 +349,10 @@ def main():
     for b in bench:
         print(("  recovered " if b["recovered"] else "  MISSED    ") + f"{b['a']} <-> {b['b']}")
     if "--write-leads" in sys.argv:
-        for lead in build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
+        leads = build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text)
+        for lead in leads:
             print(f"  lead {lead['id']}: {lexical.write_lead(lead)}")
+        lexical.flag_stale({lead["id"] for lead in leads}, ("motif-",))
     print("wrote results/motifs/")
     if any(not b["recovered"] for b in bench):
         sys.exit("benchmark expectations missed")

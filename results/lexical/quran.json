@@ -2217,19 +2217,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -2492,19 +2492,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -2710,6 +2710,31 @@
    "translit": "jāwaza"
   },
   {
+   "lemma": "طَلَعَت",
+   "n": 2,
+   "narratives": [
+    "cave",
+    "dhul-qarnayn"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 2.885694107142157e-05,
+   "refs": [
+    "18:17",
+    "18:90"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طَلَعَت",
+   "gloss": "rose",
+   "root": "طلع",
+   "pos": "V",
+   "translit": "ṭalaʿat"
+  },
+  {
    "lemma": "غَرَبَت",
    "n": 2,
    "narratives": [
@@ -2779,31 +2804,6 @@
    "root": "غرب",
    "pos": "V",
    "translit": "gharabat"
-  },
-  {
-   "lemma": "طَلَعَت",
-   "n": 2,
-   "narratives": [
-    "cave",
-    "dhul-qarnayn"
-   ],
-   "counts": [
-    1,
-    1
-   ],
-   "p": 2.885694107142157e-05,
-   "refs": [
-    "18:17",
-    "18:90"
-   ],
-   "cognates": [],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "form": "طَلَعَت",
-   "gloss": "rose",
-   "root": "طلع",
-   "pos": "V",
-   "translit": "ṭalaʿat"
   },
   {
    "lemma": "مُغْرَق",

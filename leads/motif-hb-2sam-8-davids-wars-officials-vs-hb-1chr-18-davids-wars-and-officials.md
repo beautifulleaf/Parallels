@@ -1,0 +1,217 @@
+---
+id: motif-hb-2sam-8-davids-wars-officials-vs-hb-1chr-18-davids-wars-and-officials
+title: David's conquests and list of officials ↔ David's conquests and his officials
+summary: 'These two units share 8 motifs: a battle in the valley of salt, the king does justice and righteousness
+  for all his people, a neighboring king sends his son with precious vessels to congratulate the victor,
+  list of the king''s chief officials: commander, recorder, priests, scribe, guard….'
+status: new
+relations:
+- internal
+standing: proposed
+traditions:
+- judaism
+layers:
+- motif
+motifs:
+- valley-of-salt-battle
+- just-king-does-mishpat-tsedaqah
+- allied-king-sends-son-with-gifts
+- royal-cabinet-list
+- golden-shields-trophies
+- spoils-dedicated-to-god
+- hamstring-horses-burn-chariots
+- vassals-bring-tribute-minchah
+passages:
+- tradition: judaism
+  ref: 2Sam 8:13
+  note: A battle in the Valley of Salt (18,000; Aram (read Edom?))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֤עַשׂ דָּוִד֙ שֵׁ֔ם בְּשֻׁב֕וֹ מֵהַכּוֹת֥וֹ אֶת אֲרָ֖ם בְּגֵיא מֶ֑לַח שְׁמוֹנָ֥ה עָשָׂ֖ר
+    אָֽלֶף
+- tradition: judaism
+  ref: 1Chr 18:12
+  note: 'A battle in the Valley of Salt (credited to Abishai, 18,000 (2Sam 8:13: David; Ps 60 title: Joab,
+    12,000))'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאַבְשַׁ֣י בֶּן צְרוּיָ֗ה הִכָּ֤ה אֶת אֱדוֹם֙ בְּגֵ֣יא הַמֶּ֔לַח שְׁמוֹנָ֥ה עָשָׂ֖ר אָֽלֶף
+- tradition: judaism
+  ref: 2Sam 8:15
+  note: The king does justice and righteousness for all his people (mishpat u-tsedaqah)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל
+    עַמּֽוֹ
+- tradition: judaism
+  ref: 1Chr 18:14
+  note: The king does justice and righteousness for all his people
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל עַמּֽוֹ
+- tradition: judaism
+  ref: 2Sam 8:9
+  note: A neighboring king sends his son with precious vessels to congratulate the victor (Toi of Hamath
+    sends Joram with vessels of silver, gold and bronze)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁמַ֕ע תֹּ֖עִי מֶ֣לֶךְ חֲמָ֑ת כִּ֚י הִכָּ֣ה דָוִ֔ד אֵ֖ת כָּל חֵ֥יל הֲדַדְעָֽזֶר
+- tradition: judaism
+  ref: 2Sam 8:10
+  note: A neighboring king sends his son with precious vessels to congratulate the victor (Toi of Hamath
+    sends Joram with vessels of silver, gold and bronze)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁלַ֣ח תֹּ֣עִי אֶת יֽוֹרָם בְּנ֣וֹ אֶל הַמֶּֽלֶךְ דָּ֠וִד לִשְׁאָל ל֨וֹ לְשָׁל֜וֹם וּֽלְבָרֲכ֗וֹ
+    עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֨זֶר֙ וַיַּכֵּ֔הוּ כִּי אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עִי הָיָ֣ה הֲדַדְעָ֑זֶר
+    וּבְיָד֗וֹ הָי֛וּ כְּלֵֽי כֶ֥סֶף וּכְלֵֽי זָהָ֖ב וּכְלֵ֥י נְחֹֽשֶׁת
+- tradition: judaism
+  ref: 1Chr 18:9
+  note: A neighboring king sends his son with precious vessels to congratulate the victor (Tou of Hamath
+    sends Hadoram (Joram in 2Sam))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁמַ֕ע תֹּ֖עוּ מֶ֣לֶךְ חֲמָ֑ת כִּ֚י הִכָּ֣ה דָוִ֔יד אֶת כָּל חֵ֖יל הֲדַדְעֶ֥זֶר מֶֽלֶךְ
+    צוֹבָֽה
+- tradition: judaism
+  ref: 1Chr 18:10
+  note: A neighboring king sends his son with precious vessels to congratulate the victor (Tou of Hamath
+    sends Hadoram (Joram in 2Sam))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁלַ֣ח אֶת הֲדֽוֹרָם בְּנ֣וֹ אֶל הַמֶּֽלֶךְ דָּ֠וִיד לשאול לִשְׁאָל ל֨וֹ לְשָׁל֜וֹם וּֽלְבָרֲכ֗וֹ
+    עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֨זֶר֙ וַיַּכֵּ֔הוּ כִּי אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עוּ הָיָ֣ה הֲדַדְעָ֑זֶר
+    וְכֹ֗ל כְּלֵ֛י זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת
+- tradition: judaism
+  ref: 2Sam 8:16
+  note: 'List of the king''s chief officials: commander, recorder, priests, scribe, guard (Commander,
+    recorder, priests, scribe Seraiah, Cherethites and Pelethites)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְיוֹאָ֥ב בֶּן צְרוּיָ֖ה עַל הַצָּבָ֑א וִיהוֹשָׁפָ֥ט בֶּן אֲחִיל֖וּד מַזְכִּֽיר
+- tradition: judaism
+  ref: 2Sam 8:17
+  note: 'List of the king''s chief officials: commander, recorder, priests, scribe, guard (Commander,
+    recorder, priests, scribe Seraiah, Cherethites and Pelethites)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְצָד֧וֹק בֶּן אֲחִיט֛וּב וַאֲחִימֶ֥לֶךְ בֶּן אֶבְיָתָ֖ר כֹּהֲנִ֑ים וּשְׂרָיָ֖ה סוֹפֵֽר
+- tradition: judaism
+  ref: 1Chr 18:15
+  note: 'List of the king''s chief officials: commander, recorder, priests, scribe, guard'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְיוֹאָ֥ב בֶּן צְרוּיָ֖ה עַל הַצָּבָ֑א וִיהוֹשָׁפָ֥ט בֶּן אֲחִיל֖וּד מַזְכִּֽיר
+- tradition: judaism
+  ref: 1Chr 18:16
+  note: 'List of the king''s chief officials: commander, recorder, priests, scribe, guard'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְצָד֧וֹק בֶּן אֲחִיט֛וּב וַאֲבִימֶ֥לֶךְ בֶּן אֶבְיָתָ֖ר כֹּהֲנִ֑ים וְשַׁוְשָׁ֖א סוֹפֵֽר
+- tradition: judaism
+  ref: 2Sam 8:7
+  note: Shields of beaten gold made or captured and displayed
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֣ח דָּוִ֗ד אֵ֚ת שִׁלְטֵ֣י הַזָּהָ֔ב אֲשֶׁ֣ר הָי֔וּ אֶ֖ל עַבְדֵ֣י הֲדַדְעָ֑זֶר וַיְבִיאֵ֖ם
+    יְרוּשָׁלִָֽם
+- tradition: judaism
+  ref: 1Chr 18:7
+  note: Shields of beaten gold made or captured and displayed
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֣ח דָּוִ֗יד אֵ֚ת שִׁלְטֵ֣י הַזָּהָ֔ב אֲשֶׁ֣ר הָי֔וּ עַ֖ל עַבְדֵ֣י הֲדַדְעָ֑זֶר וַיְבִיאֵ֖ם
+    יְרוּשָׁלִָֽם
+- tradition: judaism
+  ref: 2Sam 8:11
+  note: The king dedicates silver and gold from conquered nations to God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: גַּם אֹתָ֕ם הִקְדִּ֛ישׁ הַמֶּ֥לֶךְ דָּוִ֖ד לַֽיהוָ֑ה עִם הַכֶּ֤סֶף וְהַזָּהָב֙ אֲשֶׁ֣ר הִקְדִּ֔ישׁ
+    מִכָּל הַגּוֹיִ֖ם אֲשֶׁ֥ר כִּבֵּֽשׁ
+- tradition: judaism
+  ref: 2Sam 8:12
+  note: The king dedicates silver and gold from conquered nations to God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מֵאֲרָ֤ם וּמִמּוֹאָב֙ וּמִבְּנֵ֣י עַמּ֔וֹן וּמִפְּלִשְׁתִּ֖ים וּמֵֽעֲמָלֵ֑ק וּמִשְּׁלַ֛ל הֲדַדְעֶ֥זֶר
+    בֶּן רְחֹ֖ב מֶ֥לֶךְ צוֹבָֽה
+- tradition: judaism
+  ref: 1Chr 18:11
+  note: The king dedicates silver and gold from conquered nations to God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: גַּם אֹתָ֗ם הִקְדִּ֞ישׁ הַמֶּ֤לֶךְ דָּוִיד֙ לַיהוָ֔ה עִם הַכֶּ֨סֶף֙ וְהַזָּהָ֔ב אֲשֶׁ֥ר נָשָׂ֖א
+    מִכָּל הַגּוֹיִ֑ם מֵֽאֱד֤וֹם וּמִמּוֹאָב֙ וּמִבְּנֵ֣י עַמּ֔וֹן וּמִפְּלִשְׁתִּ֖ים וּמֵֽעֲמָלֵֽק
+- tradition: judaism
+  ref: 2Sam 8:4
+  note: The enemy's horses are hamstrung and their chariots burned by divine command (Keeps a hundred
+    chariots)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּלְכֹּ֨ד דָּוִ֜ד מִמֶּ֗נּוּ אֶ֤לֶף וּשְׁבַע מֵאוֹת֙ פָּרָשִׁ֔ים וְעֶשְׂרִ֥ים אֶ֖לֶף אִ֣ישׁ
+    רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִד֙ אֶת כָּל הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב
+- tradition: judaism
+  ref: 1Chr 18:4
+  note: The enemy's horses are hamstrung and their chariots burned by divine command (keeps a hundred
+    chariots)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּלְכֹּד֩ דָּוִ֨יד מִמֶּ֜נּוּ אֶ֣לֶף רֶ֗כֶב וְשִׁבְעַ֤ת אֲלָפִים֙ פָּֽרָשִׁ֔ים וְעֶשְׂרִ֥ים
+    אֶ֖לֶף אִ֣ישׁ רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִיד֙ אֶת כָּל הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב
+- tradition: judaism
+  ref: 2Sam 8:2
+  note: Subject peoples bring tribute (minhah) to the king
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֣ךְ אֶת מוֹאָ֗ב וַֽיְמַדְּדֵ֤ם בַּחֶ֨בֶל֙ הַשְׁכֵּ֣ב אוֹתָ֣ם אַ֔רְצָה וַיְמַדֵּ֤ד שְׁנֵֽי
+    חֲבָלִים֙ לְהָמִ֔ית וּמְלֹ֥א הַחֶ֖בֶל לְהַחֲי֑וֹת וַתְּהִ֤י מוֹאָב֙ לְדָוִ֔ד לַעֲבָדִ֖ים נֹשְׂאֵ֥י
+    מִנְחָֽה
+- tradition: judaism
+  ref: 2Sam 8:6
+  note: Subject peoples bring tribute (minhah) to the king
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיָּ֨שֶׂם דָּוִ֤ד נְצִבִים֙ בַּאֲרַ֣ם דַּמֶּ֔שֶׂק וַתְּהִ֤י אֲרָם֙ לְדָוִ֔ד לַעֲבָדִ֖ים נוֹשְׂאֵ֣י
+    מִנְחָ֑ה וַיֹּ֤שַׁע יְהוָה֙ אֶת דָּוִ֔ד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ
+- tradition: judaism
+  ref: 1Chr 18:2
+  note: Subject peoples bring tribute (minhah) to the king
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֖ךְ אֶת מוֹאָ֑ב וַיִּהְי֤וּ מוֹאָב֙ עֲבָדִ֣ים לְדָוִ֔יד נֹשְׂאֵ֖י מִנְחָֽה
+- tradition: judaism
+  ref: 1Chr 18:6
+  note: Subject peoples bring tribute (minhah) to the king
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים נֹשְׂאֵ֣י מִנְחָ֑ה
+    וַיּ֤וֹשַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ
+evidence:
+- text: 'Shared motifs, rarest first: A battle in the Valley of Salt (weight 6.7); The king does justice
+    and righteousness for all his people (weight 6.7); A neighboring king sends his son with precious
+    vessels to congratulate the victor (weight 6.7); List of the king''s chief officials: commander, recorder,
+    priests, scribe, guard (weight 6.3); Shields of beaten gold made or captured and displayed (weight
+    6.3); The king dedicates silver and gold from conquered nations to God (weight 6.0); The enemy''s
+    horses are hamstrung and their chariots burned by divine command (weight 6.0); Subject peoples bring
+    tribute (minhah) to the king (weight 5.8). Pair score 50.4.'
+  basis: reading
+- text: 'Only in David''s conquests and list of officials: Captives laid on the ground and measured with
+    a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; The king''s sons
+    serve as priests; Obscure term ''Metheg-ammah'' for what David took from the Philistines.'
+  basis: reading
+- text: 'Only in David''s conquests and his officials: The Cherethite and Pelethite royal guard; Chronicles
+    differs in a specific detail from its parallel in Samuel–Kings; A king goes to ''set up his hand''
+    (monument) at the Euphrates; Bronze captured in war used for the temple''s sea, pillars and vessels.'
+  basis: reading
+- text: 'David''s conquests and list of officials: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'David''s conquests and his officials: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

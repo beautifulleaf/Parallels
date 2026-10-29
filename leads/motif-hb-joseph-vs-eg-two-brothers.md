@@ -70,9 +70,9 @@ passages:
   ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
   note: The master's wife tries to seduce the hero (the elder brother's wife and the younger brother Bata)
 evidence:
-- text: 'Shared motifs, rarest first: Master entrusts his whole household to the hero (weight 2.8); The
-    woman falsely accuses the hero of assault (weight 2.4); The master''s wife tries to seduce the hero
-    (weight 2.4). Pair score 7.6.'
+- text: 'Shared motifs, rarest first: Master entrusts his whole household to the hero (weight 6.3); The
+    woman falsely accuses the hero of assault (weight 5.8); The master''s wife tries to seduce the hero
+    (weight 5.8). Pair score 17.8.'
   basis: reading
 - text: 'Joseph in Genesis (37, 39–50): tagged by Claude (model), reading the Hebrew.'
   basis: reading

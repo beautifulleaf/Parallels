@@ -1,8 +1,8 @@
 ---
 id: motif-quran-abraham-idols-vs-jud-jubilees-12
 title: Abraham and the idols in the Quran ↔ Abraham burns the house of idols (Jubilees 12)
-summary: 'These two units share 3 motifs: hero smashes or burns idols, hero reasons from the stars, moon
-  and sun to the one god, hero''s father makes, sells or worships idols.'
+summary: 'These two units share 3 motifs: hero reasons from the stars, moon and sun to the one god, hero
+  smashes or burns idols, hero''s father makes, sells or worships idols.'
 status: new
 relations:
 - transmission
@@ -14,25 +14,10 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-smashes-idols
 - heavenly-bodies-argument
+- hero-smashes-idols
 - father-serves-idols
 passages:
-- tradition: islam
-  ref: Quran 21:58
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
-- tradition: islam
-  ref: Quran 37:93
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
-  note: Hero smashes or burns idols (burns the house of idols)
 - tradition: islam
   ref: Quran 6:76
   note: Hero reasons from the stars, moon and sun to the one God
@@ -51,6 +36,21 @@ passages:
   ref: 'Abraham burns the house of idols (Jubilees 12): 12:16–18'
   note: Hero reasons from the stars, moon and sun to the one God
 - tradition: islam
+  ref: Quran 21:58
+  note: Hero smashes or burns idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+- tradition: islam
+  ref: Quran 37:93
+  note: Hero smashes or burns idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+- tradition: judaism
+  ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
+  note: Hero smashes or burns idols (burns the house of idols)
+- tradition: islam
   ref: Quran 6:74
   note: Hero's father makes, sells or worships idols
   lang: ar
@@ -68,9 +68,9 @@ passages:
   ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
   note: Hero's father makes, sells or worships idols
 evidence:
-- text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 2.4); Hero reasons from the
-    stars, moon and sun to the one God (weight 2.4); Hero''s father makes, sells or worships idols (weight
-    2.1). Pair score 6.9.'
+- text: 'Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight
+    5.8); Hero smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols (weight
+    4.8). Pair score 16.2.'
   basis: reading
 - text: 'Abraham and the idols in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading

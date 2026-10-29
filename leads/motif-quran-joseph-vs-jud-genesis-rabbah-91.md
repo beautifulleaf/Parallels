@@ -56,8 +56,8 @@ passages:
   ref: 'Jacob''s warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91'
   note: Father refuses at first to send the youngest
 evidence:
-- text: 'Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 2.8); Father
-    refuses at first to send the youngest (weight 2.4). Pair score 5.2.'
+- text: 'Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 6.3); Father
+    refuses at first to send the youngest (weight 5.6). Pair score 11.9.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

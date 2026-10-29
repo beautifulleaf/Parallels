@@ -1,0 +1,144 @@
+---
+id: motif-quran-7-noah-vs-quran-11-noah
+title: Noah warns his people ↔ Noah, the boiling oven, the lost son and al-Judi
+summary: 'These two units share 5 motifs: the chiefs (al-mala'') of the prophet''s people accuse him of
+  error or folly and reject him, hero warns or preaches to his people before the flood, prophet''s refrain
+  to his people: ''worship god; you have no god other than him'', destruction follows the people''s rejection
+  of a messenger….'
+status: new
+relations:
+- internal
+standing: proposed
+traditions:
+- islam
+layers:
+- motif
+motifs:
+- chiefs-of-people-reject-prophet
+- hero-preaches-to-people
+- worship-god-no-other-god-formula
+- reason-rejected-messenger
+- family-saved
+passages:
+- tradition: islam
+  ref: Quran 7:60
+  note: The chiefs (al-mala') of the prophet's people accuse him of error or folly and reject him ('we
+    see you in manifest error')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَٰلٍ مُّبِينٍ
+- tradition: islam
+  ref: Quran 11:27
+  note: The chiefs (al-mala') of the prophet's people accuse him of error or folly and reject him ('only
+    a human like us')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا
+    نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا
+    مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
+- tradition: islam
+  ref: Quran 7:59
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
+    إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
+- tradition: islam
+  ref: Quran 7:61
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ يَٰقَوْمِ لَيْسَ بِى ضَلَٰلَةٌ وَلَٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+- tradition: islam
+  ref: Quran 11:25
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
+- tradition: islam
+  ref: Quran 11:26
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ
+- tradition: islam
+  ref: Quran 7:59
+  note: 'Prophet''s refrain to his people: ''Worship God; you have no god other than him'''
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
+    إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
+- tradition: islam
+  ref: Quran 11:26
+  note: 'Prophet''s refrain to his people: ''Worship God; you have no god other than him'''
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ
+- tradition: islam
+  ref: Quran 7:64
+  note: Destruction follows the people's rejection of a messenger
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟
+    بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ
+- tradition: islam
+  ref: Quran 11:27
+  note: Destruction follows the people's rejection of a messenger
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا
+    نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا
+    مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ
+- tradition: islam
+  ref: Quran 7:64
+  note: Hero's family saved with him ('him and those with him in the ship')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟
+    بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ
+- tradition: islam
+  ref: Quran 11:40
+  note: Hero's family saved with him (except the one against whom the word went; few believed)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
+    قَلِيلٌ
+evidence:
+- text: 'Shared motifs, rarest first: The chiefs (al-mala'') of the prophet''s people accuse him of error
+    or folly and reject him (weight 6.0); Hero warns or preaches to his people before the flood (weight
+    5.2); Prophet''s refrain to his people: ''Worship God; you have no god other than him'' (weight 5.2);
+    Destruction follows the people''s rejection of a messenger (weight 4.9); Hero''s family saved with
+    him (weight 4.5). Pair score 25.8.'
+  basis: reading
+- text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; People marvel that
+    a reminder came through a man from among them; Prophet calls himself his people''s sincere and trustworthy
+    adviser (nasih amin).'
+  basis: reading
+- text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Animals taken aboard in pairs; Embark:
+    ''in the name of God be its sailing and its mooring''; Refrain ''away with...'' (bu''dan li-) the
+    destroyed people; Hero blessed on leaving the vessel; The flood waters are hot or boiling; Hero builds
+    a vessel on divine instruction; Deity decides to destroy humankind; God commands: ''Earth, swallow
+    your water; sky, withhold!'' and the water subsides; A member of the hero''s family is lost; Hero
+    privately warned of the coming flood by a deity; The prophet''s opponents object that only the lowliest
+    follow him; he refuses to drive the believers away; Someone seeks refuge on a mountain and is drowned;
+    Noah reminds God that his son is of his family and God''s promise is true; Deniers dare the prophet:
+    ''Bring us what you threaten, if you are truthful''; People mock the hero while he builds the vessel;
+    The Prophet asks no wage for the message; The prophet disclaims having God''s treasuries, knowing
+    the unseen, or being an angel; God forbids the prophet to pray or intercede for the people, for he
+    will not hear; The elite scorn the prophet because only the lowest of them follow him; A specific
+    sign marks the moment to board; God answers that the drowned son is not of Noah''s family: ''he is
+    a deed not righteous''; The prophet''s stories are ''tidings of the unseen'' unknown to him and his
+    people before; Vessel comes to rest on a named mountain; The ark sails through waves like mountains.'
+  basis: reading
+- text: 'Noah warns his people: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+- text: 'Noah, the boiling oven, the lost son and al-Judi: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

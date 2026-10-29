@@ -1,0 +1,106 @@
+---
+id: motif-hb-deut-5-decalogue-vs-quran-17-commandments
+title: The Decalogue restated and the people's fear at Horeb ↔ The code of commandments (Surah 17:22-39)
+summary: 'These two units share 2 motifs: the ten commandments (decalogue), honor father and mother, with
+  the promise of long life.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- ten-commandments
+- honor-parents-long-life
+passages:
+- tradition: judaism
+  ref: Deut 5:6
+  note: The Ten Commandments (Decalogue)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
+- tradition: judaism
+  ref: Deut 5:7
+  note: The Ten Commandments (Decalogue)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: islam
+  ref: Quran 17:23
+  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
+    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
+    لَّهُمَا قَوْلًا كَرِيمًا
+- tradition: islam
+  ref: Quran 17:31
+  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
+    كَانَ خِطْـًٔا كَبِيرًا
+- tradition: judaism
+  ref: Deut 5:16
+  note: Honor father and mother, with the promise of long life
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+- tradition: islam
+  ref: Quran 17:23
+  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
+    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
+    لَّهُمَا قَوْلًا كَرِيمًا
+- tradition: islam
+  ref: Quran 17:24
+  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
+    صَغِيرًا
+evidence:
+- text: 'Shared motifs, rarest first: The Ten Commandments (Decalogue) (weight 5.4); Honor father and
+    mother, with the promise of long life (weight 5.3). Pair score 10.7.'
+  basis: reading
+- text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
+    alive today, not only with the fathers; Prohibition of coveting the neighbor''s wife and property;
+    Mountain burns with fire to the heart of heaven amid darkness and cloud; People fear to hear God directly
+    and ask the prophet to mediate; Prohibitions of murder, adultery, theft and false witness; Prohibition
+    of carved images or likenesses of anything for worship; Sabbath grounded in the memory of slavery
+    in Egypt; Sabbath rest on the seventh day for all, including servants, animals and strangers; God
+    visits the fathers'' sin on the third and fourth generation, but keeps steadfast love for thousands;
+    God gives stone tablets he himself has written; God heard as a voice out of fire with no visible form.'
+  basis: reading
+- text: 'Only in The code of commandments (Surah 17:22-39): Sexual relations with a neighbor''s wife are
+    forbidden; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; A Quranic code of commandments
+    resembling the Decalogue in content; Do not pursue what you have no knowledge of; hearing, sight and
+    heart will be questioned; Do not kill your children for fear of poverty; God provides for them and
+    you; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently; Do not walk the
+    earth exultantly: you cannot split the earth nor reach the mountains in height; Give the kinsman,
+    the poor and the wayfarer their due; Do not keep your hand chained to your neck nor stretch it out
+    fully: moderation in spending; Honest balances, weights, ephah and hin are commanded; Do not kill
+    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
+    have mercy on them as they raised me when small''; Open your hand wide to the poor brother; do not
+    harden your heart or shut your hand; Guardians must keep orphans'' property intact and hand it over
+    when they come of age; No other gods before YHWH; Squanderers are brothers of the devils.'
+  basis: reading
+- text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'The code of commandments (Surah 17:22-39): tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

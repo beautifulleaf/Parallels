@@ -1,0 +1,75 @@
+---
+id: motif-hb-ezek-43-glory-returns-vs-quran-39-mercy-and-last-day
+title: The glory of God returns to the temple ↔ Do not despair of mercy; the earth in God's grip; the
+  throngs to hell and Garden
+summary: 'These two units share 1 motifs: the earth shines (lit up) with god''s glory.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- earth-shines-with-gods-glory
+passages:
+- tradition: judaism
+  ref: Ezek 43:2
+  note: The earth shines (lit up) with God's glory
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהִנֵּ֗ה כְּבוֹד֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בָּ֖א מִדֶּ֣רֶךְ הַקָּדִ֑ים וְקוֹל֗וֹ כְּקוֹל֙ מַ֣יִם
+    רַבִּ֔ים וְהָאָ֖רֶץ הֵאִ֥ירָה מִכְּבֹדֽוֹ
+- tradition: islam
+  ref: Quran 39:69
+  note: The earth shines (lit up) with God's glory (the earth shines with the light of its Lord)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ
+    وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
+evidence:
+- text: 'Shared motifs, rarest first: The earth shines (lit up) with God''s glory (weight 6.7). Pair score
+    6.7.'
+  basis: reading
+- text: 'Only in The glory of God returns to the temple: God''s voice (or the sound of his coming) is
+    like the sound of many waters; The cloud and glory fill the sanctuary so that even the leader cannot
+    enter; The divine glory returns to the temple from the east through the east gate; The sanctuary is
+    built after a pattern shown by God on the mountain; The prophet falls on his face at the sight of
+    the divine glory; Kings'' corpses or memorials (pigre malkehem) beside the temple defile God''s holy
+    name; Fear that the spirit of YHWH will carry the prophet off to an unknown place; The temple stands
+    on the top of a (very high) mountain whose whole territory is most holy; The temple is called the
+    place of God''s throne and the soles of his feet, where he will dwell forever; The prophet is to describe
+    the temple''s plan so that Israel will be ashamed of its sins.'
+  basis: reading
+- text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
+    angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
+    who gave them the land (ard) as inheritance to settle in the Garden where they will; The Book (record)
+    is laid down, the prophets and witnesses are brought, and judgment is passed with truth; ''O my servants
+    who have transgressed against themselves, do not despair of God''s mercy; God forgives all sins'';
+    Unbelievers are driven to hell in throngs (zumar) and the godfearing to the Garden in throngs; the
+    gates open and the keepers address each; On the Day of Resurrection the whole earth is in God''s grip
+    and the heavens folded in his right hand; On the day some faces turn white and some turn black; All
+    the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
+    leaves from vine and fig; The keepers of the Garden greet the righteous ''Peace be upon you, you have
+    been good; enter''; The keepers of hell ask ''Did not messengers from among you come to you?''; To
+    God belong the keys (maqalid) of the heavens and the earth; Lest a soul say ''Alas for my neglect
+    of God'' or ''If only I had another chance (karra)''; If you associate partners with God your deeds
+    will come to nothing; At the first trumpet blast all in heaven and earth swoon (sa''iqa) except whom
+    God wills; at the second they stand looking; Prophet sees God seated on his throne with all the host
+    of heaven standing to his right and left.'
+  basis: reading
+- text: 'The glory of God returns to the temple: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: tagged by
+    Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

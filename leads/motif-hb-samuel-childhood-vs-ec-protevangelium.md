@@ -52,8 +52,8 @@ passages:
   ref: 'Protevangelium of James: 7–8'
   note: Child raised in the sanctuary or temple
 evidence:
-- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 2.4); Child
-    raised in the sanctuary or temple (weight 2.4). Pair score 4.8.'
+- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 5.8); Child
+    raised in the sanctuary or temple (weight 5.4). Pair score 11.2.'
   basis: reading
 - text: 'Hannah''s vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

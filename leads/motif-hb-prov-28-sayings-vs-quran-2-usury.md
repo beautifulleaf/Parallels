@@ -1,0 +1,91 @@
+---
+id: motif-hb-prov-28-sayings-vs-quran-2-usury
+title: Sayings on torah, rulers, usury and confession ↔ Usury
+summary: 'These two units share 2 motifs: he who increases wealth by interest and usury gathers it for
+  one who is gracious to the poor, do not charge interest to the poor of my people.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- usurers-wealth-goes-to-generous
+- prohibition-of-interest
+passages:
+- tradition: judaism
+  ref: Prov 28:8
+  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
+- tradition: islam
+  ref: Quran 2:276
+  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
+- tradition: judaism
+  ref: Prov 28:8
+  note: Do not charge interest to the poor of my people (neshekh and tarbit)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
+- tradition: islam
+  ref: Quran 2:275
+  note: Do not charge interest to the poor of my people
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ
+    مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ
+    ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ
+    وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
+- tradition: islam
+  ref: Quran 2:278
+  note: Do not charge interest to the poor of my people
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
+    كُنتُم مُّؤْمِنِينَ
+evidence:
+- text: 'Shared motifs, rarest first: He who increases wealth by interest and usury gathers it for one
+    who is gracious to the poor (weight 6.3); Do not charge interest to the poor of my people (weight
+    5.8). Pair score 12.1.'
+  basis: reading
+- text: 'Only in Sayings on torah, rulers, usury and confession: ''Better is X than Y'' comparative saying
+    (tov ... min); A man burdened with the blood of a life will flee to the pit; let no one support him;
+    He who conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain
+    mercy; He who digs a pit or hides a net is caught in it himself; The diligent hand makes rich and
+    rules; the slack hand brings poverty and forced labor; He who gives to the poor will not lack, but
+    he who hides his eyes will get many curses; The ''good of eye'' (generous) is blessed; the ''evil
+    of eye'' (stingy, envious) is to be shunned; A faithful man has many blessings, but he who hastens
+    to be rich will not go unpunished; He who is greedy for gain troubles his house, but he who hates
+    gifts (bribes) will live; When a land transgresses it has many rulers; with a man of understanding
+    it endures; A poor man who oppresses the poor is like a beating rain that leaves no food; Showing
+    partiality in judgment is not good; he who tells the wicked ''you are righteous'' is cursed by peoples;
+    When the wicked rise men hide themselves; when they perish the righteous increase; He who turns his
+    ear from hearing the torah, even his prayer is an abomination; He who robs his father or mother and
+    says ''It is no transgression'' is companion to a destroyer; Those who forsake the torah praise the
+    wicked; those who keep the torah contend with them; The wicked flee when no one pursues, but the righteous
+    are bold as a lion; A wicked ruler over a poor people is a roaring lion and a charging bear.'
+  basis: reading
+- text: 'Only in Usury: God blots out usury and makes charity grow; A debtor in hardship is given respite
+    until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
+    and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
+    who do not give up usury are warned of war from God and his messenger; they keep their principal.'
+  basis: reading
+- text: 'Sayings on torah, rulers, usury and confession: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Usury: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,80 @@
+---
+id: motif-hb-deut-15-release-year-vs-quran-24-privacy-modesty-marriage
+title: Release of debts, release of Hebrew slaves, firstlings ↔ Entering houses, lowering the gaze, head-coverings,
+  marriage and manumission
+summary: 'These two units share 1 motifs: freed slave must not be sent away empty-handed but furnished
+  from flock, threshing floor and winepress.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- freed-slave-given-gifts
+passages:
+- tradition: judaism
+  ref: Deut 15:13
+  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְכִֽי תְשַׁלְּחֶ֥נּוּ חָפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם
+- tradition: judaism
+  ref: Deut 15:14
+  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגָּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהוָ֥ה
+    אֱלֹהֶ֖יךָ תִּתֶּן לֽוֹ
+- tradition: islam
+  ref: Quran 24:33
+  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
+    ('give them of the wealth of God which he gave you')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ
+    يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا
+    وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ
+    إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ
+    ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
+evidence:
+- text: 'Shared motifs, rarest first: Freed slave must not be sent away empty-handed but furnished from
+    flock, threshing floor and winepress (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Blemished animal (lame, blind)
+    may not be sacrificed; Blood is the life; do not eat it but pour it on the ground like water; Seventh-year
+    release (shemittah) of debts owed by a fellow Israelite; Slave who loves his master has his ear pierced
+    with an awl at the door and serves forever; Base thought refusing a loan as the release year nears;
+    the poor man cries to God against you; Firstborn male of herd and flock consecrated to God, not worked
+    or shorn; Debts of a foreigner may still be exacted though a brother''s are released; There will be
+    no poor among you, yet the poor will never cease from the land; Open your hand wide to the poor brother;
+    do not harden your heart or shut your hand; Hebrew slaves are released in the seventh year; Sabbath
+    grounded in the memory of slavery in Egypt.'
+  basis: reading
+- text: 'Only in Entering houses, lowering the gaze, head-coverings, marriage and manumission: Do not
+    enter others'' houses until you have asked leave and greeted the household; if told to go back, go
+    back; Catalogue of bridal finery: embroidered cloth, tahash sandals, linen, silk, bracelets, necklace,
+    nose-ring, earrings and a crown; A father must not make his daughter a prostitute; Women should not
+    strike their feet to make known their hidden ornaments (anklets); Believing men and women are told
+    to lower their gaze and guard their private parts; Grant slaves who ask a written manumission contract
+    (kitāba) and give them of God''s wealth; Marry off the unmarried among you and your righteous slaves;
+    God will enrich the poor; Believing women draw their head-coverings (khumur) over their bosoms and
+    do not show adornment except to listed kin.'
+  basis: reading
+- text: 'Release of debts, release of Hebrew slaves, firstlings: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'Entering houses, lowering the gaze, head-coverings, marriage and manumission: tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -61,8 +61,8 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
 evidence:
-- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 2.4); Child
-    raised in the sanctuary or temple (weight 2.4). Pair score 4.8.'
+- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 5.8); Child
+    raised in the sanctuary or temple (weight 5.4). Pair score 11.2.'
   basis: reading
 - text: 'Only in Mary and the infant Jesus in the Quran: Mother gives birth alone in a remote place; Child
     makes birds from clay that come alive; The newborn speaks; Lots, rods or reeds decide who will be

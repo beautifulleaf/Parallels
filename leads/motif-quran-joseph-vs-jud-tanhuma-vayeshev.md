@@ -48,8 +48,8 @@ passages:
   ref: 'The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev): Vayeshev 5'
   note: Hero's beauty is remarked on
 evidence:
-- text: 'Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 2.8); Hero''s
-    beauty is remarked on (weight 2.1). Pair score 4.9.'
+- text: 'Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 6.3); Hero''s
+    beauty is remarked on (weight 4.9). Pair score 11.2.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

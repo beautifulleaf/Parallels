@@ -38,8 +38,8 @@ passages:
   ref: 'Joseph sees his father''s image (Babylonian Talmud, Sotah 36b): Sotah 36b'
   note: Seduction attempt when the two are alone in the house
 evidence:
-- text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 2.8); Seduction
-    attempt when the two are alone in the house (weight 2.4). Pair score 5.2.'
+- text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 6.3); Seduction
+    attempt when the two are alone in the house (weight 5.8). Pair score 12.1.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

@@ -1,0 +1,76 @@
+---
+id: motif-hb-1kgs-8-dedication-prayer-vs-quran-24-penalties-and-lian
+title: Solomon's prayer of dedication ↔ Lashes for fornication, four witnesses and the mutual cursing
+  oath
+summary: 'These two units share 1 motifs: a man accused swears a curse-oath before the altar, and god
+  judges guilty and innocent.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- oath-before-altar-ordeal
+passages:
+- tradition: judaism
+  ref: 1Kgs 8:31-32
+  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (8:31) אֵת֩ אֲשֶׁ֨ר יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָֽשָׁא ב֥וֹ אָלָ֖ה לְהַֽאֲלֹת֑וֹ וּבָ֗א אָלָ֛ה
+    לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה (8:32) וְאַתָּ֣ה תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְעָשִׂ֨יתָ֙ וְשָׁפַטְתָּ֣
+    אֶת עֲבָדֶ֔יךָ לְהַרְשִׁ֣יעַ רָשָׁ֔ע לָתֵ֥ת דַּרְכּ֖וֹ בְּרֹאשׁ֑וֹ וּלְהַצְדִּ֣יק צַדִּ֔יק לָ֥תֶת
+    ל֖וֹ כְּצִדְקָתֽוֹ
+- tradition: islam
+  ref: Quran 24:7
+  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
+- tradition: islam
+  ref: Quran 24:9
+  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلْخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ
+evidence:
+- text: 'Shared motifs, rarest first: A man accused swears a curse-oath before the altar, and God judges
+    guilty and innocent (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Solomon''s prayer of dedication: Long catalogue of curses for covenant violation (disease,
+    defeat, famine, exile); Heaven is shut and no rain falls because of the people''s sin; repentance
+    brings rain; A foreigner from a far land who hears of God''s name comes to pray at the temple and
+    is heard; God alone knows the hearts of all humans; Heaven and the heaven of heavens cannot contain
+    God, much less a temple; Heaven and the heaven of heavens belong to God; Egypt called an iron furnace
+    (smelting furnace); ''There is no man who does not sin''; Prayers made toward the temple (or toward
+    the land, city and house when in exile) are heard in heaven; Exiles in an enemy land turn back with
+    all their heart and pray toward their land, and God grants them mercy before captors; Prophet spreads
+    out his palms to God in prayer.'
+  basis: reading
+- text: 'Only in Lashes for fornication, four witnesses and the mutual cursing oath: Adulterer and adulteress
+    both put to death; Wife suspected of adultery drinks ''water of bitterness'' as an ordeal; The fornicating
+    woman and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry
+    only a fornicator or an idolater; such marriage is forbidden to believers; Whoever accuses a chaste
+    woman without four witnesses is flogged eighty lashes and his testimony is never accepted; A husband
+    accusing his wife without witnesses swears four times by God and a fifth time invokes God''s curse
+    on himself if lying; she averts punishment by four counter-oaths and a fifth invoking God''s wrath;
+    Husband who falsely accuses his bride is flogged, fined 100 silver, and may never divorce her; No
+    one put to death on the testimony of a single witness.'
+  basis: reading
+- text: 'Solomon''s prayer of dedication: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Lashes for fornication, four witnesses and the mutual cursing oath: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

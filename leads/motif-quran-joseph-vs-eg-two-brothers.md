@@ -45,8 +45,8 @@ passages:
   ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
   note: The master's wife tries to seduce the hero (the elder brother's wife and the younger brother Bata)
 evidence:
-- text: 'Shared motifs, rarest first: The woman falsely accuses the hero of assault (weight 2.4); The
-    master''s wife tries to seduce the hero (weight 2.4). Pair score 4.8.'
+- text: 'Shared motifs, rarest first: The woman falsely accuses the hero of assault (weight 5.8); The
+    master''s wife tries to seduce the hero (weight 5.8). Pair score 11.5.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

@@ -8,7 +8,7 @@ A parallel can only surface from text that the pipeline has scanned or a reader 
 
 | Corpus | Verses | Scanned by the lexical track | Inside a narrative label | Read in full for motif tagging |
 |---|---|---|---|---|
-| Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 207 / 6,236 (3.3%) |
+| Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 6,236 / 6,236 (100.0%) |
 | Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 23,213 / 23,213 (100.0%) |
 
 Concentration and bridge detection only see verses inside narrative labels. Synonym and cognate checks see every scanned verse.
@@ -17,25 +17,25 @@ Concentration and bridge detection only see verses inside narrative labels. Syno
 
 | Narrative | Labeled verses | Read for motifs |
 |---|---|---|
-| Adam and Iblis | 73 | 0 / 73 (0.0%) |
-| Cain and Abel | 5 | 0 / 5 (0.0%) |
-| Noah | 107 | 57 / 107 (53.3%) |
-| Hud and ʿAd | 43 | 0 / 43 (0.0%) |
-| Salih and Thamud | 48 | 0 / 48 (0.0%) |
-| Abraham | 175 | 14 / 175 (8.0%) |
-| Lot | 65 | 0 / 65 (0.0%) |
-| Shuʿayb and Midian | 37 | 0 / 37 (0.0%) |
+| Adam and Iblis | 73 | 73 / 73 (100.0%) |
+| Cain and Abel | 5 | 5 / 5 (100.0%) |
+| Noah | 107 | 107 / 107 (100.0%) |
+| Hud and ʿAd | 43 | 43 / 43 (100.0%) |
+| Salih and Thamud | 48 | 48 / 48 (100.0%) |
+| Abraham | 175 | 175 / 175 (100.0%) |
+| Lot | 65 | 65 / 65 (100.0%) |
+| Shuʿayb and Midian | 37 | 37 / 37 (100.0%) |
 | Joseph | 98 | 98 / 98 (100.0%) |
-| Moses | 438 | 11 / 438 (2.5%) |
-| Saul (Talut) and Goliath | 6 | 0 / 6 (0.0%) |
-| David | 15 | 0 / 15 (0.0%) |
-| Solomon | 46 | 0 / 46 (0.0%) |
-| Job | 6 | 0 / 6 (0.0%) |
-| Jonah | 16 | 0 / 16 (0.0%) |
-| Zechariah and John | 20 | 0 / 20 (0.0%) |
-| Jesus and Mary | 76 | 14 / 76 (18.4%) |
-| People of the Cave | 18 | 0 / 18 (0.0%) |
-| Dhul-Qarnayn | 16 | 0 / 16 (0.0%) |
+| Moses | 438 | 438 / 438 (100.0%) |
+| Saul (Talut) and Goliath | 6 | 6 / 6 (100.0%) |
+| David | 15 | 15 / 15 (100.0%) |
+| Solomon | 46 | 46 / 46 (100.0%) |
+| Job | 6 | 6 / 6 (100.0%) |
+| Jonah | 16 | 16 / 16 (100.0%) |
+| Zechariah and John | 20 | 20 / 20 (100.0%) |
+| Jesus and Mary | 76 | 76 / 76 (100.0%) |
+| People of the Cave | 18 | 18 / 18 (100.0%) |
+| Dhul-Qarnayn | 16 | 16 / 16 (100.0%) |
 
 ### Hebrew Bible: narratives
 
@@ -93,7 +93,7 @@ These were tagged from what is known about the text, not from the text itself, w
 
 ## Leads
 
-- 71 leads in total; 26 written by hand (the benchmark set) and 45 by the pipeline.
+- 526 leads in total; 26 written by hand (the benchmark set) and 500 by the pipeline.
 - The hand-written benchmark leads were drafted from secondary knowledge. Only their Quran and Hebrew passages show original text.
 
 ## Traditions with no original text in the repo yet

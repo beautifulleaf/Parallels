@@ -1,0 +1,96 @@
+---
+id: motif-hb-gen-16-hagar-vs-quran-19-zechariah-and-john
+title: Hagar and the birth of Ishmael ↔ Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+summary: 'These two units share 2 motifs: a divine messenger announces a son''s birth and gives his name,
+  the patriarch''s wife is barren.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- annunciation-of-son-and-name
+- barren-matriarch
+passages:
+- tradition: judaism
+  ref: Gen 16:11
+  note: A divine messenger announces a son's birth and gives his name
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל
+    כִּֽי שָׁמַ֥ע יְהוָ֖ה אֶל עָנְיֵֽךְ
+- tradition: islam
+  ref: Quran 19:7
+  note: A divine messenger announces a son's birth and gives his name (a boy named Yaḥyā)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا
+- tradition: judaism
+  ref: Gen 16:1
+  note: The patriarch's wife is barren
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְשָׂרַי֙ אֵ֣שֶׁת אַבְרָ֔ם לֹ֥א יָלְדָ֖ה ל֑וֹ וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית וּשְׁמָ֥הּ הָגָֽר
+- tradition: judaism
+  ref: Gen 16:2
+  note: The patriarch's wife is barren
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֹּ֨אמֶר שָׂרַ֜י אֶל אַבְרָ֗ם הִנֵּה נָ֞א עֲצָרַ֤נִי יְהוָה֙ מִלֶּ֔דֶת בֹּא נָא֙ אֶל שִׁפְחָתִ֔י
+    אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי
+- tradition: islam
+  ref: Quran 19:5
+  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
+    وَلِيًّا
+- tradition: islam
+  ref: Quran 19:8
+  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ
+    عِتِيًّا
+evidence:
+- text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
+    5.6); The patriarch''s wife is barren (weight 5.3). Pair score 10.9.'
+  basis: reading
+- text: 'Only in Hagar and the birth of Ishmael: An angel meets the outcast woman by a spring or well
+    in the wilderness; Woman names God El Roi, ''God who sees'', and the well Beer-lahai-roi; Ishmael
+    foretold to be a wild ass of a man, his hand against all; The pregnant slave-wife looks down on her
+    barren mistress; Descendants promised to be as countless as the dust, stars or sand; Mistreated slave-woman
+    flees or is sent into the wilderness; Barren wife gives her slave-girl to her husband to bear children
+    for her.'
+  basis: reading
+- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): Old man''s prayer:
+    ''my bones have weakened and my head is aflame with gray''; The child is given judgment and wisdom
+    while still a boy; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning,
+    e.g. alif-lam-mim; The prophet child is dutiful to his parent(s), not an arrogant tyrant; God answers
+    doubt: ''It is easy for me; I created you before when you were nothing''; The aged father asks how
+    he can have a son when his wife is barren and he is very old; Husband prays for his barren wife and
+    she conceives; As a sign of the promised son the father cannot speak to people for three days or nights;
+    The announced son receives a name never given to anyone before; ''Peace on him the day he was born,
+    the day he dies and the day he is raised alive''; A petitioner calls to God in a hidden, secret voice;
+    The mute priest comes out of the sanctuary and signals to the people to glorify God; The childless
+    priest fears for his kinsmen after him and asks for an heir to the family of Jacob; God makes the
+    prophet''s tongue cleave to his palate so he is mute except when God speaks; Seeing Mary''s provision,
+    Zechariah prays for good offspring.'
+  basis: reading
+- text: 'Hagar and the birth of Ishmael: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Zechariah''s secret prayer and the birth of John (Surah 19:1-15): tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,82 @@
+---
+id: motif-hb-daniel-furnace-vs-quran-21-abraham-idols-fire
+title: The three youths in the furnace (Daniel 3) ↔ Abraham breaks the idols and is cast into the fire
+summary: 'These two units share 2 motifs: the fire does not harm the hero, hero thrown into a fire or
+  furnace by a king or people.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- fire-made-harmless
+- thrown-into-fire
+passages:
+- tradition: judaism
+  ref: Dan 3:25
+  note: The fire does not harm the hero
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: עָנֵ֣ה וְאָמַ֗ר הָֽא אֲנָ֨ה חָזֵ֜ה גֻּבְרִ֣ין אַרְבְּעָ֗ה שְׁרַ֨יִן֙ מַהְלְכִ֣ין בְּגֽוֹא נוּרָ֔א
+    וַחֲבָ֖ל לָא אִיתַ֣י בְּה֑וֹן וְרֵוֵהּ֙ דִּ֣י רביעיא רְֽבִיעָאָ֔ה דָּמֵ֖ה לְבַר אֱלָהִֽין
+- tradition: judaism
+  ref: Dan 3:27
+  note: The fire does not harm the hero
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּ֠מִֽתְכַּנְּשִׁין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒ חָזַ֣יִן
+    לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ
+    וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן
+- tradition: islam
+  ref: Quran 21:69
+  note: The fire does not harm the hero
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْنَا يَٰنَارُ كُونِى بَرْدًا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
+- tradition: judaism
+  ref: Dan 3:20
+  note: Hero thrown into a fire or furnace by a king or people
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד
+    נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא
+- tradition: judaism
+  ref: Dan 3:21
+  note: Hero thrown into a fire or furnace by a king or people
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון פַּטְּשֵׁיה֔וֹן וְכַרְבְּלָתְה֖וֹן
+    וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא
+- tradition: islam
+  ref: Quran 21:68
+  note: Hero thrown into a fire or furnace by a king or people
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
+evidence:
+- text: 'Shared motifs, rarest first: The fire does not harm the hero (weight 5.8); Hero thrown into a
+    fire or furnace by a king or people (weight 5.3). Pair score 11.1.'
+  basis: reading
+- text: 'Only in Abraham breaks the idols and is cast into the fire: Abraham and Lot are rescued to the
+    land God blessed for all peoples; Hero''s father makes, sells or worships idols; God commands the
+    fire: ''Be coolness and peace upon Abraham''; Isaac given, and Jacob in addition as an extra gift
+    (nāfila); Hero smashes or burns idols; The made idol cannot move from its place, speak or answer and
+    save those who cry to it; Hero blames the largest idol for the destruction; The men of Sodom are exceedingly
+    wicked.'
+  basis: reading
+- text: 'The three youths in the furnace (Daniel 3): tagged by Claude (model), reading the Aramaic.'
+  basis: reading
+- text: 'Abraham breaks the idols and is cast into the fire: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,135 @@
+---
+id: motif-hb-deut-5-decalogue-vs-quran-6-commandments
+title: The Decalogue restated and the people's fear at Horeb ↔ The recited commandments (the Quranic decalogue)
+summary: 'These two units share 3 motifs: the ten commandments (decalogue), honor father and mother, with
+  the promise of long life, prohibitions of murder, adultery, theft and false witness.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- ten-commandments
+- honor-parents-long-life
+- prohibition-murder-adultery-theft-false-witness
+passages:
+- tradition: judaism
+  ref: Deut 5:6
+  note: The Ten Commandments (Decalogue)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
+- tradition: judaism
+  ref: Deut 5:7
+  note: The Ten Commandments (Decalogue)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: islam
+  ref: Quran 6:151
+  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
+    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
+    path)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: islam
+  ref: Quran 6:152
+  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
+    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
+    path)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
+    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
+    تَذَكَّرُونَ
+- tradition: judaism
+  ref: Deut 5:16
+  note: Honor father and mother, with the promise of long life
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+- tradition: islam
+  ref: Quran 6:151
+  note: Honor father and mother, with the promise of long life
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: judaism
+  ref: Deut 5:17
+  note: Prohibitions of murder, adultery, theft and false witness
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹ֖א תִּרְצָֽח
+- tradition: judaism
+  ref: Deut 5:18
+  note: Prohibitions of murder, adultery, theft and false witness
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלֹ֖א תִּנְאָֽף
+- tradition: islam
+  ref: Quran 6:151
+  note: Prohibitions of murder, adultery, theft and false witness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: islam
+  ref: Quran 6:152
+  note: Prohibitions of murder, adultery, theft and false witness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
+    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
+    تَذَكَّرُونَ
+evidence:
+- text: 'Shared motifs, rarest first: The Ten Commandments (Decalogue) (weight 5.4); Honor father and
+    mother, with the promise of long life (weight 5.3); Prohibitions of murder, adultery, theft and false
+    witness (weight 5.3). Pair score 16.0.'
+  basis: reading
+- text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
+    alive today, not only with the fathers; Prohibition of coveting the neighbor''s wife and property;
+    Mountain burns with fire to the heart of heaven amid darkness and cloud; People fear to hear God directly
+    and ask the prophet to mediate; Prohibition of carved images or likenesses of anything for worship;
+    Sabbath grounded in the memory of slavery in Egypt; Sabbath rest on the seventh day for all, including
+    servants, animals and strangers; God visits the fathers'' sin on the third and fourth generation,
+    but keeps steadfast love for thousands; God gives stone tablets he himself has written; God heard
+    as a voice out of fire with no visible form.'
+  basis: reading
+- text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
+    I will recite what your Lord has forbidden you''; Do not kill your children for fear of poverty; God
+    provides for them and you; Honest balances, weights, ephah and hin are commanded; God burdens no soul
+    beyond its capacity; Guardians must keep orphans'' property intact and hand it over when they come
+    of age; Lest you say scripture was sent only to two groups before us; This is my straight path; follow
+    it and not other ways that scatter you; God gave Moses the book complete and detailing everything;
+    Keep the law, turning neither to the right nor to the left; Stand firm for justice as witnesses for
+    God even against yourselves, parents and kin, rich or poor.'
+  basis: reading
+- text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'The recited commandments (the Quranic decalogue): tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

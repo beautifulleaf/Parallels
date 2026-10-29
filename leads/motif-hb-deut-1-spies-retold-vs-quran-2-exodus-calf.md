@@ -1,0 +1,87 @@
+---
+id: motif-hb-deut-1-spies-retold-vs-quran-2-exodus-calf
+title: The spies episode retold ↔ Exodus, the calf and the wilderness
+summary: 'These two units share 2 motifs: the people grumble against their leaders about food or water,
+  god leads the people in a pillar of cloud by day and a pillar of fire by night.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- murmuring-in-wilderness
+- pillar-of-cloud-and-fire
+passages:
+- tradition: judaism
+  ref: Deut 1:27
+  note: The people grumble against their leaders about food or water ('because YHWH hated us he brought
+    us out')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֵּרָגְנ֤וּ בְאָהֳלֵיכֶם֙ וַתֹּ֣אמְר֔וּ בְּשִׂנְאַ֤ת יְהוָה֙ אֹתָ֔נוּ הוֹצִיאָ֖נוּ מֵאֶ֣רֶץ
+    מִצְרָ֑יִם לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַשְׁמִידֵֽנוּ
+- tradition: islam
+  ref: Quran 2:61
+  note: The people grumble against their leaders about food or water
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+    لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ
+    أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا
+    سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ
+    بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ
+    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+- tradition: judaism
+  ref: Deut 1:33
+  note: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הַהֹלֵ֨ךְ לִפְנֵיכֶ֜ם בַּדֶּ֗רֶךְ לָת֥וּר לָכֶ֛ם מָק֖וֹם לַֽחֲנֹֽתְכֶ֑ם בָּאֵ֣שׁ לַ֗יְלָה לַרְאֹֽתְכֶם֙
+    בַּדֶּ֨רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ בָ֔הּ וּבֶעָנָ֖ן יוֹמָֽם
+- tradition: islam
+  ref: Quran 2:57
+  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (shaded with clouds)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
+    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+evidence:
+- text: 'Shared motifs, rarest first: The people grumble against their leaders about food or water (weight
+    5.1); God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1).
+    Pair score 10.2.'
+  basis: reading
+- text: 'Only in The spies episode retold: Caleb has ''another spirit'' and follows God fully; Children
+    ''who do not yet know good and evil'' will inherit; Cities ''great and fortified up to heaven''; Whole
+    adult generation condemned to die in the desert; only children enter; Giant descendants (Anakim /
+    Nephilim) inhabit the land; God carried Israel in the wilderness as a man carries his son; The great
+    leader is denied entry into the promised land for a lapse; People attack without God''s ark or leader
+    and are routed; Enemy chased them ''as bees do''; Twelve men sent to scout the promised land.'
+  basis: reading
+- text: 'Only in Exodus, the calf and the wilderness: Longing for fish, cucumbers, melons, leeks, onions
+    and garlic of Egypt; Israel told to enter the town''s gate prostrating and say ''hitta'' (remission);
+    the wrongdoers change the word; A prophet spends forty days and forty nights in a set period; People
+    make a molten calf while the leader is on the mountain; Ruler orders the killing of male infants;
+    The Levites kill idolaters including their own kin and are consecrated for it; Manna, unknown food
+    from heaven; No human can see God''s face and live; Israel killed the prophets who warned them; The
+    returning waters drown the pursuing army; not one survives; Wind brings quail in vast quantity to
+    feed the people; Prophet stretches his staff over the sea and God splits it with a strong east wind;
+    Israelites who demanded to see God are struck by a thunderbolt and then raised after their death;
+    Oasis with twelve springs and seventy palm trees; Prophet strikes a rock and water flows out for the
+    people.'
+  basis: reading
+- text: 'The spies episode retold: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Exodus, the calf and the wilderness: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes
