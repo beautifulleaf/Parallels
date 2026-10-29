@@ -31,10 +31,23 @@ expectations:
     lemma: كُرْسِيّ
     hebrew: H3764
     lead: kursi-loan-chain
-  - description: "Quran kursī ↔ Hebrew kissēʾ (H3678); needs the Aramaic loan-chain layer (v2)"
+  - description: "Quran kursī ↔ Hebrew kissēʾ (H3678), through the loan chain (Akkadian kussû, geminate dissimilated to -rs-)"
     corpus: quran
     kind: cognate
     lemma: كُرْسِيّ
     hebrew: H3678
     lead: kursi-loan-chain
-    expect: false
+# Loan chains (tools/anelex.py): one chain must link every form listed. Sumerian forms by their
+# normalized reading, Akkadian by eBL citation form, the others as he:/arc: Strong's or ar: Quran lemma.
+  - description: "Loan chain: Sumerian guza → Akkadian kussû → Aramaic korsêʾ (H3764) → Arabic kursī; and Hebrew kissēʾ (H3678)"
+    kind: chain
+    forms: [guza, kussû, "arc:H3764", "he:H3678", "ar:كُرْسِيّ"]
+    lead: kursi-loan-chain
+  - description: "Loan chain: Sumerian é-gal → Akkadian ekallu → Hebrew hêkhāl (H1964) and Aramaic hêkal (H1965). Arabic haykal is not in the Quran, so the chain's Arabic end is outside the corpus"
+    kind: chain
+    forms: [egal, ekallu, "he:H1964"]
+    lead: haykal-loan-chain
+  - description: "Akkadian tinūru → Hebrew tannûr (H8574) and Arabic tannūr"
+    kind: chain
+    forms: [tinūru, "he:H8574", "ar:تَنُّور"]
+    lead: tannur-loan-chain

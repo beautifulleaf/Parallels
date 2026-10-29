@@ -27,8 +27,11 @@ from datetime import date
 import yaml
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import anelex  # noqa: E402
 import corpora  # noqa: E402
 import originals  # noqa: E402
+
+CHAINS = {"chains": [], "sumerian_loans": [], "counts": {}}   # loan chains and cognate sets (tools/anelex.py)
 
 ROOT = corpora.ROOT
 OUT = ROOT / "results" / "lexical"
@@ -360,6 +363,8 @@ def run():
                        bridges=[{**b, **lem_info(b["lemma"])} for b in bridges])
         (OUT / f"{name}.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    global CHAINS
+    CHAINS = anelex.run(verbose=False) if anelex.SCOPE.exists() else {"chains": [], "sumerian_loans": [], "counts": {}}
     bench = check_benchmarks(quran, cog, q_conc, h_conc, q_bridges, h_bridges)
     write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara, a_conc, a_bridges)
     return quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench
@@ -371,6 +376,11 @@ def check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges):
              ("quran", "bridge"): q_bridges, ("hebrew-bible", "bridge"): h_bridges}
     results = []
     for b in spec["expectations"]:
+        if b["kind"] == "chain":
+            # a loan chain or cognate set linking every listed form (tools/anelex.py)
+            hit = anelex.chain_has(CHAINS, [unicodedata.normalize("NFC", f) for f in b["forms"]])
+            results.append({**b, "recovered": bool(hit), "expect": b.get("expect", True)})
+            continue
         pool = pools[(b["corpus"], b["kind"])] if b["kind"] != "cognate" else q_conc + q_bridges
         hit = None
         for c in pool:
@@ -382,6 +392,9 @@ def check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges):
                 hit = c
             elif b["kind"] == "cognate" and any(g["lemma"] == b["hebrew"] for g in matched(c["cognates"])):
                 hit = c
+        if b["kind"] == "cognate" and not hit and anelex.chain_has(
+                CHAINS, ["ar:" + unicodedata.normalize("NFC", b["lemma"]), "he:" + b["hebrew"]]):
+            hit = {"lemma": b["lemma"], "via": "loan chain"}
         if b["kind"] == "cognate" and not hit:
             # cognate benchmarks also count when the lemma is not itself a candidate
             index = hebrew_index(heb, {l: {0} for l in heb.lemmas})   # heb is the Hebrew+Aramaic cognate space here
@@ -617,6 +630,67 @@ def _lead(quran, heb, c, lid, title, summary, narratives):
     }
 
 
+LANG_TRADITION = {"sux": "ane-sumerian", "akk": "ane-akkadian", "he": "judaism", "arc": "judaism", "ar": "islam"}
+LANG_NAME = {"sux": "Sumerian", "akk": "Akkadian", "he": "Hebrew", "arc": "Aramaic", "ar": "Arabic"}
+
+
+def build_chain_leads(bench):
+    """Leads for loan chains from Sumerian, and for Akkadian cognate sets reaching both Hebrew/Aramaic and
+    Arabic whose Akkadian word occurs in the ANE texts read. Chains a benchmark lead already covers are skipped."""
+    covered = set()
+    for b in bench:
+        if b.get("lead") and b["kind"] == "chain":
+            c = anelex.chain_has(CHAINS, b["forms"])
+            if c:
+                covered.add(c["akk"])
+    covered |= {"kussû I", "ēkallu I", "tinūru I"}      # the kursi, haykal and tannur benchmark leads
+    leads = []
+    for c in CHAINS["chains"]:
+        if c["akk"] in covered or not c["targets"]:
+            continue
+        later = {t["key"].split(":")[0] for t in c["targets"]}
+        if not (c["sux"] and c["akk_n"]) and not (c["akk_n"] >= 3 and later & {"he", "arc"} and "ar" in later):
+            continue
+        lid = "chain-" + re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFD", c["akk_cf"]).encode("ascii", "ignore").decode().lower()).strip("-")
+        lexical = [{"lang": "sux", "form": s["sux"], "translit": s["sux"], "gloss": s["sux_gloss"] or "",
+                    "note": f"written {s['logogram']} in Akkadian"} for s in c["sux"][:1]]
+        lexical.append({"lang": "akk", "form": c["akk_cf"], "translit": c["akk_cf"],
+                        "gloss": re.sub(r"\s+", " ", c["akk_meaning"])[:80]})
+        for t in c["targets"][:5]:
+            lang = t["key"].split(":")[0]
+            lexical.append({"lang": lang, "form": t["form"], "translit": t.get("translit") or (translit(t["form"]) if lang == "ar" else ""),
+                            "gloss": f"{t['gloss']} ({t['key'].split(':', 1)[1]})"})
+        langs = [LANG_NAME[l] for l in ("sux", "akk", "arc", "he", "ar") if l in set(c["langs"])]
+        chain_text = " → ".join(f"{x['form']}" for x in lexical)
+        evidence = []
+        if c["sux"]:
+            s0 = c["sux"][0]
+            evidence.append({"text": f"Akkadian {c['akk_cf']} is written with the Sumerian logogram {s0['logogram']} (eBL dictionary), and "
+                                     f"Sumerian {s0['sux']} sounds like it, voicing aside. Sumerian {s0['sux']} occurs in {s0['sux_n']} "
+                                     "lines of the texts read.", "basis": "lexicon"})
+        for e in c["edges"][:6]:
+            evidence.append({"text": f"{e['from'].split(':')[-1]} ~ {e['to'].split(':', 1)[1]}: consonants correspond ({e['skeleton']}"
+                                     + (", with dissimilation of a geminate" if e.get("dissimilation") else "")
+                                     + f"); meanings share: {', '.join(e['shared'])}.", "basis": "gloss"})
+        evidence.append({"text": f"Akkadian {c['akk_cf']} occurs in {c['akk_n']} lines of the ANE texts read.", "basis": "original"})
+        passages = [{"tradition": "ane-akkadian", "ref": r} for r in c["akk_refs"][:3]]
+        passages += [{"tradition": "ane-sumerian", "ref": r} for s in c["sux"][:1] for r in s["sux_refs"][:2]]
+        originals.fill_passages(passages, QURAN_TEXT, HEBREW_TEXT)
+        leads.append({
+            "id": lid, "title": f"{c['akk_cf']}: {' – '.join(langs)} {'loan chain' if c['sux'] else 'cognate set'}",
+            "summary": f"{chain_text}. Linked by sound correspondence and shared meaning across {', '.join(langs)}.",
+            "status": "new", "relations": ["transmission"] if c["sux"] else ["inheritance"],
+            "direction": " -> ".join(LANG_TRADITION[l] for l in ("sux", "akk") if l in c["langs"]) if c["sux"] else "",
+            "standing": "proposed",
+            "traditions": list(dict.fromkeys(LANG_TRADITION[l] for l in ("sux", "akk", "he", "arc", "ar") if l in c["langs"])),
+            "layers": ["lexical"], "lexical": lexical, "passages": passages, "evidence": evidence,
+            "origin": "pipeline", "added": date.today().isoformat(),
+        })
+        if not leads[-1]["direction"]:
+            leads[-1].pop("direction")
+    return leads
+
+
 def main():
     quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench = run()
     print(f"Quran: {len(q_conc)} concentration, {len(q_bridges)} bridges")
@@ -627,10 +701,11 @@ def main():
     if "--write-leads" in sys.argv:
         global QURAN_TEXT, HEBREW_TEXT
         QURAN_TEXT, HEBREW_TEXT = originals.load_quran_text(), originals.load_hebrew_text()
-        produced = build_leads(quran, heb, q_conc, q_bridges, bench) + build_hebrew_leads(heb, h_conc, h_bridges, bench)
+        produced = (build_leads(quran, heb, q_conc, q_bridges, bench) + build_hebrew_leads(heb, h_conc, h_bridges, bench)
+                    + build_chain_leads(bench))
         for lead in produced:
             print(f"  lead {lead['id']}: {write_lead(lead)}")
-        flag_stale({l["id"] for l in produced}, ("quran-", "hebrew-"))
+        flag_stale({l["id"] for l in produced}, ("quran-", "hebrew-", "chain-"))
     print("wrote results/lexical/")
     if any(b["expect"] and not b["recovered"] for b in bench):
         sys.exit("benchmark expectations missed")

@@ -40,7 +40,9 @@ OUT = ROOT / "results" / "lexical"
 SCOPE = ROOT / "data" / "ane" / "texts.yaml"
 
 STOP = corpora.STOP_GLOSS | set("""occas transf part piece kind sort person thing type general term
-mng meaning see cf lit esp opp pl sg du qv var adj adv obj subj usu""".split())
+mng meaning see cf lit esp opp pl sg du qv var adj adv obj subj usu well down away ing act good state time
+oneself political take two one making make put set give get go come bring hand place side man men
+being have having become becoming certain other own""".split())
 
 
 # ---------------------------------------------------------------- sound
@@ -200,7 +202,8 @@ def attestations():
                         key, l = lem, "uga"
                         if x.get("gloss") and src != "EUPT":
                             att["uga_gloss"].setdefault(key, x.get("gloss") or "")
-                    elif lang.startswith("akk") or src.startswith("ORACC"):
+                    elif lang.startswith("akk") or (src.startswith("ORACC") and re.search(r"[aeiuāēīū]", lem)
+                                                     and "ʿ" not in lem):
                         key, l = lem, "akk"
                         att["akk_gloss"].setdefault(key, x.get("gloss") or "")
                     elif src == "TLA":
@@ -391,16 +394,21 @@ def run(verbose=True):
         nxt = by_from.get(ak, [])
         if not nxt:
             continue
-        links = []
+        links, hops = [], []
+        aw = akk[ak]["words"]
         for e in nxt:
             links.append(e["to"])
             for e2 in by_from.get(e["to"], []):
-                links.append(e2["to"])
+                # a second hop must still share a meaning with the Akkadian word
+                t = heb.get(e2["to"]) or qur.get(e2["to"])
+                if aw & t["words"]:
+                    links.append(e2["to"])
+                    hops.append(e2)
         links = list(dict.fromkeys(links))
         langs = {k.split(":")[0] for k in links}
         chain = {"akk": ak, "akk_cf": akk[ak]["cf"], "akk_meaning": akk[ak]["meaning"][:200], "akk_n": akk[ak]["n"],
                  "akk_refs": akk[ak]["refs"], "sux": sux_of.get(ak, []), "links": links,
-                 "edges": [e for e in nxt] + [e2 for e in nxt for e2 in by_from.get(e["to"], [])],
+                 "edges": list(nxt) + hops,
                  "langs": sorted(langs | {"akk"} | ({"sux"} if sux_of.get(ak) else set()))}
         chains.append(chain)
 
@@ -409,6 +417,10 @@ def run(verbose=True):
         return {"key": k, "form": e["form"], "gloss": e["gloss"], "translit": e.get("translit", ""), "n": e["n"]}
     for c in chains:
         c["targets"] = [show(k) for k in c["links"]]
+    for c in chains:
+        c["langs"] = sorted({k.split(":")[0] for k in c["links"]} | {"akk"} | ({"sux"} if c["sux"] else set()))
+        # a loan chain spans a Sumerian source or more than one later language; the rest are cognate pairs
+        c["kind"] = "chain" if c["sux"] or len(set(c["langs"]) - {"akk", "sux"}) >= 2 else "cognate"
     chains.sort(key=lambda c: (-len(c["langs"]), -(c["akk_n"] > 0), c["akk_cf"]))
     payload = {"sumerian_loans": loans, "chains": chains,
                "ugaritic": [{**e, "to_form": (heb.get(e["to"]) or qur.get(e["to"]))["form"]} for e in u_h + u_q],
@@ -426,7 +438,8 @@ def chain_has(payload, forms):
     """True if one chain links every form given: Akkadian cf, Sumerian key, or 'he:H3678' / 'ar:<lemma>' keys."""
     for c in payload["chains"]:
         have = {c["akk_cf"], c["akk"]} | {s["sux"] for s in c["sux"]} | set(c["links"])
-        if all(f in have or sux_key(f) in have for f in forms):
+        loose = {plain(h) for h in have}       # Akkadian length marks optional: ekallu = ēkallu
+        if all(f in have or sux_key(f) in have or plain(f) in loose for f in forms):
             return c
     return None
 
