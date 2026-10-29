@@ -231,6 +231,8 @@ new_motifs:
   god-seizes-the-glutton: {label: "Saying: a god seizes the man who eats (too much)", cluster: wisdom}
   lament-priest-afraid-of-lion: {label: "Anecdote: a lamentation priest is afraid of a lion in the desert; the purification priests ask what his brother is doing in the desert", cluster: wisdom}
   belly-bloated-made-obedient: {label: "Saying: a feeding belly that becomes bloated is lamentable, a belly made obedient by the prince", cluster: wisdom}
+  adulterer-shunned-and-punished: {label: "Portrait of the man who slept with another man's wife: no one walks with him, life passes him by, no just man holds him dear, he is thrown away like a worthless coin and clothed as if under heavy punishment", cluster: wisdom}
+  liar-destroys-righteous-mans-house: {label: "Saying: the dishonest man cannot build his own house but works on another's; a house built by a righteous man is destroyed by a liar", cluster: wisdom}
 units:
   - id: ane-etcsl-6-1-03-a-outcast-son-and-time
     tradition: ane-sumerian
@@ -1173,3 +1175,40 @@ units:
       - "The liar arrogant and slandering: compare Prov 6:12-19, Ps 52:4-6."
       - "Utu's compassion for his devotee: compare Ps 103:13, Ps 107:30 (he brings them to their desired haven)."
       - "He who has much cannot sleep: compare Eccl 5:11."
+  - id: ane-etcsl-6-1-23-adulterer
+    tradition: ane-sumerian
+    title: "Proverbs collection 23: the husband who picks the bones, the liar and the righteous man's house, the portrait of the adulterer, raven and mongoose, a man's goods and kin"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.23"]
+    tags:
+      - {motif: servant-cools-soup-bones-fish, refs: ["ETCSL 6.1.23 A.23.2"], note: "[mu-ud-na]-ĝu10 ku6-a ĝiri3-pad ma-de5-de5"}
+      - {motif: heir-who-does-not-support-wife-and-child, refs: ["ETCSL 6.1.23 B.23.7:3-B.23.7:6"]}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.23 B.23.7:3", "ETCSL 6.1.23 B.23.7:9"], note: "lu2-lul-la gal4-la [ba-an-us2] 'the dishonest man chases women's genitals', restored verb"}
+      - {motif: liar-destroys-righteous-mans-house, refs: ["ETCSL 6.1.23 B.23.7:7-B.23.7:12"], note: "e2 lu2 zid-da du3-a / lu2-lul-la ba-gul"}
+      - {motif: adulterer-shunned-and-punished, refs: ["ETCSL 6.1.23 B.23.8"], note: "nu-mu-un-na-du-du ĝiri3 <nu>-mu-na-ĝa2-ĝa2 ... lu2 zid nu-kal-la ... nu-kug-gin7 mu-un-ni-šub ... nam-tag dugud un-ĝar-ra / a-ba-am3 e-ne lu2 dam lu2-ka in-da-nu2-a"}
+      - {motif: adultery-prohibited, refs: ["ETCSL 6.1.23 B.23.8"]}
+      - {motif: harlot-for-a-loaf-adulteress-hunts-life, refs: ["ETCSL 6.1.23 B.23.8"], note: "nam-til3-la a-gin7 i3-dib2-be2 'life passes him by like water'"}
+      - {motif: raven-above-mongoose-below-lion-desert, refs: ["ETCSL 6.1.23 B.23.9"], note: "an u2-ga{mušen} ki {d}nin-kilim / edin-na ur-maḫ-e ... nitalam-ĝu10 me-am3 ga-ba-ĝen"}
+      - {motif: man-s-goods-and-kin-listed, refs: ["ETCSL 6.1.23 C.23.18"], note: "variants: [dam] ma-ma lu2-kam, dumu-munus saĝ šum2-ma, e2-gi4-a mu-la"}
+    hints:
+      - "The adulterer shunned, wounded and disgraced: compare Prov 6:26-35, 7:22-27, Job 24:15 and Q 24:2-3."
+      - "The house of the righteous destroyed by the liar: compare Prov 14:11, 12:7 and Ps 127:1."
+  - id: ane-etcsl-6-1-24-pigs-house-sunset
+    tradition: ane-sumerian
+    title: "Proverbs collection 24: the fattened pig, the destroyer of houses, the kneeling lord, a man's goods and kin, go in at sunset, sweet beer"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.24"]
+    tags:
+      - {motif: fattened-pig-replace-what-i-eat, refs: ["ETCSL 6.1.24 24.2"]}
+      - {motif: house-destroyer-destroys-silver, refs: ["ETCSL 6.1.24 24.3"]}
+      - {motif: ruler-kneels-slave-dies, refs: ["ETCSL 6.1.24 24.4"], note: "line ends restored"}
+      - {motif: man-s-goods-and-kin-listed, refs: ["ETCSL 6.1.24 24.8"]}
+      - {motif: grind-while-there-is-light, refs: ["ETCSL 6.1.24 24.9"], note: "go inside when the sun sets"}
+      - {motif: neighbour-unappreciative-of-sweet-beer, refs: ["ETCSL 6.1.24 24.10"]}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.24 24.11"], note: "not printed: ETCSL edits it as 5.6.9 The fowler and his wife"}
+    hints:
+      - "Compare 6.1.19; the doublets show these collections were copied as fixed sequences in the school curriculum."

@@ -141,6 +141,7 @@ units:
       - {motif: ruined-by-own-wealth-lament, refs: ["ETCSL 6.2.1 2.A:9-13"], note: "[kug-ĝa2]-ke4-eš [kug-sig17]-ĝa2-ke4-eš [dub-šen]-ĝa2-ke4-eš ... [ĝe26-e] ba-til-de3-en-e-še; largely restored from duplicates"}
       - {motif: courtesan-in-the-streets-proverb, refs: ["ETCSL 6.2.1 3.B:6-7"], note: "[{f}kar]-ke4 ... sila šub / lu2 šub-ba na-an-ĝar; Akkadian ḫa-ri-im-tum ša i-na su2-qi3-im; the kar-ke4 is restored, the Akkadian gloss confirms harimtu"}
       - {motif: where-no-dogs-fox-is-boss, refs: ["ETCSL 6.2.1 3.A:9"], note: "a pickaxe in the clay is 'a mongoose in its city' ({d}nin-kilim-ma iri-na): the small creature is master at home; interpretive"}
+      - {motif: run-says-king-wealth-undoes-me, refs: ["ETCSL 6.2.1 2.A:9-13"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "The kar-kid / harimtu in the street: compare Prov 7:10-12 (the woman in the streets and squares) and Prov 23:27-28."
       - "Distant lands and their animals (elephant, monkey) as exotica: compare 1 Kgs 10:22 (ivory, apes and peacocks from Tarshish)."
@@ -158,6 +159,9 @@ units:
       - {motif: ruined-by-own-wealth-lament, refs: ["ETCSL 6.2.1 7.B:3-5"], note: "…-ke4-eš …-ke4-eš [ĝe26-e] ba-am3-til3-la: second copy of the 'because of ... I am finished' saying"}
       - {motif: dispute-at-mill-reveals-theft, refs: ["ETCSL 6.2.1 7.C:1-3"], note: "e2-[{na4}kinkin-na du14 ḫe2-en-ĝal2] geme2 [niĝ2 zuḫ-a] ḫe2-[em-ma-ab-ed3-de3]; restored from 6.2.5 6:7"}
       - {motif: let-his-bread-be-foul-curse, refs: ["ETCSL 6.2.1 4.A:1-4"], note: "[ninda-ni niĝ2]-ussu ... [lu2 nu-mu-un-šu2]-šu2: 'let his bread be foul food, no man should eat it'; restored"}
+      - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.2.1 4.A:9-12"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: thief-revealed-in-quarrel, refs: ["ETCSL 6.2.1 7.C:1-3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: run-says-king-wealth-undoes-me, refs: ["ETCSL 6.2.1 7.B:3-5"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "A king who built and abandoned, then went down to the underworld unfulfilled: compare Eccl 2:18-21 and Isa 14:9-11 (the king going down to Sheol)."
       - "'Because of my silver ... I am finished': compare Eccl 5:12-13 (riches kept to the owner's hurt) and Jas 5:1-3."
@@ -218,6 +222,8 @@ units:
       - {motif: thief-of-storehouse-punished-by-god, refs: ["ETCSL 6.2.2 8:1-3"], note: "e2 niĝ2-si niĝ2-gur11 kar-kar-ra ... niĝ2-NE-erin saĝ-DU; the last line is obscure; the translation's 'punished by his god' is free"}
       - {motif: divorcing-husband-keeps-his-dignity, refs: ["ETCSL 6.2.2 12:1-2"], note: "dam tuku dam-a-ni-ta dam igi kar2-kar2 / ĝe26-e me-te kar2-kar2"}
       - {motif: libation-water-drunk, refs: ["ETCSL 6.2.2 20:1"], note: "a i3-pad3-de3 mu-dub ba-ni-ib2-naĝ"}
+      - {motif: wise-authorities-loyal-poor-blessing, refs: ["ETCSL 6.2.2 5:1-2"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: spoken-word-out-of-hand, refs: ["ETCSL 6.2.2 2:1"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "What is in the mouth is not in the hand: compare Prov 14:23 and Prov 20:6 (many proclaim their loyalty, but a faithful man who can find?)."
       - "The bird's voice as the glory of the garden: compare Song 2:12 (the voice of the turtledove is heard in our land)."
@@ -241,6 +247,7 @@ units:
       - {motif: where-no-dogs-fox-is-boss, refs: ["ETCSL 6.2.3 6:1"], note: "iri ur-gir15 nu-me-a ka5-a nu-banda3"}
       - {motif: sun-god-seeks-harbour-for-trustworthy-boat, refs: ["ETCSL 6.2.3 7:1-2"], note: "{ĝiš}ma2 niĝ2-gen6-na ... {d}utu kar-ra gen6-na mu-un-na-ši-kiĝ2-kiĝ2"}
       - {motif: no-escape-raven-mongoose-lion, refs: ["ETCSL 6.2.3 9:1-4"], note: "[an] uga{mušen}-am3 / [ki] {d}nin-kilim-am3 / [edin]-na ur-maḫ-e / [mu-ud-na]-ĝu10 me-še3 ga-ĝen"}
+      - {motif: silver-grain-cattle-bring-sleep, refs: ["ETCSL 6.2.3 2:2-3"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "The rich man cannot sleep: compare Eccl 5:11 (the sleep of the labourer is sweet, but the surfeit of the rich will not let him sleep)."
       - "A stranger eats one's surplus: compare Eccl 6:2 and Deut 28:33."
@@ -286,6 +293,10 @@ units:
       - {motif: unruly-mouth-and-tongue, refs: ["ETCSL 6.2.3 31:1-6"], note: "eme-ĝu10 anše DU.DU-un / eĝer-bi nu-mu-un-gi4-gi4 ... ka-ĝu10 ... teš2-e ba-gu7-e"}
       - {motif: personal-god-is-mans-shepherd, refs: ["ETCSL 6.2.3 32:1-5"], note: "diĝir lu2-ulu3 sipad lu2-ulu3-ke4 / diĝir li-bi2-ib2-taka4 ... diĝir lu2-u3 lu2-ulu3-še3 [niĝ2]-gu7 a naĝ mu-un-ĝar"}
       - {motif: what-is-in-mouth-not-in-hand, refs: ["ETCSL 6.2.3 33:2-3"], note: "ka-ta ḫe2-[ĝal2] šu-ni-še3 nu-un-[ĝal2]"}
+      - {motif: strangers-ox-eats-own-starves, refs: ["ETCSL 6.2.3 24:6"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: storm-god-splits-mountains-not-waterskin, refs: ["ETCSL 6.2.3 30:3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: tongue-like-runaway-donkey, refs: ["ETCSL 6.2.3 31:2-3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: personal-god-shepherd-finds-pasture, refs: ["ETCSL 6.2.3 32:1-5"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "A man's god is a man's shepherd who gives him food and water: compare Ps 23:1-2 (YHWH is my shepherd ... still waters) and Gen 48:15 (the God who shepherded me all my life)."
       - "The king as a lion, his palace a forest: compare Prov 19:12 and Prov 20:2 (the king's wrath like a lion's roar)."
@@ -310,6 +321,16 @@ units:
       - {motif: god-grants-sleep-or-creature-expires, refs: ["ETCSL 6.2.3 57:1-3"], note: "az-e itid 6-kam ti-na nu-bal-e / an u3-sa2 nu-mu-un-šum2-ma / ĝe26-gin7-nam ḫe2-si-ig"}
       - {motif: fox-fables-cluster, refs: ["ETCSL 6.2.3 59:1-3", "ETCSL 6.2.3 60:1-2", "ETCSL 6.2.3 63:1-5", "ETCSL 6.2.3 64:1-2"], note: "ka5-a ur2 {ĝiš}kiši17-še3 in-kur9-ma / ur-gir15-re kan4-na ba-an-tuš ...; ka5-a nam-lul-la-še3 ĝeštug2-ga14-ni al-gub ... id2-da iri-ĝu10 al-tum2-mu-un-e-še"}
       - {motif: talking-animal, refs: ["ETCSL 6.2.3 34:1-3", "ETCSL 6.2.3 39:2-8", "ETCSL 6.2.3 42:1-3", "ETCSL 6.2.3 57:1-3", "ETCSL 6.2.3 63:3-5"]}
+      - {motif: horse-throws-rider-complains-of-load, refs: ["ETCSL 6.2.3 34:1-3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: run-says-king-wealth-undoes-me, refs: ["ETCSL 6.2.3 36:10-13"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: donkey-not-for-omen, refs: ["ETCSL 6.2.3 38:1"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: clever-goat-tricks-lion, refs: ["ETCSL 6.2.3 39:1-8"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: lion-deafened-by-boar-squeal, refs: ["ETCSL 6.2.3 40:1-4"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: dog-knows-take-not-give, refs: ["ETCSL 6.2.3 44:1-2"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: snarling-dog-given-morsel, refs: ["ETCSL 6.2.3 50:1-2"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: dog-leaves-party-expecting-more, refs: ["ETCSL 6.2.3 51:3-5"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: bear-says-sleep-is-gods-gift, refs: ["ETCSL 6.2.3 57:1-3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: animal-fable-with-speech, refs: ["ETCSL 6.2.3 34:1-3"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "Fables of talking animals: compare Num 22:28-30 (Balaam's donkey speaks) and Judg 9:8-15 (Jotham's fable)."
       - "A donkey in place of a sheep gives no omen: compare Exod 13:13 and Exod 34:20 (the firstling of a donkey must be redeemed with a lamb)."
@@ -339,6 +360,9 @@ units:
       - {motif: fortune-dispersed-none-knows-future, refs: ["ETCSL 6.2.3 80:5-9"], note: "lu2 niĝ2-tuku-e mu-un-da-ak-ak ... a-ga-bi-še3 ĝeštug2-ga nu-ub-de5 / am3-kur2-ra a-ra2-bi nu-zu (Akk. a-la-ak-ta-šu)"}
       - {motif: no-child-born-without-sin, refs: ["ETCSL 6.2.3 81:2-5"], note: "ud na-me dumu nam-tag-ga nu-tuku / ama-ni nu-um-tu-ud / inim la-ba-sig10 (Akk. la i-du-u2) erin2 nam-tag-ga nu-tuku / ul-ta nu-ĝal2-la-am3"}
       - {motif: conceived-in-sin, refs: ["ETCSL 6.2.3 81:2-3"], note: "not the speaker's own conception in sin, but the universal claim that no mother ever bore a sinless child"}
+      - {motif: strength-cannot-match-intelligence, refs: ["ETCSL 6.2.3 65:1"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.2.3 73:1-5"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: mighty-man-master-of-earth, refs: ["ETCSL 6.2.3 76:18"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "No child without sin was ever born: compare 1 Kgs 8:46, Eccl 7:20, Job 14:4, Job 15:14, Ps 51:7 and Ps 143:2."
       - "The swift and the strong fail, the talker succeeds: compare Eccl 9:11."
@@ -422,6 +446,9 @@ units:
       - {motif: earth-hung-upon-nothing, refs: ["ETCSL 6.2.4 1.B:2"], note: "the earth hangs (la2) from the god's hands; the image is suspension, not 'upon nothing'; restored"}
       - {motif: hunger-greatest-divine-punishment, refs: ["ETCSL 6.2.4 1.B:3"], note: "[{d}en-lil2-le] šer7-da gu-la-[ni] šag4-[ĝar]-ra-am3; Enlil restored"}
       - {motif: winds-characterised, refs: ["ETCSL 6.2.4 1.B:10-13"], note: "[{tum9}sa12-ti]-um tum9 šeĝ14-ĝa2-kam / [{tum9}mar-tu] lu2 <til3>-ba dirig-ga / [{tum9}sa12-ti-um] tum9 ḫe2-ĝal2-la / [gu5-li] {d}na-ra-am-{d}suen"}
+      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.2.4 1.B:2"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: enlils-greatest-punishment-hunger, refs: ["ETCSL 6.2.4 1.B:3"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: four-winds-characterised, refs: ["ETCSL 6.2.4 1.B:10-13"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "Enlil holds the sky, the earth dangling from his hands: compare Job 26:7 (he hangs the earth upon nothing), Isa 40:22 and Ps 75:4 (I keep its pillars steady)."
       - "Hunger as the god's greatest punishment: compare Amos 4:6, Amos 8:11, Ezek 5:16-17 and Deut 28:48."
@@ -440,6 +467,8 @@ units:
       - {motif: ship-sinks-without-wind, refs: ["ETCSL 6.2.5 2.A:1"], note: "{ĝiš}ma2 dilmun-na tum9 nu-mir ba-an-da-su"}
       - {motif: lion-says-plants-have-no-names, refs: ["ETCSL 6.2.5 2.B:2-5"], note: "ḫi-iz-ur-bar-ra{sar} ĝeštin-ka5-a{sar} {u2}ug {u2}piriĝ-GI {u2}eme-ur-gir15-ra {u2}niĝ2-u2-rum {u2}gu3-i3-ra / ur-maḫ gu3 de2-de2 / mu li-bi2-in-tuku-e-še"}
       - {motif: fools-lot-created-by-sun-god, refs: ["ETCSL 6.2.5 2.B:6"], note: "ĝiš-šub lu2-dim3-ma {d}utu al-dim2-e"}
+      - {motif: silver-grain-cattle-bring-sleep, refs: ["ETCSL 6.2.5 1.A:7-8"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.2.5 1.B:6-12"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "One warrior equal to many: compare 1 Sam 18:7 (Saul his thousands, David his ten thousands), Lev 26:8 and Josh 23:10."
       - "Water poured from a river did not cool my anger nor end the sorcery against me (2.A:4-6): compare Prov 25:21-22 and Song 8:7."
@@ -462,6 +491,8 @@ units:
       - {motif: vengeance-is-mine, refs: ["ETCSL 6.2.5 4.B:6"], note: "šu gi4-[gi4 niĝ2]-gig {d}nin-urta-kam: lit. 'retaliation is the niĝ2-gig (reserved thing, taboo) of Ninurta'; ETCSL renders 'the prerogative of Ninurta'"}
       - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.2.5 4.B:5", "ETCSL 6.2.5 4.B:6", "ETCSL 6.2.5 4.B:7"], note: "three niĝ2-gig {d}nin-urta-kam sayings in a row"}
       - {motif: poor-man-afflicts-rich, refs: ["ETCSL 6.2.5 5.B:4"], note: "lu2 niĝ2-tuku lu2 niĝ2 nu-tuku gig-še3 in-[ĝar]"}
+      - {motif: wise-authorities-loyal-poor-blessing, refs: ["ETCSL 6.2.5 5.A:2"], note: "same saying as in the 6.1 collections (shared id)"}
+      - {motif: authority-speaks-unpleasant-unjust, refs: ["ETCSL 6.2.5 5.A:1"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "Each worker lifts his eyes to the god: compare Ps 123:1-2 (as the eyes of servants to their master's hand) and Ps 121:1; 'may Enlil look on the city he cursed': compare Lam 5:1 and Lam 1:11."
       - "Retaliation belongs to Ninurta: compare Deut 32:35 (vengeance is mine), Lev 19:18 and Prov 20:22 (do not say, I will repay evil; wait for YHWH)."
@@ -483,6 +514,7 @@ units:
       - {motif: snake-charmer-pulls-tooth, refs: ["ETCSL 6.2.5 11:3-4"], note: "muš-laḫ5-e muš an-da-ĝal2 / zu2 mu-ra-ze2-X"}
       - {motif: touching-woman-improperly-abomination, refs: ["ETCSL 6.2.5 10.A:1-3"], note: "[gal4]-la tug2-ga šu tag-ga / niĝ2-gig {d}suen-na-kam"}
       - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.2.5 10.A:3", "ETCSL 6.2.5 8:1-2"], note: "niĝ2-gig {d}suen-na-kam; {d}en-lil2 ... niĝ2-gig"}
+      - {motif: fattened-pig-replace-what-i-eat, refs: ["ETCSL 6.2.5 7:1-4"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "The fattened pig says 'let me replace what I eat' (7:1-2): compare Prov 15:17 and Isa 22:13."
       - "He who has much is always on guard: compare Eccl 5:11-12."
@@ -509,6 +541,7 @@ units:
       - {motif: king-as-scribe-and-dam, refs: ["ETCSL 6.2.5 41:1"], note: "lugal dub-sar lugal dur maḫ id2-da gib-ba"}
       - {motif: millstone-floats-for-righteous, refs: ["ETCSL 6.2.5 42:1"], note: "lu2 si sa2-ra {na4}kinkin id2-da mu-na-dirig-dirig"}
       - {motif: repay-favour-to-favour-giver, refs: ["ETCSL 6.2.5 32:1"], note: "{d}lum-ma lu2 niĝ2 sag9-ga-ra sag9-ga-aš ḫe2-na-ĝal2: may Luma be good to him who does good"}
+      - {motif: leader-burning-followers-indifferent, refs: ["ETCSL 6.2.5 25:1-2"], note: "same saying as in the 6.1 collections (shared id)"}
     hints:
       - "The river ordeal admires those who carry true words: compare Num 5:11-31 (the water of bitterness) and Isa 43:2."
       - "A millstone floats for the righteous man: compare 2 Kgs 6:5-7 (the iron axe-head floats) and contrast Exod 15:5, 10 and Neh 9:11 (the enemy sinks like a stone)."

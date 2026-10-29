@@ -117,6 +117,20 @@ new_motifs:
   high-god-yields-powers-to-goddess: {label: "The sky god, afraid of the goddess, seats her in his dwelling and hands over to her the royal and divine rites", cluster: theology}
   deity-gathers-dispersed-people: {label: "The deity gathers the scattered people and returns them to their homes", cluster: theology}
   penitent-feels-gods-punishment-in-body: {label: "The petitioner says the deity's great punishment has been felt in his or her body and lament keeps sleep away", cluster: lament}
+  goddess-wanders-wilderness-with-beasts: {label: "The goddess slips through thornbushes, strides the mountains, drinks from puddles with dogs and shares the stall with horses", cluster: theology}
+  new-year-festival-of-dumuzid-with-offerings-for-dead: {label: "At the New Year festival of Dumuzid the underworld pipes are opened, memorial libations poured, and priests and the dead eat and drink to keep away ghosts", cluster: cult}
+  mother-brings-sick-child-to-goddess: {label: "The mother of a sick child lays her child in the goddess's arms", cluster: healing}
+  goddess-moves-between-moon-and-stars: {label: "The astral goddess goes from moonlight to star and from star to moonlight", cluster: cosmology}
+  goddess-roams-houses-and-lanes: {label: "The goddess enters house after house and peers into lane after lane", cluster: theology}
+  gods-family-listed: {label: "A hymn lists the deity's family: mother, father, brother, spouse, minister, sister-in-law", cluster: theology}
+  king-renewed-monthly-like-moon: {label: "Each month at the crescent the sky god gives birth to (renews) the king like the moon god", cluster: kingship}
+  heaven-crown-earth-sandals: {label: "The high god sets heaven on the goddess's head as a crown and puts the earth on her feet as sandals", cluster: cosmology}
+  goddess-enters-high-gods-temple-unhindered: {label: "When the goddess enters the high god's temple the gatekeeper does not stop her and the minister does not tell her to rise", cluster: theology}
+  temple-list-each-claimed-as-mine: {label: "Litany in which the deity claims a list of named temples in named cities, each 'is mine'", cluster: hymn}
+  goddess-challenges-the-gods: {label: "The goddess utters a challenge (a-da-min3) against the gods in their temples", cluster: theology}
+  river-and-city-incomparably-good-refrain: {label: "Refrain praising the river (Euphrates) and the city: 'good as the city, there is nothing as good as this'", cluster: hymn}
+  goddess-gives-life-and-right-speech-to-king: {label: "The goddess promises to give life to her man and make him speak correctly in shrine and palace", cluster: kingship}
+  goddess-breasts-are-fields: {label: "The goddess's breasts are her wide fields which pour forth flax and grain and water for the man", cluster: love}
 units:
   - id: ane-etcsl-2-8-2-1-hammurabi-a
     tradition: ane-sumerian
@@ -1026,7 +1040,6 @@ units:
       - {motif: goddess-moves-between-moon-and-stars, refs: ["ETCSL 4.07.4 124-125"], note: "iti6-ta mul-še3 im-DU / mul-ta iti6-še3 im-DU"}
       - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.4 126-127", "ETCSL 4.07.4 144-145", "ETCSL 4.07.4 159-160", "ETCSL 4.07.4 191-192", "ETCSL 4.07.4 205-206"], note: "lines 128-143, 146-155, 161-189 largely missing or unclear; a slave-girl and her mistress (141) survive"}
       - {motif: goddess-roams-houses-and-lanes, refs: ["ETCSL 4.07.4 199-200"], note: "[e2]-e2-a in-ku4-ku4-de3-en / [e-sir2]-e-sir2-ra gu2 mu-un-gid2-gid2-de3-en 'you enter house after house, crane your neck in lane after lane'"}
-      - {motif: evil-demons-oppose-goddess-dwelling, refs: ["ETCSL 4.07.4 190"], note: "{d}udug ḫul {d}lamma ḫul gaba-bi im-ta-an-ri; broken context"}
       - {motif: gods-family-listed, refs: ["ETCSL 4.07.4 207-214"], note: "ama-zu {d}nin-gal; a-a-zu {d}suen; šeš-zu šul {d}utu; nitalam {d}ama-ušumgal-an-na ... en {d}dumu-zid; lagar3 {d}nin-šubur; e-ri-ib (sister-in-law) {d}ĝeštin-an-na"}
     hints:
       - "The woman who goes from house to house and lane to lane: Prov 7:8-12, Song 3:2. 'How you are fallen from heaven, morning star': Isa 14:12."

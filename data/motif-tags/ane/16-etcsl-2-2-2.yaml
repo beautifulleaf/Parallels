@@ -36,6 +36,8 @@ new_motifs:
   temple-interior-intricate-unknowable: {label: "The inside of the god's temple is intricate and tied together, a thing no one knows", cluster: cult}
   statue-of-king-as-runner: {label: "The king sets up a copper statue of himself running in the temple, celebrating his tireless speed as a runner", cluster: kingship}
   curse-fertility-gods-withdraw-abundance: {label: "Curse on whoever damages the king's inscription: the gods of rain, grain and herds withdraw abundance from heaven and earth", cluster: treaty}
+  king-titulary-of-four-cities: {label: "The king is styled by his service to each great cult city in turn: provisioner of Nibru, attendant of Urim, the one who stands daily for Eridug, en of Unug, king of Isin", cluster: kingship}
+  goddess-laments-own-house-swallowed: {label: "A goddess laments in the first person that the fate of her house and city has been cut off, her goods swallowed by the swamp, her mourning garment defiled", cluster: lament}
 units:
   # ---------------- ETCSL 2.2.2: The lament for Urim ----------------
   - id: ane-etcsl-2-2-2-k1-gods-abandon-folds
@@ -622,3 +624,106 @@ units:
     hints:
       - "Compare Deut 27:17 and Prov 22:28 (boundary-stone curses), Deut 28:23-24 (heaven bronze, no rain) and Rev 22:18-19 (curse on altering the book)."
       - "Compare 2 Sam 2:18 (Asahel swift as a gazelle) and 2 Sam 18:19-27 (runners)."
+  # ---------------- ETCSL 2.5.4.21: Išme-Dagan U ----------------
+  - id: ane-etcsl-2-5-4-21-dagan-adab-ishme-dagan
+    tradition: ane-sumerian
+    title: "Adab to Dagan for Išme-Dagan: E-kur, Egalmah, the lord with great powers of heaven and earth (Išme-Dagan U, fragments)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.21"]
+    tags:
+      - {motif: king-begotten-as-gods-son, refs: ["ETCSL 2.5.4.21 sa–jara.A:5", "ETCSL 2.5.4.21 sa–jara.A:14"], note: "{d}iš-me-{d}da-gan dumu {d}en-lil2-la2; {d}da-gan sipad {d}iš-me-da-gan-na: Dagan's shepherd"}
+      - {motif: king-as-great-tree-and-shade, refs: ["ETCSL 2.5.4.21 sa–jara.A:7"], note: "nun-ne2 {ŋiš}meš3 pa mul-la: the prince, a mes tree with shining branches (fragmentary)"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.21 sa–jara.A:3-4", "ETCSL 2.5.4.21 sa–jara.A:8"], note: "ur2 kug til3 niŋ2 dug3 dirig-zu-še3; bal dug3-bi-še3; nam-til3-la-ni dug3-ge daŋal"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 2.5.4.21 uru.C:16-17"], note: "{d}da-gan en mah me an-na me ki: Dagan, great lord of the divine powers of heaven and earth"}
+      - {motif: gods-look-to-high-gods-as-parents, refs: ["ETCSL 2.5.4.21 sa–jara.A:2"], note: "Interpretive: šu il2-la-zu-še3 diŋir gal-gal-e-ne: the great gods (turn) to your raised hand"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.21 uru.C:19-20"], note: "a-da-ab {d}da-gan-kam"}
+    hints:
+      - "Dagan, the West Semitic grain god (Dagon of Judg 16:23; 1 Sam 5:2-7), here worshipped by an Isin king whose name means 'Dagan has heard'."
+  # ---------------- ETCSL 2.5.4.27: Išme-Dagan AA ----------------
+  - id: ane-etcsl-2-5-4-27-fifty-names-ishme-dagan
+    tradition: ane-sumerian
+    title: "A god given a golden throne, a fifty-headed mace and fifty names in Nibru; Išme-Dagan provisioner of Nibru and king of Isin (Išme-Dagan AA)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.27 1-25"]
+    tags:
+      - {motif: fifty-names-of-god, refs: ["ETCSL 2.5.4.27 17"], note: "mu 50 ma-ra-an-sa4: he called you by fifty names (the addressee, probably Ninurta of the Ešumeša)"}
+      - {motif: named-weapons-of-divine-warrior, refs: ["ETCSL 2.5.4.27 14"], note: "{ŋiš}mi-tum saŋ 50 ki-bal gul-gul-lu a2 mah-zu-še3 pad3-da: the fifty-headed mitum mace, destroyer of the rebel land, chosen for your great strength"}
+      - {motif: king-installs-thrones-for-god-and-consort, refs: ["ETCSL 2.5.4.27 4", "ETCSL 2.5.4.27 10"], note: "barag gu-za mah kug-sig17 tum2-ma-am3 ... ma-ra-ni-in-gub: he set up for you a dais and a great golden throne; gu-za mah-ba ... ma-ra-an-gen6"}
+      - {motif: gate-where-fates-are-determined, refs: ["ETCSL 2.5.4.27 19-20"], note: "e2-šu-me-ša4 ki-tuš mah ... kan4 igi-šu-galam ki nam tar-re-dam: the Ešumeša; the gate Igišugalam, the place where fates are decreed"}
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.5.4.27 6", "ETCSL 2.5.4.27 13"], note: "nidba2; kiŋ2 gal unu2 gal-za ud ul-le2-a-še3 sa2-dug4-še3: regular offerings for your great dining hall for distant days"}
+      - {motif: king-titulary-of-four-cities, refs: ["ETCSL 2.5.4.27 22-25"], note: "{d}iš-me-{d}da-gan u2-a nibru{ki}-a, saŋ us2 urim2{ki}-ma, ud-da gub eridug{ki}-ga, en unug{ki}-ga lugal i3-si-in{ki}-na"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.5.4.27 15", "ETCSL 2.5.4.27 18"], note: "i3-si-in{ki} iri nam-lugal-la-ka: Isin, the city of kingship; from Isin to Nibru the ancient city"}
+    hints:
+      - "Compare Enuma eliš VI-VII (Marduk's fifty names) and, for the many names of God, Q 7:180; 17:110 (the most beautiful names)."
+  # ---------------- ETCSL 2.5.4.29 ----------------
+  - id: ane-etcsl-2-5-4-29-enki-junior-enlil-ninurta
+    tradition: ane-sumerian
+    title: "Enki firstborn of An raised to junior Enlil-ship with seven wisdoms; the gods give Ninurta the divine powers; Išme-Dagan's eternal song (fragments)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.29"]
+    tags:
+      - {motif: god-is-firstborn-of-high-god, refs: ["ETCSL 2.5.4.29 Seg.A:1"], note: "{d}en-ki en dumu-saŋ an kug-ga: Enki, lord, firstborn of holy An"}
+      - {motif: god-of-netherworld-as-junior-enlil, refs: ["ETCSL 2.5.4.29 Seg.A:2"], note: "Here of Enki: nam-{d}en-lil2-ban3-da-aš mu-ni-in-il2-i-iš: they raised him to the status of junior Enlil"}
+      - {motif: wisdom-given-to-king-by-god, refs: ["ETCSL 2.5.4.29 Seg.A:3"], note: "ki pad3-de3 ŋeštug2 7-bi saŋ-e-eš mu-ni-in-rig7-eš: they granted him the seven wisdoms (lit. 'seven ears') for finding out"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.5.4.29 Seg.B:1-2"], note: "e-ne-ne nun er9-me-eš en nam tar-re-me-eš, šag4-zu-a en {d}nin-urta-ra me mu-na-ni-in-šum2-mu-uš: they, mighty princes who decree fates, gave the divine powers to lord Ninurta"}
+      - {motif: royal-hymns-sung-perpetually-in-temple, refs: ["ETCSL 2.5.4.29 Seg.B:3-4"], note: "nibru{ki} šir3 kug-zu niŋ2 kal-kal ... {d}iš-me-{d}da-gan-me-en du-ri2-še3 ka-ga14 mu-ni-ŋar: I, Išme-Dagan, have placed your holy song in the mouth (of Nibru) forever"}
+    hints:
+      - "Compare Prov 9:1 (wisdom's seven pillars) and Isa 11:2 (the sevenfold spirit of wisdom)."
+  # ---------------- ETCSL 2.5.4.a: Inana for Išme-Dagan ----------------
+  - id: ane-etcsl-2-5-4-a-inana-lament-and-justice
+    tradition: ane-sumerian
+    title: "Hymn to Inana for Išme-Dagan: the goddess laments her house; Išme-Dagan restores justice and filial order in Sumer and Akkad"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.a"]
+    tags:
+      - {motif: goddess-laments-own-house-swallowed, refs: ["ETCSL 2.5.4.a unknown.A:9-13"], note: "e2-ŋu10 na-aŋ2 ba-an-kud ... uru2-ŋu10 na-aŋ2 ba-an-kud ... -ŋu10 sug-ge4 bi2-in-gu7 ... tug2-mu-ŋu10 mu-un-pe-el: my house's fate is cut off, my city's fate cut off, the swamp has swallowed my ..., my mourning garment defiled"}
+      - {motif: goddess-sits-in-dust-mourning, refs: ["ETCSL 2.5.4.a unknown.A:2"], note: "x X sahar tuš-a: sitting in the dust (fragmentary)"}
+      - {motif: body-poured-out-heart-like-wax, refs: ["ETCSL 2.5.4.a Seg.B:3-5"], note: "Interpretive: ŋi6 en-nu-uŋ3-ŋa2-gin7 ... muš3-me-ŋu10 i-bi2-gin7 ... su-ŋu10 in bar7-a-gin7: like the night watch; my face like smoke; my body like burnt straw"}
+      - {motif: ideal-age-of-social-harmony, refs: ["ETCSL 2.5.4.a Seg.C:1-8"], note: "ki-en-gi-da lu2-erim2 im-ta-an-da-ra: he separated the evildoer from Sumer; niŋ2-si-sa2 urud-gin7 pa bi2-ib-e3: made justice shine like copper; a-a-ra ni2 teŋ3-ŋe26-e ama-ra ni2 su4-ne2, dumu ab-ba-ra inim-ma-ne2-eš dur2-u3: (made people) fear the father, be humble to the mother, sons heed the elders' words; compassion and supplication"}
+      - {motif: honor-parents-long-life, refs: ["ETCSL 2.5.4.a Seg.C:5-6"], note: "a-a-ra ni2 teŋ3-ŋe26-e ama-ra ni2 su4-ne2: respect for father and mother as part of the restored order"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.4.a Seg.C:4", "ETCSL 2.5.4.a Seg.C:9-10"], note: "{d}iš-me-{d}da-gan dumu {d}en-lil2-la2 ... ki-en-gi ki-uri-a mi-ni-in-ŋar"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.5.4.a Seg.C:11-12"], note: "en unug{ki}-ga saŋ keše2-ba mi-ni-in-kur9 ... {d}inana nin an ki-ke4: he installed the en of Unug for Inana"}
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.5.4.a Seg.C:13"], note: "Here favourably: an gal-e he2-am3-bi bi2-in-dug4 {d}en-lil2-le: great An said 'so be it', Enlil (agreed)"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.4.a Seg.B:7", "ETCSL 2.5.4.a Seg.B:9", "ETCSL 2.5.4.a Seg.C:14"]}
+    hints:
+      - "Compare Exod 20:12; Lev 19:3, 32 (fear mother and father; rise before the elder) and Mal 3:24 (turn the hearts of fathers to sons)."
+      - "Compare Ps 102:4-5 (my days vanish like smoke, my bones burn like a hearth) and Lam 2:10."
+  # ---------------- ETCSL 2.5.4.b: Enki for Išme-Dagan ----------------
+  - id: ane-etcsl-2-5-4-b-enki-for-ishme-dagan
+    tradition: ane-sumerian
+    title: "Hymn to Enki for Išme-Dagan: marshes, meadows and orchards; Enlil and Ninlil give Enki the divine powers; the song placed in Nibru's mouth forever"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.b 1-12"]
+    tags:
+      - {motif: land-fertile-under-blessed-king, refs: ["ETCSL 2.5.4.b 1-4"], note: "ambar ... a-gar3 gal-gal ... pu2-{ŋiš}kiri6 ... u2-gu7 a naŋ {d}a-nun-ke4-ne: reed-beds, great meadows, orchards, the food and drink of the Anuna"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 2.5.4.b 6", "ETCSL 2.5.4.b 8"], note: "{d}en-lil2 {d}nin-lil2-gin7 diŋir na-me nu-dib2: no god surpasses (is like) Enlil and Ninlil"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.5.4.b 5", "ETCSL 2.5.4.b 9-10"], note: "šag4-zu-a lugal {d}en-ki-ra me mu-na-ni-šum2-mu-uš: Enlil and Ninlil, princes who decree fates, gave king Enki the divine powers"}
+      - {motif: royal-hymns-sung-perpetually-in-temple, refs: ["ETCSL 2.5.4.b 11-12"], note: "{d}iš-me-{d}da-gan-me-en du-ri2-še3 ka-ga14 mu-ni-ŋar: same closing formula as ETCSL 2.5.4.29"}
+    hints:
+      - "Compare Ps 86:8 (there is none like you among the gods)."
+  # ---------------- ETCSL 2.5.5.8: Lipit-Eštar H ----------------
+  - id: ane-etcsl-2-5-5-8-ua-di-inana-lipit-eshtar
+    tradition: ane-sumerian
+    title: "Ua-di song to Inana, true princess and spouse of the king, for Lipit-Eštar (Lipit-Eštar H)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.5.8"]
+    tags:
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.5.8 unknown.A:1"], note: "in-nin egir3 zid ... nitalam lugal-la: lady, true princess, spouse of the king"}
+      - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 2.5.5.8 unknown.A:2"], note: "nu-nus diŋir nam-nin-na tum2 an ki-e dirig: woman-goddess fit for ladyship, surpassing heaven and earth"}
+      - {motif: i-will-sing-opening, refs: ["ETCSL 2.5.5.8 unknown.A:3"], note: "ar2-a-ni šir3-ra ga-mu-ni-ib-be2 mi2 zid-de3-eš ga-am3-dug4: let me sing her praise in song, let me speak it truly"}
+      - {motif: king-begotten-as-gods-son, refs: ["ETCSL 2.5.5.8 unknown.A:6"], note: "{d}li-pi2-it-eš4-tar2 dumu {d}en-lil2-la2"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.5.8 Seg.B:4-5"], note: "u3-a-di {d}inana-kam"}
+    hints:
+      - "Compare Ps 45 (royal wedding song: 'I address my verses to the king') and Song 3:11."

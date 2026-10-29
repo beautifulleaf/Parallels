@@ -170,6 +170,38 @@ new_motifs:
   chattering-girl-silenced-boy-not: {label: "Saying: a chattering girl is silenced by her mother, a chattering boy is not", cluster: family}
   sick-and-pregnant-too-much: {label: "Saying: to be sick is acceptable, to be pregnant painful, but pregnant and sick is too much", cluster: wisdom}
   son-in-law-tested-by-quarrels: {label: "Saying: as a vessel is tested by salt and a jar by water, an unknown son-in-law is tested by quarrels", cluster: family}
+  curse-then-prohibition-do-not-destroy-rituals: {label: "A curse wishing destruction on a place and its rites is followed by a prohibition: you shall not destroy their place or alienate their rites", cluster: cult}
+  born-on-ill-fated-day: {label: "The speaker laments that he was born on an ill-fated day", cluster: wisdom}
+  fate-is-a-dog-that-bites-and-follows: {label: "Fate (or toil) is a dog that bites and walks always behind a man", cluster: wisdom}
+  fate-is-a-storm-over-the-land: {label: "Fate is a raging storm blowing over the land", cluster: wisdom}
+  poor-man-should-not-despise-rich: {label: "Saying: the belching poor man should not look scornfully at the rich man", cluster: wisdom}
+  poor-mans-word-not-accepted: {label: "The poor man is not valued and his word is not accepted", cluster: wisdom}
+  poor-pay-debts-from-their-mouths: {label: "The poor man pays his debts with what is taken from his own mouth", cluster: wisdom}
+  poor-are-weak-of-land-companion-of-widows: {label: "The poor are the weak of the land, companions of the widow's weakness", cluster: wisdom}
+  moving-about-defeats-poverty: {label: "Saying: moving about (travelling, enterprise) defeats poverty; the active man lives longer than the sedentary", cluster: wisdom}
+  true-scribe-defined-by-skill: {label: "Saying: he whose hand is good and follows dictation is indeed a scribe", cluster: scribal}
+  true-singer-has-sweet-voice: {label: "Saying: a singer whose voice is sweet is indeed a singer; one whose voice is not sweet is a wretch", cluster: scribal}
+  scribe-who-does-not-know-sumerian: {label: "Saying: what kind of scribe does not know Sumerian? from where will he produce a translation?", cluster: scribal}
+  disgraced-professional-sinks-to-lower-trade: {label: "A disgraced scribe, singer, merchant, carpenter, smith or mason sinks to a lower trade", cluster: wisdom}
+  each-generation-worse-than-mother: {label: "Saying: each fox is more of a fox than its mother (like mother, like daughter, but worse)", cluster: wisdom}
+  boaster-flees-at-dogs-barking: {label: "Fable: the fox boasts it will crush the city, but flees home when the dogs bark from far away", cluster: folktale}
+  liar-is-messenger-from-far-away: {label: "Saying: the habitual liar is (like) a messenger from distant places", cluster: wisdom}
+  donkey-born-to-bray-not-run: {label: "Saying: my donkey was not made to run fast but to bray", cluster: wisdom}
+  threshing-ox-not-sowing: {label: "Saying: the ox walking round the threshing-floor is not sowing; who eats at harvest is not breaking clods", cluster: wisdom}
+  ox-kicks-dust-into-own-eyes: {label: "Saying: the ox that kicks up dust gets flour in its own eyes", cluster: wisdom}
+  lamentation-priest-drowns-son-mock-blessing: {label: "Satire: the lamentation priest throws his son into the water saying 'may the city be built like me, may the land live like me'", cluster: wisdom}
+  married-for-pleasure-divorced-on-reflection: {label: "Saying: for his pleasure he married, on reflection he divorced", cluster: family}
+  collecting-firewood-for-the-strong: {label: "Saying: gathering firewood is for the strong man; the weak man waits on dry land", cluster: wisdom}
+  hand-added-to-hand-builds-house: {label: "Saying: hand added to hand builds a man's house; stomach added to stomach destroys it", cluster: wisdom}
+  house-of-upright-destroyed-by-treacherous: {label: "Saying: the house built by the upright man is destroyed by the treacherous man", cluster: wisdom}
+  joyless-house-without-wifes-voice: {label: "No rest in a house where the wife does not speak and the father utters no joyful word", cluster: family}
+  palace-is-forest-king-is-lion: {label: "Saying: the palace is a forest, the king a lion, and the goddess Nungal covers men with her battle-net", cluster: kingship}
+  bird-in-sky-as-good-as-bird-in-hand: {label: "Saying: a bird in the sky is as good as an um bird; a fish in the deep as good as a carp in the reeds", cluster: wisdom}
+  mother-bird-left-alone-when-young-fly: {label: "Saying: all the birds flew away and their mother alone stayed", cluster: wisdom}
+  who-lives-by-birds-and-fish-cannot-sleep: {label: "Saying: he who lives from birds and fish cannot sleep", cluster: wisdom}
+  birdsong-glory-of-garden-and-field: {label: "Saying: the pigeon's voice is the glory of the garden, the francolin's of the field", cluster: nature}
+  offerings-are-the-glory-of-the-gods: {label: "Saying: offerings are the glory of the gods", cluster: cult}
+  fish-and-birds-on-enlils-offering-table: {label: "A list of birds and fish (carp, sea fish) is set on Enlil's offering table", cluster: cult}
 units:
   - id: ane-etcsl-5-3-6-a-silver-copper-opening
     tradition: ane-sumerian
@@ -810,7 +842,7 @@ units:
       - {motif: poor-man-should-not-despise-rich, refs: ["ETCSL 6.1.02 A.2.16:31"], note: "ukur3 bu-lu-uḫ2 si-il-le lu2 niĝ2-tuku-e igi tur nam-ba-e-gid2-i"}
       - {motif: sluggard-does-not-plow-in-winter, refs: ["ETCSL 6.1.02 A.2.20:35-36"], note: "en-te-na-ka a-šag4 nu-ur11-ru ud buru14-ka šu ga-rig2 am3-du3-du3-e 'he did not plough in winter, at harvest he took to carding'"}
       - {motif: poor-mans-word-not-accepted, refs: ["ETCSL 6.1.02 A.2.27:45", "ETCSL 6.1.02 A.2.18:33"], note: "inim ukur3-ra-še3 šu la-ba-ši-in-ti; ukur3 nu-kal"}
-      - {motif: spare-the-rod, refs: ["ETCSL 6.1.02 A.2.23:40-41"], note: "the poor man does strike: inverted image; ukur3-re dumu-ni tibir 1-am3 šu nu-um-ma-ni-dug4-ge 'the poor man does not strike his son a single blow'"}
+      - {motif: spare-the-rod, refs: ["ETCSL 6.1.02 A.2.23:40-41"], note: "observation, not precept: the poor man spares his son the rod; ukur3-re dumu-ni tibir 1-am3 šu nu-um-ma-ni-dug4-ge 'the poor man does not strike his son a single blow'"}
       - {motif: poor-pay-debts-from-their-mouths, refs: ["ETCSL 6.1.02 A.2.30:52-53"], note: "ka-ta kar-ra ur5-ra ab-su-su"}
       - {motif: poor-are-weak-of-land-companion-of-widows, refs: ["ETCSL 6.1.02 A.2.32:55-A.2.33:57"], note: "ukur3 si-ig kalam-ma-ka; niĝ2 ḫu-ḫu-nu nu-mu-un-su-a-ka 'weakness of the widow'"}
       - {motif: moving-about-defeats-poverty, refs: ["ETCSL 6.1.02 A.2.28:46-47", "ETCSL 6.1.02 A.2.34A:60"], note: "du-du nam-ukur3-ra a2 bi2-ib-ĝar ... ugu lu2 tuš-a nam-til3 bi2-ib-taḫ-e 'he will live longer than the sedentary man'"}
