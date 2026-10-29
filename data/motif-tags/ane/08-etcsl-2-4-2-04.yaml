@@ -902,3 +902,166 @@ units:
       - {motif: goddess-attacks-foreign-lands, refs: ["ETCSL 2.5.1.4 8-9"], note: "{d}gu-la ... kur-kur-ra ba-du-a-me-en: you go against all the foreign lands"}
       - {motif: goddess-ladyship-given-by-father, refs: ["ETCSL 2.5.1.4 10"], note: "{d}nin-isin2-na nam-nin kalam-ma-kam a-a-zu bi2-in-gub-be2-en: your father established you in ladyship over the Land"}
       - {motif: goddess-intercedes-daily-for-king, refs: ["ETCSL 2.5.1.4 13-14"], note: "{d}iš-bi-er3-ra ki aĝ2 šag4-za-ra ... ḫul2-ḫul2-mu-di-ni-ib: bring joy to Išbi-Erra, the beloved of your heart"}
+  - id: ane-etcsl-2-5-3-1-greeting-and-me
+    tradition: ane-sumerian
+    title: "Iddin-Dagan A: greeting the lady who ascends above; Inana receives the divine powers and the gods bow to her"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.1 A:1-D:44"]
+    tags:
+      - {motif: queen-of-heaven-cult, refs: ["ETCSL 2.5.3.1 A:3", "ETCSL 2.5.3.1 A:6", "ETCSL 2.5.3.1 A:15"], note: "nin gal an-na {d}inana: great lady of heaven; nu-u8-gig an-na-ka: Mistress of heaven"}
+      - {motif: venus-star-rising-at-evening, refs: ["ETCSL 2.5.3.1 A:1-5", "ETCSL 2.5.3.1 A:11-14", "ETCSL 2.5.3.1 B:18"], note: "an-ta e3-a: her who ascends above; an-usan-na dalla e3-a-na: radiantly ascending at evening; izi-ĝar kug an-e si-a: holy torch filling the heavens; e3-a-ni ur-saĝ-am3: her rising is a warrior's"}
+      - {motif: goddess-receives-me-from-enki, refs: ["ETCSL 2.5.3.1 C:22-24"], note: "abzu eridug-ga me šu ba-ni-in-ti / a-a-ni {d}en-ki-ke4 ... nam-en nam-lugal-la šu-ni-še3 mu-u8-ĝar: received the divine powers from her father Enki, lordship and kingship placed in her hands"}
+      - {motif: divine-council, refs: ["ETCSL 2.5.3.1 C:25-31"], note: "seated with An on the great dais, determines fates with Enlil; the Anuna bow and pray before her"}
+      - {motif: divine-council-gathers-at-new-moon, refs: ["ETCSL 2.5.3.1 C:27-28"], note: "itid-da ud-sakar-ra me šu du7-du7-de3 / diĝir kalam-ma-ke4 gu2 mu-na-an-si-si-iš"}
+      - {motif: goddess-as-great-judge, refs: ["ETCSL 2.5.3.1 C:32-32A"], note: "nin-ĝu10 di kalam-ma ki-bi-še3 i3-kud-de3; [{d}inana-ke4] ka-aš bar kalam-ma {d}en-lil2-da i3-bar-re (variant)"}
+      - {motif: festal-procession-to-sanctuary, refs: ["ETCSL 2.5.3.1 C:33", "ETCSL 2.5.3.1 D:35-42"], note: "refrain kug {d}inana-ra igi-ni-še3 i3-dib-be2: they parade before holy Inana, with alĝar, ub, lilis and balaĝ drums"}
+    hints:
+      - "Compare Jer 7:18 and 44:17-19,25 (the Queen of Heaven) and Isa 14:12 (Helel ben Shahar, the shining star fallen from heaven)."
+      - "Compare Ps 82:1 and 1 Kgs 22:19 (the divine council); Ps 81:4 (feast at the new moon)."
+      - "Compare Ps 68:25-26 (procession of singers, musicians, maidens with drums)."
+  - id: ane-etcsl-2-5-3-1-cult-procession
+    tradition: ane-sumerian
+    title: "Iddin-Dagan A: the procession of cross-dressed and blood-spattering cult personnel before Inana"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.1 E:45-G:88"]
+    tags:
+      - {motif: festal-procession-to-sanctuary, refs: ["ETCSL 2.5.3.1 E:45-58", "ETCSL 2.5.3.1 F:60-68", "ETCSL 2.5.3.1 G:70-79"], note: "refrain kug {d}inana-ra igi-ni-še3 i3-dib-be2 after each line"}
+      - {motif: hairstyle-of-cult-personnel, refs: ["ETCSL 2.5.3.1 E:45-47"], note: "saĝ-ur-saĝ-e-ne suḫ mu-na-an-dub-dub-bu-uš: the saĝ-ursaĝ tighten their hairgrips; locks adorned with coloured rags"}
+      - {motif: cross-dressed-cult-procession, refs: ["ETCSL 2.5.3.1 F:60", "ETCSL 2.5.3.1 F:63"], note: "a2 zid-da-bi tug2 nitaḫ2 bi2-in-mur10: men's clothing on the right side; a2 gab2-bu-bi-a tug2 nam-munus mu-ni-si-ig: women's clothing on the left"}
+      - {motif: cross-dressing-forbidden, refs: ["ETCSL 2.5.3.1 F:60", "ETCSL 2.5.3.1 F:63"], note: "the rite the Deuteronomic law forbids is here part of Inana's cult (divergence)"}
+      - {motif: cult-personnel-shed-blood-before-goddess, refs: ["ETCSL 2.5.3.1 G:74-80"], note: "kur-ĝar-ra ... ba-da-ra: kurĝara priests with daggers; ĝiri2 uš2 dul4-dul4-e urin i3-su3-e: those covering swords with gore spatter blood; barag gu2-en-na-ka uš2 i3-bal-bal-e: blood poured on the dais"}
+      - {motif: priests-gash-themselves-ecstatic-rite, refs: ["ETCSL 2.5.3.1 G:76-80"]}
+      - {motif: neck-stocks-worn-by-young-men, refs: ["ETCSL 2.5.3.1 G:70"], note: "ĝuruš {ĝiš}rab3 ĝar-ra mu-na-šir3-šir3-re-eš: young men wearing neck-stocks sing to her"}
+      - {motif: goddess-looks-down-on-black-headed, refs: ["ETCSL 2.5.3.1 G:82-84"], note: "nu-u8-gig an sikil-la dili-ni nam-mi-in-gub: the Mistress stands alone in the pure heavens; looks with joy on the people numerous as sheep"}
+      - {motif: weapons-in-cult-procession, refs: ["ETCSL 2.5.3.1 E:55-57"], note: "{tug2}niĝ2-la2 a2 me3: girded with sword belts; ĝiš-gid2-da a2 me3: spears"}
+    hints:
+      - "Compare Deut 22:5 (a man shall not wear a woman's garment) and Deut 23:18-19 (qadesh); 1 Kgs 18:28 (Baal's prophets gash themselves till the blood flows); Hos 7:14."
+      - "Compare 2 Kgs 23:7 (houses of the qedeshim where women wove for Asherah)."
+  - id: ane-etcsl-2-5-3-1-evening-star-offerings
+    tradition: ane-sumerian
+    title: "Iddin-Dagan A: the evening star rises, all creatures rest, she judges at night, and offerings are made on the rooftops"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.1 H:89-L:168"]
+    tags:
+      - {motif: venus-star-rising-at-evening, refs: ["ETCSL 2.5.3.1 H:89-91", "ETCSL 2.5.3.1 J:128", "ETCSL 2.5.3.1 L:135-136"], note: "an-usan-na mul dalla e3-a {mul}dili-bad: the radiant star, the Venus star, at evening; mul dili: the lone star; ur-saĝ-ĝa2 an-ta nam-ta-an-e3"}
+      - {motif: all-creatures-go-to-rest-before-goddess, refs: ["ETCSL 2.5.3.1 H:92-100"], note: "nitaḫ2 mu-un-sikil-e munus mu-un-zalag-ga: men purify, women cleanse themselves; oxen, sheep, beasts of Šakkan, fish of the deep, birds of heaven hasten to their sleeping places; all bend the knee"}
+      - {motif: night-beasts-day-workers, refs: ["ETCSL 2.5.3.1 H:93-99"]}
+      - {motif: goddess-appears-as-moon-by-night-sun-by-day, refs: ["ETCSL 2.5.3.1 I:113-114"], note: "ĝi6 u3-na iti6-gin7 mu-un-e3 / an-bar7-gana2 ud-ud-gin7 mu-un-e3: at night like moonlight, at noon like sunlight"}
+      - {motif: goddess-judges-cases-at-night, refs: ["ETCSL 2.5.3.1 I:117-121"], note: "ur3-ra nu2-a bad3-da nu2-a ... inim-bi mu-na-an-tum3-uš: those who sleep on roofs and by walls bring their cases; erim2-du di erim2 ba-ab-šum2-mu ḫul-ĝal2 mu-un-gul-le / si sa2-ra igi zid mu-un-ši-bar nam dug3 mi-ni-in-tar"}
+      - {motif: wanderers-steer-by-the-star, refs: ["ETCSL 2.5.3.1 L:139"], note: "šul kaskal-la du ḫar-ra-an mu-un-na-ĝa2-ĝa2: the young man on the road directs himself by her"}
+      - {motif: offerings-on-rooftops-to-goddess, refs: ["ETCSL 2.5.3.1 L:144-148"], note: "ur3-re ur3-bad3-da ur3-bad3 dur2-ra-ka ... na-izi sig9 tir šim {ĝiš}erin-na-gin7 mu-na-ab-us2: on the roofs, the rooftops, incense like a forest of cedars"}
+      - {motif: rooftop-altars, refs: ["ETCSL 2.5.3.1 L:145-147"]}
+      - {motif: queen-of-heaven-cult, refs: ["ETCSL 2.5.3.1 L:147-162"], note: "incense, sheep sacrifices, first fruits, libations of beer and wine to the lady in the midst of heaven"}
+      - {motif: cakes-for-queen-of-heaven, refs: ["ETCSL 2.5.3.1 L:157-158"], note: "šu-tu-bu-ur lal3 i3-nun-ta šar2-ra ... {ninda}gug2-e lal3 zu2-lum-ma ninda mu-na-ab-ak-e: from honey and ghee they bake date-syrup cakes for her"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 2.5.3.1 L:150-151"], note: "i3-nun zu2-lum ga-ar3 niĝ2-sa-ḫa 7-bi ... nesaĝ: ghee, dates, cheese and seven sorts of fruit as first-fruits"}
+      - {motif: seven-species-of-land, refs: ["ETCSL 2.5.3.1 L:150"], note: "niĝ2-sa-ḫa 7-bi: seven kinds of fruit"}
+      - {motif: libations-of-beer-and-wine, refs: ["ETCSL 2.5.3.1 L:152-160"], note: "kurun gig2 / kurun babbar mu-na-ra-de2: dark and light beer poured; lal3 ĝeštin ud e3-a: honey and wine of sunrise"}
+      - {motif: goddess-takes-counsel-with-an, refs: ["ETCSL 2.5.3.1 J:130"], note: "an-da ki maḫ-a-na šag4 mu-un-di-ni-ib-kuš2-u3"}
+      - {motif: king-takes-counsel-with-an, refs: ["ETCSL 2.5.3.1 J:130"]}
+    hints:
+      - "Compare Jer 19:13, 32:29 and Zeph 1:5 (incense on the rooftops to the host of heaven); 2 Kgs 23:12 (rooftop altars)."
+      - "Compare Jer 7:18 and 44:19 (cakes, kawwanim, baked for the Queen of Heaven, and libations poured to her)."
+      - "Compare Ps 104:19-23 (at evening the beasts come out, at sunrise man goes to work) and Ps 148."
+      - "Compare Deut 26:1-11 (first fruits basket) and Deut 8:8 (seven species)."
+  - id: ane-etcsl-2-5-3-1-sacred-marriage
+    tradition: ane-sumerian
+    title: "Iddin-Dagan A: the New Year sacred marriage of Inana and the king, and the banquet"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.1 M:169-N:230"]
+    tags:
+      - {motif: river-ordeal-clears-the-just, refs: ["ETCSL 2.5.3.1 M:169-170"], note: "e2-gal ... {ĝiš}rab3 kur-kur-ra-kam / e2 {d}id2-lu2-ru-gu2: the palace, neck-stock of foreign lands, house of the river ordeal"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 2.5.3.1 M:171-194"], note: "lugal diĝir-am3 šag4-bi-a mu-un-da-an-til3: the divine king stays with her; zag-mu ud ĝarza-ka nin-ĝu10-ra ki-nu2 ba-da-an-ĝar: at the New Year a bed is set up; {d}ama-ušumgal-an-na ki-nu2 mu-un-da-ab-ak-e; {d}i-din-{d}da-gan-na ki aĝ2-ĝu10 ḫe2-me-en: Iddin-Dagan, you are my beloved"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 2.5.3.1 M:178-186"], note: "{u2}numun2-bur2 šim {ĝiš}erin-na-da mu-un-sikil-e-ne: bedding purified with cedar perfume; ur2 kug-ge a mi-ni-in-tu5-tu5: bathes her holy thighs; naĝa: soap; i3 šim {ĝiš}erin-na: oil and cedar essence"}
+      - {motif: new-year-festival-rite, refs: ["ETCSL 2.5.3.1 M:173-176"], note: "nam kur-kur-ra tar-re-da-ni: to determine the fate of all countries; ud nu2-a: day of the moon's disappearance; zag-mu: New Year"}
+      - {motif: love-better-than-wine, refs: ["ETCSL 2.5.3.1 M:190-193"], note: "ur2 kug-ga-ĝu10 kug {d}inana-ĝu10 (variant): O my holy thighs; she makes him rejoice on the bed"}
+      - {motif: king-shines-like-sun-beside-goddess, refs: ["ETCSL 2.5.3.1 M:199-202"], note: "nitalam ki aĝ2-ĝa2-ni gu2-da mu-ni-in-la2: embraces her beloved spouse; lugal {d}utu-gin7 zag-ge4 mu-di-ni-ib-sig9: makes the king position himself next to her like the sun"}
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.5.3.1 M:201-202"]}
+      - {motif: royal-banquet-with-music, refs: ["ETCSL 2.5.3.1 M:203-216"], note: "ĝiš-gu3-di ulu3-ta eme ĝar-ra: instruments drowning the south wind; {ĝiš}al-ĝar, {ĝiš}za3-mi2 harps; lugal-e gu7-a naĝ-a-da šu si ba-an-sa2: the king sees to food and drink; the people spend the day in plenty"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.3.1 M:215"], note: "{ĝiš}gu-za gi-rin-na ud ḫa-ba-ni-ib-sud-de3: may his days be long on the splendid throne"}
+      - {motif: goddess-born-with-heaven-and-earth, refs: ["ETCSL 2.5.3.1 M:218"], note: "nu-u8-gig an ki-da tud-da-me-en: you are the Mistress born together with heaven and earth"}
+      - {motif: wisdom-as-beloved-gives-crown, refs: ["ETCSL 2.5.3.1 M:199-216"], note: "the goddess's embrace confers the king's long reign on the throne"}
+    hints:
+      - "Compare Song 3:11 (King Solomon crowned by his mother on his wedding day), Song 1:12-17 and Ps 45:9-16 (royal wedding with myrrh, the bride brought to the king)."
+      - "Compare Prov 8:22-31 (Wisdom born before heaven and earth) for 'born together with heaven and earth'."
+      - "Compare Hos 2:16-25 (YHWH's marriage to the land bringing grain, wine and oil) as the inverted, monotheistic sacred marriage."
+  - id: ane-etcsl-2-5-3-2-iddin-dagan-b
+    tradition: ane-sumerian
+    title: "Iddin-Dagan B: praise of Iddin-Dagan as shepherd, lawgiver and patron of the scribal school"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.2 1-79"]
+    tags:
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.5.3.2 1-4", "ETCSL 2.5.3.2 51"], note: "an-ne2 ... nam gal mu-ri-in-tar; šag4-ta {d}da-gan-na nam-še3 mu-ri-in-tar: from the womb Dagan decreed it as your destiny"}
+      - {motif: called-from-the-womb, refs: ["ETCSL 2.5.3.2 51"]}
+      - {motif: shepherdship-of-land-given-by-god, refs: ["ETCSL 2.5.3.2 3-4", "ETCSL 2.5.3.2 12"], note: "nam-sipad kalam-ma-še3 mu-un-il2-en / kur ĝiri3-zu-še3 mu-un-ĝar: placed the foreign lands at your feet"}
+      - {motif: city-as-cosmic-bond, refs: ["ETCSL 2.5.3.2 7"], note: "us2-saĝ ki-en-gi-re gen6-ne2-de3: to keep firm the cosmic bond in Sumer"}
+      - {motif: king-as-protective-shade, refs: ["ETCSL 2.5.3.2 9", "ETCSL 2.5.3.2 23"], note: "an-dul3 daĝal-la-za ni2 dub2-bu-de3: to relax under your broad protection (shade)"}
+      - {motif: wisdom-given-to-king-by-god, refs: ["ETCSL 2.5.3.2 14-16", "ETCSL 2.5.3.2 76-77"], note: "{d}en-ki-ke4 ĝeštug2 daĝal niĝ2-nam-ma zu-zu: Enki brought you broad understanding, knowledge of everything"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.3.2 22", "ETCSL 2.5.3.2 26-27"], note: "{d}utu-gin7 ud zid e3-a-zu: when like Utu you bring forth just light; niĝ2-si-sa2 ka-ga14 mu-e-ni-ĝar"}
+      - {motif: king-puts-roads-and-boundaries-in-order, refs: ["ETCSL 2.5.3.2 24-28"], note: "ḫar-ra-an kaskal-la si bi2-sa2; in mu-e-dub-dub ki mu-e-sur-sur: marked the borders and fixed the boundaries"}
+      - {motif: king-restores-purification-rites, refs: ["ETCSL 2.5.3.2 30-31"], note: "[šu]-luḫ diĝir-re-e-ne si bi2-i-sa2: you put in order the purification rites of the gods; ki-bi-še3 gi4-gi4-en: restored"}
+      - {motif: kings-gaze-gives-life, refs: ["ETCSL 2.5.3.2 35-37"], note: "igi bar-ra-zu lu2 mu-un-til3-le / ka ba-zu lu2 mu-un-silim-e: your gaze brings men life, your speech health"}
+      - {motif: incomparable-king, refs: ["ETCSL 2.5.3.2 41"], note: "{d}i-din-{d}da-gan a-ba za-e-gin7 i3-dim2: who is built like you?"}
+      - {motif: subject-nations-at-peace-in-pasture, refs: ["ETCSL 2.5.3.2 53-59"], note: "uĝ3 e-da-lu uĝ3 e-da-daĝal: the people multiplied; kur-kur u2-sal-la mu-e-ri-nu2: all lands lie down in pastures; saĝ gig2-ga a-a-zu-gin7: the people look to you as to their father"}
+      - {motif: yhwh-my-shepherd, refs: ["ETCSL 2.5.3.2 56"], note: "u2-sal-la ... nu2: lie down in (green) pastures, here of the king's rule"}
+      - {motif: scribe-blessed-by-goddess-of-writing, refs: ["ETCSL 2.5.3.2 64-70"], note: "e2-dub-ba-a im-ma muš3 nam-ba-an-tum2-mu: may (wisdom) never cease on the clay in the tablet house; dub-sar-tur šu-ni ib2-ši-in-tum4 im bi2-ib2-sar-a / {d}nisaba ... ĝeštug2 ḫu-mu-un-na-šum2: may Nisaba give wisdom to the junior scribe who writes this"}
+      - {motif: dynastic-succession-from-father, refs: ["ETCSL 2.5.3.2 71-72"], note: "ad-da-zu {d}šu-i3-li2-šu lugal kalam-ma-ke4 ... suḫuš-bi mu-ra-an-ge-en: your father Šu-ilīšu made the foundation firm for you"}
+    hints:
+      - "Compare Ps 23:2 (he makes me lie down in green pastures), Ezek 34:14-15 and Ps 72:6-17 (the ideal king's reign of abundance and justice)."
+      - "Compare Lam 4:20 (the anointed, the breath of our nostrils, under whose shadow we live) and Prov 16:15 (in the light of the king's face is life)."
+      - "Compare 1 Kgs 3:12 and 5:9 (God gives the king wisdom and breadth of heart)."
+  - id: ane-etcsl-2-5-3-3-ningublaga-adab
+    tradition: ane-sumerian
+    title: "Iddin-Dagan C: adab to Ningublaga, the wild bull who devastates the rebel lands"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.3"]
+    tags:
+      - {motif: god-piles-up-skulls, refs: ["ETCSL 2.5.3.3 A.B:6-9"], note: "ki-bal-a gu3 ra-ra saĝ ḫuš-bi bi2-tu10: roaring in the rebel lands you angrily piled up skulls; in-dal-bi an-na ba-e-ed3: scattered their chaff heavenward"}
+      - {motif: enemy-protective-gods-turn-away, refs: ["ETCSL 2.5.3.3 A.B:10-13"], note: "{d}lamma-bi mu-u8-ta-gub: their protective gods alienated; ĝiri3 kur2 im-mi-dab5: made to follow another path"}
+      - {motif: mountains-given-to-ghostly-winds, refs: ["ETCSL 2.5.3.3 A.B:14-17"], note: "kur-bi za-e ša-mu-u8-tab-en tum9 lil2-e bi2-tum3: you flatten those mountains and turn them over to the ghostly winds"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.3.3 A.B:8", "ETCSL 2.5.3.3 B.E:9-11"], note: "of the god: sumun2 zid: vigorous wild bull; ur-maḫ: lion"}
+      - {motif: god-of-justice-gives-verdicts, refs: ["ETCSL 2.5.3.3 B.E:13-16"], note: "{d}aš-im2-babbar-gin7 di si sa2 kud-kud: like Ašimbabbar gives correct verdicts; ud-gin7: like sunlight"}
+      - {motif: divine-son-intercedes-with-father-god, refs: ["ETCSL 2.5.3.3 A.D:28-31", "ETCSL 2.5.3.3 B.E:17-20"], note: "{d}i-din-{d}da-gan {d}nanna-ar X-dug4: he has spoken to Nanna on behalf of Iddin-Dagan; soothing Nanna's heart each day"}
+      - {motif: king-clothed-in-royal-robe-by-god, refs: ["ETCSL 2.5.3.3 B.E:5-8"], note: "inim {d}suen-na nam-lugal-še3 šum2-ma / {d}aš-im2-babbar-re tug2 tug2-ba13 mu4-mu4: whom Ašimbabbar clothed in the royal robe"}
+      - {motif: warrior-god-as-flood-and-battering-ram, refs: ["ETCSL 2.5.3.3 B.G:28-30"], note: "ku-kur dugud gaba-ri-bi-še3 nu-e3: formidable flood that no man opposes; ḫul-du-ni ĝiš-gaz-bi ḫe2-me-en: be the crusher of his enemies"}
+    hints:
+      - "Compare Ps 1:4 and 35:5 (the wicked like chaff the wind drives away), Isa 17:13."
+      - "Compare Zech 3:4-5 and Isa 61:10 (clothed in festal garments by God)."
+  - id: ane-etcsl-2-5-3-4-namerima
+    tradition: ane-sumerian
+    title: "Iddin-Dagan D: namerima incantation-hymn to Ninisina, An, Enlil, Ninlil and Aruru against the king's enemies"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.3.4 1-85"]
+    tags:
+      - {motif: healing-goddess-with-scalpel, refs: ["ETCSL 2.5.3.4 1-2", "ETCSL 2.5.3.4 8-9"], note: "nin gal a-zu maḫ saĝ gig2-ga: great lady, majestic physician of the black-headed; ĝiri2-zal bulug-kiĝ2-gur4: scalpel and lancet, knives like lion's claws"}
+      - {motif: god-the-healer, refs: ["ETCSL 2.5.3.4 1"]}
+      - {motif: goddess-as-raging-storm-and-lion, refs: ["ETCSL 2.5.3.4 3-17"], note: "ud mir-a-gin7: like a raging storm; {d}gibil6-gin7 igi ḫuš: face like fire; šu piriĝ-ĝa2 ... umbin uš2 biz-biz-biz: lion's paws, claws dripping blood; ud ka-bi-ta aḫ6: storm whose mouth spews spittle and venom"}
+      - {motif: god-like-lion-over-prey, refs: ["ETCSL 2.5.3.4 11", "ETCSL 2.5.3.4 17-18"], note: "piriĝ šeg12 gi4-gi4 erim2-e gu2 kud-da: roaring lion cutting the enemy's neck; es2-ad maḫ-gin7 ḫul-še3 nu2-a: like a great snare lying in wait for the evil-doer"}
+      - {motif: lady-of-the-living-and-dead, refs: ["ETCSL 2.5.3.4 21", "ETCSL 2.5.3.4 26"], note: "nin til3-la ug5-ga zi kalam-ma šu du8: lady of the living and the dead, who holds the life of the land in her hand; nin til3 mud kalam-ma: life-creator of the land"}
+      - {motif: god-kills-and-makes-alive, refs: ["ETCSL 2.5.3.4 21"]}
+      - {motif: goddess-wrath-like-sea-flood, refs: ["ETCSL 2.5.3.4 35-38"], note: "šag4 mir-a-ni lu2 nu-te-en-te-en: her raging heart none can cool; a-ab-ba-gin7 ku-kur um-de6 lu2-erim2 ba-an-na8-na8: like the sea bringing a flood-wave she drowns the foe"}
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.5.3.4 40-43"], note: "iri ka tar-ra-zu ki-bi nu-gi4: the city you curse is not restored; du6-du6-da ma-ra-an-šid: turned into ruin-mounds; lu2 nu-mu-ni-in-dib-be2: no one moves about in the land you curse"}
+      - {motif: refrain-let-not-enemy-carry-off-your-name, refs: ["ETCSL 2.5.3.4 55-56", "ETCSL 2.5.3.4 63-64", "ETCSL 2.5.3.4 71-72", "ETCSL 2.5.3.4 79-80"], note: "mu-zu lu2-erim2-e nam-ba-an-tum3 / a mu-zu ... a mu-zu: let not the enemy carry away your name, O your name! -- to Ninisina, An, Enlil, Ninlil"}
+      - {motif: curse-on-kings-enemies-by-net-and-flood, refs: ["ETCSL 2.5.3.4 54", "ETCSL 2.5.3.4 62", "ETCSL 2.5.3.4 70"], note: "lu2-lul {d}i-din-{d}da-gan-na ... {sa}šu2-uš-gal-gin7 ḫu-mu-un-šu2: may the deceivers of Iddin-Dagan be overwhelmed as by a battle-net; lu2 ĝiri3 ... nu-mu-un-dab5-ba a-gin7 ḫu-mu-su-su: may those who do not clasp his feet be drowned as by water"}
+      - {motif: prohibition-false-oath-by-name, refs: ["ETCSL 2.5.3.4 75-78"], note: "lugal mu-zu lul-e-eš pad3-de3-de3: the king who dares to utter your name falsely ... nam-tag dugud ... e-ne-ra il2: make him bear heavy guilt; ki šer7-da {d}id2-lu2-ru-gu2 kalam-ma: the land's river of ordeal at the place of transgression"}
+      - {motif: river-ordeal-clears-the-just, refs: ["ETCSL 2.5.3.4 76"]}
+      - {motif: father-of-the-gods-an, refs: ["ETCSL 2.5.3.4 57"], note: "an maḫ-di a-a diĝir-re-e-ne: sublime An, father of the gods; šag4 su3-ra2: patient-hearted"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.5.3.4 65", "ETCSL 2.5.3.4 81"], note: "{d}en-lil2 me gal-gal sag2 nu-di; {d}a-ru-ru me sag2 nu-di; text breaks off after 85"}
+    hints:
+      - "Compare Exod 15:26 (I am YHWH your healer) and Deut 32:39 (I kill and make alive, I wound and I heal)."
+      - "Compare Exod 20:7 (you shall not take the name in vain, for YHWH will not hold guiltless) and Lev 19:12."
+      - "Compare Josh 7:9 and Ps 74:10,18 (what will you do for your great name? shall the enemy revile your name forever?)."
+      - "Compare Hos 13:7-8 and Lam 3:10 (God like a lion, a bear lying in wait)."

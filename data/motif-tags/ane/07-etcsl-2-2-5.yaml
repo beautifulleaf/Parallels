@@ -178,6 +178,10 @@ new_motifs:
   your-name-be-praised-refrain: {label: "Refrain 'your name be praised indeed!' (teš2 mu-zu ḫe2-i-i) addressed to a city or temple", cluster: liturgy}
   wickedness-cannot-pass-before-kings-eyes: {label: "Wickedness cannot pass before the just king's eyes; he accomplishes justice and acts as constable", cluster: law}
   lapis-lazuli-beard: {label: "A god or king is adorned with a lapis-lazuli beard", cluster: iconography}
+  temple-as-shackle-on-land: {label: "The temple's great divine power is the gods' shackle or bolt laid on all the lands", cluster: cult}
+  gods-take-counsel-in-temple: {label: "The Anuna gods of heaven and earth take counsel together at a temple platform to make just decisions", cluster: cult}
+  king-born-like-goddess-gives-birth-in-storm: {label: "The king's divine mother bore him 'like Ninlil who gives birth in a storm'", cluster: kingship}
+  king-as-faithful-farmer-of-enlil: {label: "The king is the faithful farmer who ploughs Enlil's fields with oxen, lays out levees and ditches, and heaven's rain makes the furrows sprout", cluster: kingship}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -758,3 +762,46 @@ units:
       - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.1.5 35-38"], note: "a goddess decrees a fate for the king and for the Tigris and Euphrates"}
     hints:
       - "King who scatters evil with his eyes: Prov 20:8, Ps 101:3-8. Gate of heaven: Gen 28:17, Ps 24:7."
+  - id: ane-etcsl-2-4-1-6-urim-shrine-praise-f
+    tradition: ane-sumerian
+    title: A šir-namšub to Nanna for Ur-Namma, the lapis-bearded lord of Urim (Ur-Namma F)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.6 1-52"]
+    tags:
+      - {motif: lapis-lazuli-beard, refs: ["ETCSL 2.4.1.6 5", "ETCSL 2.4.1.6 45"], note: "sun4 za-gin3 sud4-sud4 ḫe2-a-u5"}
+      - {motif: tallest-man-chosen-king, refs: ["ETCSL 2.4.1.6 6"], note: "approximate: gu2-en-ta en sukud-da, 'the tallest of the lords'"}
+      - {motif: temple-interior-unknowable, refs: ["ETCSL 2.4.1.6 9", "ETCSL 2.4.1.6 19"]}
+      - {motif: temple-as-shackle-on-land, refs: ["ETCSL 2.4.1.6 13", "ETCSL 2.4.1.6 30", "ETCSL 2.4.1.6 31"], note: "e2 me gal-zu rab3 diĝir-re-e-ne kalam-ma la2-am3; {ĝiš}rab3-ba kur-kur-ra im-mi-in-ĝar si-ĝar kalag-ga"}
+      - {motif: city-gate-like-sky-sun-rises-through, refs: ["ETCSL 2.4.1.6 14", "ETCSL 2.4.1.6 15"]}
+      - {motif: gods-take-counsel-in-temple, refs: ["ETCSL 2.4.1.6 16", "ETCSL 2.4.1.6 17"], note: "{d}a-nun-na diĝir an ki-ka ad mi-ni-in-gi-gi-ne"}
+      - {motif: gods-determine-fates-at-dubla-mah, refs: ["ETCSL 2.4.1.6 21", "ETCSL 2.4.1.6 22"]}
+      - {motif: god-chooses-king-from-multitude, refs: ["ETCSL 2.4.1.6 23", "ETCSL 2.4.1.6 24", "ETCSL 2.4.1.6 29"], note: "{d}suen šag4-ge ba-ni-in-pad3"}
+      - {motif: wickedness-cannot-pass-before-kings-eyes, refs: ["ETCSL 2.4.1.6 32", "ETCSL 2.4.1.6 33", "ETCSL 2.4.1.6 35"]}
+      - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.1.6 36-44"], note: "Ningal decrees a fate for Ur-Namma, the Tigris and the Euphrates"}
+      - {motif: king-born-like-goddess-gives-birth-in-storm, refs: ["ETCSL 2.4.1.6 48", "ETCSL 2.4.1.6 49"], note: "{d}nin-lil2-le ud-da u3-tud-da-gin7"}
+    hints:
+      - "The tallest chosen: 1 Sam 9:2, 10:23. Gods taking counsel: Ps 82:1, 1 Kgs 22:19-22."
+  - id: ane-etcsl-2-4-1-7-faithful-farmer
+    tradition: ane-sumerian
+    title: A balbale to Enlil for Ur-Namma, the faithful farmer (Ur-Namma G)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.7 7-28"]
+    tags:
+      - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.4.1.7 7", "ETCSL 2.4.1.7 8", "ETCSL 2.4.1.7 9"], note: "a-eštub {d}ezina2 še gu-nu saĝ-e-eš ḫe2-mu-rig7; lines 1-6 missing"}
+      - {motif: king-as-faithful-farmer-of-enlil, refs: ["ETCSL 2.4.1.7 13-20"], note: "lugal engar zid; ab-sin2 gub-ba-zu im an-na si ḫe2-em-ma-ni-in-sa2"}
+      - {motif: rain-in-its-season-blessing, refs: ["ETCSL 2.4.1.7 18"]}
+    hints:
+      - "King and land fertility: Ps 72:6, 72:16; Uzziah 'loved the soil' 2 Chr 26:10; Gen 9:20 (Noah 'man of the soil')."
+  - id: ane-etcsl-2-4-1-8-ur-namma-h
+    tradition: ane-sumerian
+    title: A praise poem of Ur-Namma, fragments (Ur-Namma H)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.8 A:1-4", "ETCSL 2.4.1.8 B:1-6"]
+    tags:
+      - {motif: royal-self-praise-hymn, refs: ["ETCSL 2.4.1.8 A:1", "ETCSL 2.4.1.8 B:6"], note: "only the refrain ur-{d}namma lugal kalam-ma su3-ra2 ba9-ra2 and scattered words (ebony, silver, lapis, lion, dragon) survive"}

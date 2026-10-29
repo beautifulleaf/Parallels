@@ -86,6 +86,20 @@ new_motifs:
   sacred-marriage-bed-of-cedar: {label: "A god makes love to his bride in a flowered bed fragrant like a cedar forest, then enthrones her", cluster: marriage}
   messenger-repeats-message-verbatim: {label: "A messenger delivers or reports a speech by repeating it word for word", cluster: narrative-form}
   messenger-kisses-ground-before-lord: {label: "A messenger prostrates himself and kisses the ground before the deity he addresses", cluster: court}
+  goddess-delights-in-her-genitals: {label: "A goddess admires and praises her own genitals", cluster: sexuality}
+  god-knows-visitors-intent-in-advance: {label: "A wise god knows from his own dwelling what a visitor intends before she arrives", cluster: divine-knowledge}
+  guest-welcomed-with-cake-water-and-beer: {label: "A god orders his servant to welcome a visiting deity with butter-cake, cool water and beer at the holy table", cluster: hospitality}
+  drunken-god-gives-away-powers: {label: "A god, drunk at a banquet, gives away his divine powers (me) to a guest", cluster: myth}
+  catalogue-of-divine-powers-me: {label: "A long catalogue of the divine powers (me) of civilization: offices, crafts, cult, sex, speech, war, wisdom, family", cluster: culture}
+  oath-by-gods-power-and-abode: {label: "A god swears 'in the name of my power, in the name of my abzu'", cluster: oath}
+  sobered-god-regrets-gift: {label: "When the effects of drink wear off, the god asks where his gifts are and tries to take them back", cluster: myth}
+  boat-of-heaven: {label: "A goddess carries off treasures on the 'Boat of Heaven'", cluster: myth}
+  god-sends-monsters-to-recover-stolen-goods: {label: "A god sends one band of monsters after another (giants, laḫama, great fish) to seize a fleeing boat", cluster: myth}
+  daughter-accuses-father-god-of-false-oath: {label: "A goddess accuses her father of lying and swearing falsely by his name when he revokes his gift", cluster: oath}
+  faithful-minister-rescues-mistress: {label: "A goddess's faithful minister (Ninšubur) saves her and her cargo from her pursuers", cluster: myth}
+  city-celebrates-arrival-of-divine-treasures: {label: "A city celebrates with sacrifices, music and procession as a deity brings sacred treasures into it", cluster: cult}
+  goddess-names-places-on-arrival: {label: "A goddess names quays and places in her city after what happened at each", cluster: etiology}
+  talking-animal: {label: "An animal (frog, fox) speaks in human words", cluster: folktale}
 units:
   - id: ane-etcsl-1-1-1-dilmun-pristine
     tradition: ane-sumerian
@@ -619,3 +633,120 @@ units:
       - {motif: closing-praise-of-god, refs: ["ETCSL 1.2.2 2.B:30-31"]}
     hints:
       - "Compare Gen 17:15-16 and Isa 62:2-4 (new name; 'Hephzibah', 'Married'); Ps 45:10-17 (the queen at the king's right hand, peoples praise her)."
+  - id: ane-etcsl-1-3-1-inana-sets-out
+    tradition: ane-sumerian
+    title: Inana delights in herself and goes to Enki in Eridug; Enki knows her purpose (Inana and Enki)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 A:1-27", "ETCSL 1.3.1 B:1-15"]
+    tags:
+      - {motif: goddess-delights-in-her-genitals, refs: ["ETCSL 1.3.1 A:4-7"], note: "gal4-la-ni u6 di-dam / gal4-la-ni-še3 ḫul2-la-e ni2-te-ni mi2 zid iri in-ga-am3-me: 'her genitals were remarkable; rejoicing at her genitals she praised herself'"}
+      - {motif: goddess-complains-of-no-portion, refs: ["ETCSL 1.3.1 B:3-5"], note: "interpretive: a-ra-zu du5-mu-na-ab-be2 'I will utter a plea to Enki'; lu2 ĝiš3 dug4-ga-ni ... taka4-a-ĝu10 'that I have been neglected by him who had sex' (obscure)"}
+      - {motif: god-knows-visitors-intent-in-advance, refs: ["ETCSL 1.3.1 B:9-12"], note: "ki-tuš-a-ni-ta šag4 diĝir-re-e-ne-ke4 ši-in-ga-zu-a / ... danna nu-ub-te-a-aš / {d}en-ki lugal abzu-ke4 niĝ2-nam-e zu-a: 'from his dwelling he knows the hearts of the gods ... before she came within a league he knew all'"}
+    hints:
+      - "Compare Ps 139:2-4 ('you know my thoughts from afar ... before a word is on my tongue') and Q 50:16 and Q 67:13-14 (God knows what hearts conceal)."
+  - id: ane-etcsl-1-3-1-hospitality-drinking
+    tradition: ane-sumerian
+    title: Isimud welcomes Inana with butter-cake, water and beer at An's table; Enki and Inana drink together
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 C:1-30"]
+    tags:
+      - {motif: guest-welcomed-with-cake-water-and-beer, refs: ["ETCSL 1.3.1 C:9-14", "ETCSL 1.3.1 C:21-26"], note: "gug2 i3-nun-ta ḫe2-em-da-gu7-e / a sed niĝ2 šag4 te-en de2-mu-na-ni / igi piriĝ-ĝa2-ka kaš ...: butter cake, cool water, beer before the Lions' Gate; ĝa2 ma-la-še3 'as in her girlfriend's house'"}
+      - {motif: hospitality-to-strangers, refs: ["ETCSL 1.3.1 C:15-26"], note: "divergence: a divine guest received by a god's minister on command; no foot-washing"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["ETCSL 1.3.1 C:5-14", "ETCSL 1.3.1 C:17-26"], note: "command and execution in identical words"}
+      - {motif: drunken-contest-of-gods, refs: ["ETCSL 1.3.1 C:27-30"], note: "abzu-a kaš im-na8-na8-ne kurun2 im-dug3-ge-ne / zabar {d}uraš-a a-da-min3 mu-un-ak-ne: 'drinking beer in the abzu ... they started a contest with the bronze vessels of Uraš'; c. 35 lines missing"}
+    hints:
+      - "Compare Gen 18:2-8 (cakes, water and food set before the divine visitors) and Gen 19:3."
+      - "Compare Gen 9:20-21 and Gen 19:32-35 (drinking that leads to a fateful act)."
+  - id: ane-etcsl-1-3-1-gift-of-me
+    tradition: ane-sumerian
+    title: Enki, in his cups, gives Inana the divine powers one group after another
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 D:1-27", "ETCSL 1.3.1 E:1-36"]
+    tags:
+      - {motif: drunken-god-gives-away-powers, refs: ["ETCSL 1.3.1 D:1-5"], note: "kug {d}inana-ra dumu-ĝu10-ur2 ga-na-ab-šum2: 'to holy Inana, my daughter, I will give them'; the drinking context at C:27-30, then a gap"}
+      - {motif: oath-by-gods-power-and-abode, refs: ["ETCSL 1.3.1 D:4", "ETCSL 1.3.1 D:8", "ETCSL 1.3.1 D:12", "ETCSL 1.3.1 D:20", "ETCSL 1.3.1 D:24"], note: "mu a2-ĝa2 mu abzu-ĝa2: 'in the name of my power, in the name of my abzu'"}
+      - {motif: catalogue-of-divine-powers-me, refs: ["ETCSL 1.3.1 D:2", "ETCSL 1.3.1 D:6", "ETCSL 1.3.1 D:10", "ETCSL 1.3.1 D:14", "ETCSL 1.3.1 D:18", "ETCSL 1.3.1 D:22", "ETCSL 1.3.1 E:1-36"], note: "nam-ur-saĝ nam-kalag-ga nam-niĝ2-erim2 nam-niĝ2-si-sa2 iri laḫ5 ...: heroism, power, wickedness, righteousness, plundering cities, lament, rejoicing; lul-da 'deceit'; crafts of carpenter, coppersmith, scribe, smith, leather-worker, fuller, builder, reed-worker; wisdom; fire kindled and extinguished; family, descendants; strife, judging. D lists are restored from E and I"}
+      - {motif: culture-heroes-inventors, refs: ["ETCSL 1.3.1 E:10-17"], note: "divergence: the crafts are divine 'powers' handed from one god to another, not invented by ancestors"}
+    hints:
+      - "Compare Gen 4:20-22 (originators of herding, music and metalwork), Exod 31:1-6 (craft as divine gift) and Eccl 3:1-8 (a catalogue of opposites)."
+      - "Compare Esth 5:3-6 and Mark 6:22-26 (a ruler's rash grant at a banquet)."
+  - id: ane-etcsl-1-3-1-enki-sobers
+    tradition: ane-sumerian
+    title: Inana sails off with the powers; Enki sobers and asks where each power is
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 F:1-34"]
+    tags:
+      - {motif: boat-of-heaven, refs: ["ETCSL 1.3.1 F:7-8"], note: "kug {d}inana me mu-un-ur4-ur4 ma2 an-na bi2-in-u5 / ma2 an-na kar-ra zag bi2-in-tag"}
+      - {motif: sobered-god-regrets-gift, refs: ["ETCSL 1.3.1 F:9-13", "ETCSL 1.3.1 F:17-34"], note: "kaš naĝ-ĝa2-ra kaš mu-un-ta-ed3-da: 'as the beer left him who had drunk beer'; refrain lugal-ĝu10 dumu-ni-ir ba-an-na-šum2 'my master has given them to his daughter'"}
+      - {motif: catalogue-of-divine-powers-me, refs: ["ETCSL 1.3.1 F:17-33"], note: "nam-en nam-lagar nam-diĝir aga ... {ĝiš}gu-za nam-lugal; kur ed3-de3 kur ed3-da 'going down to and coming up from the underworld'; ĝiš3 dug4-dug4, nam-kar-ke4 'prostitution', amalu 'cult woman', eš2-dam 'tavern'; nam-eme-sig 'slander'; nam-ab-ba 'old age'"}
+      - {motif: cultic-sex-with-qedeshot, refs: ["ETCSL 1.3.1 F:29-31"], note: "interpretive: amalu and nam-kar-ke4 among the powers; no ritual described"}
+      - {motif: first-vineyard-drunkenness, refs: ["ETCSL 1.3.1 F:9-10"], note: "divergence: a god's drunkenness and its consequences; no vineyard"}
+    hints:
+      - "Compare Gen 9:21-24 (awaking from wine, he knew what had been done) and Prov 31:4-5 (lest kings drink and forget the decree)."
+      - "Compare Deut 23:18-19 and Hos 4:14 (qedeshah/cult women)."
+  - id: ane-etcsl-1-3-1-frog
+    tradition: ane-sumerian
+    title: A frog speaks at the temple door; Enki gives gifts to the bird of heaven and fish of the deep (fragment)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 G:1-21"]
+    tags:
+      - {motif: talking-animal, refs: ["ETCSL 1.3.1 G:4-6"], note: "{ĝiš}saĝ-kul {ĝiš}ig e2-e-ka bi2-za-za bi2-in-dug4: 'by the bolt of the temple door, a frog spoke'; Enki grasps the frog by its right paw; context lost, G:11-21 fragmentary"}
+    hints:
+      - "Compare Num 22:28 (a speaking animal) and Exod 8:1-11 (frogs)."
+  - id: ane-etcsl-1-3-1-pursuit
+    tradition: ane-sumerian
+    title: Seven times Enki sends Isimud and monsters to seize the Boat of Heaven; Ninšubur saves it each time
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 H:1-217"]
+    tags:
+      - {motif: god-sends-monsters-to-recover-stolen-goods, refs: ["ETCSL 1.3.1 H:7", "ETCSL 1.3.1 H:41", "ETCSL 1.3.1 H:75", "ETCSL 1.3.1 H:109", "ETCSL 1.3.1 H:143", "ETCSL 1.3.1 H:177"], note: "enkum-e-ne; u18-ru eridug-ga 50-bi 'the fifty giants of Eridug'; la-ḫa-ma engur-ra 50-bi 'the fifty laḫama of the deep'; ku6 gal-gal 'the great fish'; en-nu-uĝ3 unug 'the guardians of Unug'; the Surungal canal (H:143 restored)"}
+      - {motif: giants-offspring-of-gods, refs: ["ETCSL 1.3.1 H:41", "ETCSL 1.3.1 H:62"], note: "divergence: u18-ru 'giants' (ETCSL) as Enki's servants, fifty of them; no divine-human parentage"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["ETCSL 1.3.1 H:8-19", "ETCSL 1.3.1 H:42-53"], note: "a-a-zu dug4-ga-ni maḫ-am3 ... inim gal-gal-a-ni sag2 nu-di: 'your father's word is weighty; his great words cannot be countermanded'"}
+      - {motif: daughter-accuses-father-god-of-false-oath, refs: ["ETCSL 1.3.1 H:20-26", "ETCSL 1.3.1 H:54-60"], note: "a-a-ĝu10 lul-da ma-an-dug4 ... lul-da mu a2-na mu abzu-na in-pad3: 'did my father speak falsely to me? did he swear falsely by the name of his power and his abzu?'"}
+      - {motif: prohibition-false-oath-by-name, refs: ["ETCSL 1.3.1 H:25"], note: "divergence: a god accused of swearing falsely by his own name"}
+      - {motif: faithful-minister-rescues-mistress, refs: ["ETCSL 1.3.1 H:29-34", "ETCSL 1.3.1 H:63-68"], note: "sukkal zid e2-an-na-ĝu10 ... ra-gaba e-ne-eĝ3 ge-en-gen6-na-ĝu10 / a šu-zu nu-tag a me-ri-zu nu-tag: 'my envoy of reliable words; water has never touched your hand, water has never touched your feet'"}
+      - {motif: threefold-repeated-episode, refs: ["ETCSL 1.3.1 H:1-33", "ETCSL 1.3.1 H:34-67", "ETCSL 1.3.1 H:68-101", "ETCSL 1.3.1 H:102-135", "ETCSL 1.3.1 H:136-169", "ETCSL 1.3.1 H:170-205"], note: "six full repetitions; 2-kam-ma-še3 ... 6-kam-ma-aš ... 7-kam-ma-aš (H:213); H:207-217 fragmentary"}
+      - {motif: boat-of-heaven, refs: ["ETCSL 1.3.1 H:34", "ETCSL 1.3.1 H:216"]}
+    hints:
+      - "Compare Gen 31:22-35 (a father pursues the daughter who carried off his gods) and Exod 14 (pursuit)."
+      - "Compare Num 23:19 ('God is not a man that he should lie') and Ps 89:35."
+  - id: ane-etcsl-1-3-1-arrival-unug
+    tradition: ane-sumerian
+    title: The Boat of Heaven reaches Unug's Gate of Joy; the city rejoices with sacrifice and music
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 H:218-266"]
+    tags:
+      - {motif: city-celebrates-arrival-of-divine-treasures, refs: ["ETCSL 1.3.1 H:220-234", "ETCSL 1.3.1 H:241-248"], note: "abula niĝ2-ul-la unug kul-aba4-še3 'to the Gate of Joy'; lugal-e gud ḫe2-em-ma-ab-gaz-e udu ḫe2-em-ma-ab-šar2-re / kaš bur-ra ḫe2-em-de2-e / šem3 {kuš}a2-la2 ... tigi: the king slaughters bulls and sheep, pours beer, drums and tigi; old men, women, young men, children each rejoice"}
+      - {motif: boat-of-heaven, refs: ["ETCSL 1.3.1 H:249-256"], note: "brought along the street to the Ĝipar Gate and the purified well"}
+      - {motif: god-sends-monsters-to-recover-stolen-goods, refs: ["ETCSL 1.3.1 H:257-266"], note: "Enki asks again; the boat has reached the White Quay; the order is lost"}
+    hints:
+      - "Compare 2Sam 6:12-19 and 1Chr 15-16 (the ark brought into the city with sacrifices, music and dancing) and 1Kgs 8:1-5."
+  - id: ane-etcsl-1-3-1-recital-and-naming
+    tradition: ane-sumerian
+    title: The powers brought to Unug are recited; Inana names the quays; Enki makes peace
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.3.1 I:1-142"]
+    tags:
+      - {motif: catalogue-of-divine-powers-me, refs: ["ETCSL 1.3.1 I:1-106"], note: "refrain ba-e-de6 'you have brought with you'; adds umuš ki ĝa2-ĝa2 ḫi-li nam-munus-e-ne 'the attractiveness of women' and the tigi, lilis, ub, meze and ala drums (I:95-99)"}
+      - {motif: goddess-names-places-on-arrival, refs: ["ETCSL 1.3.1 I:115-125"], note: "mu-še3 ba-an-sa4: 'The house Ganzer is rebuilt'; where a trader said '50 shekels' (šaĝan-la2-am3 50 giĝ4) but brought less - 'Potsherds and scrap copper'; 'White Quay', 'Blue Quay'"}
+      - {motif: place-name-etiology, refs: ["ETCSL 1.3.1 I:117-123"]}
+      - {motif: oath-by-gods-power-and-abode, refs: ["ETCSL 1.3.1 I:126-128"], note: "Enki: mu a2-ĝa2 mu abzu-ĝa2 ... abzu-ĝa2 ga-ba-na-ĝar: 'I will establish ... in my abzu for the woman'"}
+      - {motif: city-celebrates-arrival-of-divine-treasures, refs: ["ETCSL 1.3.1 I:139-142"], note: "may there be a festival at your Ĝipar gate; citizens of Unug live; Eridug restored (ki-bi na-an-ni-ib-gi4); I:131-138 fragmentary, a third deity speaking"}
+    hints:
+      - "Compare Gen 26:18-22 and Gen 32:31 (places named for events), and Amos 8:5 / Mic 6:11 (short weights in trade)."
