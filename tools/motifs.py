@@ -147,16 +147,14 @@ def validate(vocab, units, quran_text, hebrew_text):
         read = set()
         if u.get("original"):
             for r in u.get("read") or []:
-                found = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
-                         else originals.hebrew_refs(r, hebrew_text))
+                found = unit_refs(u, r, quran_text, hebrew_text)
                 if not found:
                     errors.append(f"{where}: read range {r} does not resolve")
                 read |= set(found or [])
         for t in u["tags"]:
             if u.get("original"):
                 for r in t["refs"]:
-                    keys = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
-                            else originals.hebrew_refs(r, hebrew_text)) or []
+                    keys = unit_refs(u, r, quran_text, hebrew_text) or []
                     if not set(keys) <= read:
                         errors.append(f"{where}: tag {t['motif']} cites {r}, which is outside the unit's read ranges")
             if t["motif"] not in vocab:
@@ -168,10 +166,20 @@ def validate(vocab, units, quran_text, hebrew_text):
     return errors
 
 
+def unit_refs(u, r, quran_text, hebrew_text):
+    """A unit's reference resolved against its own corpus: verse refs, or ANE line keys."""
+    if u.get("corpus") == "quran":
+        return originals.quran_refs(r, quran_text)
+    if u.get("corpus") == "ane":
+        keys = originals.ane_refs(r)
+        return ["|".join(k) for k in keys] if keys else None
+    return originals.hebrew_refs(r, hebrew_text)
+
+
 def passage_ref(u, r):
     if u.get("corpus") == "quran":
         return f"Quran {r}"
-    if u.get("corpus") == "hebrew-bible":
+    if u.get("corpus") in ("hebrew-bible", "ane"):
         return r
     return f"{u['title']}: {r}"
 
@@ -394,8 +402,7 @@ def read_keys(units, quran_text, hebrew_text):
         if u.get("original"):
             ks = set()
             for r in u.get("read") or []:
-                found = (originals.quran_refs(r, quran_text) if u.get("corpus") == "quran"
-                         else originals.hebrew_refs(r, hebrew_text))
+                found = unit_refs(u, r, quran_text, hebrew_text)
                 ks |= {f"{u.get('corpus')}:{k}" for k in found or []}
             keys[u["id"]] = ks
     return keys
@@ -415,9 +422,12 @@ def validate_file(path):
     errors += [f"{rel}: unit id {uid} also used in {[f for f in fs if f != rel]}"
                for uid, fs in ids.items() if rel in fs and len(fs) > 1]
     covered = set().union(*read_keys(mine, quran_text, hebrew_text).values()) if mine else set()
-    m = re.match(r"(hb|quran)/(\d+)-", rel)
+    m = re.match(r"(hb|quran|ane)/(\d+)-", rel)
     if m:   # a full-read chunk file may only hold units inside its own chunk
-        if m.group(1) == "hb":
+        if m.group(1) == "ane":
+            import aneread
+            allowed = {"ane:" + "|".join(k) for k in aneread.chunk_keys(int(m.group(2)))}
+        elif m.group(1) == "hb":
             import hbread
             chunk = hbread.plan(hebrew_text)[int(m.group(2)) - 1]
             allowed = {f"hebrew-bible:{r}" for _, _, refs in chunk for r in refs}
