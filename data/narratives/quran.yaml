@@ -1,0 +1,25 @@
+# Narrative labels for the Quran: verse ranges per story.
+# Draft v1 ranges, coarse by design. Review and refine; overlaps are allowed.
+# Ids are shared with hebrew-bible.yaml so the same story can be compared
+# across corpora.
+corpus: quran
+narratives:
+  adam: {name: Adam and Iblis, ranges: ["2:30-39", "7:11-25", "15:26-43", "17:61-65", "18:50", "20:115-123", "38:71-85"]}
+  cain-abel: {name: Cain and Abel, ranges: ["5:27-31"]}
+  noah: {name: Noah, ranges: ["7:59-64", "10:71-73", "11:25-49", "23:23-30", "26:105-122", "29:14-15", "37:75-82", "54:9-17", "71:1-28"]}
+  hud: {name: Hud and ʿAd, ranges: ["7:65-72", "11:50-60", "26:123-140", "46:21-26"]}
+  salih: {name: Salih and Thamud, ranges: ["7:73-79", "11:61-68", "26:141-159", "27:45-53", "91:11-15"]}
+  abraham: {name: Abraham, ranges: ["2:124-133", "2:258-260", "6:74-83", "11:69-76", "14:35-41", "15:51-60", "19:41-50", "21:51-73", "26:69-104", "29:16-27", "37:83-113", "51:24-37", "60:4"]}
+  lot: {name: Lot, ranges: ["7:80-84", "11:77-83", "15:61-77", "26:160-175", "27:54-58", "29:28-35", "54:33-39"]}
+  shuayb: {name: Shuʿayb and Midian, ranges: ["7:85-93", "11:84-95", "26:176-191"]}
+  joseph: {name: Joseph, ranges: ["12:4-101"]}
+  moses: {name: Moses, Pharaoh and the Israelites, ranges: ["2:49-74", "5:20-26", "7:103-156", "7:159-171", "10:75-93", "11:96-99", "17:101-104", "18:60-82", "19:51-53", "20:9-98", "23:45-49", "25:35-36", "26:10-68", "27:7-14", "28:3-46", "37:114-122", "40:23-46", "43:46-56", "44:17-33", "51:38-40", "61:5", "79:15-26"]}
+  saul: {name: Saul (Talut) and Goliath, ranges: ["2:246-251"]}
+  david: {name: David, ranges: ["21:78-80", "34:10-11", "38:17-26"]}
+  solomon: {name: Solomon, ranges: ["21:81-82", "27:15-44", "34:12-14", "38:30-40"]}
+  job: {name: Job, ranges: ["21:83-84", "38:41-44"]}
+  jonah: {name: Jonah, ranges: ["10:98", "21:87-88", "37:139-148", "68:48-50"]}
+  zechariah-john: {name: Zechariah and John, ranges: ["3:38-41", "19:2-15", "21:89-90"]}
+  jesus-mary: {name: Jesus and Mary, ranges: ["3:33-37", "3:42-63", "4:156-159", "5:110-118", "19:16-40", "43:57-65", "61:6", "61:14"]}
+  cave: {name: People of the Cave, ranges: ["18:9-26"]}
+  dhul-qarnayn: {name: Dhul-Qarnayn, ranges: ["18:83-98"]}

@@ -13,9 +13,35 @@ investigate them.
 
 ```bash
 pip install pyyaml
-python3 tools/build.py          # validate leads, regenerate site/index.html
-python3 tools/build.py --check  # validate only
+python3 tools/fetch.py                  # download corpora into data/raw/ (not committed)
+python3 tools/lexical.py --write-leads  # lexical track: results/lexical/ + pipeline leads
+python3 tools/build.py                  # validate leads, regenerate site/index.html
 ```
+
+`tools/build.py --check` validates without regenerating. `tools/lexical.py` exits
+with an error if it misses a benchmark it is expected to recover
+(`data/benchmarks/lexical.yaml`).
+
+## Lexical track (v1)
+
+- **Corpora:** Quranic Arabic Corpus morphology, with quran.com word-by-word
+  glosses; Open Scriptures Hebrew Bible, with Strong's dictionary. The
+  Aramaic sections are left out of the Hebrew statistics.
+- **Narratives:** hand-drawn verse ranges per story in `data/narratives/`.
+  They're drafts, and refining them improves every result.
+- **Concentration:** lemmas whose verses cluster in one narrative across
+  several surahs or chapters (hypergeometric test, Benjamini–Hochberg
+  corrected).
+- **Synonym skew:** a concentrated lemma with a more common same-gloss
+  sibling used elsewhere.
+- **Bridges:** rare lemmas found almost only inside exactly two narratives.
+- **Cognates:** Arabic roots mapped to Hebrew by regular sound
+  correspondence. They're kept only when the Strong's definition shares the
+  Arabic gloss word, except for rootless (likely loanword) lemmas, which are
+  also shown as sound-only matches.
+- **Output:** see [results/lexical/REPORT.md](results/lexical/REPORT.md).
+  Pipeline leads are written with `origin: pipeline`. Reruns refresh only
+  their evidence fields; `status` and notes are never touched.
 
 `site/index.html` is the searchable Parallels Ledger. It is generated from
 `site/template.html` and the lead files, so edit those rather than the output.

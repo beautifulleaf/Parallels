@@ -1,0 +1,27 @@
+# Narrative labels for the Hebrew Bible. Ranges are "Book c" (whole
+# chapter), "Book c-c", or "Book c:v-c:v", with OSHB book codes.
+# Law collections (most of Leviticus, the Tabernacle chapters) are left
+# unlabeled on purpose. Draft v1; review and refine.
+corpus: hebrew-bible
+narratives:
+  adam: {name: Creation and Eden, ranges: ["Gen 1-3"]}
+  cain-abel: {name: Cain and Abel, ranges: ["Gen 4"]}
+  noah: {name: Noah and the Flood, ranges: ["Gen 6-9"]}
+  babel: {name: Tower of Babel, ranges: ["Gen 11:1-11:9"]}
+  abraham: {name: Abraham, ranges: ["Gen 11:27-25:11"]}
+  lot: {name: Lot and Sodom, ranges: ["Gen 13", "Gen 18:16-19:38"]}
+  jacob: {name: Jacob, ranges: ["Gen 25:19-35:29"]}
+  joseph: {name: Joseph, ranges: ["Gen 37", "Gen 39-50"]}
+  moses: {name: Moses, Pharaoh and the Israelites, ranges: ["Exod 1-24", "Exod 32-34", "Num 10:11-25:18", "Deut 31-34"]}
+  joshua: {name: Joshua, ranges: ["Josh 1-24"]}
+  samson: {name: Samson, ranges: ["Judg 13-16"]}
+  saul: {name: Saul, ranges: ["1Sam 9-31"]}
+  david: {name: David, ranges: ["1Sam 16-31", "2Sam 1-24", "1Kgs 1:1-2:11"]}
+  solomon: {name: Solomon, ranges: ["1Kgs 1-11", "2Chr 1-9"]}
+  elijah: {name: Elijah, ranges: ["1Kgs 17:1-2Kgs 2:12"]}
+  elisha: {name: Elisha, ranges: ["2Kgs 2-13"]}
+  job: {name: Job, ranges: ["Job 1-42"]}
+  jonah: {name: Jonah, ranges: ["Jonah 1-4"]}
+  esther: {name: Esther, ranges: ["Esth 1-10"]}
+  ruth: {name: Ruth, ranges: ["Ruth 1-4"]}
+  daniel: {name: Daniel, ranges: ["Dan 1-12"]}

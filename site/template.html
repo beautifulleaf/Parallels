@@ -186,7 +186,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   const DATA = JSON.parse(document.getElementById("data").textContent);
   const TRAD = Object.fromEntries(DATA.traditions.map(t => [t.id, t]));
   const ORDER = {
-    relations: ["inheritance", "transmission", "convergence", "response"],
+    relations: ["internal", "inheritance", "transmission", "convergence", "response"],
     standing: ["established", "proposed", "contested", "fringe"],
     status: ["new", "investigating", "promising", "rejected"],
     layers: ["lexical", "motif", "concept"],

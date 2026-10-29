@@ -994,6 +994,993 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
+   "id": "quran-abraham-ragha",
+   "title": "rāgha: a turned word concentrated in Abraham",
+   "summary": "راغَ (rāgha, “turned”) occurs in 3 verses; 3 of them (100%) are in the Abraham narrative, which is 3% of the Quran, across 2 surahs. The more common same-gloss word قَلَّبُ (qallabu, 6 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "abraham"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "راغَ",
+     "translit": "rāgha",
+     "gloss": "turned"
+    },
+    {
+     "lang": "ar",
+     "form": "قَلَّبُ",
+     "translit": "qallabu",
+     "gloss": "turned (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:91"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:93"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 51:26"
+    }
+   ],
+   "evidence": [
+    "p = 2.2e-05 (hypergeometric, verse level), q = 1.1e-04."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-adam-yahbitu",
+   "title": "yahbiṭu: a down word concentrated in Adam and Iblis",
+   "summary": "يَهْبِطُ (yahbiṭu, “down”) occurs in 8 verses; 5 of them (62%) are in the Adam and Iblis narrative, which is 1% of the Quran, across 3 surahs. The more common same-gloss word نَزَّلَ (nazzala, 61 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "adam"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "يَهْبِطُ",
+     "translit": "yahbiṭu",
+     "gloss": "down"
+    },
+    {
+     "lang": "ar",
+     "form": "نَزَّلَ",
+     "translit": "nazzala",
+     "gloss": "down (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:36"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:38"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:61"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:74"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:13"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:24"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:48"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:123"
+    }
+   ],
+   "evidence": [
+    "p = 1.0e-08 (hypergeometric, verse level), q = 1.8e-07."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-asnam",
+   "title": "ʾaṣnām: a word shared by Abraham and Moses",
+   "summary": "أَصْنام (ʾaṣnām, “idol”) occurs in 5 verses, all or nearly all inside two narratives: Abraham (4) and Moses (1). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "abraham",
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "أَصْنام",
+     "translit": "ʾaṣnām",
+     "gloss": "idol"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:74"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:138"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 14:35"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 21:57"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:71"
+    }
+   ],
+   "evidence": [
+    "p = 9.0e-06 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-baqara",
+   "title": "baqara: a word shared by Joseph and Moses",
+   "summary": "بَقَرَة (baqara, “cow”) occurs in 6 verses, all or nearly all inside two narratives: Joseph (2) and Moses (4). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "joseph",
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "بَقَرَة",
+     "translit": "baqara",
+     "gloss": "cow"
+    },
+    {
+     "lang": "he",
+     "form": "בָּקָר",
+     "translit": "bâqâr",
+     "gloss": "beef cattle or an animal of the ox family of either gender (as used for plowing) (H1241, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:67"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:68"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:69"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:71"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:43"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:46"
+    }
+   ],
+   "evidence": [
+    "p = 3.9e-07 (hypergeometric, verse level).",
+    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-dayf",
+   "title": "ḍayf: a word shared by Abraham and Lot",
+   "summary": "ضَيْف (ḍayf, “guest”) occurs in 5 verses, all or nearly all inside two narratives: Abraham (2) and Lot (3). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "abraham",
+    "lot"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "ضَيْف",
+     "translit": "ḍayf",
+     "gloss": "guest"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:78"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 15:51"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 15:68"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 51:24"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 54:37"
+    }
+   ],
+   "evidence": [
+    "p = 8.1e-08 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-fitya",
+   "title": "fitya: a word shared by People of the Cave and Joseph",
+   "summary": "فِتْيَة (fitya, “youth”) occurs in 3 verses, all or nearly all inside two narratives: People of the Cave (2) and Joseph (1). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "cave",
+    "joseph"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "فِتْيَة",
+     "translit": "fitya",
+     "gloss": "youth"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:62"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 18:10"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 18:13"
+    }
+   ],
+   "evidence": [
+    "p = 6.3e-06 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-hut",
+   "title": "ḥūt: a word shared by Jonah and Moses",
+   "summary": "حُوت (ḥūt, “fish”) occurs in 5 verses, all or nearly all inside two narratives: Jonah (2) and Moses (3). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "jonah",
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "حُوت",
+     "translit": "ḥūt",
+     "gloss": "fish"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:163"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 18:61"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 18:63"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:142"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 68:48"
+    }
+   ],
+   "evidence": [
+    "p = 2.0e-06 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-raht",
+   "title": "rahṭ: a word shared by Salih and Thamud and Shuʿayb and Midian",
+   "summary": "رَهْط (rahṭ, “family”) occurs in 3 verses, all or nearly all inside two narratives: Salih and Thamud (1) and Shuʿayb and Midian (2). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "salih",
+    "shuayb"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "رَهْط",
+     "translit": "rahṭ",
+     "gloss": "family"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:91"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:92"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 27:48"
+    }
+   ],
+   "evidence": [
+    "p = 2.4e-06 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-rawadu",
+   "title": "rāwadu: a word shared by Joseph and Lot",
+   "summary": "راوَدُ (rāwadu, “seduce”) occurs in 7 verses, all or nearly all inside two narratives: Joseph (6) and Lot (1). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "joseph",
+    "lot"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "راوَدُ",
+     "translit": "rāwadu",
+     "gloss": "seduce"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:23"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:26"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:30"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:32"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:51"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 12:61"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 54:37"
+    }
+   ],
+   "evidence": [
+    "p = 7.3e-12 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-tabut",
+   "title": "tābūt: a word shared by Moses and Saul (Talut) and Goliath",
+   "summary": "تابُوت (tābūt, “ark”) occurs in 2 verses, all or nearly all inside two narratives: Moses (1) and Saul (Talut) and Goliath (1). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses",
+    "saul"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "تابُوت",
+     "translit": "tābūt",
+     "gloss": "ark"
+    },
+    {
+     "lang": "he",
+     "form": "תֵּבָה",
+     "translit": "têbâh",
+     "gloss": "a box (H8392, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:248"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:39"
+    }
+   ],
+   "evidence": [
+    "p = 5.1e-03 (hypergeometric, verse level).",
+    "The Quranic Arabic Corpus gives no root, which often marks a loanword.",
+    "Hebrew cognate תֵּבָה (H8392) is itself a rare word linking two Hebrew Bible narratives: Moses (2) and Noah and the Flood (23). Both words connect stories, and they share at least one.",
+    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-bridge-tafiqa",
+   "title": "ṭafiqa: a word shared by Adam and Iblis and Solomon",
+   "summary": "طَفِقَ (ṭafiqa, “began”) occurs in 3 verses, all or nearly all inside two narratives: Adam and Iblis (2) and Solomon (1). A rare word linking two stories.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "adam",
+    "solomon"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "طَفِقَ",
+     "translit": "ṭafiqa",
+     "gloss": "began"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:22"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:121"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 38:33"
+    }
+   ],
+   "evidence": [
+    "p = 6.8e-06 (hypergeometric, verse level)."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-lot-ghabir",
+   "title": "ghābir: a behind word concentrated in Lot",
+   "summary": "غابِر (ghābir, “behind”) occurs in 7 verses; 5 of them (71%) are in the Lot narrative, which is 1% of the Quran, across 4 surahs. The more common same-gloss word خَلْف (khalf, 22 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "lot"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "غابِر",
+     "translit": "ghābir",
+     "gloss": "behind"
+    },
+    {
+     "lang": "ar",
+     "form": "خَلْف",
+     "translit": "khalf",
+     "gloss": "behind (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:83"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 15:60"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:171"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 27:57"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 29:32"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 29:33"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:135"
+    }
+   ],
+   "evidence": [
+    "p = 2.2e-09 (hypergeometric, verse level), q = 4.5e-08."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-akhtara",
+   "title": "akhtāra: a chose word concentrated in Moses",
+   "summary": "اخْتارَ (akhtāra, “chose”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "اخْتارَ",
+     "translit": "akhtāra",
+     "gloss": "chose"
+    },
+    {
+     "lang": "ar",
+     "form": "اجْتَبَى",
+     "translit": "ajtabā",
+     "gloss": "chose (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:155"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:13"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 28:68"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 44:32"
+    }
+   ],
+   "evidence": [
+    "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-anasa",
+   "title": "ʾānasa: a perceive word concentrated in Moses",
+   "summary": "آنَسَ (ʾānasa, “perceive”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word يَشْعُرُ (yashʿuru, 25 verses) has only 8% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "آنَسَ",
+     "translit": "ʾānasa",
+     "gloss": "perceive"
+    },
+    {
+     "lang": "ar",
+     "form": "يَشْعُرُ",
+     "translit": "yashʿuru",
+     "gloss": "perceive (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 4:6"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:10"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 27:7"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 28:29"
+    }
+   ],
+   "evidence": [
+    "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-ayman",
+   "title": "ʾayman: a right word concentrated in Moses",
+   "summary": "أَيْمَن (ʾayman, “right”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word قَيِّم (qayyim, 5 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "أَيْمَن",
+     "translit": "ʾayman",
+     "gloss": "right"
+    },
+    {
+     "lang": "ar",
+     "form": "قَيِّم",
+     "translit": "qayyim",
+     "gloss": "right (common synonym)"
+    },
+    {
+     "lang": "he",
+     "form": "יְמָנִי",
+     "translit": "yᵉmânîy",
+     "gloss": "right (i.e. at the right hand) (H3233, possible cognate)"
+    },
+    {
+     "lang": "he",
+     "form": "יָמַן",
+     "translit": "yâman",
+     "gloss": "to be right-handed or take the right-hand side (H3231, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:52"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:80"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 28:30"
+    }
+   ],
+   "evidence": [
+    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.",
+    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-salwa",
+   "title": "salwā: a quail word concentrated in Moses",
+   "summary": "سَلْوَى (salwā, “quail”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "سَلْوَى",
+     "translit": "salwā",
+     "gloss": "quail"
+    },
+    {
+     "lang": "he",
+     "form": "שְׂלָו",
+     "translit": "sᵉlâv",
+     "gloss": "the quail collectively (as slow in flight from its weight) (H7958, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:57"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:160"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:80"
+    }
+   ],
+   "evidence": [
+    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03.",
+    "Hebrew cognate שְׂלָו (H7958) is also concentrated in the same narrative in the Hebrew Bible (75% of its verses).",
+    "Hebrew cognates are matched by regular sound correspondence plus a shared gloss word in Strong's definition; check them before relying on them."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-talqafu",
+   "title": "talqafu: a swallow word concentrated in Moses",
+   "summary": "تَلْقَفُ (talqafu, “swallow”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word خَسَفَ (khasafa, 8 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "تَلْقَفُ",
+     "translit": "talqafu",
+     "gloss": "swallow"
+    },
+    {
+     "lang": "ar",
+     "form": "خَسَفَ",
+     "translit": "khasafa",
+     "gloss": "swallow (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:117"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:69"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:45"
+    }
+   ],
+   "evidence": [
+    "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03."
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
    "id": "sabians-mandaeans",
    "title": "Who are the Quran's Sabians?",
    "summary": "The Quran names the Sabians (al-Ṣābiʾūn) beside Jews and Christians. Candidates include the Mandaeans, the pagans of Harran, and Elchasaite baptists.",

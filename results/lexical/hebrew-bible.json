@@ -1,0 +1,3677 @@
+{
+ "corpus": "hebrew-bible",
+ "verses": 23213,
+ "narratives": {
+  "adam": "Creation and Eden",
+  "cain-abel": "Cain and Abel",
+  "noah": "Noah and the Flood",
+  "babel": "Tower of Babel",
+  "abraham": "Abraham",
+  "lot": "Lot and Sodom",
+  "jacob": "Jacob",
+  "joseph": "Joseph",
+  "moses": "Moses",
+  "joshua": "Joshua",
+  "samson": "Samson",
+  "saul": "Saul",
+  "david": "David",
+  "solomon": "Solomon",
+  "elijah": "Elijah",
+  "elisha": "Elisha",
+  "job": "Job",
+  "jonah": "Jonah",
+  "esther": "Esther",
+  "ruth": "Ruth",
+  "daniel": "Daniel"
+ },
+ "parameters": {
+  "min_verses": 3,
+  "min_share": 0.6,
+  "min_dispersion": 2,
+  "max_q": 0.05,
+  "bridge_max_verses": 40
+ },
+ "concentration": [
+  {
+   "lemma": "H8392",
+   "n": 25,
+   "narrative": "noah",
+   "k": 23,
+   "share": 0.92,
+   "base_rate": 0.004178692973764701,
+   "dispersion": 4,
+   "p": 3.396006756858768e-54,
+   "refs": [
+    "Gen.6.14",
+    "Gen.6.15",
+    "Gen.6.16",
+    "Gen.6.18",
+    "Gen.6.19",
+    "Gen.7.1",
+    "Gen.7.7",
+    "Gen.7.9",
+    "Gen.7.13",
+    "Gen.7.15",
+    "Gen.7.17",
+    "Gen.7.18",
+    "Gen.7.23",
+    "Gen.8.1",
+    "Gen.8.4",
+    "Gen.8.6",
+    "Gen.8.9",
+    "Gen.8.10",
+    "Gen.8.13",
+    "Gen.8.16",
+    "Gen.8.19",
+    "Gen.9.10",
+    "Gen.9.18",
+    "Exod.2.3",
+    "Exod.2.5"
+   ],
+   "q": 1.344818675716072e-51,
+   "synonym_skew": [
+    {
+     "lemma": "H727",
+     "n": 174,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 98.38,
+   "form": "תֵּבָה",
+   "gloss": "a box",
+   "root": "",
+   "pos": "Nc",
+   "translit": "têbâh"
+  },
+  {
+   "lemma": "H4405",
+   "n": 38,
+   "narrative": "job",
+   "k": 34,
+   "share": 0.8947368421052632,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 21,
+   "p": 1.3664805023729767e-41,
+   "refs": [
+    "2Sam.23.2",
+    "Job.4.2",
+    "Job.4.4",
+    "Job.6.26",
+    "Job.8.10",
+    "Job.12.11",
+    "Job.13.17",
+    "Job.15.3",
+    "Job.15.13",
+    "Job.16.4",
+    "Job.18.2",
+    "Job.19.2",
+    "Job.19.23",
+    "Job.21.2",
+    "Job.23.5",
+    "Job.24.25",
+    "Job.26.4",
+    "Job.29.9",
+    "Job.29.22",
+    "Job.30.9",
+    "Job.32.11",
+    "Job.32.14",
+    "Job.32.15",
+    "Job.32.18",
+    "Job.33.1",
+    "Job.33.8",
+    "Job.33.32",
+    "Job.34.2",
+    "Job.34.3",
+    "Job.34.16",
+    "Job.35.4",
+    "Job.35.16",
+    "Job.36.2",
+    "Job.36.4",
+    "Job.38.2",
+    "Ps.19.5",
+    "Ps.139.4",
+    "Prov.23.9"
+   ],
+   "q": 1.803754263132329e-39,
+   "synonym_skew": [
+    {
+     "lemma": "H1697",
+     "n": 1290,
+     "share_in_narrative": 0.016
+    }
+   ],
+   "cross_corpus": [],
+   "score": 73.13,
+   "form": "מִלָּה",
+   "gloss": "a word",
+   "root": "",
+   "pos": "Nc",
+   "translit": "millâh"
+  },
+  {
+   "lemma": "H1881",
+   "n": 21,
+   "narrative": "esther",
+   "k": 19,
+   "share": 0.9047619047619048,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 6,
+   "p": 1.382818072390635e-39,
+   "refs": [
+    "Deut.33.2",
+    "Ezra.8.36",
+    "Esth.1.8",
+    "Esth.1.13",
+    "Esth.1.15",
+    "Esth.1.19",
+    "Esth.2.8",
+    "Esth.2.12",
+    "Esth.3.8",
+    "Esth.3.14",
+    "Esth.3.15",
+    "Esth.4.3",
+    "Esth.4.8",
+    "Esth.4.11",
+    "Esth.4.16",
+    "Esth.8.13",
+    "Esth.8.14",
+    "Esth.8.17",
+    "Esth.9.1",
+    "Esth.9.13",
+    "Esth.9.14"
+   ],
+   "q": 1.3689898916667287e-37,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 35.16,
+   "form": "דָּת",
+   "gloss": "a royal edict or statute",
+   "root": "",
+   "pos": "Nc",
+   "translit": "dâth"
+  },
+  {
+   "lemma": "H4436",
+   "n": 34,
+   "narrative": "esther",
+   "k": 24,
+   "share": 0.7058823529411765,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 7,
+   "p": 8.141489859542975e-45,
+   "refs": [
+    "1Kgs.10.1",
+    "1Kgs.10.4",
+    "1Kgs.10.10",
+    "1Kgs.10.13",
+    "2Chr.9.1",
+    "2Chr.9.3",
+    "2Chr.9.9",
+    "2Chr.9.12",
+    "Esth.1.9",
+    "Esth.1.11",
+    "Esth.1.12",
+    "Esth.1.15",
+    "Esth.1.16",
+    "Esth.1.17",
+    "Esth.1.18",
+    "Esth.2.22",
+    "Esth.4.4",
+    "Esth.5.2",
+    "Esth.5.3",
+    "Esth.5.12",
+    "Esth.7.1",
+    "Esth.7.2",
+    "Esth.7.3",
+    "Esth.7.5",
+    "Esth.7.6",
+    "Esth.7.7",
+    "Esth.7.8",
+    "Esth.8.1",
+    "Esth.8.7",
+    "Esth.9.12",
+    "Esth.9.29",
+    "Esth.9.31",
+    "Song.6.8",
+    "Song.6.9"
+   ],
+   "q": 1.612014992189509e-42,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 31.12,
+   "form": "מַלְכָּה",
+   "gloss": "a queen",
+   "root": "",
+   "pos": "Nc",
+   "translit": "malkâh"
+  },
+  {
+   "lemma": "H4082",
+   "n": 40,
+   "narrative": "esther",
+   "k": 26,
+   "share": 0.65,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 6,
+   "p": 5.318376128035008e-47,
+   "refs": [
+    "1Kgs.20.14",
+    "1Kgs.20.15",
+    "1Kgs.20.17",
+    "1Kgs.20.19",
+    "Ezra.2.1",
+    "Neh.1.3",
+    "Neh.7.6",
+    "Neh.11.3",
+    "Esth.1.1",
+    "Esth.1.3",
+    "Esth.1.16",
+    "Esth.1.22",
+    "Esth.2.3",
+    "Esth.2.18",
+    "Esth.3.8",
+    "Esth.3.12",
+    "Esth.3.13",
+    "Esth.3.14",
+    "Esth.4.3",
+    "Esth.4.11",
+    "Esth.8.5",
+    "Esth.8.9",
+    "Esth.8.11",
+    "Esth.8.12",
+    "Esth.8.13",
+    "Esth.8.17",
+    "Esth.9.2",
+    "Esth.9.3",
+    "Esth.9.4",
+    "Esth.9.12",
+    "Esth.9.16",
+    "Esth.9.20",
+    "Esth.9.28",
+    "Esth.9.30",
+    "Eccl.2.8",
+    "Eccl.5.7",
+    "Lam.1.1",
+    "Ezek.19.8",
+    "Dan.8.2",
+    "Dan.11.24"
+   ],
+   "q": 1.2636461680211178e-44,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 30.08,
+   "form": "מְדִינָה",
+   "gloss": "properly, a judgeship, i.e. jurisdiction",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mᵉdîynâh"
+  },
+  {
+   "lemma": "H433",
+   "n": 59,
+   "narrative": "job",
+   "k": 41,
+   "share": 0.6949152542372882,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 23,
+   "p": 2.2530018960481376e-41,
+   "refs": [
+    "Deut.32.15",
+    "Deut.32.17",
+    "2Kgs.17.31",
+    "2Chr.32.15",
+    "Neh.9.17",
+    "Job.3.4",
+    "Job.3.23",
+    "Job.4.9",
+    "Job.4.17",
+    "Job.5.17",
+    "Job.6.4",
+    "Job.6.8",
+    "Job.6.9",
+    "Job.9.13",
+    "Job.10.2",
+    "Job.11.5",
+    "Job.11.6",
+    "Job.11.7",
+    "Job.12.4",
+    "Job.12.6",
+    "Job.15.8",
+    "Job.16.20",
+    "Job.16.21",
+    "Job.19.6",
+    "Job.19.21",
+    "Job.19.26",
+    "Job.21.9",
+    "Job.21.19",
+    "Job.22.12",
+    "Job.22.26",
+    "Job.24.12",
+    "Job.27.3",
+    "Job.27.8",
+    "Job.27.10",
+    "Job.29.2",
+    "Job.29.4",
+    "Job.31.2",
+    "Job.31.6",
+    "Job.33.12",
+    "Job.33.26",
+    "Job.35.10",
+    "Job.36.2",
+    "Job.37.15",
+    "Job.37.22",
+    "Job.39.17",
+    "Job.40.2",
+    "Ps.18.32",
+    "Ps.18.47",
+    "Ps.50.22",
+    "Ps.114.7",
+    "Ps.139.19",
+    "Ps.143.10",
+    "Ps.145.1",
+    "Prov.30.5",
+    "Isa.44.8",
+    "Dan.11.37",
+    "Dan.11.38",
+    "Dan.11.39",
+    "Hab.3.3"
+   ],
+   "q": 2.6765662525051875e-39,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 28.25,
+   "form": "אֱלוֹהַּ",
+   "gloss": "a deity or the Deity",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼĕlôwahh"
+  },
+  {
+   "lemma": "H6622",
+   "n": 7,
+   "narrative": "joseph",
+   "k": 7,
+   "share": 1.0,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 2,
+   "p": 5.941446733361969e-13,
+   "refs": [
+    "Gen.40.8",
+    "Gen.40.16",
+    "Gen.40.22",
+    "Gen.41.8",
+    "Gen.41.12",
+    "Gen.41.13",
+    "Gen.41.15"
+   ],
+   "q": 7.756526065092329e-12,
+   "synonym_skew": [
+    {
+     "lemma": "H6491",
+     "n": 18,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H6605",
+     "n": 133,
+     "share_in_narrative": 0.03
+    },
+    {
+     "lemma": "H6601",
+     "n": 26,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H3467",
+     "n": 198,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 24.45,
+   "form": "פָּתַר",
+   "gloss": "to open up, i.e. (figuratively) interpret (a dream)",
+   "root": "",
+   "pos": "V",
+   "translit": "pâthar"
+  },
+  {
+   "lemma": "H1687",
+   "n": 16,
+   "narrative": "solomon",
+   "k": 15,
+   "share": 0.9375,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 6,
+   "p": 4.767996327860123e-23,
+   "refs": [
+    "1Kgs.6.5",
+    "1Kgs.6.16",
+    "1Kgs.6.19",
+    "1Kgs.6.20",
+    "1Kgs.6.21",
+    "1Kgs.6.22",
+    "1Kgs.6.23",
+    "1Kgs.6.31",
+    "1Kgs.7.49",
+    "1Kgs.8.6",
+    "1Kgs.8.8",
+    "2Chr.3.16",
+    "2Chr.4.20",
+    "2Chr.5.7",
+    "2Chr.5.9",
+    "Ps.28.2"
+   ],
+   "q": 2.2657518549991305e-21,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 20.93,
+   "form": "דְּבִיר",
+   "gloss": "the shrine or innermost part of the sanctuary",
+   "root": "",
+   "pos": "Nc",
+   "translit": "dᵉbîyr"
+  },
+  {
+   "lemma": "H4634",
+   "n": 18,
+   "narrative": "saul",
+   "k": 11,
+   "share": 0.6111111111111112,
+   "base_rate": 0.02722612329298238,
+   "dispersion": 2,
+   "p": 1.496707467969441e-13,
+   "refs": [
+    "Exod.39.37",
+    "Lev.24.6",
+    "Judg.6.26",
+    "1Sam.4.2",
+    "1Sam.4.12",
+    "1Sam.4.16",
+    "1Sam.17.8",
+    "1Sam.17.10",
+    "1Sam.17.20",
+    "1Sam.17.21",
+    "1Sam.17.22",
+    "1Sam.17.23",
+    "1Sam.17.26",
+    "1Sam.17.36",
+    "1Sam.17.45",
+    "1Sam.17.48",
+    "1Sam.23.3",
+    "1Chr.12.39"
+   ],
+   "q": 2.2796006050611486e-12,
+   "synonym_skew": [
+    {
+     "lemma": "H5739",
+     "n": 34,
+     "share_in_narrative": 0.029
+    }
+   ],
+   "cross_corpus": [],
+   "score": 15.67,
+   "form": "מַעֲרָכָה",
+   "gloss": "an arrangement",
+   "root": "",
+   "pos": "Nc",
+   "translit": "maʻărâkâh"
+  },
+  {
+   "lemma": "H7666",
+   "n": 20,
+   "narrative": "joseph",
+   "k": 14,
+   "share": 0.7,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 5,
+   "p": 1.1032905465511633e-20,
+   "refs": [
+    "Gen.41.56",
+    "Gen.41.57",
+    "Gen.42.2",
+    "Gen.42.3",
+    "Gen.42.5",
+    "Gen.42.6",
+    "Gen.42.7",
+    "Gen.42.10",
+    "Gen.43.2",
+    "Gen.43.4",
+    "Gen.43.20",
+    "Gen.43.22",
+    "Gen.44.25",
+    "Gen.47.14",
+    "Deut.2.6",
+    "Deut.2.28",
+    "Prov.11.26",
+    "Isa.55.1",
+    "Amos.8.5",
+    "Amos.8.6"
+   ],
+   "q": 3.855026968537594e-19,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 13.97,
+   "form": "שָׁבַר",
+   "gloss": "to deal in grain",
+   "root": "",
+   "pos": "V",
+   "translit": "shâbar"
+  },
+  {
+   "lemma": "H3447",
+   "n": 3,
+   "narrative": "esther",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 3.657386171805188e-07,
+   "refs": [
+    "Esth.4.11",
+    "Esth.5.2",
+    "Esth.8.4"
+   ],
+   "q": 1.8256196521447747e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H5628",
+     "n": 7,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 12.87,
+   "form": "יָשַׁט",
+   "gloss": "to extend",
+   "root": "",
+   "pos": "V",
+   "translit": "yâshaṭ"
+  },
+  {
+   "lemma": "H5348",
+   "n": 7,
+   "narrative": "jacob",
+   "k": 7,
+   "share": 1.0,
+   "base_rate": 0.015680868478869597,
+   "dispersion": 2,
+   "p": 2.201799583298906e-13,
+   "refs": [
+    "Gen.30.32",
+    "Gen.30.33",
+    "Gen.30.35",
+    "Gen.30.39",
+    "Gen.31.8",
+    "Gen.31.10",
+    "Gen.31.12"
+   ],
+   "q": 3.189924274340366e-12,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 12.66,
+   "form": "נָקֹד",
+   "gloss": "spotted",
+   "root": "",
+   "pos": "A",
+   "translit": "nâqôd"
+  },
+  {
+   "lemma": "H4734",
+   "n": 4,
+   "narrative": "solomon",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 5.548440666162559e-07,
+   "refs": [
+    "1Kgs.6.18",
+    "1Kgs.6.29",
+    "1Kgs.6.32",
+    "1Kgs.7.31"
+   ],
+   "q": 2.6261145463749482e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H6603",
+     "n": 11,
+     "share_in_narrative": 0.273
+    }
+   ],
+   "cross_corpus": [],
+   "score": 12.51,
+   "form": "מִקְלַעַת",
+   "gloss": "a sculpture (probably in bas-relief)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "miqlaʻath"
+  },
+  {
+   "lemma": "H7820",
+   "n": 4,
+   "narrative": "solomon",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 5.548440666162559e-07,
+   "refs": [
+    "1Kgs.10.16",
+    "1Kgs.10.17",
+    "2Chr.9.15",
+    "2Chr.9.16"
+   ],
+   "q": 2.6261145463749482e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H3913",
+     "n": 5,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 12.51,
+   "form": "שָׁחַט",
+   "gloss": "to hammer out",
+   "root": "",
+   "pos": "V",
+   "translit": "shâchaṭ"
+  },
+  {
+   "lemma": "H3805",
+   "n": 12,
+   "narrative": "solomon",
+   "k": 10,
+   "share": 0.8333333333333334,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 1.37513925892456e-14,
+   "refs": [
+    "1Kgs.7.16",
+    "1Kgs.7.17",
+    "1Kgs.7.18",
+    "1Kgs.7.19",
+    "1Kgs.7.20",
+    "1Kgs.7.31",
+    "1Kgs.7.41",
+    "1Kgs.7.42",
+    "2Kgs.25.17",
+    "2Chr.4.12",
+    "2Chr.4.13",
+    "Jer.52.22"
+   ],
+   "q": 2.438306626272205e-13,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 11.55,
+   "form": "כֹתֶרֶת",
+   "gloss": "the capital of a column",
+   "root": "",
+   "pos": "Nc",
+   "translit": "kôthereth"
+  },
+  {
+   "lemma": "H1002",
+   "n": 16,
+   "narrative": "esther",
+   "k": 10,
+   "share": 0.625,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 5,
+   "p": 2.181879195878753e-18,
+   "refs": [
+    "1Chr.29.1",
+    "1Chr.29.19",
+    "Neh.1.1",
+    "Neh.2.8",
+    "Neh.7.2",
+    "Esth.1.2",
+    "Esth.1.5",
+    "Esth.2.3",
+    "Esth.2.5",
+    "Esth.2.8",
+    "Esth.3.15",
+    "Esth.8.14",
+    "Esth.9.6",
+    "Esth.9.11",
+    "Esth.9.12",
+    "Dan.8.2"
+   ],
+   "q": 6.480181211759897e-17,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 11.04,
+   "form": "בִּירָה",
+   "gloss": "a castle or palace",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bîyrâh"
+  },
+  {
+   "lemma": "H3999",
+   "n": 12,
+   "narrative": "noah",
+   "k": 8,
+   "share": 0.6666666666666666,
+   "base_rate": 0.004178692973764701,
+   "dispersion": 3,
+   "p": 3.379057067624477e-17,
+   "refs": [
+    "Gen.6.17",
+    "Gen.7.6",
+    "Gen.7.7",
+    "Gen.7.10",
+    "Gen.7.17",
+    "Gen.9.11",
+    "Gen.9.15",
+    "Gen.9.28",
+    "Gen.10.1",
+    "Gen.10.32",
+    "Gen.11.10",
+    "Ps.29.10"
+   ],
+   "q": 8.028639592675759e-16,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 10.98,
+   "form": "מַבּוּל",
+   "gloss": "a deluge",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mabbûwl"
+  },
+  {
+   "lemma": "H6598",
+   "n": 6,
+   "narrative": "daniel",
+   "k": 6,
+   "share": 1.0,
+   "base_rate": 0.015379313315814415,
+   "dispersion": 2,
+   "p": 1.269288158322083e-11,
+   "refs": [
+    "Dan.1.5",
+    "Dan.1.8",
+    "Dan.1.13",
+    "Dan.1.15",
+    "Dan.1.16",
+    "Dan.11.26"
+   ],
+   "q": 1.3463520822202095e-10,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 10.9,
+   "form": "פַּתְבַּג",
+   "gloss": "a dainty",
+   "root": "",
+   "pos": "Nc",
+   "translit": "pathbag"
+  },
+  {
+   "lemma": "H6124",
+   "n": 6,
+   "narrative": "jacob",
+   "k": 6,
+   "share": 1.0,
+   "base_rate": 0.015680868478869597,
+   "dispersion": 2,
+   "p": 1.4272950539047374e-11,
+   "refs": [
+    "Gen.30.35",
+    "Gen.30.39",
+    "Gen.30.40",
+    "Gen.31.8",
+    "Gen.31.10",
+    "Gen.31.12"
+   ],
+   "q": 1.50055444605206e-10,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 10.85,
+   "form": "עָקֹד",
+   "gloss": "striped (with bands)",
+   "root": "",
+   "pos": "A",
+   "translit": "ʻâqôd"
+  },
+  {
+   "lemma": "H3453",
+   "n": 4,
+   "narrative": "job",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 4,
+   "p": 4.4903927671855705e-06,
+   "refs": [
+    "Job.12.12",
+    "Job.15.10",
+    "Job.29.8",
+    "Job.32.6"
+   ],
+   "q": 1.651574801057727e-05,
+   "synonym_skew": [
+    {
+     "lemma": "H2205",
+     "n": 171,
+     "share_in_narrative": 0.023
+    },
+    {
+     "lemma": "H3465",
+     "n": 5,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 10.7,
+   "form": "יָשִׁישׁ",
+   "gloss": "an old man",
+   "root": "",
+   "pos": "A",
+   "translit": "yâshîysh"
+  },
+  {
+   "lemma": "H5470",
+   "n": 6,
+   "narrative": "joseph",
+   "k": 6,
+   "share": 1.0,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 2,
+   "p": 3.3385751656548933e-11,
+   "refs": [
+    "Gen.39.20",
+    "Gen.39.21",
+    "Gen.39.22",
+    "Gen.39.23",
+    "Gen.40.3",
+    "Gen.40.5"
+   ],
+   "q": 3.3051894139983444e-10,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 10.48,
+   "form": "סֹהַר",
+   "gloss": "a dungeon (as surrounded by walls)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "çôhar"
+  },
+  {
+   "lemma": "H6854",
+   "n": 13,
+   "narrative": "moses",
+   "k": 11,
+   "share": 0.8461538461538461,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 2.0351686742471442e-12,
+   "refs": [
+    "Exod.7.27",
+    "Exod.7.28",
+    "Exod.7.29",
+    "Exod.8.1",
+    "Exod.8.2",
+    "Exod.8.3",
+    "Exod.8.4",
+    "Exod.8.5",
+    "Exod.8.7",
+    "Exod.8.8",
+    "Exod.8.9",
+    "Ps.78.45",
+    "Ps.105.30"
+   ],
+   "q": 2.3953775630837323e-11,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 9.89,
+   "form": "צְפַרְדֵּעַ",
+   "gloss": "a marsh-leaper, i.e. frog",
+   "root": "",
+   "pos": "Nc",
+   "translit": "tsᵉphardêaʻ"
+  },
+  {
+   "lemma": "H2331",
+   "n": 6,
+   "narrative": "job",
+   "k": 5,
+   "share": 0.8333333333333334,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 1.1901523525695155e-06,
+   "refs": [
+    "Job.15.17",
+    "Job.32.6",
+    "Job.32.10",
+    "Job.32.17",
+    "Job.36.2",
+    "Ps.19.3"
+   ],
+   "q": 5.032347009617468e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H2425",
+     "n": 20,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H2421",
+     "n": 239,
+     "share_in_narrative": 0.025
+    }
+   ],
+   "cross_corpus": [],
+   "score": 9.87,
+   "form": "חָוָה",
+   "gloss": "properly, to live",
+   "root": "",
+   "pos": "V",
+   "translit": "châvâh"
+  },
+  {
+   "lemma": "H590",
+   "n": 5,
+   "narrative": "solomon",
+   "k": 4,
+   "share": 0.8,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 2.713880532800919e-06,
+   "refs": [
+    "1Kgs.9.26",
+    "1Kgs.9.27",
+    "1Kgs.10.11",
+    "1Kgs.10.22",
+    "Isa.33.21"
+   ],
+   "q": 1.0501922061783361e-05,
+   "synonym_skew": [
+    {
+     "lemma": "H591",
+     "n": 28,
+     "share_in_narrative": 0.107
+    }
+   ],
+   "cross_corpus": [],
+   "score": 8.91,
+   "form": "אֳנִי",
+   "gloss": "-a ship or (collectively) a fleet",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼŏnîy"
+  },
+  {
+   "lemma": "H1765",
+   "n": 4,
+   "narrative": "esther",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 1.4552016293961276e-06,
+   "refs": [
+    "2Chr.26.20",
+    "Esth.3.15",
+    "Esth.6.12",
+    "Esth.8.14"
+   ],
+   "q": 6.002706721259026e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H6064",
+     "n": 8,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 8.76,
+   "form": "דָּחַף",
+   "gloss": "to urge, i.e. hasten",
+   "root": "",
+   "pos": "V",
+   "translit": "dâchaph"
+  },
+  {
+   "lemma": "H1594",
+   "n": 4,
+   "narrative": "esther",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 2,
+   "p": 1.4552016293961276e-06,
+   "refs": [
+    "Esth.1.5",
+    "Esth.7.7",
+    "Esth.7.8",
+    "Song.6.11"
+   ],
+   "q": 6.002706721259026e-06,
+   "synonym_skew": [
+    {
+     "lemma": "H1588",
+     "n": 37,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H3754",
+     "n": 81,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H1593",
+     "n": 12,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 8.76,
+   "form": "גִּנָּה",
+   "gloss": "a garden",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ginnâh"
+  },
+  {
+   "lemma": "H6623",
+   "n": 5,
+   "narrative": "joseph",
+   "k": 5,
+   "share": 1.0,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 2,
+   "p": 1.871537498737117e-09,
+   "refs": [
+    "Gen.40.5",
+    "Gen.40.8",
+    "Gen.40.12",
+    "Gen.40.18",
+    "Gen.41.11"
+   ],
+   "q": 1.3838420656627438e-08,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 8.73,
+   "form": "פִּתְרוֹן",
+   "gloss": "interpretation (of a dream)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "pithrôwn"
+  },
+  {
+   "lemma": "H7668",
+   "n": 9,
+   "narrative": "joseph",
+   "k": 7,
+   "share": 0.7777777777777778,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 4,
+   "p": 2.0729886418079782e-11,
+   "refs": [
+    "Gen.42.1",
+    "Gen.42.2",
+    "Gen.42.19",
+    "Gen.42.26",
+    "Gen.43.2",
+    "Gen.44.2",
+    "Gen.47.14",
+    "Neh.10.32",
+    "Amos.8.5"
+   ],
+   "q": 2.1230262986792052e-10,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 8.31,
+   "form": "שֶׁבֶר",
+   "gloss": "grain (as if broken into kernels)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sheber"
+  },
+  {
+   "lemma": "H5696",
+   "n": 5,
+   "narrative": "solomon",
+   "k": 5,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 3,
+   "p": 1.5084950064266993e-08,
+   "refs": [
+    "1Kgs.7.23",
+    "1Kgs.7.31",
+    "1Kgs.7.35",
+    "1Kgs.10.19",
+    "2Chr.4.2"
+   ],
+   "q": 1.0011687528686698e-07,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 7.82,
+   "form": "עָגֹל",
+   "gloss": "circular",
+   "root": "",
+   "pos": "A",
+   "translit": "ʻâgôl"
+  },
+  {
+   "lemma": "H4350",
+   "n": 18,
+   "narrative": "solomon",
+   "k": 11,
+   "share": 0.6111111111111112,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 1.576055659074781e-13,
+   "refs": [
+    "1Kgs.7.27",
+    "1Kgs.7.28",
+    "1Kgs.7.30",
+    "1Kgs.7.32",
+    "1Kgs.7.34",
+    "1Kgs.7.35",
+    "1Kgs.7.37",
+    "1Kgs.7.38",
+    "1Kgs.7.39",
+    "1Kgs.7.43",
+    "2Kgs.16.17",
+    "2Kgs.25.13",
+    "2Kgs.25.16",
+    "2Chr.4.14",
+    "Ezra.3.3",
+    "Jer.27.19",
+    "Jer.52.17",
+    "Jer.52.20"
+   ],
+   "q": 2.3700685101023287e-12,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 7.82,
+   "form": "מְכוֹנָה",
+   "gloss": "a pedestal, also a spot",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mᵉkôwnâh"
+  },
+  {
+   "lemma": "H5767",
+   "n": 5,
+   "narrative": "job",
+   "k": 4,
+   "share": 0.8,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 4,
+   "p": 2.1626980651302302e-05,
+   "refs": [
+    "Job.18.21",
+    "Job.27.7",
+    "Job.29.17",
+    "Job.31.3",
+    "Zeph.3.5"
+   ],
+   "q": 6.50451975031573e-05,
+   "synonym_skew": [
+    {
+     "lemma": "H7723",
+     "n": 48,
+     "share_in_narrative": 0.104
+    }
+   ],
+   "cross_corpus": [],
+   "score": 7.46,
+   "form": "עַוָּל",
+   "gloss": "evil (morally)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻavvâl"
+  },
+  {
+   "lemma": "H1055",
+   "n": 3,
+   "narrative": "esther",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 2,
+   "p": 3.657386171805188e-07,
+   "refs": [
+    "Esth.1.5",
+    "Esth.7.7",
+    "Esth.7.8"
+   ],
+   "q": 1.8256196521447747e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 6.44,
+   "form": "בִּיתָן",
+   "gloss": "a palace (i.e. large house)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bîythân"
+  },
+  {
+   "lemma": "H3804",
+   "n": 3,
+   "narrative": "esther",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 3.657386171805188e-07,
+   "refs": [
+    "Esth.1.11",
+    "Esth.2.17",
+    "Esth.6.8"
+   ],
+   "q": 1.8256196521447747e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 6.44,
+   "form": "כֶּתֶר",
+   "gloss": "properly, a circlet, i.e. a diadem",
+   "root": "",
+   "pos": "Nc",
+   "translit": "kether"
+  },
+  {
+   "lemma": "H3982",
+   "n": 3,
+   "narrative": "esther",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 3.657386171805188e-07,
+   "refs": [
+    "Esth.1.15",
+    "Esth.2.20",
+    "Esth.9.32"
+   ],
+   "q": 1.8256196521447747e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 6.44,
+   "form": "מַאֲמַר",
+   "gloss": "something (authoritatively) said, i.e. an edict",
+   "root": "",
+   "pos": "Nc",
+   "translit": "maʼămar"
+  },
+  {
+   "lemma": "H8275",
+   "n": 3,
+   "narrative": "esther",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 3.657386171805188e-07,
+   "refs": [
+    "Esth.4.11",
+    "Esth.5.2",
+    "Esth.8.4"
+   ],
+   "q": 1.8256196521447747e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 6.44,
+   "form": "שַׁרְבִיט",
+   "gloss": "a rod of empire",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sharbîyṭ"
+  },
+  {
+   "lemma": "H652",
+   "n": 8,
+   "narrative": "job",
+   "k": 5,
+   "share": 0.625,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 5,
+   "p": 1.0276112565272742e-05,
+   "refs": [
+    "Job.3.6",
+    "Job.10.22",
+    "Job.23.17",
+    "Job.28.3",
+    "Job.30.26",
+    "Ps.11.2",
+    "Ps.91.6",
+    "Isa.29.18"
+   ],
+   "q": 3.3723816926917174e-05,
+   "synonym_skew": [
+    {
+     "lemma": "H6153",
+     "n": 125,
+     "share_in_narrative": 0.016
+    }
+   ],
+   "cross_corpus": [],
+   "score": 6.24,
+   "form": "אֹפֶל",
+   "gloss": "dusk",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼôphel"
+  },
+  {
+   "lemma": "H2947",
+   "n": 4,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 7.984135884953845e-05,
+   "refs": [
+    "1Kgs.7.9",
+    "1Kgs.7.26",
+    "2Chr.4.5",
+    "Ps.39.6"
+   ],
+   "q": 0.00020181177513457803,
+   "synonym_skew": [
+    {
+     "lemma": "H2948",
+     "n": 5,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H2239",
+     "n": 5,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 6.15,
+   "form": "טֵפַח",
+   "gloss": "a spread of the hand, i.e. a palm-breadth (not 'span' of the fingers)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ṭêphach"
+  },
+  {
+   "lemma": "H2837",
+   "n": 4,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 7.984135884953845e-05,
+   "refs": [
+    "1Kgs.9.1",
+    "1Kgs.9.19",
+    "2Chr.8.6",
+    "Isa.21.4"
+   ],
+   "q": 0.00020181177513457803,
+   "synonym_skew": [
+    {
+     "lemma": "H2532",
+     "n": 18,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H4885",
+     "n": 16,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H2531",
+     "n": 6,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 6.15,
+   "form": "חֵשֶׁק",
+   "gloss": "delight",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chêsheq"
+  },
+  {
+   "lemma": "H1262",
+   "n": 7,
+   "narrative": "david",
+   "k": 6,
+   "share": 0.8571428571428571,
+   "base_rate": 0.05113513979235773,
+   "dispersion": 4,
+   "p": 1.1825766747232531e-07,
+   "refs": [
+    "1Sam.17.8",
+    "2Sam.3.35",
+    "2Sam.12.17",
+    "2Sam.13.5",
+    "2Sam.13.6",
+    "2Sam.13.10",
+    "Lam.4.10"
+   ],
+   "q": 6.754332161400118e-07,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 5.94,
+   "form": "בָּרָה",
+   "gloss": "to select",
+   "root": "",
+   "pos": "V",
+   "translit": "bârâh"
+  },
+  {
+   "lemma": "H5620",
+   "n": 3,
+   "narrative": "elijah",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.010640589324947228,
+   "dispersion": 2,
+   "p": 1.1903110351031218e-06,
+   "refs": [
+    "1Kgs.20.43",
+    "1Kgs.21.4",
+    "1Kgs.21.5"
+   ],
+   "q": 5.032347009617468e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 5.92,
+   "form": "סַר",
+   "gloss": "peevish",
+   "root": "",
+   "pos": "A",
+   "translit": "çar"
+  },
+  {
+   "lemma": "H8388",
+   "n": 6,
+   "narrative": "joshua",
+   "k": 5,
+   "share": 0.8333333333333334,
+   "base_rate": 0.028346185327187353,
+   "dispersion": 3,
+   "p": 1.0565542453091884e-07,
+   "refs": [
+    "Josh.15.9",
+    "Josh.15.11",
+    "Josh.18.14",
+    "Josh.18.17",
+    "Josh.19.13",
+    "Isa.44.13"
+   ],
+   "q": 6.063702625252732e-07,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 5.81,
+   "form": "תָּאַר",
+   "gloss": "to delineate",
+   "root": "",
+   "pos": "V",
+   "translit": "tâʼar"
+  },
+  {
+   "lemma": "H2570",
+   "n": 4,
+   "narrative": "david",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.05113513979235773,
+   "dispersion": 4,
+   "p": 6.804443861588141e-06,
+   "refs": [
+    "2Sam.2.23",
+    "2Sam.3.27",
+    "2Sam.4.6",
+    "2Sam.20.10"
+   ],
+   "q": 2.377552737519621e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 5.17,
+   "form": "חֹמֶשׁ",
+   "gloss": "the abdomen (as obese)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chômesh"
+  },
+  {
+   "lemma": "H4846",
+   "n": 4,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 2,
+   "p": 0.00037723928516583655,
+   "refs": [
+    "Deut.32.32",
+    "Job.13.26",
+    "Job.20.14",
+    "Job.20.25"
+   ],
+   "q": 0.000796640337336433,
+   "synonym_skew": [
+    {
+     "lemma": "H4805",
+     "n": 21,
+     "share_in_narrative": 0.048
+    }
+   ],
+   "cross_corpus": [],
+   "score": 5.14,
+   "form": "מְרֹרָה",
+   "gloss": "properly, bitterness",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mᵉrôrâh"
+  },
+  {
+   "lemma": "H1565",
+   "n": 4,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 0.00037723928516583655,
+   "refs": [
+    "Job.3.7",
+    "Job.15.34",
+    "Job.30.3",
+    "Isa.49.21"
+   ],
+   "q": 0.000796640337336433,
+   "synonym_skew": [
+    {
+     "lemma": "H6135",
+     "n": 11,
+     "share_in_narrative": 0.091
+    }
+   ],
+   "cross_corpus": [],
+   "score": 5.14,
+   "form": "גַּלְמוּד",
+   "gloss": "sterile (as wrapped up too hard)",
+   "root": "",
+   "pos": "A",
+   "translit": "galmûwd"
+  },
+  {
+   "lemma": "H6778",
+   "n": 4,
+   "narrative": "david",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.05113513979235773,
+   "dispersion": 3,
+   "p": 0.0005131378239112396,
+   "refs": [
+    "1Sam.25.18",
+    "1Sam.30.12",
+    "2Sam.16.1",
+    "1Chr.12.41"
+   ],
+   "q": 0.0010314851688774157,
+   "synonym_skew": [
+    {
+     "lemma": "H2471",
+     "n": 11,
+     "share_in_narrative": 0.091
+    }
+   ],
+   "cross_corpus": [],
+   "score": 4.93,
+   "form": "צַמּוּק",
+   "gloss": "a cake of dried grapes",
+   "root": "",
+   "pos": "Nc",
+   "translit": "tsammûwq"
+  },
+  {
+   "lemma": "H5572",
+   "n": 4,
+   "narrative": "moses",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 1.2082750338643093e-05,
+   "refs": [
+    "Exod.3.2",
+    "Exod.3.3",
+    "Exod.3.4",
+    "Deut.33.16"
+   ],
+   "q": 3.869085553182748e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.92,
+   "form": "סְנֶה",
+   "gloss": "a bramble",
+   "root": "",
+   "pos": "Nc",
+   "translit": "çᵉneh"
+  },
+  {
+   "lemma": "H1309",
+   "n": 6,
+   "narrative": "david",
+   "k": 5,
+   "share": 0.8333333333333334,
+   "base_rate": 0.05113513979235773,
+   "dispersion": 2,
+   "p": 1.9926782124074065e-06,
+   "refs": [
+    "2Sam.4.10",
+    "2Sam.18.20",
+    "2Sam.18.22",
+    "2Sam.18.25",
+    "2Sam.18.27",
+    "2Kgs.7.9"
+   ],
+   "q": 7.917397044615382e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.75,
+   "form": "בְּשׂוֹרָה",
+   "gloss": "glad tidings",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bᵉsôwrâh"
+  },
+  {
+   "lemma": "H2611",
+   "n": 13,
+   "narrative": "job",
+   "k": 8,
+   "share": 0.6153846153846154,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 8,
+   "p": 2.078920218552573e-08,
+   "refs": [
+    "Job.8.13",
+    "Job.13.16",
+    "Job.15.34",
+    "Job.17.8",
+    "Job.20.5",
+    "Job.27.8",
+    "Job.34.30",
+    "Job.36.13",
+    "Ps.35.16",
+    "Prov.11.9",
+    "Isa.9.16",
+    "Isa.10.6",
+    "Isa.33.14"
+   ],
+   "q": 1.3278264621722887e-07,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.73,
+   "form": "חָנֵף",
+   "gloss": "soiled (i.e. with sin), impious",
+   "root": "",
+   "pos": "A",
+   "translit": "chânêph"
+  },
+  {
+   "lemma": "H5860",
+   "n": 3,
+   "narrative": "saul",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.02722612329298238,
+   "dispersion": 3,
+   "p": 2.008858292446596e-05,
+   "refs": [
+    "1Sam.14.32",
+    "1Sam.15.19",
+    "1Sam.25.14"
+   ],
+   "q": 6.191112440617087e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.7,
+   "form": "עִיט",
+   "gloss": "to swoop down upon (literally or figuratively)",
+   "root": "",
+   "pos": "V",
+   "translit": "ʻîyṭ"
+  },
+  {
+   "lemma": "H3773",
+   "n": 3,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 2.0376472763310446e-05,
+   "refs": [
+    "1Kgs.6.36",
+    "1Kgs.7.2",
+    "1Kgs.7.12"
+   ],
+   "q": 6.191112440617087e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.69,
+   "form": "כָּרֻתָה",
+   "gloss": "something cut, i.e. a hewn timber",
+   "root": "",
+   "pos": "Nc",
+   "translit": "kâruthâh"
+  },
+  {
+   "lemma": "H3758",
+   "n": 3,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 2.0376472763310446e-05,
+   "refs": [
+    "2Chr.2.6",
+    "2Chr.2.13",
+    "2Chr.3.14"
+   ],
+   "q": 6.191112440617087e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.69,
+   "form": "כַּרְמִיל",
+   "gloss": "carmine, a deep red",
+   "root": "",
+   "pos": "Nc",
+   "translit": "karmîyl"
+  },
+  {
+   "lemma": "H418",
+   "n": 3,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 2.0376472763310446e-05,
+   "refs": [
+    "2Chr.2.7",
+    "2Chr.9.10",
+    "2Chr.9.11"
+   ],
+   "q": 6.191112440617087e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.69,
+   "form": "אַלְגּוּמִּים",
+   "gloss": "sticks of algum wood",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼalgûwmmîym"
+  },
+  {
+   "lemma": "H6363",
+   "n": 10,
+   "narrative": "moses",
+   "k": 7,
+   "share": 0.7,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 3,
+   "p": 2.518540047973086e-07,
+   "refs": [
+    "Exod.13.2",
+    "Exod.13.12",
+    "Exod.13.13",
+    "Exod.13.15",
+    "Exod.34.19",
+    "Exod.34.20",
+    "Num.3.12",
+    "Num.8.16",
+    "Num.18.15",
+    "Ezek.20.26"
+   ],
+   "q": 1.3538577271457131e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.62,
+   "form": "פֶּטֶר",
+   "gloss": "a fissure, i.e. (concretely) firstling (as opening the matrix)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "peṭer"
+  },
+  {
+   "lemma": "H3734",
+   "n": 5,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 0.00019553257633467814,
+   "refs": [
+    "1Kgs.5.2",
+    "1Kgs.5.25",
+    "2Chr.2.9",
+    "2Chr.27.5",
+    "Ezek.45.14"
+   ],
+   "q": 0.0004488531177569898,
+   "synonym_skew": [
+    {
+     "lemma": "H4688",
+     "n": 11,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 4.45,
+   "form": "כֹּר",
+   "gloss": "properly, a deep round vessel, i.e. (specifically) a cor or measure for things d",
+   "root": "",
+   "pos": "Nc",
+   "translit": "kôr"
+  },
+  {
+   "lemma": "H1552",
+   "n": 5,
+   "narrative": "joshua",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.028346185327187353,
+   "dispersion": 2,
+   "p": 0.0002172647236564773,
+   "refs": [
+    "Josh.13.2",
+    "Josh.22.10",
+    "Josh.22.11",
+    "Ezek.47.8",
+    "Joel.4.4"
+   ],
+   "q": 0.000488845628227074,
+   "synonym_skew": [
+    {
+     "lemma": "H6418",
+     "n": 9,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 4.4,
+   "form": "גְלִילָה",
+   "gloss": "a circuit or region",
+   "root": "",
+   "pos": "Nc",
+   "translit": "gᵉlîylâh"
+  },
+  {
+   "lemma": "H6572",
+   "n": 4,
+   "narrative": "esther",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 1.4552016293961276e-06,
+   "refs": [
+    "Ezra.7.11",
+    "Esth.3.14",
+    "Esth.4.8",
+    "Esth.8.13"
+   ],
+   "q": 6.002706721259026e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.38,
+   "form": "פַּרְשֶׁגֶן",
+   "gloss": "a transcript",
+   "root": "",
+   "pos": "Nc",
+   "translit": "parshegen"
+  },
+  {
+   "lemma": "H323",
+   "n": 4,
+   "narrative": "esther",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.007194244604316547,
+   "dispersion": 3,
+   "p": 1.4552016293961276e-06,
+   "refs": [
+    "Ezra.8.36",
+    "Esth.3.12",
+    "Esth.8.9",
+    "Esth.9.3"
+   ],
+   "q": 6.002706721259026e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.38,
+   "form": "אֲחַשְׁדַּרְפַּן",
+   "gloss": "a satrap or governorof amain province (of Persia)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼăchashdarpan"
+  },
+  {
+   "lemma": "H4673",
+   "n": 10,
+   "narrative": "saul",
+   "k": 6,
+   "share": 0.6,
+   "base_rate": 0.02722612329298238,
+   "dispersion": 2,
+   "p": 7.611464760601189e-08,
+   "refs": [
+    "Josh.4.3",
+    "Josh.4.9",
+    "1Sam.13.23",
+    "1Sam.14.1",
+    "1Sam.14.4",
+    "1Sam.14.6",
+    "1Sam.14.11",
+    "1Sam.14.15",
+    "2Sam.23.14",
+    "Isa.22.19"
+   ],
+   "q": 4.410936651509372e-07,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.27,
+   "form": "מַצָּב",
+   "gloss": "a fixed spot",
+   "root": "",
+   "pos": "Nc",
+   "translit": "matstsâb"
+  },
+  {
+   "lemma": "H3524",
+   "n": 9,
+   "narrative": "job",
+   "k": 6,
+   "share": 0.6666666666666666,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 5,
+   "p": 7.049937161257629e-07,
+   "refs": [
+    "Job.8.2",
+    "Job.15.10",
+    "Job.31.25",
+    "Job.34.17",
+    "Job.34.24",
+    "Job.36.5",
+    "Isa.16.14",
+    "Isa.17.12",
+    "Isa.28.2"
+   ],
+   "q": 3.206233984735145e-06,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 4.1,
+   "form": "כַּבִּיר",
+   "gloss": "vast, whether in extent (figuratively, of power, mighty",
+   "root": "",
+   "pos": "A",
+   "translit": "kabbîyr"
+  },
+  {
+   "lemma": "H7415",
+   "n": 7,
+   "narrative": "job",
+   "k": 5,
+   "share": 0.7142857142857143,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 5,
+   "p": 4.006413691422876e-06,
+   "refs": [
+    "Exod.16.24",
+    "Job.7.5",
+    "Job.17.14",
+    "Job.21.26",
+    "Job.24.20",
+    "Job.25.6",
+    "Isa.14.11"
+   ],
+   "q": 1.4781426911212349e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.86,
+   "form": "רִמָּה",
+   "gloss": "a maggot (as rapidly bred), literally or figuratively",
+   "root": "",
+   "pos": "Nc",
+   "translit": "rimmâh"
+  },
+  {
+   "lemma": "H7267",
+   "n": 7,
+   "narrative": "job",
+   "k": 5,
+   "share": 0.7142857142857143,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 4,
+   "p": 4.006413691422876e-06,
+   "refs": [
+    "Job.3.17",
+    "Job.3.26",
+    "Job.14.1",
+    "Job.37.2",
+    "Job.39.24",
+    "Isa.14.3",
+    "Hab.3.2"
+   ],
+   "q": 1.4781426911212349e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.86,
+   "form": "רֹגֶז",
+   "gloss": "commotion, restlessness (of a horse), crash (of thunder), disquiet, anger",
+   "root": "",
+   "pos": "Nc",
+   "translit": "rôgez"
+  },
+  {
+   "lemma": "H5243",
+   "n": 5,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 0.0009106577419024489,
+   "refs": [
+    "Gen.17.11",
+    "Job.14.2",
+    "Job.18.16",
+    "Job.24.24",
+    "Ps.37.2"
+   ],
+   "q": 0.0016904084334064206,
+   "synonym_skew": [
+    {
+     "lemma": "H2029",
+     "n": 42,
+     "share_in_narrative": 0.048
+    },
+    {
+     "lemma": "H7937",
+     "n": 19,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "H3835",
+     "n": 8,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 3.65,
+   "form": "נָמַל",
+   "gloss": "to become clipped or (specifically) circumcised",
+   "root": "",
+   "pos": "V",
+   "translit": "nâmal"
+  },
+  {
+   "lemma": "H8503",
+   "n": 5,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 0.0009106577419024489,
+   "refs": [
+    "Neh.3.21",
+    "Job.11.7",
+    "Job.26.10",
+    "Job.28.3",
+    "Ps.139.22"
+   ],
+   "q": 0.0016904084334064206,
+   "synonym_skew": [
+    {
+     "lemma": "H3617",
+     "n": 19,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cross_corpus": [],
+   "score": 3.65,
+   "form": "תַּכְלִית",
+   "gloss": "completion",
+   "root": "",
+   "pos": "Nc",
+   "translit": "taklîyth"
+  },
+  {
+   "lemma": "H7172",
+   "n": 6,
+   "narrative": "solomon",
+   "k": 4,
+   "share": 0.6666666666666666,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 7.96471712971493e-06,
+   "refs": [
+    "Num.5.17",
+    "1Kgs.6.15",
+    "1Kgs.6.16",
+    "1Kgs.6.30",
+    "1Kgs.7.7",
+    "Amos.9.3"
+   ],
+   "q": 2.695750413134284e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.4,
+   "form": "קַרְקַע",
+   "gloss": "floor (as if a pavement of pieces or tesseroe), of abuilding or the sea",
+   "root": "",
+   "pos": "Nc",
+   "translit": "qarqaʻ"
+  },
+  {
+   "lemma": "H794",
+   "n": 6,
+   "narrative": "joshua",
+   "k": 4,
+   "share": 0.6666666666666666,
+   "base_rate": 0.028346185327187353,
+   "dispersion": 3,
+   "p": 9.171058094076342e-06,
+   "refs": [
+    "Deut.3.17",
+    "Deut.4.49",
+    "Josh.10.40",
+    "Josh.12.3",
+    "Josh.12.8",
+    "Josh.13.20"
+   ],
+   "q": 3.051881517020363e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.36,
+   "form": "אֲשֵׁדָה",
+   "gloss": "a ravine",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼăshêdâh"
+  },
+  {
+   "lemma": "H3843",
+   "n": 10,
+   "narrative": "moses",
+   "k": 6,
+   "share": 0.6,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 7.145364240551532e-06,
+   "refs": [
+    "Gen.11.3",
+    "Exod.1.14",
+    "Exod.5.7",
+    "Exod.5.8",
+    "Exod.5.16",
+    "Exod.5.18",
+    "Exod.5.19",
+    "Isa.9.9",
+    "Isa.65.3",
+    "Ezek.4.1"
+   ],
+   "q": 2.451824369185318e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.09,
+   "form": "לְבֵנָה",
+   "gloss": "a brick (from the whiteness of the clay)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "lᵉbênâh"
+  },
+  {
+   "lemma": "H2748",
+   "n": 10,
+   "narrative": "moses",
+   "k": 6,
+   "share": 0.6,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 3,
+   "p": 7.145364240551532e-06,
+   "refs": [
+    "Gen.41.8",
+    "Gen.41.24",
+    "Exod.7.11",
+    "Exod.7.22",
+    "Exod.8.3",
+    "Exod.8.14",
+    "Exod.8.15",
+    "Exod.9.11",
+    "Dan.1.20",
+    "Dan.2.2"
+   ],
+   "q": 2.451824369185318e-05,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 3.09,
+   "form": "חַרְטֹם",
+   "gloss": "a horoscopist (as drawing magical lines or circles)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "charṭôm"
+  },
+  {
+   "lemma": "H2141",
+   "n": 4,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 0.00037723928516583655,
+   "refs": [
+    "Job.9.30",
+    "Job.15.15",
+    "Job.25.5",
+    "Lam.4.7"
+   ],
+   "q": 0.000796640337336433,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.57,
+   "form": "זָכַךְ",
+   "gloss": "to be transparent or clean (phys. or morally)",
+   "root": "",
+   "pos": "V",
+   "translit": "zâkak"
+  },
+  {
+   "lemma": "H502",
+   "n": 4,
+   "narrative": "job",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.04609486063843536,
+   "dispersion": 3,
+   "p": 0.00037723928516583655,
+   "refs": [
+    "Job.15.5",
+    "Job.33.33",
+    "Job.35.11",
+    "Prov.22.25"
+   ],
+   "q": 0.000796640337336433,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.57,
+   "form": "אָלַף",
+   "gloss": "hence, to learn (and causatively to teach)",
+   "root": "",
+   "pos": "V",
+   "translit": "ʼâlaph"
+  },
+  {
+   "lemma": "H611",
+   "n": 5,
+   "narrative": "joseph",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.01805023047430319,
+   "dispersion": 2,
+   "p": 5.683798437136992e-05,
+   "refs": [
+    "Gen.42.4",
+    "Gen.42.38",
+    "Gen.44.29",
+    "Exod.21.22",
+    "Exod.21.23"
+   ],
+   "q": 0.00015276815708865942,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.55,
+   "form": "אָסוֹן",
+   "gloss": "hurt",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼâçôwn"
+  },
+  {
+   "lemma": "H24",
+   "n": 6,
+   "narrative": "moses",
+   "k": 4,
+   "share": 0.6666666666666666,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 4,
+   "p": 0.00016459196829624322,
+   "refs": [
+    "Exod.9.31",
+    "Exod.13.4",
+    "Exod.23.15",
+    "Exod.34.18",
+    "Lev.2.14",
+    "Deut.16.1"
+   ],
+   "q": 0.0003887380881430158,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.52,
+   "form": "אָבִיב",
+   "gloss": "green, i.e. a young ear of grain",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼâbîyb"
+  },
+  {
+   "lemma": "H3536",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 0.0007843534618061323,
+   "refs": [
+    "Gen.19.28",
+    "Exod.9.8",
+    "Exod.9.10",
+    "Exod.19.18"
+   ],
+   "q": 0.001469734877958494,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.33,
+   "form": "כִּבְשָׁן",
+   "gloss": "a smelting furnace (as reducing metals)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "kibshân"
+  },
+  {
+   "lemma": "H3986",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 3,
+   "p": 0.0007843534618061323,
+   "refs": [
+    "Exod.7.27",
+    "Exod.9.2",
+    "Exod.10.4",
+    "Jer.38.21"
+   ],
+   "q": 0.001469734877958494,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.33,
+   "form": "מָאֵן",
+   "gloss": "unwilling",
+   "root": "",
+   "pos": "V",
+   "translit": "mâʼên"
+  },
+  {
+   "lemma": "H7958",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 0.0007843534618061323,
+   "refs": [
+    "Exod.16.13",
+    "Num.11.31",
+    "Num.11.32",
+    "Ps.105.40"
+   ],
+   "q": 0.001469734877958494,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.33,
+   "form": "שְׂלָו",
+   "gloss": "the quail collectively (as slow in flight from its weight)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sᵉlâv"
+  },
+  {
+   "lemma": "H7256",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 3,
+   "p": 0.0007843534618061323,
+   "refs": [
+    "Exod.20.5",
+    "Exod.34.7",
+    "Num.14.18",
+    "Deut.5.9"
+   ],
+   "q": 0.001469734877958494,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.33,
+   "form": "רִבֵּעַ",
+   "gloss": "a descendant of the fourth generation, i.e. great great grandchild",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ribbêaʻ"
+  },
+  {
+   "lemma": "H8333",
+   "n": 5,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 0.00019553257633467814,
+   "refs": [
+    "Exod.28.14",
+    "Exod.39.15",
+    "1Kgs.7.17",
+    "2Chr.3.5",
+    "2Chr.3.16"
+   ],
+   "q": 0.0004488531177569898,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.23,
+   "form": "שַׁרְשְׁרָה",
+   "gloss": "a chain",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sharshᵉrâh"
+  },
+  {
+   "lemma": "H5449",
+   "n": 5,
+   "narrative": "solomon",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.027355361220006032,
+   "dispersion": 2,
+   "p": 0.00019553257633467814,
+   "refs": [
+    "1Kgs.5.29",
+    "2Chr.2.1",
+    "2Chr.2.17",
+    "2Chr.34.13",
+    "Neh.4.4"
+   ],
+   "q": 0.0004488531177569898,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 2.23,
+   "form": "סַבָּל",
+   "gloss": "a porter",
+   "root": "",
+   "pos": "Nc",
+   "translit": "çabbâl"
+  },
+  {
+   "lemma": "H7039",
+   "n": 5,
+   "narrative": "david",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.05113513979235773,
+   "dispersion": 3,
+   "p": 0.0012338922314407653,
+   "refs": [
+    "Lev.23.14",
+    "Ruth.2.14",
+    "1Sam.17.17",
+    "1Sam.25.18",
+    "2Sam.17.28"
+   ],
+   "q": 0.0022043067232355327,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 1.75,
+   "form": "קָלִי",
+   "gloss": "roasted ears of grain",
+   "root": "",
+   "pos": "Nc",
+   "translit": "qâlîy"
+  },
+  {
+   "lemma": "H8029",
+   "n": 5,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 3,
+   "p": 0.001874529915806232,
+   "refs": [
+    "Gen.50.23",
+    "Exod.20.5",
+    "Exod.34.7",
+    "Num.14.18",
+    "Deut.5.9"
+   ],
+   "q": 0.003195038077443047,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 1.64,
+   "form": "שִׁלֵּשׁ",
+   "gloss": "a descendant of the third degree, i.e. great grandchild",
+   "root": "",
+   "pos": "Nc",
+   "translit": "shillêsh"
+  },
+  {
+   "lemma": "H7603",
+   "n": 5,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.05901865334080041,
+   "dispersion": 2,
+   "p": 0.001874529915806232,
+   "refs": [
+    "Exod.12.15",
+    "Exod.12.19",
+    "Exod.13.7",
+    "Lev.2.11",
+    "Deut.16.4"
+   ],
+   "q": 0.003195038077443047,
+   "synonym_skew": [],
+   "cross_corpus": [],
+   "score": 1.64,
+   "form": "שְׂאֹר",
+   "gloss": "barm or yeast-cake (as swelling by fermentation)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "sᵉʼôr"
+  }
+ ],
+ "bridges": [
+  {
+   "lemma": "H4436",
+   "n": 34,
+   "narratives": [
+    "esther",
+    "solomon"
+   ],
+   "counts": [
+    24,
+    8
+   ],
+   "p": 4.873146192901213e-45,
+   "refs": [
+    "1Kgs.10.1",
+    "1Kgs.10.4",
+    "1Kgs.10.10",
+    "1Kgs.10.13",
+    "2Chr.9.1",
+    "2Chr.9.3",
+    "2Chr.9.9",
+    "2Chr.9.12",
+    "Esth.1.9",
+    "Esth.1.11",
+    "Esth.1.12",
+    "Esth.1.15",
+    "Esth.1.16",
+    "Esth.1.17",
+    "Esth.1.18",
+    "Esth.2.22",
+    "Esth.4.4",
+    "Esth.5.2",
+    "Esth.5.3",
+    "Esth.5.12",
+    "Esth.7.1",
+    "Esth.7.2",
+    "Esth.7.3",
+    "Esth.7.5",
+    "Esth.7.6",
+    "Esth.7.7",
+    "Esth.7.8",
+    "Esth.8.1",
+    "Esth.8.7",
+    "Esth.9.12",
+    "Esth.9.29",
+    "Esth.9.31",
+    "Song.6.8",
+    "Song.6.9"
+   ],
+   "form": "מַלְכָּה",
+   "gloss": "a queen",
+   "root": "",
+   "pos": "Nc",
+   "translit": "malkâh"
+  },
+  {
+   "lemma": "H4405",
+   "n": 38,
+   "narratives": [
+    "david",
+    "job"
+   ],
+   "counts": [
+    1,
+    34
+   ],
+   "p": 1.8524212735260847e-32,
+   "refs": [
+    "2Sam.23.2",
+    "Job.4.2",
+    "Job.4.4",
+    "Job.6.26",
+    "Job.8.10",
+    "Job.12.11",
+    "Job.13.17",
+    "Job.15.3",
+    "Job.15.13",
+    "Job.16.4",
+    "Job.18.2",
+    "Job.19.2",
+    "Job.19.23",
+    "Job.21.2",
+    "Job.23.5",
+    "Job.24.25",
+    "Job.26.4",
+    "Job.29.9",
+    "Job.29.22",
+    "Job.30.9",
+    "Job.32.11",
+    "Job.32.14",
+    "Job.32.15",
+    "Job.32.18",
+    "Job.33.1",
+    "Job.33.8",
+    "Job.33.32",
+    "Job.34.2",
+    "Job.34.3",
+    "Job.34.16",
+    "Job.35.4",
+    "Job.35.16",
+    "Job.36.2",
+    "Job.36.4",
+    "Job.38.2",
+    "Ps.19.5",
+    "Ps.139.4",
+    "Prov.23.9"
+   ],
+   "form": "מִלָּה",
+   "gloss": "a word",
+   "root": "",
+   "pos": "Nc",
+   "translit": "millâh"
+  },
+  {
+   "lemma": "H8392",
+   "n": 25,
+   "narratives": [
+    "moses",
+    "noah"
+   ],
+   "counts": [
+    2,
+    23
+   ],
+   "p": 8.585674295557651e-31,
+   "refs": [
+    "Gen.6.14",
+    "Gen.6.15",
+    "Gen.6.16",
+    "Gen.6.18",
+    "Gen.6.19",
+    "Gen.7.1",
+    "Gen.7.7",
+    "Gen.7.9",
+    "Gen.7.13",
+    "Gen.7.15",
+    "Gen.7.17",
+    "Gen.7.18",
+    "Gen.7.23",
+    "Gen.8.1",
+    "Gen.8.4",
+    "Gen.8.6",
+    "Gen.8.9",
+    "Gen.8.10",
+    "Gen.8.13",
+    "Gen.8.16",
+    "Gen.8.19",
+    "Gen.9.10",
+    "Gen.9.18",
+    "Exod.2.3",
+    "Exod.2.5"
+   ],
+   "form": "תֵּבָה",
+   "gloss": "a box",
+   "root": "",
+   "pos": "Nc",
+   "translit": "têbâh"
+  },
+  {
+   "lemma": "H1881",
+   "n": 21,
+   "narratives": [
+    "esther",
+    "moses"
+   ],
+   "counts": [
+    19,
+    1
+   ],
+   "p": 4.60022667630349e-23,
+   "refs": [
+    "Deut.33.2",
+    "Ezra.8.36",
+    "Esth.1.8",
+    "Esth.1.13",
+    "Esth.1.15",
+    "Esth.1.19",
+    "Esth.2.8",
+    "Esth.2.12",
+    "Esth.3.8",
+    "Esth.3.14",
+    "Esth.3.15",
+    "Esth.4.3",
+    "Esth.4.8",
+    "Esth.4.11",
+    "Esth.4.16",
+    "Esth.8.13",
+    "Esth.8.14",
+    "Esth.8.17",
+    "Esth.9.1",
+    "Esth.9.13",
+    "Esth.9.14"
+   ],
+   "form": "דָּת",
+   "gloss": "a royal edict or statute",
+   "root": "",
+   "pos": "Nc",
+   "translit": "dâth"
+  },
+  {
+   "lemma": "H7652",
+   "n": 10,
+   "narratives": [
+    "david",
+    "joshua"
+   ],
+   "counts": [
+    8,
+    1
+   ],
+   "p": 1.1547529514951898e-09,
+   "refs": [
+    "Josh.19.2",
+    "2Sam.20.1",
+    "2Sam.20.2",
+    "2Sam.20.6",
+    "2Sam.20.7",
+    "2Sam.20.10",
+    "2Sam.20.13",
+    "2Sam.20.21",
+    "2Sam.20.22",
+    "1Chr.5.13"
+   ],
+   "form": "שֶׁבַע",
+   "gloss": "Sheba, the name of a place in Palestine, and of two Israelites",
+   "root": "",
+   "pos": "A",
+   "translit": "shebaʻ"
+  },
+  {
+   "lemma": "H1067",
+   "n": 6,
+   "narratives": [
+    "jacob",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 6.150301539136394e-09,
+   "refs": [
+    "Gen.19.31",
+    "Gen.19.33",
+    "Gen.19.34",
+    "Gen.19.37",
+    "Gen.29.26",
+    "1Sam.14.49"
+   ],
+   "form": "בְּכִירָה",
+   "gloss": "the eldest daughter",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bᵉkîyrâh"
+  },
+  {
+   "lemma": "H1309",
+   "n": 6,
+   "narratives": [
+    "david",
+    "elisha"
+   ],
+   "counts": [
+    5,
+    1
+   ],
+   "p": 8.188197208184671e-08,
+   "refs": [
+    "2Sam.4.10",
+    "2Sam.18.20",
+    "2Sam.18.22",
+    "2Sam.18.25",
+    "2Sam.18.27",
+    "2Kgs.7.9"
+   ],
+   "form": "בְּשׂוֹרָה",
+   "gloss": "glad tidings",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bᵉsôwrâh"
+  },
+  {
+   "lemma": "H225",
+   "n": 4,
+   "narratives": [
+    "elisha",
+    "jacob"
+   ],
+   "counts": [
+    1,
+    3
+   ],
+   "p": 8.631589586366008e-07,
+   "refs": [
+    "Gen.34.15",
+    "Gen.34.22",
+    "Gen.34.23",
+    "2Kgs.12.9"
+   ],
+   "form": "אוּת",
+   "gloss": "properly, to come, i.e. (implied) to assent",
+   "root": "",
+   "pos": "V",
+   "translit": "ʼûwth"
+  },
+  {
+   "lemma": "H6446",
+   "n": 5,
+   "narratives": [
+    "david",
+    "joseph"
+   ],
+   "counts": [
+    2,
+    3
+   ],
+   "p": 1.575983701829889e-06,
+   "refs": [
+    "Gen.37.3",
+    "Gen.37.23",
+    "Gen.37.32",
+    "2Sam.13.18",
+    "2Sam.13.19"
+   ],
+   "form": "פַּס",
+   "gloss": "a long and sleeved tunic (perhaps simply a wide one",
+   "root": "",
+   "pos": "Nc",
+   "translit": "paç"
+  },
+  {
+   "lemma": "H611",
+   "n": 5,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    3,
+    2
+   ],
+   "p": 2.704910057335358e-06,
+   "refs": [
+    "Gen.42.4",
+    "Gen.42.38",
+    "Gen.44.29",
+    "Exod.21.22",
+    "Exod.21.23"
+   ],
+   "form": "אָסוֹן",
+   "gloss": "hurt",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼâçôwn"
+  },
+  {
+   "lemma": "H492",
+   "n": 3,
+   "narratives": [
+    "elisha",
+    "ruth"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 6.312942474403017e-06,
+   "refs": [
+    "Ruth.4.1",
+    "1Sam.21.3",
+    "2Kgs.6.8"
+   ],
+   "form": "אַלְמֹנִי",
+   "gloss": "some one (i.e. so and so, without giving the name of the person or place)",
+   "root": "",
+   "pos": "A",
+   "translit": "ʼalmônîy"
+  },
+  {
+   "lemma": "H6579",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "esther"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 1.1438413544682688e-05,
+   "refs": [
+    "Esth.1.3",
+    "Esth.6.9",
+    "Dan.1.3"
+   ],
+   "form": "פַּרְתַּם",
+   "gloss": "a grandee",
+   "root": "",
+   "pos": "Nc",
+   "translit": "partam"
+  },
+  {
+   "lemma": "H8633",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "esther"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 1.1438413544682688e-05,
+   "refs": [
+    "Esth.9.29",
+    "Esth.10.2",
+    "Dan.11.17"
+   ],
+   "form": "תֹּקֶף",
+   "gloss": "might or (figuratively) positiveness",
+   "root": "",
+   "pos": "Nc",
+   "translit": "tôqeph"
+  },
+  {
+   "lemma": "H1457",
+   "n": 3,
+   "narratives": [
+    "elijah",
+    "elisha"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 1.5520178464470602e-05,
+   "refs": [
+    "1Kgs.18.42",
+    "2Kgs.4.34",
+    "2Kgs.4.35"
+   ],
+   "form": "גָּהַר",
+   "gloss": "to prostrate oneself",
+   "root": "",
+   "pos": "V",
+   "translit": "gâhar"
+  },
+  {
+   "lemma": "H7095",
+   "n": 3,
+   "narratives": [
+    "jonah",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 2.5363810826560296e-05,
+   "refs": [
+    "1Kgs.6.25",
+    "1Kgs.7.37",
+    "Jonah.2.7"
+   ],
+   "form": "קֶצֶב",
+   "gloss": "shape (as if cut out)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "qetseb"
+  },
+  {
+   "lemma": "H6378",
+   "n": 3,
+   "narratives": [
+    "elisha",
+    "saul"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 7.433807524980611e-05,
+   "refs": [
+    "1Sam.10.1",
+    "2Kgs.9.1",
+    "2Kgs.9.3"
+   ],
+   "form": "פַּךְ",
+   "gloss": "a flask (from which a liquid may flow)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "pak"
+  },
+  {
+   "lemma": "H4846",
+   "n": 4,
+   "narratives": [
+    "job",
+    "moses"
+   ],
+   "counts": [
+    3,
+    1
+   ],
+   "p": 0.0001218086224676892,
+   "refs": [
+    "Deut.32.32",
+    "Job.13.26",
+    "Job.20.14",
+    "Job.20.25"
+   ],
+   "form": "מְרֹרָה",
+   "gloss": "properly, bitterness",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mᵉrôrâh"
+  },
+  {
+   "lemma": "H5587",
+   "n": 3,
+   "narratives": [
+    "elijah",
+    "job"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.00018223413605630487,
+   "refs": [
+    "1Kgs.18.21",
+    "Job.4.13",
+    "Job.20.2"
+   ],
+   "form": "סָעִף",
+   "gloss": "divided (in mind), i.e. (abstractly) a sentiment",
+   "root": "",
+   "pos": "Nc",
+   "translit": "çâʻiph"
+  },
+  {
+   "lemma": "H260",
+   "n": 3,
+   "narratives": [
+    "job",
+    "joseph"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.000263433445791908,
+   "refs": [
+    "Gen.41.2",
+    "Gen.41.18",
+    "Job.8.11"
+   ],
+   "form": "אָחוּ",
+   "gloss": "a bulrush or any marshy grass (particularly that along the Nile)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼâchûw"
+  },
+  {
+   "lemma": "H4165",
+   "n": 3,
+   "narratives": [
+    "job",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.00039561334852999226,
+   "refs": [
+    "1Kgs.7.23",
+    "1Kgs.7.37",
+    "Job.38.38"
+   ],
+   "form": "מוּצָק",
+   "gloss": "properly, fusion, i.e. literally, a casting (of metal)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "mûwtsâq"
+  },
+  {
+   "lemma": "H4119",
+   "n": 3,
+   "narratives": [
+    "jacob",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.000416157627220237,
+   "refs": [
+    "Gen.34.12",
+    "Exod.22.16",
+    "1Sam.18.25"
+   ],
+   "form": "מֹהַר",
+   "gloss": "a price (for a wife)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "môhar"
+  },
+  {
+   "lemma": "H7305",
+   "n": 2,
+   "narratives": [
+    "esther",
+    "jacob"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0005223078551693618,
+   "refs": [
+    "Gen.32.17",
+    "Esth.4.14"
+   ],
+   "form": "רֶוַח",
+   "gloss": "room, literally (an interval) or figuratively (deliverance)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "revach"
+  },
+  {
+   "lemma": "H2794",
+   "n": 2,
+   "narratives": [
+    "cain-abel",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0008096579074585862,
+   "refs": [
+    "Gen.4.22",
+    "1Kgs.7.14"
+   ],
+   "form": "חֹרֵשׁ",
+   "gloss": "a fabricator or mechanic",
+   "root": "",
+   "pos": "V",
+   "translit": "chôrêsh"
+  },
+  {
+   "lemma": "H8268",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "jacob"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0010176679433733038,
+   "refs": [
+    "Gen.24.20",
+    "Gen.30.38"
+   ],
+   "form": "שֹׁקֶת",
+   "gloss": "a trough (for watering)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "shôqeth"
+  },
+  {
+   "lemma": "H6414",
+   "n": 3,
+   "narratives": [
+    "job",
+    "moses"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.0011601059201975916,
+   "refs": [
+    "Exod.21.22",
+    "Deut.32.31",
+    "Job.31.11"
+   ],
+   "form": "פָּלִיל",
+   "gloss": "a magistrate",
+   "root": "",
+   "pos": "Nc",
+   "translit": "pâlîyl"
+  },
+  {
+   "lemma": "H3455",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "joseph"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0011744549511716427,
+   "refs": [
+    "Gen.24.33",
+    "Gen.50.26"
+   ],
+   "form": "יָשַׂם",
+   "gloss": "to place",
+   "root": "",
+   "pos": "V",
+   "translit": "yâsam"
+  },
+  {
+   "lemma": "H2185",
+   "n": 2,
+   "narratives": [
+    "elijah",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0014421175439608214,
+   "refs": [
+    "1Kgs.3.16",
+    "1Kgs.22.38"
+   ],
+   "form": "זֹנוֹת",
+   "gloss": "harlots",
+   "root": "",
+   "pos": "V",
+   "translit": "zônôwth"
+  },
+  {
+   "lemma": "H108",
+   "n": 2,
+   "narratives": [
+    "adam",
+    "job"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0024523024710508966,
+   "refs": [
+    "Gen.2.6",
+    "Job.36.27"
+   ],
+   "form": "אֵד",
+   "gloss": "a fog",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼêd"
+  },
+  {
+   "lemma": "H708",
+   "n": 2,
+   "narratives": [
+    "job",
+    "samson"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.002521045259508025,
+   "refs": [
+    "Judg.16.14",
+    "Job.7.6"
+   ],
+   "form": "אֶרֶג",
+   "gloss": "a weaving",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʼereg"
+  },
+  {
+   "lemma": "H1982",
+   "n": 2,
+   "narratives": [
+    "david",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0035883772692716473,
+   "refs": [
+    "1Sam.14.26",
+    "2Sam.12.4"
+   ],
+   "form": "הֵלֶךְ",
+   "gloss": "properly, a journey, i.e. (by implication) a wayfarer",
+   "root": "",
+   "pos": "Nc",
+   "translit": "hêlek"
+  },
+  {
+   "lemma": "H5657",
+   "n": 2,
+   "narratives": [
+    "jacob",
+    "job"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0038137437457266095,
+   "refs": [
+    "Gen.26.14",
+    "Job.1.3"
+   ],
+   "form": "עֲבֻדָּה",
+   "gloss": "something wrought, i.e. (concretely) service",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻăbuddâh"
+  },
+  {
+   "lemma": "H916",
+   "n": 2,
+   "narratives": [
+    "adam",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.003899353015329954,
+   "refs": [
+    "Gen.2.12",
+    "Num.11.7"
+   ],
+   "form": "בְּדֹלַח",
+   "gloss": "something in pieces, i.e. bdellium, a (fragrant) gum (perhaps amber)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "bᵉdôlach"
+  },
+  {
+   "lemma": "H3858",
+   "n": 2,
+   "narratives": [
+    "adam",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.003899353015329954,
+   "refs": [
+    "Gen.3.24",
+    "Exod.7.11"
+   ],
+   "form": "לַהַט",
+   "gloss": "a blaze",
+   "root": "",
+   "pos": "Nc",
+   "translit": "lahaṭ"
+  },
+  {
+   "lemma": "H5303",
+   "n": 2,
+   "narratives": [
+    "moses",
+    "noah"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.003991354028007533,
+   "refs": [
+    "Gen.6.4",
+    "Num.13.33"
+   ],
+   "form": "נְפִיל",
+   "gloss": "properly, a feller, i.e. a bully or tyrant",
+   "root": "",
+   "pos": "Nc",
+   "translit": "nᵉphîyl"
+  },
+  {
+   "lemma": "H6339",
+   "n": 2,
+   "narratives": [
+    "david",
+    "joseph"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.004783841085594548,
+   "refs": [
+    "Gen.49.24",
+    "2Sam.6.16"
+   ],
+   "form": "פָּזַז",
+   "gloss": "to solidify (as if by refining)",
+   "root": "",
+   "pos": "V",
+   "translit": "pâzaz"
+  },
+  {
+   "lemma": "H7867",
+   "n": 2,
+   "narratives": [
+    "job",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005373039534226468,
+   "refs": [
+    "1Sam.12.2",
+    "Job.15.10"
+   ],
+   "form": "שִׂיב",
+   "gloss": "properly, to become aged, i.e. (by implication) to grow gray",
+   "root": "",
+   "pos": "V",
+   "translit": "sîyb"
+  },
+  {
+   "lemma": "H4551",
+   "n": 2,
+   "narratives": [
+    "job",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0053920031900771105,
+   "refs": [
+    "1Kgs.6.7",
+    "Job.41.18"
+   ],
+   "form": "מַסָּע",
+   "gloss": "a missile (spear or arrow)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "maççâʻ"
+  },
+  {
+   "lemma": "H7255",
+   "n": 2,
+   "narratives": [
+    "elisha",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005455456644095846,
+   "refs": [
+    "Num.23.10",
+    "2Kgs.6.25"
+   ],
+   "form": "רֹבַע",
+   "gloss": "a quarter",
+   "root": "",
+   "pos": "Nc",
+   "translit": "rôbaʻ"
+  },
+  {
+   "lemma": "H2525",
+   "n": 2,
+   "narratives": [
+    "job",
+    "joshua"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005538501050469064,
+   "refs": [
+    "Josh.9.12",
+    "Job.37.17"
+   ],
+   "form": "חָם",
+   "gloss": "hot",
+   "root": "",
+   "pos": "A",
+   "translit": "châm"
+  },
+  {
+   "lemma": "H1469",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005661002035768818,
+   "refs": [
+    "Gen.15.9",
+    "Deut.32.11"
+   ],
+   "form": "גּוֹזָל",
+   "gloss": "a nestling (as being comparatively nude of feathers)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "gôwzâl"
+  },
+  {
+   "lemma": "H3399",
+   "n": 2,
+   "narratives": [
+    "job",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.011044798405938609,
+   "refs": [
+    "Num.22.32",
+    "Job.16.11"
+   ],
+   "form": "יָרַט",
+   "gloss": "to precipitate or hurl (rush) headlong",
+   "root": "",
+   "pos": "V",
+   "translit": "yâraṭ"
+  },
+  {
+   "lemma": "H2390",
+   "n": 2,
+   "narratives": [
+    "david",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.01212963532880174,
+   "refs": [
+    "Exod.19.19",
+    "2Sam.3.1"
+   ],
+   "form": "חָזֵק",
+   "gloss": "powerful",
+   "root": "",
+   "pos": "A",
+   "translit": "châzêq"
+  }
+ ]
+}

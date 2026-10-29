@@ -156,9 +156,9 @@ notes. The artifact is regenerated from the repo.
 
 ## Phases
 
-- **v0 — foundation.** Data model, ingest framework, gold set, and an artifact
+- **v0 — foundation.** *Done.* Data model, ingest framework, gold set, and an artifact
   skeleton that can display hand-entered leads.
-- **v1 — first pipeline.**
+- **v1 — first pipeline.** *Lexical track done for the Quran and Hebrew Bible; the motif track and Han Kitab ↔ Zhu Xi are next.*
   - Corpora: Quran + Hebrew Bible, with both tracks.
   - Reference lexica only: Akkadian, Ugaritic, Egyptian, Sumerian.
   - One cross-family response pair: Han Kitab ↔ Zhu Xi.

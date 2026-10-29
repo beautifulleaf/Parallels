@@ -18,7 +18,7 @@ LEADS_DIR = ROOT / "leads"
 SITE = ROOT / "site"
 
 STATUSES = {"new", "investigating", "promising", "rejected"}
-RELATIONS = {"inheritance", "transmission", "convergence", "response"}
+RELATIONS = {"internal", "inheritance", "transmission", "convergence", "response"}
 STANDINGS = {"established", "proposed", "contested", "fringe"}
 LAYERS = {"lexical", "motif", "concept"}
 ORIGINS = {"human", "pipeline"}
@@ -61,8 +61,9 @@ def validate(lead, path, tradition_ids):
         elif set(values) - allowed:
             errors.append(f"unknown {key}: {sorted(set(values) - allowed)}")
     traditions = lead["traditions"]
-    if not isinstance(traditions, list) or len(traditions) < 2:
-        errors.append("'traditions' needs at least two ids")
+    min_traditions = 1 if lead["relations"] == ["internal"] else 2
+    if not isinstance(traditions, list) or len(traditions) < min_traditions:
+        errors.append(f"'traditions' needs at least {min_traditions} id(s)")
     else:
         unknown = [t for t in traditions if t not in tradition_ids]
         if unknown:

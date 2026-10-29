@@ -14,12 +14,12 @@ fields marked **human** below, and it never changes the notes body.
 | `title` | yes | — | short headline |
 | `summary` | yes | — | one or two sentences |
 | `status` | yes | **human** | `new` · `investigating` · `promising` · `rejected` |
-| `relations` | yes | — | one or more of `inheritance` · `transmission` · `convergence` · `response` |
+| `relations` | yes | — | one or more of `internal` · `inheritance` · `transmission` · `convergence` · `response` (`internal` = a pattern inside one tradition's text) |
 | `direction` | no | — | free text when the relation is directional, e.g. `islam -> christianity-western` |
 | `standing` | yes | — | scholarly standing of the claim: `established` · `proposed` · `contested` · `fringe` |
-| `traditions` | yes | — | two or more ids from `data/traditions.yaml` |
+| `traditions` | yes | — | ids from `data/traditions.yaml`; two or more unless the only relation is `internal` |
 | `layers` | yes | — | one or more of `lexical` · `motif` · `concept` |
-| `motifs` | no | — | kebab-case motif tags |
+| `motifs` | no | — | kebab-case motif tags (pipeline leads use narrative ids here) |
 | `concepts` | no | — | kebab-case concept tags |
 | `lexical` | no | — | list of `{lang, form, translit, gloss}` |
 | `passages` | no | — | list of `{tradition, ref, text?, note?}`; `text` only when it comes from a verified source |

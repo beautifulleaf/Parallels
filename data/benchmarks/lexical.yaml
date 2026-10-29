@@ -1,0 +1,34 @@
+# Known findings the lexical track must recover. `lead` names the benchmark
+# lead that covers it (the pipeline will not create a duplicate lead).
+# `expect: false` records a known limitation instead of a target.
+expectations:
+  - description: "Quran: al-yamm is concentrated in the Moses narrative"
+    corpus: quran
+    kind: concentration
+    lemma: يَمّ
+    narrative: moses
+    lead: yamm-sea
+  - description: "Quran al-yamm ↔ Hebrew yam (H3220)"
+    corpus: quran
+    kind: cognate
+    lemma: يَمّ
+    hebrew: H3220
+    lead: yamm-sea
+  - description: "Quran tannūr ↔ Hebrew tannûr (H8574)"
+    corpus: quran
+    kind: cognate
+    lemma: تَنُّور
+    hebrew: H8574
+    lead: tannur-loan-chain
+  - description: "Hebrew tēbâ (H8392) links Noah's ark and Moses' basket"
+    corpus: hebrew-bible
+    kind: bridge
+    lemma: H8392
+    narratives: [moses, noah]
+  - description: "Quran kursī ↔ Hebrew kissēʾ (H3678); needs the Aramaic loan-chain layer (v2)"
+    corpus: quran
+    kind: cognate
+    lemma: كُرْسِيّ
+    hebrew: H3678
+    lead: kursi-loan-chain
+    expect: false

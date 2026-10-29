@@ -1,0 +1,3771 @@
+{
+ "corpus": "quran",
+ "verses": 6236,
+ "narratives": {
+  "adam": "Adam and Iblis",
+  "cain-abel": "Cain and Abel",
+  "noah": "Noah",
+  "hud": "Hud and ʿAd",
+  "salih": "Salih and Thamud",
+  "abraham": "Abraham",
+  "lot": "Lot",
+  "shuayb": "Shuʿayb and Midian",
+  "joseph": "Joseph",
+  "moses": "Moses",
+  "saul": "Saul (Talut) and Goliath",
+  "david": "David",
+  "solomon": "Solomon",
+  "job": "Job",
+  "jonah": "Jonah",
+  "zechariah-john": "Zechariah and John",
+  "jesus-mary": "Jesus and Mary",
+  "cave": "People of the Cave",
+  "dhul-qarnayn": "Dhul-Qarnayn"
+ },
+ "parameters": {
+  "min_verses": 3,
+  "min_share": 0.6,
+  "min_dispersion": 2,
+  "max_q": 0.05,
+  "bridge_max_verses": 40
+ },
+ "concentration": [
+  {
+   "lemma": "يَمّ",
+   "n": 7,
+   "narrative": "moses",
+   "k": 7,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 4,
+   "p": 8.063302160057248e-09,
+   "refs": [
+    "7:136",
+    "20:39",
+    "20:78",
+    "20:97",
+    "28:7",
+    "28:40",
+    "51:40"
+   ],
+   "q": 1.4974704011534888e-07,
+   "synonym_skew": [
+    {
+     "lemma": "بَحْر",
+     "n": 39,
+     "share_in_narrative": 0.282
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H3220",
+     "form": "יָם",
+     "translit": "yâm",
+     "gloss": "a sea (as breaking in noisy surf) or large body of water",
+     "verses": 339,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H3117",
+     "form": "יוֹם",
+     "translit": "yôwm",
+     "gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one ",
+     "verses": 1930,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3222",
+     "form": "יֵם",
+     "translit": "yêm",
+     "gloss": "a warm spring",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 16.19,
+   "form": "يَمّ",
+   "gloss": "sea",
+   "root": "يمم",
+   "pos": "N",
+   "translit": "yamm"
+  },
+  {
+   "lemma": "ساحِر",
+   "n": 21,
+   "narrative": "moses",
+   "k": 18,
+   "share": 0.8571428571428571,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 7,
+   "p": 1.3577427416961697e-18,
+   "refs": [
+    "7:109",
+    "7:112",
+    "7:113",
+    "7:120",
+    "10:2",
+    "10:77",
+    "10:79",
+    "10:80",
+    "20:63",
+    "20:69",
+    "20:70",
+    "26:34",
+    "26:38",
+    "26:40",
+    "26:41",
+    "26:46",
+    "38:4",
+    "40:24",
+    "43:49",
+    "51:39",
+    "51:52"
+   ],
+   "q": 1.7650655642050207e-16,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H7837",
+     "form": "שַׁחַר",
+     "translit": "shachar",
+     "gloss": "dawn (literal, figurative or adverbial)",
+     "verses": 24,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5503",
+     "form": "סָחַר",
+     "translit": "çâchar",
+     "gloss": "to travel round (specifically as a pedlar)",
+     "verses": 20,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7838",
+     "form": "שָׁחֹר",
+     "translit": "shâchôr",
+     "gloss": "properly, dusky, but also (absol.) jetty",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5505",
+     "form": "סָחַר",
+     "translit": "çâchar",
+     "gloss": "an emporium",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 15.31,
+   "form": "ساحِر",
+   "gloss": "magician",
+   "root": "سحر",
+   "pos": "N",
+   "translit": "sāḥir"
+  },
+  {
+   "lemma": "غابِر",
+   "n": 7,
+   "narrative": "lot",
+   "k": 5,
+   "share": 0.7142857142857143,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 4,
+   "p": 2.1754198127271426e-09,
+   "refs": [
+    "7:83",
+    "15:60",
+    "26:171",
+    "27:57",
+    "29:32",
+    "29:33",
+    "37:135"
+   ],
+   "q": 4.4653354050715036e-08,
+   "synonym_skew": [
+    {
+     "lemma": "خَلْف",
+     "n": 22,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "وَراء",
+     "n": 24,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H5674",
+     "form": "עָבַר",
+     "translit": "ʻâbar",
+     "gloss": "to cross over",
+     "verses": 493,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5676",
+     "form": "עֵבֶר",
+     "translit": "ʻêber",
+     "gloss": "properly, a region across",
+     "verses": 83,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5668",
+     "form": "עָבוּר",
+     "translit": "ʻâbûwr",
+     "gloss": "properly, crossed, i.e. (abstractly) transit",
+     "verses": 47,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5669",
+     "form": "עָבוּר",
+     "translit": "ʻâbûwr",
+     "gloss": "passed, i.e. kept over",
+     "verses": 2,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5679",
+     "form": "עֲבָרָה",
+     "translit": "ʻăbârâh",
+     "gloss": "a crossing-place",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 12.37,
+   "form": "غابِر",
+   "gloss": "behind",
+   "root": "غبر",
+   "pos": "N",
+   "translit": "ghābir"
+  },
+  {
+   "lemma": "يَهْبِطُ",
+   "n": 8,
+   "narrative": "adam",
+   "k": 5,
+   "share": 0.625,
+   "base_rate": 0.011706221937139192,
+   "dispersion": 3,
+   "p": 1.0430698382186112e-08,
+   "refs": [
+    "2:36",
+    "2:38",
+    "2:61",
+    "2:74",
+    "7:13",
+    "7:24",
+    "11:48",
+    "20:123"
+   ],
+   "q": 1.7686836387185148e-07,
+   "synonym_skew": [
+    {
+     "lemma": "نَزَّلَ",
+     "n": 61,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 9.98,
+   "form": "يَهْبِطُ",
+   "gloss": "down",
+   "root": "هبط",
+   "pos": "V",
+   "translit": "yahbiṭu"
+  },
+  {
+   "lemma": "راغَ",
+   "n": 3,
+   "narrative": "abraham",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.028062860808210393,
+   "dispersion": 2,
+   "p": 2.173321807555695e-05,
+   "refs": [
+    "37:91",
+    "37:93",
+    "51:26"
+   ],
+   "q": 0.00011007733830476899,
+   "synonym_skew": [
+    {
+     "lemma": "قَلَّبُ",
+     "n": 6,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "أَدْبَرَ",
+     "n": 4,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H7451",
+     "form": "רַע",
+     "translit": "raʻ",
+     "gloss": "bad or (as noun) evil (natural or moral)",
+     "verses": 623,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7462",
+     "form": "רָעָה",
+     "translit": "râʻâh",
+     "gloss": "to tend a flock",
+     "verses": 139,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7321",
+     "form": "רוּעַ",
+     "translit": "rûwaʻ",
+     "gloss": "to mar (especially by breaking)",
+     "verses": 40,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7455",
+     "form": "רֹעַ",
+     "translit": "rôaʻ",
+     "gloss": "badness (as marring), physically or morally",
+     "verses": 19,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7473",
+     "form": "רֹעִי",
+     "translit": "rôʻîy",
+     "gloss": "pastoral",
+     "verses": 8,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 9.33,
+   "form": "راغَ",
+   "gloss": "turned",
+   "root": "روغ",
+   "pos": "V",
+   "translit": "rāgha"
+  },
+  {
+   "lemma": "حَوارِيّ",
+   "n": 4,
+   "narrative": "jesus-mary",
+   "k": 4,
+   "share": 1.0,
+   "base_rate": 0.012187299550994226,
+   "dispersion": 3,
+   "p": 2.038088067745885e-08,
+   "refs": [
+    "3:52",
+    "5:111",
+    "5:112",
+    "61:14"
+   ],
+   "q": 3.0571321016188277e-07,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H2734",
+     "form": "חָרָה",
+     "translit": "chârâh",
+     "gloss": "to glow or grow warm",
+     "verses": 87,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2715",
+     "form": "חֹר",
+     "translit": "chôr",
+     "gloss": "properly, white or pure (from the cleansing or shining power of fire",
+     "verses": 13,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2356",
+     "form": "חוֹר",
+     "translit": "chôwr",
+     "gloss": "a cavity, socket, den",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2750",
+     "form": "חֳרִי",
+     "translit": "chŏrîy",
+     "gloss": "a burning (i.e. intense) anger",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2353",
+     "form": "חוּר",
+     "translit": "chûwr",
+     "gloss": "white linen",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 7.69,
+   "form": "حَوارِيّ",
+   "gloss": "disciple",
+   "root": "حور",
+   "pos": "N",
+   "translit": "ḥawārī"
+  },
+  {
+   "lemma": "عاقِر",
+   "n": 3,
+   "narrative": "zechariah-john",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.003207184092366902,
+   "dispersion": 2,
+   "p": 2.8219332675911734e-08,
+   "refs": [
+    "3:40",
+    "19:5",
+    "19:8"
+   ],
+   "q": 4.076125830965028e-07,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H6135",
+     "form": "עָקָר",
+     "translit": "ʻâqâr",
+     "gloss": "sterile (as if extirpated in the generative organs)",
+     "verses": 11,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H6131",
+     "form": "עָקַר",
+     "translit": "ʻâqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6133",
+     "form": "עֵקֶר",
+     "translit": "ʻêqer",
+     "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 7.55,
+   "form": "عاقِر",
+   "gloss": "barren",
+   "root": "عقر",
+   "pos": "N",
+   "translit": "ʿāqir"
+  },
+  {
+   "lemma": "سَلْوَى",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "2:57",
+    "7:160",
+    "20:80"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H7958",
+     "form": "שְׂלָו",
+     "translit": "sᵉlâv",
+     "gloss": "the quail collectively (as slow in flight from its weight)",
+     "verses": 4,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H7961",
+     "form": "שָׁלֵו",
+     "translit": "shâlêv",
+     "gloss": "tranquil",
+     "verses": 8,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7962",
+     "form": "שַׁלְוָה",
+     "translit": "shalvâh",
+     "gloss": "security (genuine or false)",
+     "verses": 8,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7987",
+     "form": "שְׁלִי",
+     "translit": "shᵉlîy",
+     "gloss": "privacy",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [
+    {
+     "lemma": "H7958",
+     "narrative": "moses",
+     "share": 0.75
+    }
+   ],
+   "cross_bridge": [],
+   "score": 6.93,
+   "form": "سَلْوَى",
+   "gloss": "quail",
+   "root": "سلو",
+   "pos": "N",
+   "translit": "salwā"
+  },
+  {
+   "lemma": "تَلْقَفُ",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:117",
+    "20:69",
+    "26:45"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [
+    {
+     "lemma": "خَسَفَ",
+     "n": 8,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.93,
+   "form": "تَلْقَفُ",
+   "gloss": "swallow",
+   "root": "لقف",
+   "pos": "V",
+   "translit": "talqafu"
+  },
+  {
+   "lemma": "أَيْمَن",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "19:52",
+    "20:80",
+    "28:30"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [
+    {
+     "lemma": "قَيِّم",
+     "n": 5,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H3233",
+     "form": "יְמָנִי",
+     "translit": "yᵉmânîy",
+     "gloss": "right (i.e. at the right hand)",
+     "verses": 19,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H3231",
+     "form": "יָמַן",
+     "translit": "yâman",
+     "gloss": "to be right-handed or take the right-hand side",
+     "verses": 4,
+     "gloss_match": true
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.93,
+   "form": "أَيْمَن",
+   "gloss": "right",
+   "root": "يمن",
+   "pos": "ADJ",
+   "translit": "ʾayman"
+  },
+  {
+   "lemma": "ناقَة",
+   "n": 7,
+   "narrative": "salih",
+   "k": 5,
+   "share": 0.7142857142857143,
+   "base_rate": 0.007697241821680564,
+   "dispersion": 4,
+   "p": 4.530415502208934e-10,
+   "refs": [
+    "7:73",
+    "7:77",
+    "11:64",
+    "17:59",
+    "26:155",
+    "54:27",
+    "91:13"
+   ],
+   "q": 1.1737460553023466e-08,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H5355",
+     "form": "נָקִי",
+     "translit": "nâqîy",
+     "gloss": "innocent",
+     "verses": 42,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5352",
+     "form": "נָקָה",
+     "translit": "nâqâh",
+     "gloss": "to be (or make) clean (literally or figuratively)",
+     "verses": 33,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.67,
+   "form": "ناقَة",
+   "gloss": "camel",
+   "root": "نوق",
+   "pos": "N",
+   "translit": "nāqa"
+  },
+  {
+   "lemma": "عَقَرَ",
+   "n": 5,
+   "narrative": "salih",
+   "k": 4,
+   "share": 0.8,
+   "base_rate": 0.007697241821680564,
+   "dispersion": 4,
+   "p": 1.5367845684159562e-08,
+   "refs": [
+    "7:77",
+    "11:65",
+    "26:157",
+    "54:29",
+    "91:14"
+   ],
+   "q": 2.3973839267288916e-07,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H6135",
+     "form": "עָקָר",
+     "translit": "ʻâqâr",
+     "gloss": "sterile (as if extirpated in the generative organs)",
+     "verses": 11,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6131",
+     "form": "עָקַר",
+     "translit": "ʻâqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6133",
+     "form": "עֵקֶר",
+     "translit": "ʻêqer",
+     "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.25,
+   "form": "عَقَرَ",
+   "gloss": "hamstrung",
+   "root": "عقر",
+   "pos": "V",
+   "translit": "ʿaqara"
+  },
+  {
+   "lemma": "أُمْطِرَتْ",
+   "n": 7,
+   "narrative": "lot",
+   "k": 5,
+   "share": 0.7142857142857143,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 5,
+   "p": 2.1754198127271426e-09,
+   "refs": [
+    "7:84",
+    "8:32",
+    "11:82",
+    "15:74",
+    "25:40",
+    "26:173",
+    "27:58"
+   ],
+   "q": 4.4653354050715036e-08,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H4306",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "rain",
+     "verses": 36,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4305",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "to rain",
+     "verses": 14,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.19,
+   "form": "أُمْطِرَتْ",
+   "gloss": "rained",
+   "root": "مطر",
+   "pos": "V",
+   "translit": "ʾumṭirat"
+  },
+  {
+   "lemma": "أَصْنام",
+   "n": 5,
+   "narrative": "abraham",
+   "k": 4,
+   "share": 0.8,
+   "base_rate": 0.028062860808210393,
+   "dispersion": 4,
+   "p": 2.9328231660352845e-06,
+   "refs": [
+    "6:74",
+    "7:138",
+    "14:35",
+    "21:57",
+    "26:71"
+   ],
+   "q": 2.4865239885951323e-05,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H6798",
+     "form": "צָנַם",
+     "translit": "tsânam",
+     "gloss": "to blast or shrink",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.43,
+   "form": "أَصْنام",
+   "gloss": "idol",
+   "root": "صنم",
+   "pos": "N",
+   "translit": "ʾaṣnām"
+  },
+  {
+   "lemma": "آنَسَ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "4:6",
+    "20:10",
+    "27:7",
+    "28:29"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [
+    {
+     "lemma": "يَشْعُرُ",
+     "n": 25,
+     "share_in_narrative": 0.08
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H582",
+     "form": "אֱנוֹשׁ",
+     "translit": "ʼĕnôwsh",
+     "gloss": "a man in general (singly or collectively)",
+     "verses": 41,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H605",
+     "form": "אָנַשׁ",
+     "translit": "ʼânash",
+     "gloss": "to be frail, feeble, or (figuratively) melancholy",
+     "verses": 9,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H597",
+     "form": "אָנַס",
+     "translit": "ʼânaç",
+     "gloss": "to insist",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.33,
+   "form": "آنَسَ",
+   "gloss": "perceive",
+   "root": "أنس",
+   "pos": "V",
+   "translit": "ʾānasa"
+  },
+  {
+   "lemma": "اخْتارَ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "7:155",
+    "20:13",
+    "28:68",
+    "44:32"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [
+    {
+     "lemma": "اجْتَبَى",
+     "n": 10,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H2734",
+     "form": "חָרָה",
+     "translit": "chârâh",
+     "gloss": "to glow or grow warm",
+     "verses": 87,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2715",
+     "form": "חֹר",
+     "translit": "chôr",
+     "gloss": "properly, white or pure (from the cleansing or shining power of fire",
+     "verses": 13,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2356",
+     "form": "חוֹר",
+     "translit": "chôwr",
+     "gloss": "a cavity, socket, den",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2750",
+     "form": "חֳרִי",
+     "translit": "chŏrîy",
+     "gloss": "a burning (i.e. intense) anger",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2353",
+     "form": "חוּר",
+     "translit": "chûwr",
+     "gloss": "white linen",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.33,
+   "form": "اخْتارَ",
+   "gloss": "chose",
+   "root": "خير",
+   "pos": "V",
+   "translit": "akhtāra"
+  },
+  {
+   "lemma": "مُغْرَق",
+   "n": 4,
+   "narrative": "noah",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.017158434894162924,
+   "dispersion": 2,
+   "p": 1.940709364434577e-05,
+   "refs": [
+    "11:37",
+    "11:43",
+    "23:27",
+    "44:24"
+   ],
+   "q": 0.00010228062866614662,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H6207",
+     "form": "עָרַק",
+     "translit": "ʻâraq",
+     "gloss": "to gnaw, i.e. (figuratively) eat (by hyberbole)",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.53,
+   "form": "مُغْرَق",
+   "gloss": "drowned",
+   "root": "غرق",
+   "pos": "N",
+   "translit": "mughraq"
+  },
+  {
+   "lemma": "حاشِر",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:111",
+    "26:36",
+    "26:53"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H2841",
+     "form": "חַשְׁרָה",
+     "translit": "chashrâh",
+     "gloss": "properly, a combination or gathering, i.e. of watery clouds",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.46,
+   "form": "حاشِر",
+   "gloss": "gatherer",
+   "root": "حشر",
+   "pos": "N",
+   "translit": "ḥāshir"
+  },
+  {
+   "lemma": "مَدائِن",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:111",
+    "26:36",
+    "26:53"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H4066",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "a contest or quarrel",
+     "verses": 17,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4079",
+     "form": "מִדְיָן",
+     "translit": "midyân",
+     "gloss": "a contest or quarrel",
+     "verses": 9,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4090",
+     "form": "מְדָן",
+     "translit": "mᵉdân",
+     "gloss": "a contest or quarrel",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4067",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "extensiveness, i.e. height",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.46,
+   "form": "مَدائِن",
+   "gloss": "citie",
+   "root": "مدن",
+   "pos": "N",
+   "translit": "madāʾin"
+  },
+  {
+   "lemma": "مُلْقي",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:115",
+    "10:80",
+    "26:43"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.46,
+   "form": "مُلْقي",
+   "gloss": "throw",
+   "root": "لقي",
+   "pos": "N",
+   "translit": "mulqy"
+  },
+  {
+   "lemma": "يَبْخَسْ",
+   "n": 5,
+   "narrative": "shuayb",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.005933290570878769,
+   "dispersion": 3,
+   "p": 1.907666131963441e-06,
+   "refs": [
+    "2:282",
+    "7:85",
+    "11:15",
+    "11:85",
+    "26:183"
+   ],
+   "q": 1.756463561726692e-05,
+   "synonym_skew": [],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 3.43,
+   "form": "يَبْخَسْ",
+   "gloss": "deprive",
+   "root": "بخس",
+   "pos": "V",
+   "translit": "yabkhas"
+  },
+  {
+   "lemma": "مَطَر",
+   "n": 5,
+   "narrative": "lot",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 3,
+   "p": 1.0651763524521396e-05,
+   "refs": [
+    "4:102",
+    "7:84",
+    "25:40",
+    "26:173",
+    "27:58"
+   ],
+   "q": 6.200280260542305e-05,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H4306",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "rain",
+     "verses": 36,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H4305",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "to rain",
+     "verses": 14,
+     "gloss_match": true
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.98,
+   "form": "مَطَر",
+   "gloss": "rain",
+   "root": "مطر",
+   "pos": "N",
+   "translit": "maṭar"
+  },
+  {
+   "lemma": "جَواب",
+   "n": 5,
+   "narrative": "lot",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 3,
+   "p": 1.0651763524521396e-05,
+   "refs": [
+    "7:82",
+    "27:56",
+    "29:24",
+    "29:29",
+    "34:13"
+   ],
+   "q": 6.200280260542305e-05,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H1361",
+     "form": "גָּבַהּ",
+     "translit": "gâbahh",
+     "gloss": "to soar, i.e. be lofty",
+     "verses": 33,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1364",
+     "form": "גָּבֹהַּ",
+     "translit": "gâbôahh",
+     "gloss": "elevated (or elated), powerful, arrogant",
+     "verses": 32,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1363",
+     "form": "גֹּבַהּ",
+     "translit": "gôbahh",
+     "gloss": "elation, grandeur, arrogance",
+     "verses": 16,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1362",
+     "form": "גָּבָהּ",
+     "translit": "gâbâhh",
+     "gloss": "lofty (literally or figuratively)",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1356",
+     "form": "גֵּב",
+     "translit": "gêb",
+     "gloss": "a log (as cut out)",
+     "verses": 3,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.98,
+   "form": "جَواب",
+   "gloss": "answer",
+   "root": "جوب",
+   "pos": "N",
+   "translit": "jawāb"
+  },
+  {
+   "lemma": "ضَيْف",
+   "n": 5,
+   "narrative": "lot",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 3,
+   "p": 1.0651763524521396e-05,
+   "refs": [
+    "11:78",
+    "15:51",
+    "15:68",
+    "51:24",
+    "54:37"
+   ],
+   "q": 6.200280260542305e-05,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H6823",
+     "form": "צָפָה",
+     "translit": "tsâphâh",
+     "gloss": "to sheet over (especially with metal)",
+     "verses": 40,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6822",
+     "form": "צָפָה",
+     "translit": "tsâphâh",
+     "gloss": "properly, to lean forward, i.e. to peer into the distance",
+     "verses": 33,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6826",
+     "form": "צִפּוּי",
+     "translit": "tsippûwy",
+     "gloss": "encasement (with metal)",
+     "verses": 5,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6687",
+     "form": "צוּף",
+     "translit": "tsûwph",
+     "gloss": "to overflow",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6688",
+     "form": "צוּף",
+     "translit": "tsûwph",
+     "gloss": "comb of honey (from dripping)",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.98,
+   "form": "ضَيْف",
+   "gloss": "guest",
+   "root": "ضيف",
+   "pos": "N",
+   "translit": "ḍayf"
+  },
+  {
+   "lemma": "مَهْد",
+   "n": 5,
+   "narrative": "jesus-mary",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.012187299550994226,
+   "dispersion": 3,
+   "p": 1.7097621402048564e-05,
+   "refs": [
+    "3:46",
+    "5:110",
+    "19:29",
+    "20:53",
+    "43:10"
+   ],
+   "q": 9.451012548882533e-05,
+   "synonym_skew": [],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.86,
+   "form": "مَهْد",
+   "gloss": "cradle",
+   "root": "مهد",
+   "pos": "N",
+   "translit": "mahd"
+  },
+  {
+   "lemma": "يَسْتَحْىِۦ",
+   "n": 8,
+   "narrative": "moses",
+   "k": 5,
+   "share": 0.625,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 4,
+   "p": 7.83760763391066e-05,
+   "refs": [
+    "2:26",
+    "2:49",
+    "7:127",
+    "7:141",
+    "14:6",
+    "28:4",
+    "33:53",
+    "40:25"
+   ],
+   "q": 0.0003322464105679519,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H2416",
+     "form": "חַי",
+     "translit": "chay",
+     "gloss": "alive",
+     "verses": 450,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H2421",
+     "form": "חָיָה",
+     "translit": "châyâh",
+     "gloss": "to live, whether literally or figuratively",
+     "verses": 239,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H2425",
+     "form": "חָיַי",
+     "translit": "châyay",
+     "gloss": "to live",
+     "verses": 20,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H2422",
+     "form": "חָיֶה",
+     "translit": "châyeh",
+     "gloss": "vigorous",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.57,
+   "form": "يَسْتَحْىِۦ",
+   "gloss": "live",
+   "root": "حيي",
+   "pos": "V",
+   "translit": "yastaḥāi"
+  },
+  {
+   "lemma": "أَبْيَض",
+   "n": 8,
+   "narrative": "moses",
+   "k": 5,
+   "share": 0.625,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 5,
+   "p": 7.83760763391066e-05,
+   "refs": [
+    "2:187",
+    "7:108",
+    "20:22",
+    "26:33",
+    "27:12",
+    "28:32",
+    "35:27",
+    "37:46"
+   ],
+   "q": 0.0003322464105679519,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H948",
+     "form": "בּוּץ",
+     "translit": "bûwts",
+     "gloss": "probably cotton (of some sort)",
+     "verses": 8,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H1000",
+     "form": "בֵּיצָה",
+     "translit": "bêytsâh",
+     "gloss": "an egg (from its whiteness)",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1207",
+     "form": "בִּצָּה",
+     "translit": "bitstsâh",
+     "gloss": "a swamp",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1206",
+     "form": "בֹץ",
+     "translit": "bôts",
+     "gloss": "mud (as whitish clay)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.57,
+   "form": "أَبْيَض",
+   "gloss": "white",
+   "root": "بيض",
+   "pos": "ADJ",
+   "translit": "ʾabyaḍ"
+  },
+  {
+   "lemma": "أَمْن",
+   "n": 5,
+   "narrative": "abraham",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.028062860808210393,
+   "dispersion": 2,
+   "p": 0.0002084349753140906,
+   "refs": [
+    "2:125",
+    "4:83",
+    "6:81",
+    "6:82",
+    "24:55"
+   ],
+   "q": 0.0007741870511666222,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H539",
+     "form": "אָמַן",
+     "translit": "ʼâman",
+     "gloss": "properly, to build up or support",
+     "verses": 102,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H529",
+     "form": "אֵמוּן",
+     "translit": "ʼêmûwn",
+     "gloss": "established, i.e. (figuratively) trusty",
+     "verses": 5,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H548",
+     "form": "אֲמָנָה",
+     "translit": "ʼămânâh",
+     "gloss": "something fixed, i.e. a covenant. an allowance",
+     "verses": 2,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H547",
+     "form": "אֹמְנָה",
+     "translit": "ʼômᵉnâh",
+     "gloss": "a column",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H545",
+     "form": "אׇמְנָה",
+     "translit": "ʼomnâh",
+     "gloss": "tutelage",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.21,
+   "form": "أَمْن",
+   "gloss": "security",
+   "root": "أمن",
+   "pos": "N",
+   "translit": "ʾamn"
+  },
+  {
+   "lemma": "يَسُومُ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "2:49",
+    "7:141",
+    "7:167",
+    "14:6"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H7760",
+     "form": "שׂוּם",
+     "translit": "sûwm",
+     "gloss": "to put (used in a great variety of applications, literal, figurative, inferentia",
+     "verses": 550,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8047",
+     "form": "שַׁמָּה",
+     "translit": "shammâh",
+     "gloss": "ruin",
+     "verses": 39,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5561",
+     "form": "סַם",
+     "translit": "çam",
+     "gloss": "an aroma",
+     "verses": 15,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7762",
+     "form": "שׁוּם",
+     "translit": "shûwm",
+     "gloss": "garlic (from its rank odor)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.16,
+   "form": "يَسُومُ",
+   "gloss": "afflicting",
+   "root": "سوم",
+   "pos": "V",
+   "translit": "yasūmu"
+  },
+  {
+   "lemma": "واعَدْ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "2:51",
+    "2:235",
+    "7:142",
+    "20:80"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H3259",
+     "form": "יָעַד",
+     "translit": "yâʻad",
+     "gloss": "to fix upon (by agreement or appointment)",
+     "verses": 29,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.16,
+   "form": "واعَدْ",
+   "gloss": "appointed",
+   "root": "وعد",
+   "pos": "V",
+   "translit": "wāʿad"
+  },
+  {
+   "lemma": "جاوَزَ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "2:249",
+    "7:138",
+    "10:90",
+    "18:62"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H1488",
+     "form": "גֵּז",
+     "translit": "gêz",
+     "gloss": "a fleece (as shorn)",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1492",
+     "form": "גָּזַּה",
+     "translit": "gâzzah",
+     "gloss": "a fleece",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1468",
+     "form": "גּוּז",
+     "translit": "gûwz",
+     "gloss": "properly, to shear off",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.16,
+   "form": "جاوَزَ",
+   "gloss": "across",
+   "root": "جوز",
+   "pos": "V",
+   "translit": "jāwaza"
+  },
+  {
+   "lemma": "يُصَلَّبُ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "5:33",
+    "7:124",
+    "20:71",
+    "26:49"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 2.16,
+   "form": "يُصَلَّبُ",
+   "gloss": "crucify",
+   "root": "صلب",
+   "pos": "V",
+   "translit": "yuṣallabu"
+  },
+  {
+   "lemma": "ناظِر",
+   "n": 5,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0030925796754287904,
+   "refs": [
+    "2:69",
+    "7:108",
+    "15:16",
+    "26:33",
+    "33:53"
+   ],
+   "q": 0.0067380227565208275,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H5341",
+     "form": "נָצַר",
+     "translit": "nâtsar",
+     "gloss": "to guard, in a good sense (to protect, maintain, obey, etc.) or a bad one (to co",
+     "verses": 62,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5342",
+     "form": "נֵצֶר",
+     "translit": "nêtser",
+     "gloss": "a shoot",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5336",
+     "form": "נָצִיר",
+     "translit": "nâtsîyr",
+     "gloss": "properly, conservative",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 1.51,
+   "form": "ناظِر",
+   "gloss": "observer",
+   "root": "نظر",
+   "pos": "N",
+   "translit": "nāẓir"
+  },
+  {
+   "lemma": "حُوت",
+   "n": 5,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0030925796754287904,
+   "refs": [
+    "7:163",
+    "18:61",
+    "18:63",
+    "37:142",
+    "68:48"
+   ],
+   "q": 0.0067380227565208275,
+   "synonym_skew": [],
+   "cognates": [
+    {
+     "lemma": "H2421",
+     "form": "חָיָה",
+     "translit": "châyâh",
+     "gloss": "to live, whether literally or figuratively",
+     "verses": 239,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2331",
+     "form": "חָוָה",
+     "translit": "châvâh",
+     "gloss": "properly, to live",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2844",
+     "form": "חַת",
+     "translit": "chath",
+     "gloss": "concretely, crushed",
+     "verses": 5,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
+     "verses": 4,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 1.51,
+   "form": "حُوت",
+   "gloss": "fish",
+   "root": "حوت",
+   "pos": "N",
+   "translit": "ḥūt"
+  }
+ ],
+ "bridges": [
+  {
+   "lemma": "راوَدُ",
+   "n": 7,
+   "narratives": [
+    "joseph",
+    "lot"
+   ],
+   "counts": [
+    6,
+    1
+   ],
+   "p": 7.340448728800044e-12,
+   "refs": [
+    "12:23",
+    "12:26",
+    "12:30",
+    "12:32",
+    "12:51",
+    "12:61",
+    "54:37"
+   ],
+   "cognates": [
+    {
+     "lemma": "H7287",
+     "form": "רָדָה",
+     "translit": "râdâh",
+     "gloss": "to tread down, i.e. subjugate",
+     "verses": 25,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7300",
+     "form": "רוּד",
+     "translit": "rûwd",
+     "gloss": "to tramp about, i.e. ramble (free or disconsolate)",
+     "verses": 4,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "راوَدُ",
+   "gloss": "seduce",
+   "root": "رود",
+   "pos": "V",
+   "translit": "rāwadu"
+  },
+  {
+   "lemma": "ضَيْف",
+   "n": 5,
+   "narratives": [
+    "abraham",
+    "lot"
+   ],
+   "counts": [
+    2,
+    3
+   ],
+   "p": 8.109844272863666e-08,
+   "refs": [
+    "11:78",
+    "15:51",
+    "15:68",
+    "51:24",
+    "54:37"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6823",
+     "form": "צָפָה",
+     "translit": "tsâphâh",
+     "gloss": "to sheet over (especially with metal)",
+     "verses": 40,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6822",
+     "form": "צָפָה",
+     "translit": "tsâphâh",
+     "gloss": "properly, to lean forward, i.e. to peer into the distance",
+     "verses": 33,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6826",
+     "form": "צִפּוּי",
+     "translit": "tsippûwy",
+     "gloss": "encasement (with metal)",
+     "verses": 5,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6687",
+     "form": "צוּף",
+     "translit": "tsûwph",
+     "gloss": "to overflow",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6688",
+     "form": "צוּף",
+     "translit": "tsûwph",
+     "gloss": "comb of honey (from dripping)",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "ضَيْف",
+   "gloss": "guest",
+   "root": "ضيف",
+   "pos": "N",
+   "translit": "ḍayf"
+  },
+  {
+   "lemma": "بَقَرَة",
+   "n": 6,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    2,
+    4
+   ],
+   "p": 3.930081042231137e-07,
+   "refs": [
+    "2:67",
+    "2:68",
+    "2:69",
+    "2:71",
+    "12:43",
+    "12:46"
+   ],
+   "cognates": [
+    {
+     "lemma": "H1241",
+     "form": "בָּקָר",
+     "translit": "bâqâr",
+     "gloss": "beef cattle or an animal of the ox family of either gender (as used for plowing)",
+     "verses": 172,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H1242",
+     "form": "בֹּקֶר",
+     "translit": "bôqer",
+     "gloss": "properly, dawn (as the break of day)",
+     "verses": 189,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1239",
+     "form": "בָּקַר",
+     "translit": "bâqar",
+     "gloss": "properly, to plough, or (generally) break forth, i.e. (figuratively) to inspect,",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1243",
+     "form": "בַּקָּרָה",
+     "translit": "baqqârâh",
+     "gloss": "a looking after",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H951",
+     "form": "בּוֹקֵר",
+     "translit": "bôwqêr",
+     "gloss": "a cattle-tender",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "بَقَرَة",
+   "gloss": "cow",
+   "root": "بقر",
+   "pos": "N",
+   "translit": "baqara"
+  },
+  {
+   "lemma": "حُوت",
+   "n": 5,
+   "narratives": [
+    "jonah",
+    "moses"
+   ],
+   "counts": [
+    2,
+    3
+   ],
+   "p": 2.003768806613365e-06,
+   "refs": [
+    "7:163",
+    "18:61",
+    "18:63",
+    "37:142",
+    "68:48"
+   ],
+   "cognates": [
+    {
+     "lemma": "H2421",
+     "form": "חָיָה",
+     "translit": "châyâh",
+     "gloss": "to live, whether literally or figuratively",
+     "verses": 239,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2331",
+     "form": "חָוָה",
+     "translit": "châvâh",
+     "gloss": "properly, to live",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2844",
+     "form": "חַת",
+     "translit": "chath",
+     "gloss": "concretely, crushed",
+     "verses": 5,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
+     "verses": 4,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "حُوت",
+   "gloss": "fish",
+   "root": "حوت",
+   "pos": "N",
+   "translit": "ḥūt"
+  },
+  {
+   "lemma": "رَهْط",
+   "n": 3,
+   "narratives": [
+    "salih",
+    "shuayb"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 2.4449328845613045e-06,
+   "refs": [
+    "11:91",
+    "11:92",
+    "27:48"
+   ],
+   "cognates": [
+    {
+     "lemma": "H7298",
+     "form": "רַהַט",
+     "translit": "rahaṭ",
+     "gloss": "a channel or watering-box",
+     "verses": 4,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "رَهْط",
+   "gloss": "family",
+   "root": "رهط",
+   "pos": "N",
+   "translit": "rahṭ"
+  },
+  {
+   "lemma": "فِتْيَة",
+   "n": 3,
+   "narratives": [
+    "cave",
+    "joseph"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 6.274098298277504e-06,
+   "refs": [
+    "12:62",
+    "18:10",
+    "18:13"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6612",
+     "form": "פְּתִי",
+     "translit": "pᵉthîy",
+     "gloss": "silly (i.e. seducible)",
+     "verses": 18,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "فِتْيَة",
+   "gloss": "youth",
+   "root": "فتي",
+   "pos": "N",
+   "translit": "fitya"
+  },
+  {
+   "lemma": "طَفِقَ",
+   "n": 3,
+   "narratives": [
+    "adam",
+    "solomon"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 6.778060924549113e-06,
+   "refs": [
+    "7:22",
+    "20:121",
+    "38:33"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طَفِقَ",
+   "gloss": "began",
+   "root": "طفق",
+   "pos": "V",
+   "translit": "ṭafiqa"
+  },
+  {
+   "lemma": "أَصْنام",
+   "n": 5,
+   "narratives": [
+    "abraham",
+    "moses"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "p": 9.04411968062994e-06,
+   "refs": [
+    "6:74",
+    "7:138",
+    "14:35",
+    "21:57",
+    "26:71"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6798",
+     "form": "צָנַם",
+     "translit": "tsânam",
+     "gloss": "to blast or shrink",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "أَصْنام",
+   "gloss": "idol",
+   "root": "صنم",
+   "pos": "N",
+   "translit": "ʾaṣnām"
+  },
+  {
+   "lemma": "جاوَزَ",
+   "n": 4,
+   "narratives": [
+    "moses",
+    "saul"
+   ],
+   "counts": [
+    3,
+    1
+   ],
+   "p": 2.5377045946232568e-05,
+   "refs": [
+    "2:249",
+    "7:138",
+    "10:90",
+    "18:62"
+   ],
+   "cognates": [
+    {
+     "lemma": "H1488",
+     "form": "גֵּז",
+     "translit": "gêz",
+     "gloss": "a fleece (as shorn)",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1492",
+     "form": "גָּזַּה",
+     "translit": "gâzzah",
+     "gloss": "a fleece",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1468",
+     "form": "גּוּז",
+     "translit": "gûwz",
+     "gloss": "properly, to shear off",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "جاوَزَ",
+   "gloss": "across",
+   "root": "جوز",
+   "pos": "V",
+   "translit": "jāwaza"
+  },
+  {
+   "lemma": "طَلَعَت",
+   "n": 2,
+   "narratives": [
+    "cave",
+    "dhul-qarnayn"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 2.885694107142157e-05,
+   "refs": [
+    "18:17",
+    "18:90"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طَلَعَت",
+   "gloss": "rose",
+   "root": "طلع",
+   "pos": "V",
+   "translit": "ṭalaʿat"
+  },
+  {
+   "lemma": "غَرَبَت",
+   "n": 2,
+   "narratives": [
+    "cave",
+    "dhul-qarnayn"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 2.885694107142157e-05,
+   "refs": [
+    "18:17",
+    "18:86"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6153",
+     "form": "עֶרֶב",
+     "translit": "ʻereb",
+     "gloss": "dusk",
+     "verses": 125,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6160",
+     "form": "עֲרָבָה",
+     "translit": "ʻărâbâh",
+     "gloss": "a desert",
+     "verses": 57,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6148",
+     "form": "עָרַב",
+     "translit": "ʻârab",
+     "gloss": "to braid, i.e. intermix",
+     "verses": 23,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6154",
+     "form": "עֵרֶב",
+     "translit": "ʻêreb",
+     "gloss": "the web (or transverse threads of cloth)",
+     "verses": 15,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6158",
+     "form": "עֹרֵב",
+     "translit": "ʻôrêb",
+     "gloss": "a raven (from its dusky hue)",
+     "verses": 10,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "غَرَبَت",
+   "gloss": "set",
+   "root": "غرب",
+   "pos": "V",
+   "translit": "gharabat"
+  },
+  {
+   "lemma": "مُغْرَق",
+   "n": 4,
+   "narratives": [
+    "moses",
+    "noah"
+   ],
+   "counts": [
+    1,
+    3
+   ],
+   "p": 5.7754792641736755e-05,
+   "refs": [
+    "11:37",
+    "11:43",
+    "23:27",
+    "44:24"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6207",
+     "form": "עָרַק",
+     "translit": "ʻâraq",
+     "gloss": "to gnaw, i.e. (figuratively) eat (by hyberbole)",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُغْرَق",
+   "gloss": "drowned",
+   "root": "غرق",
+   "pos": "N",
+   "translit": "mughraq"
+  },
+  {
+   "lemma": "بَصطَة",
+   "n": 2,
+   "narratives": [
+    "hud",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 6.049155561495931e-05,
+   "refs": [
+    "2:247",
+    "7:69"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "بَصطَة",
+   "gloss": "abundantly",
+   "root": "بسط",
+   "pos": "N",
+   "translit": "baṣṭa"
+  },
+  {
+   "lemma": "سَمِين",
+   "n": 3,
+   "narratives": [
+    "abraham",
+    "joseph"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 8.302167279333758e-05,
+   "refs": [
+    "12:43",
+    "12:46",
+    "51:26"
+   ],
+   "cognates": [
+    {
+     "lemma": "H8081",
+     "form": "שֶׁמֶן",
+     "translit": "shemen",
+     "gloss": "grease, especially liquid (as from the olive, often perfumed)",
+     "verses": 176,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H8082",
+     "form": "שָׁמֵן",
+     "translit": "shâmên",
+     "gloss": "greasy, i.e. gross",
+     "verses": 10,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H8080",
+     "form": "שָׁמַן",
+     "translit": "shâman",
+     "gloss": "to shine, i.e. (by analogy) be (causatively, make) oily or gross",
+     "verses": 4,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H8083",
+     "form": "שְׁמֹנֶה",
+     "translit": "shᵉmôneh",
+     "gloss": "a cardinal number, eight (as if a surplus above the 'perfect' seven)",
+     "verses": 105,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8066",
+     "form": "שְׁמִינִי",
+     "translit": "shᵉmîynîy",
+     "gloss": "eight",
+     "verses": 27,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "سَمِين",
+   "gloss": "fat",
+   "root": "سمن",
+   "pos": "ADJ",
+   "translit": "samīn"
+  },
+  {
+   "lemma": "قِطْر",
+   "n": 2,
+   "narratives": [
+    "dhul-qarnayn",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 9.727000992166644e-05,
+   "refs": [
+    "18:96",
+    "34:12"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6999",
+     "form": "קָטַר",
+     "translit": "qâṭar",
+     "gloss": "to smoke, i.e. turn into fragrance by fire (especially as an act of worship)",
+     "verses": 112,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7008",
+     "form": "קִיטוֹר",
+     "translit": "qîyṭôwr",
+     "gloss": "a fume, i.e. cloud",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7002",
+     "form": "קִטֵּר",
+     "translit": "qiṭṭêr",
+     "gloss": "perfume",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7000",
+     "form": "קָטַר",
+     "translit": "qâṭar",
+     "gloss": "to inclose",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "قِطْر",
+   "gloss": "molten",
+   "root": "قطر",
+   "pos": "N",
+   "translit": "qiṭr"
+  },
+  {
+   "lemma": "مُسَحَّر",
+   "n": 2,
+   "narratives": [
+    "salih",
+    "shuayb"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.00018363507954540303,
+   "refs": [
+    "26:153",
+    "26:185"
+   ],
+   "cognates": [
+    {
+     "lemma": "H7837",
+     "form": "שַׁחַר",
+     "translit": "shachar",
+     "gloss": "dawn (literal, figurative or adverbial)",
+     "verses": 24,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5503",
+     "form": "סָחַר",
+     "translit": "çâchar",
+     "gloss": "to travel round (specifically as a pedlar)",
+     "verses": 20,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7838",
+     "form": "שָׁחֹר",
+     "translit": "shâchôr",
+     "gloss": "properly, dusky, but also (absol.) jetty",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5505",
+     "form": "סָחַר",
+     "translit": "çâchar",
+     "gloss": "an emporium",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُسَحَّر",
+   "gloss": "bewitched",
+   "root": "سحر",
+   "pos": "N",
+   "translit": "musaḥḥar"
+  },
+  {
+   "lemma": "صَبِيّ",
+   "n": 2,
+   "narratives": [
+    "jesus-mary",
+    "zechariah-john"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.00023455909320085154,
+   "refs": [
+    "19:12",
+    "19:29"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6643",
+     "form": "צְבִי",
+     "translit": "tsᵉbîy",
+     "gloss": "splendor (as conspicuous)",
+     "verses": 32,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6646",
+     "form": "צְבִיָּה",
+     "translit": "tsᵉbîyâh",
+     "gloss": "a female gazelle",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "صَبِيّ",
+   "gloss": "child",
+   "root": "صبو",
+   "pos": "N",
+   "translit": "ṣabī"
+  },
+  {
+   "lemma": "مُبْتَلِي",
+   "n": 2,
+   "narratives": [
+    "noah",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0003255021802138277,
+   "refs": [
+    "2:249",
+    "23:30"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُبْتَلِي",
+   "gloss": "test",
+   "root": "بلو",
+   "pos": "N",
+   "translit": "mubtalī"
+  },
+  {
+   "lemma": "صَرْح",
+   "n": 3,
+   "narratives": [
+    "moses",
+    "solomon"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.0004648685529338938,
+   "refs": [
+    "27:44",
+    "28:38",
+    "40:36"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6877",
+     "form": "צְרִיחַ",
+     "translit": "tsᵉrîyach",
+     "gloss": "a citadel",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H6873",
+     "form": "צָרַח",
+     "translit": "tsârach",
+     "gloss": "to be clear (in tone, i.e. shrill), i.e. to whoop",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "صَرْح",
+   "gloss": "palace",
+   "root": "صرح",
+   "pos": "N",
+   "translit": "ṣarḥ"
+  },
+  {
+   "lemma": "يَكْفُلُ",
+   "n": 3,
+   "narratives": [
+    "jesus-mary",
+    "moses"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.0005569819006237787,
+   "refs": [
+    "3:44",
+    "20:40",
+    "28:12"
+   ],
+   "cognates": [
+    {
+     "lemma": "H3717",
+     "form": "כָּפַל",
+     "translit": "kâphal",
+     "gloss": "to fold together",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3718",
+     "form": "כֶּפֶל",
+     "translit": "kephel",
+     "gloss": "a duplicate",
+     "verses": 3,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "يَكْفُلُ",
+   "gloss": "rear",
+   "root": "كفل",
+   "pos": "V",
+   "translit": "yakfulu"
+  },
+  {
+   "lemma": "جِذْع",
+   "n": 3,
+   "narratives": [
+    "jesus-mary",
+    "moses"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.0005569819006237787,
+   "refs": [
+    "19:23",
+    "19:25",
+    "20:71"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "جِذْع",
+   "gloss": "trunk",
+   "root": "جذع",
+   "pos": "N",
+   "translit": "jidhʿ"
+  },
+  {
+   "lemma": "مُجِيب",
+   "n": 2,
+   "narratives": [
+    "noah",
+    "salih"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0006139172757351801,
+   "refs": [
+    "11:61",
+    "37:75"
+   ],
+   "cognates": [
+    {
+     "lemma": "H1361",
+     "form": "גָּבַהּ",
+     "translit": "gâbahh",
+     "gloss": "to soar, i.e. be lofty",
+     "verses": 33,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1364",
+     "form": "גָּבֹהַּ",
+     "translit": "gâbôahh",
+     "gloss": "elevated (or elated), powerful, arrogant",
+     "verses": 32,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1363",
+     "form": "גֹּבַהּ",
+     "translit": "gôbahh",
+     "gloss": "elation, grandeur, arrogance",
+     "verses": 16,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1362",
+     "form": "גָּבָהּ",
+     "translit": "gâbâhh",
+     "gloss": "lofty (literally or figuratively)",
+     "verses": 4,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1356",
+     "form": "גֵּב",
+     "translit": "gêb",
+     "gloss": "a log (as cut out)",
+     "verses": 3,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُجِيب",
+   "gloss": "responsive",
+   "root": "جوب",
+   "pos": "N",
+   "translit": "mujīb"
+  },
+  {
+   "lemma": "فَتَى",
+   "n": 3,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.0006317575873638346,
+   "refs": [
+    "12:30",
+    "18:60",
+    "18:62"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6612",
+     "form": "פְּתִי",
+     "translit": "pᵉthîy",
+     "gloss": "silly (i.e. seducible)",
+     "verses": 18,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "فَتَى",
+   "gloss": "boy",
+   "root": "فتي",
+   "pos": "N",
+   "translit": "fatā"
+  },
+  {
+   "lemma": "أَبْرَحَ",
+   "n": 3,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "p": 0.0006317575873638346,
+   "refs": [
+    "12:80",
+    "18:60",
+    "20:91"
+   ],
+   "cognates": [
+    {
+     "lemma": "H1272",
+     "form": "בָּרַח",
+     "translit": "bârach",
+     "gloss": "to bolt, i.e. figuratively, to flee suddenly",
+     "verses": 64,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1280",
+     "form": "בְּרִיחַ",
+     "translit": "bᵉrîyach",
+     "gloss": "a bolt",
+     "verses": 37,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H1281",
+     "form": "בָּרִיחַ",
+     "translit": "bârîyach",
+     "gloss": "a fugitive, i.e. the serpent (as fleeing), and the constellation by that name",
+     "verses": 3,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "أَبْرَحَ",
+   "gloss": "cease",
+   "root": "برح",
+   "pos": "V",
+   "translit": "ʾabraḥa"
+  },
+  {
+   "lemma": "سَفِينَة",
+   "n": 3,
+   "narratives": [
+    "moses",
+    "noah"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.000664180115380769,
+   "refs": [
+    "18:71",
+    "18:79",
+    "29:15"
+   ],
+   "cognates": [
+    {
+     "lemma": "H5603",
+     "form": "סָפַן",
+     "translit": "çâphan",
+     "gloss": "to hide by covering",
+     "verses": 6,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5604",
+     "form": "סִפֻּן",
+     "translit": "çippun",
+     "gloss": "a wainscot",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8226",
+     "form": "שָׂפַן",
+     "translit": "sâphan",
+     "gloss": "to conceal (as a valuable)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "سَفِينَة",
+   "gloss": "ship",
+   "root": "سفن",
+   "pos": "N",
+   "translit": "safīna"
+  },
+  {
+   "lemma": "صَلَبُ",
+   "n": 2,
+   "narratives": [
+    "jesus-mary",
+    "joseph"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0007741993227557526,
+   "refs": [
+    "4:157",
+    "12:41"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "صَلَبُ",
+   "gloss": "crucified",
+   "root": "صلب",
+   "pos": "V",
+   "translit": "ṣalabu"
+  },
+  {
+   "lemma": "سَقِيم",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "jonah"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0009333497250284947,
+   "refs": [
+    "37:89",
+    "37:145"
+   ],
+   "cognates": [
+    {
+     "lemma": "H8256",
+     "form": "שִׁקְמָה",
+     "translit": "shiqmâh",
+     "gloss": "a sycamore (usually the tree)",
+     "verses": 7,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "سَقِيم",
+   "gloss": "sick",
+   "root": "سقم",
+   "pos": "N",
+   "translit": "saqīm"
+  },
+  {
+   "lemma": "أَوْجَسَ",
+   "n": 3,
+   "narratives": [
+    "abraham",
+    "moses"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.0009456789990176181,
+   "refs": [
+    "11:70",
+    "20:67",
+    "51:28"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "أَوْجَسَ",
+   "gloss": "felt",
+   "root": "وجس",
+   "pos": "V",
+   "translit": "ʾawjasa"
+  },
+  {
+   "lemma": "حَرِّقُ",
+   "n": 3,
+   "narratives": [
+    "abraham",
+    "moses"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.0009456789990176181,
+   "refs": [
+    "20:97",
+    "21:68",
+    "29:24"
+   ],
+   "cognates": [
+    {
+     "lemma": "H2786",
+     "form": "חָרַק",
+     "translit": "châraq",
+     "gloss": "to grate the teeth",
+     "verses": 5,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "حَرِّقُ",
+   "gloss": "burn",
+   "root": "حرق",
+   "pos": "V",
+   "translit": "ḥarriqu"
+  },
+  {
+   "lemma": "عَصِيّ",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "zechariah-john"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.000972957291205053,
+   "refs": [
+    "19:14",
+    "19:44"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "عَصِيّ",
+   "gloss": "disobedient",
+   "root": "عصي",
+   "pos": "ADJ",
+   "translit": "ʿaṣī"
+  },
+  {
+   "lemma": "تَبْتَئِسْ",
+   "n": 2,
+   "narratives": [
+    "joseph",
+    "noah"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0010755768944802015,
+   "refs": [
+    "11:36",
+    "12:69"
+   ],
+   "cognates": [
+    {
+     "lemma": "H887",
+     "form": "בָּאַשׁ",
+     "translit": "bâʼash",
+     "gloss": "to smell bad",
+     "verses": 17,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H890",
+     "form": "בׇּאְשָׁה",
+     "translit": "boʼshâh",
+     "gloss": "stink-weed or any other noxious or useless plant",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "تَبْتَئِسْ",
+   "gloss": "distressed",
+   "root": "بأس",
+   "pos": "V",
+   "translit": "tabtaʾis"
+  },
+  {
+   "lemma": "تَماثِيل",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "solomon"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0012504674464285162,
+   "refs": [
+    "21:52",
+    "34:13"
+   ],
+   "cognates": [
+    {
+     "lemma": "H4910",
+     "form": "מָשַׁל",
+     "translit": "mâshal",
+     "gloss": "to rule",
+     "verses": 74,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4912",
+     "form": "מָשָׁל",
+     "translit": "mâshâl",
+     "gloss": "properly, a pithy maxim, usually of metaphorical nature",
+     "verses": 39,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4911",
+     "form": "מָשַׁל",
+     "translit": "mâshal",
+     "gloss": "to liken, i.e. (transitively) to use figurative language (an allegory, adage, so",
+     "verses": 15,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H4914",
+     "form": "מְשֹׁל",
+     "translit": "mᵉshôl",
+     "gloss": "a satire",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "تَماثِيل",
+   "gloss": "statue",
+   "root": "مثل",
+   "pos": "N",
+   "translit": "tamāthīl"
+  },
+  {
+   "lemma": "مُنَجُّو",
+   "n": 2,
+   "narratives": [
+    "abraham",
+    "lot"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.0014752532440796197,
+   "refs": [
+    "15:59",
+    "29:33"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُنَجُّو",
+   "gloss": "save",
+   "root": "نجو",
+   "pos": "N",
+   "translit": "munajjū"
+  },
+  {
+   "lemma": "تابُوت",
+   "n": 2,
+   "narratives": [
+    "moses",
+    "saul"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005058760653491823,
+   "refs": [
+    "2:248",
+    "20:39"
+   ],
+   "cognates": [
+    {
+     "lemma": "H8392",
+     "form": "תֵּבָה",
+     "translit": "têbâh",
+     "gloss": "a box",
+     "verses": 25,
+     "gloss_match": true
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [
+    {
+     "lemma": "H8392",
+     "narratives": [
+      "moses",
+      "noah"
+     ],
+     "counts": [
+      2,
+      23
+     ]
+    }
+   ],
+   "form": "تابُوت",
+   "gloss": "ark",
+   "root": "",
+   "pos": "N",
+   "translit": "tābūt"
+  },
+  {
+   "lemma": "خُبْر",
+   "n": 2,
+   "narratives": [
+    "dhul-qarnayn",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005289461866871331,
+   "refs": [
+    "18:68",
+    "18:91"
+   ],
+   "cognates": [
+    {
+     "lemma": "H2266",
+     "form": "חָבַר",
+     "translit": "châbar",
+     "gloss": "to join (literally or figuratively)",
+     "verses": 25,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2267",
+     "form": "חֶבֶר",
+     "translit": "cheber",
+     "gloss": "a society",
+     "verses": 7,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2274",
+     "form": "חֶבְרָה",
+     "translit": "chebrâh",
+     "gloss": "association",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H2271",
+     "form": "חַבָּר",
+     "translit": "chabbâr",
+     "gloss": "a partner",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "خُبْر",
+   "gloss": "any",
+   "root": "خبر",
+   "pos": "N",
+   "translit": "khubr"
+  },
+  {
+   "lemma": "مُلِيم",
+   "n": 2,
+   "narratives": [
+    "jonah",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.005289461866871331,
+   "refs": [
+    "37:142",
+    "51:40"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُلِيم",
+   "gloss": "blameworthy",
+   "root": "لوم",
+   "pos": "N",
+   "translit": "mulīm"
+  },
+  {
+   "lemma": "مُفْتَري",
+   "n": 2,
+   "narratives": [
+    "hud",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.00593804862260976,
+   "refs": [
+    "7:152",
+    "11:50"
+   ],
+   "cognates": [
+    {
+     "lemma": "H6529",
+     "form": "פְּרִי",
+     "translit": "pᵉrîy",
+     "gloss": "fruit (literally or figuratively)",
+     "verses": 107,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُفْتَري",
+   "gloss": "invent",
+   "root": "فري",
+   "pos": "N",
+   "translit": "muftary"
+  },
+  {
+   "lemma": "رُكْن",
+   "n": 2,
+   "narratives": [
+    "lot",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.006494252016205135,
+   "refs": [
+    "11:80",
+    "51:39"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "رُكْن",
+   "gloss": "support",
+   "root": "ركن",
+   "pos": "N",
+   "translit": "rukn"
+  },
+  {
+   "lemma": "مُشْرِق",
+   "n": 2,
+   "narratives": [
+    "lot",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.006494252016205135,
+   "refs": [
+    "15:73",
+    "26:60"
+   ],
+   "cognates": [
+    {
+     "lemma": "H8319",
+     "form": "שָׁרַק",
+     "translit": "shâraq",
+     "gloss": "properly, to be shrill, i.e. to whistle or hiss (as a call or in scorn)",
+     "verses": 12,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8322",
+     "form": "שְׁרֵקָה",
+     "translit": "shᵉrêqâh",
+     "gloss": "a derision",
+     "verses": 8,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8321",
+     "form": "שֹׂרֵק",
+     "translit": "sôrêq",
+     "gloss": "a vine stock (properly, one yielding purple grapes, the richest variety)",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H8320",
+     "form": "שָׂרֻק",
+     "translit": "sâruq",
+     "gloss": "bright red (as piercing to the sight), i.e. bay",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "مُشْرِق",
+   "gloss": "sunrise",
+   "root": "شرق",
+   "pos": "N",
+   "translit": "mushriq"
+  },
+  {
+   "lemma": "يَتَكَبَّرُ",
+   "n": 2,
+   "narratives": [
+    "adam",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.006702680403406971,
+   "refs": [
+    "7:13",
+    "7:146"
+   ],
+   "cognates": [
+    {
+     "lemma": "H3524",
+     "form": "כַּבִּיר",
+     "translit": "kabbîyr",
+     "gloss": "vast, whether in extent (figuratively, of power, mighty",
+     "verses": 9,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3530",
+     "form": "כִּבְרָה",
+     "translit": "kibrâh",
+     "gloss": "properly, length, i.e. a measure (of uncertain dimension)",
+     "verses": 3,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3523",
+     "form": "כְּבִיר",
+     "translit": "kᵉbîyr",
+     "gloss": "a matrass (of intertwined materials)",
+     "verses": 2,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3527",
+     "form": "כָּבַר",
+     "translit": "kâbar",
+     "gloss": "properly, to plait together, i.e. (figuratively) to augment (especially in numbe",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H3531",
+     "form": "כְּבָרָה",
+     "translit": "kᵉbârâh",
+     "gloss": "a sieve (as netted)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "يَتَكَبَّرُ",
+   "gloss": "arrogant",
+   "root": "كبر",
+   "pos": "V",
+   "translit": "yatakabbaru"
+  },
+  {
+   "lemma": "عالي",
+   "n": 2,
+   "narratives": [
+    "adam",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.006702680403406971,
+   "refs": [
+    "23:46",
+    "38:75"
+   ],
+   "cognates": [
+    {
+     "lemma": "H5944",
+     "form": "עֲלִיָּה",
+     "translit": "ʻălîyâh",
+     "gloss": "something lofty, i.e. a stair-way",
+     "verses": 20,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5942",
+     "form": "עִלִּי",
+     "translit": "ʻillîy",
+     "gloss": "high",
+     "verses": 2,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5932",
+     "form": "עַלְוָה",
+     "translit": "ʻalvâh",
+     "gloss": "moral perverseness",
+     "verses": 1,
+     "gloss_match": false
+    },
+    {
+     "lemma": "H5940",
+     "form": "עֱלִי",
+     "translit": "ʻĕlîy",
+     "gloss": "a pestle (as lifted)",
+     "verses": 1,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "عالي",
+   "gloss": "haughty",
+   "root": "علو",
+   "pos": "ADJ",
+   "translit": "ʿāly"
+  },
+  {
+   "lemma": "الْتَقَطَ",
+   "n": 2,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.007375237452442222,
+   "refs": [
+    "12:10",
+    "28:8"
+   ],
+   "cognates": [
+    {
+     "lemma": "H3950",
+     "form": "לָקַט",
+     "translit": "lâqaṭ",
+     "gloss": "properly, to pick up, i.e. (generally) to gather",
+     "verses": 34,
+     "gloss_match": true
+    },
+    {
+     "lemma": "H3951",
+     "form": "לֶקֶט",
+     "translit": "leqeṭ",
+     "gloss": "the gleaning",
+     "verses": 2,
+     "gloss_match": false
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "الْتَقَطَ",
+   "gloss": "pick",
+   "root": "لقط",
+   "pos": "V",
+   "translit": "altaqaṭa"
+  },
+  {
+   "lemma": "نَجا",
+   "n": 2,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.007375237452442222,
+   "refs": [
+    "12:45",
+    "28:25"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "نَجا",
+   "gloss": "saved",
+   "root": "نجو",
+   "pos": "V",
+   "translit": "najā"
+  },
+  {
+   "lemma": "نَجِيّ",
+   "n": 2,
+   "narratives": [
+    "joseph",
+    "moses"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.007375237452442222,
+   "refs": [
+    "12:80",
+    "19:52"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "نَجِيّ",
+   "gloss": "private",
+   "root": "نجو",
+   "pos": "N",
+   "translit": "najī"
+  },
+  {
+   "lemma": "طُوفان",
+   "n": 2,
+   "narratives": [
+    "moses",
+    "noah"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.007625228064934826,
+   "refs": [
+    "7:133",
+    "29:14"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طُوفان",
+   "gloss": "flood",
+   "root": "طوف",
+   "pos": "N",
+   "translit": "ṭūfān"
+  }
+ ]
+}
