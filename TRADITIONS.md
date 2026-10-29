@@ -209,12 +209,12 @@ every pair of traditions.
 
 #### Christianity
 
-Christianity is covered from its origins to the present. Its branches and
-eras are treated as five sub-traditions. Material from after Islam's rise
-(roughly the 7th century) is compared mainly at the level of philosophy and
-metaphysics: concepts rather than words or stories. For those periods, the
-expected relation types are **response** and **convergence**, plus
-**reverse transmission** from the Islamic world into Christian thought.
+Christianity is covered from its origins to the present, as four
+sub-traditions. Until the Enlightenment it cannot be separated from Western
+philosophy. From the Enlightenment on, philosophy has its own entry (see
+Western Philosophy below). Material from after Islam's rise is compared
+mainly in the concept layer, through response, convergence, and reverse
+transmission from the Islamic world.
 
 **Shared across all periods**
 - **Languages:** Greek, Syriac, Latin, Coptic, Ge'ez, Armenian, Arabic, then
@@ -311,42 +311,63 @@ expected relation types are **response** and **convergence**, plus
   - Claims that the Quran is a Syriac text underneath, in the style of
     Luxenberg, are fringe and must be labeled as such.
 
-##### Western Christianity (Latin, medieval to early modern)
+##### Western Christianity (to the Enlightenment)
 
-- **Scope:** Latin patristics; scholasticism; medieval mysticism; the
-  Reformation and the radical Reformation; Christian esotericism.
+Until the Enlightenment, Western philosophy and Christian theology cannot be
+separated, so they are treated as one sub-tradition here.
+
+- **Phases:**
+  - **Early Middle Ages:** Boethius, Eriugena, Anselm.
+  - **Scholasticism:** Abelard, Aquinas, Scotus, Ockham, and later Suárez;
+    medieval mysticism (Eckhart).
+  - **Renaissance and Reformation:** Ficino, Pico, Cusanus, Erasmus, Luther,
+    Servetus, the Socinians; Christian esotericism.
+  - **Early modern:** Descartes, Malebranche, Spinoza, Leibniz, Locke,
+    Berkeley, Hume.
 - **Core texts:**
-  - Patristic and scholastic: Augustine; Aquinas; Meister Eckhart; Nicholas
-    of Cusa (*De pace fidei*, *Cribratio Alkorani*).
-  - Encounter with Islam: Ramon Llull; the *Liber Scalae Machometi* (Book of
-    the Ladder); Robert of Ketton's Latin Quran (1143); Dante.
-  - Reformation era: Luther on the Turks; Servetus; the Socinians.
-  - Esoteric: the Rosicrucian manifestos.
+  - Philosophy and theology across the phases above.
+  - Latin translations from Arabic (the Toledo translators; Avicenna;
+    Averroes; al-Ghazali's *Maqāṣid*).
+  - Latin versions of Islamic texts: Robert of Ketton's Latin Quran (1143);
+    Bibliander's printed Quran (1543); the *Liber Scalae Machometi*; Pococke's
+    *Philosophus Autodidactus* (Ibn Tufayl, 1671).
 - **Digital sources:** Corpus Thomisticum (Aquinas, lemmatized), Llull DB,
-  The Latin Library, CCEL, Project Gutenberg.
+  The Latin Library, CCEL, Project Gutenberg, Early Modern Texts.
 - **Seed leads:**
+  - *Convergence:* Eriugena and Pseudo-Dionysius' Neoplatonism ↔ Islamic
+    Neoplatonism.
   - *Reverse transmission:* Avicenna, Averroes, and al-Ghazali in Aquinas and
-    the scholastics.
+    the scholastics; Latin Averroism.
   - *Response:* Llull's *Book of the Lover and the Beloved*. Llull himself
     names Sufi models for it.
+  - *Convergence:* Meister Eckhart ↔ Ibn ʿArabi.
   - *Transmission, contested:* the *Liber Scalae* (the Miʿrāj) → Dante's
     *Commedia*.
-  - *Convergence:* Meister Eckhart ↔ Ibn ʿArabi.
+  - *Response:* Pico's *Oration* opening with "Abdala the Saracen".
   - *Response:* Cusanus' *Cribratio Alkorani* and *De pace fidei*.
   - *Convergence or response:* anti-Trinitarians (Servetus, the Socinians) ↔
     *tawḥīd*.
   - *Response or legend:* the Rosicrucian founder said to have studied in
     Damascus and Fez (*Fama Fraternitatis*).
+  - *Transmission, contested:* Ibn Tufayl's *Hayy ibn Yaqzan* → Locke's blank
+    slate.
+  - *Convergence, or transmission (debated):* al-Ghazali's occasionalism ↔
+    Malebranche and Hume on causation.
+  - *Convergence:* Spinoza's single substance ↔ the oneness of being
+    (*waḥdat al-wujūd*).
 
-##### Newer movements (18th century onward)
+##### Newer movements and modern theology
 
-- **Scope:** Swedenborgianism, Latter-day Saints (Mormons), Jehovah's
-  Witnesses, Christadelphians, Christian Science, Unitarian Universalism,
-  Quakers, Pentecostalism.
+- **Scope:**
+  - Movements: Swedenborgianism, Latter-day Saints (Mormons), Jehovah's
+    Witnesses, Christadelphians, Christian Science, Unitarian Universalism,
+    Quakers, Pentecostalism.
+  - Theologians: Tillich, Teilhard de Chardin, Barth, process theology.
 - **Core texts:** Swedenborg's works; the Book of Mormon and the Doctrine and
-  Covenants; the founding writings of each movement.
+  Covenants; the founding writings of each movement; the major theologians.
 - **Digital sources:** the Joseph Smith Papers (open); the Swedenborg
-  Foundation texts; Project Gutenberg.
+  Foundation texts; Project Gutenberg; many 20th century works are under
+  copyright.
 - **Seed leads:**
   - *Convergence:* new scripture brought by a final or restoring prophet (LDS)
     ↔ Islamic prophetology.
@@ -355,26 +376,9 @@ expected relation types are **response** and **convergence**, plus
   - *Convergence:* the Quaker "Inner Light" ↔ the Sufi *nūr*.
   - *Convergence:* Swedenborg's spirit-world visions ↔ the Miʿrāj and Islamic
     eschatology.
-
-##### Modern philosophy and theology
-
-- **Scope:** Christian-rooted philosophy and theology from the 18th century
-  on: Hegel, Kierkegaard, Tillich, Teilhard de Chardin, Whitehead and process
-  theology, and Christian existentialism.
-- **Digital sources:** SKS (Kierkegaard, open), Project Gutenberg; many 20th
-  century works are under copyright.
-- **Seed leads:**
-  - *Response:* Muhammad Iqbal's *Reconstruction of Religious Thought in
-    Islam* engaging Bergson, Nietzsche, and contemporary Western philosophy.
-  - *Convergence:* Teilhard's Omega Point ↔ Islamic perfected-human
-    (*al-insān al-kāmil*) cosmology.
-  - *Convergence:* Tillich's "ground of being" ↔ Ibn ʿArabi's oneness of
-    being (*waḥdat al-wujūd*).
-  - *Convergence:* Kierkegaard's leap of faith ↔ al-Ghazali's *Deliverance
-    from Error*.
-- **Caveats:**
-  - These comparisons are conceptual, so specificity scoring matters even
-    more here. Generic resemblances ("both value faith") must be filtered out.
+  - *Convergence:* Tillich's "ground of being" ↔ the oneness of being.
+  - *Convergence:* Teilhard's Omega Point ↔ the perfected human
+    (*al-insān al-kāmil*).
 
 #### Samaritanism
 
@@ -398,6 +402,62 @@ expected relation types are **response** and **convergence**, plus
 - **Caveats:**
   - The corpus is small and less digitized. The community is small and
     living.
+
+### Western Philosophy (Enlightenment onward)
+
+From the Enlightenment on, Western philosophy becomes separable from
+Christianity, so it is tracked as its own tradition. All comparison happens
+in the concept layer (metaphysics, epistemology, ethics, philosophy of
+religion), regardless of dates.
+
+- **Phases:**
+  - **Enlightenment:** Voltaire, Rousseau, Lessing, Kant.
+  - **19th century:**
+    - German Idealism: Fichte, Schelling, Hegel.
+    - Romanticism: Goethe.
+    - Others: Schopenhauer, Kierkegaard, Marx, Nietzsche.
+  - **Continental:** Husserl, Heidegger, Sartre, Levinas, Derrida, Foucault,
+    and postmodernism; the Traditionalists (Guénon, Schuon).
+  - **Analytic:** Frege, Russell, Wittgenstein, Quine, and analytic
+    philosophy of religion (Plantinga, Swinburne, Craig).
+- **Languages:** German, French, English.
+- **Digital sources:**
+  - Project Gutenberg; Early Modern Texts.
+  - Open scholarly editions: Kant's *Akademie-Ausgabe*; SKS (Kierkegaard);
+    Nietzsche Source.
+  - Much 20th century material is under copyright, so it is limited to notes
+    and short excerpts.
+- **Concepts to tag:** being and existence; the essence/existence
+  distinction; necessity and contingency; causation; the self and
+  consciousness; the limits of reason vs. revelation; the absolute; time;
+  ethics without God; religious experience; perennialism.
+- **Seed leads:**
+  - *Response:* Lessing's *Nathan the Wise* (the ring parable); Voltaire's
+    *Mahomet*; Sale's English Quran (1734).
+  - *Convergence:* the Kantian limits of reason ↔ al-Ghazali's critique of
+    the philosophers.
+  - *Response:* Goethe's *West–Eastern Divan*, a response to Hafez.
+  - *Response:* Hegel's account of Islam in the *Philosophy of History*.
+  - *Response:* Schopenhauer reading the Upanishads via Dara Shikoh's
+    Persian translation (see Hinduism).
+  - *Convergence:* Kierkegaard's leap of faith ↔ al-Ghazali's *Deliverance
+    from Error*.
+  - *Convergence:* Nietzsche's eternal return ↔ cyclical cosmologies (Jain,
+    Hindu, Stoic).
+  - *Response:* Henry Corbin went from translating Heidegger to editing
+    Suhrawardi and Mulla Sadra.
+  - *Convergence:* Heidegger's question of Being ↔ Mulla Sadra's primacy of
+    existence.
+  - *Response:* Guénon (who converted to Islam) and the Traditionalist school.
+  - *Response:* Iqbal's *Reconstruction of Religious Thought in Islam*
+    engaging Bergson, Nietzsche, and Whitehead.
+  - *Reverse transmission:* the "Kalam cosmological argument" (Craig) ↔
+    al-Ghazali and the *mutakallimūn*.
+  - *Convergence:* Plantinga's "properly basic belief" ↔ the Islamic notion
+    of innate disposition (*fiṭra*).
+- **Caveats:**
+  - Conceptual comparisons attract generic matches, so specificity scoring
+    matters most here.
 
 ---
 

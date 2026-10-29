@@ -54,12 +54,14 @@ Every link the system proposes is classified as one of the following.
 
 The classification is a hypothesis attached to the lead, not a verdict.
 
-Traditions and movements that postdate Islam considerably, such as later
-Christian movements and modern philosophy, are compared mainly through a
-**concept layer**: metaphysics, theology, and philosophy, rather than words
-or stories. Their leads are mostly response or convergence, plus **reverse
-transmission** from the Islamic world (e.g., Avicenna and Averroes in
-scholasticism).
+Dates constrain transmission, not comparison. Any two traditions can be
+compared on metaphysical and philosophical engagement through the **concept
+layer** (being, the One, causation, the self, revelation vs. reason, and so
+on), whatever their chronology. Traditions that postdate Islam considerably,
+such as later Christian movements and Western philosophy from the
+Enlightenment onward, are compared mostly this way. Their leads are typically
+response or convergence, plus **reverse transmission** from the Islamic world
+(e.g., Avicenna and Averroes in scholasticism).
 
 ## Architecture
 
