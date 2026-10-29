@@ -1,0 +1,1213 @@
+new_motifs:
+  people-complain-in-wilderness: {label: "The people grumble against their leader for lack of water or food in the wilderness", cluster: exodus}
+  people-threaten-to-stone-leader: {label: "The people are about to stone their leader", cluster: exodus}
+  staff-of-wonders: {label: "A prophet's staff is the instrument of divine wonders", cluster: exodus}
+  water-from-struck-rock: {label: "Prophet strikes a rock and water flows out for the people", cluster: exodus}
+  god-stands-on-rock: {label: "God stands upon a rock before the prophet", cluster: theophany}
+  place-named-for-event: {label: "A place is named after what happened there", cluster: etiology}
+  testing-god: {label: "The people put God to the test", cluster: exodus}
+  amalek-attacks-israel: {label: "Amalek attacks Israel on the way", cluster: exodus}
+  joshua-as-commander: {label: "Joshua leads Israel's fighting men", cluster: exodus}
+  raised-hands-win-battle: {label: "Battle outcome depends on the leader keeping his hands raised", cluster: war}
+  arms-supported-by-two-men: {label: "Two men hold up the leader's tired arms, one on each side", cluster: war}
+  command-to-write-in-book: {label: "God commands a prophet to write something in a book as a memorial", cluster: scripture}
+  blot-out-memory-of-amalek: {label: "God vows to blot out the memory of Amalek", cluster: war}
+  altar-given-divine-name: {label: "An altar is given a name containing the divine name", cluster: cult}
+  eternal-war-with-amalek: {label: "God's war with Amalek lasts from generation to generation", cluster: war}
+  foreign-priest-father-in-law: {label: "The prophet's father-in-law is a foreign priest", cluster: exodus}
+  wife-sent-away-and-returned: {label: "The hero's wife and sons were sent away and are brought back to him", cluster: exodus}
+  sons-named-for-life-events: {label: "A father names his sons after events in his own life", cluster: naming}
+  foreigner-confesses-god-greatest: {label: "A foreigner declares that YHWH is greater than all gods", cluster: conversion}
+  foreign-priest-offers-sacrifice: {label: "A foreign priest offers sacrifice to Israel's God and shares a meal with the elders", cluster: cult}
+  mountain-of-god: {label: "A mountain called the mountain of God", cluster: cosmology}
+  leader-judges-alone-overburdened: {label: "The leader judges the people alone from morning to evening and is overburdened", cluster: law}
+  hierarchy-of-judges-thousands-hundreds-fifties-tens: {label: "Officers appointed over thousands, hundreds, fifties and tens", cluster: law}
+  qualities-of-judges: {label: "Judges must be capable, God-fearing, truthful and hate bribes", cluster: law}
+  hard-cases-referred-to-leader: {label: "Minor cases are judged by subordinates; hard cases go to the leader", cluster: law}
+  leader-takes-foreigners-advice: {label: "The prophet adopts an administrative reform suggested by a foreigner", cluster: law}
+  arrival-at-sinai-third-month: {label: "Israel arrives at Sinai in the third month after leaving Egypt", cluster: sinai}
+  borne-on-eagles-wings: {label: "God carried Israel on eagles' wings", cluster: sinai}
+  chosen-people-treasured-possession: {label: "Israel is God's treasured possession (segullah) among all peoples", cluster: covenant}
+  kingdom-of-priests: {label: "Israel is to be a kingdom of priests and a holy nation", cluster: covenant}
+  people-accept-covenant-we-will-do: {label: "The people answer as one: all that YHWH has spoken we will do", cluster: covenant}
+  god-comes-in-thick-cloud: {label: "God comes to the prophet in a thick cloud so the people may hear", cluster: theophany}
+  washing-garments-before-theophany: {label: "The people wash their garments to prepare for God's appearance", cluster: purity}
+  third-day-revelation: {label: "God descends or reveals himself on the third day", cluster: theophany}
+  holy-mountain-bounded-touching-is-death: {label: "A boundary is set round the holy mountain; whoever touches it dies", cluster: theophany}
+  ram-horn-signals-ascent: {label: "A ram's horn blast signals that the people may go up the mountain", cluster: theophany}
+  sexual-abstinence-before-holy-encounter: {label: "Men must not approach a woman before a holy encounter", cluster: purity}
+  theophany-thunder-lightning-trumpet: {label: "Theophany with thunder, lightning, thick cloud and a loud trumpet", cluster: theophany}
+  mountain-smokes-like-furnace-and-quakes: {label: "The mountain smokes like a furnace and quakes as God descends in fire", cluster: theophany}
+  god-answers-in-voice: {label: "Moses speaks and God answers him with a voice (thunder)", cluster: theophany}
+  danger-of-seeing-god: {label: "Seeing God or breaking through to him brings death", cluster: theophany}
+  priests-before-priesthood: {label: "Priests are mentioned before the Aaronic priesthood is instituted", cluster: cult}
+  ten-commandments: {label: "The Ten Commandments (Decalogue)", cluster: law}
+  god-self-identifies-as-liberator: {label: "God identifies himself as the one who brought Israel out of Egypt, the house of slaves", cluster: covenant}
+  prohibition-of-other-gods: {label: "No other gods before YHWH", cluster: law}
+  prohibition-of-images: {label: "Prohibition of carved images or likenesses of anything for worship", cluster: law}
+  jealous-god: {label: "God is a jealous God", cluster: theology}
+  punishment-to-third-and-fourth-generation: {label: "God visits the sins of fathers on children to the third and fourth generation but shows mercy to thousands", cluster: theology}
+  prohibition-false-oath-by-name: {label: "Do not take God's name in vain", cluster: law}
+  sabbath-rest: {label: "Sabbath rest on the seventh day for all, including servants, animals and strangers", cluster: law}
+  sabbath-grounded-in-creation: {label: "The Sabbath is justified by God's resting on the seventh day of creation", cluster: law}
+  honor-parents-long-life: {label: "Honor father and mother, with the promise of long life", cluster: law}
+  prohibition-murder-adultery-theft-false-witness: {label: "Prohibitions of murder, adultery, theft and false witness", cluster: law}
+  prohibition-of-coveting: {label: "Do not covet your neighbor's house, wife or property", cluster: law}
+  people-see-the-voices: {label: "The people 'see' the voices or thunder at the revelation", cluster: theophany}
+  people-ask-mediator: {label: "Terrified people ask the prophet to speak to them instead of God", cluster: theophany}
+  prophet-enters-thick-darkness: {label: "The prophet approaches the thick darkness where God is", cluster: theophany}
+  god-speaks-from-heaven: {label: "God declares that he spoke from heaven", cluster: theophany}
+  altar-of-earth: {label: "Altar to be made of earth", cluster: cult}
+  god-comes-where-name-remembered: {label: "God will come and bless in every place where he causes his name to be remembered", cluster: cult}
+  altar-of-unhewn-stone: {label: "A stone altar must not be of hewn stone; a tool profanes it", cluster: cult}
+  no-steps-to-altar-nakedness: {label: "No steps up to the altar, lest nakedness be exposed", cluster: cult}
+  release-of-slaves-seventh-year: {label: "Hebrew slaves are released in the seventh year", cluster: law}
+  slave-wife-and-children-stay-with-master: {label: "A wife given by the master and her children stay with the master when the slave goes free", cluster: law}
+  ear-pierced-at-doorpost-perpetual-slave: {label: "A slave who chooses to stay has his ear pierced with an awl at the door and serves for life", cluster: law}
+  daughter-sold-as-concubine-protections: {label: "A daughter sold as a slave-wife keeps rights to food, clothing and conjugal relations or goes free", cluster: law}
+  death-penalty-for-murder: {label: "Whoever strikes a man so that he dies shall be put to death", cluster: law}
+  city-of-refuge-accidental-killer: {label: "A place of refuge for one who kills unintentionally", cluster: law}
+  altar-asylum-denied-to-murderer: {label: "A deliberate murderer is taken even from God's altar", cluster: law}
+  striking-or-cursing-parents-capital: {label: "Striking or cursing father or mother is a capital crime", cluster: law}
+  kidnapping-capital: {label: "Kidnapping and selling a person is a capital crime", cluster: law}
+  compensation-for-lost-time-and-healing: {label: "One who injures another pays for his lost time and his healing", cluster: law}
+  master-kills-slave-avenged: {label: "A master who beats his slave to death is punished, unless the slave survives a day or two", cluster: law}
+  blow-to-pregnant-woman-miscarriage: {label: "Men fighting strike a pregnant woman and she miscarries", cluster: law}
+  eye-for-an-eye: {label: "Eye for an eye, tooth for a tooth (talion)", cluster: law}
+  slave-freed-for-lost-eye-or-tooth: {label: "A slave whose eye or tooth the master destroys goes free", cluster: law}
+  ox-that-gores: {label: "Laws of the goring ox and the warned owner", cluster: law}
+  animal-stoned-for-killing-human: {label: "An animal that kills a person is stoned and its flesh not eaten", cluster: law}
+  ransom-for-life-of-negligent-owner: {label: "A negligent owner may pay a ransom for his life", cluster: law}
+  thirty-shekels-price-of-slave: {label: "Thirty shekels of silver as the price for a slave", cluster: law}
+  uncovered-pit-liability: {label: "The owner of an uncovered pit pays for an animal that falls in", cluster: law}
+  fivefold-fourfold-restitution-for-stolen-livestock: {label: "Five oxen for a stolen ox and four sheep for a stolen sheep", cluster: law}
+  night-burglar-killed-no-bloodguilt: {label: "Killing a burglar caught breaking in at night incurs no bloodguilt, but by day it does", cluster: law}
+  thief-sold-for-theft: {label: "A thief who cannot pay is sold for his theft", cluster: law}
+  double-restitution: {label: "A thief pays double", cluster: law}
+  grazing-and-fire-damage-liability: {label: "Liability for one's grazing animals or spreading fire damaging another's field", cluster: law}
+  deposit-dispute-brought-before-god: {label: "A dispute over deposited goods is brought before God (ha-elohim) for decision", cluster: law}
+  oath-of-yhwh-settles-dispute: {label: "An oath by YHWH settles a dispute without witnesses", cluster: law}
+  torn-animal-as-evidence: {label: "A herdsman brings the remains of a torn animal as evidence and is not liable", cluster: law}
+  borrowed-animal-liability: {label: "Liability for a borrowed animal that dies when the owner is absent", cluster: law}
+  seducer-must-marry-or-pay-bride-price: {label: "A man who seduces an unbetrothed virgin must marry her or pay the bride-price", cluster: law}
+  sorceress-not-to-live: {label: "You shall not let a sorceress live", cluster: law}
+  bestiality-capital: {label: "Lying with an animal is a capital crime", cluster: law}
+  sacrifice-to-other-gods-herem: {label: "Whoever sacrifices to other gods is devoted to destruction", cluster: law}
+  protect-stranger-for-you-were-strangers: {label: "Do not oppress the stranger, for you were strangers in Egypt", cluster: law}
+  god-hears-cry-of-widow-and-orphan: {label: "God hears the cry of the oppressed widow and orphan and punishes measure for measure", cluster: law}
+  prohibition-of-interest: {label: "Do not charge interest to the poor of my people", cluster: law}
+  pledged-cloak-returned-by-sunset: {label: "A cloak taken in pledge must be returned before sunset", cluster: law}
+  do-not-curse-god-or-ruler: {label: "Do not revile God or curse a ruler of your people", cluster: law}
+  firstborn-belong-to-god: {label: "Firstborn sons and animals belong to God", cluster: cult}
+  animal-firstborn-seven-days-with-mother: {label: "A newborn animal stays seven days with its mother and is offered on the eighth", cluster: cult}
+  torn-meat-thrown-to-dogs: {label: "Flesh torn by beasts in the field is not eaten but thrown to dogs", cluster: law}
+  no-false-report-or-following-majority: {label: "Do not spread false reports or follow the majority to do wrong in court", cluster: law}
+  no-partiality-to-poor-in-court: {label: "Neither favor nor pervert justice for the poor in his lawsuit", cluster: law}
+  help-enemys-animal: {label: "Return your enemy's stray animal and help his overloaded donkey", cluster: law}
+  bribe-blinds-the-wise: {label: "A bribe blinds the clear-sighted and perverts the words of the righteous", cluster: law}
+  sabbatical-fallow-year: {label: "The land lies fallow in the seventh year for the poor and wild animals", cluster: law}
+  do-not-mention-other-gods-names: {label: "Do not invoke the names of other gods", cluster: law}
+  three-pilgrimage-festivals: {label: "Three annual pilgrimage festivals when every male appears before God", cluster: calendar}
+  not-appear-empty-handed: {label: "No one shall appear before God empty-handed", cluster: cult}
+  no-leaven-with-sacrificial-blood: {label: "Do not offer sacrificial blood with leavened bread; fat not left until morning", cluster: cult}
+  first-fruits-to-house-of-god: {label: "Bring the first fruits of the land to the house of God", cluster: cult}
+  kid-in-mothers-milk: {label: "Prohibition of boiling a kid in its mother's milk", cluster: law}
+  guiding-angel-bears-divine-name: {label: "God sends an angel ahead of Israel who bears God's name", cluster: angels}
+  obedience-brings-health-fertility-long-life: {label: "Obedience is rewarded with health, fertility and full lifespan", cluster: covenant}
+  divine-terror-precedes-army: {label: "God sends terror ahead to panic the enemies", cluster: war}
+  hornet-drives-out-enemies: {label: "God sends the hornet to drive out the inhabitants", cluster: war}
+  gradual-conquest-lest-wild-beasts-multiply: {label: "The inhabitants are driven out little by little, lest the land become desolate and wild beasts multiply", cluster: war}
+  borders-from-red-sea-to-euphrates: {label: "The promised borders run from the Red Sea to the Sea of the Philistines and to the River", cluster: land}
+  destroy-canaanite-pillars: {label: "Israel must tear down the standing stones of the Canaanite gods", cluster: law}
+  no-covenant-with-canaanites: {label: "Make no covenant with the inhabitants or their gods, who would be a snare", cluster: law}
+  seventy-elders: {label: "Seventy elders of Israel accompany or assist the prophet", cluster: sinai}
+  prophet-alone-draws-near: {label: "Only the prophet may approach God; the others stay at a distance", cluster: theophany}
+  prophet-writes-gods-words: {label: "The prophet writes down all of God's words", cluster: scripture}
+  twelve-pillars-for-twelve-tribes: {label: "Twelve standing stones or pillars set up for the twelve tribes", cluster: cult}
+  young-men-offer-sacrifices: {label: "Young men, not priests, offer the covenant sacrifices", cluster: cult}
+  blood-of-the-covenant: {label: "Sacrificial blood splashed on altar and people seals the covenant ('blood of the covenant')", cluster: covenant}
+  book-of-the-covenant-read-aloud: {label: "The book of the covenant is read aloud to the people", cluster: scripture}
+  elders-see-god-sapphire-pavement: {label: "Leaders see God with a sapphire-like pavement under his feet", cluster: theophany}
+  seeing-god-without-dying: {label: "People see God and are not harmed", cluster: theophany}
+  covenant-meal-before-god: {label: "A meal eaten in God's presence seals a covenant", cluster: covenant}
+  stone-tablets-written-by-god: {label: "God gives stone tablets he himself has written", cluster: sinai}
+  joshua-as-attendant: {label: "Joshua serves as Moses' attendant", cluster: exodus}
+  aaron-and-hur-left-in-charge: {label: "Aaron and Hur left in charge while Moses is on the mountain", cluster: sinai}
+  cloud-covers-mountain-six-days-call-on-seventh: {label: "The cloud covers the mountain six days and God calls on the seventh", cluster: theophany}
+  glory-as-devouring-fire: {label: "God's glory appears as a devouring fire", cluster: theophany}
+  forty-days-and-nights: {label: "A prophet spends forty days and forty nights in a set period", cluster: numbers}
+  voluntary-offering-for-sanctuary: {label: "Materials for the sanctuary come from the free-will gifts of all whose heart moves them", cluster: cult}
+  sanctuary-materials-list: {label: "List of precious materials for the sanctuary: metals, dyed yarns, linen, skins, wood, oil, spices, gems", cluster: cult}
+  tahash-skins: {label: "Covering of tahash skins (an unidentified animal)", cluster: cult}
+  god-dwells-among-people: {label: "God will dwell in the midst of the people in a sanctuary", cluster: cult}
+  heavenly-pattern-of-sanctuary: {label: "The sanctuary is built after a pattern shown by God on the mountain", cluster: cult}
+  ark-of-the-covenant: {label: "The ark of the covenant: a gold-plated acacia chest with rings and poles", cluster: cult}
+  carrying-poles-never-removed: {label: "The ark's carrying poles must never be removed", cluster: cult}
+  tablets-of-testimony-in-ark: {label: "The tablets of the testimony are placed inside the ark", cluster: cult}
+  mercy-seat-kapporet: {label: "A golden cover (kapporet, mercy seat) on top of the ark", cluster: cult}
+  two-cherubim-facing-with-spread-wings: {label: "Two golden cherubim face each other with wings spread over the ark", cluster: cult}
+  god-speaks-from-between-cherubim: {label: "God meets and speaks with Moses from between the cherubim", cluster: theophany}
+  table-of-showbread: {label: "A gold table with the bread of the presence always before God", cluster: cult}
+  seven-branched-lampstand: {label: "A golden seven-lamp lampstand with almond-blossom cups", cluster: cult}
+  hammered-from-single-piece: {label: "A cult object is hammered from a single piece of gold", cluster: cult}
+  tabernacle-curtains-with-cherubim: {label: "Tabernacle curtains or veil woven with cherubim", cluster: cult}
+  fifty-loops-and-clasps: {label: "Curtains joined by fifty loops and fifty clasps", cluster: cult}
+  eleven-goat-hair-curtains: {label: "Eleven goat-hair curtains form the tent over the tabernacle", cluster: cult}
+  layered-coverings-ram-skin-tahash: {label: "Outer coverings of red-dyed ram skins and tahash skins", cluster: cult}
+  acacia-frames-on-silver-bases: {label: "Tabernacle walls of acacia frames set in silver sockets", cluster: cult}
+  middle-bar-end-to-end: {label: "A middle bar runs through the frames from end to end", cluster: cult}
+  veil-separating-holy-of-holies: {label: "A veil (parokhet) divides the holy place from the holy of holies", cluster: cult}
+  holy-of-holies: {label: "The innermost room, the holy of holies, holds the ark", cluster: cult}
+  lampstand-south-table-north: {label: "The lampstand stands on the south side and the table on the north", cluster: cult}
+  embroidered-entrance-screen: {label: "An embroidered screen at the entrance of the tent or court", cluster: cult}
+  horned-altar: {label: "An altar with horns at its four corners", cluster: cult}
+  bronze-altar-with-grating: {label: "Bronze-plated altar of burnt offering with a bronze grating", cluster: cult}
+  hollow-portable-altar: {label: "The altar is hollow, made of boards and carried with poles", cluster: cult}
+  tabernacle-court-100-by-50: {label: "The tabernacle court measures 100 by 50 cubits with linen hangings", cluster: cult}
+  eternal-lamp-pure-olive-oil: {label: "A perpetual lamp fed with pure beaten olive oil", cluster: cult}
+  aaron-and-sons-chosen-as-priests: {label: "Aaron and his sons are designated as priests", cluster: priesthood}
+  craftsmen-filled-with-spirit-of-wisdom: {label: "God fills craftsmen with a spirit of wisdom for sacred work", cluster: cult}
+  holy-garments-for-glory-and-beauty: {label: "Priestly garments are made for glory and beauty", cluster: priesthood}
+  ephod: {label: "The ephod, a woven priestly garment with shoulder pieces", cluster: priesthood}
+  names-of-tribes-engraved-on-stones: {label: "The names of the twelve tribes are engraved like seals on gemstones", cluster: priesthood}
+  priest-bears-names-as-memorial: {label: "The priest carries Israel's names before God as a memorial", cluster: priesthood}
+  breastpiece-twelve-stones: {label: "The breastpiece of judgment set with twelve gems in four rows", cluster: priesthood}
+  urim-and-thummim: {label: "Urim and Thummim placed in the breastpiece for divine decision", cluster: divination}
+  robe-with-bells-and-pomegranates: {label: "The priest's robe has gold bells and pomegranates on its hem so he does not die", cluster: priesthood}
+  woven-collar-not-torn: {label: "The robe's neck opening is bound so it will not tear", cluster: priesthood}
+  gold-plate-holy-to-yhwh: {label: "A gold plate engraved 'Holy to YHWH' on the priest's forehead", cluster: priesthood}
+  anointing-and-filling-the-hand: {label: "Priests are installed by anointing and 'filling the hand'", cluster: priesthood}
+  linen-breeches-cover-nakedness: {label: "Priests wear linen breeches to cover their nakedness, on pain of death", cluster: priesthood}
+  unblemished-sacrificial-animal: {label: "Sacrificial animals must be without blemish", cluster: sacrifice}
+  basket-of-unleavened-bread-and-wafers: {label: "A basket of unleavened bread, oiled cakes and wafers is offered", cluster: sacrifice}
+  priests-washed-at-tent-entrance: {label: "Priests are washed with water at the entrance before ordination", cluster: purity}
+  anointing-oil-poured-on-head: {label: "Anointing oil is poured on the head of the priest", cluster: priesthood}
+  laying-hands-on-victim: {label: "The offerer lays his hand on the head of the animal", cluster: sacrifice}
+  blood-on-altar-horns: {label: "Blood is put on the horns of the altar with the finger and poured at its base", cluster: sacrifice}
+  fat-kidneys-liver-lobe-burned: {label: "The fat, the two kidneys and the lobe of the liver are burned on the altar", cluster: sacrifice}
+  sin-offering-burned-outside-camp: {label: "The flesh, skin and dung of the sin offering are burned outside the camp", cluster: sacrifice}
+  pleasing-odor-to-god: {label: "An offering by fire is a pleasing odor to God", cluster: sacrifice}
+  blood-on-right-ear-thumb-toe: {label: "Blood is daubed on the right earlobe, thumb and big toe", cluster: sacrifice}
+  sprinkling-blood-and-oil-on-garments: {label: "Blood and anointing oil are sprinkled on the priests and their garments", cluster: priesthood}
+  fat-tail-offering: {label: "The fat tail of the sheep is offered", cluster: sacrifice}
+  wave-offering: {label: "Portions are waved before God as a wave offering", cluster: sacrifice}
+  priestly-portion-breast-and-thigh: {label: "The breast and the right thigh are the priests' portion", cluster: sacrifice}
+  vestments-inherited-by-successor: {label: "The high priest's vestments pass to his successor, who wears them seven days", cluster: priesthood}
+  holy-food-forbidden-to-outsider: {label: "An outsider may not eat holy food", cluster: sacrifice}
+  leftover-sacred-meat-burned-by-morning: {label: "Sacred meat left over until morning is burned", cluster: sacrifice}
+  seven-day-ordination: {label: "Ordination of priests lasts seven days", cluster: priesthood}
+  altar-sanctifies-what-touches-it: {label: "Whatever touches the most holy altar or holy things becomes holy", cluster: cult}
+  daily-morning-and-evening-lamb: {label: "Two yearling lambs offered daily, morning and evening (tamid)", cluster: sacrifice}
+  libation-of-wine: {label: "A drink offering of wine accompanies a sacrifice", cluster: sacrifice}
+  tent-of-meeting-where-god-meets: {label: "The tent of meeting is where God meets Israel and speaks with Moses", cluster: cult}
+  golden-incense-altar: {label: "A small gold-plated altar for burning incense before the veil", cluster: cult}
+  incense-morning-and-evening: {label: "Incense is burned every morning and evening", cluster: cult}
+  strange-incense-forbidden: {label: "Unauthorized ('strange') incense or offerings are forbidden on the altar", cluster: cult}
+  annual-atonement-of-altar-horns: {label: "Once a year atonement is made on the altar's horns with blood", cluster: cult}
+  census-ransom-against-plague: {label: "Counting the people requires a ransom for each life to avert plague", cluster: cult}
+  half-shekel-equal-for-rich-and-poor: {label: "Every adult man pays half a shekel; the rich no more, the poor no less", cluster: cult}
+  atonement-silver-as-memorial: {label: "Atonement money funds the sanctuary as a memorial before God", cluster: cult}
+  bronze-laver-for-washing-hands-and-feet: {label: "A bronze laver where priests wash hands and feet before service, lest they die", cluster: purity}
+  holy-anointing-oil-recipe: {label: "Recipe of the holy anointing oil of myrrh, cinnamon, cane, cassia and olive oil", cluster: cult}
+  anointing-sanctifies-cult-objects: {label: "Anointing makes the tent and its furnishings holy", cluster: cult}
+  sacred-recipe-forbidden-for-private-use: {label: "Copying the sacred oil or incense for private use is forbidden on pain of being cut off", cluster: cult}
+  incense-recipe-four-spices: {label: "Sacred incense of stacte, onycha, galbanum and frankincense in equal parts, salted", cluster: cult}
+  karet-penalty: {label: "The offender 'shall be cut off from his people' (karet)", cluster: law}
+  craftsman-called-by-name: {label: "God calls a master craftsman by name for the sacred work", cluster: cult}
+  assistant-craftsman-from-dan: {label: "A second craftsman from the tribe of Dan assists the master craftsman", cluster: cult}
+  sabbath-as-covenant-sign: {label: "The Sabbath is an everlasting sign of the covenant between God and Israel", cluster: law}
+  death-for-sabbath-violation: {label: "Whoever works on the Sabbath shall be put to death", cluster: law}
+  god-refreshed-on-seventh-day: {label: "God rested and was refreshed on the seventh day", cluster: theology}
+  written-by-finger-of-god: {label: "Tablets written by the finger of God", cluster: sinai}
+  prophet-delayed-people-despair: {label: "The prophet's delay on the mountain makes the people lose faith", cluster: sinai}
+  golden-calf-made-from-earrings: {label: "A golden calf is made from the people's gold earrings", cluster: idolatry}
+  calf-proclaimed-as-god-of-exodus: {label: "The calf is hailed as the god who brought Israel out of Egypt", cluster: idolatry}
+  aaron-builds-altar-proclaims-feast: {label: "Aaron builds an altar before the calf and proclaims a feast to YHWH", cluster: idolatry}
+  idolatrous-feast-and-revelry: {label: "The people eat, drink and rise up to revel before the idol", cluster: idolatry}
+  stiff-necked-people: {label: "God calls Israel a stiff-necked people", cluster: covenant}
+  god-offers-to-make-prophet-a-new-nation: {label: "God proposes to destroy the people and make the prophet into a great nation", cluster: intercession}
+  prophet-intercedes-what-will-egyptians-say: {label: "The prophet intercedes for the people, arguing from God's reputation", cluster: intercession}
+  appeal-to-oath-to-patriarchs: {label: "Intercessor reminds God of his oath to Abraham, Isaac and Jacob", cluster: intercession}
+  god-relents: {label: "God relents from the evil he planned", cluster: intercession}
+  tablets-written-on-both-sides: {label: "The tablets are written on both sides by God", cluster: sinai}
+  sound-of-war-misheard: {label: "The noise of the idolatrous revelry is mistaken for the sound of battle", cluster: idolatry}
+  tablets-broken: {label: "The prophet breaks the tablets in anger at the idolatry", cluster: sinai}
+  idol-burned-ground-and-drunk: {label: "The idol is burned, ground to powder, scattered on water and the people made to drink it", cluster: idolatry}
+  aaron-blames-people-calf-came-out: {label: "Aaron excuses himself: the people pressed him and the calf came out of the fire", cluster: idolatry}
+  people-let-loose: {label: "The people run wild and become a derision to their enemies", cluster: idolatry}
+  who-is-for-yhwh-rally: {label: "The leader calls 'Who is for YHWH? To me!' and a group rallies", cluster: idolatry}
+  levites-kill-idolaters-kin: {label: "The Levites kill idolaters including their own kin and are consecrated for it", cluster: priesthood}
+  prophet-offers-to-be-blotted-from-gods-book: {label: "The prophet asks to be blotted from God's book if the people are not forgiven", cluster: intercession}
+  heavenly-book-of-life: {label: "God keeps a book in which names are written and from which sinners are blotted", cluster: cosmology}
+  plague-for-idolatry: {label: "God strikes the people with plague for idolatry", cluster: idolatry}
+  land-flowing-with-milk-and-honey: {label: "The promised land flows with milk and honey", cluster: land}
+  god-refuses-to-go-in-midst-lest-he-consume: {label: "God refuses to go among the people lest he consume them on the way", cluster: covenant}
+  ornaments-removed-in-mourning: {label: "The people strip off their ornaments in mourning or penitence", cluster: ritual}
+  tent-of-meeting-outside-camp: {label: "A tent of meeting pitched outside the camp where all who seek God go", cluster: cult}
+  people-stand-at-tent-doors-and-bow: {label: "The people stand at their tent doors and bow as the prophet goes to meet God", cluster: cult}
+  pillar-of-cloud-at-tent-door: {label: "The pillar of cloud descends and stands at the tent door", cluster: theophany}
+  god-speaks-face-to-face-as-to-a-friend: {label: "God speaks to the prophet face to face, as a man speaks to his friend", cluster: prophecy}
+  joshua-never-leaves-tent: {label: "Joshua, the young attendant, never leaves the tent", cluster: exodus}
+  known-by-name-found-favor: {label: "God tells the prophet: I know you by name and you have found favor", cluster: prophecy}
+  divine-presence-panim-goes-with-them: {label: "God's own Presence (face) will go with the people", cluster: theophany}
+  prophet-asks-to-see-gods-glory: {label: "The prophet asks to see God's glory", cluster: theophany}
+  i-will-be-gracious-to-whom-i-will: {label: "God declares he will be gracious to whom he will be gracious", cluster: theology}
+  no-man-sees-god-and-lives: {label: "No human can see God's face and live", cluster: theophany}
+  prophet-in-cleft-of-rock-sees-gods-back: {label: "God hides the prophet in a cleft of the rock, covers him with his hand, and lets him see only his back", cluster: theophany}
+  second-tablets-hewn-by-moses: {label: "Moses hews a second pair of tablets to replace the broken ones", cluster: sinai}
+  god-proclaims-own-name-and-attributes: {label: "God passes by and proclaims his name and attributes of mercy", cluster: theology}
+  intermarriage-leads-to-idolatry: {label: "Marrying foreign women will lead the sons into idolatry", cluster: law}
+  donkey-firstborn-redeemed-or-neck-broken: {label: "A firstborn donkey is redeemed with a lamb or its neck is broken", cluster: law}
+  sabbath-even-in-plowing-and-harvest: {label: "The Sabbath must be kept even in plowing and harvest time", cluster: law}
+  land-protected-during-pilgrimage: {label: "God promises no one will covet the land while the men go up on pilgrimage", cluster: calendar}
+  prophet-fasts-forty-days: {label: "The prophet neither eats nor drinks for forty days", cluster: asceticism}
+  prophets-face-shines-after-encounter: {label: "The prophet's face shines (or is 'horned') after speaking with God", cluster: theophany}
+  people-afraid-to-approach-prophet: {label: "The people fear to approach the prophet after his encounter with God", cluster: theophany}
+  prophet-veils-face: {label: "The prophet covers his radiant face with a veil", cluster: theophany}
+  no-fire-kindled-on-sabbath: {label: "No fire may be kindled in any dwelling on the Sabbath", cluster: law}
+  women-donate-jewelry: {label: "Men and women donate their jewelry to the sanctuary", cluster: cult}
+  skilled-women-spin-goat-hair: {label: "Skilled women spin yarn and goat hair for the sanctuary", cluster: cult}
+  chieftains-bring-gemstones: {label: "The tribal chieftains bring the gemstones, spices and oil", cluster: cult}
+  craftsmen-given-gift-of-teaching: {label: "God gives the master craftsmen the ability to teach others", cluster: cult}
+  donations-exceed-need-people-restrained: {label: "The people bring more than enough and must be told to stop giving", cluster: cult}
+  command-and-fulfillment-repetition: {label: "Execution of a divine command is narrated by repeating the command almost verbatim", cluster: style}
+  laver-from-womens-mirrors: {label: "The bronze laver is made from the mirrors of the women", cluster: cult}
+  women-serving-at-tent-entrance: {label: "Women who serve at the entrance of the tent of meeting", cluster: cult}
+  ithamar-oversees-levites: {label: "Ithamar son of Aaron supervises the Levites' work", cluster: priesthood}
+  temple-metal-inventory: {label: "An accounting of the gold, silver and bronze used for the sanctuary", cluster: cult}
+  census-603550: {label: "The count of Israelite men is 603,550", cluster: numbers}
+  one-talent-per-socket: {label: "One hundred silver talents make one hundred sockets, a talent each", cluster: cult}
+  gold-hammered-into-threads: {label: "Gold is beaten into sheets and cut into threads for weaving", cluster: cult}
+  as-yhwh-commanded-moses-refrain: {label: "The refrain 'as YHWH commanded Moses' recurs in a sevenfold pattern", cluster: style}
+  work-completed-echoes-creation: {label: "Completion of the sanctuary is narrated in the language of the completion of creation", cluster: cult}
+  leader-inspects-and-blesses-work: {label: "The leader sees the finished work and blesses the workers", cluster: cult}
+  sanctuary-erected-on-new-year-day: {label: "The sanctuary is erected on the first day of the first month", cluster: calendar}
+  perpetual-priesthood-by-anointing: {label: "Anointing confers an everlasting priesthood on the line", cluster: priesthood}
+  glory-fills-sanctuary-prophet-cannot-enter: {label: "The cloud and glory fill the sanctuary so that even the leader cannot enter", cluster: theophany}
+  cloud-lifts-signals-journey: {label: "When the cloud lifts from the tabernacle the people set out; otherwise they stay", cluster: exodus}
+  cloud-by-day-fire-by-night: {label: "A cloud by day and fire by night over the people", cluster: exodus}
+  god-calls-from-tent-of-meeting: {label: "God calls to Moses and speaks from the tent of meeting", cluster: cult}
+  whole-burnt-offering: {label: "The whole burnt offering ('olah) is entirely burned on the altar", cluster: sacrifice}
+  blood-dashed-around-altar: {label: "Priests dash the blood against all sides of the altar", cluster: sacrifice}
+  victim-flayed-and-cut-in-pieces: {label: "The victim is flayed and cut into its pieces", cluster: sacrifice}
+  entrails-and-legs-washed: {label: "The entrails and legs are washed with water before burning", cluster: sacrifice}
+  slaughter-north-of-altar: {label: "Flock animals are slaughtered on the north side of the altar", cluster: sacrifice}
+  poor-mans-bird-offering: {label: "Turtledoves or young pigeons may be offered (by those who cannot afford a lamb)", cluster: sacrifice}
+  bird-neck-pinched-melikah: {label: "The priest pinches off the bird's head with his fingernail (melikah)", cluster: sacrifice}
+  bird-crop-thrown-to-ash-heap-east: {label: "The bird's crop and feathers are thrown on the ash heap east of the altar", cluster: sacrifice}
+  bird-torn-by-wings-not-divided: {label: "The bird is torn open by its wings but not divided in two", cluster: sacrifice}
+  grain-offering-fine-flour-oil-frankincense: {label: "A grain offering of fine flour with oil and frankincense", cluster: sacrifice}
+  handful-token-portion-azkarah: {label: "The priest burns a handful as the token or 'memorial' portion (azkarah)", cluster: sacrifice}
+  remainder-most-holy-for-priests: {label: "The remainder of the offering is most holy and eaten by the priests", cluster: sacrifice}
+  baked-griddle-and-pan-offerings: {label: "Grain offerings baked in an oven, on a griddle or in a pan", cluster: sacrifice}
+  no-leaven-or-honey-on-altar: {label: "No leaven or honey may be burned on the altar", cluster: sacrifice}
+  first-fruits-not-burned-on-altar: {label: "First-fruit offerings are brought but not burned on the altar", cluster: sacrifice}
+  salt-of-the-covenant: {label: "Every offering must be salted with the salt of the covenant", cluster: sacrifice}
+  roasted-first-grain-offering: {label: "First-fruits grain offering of fresh ears roasted in fire", cluster: sacrifice}
+  peace-offering-shelamim: {label: "The well-being offering (shelamim), shared between altar, priest and offerer", cluster: sacrifice}
+  sacrifice-as-gods-food: {label: "The sacrifice is called God's food (lehem)", cluster: sacrifice}
+  all-fat-belongs-to-yhwh: {label: "All the fat belongs to YHWH", cluster: sacrifice}
+  prohibition-of-eating-blood: {label: "Eating blood is forbidden", cluster: law}
+  prohibition-of-eating-fat: {label: "Eating the fat (helev) of sacrificial animals is forbidden", cluster: law}
+  unintentional-sin-requires-offering: {label: "An offering is required for sins committed unintentionally", cluster: sacrifice}
+  graded-offering-by-rank: {label: "The required sacrifice is graded by the sinner's rank: priest, community, chieftain, commoner", cluster: sacrifice}
+  anointed-priest-sin-brings-guilt-on-people: {label: "The anointed priest's sin brings guilt on the whole people", cluster: priesthood}
+  blood-sprinkled-seven-times-before-veil: {label: "The priest sprinkles blood seven times before the veil", cluster: sacrifice}
+  elders-lay-hands-for-congregation: {label: "The elders lay hands on the offering on behalf of the community", cluster: sacrifice}
+  priest-atones-and-sin-forgiven: {label: "The priest makes atonement and the sinner is forgiven", cluster: sacrifice}
+  seven-fold-ritual-action: {label: "A ritual action is performed seven times", cluster: numbers}
+  witness-who-hears-adjuration-must-testify: {label: "A witness who hears a public adjuration and withholds testimony bears guilt", cluster: law}
+  touching-carcass-causes-impurity: {label: "Touching an unclean carcass or human impurity makes one guilty", cluster: purity}
+  rash-oath-requires-atonement: {label: "A rash oath spoken thoughtlessly requires atonement", cluster: law}
+  confession-of-sin: {label: "The sinner must confess the sin he committed", cluster: repentance}
+  offering-scaled-to-means: {label: "The offering is reduced for those who cannot afford it", cluster: sacrifice}
+  flour-sin-offering-without-oil-or-incense: {label: "The poorest bring a flour sin offering without oil or frankincense", cluster: sacrifice}
+  sacrilege-against-holy-things: {label: "Sacrilege (me'ilah) against the holy things of YHWH", cluster: cult}
+  restitution-plus-one-fifth: {label: "Restitution of the principal plus one fifth", cluster: law}
+  guilt-offering-ram-valued-in-silver: {label: "The guilt offering is a ram assessed in silver shekels", cluster: sacrifice}
+  guilt-for-unknowing-sin: {label: "One is guilty even for a sin committed without knowing", cluster: law}
+  wronging-neighbor-is-trespass-against-god: {label: "Defrauding a neighbor with a false oath is a trespass against God", cluster: law}
+  restitution-before-atonement: {label: "Restitution to the wronged person precedes the atonement offering", cluster: repentance}
+  torah-of-the-offering-formula: {label: "Section headed 'This is the instruction (torah) of the ... offering'", cluster: style}
+  perpetual-altar-fire-never-extinguished: {label: "The altar fire must burn continually and never go out", cluster: cult}
+  ash-removal-in-linen-then-change-garments: {label: "The priest removes the ashes in linen garments and changes clothes to take them out", cluster: cult}
+  high-priests-daily-griddle-offering: {label: "The anointed priest offers a daily griddle-cake grain offering, half morning half evening", cluster: sacrifice}
+  priests-own-grain-offering-wholly-burned: {label: "A priest's own grain offering is wholly burned and not eaten", cluster: sacrifice}
+  blood-stained-garment-washed-in-holy-place: {label: "A garment spattered with sin-offering blood is washed in a holy place", cluster: purity}
+  earthen-vessel-broken-bronze-scoured: {label: "An earthen vessel that held sacred meat is broken; a bronze one is scoured and rinsed", cluster: purity}
+  sin-offering-blood-inside-not-eaten: {label: "A sin offering whose blood is brought inside the sanctuary is burned, not eaten", cluster: sacrifice}
+  officiating-priest-gets-hide: {label: "The officiating priest receives the hide of the burnt offering", cluster: priesthood}
+  thanksgiving-offering-with-leavened-bread: {label: "The thanksgiving offering is accompanied by leavened loaves", cluster: sacrifice}
+  sacrifice-eaten-within-time-limit: {label: "Sacrificial meat must be eaten within a fixed time and leftovers burned", cluster: sacrifice}
+  piggul-third-day-meat-abhorrent: {label: "Sacrificial meat eaten on the third day is abhorrent (piggul) and the offering is invalid", cluster: sacrifice}
+  impure-person-eating-sacred-meat-cut-off: {label: "An impure person who eats sacred meat is cut off", cluster: purity}
+  fat-of-carcass-usable-not-edible: {label: "Fat of a carcass or torn animal may be used for work but not eaten", cluster: law}
+  offerer-brings-with-own-hands: {label: "The offerer must bring the offering with his own hands", cluster: sacrifice}
+  whole-congregation-assembled-at-tent: {label: "The whole congregation is assembled at the tent entrance to witness a rite", cluster: cult}
+  moses-acts-as-priest: {label: "Moses himself performs the priestly rites at the ordination", cluster: priesthood}
+units:
+  - id: hb-exod-17-water-from-rock
+    tradition: judaism
+    title: Water from the rock at Massah and Meribah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 17:1-7"]
+    tags:
+      - {motif: people-complain-in-wilderness, refs: ["Exod 17:2", "Exod 17:3"]}
+      - {motif: people-threaten-to-stone-leader, refs: ["Exod 17:4"], note: "'a little more and they will stone me'"}
+      - {motif: staff-of-wonders, refs: ["Exod 17:5"], note: "the same staff that struck the Nile"}
+      - {motif: water-from-struck-rock, refs: ["Exod 17:6"]}
+      - {motif: god-stands-on-rock, refs: ["Exod 17:6"], note: "'I will stand before you there on the rock at Horeb'"}
+      - {motif: place-named-for-event, refs: ["Exod 17:7"], note: "Massah ('testing') and Meribah ('quarrel')"}
+      - {motif: testing-god, refs: ["Exod 17:2", "Exod 17:7"], note: "'Is YHWH among us or not?'"}
+  - id: hb-exod-17-amalek
+    tradition: judaism
+    title: Battle with Amalek; Moses' raised hands
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 17:8-16"]
+    tags:
+      - {motif: amalek-attacks-israel, refs: ["Exod 17:8"]}
+      - {motif: joshua-as-commander, refs: ["Exod 17:9", "Exod 17:13"], note: "first appearance of Joshua"}
+      - {motif: raised-hands-win-battle, refs: ["Exod 17:11"], note: "Israel prevails while Moses' hand is raised, Amalek when it rests"}
+      - {motif: arms-supported-by-two-men, refs: ["Exod 17:12"], note: "Aaron and Hur hold up his hands, one on each side, seated on a stone, until sunset"}
+      - {motif: staff-of-wonders, refs: ["Exod 17:9"], note: "'the staff of God in my hand'"}
+      - {motif: command-to-write-in-book, refs: ["Exod 17:14"], note: "first command to write in the Torah"}
+      - {motif: blot-out-memory-of-amalek, refs: ["Exod 17:14"]}
+      - {motif: altar-given-divine-name, refs: ["Exod 17:15"], note: "YHWH-nissi, 'YHWH is my banner'"}
+      - {motif: eternal-war-with-amalek, refs: ["Exod 17:16"], note: "'hand upon the throne (kes) of Yah'; obscure form kes for kisse"}
+    hints:
+      - "Raised hands in prayer at battle: compare Quranic and hadith motifs of prophetic supplication at Badr; Christian typology (Barnabas 12) reads the outstretched arms as the cross."
+  - id: hb-exod-18-jethro
+    tradition: judaism
+    title: Jethro's visit and the appointment of judges
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 18:1-27"]
+    tags:
+      - {motif: foreign-priest-father-in-law, refs: ["Exod 18:1"], note: "Jethro, priest of Midian"}
+      - {motif: wife-sent-away-and-returned, refs: ["Exod 18:2"], note: "Zipporah 'after her sending away'"}
+      - {motif: sons-named-for-life-events, refs: ["Exod 18:3", "Exod 18:4"], note: "Gershom (sojourner in a foreign land), Eliezer (God my help, saved from Pharaoh's sword)"}
+      - {motif: foreigner-confesses-god-greatest, refs: ["Exod 18:10", "Exod 18:11"], note: "'now I know YHWH is greater than all gods'"}
+      - {motif: foreign-priest-offers-sacrifice, refs: ["Exod 18:12"], note: "Jethro offers burnt offering; Aaron and elders eat bread with him before God"}
+      - {motif: mountain-of-god, refs: ["Exod 18:5"]}
+      - {motif: leader-judges-alone-overburdened, refs: ["Exod 18:13", "Exod 18:14", "Exod 18:18"]}
+      - {motif: hierarchy-of-judges-thousands-hundreds-fifties-tens, refs: ["Exod 18:21", "Exod 18:25"]}
+      - {motif: qualities-of-judges, refs: ["Exod 18:21"], note: "capable, God-fearing, men of truth, hating bribes"}
+      - {motif: hard-cases-referred-to-leader, refs: ["Exod 18:22", "Exod 18:26"]}
+      - {motif: leader-takes-foreigners-advice, refs: ["Exod 18:24"]}
+    hints:
+      - "Quran 28:22-28 (Moses and the Midianite elder, often identified with Shu'ayb/Jethro). Deut 1:9-18 retells the judges without Jethro."
+  - id: hb-exod-19-sinai-theophany
+    tradition: judaism
+    title: Arrival at Sinai, covenant offer and theophany
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 19:1-25"]
+    tags:
+      - {motif: arrival-at-sinai-third-month, refs: ["Exod 19:1"]}
+      - {motif: borne-on-eagles-wings, refs: ["Exod 19:4"]}
+      - {motif: chosen-people-treasured-possession, refs: ["Exod 19:5"], note: "segullah 'from all peoples, for all the earth is mine'"}
+      - {motif: kingdom-of-priests, refs: ["Exod 19:6"]}
+      - {motif: people-accept-covenant-we-will-do, refs: ["Exod 19:8"]}
+      - {motif: god-comes-in-thick-cloud, refs: ["Exod 19:9"]}
+      - {motif: washing-garments-before-theophany, refs: ["Exod 19:10", "Exod 19:14"]}
+      - {motif: third-day-revelation, refs: ["Exod 19:11", "Exod 19:16"]}
+      - {motif: holy-mountain-bounded-touching-is-death, refs: ["Exod 19:12", "Exod 19:13", "Exod 19:23"], note: "transgressor stoned or shot, not touched by hand; beast or man"}
+      - {motif: ram-horn-signals-ascent, refs: ["Exod 19:13"], note: "'when the yovel sounds long, they may go up'"}
+      - {motif: sexual-abstinence-before-holy-encounter, refs: ["Exod 19:15"]}
+      - {motif: theophany-thunder-lightning-trumpet, refs: ["Exod 19:16", "Exod 19:19"]}
+      - {motif: mountain-smokes-like-furnace-and-quakes, refs: ["Exod 19:18"]}
+      - {motif: god-answers-in-voice, refs: ["Exod 19:19"]}
+      - {motif: danger-of-seeing-god, refs: ["Exod 19:21", "Exod 19:24"], note: "lest they break through to see and many fall"}
+      - {motif: priests-before-priesthood, refs: ["Exod 19:22", "Exod 19:24"], note: "priests mentioned before Aaron's ordination"}
+    hints:
+      - "Quran 7:171 and 2:63 (the mountain raised over Israel); rabbinic 'na'aseh ve-nishma'; Acts 2 Pentecost imagery (fire, sound)."
+  - id: hb-exod-20-decalogue
+    tradition: judaism
+    title: The Ten Words and the people's fear
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 20:1-21"]
+    tags:
+      - {motif: ten-commandments, refs: ["Exod 20:2-17"]}
+      - {motif: god-self-identifies-as-liberator, refs: ["Exod 20:2"]}
+      - {motif: prohibition-of-other-gods, refs: ["Exod 20:3"]}
+      - {motif: prohibition-of-images, refs: ["Exod 20:4", "Exod 20:5"], note: "heaven above, earth below, water under the earth"}
+      - {motif: jealous-god, refs: ["Exod 20:5"]}
+      - {motif: punishment-to-third-and-fourth-generation, refs: ["Exod 20:5", "Exod 20:6"], note: "mercy to thousands"}
+      - {motif: prohibition-false-oath-by-name, refs: ["Exod 20:7"]}
+      - {motif: sabbath-rest, refs: ["Exod 20:8-11"]}
+      - {motif: sabbath-grounded-in-creation, refs: ["Exod 20:11"]}
+      - {motif: honor-parents-long-life, refs: ["Exod 20:12"]}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["Exod 20:13", "Exod 20:14", "Exod 20:15", "Exod 20:16"]}
+      - {motif: prohibition-of-coveting, refs: ["Exod 20:17"]}
+      - {motif: people-see-the-voices, refs: ["Exod 20:18"], note: "'all the people were seeing the voices and the torches'"}
+      - {motif: people-ask-mediator, refs: ["Exod 20:19"], note: "'You speak with us... lest we die'"}
+      - {motif: prophet-enters-thick-darkness, refs: ["Exod 20:21"], note: "araphel where God is"}
+    hints:
+      - "Quran 17:22-39 and 6:151-153 as decalogue-like lists; Egyptian Book of the Dead 125 negative confession."
+  - id: hb-exod-20-altar-law
+    tradition: judaism
+    title: Altar law
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 20:22-26"]
+    tags:
+      - {motif: god-speaks-from-heaven, refs: ["Exod 20:22"]}
+      - {motif: prohibition-of-images, refs: ["Exod 20:23"], note: "gods of silver and gold"}
+      - {motif: altar-of-earth, refs: ["Exod 20:24"]}
+      - {motif: god-comes-where-name-remembered, refs: ["Exod 20:24"]}
+      - {motif: altar-of-unhewn-stone, refs: ["Exod 20:25"], note: "iron tool profanes it"}
+      - {motif: no-steps-to-altar-nakedness, refs: ["Exod 20:26"]}
+  - id: hb-exod-21-slave-laws
+    tradition: judaism
+    title: Covenant Code - Hebrew slaves
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 21:1-11"]
+    tags:
+      - {motif: release-of-slaves-seventh-year, refs: ["Exod 21:2"]}
+      - {motif: slave-wife-and-children-stay-with-master, refs: ["Exod 21:4"]}
+      - {motif: ear-pierced-at-doorpost-perpetual-slave, refs: ["Exod 21:5", "Exod 21:6"], note: "brought 'to God', ear bored with an awl at door or doorpost"}
+      - {motif: daughter-sold-as-concubine-protections, refs: ["Exod 21:7-11"], note: "food, clothing and conjugal rights (onah) not reduced; else she goes free"}
+  - id: hb-exod-21-bodily-injury
+    tradition: judaism
+    title: Covenant Code - homicide, injury and the goring ox
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 21:12-37"]
+    tags:
+      - {motif: death-penalty-for-murder, refs: ["Exod 21:12"]}
+      - {motif: city-of-refuge-accidental-killer, refs: ["Exod 21:13"], note: "'God let it happen to his hand... I will appoint a place to flee'"}
+      - {motif: altar-asylum-denied-to-murderer, refs: ["Exod 21:14"]}
+      - {motif: striking-or-cursing-parents-capital, refs: ["Exod 21:15", "Exod 21:17"]}
+      - {motif: kidnapping-capital, refs: ["Exod 21:16"]}
+      - {motif: compensation-for-lost-time-and-healing, refs: ["Exod 21:18", "Exod 21:19"], note: "walks on his staff outside"}
+      - {motif: master-kills-slave-avenged, refs: ["Exod 21:20", "Exod 21:21"], note: "not if he survives a day or two, 'for he is his money'"}
+      - {motif: blow-to-pregnant-woman-miscarriage, refs: ["Exod 21:22", "Exod 21:23"]}
+      - {motif: eye-for-an-eye, refs: ["Exod 21:23", "Exod 21:24", "Exod 21:25"], note: "life, eye, tooth, hand, foot, burn, wound, bruise"}
+      - {motif: slave-freed-for-lost-eye-or-tooth, refs: ["Exod 21:26", "Exod 21:27"]}
+      - {motif: ox-that-gores, refs: ["Exod 21:28-32", "Exod 21:35", "Exod 21:36"]}
+      - {motif: animal-stoned-for-killing-human, refs: ["Exod 21:28"], note: "its flesh not eaten"}
+      - {motif: ransom-for-life-of-negligent-owner, refs: ["Exod 21:30"], note: "kofer"}
+      - {motif: thirty-shekels-price-of-slave, refs: ["Exod 21:32"]}
+      - {motif: uncovered-pit-liability, refs: ["Exod 21:33", "Exod 21:34"]}
+      - {motif: fivefold-fourfold-restitution-for-stolen-livestock, refs: ["Exod 21:37"]}
+    hints:
+      - "Laws of Hammurabi 196-201 (talion), 209-214 (pregnant woman), 250-252 (goring ox); Laws of Eshnunna 53-55. Thirty pieces of silver: Zech 11:12, Matt 26:15. Quran 5:45 cites talion as in the Torah."
+  - id: hb-exod-22-property-laws
+    tradition: judaism
+    title: Covenant Code - theft, deposits, seduction
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 22:1-16"]
+    tags:
+      - {motif: night-burglar-killed-no-bloodguilt, refs: ["Exod 22:1", "Exod 22:2"], note: "but bloodguilt if 'the sun has risen on him'"}
+      - {motif: thief-sold-for-theft, refs: ["Exod 22:2"]}
+      - {motif: double-restitution, refs: ["Exod 22:3", "Exod 22:6", "Exod 22:8"]}
+      - {motif: grazing-and-fire-damage-liability, refs: ["Exod 22:4", "Exod 22:5"]}
+      - {motif: deposit-dispute-brought-before-god, refs: ["Exod 22:7", "Exod 22:8"], note: "ha-elohim decides; read by some as judges"}
+      - {motif: oath-of-yhwh-settles-dispute, refs: ["Exod 22:10"]}
+      - {motif: torn-animal-as-evidence, refs: ["Exod 22:12"]}
+      - {motif: borrowed-animal-liability, refs: ["Exod 22:13", "Exod 22:14"]}
+      - {motif: seducer-must-marry-or-pay-bride-price, refs: ["Exod 22:15", "Exod 22:16"]}
+    hints:
+      - "Laws of Eshnunna 12-13 and LH 21 (burglar killed at breach); LH 266 (lion kills animal in fold, shepherd clears himself before god)."
+  - id: hb-exod-22-apodictic-and-social-laws
+    tradition: judaism
+    title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 22:17-30"]
+    tags:
+      - {motif: sorceress-not-to-live, refs: ["Exod 22:17"], note: "feminine mekhashefah"}
+      - {motif: bestiality-capital, refs: ["Exod 22:18"]}
+      - {motif: sacrifice-to-other-gods-herem, refs: ["Exod 22:19"]}
+      - {motif: protect-stranger-for-you-were-strangers, refs: ["Exod 22:20"]}
+      - {motif: god-hears-cry-of-widow-and-orphan, refs: ["Exod 22:21", "Exod 22:22", "Exod 22:23"], note: "measure for measure, your wives become widows"}
+      - {motif: prohibition-of-interest, refs: ["Exod 22:24"]}
+      - {motif: pledged-cloak-returned-by-sunset, refs: ["Exod 22:25", "Exod 22:26"]}
+      - {motif: do-not-curse-god-or-ruler, refs: ["Exod 22:27"]}
+      - {motif: firstborn-belong-to-god, refs: ["Exod 22:28", "Exod 22:29"]}
+      - {motif: animal-firstborn-seven-days-with-mother, refs: ["Exod 22:29"], note: "given on the eighth day"}
+      - {motif: torn-meat-thrown-to-dogs, refs: ["Exod 22:30"]}
+    hints:
+      - "Quran 2:275-279 on riba; Quran 5:3 forbids flesh killed by a beast (ma akala al-sabu)."
+  - id: hb-exod-23-justice-sabbatical-festivals
+    tradition: judaism
+    title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 23:1-19"]
+    tags:
+      - {motif: no-false-report-or-following-majority, refs: ["Exod 23:1", "Exod 23:2"]}
+      - {motif: no-partiality-to-poor-in-court, refs: ["Exod 23:3", "Exod 23:6"]}
+      - {motif: help-enemys-animal, refs: ["Exod 23:4", "Exod 23:5"], note: "return stray ox; help unload fallen donkey of one who hates you"}
+      - {motif: bribe-blinds-the-wise, refs: ["Exod 23:8"]}
+      - {motif: protect-stranger-for-you-were-strangers, refs: ["Exod 23:9"], note: "'you know the soul of the stranger'"}
+      - {motif: sabbatical-fallow-year, refs: ["Exod 23:10", "Exod 23:11"], note: "poor and wild beasts eat"}
+      - {motif: sabbath-rest, refs: ["Exod 23:12"], note: "so the ox, donkey, slave and stranger may rest"}
+      - {motif: do-not-mention-other-gods-names, refs: ["Exod 23:13"]}
+      - {motif: three-pilgrimage-festivals, refs: ["Exod 23:14-17"], note: "Matzot, Harvest, Ingathering"}
+      - {motif: not-appear-empty-handed, refs: ["Exod 23:15"]}
+      - {motif: no-leaven-with-sacrificial-blood, refs: ["Exod 23:18"]}
+      - {motif: first-fruits-to-house-of-god, refs: ["Exod 23:19"]}
+      - {motif: kid-in-mothers-milk, refs: ["Exod 23:19"]}
+  - id: hb-exod-23-angel-and-conquest
+    tradition: judaism
+    title: The angel sent ahead and promises of conquest
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 23:20-33"]
+    tags:
+      - {motif: guiding-angel-bears-divine-name, refs: ["Exod 23:20", "Exod 23:21", "Exod 23:23"], note: "'my name is in him'; he will not forgive transgression"}
+      - {motif: obedience-brings-health-fertility-long-life, refs: ["Exod 23:25", "Exod 23:26"], note: "no miscarrying or barren woman"}
+      - {motif: divine-terror-precedes-army, refs: ["Exod 23:27"]}
+      - {motif: hornet-drives-out-enemies, refs: ["Exod 23:28"]}
+      - {motif: gradual-conquest-lest-wild-beasts-multiply, refs: ["Exod 23:29", "Exod 23:30"]}
+      - {motif: borders-from-red-sea-to-euphrates, refs: ["Exod 23:31"]}
+      - {motif: destroy-canaanite-pillars, refs: ["Exod 23:24"]}
+      - {motif: no-covenant-with-canaanites, refs: ["Exod 23:32", "Exod 23:33"], note: "a snare (moqesh)"}
+    hints:
+      - "Rabbinic and Christian identification of the name-bearing angel with Metatron (b. Sanh 38b) or the Logos."
+  - id: hb-exod-24-covenant-ratification
+    tradition: judaism
+    title: Covenant ratified in blood; the elders see God
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 24:1-11"]
+    tags:
+      - {motif: seventy-elders, refs: ["Exod 24:1", "Exod 24:9"]}
+      - {motif: prophet-alone-draws-near, refs: ["Exod 24:2"]}
+      - {motif: people-accept-covenant-we-will-do, refs: ["Exod 24:3", "Exod 24:7"], note: "'we will do and we will hear' (na'aseh ve-nishma) in 24:7"}
+      - {motif: prophet-writes-gods-words, refs: ["Exod 24:4"]}
+      - {motif: twelve-pillars-for-twelve-tribes, refs: ["Exod 24:4"]}
+      - {motif: young-men-offer-sacrifices, refs: ["Exod 24:5"], note: "na'arei bnei Yisrael, not priests"}
+      - {motif: blood-of-the-covenant, refs: ["Exod 24:6", "Exod 24:8"], note: "half the blood on the altar, half sprinkled on the people"}
+      - {motif: book-of-the-covenant-read-aloud, refs: ["Exod 24:7"]}
+      - {motif: elders-see-god-sapphire-pavement, refs: ["Exod 24:10"], note: "under his feet like a work of sapphire brick, like the very heaven for clarity"}
+      - {motif: seeing-god-without-dying, refs: ["Exod 24:11"], note: "'he did not stretch out his hand'"}
+      - {motif: covenant-meal-before-god, refs: ["Exod 24:11"], note: "they beheld God and ate and drank"}
+    hints:
+      - "Blood of the covenant: Mark 14:24, Heb 9:18-22. Sapphire pavement: Ezek 1:26; rabbinic tradition of the sapphire brick as a memorial of the bondage."
+  - id: hb-exod-24-moses-ascends
+    tradition: judaism
+    title: Moses ascends into the cloud for forty days
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 24:12-18"]
+    tags:
+      - {motif: stone-tablets-written-by-god, refs: ["Exod 24:12"]}
+      - {motif: joshua-as-attendant, refs: ["Exod 24:13"]}
+      - {motif: aaron-and-hur-left-in-charge, refs: ["Exod 24:14"]}
+      - {motif: cloud-covers-mountain-six-days-call-on-seventh, refs: ["Exod 24:16"]}
+      - {motif: glory-as-devouring-fire, refs: ["Exod 24:17"]}
+      - {motif: forty-days-and-nights, refs: ["Exod 24:18"]}
+    hints:
+      - "Quran 2:51 and 7:142 (forty nights appointment of Moses); Jesus' forty days, Matt 4:2."
+  - id: hb-exod-25-offering-ark-table-lampstand
+    tradition: judaism
+    title: Contribution for the sanctuary; ark, cover, table and lampstand
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 25:1-40"]
+    tags:
+      - {motif: voluntary-offering-for-sanctuary, refs: ["Exod 25:2"], note: "from everyone whose heart moves him"}
+      - {motif: sanctuary-materials-list, refs: ["Exod 25:3-7"], note: "gold, silver, bronze, blue, purple, scarlet, linen, goat hair, red ram skins, tahash skins, acacia, oil, spices, onyx"}
+      - {motif: tahash-skins, refs: ["Exod 25:5"], note: "unidentified animal; rabbinic one-horned creature"}
+      - {motif: god-dwells-among-people, refs: ["Exod 25:8"]}
+      - {motif: heavenly-pattern-of-sanctuary, refs: ["Exod 25:9", "Exod 25:40"], note: "tavnit shown to Moses on the mountain"}
+      - {motif: ark-of-the-covenant, refs: ["Exod 25:10-16"]}
+      - {motif: vessel-dimensions-given, refs: ["Exod 25:10", "Exod 25:17", "Exod 25:23"], note: "ark 2.5 x 1.5 x 1.5 cubits; cover and table also measured (aron, not tevah as for Noah)"}
+      - {motif: carrying-poles-never-removed, refs: ["Exod 25:15"]}
+      - {motif: tablets-of-testimony-in-ark, refs: ["Exod 25:16", "Exod 25:21"]}
+      - {motif: mercy-seat-kapporet, refs: ["Exod 25:17", "Exod 25:21"]}
+      - {motif: two-cherubim-facing-with-spread-wings, refs: ["Exod 25:18", "Exod 25:19", "Exod 25:20"]}
+      - {motif: god-speaks-from-between-cherubim, refs: ["Exod 25:22"]}
+      - {motif: table-of-showbread, refs: ["Exod 25:23-30"], note: "lehem panim 'bread of the face' always before me"}
+      - {motif: seven-branched-lampstand, refs: ["Exod 25:31-39"], note: "almond-blossom cups, knobs and flowers; one talent of pure gold"}
+      - {motif: hammered-from-single-piece, refs: ["Exod 25:18", "Exod 25:31", "Exod 25:36"], note: "miqshah"}
+    hints:
+      - "Heavenly pattern: Heb 8:5; Gudea cylinders (temple plan in a dream); Wisdom 9:8. Lampstand as stylized tree: compare tree-of-life imagery; Zech 4; Rev 1:12."
+  - id: hb-exod-26-tabernacle-structure
+    tradition: judaism
+    title: Tabernacle curtains, frames and veil
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 26:1-37"]
+    tags:
+      - {motif: tabernacle-curtains-with-cherubim, refs: ["Exod 26:1", "Exod 26:31"]}
+      - {motif: fifty-loops-and-clasps, refs: ["Exod 26:5", "Exod 26:6", "Exod 26:10", "Exod 26:11"], note: "gold clasps on inner curtains, bronze on goat-hair tent"}
+      - {motif: eleven-goat-hair-curtains, refs: ["Exod 26:7", "Exod 26:8"]}
+      - {motif: layered-coverings-ram-skin-tahash, refs: ["Exod 26:14"]}
+      - {motif: tahash-skins, refs: ["Exod 26:14"]}
+      - {motif: acacia-frames-on-silver-bases, refs: ["Exod 26:15-25"], note: "two tenons per frame, two silver sockets"}
+      - {motif: middle-bar-end-to-end, refs: ["Exod 26:28"]}
+      - {motif: heavenly-pattern-of-sanctuary, refs: ["Exod 26:30"]}
+      - {motif: veil-separating-holy-of-holies, refs: ["Exod 26:31", "Exod 26:33"]}
+      - {motif: holy-of-holies, refs: ["Exod 26:33", "Exod 26:34"]}
+      - {motif: lampstand-south-table-north, refs: ["Exod 26:35"]}
+      - {motif: embroidered-entrance-screen, refs: ["Exod 26:36", "Exod 26:37"]}
+    hints:
+      - "Veil torn at the crucifixion, Matt 27:51; Heb 10:20 veil as flesh. Feminine idiom 'a woman to her sister' for joined curtains (26:3)."
+  - id: hb-exod-27-altar-court-oil
+    tradition: judaism
+    title: Bronze altar, courtyard and lamp oil
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 27:1-21"]
+    tags:
+      - {motif: horned-altar, refs: ["Exod 27:2"]}
+      - {motif: bronze-altar-with-grating, refs: ["Exod 27:1", "Exod 27:4", "Exod 27:5"]}
+      - {motif: hollow-portable-altar, refs: ["Exod 27:7", "Exod 27:8"]}
+      - {motif: heavenly-pattern-of-sanctuary, refs: ["Exod 27:8"]}
+      - {motif: tabernacle-court-100-by-50, refs: ["Exod 27:9-18"]}
+      - {motif: eternal-lamp-pure-olive-oil, refs: ["Exod 27:20", "Exod 27:21"], note: "beaten oil, ner tamid from evening to morning"}
+  - id: hb-exod-28-priestly-vestments
+    tradition: judaism
+    title: The high priest's vestments
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 28:1-43"]
+    tags:
+      - {motif: aaron-and-sons-chosen-as-priests, refs: ["Exod 28:1"]}
+      - {motif: craftsmen-filled-with-spirit-of-wisdom, refs: ["Exod 28:3"]}
+      - {motif: holy-garments-for-glory-and-beauty, refs: ["Exod 28:2", "Exod 28:40"]}
+      - {motif: ephod, refs: ["Exod 28:6-14"]}
+      - {motif: names-of-tribes-engraved-on-stones, refs: ["Exod 28:9", "Exod 28:10", "Exod 28:11", "Exod 28:21"], note: "six on each shoulder stone, by birth order; seal engraving"}
+      - {motif: priest-bears-names-as-memorial, refs: ["Exod 28:12", "Exod 28:29"]}
+      - {motif: breastpiece-twelve-stones, refs: ["Exod 28:15-21"], note: "four rows: odem, pitdah, bareqet / nofekh, sappir, yahalom / leshem, shevo, ahlamah / tarshish, shoham, yashfeh"}
+      - {motif: urim-and-thummim, refs: ["Exod 28:30"]}
+      - {motif: robe-with-bells-and-pomegranates, refs: ["Exod 28:31-35"], note: "sound heard so he will not die"}
+      - {motif: woven-collar-not-torn, refs: ["Exod 28:32"], note: "like the opening of a coat of mail (tahra)"}
+      - {motif: gold-plate-holy-to-yhwh, refs: ["Exod 28:36", "Exod 28:37", "Exod 28:38"], note: "on forehead; bears the iniquity of the holy things"}
+      - {motif: anointing-and-filling-the-hand, refs: ["Exod 28:41"]}
+      - {motif: linen-breeches-cover-nakedness, refs: ["Exod 28:42", "Exod 28:43"]}
+    hints:
+      - "Twelve gems: Rev 21:19-20 foundations; Ezek 28:13 king of Tyre's stones. Bells on hem: Sir 45:9; Josephus on cosmic symbolism of the vestments. Seamless robe: John 19:23."
+  - id: hb-exod-29-ordination-rite
+    tradition: judaism
+    title: Ordination of the priests
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 29:1-37"]
+    tags:
+      - {motif: unblemished-sacrificial-animal, refs: ["Exod 29:1"]}
+      - {motif: basket-of-unleavened-bread-and-wafers, refs: ["Exod 29:2", "Exod 29:3", "Exod 29:23"]}
+      - {motif: priests-washed-at-tent-entrance, refs: ["Exod 29:4"]}
+      - {motif: anointing-oil-poured-on-head, refs: ["Exod 29:7"]}
+      - {motif: laying-hands-on-victim, refs: ["Exod 29:10", "Exod 29:15", "Exod 29:19"]}
+      - {motif: blood-on-altar-horns, refs: ["Exod 29:12"]}
+      - {motif: fat-kidneys-liver-lobe-burned, refs: ["Exod 29:13", "Exod 29:22"]}
+      - {motif: sin-offering-burned-outside-camp, refs: ["Exod 29:14"]}
+      - {motif: pleasing-odor-to-god, refs: ["Exod 29:18", "Exod 29:25", "Exod 29:41"]}
+      - {motif: blood-on-right-ear-thumb-toe, refs: ["Exod 29:20"]}
+      - {motif: sprinkling-blood-and-oil-on-garments, refs: ["Exod 29:21"]}
+      - {motif: fat-tail-offering, refs: ["Exod 29:22"], note: "alyah"}
+      - {motif: wave-offering, refs: ["Exod 29:24", "Exod 29:26", "Exod 29:27"]}
+      - {motif: priestly-portion-breast-and-thigh, refs: ["Exod 29:26", "Exod 29:27", "Exod 29:28"]}
+      - {motif: vestments-inherited-by-successor, refs: ["Exod 29:29", "Exod 29:30"]}
+      - {motif: holy-food-forbidden-to-outsider, refs: ["Exod 29:33"]}
+      - {motif: leftover-sacred-meat-burned-by-morning, refs: ["Exod 29:34"]}
+      - {motif: seven-day-ordination, refs: ["Exod 29:35", "Exod 29:37"]}
+      - {motif: altar-sanctifies-what-touches-it, refs: ["Exod 29:37"]}
+  - id: hb-exod-29-tamid
+    tradition: judaism
+    title: The daily offering and God's dwelling
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 29:38-46"]
+    tags:
+      - {motif: daily-morning-and-evening-lamb, refs: ["Exod 29:38", "Exod 29:39", "Exod 29:42"], note: "bein ha-arbayim 'between the evenings'"}
+      - {motif: libation-of-wine, refs: ["Exod 29:40"]}
+      - {motif: tent-of-meeting-where-god-meets, refs: ["Exod 29:42", "Exod 29:43"]}
+      - {motif: god-dwells-among-people, refs: ["Exod 29:45", "Exod 29:46"], note: "purpose of the exodus is that God may dwell among them"}
+    hints:
+      - "Daily offerings parallel to Islamic fixed prayer times (rabbinic derivation of shaharit and minhah from the tamid)."
+  - id: hb-exod-30-incense-altar-census-laver
+    tradition: judaism
+    title: Incense altar, half-shekel ransom and bronze laver
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 30:1-21"]
+    tags:
+      - {motif: golden-incense-altar, refs: ["Exod 30:1", "Exod 30:2", "Exod 30:3", "Exod 30:6"]}
+      - {motif: incense-morning-and-evening, refs: ["Exod 30:7", "Exod 30:8"], note: "when trimming and lighting the lamps"}
+      - {motif: strange-incense-forbidden, refs: ["Exod 30:9"]}
+      - {motif: annual-atonement-of-altar-horns, refs: ["Exod 30:10"]}
+      - {motif: census-ransom-against-plague, refs: ["Exod 30:12"], note: "counting heads brings plague unless ransom is paid"}
+      - {motif: half-shekel-equal-for-rich-and-poor, refs: ["Exod 30:13", "Exod 30:14", "Exod 30:15"], note: "shekel of the sanctuary = 20 gerah; from age twenty up"}
+      - {motif: atonement-silver-as-memorial, refs: ["Exod 30:16"]}
+      - {motif: bronze-laver-for-washing-hands-and-feet, refs: ["Exod 30:18", "Exod 30:19", "Exod 30:20", "Exod 30:21"], note: "'so that they do not die'"}
+    hints:
+      - "Census danger: 2 Sam 24. Ritual washing of hands and feet before worship: compare Islamic wudu (Quran 5:6)."
+  - id: hb-exod-30-anointing-oil-incense
+    tradition: judaism
+    title: Recipes of the holy anointing oil and incense
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 30:22-38"]
+    tags:
+      - {motif: holy-anointing-oil-recipe, refs: ["Exod 30:23", "Exod 30:24", "Exod 30:25"], note: "myrrh 500, cinnamon 250, fragrant cane 250, cassia 500 shekels, a hin of olive oil"}
+      - {motif: anointing-sanctifies-cult-objects, refs: ["Exod 30:26-29"]}
+      - {motif: altar-sanctifies-what-touches-it, refs: ["Exod 30:29"]}
+      - {motif: sacred-recipe-forbidden-for-private-use, refs: ["Exod 30:32", "Exod 30:33", "Exod 30:37", "Exod 30:38"], note: "penalty karet"}
+      - {motif: incense-recipe-four-spices, refs: ["Exod 30:34", "Exod 30:35", "Exod 30:36"], note: "stacte (nataf), onycha (shehelet), galbanum, pure frankincense; salted"}
+      - {motif: karet-penalty, refs: ["Exod 30:33", "Exod 30:38"]}
+    hints:
+      - "Christian chrism; Egyptian kyphi incense recipes; Greek Magical Papyri on sacred recipes kept secret."
+  - id: hb-exod-31-bezalel-sabbath-tablets
+    tradition: judaism
+    title: Bezalel and Oholiab; Sabbath as sign; the tablets
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 31:1-18"]
+    tags:
+      - {motif: craftsman-called-by-name, refs: ["Exod 31:2"], note: "Bezalel son of Uri son of Hur of Judah"}
+      - {motif: craftsmen-filled-with-spirit-of-wisdom, refs: ["Exod 31:3", "Exod 31:6"]}
+      - {motif: assistant-craftsman-from-dan, refs: ["Exod 31:6"], note: "Oholiab son of Ahisamakh"}
+      - {motif: sabbath-as-covenant-sign, refs: ["Exod 31:13", "Exod 31:16", "Exod 31:17"]}
+      - {motif: death-for-sabbath-violation, refs: ["Exod 31:14", "Exod 31:15"]}
+      - {motif: god-refreshed-on-seventh-day, refs: ["Exod 31:17"], note: "vayinnafash, God 'caught his breath'"}
+      - {motif: sabbath-grounded-in-creation, refs: ["Exod 31:17"]}
+      - {motif: written-by-finger-of-god, refs: ["Exod 31:18"]}
+      - {motif: stone-tablets-written-by-god, refs: ["Exod 31:18"]}
+    hints:
+      - "Quran 50:38 'no weariness touched us' reads as a rebuttal of God resting/refreshing. Bezalel and divine wisdom in craft: Ugaritic Kothar-wa-Hasis."
+  - id: hb-exod-32-golden-calf
+    tradition: judaism
+    title: The golden calf
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 32:1-14"]
+    tags:
+      - {motif: prophet-delayed-people-despair, refs: ["Exod 32:1"], note: "'this Moses... we do not know what has become of him'"}
+      - {motif: golden-calf-made-from-earrings, refs: ["Exod 32:2", "Exod 32:3", "Exod 32:4"]}
+      - {motif: calf-proclaimed-as-god-of-exodus, refs: ["Exod 32:4", "Exod 32:8"], note: "'These are your gods, Israel, who brought you up'"}
+      - {motif: aaron-builds-altar-proclaims-feast, refs: ["Exod 32:5"], note: "'a feast to YHWH tomorrow'"}
+      - {motif: idolatrous-feast-and-revelry, refs: ["Exod 32:6"], note: "sat to eat and drink and rose to play (letzaheq)"}
+      - {motif: stiff-necked-people, refs: ["Exod 32:9"]}
+      - {motif: god-offers-to-make-prophet-a-new-nation, refs: ["Exod 32:10"], note: "'leave me alone... I will make you a great nation'"}
+      - {motif: prophet-intercedes-what-will-egyptians-say, refs: ["Exod 32:11", "Exod 32:12"]}
+      - {motif: appeal-to-oath-to-patriarchs, refs: ["Exod 32:13"]}
+      - {motif: god-relents, refs: ["Exod 32:14"]}
+    hints:
+      - "Quran 20:83-98 and 7:148-154: the Samiri fashions the calf that lows; Aaron pleads 'do not seize me by my beard'; Moses burns and scatters it in the sea. 1 Kgs 12:28 Jeroboam's calves use the same formula."
+  - id: hb-exod-32-tablets-broken-levites
+    tradition: judaism
+    title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 32:15-35"]
+    tags:
+      - {motif: tablets-written-on-both-sides, refs: ["Exod 32:15", "Exod 32:16"], note: "the writing was God's writing, engraved (harut)"}
+      - {motif: sound-of-war-misheard, refs: ["Exod 32:17", "Exod 32:18"], note: "Joshua hears war; Moses hears singing (annot)"}
+      - {motif: tablets-broken, refs: ["Exod 32:19"]}
+      - {motif: idol-burned-ground-and-drunk, refs: ["Exod 32:20"], note: "powder scattered on water, Israel made to drink"}
+      - {motif: aaron-blames-people-calf-came-out, refs: ["Exod 32:22", "Exod 32:23", "Exod 32:24"], note: "'I threw it into the fire and this calf came out'"}
+      - {motif: people-let-loose, refs: ["Exod 32:25"], note: "parua, a derision to their enemies"}
+      - {motif: who-is-for-yhwh-rally, refs: ["Exod 32:26"]}
+      - {motif: levites-kill-idolaters-kin, refs: ["Exod 32:27", "Exod 32:28", "Exod 32:29"], note: "about three thousand; ordination by killing son and brother"}
+      - {motif: prophet-offers-to-be-blotted-from-gods-book, refs: ["Exod 32:32", "Exod 32:33"]}
+      - {motif: heavenly-book-of-life, refs: ["Exod 32:32", "Exod 32:33"]}
+      - {motif: guiding-angel-bears-divine-name, refs: ["Exod 32:34"]}
+      - {motif: plague-for-idolatry, refs: ["Exod 32:35"]}
+    hints:
+      - "Quran 20:97 (the Samiri's calf burned and scattered in the sea); Quran 2:54 'kill yourselves' as atonement for the calf; Paul's wish to be accursed for his kin, Rom 9:3; Rev 3:5 book of life; Num 5 ordeal of drinking."
+  - id: hb-exod-33-tent-and-glory
+    tradition: judaism
+    title: Mourning, the tent outside the camp, and Moses sees God's back
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 33:1-23"]
+    tags:
+      - {motif: land-flowing-with-milk-and-honey, refs: ["Exod 33:3"]}
+      - {motif: god-refuses-to-go-in-midst-lest-he-consume, refs: ["Exod 33:3", "Exod 33:5"]}
+      - {motif: ornaments-removed-in-mourning, refs: ["Exod 33:4", "Exod 33:5", "Exod 33:6"], note: "stripped from Mount Horeb onward"}
+      - {motif: tent-of-meeting-outside-camp, refs: ["Exod 33:7"]}
+      - {motif: people-stand-at-tent-doors-and-bow, refs: ["Exod 33:8", "Exod 33:10"]}
+      - {motif: pillar-of-cloud-at-tent-door, refs: ["Exod 33:9", "Exod 33:10"]}
+      - {motif: god-speaks-face-to-face-as-to-a-friend, refs: ["Exod 33:11"]}
+      - {motif: joshua-never-leaves-tent, refs: ["Exod 33:11"]}
+      - {motif: known-by-name-found-favor, refs: ["Exod 33:12", "Exod 33:17"]}
+      - {motif: divine-presence-panim-goes-with-them, refs: ["Exod 33:14", "Exod 33:15"]}
+      - {motif: prophet-asks-to-see-gods-glory, refs: ["Exod 33:18"]}
+      - {motif: i-will-be-gracious-to-whom-i-will, refs: ["Exod 33:19"]}
+      - {motif: no-man-sees-god-and-lives, refs: ["Exod 33:20"]}
+      - {motif: prophet-in-cleft-of-rock-sees-gods-back, refs: ["Exod 33:21", "Exod 33:22", "Exod 33:23"], note: "God covers him with his hand (kappi) until he passes"}
+    hints:
+      - "Quran 7:143: Moses asks 'my Lord, show yourself to me', is told 'you will not see me, but look at the mountain', which crumbles and Moses falls unconscious. 1 Kgs 19 Elijah at the cave on Horeb. Rom 9:15 quotes 33:19."
+  - id: hb-exod-34-thirteen-attributes-covenant-renewal
+    tradition: judaism
+    title: New tablets, the attributes of mercy and the ritual decalogue
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 34:1-28"]
+    tags:
+      - {motif: second-tablets-hewn-by-moses, refs: ["Exod 34:1", "Exod 34:4"]}
+      - {motif: holy-mountain-bounded-touching-is-death, refs: ["Exod 34:3"], note: "not even flocks may graze before the mountain"}
+      - {motif: god-proclaims-own-name-and-attributes, refs: ["Exod 34:5", "Exod 34:6", "Exod 34:7"], note: "merciful and gracious, slow to anger, abounding in hesed and truth"}
+      - {motif: punishment-to-third-and-fourth-generation, refs: ["Exod 34:7"]}
+      - {motif: prophet-intercedes-what-will-egyptians-say, refs: ["Exod 34:9"], note: "intercession: 'go in our midst, for it is a stiff-necked people'"}
+      - {motif: stiff-necked-people, refs: ["Exod 34:9"]}
+      - {motif: no-covenant-with-canaanites, refs: ["Exod 34:12", "Exod 34:15"]}
+      - {motif: destroy-canaanite-pillars, refs: ["Exod 34:13"], note: "altars, pillars and asherim cut down"}
+      - {motif: jealous-god, refs: ["Exod 34:14"], note: "'YHWH, Jealous is his name'"}
+      - {motif: intermarriage-leads-to-idolatry, refs: ["Exod 34:16"]}
+      - {motif: prohibition-of-images, refs: ["Exod 34:17"], note: "molten gods"}
+      - {motif: three-pilgrimage-festivals, refs: ["Exod 34:18", "Exod 34:22", "Exod 34:23"], note: "Shavuot named; Ingathering at the turn of the year"}
+      - {motif: firstborn-belong-to-god, refs: ["Exod 34:19", "Exod 34:20"]}
+      - {motif: donkey-firstborn-redeemed-or-neck-broken, refs: ["Exod 34:20"]}
+      - {motif: not-appear-empty-handed, refs: ["Exod 34:20"]}
+      - {motif: sabbath-even-in-plowing-and-harvest, refs: ["Exod 34:21"]}
+      - {motif: land-protected-during-pilgrimage, refs: ["Exod 34:24"], note: "no one will covet your land when you go up"}
+      - {motif: no-leaven-with-sacrificial-blood, refs: ["Exod 34:25"]}
+      - {motif: first-fruits-to-house-of-god, refs: ["Exod 34:26"]}
+      - {motif: kid-in-mothers-milk, refs: ["Exod 34:26"]}
+      - {motif: forty-days-and-nights, refs: ["Exod 34:28"]}
+      - {motif: prophet-fasts-forty-days, refs: ["Exod 34:28"], note: "no bread, no water"}
+      - {motif: ten-commandments, refs: ["Exod 34:28"], note: "'aseret ha-devarim' named here, applied to this list"}
+    hints:
+      - "The thirteen attributes recited in synagogue liturgy; cf. Quranic divine names al-Rahman al-Rahim; Jonah 4:2, Joel 2:13 reuse 34:6."
+  - id: hb-exod-34-shining-face
+    tradition: judaism
+    title: Moses' shining face and the veil
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 34:29-35"]
+    tags:
+      - {motif: prophets-face-shines-after-encounter, refs: ["Exod 34:29", "Exod 34:30", "Exod 34:35"], note: "qaran 'or panav, read by Vulgate as 'horned' (cornuta)"}
+      - {motif: people-afraid-to-approach-prophet, refs: ["Exod 34:30"]}
+      - {motif: prophet-veils-face, refs: ["Exod 34:33", "Exod 34:34", "Exod 34:35"], note: "masweh removed before God, put back after speaking"}
+    hints:
+      - "Horned Moses of Michelangelo; 2 Cor 3:7-18 veil allegory; Matt 17:2 transfiguration; Quran 7:108 / 20:22 Moses' hand shining white (different organ)."
+  - id: hb-exod-35-sabbath-and-donations
+    tradition: judaism
+    title: Sabbath fire ban and the people's donations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 35:1-29"]
+    tags:
+      - {motif: death-for-sabbath-violation, refs: ["Exod 35:2"]}
+      - {motif: no-fire-kindled-on-sabbath, refs: ["Exod 35:3"]}
+      - {motif: voluntary-offering-for-sanctuary, refs: ["Exod 35:5", "Exod 35:21", "Exod 35:29"]}
+      - {motif: sanctuary-materials-list, refs: ["Exod 35:5-9"]}
+      - {motif: tahash-skins, refs: ["Exod 35:7", "Exod 35:23"]}
+      - {motif: women-donate-jewelry, refs: ["Exod 35:22"], note: "hah, nezem, tabba'at, kumaz brought by men and women"}
+      - {motif: skilled-women-spin-goat-hair, refs: ["Exod 35:25", "Exod 35:26"]}
+      - {motif: chieftains-bring-gemstones, refs: ["Exod 35:27", "Exod 35:28"]}
+    hints:
+      - "Jewelry for the sanctuary versus jewelry for the calf (32:2-3): rabbinic contrast. Karaite and rabbinic dispute over Sabbath fire."
+  - id: hb-exod-35-36-craftsmen-and-surplus
+    tradition: judaism
+    title: Bezalel appointed; too many gifts; making of the curtains and frames
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 35:30-36:38"]
+    tags:
+      - {motif: craftsman-called-by-name, refs: ["Exod 35:30"]}
+      - {motif: craftsmen-filled-with-spirit-of-wisdom, refs: ["Exod 35:31", "Exod 35:35", "Exod 36:1", "Exod 36:2"]}
+      - {motif: assistant-craftsman-from-dan, refs: ["Exod 35:34"]}
+      - {motif: craftsmen-given-gift-of-teaching, refs: ["Exod 35:34"]}
+      - {motif: donations-exceed-need-people-restrained, refs: ["Exod 36:5", "Exod 36:6", "Exod 36:7"]}
+      - {motif: tabernacle-curtains-with-cherubim, refs: ["Exod 36:8", "Exod 36:35"]}
+      - {motif: fifty-loops-and-clasps, refs: ["Exod 36:12", "Exod 36:13", "Exod 36:17", "Exod 36:18"]}
+      - {motif: eleven-goat-hair-curtains, refs: ["Exod 36:14", "Exod 36:15"]}
+      - {motif: layered-coverings-ram-skin-tahash, refs: ["Exod 36:19"]}
+      - {motif: acacia-frames-on-silver-bases, refs: ["Exod 36:20-30"]}
+      - {motif: middle-bar-end-to-end, refs: ["Exod 36:33"]}
+      - {motif: veil-separating-holy-of-holies, refs: ["Exod 36:35", "Exod 36:36"]}
+      - {motif: embroidered-entrance-screen, refs: ["Exod 36:37", "Exod 36:38"]}
+      - {motif: command-and-fulfillment-repetition, refs: ["Exod 36:8-38"], note: "near-verbatim execution of Exod 26"}
+  - id: hb-exod-37-ark-table-lampstand-made
+    tradition: judaism
+    title: Bezalel makes the ark, table, lampstand and incense altar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 37:1-29"]
+    tags:
+      - {motif: ark-of-the-covenant, refs: ["Exod 37:1-5"]}
+      - {motif: mercy-seat-kapporet, refs: ["Exod 37:6"]}
+      - {motif: two-cherubim-facing-with-spread-wings, refs: ["Exod 37:7", "Exod 37:8", "Exod 37:9"]}
+      - {motif: table-of-showbread, refs: ["Exod 37:10-16"]}
+      - {motif: seven-branched-lampstand, refs: ["Exod 37:17-24"]}
+      - {motif: hammered-from-single-piece, refs: ["Exod 37:7", "Exod 37:17", "Exod 37:22"]}
+      - {motif: golden-incense-altar, refs: ["Exod 37:25-28"]}
+      - {motif: holy-anointing-oil-recipe, refs: ["Exod 37:29"]}
+      - {motif: command-and-fulfillment-repetition, refs: ["Exod 37:1-29"]}
+  - id: hb-exod-38-altar-laver-court-inventory
+    tradition: judaism
+    title: Altar, laver of mirrors, court and the metal inventory
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 38:1-31"]
+    tags:
+      - {motif: horned-altar, refs: ["Exod 38:2"]}
+      - {motif: bronze-altar-with-grating, refs: ["Exod 38:1", "Exod 38:4"]}
+      - {motif: hollow-portable-altar, refs: ["Exod 38:7"]}
+      - {motif: laver-from-womens-mirrors, refs: ["Exod 38:8"], note: "mirrors of the women who served (tzov'ot) at the tent entrance"}
+      - {motif: women-serving-at-tent-entrance, refs: ["Exod 38:8"]}
+      - {motif: tabernacle-court-100-by-50, refs: ["Exod 38:9-20"]}
+      - {motif: ithamar-oversees-levites, refs: ["Exod 38:21"]}
+      - {motif: temple-metal-inventory, refs: ["Exod 38:24", "Exod 38:25", "Exod 38:29"], note: "gold 29 talents 730 shekels; silver 100 talents 1775 shekels; bronze 70 talents 2400 shekels"}
+      - {motif: half-shekel-equal-for-rich-and-poor, refs: ["Exod 38:26"], note: "beqa per head"}
+      - {motif: census-603550, refs: ["Exod 38:26"]}
+      - {motif: one-talent-per-socket, refs: ["Exod 38:27"]}
+    hints:
+      - "Women serving at the tent door: 1 Sam 2:22. Rabbinic midrash (Tanhuma) on the mirrors the women used to arouse their husbands in Egypt."
+  - id: hb-exod-39-vestments-made-work-completed
+    tradition: judaism
+    title: The vestments made; the work completed and blessed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 39:1-43"]
+    tags:
+      - {motif: ephod, refs: ["Exod 39:2-5"]}
+      - {motif: gold-hammered-into-threads, refs: ["Exod 39:3"]}
+      - {motif: names-of-tribes-engraved-on-stones, refs: ["Exod 39:6", "Exod 39:14"]}
+      - {motif: priest-bears-names-as-memorial, refs: ["Exod 39:7"]}
+      - {motif: breastpiece-twelve-stones, refs: ["Exod 39:8-21"]}
+      - {motif: robe-with-bells-and-pomegranates, refs: ["Exod 39:22-26"]}
+      - {motif: woven-collar-not-torn, refs: ["Exod 39:23"]}
+      - {motif: linen-breeches-cover-nakedness, refs: ["Exod 39:28"]}
+      - {motif: gold-plate-holy-to-yhwh, refs: ["Exod 39:30", "Exod 39:31"]}
+      - {motif: as-yhwh-commanded-moses-refrain, refs: ["Exod 39:1", "Exod 39:5", "Exod 39:7", "Exod 39:21", "Exod 39:26", "Exod 39:29", "Exod 39:31"], note: "seven times in the vestment section"}
+      - {motif: work-completed-echoes-creation, refs: ["Exod 39:32", "Exod 39:43"], note: "vatekhel... vayar... vayevarekh, echoing Gen 1:31-2:3"}
+      - {motif: leader-inspects-and-blesses-work, refs: ["Exod 39:43"]}
+      - {motif: command-and-fulfillment-repetition, refs: ["Exod 39:33-42"]}
+  - id: hb-exod-40-tabernacle-erected-glory-fills
+    tradition: judaism
+    title: The tabernacle erected; cloud and glory fill it
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Exod 40:1-38"]
+    tags:
+      - {motif: sanctuary-erected-on-new-year-day, refs: ["Exod 40:2", "Exod 40:17"], note: "first day of first month, second year"}
+      - {motif: anointing-sanctifies-cult-objects, refs: ["Exod 40:9", "Exod 40:10", "Exod 40:11"]}
+      - {motif: priests-washed-at-tent-entrance, refs: ["Exod 40:12"]}
+      - {motif: perpetual-priesthood-by-anointing, refs: ["Exod 40:15"]}
+      - {motif: tablets-of-testimony-in-ark, refs: ["Exod 40:20"]}
+      - {motif: lampstand-south-table-north, refs: ["Exod 40:22", "Exod 40:24"]}
+      - {motif: bronze-laver-for-washing-hands-and-feet, refs: ["Exod 40:30", "Exod 40:31", "Exod 40:32"]}
+      - {motif: as-yhwh-commanded-moses-refrain, refs: ["Exod 40:19", "Exod 40:21", "Exod 40:23", "Exod 40:25", "Exod 40:27", "Exod 40:29", "Exod 40:32"], note: "seven times in the erection section"}
+      - {motif: work-completed-echoes-creation, refs: ["Exod 40:33"], note: "vaykhal Moshe et ha-melakhah, cf. Gen 2:2"}
+      - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["Exod 40:34", "Exod 40:35"]}
+      - {motif: cloud-lifts-signals-journey, refs: ["Exod 40:36", "Exod 40:37"]}
+      - {motif: cloud-by-day-fire-by-night, refs: ["Exod 40:38"]}
+    hints:
+      - "1 Kgs 8:10-11 glory fills Solomon's temple; Quranic sakina (2:248) with the ark (tabut); Enuma Elish's temple-building after victory."
+  - id: hb-lev-1-burnt-offering
+    tradition: judaism
+    title: The burnt offering of cattle, flock and birds
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 1:1-17"]
+    tags:
+      - {motif: god-calls-from-tent-of-meeting, refs: ["Lev 1:1"], note: "vayiqra; small alef in the Masoretic tradition"}
+      - {motif: whole-burnt-offering, refs: ["Lev 1:3", "Lev 1:9", "Lev 1:13"]}
+      - {motif: unblemished-sacrificial-animal, refs: ["Lev 1:3", "Lev 1:10"], note: "male without blemish"}
+      - {motif: laying-hands-on-victim, refs: ["Lev 1:4"], note: "'it will be accepted to make atonement for him'"}
+      - {motif: blood-dashed-around-altar, refs: ["Lev 1:5", "Lev 1:11"]}
+      - {motif: victim-flayed-and-cut-in-pieces, refs: ["Lev 1:6", "Lev 1:12"]}
+      - {motif: entrails-and-legs-washed, refs: ["Lev 1:9", "Lev 1:13"]}
+      - {motif: pleasing-odor-to-god, refs: ["Lev 1:9", "Lev 1:13", "Lev 1:17"]}
+      - {motif: slaughter-north-of-altar, refs: ["Lev 1:11"]}
+      - {motif: poor-mans-bird-offering, refs: ["Lev 1:14"], note: "turtledoves or young pigeons"}
+      - {motif: bird-neck-pinched-melikah, refs: ["Lev 1:15"], note: "priest wrings off the head; blood drained on the altar wall"}
+      - {motif: bird-crop-thrown-to-ash-heap-east, refs: ["Lev 1:16"]}
+      - {motif: bird-torn-by-wings-not-divided, refs: ["Lev 1:17"]}
+    hints:
+      - "Greek holocaust; Vedic animal sacrifice (pasubandha) with dismemberment; Luke 2:24 poor parents' offering of doves. Bird split but not divided: Gen 15:10."
+  - id: hb-lev-2-grain-offering
+    tradition: judaism
+    title: The grain offering; no leaven or honey; salt of the covenant
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 2:1-16"]
+    tags:
+      - {motif: grain-offering-fine-flour-oil-frankincense, refs: ["Lev 2:1", "Lev 2:15"]}
+      - {motif: handful-token-portion-azkarah, refs: ["Lev 2:2", "Lev 2:9", "Lev 2:16"], note: "priest takes a fistful (qometz) as the 'memorial portion'"}
+      - {motif: remainder-most-holy-for-priests, refs: ["Lev 2:3", "Lev 2:10"]}
+      - {motif: baked-griddle-and-pan-offerings, refs: ["Lev 2:4", "Lev 2:5", "Lev 2:6", "Lev 2:7"], note: "oven, griddle (mahavat), deep pan (marheshet)"}
+      - {motif: no-leaven-or-honey-on-altar, refs: ["Lev 2:11"]}
+      - {motif: first-fruits-not-burned-on-altar, refs: ["Lev 2:12"]}
+      - {motif: salt-of-the-covenant, refs: ["Lev 2:13"], note: "salt on every offering"}
+      - {motif: roasted-first-grain-offering, refs: ["Lev 2:14"], note: "aviv roasted in fire, groats of karmel"}
+    hints:
+      - "Salt covenant: Num 18:19, 2 Chr 13:5; Mark 9:49; salt in Roman mola salsa and Homeric sacrifice. Honey excluded: contrast honey offerings in Mesopotamian and Vedic ritual."
+  - id: hb-lev-3-peace-offering
+    tradition: judaism
+    title: The well-being (shelamim) offering and the ban on fat and blood
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 3:1-17"]
+    tags:
+      - {motif: peace-offering-shelamim, refs: ["Lev 3:1", "Lev 3:6"], note: "male or female allowed"}
+      - {motif: laying-hands-on-victim, refs: ["Lev 3:2", "Lev 3:8", "Lev 3:13"]}
+      - {motif: blood-dashed-around-altar, refs: ["Lev 3:2", "Lev 3:8", "Lev 3:13"]}
+      - {motif: fat-kidneys-liver-lobe-burned, refs: ["Lev 3:3", "Lev 3:4", "Lev 3:9", "Lev 3:10", "Lev 3:14", "Lev 3:15"]}
+      - {motif: fat-tail-offering, refs: ["Lev 3:9"], note: "whole fat tail removed close to the backbone"}
+      - {motif: sacrifice-as-gods-food, refs: ["Lev 3:11", "Lev 3:16"], note: "lehem isheh, 'food of the fire-offering'"}
+      - {motif: all-fat-belongs-to-yhwh, refs: ["Lev 3:16"]}
+      - {motif: prohibition-of-eating-blood, refs: ["Lev 3:17"]}
+      - {motif: prohibition-of-eating-fat, refs: ["Lev 3:17"]}
+    hints:
+      - "Mesopotamian extispicy focused on the liver lobe (yoteret); Greek gods' portion of fat-wrapped thigh bones (Hesiod, Prometheus at Mekone). Quran 22:37 'neither their flesh nor their blood reaches God'."
+  - id: hb-lev-4-sin-offering
+    tradition: judaism
+    title: The purification (hattat) offering for unintentional sin
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 4:1-35"]
+    tags:
+      - {motif: unintentional-sin-requires-offering, refs: ["Lev 4:2", "Lev 4:13", "Lev 4:22", "Lev 4:27"], note: "bishgagah"}
+      - {motif: graded-offering-by-rank, refs: ["Lev 4:3", "Lev 4:14", "Lev 4:23", "Lev 4:28", "Lev 4:32"], note: "anointed priest and congregation a bull; chieftain a male goat; commoner a female goat or ewe"}
+      - {motif: anointed-priest-sin-brings-guilt-on-people, refs: ["Lev 4:3"]}
+      - {motif: blood-sprinkled-seven-times-before-veil, refs: ["Lev 4:6", "Lev 4:17"]}
+      - {motif: blood-on-altar-horns, refs: ["Lev 4:7", "Lev 4:18", "Lev 4:25", "Lev 4:30", "Lev 4:34"]}
+      - {motif: fat-kidneys-liver-lobe-burned, refs: ["Lev 4:8", "Lev 4:9", "Lev 4:19", "Lev 4:26", "Lev 4:31", "Lev 4:35"]}
+      - {motif: sin-offering-burned-outside-camp, refs: ["Lev 4:11", "Lev 4:12", "Lev 4:21"], note: "at the ash heap, a clean place"}
+      - {motif: elders-lay-hands-for-congregation, refs: ["Lev 4:15"]}
+      - {motif: priest-atones-and-sin-forgiven, refs: ["Lev 4:20", "Lev 4:26", "Lev 4:31", "Lev 4:35"], note: "vekhipper... venislah"}
+      - {motif: seven-fold-ritual-action, refs: ["Lev 4:6", "Lev 4:17"]}
+    hints:
+      - "Heb 13:11-12 (Jesus suffered outside the gate as the sin-offering burned outside the camp)."
+  - id: hb-lev-5-graduated-and-guilt-offerings
+    tradition: judaism
+    title: Graduated purification offering and the guilt (asham) offering
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 5:1-26"]
+    tags:
+      - {motif: witness-who-hears-adjuration-must-testify, refs: ["Lev 5:1"], note: "qol alah, public curse on withholders"}
+      - {motif: touching-carcass-causes-impurity, refs: ["Lev 5:2", "Lev 5:3"]}
+      - {motif: rash-oath-requires-atonement, refs: ["Lev 5:4"]}
+      - {motif: confession-of-sin, refs: ["Lev 5:5"], note: "vehitvaddah"}
+      - {motif: offering-scaled-to-means, refs: ["Lev 5:7", "Lev 5:11"], note: "lamb, or two birds, or a tenth of an ephah of flour"}
+      - {motif: poor-mans-bird-offering, refs: ["Lev 5:7"]}
+      - {motif: bird-neck-pinched-melikah, refs: ["Lev 5:8"], note: "from the back of the neck, not severed"}
+      - {motif: flour-sin-offering-without-oil-or-incense, refs: ["Lev 5:11"]}
+      - {motif: handful-token-portion-azkarah, refs: ["Lev 5:12"]}
+      - {motif: sacrilege-against-holy-things, refs: ["Lev 5:15", "Lev 5:16"], note: "me'ilah"}
+      - {motif: restitution-plus-one-fifth, refs: ["Lev 5:16", "Lev 5:24"]}
+      - {motif: guilt-offering-ram-valued-in-silver, refs: ["Lev 5:15", "Lev 5:18", "Lev 5:25"]}
+      - {motif: guilt-for-unknowing-sin, refs: ["Lev 5:17", "Lev 5:18"]}
+      - {motif: wronging-neighbor-is-trespass-against-god, refs: ["Lev 5:21", "Lev 5:22"], note: "deposit, pledge, robbery, extortion, lost property denied with false oath"}
+      - {motif: restitution-before-atonement, refs: ["Lev 5:23", "Lev 5:24", "Lev 5:25"]}
+      - {motif: priest-atones-and-sin-forgiven, refs: ["Lev 5:10", "Lev 5:13", "Lev 5:16", "Lev 5:18", "Lev 5:26"]}
+    hints:
+      - "Matt 5:23-24 reconcile with your brother before the altar; Mishnah Yoma 8:9; Islamic rule that rights of people (huquq al-'ibad) must be restored before repentance is complete."
+  - id: hb-lev-6-priestly-rules-burnt-grain-sin
+    tradition: judaism
+    title: Priestly instructions for burnt, grain and sin offerings; the perpetual fire
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 6:1-23"]
+    tags:
+      - {motif: torah-of-the-offering-formula, refs: ["Lev 6:2", "Lev 6:7", "Lev 6:18"], note: "'zot torat ha-...'"}
+      - {motif: perpetual-altar-fire-never-extinguished, refs: ["Lev 6:2", "Lev 6:5", "Lev 6:6"]}
+      - {motif: ash-removal-in-linen-then-change-garments, refs: ["Lev 6:3", "Lev 6:4"]}
+      - {motif: linen-breeches-cover-nakedness, refs: ["Lev 6:3"]}
+      - {motif: remainder-most-holy-for-priests, refs: ["Lev 6:9", "Lev 6:10", "Lev 6:11"], note: "eaten unleavened in the court by males"}
+      - {motif: altar-sanctifies-what-touches-it, refs: ["Lev 6:11", "Lev 6:20"]}
+      - {motif: high-priests-daily-griddle-offering, refs: ["Lev 6:13", "Lev 6:14", "Lev 6:15"], note: "half morning, half evening; tufinei"}
+      - {motif: priests-own-grain-offering-wholly-burned, refs: ["Lev 6:15", "Lev 6:16"]}
+      - {motif: blood-stained-garment-washed-in-holy-place, refs: ["Lev 6:20"]}
+      - {motif: earthen-vessel-broken-bronze-scoured, refs: ["Lev 6:21"]}
+      - {motif: sin-offering-blood-inside-not-eaten, refs: ["Lev 6:23"]}
+    hints:
+      - "Perpetual fire: Zoroastrian Atash Behram; Roman Vestal fire; Mal 1:11. Earthen vessels absorbing holiness/impurity: Lev 11:33; rabbinic kashering of vessels; Islamic rules on vessels."
+  - id: hb-lev-7-guilt-peace-portions
+    tradition: judaism
+    title: Guilt and well-being offerings; priests' portions; fat and blood bans
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 7:1-38"]
+    tags:
+      - {motif: torah-of-the-offering-formula, refs: ["Lev 7:1", "Lev 7:11", "Lev 7:37"]}
+      - {motif: fat-tail-offering, refs: ["Lev 7:3"]}
+      - {motif: officiating-priest-gets-hide, refs: ["Lev 7:8"]}
+      - {motif: thanksgiving-offering-with-leavened-bread, refs: ["Lev 7:12", "Lev 7:13"], note: "leavened loaves accompany the todah"}
+      - {motif: sacrifice-eaten-within-time-limit, refs: ["Lev 7:15", "Lev 7:16", "Lev 7:17"], note: "todah same day; vow and freewill two days; burned on the third"}
+      - {motif: piggul-third-day-meat-abhorrent, refs: ["Lev 7:18"]}
+      - {motif: impure-person-eating-sacred-meat-cut-off, refs: ["Lev 7:19", "Lev 7:20", "Lev 7:21"]}
+      - {motif: karet-penalty, refs: ["Lev 7:20", "Lev 7:21", "Lev 7:25", "Lev 7:27"]}
+      - {motif: prohibition-of-eating-fat, refs: ["Lev 7:23", "Lev 7:25"], note: "ox, sheep, goat"}
+      - {motif: fat-of-carcass-usable-not-edible, refs: ["Lev 7:24"]}
+      - {motif: prohibition-of-eating-blood, refs: ["Lev 7:26", "Lev 7:27"], note: "of bird or beast"}
+      - {motif: offerer-brings-with-own-hands, refs: ["Lev 7:30"]}
+      - {motif: wave-offering, refs: ["Lev 7:30", "Lev 7:34"]}
+      - {motif: priestly-portion-breast-and-thigh, refs: ["Lev 7:31", "Lev 7:32", "Lev 7:33", "Lev 7:34"]}
+    hints:
+      - "Acts 15:20, 29 (abstain from blood); Quran 2:173, 5:3, 6:145 (blood forbidden); Greek priest's perquisite of the hide (dermatikon)."
+  - id: hb-lev-8-ordination-performed
+    tradition: judaism
+    title: Moses ordains Aaron and his sons
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Lev 8:1-36"]
+    tags:
+      - {motif: whole-congregation-assembled-at-tent, refs: ["Lev 8:3", "Lev 8:4"]}
+      - {motif: priests-washed-at-tent-entrance, refs: ["Lev 8:6"]}
+      - {motif: ephod, refs: ["Lev 8:7"]}
+      - {motif: urim-and-thummim, refs: ["Lev 8:8"]}
+      - {motif: gold-plate-holy-to-yhwh, refs: ["Lev 8:9"], note: "tzitz, nezer ha-qodesh"}
+      - {motif: anointing-sanctifies-cult-objects, refs: ["Lev 8:10", "Lev 8:11"]}
+      - {motif: seven-fold-ritual-action, refs: ["Lev 8:11"], note: "oil sprinkled seven times on the altar"}
+      - {motif: anointing-oil-poured-on-head, refs: ["Lev 8:12"]}
+      - {motif: laying-hands-on-victim, refs: ["Lev 8:14", "Lev 8:18", "Lev 8:22"]}
+      - {motif: blood-on-altar-horns, refs: ["Lev 8:15"]}
+      - {motif: sin-offering-burned-outside-camp, refs: ["Lev 8:17"]}
+      - {motif: blood-on-right-ear-thumb-toe, refs: ["Lev 8:23", "Lev 8:24"]}
+      - {motif: wave-offering, refs: ["Lev 8:27", "Lev 8:29"]}
+      - {motif: moses-acts-as-priest, refs: ["Lev 8:15", "Lev 8:19", "Lev 8:29"], note: "Moses officiates and receives the breast as his portion"}
+      - {motif: sprinkling-blood-and-oil-on-garments, refs: ["Lev 8:30"]}
+      - {motif: leftover-sacred-meat-burned-by-morning, refs: ["Lev 8:32"]}
+      - {motif: seven-day-ordination, refs: ["Lev 8:33", "Lev 8:35"], note: "may not leave the tent entrance day and night, lest they die"}
+      - {motif: as-yhwh-commanded-moses-refrain, refs: ["Lev 8:9", "Lev 8:13", "Lev 8:17", "Lev 8:21", "Lev 8:29"]}
+      - {motif: command-and-fulfillment-repetition, refs: ["Lev 8:1-36"], note: "executes Exod 29"}
+    hints:
+      - "Seven-day liminal seclusion during initiation: compare rites of passage (van Gennep); Christian ordination anointing."

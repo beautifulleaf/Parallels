@@ -1,0 +1,921 @@
+new_motifs:
+  seven-branched-lampstand: {label: "Seven-lamped golden lampstand hammered from one piece", cluster: cult}
+  levites-substitute-firstborn: {label: "A priestly class is taken in place of the firstborn owed to God", cluster: cult}
+  shaving-whole-body-purification: {label: "Purification by shaving all the body's hair", cluster: purity}
+  laying-hands-on-persons: {label: "Community lays hands on persons to transfer or consecrate", cluster: cult}
+  wave-offering-of-persons: {label: "Persons themselves 'waved' or presented as an offering to God", cluster: cult}
+  age-limits-of-service: {label: "Sacred service bounded by fixed ages (start and retirement)", cluster: cult}
+  second-passover: {label: "A make-up festival a month later for those impure or far away", cluster: law}
+  no-bone-broken: {label: "Bones of the sacrificial victim must not be broken", cluster: cult}
+  corpse-impurity: {label: "Contact with a human corpse makes one ritually impure", cluster: purity}
+  one-law-for-stranger: {label: "Same law for the resident alien and the native", cluster: law}
+  pillar-of-cloud-and-fire: {label: "Divine cloud by day, appearance of fire by night over the shrine", cluster: theophany}
+  cloud-signals-march: {label: "Divine cloud's lifting and settling dictates when the people march and camp", cluster: theophany}
+  silver-trumpets: {label: "Two silver trumpets with coded blasts for assembly, march and war", cluster: cult}
+  trumpet-blast-reminds-god: {label: "Blowing trumpets in battle makes God 'remember' and save", cluster: cult}
+  tribal-marching-order: {label: "Tribes march under banners in a fixed order around the shrine", cluster: wilderness}
+  in-law-guide-desert: {label: "Hero asks his foreign father-in-law to be the people's 'eyes' in the desert", cluster: wilderness}
+  ark-leads-the-way: {label: "The sacred chest goes ahead to scout a resting place", cluster: cult}
+  song-of-the-ark: {label: "War-cry addressed to God when the ark sets out: 'Arise, YHWH, scatter your enemies'", cluster: cult}
+  divine-fire-burns-camp: {label: "Fire from God burns part of the camp for complaint", cluster: punishment}
+  intercession-stops-plague: {label: "Hero's prayer or act halts a divine punishment", cluster: prophecy}
+  place-named-for-event: {label: "Place named after the event that happened there (etiology)", cluster: etiology}
+  murmuring-in-wilderness: {label: "People complain in the desert and long for Egypt", cluster: wilderness}
+  rabble-mixed-multitude: {label: "A 'rabble' or mixed crowd among the people instigates sin", cluster: wilderness}
+  egyptian-foods-remembered: {label: "Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt", cluster: wilderness}
+  manna-description: {label: "Manna described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew", cluster: wilderness}
+  leader-wishes-to-die: {label: "Exhausted leader asks God to kill him", cluster: prophecy}
+  leader-as-nursing-father: {label: "Leader protests he did not conceive or bear the people to carry them like a nurse", cluster: prophecy}
+  seventy-elders: {label: "Seventy elders appointed to share the leader's burden", cluster: governance}
+  spirit-shared-from-leader: {label: "Some of the spirit on the leader is taken and placed on others", cluster: prophecy}
+  ecstatic-prophesying: {label: "Spirit rests on people and they prophesy (ecstatically)", cluster: prophecy}
+  unauthorized-prophets-defended: {label: "Leader refuses to silence prophets outside the sanctioned place: 'would all were prophets'", cluster: prophecy}
+  quail-miracle: {label: "Wind brings quail in vast quantity to feed the people", cluster: wilderness}
+  food-miracle-turns-to-plague: {label: "Craved food granted, then plague strikes while meat is still in their mouths", cluster: punishment}
+  heavenly-pattern-of-shrine: {label: "Sacred object made after a pattern shown by God", cluster: cult}
+  ransom-against-plague: {label: "A ritual or class prevents a plague when people approach the holy", cluster: cult}
+  leader-awaits-oracle-on-case: {label: "Leader defers an unprecedented legal case to a divine oracle", cluster: law}
+  karet-penalty: {label: "Offender is 'cut off from his people' (karet)", cluster: law}
+  divine-power-questioned: {label: "Leader doubts God can supply; God replies 'Is my hand too short?'", cluster: wilderness}
+  forty-years-wandering: {label: "Forty years of wandering, a year for each day of scouting", cluster: wilderness}
+  cities-of-refuge: {label: "Six cities of refuge for the unintentional killer, three on each side of the Jordan", cluster: law}
+  siblings-challenge-leader: {label: "Prophet's own siblings challenge his unique authority", cluster: prophecy}
+  foreign-wife-of-prophet: {label: "Prophet criticized over his foreign (Cushite) wife", cluster: prophecy}
+  meekest-of-men: {label: "Hero called the humblest man on earth", cluster: prophecy}
+  face-to-face-revelation: {label: "God speaks to one prophet 'mouth to mouth', not in dreams or riddles", cluster: prophecy}
+  prophecy-by-dream-and-vision: {label: "Ordinary prophets receive revelation in visions and dreams", cluster: prophecy}
+  skin-disease-as-punishment: {label: "Offender struck with skin disease 'white as snow'", cluster: punishment}
+  seven-days-quarantine: {label: "Afflicted person shut outside the camp seven days", cluster: purity}
+  spitting-in-face-shame: {label: "Father spitting in a daughter's face brings seven days' shame", cluster: law}
+  spies-sent-to-land: {label: "Twelve men sent to scout the promised land", cluster: conquest}
+  renaming-hero: {label: "Leader renames a disciple (Hoshea to Joshua)", cluster: naming}
+  giants-in-the-land: {label: "Giant descendants (Anakim / Nephilim) inhabit the land", cluster: giants}
+  giant-grape-cluster: {label: "Single grape cluster so large two men carry it on a pole", cluster: conquest}
+  land-flowing-milk-honey: {label: "Land 'flowing with milk and honey'", cluster: conquest}
+  hebron-older-than-zoan: {label: "Founding of a city dated relative to an Egyptian city (Hebron seven years before Zoan)", cluster: chronology}
+  land-devours-inhabitants: {label: "Evil report: 'a land that eats its inhabitants'", cluster: conquest}
+  like-grasshoppers: {label: "Spies seem like grasshoppers in their own eyes and the giants'", cluster: giants}
+  minority-faithful-report: {label: "Two faithful spies dissent from the majority", cluster: conquest}
+  people-try-to-stone-leaders: {label: "Crowd threatens to stone the faithful leaders", cluster: wilderness}
+  appoint-head-return-egypt: {label: "People propose appointing a leader to go back to Egypt", cluster: wilderness}
+  god-offers-new-nation-from-hero: {label: "God offers to destroy the people and make a nation of the hero instead", cluster: prophecy}
+  argument-from-gods-reputation: {label: "Intercessor argues the nations would say God was unable", cluster: prophecy}
+  thirteen-attributes: {label: "Formula of divine attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation", cluster: theology}
+  ten-trials-of-god: {label: "People have tested God 'ten times'", cluster: wilderness}
+  generation-dies-in-wilderness: {label: "Whole adult generation condemned to die in the desert; only children enter", cluster: wilderness}
+  caleb-different-spirit: {label: "Caleb has 'another spirit' and follows God fully", cluster: conquest}
+  slanderers-die-by-plague: {label: "Those who slandered the land die by plague", cluster: punishment}
+  presumptuous-attack-defeated: {label: "People attack without God's ark or leader and are routed", cluster: conquest}
+  libation-proportions: {label: "Graded quantities of flour, oil and wine accompany each animal sacrifice", cluster: cult}
+  dough-offering-challah: {label: "First of the dough given as a gift (challah)", cluster: law}
+  unwitting-vs-high-handed-sin: {label: "Inadvertent sin atoned by sacrifice; 'high-handed' sin unforgivable", cluster: law}
+  sabbath-wood-gatherer-stoned: {label: "Man gathering wood on the Sabbath is stoned by divine ruling", cluster: law}
+  tassels-with-blue-thread: {label: "Tassels (tzitzit) with a blue cord on garment corners as reminder", cluster: law}
+  eyes-and-heart-lead-astray: {label: "'Do not go about after your heart and your eyes'", cluster: wisdom}
+  forty-days-period: {label: "A period of forty days", cluster: numbers}
+  divine-oath-by-own-life: {label: "God swears 'As I live'", cluster: theology}
+  cities-fortified-to-heaven: {label: "Cities 'great and fortified up to heaven'", cluster: conquest}
+  rebellion-against-priesthood: {label: "Rebels claim all the people are holy and challenge the priest-leader's monopoly", cluster: cult}
+  incense-ordeal: {label: "Rival claimants offer incense in fire-pans so God may choose the holy one", cluster: cult}
+  leader-denies-taking-anything: {label: "Leader protests he never took so much as a donkey from anyone", cluster: governance}
+  god-of-spirits-of-all-flesh: {label: "God addressed as 'God of the spirits of all flesh'", cluster: theology}
+  collective-vs-individual-guilt: {label: "Intercessor asks: shall one man sin and you rage at the whole community?", cluster: theology}
+  earth-swallows-rebels: {label: "The earth opens its mouth and swallows rebels alive into Sheol", cluster: punishment}
+  sign-proves-prophet-sent: {label: "Prophet stakes his mission on an unprecedented sign ('if these die a common death, YHWH has not sent me')", cluster: prophecy}
+  fire-consumes-offerers: {label: "Fire from God consumes those offering illegitimate incense", cluster: punishment}
+  censers-hammered-into-altar-plating: {label: "Rebels' censers beaten into altar plating as a memorial", cluster: cult}
+  priest-stands-between-dead-and-living: {label: "Priest with incense stands between the dead and the living and stops the plague", cluster: cult}
+  blossoming-rod: {label: "Chosen leader's rod sprouts, blossoms and bears almonds overnight", cluster: cult}
+  rod-kept-as-sign: {label: "Miraculous rod kept before the Testimony as a sign", cluster: cult}
+  priestly-dues: {label: "Gifts, firstfruits and holy portions assigned to the priests", cluster: cult}
+  redemption-of-firstborn-five-shekels: {label: "Human firstborn redeemed for five shekels", cluster: law}
+  covenant-of-salt: {label: "An eternal 'covenant of salt'", cluster: cult}
+  god-is-priests-inheritance: {label: "Priestly tribe receives no land: 'I am your portion and inheritance'", cluster: cult}
+  tithe-to-levites: {label: "The tithe given to the Levites; Levites give a tithe of the tithe", cluster: law}
+  encroacher-put-to-death: {label: "Outsider who approaches the holy place shall die", cluster: cult}
+  plague-death-toll: {label: "Exact number of dead in a divine plague is given", cluster: punishment}
+  red-heifer: {label: "Unblemished red cow never yoked is burned whole for purifying ash", cluster: purity}
+  cedar-hyssop-scarlet: {label: "Cedar wood, hyssop and scarlet thread used in a purification rite", cluster: purity}
+  purifier-becomes-impure: {label: "Those who prepare the purifying agent are themselves rendered impure", cluster: purity}
+  ash-and-living-water: {label: "Ash mixed with running ('living') water sprinkled to cleanse", cluster: purity}
+  third-and-seventh-day-sprinkling: {label: "Purification by sprinkling on the third and seventh days", cluster: purity}
+  tent-of-the-dead-defiles: {label: "A corpse defiles everyone and every open vessel in the tent", cluster: purity}
+  death-of-prophets-sister: {label: "Death and burial of the hero's sister", cluster: wilderness}
+  water-from-rock: {label: "Water brought out of a rock by the leader's rod", cluster: wilderness}
+  striking-rock-twice: {label: "Leader strikes the rock (twice) instead of speaking to it", cluster: wilderness}
+  leader-barred-from-promised-land: {label: "The great leader is denied entry into the promised land for a lapse", cluster: wilderness}
+  waters-of-meribah: {label: "Place called 'waters of strife' (Meribah)", cluster: etiology}
+  request-safe-passage-refused: {label: "Request to pass on the King's Highway through a kingdom is refused", cluster: conquest}
+  brother-nation-appeal: {label: "Messengers appeal to a neighboring nation as 'your brother'", cluster: conquest}
+  angel-led-out-of-egypt: {label: "An angel sent to bring the people out of Egypt", cluster: exodus}
+  death-on-mountaintop: {label: "Leader ascends a mountain to die there", cluster: death}
+  vestments-transferred-to-son: {label: "Dying high priest is stripped and his vestments put on his son", cluster: cult}
+  thirty-days-mourning: {label: "Thirty days of mourning for a leader", cluster: death}
+  vow-of-herem: {label: "War vow to devote an enemy's cities to destruction (herem) if God gives victory", cluster: war}
+  fiery-serpents: {label: "God sends fiery (saraph) serpents that bite the people", cluster: punishment}
+  bronze-serpent-on-pole: {label: "Image of a serpent on a pole heals those who look at it", cluster: healing}
+  contempt-for-manna: {label: "People call the miraculous food 'worthless bread'", cluster: wilderness}
+  book-of-wars-of-yhwh: {label: "Citation of a lost source, the 'Book of the Wars of YHWH'", cluster: lost-books}
+  song-of-the-well: {label: "Song to a well dug by princes with their staffs ('Spring up, O well')", cluster: wilderness}
+  itinerary-stations: {label: "List of desert encampment stations", cluster: wilderness}
+  taunt-song-heshbon: {label: "Ballad of the bards (moshlim) on the fire from Heshbon that consumed Moab", cluster: poetry}
+  foreign-god-abandons-people: {label: "A national god (Chemosh) gives up his sons as fugitives and daughters as captives", cluster: theology}
+  defeat-of-sihon-and-og: {label: "Conquest of Sihon of Heshbon and Og of Bashan", cluster: conquest}
+  no-survivor-left: {label: "Enemy smitten until no survivor (sarid) remained", cluster: war}
+  sevenfold-sprinkling: {label: "Blood or water sprinkled seven times", cluster: cult}
+  king-hires-seer-to-curse: {label: "A king hires a foreign seer to curse an enemy people", cluster: prophecy}
+  whom-you-bless-is-blessed: {label: "'Whom you bless is blessed and whom you curse is cursed'", cluster: prophecy}
+  ox-licks-up-grass: {label: "Simile: the horde will lick up everything as an ox licks up grass", cluster: poetry}
+  divination-fees: {label: "Envoys come with the fees of divination in hand", cluster: prophecy}
+  night-revelation-to-gentile: {label: "God comes to a non-Israelite at night to speak with him", cluster: prophecy}
+  seer-refuses-bribe: {label: "Seer: even for a house full of silver and gold I cannot go beyond God's word", cluster: prophecy}
+  talking-donkey: {label: "A donkey speaks with a human voice to its rider", cluster: animals}
+  animal-sees-angel: {label: "An animal sees an angel that its human rider cannot", cluster: animals}
+  angel-with-drawn-sword: {label: "Angel of YHWH stands in the way with a drawn sword", cluster: angels}
+  angel-as-satan-adversary: {label: "The angel stands in the road 'as a satan' (adversary) against the traveler", cluster: angels}
+  rider-beats-animal-three-times: {label: "Rider beats his animal three times as it swerves from the hidden angel", cluster: animals}
+  eyes-opened-to-see-angel: {label: "God uncovers a man's eyes to see an angel", cluster: angels}
+  seven-altars: {label: "Seven altars with seven bulls and seven rams", cluster: cult}
+  curse-turned-to-blessing: {label: "Intended curse turns into blessing in the seer's mouth", cluster: prophecy}
+  word-placed-in-mouth: {label: "God puts a word in the prophet's mouth", cluster: prophecy}
+  people-dwelling-apart: {label: "'A people that dwells alone, not reckoned among the nations'", cluster: prophecy}
+  may-i-die-death-of-righteous: {label: "Seer wishes to die the death of the upright", cluster: death}
+  god-not-man-to-lie: {label: "'God is not a man that he should lie, nor a son of man that he should repent'", cluster: theology}
+  wild-ox-horns: {label: "God's strength for the people like the horns of the wild ox (re'em)", cluster: poetry}
+  no-divination-in-israel: {label: "'There is no augury in Jacob, no divination in Israel'", cluster: prophecy}
+  people-as-lion: {label: "People likened to a lion/lioness that rises and does not lie down until it eats prey", cluster: poetry}
+  change-of-vantage-point: {label: "Curse attempted again from a different mountain/vantage point", cluster: prophecy}
+  seer-with-opened-eye: {label: "Oracle of 'the man whose eye is opened', falling down with eyes uncovered", cluster: prophecy}
+  how-goodly-are-your-tents: {label: "'How goodly are your tents, O Jacob' (Mah tovu)", cluster: poetry}
+  gardens-by-river-aloes: {label: "Israel likened to gardens by a river, aloes planted by YHWH, cedars by water", cluster: poetry}
+  star-out-of-jacob: {label: "A star shall come forth from Jacob, a scepter rise from Israel", cluster: messianism}
+  end-of-days-oracle: {label: "Prophecy concerning 'the end of days'", cluster: eschatology}
+  oracles-against-nations: {label: "Brief oracles against neighboring nations (Amalek, Kenite, Asshur, Kittim)", cluster: prophecy}
+  ships-from-kittim: {label: "Ships from Kittim shall afflict Asshur and Eber", cluster: prophecy}
+  king-claps-hands-in-anger: {label: "King strikes his hands together in anger", cluster: gesture}
+  innumerable-as-dust: {label: "Descendants innumerable as the dust", cluster: patriarchs}
+  royal-shout-in-israel: {label: "God's kingship acclaimed with a royal shout (teru'ah) among the people", cluster: kingship}
+  spirit-of-god-on-gentile: {label: "The spirit of God comes upon a non-Israelite seer", cluster: prophecy}
+  seduction-by-foreign-women-to-idolatry: {label: "Foreign women invite the people to their gods' sacrifices, leading to idolatry", cluster: apostasy}
+  baal-peor: {label: "Israel 'yokes itself' to Baal of Peor", cluster: apostasy}
+  leaders-impaled-before-sun: {label: "Leaders impaled/exposed 'before YHWH, facing the sun' to turn away wrath", cluster: punishment}
+  zealot-spears-couple: {label: "Zealous priest spears an Israelite man and foreign woman together in the act", cluster: zeal}
+  zeal-rewarded-with-priesthood: {label: "Zealous act rewarded with a 'covenant of peace' and eternal priesthood", cluster: cult}
+  named-transgressors: {label: "The transgressing couple named with their noble lineage (Zimri, Cozbi)", cluster: zeal}
+  census-of-new-generation: {label: "A second census counts the new generation by clans", cluster: lists}
+  sons-of-rebel-spared: {label: "The sons of the rebel did not die with him", cluster: punishment}
+  land-by-lot-and-size: {label: "Land divided by lot and in proportion to tribal size", cluster: law}
+  daughter-named-in-genealogy: {label: "A lone daughter named in a male genealogy (Serah daughter of Asher)", cluster: lists}
+  mother-of-the-prophets-named: {label: "Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt)", cluster: lists}
+  strange-fire-deaths: {label: "Priests die for offering 'strange fire'", cluster: cult}
+  daughters-inherit: {label: "Daughters petition and win the right to inherit when there is no son", cluster: law}
+  order-of-inheritance: {label: "Statutory order of inheritance: son, daughter, brothers, father's brothers, nearest kin", cluster: law}
+  preserve-fathers-name: {label: "Petition so that a dead man's name not be lost from his clan", cluster: law}
+  leader-shown-land-before-death: {label: "Leader told to climb a mountain and view the land he will not enter", cluster: death}
+  sheep-without-shepherd: {label: "Prayer that the people not be 'like sheep without a shepherd'", cluster: governance}
+  successor-ordained-by-laying-hands: {label: "Leader ordains his successor by laying hands and sharing his 'splendor' (hod)", cluster: governance}
+  urim-consultation: {label: "Decisions sought through the priest's Urim", cluster: divination}
+  holy-war-command: {label: "God commands war of vengeance against a people", cluster: war}
+  blood-avenger: {label: "The 'redeemer of blood' (go'el ha-dam) kills the murderer", cluster: law}
+  offering-as-gods-food: {label: "Sacrifice called God's 'bread/food' (lahmi)", cluster: cult}
+  daily-tamid-offering: {label: "Perpetual offering of two lambs daily, morning and evening", cluster: cult}
+  sabbath-and-new-moon-offerings: {label: "Additional offerings for Sabbath and new moon", cluster: cult}
+  festival-sacrificial-calendar: {label: "Calendar of festivals with prescribed offerings (Passover, Weeks, Trumpets, Atonement, Booths)", cluster: cult}
+  day-of-trumpet-blasts: {label: "First day of the seventh month as a 'day of blasting' (yom teru'ah)", cluster: cult}
+  day-of-self-affliction: {label: "Tenth of the seventh month: day to 'afflict your souls' (fast)", cluster: cult}
+  seventy-bulls-of-booths: {label: "Diminishing series of bulls over Booths (13 down to 7, totaling 70)", cluster: cult}
+  eighth-day-assembly: {label: "A concluding eighth-day assembly ('atseret) after the feast", cluster: cult}
+  binding-vows: {label: "A man's vow or oath must be fulfilled as uttered", cluster: law}
+  annulment-of-womens-vows: {label: "Father or husband may annul a woman's vow on the day he hears it", cluster: law}
+  silence-as-consent: {label: "Silence on hearing counts as confirmation", cluster: law}
+  widow-divorcee-vow-binding: {label: "Vows of a widow or divorced woman stand on their own", cluster: law}
+  last-task-before-death: {label: "Leader given a final task to complete before he is 'gathered to his people'", cluster: death}
+  thousand-per-tribe-army: {label: "Army of a thousand from each tribe (12,000)", cluster: war}
+  priest-with-trumpets-in-war: {label: "Priest accompanies the army with holy vessels and trumpets", cluster: war}
+  five-kings-slain: {label: "Five named kings slain together", cluster: war}
+  seer-killed-in-battle: {label: "The hired seer (Balaam) is killed by the sword among the enemy", cluster: prophecy}
+  seer-advised-seduction: {label: "Foreign seer blamed for advising the seduction that led to apostasy", cluster: prophecy}
+  virgin-captives-spared: {label: "Only virgin girls among the captives are spared", cluster: war}
+  purification-of-warriors: {label: "Warriors and captives purified outside camp seven days after battle", cluster: purity}
+  purification-by-fire-and-water: {label: "Metal spoils purified by passing through fire, others through water", cluster: purity}
+  division-of-spoils: {label: "Spoils divided half to warriors, half to community, with a levy for God", cluster: war}
+  no-soldier-lost: {label: "Commanders report that not one man of the army is missing", cluster: war}
+  gold-jewelry-atonement-offering: {label: "Captured gold jewelry offered to atone for the soldiers' lives", cluster: cult}
+  transjordan-tribes-request: {label: "Herding tribes ask to settle east of the Jordan", cluster: conquest}
+  vanguard-pledge: {label: "Tribes pledge to fight in the vanguard before returning home", cluster: conquest}
+  your-sin-will-find-you-out: {label: "'Know that your sin will find you'", cluster: wisdom}
+  renaming-conquered-towns: {label: "Conquerors rename captured towns after themselves (Havvoth-Jair, Nobah)", cluster: etiology}
+  moses-writes-itinerary: {label: "Moses writes down the stages of the journey by God's command", cluster: writing}
+  judgment-on-egypts-gods: {label: "God executes judgments on the gods of Egypt", cluster: exodus}
+  twelve-springs-seventy-palms: {label: "Oasis with twelve springs and seventy palm trees (Elim)", cluster: wilderness}
+  forty-two-stations: {label: "Itinerary of about forty-two encampments from Egypt to Moab", cluster: wilderness}
+  aaron-dies-at-123: {label: "Aaron dies aged 123 on the first of the fifth month of the fortieth year", cluster: death}
+  destroy-idols-and-high-places: {label: "Command to destroy figured stones, molten images and high places of the land", cluster: conquest}
+  remaining-natives-as-thorns: {label: "Inhabitants not driven out will be thorns in your eyes and pricks in your sides", cluster: conquest}
+  ideal-borders-of-land: {label: "Ideal borders of the promised land traced from the Brook of Egypt to Lebo-Hamath", cluster: geography}
+  land-allotment-commission: {label: "Named commission of a priest, a leader and one chieftain per tribe to apportion land", cluster: governance}
+  levitical-cities: {label: "Forty-eight cities with pasture-lands of measured cubits assigned to the Levites", cluster: law}
+  murder-vs-manslaughter-by-weapon: {label: "Murder distinguished from manslaughter by weapon (iron, stone, wood), enmity and intent", cluster: law}
+  release-at-high-priests-death: {label: "Manslayer may leave refuge only at the death of the high priest", cluster: law}
+  two-witnesses-for-capital-case: {label: "No one put to death on the testimony of a single witness", cluster: law}
+  no-ransom-for-murderer: {label: "No ransom (kofer) may be taken for a murderer's life", cluster: law}
+  bloodshed-pollutes-land: {label: "Shed blood pollutes the land and only the killer's blood atones for it", cluster: law}
+  heiress-must-marry-within-tribe: {label: "Daughters who inherit must marry within their father's tribe so land does not pass away", cluster: law}
+  jubilee-and-inheritance: {label: "The Jubilee year considered in tribal land transfers", cluster: law}
+  moses-expounds-torah: {label: "Moses 'expounds this Torah' in Moab on the first of the eleventh month of the fortieth year", cluster: law}
+  eleven-days-horeb-to-kadesh: {label: "Eleven days' journey from Horeb to Kadesh-barnea (yet it took forty years)", cluster: wilderness}
+  many-as-stars: {label: "People multiplied 'like the stars of heaven'", cluster: patriarchs}
+  thousandfold-blessing: {label: "Blessing: may God make you a thousand times as many", cluster: blessing}
+  judicial-hierarchy: {label: "Officers over thousands, hundreds, fifties and tens; hard cases to the leader", cluster: governance}
+  judgment-belongs-to-god: {label: "Judges must not show partiality, 'for the judgment is God's'", cluster: law}
+  god-carries-like-father: {label: "God carried Israel in the wilderness as a man carries his son", cluster: theology}
+  pursued-like-bees: {label: "Enemy chased them 'as bees do'", cluster: poetry}
+  children-not-knowing-good-and-evil: {label: "Children 'who do not yet know good and evil' will inherit", cluster: wisdom}
+units:
+  - id: hb-num-8-lampstand
+    tradition: judaism
+    title: Lighting the lampstand
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 8:1-4"]
+    tags:
+      - {motif: seven-branched-lampstand, refs: ["Num 8:2", "Num 8:4"], note: "miqshah zahav, made 'according to the vision YHWH showed Moses'"}
+      - {motif: heavenly-pattern-of-shrine, refs: ["Num 8:4"]}
+  - id: hb-num-8-levites
+    tradition: judaism
+    title: Purification and dedication of the Levites
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 8:5-26"]
+    tags:
+      - {motif: shaving-whole-body-purification, refs: ["Num 8:7"], note: "razor over all their flesh, waters of hatta't sprinkled"}
+      - {motif: laying-hands-on-persons, refs: ["Num 8:10"], note: "all Israel lays hands on the Levites as on a sacrifice"}
+      - {motif: wave-offering-of-persons, refs: ["Num 8:11", "Num 8:13", "Num 8:21"]}
+      - {motif: levites-substitute-firstborn, refs: ["Num 8:16", "Num 8:17", "Num 8:18"], note: "netunim netunim; firstborn sanctified on the day Egypt's firstborn were struck"}
+      - {motif: age-limits-of-service, refs: ["Num 8:24", "Num 8:25", "Num 8:26"], note: "25 to 50; after 50 only guard duty"}
+      - {motif: ransom-against-plague, refs: ["Num 8:19"], note: "Levites prevent a negef when Israel approaches the sanctuary"}
+  - id: hb-num-9-second-passover
+    tradition: judaism
+    title: Passover in Sinai and the second Passover
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 9:1-14"]
+    tags:
+      - {motif: second-passover, refs: ["Num 9:10", "Num 9:11"], note: "14th of the second month; 'far journey' has dotted letter in MT"}
+      - {motif: corpse-impurity, refs: ["Num 9:6", "Num 9:7"]}
+      - {motif: leader-awaits-oracle-on-case, refs: ["Num 9:8"], note: "'Stand and I will hear what YHWH commands'"}
+      - {motif: no-bone-broken, refs: ["Num 9:12"]}
+      - {motif: karet-penalty, refs: ["Num 9:13"]}
+      - {motif: one-law-for-stranger, refs: ["Num 9:14"]}
+    hints:
+      - "Num 9:12 'no bone broken' is applied to Jesus in John 19:36."
+      - "Mishnah Pesahim 9 (Pesach Sheni); the dot over he of rehoqah discussed in Sifre."
+  - id: hb-num-9-cloud
+    tradition: judaism
+    title: The cloud governs encampment and march
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 9:15-23"]
+    tags:
+      - {motif: pillar-of-cloud-and-fire, refs: ["Num 9:15", "Num 9:16"]}
+      - {motif: cloud-signals-march, refs: ["Num 9:17", "Num 9:18", "Num 9:21", "Num 9:22", "Num 9:23"], note: "'at the mouth of YHWH they camped, at the mouth of YHWH they set out'"}
+  - id: hb-num-10-trumpets-departure
+    tradition: judaism
+    title: Silver trumpets and departure from Sinai
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 10:1-28"]
+    tags:
+      - {motif: silver-trumpets, refs: ["Num 10:2", "Num 10:4", "Num 10:5", "Num 10:6", "Num 10:7"], note: "teqi'ah vs teru'ah; one blast summons only the chieftains"}
+      - {motif: trumpet-blast-reminds-god, refs: ["Num 10:9", "Num 10:10"]}
+      - {motif: tribal-marching-order, refs: ["Num 10:14", "Num 10:18", "Num 10:22", "Num 10:25"], note: "Judah leads; Dan is rear guard (me'assef)"}
+      - {motif: cloud-signals-march, refs: ["Num 10:11", "Num 10:12"], note: "20th of 2nd month of 2nd year"}
+    hints:
+      - "Qumran War Scroll (1QM 2-3) inscribes trumpets for each stage of battle; Islamic eschatology: trumpet blasts (sur)."
+  - id: hb-num-10-hobab-ark
+    tradition: judaism
+    title: Hobab invited as guide; the Song of the Ark
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 10:29-36"]
+    tags:
+      - {motif: in-law-guide-desert, refs: ["Num 10:29", "Num 10:30", "Num 10:31"], note: "Hobab son of Reuel the Midianite; 'be our eyes'"}
+      - {motif: ark-leads-the-way, refs: ["Num 10:33"], note: "three days' journey ahead 'to seek a resting place'"}
+      - {motif: pillar-of-cloud-and-fire, refs: ["Num 10:34"]}
+      - {motif: song-of-the-ark, refs: ["Num 10:35", "Num 10:36"], note: "set off in MT by inverted nuns (not shown in print)"}
+    hints:
+      - "Ps 68:2 reuses 'Let God arise, let his enemies be scattered'. Rabbinic: the inverted nuns make 10:35-36 a 'book' of its own (b. Shabbat 115b-116a)."
+  - id: hb-num-11-taberah-quail
+    tradition: judaism
+    title: Taberah, the craving, the seventy elders and the quail
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 11:1-35"]
+    tags:
+      - {motif: divine-fire-burns-camp, refs: ["Num 11:1"]}
+      - {motif: intercession-stops-plague, refs: ["Num 11:2"]}
+      - {motif: place-named-for-event, refs: ["Num 11:3", "Num 11:34"], note: "Taberah 'burning'; Qibrot ha-Ta'avah 'graves of craving'"}
+      - {motif: rabble-mixed-multitude, refs: ["Num 11:4"], note: "ha-asafsuf"}
+      - {motif: murmuring-in-wilderness, refs: ["Num 11:4", "Num 11:18", "Num 11:20"]}
+      - {motif: egyptian-foods-remembered, refs: ["Num 11:5"]}
+      - {motif: manna-description, refs: ["Num 11:7", "Num 11:8", "Num 11:9"]}
+      - {motif: leader-as-nursing-father, refs: ["Num 11:12"], note: "'Did I conceive this people?... as the omen (nurse) carries the suckling'"}
+      - {motif: leader-wishes-to-die, refs: ["Num 11:15"], note: "'kill me'; pronoun at ('you' fem.) addressing God"}
+      - {motif: seventy-elders, refs: ["Num 11:16", "Num 11:24"]}
+      - {motif: spirit-shared-from-leader, refs: ["Num 11:17", "Num 11:25"]}
+      - {motif: ecstatic-prophesying, refs: ["Num 11:25", "Num 11:26"], note: "'they prophesied and did not continue' (or 'did not cease')"}
+      - {motif: unauthorized-prophets-defended, refs: ["Num 11:26", "Num 11:27", "Num 11:28", "Num 11:29"], note: "Eldad and Medad, 'among the written ones' who stayed in camp; Joshua: 'restrain them'"}
+      - {motif: divine-power-questioned, refs: ["Num 11:21", "Num 11:22", "Num 11:23"], note: "'Is YHWH's hand too short?'; 600,000 footmen"}
+      - {motif: quail-miracle, refs: ["Num 11:31", "Num 11:32"], note: "two cubits deep, a day's journey around; least gathered ten homers"}
+      - {motif: food-miracle-turns-to-plague, refs: ["Num 11:33"]}
+    hints:
+      - "Quran 2:57, 7:160, 20:80 (manna and salwa); Quran 2:61 the Israelites ask for herbs, cucumbers, garlic (fum), lentils and onions."
+      - "Lost apocryphon 'Eldad and Modad' quoted in Shepherd of Hermas Vis. 2.3.4; Acts 2 / Joel 3 universal prophecy."
+      - "Seventy elders as model for the Sanhedrin of 71 (m. Sanhedrin 1:6)."
+  - id: hb-num-12-miriam-aaron
+    tradition: judaism
+    title: Miriam and Aaron speak against Moses
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 12:1-16"]
+    tags:
+      - {motif: foreign-wife-of-prophet, refs: ["Num 12:1"], note: "ha-ishah ha-kushit"}
+      - {motif: siblings-challenge-leader, refs: ["Num 12:2"], note: "'Has YHWH spoken only through Moses?'"}
+      - {motif: meekest-of-men, refs: ["Num 12:3"], note: "anaw me'od mi-kol ha-adam"}
+      - {motif: pillar-of-cloud-and-fire, refs: ["Num 12:5"], note: "descends in a pillar of cloud at the tent door"}
+      - {motif: prophecy-by-dream-and-vision, refs: ["Num 12:6"]}
+      - {motif: face-to-face-revelation, refs: ["Num 12:7", "Num 12:8"], note: "'faithful in all my house'; beholds the temunah of YHWH"}
+      - {motif: skin-disease-as-punishment, refs: ["Num 12:10"], note: "only Miriam is struck"}
+      - {motif: intercession-stops-plague, refs: ["Num 12:13"], note: "shortest prayer: el na refa na lah"}
+      - {motif: spitting-in-face-shame, refs: ["Num 12:14"]}
+      - {motif: seven-days-quarantine, refs: ["Num 12:14", "Num 12:15"], note: "people wait for her before marching"}
+    hints:
+      - "Josephus Ant. 2.252-253 and Artapanus: Moses' Ethiopian campaign and marriage to an Ethiopian princess (Tharbis)."
+      - "Hebrews 3:2-5 cites 'faithful in all his house'. Quran 33:69 'do not be like those who hurt Moses'."
+  - id: hb-num-13-spies
+    tradition: judaism
+    title: The twelve spies and their report
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 13:1-33"]
+    tags:
+      - {motif: spies-sent-to-land, refs: ["Num 13:2", "Num 13:3", "Num 13:17", "Num 13:18", "Num 13:19", "Num 13:20"]}
+      - {motif: renaming-hero, refs: ["Num 13:16"]}
+      - {motif: giants-in-the-land, refs: ["Num 13:22", "Num 13:28", "Num 13:33"], note: "Ahiman, Sheshai, Talmai, children of Anak; 'Nephilim'"}
+      - {motif: hebron-older-than-zoan, refs: ["Num 13:22"]}
+      - {motif: giant-grape-cluster, refs: ["Num 13:23", "Num 13:24"], note: "Nahal Eshkol named for it; also pomegranates and figs"}
+      - {motif: place-named-for-event, refs: ["Num 13:24"]}
+      - {motif: forty-days-period, refs: ["Num 13:25"]}
+      - {motif: land-flowing-milk-honey, refs: ["Num 13:27"]}
+      - {motif: minority-faithful-report, refs: ["Num 13:30"], note: "Caleb silences the people"}
+      - {motif: land-devours-inhabitants, refs: ["Num 13:32"]}
+      - {motif: like-grasshoppers, refs: ["Num 13:33"]}
+    hints:
+      - "Quran 5:20-26: two God-fearing men urge entry into the holy land; the people say 'go, you and your Lord, and fight'; forty years of wandering (tih)."
+      - "Gen 6:4 Nephilim; 1 Enoch giants; Og legends (b. Niddah 61a) and the giant who carried a mountain."
+  - id: hb-num-14-rebellion-verdict
+    tradition: judaism
+    title: Rebellion after the spies' report and the forty-year sentence
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 14:1-45"]
+    tags:
+      - {motif: murmuring-in-wilderness, refs: ["Num 14:1", "Num 14:2", "Num 14:3"], note: "'would that we had died in Egypt'"}
+      - {motif: appoint-head-return-egypt, refs: ["Num 14:4"]}
+      - {motif: minority-faithful-report, refs: ["Num 14:6", "Num 14:7", "Num 14:8", "Num 14:9"], note: "'they are our bread; their shadow has departed'"}
+      - {motif: people-try-to-stone-leaders, refs: ["Num 14:10"]}
+      - {motif: god-offers-new-nation-from-hero, refs: ["Num 14:12"]}
+      - {motif: argument-from-gods-reputation, refs: ["Num 14:13", "Num 14:14", "Num 14:15", "Num 14:16"], note: "'eye to eye you are seen, O YHWH'"}
+      - {motif: thirteen-attributes, refs: ["Num 14:18"]}
+      - {motif: intercession-stops-plague, refs: ["Num 14:19", "Num 14:20"], note: "salahti kidvarekha"}
+      - {motif: divine-oath-by-own-life, refs: ["Num 14:21", "Num 14:28"]}
+      - {motif: ten-trials-of-god, refs: ["Num 14:22"]}
+      - {motif: caleb-different-spirit, refs: ["Num 14:24"]}
+      - {motif: generation-dies-in-wilderness, refs: ["Num 14:29", "Num 14:30", "Num 14:31", "Num 14:32", "Num 14:35"], note: "from age twenty up"}
+      - {motif: forty-years-wandering, refs: ["Num 14:33", "Num 14:34"], note: "'a day for a year'"}
+      - {motif: slanderers-die-by-plague, refs: ["Num 14:36", "Num 14:37"]}
+      - {motif: presumptuous-attack-defeated, refs: ["Num 14:40", "Num 14:44", "Num 14:45"], note: "ark and Moses did not leave camp; beaten back to Hormah"}
+    hints:
+      - "m. Avot 5:4 ten trials in the wilderness; Ezek 4:6 'a day for a year' prophetic reckoning used by later apocalyptic chronology (Dan 9)."
+      - "Quran 5:26 'forbidden to them for forty years; they will wander in the earth'."
+  - id: hb-num-15-offerings-laws
+    tradition: judaism
+    title: Grain and drink offerings, dough offering, inadvertent sin
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 15:1-31"]
+    tags:
+      - {motif: libation-proportions, refs: ["Num 15:4", "Num 15:5", "Num 15:6", "Num 15:7", "Num 15:9", "Num 15:10"], note: "lamb 1/4 hin, ram 1/3, bull 1/2"}
+      - {motif: one-law-for-stranger, refs: ["Num 15:14", "Num 15:15", "Num 15:16", "Num 15:29"], note: "'as you are, so shall the ger be before YHWH'"}
+      - {motif: dough-offering-challah, refs: ["Num 15:20", "Num 15:21"]}
+      - {motif: unwitting-vs-high-handed-sin, refs: ["Num 15:24", "Num 15:27", "Num 15:28", "Num 15:30", "Num 15:31"], note: "be-yad ramah = blaspheming YHWH"}
+      - {motif: karet-penalty, refs: ["Num 15:30", "Num 15:31"]}
+      - {motif: deity-smells-offering, refs: ["Num 15:3", "Num 15:7", "Num 15:10"], note: "reah nihoah formula"}
+  - id: hb-num-15-wood-gatherer-tassels
+    tradition: judaism
+    title: The Sabbath wood-gatherer; the law of tassels
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 15:32-41"]
+    tags:
+      - {motif: sabbath-wood-gatherer-stoned, refs: ["Num 15:32", "Num 15:35", "Num 15:36"]}
+      - {motif: leader-awaits-oracle-on-case, refs: ["Num 15:34"], note: "held in custody 'for it was not declared what should be done'"}
+      - {motif: tassels-with-blue-thread, refs: ["Num 15:38", "Num 15:39"], note: "petil tekhelet"}
+      - {motif: eyes-and-heart-lead-astray, refs: ["Num 15:39"], note: "lo tatúru (same verb as the spies' scouting)"}
+    hints:
+      - "Num 15:37-41 is the third paragraph of the Shema. Matt 9:20, 14:36 (hem/kraspedon of Jesus' garment); Quran 7:163 Sabbath-breakers of the town by the sea."
+      - "Targum and rabbinic tradition identify the wood-gatherer as Zelophehad (b. Shabbat 96b)."
+  - id: hb-num-16-korah
+    tradition: judaism
+    title: Korah, Dathan and Abiram rebel; the earth swallows them
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 16:1-35"]
+    tags:
+      - {motif: rebellion-against-priesthood, refs: ["Num 16:1", "Num 16:2", "Num 16:3", "Num 16:10"], note: "250 chieftains, 'men of name'; 'all the congregation is holy'"}
+      - {motif: incense-ordeal, refs: ["Num 16:6", "Num 16:7", "Num 16:17", "Num 16:18"]}
+      - {motif: murmuring-in-wilderness, refs: ["Num 16:13", "Num 16:14"], note: "Egypt itself called 'a land flowing with milk and honey'; 'will you gouge out these men's eyes?'"}
+      - {motif: leader-denies-taking-anything, refs: ["Num 16:15"]}
+      - {motif: god-of-spirits-of-all-flesh, refs: ["Num 16:22"]}
+      - {motif: collective-vs-individual-guilt, refs: ["Num 16:22"]}
+      - {motif: sign-proves-prophet-sent, refs: ["Num 16:28", "Num 16:29", "Num 16:30"], note: "'if YHWH creates a creation (beriah)'"}
+      - {motif: earth-swallows-rebels, refs: ["Num 16:30", "Num 16:31", "Num 16:32", "Num 16:33", "Num 16:34"], note: "with houses, people and property; they 'went down alive to Sheol'"}
+      - {motif: fire-consumes-offerers, refs: ["Num 16:35"]}
+    hints:
+      - "Quran 28:76-82 Qarun (Korah), proud of wealth whose keys burdened strong men, swallowed by the earth with his house."
+      - "Num 26:11 'the sons of Korah did not die'; Psalms of the sons of Korah. m. Avot 5:17 'dispute of Korah'; Jude 11."
+      - "1Sam 12:3 Samuel's parallel protest ('whose ox or donkey have I taken?')."
+  - id: hb-num-17-censers-plague-rod
+    tradition: judaism
+    title: Censers as altar plating, Aaron stops the plague, Aaron's rod blossoms
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 17:1-28"]
+    tags:
+      - {motif: censers-hammered-into-altar-plating, refs: ["Num 17:3", "Num 17:4", "Num 17:5"]}
+      - {motif: murmuring-in-wilderness, refs: ["Num 17:6"], note: "'You have killed the people of YHWH'"}
+      - {motif: priest-stands-between-dead-and-living, refs: ["Num 17:11", "Num 17:12", "Num 17:13"]}
+      - {motif: intercession-stops-plague, refs: ["Num 17:13", "Num 17:15"]}
+      - {motif: plague-death-toll, refs: ["Num 17:14"], note: "14,700"}
+      - {motif: blossoming-rod, refs: ["Num 17:17", "Num 17:18", "Num 17:20", "Num 17:23"], note: "names written on twelve rods; Aaron's yields blossom, flower and ripe almonds"}
+      - {motif: rod-kept-as-sign, refs: ["Num 17:25"], note: "a sign 'for the rebels' (benei meri)"}
+      - {motif: encroacher-put-to-death, refs: ["Num 17:28"], note: "'whoever comes near the tabernacle dies'"}
+    hints:
+      - "Heb 9:4 rod in the ark; Protevangelium of James 9 (dove from Joseph's rod) and Pseudo-Matthew 8 (Joseph's rod blossoms); Tannhauser's staff blossoming; Quran 2:248 relics of the family of Moses and Aaron in the ark."
+      - "Wisdom of Solomon 18:21-25 on Aaron's intercession."
+  - id: hb-num-18-priestly-duties-dues
+    tradition: judaism
+    title: Duties and revenues of priests and Levites
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 18:1-32"]
+    tags:
+      - {motif: encroacher-put-to-death, refs: ["Num 18:3", "Num 18:4", "Num 18:7", "Num 18:22"]}
+      - {motif: priestly-dues, refs: ["Num 18:8", "Num 18:9", "Num 18:11", "Num 18:12", "Num 18:13", "Num 18:14"], note: "includes everything herem in Israel"}
+      - {motif: redemption-of-firstborn-five-shekels, refs: ["Num 18:15", "Num 18:16"], note: "at one month; unclean beasts also redeemed"}
+      - {motif: covenant-of-salt, refs: ["Num 18:19"]}
+      - {motif: god-is-priests-inheritance, refs: ["Num 18:20", "Num 18:23", "Num 18:24"]}
+      - {motif: tithe-to-levites, refs: ["Num 18:21", "Num 18:24", "Num 18:26", "Num 18:28"]}
+    hints:
+      - "Pidyon ha-ben ceremony; Luke 2:22-24 presentation of Jesus. Covenant of salt also 2Chr 13:5; Lev 2:13."
+  - id: hb-num-19-red-heifer
+    tradition: judaism
+    title: The red heifer and corpse impurity
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 19:1-22"]
+    tags:
+      - {motif: red-heifer, refs: ["Num 19:2", "Num 19:3", "Num 19:5"], note: "huqqat ha-torah; slaughtered outside the camp; burned with skin, flesh, blood and dung"}
+      - {motif: sevenfold-sprinkling, refs: ["Num 19:4"]}
+      - {motif: cedar-hyssop-scarlet, refs: ["Num 19:6", "Num 19:18"]}
+      - {motif: purifier-becomes-impure, refs: ["Num 19:7", "Num 19:8", "Num 19:10", "Num 19:21"]}
+      - {motif: ash-and-living-water, refs: ["Num 19:9", "Num 19:17"], note: "me niddah"}
+      - {motif: corpse-impurity, refs: ["Num 19:11", "Num 19:13", "Num 19:16"], note: "bone, grave or one slain by sword in the field"}
+      - {motif: third-and-seventh-day-sprinkling, refs: ["Num 19:12", "Num 19:19"]}
+      - {motif: tent-of-the-dead-defiles, refs: ["Num 19:14", "Num 19:15"], note: "open vessel without a fastened lid (tzamid patil)"}
+      - {motif: karet-penalty, refs: ["Num 19:13", "Num 19:20"]}
+    hints:
+      - "Heb 9:13-14 ashes of a heifer; m. Parah (only nine heifers ever burned); Barnabas 8. Quran 2:67-73 the cow Israel was commanded to slaughter (yellow, unyoked) to reveal a murderer."
+      - "Zoroastrian Vendidad: corpse impurity (nasu) and purification with bull's urine (gomez); Indic pañcagavya."
+  - id: hb-num-20-meribah
+    tradition: judaism
+    title: Miriam's death; water from the rock at Meribah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 20:1-13"]
+    tags:
+      - {motif: death-of-prophets-sister, refs: ["Num 20:1"], note: "at Kadesh, first month"}
+      - {motif: murmuring-in-wilderness, refs: ["Num 20:2", "Num 20:3", "Num 20:4", "Num 20:5"], note: "'no place of seed, fig, vine or pomegranate'"}
+      - {motif: water-from-rock, refs: ["Num 20:8", "Num 20:11"], note: "told to speak to the rock"}
+      - {motif: striking-rock-twice, refs: ["Num 20:10", "Num 20:11"], note: "'Hear now, you rebels! shall we bring forth water for you from this rock?'"}
+      - {motif: leader-barred-from-promised-land, refs: ["Num 20:12"]}
+      - {motif: waters-of-meribah, refs: ["Num 20:13"]}
+    hints:
+      - "Quran 2:60, 7:160: Moses strikes the rock, twelve springs gush out; 1Cor 10:4 'the rock that followed them was Christ'; rabbinic Miriam's well (b. Ta'anit 9a) ceases at her death."
+  - id: hb-num-20-edom-aaron
+    tradition: judaism
+    title: Edom refuses passage; death of Aaron at Mount Hor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 20:14-29"]
+    tags:
+      - {motif: brother-nation-appeal, refs: ["Num 20:14"], note: "'thus says your brother Israel'"}
+      - {motif: angel-led-out-of-egypt, refs: ["Num 20:16"]}
+      - {motif: request-safe-passage-refused, refs: ["Num 20:17", "Num 20:18", "Num 20:19", "Num 20:20", "Num 20:21"], note: "derekh ha-melekh; offer to pay for water"}
+      - {motif: death-on-mountaintop, refs: ["Num 20:25", "Num 20:27", "Num 20:28"]}
+      - {motif: vestments-transferred-to-son, refs: ["Num 20:26", "Num 20:28"]}
+      - {motif: leader-barred-from-promised-land, refs: ["Num 20:24"]}
+      - {motif: thirty-days-mourning, refs: ["Num 20:29"]}
+    hints:
+      - "Elijah's mantle passes to Elisha (2Kgs 2:13); midrash on Aaron's death in a cave (Yalkut). Islamic tradition places Aaron's tomb on Jabal Harun near Petra."
+  - id: hb-num-21-hormah-serpent
+    tradition: judaism
+    title: Hormah; the fiery serpents and the bronze serpent
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 21:1-9"]
+    tags:
+      - {motif: vow-of-herem, refs: ["Num 21:2", "Num 21:3"]}
+      - {motif: place-named-for-event, refs: ["Num 21:3"], note: "Hormah from herem"}
+      - {motif: contempt-for-manna, refs: ["Num 21:5"], note: "lehem ha-qeloqel"}
+      - {motif: fiery-serpents, refs: ["Num 21:6"]}
+      - {motif: intercession-stops-plague, refs: ["Num 21:7"]}
+      - {motif: bronze-serpent-on-pole, refs: ["Num 21:8", "Num 21:9"], note: "nehash nehoshet on a nes; whoever looks lives"}
+    hints:
+      - "2Kgs 18:4 Hezekiah destroys Nehushtan; John 3:14; Wis 16:5-7; Asclepius' serpent staff; copper serpent found at Timna Midianite shrine."
+  - id: hb-num-21-journey-songs
+    tradition: judaism
+    title: Stations to Moab; Book of the Wars of YHWH; Song of the Well
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 21:10-20"]
+    tags:
+      - {motif: itinerary-stations, refs: ["Num 21:10", "Num 21:11", "Num 21:12", "Num 21:13", "Num 21:19", "Num 21:20"]}
+      - {motif: book-of-wars-of-yhwh, refs: ["Num 21:14", "Num 21:15"], note: "cryptic 'Vaheb in Suphah'"}
+      - {motif: song-of-the-well, refs: ["Num 21:16", "Num 21:17", "Num 21:18"], note: "dug by princes 'with the staff (mehoqeq), with their staves'"}
+    hints:
+      - "Rabbinic: the well accompanied Israel (t. Sukkah 3:11); CD 6:3-9 (Damascus Document) allegorizes the well as Torah and the staff as the Interpreter of the Law."
+  - id: hb-num-21-sihon-og
+    tradition: judaism
+    title: Defeat of Sihon and Og; the Heshbon ballad
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 21:21-35"]
+    tags:
+      - {motif: request-safe-passage-refused, refs: ["Num 21:21", "Num 21:22", "Num 21:23"]}
+      - {motif: defeat-of-sihon-and-og, refs: ["Num 21:24", "Num 21:25", "Num 21:33", "Num 21:34", "Num 21:35"]}
+      - {motif: taunt-song-heshbon, refs: ["Num 21:27", "Num 21:28", "Num 21:30"]}
+      - {motif: foreign-god-abandons-people, refs: ["Num 21:29"], note: "'people of Chemosh'"}
+      - {motif: spies-sent-to-land, refs: ["Num 21:32"], note: "spying out Jazer"}
+      - {motif: no-survivor-left, refs: ["Num 21:35"]}
+    hints:
+      - "Mesha Stele: Chemosh angry with his land; cf. Jer 48:45-46 reuses this ballad. Og the giant (Deut 3:11) and Og legends in midrash and Islamic 'Uj ibn 'Anaq."
+  - id: hb-num-22-balak-summons-balaam
+    tradition: judaism
+    title: Balak sends for Balaam
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 22:1-20"]
+    tags:
+      - {motif: ox-licks-up-grass, refs: ["Num 22:4"]}
+      - {motif: king-hires-seer-to-curse, refs: ["Num 22:5", "Num 22:6", "Num 22:11", "Num 22:17"], note: "Balaam son of Beor at Pethor on the River"}
+      - {motif: whom-you-bless-is-blessed, refs: ["Num 22:6"]}
+      - {motif: divination-fees, refs: ["Num 22:7"], note: "qesamim be-yadam"}
+      - {motif: night-revelation-to-gentile, refs: ["Num 22:8", "Num 22:9", "Num 22:12", "Num 22:19", "Num 22:20"]}
+      - {motif: seer-refuses-bribe, refs: ["Num 22:18"]}
+    hints:
+      - "Deir Alla plaster inscription (8th c. BCE): 'Balaam son of Beor, seer of the gods', night vision of a divine council."
+      - "2Pet 2:15, Jude 11, Rev 2:14: Balaam loved the wages of wrongdoing. Quran 7:175-176 (traditionally Bal'am ibn Ba'ura) likened to a panting dog."
+  - id: hb-num-22-balaams-donkey
+    tradition: judaism
+    title: Balaam's donkey and the angel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 22:21-41"]
+    tags:
+      - {motif: angel-as-satan-adversary, refs: ["Num 22:22", "Num 22:32"], note: "le-satan lo"}
+      - {motif: angel-with-drawn-sword, refs: ["Num 22:23", "Num 22:31"]}
+      - {motif: animal-sees-angel, refs: ["Num 22:23", "Num 22:25", "Num 22:27", "Num 22:33"]}
+      - {motif: rider-beats-animal-three-times, refs: ["Num 22:23", "Num 22:25", "Num 22:27", "Num 22:28"], note: "'these three times' (shalosh regalim)"}
+      - {motif: talking-donkey, refs: ["Num 22:28", "Num 22:29", "Num 22:30"], note: "YHWH opened the she-ass's mouth"}
+      - {motif: eyes-opened-to-see-angel, refs: ["Num 22:31"]}
+      - {motif: word-placed-in-mouth, refs: ["Num 22:35", "Num 22:38"]}
+    hints:
+      - "m. Avot 5:6: the mouth of the she-ass among ten things created at twilight of the first Sabbath eve; Achilles' horse Xanthos speaks (Iliad 19.404-417); 2Pet 2:16 'a speechless donkey spoke with a human voice'."
+      - "2Kgs 6:17 Elisha's servant's eyes opened to see fiery chariots."
+  - id: hb-num-23-first-second-oracles
+    tradition: judaism
+    title: Balaam's first and second oracles
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 23:1-30"]
+    tags:
+      - {motif: seven-altars, refs: ["Num 23:1", "Num 23:2", "Num 23:4", "Num 23:14", "Num 23:29", "Num 23:30"]}
+      - {motif: word-placed-in-mouth, refs: ["Num 23:5", "Num 23:12", "Num 23:16"]}
+      - {motif: curse-turned-to-blessing, refs: ["Num 23:8", "Num 23:11", "Num 23:20", "Num 23:25"]}
+      - {motif: people-dwelling-apart, refs: ["Num 23:9"]}
+      - {motif: innumerable-as-dust, refs: ["Num 23:10"], note: "'who can count the dust of Jacob'"}
+      - {motif: may-i-die-death-of-righteous, refs: ["Num 23:10"]}
+      - {motif: change-of-vantage-point, refs: ["Num 23:13", "Num 23:14", "Num 23:27", "Num 23:28"], note: "Field of Zophim on Pisgah; peak of Peor"}
+      - {motif: god-not-man-to-lie, refs: ["Num 23:19"]}
+      - {motif: wild-ox-horns, refs: ["Num 23:22"]}
+      - {motif: no-divination-in-israel, refs: ["Num 23:23"]}
+      - {motif: people-as-lion, refs: ["Num 23:24"]}
+      - {motif: royal-shout-in-israel, refs: ["Num 23:21"], note: "teru'at melekh bo"}
+    hints:
+      - "1Sam 15:29 'the Glory of Israel does not lie or repent, for he is not a man'."
+  - id: hb-num-24-third-fourth-oracles
+    tradition: judaism
+    title: Balaam's third and fourth oracles; the Star from Jacob; oracles against nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 24:1-25"]
+    tags:
+      - {motif: spirit-of-god-on-gentile, refs: ["Num 24:2"]}
+      - {motif: seer-with-opened-eye, refs: ["Num 24:3", "Num 24:4", "Num 24:15", "Num 24:16"], note: "shetum ha-ayin; 'knows the knowledge of Elyon', sees the vision of Shaddai"}
+      - {motif: how-goodly-are-your-tents, refs: ["Num 24:5"]}
+      - {motif: gardens-by-river-aloes, refs: ["Num 24:6", "Num 24:7"], note: "king higher than Agag"}
+      - {motif: wild-ox-horns, refs: ["Num 24:8"]}
+      - {motif: people-as-lion, refs: ["Num 24:9"]}
+      - {motif: whom-you-bless-is-blessed, refs: ["Num 24:9"]}
+      - {motif: king-claps-hands-in-anger, refs: ["Num 24:10"]}
+      - {motif: seer-refuses-bribe, refs: ["Num 24:13"]}
+      - {motif: end-of-days-oracle, refs: ["Num 24:14"], note: "be-aharit ha-yamim"}
+      - {motif: star-out-of-jacob, refs: ["Num 24:17", "Num 24:18", "Num 24:19"], note: "crushes the corners of Moab and 'all the sons of Sheth'"}
+      - {motif: oracles-against-nations, refs: ["Num 24:20", "Num 24:21", "Num 24:22", "Num 24:23", "Num 24:24"], note: "pun qayin/qen 'nest in the rock'"}
+      - {motif: ships-from-kittim, refs: ["Num 24:24"]}
+    hints:
+      - "Num 24:17 read messianically: Bar Kokhba ('son of the star'), CD 7:18-21, 4QTestimonia, Targum Onkelos; Matt 2:2 star of the Magi (Origen links Magi to Balaam); Dan 11:30 'ships of Kittim'."
+      - "Mah tovu (24:5) opens the Jewish morning service."
+  - id: hb-num-25-baal-peor-phinehas
+    tradition: judaism
+    title: Baal Peor and the zeal of Phinehas
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 25:1-19"]
+    tags:
+      - {motif: seduction-by-foreign-women-to-idolatry, refs: ["Num 25:1", "Num 25:2"]}
+      - {motif: baal-peor, refs: ["Num 25:3", "Num 25:5"]}
+      - {motif: leaders-impaled-before-sun, refs: ["Num 25:4"], note: "hoqa' neged ha-shemesh"}
+      - {motif: zealot-spears-couple, refs: ["Num 25:6", "Num 25:7", "Num 25:8"], note: "into the qubbah; pierced her through her qovah (belly)"}
+      - {motif: intercession-stops-plague, refs: ["Num 25:8", "Num 25:11"]}
+      - {motif: plague-death-toll, refs: ["Num 25:9"], note: "24,000"}
+      - {motif: zeal-rewarded-with-priesthood, refs: ["Num 25:11", "Num 25:12", "Num 25:13"], note: "beriti shalom; vav of shalom written broken in MT"}
+      - {motif: named-transgressors, refs: ["Num 25:14", "Num 25:15"]}
+      - {motif: holy-war-command, refs: ["Num 25:17", "Num 25:18"], note: "'harass the Midianites'"}
+    hints:
+      - "1Macc 2:26 Mattathias' zeal 'as Phinehas did'; Ps 106:30-31; Sir 45:23; rabbinic identification of Phinehas with Elijah (Pirqe R. El. 47). Josephus Ant. 4.126-155 and Philo link Peor to Balaam's advice (cf. Num 31:16; Rev 2:14)."
+  - id: hb-num-26-second-census
+    tradition: judaism
+    title: Census of the second generation on the plains of Moab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 26:1-65"]
+    tags:
+      - {motif: census-of-new-generation, refs: ["Num 26:2", "Num 26:4", "Num 26:51", "Num 26:63"], note: "total 601,730"}
+      - {motif: earth-swallows-rebels, refs: ["Num 26:9", "Num 26:10"], note: "they became a 'sign' (nes)"}
+      - {motif: sons-of-rebel-spared, refs: ["Num 26:11"]}
+      - {motif: daughters-inherit, refs: ["Num 26:33"], note: "five daughters of Zelophehad named"}
+      - {motif: daughter-named-in-genealogy, refs: ["Num 26:46"]}
+      - {motif: land-by-lot-and-size, refs: ["Num 26:53", "Num 26:54", "Num 26:55", "Num 26:56"]}
+      - {motif: mother-of-the-prophets-named, refs: ["Num 26:59"]}
+      - {motif: strange-fire-deaths, refs: ["Num 26:61"]}
+      - {motif: generation-dies-in-wilderness, refs: ["Num 26:64", "Num 26:65"]}
+    hints:
+      - "Serah bat Asher: midrash makes her long-lived, tells Jacob Joseph lives (with a harp), shows Moses Joseph's coffin, enters paradise alive."
+      - "Rabbinic tradition: Jochebed born 'between the walls' as they entered Egypt, mother at 130 (b. Bava Batra 123b)."
+  - id: hb-num-27-zelophehad-joshua
+    tradition: judaism
+    title: Daughters of Zelophehad; Moses views the land; Joshua commissioned
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 27:1-23"]
+    tags:
+      - {motif: daughters-inherit, refs: ["Num 27:1", "Num 27:4", "Num 27:7", "Num 27:8"]}
+      - {motif: preserve-fathers-name, refs: ["Num 27:4"]}
+      - {motif: leader-awaits-oracle-on-case, refs: ["Num 27:5"]}
+      - {motif: order-of-inheritance, refs: ["Num 27:8", "Num 27:9", "Num 27:10", "Num 27:11"]}
+      - {motif: leader-shown-land-before-death, refs: ["Num 27:12", "Num 27:13"], note: "Mount Abarim"}
+      - {motif: leader-barred-from-promised-land, refs: ["Num 27:14"]}
+      - {motif: god-of-spirits-of-all-flesh, refs: ["Num 27:16"]}
+      - {motif: sheep-without-shepherd, refs: ["Num 27:17"]}
+      - {motif: successor-ordained-by-laying-hands, refs: ["Num 27:18", "Num 27:20", "Num 27:23"], note: "'put some of your hod upon him'"}
+      - {motif: urim-consultation, refs: ["Num 27:21"]}
+    hints:
+      - "Mark 6:34 / Matt 9:36 'sheep without a shepherd'; semikhah as basis of rabbinic ordination; Quran 4:11-12, 4:176 daughters' inheritance shares."
+  - id: hb-num-28-29-sacrificial-calendar
+    tradition: judaism
+    title: Calendar of public offerings
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 28:1-29:39"]
+    tags:
+      - {motif: offering-as-gods-food, refs: ["Num 28:2", "Num 28:24"], note: "qorbani lahmi le-ishai"}
+      - {motif: daily-tamid-offering, refs: ["Num 28:3", "Num 28:4", "Num 28:6", "Num 28:8"], note: "'offered at Mount Sinai'"}
+      - {motif: libation-proportions, refs: ["Num 28:7", "Num 28:14"], note: "libation of shekhar 'in the holy place'"}
+      - {motif: sabbath-and-new-moon-offerings, refs: ["Num 28:9", "Num 28:10", "Num 28:11", "Num 28:15"]}
+      - {motif: festival-sacrificial-calendar, refs: ["Num 28:16", "Num 28:17", "Num 28:26", "Num 29:12", "Num 29:39"]}
+      - {motif: day-of-trumpet-blasts, refs: ["Num 29:1"]}
+      - {motif: day-of-self-affliction, refs: ["Num 29:7", "Num 29:11"]}
+      - {motif: seventy-bulls-of-booths, refs: ["Num 29:13", "Num 29:17", "Num 29:20", "Num 29:23", "Num 29:26", "Num 29:29", "Num 29:32"]}
+      - {motif: eighth-day-assembly, refs: ["Num 29:35", "Num 29:36"]}
+    hints:
+      - "b. Sukkah 55b: seventy bulls for the seventy nations, one bull on the eighth day for Israel. Num 28-29 read as Musaf readings in synagogue; the dotted vav in Num 29:15."
+  - id: hb-num-30-vows
+    tradition: judaism
+    title: Vows of men and women
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 30:1-17"]
+    tags:
+      - {motif: binding-vows, refs: ["Num 30:3"], note: "lo yahel devaro"}
+      - {motif: annulment-of-womens-vows, refs: ["Num 30:6", "Num 30:9", "Num 30:13", "Num 30:14"]}
+      - {motif: silence-as-consent, refs: ["Num 30:5", "Num 30:8", "Num 30:12", "Num 30:15"]}
+      - {motif: widow-divorcee-vow-binding, refs: ["Num 30:10"]}
+    hints:
+      - "Kol Nidre and m. Nedarim (hatarat nedarim); Quran 5:89 expiation for oaths; Matt 5:33-37."
+  - id: hb-num-31-midian-war
+    tradition: judaism
+    title: War against Midian and division of the spoils
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 31:1-54"]
+    tags:
+      - {motif: holy-war-command, refs: ["Num 31:2", "Num 31:3"], note: "niqmat YHWH"}
+      - {motif: last-task-before-death, refs: ["Num 31:2"]}
+      - {motif: thousand-per-tribe-army, refs: ["Num 31:4", "Num 31:5"]}
+      - {motif: priest-with-trumpets-in-war, refs: ["Num 31:6"]}
+      - {motif: five-kings-slain, refs: ["Num 31:8"], note: "Evi, Rekem, Zur, Hur, Reba"}
+      - {motif: seer-killed-in-battle, refs: ["Num 31:8"]}
+      - {motif: seer-advised-seduction, refs: ["Num 31:16"], note: "bi-dvar Bil'am"}
+      - {motif: virgin-captives-spared, refs: ["Num 31:15", "Num 31:17", "Num 31:18", "Num 31:35"]}
+      - {motif: purification-of-warriors, refs: ["Num 31:19", "Num 31:20", "Num 31:24"]}
+      - {motif: third-and-seventh-day-sprinkling, refs: ["Num 31:19"]}
+      - {motif: purification-by-fire-and-water, refs: ["Num 31:22", "Num 31:23"], note: "gold, silver, bronze, iron, tin, lead"}
+      - {motif: division-of-spoils, refs: ["Num 31:27", "Num 31:28", "Num 31:30", "Num 31:37"], note: "1/500 from warriors to the priest, 1/50 from community to Levites; 675,000 sheep"}
+      - {motif: no-soldier-lost, refs: ["Num 31:49"]}
+      - {motif: gold-jewelry-atonement-offering, refs: ["Num 31:50", "Num 31:52", "Num 31:54"], note: "anklets, bracelets, rings, earrings, kumaz; 16,750 shekels"}
+    hints:
+      - "1Sam 30:24-25 David's rule of equal shares; Quran 8:41 one-fifth of spoils (khums) for God and the Messenger; m. Avodah Zarah 5:12 kashering vessels by fire and water (hag'alah, libun)."
+  - id: hb-num-32-transjordan-tribes
+    tradition: judaism
+    title: Reuben, Gad and half-Manasseh settle east of the Jordan
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 32:1-42"]
+    tags:
+      - {motif: transjordan-tribes-request, refs: ["Num 32:1", "Num 32:4", "Num 32:5"]}
+      - {motif: spies-sent-to-land, refs: ["Num 32:8", "Num 32:9"], note: "retold as precedent of discouraging Israel"}
+      - {motif: generation-dies-in-wilderness, refs: ["Num 32:11", "Num 32:13"]}
+      - {motif: caleb-different-spirit, refs: ["Num 32:12"], note: "Caleb the Kenizzite"}
+      - {motif: vanguard-pledge, refs: ["Num 32:16", "Num 32:17", "Num 32:18", "Num 32:27", "Num 32:32"]}
+      - {motif: your-sin-will-find-you-out, refs: ["Num 32:23"]}
+      - {motif: renaming-conquered-towns, refs: ["Num 32:38", "Num 32:41", "Num 32:42"], note: "names 'changed' (musabbot shem), avoiding the gods Nebo and Baal"}
+    hints:
+      - "Josh 22 altar of witness of the Transjordan tribes. Mesha Stele mentions Ataroth and 'men of Gad' living there 'from of old'."
+  - id: hb-num-33-itinerary
+    tradition: judaism
+    title: The stages of Israel's journey from Egypt to Moab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 33:1-49"]
+    tags:
+      - {motif: moses-writes-itinerary, refs: ["Num 33:2"]}
+      - {motif: judgment-on-egypts-gods, refs: ["Num 33:4"], note: "Egyptians burying their firstborn as Israel leaves 'with a high hand'"}
+      - {motif: forty-two-stations, refs: ["Num 33:5", "Num 33:48", "Num 33:49"]}
+      - {motif: itinerary-stations, refs: ["Num 33:5", "Num 33:18", "Num 33:35", "Num 33:36"], note: "Ezion-geber; many otherwise unknown stations (Rithmah, Hashmonah, Hor-haggidgad)"}
+      - {motif: twelve-springs-seventy-palms, refs: ["Num 33:9"]}
+      - {motif: aaron-dies-at-123, refs: ["Num 33:38", "Num 33:39"], note: "only death date given in the Torah"}
+      - {motif: death-on-mountaintop, refs: ["Num 33:38"]}
+    hints:
+      - "Num Rabbah 23 / Midrash: 42 stations allegorized; Origen Homily 27 on Numbers reads the 42 stations as stages of the soul's ascent; the 42-letter divine name in Kabbalah. Matt 1:17 has 3x14 = 42 generations."
+  - id: hb-num-33-dispossession
+    tradition: judaism
+    title: Command to dispossess and destroy cult objects
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 33:50-56"]
+    tags:
+      - {motif: destroy-idols-and-high-places, refs: ["Num 33:52"], note: "maskiyyot, tsalmei massekhot, bamot"}
+      - {motif: land-by-lot-and-size, refs: ["Num 33:54"]}
+      - {motif: remaining-natives-as-thorns, refs: ["Num 33:55", "Num 33:56"]}
+  - id: hb-num-34-borders
+    tradition: judaism
+    title: Borders of Canaan and the land commission
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 34:1-29"]
+    tags:
+      - {motif: ideal-borders-of-land, refs: ["Num 34:3", "Num 34:4", "Num 34:5", "Num 34:6", "Num 34:7", "Num 34:8", "Num 34:11", "Num 34:12"], note: "Ascent of Scorpions; Great Sea; Sea of Kinneret"}
+      - {motif: transjordan-tribes-request, refs: ["Num 34:14", "Num 34:15"]}
+      - {motif: land-allotment-commission, refs: ["Num 34:17", "Num 34:18", "Num 34:19", "Num 34:29"]}
+    hints:
+      - "Ezek 47:15-20 borders of the restored land; Gen 15:18 river of Egypt to Euphrates."
+  - id: hb-num-35-levitical-cities-refuge
+    tradition: judaism
+    title: Levitical cities, cities of refuge and the law of homicide
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 35:1-34"]
+    tags:
+      - {motif: levitical-cities, refs: ["Num 35:2", "Num 35:4", "Num 35:5", "Num 35:7"], note: "1000 cubits from the wall, 2000 cubits each side"}
+      - {motif: cities-of-refuge, refs: ["Num 35:6", "Num 35:11", "Num 35:13", "Num 35:14", "Num 35:15"], note: "also for the ger and toshav"}
+      - {motif: blood-avenger, refs: ["Num 35:12", "Num 35:19", "Num 35:21", "Num 35:27"]}
+      - {motif: murder-vs-manslaughter-by-weapon, refs: ["Num 35:16", "Num 35:17", "Num 35:18", "Num 35:20", "Num 35:22", "Num 35:23"]}
+      - {motif: release-at-high-priests-death, refs: ["Num 35:25", "Num 35:28", "Num 35:32"]}
+      - {motif: two-witnesses-for-capital-case, refs: ["Num 35:30"]}
+      - {motif: no-ransom-for-murderer, refs: ["Num 35:31", "Num 35:32"]}
+      - {motif: bloodshed-pollutes-land, refs: ["Num 35:33", "Num 35:34"]}
+      - {motif: one-law-for-stranger, refs: ["Num 35:15"]}
+    hints:
+      - "Quran 2:178-179, 17:33 qisas and the heir's authority, diyah accepted (contrast 35:31); Greek asylia at temples; Draco's homicide law (involuntary homicide and exile). b. Makkot 11a: mothers of high priests fed refugees so they would not pray for the priest's death."
+  - id: hb-num-36-heiresses
+    tradition: judaism
+    title: Marriage of heiresses within the tribe; colophon of Numbers
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Num 36:1-13"]
+    tags:
+      - {motif: heiress-must-marry-within-tribe, refs: ["Num 36:3", "Num 36:6", "Num 36:7", "Num 36:8", "Num 36:9"]}
+      - {motif: jubilee-and-inheritance, refs: ["Num 36:4"]}
+      - {motif: daughters-inherit, refs: ["Num 36:2", "Num 36:11", "Num 36:12"], note: "married their uncles' sons"}
+    hints:
+      - "Athenian epikleros (heiress married to nearest kinsman); Tob 6:12-13 and 7:10-13 (Sarah must marry within her father's kin)."
+  - id: hb-deut-1-introduction-judges
+    tradition: judaism
+    title: Setting of Moses' speech; appointment of judges
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Deut 1:1-18"]
+    tags:
+      - {motif: eleven-days-horeb-to-kadesh, refs: ["Deut 1:2"]}
+      - {motif: moses-expounds-torah, refs: ["Deut 1:3", "Deut 1:5"], note: "be'er et ha-torah"}
+      - {motif: defeat-of-sihon-and-og, refs: ["Deut 1:4"], note: "Og at Ashtaroth in Edrei"}
+      - {motif: ideal-borders-of-land, refs: ["Deut 1:7"], note: "to the great river Euphrates"}
+      - {motif: many-as-stars, refs: ["Deut 1:10"]}
+      - {motif: thousandfold-blessing, refs: ["Deut 1:11"]}
+      - {motif: leader-as-nursing-father, refs: ["Deut 1:9", "Deut 1:12"], note: "'how can I bear alone your burden?'"}
+      - {motif: judicial-hierarchy, refs: ["Deut 1:13", "Deut 1:15", "Deut 1:17"]}
+      - {motif: judgment-belongs-to-god, refs: ["Deut 1:16", "Deut 1:17"]}
+    hints:
+      - "Exod 18 Jethro's advice; Sifre Deut 1 reads the place names of 1:1 as veiled rebukes (Di-zahav = golden calf). Lam 1:1 and Isa 1:21 share 'eikhah' with Deut 1:12 and are read together on Tisha b'Av."
+  - id: hb-deut-1-spies-retold
+    tradition: judaism
+    title: The spies episode retold
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Deut 1:19-46"]
+    tags:
+      - {motif: spies-sent-to-land, refs: ["Deut 1:22", "Deut 1:23", "Deut 1:24", "Deut 1:25"], note: "here the people propose it"}
+      - {motif: murmuring-in-wilderness, refs: ["Deut 1:27"], note: "'because YHWH hated us he brought us out'"}
+      - {motif: giants-in-the-land, refs: ["Deut 1:28"]}
+      - {motif: cities-fortified-to-heaven, refs: ["Deut 1:28"]}
+      - {motif: god-carries-like-father, refs: ["Deut 1:31"]}
+      - {motif: pillar-of-cloud-and-fire, refs: ["Deut 1:33"]}
+      - {motif: generation-dies-in-wilderness, refs: ["Deut 1:35", "Deut 1:39"]}
+      - {motif: caleb-different-spirit, refs: ["Deut 1:36"]}
+      - {motif: leader-barred-from-promised-land, refs: ["Deut 1:37"], note: "here blamed on the people ('because of you')"}
+      - {motif: children-not-knowing-good-and-evil, refs: ["Deut 1:39"]}
+      - {motif: presumptuous-attack-defeated, refs: ["Deut 1:41", "Deut 1:42", "Deut 1:43", "Deut 1:44", "Deut 1:45"]}
+      - {motif: pursued-like-bees, refs: ["Deut 1:44"]}
+    hints:
+      - "Isa 7:15-16 the child who does not yet know to refuse evil and choose good; Gen 2-3 knowledge of good and evil. Ps 118:12 'they surrounded me like bees'."

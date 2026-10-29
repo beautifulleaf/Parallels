@@ -178,6 +178,118 @@ new_motifs:
   patriarch-laughs-at-promise: {label: "Patriarch or matriarch laughs at the promise of a child in old age", cluster: birth}
   ishmael-twelve-princes: {label: "Ishmael promised to father twelve princes and a great nation", cluster: patriarchs}
   circumcision-at-age-thirteen: {label: "Ishmael circumcised at thirteen, Abraham at ninety-nine", cluster: law}
+  three-divine-visitors: {label: "God appears as three men who visit the patriarch", cluster: theophany}
+  hospitality-to-strangers: {label: "Host runs to welcome strangers, washes their feet and feeds them", cluster: hospitality}
+  calf-prepared-for-guests: {label: "A tender calf is slaughtered and served to divine guests", cluster: hospitality}
+  divine-guests-eat: {label: "Heavenly visitors eat a human meal", cluster: theophany}
+  sarah-laughs-overhearing: {label: "The old wife overhears the promise of a son at the tent door and laughs", cluster: birth}
+  birth-past-menopause: {label: "Child promised to a woman past childbearing age", cluster: birth}
+  nothing-too-hard-for-god: {label: "'Is anything too wondrous for the LORD?'", cluster: theology}
+  god-confides-plan-to-friend: {label: "God decides not to hide his plan from his chosen one", cluster: prophecy}
+  outcry-of-sodom: {label: "An outcry (tse'aqah) from the wicked city reaches God", cluster: judgment}
+  bargaining-for-the-city: {label: "Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10)", cluster: judgment}
+  judge-of-all-earth-must-be-just: {label: "Hero challenges God: shall the judge of all the earth not do justice?", cluster: theology}
+  dust-and-ashes-humility: {label: "Petitioner calls himself dust and ashes before God", cluster: theology}
+  angels-lodge-with-lot: {label: "Two angels are received as guests by Lot in Sodom", cluster: hospitality}
+  mob-demands-guests: {label: "Townsmen surround the house and demand the guests for sexual abuse", cluster: judgment}
+  host-offers-daughters: {label: "Host offers his virgin daughters to the mob to protect his guests", cluster: hospitality}
+  attackers-struck-blind: {label: "Attackers struck with blindness and cannot find the door", cluster: judgment}
+  warning-mocked-by-kin: {label: "The righteous man's warning is taken as a joke by his own relatives", cluster: judgment}
+  angels-drag-family-out: {label: "Angels seize the hesitating family by the hand and lead them out", cluster: judgment}
+  do-not-look-back: {label: "Command not to look back while fleeing a doomed place", cluster: judgment}
+  small-town-spared-for-refugee: {label: "A small town is spared at the refugee's request (Zoar, 'small')", cluster: judgment}
+  fire-and-brimstone-from-heaven: {label: "God rains sulfur and fire from heaven on cities", cluster: judgment}
+  cities-overturned: {label: "Cities overturned (hafakh) and the plain destroyed", cluster: judgment}
+  wife-turned-to-pillar-of-salt: {label: "Wife who looks back is turned into a pillar of salt", cluster: judgment}
+  smoke-like-a-furnace: {label: "Smoke rises from the destroyed land like smoke of a kiln", cluster: judgment}
+  cave-dwelling-after-catastrophe: {label: "Survivors live in a cave after the catastrophe", cluster: judgment}
+  daughters-intoxicate-father-incest: {label: "Daughters make their father drunk and conceive by him to preserve offspring", cluster: primeval}
+  belief-no-men-left-on-earth: {label: "Survivors believe no other men are left on earth", cluster: primeval}
+  incestuous-origin-of-neighbors: {label: "Neighboring nations (Moab, Ammon) derived from an incestuous union", cluster: etiology}
+  god-warns-king-in-dream: {label: "God warns a foreign king in a night dream", cluster: revelation}
+  innocent-king-pleads-integrity: {label: "Foreign king protests his innocence and integrity of heart to God", cluster: patriarchs}
+  patriarch-called-prophet-intercessor: {label: "Patriarch called a prophet whose prayer heals others", cluster: prophecy}
+  wife-is-half-sister: {label: "Patriarch's wife is his half-sister (same father, different mother)", cluster: patriarchs}
+  wombs-closed-as-punishment: {label: "God closes the wombs of a household as punishment, reopened through prayer", cluster: birth}
+  birth-of-promised-son-in-old-age: {label: "Promised son born to aged parents at the appointed time", cluster: birth}
+  weaning-feast: {label: "A great feast on the day the child is weaned", cluster: birth}
+  expulsion-of-slave-and-son: {label: "Slave-wife and her son expelled at the wife's demand", cluster: patriarchs}
+  child-cast-under-bush-mother-weeps: {label: "Mother lays her dying child under a bush and sits a bowshot away weeping", cluster: patriarchs}
+  well-revealed-in-desert: {label: "God opens a woman's eyes to see a well in the desert that saves her child", cluster: patriarchs}
+  ishmael-archer-in-wilderness: {label: "The outcast son grows up in the wilderness as an archer", cluster: patriarchs}
+  well-dispute-and-treaty: {label: "Dispute over a well resolved by an oath-treaty with a local king", cluster: patriarchs}
+  seven-ewes-witness: {label: "Seven ewe lambs given as witness to a well-ownership oath (Beersheba)", cluster: patriarchs}
+  tamarisk-planted-el-olam: {label: "Patriarch plants a tamarisk and calls on El Olam, the Everlasting God", cluster: cult}
+  god-tests-patriarch: {label: "God tests the patriarch's obedience", cluster: patriarchs}
+  command-to-sacrifice-son: {label: "God commands a father to sacrifice his son", cluster: sacrifice}
+  only-beloved-son: {label: "The son to be sacrificed is called the only, beloved son", cluster: sacrifice}
+  three-day-journey-to-mountain: {label: "Three-day journey to the mountain of sacrifice", cluster: sacrifice}
+  son-carries-wood: {label: "The son carries the wood for his own sacrifice", cluster: sacrifice}
+  son-asks-where-is-lamb: {label: "Son asks his father where the sacrificial lamb is", cluster: sacrifice}
+  binding-of-son-on-altar: {label: "Father binds his son on the altar and lifts the knife", cluster: sacrifice}
+  angel-stops-sacrifice: {label: "An angel calls from heaven to stop the sacrifice at the last moment", cluster: sacrifice}
+  ram-substitute: {label: "A ram caught in a thicket is sacrificed in place of the son", cluster: sacrifice}
+  place-named-god-will-see: {label: "Place of sacrifice named 'YHWH will see/provide' on the mount of the LORD", cluster: etiology}
+  divine-oath-by-himself: {label: "God swears by himself", cluster: covenant}
+  seed-will-possess-enemy-gate: {label: "Descendants will possess the gate of their enemies", cluster: covenant}
+  hineni-response: {label: "Called by name, the hero answers 'Here I am' (hineni)", cluster: revelation}
+  twelve-sons-of-nahor: {label: "Nahor has twelve sons, eight by wife and four by concubine", cluster: patriarchs}
+  death-of-matriarch: {label: "Death and mourning of the matriarch, with her age given", cluster: patriarchs}
+  resident-alien-buys-grave: {label: "Patriarch, a resident alien, negotiates publicly at the city gate to buy a burial plot", cluster: patriarchs}
+  cave-of-machpelah: {label: "The cave of Machpelah at Hebron as the family tomb", cluster: patriarchs}
+  price-400-shekels: {label: "A field bought for 400 shekels of silver", cluster: patriarchs}
+  patriarch-called-prince-of-god: {label: "Locals call the patriarch a prince of God (nesi elohim)", cluster: patriarchs}
+  oath-hand-under-thigh: {label: "Oath sworn by placing the hand under the thigh of the one demanding it", cluster: law}
+  bride-sought-from-kin-not-locals: {label: "Father insists his son's wife come from his own kin, not the local women", cluster: patriarchs}
+  servant-sent-to-find-bride: {label: "A trusted servant is sent abroad to find a bride for the master's son", cluster: patriarchs}
+  meeting-at-the-well-betrothal: {label: "Future bride or groom met at a well, leading to betrothal", cluster: patriarchs}
+  sign-test-by-prayer: {label: "Hero asks God for a specific sign to identify the right person (who will offer water)", cluster: revelation}
+  angel-goes-before-messenger: {label: "God sends his angel ahead to guide the journey", cluster: revelation}
+  bride-gifts-nose-ring-bracelets: {label: "Bride given a gold nose-ring and bracelets", cluster: patriarchs}
+  bride-consents-to-go: {label: "The bride is asked and consents to go ('I will go')", cluster: patriarchs}
+  blessing-thousands-of-myriads: {label: "Departing bride blessed to become thousands of myriads", cluster: patriarchs}
+  bride-veils-on-seeing-groom: {label: "Bride covers herself with a veil on seeing the groom", cluster: patriarchs}
+  meditation-in-the-field: {label: "Patriarch goes out to meditate (or pray) in the field at evening", cluster: cult}
+  groom-comforted-after-mothers-death: {label: "Son brings bride into his dead mother's tent and is comforted", cluster: patriarchs}
+  sons-of-concubines-sent-east: {label: "Sons of concubines given gifts and sent away east so the chosen heir inherits all", cluster: patriarchs}
+  death-old-and-full-of-days: {label: "Patriarch dies in good old age, full of days, and is gathered to his people", cluster: patriarchs}
+  rival-sons-bury-father-together: {label: "Estranged half-brothers together bury their father", cluster: patriarchs}
+  ishmaelite-tribes-arabia: {label: "Ishmael's twelve sons as Arabian tribes (Nebaioth, Kedar, Dumah, Tema...)", cluster: patriarchs}
+  husband-prays-for-barren-wife: {label: "Husband prays for his barren wife and she conceives", cluster: birth}
+  twins-struggle-in-womb: {label: "Twins struggle with each other in the womb", cluster: birth}
+  oracle-to-pregnant-mother: {label: "Mother inquires of God and receives an oracle about her unborn children", cluster: birth}
+  elder-shall-serve-younger: {label: "Oracle or blessing that the elder will serve the younger", cluster: patriarchs}
+  hairy-red-firstborn: {label: "Firstborn twin born red and hairy all over", cluster: birth}
+  younger-twin-grasps-heel: {label: "Second twin born grasping his brother's heel", cluster: birth}
+  hunter-vs-tent-dweller-brothers: {label: "Contrast of a hunter outdoor brother and a quiet tent-dwelling brother", cluster: patriarchs}
+  parents-each-favor-a-son: {label: "Father favors one son, mother another", cluster: patriarchs}
+  birthright-sold-for-stew: {label: "Hungry elder brother sells his birthright for a dish of red lentil stew", cluster: patriarchs}
+  edom-named-from-red: {label: "Edom etymologized from the red (adom) stew", cluster: etiology}
+  god-forbids-going-to-egypt: {label: "God forbids the patriarch to go down to Egypt in a famine", cluster: patriarchs}
+  abraham-kept-laws: {label: "Abraham kept God's charge, commandments, statutes and laws (torot) before Sinai", cluster: law}
+  king-sees-couple-through-window: {label: "King looking through a window sees the couple embracing and learns they are married", cluster: patriarchs}
+  hundredfold-harvest: {label: "Patriarch reaps a hundredfold in one year", cluster: patriarchs}
+  wells-stopped-by-enemies: {label: "Enemies stop up the patriarch's wells with earth out of envy", cluster: patriarchs}
+  named-wells-of-contention: {label: "Successive wells named for strife (Esek, Sitnah) and finally room (Rehoboth)", cluster: etiology}
+  esau-marries-hittite-wives: {label: "Esau marries Hittite women who grieve his parents", cluster: patriarchs}
+  blind-father-deathbed-blessing: {label: "Aged, blind father prepares to give his deathbed blessing to the firstborn", cluster: patriarchs}
+  blessing-after-meal-of-game: {label: "Father requests a favorite dish of game before blessing", cluster: patriarchs}
+  mother-schemes-for-younger-son: {label: "Mother devises a ruse so her favorite younger son gets the blessing", cluster: patriarchs}
+  disguise-with-goatskins: {label: "Smooth son disguises himself with goatskins and his brother's garments to deceive a blind father", cluster: patriarchs}
+  voice-of-jacob-hands-of-esau: {label: "Blind father notes the voice is one son's but the hands are the other's", cluster: patriarchs}
+  irrevocable-blessing: {label: "A spoken blessing, once given, cannot be retracted", cluster: patriarchs}
+  blessing-of-dew-and-fatness: {label: "Blessing of the dew of heaven, fatness of the earth, grain and wine", cluster: patriarchs}
+  cheated-brother-cries-out: {label: "The cheated brother cries a great and bitter cry and weeps for a blessing", cluster: patriarchs}
+  live-by-the-sword-break-yoke: {label: "Elder son told he will live by the sword, serve his brother, then break his yoke", cluster: patriarchs}
+  brother-plans-murder-after-fathers-death: {label: "Wronged brother plans to kill his brother once their father has died", cluster: patriarchs}
+  hero-flees-to-maternal-uncle: {label: "Hero flees to his mother's brother in a foreign land", cluster: patriarchs}
+  dream-ladder-to-heaven: {label: "Dream of a ladder or stairway reaching heaven with angels ascending and descending", cluster: revelation}
+  stone-pillow: {label: "Hero sleeps with a stone under his head at a holy place", cluster: cult}
+  house-of-god-gate-of-heaven: {label: "A place recognized as the house of God and gate of heaven", cluster: cosmology}
+  anointed-standing-stone: {label: "A standing stone (matsevah) set up and anointed with oil", cluster: cult}
+  place-renamed-bethel: {label: "Luz renamed Bethel, 'house of God'", cluster: etiology}
+  conditional-vow-to-god: {label: "Hero vows that if God protects and provides for him, he will worship and tithe", cluster: cult}
+  divine-promise-of-protection-on-journey: {label: "God promises to be with the traveler and bring him back", cluster: covenant}
 units:
   - id: hb-gen-1-creation-six-days
     tradition: judaism
@@ -629,3 +741,353 @@ units:
       - {motif: circumcision-at-age-thirteen, refs: ["Gen 17:24", "Gen 17:25"]}
     hints:
       - "Islamic khitan, tradition of Abraham's circumcision at 80 with an adze (Bukhari); Herodotus 2.104 on Egyptian circumcision; Jubilees 15; Ishmaelite age of 13 behind Muslim practice in Josephus Ant. 1.214."
+  - id: hb-gen-18-visitors-at-mamre
+    tradition: judaism
+    title: Three visitors at Mamre and the promise of Isaac
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 18:1-15"]
+    tags:
+      - {motif: three-divine-visitors, refs: ["Gen 18:1", "Gen 18:2"], note: "YHWH appears; Abraham sees three men"}
+      - {motif: sacred-tree-sanctuary, refs: ["Gen 18:1", "Gen 18:4", "Gen 18:8"]}
+      - {motif: hospitality-to-strangers, refs: ["Gen 18:2", "Gen 18:3", "Gen 18:4", "Gen 18:5", "Gen 18:6"], note: "three seahs of fine flour"}
+      - {motif: calf-prepared-for-guests, refs: ["Gen 18:7"]}
+      - {motif: divine-guests-eat, refs: ["Gen 18:8"], note: "curds, milk and calf: meat with milk, noted by rabbis"}
+      - {motif: annunciation-of-son-and-name, refs: ["Gen 18:10", "Gen 18:14"], note: "'at this time next year' (ka-et hayyah)"}
+      - {motif: birth-past-menopause, refs: ["Gen 18:11"]}
+      - {motif: sarah-laughs-overhearing, refs: ["Gen 18:10", "Gen 18:12", "Gen 18:13", "Gen 18:15"]}
+      - {motif: patriarch-laughs-at-promise, refs: ["Gen 18:12"]}
+      - {motif: nothing-too-hard-for-god, refs: ["Gen 18:14"]}
+    hints:
+      - "Quran 11:69-73 and 51:24-30: guests do not eat (Abraham fears them), roasted calf, the wife laughs and strikes her face; Tob 12:19 angel only appeared to eat; Christian Trinity icon (Rublev)."
+      - "Ovid Met. 8 Baucis and Philemon (gods hosted, flood/punishment of inhospitable neighbours); Hyrieus given a son Orion by three gods."
+  - id: hb-gen-18-abraham-bargains
+    tradition: judaism
+    title: Abraham bargains for Sodom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 18:16-33"]
+    tags:
+      - {motif: god-confides-plan-to-friend, refs: ["Gen 18:17"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Gen 18:18"]}
+      - {motif: outcry-of-sodom, refs: ["Gen 18:20", "Gen 18:21"]}
+      - {motif: god-descends-to-see, refs: ["Gen 18:21"]}
+      - {motif: bargaining-for-the-city, refs: ["Gen 18:24", "Gen 18:26", "Gen 18:28", "Gen 18:29", "Gen 18:30", "Gen 18:31", "Gen 18:32"]}
+      - {motif: judge-of-all-earth-must-be-just, refs: ["Gen 18:23", "Gen 18:25"]}
+      - {motif: dust-and-ashes-humility, refs: ["Gen 18:27"]}
+    hints:
+      - "Quran 11:74-76 Abraham pleads for Lot's people; Jer 5:1 one just man; tiqqun soferim at 18:22 (originally 'YHWH still stood before Abraham')."
+  - id: hb-gen-19-sodom-destroyed
+    tradition: judaism
+    title: Lot's guests and the destruction of Sodom and Gomorrah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 19:1-29"]
+    tags:
+      - {motif: angels-lodge-with-lot, refs: ["Gen 19:1", "Gen 19:2", "Gen 19:3"], note: "Lot sits in the gate; unleavened bread baked"}
+      - {motif: hospitality-to-strangers, refs: ["Gen 19:2", "Gen 19:3", "Gen 19:8"], note: "'under the shadow of my roof'"}
+      - {motif: mob-demands-guests, refs: ["Gen 19:4", "Gen 19:5", "Gen 19:9"], note: "'young and old, all the people'"}
+      - {motif: host-offers-daughters, refs: ["Gen 19:8"]}
+      - {motif: attackers-struck-blind, refs: ["Gen 19:11"], note: "sanwerim, dazzling blindness"}
+      - {motif: warning-mocked-by-kin, refs: ["Gen 19:14"]}
+      - {motif: angels-drag-family-out, refs: ["Gen 19:15", "Gen 19:16"]}
+      - {motif: do-not-look-back, refs: ["Gen 19:17"]}
+      - {motif: small-town-spared-for-refugee, refs: ["Gen 19:20", "Gen 19:21", "Gen 19:22"]}
+      - {motif: fire-and-brimstone-from-heaven, refs: ["Gen 19:24"], note: "'from YHWH ... from YHWH from heaven', double divine name"}
+      - {motif: cities-overturned, refs: ["Gen 19:25", "Gen 19:29"]}
+      - {motif: wife-turned-to-pillar-of-salt, refs: ["Gen 19:26"]}
+      - {motif: smoke-like-a-furnace, refs: ["Gen 19:28"]}
+      - {motif: wicked-sodom, refs: ["Gen 19:4", "Gen 19:13"]}
+      - {motif: outcry-of-sodom, refs: ["Gen 19:13"]}
+      - {motif: family-saved, refs: ["Gen 19:16", "Gen 19:29"], note: "Lot saved for Abraham's sake"}
+    hints:
+      - "Quran 11:77-83, 15:61-77, 54:33-39: Lot offers 'my daughters', attackers' eyes blotted out, city turned upside down, stones of baked clay, wife left behind; Wisdom 10:7 pillar as memorial."
+      - "Greek Orpheus/Eurydice and Baucis-Philemon don't-look-back; Ezek 16:49 Sodom's sin as neglect of the poor; Bera king of Sodom."
+  - id: hb-gen-19-lots-daughters
+    tradition: judaism
+    title: Lot's daughters and the origin of Moab and Ammon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 19:30-38"]
+    tags:
+      - {motif: cave-dwelling-after-catastrophe, refs: ["Gen 19:30"]}
+      - {motif: belief-no-men-left-on-earth, refs: ["Gen 19:31"]}
+      - {motif: daughters-intoxicate-father-incest, refs: ["Gen 19:32", "Gen 19:33", "Gen 19:34", "Gen 19:35", "Gen 19:36"], note: "dotted letter on u-vequmah in 19:33 (puncta extraordinaria)"}
+      - {motif: incestuous-origin-of-neighbors, refs: ["Gen 19:37", "Gen 19:38"], note: "Moab 'from father'; Ben-ammi"}
+    hints:
+      - "Parallels Noah's drunkenness after the flood (9:21); Myrrha and Cinyras (Ovid Met. 10); Ruth the Moabite as David's ancestor; Islam rejects the episode (prophetic impeccability)."
+  - id: hb-gen-20-abimelech-sarah
+    tradition: judaism
+    title: Abraham and Sarah at Gerar (second wife-sister episode)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 20:1-18"]
+    tags:
+      - {motif: wife-passed-off-as-sister, refs: ["Gen 20:2", "Gen 20:5", "Gen 20:13"]}
+      - {motif: matriarch-taken-into-royal-house, refs: ["Gen 20:2"]}
+      - {motif: god-warns-king-in-dream, refs: ["Gen 20:3", "Gen 20:6", "Gen 20:7"], note: "'you are a dead man'"}
+      - {motif: innocent-king-pleads-integrity, refs: ["Gen 20:4", "Gen 20:5"], note: "'will you slay a righteous nation?'"}
+      - {motif: patriarch-called-prophet-intercessor, refs: ["Gen 20:7", "Gen 20:17"], note: "first use of navi in the Bible"}
+      - {motif: king-rebukes-patriarch, refs: ["Gen 20:9", "Gen 20:10"]}
+      - {motif: wife-is-half-sister, refs: ["Gen 20:12"]}
+      - {motif: patriarch-enriched-by-foreign-king, refs: ["Gen 20:14", "Gen 20:16"], note: "a thousand of silver as 'covering of the eyes'"}
+      - {motif: wombs-closed-as-punishment, refs: ["Gen 20:17", "Gen 20:18"]}
+      - {motif: plagues-on-king-for-taking-wife, refs: ["Gen 20:18"]}
+    hints:
+      - "Abraham's 'no fear of God in this place' (20:11); hadith of Abraham's three 'lies' (Bukhari, Sarah 'my sister' in Islam); Lev 18:9 later forbids marrying a half-sister."
+  - id: hb-gen-21-isaac-born-hagar-expelled
+    tradition: judaism
+    title: Birth of Isaac and expulsion of Hagar and Ishmael
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 21:1-21"]
+    tags:
+      - {motif: birth-of-promised-son-in-old-age, refs: ["Gen 21:1", "Gen 21:2", "Gen 21:5", "Gen 21:7"], note: "Abraham 100"}
+      - {motif: circumcision-eighth-day, refs: ["Gen 21:4"]}
+      - {motif: patriarch-laughs-at-promise, refs: ["Gen 21:6"], note: "'God made laughter for me; all who hear will laugh'"}
+      - {motif: weaning-feast, refs: ["Gen 21:8"]}
+      - {motif: expulsion-of-slave-and-son, refs: ["Gen 21:9", "Gen 21:10", "Gen 21:11", "Gen 21:12", "Gen 21:14"], note: "Ishmael metsaheq, 'playing/mocking'"}
+      - {motif: slave-woman-flees-to-wilderness, refs: ["Gen 21:14"], note: "bread and a skin of water on her shoulder; wilderness of Beersheba"}
+      - {motif: child-cast-under-bush-mother-weeps, refs: ["Gen 21:15", "Gen 21:16"]}
+      - {motif: fear-not-oracle, refs: ["Gen 21:17"], note: "angel calls from heaven to Hagar"}
+      - {motif: well-revealed-in-desert, refs: ["Gen 21:19"]}
+      - {motif: miraculous-spring, refs: ["Gen 21:19"], note: "for the outcast mother; vocab motif defined for Mary, fits structurally"}
+      - {motif: ishmael-archer-in-wilderness, refs: ["Gen 21:20", "Gen 21:21"], note: "wilderness of Paran; Egyptian wife"}
+      - {motif: promise-of-great-nation, refs: ["Gen 21:13", "Gen 21:18"], note: "for Ishmael"}
+    hints:
+      - "Islamic tradition (Bukhari, Ahadith al-Anbiya) Hagar runs between Safa and Marwa and Zamzam springs at Mecca; Quran 14:37 'a valley without cultivation'."
+      - "Galatians 4:29 Ishmael 'persecuted' Isaac; Gen R. 53:11 on metsaheq as idolatry, sexual immorality or bloodshed."
+  - id: hb-gen-21-beersheba-treaty
+    tradition: judaism
+    title: Abraham's treaty with Abimelech at Beersheba
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 21:22-34"]
+    tags:
+      - {motif: well-dispute-and-treaty, refs: ["Gen 21:23", "Gen 21:25", "Gen 21:27", "Gen 21:32"], note: "Abimelech and his general Phicol"}
+      - {motif: seven-ewes-witness, refs: ["Gen 21:28", "Gen 21:29", "Gen 21:30", "Gen 21:31"], note: "be'er sheva: well of seven/oath"}
+      - {motif: tamarisk-planted-el-olam, refs: ["Gen 21:33"]}
+      - {motif: beginning-of-invoking-gods-name, refs: ["Gen 21:33"]}
+    hints:
+      - "Gen R. 54:6 eshel as an inn for hospitality (acrostic of eating, drinking, lodging); Philistines here are anachronistic."
+  - id: hb-gen-22-aqedah
+    tradition: judaism
+    title: The binding of Isaac (Aqedah)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 22:1-19"]
+    tags:
+      - {motif: god-tests-patriarch, refs: ["Gen 22:1"]}
+      - {motif: hineni-response, refs: ["Gen 22:1", "Gen 22:7", "Gen 22:11"]}
+      - {motif: command-to-sacrifice-son, refs: ["Gen 22:2"], note: "land of Moriah, 'lekh lekha' as in 12:1"}
+      - {motif: only-beloved-son, refs: ["Gen 22:2", "Gen 22:12", "Gen 22:16"], note: "yehidkha asher ahavta"}
+      - {motif: three-day-journey-to-mountain, refs: ["Gen 22:4"]}
+      - {motif: son-carries-wood, refs: ["Gen 22:6"]}
+      - {motif: son-asks-where-is-lamb, refs: ["Gen 22:7", "Gen 22:8"]}
+      - {motif: binding-of-son-on-altar, refs: ["Gen 22:9", "Gen 22:10"]}
+      - {motif: angel-stops-sacrifice, refs: ["Gen 22:11", "Gen 22:12"]}
+      - {motif: ram-substitute, refs: ["Gen 22:13"]}
+      - {motif: place-named-god-will-see, refs: ["Gen 22:14"]}
+      - {motif: divine-oath-by-himself, refs: ["Gen 22:16"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 22:17"], note: "stars of heaven and sand on the seashore"}
+      - {motif: seed-will-possess-enemy-gate, refs: ["Gen 22:17"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Gen 22:18"]}
+    hints:
+      - "Quran 37:99-111: dream of sacrifice, the unnamed son consents, 'great sacrifice' ransom; Islamic debate whether Ishmael or Isaac; Eid al-Adha."
+      - "Iphigenia at Aulis replaced by a deer; Phrixus and the golden ram; 2 Chr 3:1 Moriah = temple mount; Christian Isaac-carrying-wood typology (John 19:17); Pseudo-Philo LAB 32 and Targum Isaac asks to be bound."
+  - id: hb-gen-22-nahor-genealogy
+    tradition: judaism
+    title: The children of Nahor and the birth of Rebekah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 22:20-24"]
+    tags:
+      - {motif: twelve-sons-of-nahor, refs: ["Gen 22:23", "Gen 22:24"]}
+    hints:
+      - "Uz and Buz: Job's land of Uz (Job 1:1) and Elihu the Buzite (Job 32:2); twelve-tribe pattern as with Ishmael and Jacob."
+  - id: hb-gen-23-machpelah
+    tradition: judaism
+    title: Death of Sarah and purchase of the cave of Machpelah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 23:1-20"]
+    tags:
+      - {motif: death-of-matriarch, refs: ["Gen 23:1", "Gen 23:2"], note: "127 years; Kiriath-arba = Hebron"}
+      - {motif: resident-alien-buys-grave, refs: ["Gen 23:4", "Gen 23:8", "Gen 23:10", "Gen 23:13", "Gen 23:16", "Gen 23:18"], note: "ger we-toshav; transaction before all who enter the city gate"}
+      - {motif: patriarch-called-prince-of-god, refs: ["Gen 23:6"]}
+      - {motif: cave-of-machpelah, refs: ["Gen 23:9", "Gen 23:17", "Gen 23:19", "Gen 23:20"]}
+      - {motif: price-400-shekels, refs: ["Gen 23:15", "Gen 23:16"], note: "'current with the merchant'"}
+    hints:
+      - "Hittite land law and Neo-Babylonian dialogue documents; Gen R. 58 Ephron's name defective (Ephrn) for his greed; Haram al-Ibrahimi in Hebron; Acts 7:16 conflates with Shechem purchase."
+  - id: hb-gen-24-bride-for-isaac
+    tradition: judaism
+    title: Abraham's servant finds Rebekah for Isaac
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 24:1-67"]
+    tags:
+      - {motif: oath-hand-under-thigh, refs: ["Gen 24:2", "Gen 24:9"]}
+      - {motif: bride-sought-from-kin-not-locals, refs: ["Gen 24:3", "Gen 24:4", "Gen 24:37", "Gen 24:38"]}
+      - {motif: servant-sent-to-find-bride, refs: ["Gen 24:2", "Gen 24:10"], note: "unnamed servant, ten camels to Aram-naharaim, city of Nahor"}
+      - {motif: angel-goes-before-messenger, refs: ["Gen 24:7", "Gen 24:40"]}
+      - {motif: meeting-at-the-well-betrothal, refs: ["Gen 24:11", "Gen 24:13", "Gen 24:15", "Gen 24:16"]}
+      - {motif: sign-test-by-prayer, refs: ["Gen 24:12", "Gen 24:13", "Gen 24:14", "Gen 24:42", "Gen 24:43", "Gen 24:44"], note: "answered before he finished speaking, 24:15, 24:45"}
+      - {motif: hospitality-to-strangers, refs: ["Gen 24:18", "Gen 24:19", "Gen 24:20", "Gen 24:25", "Gen 24:31", "Gen 24:32"], note: "she waters ten camels"}
+      - {motif: hero-beautiful, refs: ["Gen 24:16"], note: "of Rebekah"}
+      - {motif: bride-gifts-nose-ring-bracelets, refs: ["Gen 24:22", "Gen 24:30", "Gen 24:47", "Gen 24:53"]}
+      - {motif: bride-consents-to-go, refs: ["Gen 24:57", "Gen 24:58"]}
+      - {motif: blessing-thousands-of-myriads, refs: ["Gen 24:60"]}
+      - {motif: seed-will-possess-enemy-gate, refs: ["Gen 24:60"]}
+      - {motif: meditation-in-the-field, refs: ["Gen 24:63"], note: "lasuah, obscure verb; b. Ber. 26b: Isaac instituted the afternoon prayer"}
+      - {motif: bride-veils-on-seeing-groom, refs: ["Gen 24:64", "Gen 24:65"], note: "she 'falls' from the camel"}
+      - {motif: groom-comforted-after-mothers-death, refs: ["Gen 24:67"]}
+    hints:
+      - "Type-scene of betrothal at a well: Jacob-Rachel (Gen 29), Moses-Zipporah (Exod 2), Quran 28:23-28; John 4 Samaritan woman; Odyssey 10 / 6 water-drawing maidens."
+      - "Gen R. 60: the servant is Eliezer; Rebekah aged three in some midrash; Laban greedy for the gold (24:30)."
+  - id: hb-gen-25-keturah-death-of-abraham
+    tradition: judaism
+    title: Keturah's sons, the death of Abraham, and Ishmael's line
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 25:1-18"]
+    tags:
+      - {motif: sons-of-concubines-sent-east, refs: ["Gen 25:1", "Gen 25:2", "Gen 25:5", "Gen 25:6"], note: "Keturah; Midian, Sheba, Dedan; to 'the land of qedem'"}
+      - {motif: death-old-and-full-of-days, refs: ["Gen 25:7", "Gen 25:8", "Gen 25:17"], note: "Abraham 175; Ishmael 137"}
+      - {motif: rival-sons-bury-father-together, refs: ["Gen 25:9"]}
+      - {motif: cave-of-machpelah, refs: ["Gen 25:9", "Gen 25:10"]}
+      - {motif: ishmaelite-tribes-arabia, refs: ["Gen 25:13", "Gen 25:14", "Gen 25:15", "Gen 25:16"]}
+      - {motif: ishmael-twelve-princes, refs: ["Gen 25:16"]}
+      - {motif: ishmael-wild-ass-of-a-man, refs: ["Gen 25:18"], note: "'he fell/settled over against all his brothers' fulfills 16:12"}
+    hints:
+      - "Gen R. 61:4 Keturah = Hagar; gifts to concubines' sons as 'names of impurity' (b. Sanh. 91a, Indian magic); Kedar and Nebaioth as Arab ancestors in Islamic genealogy (Adnan)."
+      - "Testament of Abraham: Abraham resists death and is shown the world."
+  - id: hb-gen-25-jacob-esau-birth
+    tradition: judaism
+    title: Birth of Esau and Jacob; the sale of the birthright
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 25:19-34"]
+    tags:
+      - {motif: barren-matriarch, refs: ["Gen 25:21"]}
+      - {motif: husband-prays-for-barren-wife, refs: ["Gen 25:21"]}
+      - {motif: twins-struggle-in-womb, refs: ["Gen 25:22"]}
+      - {motif: oracle-to-pregnant-mother, refs: ["Gen 25:22", "Gen 25:23"], note: "'two nations are in your womb'"}
+      - {motif: elder-shall-serve-younger, refs: ["Gen 25:23"]}
+      - {motif: hairy-red-firstborn, refs: ["Gen 25:25"], note: "admoni, like a hairy mantle (adderet se'ar); Esau ~ Seir"}
+      - {motif: younger-twin-grasps-heel, refs: ["Gen 25:26"], note: "Ya'aqov from aqev"}
+      - {motif: hunter-vs-tent-dweller-brothers, refs: ["Gen 25:27"]}
+      - {motif: parents-each-favor-a-son, refs: ["Gen 25:28"]}
+      - {motif: birthright-sold-for-stew, refs: ["Gen 25:29", "Gen 25:30", "Gen 25:31", "Gen 25:32", "Gen 25:33", "Gen 25:34"]}
+      - {motif: edom-named-from-red, refs: ["Gen 25:30"]}
+    hints:
+      - "Twin rivalry in the womb: Acrisius and Proetus (Apollodorus 2.2.1); Iranian Ohrmazd/Ahriman twins of Zurvan, Ahriman thrusting out first; Romans 9:10-13; rabbinic Esau = Rome."
+  - id: hb-gen-26-isaac-in-gerar
+    tradition: judaism
+    title: Isaac in Gerar, the wife-sister episode, wells and treaty
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 26:1-33"]
+    tags:
+      - {motif: famine-forces-descent-to-egypt, refs: ["Gen 26:1"], note: "famine, but Isaac goes to Gerar"}
+      - {motif: god-forbids-going-to-egypt, refs: ["Gen 26:2"]}
+      - {motif: promise-of-the-land, refs: ["Gen 26:3"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 26:4"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Gen 26:4"]}
+      - {motif: abraham-kept-laws, refs: ["Gen 26:5"]}
+      - {motif: wife-passed-off-as-sister, refs: ["Gen 26:7", "Gen 26:9"]}
+      - {motif: hero-beautiful, refs: ["Gen 26:7"], note: "of Rebekah"}
+      - {motif: king-sees-couple-through-window, refs: ["Gen 26:8"], note: "Isaac metsaheq et Rivqah, pun on Isaac's name"}
+      - {motif: king-rebukes-patriarch, refs: ["Gen 26:9", "Gen 26:10", "Gen 26:11"]}
+      - {motif: hundredfold-harvest, refs: ["Gen 26:12"]}
+      - {motif: wells-stopped-by-enemies, refs: ["Gen 26:15", "Gen 26:18"]}
+      - {motif: named-wells-of-contention, refs: ["Gen 26:20", "Gen 26:21", "Gen 26:22"]}
+      - {motif: fear-not-oracle, refs: ["Gen 26:24"]}
+      - {motif: altar-at-theophany-site, refs: ["Gen 26:25"]}
+      - {motif: well-dispute-and-treaty, refs: ["Gen 26:26", "Gen 26:28", "Gen 26:29", "Gen 26:30", "Gen 26:31"], note: "Abimelech, Ahuzzath, Phicol"}
+      - {motif: seven-ewes-witness, refs: ["Gen 26:33"], note: "well named Shiv'ah; Beersheba re-etymologized"}
+    hints:
+      - "b. Yoma 28b: Abraham observed the whole Torah; Quran 2:135, 3:67 Abraham hanif before Torah; doublet of Gen 20 and 21:22-34."
+  - id: hb-gen-26-esau-wives
+    tradition: judaism
+    title: Esau's Hittite wives
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 26:34-35"]
+    tags:
+      - {motif: esau-marries-hittite-wives, refs: ["Gen 26:34", "Gen 26:35"], note: "Judith and Basemath; 'bitterness of spirit'"}
+  - id: hb-gen-27-stolen-blessing
+    tradition: judaism
+    title: Jacob steals Esau's blessing
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 27:1-45"]
+    tags:
+      - {motif: blind-father-deathbed-blessing, refs: ["Gen 27:1", "Gen 27:2", "Gen 27:4"]}
+      - {motif: father-eyesight-fails, refs: ["Gen 27:1"]}
+      - {motif: blessing-after-meal-of-game, refs: ["Gen 27:3", "Gen 27:4", "Gen 27:25"]}
+      - {motif: mother-schemes-for-younger-son, refs: ["Gen 27:5", "Gen 27:6", "Gen 27:8", "Gen 27:9", "Gen 27:13"], note: "'upon me be your curse'"}
+      - {motif: disguise-with-goatskins, refs: ["Gen 27:11", "Gen 27:15", "Gen 27:16"]}
+      - {motif: voice-of-jacob-hands-of-esau, refs: ["Gen 27:21", "Gen 27:22", "Gen 27:23"]}
+      - {motif: father-smells-son, refs: ["Gen 27:27"], note: "'the smell of my son is as the smell of a field the LORD has blessed'"}
+      - {motif: blessing-of-dew-and-fatness, refs: ["Gen 27:28", "Gen 27:39"]}
+      - {motif: elder-shall-serve-younger, refs: ["Gen 27:29", "Gen 27:37", "Gen 27:40"]}
+      - {motif: irrevocable-blessing, refs: ["Gen 27:33", "Gen 27:35", "Gen 27:37"]}
+      - {motif: cheated-brother-cries-out, refs: ["Gen 27:34", "Gen 27:38"]}
+      - {motif: younger-twin-grasps-heel, refs: ["Gen 27:36"], note: "Esau puns on ya'qeveni, 'he supplanted me'"}
+      - {motif: live-by-the-sword-break-yoke, refs: ["Gen 27:40"]}
+      - {motif: brother-plans-murder-after-fathers-death, refs: ["Gen 27:41", "Gen 27:42"]}
+      - {motif: hero-flees-to-maternal-uncle, refs: ["Gen 27:43", "Gen 27:44", "Gen 27:45"]}
+    hints:
+      - "Odysseus recognized by Eurycleia by touch (scar) vs. Isaac deceived by touch; Hebrews 12:16-17 Esau found no place for repentance; Gen R. 65 Esau's garments were Adam's/Nimrod's."
+      - "Jacob's smell of Paradise (Gen R. 65:22) links to joseph.yaml father-smells-son and Quran 12:94."
+  - id: hb-gen-27-jacob-sent-to-paddan-aram
+    tradition: judaism
+    title: Isaac sends Jacob to Paddan-aram; Esau marries Mahalath
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 27:46-28:9"]
+    tags:
+      - {motif: esau-marries-hittite-wives, refs: ["Gen 27:46", "Gen 28:8"]}
+      - {motif: bride-sought-from-kin-not-locals, refs: ["Gen 28:1", "Gen 28:2", "Gen 28:6"]}
+      - {motif: el-shaddai-revelation, refs: ["Gen 28:3"], note: "invoked in blessing"}
+      - {motif: promise-of-the-land, refs: ["Gen 28:4"], note: "'the blessing of Abraham'"}
+      - {motif: esau-marries-hittite-wives, refs: ["Gen 28:9"], note: "then marries Mahalath daughter of Ishmael"}
+  - id: hb-gen-28-jacobs-ladder
+    tradition: judaism
+    title: Jacob's dream at Bethel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 28:10-22"]
+    tags:
+      - {motif: stone-pillow, refs: ["Gen 28:11", "Gen 28:18"], note: "'he lighted upon the place' (wayyifga ba-maqom)"}
+      - {motif: dream-ladder-to-heaven, refs: ["Gen 28:12"], note: "sullam; angels go up first, then down"}
+      - {motif: promise-of-the-land, refs: ["Gen 28:13"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 28:14"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Gen 28:14"]}
+      - {motif: divine-promise-of-protection-on-journey, refs: ["Gen 28:15"]}
+      - {motif: house-of-god-gate-of-heaven, refs: ["Gen 28:16", "Gen 28:17"]}
+      - {motif: anointed-standing-stone, refs: ["Gen 28:18", "Gen 28:22"]}
+      - {motif: place-renamed-bethel, refs: ["Gen 28:19"]}
+      - {motif: conditional-vow-to-god, refs: ["Gen 28:20", "Gen 28:21", "Gen 28:22"]}
+      - {motif: tithe-to-priest, refs: ["Gen 28:22"], note: "vow of a tenth to God"}
+    hints:
+      - "Babylonian ziggurat stairway (simmiltu) and bab-ilu 'gate of god'; John 1:51 angels ascending and descending on the Son of Man; Ladder of Jacob (pseudepigraphon); Mithraic ladder of seven gates."
+      - "Greek baetyl (Bethel) sacred stones anointed with oil; stone of Scone legend as Jacob's pillow; Quran 3:93 Israel's self-imposed food prohibition (sinew) linked elsewhere."
