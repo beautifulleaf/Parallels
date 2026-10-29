@@ -1,0 +1,7769 @@
+note: 'Candidates for a Quran unit come from three sources, all recorded with the
+
+  reason: Hebrew Bible passages its reader cited in hints, units it already
+
+  shares one or two motifs with, and the units most similar by their motif
+
+  labels (a weak signal, used only to propose). Every Quran unit is included:
+
+  units the motif track already pairs strongly are where the deliberate
+
+  divergences are, and those are recorded too.'
+units:
+- unit: quran-1-fatiha
+  candidates:
+  - with: hb-ps-1-two-ways
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-86-none-like-you
+    why:
+    - hint
+    - similar 0.77
+  - with: hb-prov-4-get-wisdom
+    why:
+    - shares 1
+  - with: hb-prov-2-search-for-wisdom
+    why:
+    - shares 1
+  - with: hb-ps-75-cup
+    why:
+    - similar 0.77
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.77
+  chunk: 1
+- unit: quran-2-three-groups
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - shares 1
+  - with: hb-isa-42-servant-and-new-song
+    why:
+    - shares 1
+  - with: hb-isa-29-ariel-and-sealed-book
+    why:
+    - similar 0.79
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.75
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.75
+  chunk: 1
+- unit: quran-2-call-to-worship
+  candidates:
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-mal-3-tithes
+    why:
+    - shares 1
+  - with: hb-jer-51-oracle-babylon-2
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.79
+  - with: hb-ps-78-history
+    why:
+    - similar 0.78
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.78
+  chunk: 1
+- unit: quran-2-adam-iblis
+  candidates:
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 4
+    - similar 0.77
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 3
+    - similar 0.75
+  - with: hb-gen-11-babel
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.74
+  chunk: 1
+- unit: quran-2-israel-favor
+  candidates:
+  - with: hb-ps-49-no-ransom
+    why:
+    - shares 1
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.76
+  - with: hb-jer-30-time-of-jacobs-trouble
+    why:
+    - similar 0.76
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.75
+  chunk: 1
+- unit: quran-2-exodus-calf
+  candidates:
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - shares 3
+    - similar 0.86
+  - with: hb-num-11-taberah-quail
+    why:
+    - shares 3
+    - similar 0.83
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 3
+  - with: hb-ps-105-history
+    why:
+    - similar 0.83
+  chunk: 1
+- unit: quran-2-sabbath-apes
+  candidates:
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.70
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.70
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.69
+  chunk: 1
+- unit: quran-2-the-cow
+  candidates:
+  - with: hb-num-19-red-heifer
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-21-heifer-captive-son
+    why:
+    - hint
+    - similar 0.63
+  - with: hb-ezek-36-new-heart-new-spirit
+    why:
+    - shares 1
+  - with: hb-ezek-11-cauldron-new-heart
+    why:
+    - shares 1
+  - with: hb-lev-7-guilt-peace-portions
+    why:
+    - similar 0.63
+  - with: hb-lev-17-blood-and-slaughter
+    why:
+    - similar 0.63
+  chunk: 1
+- unit: quran-2-polemic-israel
+  candidates:
+  - with: hb-deut-5-decalogue
+    why:
+    - hint
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - hint
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 2
+    - similar 0.83
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.83
+  chunk: 1
+- unit: quran-2-harut-marut
+  candidates:
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.59
+  - with: hb-1chr-21-census-and-threshing-floor
+    why:
+    - similar 0.58
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.58
+  chunk: 1
+- unit: quran-2-abrogation-polemic
+  candidates:
+  - with: hb-ps-33-creation-by-word
+    why:
+    - shares 2
+    - similar 0.79
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-judg-6-gideon-call
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.82
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.80
+  chunk: 1
+- unit: quran-2-abraham-kaaba
+  candidates:
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - hint
+  - with: hb-gen-21-beersheba-treaty
+    why:
+    - hint
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - shares 1
+  - with: hb-ps-105-history
+    why:
+    - shares 1
+  - with: hb-jer-1-call
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.81
+  chunk: 1
+- unit: quran-2-qibla
+  candidates:
+  - with: hb-dan-6-lions-den
+    why:
+    - hint
+  - with: hb-neh-5-debt-slavery-reform
+    why:
+    - shares 1
+  - with: hb-neh-13-nehemiahs-final-reforms
+    why:
+    - shares 1
+  - with: hb-2chr-6-solomons-dedication-prayer
+    why:
+    - shares 1
+    - similar 0.76
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.77
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.76
+  chunk: 1
+- unit: quran-2-patience-signs
+  candidates:
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - hint
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - shares 1
+  - with: hb-ps-107-four-rescues
+    why:
+    - shares 1
+    - similar 0.77
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.79
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.78
+  chunk: 1
+- unit: quran-2-food-piety
+  candidates:
+  - with: hb-lev-17-blood-and-slaughter
+    why:
+    - hint
+    - similar 0.77
+  - with: hb-lev-7-guilt-peace-portions
+    why:
+    - shares 1
+    - similar 0.73
+  - with: hb-lev-3-peace-offering
+    why:
+    - shares 1
+  - with: hb-lev-22-holy-food-and-unblemished-victims
+    why:
+    - shares 1
+    - similar 0.73
+  chunk: 1
+- unit: quran-2-retaliation-bequest
+  candidates:
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - hint
+  - with: hb-lev-24-lamp-bread-blasphemer
+    why:
+    - shares 1
+  - with: hb-exod-21-bodily-injury
+    why:
+    - shares 1
+    - similar 0.68
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - shares 1
+  - with: hb-job-31-oath-of-innocence
+    why:
+    - similar 0.65
+  - with: hb-jer-21-zedekiah-inquiry
+    why:
+    - similar 0.62
+  chunk: 1
+- unit: quran-2-fasting
+  candidates:
+  - with: hb-ps-145-ashrei
+    why:
+    - shares 1
+  - with: hb-prov-17-sayings
+    why:
+    - shares 1
+  - with: hb-exod-23-justice-sabbatical-festivals
+    why:
+    - similar 0.64
+  - with: hb-ps-55-dove-wings
+    why:
+    - similar 0.61
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.60
+  chunk: 1
+- unit: quran-2-war-pilgrimage
+  candidates:
+  - with: hb-num-6-nazirite
+    why:
+    - hint
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-122-peace-of-jerusalem
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.78
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.75
+  chunk: 1
+- unit: quran-2-community-trials
+  candidates:
+  - with: hb-dan-7-four-beasts-son-of-man
+    why:
+    - hint
+    - shares 1
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - hint
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.83
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.81
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  chunk: 1
+- unit: quran-2-wine-marriage
+  candidates:
+  - with: hb-neh-10-sealed-covenant
+    why:
+    - shares 1
+  - with: hb-lev-20-penalties
+    why:
+    - shares 1
+  - with: hb-lev-18-forbidden-unions
+    why:
+    - shares 1
+    - similar 0.73
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.64
+  - with: hb-ezek-16-foundling-bride
+    why:
+    - similar 0.61
+  chunk: 1
+- unit: quran-2-oaths-divorce
+  candidates:
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - hint
+    - shares 1
+    - similar 0.69
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - shares 1
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.67
+  - with: hb-num-30-vows
+    why:
+    - similar 0.65
+  chunk: 1
+- unit: quran-2-thousands-revived
+  candidates:
+  - with: hb-ezek-37-dry-bones
+    why:
+    - hint
+    - shares 1
+    - similar 0.71
+  - with: hb-prov-19-sayings
+    why:
+    - hint
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.67
+  - with: hb-ps-49-no-ransom
+    why:
+    - similar 0.65
+  chunk: 1
+- unit: quran-2-talut-jalut
+  candidates:
+  - with: hb-judg-7-gideons-three-hundred
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-37-ark-table-lampstand-made
+    why:
+    - shares 1
+  - with: hb-exod-25-offering-ark-table-lampstand
+    why:
+    - shares 1
+  - with: hb-2chr-15-azariah-oracle-and-covenant
+    why:
+    - similar 0.80
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.79
+  - with: hb-ps-105-history
+    why:
+    - similar 0.78
+  chunk: 1
+- unit: quran-2-throne-verse
+  candidates:
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-66-heaven-my-throne
+    why:
+    - hint
+  - with: hb-ps-121-keeper-of-israel
+    why:
+    - shares 1
+  - with: hb-dan-6-lions-den
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.83
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.83
+  chunk: 1
+- unit: quran-2-abraham-king
+  candidates:
+  - with: hb-gen-11-shem-to-terah
+    why:
+    - hint
+  - with: hb-deut-32-song-of-moses
+    why:
+    - shares 1
+  - with: hb-ps-2-anointed-son
+    why:
+    - similar 0.68
+  - with: hb-isa-41-trial-of-the-gods
+    why:
+    - similar 0.66
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.65
+  chunk: 1
+- unit: quran-2-sleeper-hundred-years
+  candidates:
+  - with: hb-josh-8-ai-ebal
+    why:
+    - shares 1
+  - with: hb-ezek-37-dry-bones
+    why:
+    - shares 1
+    - similar 0.62
+  - with: hb-isa-38-hezekiahs-illness
+    why:
+    - similar 0.59
+  - with: hb-lam-2-god-as-enemy
+    why:
+    - similar 0.59
+  chunk: 1
+- unit: quran-2-four-birds
+  candidates:
+  - with: hb-gen-15-covenant-between-pieces
+    why:
+    - hint
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-judg-6-gideon-call
+    why:
+    - shares 1
+  - with: hb-jer-34-zedekiah-and-slave-release
+    why:
+    - shares 1
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.73
+  - with: hb-ps-78-history
+    why:
+    - similar 0.73
+  chunk: 1
+- unit: quran-2-charity
+  candidates:
+  - with: hb-gen-26-isaac-in-gerar
+    why:
+    - shares 1
+  - with: hb-dan-3-4-tree-dream
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - similar 0.78
+  - with: hb-prov-28-sayings
+    why:
+    - similar 0.76
+  - with: hb-job-22-eliphaz-accuses-job
+    why:
+    - similar 0.74
+  chunk: 1
+- unit: quran-2-usury
+  candidates:
+  - with: hb-prov-28-sayings
+    why:
+    - shares 2
+    - similar 0.64
+  - with: hb-ps-15-entrance-liturgy
+    why:
+    - shares 1
+  - with: hb-exod-22-apodictic-and-social-laws
+    why:
+    - shares 1
+  - with: hb-neh-5-debt-slavery-reform
+    why:
+    - similar 0.68
+  - with: hb-eccl-5-wealth-and-oppression
+    why:
+    - similar 0.58
+  chunk: 1
+- unit: quran-2-debt-contract
+  candidates:
+  - with: hb-jer-32-field-at-anathoth
+    why:
+    - hint
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - shares 1
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - shares 1
+    - similar 0.59
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - shares 1
+  - with: hb-deut-17-courts-king
+    why:
+    - similar 0.58
+  - with: hb-num-30-vows
+    why:
+    - similar 0.55
+  chunk: 1
+- unit: quran-2-closing
+  candidates:
+  - with: hb-deut-5-decalogue
+    why:
+    - hint
+  - with: hb-ps-7-oath-of-innocence
+    why:
+    - shares 1
+  - with: hb-jer-20-enticed-fire-in-bones
+    why:
+    - shares 1
+  - with: hb-jer-17-two-ways-tree
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.73
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - similar 0.73
+  chunk: 1
+- unit: quran-3-revelation
+  candidates:
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+    - similar 0.74
+  - with: hb-ps-119-vav-kaf
+    why:
+    - shares 1
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - similar 0.74
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.73
+  chunk: 1
+- unit: quran-3-world-and-witness
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-jer-2-harlot-vine-camel
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.78
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.78
+  chunk: 1
+- unit: quran-3-sovereignty
+  candidates:
+  - with: hb-dan-2-dream-demand
+    why:
+    - hint
+  - with: hb-job-36-elihu-discipline
+    why:
+    - shares 1
+  - with: hb-dan-3-4-tree-dream
+    why:
+    - shares 1
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - similar 0.81
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.81
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.81
+  chunk: 1
+- unit: quran-3-imran-mary-zechariah
+  candidates:
+  - with: hb-num-26-second-census
+    why:
+    - hint
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-judg-6-gideon-call
+    why:
+    - shares 1
+  - with: hb-judg-13-samson-birth
+    why:
+    - shares 1
+  - with: hb-1sam-1-hannah
+    why:
+    - similar 0.81
+  - with: hb-2kgs-4-shunammite
+    why:
+    - similar 0.79
+  chunk: 1
+- unit: quran-3-annunciation-jesus
+  candidates:
+  - with: hb-num-5-camp-purity-and-restitution
+    why:
+    - hint
+  - with: hb-num-5-sotah-ordeal
+    why:
+    - hint
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 2
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.79
+  chunk: 1
+- unit: quran-3-abraham-people-of-book
+  candidates:
+  - with: hb-gen-26-isaac-in-gerar
+    why:
+    - hint
+  - with: hb-deut-15-release-year
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.68
+  - with: hb-deut-17-courts-king
+    why:
+    - similar 0.68
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.67
+  chunk: 1
+- unit: quran-3-covenant-of-prophets
+  candidates:
+  - with: hb-ps-49-no-ransom
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.76
+  - with: hb-jer-27-yoke-bars
+    why:
+    - similar 0.75
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - similar 0.74
+  chunk: 1
+- unit: quran-3-food-bakka
+  candidates:
+  - with: hb-gen-32-wrestling-at-jabbok
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-84-lovely-dwellings
+    why:
+    - hint
+    - shares 1
+  - with: hb-1kgs-1-abishag-adonijah-solomon-anointed
+    why:
+    - shares 1
+  - with: hb-hos-9-no-joy-exile
+    why:
+    - similar 0.73
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.72
+  - with: hb-deut-26-first-fruits-creed
+    why:
+    - similar 0.71
+  chunk: 1
+- unit: quran-3-community
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-jer-2-harlot-vine-camel
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.78
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.77
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.77
+  chunk: 1
+- unit: quran-3-badr-uhud
+  candidates:
+  - with: hb-josh-7-achan
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - hint
+  - with: hb-ps-66-fire-and-water
+    why:
+    - shares 1
+  - with: hb-ps-119-pe-tav
+    why:
+    - shares 1
+  - with: hb-ps-119-lamed-ayin
+    why:
+    - shares 1
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.86
+  chunk: 1
+- unit: quran-3-misers-mockers
+  candidates:
+  - with: hb-lev-9-eighth-day-inauguration
+    why:
+    - hint
+  - with: hb-prov-19-sayings
+    why:
+    - hint
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-jer-2-harlot-vine-camel
+    why:
+    - shares 1
+  - with: hb-1kgs-18-carmel
+    why:
+    - shares 1
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.83
+  chunk: 1
+- unit: quran-3-closing
+  candidates:
+  - with: hb-ps-119-alef-he
+    why:
+    - shares 1
+  - with: hb-ps-1-two-ways
+    why:
+    - shares 1
+  - with: hb-josh-1-joshua-commissioned
+    why:
+    - shares 1
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.78
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.77
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.76
+  chunk: 1
+- unit: quran-4-creation-kinship-orphans
+  candidates:
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - hint
+  - with: hb-exod-22-property-laws
+    why:
+    - hint
+  - with: hb-gen-34-dinah-shechem
+    why:
+    - hint
+  - with: hb-zech-8-zion-restored
+    why:
+    - shares 1
+  - with: hb-zech-7-fasting-question
+    why:
+    - shares 1
+  - with: hb-ps-146-trust-not-princes
+    why:
+    - shares 1
+  chunk: 1
+- unit: quran-4-inheritance-shares
+  candidates:
+  - with: hb-num-27-zelophehad-joshua
+    why:
+    - hint
+    - shares 2
+  - with: hb-job-42-epilogue
+    why:
+    - hint
+  - with: hb-num-36-heiresses
+    why:
+    - shares 1
+    - similar 0.71
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+    - similar 0.60
+  - with: hb-gen-25-jacob-esau-birth
+    why:
+    - similar 0.59
+  chunk: 1
+- unit: quran-4-indecency-repentance
+  candidates:
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - shares 1
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - shares 1
+  - with: hb-deut-17-courts-king
+    why:
+    - shares 1
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - similar 0.69
+  - with: hb-lev-20-penalties
+    why:
+    - similar 0.64
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - similar 0.62
+  chunk: 1
+- unit: quran-4-marriage-forbidden-degrees
+  candidates:
+  - with: hb-lev-18-forbidden-unions
+    why:
+    - hint
+    - shares 2
+    - similar 0.75
+  - with: hb-gen-29-jacob-rachel-leah
+    why:
+    - hint
+  - with: hb-gen-29-birth-of-jacobs-children
+    why:
+    - hint
+    - similar 0.72
+  - with: hb-ezek-22-city-of-blood
+    why:
+    - shares 2
+  - with: hb-lev-19-holiness-code-b
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.72
+  chunk: 1
+- unit: quran-4-wealth-household
+  candidates:
+  - with: hb-mic-2-land-grabbers
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 1
+  - with: hb-deut-5-decalogue
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.69
+  - with: hb-prov-6-adultery-fire
+    why:
+    - similar 0.69
+  - with: hb-lev-18-forbidden-unions
+    why:
+    - similar 0.66
+  chunk: 1
+- unit: quran-4-kindness-misers-atom
+  candidates:
+  - with: hb-hos-10-vine-and-calves
+    why:
+    - hint
+    - shares 1
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 1
+    - similar 0.77
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.78
+  - with: hb-jer-32-field-at-anathoth
+    why:
+    - similar 0.77
+  chunk: 1
+- unit: quran-4-prayer-intoxication-purity
+  candidates:
+  - with: hb-lev-15-genital-discharges
+    why:
+    - shares 1
+    - similar 0.61
+  - with: hb-lev-10-nadab-abihu
+    why:
+    - shares 1
+  - with: hb-ezek-44-closed-gate-priests
+    why:
+    - shares 1
+    - similar 0.59
+  - with: hb-num-19-red-heifer
+    why:
+    - similar 0.57
+  chunk: 1
+- unit: quran-4-people-of-book-distortion
+  candidates:
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-5-decalogue
+    why:
+    - hint
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.78
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.78
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-4-trusts-obedience
+  candidates:
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-9-golden-calf-recalled
+    why:
+    - shares 1
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.74
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.74
+  - with: hb-jer-27-yoke-bars
+    why:
+    - similar 0.74
+  chunk: 2
+- unit: quran-4-fighting-and-death
+  candidates:
+  - with: hb-amos-9-altar-and-booth-of-david
+    why:
+    - hint
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - shares 1
+  - with: hb-prov-24-words-of-wise
+    why:
+    - similar 0.74
+  - with: hb-prov-15-sayings
+    why:
+    - similar 0.73
+  - with: hb-deut-28-blessings-curses
+    why:
+    - similar 0.72
+  chunk: 2
+- unit: quran-4-hypocrites-two-factions
+  candidates:
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+    - similar 0.62
+  - with: hb-deut-2-sihon
+    why:
+    - shares 1
+  - with: hb-2sam-10-ammonite-insult
+    why:
+    - similar 0.57
+  - with: hb-obad-1-edom-brought-down
+    why:
+    - similar 0.56
+  chunk: 2
+- unit: quran-4-homicide-law
+  candidates:
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - hint
+  - with: hb-exod-21-bodily-injury
+    why:
+    - shares 1
+    - similar 0.76
+  - with: hb-lev-20-penalties
+    why:
+    - similar 0.68
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - similar 0.68
+  chunk: 2
+- unit: quran-4-strivers-emigration
+  candidates:
+  - with: hb-num-32-transjordan-tribes
+    why:
+    - hint
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.68
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.67
+  - with: hb-jer-49-ammon-edom-damascus-kedar-elam
+    why:
+    - similar 0.66
+  chunk: 2
+- unit: quran-4-prayer-of-fear
+  candidates:
+  - with: hb-neh-4-builders-armed
+    why:
+    - hint
+  - with: hb-deut-6-shema
+    why:
+    - hint
+  - with: hb-ps-63-thirst
+    why:
+    - similar 0.70
+  - with: hb-ps-102-afflicted
+    why:
+    - similar 0.68
+  - with: hb-ps-103-bless-my-soul
+    why:
+    - similar 0.66
+  chunk: 2
+- unit: quran-4-false-accusation
+  candidates:
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - shares 1
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - shares 1
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.69
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.68
+  - with: hb-ezek-22-city-of-blood
+    why:
+    - similar 0.68
+  chunk: 2
+- unit: quran-4-satan-vows-share
+  candidates:
+  - with: hb-jer-44-queen-of-heaven
+    why:
+    - shares 1
+    - similar 0.76
+  - with: hb-isa-41-trial-of-the-gods
+    why:
+    - shares 1
+  - with: hb-2chr-20-battle-won-by-singing
+    why:
+    - shares 1
+  - with: hb-hos-2-unfaithful-wife
+    why:
+    - similar 0.76
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.74
+  chunk: 2
+- unit: quran-4-women-orphans-justice
+  candidates:
+  - with: hb-ruth-1-naomi-ruth-return
+    why:
+    - hint
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.67
+  - with: hb-prov-22-solomon-sayings-end
+    why:
+    - similar 0.64
+  - with: hb-exod-23-justice-sabbatical-festivals
+    why:
+    - similar 0.64
+  chunk: 2
+- unit: quran-4-hypocrites-wavering
+  candidates:
+  - with: hb-1kgs-18-carmel
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.75
+  - with: hb-jer-12-why-wicked-prosper
+    why:
+    - similar 0.73
+  - with: hb-deut-13-enticers
+    why:
+    - similar 0.73
+  chunk: 2
+- unit: quran-4-israel-indictment-crucifixion
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 2
+    - similar 0.82
+  - with: hb-ps-15-entrance-liturgy
+    why:
+    - shares 1
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.83
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.82
+  chunk: 2
+- unit: quran-4-prophets-and-trinity
+  candidates:
+  - with: hb-exod-33-tent-and-glory
+    why:
+    - shares 1
+  - with: hb-deut-34-death-of-moses
+    why:
+    - shares 1
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.79
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.78
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-4-kalala-ruling
+  candidates:
+  - with: hb-num-27-zelophehad-joshua
+    why:
+    - hint
+    - similar 0.60
+  - with: hb-num-36-heiresses
+    why:
+    - similar 0.63
+  - with: hb-gen-25-jacob-esau-birth
+    why:
+    - similar 0.61
+  chunk: 2
+- unit: quran-5-contracts-food-laws
+  candidates:
+  - with: hb-exod-22-apodictic-and-social-laws
+    why:
+    - hint
+    - similar 0.74
+  - with: hb-neh-10-sealed-covenant
+    why:
+    - shares 1
+  - with: hb-lev-7-guilt-peace-portions
+    why:
+    - shares 1
+  - with: hb-lev-3-peace-offering
+    why:
+    - shares 1
+  - with: hb-lev-17-blood-and-slaughter
+    why:
+    - similar 0.77
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.73
+  chunk: 2
+- unit: quran-5-ablution-covenant-justice
+  candidates:
+  - with: hb-exod-30-incense-altar-census-laver
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-40-tabernacle-erected-glory-fills
+    why:
+    - shares 1
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - shares 1
+  - with: hb-ps-141-prayer-as-incense
+    why:
+    - similar 0.65
+  - with: hb-deut-28-blessings-curses
+    why:
+    - similar 0.65
+  - with: hb-isa-25-banquet-and-death-swallowed
+    why:
+    - similar 0.65
+  chunk: 2
+- unit: quran-5-covenant-twelve-chiefs
+  candidates:
+  - with: hb-prov-19-sayings
+    why:
+    - shares 1
+  - with: hb-num-32-transjordan-tribes
+    why:
+    - shares 1
+  - with: hb-num-21-sihon-og
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.80
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.79
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-5-holy-land-refusal
+  candidates:
+  - with: hb-num-13-spies
+    why:
+    - hint
+    - shares 2
+  - with: hb-num-14-rebellion-verdict
+    why:
+    - hint
+    - shares 2
+  - with: hb-deut-1-spies-retold
+    why:
+    - hint
+  - with: hb-josh-5-circumcision-passover-commander
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.80
+  - with: hb-ezek-37-two-sticks
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-5-two-sons-of-adam
+  candidates:
+  - with: hb-gen-4-cain-abel
+    why:
+    - hint
+    - shares 2
+    - similar 0.88
+  - with: hb-jer-8-stork-and-lying-pen
+    why:
+    - shares 1
+  - with: hb-gen-9-noahide-covenant
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.75
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - similar 0.75
+  chunk: 2
+- unit: quran-5-war-on-god-theft
+  candidates:
+  - with: hb-exod-21-bodily-injury
+    why:
+    - hint
+  - with: hb-exod-22-property-laws
+    why:
+    - hint
+  - with: hb-ps-49-no-ransom
+    why:
+    - shares 1
+  - with: hb-2sam-4-ishbosheth-murdered
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.70
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.69
+  chunk: 2
+- unit: quran-5-torah-gospel-judgment
+  candidates:
+  - with: hb-exod-21-bodily-injury
+    why:
+    - hint
+    - shares 1
+  - with: hb-lev-24-lamp-bread-blasphemer
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-19-refuge-witnesses
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.71
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.69
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.69
+  chunk: 2
+- unit: quran-5-allies-mockery
+  candidates:
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.73
+  - with: hb-hos-4-lawsuit-priests
+    why:
+    - similar 0.72
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.71
+  chunk: 2
+- unit: quran-5-hand-fettered
+  candidates:
+  - with: hb-isa-50-servant-struck
+    why:
+    - hint
+  - with: hb-lam-2-god-as-enemy
+    why:
+    - hint
+  - with: hb-num-11-taberah-quail
+    why:
+    - hint
+  - with: hb-lev-26-blessings
+    why:
+    - hint
+  - with: hb-deut-28-blessings-curses
+    why:
+    - hint
+  - with: hb-mal-3-tithes
+    why:
+    - hint
+  chunk: 2
+- unit: quran-5-christology-monks
+  candidates:
+  - with: hb-ps-69-deep-waters
+    why:
+    - hint
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.76
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.74
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.71
+  chunk: 2
+- unit: quran-5-oaths-wine-game
+  candidates:
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - hint
+    - shares 1
+  - with: hb-num-6-nazirite
+    why:
+    - hint
+  - with: hb-hos-4-lawsuit-priests
+    why:
+    - similar 0.72
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.70
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.69
+  chunk: 2
+- unit: quran-5-questions-pagan-camels
+  candidates:
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.67
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.64
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.64
+  chunk: 2
+- unit: quran-5-bequest-witnesses
+  candidates:
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - hint
+    - shares 1
+    - similar 0.60
+  - with: hb-num-5-sotah-ordeal
+    why:
+    - similar 0.56
+  - with: hb-ezra-10-dismissal-of-foreign-wives
+    why:
+    - similar 0.56
+  chunk: 2
+- unit: quran-5-jesus-miracles-table
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-51-miserere
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.83
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.82
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.81
+  chunk: 2
+- unit: quran-6-creation-rejecters
+  candidates:
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.78
+  - with: hb-ps-78-history
+    why:
+    - similar 0.78
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.77
+  chunk: 2
+- unit: quran-6-mercy-judgment
+  candidates:
+  - with: hb-ps-50-divine-lawsuit
+    why:
+    - shares 1
+  - with: hb-judg-10-tola-jair-ammon
+    why:
+    - shares 1
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.84
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.83
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.83
+  chunk: 2
+- unit: quran-6-prophet-consoled-signs
+  candidates:
+  - with: hb-amos-9-altar-and-booth-of-david
+    why:
+    - hint
+  - with: hb-ps-139-searched-and-known
+    why:
+    - hint
+  - with: hb-gen-28-jacobs-ladder
+    why:
+    - hint
+  - with: hb-jonah-4-qiqayon
+    why:
+    - hint
+  - with: hb-ps-104-creation-hymn
+    why:
+    - hint
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.83
+  chunk: 2
+- unit: quran-6-poor-keys-of-unseen
+  candidates:
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.82
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.81
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.80
+  chunk: 2
+- unit: quran-6-deliverance-trumpet
+  candidates:
+  - with: hb-ps-107-four-rescues
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-1-two-ways
+    why:
+    - hint
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - hint
+  - with: hb-ps-33-creation-by-word
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.79
+  chunk: 2
+- unit: quran-6-abraham-heavenly-bodies
+  candidates:
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+    - similar 0.70
+  - with: hb-gen-15-covenant-between-pieces
+    why:
+    - shares 1
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.70
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.69
+  chunk: 2
+- unit: quran-6-prophets-lineage-torah-sheets
+  candidates:
+  - with: hb-job-1-prologue-first-test
+    why:
+    - hint
+    - shares 1
+  - with: hb-zech-13-fountain-and-shepherd
+    why:
+    - shares 1
+  - with: hb-eccl-5-wealth-and-oppression
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.81
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.81
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.79
+  chunk: 2
+- unit: quran-6-signs-in-nature
+  candidates:
+  - with: hb-exod-22-apodictic-and-social-laws
+    why:
+    - hint
+  - with: hb-exod-33-tent-and-glory
+    why:
+    - hint
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.81
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.81
+  chunk: 2
+- unit: quran-6-signs-would-not-convince
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.79
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.76
+  - with: hb-jer-23-dreams-and-hammer
+    why:
+    - similar 0.74
+  chunk: 2
+- unit: quran-6-slaughter-chest-jinn
+  candidates:
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.81
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.80
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.80
+  chunk: 2
+- unit: quran-6-pagan-offerings-cattle
+  candidates:
+  - with: hb-lev-11-dietary-laws
+    why:
+    - shares 2
+  - with: hb-deut-15-release-year
+    why:
+    - shares 2
+  - with: hb-deut-14-diet-tithe
+    why:
+    - shares 2
+    - similar 0.76
+  - with: hb-lev-7-guilt-peace-portions
+    why:
+    - similar 0.75
+  - with: hb-lev-22-holy-food-and-unblemished-victims
+    why:
+    - similar 0.75
+  chunk: 2
+- unit: quran-6-commandments
+  candidates:
+  - with: hb-deut-30-return-choose-life
+    why:
+    - hint
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 3
+    - similar 0.80
+  - with: hb-deut-5-decalogue
+    why:
+    - shares 3
+    - similar 0.82
+  - with: hb-zech-5-flying-scroll
+    why:
+    - shares 1
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - similar 0.77
+  chunk: 2
+- unit: quran-6-final-reckoning
+  candidates:
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - hint
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - hint
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - shares 1
+  - with: hb-ezra-9-ezras-confession
+    why:
+    - similar 0.79
+  chunk: 2
+- unit: quran-7-opening-scales
+  candidates:
+  - with: hb-dan-5-writing-on-wall
+    why:
+    - hint
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.68
+  - with: hb-dan-12-resurrection-end
+    why:
+    - similar 0.66
+  - with: hb-josh-7-achan
+    why:
+    - similar 0.66
+  chunk: 2
+- unit: quran-7-adam-iblis
+  candidates:
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 7
+    - similar 0.87
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 3
+    - similar 0.79
+  - with: hb-ezek-28-cherub-in-eden
+    why:
+    - shares 2
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.75
+  chunk: 2
+- unit: quran-7-children-of-adam
+  candidates:
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.69
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.69
+  - with: hb-amos-2-oracle-against-israel
+    why:
+    - similar 0.67
+  chunk: 2
+- unit: quran-7-paradise-hell-araf
+  candidates:
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - similar 0.74
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.73
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.73
+  chunk: 2
+- unit: quran-7-creation-signs
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 2
+    - similar 0.78
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.85
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.82
+  chunk: 2
+- unit: quran-7-noah
+  candidates:
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.76
+  - with: hb-num-12-miriam-aaron
+    why:
+    - similar 0.75
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.75
+  chunk: 2
+- unit: quran-7-hud-ad
+  candidates:
+  - with: hb-deut-2-edom-moab-ammon
+    why:
+    - hint
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - shares 1
+  - with: hb-gen-36-edom-genealogy
+    why:
+    - shares 1
+  - with: hb-gen-14-war-of-kings-melchizedek
+    why:
+    - shares 1
+  - with: hb-deut-13-enticers
+    why:
+    - similar 0.81
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-7-salih-thamud
+  candidates:
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.81
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.79
+  - with: hb-jer-27-yoke-bars
+    why:
+    - similar 0.78
+  chunk: 2
+- unit: quran-7-lot
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 3
+    - similar 0.79
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.72
+  - with: hb-lam-5-prayer-remember
+    why:
+    - similar 0.70
+  chunk: 2
+- unit: quran-7-shuayb-midian
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - hint
+  - with: hb-exod-3-burning-bush
+    why:
+    - hint
+  - with: hb-prov-20-sayings
+    why:
+    - shares 1
+  - with: hb-prov-16-sayings
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.82
+  chunk: 2
+- unit: quran-7-towns-pattern
+  candidates:
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.76
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - similar 0.76
+  - with: hb-zeph-3-jerusalem-and-restoration
+    why:
+    - similar 0.76
+  chunk: 2
+- unit: quran-7-moses-pharaoh
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - hint
+    - shares 4
+  - with: hb-gen-40-prisoners-dreams
+    why:
+    - hint
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - hint
+    - similar 0.83
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    why:
+    - shares 8
+    - similar 0.91
+  - with: hb-ps-105-history
+    why:
+    - shares 5
+  - with: hb-exod-8-plagues-flies-murrain-boils
+    why:
+    - similar 0.90
+  chunk: 2
+- unit: quran-7-idol-request
+  candidates:
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-hos-7-8-oven-and-calf
+    why:
+    - shares 1
+  - with: hb-2kgs-17-fall-of-samaria
+    why:
+    - similar 0.72
+  - with: hb-1kgs-12-golden-calves
+    why:
+    - similar 0.72
+  - with: hb-exod-32-golden-calf
+    why:
+    - similar 0.67
+  chunk: 3
+- unit: quran-7-sinai-theophany
+  candidates:
+  - with: hb-judg-5-song-of-deborah
+    why:
+    - hint
+  - with: hb-exod-24-moses-ascends
+    why:
+    - shares 3
+    - similar 0.88
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - shares 1
+  - with: hb-ps-60-moab-washpot
+    why:
+    - shares 1
+  - with: hb-1kgs-19-elijah-horeb
+    why:
+    - similar 0.85
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - similar 0.79
+  chunk: 3
+- unit: quran-7-calf
+  candidates:
+  - with: hb-deut-9-golden-calf-recalled
+    why:
+    - shares 4
+    - similar 0.83
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-11-taberah-quail
+    why:
+    - shares 1
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - similar 0.83
+  - with: hb-exod-32-golden-calf
+    why:
+    - similar 0.82
+  chunk: 3
+- unit: quran-7-unlettered-prophet
+  candidates:
+  - with: hb-jer-1-call
+    why:
+    - shares 1
+    - similar 0.78
+  - with: hb-isa-51-cup-of-staggering
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - shares 1
+  - with: hb-1kgs-22-micaiah
+    why:
+    - similar 0.78
+  - with: hb-ezek-11-cauldron-new-heart
+    why:
+    - similar 0.77
+  chunk: 3
+- unit: quran-7-wilderness-entry
+  candidates:
+  - with: hb-judg-12-shibboleth-minor-judges
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - shares 2
+    - similar 0.79
+  - with: hb-ps-105-history
+    why:
+    - shares 2
+    - similar 0.77
+  - with: hb-num-9-cloud
+    why:
+    - shares 1
+  - with: hb-deut-1-spies-retold
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-7-sabbath-town
+  candidates:
+  - with: hb-neh-13-nehemiahs-final-reforms
+    why:
+    - hint
+  - with: hb-lev-23-festival-calendar
+    why:
+    - shares 1
+  - with: hb-exod-23-justice-sabbatical-festivals
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 1
+    - similar 0.71
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.70
+  - with: hb-lev-26-curses
+    why:
+    - similar 0.70
+  chunk: 3
+- unit: quran-7-later-heirs-mountain
+  candidates:
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - hint
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.77
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - similar 0.76
+  - with: hb-ezek-37-two-sticks
+    why:
+    - similar 0.75
+  chunk: 3
+- unit: quran-7-primordial-covenant
+  candidates:
+  - with: hb-deut-29-covenant-moab
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.70
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.67
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.66
+  chunk: 3
+- unit: quran-7-dog-parable
+  candidates:
+  - with: hb-num-22-balak-summons-balaam
+    why:
+    - hint
+  - with: hb-num-22-balaams-donkey
+    why:
+    - hint
+  - with: hb-lam-3-the-man-who-saw-affliction
+    why:
+    - similar 0.65
+  - with: hb-ezek-21-sword-oracles
+    why:
+    - similar 0.63
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.63
+  chunk: 3
+- unit: quran-7-names-and-hour
+  candidates:
+  - with: hb-jer-5-sea-boundary
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.82
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.80
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.80
+  chunk: 3
+- unit: quran-7-single-soul-idols
+  candidates:
+  - with: hb-ps-115-not-to-us
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.68
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.66
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - similar 0.65
+  chunk: 3
+- unit: quran-7-closing-recitation
+  candidates:
+  - with: hb-1chr-23-levite-census-and-duties
+    why:
+    - shares 1
+  - with: hb-ps-119-pe-tav
+    why:
+    - similar 0.80
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.74
+  - with: hb-ps-63-thirst
+    why:
+    - similar 0.73
+  chunk: 3
+- unit: quran-8-spoils-and-believers
+  candidates:
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.68
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.68
+  - with: hb-nah-1-avenging-god
+    why:
+    - similar 0.67
+  chunk: 3
+- unit: quran-8-badr-help
+  candidates:
+  - with: hb-josh-10-sun-stands-still
+    why:
+    - hint
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - hint
+    - similar 0.78
+  - with: hb-exod-23-angel-and-conquest
+    why:
+    - shares 1
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+  - with: hb-isa-37-deliverance
+    why:
+    - similar 0.80
+  - with: hb-2kgs-19-deliverance-of-jerusalem
+    why:
+    - similar 0.80
+  chunk: 3
+- unit: quran-8-obedience-trial
+  candidates:
+  - with: hb-jer-5-sea-boundary
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.75
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.75
+  chunk: 3
+- unit: quran-8-meccan-plots
+  candidates:
+  - with: hb-gen-18-abraham-bargains
+    why:
+    - hint
+    - shares 1
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.81
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.80
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.80
+  chunk: 3
+- unit: quran-8-fifth-and-badr-vision
+  candidates:
+  - with: hb-judg-7-gideons-three-hundred
+    why:
+    - hint
+  - with: hb-gen-47-jacob-before-pharaoh-land-purchase
+    why:
+    - hint
+  - with: hb-num-31-midian-war
+    why:
+    - shares 1
+  - with: hb-2chr-20-battle-won-by-singing
+    why:
+    - similar 0.79
+  - with: hb-2chr-13-abijah-at-zemaraim
+    why:
+    - similar 0.77
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-8-death-angels-custom
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.72
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.71
+  chunk: 3
+- unit: quran-8-treaties-peace
+  candidates:
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+    - similar 0.67
+  - with: hb-deut-2-sihon
+    why:
+    - shares 1
+  - with: hb-josh-23-farewell-address
+    why:
+    - similar 0.69
+  - with: hb-exod-23-angel-and-conquest
+    why:
+    - similar 0.68
+  chunk: 3
+- unit: quran-8-ratio-captives
+  candidates:
+  - with: hb-lev-26-blessings
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - hint
+  - with: hb-deut-3-og
+    why:
+    - shares 1
+  - with: hb-deut-2-sihon
+    why:
+    - shares 1
+    - similar 0.67
+  - with: hb-lam-5-prayer-remember
+    why:
+    - similar 0.67
+  - with: hb-deut-7-chosen-people
+    why:
+    - similar 0.64
+  chunk: 3
+- unit: quran-8-emigrants-kin
+  candidates:
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - similar 0.56
+  - with: hb-ezra-9-ezras-confession
+    why:
+    - similar 0.55
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.53
+  chunk: 3
+- unit: quran-9-baraa-treaties
+  candidates:
+  - with: hb-deut-23-assembly-camp
+    why:
+    - hint
+  - with: hb-exod-23-justice-sabbatical-festivals
+    why:
+    - hint
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.78
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.77
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-9-mosques-and-kin
+  candidates:
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.74
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.74
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.73
+  chunk: 3
+- unit: quran-9-hunayn-jizya
+  candidates:
+  - with: hb-judg-7-gideons-three-hundred
+    why:
+    - hint
+  - with: hb-2chr-23-jehoiadas-coup
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - similar 0.76
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.75
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - similar 0.75
+  chunk: 3
+- unit: quran-9-uzayr-clergy
+  candidates:
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.74
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.74
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-9-months-nasi
+  candidates:
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-zech-7-fasting-question
+    why:
+    - similar 0.56
+  - with: hb-num-28-29-sacrificial-calendar
+    why:
+    - similar 0.54
+  - with: hb-zech-1-horsemen-among-myrtles
+    why:
+    - similar 0.54
+  chunk: 3
+- unit: quran-9-cave-and-call
+  candidates:
+  - with: hb-judg-6-midian-prophet
+    why:
+    - shares 1
+  - with: hb-1kgs-18-obadiah
+    why:
+    - shares 1
+  - with: hb-exod-33-tent-and-glory
+    why:
+    - similar 0.78
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.77
+  - with: hb-1kgs-19-elijah-horeb
+    why:
+    - similar 0.77
+  chunk: 3
+- unit: quran-9-shirkers-excuses
+  candidates:
+  - with: hb-deut-20-rules-of-war
+    why:
+    - hint
+  - with: hb-judg-7-gideons-three-hundred
+    why:
+    - hint
+  - with: hb-judg-5-song-of-deborah
+    why:
+    - hint
+  - with: hb-judg-6-midian-prophet
+    why:
+    - shares 1
+  - with: hb-1kgs-18-obadiah
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-9-alms-recipients
+  candidates:
+  - with: hb-deut-14-diet-tithe
+    why:
+    - hint
+  - with: hb-lam-5-prayer-remember
+    why:
+    - similar 0.55
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.54
+  - with: hb-neh-5-debt-slavery-reform
+    why:
+    - similar 0.54
+  chunk: 3
+- unit: quran-9-hypocrites-mockery
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - hint
+  - with: hb-deut-29-covenant-moab
+    why:
+    - hint
+  - with: hb-amos-4-cows-of-bashan
+    why:
+    - hint
+  - with: hb-prov-26-sluggard-quarreler-hypocrite
+    why:
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.75
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-9-hypocrites-vow
+  candidates:
+  - with: hb-jer-7-queen-of-heaven
+    why:
+    - hint
+    - shares 1
+  - with: hb-jer-14-drought
+    why:
+    - shares 1
+  - with: hb-jer-11-broken-covenant
+    why:
+    - shares 1
+  - with: hb-jer-12-why-wicked-prosper
+    why:
+    - similar 0.72
+  - with: hb-1kgs-22-micaiah
+    why:
+    - similar 0.71
+  - with: hb-1sam-12-samuel-farewell
+    why:
+    - similar 0.70
+  chunk: 3
+- unit: quran-9-stayers-exempt
+  candidates:
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+  - with: hb-jer-14-drought
+    why:
+    - similar 0.76
+  - with: hb-hos-4-lawsuit-priests
+    why:
+    - similar 0.73
+  - with: hb-isa-5-vineyard-and-woes
+    why:
+    - similar 0.73
+  chunk: 3
+- unit: quran-9-forerunners-dirar
+  candidates:
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - hint
+  - with: hb-josh-22-altar-of-witness
+    why:
+    - hint
+  - with: hb-ps-41-considers-poor
+    why:
+    - shares 1
+  - with: hb-ps-38-sick-penitent
+    why:
+    - shares 1
+  - with: hb-ps-32-confession
+    why:
+    - shares 1
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.70
+  chunk: 3
+- unit: quran-9-bargain-abraham
+  candidates:
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.76
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-9-three-left-behind
+  candidates:
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.75
+  - with: hb-zeph-3-jerusalem-and-restoration
+    why:
+    - similar 0.72
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.72
+  chunk: 3
+- unit: quran-9-closing
+  candidates:
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - similar 0.79
+  - with: hb-ps-18-storm-theophany
+    why:
+    - similar 0.78
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.78
+  chunk: 3
+- unit: quran-10-opening-creation
+  candidates:
+  - with: hb-ps-104-creation-hymn
+    why:
+    - hint
+    - shares 1
+    - similar 0.81
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 2
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.78
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.77
+  chunk: 3
+- unit: quran-10-ingratitude-sea
+  candidates:
+  - with: hb-ps-107-four-rescues
+    why:
+    - hint
+    - shares 1
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - hint
+  - with: hb-gen-11-babel
+    why:
+    - shares 1
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.79
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.78
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.78
+  chunk: 3
+- unit: quran-10-rain-parable-idols-disown
+  candidates:
+  - with: hb-ps-103-bless-my-soul
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - shares 1
+  - with: hb-ps-102-afflicted
+    why:
+    - shares 1
+  - with: hb-jer-4-uncreation
+    why:
+    - similar 0.73
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.73
+  chunk: 3
+- unit: quran-10-who-provides-challenge
+  candidates:
+  - with: hb-ps-94-god-of-vengeance
+    why:
+    - shares 1
+  - with: hb-jer-5-sea-boundary
+    why:
+    - shares 1
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.74
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.74
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.73
+  chunk: 3
+- unit: quran-10-messenger-per-nation
+  candidates:
+  - with: hb-ps-49-no-ransom
+    why:
+    - hint
+  - with: hb-deut-32-song-of-moses
+    why:
+    - shares 1
+  - with: hb-jer-5-sea-boundary
+    why:
+    - similar 0.75
+  - with: hb-mic-3-rulers-and-prophets
+    why:
+    - similar 0.75
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-10-friends-of-god
+  candidates:
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.80
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.79
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.78
+  chunk: 3
+- unit: quran-10-noah
+  candidates:
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - similar 0.78
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.78
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-10-moses-pharaoh
+  candidates:
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - hint
+    - similar 0.82
+  - with: hb-exod-12-passover-firstborn-exodus
+    why:
+    - hint
+  - with: hb-dan-6-lions-den
+    why:
+    - hint
+  - with: hb-exod-9-hail
+    why:
+    - shares 2
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 2
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    why:
+    - shares 2
+  chunk: 3
+- unit: quran-10-book-readers-jonah
+  candidates:
+  - with: hb-jonah-3-nineveh-repents
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.78
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.77
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.76
+  chunk: 3
+- unit: quran-10-closing
+  candidates:
+  - with: hb-deut-32-song-of-moses
+    why:
+    - shares 1
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - similar 0.74
+  - with: hb-isa-6-throne-vision
+    why:
+    - similar 0.74
+  - with: hb-isa-42-servant-and-new-song
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-11-opening-throne-on-water
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - hint
+    - shares 2
+  - with: hb-ps-29-voice-of-yhwh
+    why:
+    - hint
+  - with: hb-jer-5-sea-boundary
+    why:
+    - shares 1
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 1
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.81
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.81
+  chunk: 3
+- unit: quran-11-noah
+  candidates:
+  - with: hb-gen-6-flood
+    why:
+    - hint
+    - shares 6
+  - with: hb-gen-9-noah-drunk-curse
+    why:
+    - hint
+  - with: hb-jer-7-queen-of-heaven
+    why:
+    - shares 1
+  - with: hb-jer-14-drought
+    why:
+    - shares 1
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - similar 0.84
+  - with: hb-2kgs-2-ascension-of-elijah
+    why:
+    - similar 0.83
+  chunk: 3
+- unit: quran-11-hud
+  candidates:
+  - with: hb-jer-14-drought
+    why:
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.82
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.82
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.81
+  chunk: 3
+- unit: quran-11-salih
+  candidates:
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 1
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.79
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.76
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.75
+  chunk: 3
+- unit: quran-11-abraham-guests
+  candidates:
+  - with: hb-gen-18-visitors-at-mamre
+    why:
+    - shares 5
+    - similar 0.86
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - shares 2
+    - similar 0.73
+  - with: hb-job-31-oath-of-innocence
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-11-lot
+  candidates:
+  - with: hb-josh-10-sun-stands-still
+    why:
+    - hint
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 5
+    - similar 0.87
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-judg-19-levites-concubine
+    why:
+    - shares 1
+  - with: hb-hos-5-6-third-day
+    why:
+    - similar 0.75
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.74
+  chunk: 3
+- unit: quran-11-shuayb
+  candidates:
+  - with: hb-prov-20-sayings
+    why:
+    - shares 1
+  - with: hb-prov-16-sayings
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-deut-13-enticers
+    why:
+    - similar 0.81
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.80
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.80
+  chunk: 3
+- unit: quran-11-pharaoh-leads
+  candidates:
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.69
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.67
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.67
+  chunk: 3
+- unit: quran-11-judgment-day
+  candidates:
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.72
+  - with: hb-zech-7-fasting-question
+    why:
+    - similar 0.72
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.71
+  chunk: 4
+- unit: quran-11-closing
+  candidates:
+  - with: hb-ps-55-dove-wings
+    why:
+    - hint
+  - with: hb-dan-6-lions-den
+    why:
+    - hint
+  - with: hb-dan-3-4-tree-dream
+    why:
+    - hint
+  - with: hb-prov-16-sayings
+    why:
+    - hint
+  - with: hb-gen-18-abraham-bargains
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.75
+  chunk: 4
+- unit: quran-12-prologue
+  candidates:
+  - with: hb-ezek-2-3-commission-eaten-scroll
+    why:
+    - similar 0.67
+  - with: hb-jer-1-call
+    why:
+    - similar 0.66
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.65
+  chunk: 4
+- unit: quran-12-joseph-full
+  candidates:
+  - with: hb-gen-31-flight-from-laban
+    why:
+    - hint
+  - with: hb-gen-6-flood
+    why:
+    - hint
+  - with: hb-gen-37-joseph-dreams-sold
+    why:
+    - shares 10
+    - similar 0.91
+  - with: hb-gen-39-joseph-potiphar-wife
+    why:
+    - shares 9
+  - with: hb-gen-42-brothers-first-journey
+    why:
+    - shares 7
+    - similar 0.89
+  - with: hb-gen-45-joseph-reveals-himself
+    why:
+    - similar 0.89
+  chunk: 4
+- unit: quran-12-epilogue
+  candidates:
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.77
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.75
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.73
+  chunk: 4
+- unit: quran-13-signs-of-creation
+  candidates:
+  - with: hb-prov-25-hezekiah-collection
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.88
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.85
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.85
+  chunk: 4
+- unit: quran-13-covenant-and-paradise
+  candidates:
+  - with: hb-ps-49-no-ransom
+    why:
+    - shares 1
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.82
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.80
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.80
+  chunk: 4
+- unit: quran-13-messengers-and-mother-of-book
+  candidates:
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.82
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.79
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.78
+  chunk: 4
+- unit: quran-14-moses-and-messengers
+  candidates:
+  - with: hb-ps-37-meek-inherit
+    why:
+    - shares 1
+  - with: hb-ps-25-acrostic-prayer
+    why:
+    - shares 1
+  - with: hb-exod-1-oppression-midwives
+    why:
+    - shares 1
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.81
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.80
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.80
+  chunk: 4
+- unit: quran-14-parables-and-satans-speech
+  candidates:
+  - with: hb-ps-1-two-ways
+    why:
+    - shares 1
+  - with: hb-jer-17-two-ways-tree
+    why:
+    - shares 1
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.78
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.78
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.77
+  chunk: 4
+- unit: quran-14-abraham-prayer
+  candidates:
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - hint
+  - with: hb-isa-41-trial-of-the-gods
+    why:
+    - similar 0.65
+  - with: hb-zeph-3-jerusalem-and-restoration
+    why:
+    - similar 0.65
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.65
+  chunk: 4
+- unit: quran-14-day-of-reckoning
+  candidates:
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.80
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.77
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.77
+  chunk: 4
+- unit: quran-15-prologue-and-heavens
+  candidates:
+  - with: hb-2chr-36-last-kings-and-fall
+    why:
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.85
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.84
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.83
+  chunk: 4
+- unit: quran-15-iblis
+  candidates:
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 2
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.77
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.77
+  - with: hb-lam-3-the-man-who-saw-affliction
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-15-abraham-guests-lot
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 6
+    - similar 0.89
+  - with: hb-gen-18-visitors-at-mamre
+    why:
+    - shares 3
+  - with: hb-judg-19-levites-concubine
+    why:
+    - shares 2
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.77
+  - with: hb-ezek-22-city-of-blood
+    why:
+    - similar 0.75
+  chunk: 4
+- unit: quran-15-ayka-hijr-and-close
+  candidates:
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.81
+  - with: hb-ezek-6-mountains-of-israel
+    why:
+    - similar 0.79
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.78
+  chunk: 4
+- unit: quran-16-blessings-of-creation
+  candidates:
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-ps-115-not-to-us
+    why:
+    - shares 1
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.86
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.82
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.81
+  chunk: 4
+- unit: quran-16-deniers-and-angels-of-death
+  candidates:
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+  - with: hb-num-16-korah
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.84
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.84
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.84
+  chunk: 4
+- unit: quran-16-daughters-and-the-bee
+  candidates:
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.76
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.75
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.75
+  chunk: 4
+- unit: quran-16-parables-and-justice
+  candidates:
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.83
+  - with: hb-ezra-9-ezras-confession
+    why:
+    - similar 0.82
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.81
+  chunk: 4
+- unit: quran-16-abrogation-food-abraham-sabbath
+  candidates:
+  - with: hb-lev-7-guilt-peace-portions
+    why:
+    - shares 1
+  - with: hb-lev-3-peace-offering
+    why:
+    - shares 1
+  - with: hb-lev-11-dietary-laws
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.78
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.77
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-17-night-journey-and-israel
+  candidates:
+  - with: hb-ps-79-nations-in-inheritance
+    why:
+    - shares 1
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - similar 0.80
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.80
+  - with: hb-ezek-39-gog-defeated-and-buried
+    why:
+    - similar 0.80
+  chunk: 4
+- unit: quran-17-book-of-deeds
+  candidates:
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-eccl-8-king-and-retribution
+    why:
+    - similar 0.79
+  - with: hb-dan-12-resurrection-end
+    why:
+    - similar 0.76
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-17-commandments
+  candidates:
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 3
+  - with: hb-ps-81-new-moon-shofar
+    why:
+    - shares 2
+  - with: hb-deut-5-decalogue
+    why:
+    - shares 2
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - similar 0.74
+  - with: hb-prov-24-words-of-wise
+    why:
+    - similar 0.74
+  - with: hb-prov-23-amenemope-sayings
+    why:
+    - similar 0.73
+  chunk: 4
+- unit: quran-17-polemic-and-resurrection
+  candidates:
+  - with: hb-ps-150-final-hallelujah
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.85
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.85
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - similar 0.85
+  chunk: 4
+- unit: quran-17-iblis-and-adam
+  candidates:
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+  - with: hb-num-16-korah
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.82
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.82
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  chunk: 4
+- unit: quran-17-prayer-spirit-and-challenge
+  candidates:
+  - with: hb-ps-55-dove-wings
+    why:
+    - shares 1
+  - with: hb-prov-30-agur-confession
+    why:
+    - shares 1
+  - with: hb-dan-6-lions-den
+    why:
+    - shares 1
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.84
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.83
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.83
+  chunk: 4
+- unit: quran-17-moses-nine-signs-and-close
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - hint
+    - shares 1
+  - with: hb-neh-8-ezra-reads-torah
+    why:
+    - shares 1
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 1
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.81
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.80
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.79
+  chunk: 4
+- unit: quran-18-prologue
+  candidates:
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.72
+  - with: hb-gen-18-abraham-bargains
+    why:
+    - similar 0.71
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.71
+  chunk: 4
+- unit: quran-18-companions-of-the-cave
+  candidates:
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.70
+  - with: hb-isa-29-ariel-and-sealed-book
+    why:
+    - similar 0.67
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.66
+  chunk: 4
+- unit: quran-18-two-gardens
+  candidates:
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+  - with: hb-ps-37-meek-inherit
+    why:
+    - shares 1
+  - with: hb-job-14-tree-has-hope
+    why:
+    - similar 0.75
+  - with: hb-prov-11-sayings
+    why:
+    - similar 0.72
+  - with: hb-jer-17-two-ways-tree
+    why:
+    - similar 0.70
+  chunk: 4
+- unit: quran-18-iblis-and-judgment
+  candidates:
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - hint
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.71
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.70
+  - with: hb-lam-3-the-man-who-saw-affliction
+    why:
+    - similar 0.70
+  chunk: 4
+- unit: quran-18-moses-and-the-servant
+  candidates:
+  - with: hb-2kgs-2-ascension-of-elijah
+    why:
+    - similar 0.74
+  - with: hb-isa-11-shoot-of-jesse
+    why:
+    - similar 0.73
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - similar 0.73
+  chunk: 4
+- unit: quran-18-dhul-qarnayn
+  candidates:
+  - with: hb-ezek-38-gog-invasion
+    why:
+    - hint
+    - shares 1
+    - similar 0.74
+  - with: hb-ezek-39-gog-defeated-and-buried
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-24-world-judgment
+    why:
+    - similar 0.74
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.71
+  chunk: 4
+- unit: quran-18-close
+  candidates:
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.78
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.76
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-19-zechariah-and-john
+  candidates:
+  - with: hb-gen-25-jacob-esau-birth
+    why:
+    - shares 2
+  - with: hb-gen-16-hagar
+    why:
+    - shares 2
+  - with: hb-gen-29-birth-of-jacobs-children
+    why:
+    - shares 1
+  - with: hb-2kgs-4-shunammite
+    why:
+    - similar 0.79
+  - with: hb-1sam-1-hannah
+    why:
+    - similar 0.78
+  - with: hb-judg-13-samson-birth
+    why:
+    - similar 0.78
+  chunk: 4
+- unit: quran-19-mary-and-jesus
+  candidates:
+  - with: hb-exod-15-song-of-the-sea
+    why:
+    - hint
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - shares 1
+    - similar 0.79
+  - with: hb-2kgs-4-shunammite
+    why:
+    - similar 0.80
+  - with: hb-1sam-1-hannah
+    why:
+    - similar 0.78
+  chunk: 4
+- unit: quran-19-abraham-and-his-father
+  candidates:
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-ps-115-not-to-us
+    why:
+    - shares 1
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.75
+  - with: hb-exod-6-name-and-levite-genealogy
+    why:
+    - similar 0.75
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - similar 0.75
+  chunk: 4
+- unit: quran-19-prophets-remembered
+  candidates:
+  - with: hb-gen-5-adam-to-noah
+    why:
+    - hint
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 1
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - shares 1
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.84
+  - with: hb-exod-3-burning-bush
+    why:
+    - similar 0.83
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.82
+  chunk: 4
+- unit: quran-19-resurrection-and-the-son
+  candidates:
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.84
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.84
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.84
+  chunk: 4
+- unit: quran-20-taha-prologue
+  candidates:
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.79
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - similar 0.79
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - similar 0.77
+  chunk: 4
+- unit: quran-20-moses-call
+  candidates:
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - hint
+    - shares 4
+    - similar 0.90
+  - with: hb-exod-3-burning-bush
+    why:
+    - shares 3
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 2
+  - with: hb-1kgs-19-elijah-horeb
+    why:
+    - similar 0.87
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.85
+  chunk: 4
+- unit: quran-20-moses-favors-recalled
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - shares 5
+    - similar 0.82
+  - with: hb-jer-1-call
+    why:
+    - shares 1
+  - with: hb-isa-49-servant-light-to-nations
+    why:
+    - shares 1
+  - with: hb-2chr-22-ahaziah-and-athaliah
+    why:
+    - similar 0.68
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - similar 0.68
+  chunk: 4
+- unit: quran-20-moses-pharaoh-magicians
+  candidates:
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - hint
+    - shares 3
+    - similar 0.84
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    why:
+    - shares 3
+  - with: hb-exod-5-bricks-without-straw
+    why:
+    - shares 2
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.83
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.82
+  chunk: 4
+- unit: quran-20-sea-crossing-sinai
+  candidates:
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 3
+    - similar 0.75
+  - with: hb-ps-78-history
+    why:
+    - shares 2
+    - similar 0.71
+  - with: hb-num-11-taberah-quail
+    why:
+    - shares 1
+  - with: hb-ps-105-history
+    why:
+    - similar 0.69
+  chunk: 4
+- unit: quran-20-samiri-calf
+  candidates:
+  - with: hb-hos-7-8-oven-and-calf
+    why:
+    - hint
+  - with: hb-exod-32-golden-calf
+    why:
+    - shares 2
+    - similar 0.71
+  - with: hb-deut-9-golden-calf-recalled
+    why:
+    - shares 2
+  - with: hb-1kgs-12-golden-calves
+    why:
+    - shares 2
+    - similar 0.70
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - similar 0.67
+  chunk: 4
+- unit: quran-20-judgment-day
+  candidates:
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.78
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.78
+  - with: hb-isa-2-mountain-and-day-of-yhwh
+    why:
+    - similar 0.77
+  chunk: 4
+- unit: quran-20-adam-iblis
+  candidates:
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 6
+    - similar 0.86
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 2
+    - similar 0.76
+  - with: hb-prov-15-sayings
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.71
+  chunk: 4
+- unit: quran-20-closing-exhortation
+  candidates:
+  - with: hb-ps-113-raises-the-poor
+    why:
+    - shares 1
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.78
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.77
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-21-heedless-and-doomed-towns
+  candidates:
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.72
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.72
+  - with: hb-isa-29-ariel-and-sealed-book
+    why:
+    - similar 0.71
+  chunk: 4
+- unit: quran-21-against-other-gods
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-gen-6-sons-of-god
+    why:
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.83
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.82
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.82
+  chunk: 4
+- unit: quran-21-cosmic-signs-and-scales
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 2
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.87
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.82
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.82
+  chunk: 4
+- unit: quran-21-abraham-idols-fire
+  candidates:
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 2
+    - similar 0.75
+  - with: hb-dan-3-golden-image-furnace
+    why:
+    - shares 2
+    - similar 0.75
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - similar 0.76
+  chunk: 4
+- unit: quran-21-noah-david-solomon
+  candidates:
+  - with: hb-ps-148-all-creation-praises
+    why:
+    - hint
+  - with: hb-gen-6-flood
+    why:
+    - shares 2
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-exod-22-property-laws
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.76
+  - with: hb-ps-78-history
+    why:
+    - similar 0.74
+  chunk: 4
+- unit: quran-21-prophets-answered
+  candidates:
+  - with: hb-jonah-2-in-the-fish
+    why:
+    - hint
+  - with: hb-gen-25-jacob-esau-birth
+    why:
+    - shares 2
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - shares 1
+  - with: hb-job-42-epilogue
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.82
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.82
+  chunk: 4
+- unit: quran-21-end-and-inheritance
+  candidates:
+  - with: hb-ps-37-meek-inherit
+    why:
+    - shares 1
+  - with: hb-ps-25-acrostic-prayer
+    why:
+    - shares 1
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - shares 1
+  - with: hb-ezek-38-gog-invasion
+    why:
+    - similar 0.79
+  - with: hb-isa-13-oracle-against-babylon
+    why:
+    - similar 0.78
+  - with: hb-ps-78-history
+    why:
+    - similar 0.78
+  chunk: 4
+- unit: quran-22-quake-and-resurrection-proofs
+  candidates:
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 2
+    - similar 0.78
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-isa-65-new-heavens-new-earth
+    why:
+    - similar 0.70
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - similar 0.69
+  chunk: 4
+- unit: quran-22-disputers-and-waverers
+  candidates:
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-ps-115-not-to-us
+    why:
+    - shares 1
+    - similar 0.74
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.76
+  chunk: 5
+- unit: quran-22-communities-prostration-hell-paradise
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - similar 0.79
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.79
+  chunk: 5
+- unit: quran-22-abraham-house-pilgrimage
+  candidates:
+  - with: hb-ps-50-divine-lawsuit
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-21-beersheba-treaty
+    why:
+    - hint
+  - with: hb-exod-23-justice-sabbatical-festivals
+    why:
+    - shares 2
+  - with: hb-ps-122-peace-of-jerusalem
+    why:
+    - shares 1
+  - with: hb-deut-12-one-sanctuary
+    why:
+    - similar 0.84
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.83
+  chunk: 5
+- unit: quran-22-permission-to-fight
+  candidates:
+  - with: hb-jer-7-temple-sermon
+    why:
+    - similar 0.69
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.65
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.65
+  chunk: 5
+- unit: quran-22-destroyed-towns-satanic-insinuation
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - hint
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - hint
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - shares 1
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - shares 1
+  - with: hb-lam-2-god-as-enemy
+    why:
+    - similar 0.77
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.76
+  chunk: 5
+- unit: quran-22-signs-and-rites
+  candidates:
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.77
+  - with: hb-ps-147-counts-the-stars
+    why:
+    - similar 0.77
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-22-fly-parable-abraham
+  candidates:
+  - with: hb-mic-6-covenant-lawsuit
+    why:
+    - similar 0.66
+  - with: hb-jer-1-call
+    why:
+    - similar 0.65
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.64
+  chunk: 5
+- unit: quran-23-believers-succeed
+  candidates:
+  - with: hb-ps-37-meek-inherit
+    why:
+    - shares 1
+  - with: hb-ps-25-acrostic-prayer
+    why:
+    - shares 1
+  - with: hb-neh-2-nehemiah-sent
+    why:
+    - shares 1
+  - with: hb-mic-2-land-grabbers
+    why:
+    - similar 0.67
+  - with: hb-jer-32-field-at-anathoth
+    why:
+    - similar 0.63
+  - with: hb-jer-35-rechabites
+    why:
+    - similar 0.63
+  chunk: 5
+- unit: quran-23-creation-of-man-and-gifts
+  candidates:
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 2
+    - similar 0.74
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - similar 0.71
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.71
+  chunk: 5
+- unit: quran-23-noah
+  candidates:
+  - with: hb-gen-6-flood
+    why:
+    - shares 3
+    - similar 0.77
+  - with: hb-jer-29-letter-to-exiles
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - similar 0.77
+  - with: hb-gen-32-preparing-to-meet-esau
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-23-unnamed-messenger-and-succession
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - shares 1
+  - with: hb-ps-146-trust-not-princes
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.74
+  - with: hb-job-4-eliphaz-vision
+    why:
+    - similar 0.73
+  - with: hb-num-14-rebellion-verdict
+    why:
+    - similar 0.72
+  chunk: 5
+- unit: quran-23-moses-aaron-mary
+  candidates:
+  - with: hb-lev-25-redemption-usury-slavery
+    why:
+    - shares 1
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.72
+  - with: hb-ps-105-history
+    why:
+    - similar 0.72
+  - with: hb-isa-49-zion-not-forgotten
+    why:
+    - similar 0.68
+  chunk: 5
+- unit: quran-23-sects-and-the-heedless
+  candidates:
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.77
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.77
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-23-lordship-arguments
+  candidates:
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.78
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.78
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-23-death-barzakh-judgment
+  candidates:
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.78
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.78
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-24-penalties-and-lian
+  candidates:
+  - with: hb-num-5-sotah-ordeal
+    why:
+    - hint
+    - shares 1
+    - similar 0.79
+  - with: hb-deut-22-miscellany-sexual-laws
+    why:
+    - shares 2
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - similar 0.66
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - similar 0.66
+  chunk: 5
+- unit: quran-24-ifk-slander
+  candidates:
+  - with: hb-ps-15-entrance-liturgy
+    why:
+    - shares 1
+  - with: hb-prov-17-sayings
+    why:
+    - similar 0.66
+  - with: hb-num-5-sotah-ordeal
+    why:
+    - similar 0.65
+  - with: hb-prov-12-sayings
+    why:
+    - similar 0.64
+  chunk: 5
+- unit: quran-24-privacy-modesty-marriage
+  candidates:
+  - with: hb-lev-19-holiness-code-b
+    why:
+    - shares 1
+    - similar 0.70
+  - with: hb-ezek-16-foundling-bride
+    why:
+    - shares 1
+    - similar 0.66
+  - with: hb-deut-15-release-year
+    why:
+    - shares 1
+  - with: hb-isa-3-collapse-and-daughters-of-zion
+    why:
+    - similar 0.66
+  chunk: 5
+- unit: quran-24-light-verse
+  candidates:
+  - with: hb-zech-4-lampstand-and-olive-trees
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-27-altar-court-oil
+    why:
+    - hint
+  - with: hb-ps-104-creation-hymn
+    why:
+    - hint
+    - similar 0.87
+  - with: hb-ps-36-fountain-of-life
+    why:
+    - shares 1
+  - with: hb-ps-18-storm-theophany
+    why:
+    - shares 1
+    - similar 0.81
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.81
+  chunk: 5
+- unit: quran-24-obedience-and-succession
+  candidates:
+  - with: hb-isa-29-ariel-and-sealed-book
+    why:
+    - shares 1
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - shares 1
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - shares 1
+  - with: hb-1chr-16-davids-psalm
+    why:
+    - similar 0.74
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.74
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.73
+  chunk: 5
+- unit: quran-24-household-etiquette
+  candidates:
+  - with: hb-gen-24-bride-for-isaac
+    why:
+    - similar 0.56
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - similar 0.56
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - similar 0.56
+  chunk: 5
+- unit: quran-25-furqan-and-objections
+  candidates:
+  - with: hb-jer-10-idols-scarecrows
+    why:
+    - shares 1
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - shares 1
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.77
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.77
+  - with: hb-ps-78-history
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-25-hell-and-the-day-of-angels
+  candidates:
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.82
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.79
+  chunk: 5
+- unit: quran-25-destroyed-peoples
+  candidates:
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-deut-13-enticers
+    why:
+    - similar 0.79
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.78
+  - with: hb-jer-24-two-baskets-figs
+    why:
+    - similar 0.78
+  chunk: 5
+- unit: quran-25-signs-shadow-seas
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 2
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.86
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.82
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - similar 0.80
+  chunk: 5
+- unit: quran-25-servants-of-the-merciful
+  candidates:
+  - with: hb-zech-5-flying-scroll
+    why:
+    - shares 1
+  - with: hb-mic-6-covenant-lawsuit
+    why:
+    - shares 1
+  - with: hb-jer-7-temple-sermon
+    why:
+    - shares 1
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.81
+  - with: hb-deut-5-decalogue
+    why:
+    - similar 0.77
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-26-prologue
+  candidates:
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.68
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.66
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.66
+  chunk: 5
+- unit: quran-26-moses-and-pharaoh
+  candidates:
+  - with: hb-exod-15-song-of-the-sea
+    why:
+    - hint
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 4
+    - similar 0.86
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - shares 4
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 4
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.84
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.84
+  chunk: 5
+- unit: quran-26-abraham
+  candidates:
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-ps-115-not-to-us
+    why:
+    - shares 1
+  - with: hb-prov-22-solomon-sayings-end
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.81
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.81
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.80
+  chunk: 5
+- unit: quran-26-noah
+  candidates:
+  - with: hb-gen-6-flood
+    why:
+    - shares 2
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - similar 0.80
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.80
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.79
+  chunk: 5
+- unit: quran-26-hud-ad
+  candidates:
+  - with: hb-gen-11-babel
+    why:
+    - shares 1
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.77
+  - with: hb-mic-3-rulers-and-prophets
+    why:
+    - similar 0.75
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.74
+  chunk: 5
+- unit: quran-26-salih-thamud
+  candidates:
+  - with: hb-obad-1-edom-brought-down
+    why:
+    - shares 1
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.76
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - similar 0.75
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.75
+  chunk: 5
+- unit: quran-26-lot
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 4
+    - similar 0.81
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.73
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.73
+  chunk: 5
+- unit: quran-26-shuayb-ayka
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - hint
+  - with: hb-exod-3-burning-bush
+    why:
+    - hint
+  - with: hb-prov-20-sayings
+    why:
+    - shares 1
+  - with: hb-prov-16-sayings
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.72
+  chunk: 5
+- unit: quran-26-revelation-devils-poets
+  candidates:
+  - with: hb-ps-51-miserere
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.78
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.78
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-27-prologue-moses-fire
+  candidates:
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - hint
+    - shares 2
+  - with: hb-exod-3-burning-bush
+    why:
+    - hint
+    - similar 0.78
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - hint
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - shares 3
+    - similar 0.82
+  - with: hb-ps-105-history
+    why:
+    - shares 1
+  chunk: 5
+- unit: quran-27-solomon-ants-hoopoe-sheba
+  candidates:
+  - with: hb-esth-1-vashti-deposed
+    why:
+    - hint
+  - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+    why:
+    - shares 2
+    - similar 0.69
+  - with: hb-lev-11-dietary-laws
+    why:
+    - shares 1
+  - with: hb-josh-2-rahab
+    why:
+    - shares 1
+  - with: hb-2kgs-21-manasseh-amon
+    why:
+    - similar 0.67
+  - with: hb-2kgs-20-hezekiah-illness-babylon
+    why:
+    - similar 0.67
+  chunk: 5
+- unit: quran-27-salih-nine-plotters
+  candidates:
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.79
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.79
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.78
+  chunk: 5
+- unit: quran-27-lot
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 2
+    - similar 0.71
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-lam-5-prayer-remember
+    why:
+    - similar 0.64
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.63
+  chunk: 5
+- unit: quran-27-is-there-a-god-with-god
+  candidates:
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.87
+  - with: hb-ps-18-storm-theophany
+    why:
+    - similar 0.87
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.87
+  chunk: 5
+- unit: quran-27-israel-beast-trumpet
+  candidates:
+  - with: hb-dan-7-four-beasts-son-of-man
+    why:
+    - hint
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - similar 0.81
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.78
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - similar 0.76
+  chunk: 5
+- unit: quran-28-pharaoh-oppression-infant-moses
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - shares 6
+    - similar 0.83
+  - with: hb-exod-1-oppression-midwives
+    why:
+    - shares 1
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    why:
+    - similar 0.71
+  - with: hb-gen-25-jacob-esau-birth
+    why:
+    - similar 0.69
+  chunk: 5
+- unit: quran-28-moses-kills-and-flees
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - hint
+    - shares 3
+  - with: hb-1kgs-11-adversaries
+    why:
+    - shares 1
+  - with: hb-1sam-26-spear-and-jug
+    why:
+    - similar 0.76
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - similar 0.69
+  - with: hb-2sam-1-amalekite-messenger
+    why:
+    - similar 0.69
+  chunk: 5
+- unit: quran-28-moses-in-midian
+  candidates:
+  - with: hb-exod-2-moses-birth-flight-midian
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-29-jacob-rachel-leah
+    why:
+    - hint
+    - shares 1
+    - similar 0.78
+  - with: hb-hos-12-jacob
+    why:
+    - shares 1
+  - with: hb-gen-24-bride-for-isaac
+    why:
+    - similar 0.71
+  - with: hb-2kgs-4-shunammite
+    why:
+    - similar 0.64
+  chunk: 5
+- unit: quran-28-call-at-the-tree
+  candidates:
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - shares 4
+    - similar 0.85
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 2
+  - with: hb-exod-3-burning-bush
+    why:
+    - shares 2
+  - with: hb-amos-7-visions-and-amaziah
+    why:
+    - similar 0.81
+  - with: hb-1kgs-19-elijah-horeb
+    why:
+    - similar 0.81
+  chunk: 5
+- unit: quran-28-pharaohs-tower-and-end
+  candidates:
+  - with: hb-gen-11-babel
+    why:
+    - shares 2
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+    - similar 0.72
+  - with: hb-exod-7-staff-swallows-staffs
+    why:
+    - shares 1
+  - with: hb-isa-19-oracle-on-egypt
+    why:
+    - similar 0.73
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.72
+  chunk: 5
+- unit: quran-28-prophet-not-present-and-the-two-books
+  candidates:
+  - with: hb-deut-13-enticers
+    why:
+    - similar 0.77
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.76
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.76
+  chunk: 5
+- unit: quran-28-destroyed-towns-and-judgment
+  candidates:
+  - with: hb-jer-16-fishers-and-hunters
+    why:
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - shares 1
+  - with: hb-1kgs-8-dedication-prayer
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.81
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.81
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.80
+  chunk: 5
+- unit: quran-28-qarun
+  candidates:
+  - with: hb-num-16-korah
+    why:
+    - hint
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-prov-18-sayings
+    why:
+    - shares 1
+  - with: hb-prov-10-solomon-sayings
+    why:
+    - shares 1
+  - with: hb-ps-49-no-ransom
+    why:
+    - similar 0.68
+  - with: hb-1chr-29-offerings-prayer-david-dies
+    why:
+    - similar 0.67
+  chunk: 5
+- unit: quran-29-trial-of-believers
+  candidates:
+  - with: hb-deut-13-enticers
+    why:
+    - hint
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-gen-22-aqedah
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - shares 1
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - similar 0.77
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.74
+  chunk: 5
+- unit: quran-29-noah-950
+  candidates:
+  - with: hb-gen-9-noah-drunk-curse
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-6-flood
+    why:
+    - similar 0.69
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - similar 0.66
+  - with: hb-gen-32-preparing-to-meet-esau
+    why:
+    - similar 0.65
+  chunk: 5
+- unit: quran-29-abraham-preaches
+  candidates:
+  - with: hb-ps-105-history
+    why:
+    - shares 1
+  - with: hb-gen-11-shem-to-terah
+    why:
+    - shares 1
+  - with: hb-exod-3-burning-bush
+    why:
+    - shares 1
+    - similar 0.82
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.82
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.80
+  chunk: 5
+- unit: quran-29-lot
+  candidates:
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 4
+    - similar 0.87
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-jer-50-oracle-babylon-1
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-ezek-16-sisters-sodom-samaria
+    why:
+    - similar 0.77
+  chunk: 5
+- unit: quran-29-destroyed-nations
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+    - similar 0.74
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - similar 0.75
+  - with: hb-josh-10-sun-stands-still
+    why:
+    - similar 0.72
+  chunk: 5
+- unit: quran-29-spider
+  candidates:
+  - with: hb-job-8-bildad-first-speech
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.61
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - similar 0.61
+  - with: hb-ps-91-shelter-of-most-high
+    why:
+    - similar 0.61
+  chunk: 6
+- unit: quran-29-recite-and-dispute
+  candidates:
+  - with: hb-deut-6-shema
+    why:
+    - hint
+  - with: hb-1kgs-22-micaiah
+    why:
+    - similar 0.81
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.79
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.79
+  chunk: 6
+- unit: quran-29-emigrate-and-trust
+  candidates:
+  - with: hb-ps-147-counts-the-stars
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-38-whirlwind-animals
+    why:
+    - shares 1
+  - with: hb-eccl-6-wealth-unenjoyed
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.81
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.80
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.80
+  chunk: 6
+- unit: quran-30-romans
+  candidates:
+  - with: hb-isa-15-16-oracle-on-moab
+    why:
+    - similar 0.51
+  - with: hb-amos-1-2-oracles-against-nations
+    why:
+    - similar 0.51
+  - with: hb-jer-48-oracle-moab
+    why:
+    - similar 0.50
+  chunk: 6
+- unit: quran-30-signs
+  candidates:
+  - with: hb-ps-55-dove-wings
+    why:
+    - hint
+  - with: hb-dan-6-lions-den
+    why:
+    - hint
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.85
+  chunk: 6
+- unit: quran-30-fitra
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - hint
+  - with: hb-prov-28-sayings
+    why:
+    - shares 1
+    - similar 0.71
+  - with: hb-neh-5-debt-slavery-reform
+    why:
+    - similar 0.70
+  - with: hb-ezra-9-ezras-confession
+    why:
+    - similar 0.69
+  chunk: 6
+- unit: quran-30-winds-and-rain
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.78
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - similar 0.78
+  - with: hb-ps-18-storm-theophany
+    why:
+    - similar 0.77
+  chunk: 6
+- unit: quran-31-luqman
+  candidates:
+  - with: hb-prov-6-adultery-fire
+    why:
+    - shares 1
+  - with: hb-prov-1-gang-of-sinners
+    why:
+    - shares 1
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.82
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.81
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  chunk: 6
+- unit: quran-31-signs-and-unseen
+  candidates:
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.81
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.80
+  - with: hb-ps-107-four-rescues
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-32-sajda
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - hint
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 2
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.83
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.83
+  chunk: 6
+- unit: quran-33-adoption-and-zihar
+  candidates:
+  - with: hb-gen-48-ephraim-manasseh-blessing
+    why:
+    - hint
+  - with: hb-esth-2-esther-chosen
+    why:
+    - hint
+  - with: hb-exod-6-name-and-levite-genealogy
+    why:
+    - similar 0.73
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - similar 0.69
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.68
+  chunk: 6
+- unit: quran-33-trench
+  candidates:
+  - with: hb-exod-23-angel-and-conquest
+    why:
+    - shares 1
+    - similar 0.79
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - similar 0.80
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-33-prophets-wives
+  candidates:
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - shares 1
+    - similar 0.70
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.70
+  - with: hb-jer-44-queen-of-heaven
+    why:
+    - similar 0.70
+  chunk: 6
+- unit: quran-33-zayd-seal-of-prophets
+  candidates:
+  - with: hb-jer-1-call
+    why:
+    - similar 0.74
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.74
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.74
+  chunk: 6
+- unit: quran-33-marriage-rules
+  candidates:
+  - with: hb-deut-17-courts-king
+    why:
+    - shares 1
+  - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+    why:
+    - shares 1
+  - with: hb-2chr-1-solomon-at-gibeon
+    why:
+    - shares 1
+  - with: hb-2kgs-4-shunammite
+    why:
+    - similar 0.72
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - similar 0.71
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.68
+  chunk: 6
+- unit: quran-33-hour-and-trust
+  candidates:
+  - with: hb-num-12-miriam-aaron
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.78
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.78
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.77
+  chunk: 6
+- unit: quran-34-gods-knowledge
+  candidates:
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+  - with: hb-num-16-korah
+    why:
+    - shares 1
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.73
+  - with: hb-isa-6-throne-vision
+    why:
+    - similar 0.73
+  - with: hb-1kgs-19-elijah-horeb
+    why:
+    - similar 0.72
+  chunk: 6
+- unit: quran-34-david-solomon
+  candidates:
+  - with: hb-esth-1-vashti-deposed
+    why:
+    - hint
+  - with: hb-ps-98-rivers-clap
+    why:
+    - shares 1
+  - with: hb-jer-52-historical-appendix
+    why:
+    - shares 1
+  - with: hb-exod-37-ark-table-lampstand-made
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.70
+  - with: hb-2chr-5-ark-into-temple-glory-cloud
+    why:
+    - similar 0.68
+  chunk: 6
+- unit: quran-34-sheba
+  candidates:
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - hint
+  - with: hb-ezek-47-temple-river
+    why:
+    - hint
+  - with: hb-ezek-47-48-land-division
+    why:
+    - hint
+  - with: hb-gen-13-abram-lot-separate
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.69
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - similar 0.67
+  chunk: 6
+- unit: quran-34-intercession-and-judgment
+  candidates:
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.78
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.78
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.77
+  chunk: 6
+- unit: quran-34-affluent-and-angels
+  candidates:
+  - with: hb-jer-29-letter-to-exiles
+    why:
+    - shares 1
+  - with: hb-2kgs-9-jehu-anointed
+    why:
+    - shares 1
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.77
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.77
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.76
+  chunk: 6
+- unit: quran-35-originator
+  candidates:
+  - with: hb-ps-139-searched-and-known
+    why:
+    - hint
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - hint
+  - with: hb-ezek-10-cherubim-and-wheels
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.88
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.83
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.82
+  chunk: 6
+- unit: quran-35-not-equal
+  candidates:
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - hint
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - hint
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.74
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.73
+  chunk: 6
+- unit: quran-35-heirs-of-book
+  candidates:
+  - with: hb-ps-7-oath-of-innocence
+    why:
+    - hint
+  - with: hb-prov-26-sluggard-quarreler-hypocrite
+    why:
+    - hint
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.81
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.80
+  - with: hb-isa-48-refined-in-affliction
+    why:
+    - similar 0.80
+  chunk: 6
+- unit: quran-36-ya-sin-opening
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-dan-9-prayer-seventy-weeks
+    why:
+    - similar 0.72
+  - with: hb-ezek-2-3-commission-eaten-scroll
+    why:
+    - similar 0.69
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - similar 0.67
+  chunk: 6
+- unit: quran-36-people-of-the-town
+  candidates:
+  - with: hb-lev-24-lamp-bread-blasphemer
+    why:
+    - shares 1
+  - with: hb-lev-20-penalties
+    why:
+    - shares 1
+  - with: hb-1kgs-21-naboth
+    why:
+    - shares 1
+  - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+    why:
+    - similar 0.77
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.76
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.75
+  chunk: 6
+- unit: quran-36-cosmic-signs
+  candidates:
+  - with: hb-eccl-1-hevel-and-cycles
+    why:
+    - hint
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-19-heavens-and-torah
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.79
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.77
+  - with: hb-gen-1-creation-six-days
+    why:
+    - similar 0.74
+  chunk: 6
+- unit: quran-36-trumpet-and-judgment
+  candidates:
+  - with: hb-isa-27-leviathan-and-great-shofar
+    why:
+    - hint
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - shares 1
+    - similar 0.84
+  - with: hb-dan-12-resurrection-end
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.84
+  - with: hb-jer-7-obedience-not-sacrifice
+    why:
+    - similar 0.82
+  chunk: 6
+- unit: quran-36-bones-and-be
+  candidates:
+  - with: hb-exod-3-burning-bush
+    why:
+    - hint
+  - with: hb-ps-33-creation-by-word
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-ezek-37-dry-bones
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.75
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.73
+  chunk: 6
+- unit: quran-37-ranks-and-guarded-heaven
+  candidates:
+  - with: hb-zech-3-joshua-and-the-satan
+    why:
+    - shares 1
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-ezek-7-the-end
+    why:
+    - similar 0.73
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.73
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.73
+  chunk: 6
+- unit: quran-37-hell-and-garden
+  candidates:
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - hint
+  - with: hb-jer-29-letter-to-exiles
+    why:
+    - shares 1
+  - with: hb-2kgs-9-jehu-anointed
+    why:
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.79
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.78
+  - with: hb-jer-14-drought
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-37-noah
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-gen-9-noah-drunk-curse
+    why:
+    - shares 1
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 1
+  - with: hb-deut-1-spies-retold
+    why:
+    - similar 0.67
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.67
+  - with: hb-ps-105-history
+    why:
+    - similar 0.66
+  chunk: 6
+- unit: quran-37-abraham-idols-fire
+  candidates:
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 2
+    - similar 0.75
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-ps-115-not-to-us
+    why:
+    - shares 1
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - similar 0.78
+  - with: hb-jer-10-idols-scarecrows
+    why:
+    - similar 0.77
+  chunk: 6
+- unit: quran-37-sacrifice-of-son
+  candidates:
+  - with: hb-gen-22-aqedah
+    why:
+    - hint
+    - shares 5
+    - similar 0.91
+  - with: hb-judg-11-jephthah-outcast-diplomacy
+    why:
+    - hint
+  - with: hb-judg-11-jephthahs-daughter
+    why:
+    - hint
+  - with: hb-judg-13-samson-birth
+    why:
+    - shares 1
+  - with: hb-gen-18-visitors-at-mamre
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-37-moses-aaron-elias
+  candidates:
+  - with: hb-ps-86-none-like-you
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-judg-3-othniel
+    why:
+    - shares 1
+  - with: hb-judg-2-bochim-cycle
+    why:
+    - shares 1
+  - with: hb-2kgs-13-jehoahaz-elisha-death
+    why:
+    - similar 0.75
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.71
+  chunk: 6
+- unit: quran-37-lot-and-jonah
+  candidates:
+  - with: hb-jonah-1-flight-and-storm
+    why:
+    - hint
+    - shares 1
+  - with: hb-jonah-2-in-the-fish
+    why:
+    - hint
+    - shares 3
+    - similar 0.79
+  - with: hb-jonah-4-qiqayon
+    why:
+    - hint
+    - shares 2
+  - with: hb-jonah-3-nineveh-repents
+    why:
+    - hint
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.77
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.77
+  chunk: 6
+- unit: quran-37-daughters-and-ranks
+  candidates:
+  - with: hb-gen-6-sons-of-god
+    why:
+    - hint
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.73
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.73
+  - with: hb-ezek-6-mountains-of-israel
+    why:
+    - similar 0.72
+  chunk: 6
+- unit: quran-38-sad-opening
+  candidates:
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.76
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.75
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.74
+  chunk: 6
+- unit: quran-38-david-ewe-parable
+  candidates:
+  - with: hb-ps-51-miserere
+    why:
+    - hint
+  - with: hb-2sam-12-nathans-parable
+    why:
+    - shares 2
+  - with: hb-2sam-14-wise-woman-of-tekoa
+    why:
+    - shares 1
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.79
+  - with: hb-jer-12-why-wicked-prosper
+    why:
+    - similar 0.78
+  - with: hb-1kgs-22-micaiah
+    why:
+    - similar 0.76
+  chunk: 6
+- unit: quran-38-solomon-horses-throne
+  candidates:
+  - with: hb-josh-11-hazor-northern-campaign
+    why:
+    - shares 1
+  - with: hb-2sam-8-davids-wars-officials
+    why:
+    - shares 1
+  - with: hb-1kgs-5-dominion-wisdom
+    why:
+    - shares 1
+  - with: hb-2chr-28-ahaz-and-the-merciful-samarians
+    why:
+    - similar 0.74
+  - with: hb-2kgs-1-ahaziah-baal-zebub
+    why:
+    - similar 0.71
+  - with: hb-2chr-18-micaiah-and-ramoth-gilead
+    why:
+    - similar 0.71
+  chunk: 6
+- unit: quran-38-job
+  candidates:
+  - with: hb-job-23-where-can-i-find-him
+    why:
+    - hint
+  - with: hb-job-24-oppression-of-poor
+    why:
+    - hint
+  - with: hb-zech-3-joshua-and-the-satan
+    why:
+    - shares 1
+  - with: hb-num-30-vows
+    why:
+    - shares 1
+  - with: hb-job-42-epilogue
+    why:
+    - shares 1
+  - with: hb-isa-50-servant-struck
+    why:
+    - similar 0.76
+  chunk: 6
+- unit: quran-38-patriarchs-and-fates
+  candidates:
+  - with: hb-zech-3-joshua-and-the-satan
+    why:
+    - shares 1
+  - with: hb-jer-23-against-prophets
+    why:
+    - shares 1
+  - with: hb-2chr-18-micaiah-and-ramoth-gilead
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.80
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.77
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.76
+  chunk: 6
+- unit: quran-38-adam-iblis
+  candidates:
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 2
+  - with: hb-job-33-elihu-dreams-and-angel
+    why:
+    - shares 1
+    - similar 0.77
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 1
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.79
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-39-pure-religion
+  candidates:
+  - with: hb-ps-139-searched-and-known
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - hint
+  - with: hb-ps-119-vav-kaf
+    why:
+    - shares 1
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.78
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-39-sincere-servant
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - shares 1
+  - with: hb-ps-103-bless-my-soul
+    why:
+    - shares 1
+  - with: hb-ps-102-afflicted
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.77
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - similar 0.75
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - similar 0.75
+  chunk: 6
+- unit: quran-39-death-and-sleep
+  candidates:
+  - with: hb-ps-13-how-long
+    why:
+    - shares 1
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.82
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.79
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-39-mercy-and-last-day
+  candidates:
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+    - similar 0.83
+  - with: hb-ps-37-meek-inherit
+    why:
+    - hint
+  - with: hb-ezek-43-glory-returns
+    why:
+    - shares 1
+  - with: hb-1kgs-22-micaiah
+    why:
+    - shares 1
+  - with: hb-2chr-6-solomons-dedication-prayer
+    why:
+    - similar 0.84
+  chunk: 6
+- unit: quran-40-throne-bearers
+  candidates:
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - hint
+  - with: hb-zech-1-horsemen-among-myrtles
+    why:
+    - hint
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - shares 1
+  - with: hb-ezek-1-chariot-throne
+    why:
+    - shares 1
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.79
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.79
+  chunk: 6
+- unit: quran-40-believer-of-pharaohs-family
+  candidates:
+  - with: hb-gen-11-babel
+    why:
+    - shares 1
+  - with: hb-exod-1-oppression-midwives
+    why:
+    - shares 1
+  - with: hb-isa-19-oracle-on-egypt
+    why:
+    - similar 0.78
+  - with: hb-jer-42-43-flight-to-egypt
+    why:
+    - similar 0.78
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.78
+  chunk: 6
+- unit: quran-40-call-on-me
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 2
+  - with: hb-ps-74-leviathan
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.78
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.77
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.76
+  chunk: 6
+- unit: quran-40-chains-and-late-faith
+  candidates:
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.71
+  - with: hb-deut-28-blessings-curses
+    why:
+    - similar 0.71
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.70
+  chunk: 6
+- unit: quran-41-fussilat-creation
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.82
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.81
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.81
+  chunk: 6
+- unit: quran-41-ad-and-thamud
+  candidates:
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.63
+  - with: hb-nah-1-avenging-god
+    why:
+    - similar 0.62
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.62
+  chunk: 7
+- unit: quran-41-testifying-skins
+  candidates:
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - hint
+  - with: hb-isa-59-sins-separate-divine-warrior
+    why:
+    - similar 0.76
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.75
+  - with: hb-jer-5-sea-boundary
+    why:
+    - similar 0.75
+  chunk: 7
+- unit: quran-41-steadfast-and-repel-evil
+  candidates:
+  - with: hb-prov-25-hezekiah-collection
+    why:
+    - hint
+  - with: hb-isa-6-throne-vision
+    why:
+    - hint
+  - with: hb-prov-20-sayings
+    why:
+    - shares 1
+  - with: hb-lam-3-the-man-who-saw-affliction
+    why:
+    - shares 1
+  - with: hb-gen-26-isaac-in-gerar
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.83
+  chunk: 7
+- unit: quran-42-shura-revelation-one-religion
+  candidates:
+  - with: hb-jer-16-fishers-and-hunters
+    why:
+    - shares 1
+  - with: hb-gen-5-adam-to-noah
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.81
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.79
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-42-shura-signs-and-ethics
+  candidates:
+  - with: hb-exod-21-bodily-injury
+    why:
+    - hint
+    - shares 1
+  - with: hb-prov-24-further-sayings-of-wise
+    why:
+    - shares 1
+  - with: hb-lev-24-lamp-bread-blasphemer
+    why:
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.81
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.80
+  - with: hb-mic-6-covenant-lawsuit
+    why:
+    - similar 0.80
+  chunk: 7
+- unit: quran-42-shura-judgment-and-divine-speech
+  candidates:
+  - with: hb-num-12-miriam-aaron
+    why:
+    - hint
+    - shares 1
+  - with: hb-exod-33-tent-and-glory
+    why:
+    - hint
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.82
+  - with: hb-jer-23-dreams-and-hammer
+    why:
+    - similar 0.81
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-43-zukhruf-book-and-daughters
+  candidates:
+  - with: hb-isa-3-collapse-and-daughters-of-zion
+    why:
+    - shares 1
+  - with: hb-2chr-36-last-kings-and-fall
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.79
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.79
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-43-zukhruf-abraham-and-silver-roofs
+  candidates:
+  - with: hb-judg-6-jerubbaal-fleece
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - shares 1
+    - similar 0.82
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.82
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-43-zukhruf-pharaoh-claims
+  candidates:
+  - with: hb-gen-41-pharaoh-dreams-joseph-viceroy
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-ezek-29-pharaoh-the-dragon
+    why:
+    - shares 1
+  - with: hb-exod-8-plagues-flies-murrain-boils
+    why:
+    - shares 1
+    - similar 0.76
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    why:
+    - similar 0.80
+  - with: hb-isa-19-oracle-on-egypt
+    why:
+    - similar 0.76
+  chunk: 7
+- unit: quran-43-zukhruf-jesus-and-paradise
+  candidates:
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.83
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.82
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - similar 0.82
+  chunk: 7
+- unit: quran-44-dukhan-blessed-night-and-smoke
+  candidates:
+  - with: hb-joel-3-spirit-poured
+    why:
+    - hint
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-exod-8-plagues-flies-murrain-boils
+    why:
+    - shares 1
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.75
+  - with: hb-isa-6-throne-vision
+    why:
+    - similar 0.72
+  chunk: 7
+- unit: quran-44-dukhan-pharaoh-drowned
+  candidates:
+  - with: hb-jer-4-uncreation
+    why:
+    - hint
+  - with: hb-isa-24-world-judgment
+    why:
+    - hint
+  - with: hb-ps-78-history
+    why:
+    - shares 2
+    - similar 0.80
+  - with: hb-exod-14-crossing-of-the-sea
+    why:
+    - shares 2
+    - similar 0.84
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - shares 1
+  - with: hb-ps-106-national-confession
+    why:
+    - similar 0.80
+  chunk: 7
+- unit: quran-44-dukhan-zaqqum-and-garden
+  candidates:
+  - with: hb-gen-2-eden-adam-woman
+    why:
+    - hint
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.78
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.78
+  chunk: 7
+- unit: quran-45-jathiya-signs-and-israel
+  candidates:
+  - with: hb-ps-8-what-is-man
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-9-noahide-covenant
+    why:
+    - shares 1
+  - with: hb-gen-1-creation-six-days
+    why:
+    - shares 1
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.80
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-45-jathiya-time-and-the-kneeling-nations
+  candidates:
+  - with: hb-eccl-3-time-for-everything
+    why:
+    - hint
+  - with: hb-eccl-3-humans-and-beasts
+    why:
+    - hint
+  - with: hb-dan-7-four-beasts-son-of-man
+    why:
+    - hint
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  chunk: 7
+- unit: quran-46-ahqaf-gods-and-the-book-of-moses
+  candidates:
+  - with: hb-deut-18-levites-prophet
+    why:
+    - hint
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - similar 0.79
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.77
+  - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+    why:
+    - similar 0.77
+  chunk: 7
+- unit: quran-46-ahqaf-parents-and-the-scornful-son
+  candidates:
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 1
+  - with: hb-deut-5-decalogue
+    why:
+    - shares 1
+  - with: hb-deut-21-heifer-captive-son
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.77
+  - with: hb-gen-22-aqedah
+    why:
+    - similar 0.72
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - similar 0.71
+  chunk: 7
+- unit: quran-46-ahqaf-hud-and-the-jinn
+  candidates:
+  - with: hb-exod-31-bezalel-sabbath-tablets
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.78
+  - with: hb-jer-19-broken-flask
+    why:
+    - similar 0.77
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.77
+  chunk: 7
+- unit: quran-47-muhammad-battle-and-rivers
+  candidates:
+  - with: hb-job-20-zophar-portion-of-wicked
+    why:
+    - shares 2
+  - with: hb-num-13-spies
+    why:
+    - shares 1
+  - with: hb-lev-20-penalties
+    why:
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.80
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.79
+  - with: hb-ps-106-national-confession
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-47-muhammad-hypocrites
+  candidates:
+  - with: hb-deut-32-song-of-moses
+    why:
+    - hint
+  - with: hb-isa-6-throne-vision
+    why:
+    - shares 1
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.81
+  - with: hb-prov-24-words-of-wise
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-48-fath-clear-victory-and-pledge
+  candidates:
+  - with: hb-gen-14-war-of-kings-melchizedek
+    why:
+    - shares 1
+  - with: hb-deut-20-rules-of-war
+    why:
+    - shares 1
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.76
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.76
+  - with: hb-1kgs-22-micaiah
+    why:
+    - similar 0.76
+  chunk: 7
+- unit: quran-48-fath-tree-hudaybiya-and-seed
+  candidates:
+  - with: hb-gen-18-abraham-bargains
+    why:
+    - hint
+  - with: hb-ezek-9-mark-on-foreheads
+    why:
+    - hint
+  - with: hb-num-6-nazirite
+    why:
+    - shares 1
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - shares 1
+  - with: hb-gen-18-visitors-at-mamre
+    why:
+    - shares 1
+  - with: hb-ezek-6-mountains-of-israel
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-49-hujurat-etiquette-and-brotherhood
+  candidates:
+  - with: hb-dan-3-golden-image-furnace
+    why:
+    - hint
+  - with: hb-ps-27-my-light
+    why:
+    - hint
+  - with: hb-deut-13-enticers
+    why:
+    - hint
+  - with: hb-prov-26-sluggard-quarreler-hypocrite
+    why:
+    - shares 1
+  - with: hb-prov-18-sayings
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - shares 1
+  chunk: 7
+- unit: quran-50-qaf-resurrection-proofs-and-peoples
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - shares 1
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - similar 0.79
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - similar 0.79
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.78
+  chunk: 7
+- unit: quran-50-qaf-two-recorders-and-hell-asks-more
+  candidates:
+  - with: hb-isa-5-vineyard-and-woes
+    why:
+    - hint
+    - shares 1
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - hint
+  - with: hb-gen-1-creation-six-days
+    why:
+    - hint
+  - with: hb-exod-31-bezalel-sabbath-tablets
+    why:
+    - hint
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+    - similar 0.83
+  - with: hb-prov-30-numerical-sayings
+    why:
+    - shares 1
+  chunk: 7
+- unit: quran-51-dhariyat-oaths-and-the-righteous
+  candidates:
+  - with: hb-ps-104-creation-hymn
+    why:
+    - hint
+  - with: hb-ps-119-vav-kaf
+    why:
+    - shares 1
+  - with: hb-lev-23-festival-calendar
+    why:
+    - shares 1
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.76
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.76
+  chunk: 7
+- unit: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  candidates:
+  - with: hb-gen-18-abraham-bargains
+    why:
+    - hint
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 4
+  - with: hb-gen-18-visitors-at-mamre
+    why:
+    - shares 4
+  - with: hb-2kgs-4-shunammite
+    why:
+    - shares 2
+  - with: hb-ps-78-history
+    why:
+    - similar 0.84
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.83
+  chunk: 7
+- unit: quran-51-dhariyat-flee-to-god
+  candidates:
+  - with: hb-ps-50-divine-lawsuit
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - shares 1
+  - with: hb-jer-10-maker-of-all
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.83
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.82
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-52-tur-oaths-and-judgment
+  candidates:
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - hint
+  - with: hb-ezek-2-3-commission-eaten-scroll
+    why:
+    - hint
+  - with: hb-lev-25-sabbatical-and-jubilee
+    why:
+    - shares 1
+  - with: hb-dan-9-prayer-seventy-weeks
+    why:
+    - similar 0.65
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.65
+  - with: hb-joel-4-valley-of-jehoshaphat
+    why:
+    - similar 0.64
+  chunk: 7
+- unit: quran-52-tur-garden-and-challenge
+  candidates:
+  - with: hb-gen-28-jacobs-ladder
+    why:
+    - hint
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-mal-3-tithes
+    why:
+    - shares 1
+  - with: hb-jer-51-oracle-babylon-2
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.81
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-53-najm-vision-and-lote-tree
+  candidates:
+  - with: hb-ezek-1-chariot-throne
+    why:
+    - hint
+  - with: hb-prov-15-sayings
+    why:
+    - shares 1
+  - with: hb-prov-13-sayings
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-job-26-hymn-to-cosmic-power
+    why:
+    - similar 0.75
+  - with: hb-hab-3-prayer-theophany
+    why:
+    - similar 0.74
+  chunk: 7
+- unit: quran-53-najm-goddesses-and-scrolls
+  candidates:
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - hint
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - hint
+  - with: hb-exod-20-decalogue
+    why:
+    - hint
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+  - with: hb-jonah-3-nineveh-repents
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - shares 1
+  chunk: 7
+- unit: quran-54-qamar-moon-split-and-noah
+  candidates:
+  - with: hb-joel-3-spirit-poured
+    why:
+    - hint
+  - with: hb-mal-3-tithes
+    why:
+    - shares 1
+  - with: hb-judg-7-gideons-three-hundred
+    why:
+    - shares 1
+  - with: hb-judg-6-midian-prophet
+    why:
+    - shares 1
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.80
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-54-qamar-ad-thamud-lot-pharaoh
+  candidates:
+  - with: hb-gen-29-jacob-rachel-leah
+    why:
+    - hint
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 3
+  - with: hb-ps-11-flee-like-bird
+    why:
+    - shares 1
+  - with: hb-judg-19-levites-concubine
+    why:
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - similar 0.82
+  - with: hb-ps-78-history
+    why:
+    - similar 0.82
+  chunk: 7
+- unit: quran-55-rahman-creation-and-the-two-seas
+  candidates:
+  - with: hb-ps-136-great-hallel
+    why:
+    - hint
+  - with: hb-ps-104-creation-hymn
+    why:
+    - hint
+    - similar 0.83
+  - with: hb-ps-98-rivers-clap
+    why:
+    - shares 1
+  - with: hb-ps-96-new-song
+    why:
+    - shares 1
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - shares 1
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-55-rahman-judgment-and-the-four-gardens
+  candidates:
+  - with: hb-gen-6-sons-of-god
+    why:
+    - hint
+  - with: hb-deut-8-wilderness-lesson
+    why:
+    - shares 1
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.67
+  - with: hb-joel-4-valley-of-jehoshaphat
+    why:
+    - similar 0.66
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.65
+  chunk: 7
+- unit: quran-56-waqia-three-classes-and-the-garden
+  candidates:
+  - with: hb-dan-12-resurrection-end
+    why:
+    - hint
+  - with: hb-ezek-47-temple-river
+    why:
+    - hint
+  - with: hb-ps-75-cup
+    why:
+    - shares 2
+  - with: hb-ps-16-my-portion
+    why:
+    - shares 1
+  - with: hb-ps-107-four-rescues
+    why:
+    - shares 1
+  - with: hb-deut-28-blessings-curses
+    why:
+    - similar 0.74
+  chunk: 7
+- unit: quran-56-waqia-left-hand-and-proofs
+  candidates:
+  - with: hb-exod-15-marah-elim
+    why:
+    - shares 1
+  - with: hb-2kgs-6-floating-axe
+    why:
+    - shares 1
+  - with: hb-2kgs-2-elisha-first-miracles
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.78
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.74
+  - with: hb-ps-139-searched-and-known
+    why:
+    - similar 0.74
+  chunk: 7
+- unit: quran-57-hadid-first-and-last-and-the-loan
+  candidates:
+  - with: hb-prov-19-sayings
+    why:
+    - shares 1
+  - with: hb-jer-16-fishers-and-hunters
+    why:
+    - shares 1
+  - with: hb-isa-48-refined-in-affliction
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.84
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.84
+  - with: hb-ps-89-ethan-davidic-covenant
+    why:
+    - similar 0.83
+  chunk: 7
+- unit: quran-57-hadid-light-and-the-wall
+  candidates:
+  - with: hb-num-35-levitical-cities-refuge
+    why:
+    - shares 1
+  - with: hb-ezek-36-new-heart-new-spirit
+    why:
+    - shares 1
+  - with: hb-ezek-11-cauldron-new-heart
+    why:
+    - shares 1
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.78
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.77
+  - with: hb-mal-3-book-of-remembrance
+    why:
+    - similar 0.76
+  chunk: 7
+- unit: quran-57-hadid-iron-and-monasticism
+  candidates:
+  - with: hb-gen-4-cainites-lamech
+    why:
+    - hint
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - shares 1
+  - with: hb-isa-43-you-are-my-witnesses
+    why:
+    - similar 0.82
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.81
+  chunk: 7
+- unit: quran-58-mujadila-zihar-and-secret-counsel
+  candidates:
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - hint
+  - with: hb-exod-32-tablets-broken-levites
+    why:
+    - shares 2
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.81
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.80
+  chunk: 7
+- unit: quran-59-hashr-banu-nadir-and-fay
+  candidates:
+  - with: hb-deut-20-rules-of-war
+    why:
+    - hint
+  - with: hb-zech-8-zion-restored
+    why:
+    - shares 1
+  - with: hb-zech-7-fasting-question
+    why:
+    - shares 1
+  - with: hb-ps-146-trust-not-princes
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.85
+  - with: hb-jer-12-forsaken-heritage
+    why:
+    - similar 0.83
+  chunk: 7
+- unit: quran-59-hashr-hypocrites-and-the-names
+  candidates:
+  - with: hb-isa-6-throne-vision
+    why:
+    - hint
+  - with: hb-exod-34-thirteen-attributes-covenant-renewal
+    why:
+    - hint
+  - with: hb-judg-6-gideon-call
+    why:
+    - hint
+  - with: hb-isa-46-bel-nebo-carried
+    why:
+    - shares 1
+  - with: hb-exod-19-sinai-theophany
+    why:
+    - shares 1
+  - with: hb-1chr-17-dynastic-oracle
+    why:
+    - shares 1
+  chunk: 7
+- unit: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  candidates:
+  - with: hb-ezra-10-dismissal-of-foreign-wives
+    why:
+    - hint
+  - with: hb-exod-20-decalogue
+    why:
+    - shares 2
+    - similar 0.78
+  - with: hb-deut-5-decalogue
+    why:
+    - shares 2
+    - similar 0.76
+  - with: hb-zech-5-flying-scroll
+    why:
+    - shares 1
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - similar 0.76
+  chunk: 7
+- unit: quran-61-saff-ranks-moses-jesus-ahmad
+  candidates:
+  - with: hb-num-12-miriam-aaron
+    why:
+    - hint
+  - with: hb-ps-105-history
+    why:
+    - shares 1
+  - with: hb-exod-9-hail
+    why:
+    - shares 1
+  - with: hb-exod-8-plagues-flies-murrain-boils
+    why:
+    - shares 1
+  - with: hb-deut-31-joshua-torah-song
+    why:
+    - similar 0.83
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.83
+  chunk: 7
+- unit: quran-62-jumua-unlettered-donkey-and-friday
+  candidates:
+  - with: hb-gen-1-creation-six-days
+    why:
+    - hint
+  - with: hb-neh-13-nehemiahs-final-reforms
+    why:
+    - shares 1
+  - with: hb-amos-8-summer-fruit
+    why:
+    - shares 1
+    - similar 0.80
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.80
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.79
+  chunk: 7
+- unit: quran-63-munafiqun-propped-timbers
+  candidates:
+  - with: hb-jer-10-idols-scarecrows
+    why:
+    - hint
+  - with: hb-ps-135-hymn-of-election
+    why:
+    - shares 1
+  - with: hb-mal-3-tithes
+    why:
+    - shares 1
+  - with: hb-jer-7-queen-of-heaven
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.80
+  - with: hb-jer-31-consolation-new-covenant
+    why:
+    - similar 0.80
+  chunk: 8
+- unit: quran-64-taghabun-day-of-loss-and-household-enemies
+  candidates:
+  - with: hb-mic-7-lament-and-hope
+    why:
+    - hint
+    - shares 1
+  - with: hb-jer-16-fishers-and-hunters
+    why:
+    - shares 1
+  - with: hb-gen-9-noahide-covenant
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.81
+  - with: hb-ps-44-national-lament
+    why:
+    - similar 0.81
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.81
+  chunk: 8
+- unit: quran-65-talaq-divorce-and-seven-earths
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - shares 1
+  - with: hb-mal-2-faithless-marriage
+    why:
+    - shares 1
+    - similar 0.66
+  - with: hb-lev-5-graduated-and-guilt-offerings
+    why:
+    - shares 1
+  - with: hb-exod-20-decalogue
+    why:
+    - similar 0.68
+  - with: hb-jer-3-return-faithless-wife
+    why:
+    - similar 0.67
+  chunk: 8
+- unit: quran-66-tahrim-wives-and-the-four-women
+  candidates:
+  - with: hb-exod-6-name-and-levite-genealogy
+    why:
+    - hint
+  - with: hb-num-26-second-census
+    why:
+    - hint
+  - with: hb-prov-25-hezekiah-collection
+    why:
+    - shares 1
+  - with: hb-prov-20-sayings
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-jer-44-queen-of-heaven
+    why:
+    - similar 0.80
+  chunk: 8
+- unit: quran-67-mulk-heavens-lamps-and-hell
+  candidates:
+  - with: hb-ps-94-god-of-vengeance
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-145-ashrei
+    why:
+    - shares 1
+  - with: hb-judg-5-song-of-deborah
+    why:
+    - shares 1
+  - with: hb-isa-45-cyrus-the-anointed
+    why:
+    - similar 0.80
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.80
+  - with: hb-ps-18-storm-theophany
+    why:
+    - similar 0.79
+  chunk: 8
+- unit: quran-67-mulk-earth-birds-and-water
+  candidates:
+  - with: hb-ps-106-national-confession
+    why:
+    - shares 1
+  - with: hb-num-26-second-census
+    why:
+    - shares 1
+  - with: hb-num-16-korah
+    why:
+    - shares 1
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.77
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.77
+  - with: hb-job-12-ask-the-beasts
+    why:
+    - similar 0.77
+  chunk: 8
+- unit: quran-68-qalam-the-pen-and-the-slanderer
+  candidates:
+  - with: hb-ezek-9-mark-on-foreheads
+    why:
+    - hint
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - shares 1
+  - with: hb-isa-37-deliverance
+    why:
+    - shares 1
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - shares 1
+  - with: hb-ezek-33-watchman-and-fall-news
+    why:
+    - similar 0.77
+  - with: hb-ezek-21-sword-oracles
+    why:
+    - similar 0.76
+  chunk: 8
+- unit: quran-68-qalam-companions-of-the-garden
+  candidates:
+  - with: hb-deut-24-divorce-pledges-poor
+    why:
+    - hint
+    - shares 1
+  - with: hb-prov-27-sayings
+    why:
+    - shares 1
+  - with: hb-jonah-4-qiqayon
+    why:
+    - shares 1
+  - with: hb-joel-1-locust-plague
+    why:
+    - similar 0.66
+  - with: hb-job-24-oppression-of-poor
+    why:
+    - similar 0.65
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - similar 0.65
+  chunk: 8
+- unit: quran-68-qalam-shin-and-jonah
+  candidates:
+  - with: hb-prov-23-amenemope-sayings
+    why:
+    - hint
+  - with: hb-jonah-2-in-the-fish
+    why:
+    - shares 2
+  - with: hb-jonah-4-qiqayon
+    why:
+    - shares 1
+  - with: hb-jonah-3-nineveh-repents
+    why:
+    - shares 1
+  - with: hb-jer-15-confession-words-eaten
+    why:
+    - similar 0.86
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.85
+  chunk: 8
+- unit: quran-69-haqqa-destroyed-peoples-and-the-throne
+  candidates:
+  - with: hb-ezek-1-chariot-throne
+    why:
+    - hint
+  - with: hb-jonah-3-nineveh-repents
+    why:
+    - shares 1
+  - with: hb-jer-16-fishers-and-hunters
+    why:
+    - shares 1
+  - with: hb-gen-19-sodom-destroyed
+    why:
+    - shares 1
+  - with: hb-lam-2-god-as-enemy
+    why:
+    - similar 0.76
+  - with: hb-jer-49-ammon-edom-damascus-kedar-elam
+    why:
+    - similar 0.76
+  chunk: 8
+- unit: quran-69-haqqa-books-in-right-and-left-hands
+  candidates:
+  - with: hb-deut-18-levites-prophet
+    why:
+    - hint
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  - with: hb-ezek-21-sword-oracles
+    why:
+    - similar 0.77
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.77
+  chunk: 8
+- unit: quran-70-ascending-stairways
+  candidates:
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - hint
+    - shares 1
+  - with: hb-ps-49-no-ransom
+    why:
+    - hint
+    - shares 1
+  - with: hb-gen-28-jacobs-ladder
+    why:
+    - hint
+  - with: hb-ezek-18-sour-grapes
+    why:
+    - shares 1
+  - with: hb-eccl-8-king-and-retribution
+    why:
+    - similar 0.81
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.79
+  chunk: 8
+- unit: quran-71-noah
+  candidates:
+  - with: hb-job-10-why-did-you-make-me
+    why:
+    - shares 2
+  - with: hb-gen-6-flood
+    why:
+    - shares 2
+  - with: hb-ps-90-moses-thousand-years
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.84
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.84
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.82
+  chunk: 8
+- unit: quran-72-jinn
+  candidates:
+  - with: hb-ps-91-shelter-of-most-high
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - shares 1
+  - with: hb-dan-12-resurrection-end
+    why:
+    - shares 1
+  - with: hb-isa-63-communal-lament
+    why:
+    - similar 0.82
+  - with: hb-ps-17-apple-of-eye
+    why:
+    - similar 0.81
+  - with: hb-job-9-job-cannot-sue-god
+    why:
+    - similar 0.81
+  chunk: 8
+- unit: quran-73-enwrapped
+  candidates:
+  - with: hb-prov-19-sayings
+    why:
+    - hint
+  - with: hb-ps-119-vav-kaf
+    why:
+    - shares 1
+  - with: hb-jer-1-call
+    why:
+    - shares 1
+  - with: hb-isa-51-cup-of-staggering
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.83
+  - with: hb-ps-18-storm-theophany
+    why:
+    - similar 0.83
+  chunk: 8
+- unit: quran-74-cloaked
+  candidates:
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - shares 1
+    - similar 0.82
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - shares 1
+  - with: hb-obad-1-day-of-edom
+    why:
+    - shares 1
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.83
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.80
+  chunk: 8
+- unit: quran-75-resurrection
+  candidates:
+  - with: hb-ezek-37-dry-bones
+    why:
+    - hint
+  - with: hb-ezek-37-two-sticks
+    why:
+    - hint
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+  - with: hb-joel-4-valley-of-jehoshaphat
+    why:
+    - shares 1
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.80
+  chunk: 8
+- unit: quran-76-the-human
+  candidates:
+  - with: hb-ps-55-dove-wings
+    why:
+    - shares 1
+  - with: hb-ps-121-keeper-of-israel
+    why:
+    - shares 1
+  - with: hb-job-31-oath-of-innocence
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.76
+  - with: hb-deut-30-return-choose-life
+    why:
+    - similar 0.76
+  - with: hb-ps-103-bless-my-soul
+    why:
+    - similar 0.76
+  chunk: 8
+- unit: quran-77-sent-forth
+  candidates:
+  - with: hb-ps-136-great-hallel
+    why:
+    - hint
+  - with: hb-isa-5-vineyard-and-woes
+    why:
+    - hint
+  - with: hb-zech-6-four-chariots
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-isa-13-oracle-against-babylon
+    why:
+    - shares 1
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.79
+  chunk: 8
+- unit: quran-78-the-tiding
+  candidates:
+  - with: hb-ps-78-history
+    why:
+    - shares 1
+  - with: hb-ps-62-silence-scales
+    why:
+    - shares 1
+  - with: hb-ps-140-venom-of-vipers
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.85
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.83
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.83
+  chunk: 8
+- unit: quran-79-pharaoh-and-cosmos
+  candidates:
+  - with: hb-ezek-29-pharaoh-the-dragon
+    why:
+    - hint
+  - with: hb-ps-105-history
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - shares 1
+  - with: hb-ezek-38-gog-invasion
+    why:
+    - shares 1
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.85
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.84
+  chunk: 8
+- unit: quran-80-frowned
+  candidates:
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - shares 1
+  - with: hb-deut-8-wilderness-lesson
+    why:
+    - shares 1
+  - with: hb-dan-12-resurrection-end
+    why:
+    - shares 1
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.73
+  - with: hb-ps-102-afflicted
+    why:
+    - similar 0.73
+  - with: hb-deut-28-blessings-curses
+    why:
+    - similar 0.73
+  chunk: 8
+- unit: quran-81-folding-up
+  candidates:
+  - with: hb-isa-34-edom-and-lilith
+    why:
+    - hint
+    - shares 1
+  - with: hb-joel-3-spirit-poured
+    why:
+    - hint
+  - with: hb-joel-4-valley-of-jehoshaphat
+    why:
+    - shares 1
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - shares 1
+    - similar 0.77
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.79
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.77
+  chunk: 8
+- unit: quran-82-cleaving
+  candidates:
+  - with: hb-ps-139-searched-and-known
+    why:
+    - shares 1
+  - with: hb-ps-119-vav-kaf
+    why:
+    - shares 1
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - similar 0.73
+  - with: hb-dan-12-resurrection-end
+    why:
+    - similar 0.70
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.70
+  chunk: 8
+- unit: quran-83-defrauders
+  candidates:
+  - with: hb-ps-87-zion-birthplace
+    why:
+    - shares 1
+  - with: hb-ps-69-deep-waters
+    why:
+    - shares 1
+  - with: hb-ps-56-tears-in-bottle
+    why:
+    - shares 1
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.75
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.75
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.74
+  chunk: 8
+- unit: quran-84-splitting
+  candidates:
+  - with: hb-neh-8-ezra-reads-torah
+    why:
+    - hint
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.74
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.74
+  - with: hb-dan-12-resurrection-end
+    why:
+    - similar 0.73
+  chunk: 8
+- unit: quran-85-constellations
+  candidates:
+  - with: hb-dan-3-golden-image-furnace
+    why:
+    - hint
+    - shares 1
+  - with: hb-dan-3-4-tree-dream
+    why:
+    - hint
+  - with: hb-nah-1-avenging-god
+    why:
+    - similar 0.77
+  - with: hb-deut-4-exhortation
+    why:
+    - similar 0.76
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.75
+  chunk: 8
+- unit: quran-86-night-comer
+  candidates:
+  - with: hb-ps-44-national-lament
+    why:
+    - shares 1
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - shares 1
+    - similar 0.77
+  - with: hb-dan-12-resurrection-end
+    why:
+    - shares 1
+  - with: hb-ps-139-searched-and-known
+    why:
+    - similar 0.74
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.74
+  chunk: 8
+- unit: quran-87-most-high
+  candidates:
+  - with: hb-ps-7-oath-of-innocence
+    why:
+    - shares 1
+  - with: hb-ps-57-cave
+    why:
+    - shares 1
+  - with: hb-gen-14-war-of-kings-melchizedek
+    why:
+    - shares 1
+  - with: hb-isa-44-idol-from-half-a-log
+    why:
+    - similar 0.80
+  - with: hb-ps-104-creation-hymn
+    why:
+    - similar 0.79
+  - with: hb-jer-23-against-prophets
+    why:
+    - similar 0.78
+  chunk: 8
+- unit: quran-88-overwhelming
+  candidates:
+  - with: hb-esth-1-vashti-deposed
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - shares 1
+    - similar 0.75
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - similar 0.70
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.70
+  chunk: 8
+- unit: quran-89-dawn
+  candidates:
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - shares 1
+  - with: hb-obad-1-edom-brought-down
+    why:
+    - shares 1
+  - with: hb-judg-5-song-of-deborah
+    why:
+    - shares 1
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - similar 0.81
+  - with: hb-zeph-1-day-of-wrath
+    why:
+    - similar 0.80
+  - with: hb-ps-78-history
+    why:
+    - similar 0.80
+  chunk: 8
+- unit: quran-90-city
+  candidates:
+  - with: hb-deut-30-return-choose-life
+    why:
+    - hint
+  - with: hb-ps-1-two-ways
+    why:
+    - hint
+  - with: hb-jer-21-zedekiah-inquiry
+    why:
+    - shares 1
+  - with: hb-isa-58-true-fast
+    why:
+    - shares 1
+  - with: hb-gen-3-fall-expulsion
+    why:
+    - shares 1
+  - with: hb-job-22-eliphaz-accuses-job
+    why:
+    - similar 0.72
+  chunk: 8
+- unit: quran-91-sun
+  candidates:
+  - with: hb-isa-13-oracle-against-babylon
+    why:
+    - similar 0.73
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.73
+  - with: hb-isa-28-covenant-with-death
+    why:
+    - similar 0.73
+  chunk: 8
+- unit: quran-92-night
+  candidates:
+  - with: hb-ps-7-oath-of-innocence
+    why:
+    - shares 1
+  - with: hb-ps-57-cave
+    why:
+    - shares 1
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.78
+  - with: hb-eccl-8-king-and-retribution
+    why:
+    - similar 0.76
+  - with: hb-ps-147-counts-the-stars
+    why:
+    - similar 0.76
+  chunk: 8
+- unit: quran-93-94-forenoon-and-expansion
+  candidates:
+  - with: hb-exod-22-apodictic-and-social-laws
+    why:
+    - hint
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - shares 1
+  - with: hb-ps-10-why-far-off
+    why:
+    - shares 1
+  - with: hb-jer-49-ammon-edom-damascus-kedar-elam
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.78
+  - with: hb-isa-65-rebels-and-servants
+    why:
+    - similar 0.74
+  chunk: 8
+- unit: quran-95-fig
+  candidates:
+  - with: hb-deut-33-blessing-of-moses
+    why:
+    - hint
+  - with: hb-ps-76-salem
+    why:
+    - shares 1
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - shares 1
+  - with: hb-ps-58-unjust-gods
+    why:
+    - shares 1
+  - with: hb-ps-85-righteousness-and-peace
+    why:
+    - similar 0.72
+  - with: hb-ezek-20-history-of-rebellion
+    why:
+    - similar 0.71
+  chunk: 8
+- unit: quran-96-clot
+  candidates:
+  - with: hb-ezek-2-3-commission-eaten-scroll
+    why:
+    - hint
+    - shares 1
+  - with: hb-isa-40-comfort-my-people
+    why:
+    - hint
+  - with: hb-isa-29-ariel-and-sealed-book
+    why:
+    - hint
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    why:
+    - similar 0.75
+  - with: hb-deut-18-levites-prophet
+    why:
+    - similar 0.75
+  - with: hb-job-34-elihu-defends-gods-justice
+    why:
+    - similar 0.74
+  chunk: 8
+- unit: quran-97-night-of-decree
+  candidates:
+  - with: hb-dan-9-prayer-seventy-weeks
+    why:
+    - similar 0.62
+  - with: hb-ps-112-acrostic-righteous-man
+    why:
+    - similar 0.60
+  - with: hb-2sam-23-last-words-of-david
+    why:
+    - similar 0.58
+  chunk: 8
+- unit: quran-98-clear-proof
+  candidates:
+  - with: hb-neh-9-levites-confession
+    why:
+    - similar 0.71
+  - with: hb-ps-78-history
+    why:
+    - similar 0.70
+  - with: hb-exod-24-covenant-ratification
+    why:
+    - similar 0.70
+  chunk: 8
+- unit: quran-99-earthquake
+  candidates:
+  - with: hb-isa-26-song-and-resurrection
+    why:
+    - hint
+  - with: hb-gen-4-cain-abel
+    why:
+    - hint
+  - with: hb-ezek-38-gog-invasion
+    why:
+    - shares 1
+  - with: hb-deut-8-wilderness-lesson
+    why:
+    - shares 1
+  - with: hb-deut-4-exhortation
+    why:
+    - shares 1
+  - with: hb-job-38-whirlwind-creation
+    why:
+    - similar 0.71
+  chunk: 8
+- unit: quran-100-chargers
+  candidates:
+  - with: hb-judg-5-song-of-deborah
+    why:
+    - hint
+    - shares 1
+  - with: hb-job-38-whirlwind-animals
+    why:
+    - hint
+  - with: hb-ps-44-national-lament
+    why:
+    - shares 1
+  - with: hb-joel-2-army-and-repentance
+    why:
+    - similar 0.73
+  - with: hb-isa-30-rahab-who-sits-still
+    why:
+    - similar 0.73
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - similar 0.71
+  chunk: 8
+- unit: quran-101-striking
+  candidates:
+  - with: hb-dan-5-writing-on-wall
+    why:
+    - hint
+    - shares 1
+  - with: hb-amos-8-summer-fruit
+    why:
+    - similar 0.63
+  - with: hb-job-6-job-answers-friends
+    why:
+    - similar 0.59
+  - with: hb-ps-144-trains-my-hands
+    why:
+    - similar 0.58
+  chunk: 8
+- unit: quran-102-104-rivalry-time-slanderer
+  candidates:
+  - with: hb-lev-19-holiness-code-a
+    why:
+    - shares 1
+  - with: hb-eccl-5-wealth-and-oppression
+    why:
+    - shares 1
+  - with: hb-hab-2-watchtower-and-woes
+    why:
+    - similar 0.72
+  - with: hb-prov-24-words-of-wise
+    why:
+    - similar 0.71
+  - with: hb-prov-21-sayings
+    why:
+    - similar 0.71
+  chunk: 8
+- unit: quran-105-elephant
+  candidates:
+  - with: hb-ps-35-contend-o-lord
+    why:
+    - shares 1
+  - with: hb-ps-1-two-ways
+    why:
+    - shares 1
+  - with: hb-josh-10-sun-stands-still
+    why:
+    - shares 1
+  - with: hb-ps-78-history
+    why:
+    - similar 0.80
+  - with: hb-deut-32-song-of-moses
+    why:
+    - similar 0.80
+  - with: hb-ps-68-rider-of-clouds
+    why:
+    - similar 0.79
+  chunk: 8
+- unit: quran-106-108-quraysh-kindness-kawthar
+  candidates:
+  - with: hb-isa-1-indictment-of-judah
+    why:
+    - hint
+    - shares 1
+  - with: hb-amos-5-lament-day-of-yhwh
+    why:
+    - hint
+  - with: hb-jer-33-branch-and-cosmic-covenant
+    why:
+    - similar 0.73
+  - with: hb-1kgs-18-carmel
+    why:
+    - similar 0.72
+  - with: hb-josh-24-shechem-covenant
+    why:
+    - similar 0.72
+  chunk: 8
+- unit: quran-109-111-disbelievers-help-flame
+  candidates:
+  - with: hb-prov-11-sayings
+    why:
+    - shares 1
+  - with: hb-1sam-25-nabal-abigail
+    why:
+    - shares 1
+  - with: hb-job-1-prologue-first-test
+    why:
+    - similar 0.71
+  - with: hb-zech-13-fountain-and-shepherd
+    why:
+    - similar 0.70
+  - with: hb-ezek-3-watchman-and-muteness
+    why:
+    - similar 0.70
+  chunk: 8
+- unit: quran-112-114-unity-and-refuge
+  candidates:
+  - with: hb-ps-91-shelter-of-most-high
+    why:
+    - hint
+    - shares 2
+    - similar 0.81
+  - with: hb-ezek-13-false-prophets-and-prophetesses
+    why:
+    - hint
+  - with: hb-deut-6-shema
+    why:
+    - hint
+  - with: hb-zech-14-day-on-mount-of-olives
+    why:
+    - shares 1
+  - with: hb-ps-121-keeper-of-israel
+    why:
+    - shares 1
+  - with: hb-nah-1-avenging-god
+    why:
+    - similar 0.81
+  chunk: 8

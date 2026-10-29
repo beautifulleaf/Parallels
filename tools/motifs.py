@@ -9,6 +9,9 @@ across units (log N/df), so a shared rare motif counts for more than a shared
 common one. Pairs of units from different traditions are ranked by the summed
 weight of their shared motifs.
 
+Side-by-side comparisons in data/alignments/ add confirmed shared tags to both
+units of a pair (see data/alignments/README.md).
+
 Writes results/motifs/pairs.json and results/motifs/REPORT.md, checks
 data/benchmarks/motifs.yaml, and with --write-leads creates or refreshes
 pipeline leads in leads/.
@@ -61,6 +64,7 @@ def load(strict=True):
         for u in doc.get("units") or []:
             u["file"] = rel
             units.append(u)
+    load_alignments(vocab, units)
     # merged ids (data/motif-aliases.yaml): tags resolve to the canonical id
     alias_path = DATA / "motif-aliases.yaml"
     aliases = (yaml.safe_load(alias_path.read_text(encoding="utf-8")) or {}).get("aliases", {}) if alias_path.exists() else {}
@@ -75,8 +79,53 @@ def load(strict=True):
     return vocab, units
 
 
+CONFIRMED = {}       # frozenset({unit a, unit b}) -> match details, from data/alignments/
+ALIGN_ERRORS = []
+
+
+def load_alignments(vocab, units):
+    """Side-by-side comparison files (data/alignments/<pair>/*.yaml, see its README).
+    Each confirmed match adds one shared tag to both units, citing each unit's own
+    verses, so the ordinary motif matching sees it; the pair is also recorded as
+    confirmed, which makes it a lead even on a single shared motif."""
+    CONFIRMED.clear()
+    ALIGN_ERRORS.clear()
+    by_id = {u["id"]: u for u in units}
+    for path in sorted((DATA / "alignments").rglob("[0-9]*.yaml")):
+        rel = str(path.relative_to(DATA))
+        try:
+            doc = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        except yaml.YAMLError as e:
+            ALIGN_ERRORS.append(f"{rel}: unreadable ({e.__class__.__name__})")
+            continue
+        for mid, m in (doc.get("new_motifs") or {}).items():
+            if mid in vocab and vocab[mid]["label"] != m["label"]:
+                vocab[mid].setdefault("label_variants", []).append({"label": m["label"], "file": rel})
+                continue
+            vocab.setdefault(mid, {**m, "proposed_in": rel})
+        for r in doc.get("reviewed") or []:
+            for x in r.get("matches") or []:
+                a, b = by_id.get(r.get("unit")), by_id.get(x.get("with"))
+                if a is None or b is None:
+                    ALIGN_ERRORS.append(f"{rel}: unknown unit {r.get('unit') if a is None else x.get('with')}")
+                    continue
+                for u, refs in ((a, x.get("refs") or []), (b, x.get("with_refs") or [])):
+                    if not refs:
+                        ALIGN_ERRORS.append(f"{rel}: {r['unit']} ~ {x['with']}: {x.get('motif')} needs refs on both sides")
+                    t = next((t for t in u["tags"] if t["motif"] == x.get("motif")), None)
+                    if t is None:
+                        u["tags"].append({"motif": x.get("motif"), "refs": list(refs), "via": rel,
+                                          **({"note": x["note"]} if x.get("note") else {})})
+                    else:
+                        t["refs"] = list(dict.fromkeys(t["refs"] + list(refs)))
+                c = CONFIRMED.setdefault(frozenset((a["id"], b["id"])), {"file": rel, "relations": set(), "notes": []})
+                c["relations"].add(x.get("relation") or "parallel")
+                if x.get("note"):
+                    c["notes"].append(x["note"])
+
+
 def validate(vocab, units, quran_text, hebrew_text):
-    errors, seen = [], set()
+    errors, seen = list(ALIGN_ERRORS), set()
     tradition_ids = {t["id"] for t in yaml.safe_load((DATA / "traditions.yaml").read_text(encoding="utf-8"))["traditions"]}
     for u in units:
         where = f"{u['file']}:{u.get('id')}"
@@ -154,9 +203,11 @@ def pairs(units, w, df, keys=None):
             shared = sorted(set(ma) & set(mb), key=lambda m: -w[m])
             # one shared motif is enough when no other unit has it: obscure links are often a single detail
             unique = len(shared) == 1 and df[shared[0]] == 2
-            if len(shared) < MIN_SHARED and not unique:
+            confirmed = frozenset((a["id"], b["id"])) in CONFIRMED
+            if len(shared) < MIN_SHARED and not unique and not confirmed:
                 continue
-            out.append(dict(a=a["id"], b=b["id"], internal=bool(internal_pair(a, b)), score=round(sum(w[m] for m in shared), 3),
+            out.append(dict(a=a["id"], b=b["id"], internal=bool(internal_pair(a, b)), confirmed=confirmed,
+                            score=round(sum(w[m] for m in shared), 3),
                             shared=shared, only_a=sorted(set(ma) - set(mb)), only_b=sorted(set(mb) - set(ma))))
     return sorted(out, key=lambda p: -p["score"])
 
@@ -228,7 +279,7 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
     for p in ps:
         if any(p["a"] in g and p["b"] in g for g in groups):
             continue
-        if not any(w[m] >= 1.5 for m in p["shared"]):   # needs at least one fairly rare motif
+        if not p.get("confirmed") and not any(w[m] >= 1.5 for m in p["shared"]):   # needs at least one fairly rare motif
             continue
         a, b = by_id[p["a"]], by_id[p["b"]]
         if p["internal"]:
@@ -255,6 +306,12 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
             if only and a.get("original") and b.get("original"):
                 evidence.append({"text": f"Only in {u['title']}: " + "; ".join(vocab[m]["label"] for m in only) + ".",
                                  "basis": "reading"})
+        conf = CONFIRMED.get(frozenset((a["id"], b["id"])))
+        if conf:
+            evidence.insert(0, {"text": f"Confirmed by a side-by-side reading of both originals ({conf['file']}): "
+                                        + ", ".join(sorted(conf["relations"])) + "."
+                                        + ("".join(f" {n}" if n.endswith(".") else f" {n}." for n in conf["notes"][:6])),
+                                "basis": "reading"})
         for u in (a, b):
             evidence.append({"text": f"{u['title']}: tagged by {u['tagger']}.",
                              "basis": "reading" if u.get("original") else "scholarship"})
@@ -265,7 +322,11 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
             "summary": f"These two units share {len(p['shared'])} motifs: "
                        + ", ".join(vocab[m]["label"].lower() for m in p["shared"][:4])
                        + ("…" if len(p["shared"]) > 4 else "") + ".",
-            "status": "new", "relations": ["internal"] if p["internal"] else ["transmission", "convergence"],
+            "status": "new",
+            "relations": (["internal"] if p["internal"] else
+                          sorted({"response" if r in ("divergence", "response", "contrast") else "convergence" for r in conf["relations"]}
+                                 | ({"transmission"} if "parallel" in conf["relations"] else set())) if conf else
+                          ["transmission", "convergence"]),
             "standing": "proposed",
             "traditions": traditions, "layers": ["motif"], "motifs": p["shared"],
             "passages": passages, "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
