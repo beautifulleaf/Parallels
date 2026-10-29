@@ -233,6 +233,27 @@ new_motifs:
   belly-bloated-made-obedient: {label: "Saying: a feeding belly that becomes bloated is lamentable, a belly made obedient by the prince", cluster: wisdom}
   adulterer-shunned-and-punished: {label: "Portrait of the man who slept with another man's wife: no one walks with him, life passes him by, no just man holds him dear, he is thrown away like a worthless coin and clothed as if under heavy punishment", cluster: wisdom}
   liar-destroys-righteous-mans-house: {label: "Saying: the dishonest man cannot build his own house but works on another's; a house built by a righteous man is destroyed by a liar", cluster: wisdom}
+  life-better-than-death-despite-bad-days: {label: "Saying: although the unhappy days are without number, life is better than death", cluster: wisdom}
+  plague-city-entered-only-by-force: {label: "Saying: into a plague-stricken city one has to be driven like a pack-ass", cluster: wisdom}
+  palace-slippery-place: {label: "Saying: the palace is a slippery place where one slips; watch your step when you decide to go home", cluster: kingship}
+  kings-wealth-income-never-fills: {label: "Saying: what flows in never fills it and what flows out never stops: do not covet the king's property", cluster: wisdom}
+  boat-inspection-abomination-to-suen: {label: "Saying: when a boat sailing downstream meets one sailing upstream, demanding an inspection (or touching what is covered) is an abomination to Suen", cluster: wisdom}
+  fear-of-god-begets-good-fortune: {label: "Saying: fear of god (ni2 teĝ3-ĝe26) begets good fortune, lamentation (er2) absolves sin, offerings extend life", cluster: theology}
+  curse-not-returned-with-curse: {label: "Saying: I did not answer the curse uttered against me with a curse, for a curse answered is answered by another curse", cluster: wisdom}
+  utu-finds-harbour-for-trustworthy-boat: {label: "Saying: when a trustworthy boat sets sail, Utu seeks out a trustworthy harbour for it", cluster: theology}
+  refusing-to-speak-abomination: {label: "Saying: refusing to speak (nu-dug4-ga) is an abomination to Ninurta", cluster: wisdom}
+  removing-thing-from-its-place-abomination: {label: "Saying: removing something from its place (ki-ta kur2) is an abomination to Ninurta", cluster: law}
+  loved-one-does-not-love-back: {label: "Saying: I am not dear to the one I hold dear; he profited from me and filled my hands with dust", cluster: wisdom}
+  farmer-did-not-plough-in-winter: {label: "Saying: he did not plough the field in the cool season, and at harvest time he turned to carding wool", cluster: wisdom}
+  farmer-should-not-widen-field: {label: "Saying: a farmer should not widen his field; a god should not increase the food demands of mankind", cluster: wisdom}
+  rich-mans-heart-sick: {label: "Saying: the rich man's heart is sick, the man with a troubled (over-full) heart is very sick", cluster: wisdom}
+  light-burden-can-dance: {label: "Saying: he who carries a light burden can dance", cluster: wisdom}
+  cities-do-not-greet-men-do: {label: "Saying: one city does not greet another, but one man greets another", cluster: wisdom}
+  city-name-changes-my-name-stands: {label: "Saying: the city may change its name, but let my name stand", cluster: wisdom}
+  mongoose-knows-no-fear-of-god: {label: "Saying: the mongoose does not know fear of god", cluster: wisdom}
+  godless-man-unburied-no-libation: {label: "Saying: if a man does not treasure his god, he will not be buried, and his heir will not pour water libations for him", cluster: underworld}
+  man-finds-woman-loses: {label: "Saying: when a man walks about he finds something; when a woman walks about she loses something", cluster: wisdom}
+  palace-is-forest-king-lion: {label: "Saying: the palace is a forest; the king, a lion, subdues men with a great net like the goddess Nungal", cluster: kingship}
 units:
   - id: ane-etcsl-6-1-03-a-outcast-son-and-time
     tradition: ane-sumerian
@@ -1212,3 +1233,117 @@ units:
       - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.24 24.11"], note: "not printed: ETCSL edits it as 5.6.9 The fowler and his wife"}
     hints:
       - "Compare 6.1.19; the doublets show these collections were copied as fixed sequences in the school curriculum."
+  - id: ane-etcsl-6-1-25-drought-nanni-palace
+    tradition: ane-sumerian
+    title: "Proverbs collection 25: the drought, the en priest's diet, Unug cursed, Nanni, life better than death, the palace, the king's wealth, the abomination to Suen"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.25"]
+    tags:
+      - {motif: drought-cloudy-day-no-rain, refs: ["ETCSL 6.1.25 25.1"], note: "ud šu2-uš-ru im nu-šeĝ3-ĝe26 ... peš10 im al-šeĝ3-ĝe26 bar-rim4-ma im nu-ba-e"}
+      - {motif: rain-on-banks-not-dry-land, refs: ["ETCSL 6.1.25 25.1:4"]}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.25 25.3", "ETCSL 6.1.25 25.4"], note: "An cursing Unug and cursed by Inana; Nanni"}
+      - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.1.25 25.4"], note: "fully preserved here: e2 {d}en-lil2-la2 i-du3 nu-til3 ... e2-an-na i-du3 mu-un-šub ... nam-lugal-la kalag-ga nu-mu-un-na-an-šum2 / ur5 na-an-ni šag4 sig-ga kur-še3 la-ba-an-de6"}
+      - {motif: life-better-than-death-despite-bad-days, refs: ["ETCSL 6.1.25 25.5"], note: "ud nu-dug3-ga šid-bi [nu]-til3 / nam-til3 nam-uš2-a dirig"}
+      - {motif: living-dog-better-than-dead-lion, refs: ["ETCSL 6.1.25 25.5"]}
+      - {motif: plague-city-entered-only-by-force, refs: ["ETCSL 6.1.25 25.6"], note: "restored: [iri nam-uš2 ĝal2]-la-še3 [anše-bal-a-gin7 ḫe2-ni]-ib2-sar-re"}
+      - {motif: liar-destroys-righteous-mans-house, refs: ["ETCSL 6.1.25 25.7"], note: "e2 lu2 zid-da mu-un-du3-a / lu2-lul-la mu-un-gul"}
+      - {motif: palace-slippery-place, refs: ["ETCSL 6.1.25 25.8"], note: "e2-gal ki-ma-an-ze-er ma-an-ze2-ra / e2-še3 ga-ĝen-na ĝiri3-zu en-nu-uĝ3 ak-ab"}
+      - {motif: palace-sayings, refs: ["ETCSL 6.1.25 25.9", "ETCSL 6.1.25 25.10", "ETCSL 6.1.25 25.11"]}
+      - {motif: palace-falls-of-itself, refs: ["ETCSL 6.1.25 25.9"]}
+      - {motif: kings-wealth-income-never-fills, refs: ["ETCSL 6.1.25 25.12"], note: "an-ku4-ku4 nu-si-si / ib2-ta-e3 nu-silig-ge / niĝ2-gur11 lugal-la-ke4 / igi-zu na-an-il2-en"}
+      - {motif: cyclical-cosmos-sun-wind-rivers, refs: ["ETCSL 6.1.25 25.12"], note: "the inflow that never fills"}
+      - {motif: boat-inspection-abomination-to-suen, refs: ["ETCSL 6.1.25 25.13"], note: "niĝ2 kab2 di-de3 niĝ2-gig {d}suen-na-kam"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.25 25.13"]}
+    hints:
+      - "Life better than death despite evil days: compare Eccl 9:4-6 and contrast Eccl 4:2-3, Job 3."
+      - "What flows in never fills: compare Eccl 1:7-8, 5:9 and Prov 27:20."
+      - "The palace a slippery place: compare Ps 73:18 and Prov 25:6-7."
+      - "Nanni's unfinished works and death: compare Eccl 2:18-21."
+  - id: ane-etcsl-6-1-26-abominations-and-fear-of-god
+    tradition: ane-sumerian
+    title: "Proverbs collection 26: the palace, the abominations to Ninurta, Utu and Suen, fear of god and offerings, the curse not returned, the farmer, the unloving beloved"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.26"]
+    tags:
+      - {motif: palace-falls-of-itself, refs: ["ETCSL 6.1.26 A.26.a2"]}
+      - {motif: kings-wealth-income-never-fills, refs: ["ETCSL 6.1.26 A.26.a3"]}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.26 A.26.a4", "ETCSL 6.1.26 A.26.a5", "ETCSL 6.1.26 A.26.a6", "ETCSL 6.1.26 A.26.a7", "ETCSL 6.1.26 A.26.a8", "ETCSL 6.1.26 A.26.a9", "ETCSL 6.1.26 A.26.a10"], note: "a run of niĝ2-gig sayings: Ninurta (violent cursing, driving a son from his father's house, revenge, refusing to speak, removing a thing from its place), Utu (spitting without covering it, kissing at midday, false witness), Suen (the boat inspection)"}
+      - {motif: abomination-to-yhwh-saying, refs: ["ETCSL 6.1.26 A.26.a4", "ETCSL 6.1.26 A.26.a8"]}
+      - {motif: younger-son-driven-out-abomination, refs: ["ETCSL 6.1.26 A.26.a4"], note: "aš2 a2 zig3-ga bal-e ... dumu-nitaḫ e2 ad-da-[na-ta] sar-ra niĝ2-gig {d}nin-urta-[ke4]"}
+      - {motif: revenge-belongs-to-ninurta, refs: ["ETCSL 6.1.26 A.26.a6"], note: "šu gi4-gi4 niĝ2-gig {d}nin-urta-ke4"}
+      - {motif: refusing-to-speak-abomination, refs: ["ETCSL 6.1.26 A.26.a7"], note: "nu-dug4-ga niĝ2-gig {d}nin-urta-ke4"}
+      - {motif: liar-false-witness-abomination, refs: ["ETCSL 6.1.26 A.26.a8"], note: "here an abomination to Utu, not Suen"}
+      - {motif: removing-thing-from-its-place-abomination, refs: ["ETCSL 6.1.26 A.26.a9"], note: "ki-ta kur2 niĝ2-gig {d}nin-urta-ke4"}
+      - {motif: do-not-move-boundary-stone, refs: ["ETCSL 6.1.26 A.26.a9"], note: "interpretive"}
+      - {motif: boat-inspection-abomination-to-suen, refs: ["ETCSL 6.1.26 A.26.a10"]}
+      - {motif: utu-finds-harbour-for-trustworthy-boat, refs: ["ETCSL 6.1.26 A.26.a11"], note: "{ĝiš}ma2 niĝ2-gen6-na ni2 ba-ab-dirig {d}utu kar gen6-na mu-un-na-ši-kiĝ2-kiĝ2"}
+      - {motif: fear-of-god-begets-good-fortune, refs: ["ETCSL 6.1.26 A.26.a12"], note: "ni2 teĝ3-ĝe26 nam-sag9-ga in-tu-ud / er2 nam-tag al-du8-am3 / sizkur nam-til3 ba-ab-taḫ-e"}
+      - {motif: offerings-create-life, refs: ["ETCSL 6.1.26 A.26.a12:40"]}
+      - {motif: curse-not-returned-with-curse, refs: ["ETCSL 6.1.26 A.26.a13"], note: "aš2 dug4-ga-ĝu10 aš2 nu-mu-un-[gi] / [aš2]-e gi-a-ĝu10 aš2 mu-un-gi"}
+      - {motif: herdsman-must-be-tough, refs: ["ETCSL 6.1.26 B.26.b3"]}
+      - {motif: oil-in-sceptre-unseen, refs: ["ETCSL 6.1.26 B.26.b4"]}
+      - {motif: king-gives-shepherd-cupbearer-says-do-well, refs: ["ETCSL 6.1.26 B.26.b5", "ETCSL 6.1.26 B.26.b6"]}
+      - {motif: loved-one-does-not-love-back, refs: ["ETCSL 6.1.26 C.26.c6", "ETCSL 6.1.26 C.26.c7"], note: "lu2 kal-la-ĝu10 la-ba-an-na-kal-e ... e-ne-še3 saḫar šu-ĝu10 bi2-in-si"}
+      - {motif: fate-is-a-biting-dog, refs: ["ETCSL 6.1.26 C.26.c10"], note: "nam-tar-ĝu10 ga-am3-dug4 [in-na-am3] 'let me tell my fate: it is abuse'"}
+      - {motif: farmer-did-not-plough-in-winter, refs: ["ETCSL 6.1.26 D.26.d4"], note: "en-te-en-na-ka a-šag4 nu-ur11-ru / ud buru14-a-ka šu-ni ga-rig2 an-du3-du3-e"}
+      - {motif: sluggard-does-not-plow-in-winter, refs: ["ETCSL 6.1.26 D.26.d4"]}
+      - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.26 D.26.d3"]}
+      - {motif: farmer-should-not-widen-field, refs: ["ETCSL 6.1.26 D.26.d13"], note: "engar-e a-šag4 na-ab-daĝal-la / diĝir lu2-u18-lu šag4-gal-la-ni nam-ba-ab-taḫ-e"}
+      - {motif: looks-far-not-at-self, refs: ["ETCSL 6.1.26 D.26.d15"]}
+    hints:
+      - "Fear of god begets good fortune: compare Prov 10:27, 14:26-27, 19:23, 22:4 and Q 65:2-3."
+      - "Not answering a curse with a curse: compare Prov 20:22, 24:29, Rom 12:14 and 1Pet 3:9; Q 41:34."
+      - "The farmer who did not plough in the cold season: compare Prov 20:4 and 6:6-11."
+      - "Removing a thing from its place: compare Deut 19:14, 27:17 and Prov 22:28."
+      - "Revenge an abomination: compare Lev 19:18."
+  - id: ane-etcsl-6-1-27-rich-heart-light-burden
+    tradition: ane-sumerian
+    title: "Proverbs collection 27: the rich man's sick heart, the light burden, eating and vomiting, cities and men greeting"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.27"]
+    tags:
+      - {motif: rich-mans-heart-sick, refs: ["ETCSL 6.1.27 B.27.b1", "ETCSL 6.1.27 B.27.b7"], note: "šag4 niĝ2-tuku tur5-ra-am3 / šag4 dirig tur5-ra-am3; šag4 dirig-ga šag4 a-ab-gig"}
+      - {motif: light-burden-can-dance, refs: ["ETCSL 6.1.27 B.27.b3"], note: "gu2-un sig gu2 i3-il2-la i3-gu4-ud-gu4-ud-dam"}
+      - {motif: dog-returns-to-vomit, refs: ["ETCSL 6.1.27 B.27.b6"], note: "loosely: gu7-u3-de3 al-dug3 gur-ru-da-bi al-gig 'to eat is good, when it comes up again it is bad'"}
+      - {motif: cities-do-not-greet-men-do, refs: ["ETCSL 6.1.27 B.27.b9"], note: "iri iri silim nu-ub-dug4 lu2 lu2-a silim ab-be2"}
+      - {motif: flees-from-own-past, refs: ["ETCSL 6.1.27 B.27.b10"], note: "he fled for (miles) but came back after half a mile"}
+      - {motif: thief-sayings, refs: ["ETCSL 6.1.27 A.27.a2"], note: "only lu2-zuḫ 'thief' survives"}
+    hints:
+      - "The rich man's sick heart: compare Eccl 5:11-16 and Prov 15:16."
+      - "A light burden: compare Matt 11:30."
+  - id: ane-etcsl-6-1-28-name-burial-palace
+    tradition: ane-sumerian
+    title: "Proverbs collection 28: the club and the name, the city's name and mine, the mongoose without fear of god, the godless man unburied, man finds and woman loses, the palace a forest"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.28"]
+    tags:
+      - {motif: weapon-finds-flesh-not-name, refs: ["ETCSL 6.1.28 A.28.1"]}
+      - {motif: city-name-changes-my-name-stands, refs: ["ETCSL 6.1.28 A.28.2"], note: "iri mu ḫu-mu-kur2-kur2 mu-ĝu10 ḫu-mu-gen6-na"}
+      - {motif: mongoose-knows-no-fear-of-god, refs: ["ETCSL 6.1.28 A.28.3"], note: "{d}nin-kilim ni2 diĝir-ra nu-zu"}
+      - {motif: accept-your-lot-make-mother-happy, refs: ["ETCSL 6.1.28 A.28.4"]}
+      - {motif: flies-enter-open-mouth, refs: ["ETCSL 6.1.28 A.28.5", "ETCSL 6.1.28 A.28.6"], note: "nim kur9-ra-am3 ka-zu ba-nim-am3"}
+      - {motif: herdsman-must-be-tough, refs: ["ETCSL 6.1.28 A.28.7"]}
+      - {motif: oil-in-sceptre-unseen, refs: ["ETCSL 6.1.28 A.28.8"]}
+      - {motif: godless-man-unburied-no-libation, refs: ["ETCSL 6.1.28 A.28.9"], note: "lu2 diĝir-ra-a-ni nu-mu-un-kal-kal lu2-bi ki nu-tum3 / ibila-a-ni a nu-de2"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 6.1.28 A.28.9"]}
+      - {motif: burial-of-a-donkey, refs: ["ETCSL 6.1.28 A.28.9"], note: "the man without burial"}
+      - {motif: malicious-wife-worst-affliction, refs: ["ETCSL 6.1.28 B.28.17"], note: "dam nu-ĝar-ra tu-[ku-a-ĝu10-ne]"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.28 B.28.20"], note: "the act is broken (a tureen ... dust); niĝ2-gig {d}utu-kam"}
+      - {motif: man-finds-woman-loses, refs: ["ETCSL 6.1.28 B.28.21"], note: "nitaḫ du-du niĝ2 pad3-da / munus du-du niĝ2 ugu bi2-ib-de2"}
+      - {motif: palace-is-forest-king-lion, refs: ["ETCSL 6.1.28 B.28.24"], note: "e2-gal {ĝiš}tir-ra-am3 / lugal ur-maḫ-e {d}nun-gal {ĝiš}sa-uš-gal ĝuruš-e gam-gam"}
+      - {motif: slave-girl-feasts-when-mistress-away, refs: ["ETCSL 6.1.28 B.28.25"]}
+      - {motif: no-grain-sign-of-gods-vengeance, refs: ["ETCSL 6.1.28 B.28.26"]}
+      - {motif: trades-characterised-by-their-sayings, refs: ["ETCSL 6.1.28 B.28.27"]}
+      - {motif: servant-cools-soup-bones-fish, refs: ["ETCSL 6.1.28 B.28.28"]}
+    hints:
+      - "The godless man unburied, without libation from his heir: compare Jer 22:18-19, 36:30, Eccl 6:3 and Isa 14:19-20."
+      - "Let my name stand: compare 2Sam 18:18 (Absalom's pillar), Ps 49:12 and Isa 56:5."
+      - "The king as a lion in the palace: compare Prov 19:12, 20:2 and 28:15."
