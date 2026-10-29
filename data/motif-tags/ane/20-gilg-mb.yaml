@@ -433,7 +433,6 @@ units:
       - {motif: hero-mocks-companions-fear, refs: ["Gilg NA y:3'", "Gilg NA y:4'a", "Gilg NA y:7'b", "Gilg NA y:9'"], note: "lullika ina pān[īka]; u attā enkīdi ak[ī pasniqi taqabbi] 'you speak like a weakling'"}
       - {motif: mortality-motivates-quest-for-fame, refs: ["Gilg NA y:4'b", "Gilg NA y:5'"], note: "šumma amdaqut šuma l[ū ušzīz] ... itti hubbebe dapīni tuqumta iškun"}
       - {motif: make-a-name-for-ourselves, refs: ["Gilg NA y:4'b"]}
-      - {motif: hero-kills-lion-barehanded, refs: ["Gilg NA y:8'"], note: "loose fit: [išhiṭkā-ma labbu] 'a lion attacked you' — Enkidu's experience of the wild (restored)"}
     hints:
       - "Man's days numbered and life a shadow compare Ps 39:5-7, Ps 144:4, Job 14:5 and 1 Chr 29:15. Parallels Gilg OB III:140-160 and SB II-III."
   - id: ane-gilg-na-y-advisers-resolve
@@ -490,11 +489,11 @@ units:
       - {motif: crowd-compares-newcomer-to-king, refs: ["Gilg OB II:77", "Gilg OB II:80", "Gilg OB II:81–82"]}
       - {motif: wild-man-suckled-by-beasts, refs: ["Gilg OB II:83–84", "Gilg OB II:85–86"]}
       - {motif: first-bread-and-beer, refs: ["Gilg OB II:87", "Gilg OB II:88–89", "Gilg OB II:90–91", "Gilg OB II:92–93", "Gilg OB II:96–97", "Gilg OB II:98", "Gilg OB II:99–100", "Gilg OB II:101–102", "Gilg OB II:103", "Gilg OB II:104–105"], note: "ul īde enkīdu aklam ana akālim; akul aklam enkīdu simat balāṭim, šikaram šiti šīmti mātim 'eat bread, the thing proper to life; drink ale, the lot of the land'"}
-      - {motif: hairy-red-firstborn, refs: ["Gilg OB II:106–107"], note: "loose fit: ultappit gallābum šuʾʾuram pagaršu: the barber treats his hairy body"}
       - {motif: wild-man-guards-shepherds-from-lions, refs: ["Gilg OB II:110–111", "Gilg OB II:112–113", "Gilg OB II:114", "Gilg OB II:115–116", "Gilg OB II:117", "Gilg OB II:118–119"], note: "uttappiṣ barbarī lābī uktaššid; enkīdu maṣṣaršunu awīlum ērum"}
       - {motif: eyes-opened-nakedness-known, refs: ["Gilg OB II:47", "Gilg OB II:69–70"], note: "loose fit: after the woman he forgets the wild and is clothed"}
     hints:
       - "A woman who brings a wild man from the animals into human life compare Gen 2:18-25 and 3:6-7, 3:21 (clothing); bread as 'the thing of life' compare Gen 3:19 and Deut 8:3."
+      - "The barber treating his hairy body (OB II:106-107) compare Gen 25:25 and Gen 27:11 (Esau the hairy man of the field) and Gen 41:14 (Joseph shaved before the king)."
       - "A shepherd guarding the flock from lions compare 1 Sam 17:34-36 and Amos 3:12. Parallels Gilg SB I:188-II and MB Boğ1 / Priv1."
   - id: ane-gilg-ob-ii-wedding-guest
     tradition: ane-akkadian
@@ -656,7 +655,6 @@ units:
     tags:
       - {motif: souls-knit-covenant-friendship, refs: ["Gilg OB Schøyen1:1'", "Gilg OB Schøyen1:2'"], note: "enkīdu mālikam anāku ša ātamarūšu ina šunātim"}
       - {motif: curse-turned-to-blessing, refs: ["Gilg OB Schøyen1:4'", "Gilg OB Schøyen1:5'", "Gilg OB Schøyen1:6'"], note: "loose fit (no curse preceding in OB): alkim harimtum ludammiqam kâšim ... aššum tukallimīni damqam tappâm"}
-      - {motif: hero-kills-lion-barehanded, refs: ["Gilg OB Schøyen1:a+3", "Gilg OB Schøyen1:a+4", "Gilg OB Schøyen1:a+5"], note: "loose fit: išhiṭka lābū-ma kalāma tīde 'a lion attacked you and you experienced all'"}
     hints:
       - "Compare MB Ur:48-58 (blessing of Šamḫat) and OB III:151-153."
   - id: ane-gilg-ob-schoyen2-first-dream
