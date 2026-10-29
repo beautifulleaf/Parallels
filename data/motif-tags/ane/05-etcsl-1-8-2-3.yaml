@@ -1,0 +1,718 @@
+# Full read of the ANE corpus, chunk 5: ETCSL 1.8.2.3 - ETCSL 2.1.6. Read from the ETCSL composite transliterations (Sumerian).
+new_motifs:
+  primeval-when-not-yet-city: {label: "A text opens in primeval days, 'before' other lands, trade or crafts existed, to assert a city's or temple's primacy", cluster: primeval}
+  foreign-land-ordered-to-supply-temple-materials: {label: "A king demands that a foreign land send gold, silver, precious stones and mountain stone to build his god's temple", cluster: temple}
+  age-without-predators-or-fear: {label: "In a primeval or ideal age there is no snake, scorpion, lion or wolf, and so no fear; man has no rival", cluster: primeval}
+  messenger-crosses-seven-mountains: {label: "Journey formula: the messenger crosses five, six, seven mountains and lifts his eyes as he nears the city", cluster: epic}
+  message-repeated-verbatim: {label: "A message is dictated to a messenger and repeated word for word on delivery, framed by fixed dialogue formulas", cluster: epic}
+  rival-kings-exchange-impossible-tasks: {label: "Two rival kings contend through messengers by setting each other impossible tasks or riddles to decide who is supreme", cluster: wisdom}
+  famine-relieved-by-rival-grain: {label: "A foreign or rival ruler relieves a famine-stricken land with his grain and so wins its submission", cluster: kingship}
+  sceptre-of-no-known-material: {label: "A riddle demands a sceptre made of no known wood, metal or stone", cluster: wisdom}
+  etiology-of-writing: {label: "A narrative notes that writing (or a writing practice such as clay envelopes) did not yet exist and tells how it began", cluster: civilization}
+  rain-makes-grain-grow-of-itself: {label: "A storm god's rain makes wheat and pulses grow of their own accord on barren land", cluster: nature}
+  king-born-of-deity: {label: "The king is called a god's son, born of a divine cow, or suckled at a goddess's breast", cluster: kingship}
+  water-of-life-sprinkled: {label: "A deity sprinkles the water of life on chosen people", cluster: life}
+  after-the-flood-era-marker: {label: "Time is reckoned from 'after the flood had swept over', the flood dividing primeval from later history", cluster: flood}
+  aged-woman-appears-as-maiden: {label: "An old woman comes forth adorned like a maiden in her prime (kohl, white garment, crown)", cluster: epic}
+  king-shares-bed-with-goddess: {label: "A king boasts that he lies with the goddess on her bed (sacred marriage)", cluster: cult}
+  king-consults-assembly-in-crisis: {label: "A king in crisis summons priests and the assembly for counsel, and they tell him he brought it on himself", cluster: kingship}
+  foreign-sorcerer-hired-against-enemy: {label: "A foreign sorcerer is engaged with gold, silver and rich provisions to overpower an enemy land by magic", cluster: magic}
+  animal-made-to-speak-like-human: {label: "An animal is made to speak and converse like a human being", cluster: magic}
+  sorcery-dries-up-milk: {label: "Sorcery makes the milk of cows and goats dry up so that the young starve and the byre falls silent", cluster: magic}
+  victims-appeal-to-sun-god: {label: "Wronged herdsmen sit in the dust at the gate facing sunrise and appeal to the sun god for help", cluster: justice}
+  magic-contest-creature-devours-creature: {label: "In a contest of magicians, each creature conjured by one is seized by a stronger creature conjured by the other", cluster: magic}
+  wise-woman-defeats-sorcerer: {label: "A wise woman defeats a foreign sorcerer in a contest of magic", cluster: magic}
+  defeated-magician-pleads-and-is-executed: {label: "The defeated magician confesses, begs to be let go home and promises to praise his victor, but is put to death", cluster: magic}
+  rival-king-concedes-supremacy: {label: "A rival king concedes: 'You are the older brother; I cannot match you'", cluster: kingship}
+  doxology-closes-composition: {label: "A composition closes with a praise formula to a deity ('X be praised')", cluster: liturgy}
+  kingship-descends-from-heaven: {label: "Kingship descends from heaven to an earthly city", cluster: kingship}
+  king-ascends-to-heaven: {label: "A mortal king ascends to heaven", cluster: primeval}
+  king-vanishes-into-sea: {label: "A king enters the sea and goes up into the mountains, disappearing", cluster: primeval}
+  hero-of-phantom-father: {label: "A hero's father is a phantom or spirit, not a known man", cluster: birth}
+  kingship-passes-city-to-city: {label: "Kingship is carried from city to city as each in turn is defeated in battle", cluster: kingship}
+  king-of-lowly-trade-origin: {label: "A king rises from a lowly trade (fuller, boatman, leatherworker, gardener's son, tavern-keeper)", cluster: kingship}
+  woman-rules-as-king: {label: "A woman rules as king in her own right", cluster: kingship}
+  anarchy-no-king: {label: "An interval of anarchy: 'Who was king? Who was not king?', or a people ruling itself without a king", cluster: kingship}
+  cupbearer-becomes-king: {label: "A royal cupbearer rises to become king", cluster: kingship}
+  regnal-totals-summary: {label: "A king list closes with summary totals of kings, years and cities", cluster: kingship}
+  seed-of-mankind-preserved-after-flood: {label: "After the flood the seed of mankind is preserved and humanity rises again", cluster: flood}
+  god-gives-agricultural-tools: {label: "A god gives humans the pickaxe, spade, basket and plough, which mean life for the land", cluster: civilization}
+  before-irrigation-famine: {label: "Before canals were dug people relied on rain, fields bore nothing and there was famine", cluster: civilization}
+  ruler-digs-canal: {label: "A ruler is remembered for digging named canals", cluster: kingship}
+  personal-god-of-ruler: {label: "Each ruler is listed with his personal god", cluster: cult}
+  ruler-without-parentage: {label: "A ruler is 'not the son of his mother nor the son of his father'", cluster: birth}
+  temple-repeatedly-ruined-and-restored: {label: "A shrine falls into ruin again and again and is restored each time by a new king and his son", cluster: temple}
+  priest-chosen-by-omen: {label: "A high priest (or priestess) is chosen by extispicy or omen", cluster: cult}
+  deity-stands-by-favourite: {label: "A deity does not leave the hero's side and protects him against the king", cluster: providence}
+  king-keeps-ominous-dream-secret: {label: "A king understands an ominous dream but does not put it into words or discuss it with anyone", cluster: dream}
+  king-loosed-in-terror: {label: "A king's bowels or loins give way in terror at an omen", cluster: dream}
+  dream-of-giant-woman: {label: "In a dream a woman as high as heaven and as broad as earth appears", cluster: dream}
+  king-plots-death-of-rising-servant: {label: "A king, fearing a favoured servant, plots his death through others", cluster: kingship}
+  bloodstained-barred-from-sanctuary: {label: "One polluted with blood may not enter the holy house", cluster: cult}
+  golden-age-of-city-abundance: {label: "Under divine favour a capital overflows: stores of gold, exotic animals, foreigners and tribute from all lands", cluster: kingship}
+  deity-abandons-city: {label: "The city's patron deity abandons her sanctuary and leaves the city", cluster: temple}
+  gods-withdraw-gifts-from-city: {label: "The gods one by one take away a city's crown, throne, wisdom, eloquence and weapons", cluster: temple}
+  king-mourns-seven-years: {label: "A king in mourning clothes gives up his regalia and persists for seven years", cluster: kingship}
+  omen-gives-no-answer: {label: "The king seeks an omen twice and receives no answer", cluster: divination}
+  king-defies-divine-decree: {label: "A king tries to change a god's pronouncement and acts against it", cluster: kingship}
+  king-desecrates-gods-own-temple: {label: "A king demolishes and plunders the chief temple of his own gods", cluster: temple}
+  sacred-interior-exposed: {label: "Ordinary people look into the sanctuary's hidden chamber and the gods' holy chest", cluster: temple}
+  god-summons-barbarian-invaders: {label: "In anger the deity brings a savage foreign people out of the mountains to punish the land", cluster: war}
+  barbarians-subhuman-description: {label: "Invaders described as subhuman: human intelligence but dog's instincts and monkey's features, knowing no restraint", cluster: war}
+  famine-inflated-market-prices: {label: "Famine is shown by the ruinous market prices of oil, grain, wool and fish", cluster: calamity}
+  dogs-devour-people-in-streets: {label: "Packs of dogs in the silent streets devour passers-by", cluster: calamity}
+  alas-for-my-city-lament: {label: "Survivors cry 'Alas for my city! Alas for its people! Alas for the temple!'", cluster: lament}
+  curse-of-reversion-to-origin: {label: "Curse that a city's clay, grain and timber return to their origins, cursed by their gods", cluster: curse}
+  curse-brackish-water: {label: "Curse that a city's sweet water flow brackish", cluster: curse}
+  grass-grows-on-highways: {label: "Grass grows high on the roads and towpaths when traffic ceases", cluster: calamity}
+  city-never-resettled-curse: {label: "Curse: whoever says 'I will dwell in this city' shall find no pleasant dwelling there", cluster: curse}
+  curse-fulfilled-as-spoken: {label: "A curse is repeated word for word as fulfilled ('and so it was')", cluster: curse}
+  oppressor-seizes-wives-and-children: {label: "The oppressor takes wives from husbands and children from parents", cluster: war}
+  king-prays-before-battle: {label: "Before battle the king goes to several gods and prays 'be my help'", cluster: war}
+  campaign-dated-by-days: {label: "A campaign is narrated stage by stage, by numbered days and named camps", cluster: war}
+  fleeing-king-handed-over-by-refuge-city: {label: "A defeated king flees alone to a city, whose people refuse to shelter him and hand him over", cluster: war}
+  grieving-animals: {label: "When the herds fail, the hungry young animals weep and their mothers cry out bitterly", cluster: calamity}
+  holy-city-inviolable: {label: "A city whose destiny the high gods decreed may not be assailed by sorcery or violence", cluster: temple}
+  scribal-colophon: {label: "A text ends with a note on its source or on where it was written", cluster: scribal}
+  gifts-to-each-age-group: {label: "The deity endows each age group with its gift: old women counsel, old men eloquence, young women charm, young men might, children joy", cluster: blessing}
+  cosmic-consequence-of-sacrilege: {label: "Damage to parts of the temple has cosmic effects: rain returns to heaven, grain and well-being leave the land", cluster: temple}
+  brother-will-not-know-brother: {label: "Curse: brother will not recognise brother and no one will find his acquaintance; heads fill the wells", cluster: curse}
+  curse-on-women-of-city: {label: "Curse that a city's prostitute hang herself at her door and its women lose their children", cluster: curse}
+  curse-kin-slain-by-own-hand: {label: "Curse that the cattle-slaughterer slaughter his wife and the butcher his child", cluster: curse}
+  curse-precious-metals-devalued: {label: "Curse that a city's gold sell at the price of silver, its silver at the price of pyrite and its copper at the price of lead", cluster: curse}
+  dead-lie-unburied: {label: "In the calamity the dead lie unburied on roofs and in houses", cluster: calamity}
+  divine-statues-thrown-into-fire: {label: "Guardian divine statues of a temple are thrown into the fire", cluster: temple}
+  contest-of-champions-decides-dispute: {label: "Two rulers propose that their champions fight and the stronger decide the dispute", cluster: war}
+  dream-reported-to-king: {label: "The king asks a servant about his night dream and the servant tells it", cluster: dream}
+  captive-handcuffed-and-blindfolded: {label: "A captured enemy leader is put in handcuffs and a cloth over his eyes", cluster: war}
+units:
+  - id: ane-etcsl-1-8-2-3-prologue
+    tradition: ane-sumerian
+    title: "Enmerkar and the lord of Aratta: primeval Unug and Aratta's failure"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 1-32"]
+    tags:
+      - {motif: primeval-when-not-yet-city, refs: ["ETCSL 1.8.2.3 12", "ETCSL 1.8.2.3 13", "ETCSL 1.8.2.3 16", "ETCSL 1.8.2.3 17", "ETCSL 1.8.2.3 18", "ETCSL 1.8.2.3 19"], note: "kur dilmun X in-nu ... e2-an-na ki us2-sa-a; nam-ga-raš nu-ak-e 'commerce not yet practised'; gold, silver, copper, tin, lapis not yet brought down from the mountains. Line 12 partly broken."}
+      - {motif: king-shares-bed-with-goddess, refs: ["ETCSL 1.8.2.3 28", "ETCSL 1.8.2.3 29", "ETCSL 1.8.2.3 30"], note: "the lord of Aratta puts on the golden crown for Inana but en kul-aba4-a-gin7 nu-mu-na-sag9 'did not please her like the lord of Kulaba'"}
+    hints:
+      - "The 'before ... existed' opening resembles Gen 2:4-5 and Prov 8:24-26 (before the mountains were settled)."
+      - "A rival king who pleases the deity less than the chosen one: compare 1 Sam 15:28 and 16:1."
+  - id: ane-etcsl-1-8-2-3-plea-and-counsel
+    tradition: ane-sumerian
+    title: "Enmerkar asks his sister Inana for Aratta's wealth; Inana counsels him to send a messenger"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 33-107"]
+    tags:
+      - {motif: man-after-gods-heart, refs: ["ETCSL 1.8.2.3 33", "ETCSL 1.8.2.3 34"], note: "en šag4-ge pad3-da {d}inana-ke4 'the lord chosen by Inana in her heart'"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 1.8.2.3 35", "ETCSL 1.8.2.3 36", "ETCSL 1.8.2.3 104"], note: "en-me-er-kar2 dumu {d}utu, and Inana is his nin9 'sister'"}
+      - {motif: foreign-land-ordered-to-supply-temple-materials, refs: ["ETCSL 1.8.2.3 38", "ETCSL 1.8.2.3 39", "ETCSL 1.8.2.3 40", "ETCSL 1.8.2.3 44", "ETCSL 1.8.2.3 49", "ETCSL 1.8.2.3 50", "ETCSL 1.8.2.3 51", "ETCSL 1.8.2.3 81", "ETCSL 1.8.2.3 82"], note: "aratta ... kug-sig17 kug-babbar ḫa-ma-an-galam-e; na4 ḫur-saĝ-ĝa2 kur-bi ḫa-ma-ab-ed3; eš3 gal ḫa-ma-du3-e"}
+      - {motif: peace-offer-before-war, refs: ["ETCSL 1.8.2.3 48", "ETCSL 1.8.2.3 79"], note: "aratta unug-še3 gu2 ĝiš ḫa-ma-ĝa2-ĝa2 'let Aratta submit beneath the yoke for Unug'"}
+      - {motif: enemies-lick-dust, refs: ["ETCSL 1.8.2.3 75", "ETCSL 1.8.2.3 76", "ETCSL 1.8.2.3 77", "ETCSL 1.8.2.3 78"], note: "Susa and Anšan salute Inana peš2 tur-gin7 'like tiny mice'; the multitudes saḫar-ra ḫu-mu-na-da-gur4-gur4-e 'grovel in the dust'"}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.3 69", "ETCSL 1.8.2.3 70", "ETCSL 1.8.2.3 71", "ETCSL 1.8.2.3 105", "ETCSL 1.8.2.3 106", "ETCSL 1.8.2.3 107"], note: "Inana's counsel (na ga-e-de5 ... inim ga-ra-ab-dug4) repeats Enmerkar's plea almost verbatim (lines 49-64 = 80-95); messenger chosen inim zu zag-še tuku 'eloquent and enduring'"}
+      - {motif: king-wishes-to-build-temple, refs: ["ETCSL 1.8.2.3 43", "ETCSL 1.8.2.3 44", "ETCSL 1.8.2.3 54", "ETCSL 1.8.2.3 55", "ETCSL 1.8.2.3 56"], note: "e2 an-ta ed3-da 'a temple brought down from heaven'; the abzu to grow like a holy mountain, Eridug to gleam"}
+    hints:
+      - "Temple materials from a foreign land: compare 1 Kgs 5:6-10 (Hiram's cedars) and Isa 60:5-13 (wealth of nations brought for the temple)."
+      - "'Let them lick the dust': Ps 72:9 and Isa 49:23; submission under a yoke: Jer 27:8-11."
+      - "A king chosen in the deity's heart: 1 Sam 13:14; king as son of the deity: Ps 2:7, 2 Sam 7:14."
+  - id: ane-etcsl-1-8-2-3-first-message-nudimmud-spell
+    tradition: ane-sumerian
+    title: "The first message: the ultimatum and the spell of Nudimmud on one language"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 108-159"]
+    tags:
+      - {motif: peace-offer-before-war, refs: ["ETCSL 1.8.2.3 114", "ETCSL 1.8.2.3 115", "ETCSL 1.8.2.3 116", "ETCSL 1.8.2.3 118", "ETCSL 1.8.2.3 119", "ETCSL 1.8.2.3 120", "ETCSL 1.8.2.3 124", "ETCSL 1.8.2.3 127"], note: "threat: iri-bi ir7-saĝ{mušen}-gin7 ĝiš-bi-ta na-an-na-ra-ab-dal-en 'lest I make the people fly off like a wild dove from its tree'; unless Aratta loads gold on donkeys of the mountains"}
+      - {motif: age-without-predators-or-fear, refs: ["ETCSL 1.8.2.3 136", "ETCSL 1.8.2.3 137", "ETCSL 1.8.2.3 138", "ETCSL 1.8.2.3 139", "ETCSL 1.8.2.3 140"], note: "ud-ba muš nu-ĝal2-am3 ĝiri2 nu-ĝal2-am3 kir4 ... ur-maḫ ... ur-gir15 ur-bar-ra nu-ĝal2-am3; ni2 teĝ3-ĝe26 su zi-zi-i nu-ĝal2-am3; lu2-u18-lu gaba-šu-ĝar nu-tuku"}
+      - {motif: one-original-language, refs: ["ETCSL 1.8.2.3 141", "ETCSL 1.8.2.3 142", "ETCSL 1.8.2.3 143", "ETCSL 1.8.2.3 144", "ETCSL 1.8.2.3 145", "ETCSL 1.8.2.3 146"], note: "Šubur, Ḫamazi eme ḫa-mun 'of contrasting tongues', Sumer, Akkad, Martu: {d}en-lil2-ra eme 1-am3 ḫe2-en-na-da-ab-dug4 'may they address Enlil in one tongue'. The modal ḫe2- makes it wish or prophecy, not necessarily a past state."}
+      - {motif: confusion-of-tongues, refs: ["ETCSL 1.8.2.3 147", "ETCSL 1.8.2.3 148", "ETCSL 1.8.2.3 150", "ETCSL 1.8.2.3 153", "ETCSL 1.8.2.3 154", "ETCSL 1.8.2.3 155"], note: "interpretive: {d}en-ki ... ka-ba eme i3-kur2 en-na mi-ni-in-ĝar-ra / eme nam-lu2-ulu3 1 i3-me-a. ETCSL: Enki 'shall change the speech in their mouths ... and so the speech of mankind is truly one'; others read it as Enki once confusing a single speech, out of rivalry with ambitious lords (a-da en a-da nun a-da lugal-la)."}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 158", "ETCSL 1.8.2.3 159"], note: "ĝi6 ... im 1-gin7 šeĝ3-ĝa2 'by night drive on like the south wind', an-bar7 ... im-du8-gin7 zig3-ga 'by day be up like the dew'"}
+    hints:
+      - "Babel: Gen 11:1-9 (one language, then confusion by God); Zeph 3:9 (God will give the peoples a pure lip to call on his name together) is the closer match if line 146 is a wish for one speech addressing Enlil."
+      - "Diversity of tongues as God's sign: Q 30:22; one community then divided: Q 10:19."
+      - "No snake, lion, wolf, no fear: compare Isa 11:6-9 and 65:25, Hos 2:18 (covenant with the beasts), Ezek 34:25."
+  - id: ane-etcsl-1-8-2-3-first-exchange
+    tradition: ane-sumerian
+    title: "The messenger reaches Aratta; the lord of Aratta refuses, citing Inana"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 160-235"]
+    tags:
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 161", "ETCSL 1.8.2.3 162", "ETCSL 1.8.2.3 170", "ETCSL 1.8.2.3 171", "ETCSL 1.8.2.3 172"], note: "ḫur-saĝ 5 ḫur-saĝ 6 ḫur-saĝ 7-e im-me-re-bal-bal; travels mul-am3 'by starlight' and with Utu by day"}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.3 176", "ETCSL 1.8.2.3 177", "ETCSL 1.8.2.3 178", "ETCSL 1.8.2.3 179", "ETCSL 1.8.2.3 186", "ETCSL 1.8.2.3 207"], note: "a-a-zu lugal-ĝu10 mu-e-ši-in-gi4-in-nam / lugal-za dug4-ga-ni nam-ĝu10 'what is it to me what your master said?'; lines 187-207 repeat 115-135"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 1.8.2.3 180", "ETCSL 1.8.2.3 184", "ETCSL 1.8.2.3 185", "ETCSL 1.8.2.3 210", "ETCSL 1.8.2.3 212"], note: "ab2 zid-da kur-šag4-ga tud-da 'whom the good cow bore in the heart of the mountains'; ubur ab2 zid-da ga gu7-a 'suckled at the udder of the good cow'"}
+      - {motif: peace-offer-before-war, refs: ["ETCSL 1.8.2.3 187", "ETCSL 1.8.2.3 191", "ETCSL 1.8.2.3 192"]}
+      - {motif: refusal-to-bow-to-man, refs: ["ETCSL 1.8.2.3 220", "ETCSL 1.8.2.3 223", "ETCSL 1.8.2.3 224", "ETCSL 1.8.2.3 225", "ETCSL 1.8.2.3 226"], note: "aratta unug-še3 gu2 ĝa2-ĝa2 nu-ĝal2 'Aratta's submission to Unug is out of the question': Inana has made him bar the mountains kur-ra {ĝiš}ig gal-gin7 'as with a great door'"}
+    hints:
+      - "Diplomatic messenger dialogue with fixed formulas: compare 2 Kgs 18:19-35 (the Rabshakeh's message) and Judg 11:12-28 (Jephthah's messengers)."
+  - id: ane-etcsl-1-8-2-3-grain-challenge
+    tradition: ane-sumerian
+    title: "The lord of Aratta sets the first task: grain carried in nets"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 236-307"]
+    tags:
+      - {motif: rival-kings-exchange-impossible-tasks, refs: ["ETCSL 1.8.2.3 281", "ETCSL 1.8.2.3 282", "ETCSL 1.8.2.3 284", "ETCSL 1.8.2.3 290", "ETCSL 1.8.2.3 291"], note: "še {sa}al-kad5-e u3-mu-ni-in-si-si 'if he pours barley into carrying-nets' and heaps it in Aratta's courtyard, and Inana casts Aratta off ur ad6 sar-gin7 'like a dog chasing carrion', then ša-ba-na-gam-e-de3-en 'I will submit'"}
+      - {motif: famine-relieved-by-rival-grain, refs: ["ETCSL 1.8.2.3 278", "ETCSL 1.8.2.3 279", "ETCSL 1.8.2.3 281", "ETCSL 1.8.2.3 284"]}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.3 295", "ETCSL 1.8.2.3 296", "ETCSL 1.8.2.3 302", "ETCSL 1.8.2.3 303"], note: "ka-ni-gin7 inim ka-na ba-an-sig10 'he made the message as in his own mouth'; Enmerkar listens gud ri-ri-gin7 'like an ox driver'"}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 297", "ETCSL 1.8.2.3 298", "ETCSL 1.8.2.3 299"], note: "sumun2-gin7 'like a wild cow', nim-saḫar-ra-gin7 'like a sand fly'"}
+    hints:
+      - "The rival king's despair and search for an answer (236-239) recalls Ahab and the king of Aram's demand in 1 Kgs 20:1-11; a dog chasing carrion: Exod 22:31, 1 Kgs 21:23."
+      - "Contest by riddles between kings: 1 Kgs 10:1-3 (Queen of Sheba), and Josephus Ant. 8.143-149 on Hiram and Solomon exchanging riddles."
+  - id: ane-etcsl-1-8-2-3-grain-sent-sceptre-riddle
+    tradition: ane-sumerian
+    title: "Nisaba's wisdom: Enmerkar sends grain in nets; Aratta's famine is relieved; the sceptre demand"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 308-388"]
+    tags:
+      - {motif: god-grants-wisdom-to-king, refs: ["ETCSL 1.8.2.3 317", "ETCSL 1.8.2.3 320", "ETCSL 1.8.2.3 321", "ETCSL 1.8.2.3 322"], note: "{d}nisaba nin ĝeštug2 daĝal-la-ke4 / e2-ĜEŠTUG2.{d}NISABA kug-ga-ni ĝal2 mu-na-an-taka4 'opened for him her holy house of wisdom'"}
+      - {motif: rival-kings-exchange-impossible-tasks, refs: ["ETCSL 1.8.2.3 326", "ETCSL 1.8.2.3 328", "ETCSL 1.8.2.3 329"], note: "solution: munu4 'malt' soaked, and {sa}al-kad5-e igi im-mi-in-tur-tur 'he narrowed the meshes of the nets'; extra added zu2 buru5{mušen}-e 'for the teeth of the locusts'"}
+      - {motif: famine-relieved-by-rival-grain, refs: ["ETCSL 1.8.2.3 354", "ETCSL 1.8.2.3 356", "ETCSL 1.8.2.3 357", "ETCSL 1.8.2.3 358", "ETCSL 1.8.2.3 359", "ETCSL 1.8.2.3 360", "ETCSL 1.8.2.3 371", "ETCSL 1.8.2.3 372"], note: "aratta šag4-ĝar-ra-ni am3-la2-la2 'Aratta's hunger was sated'; the people: me-en-de3 sug4-ga lul-la-be2-eš2 ... {na4}gug ... ga-mu-na-dur2-ru-ne-en-de3-en (ETCSL 'let us prostrate ourselves'); lines 363-370 broken"}
+      - {motif: sceptre-of-no-known-material, refs: ["ETCSL 1.8.2.3 340", "ETCSL 1.8.2.3 341", "ETCSL 1.8.2.3 343", "ETCSL 1.8.2.3 344", "ETCSL 1.8.2.3 346"], note: "Enmerkar's counter-demand: his sceptre's base is me nam-nun-na, its crown shades Kulaba; let Aratta snap off a splinter and bring it like a string of cornelian beads"}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 349", "ETCSL 1.8.2.3 350", "ETCSL 1.8.2.3 351"], note: "ušumgal edin-na-ba kiĝ2-ĝe26-gin7 gaba-ri nu-mu-ni-in-tuku 'like a dragon prowling the desert he was unopposed'"}
+      - {motif: king-consults-assembly-in-crisis, refs: ["ETCSL 1.8.2.3 373", "ETCSL 1.8.2.3 374", "ETCSL 1.8.2.3 375"], note: "ab-ba-ab-ba inim zu-ne 'the eloquent elders' wring their hands, lean on the wall; partly broken"}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.3 378", "ETCSL 1.8.2.3 380", "ETCSL 1.8.2.3 382", "ETCSL 1.8.2.3 388"]}
+    hints:
+      - "Grain to a famine-struck foreign land wins its submission: Gen 41:56-57 and 47:13-25 (Joseph); Q 12:58-59."
+      - "Locusts' share of the grain: compare Joel 1:4 and Deut 28:38."
+      - "Wisdom granted to the king to solve a hard case: 1 Kgs 3:9-12, 3:28."
+  - id: ane-etcsl-1-8-2-3-sceptre-and-champion
+    tradition: ane-sumerian
+    title: "The sceptre of no material; Enki's wisdom; the reed sceptre; the challenge of the champion of no colour"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 389-461"]
+    tags:
+      - {motif: king-consults-assembly-in-crisis, refs: ["ETCSL 1.8.2.3 390", "ETCSL 1.8.2.3 391", "ETCSL 1.8.2.3 392", "ETCSL 1.8.2.3 393"], note: "itima-a ... šag4-ka-tab-ba ba-an-nu2 'lay down in the sanctuary fasting'; inim ka-še3 nu-ĝar-ra im-me 'spoke unspeakable words'"}
+      - {motif: sceptre-of-no-known-material, refs: ["ETCSL 1.8.2.3 398", "ETCSL 1.8.2.3 400", "ETCSL 1.8.2.3 401", "ETCSL 1.8.2.3 404", "ETCSL 1.8.2.3 406", "ETCSL 1.8.2.3 407", "ETCSL 1.8.2.3 408"], note: "ĝidru ĝiš nam-me mu ĝiš na-an-sa4-sa4 'a sceptre not of wood nor called wood': not ildag, šim-gig, cedar, cypress, ḫašur, palm, esi, zabalum, poplar, reed, gold, copper, silver, cornelian, lapis (variant order at A-D)"}
+      - {motif: god-grants-wisdom-to-king, refs: ["ETCSL 1.8.2.3 420"], note: "en-me-er-kar2-ra {d}en-ki-ke4 ĝeštug2 mu-na-an-šum2"}
+      - {motif: rival-kings-exchange-impossible-tasks, refs: ["ETCSL 1.8.2.3 426", "ETCSL 1.8.2.3 427", "ETCSL 1.8.2.3 428", "ETCSL 1.8.2.3 429", "ETCSL 1.8.2.3 430", "ETCSL 1.8.2.3 432", "ETCSL 1.8.2.3 434"], note: "the gi su-lim-ma 'su-lim reed' treated with oil, moved from sun to shade and shade to sun; mu 5-am3 mu 10-am3 ba-zal-la-ri 'after five years, ten years' it is split with an axe; the sceptre is given to the messenger. Lines 422-425 damaged."}
+      - {motif: famine-relieved-by-rival-grain, refs: ["ETCSL 1.8.2.3 444", "ETCSL 1.8.2.3 445", "ETCSL 1.8.2.3 446", "ETCSL 1.8.2.3 452", "ETCSL 1.8.2.3 453"], note: "aratta u8 sag2-gin7 ḫe2-em 'Aratta is like a slaughtered sheep'; Inana has given its maḫ 'primacy' to the lord of Kulaba"}
+      - {motif: contest-of-champions-decides-dispute, refs: ["ETCSL 1.8.2.3 457", "ETCSL 1.8.2.3 458", "ETCSL 1.8.2.3 459", "ETCSL 1.8.2.3 460", "ETCSL 1.8.2.3 461"], note: "ur na-an-gig2-ge ur na-an-babbar-re ... ur-ĝu10 ur-ra-ni a-da-min3 ḫe2-em-da-e 'my champion will compete against his champion'; a champion of no colour: not black, white, brown, red, yellow, multicoloured. No size given."}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 413", "ETCSL 1.8.2.3 414", "ETCSL 1.8.2.3 436", "ETCSL 1.8.2.3 437"], note: "like a young donkey, an onager, a pelican u5{mušen} over the hills, a fly, a carp"}
+    hints:
+      - "A rod that is treated and transformed over time: compare Aaron's blossoming rod, Num 17:16-24 (Eng. 17:1-11)."
+      - "Single combat of champions to decide a contest: 1 Sam 17:8-10; 2 Sam 2:14-16."
+  - id: ane-etcsl-1-8-2-3-invention-of-writing
+    tradition: ane-sumerian
+    title: "The garment of no colour; Enmerkar invents writing on clay"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 462-535"]
+    tags:
+      - {motif: rival-kings-exchange-impossible-tasks, refs: ["ETCSL 1.8.2.3 471", "ETCSL 1.8.2.3 472", "ETCSL 1.8.2.3 473", "ETCSL 1.8.2.3 474", "ETCSL 1.8.2.3 475"], note: "tug2 na-an-gig2-ge ... 'a garment that is not black-coloured ...'; ur-ĝu10 gu2-da ĝal2 {d}en-lil2-la2 'my champion embraced by Enlil'"}
+      - {motif: peace-offer-before-war, refs: ["ETCSL 1.8.2.3 479", "ETCSL 1.8.2.3 480", "ETCSL 1.8.2.3 485", "ETCSL 1.8.2.3 487", "ETCSL 1.8.2.3 492"], note: "iri-na udu-gin7 igi-ni ḫu-mu-un-su8-ub / e-ne sipad-bi-gin7 eĝer-bi ḫe2-em-us2-e: Aratta's people to go before him like sheep, he behind them like their shepherd; rebuild Eridug, the abzu, E-nun"}
+      - {motif: etiology-of-writing, refs: ["ETCSL 1.8.2.3 500", "ETCSL 1.8.2.3 501", "ETCSL 1.8.2.3 502", "ETCSL 1.8.2.3 503", "ETCSL 1.8.2.3 504", "ETCSL 1.8.2.3 505", "ETCSL 1.8.2.3 506"], note: "kiĝ2-gi4-a ka-ni dugud 'the messenger's mouth was heavy'; en kul-aba4-a-ke4 im-e šu bi2-in-ra inim dub-gin7 bi2-in-gub; ud-bi-ta inim im-ma gub-bu nu-ub-ta-ĝal2-la 'before then words were not set on clay'; i3-ne-eš2 {d}utu ud ne-a ur5 ḫe2-en-na-nam-ma-am3 'now, under that sun, so it was'"}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.3 507", "ETCSL 1.8.2.3 508", "ETCSL 1.8.2.3 509", "ETCSL 1.8.2.3 510", "ETCSL 1.8.2.3 511"]}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.3 515", "ETCSL 1.8.2.3 517", "ETCSL 1.8.2.3 524", "ETCSL 1.8.2.3 525"], note: "now the tablet replaces memory: im ma-an-šum2 / im igi u3-ni-bar šag4 inim-ma u3-bi2-zu 'examine the clay, learn the message'"}
+    hints:
+      - "Tree whose top reaches heaven as an image of the king: Dan 4:7-9 (Eng. 4:10-12); Ezek 31:3-9; the Babel tower 'its top in heaven' Gen 11:4."
+      - "Leading the people like sheep with the king as shepherd: Ps 78:70-72, Ezek 34:23, 2 Sam 5:2."
+      - "Heavy mouth of the messenger: compare Exod 4:10 (Moses 'heavy of mouth', kevad peh); first writing: Exod 24:12, 32:16."
+  - id: ane-etcsl-1-8-2-3-iskur-rain-inana-reply
+    tradition: ane-sumerian
+    title: "The tablet received; Iškur's storm makes wheat grow in Aratta; Inana has not abandoned Aratta"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 536-587"]
+    tags:
+      - {motif: etiology-of-writing, refs: ["ETCSL 1.8.2.3 538", "ETCSL 1.8.2.3 539", "ETCSL 1.8.2.3 540"], note: "im šu-rin-na-ni 'his kiln-fired tablet'; inim dug4-ga gag-am3 saĝ-ki mi-re2-da-am3 'the spoken word was nails (wedges); his brow was angry': the lord of Aratta cannot read it"}
+      - {motif: rain-makes-grain-grow-of-itself, refs: ["ETCSL 1.8.2.3 542", "ETCSL 1.8.2.3 543", "ETCSL 1.8.2.3 544", "ETCSL 1.8.2.3 549", "ETCSL 1.8.2.3 550", "ETCSL 1.8.2.3 551", "ETCSL 1.8.2.3 553"], note: "{d}iškur an ki-a gu3 nun-bi di-dam; aratta bar ud-bi ... gig ni2-bi mu2-a gu2 ni2-bi an-ga-mu2-a 'wheat grew of itself, chickpeas grew of themselves'"}
+      - {motif: after-the-flood-era-marker, refs: ["ETCSL 1.8.2.3 571", "ETCSL 1.8.2.3 572"], note: "igi a-ma-ru-ka gub-ba-me-eš / eĝer a-ma-ru ba-ur3-ra-ta: those who stood before the flood"}
+      - {motif: water-of-life-sprinkled, refs: ["ETCSL 1.8.2.3 573", "ETCSL 1.8.2.3 574", "ETCSL 1.8.2.3 575", "ETCSL 1.8.2.3 576"], note: "a nam-til3-la-ka mu-un-ne-sud-sud; gu2 kalam-ma-ka ĝiš mu-un-ne-en-ĝal2 'made the land subject to them'"}
+      - {motif: contest-of-champions-decides-dispute, refs: ["ETCSL 1.8.2.3 577", "ETCSL 1.8.2.3 578", "ETCSL 1.8.2.3 579"], note: "ur igi-ĝal2-la 'the clever champion' with a colourful turban and {tug2}piriĝ-piriĝ-ĝa2 'garment of lion skins'; lines 580-584 broken"}
+      - {motif: king-shares-bed-with-goddess, refs: ["ETCSL 1.8.2.3 561", "ETCSL 1.8.2.3 585"], note: "ĝiš-nu2 še-er-kan2 dug4 vs ĝiš-nu2 gi-rin-na (adorned vs shining bed); Inana's song pleases her spouse Ama-ušumgal-ana"}
+    hints:
+      - "Rain that answers a challenge and makes crops grow: 1 Kgs 18:41-45; growth 'of itself' (sapiah): Lev 25:5, 2 Kgs 19:29. Rain and grain as divine sign: Q 6:99, Q 80:24-32."
+      - "Survivors of the flood and a life-giving water: Gen 9:1; Ezek 47:9 (wherever the river goes everything lives)."
+      - "Writing seen as 'nails': Eccl 12:11 ('the words of the wise are like goads, and like nails firmly fixed')."
+  - id: ane-etcsl-1-8-2-3-ending
+    tradition: ane-sumerian
+    title: "The old woman as maiden; Aratta's herds multiply; tribute for E-ana (fragmentary ending)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.3 588-636"]
+    tags:
+      - {motif: aged-woman-appears-as-maiden, refs: ["ETCSL 1.8.2.3 588", "ETCSL 1.8.2.3 589", "ETCSL 1.8.2.3 590", "ETCSL 1.8.2.3 591", "ETCSL 1.8.2.3 592"], note: "um-ma ... ki-sikil ud-da-na til-la-gin7 im-ma-na-ta-e3; šembi2-zid-da igi-na mu-un-gun3 'painted her eyes with kohl'; tug2 babbar; aga zid-da iti6-gin7 'crown like moonlight'. Who the um-ma is remains unclear."}
+      - {motif: king-shares-bed-with-goddess, refs: ["ETCSL 1.8.2.3 594"], note: "partly restored: [nitalam]-a-ni en-me-er-kar2 barag-ge4 mu-un-da-ab-si 'she made Enmerkar her spouse sit on the dais with her'"}
+      - {motif: blessing-no-barren, refs: ["ETCSL 1.8.2.3 596", "ETCSL 1.8.2.3 597", "ETCSL 1.8.2.3 598", "ETCSL 1.8.2.3 599", "ETCSL 1.8.2.3 601", "ETCSL 1.8.2.3 602"], note: "ga-nam im-da-lu-lu aratta-aš u8-da sila4-bi ... ab2-da amar-bi ... eme5 dur3 kaš4 gig2-ga: ewes, goats, cows, donkey mares multiply with their young; partly restored"}
+      - {motif: foreign-land-ordered-to-supply-temple-materials, refs: ["ETCSL 1.8.2.3 618", "ETCSL 1.8.2.3 619", "ETCSL 1.8.2.3 621", "ETCSL 1.8.2.3 622", "ETCSL 1.8.2.3 624", "ETCSL 1.8.2.3 625"], note: "Aratta's people to ply gold, silver and lapis; heap figs, grapes and lapis kisal e2-an-na-ka guru7-še3 'in piles in E-ana's courtyard' for Inana. Lines 603-616 broken; speaker unidentified."}
+      - {motif: kingship-transferred-by-god, refs: ["ETCSL 1.8.2.3 631", "ETCSL 1.8.2.3 632"], note: "nam-lugal-ĝu10 nin mul-mul-e ma-an-šum2 'the ever-sparkling lady gave me my kingship'; context lost after 633"}
+    hints:
+      - "Tribute of the nations heaped in the temple court: Isa 60:5-7, Hag 2:7-8."
+      - "A woman adorned with kohl, garment and crown: 2 Kgs 9:30 and Ezek 23:40 (used negatively); Ps 45:14-15 (the bride)."
+  - id: ane-etcsl-1-8-2-4-prologue-and-boast
+    tradition: ane-sumerian
+    title: "Enmerkar and En-suhgir-ana: Unug's glory and Aratta's ultimatum"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:1-76"]
+    tags:
+      - {motif: primeval-when-not-yet-city, refs: ["ETCSL 1.8.2.4 A:14"], note: "ud-ba ud en-na-am3 ĝi6 barag-ga-am3 {d}utu lugal-am3 'then day was lord, night was sovereign, Utu was king'"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 1.8.2.4 A:20", "ETCSL 1.8.2.4 A:21"], note: "lu2 diĝir-še3 tu-ud e-ne / lu2 diĝir-še3 pa e3 e-ne 'he, a man born to be a god, manifest as a god'"}
+      - {motif: peace-offer-before-war, refs: ["ETCSL 1.8.2.4 A:25", "ETCSL 1.8.2.4 A:56"], note: "Aratta's lord demands: gu2 ḫa-ma-an-ĝa2-ĝa2 {ĝiš}šudul4 ḫa-ma-ab-il2-e 'let him submit, let him bear my yoke'"}
+      - {motif: king-shares-bed-with-goddess, refs: ["ETCSL 1.8.2.4 A:27", "ETCSL 1.8.2.4 A:28", "ETCSL 1.8.2.4 A:29", "ETCSL 1.8.2.4 A:30"], note: "En-suhgir-ana: he may lie with her on the girin bed, ĝe26-e ... še-er-kan2 dug4 u3 dug3 ku-ku-de3 ḫu-mu-de3-nu2-en 'I lie in sweet slumber with her on the adorned bed'"}
+      - {motif: face-to-face-revelation, refs: ["ETCSL 1.8.2.4 A:31", "ETCSL 1.8.2.4 A:32", "ETCSL 1.8.2.4 A:62", "ETCSL 1.8.2.4 A:63"], note: "e-ne {d}inana-da ĝi6-a ma-mu2-da igi ḫu-mu-ni-in-du8 / ĝe26-e {d}inana-da ĝiri3 babbar-ra-na inim mu-da-bal-e: 'he sees her in dreams at night, I converse with Inana awake' (lit. 'on her white foot', interpretive)"}
+      - {motif: messenger-crosses-seven-mountains, refs: ["ETCSL 1.8.2.4 A:40", "ETCSL 1.8.2.4 A:41", "ETCSL 1.8.2.4 A:45", "ETCSL 1.8.2.4 A:48", "ETCSL 1.8.2.4 A:49"], note: "here as a catalogue of similes: wild ram, falcon, donkey of Šakkan, lion at dawn, wolf seizing a lamb; leaves at morning, back by dusk"}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.4 A:53", "ETCSL 1.8.2.4 A:54", "ETCSL 1.8.2.4 A:54A", "ETCSL 1.8.2.4 A:55", "ETCSL 1.8.2.4 A:69"], note: "A:56-69 repeat A:25-38"}
+      - {motif: king-wishes-to-build-temple, refs: ["ETCSL 1.8.2.4 A:74"], note: "fragmentary: šeg12 e2 gal aratta-ka 'the brickwork of the great temple of Aratta'; A:70-76 broken"}
+    hints:
+      - "Waking converse with the deity ranked above dreams: Num 12:6-8 (mouth to mouth, not in dreams); Deut 34:10."
+      - "The city 'reaching to heaven': Gen 11:4, Deut 1:28 (cities fortified up to heaven)."
+      - "Yoke of submission: 1 Kgs 12:4, Jer 27:11."
+  - id: ane-etcsl-1-8-2-4-enmerkar-reply
+    tradition: ane-sumerian
+    title: "Enmerkar's reply: Inana dwells in Unug and will not go to Aratta"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:77-113"]
+    tags:
+      - {motif: king-shares-bed-with-goddess, refs: ["ETCSL 1.8.2.4 A:80", "ETCSL 1.8.2.4 A:81", "ETCSL 1.8.2.4 A:82", "ETCSL 1.8.2.4 A:83", "ETCSL 1.8.2.4 A:87"], note: "Inana's girin bed strewn with pure plants, its back an ug-lion, its front a piriĝ-lion chasing each other: ud nu-um-zal ĝi6 u3-na nu-ru-gu2 'the day does not dawn, the night does not pass'"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 1.8.2.4 A:91", "ETCSL 1.8.2.4 A:92", "ETCSL 1.8.2.4 A:93", "ETCSL 1.8.2.4 A:94", "ETCSL 1.8.2.4 A:95"], note: "Ninurta held him on his lap; {d}a-ru-ru nin9 {d}en-lil2-la2-ke4 ubur zid-da-ni ma-an-la2 ubur gab2-bu-ni 'Aruru extended her right breast, her left breast to me'; Enlil gave crown and sceptre (partly broken)"}
+      - {motif: refusal-to-bow-to-man, refs: ["ETCSL 1.8.2.4 A:102", "ETCSL 1.8.2.4 A:103", "ETCSL 1.8.2.4 A:104", "ETCSL 1.8.2.4 A:107"], note: "{d}inana unug-ga ḫe2-en-til3 aratta-aš a-na me-a-bi; mu 5-am3 mu 10-am3 aratta-aš ba-ra-ĝen 'for five or ten years she will not go to Aratta'"}
+      - {motif: god-confides-plan-to-friend, refs: ["ETCSL 1.8.2.4 A:105", "ETCSL 1.8.2.4 A:106", "ETCSL 1.8.2.4 A:107"], note: "ad-bi mu-un-da-gi4-a-aš inim-bi mu-un-zu-a-aš 'since she took counsel with me, since she let me know this matter'"}
+    hints:
+      - "God's chosen dwelling in one city, not another: Ps 132:13-14, Ps 78:67-68 (he rejected the tent of Joseph, chose Zion)."
+      - "God shares his plan with his friend: Gen 18:17, Amos 3:7."
+      - "A king nursed on a divine lap and breast: Isa 60:16 (suck the breast of kings); Ps 22:10."
+  - id: ane-etcsl-1-8-2-4-council-and-sorcerer
+    tradition: ane-sumerian
+    title: "Aratta's assembly rebukes En-suhgir-ana; the refugee sorcerer of Hamazu offers his services"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:114-169"]
+    tags:
+      - {motif: king-consults-assembly-in-crisis, refs: ["ETCSL 1.8.2.4 A:117", "ETCSL 1.8.2.4 A:118", "ETCSL 1.8.2.4 A:119", "ETCSL 1.8.2.4 A:120", "ETCSL 1.8.2.4 A:128", "ETCSL 1.8.2.4 A:129", "ETCSL 1.8.2.4 A:130", "ETCSL 1.8.2.4 A:131"], note: "išib, lu2-maḫ, gudug priests consulted; unken ĝar-ra 'the convened assembly': za-e-me-en unug-ga-še3 dub-saĝ-ta ... kiĝ2-gi4-a-aš mu-un-gi4 'it was you who first sent the message'"}
+      - {motif: refusal-to-bow-to-man, refs: ["ETCSL 1.8.2.4 A:133", "ETCSL 1.8.2.4 A:134"], note: "iri-ĝu10 dul ḫe2-a ĝe26-e šika-bi ḫe2-me-en 'let my city be a ruin mound, I will be a potsherd of it', but never submit"}
+      - {motif: foreign-sorcerer-hired-against-enemy, refs: ["ETCSL 1.8.2.4 A:135", "ETCSL 1.8.2.4 A:136", "ETCSL 1.8.2.4 A:137", "ETCSL 1.8.2.4 A:138", "ETCSL 1.8.2.4 A:143", "ETCSL 1.8.2.4 A:144", "ETCSL 1.8.2.4 A:164", "ETCSL 1.8.2.4 A:165", "ETCSL 1.8.2.4 A:166", "ETCSL 1.8.2.4 A:167"], note: "maš-maš ... ur-ĝiri3-nun-na dumu ḫa-ma-zu ... ḫa-ma-zu ḫul-a-ta aratta-aš bal-a 'who came over to Aratta after Ḫamazu was destroyed'; rewarded with 5 ma-na gold, 5 ma-na silver, fine food and drink"}
+      - {motif: message-repeated-verbatim, refs: ["ETCSL 1.8.2.4 A:153", "ETCSL 1.8.2.4 A:156", "ETCSL 1.8.2.4 A:162"], note: "A:153-162 repeat A:140-149 to the minister"}
+    hints:
+      - "A foreign seer engaged with rich rewards to overcome an enemy by word and magic: Balaam, Num 22:5-7, 22:17-18, 24:11."
+      - "Councillors tell the king he provoked the crisis: 1 Kgs 12:6-11; 2 Kgs 14:8-10 (Amaziah's challenge)."
+      - "From the sea to the cedar mountains: compare the ideal borders 'from the sea to the river' Ps 72:8, Deut 11:24."
+  - id: ane-etcsl-1-8-2-4-sorcery-at-eres
+    tradition: ane-sumerian
+    title: "The sorcerer makes the cow and goat speak and dries up the milk of Nisaba's byre"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:170-221"]
+    tags:
+      - {motif: animal-made-to-speak-like-human, refs: ["ETCSL 1.8.2.4 A:173", "ETCSL 1.8.2.4 A:174", "ETCSL 1.8.2.4 A:175", "ETCSL 1.8.2.4 A:176", "ETCSL 1.8.2.4 A:186", "ETCSL 1.8.2.4 A:187"], note: "ab2-e inim bi2-in-dug4 lu2-ulu3-gin7 inim mu-da-ab-bal-e 'he made the cow speak; it conversed with him like a human being'; then the goat (ud5)"}
+      - {motif: sorcery-dries-up-milk, refs: ["ETCSL 1.8.2.4 A:183", "ETCSL 1.8.2.4 A:184", "ETCSL 1.8.2.4 A:197", "ETCSL 1.8.2.4 A:198", "ETCSL 1.8.2.4 A:199", "ETCSL 1.8.2.4 A:200", "ETCSL 1.8.2.4 A:201", "ETCSL 1.8.2.4 A:205"], note: "ab2 i3-zu si-muš3-zu-še3 ga-zu murgu-zu-še3 'cow, your butter to your horn, your milk to your back'; tur3 amaš-a e2 sig9-ga ba-ab-du7 'pen and byre became a house of silence'; ubur ab2-ka ga nu-un-ĝal2"}
+      - {motif: grieving-animals, refs: ["ETCSL 1.8.2.4 A:200", "ETCSL 1.8.2.4 A:203", "ETCSL 1.8.2.4 A:204"], note: "amar tur-bi šag4-sug4-ga ... er2 gig i3-še8-še8 'its young calf hungry, weeping bitterly'; the cow speaks bitterly to its calf"}
+      - {motif: victims-appeal-to-sun-god, refs: ["ETCSL 1.8.2.4 A:207", "ETCSL 1.8.2.4 A:208", "ETCSL 1.8.2.4 A:214", "ETCSL 1.8.2.4 A:215", "ETCSL 1.8.2.4 A:216", "ETCSL 1.8.2.4 A:217", "ETCSL 1.8.2.4 A:218"], note: "herdsmen Maš-gula and Ur-edina, dumu tud-da ama dili-me-eš 'sons of one mother', crouch in the debris (saḫar-tu11) at the great gate facing sunrise and appeal to Utu; the cowherd drops his staff, the shepherd weeps"}
+    hints:
+      - "Animal speaking with a human voice: Num 22:28-30 (Balaam's donkey); Q 27:18 (the ant speaks)."
+      - "Byre and pen stripped bare, cattle groaning: Joel 1:18-20, Hab 3:17; cows separated from calves: 1 Sam 6:7-12."
+      - "The oppressed cry to God from the dust: Ps 113:7, Exod 2:23-24."
+  - id: ane-etcsl-1-8-2-4-magic-contest
+    tradition: ane-sumerian
+    title: "Wise woman Sagburu defeats the sorcerer in five rounds and executes him"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:222-273"]
+    tags:
+      - {motif: wise-woman-defeats-sorcerer, refs: ["ETCSL 1.8.2.4 A:227", "ETCSL 1.8.2.4 A:249", "ETCSL 1.8.2.4 A:250"], note: "um-ma saĝ-bur-ru 'the wise (old) woman Saĝburu'; lines A:222-226 damaged"}
+      - {motif: magic-contest-creature-devours-creature, refs: ["ETCSL 1.8.2.4 A:228", "ETCSL 1.8.2.4 A:229", "ETCSL 1.8.2.4 A:230", "ETCSL 1.8.2.4 A:231", "ETCSL 1.8.2.4 A:233", "ETCSL 1.8.2.4 A:234", "ETCSL 1.8.2.4 A:235", "ETCSL 1.8.2.4 A:237", "ETCSL 1.8.2.4 A:238", "ETCSL 1.8.2.4 A:239", "ETCSL 1.8.2.4 A:241", "ETCSL 1.8.2.4 A:242", "ETCSL 1.8.2.4 A:243", "ETCSL 1.8.2.4 A:245", "ETCSL 1.8.2.4 A:246", "ETCSL 1.8.2.4 A:247"], note: "agargara id2-da i-ni-in-šub-bu-uš 'they threw fish spawn (?) into the river' five times: carp vs eagle, ewe and lamb vs wolf, cow and calf vs lion, ibex and wild sheep vs leopard, gazelle kid vs tiger (ur-šub5) and ur-nim; each predator seizes the prey"}
+      - {motif: contest-with-court-magicians, refs: ["ETCSL 1.8.2.4 A:228", "ETCSL 1.8.2.4 A:248"], note: "maš-maš-e igi-ni ba-ku10-ku10 dim2-ma-ni ba-suḫ3 'the sorcerer's face darkened, his mind was confused'"}
+      - {motif: defeated-magician-pleads-and-is-executed, refs: ["ETCSL 1.8.2.4 A:256", "ETCSL 1.8.2.4 A:257", "ETCSL 1.8.2.4 A:258", "ETCSL 1.8.2.4 A:259", "ETCSL 1.8.2.4 A:260", "ETCSL 1.8.2.4 A:262", "ETCSL 1.8.2.4 A:268", "ETCSL 1.8.2.4 A:270", "ETCSL 1.8.2.4 A:272", "ETCSL 1.8.2.4 A:273"], note: "nu-zu-a-ĝu10-ne i-im-ĝen-ne-en 'I went without knowing'; šu ba-mu-u8 nin-ĝu10 'set me free, my sister'; she replies nam-tag-zu ... nu-mu-e-tum3 'your sin cannot be borne', šer7-da 'capital offence'; throws him from the Euphrates bank and takes his life"}
+      - {motif: holy-city-inviolable, refs: ["ETCSL 1.8.2.4 A:251", "ETCSL 1.8.2.4 A:252", "ETCSL 1.8.2.4 A:253", "ETCSL 1.8.2.4 A:254"], note: "ereš2 iri {d}nisaba ... iri nam tar-ra an {d}en-lil2-la2 / iri ul iri ki aĝ2 {d}nin-lil2-la2: how could you do sorcery there?"}
+    hints:
+      - "Contest of wonders with creatures: Exod 7:10-12 (Aaron's staff-serpent swallows the magicians'); Q 7:117 and Q 20:69 (the staff swallows what they faked)."
+      - "Defeated magicians: Exod 8:15 (Eng. 8:19) 'the finger of God'; in the Quran the magicians confess and are executed by Pharaoh (Q 7:120-126), the reverse of this outcome."
+      - "Wise woman as decisive actor: 2 Sam 20:16-22 (wise woman of Abel), 2 Sam 14:2."
+  - id: ane-etcsl-1-8-2-4-concession
+    tradition: ane-sumerian
+    title: "En-suhgir-ana concedes to Enmerkar; Nisaba be praised"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.4 A:274-283"]
+    tags:
+      - {motif: rival-king-concedes-supremacy, refs: ["ETCSL 1.8.2.4 A:276", "ETCSL 1.8.2.4 A:278", "ETCSL 1.8.2.4 A:279", "ETCSL 1.8.2.4 A:280"], note: "za-e-me-en en ki aĝ2 {d}inana-me-en dili-zu-ne maḫ-me-en; a ru-a-ta gaba-ri-zu nu-me-en šeš-gal za-e-me-en 'from conception I was not your equal; you are the older brother'; ud da-ri2-še3 'forever'"}
+      - {motif: man-after-gods-heart, refs: ["ETCSL 1.8.2.4 A:277"], note: "{d}inana-ke4 ur2 kug-ga-ni-še3 zid-de3-eš mu-un-pad3-de3-en 'Inana truly chose you for her holy lap'"}
+      - {motif: doxology-closes-composition, refs: ["ETCSL 1.8.2.4 A:283"], note: "{d}nisaba za3-mi2"}
+    hints:
+      - "Rival acknowledges the chosen one's superiority: 1 Sam 24:21 (Saul to David), Gen 33:9-11; the older brother reversed: Gen 27:29."
+  - id: ane-etcsl-1-8-2-4-b-fragment
+    tradition: ane-sumerian
+    title: "Enmerkar and En-suhgir-ana, fragment B: the sorcerer and the minister"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: "Manuscript B (variant fragment)"
+    read: ["ETCSL 1.8.2.4 B:B1-B7"]
+    tags:
+      - {motif: foreign-sorcerer-hired-against-enemy, refs: ["ETCSL 1.8.2.4 B:B4", "ETCSL 1.8.2.4 B:B5", "ETCSL 1.8.2.4 B:B6"], note: "[maš]-maš-e ... ur-ĝiri3-nun-na ki en-na-še3 lu2 mu-ni-in-ku4-ku4; speaks to sukkal an-sig7-ga-ri-a; lines B1-B3, B7 broken"}
+  - id: ane-etcsl-2-1-1-antediluvian
+    tradition: ane-sumerian
+    title: "Sumerian king list: kingship descends from heaven; eight kings before the flood"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 1-39"]
+    tags:
+      - {motif: kingship-descends-from-heaven, refs: ["ETCSL 2.1.1 1", "ETCSL 2.1.1 2"], note: "[nam]-lugal an-ta ed3-de3-a-ba / eridug nam-lugal-la"}
+      - {motif: antediluvian-longevity, refs: ["ETCSL 2.1.1 4", "ETCSL 2.1.1 5", "ETCSL 2.1.1 12", "ETCSL 2.1.1 15", "ETCSL 2.1.1 27", "ETCSL 2.1.1 33", "ETCSL 2.1.1 38"], note: "reigns of 28800, 36000, 43200 ... 18600 years; total mu 241200 for 8 kings in 5 cities"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 8", "ETCSL 2.1.1 9", "ETCSL 2.1.1 10", "ETCSL 2.1.1 18", "ETCSL 2.1.1 19", "ETCSL 2.1.1 24", "ETCSL 2.1.1 25", "ETCSL 2.1.1 30", "ETCSL 2.1.1 31"], note: "eridug ba-šub / nam-lugal-bi bad3-tibira-še3 ba-de6: Eridug, Bad-tibira, Larag, Zimbir, Šuruppag"}
+      - {motif: after-the-flood-era-marker, refs: ["ETCSL 2.1.1 39"], note: "a-ma-ru ba-ur3 'the flood swept over'"}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 36", "ETCSL 2.1.1 37", "ETCSL 2.1.1 38"]}
+    hints:
+      - "Gen 5 (ten antediluvian patriarchs with long lives ending with Noah); the last city, Šuruppag, is the flood hero's city. En-men-dur-ana of Zimbir (Sippar) is in other traditions the seventh sage-king who was given divine secrets: compare Enoch, Gen 5:21-24."
+      - "Dumuzid the shepherd as a pre-flood king (15): compare Abel the shepherd, Gen 4:2; Jabal 'father of those who dwell in tents', Gen 4:20."
+  - id: ane-etcsl-2-1-1-kis-i
+    tradition: ane-sumerian
+    title: "Sumerian king list: after the flood, kingship again from heaven to Kish; Etana ascends"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 40-94"]
+    tags:
+      - {motif: after-the-flood-era-marker, refs: ["ETCSL 2.1.1 40"], note: "eĝer a-ma-ru ba-ur3-ra-ta"}
+      - {motif: kingship-descends-from-heaven, refs: ["ETCSL 2.1.1 41", "ETCSL 2.1.1 42"]}
+      - {motif: post-flood-declining-lifespans, refs: ["ETCSL 2.1.1 45", "ETCSL 2.1.1 47", "ETCSL 2.1.1 67", "ETCSL 2.1.1 77", "ETCSL 2.1.1 89"], note: "reigns drop from tens of thousands to 1200, 960 ... 140, 625 years; En-taraḫ-ana's 420 years 3 months 3 1/2 days (51)"}
+      - {motif: king-ascends-to-heaven, refs: ["ETCSL 2.1.1 64", "ETCSL 2.1.1 65", "ETCSL 2.1.1 66"], note: "e-ta-na sipad lu2 an-še3 ba-ed3-de3 'Etana the shepherd, who ascended to heaven', lu2 kur-kur mu-un-gen6-na 'who consolidated all the foreign lands'"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 93", "ETCSL 2.1.1 94"], note: "kiš {ĝiš}tukul ba-an-sag3 'Kiš was struck with weapons'; kingship to E-ana"}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 73A", "ETCSL 2.1.1 90", "ETCSL 2.1.1 91", "ETCSL 2.1.1 92"]}
+    hints:
+      - "Ascent to heaven: Enoch (Gen 5:24), Elijah (2 Kgs 2:11); denied ascent: Q 17:93; the boast of ascent Isa 14:13-14."
+      - "En-me-barage-si who subdued Elam (83-86): Elam among the early kings, Gen 14:1 (Chedorlaomer king of Elam)."
+  - id: ane-etcsl-2-1-1-unug-i
+    tradition: ane-sumerian
+    title: "Sumerian king list: first dynasty of Unug (Meskiaggasher, Enmerkar, Lugalbanda, Gilgamesh)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 95-133"]
+    tags:
+      - {motif: king-born-of-deity, refs: ["ETCSL 2.1.1 96", "ETCSL 2.1.1 97"], note: "meš3-ki-aĝ2-ga-še-er dumu {d}utu en-am3 lugal-am3"}
+      - {motif: king-vanishes-into-sea, refs: ["ETCSL 2.1.1 99", "ETCSL 2.1.1 100", "ETCSL 2.1.1 101"], note: "ab-ba ba-an-kur9 / ḫur-saĝ-še3 ba-an-ed3 'he entered the sea and went up to the mountains'"}
+      - {motif: hero-of-phantom-father, refs: ["ETCSL 2.1.1 112", "ETCSL 2.1.1 113", "ETCSL 2.1.1 114"], note: "{d}gilgameš3 ab-ba-ni lil2-la2 'whose father was a lil2 (phantom, wind-spirit)'"}
+      - {motif: king-of-lowly-trade-origin, refs: ["ETCSL 2.1.1 109", "ETCSL 2.1.1 110", "ETCSL 2.1.1 126"], note: "{d}dumu-zid šu-KU6 'the fisherman' of Kuara; meš3-ḫe2 simug 'the smith'; Lugalbanda sipad 'shepherd' (107)"}
+      - {motif: post-flood-declining-lifespans, refs: ["ETCSL 2.1.1 98", "ETCSL 2.1.1 108", "ETCSL 2.1.1 115", "ETCSL 2.1.1 118", "ETCSL 2.1.1 121"], note: "324, 1200 (Lugalbanda), 126 (Gilgameš), then 30, 15, 9 years"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 132", "ETCSL 2.1.1 133"]}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 106A", "ETCSL 2.1.1 130", "ETCSL 2.1.1 131"]}
+    hints:
+      - "A hero of divine or spirit paternity: Gen 6:4 (the nephilim born of the sons of God); Gilgamesh two-thirds god."
+      - "City-founder kings: Gen 4:17 (Cain builds a city), Gen 10:10-11 (Nimrod's kingdom began in Babel, Erech/Unug, Akkad)."
+      - "Mysterious disappearance of a ruler: Deut 34:6 (no one knows Moses' grave)."
+  - id: ane-etcsl-2-1-1-middle-dynasties
+    tradition: ane-sumerian
+    title: "Sumerian king list: Urim, Awan, Kish, Hamazi, Unug, Adab, Mari, Kish (Kug-Bau), Akshak, Kish, Lugal-zage-si"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 134-265"]
+    tags:
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 145", "ETCSL 2.1.1 147", "ETCSL 2.1.1 157", "ETCSL 2.1.1 184", "ETCSL 2.1.1 185", "ETCSL 2.1.1 209", "ETCSL 2.1.1 210", "ETCSL 2.1.1 241", "ETCSL 2.1.1 263", "ETCSL 2.1.1 265"], note: "{ĝiš}tukul ba-an-sag3; variants ba-gul 'destroyed' and bal-bi ba-kur2 'its reign was changed'; P3+BT14 has kingship 'returned a second/third time' to Unug (185, 258)"}
+      - {motif: king-of-lowly-trade-origin, refs: ["ETCSL 2.1.1 160", "ETCSL 2.1.1 164", "ETCSL 2.1.1 215", "ETCSL 2.1.1 216", "ETCSL 2.1.1 217", "ETCSL 2.1.1 254"], note: "su8-sud3-da {lu2}azlag2 'the fuller'; ma2-ma2-gal {lu2}ma2-laḫ4 'the boatman'; ba-zi {lu2}ašgab 'leatherworker'; zi-zi {lu2}azlag2; li-im-er gudug 'priest'; na-an-ni-ia zadim 'jeweller'"}
+      - {motif: woman-rules-as-king, refs: ["ETCSL 2.1.1 224", "ETCSL 2.1.1 225", "ETCSL 2.1.1 226", "ETCSL 2.1.1 227"], note: "kug-{d}ba-u2 {f}lu2-kurun-na 'the woman tavern-keeper', suḫuš kiš mu-un-gen6-na 'who made firm the foundations of Kiš', lugal-am3 mu 100 i3-ak"}
+      - {motif: post-flood-declining-lifespans, refs: ["ETCSL 2.1.1 136", "ETCSL 2.1.1 165", "ETCSL 2.1.1 181", "ETCSL 2.1.1 189", "ETCSL 2.1.1 233"], note: "hundreds of years still in Kiš and Ḫamazi (360), single decades elsewhere"}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 143", "ETCSL 2.1.1 144", "ETCSL 2.1.1 174", "ETCSL 2.1.1 175", "ETCSL 2.1.1 219", "ETCSL 2.1.1 220", "ETCSL 2.1.1 249A", "ETCSL 2.1.1 255", "ETCSL 2.1.1 256"]}
+    hints:
+      - "Woman ruling: Athaliah, 2 Kgs 11:1-3; Deborah judges, Judg 4:4; the Queen of Sheba, 1 Kgs 10 and Q 27:23 ('a woman ruling over them')."
+      - "Kingship transferred from one people to another for its failure: Dan 2:21, 2:37-45 (succession of kingdoms); Q 3:26 (God gives and takes kingship from whom he wills)."
+  - id: ane-etcsl-2-1-1-akkad-gutium
+    tradition: ane-sumerian
+    title: "Sumerian king list: Sargon the gardener's son, the Akkad dynasty, anarchy, Unug IV, the Gutians"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 266-334"]
+    tags:
+      - {motif: cupbearer-becomes-king, refs: ["ETCSL 2.1.1 266", "ETCSL 2.1.1 268", "ETCSL 2.1.1 269", "ETCSL 2.1.1 271"], note: "šar-ru-ki-in ... sagi ur-{d}za-ba4-ba4 ... lugal a-ga-de3"}
+      - {motif: king-of-lowly-trade-origin, refs: ["ETCSL 2.1.1 267"], note: "ab-ba-ni nu-kiri6 'whose father was a gardener'"}
+      - {motif: anarchy-no-king, refs: ["ETCSL 2.1.1 284", "ETCSL 2.1.1 285", "ETCSL 2.1.1 286", "ETCSL 2.1.1 287", "ETCSL 2.1.1 288", "ETCSL 2.1.1 289"], note: "a-ba-am3 lugal a-ba-am3 nu lugal (Akkadian variant ma-nu-um šar3 ma-nu-um la šar3): four kings in three years"}
+      - {motif: anarchy-no-king, refs: ["ETCSL 2.1.1 308", "ETCSL 2.1.1 309", "ETCSL 2.1.1 310", "ETCSL 2.1.1 C", "ETCSL 2.1.1 D"], note: "Gutium: lugal mu nu-tuku / ni2-ta-a lugal-am3 'no famous king; they were their own kings' (variant lugal nu-ub-tuku 'they had no king')"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 295", "ETCSL 2.1.1 296", "ETCSL 2.1.1 307", "ETCSL 2.1.1 332", "ETCSL 2.1.1 333", "ETCSL 2.1.1 334"], note: "kingship taken to ugnim gu-tu-um 'the army (var. land) of Gutium', then back to Unug"}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 283A", "ETCSL 2.1.1 293", "ETCSL 2.1.1 294", "ETCSL 2.1.1 330", "ETCSL 2.1.1 331"], note: "the last Gutian, Tirigan, ruled ud 40 'forty days' (329)"}
+    hints:
+      - "No king, everyone his own ruler: Judg 17:6, 21:25; Hos 3:4. Rapid succession of short-lived kings: 1 Kgs 16:8-23, 2 Kgs 15:8-15."
+      - "Cupbearer at a foreign court: Gen 40:1-21, Neh 1:11-2:1."
+  - id: ane-etcsl-2-1-1-ur-isin
+    tradition: ane-sumerian
+    title: "Sumerian king list: Utu-hegal, the Third Dynasty of Urim, and Isin"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 335-377"]
+    tags:
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 339", "ETCSL 2.1.1 340", "ETCSL 2.1.1 353", "ETCSL 2.1.1 354"]}
+      - {motif: king-born-of-deity, refs: ["ETCSL 2.1.1 365"], note: "ur-{d}nin-urta dumu {d}iškur 'son of Iškur', with a blessing: mu ḫe2-ĝal2-la bal sag9-ga til3 niĝ2 dug3-ga ... ḫa-ba-zal-zal-e 'may he have years of abundance, a good reign, a sweet life'"}
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 337", "ETCSL 2.1.1 338", "ETCSL 2.1.1 351", "ETCSL 2.1.1 352", "ETCSL 2.1.1 376", "ETCSL 2.1.1 377"], note: "Utu-ḫeĝal: 7 years 6 months 15 days (var.), or 427 years"}
+    hints:
+      - "Blessing on the reigning king in a dynastic list: Ps 72:15-17, 1 Kgs 1:31 ('may my lord King David live forever')."
+  - id: ane-etcsl-2-1-1-totals
+    tradition: ane-sumerian
+    title: "Sumerian king list: summary totals"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.1 378-431"]
+    tags:
+      - {motif: regnal-totals-summary, refs: ["ETCSL 2.1.1 378", "ETCSL 2.1.1 379", "ETCSL 2.1.1 380", "ETCSL 2.1.1 426", "ETCSL 2.1.1 427", "ETCSL 2.1.1 428", "ETCSL 2.1.1 430"], note: "šu-niĝin2 ... a-ra2 4-kam šag4 kiš: Kiš 4 times, Unug 5 times, Urim 3 times; 11 iri nam-lugal-la ib2-ak-ka3 '11 cities where kingship was exercised'; 134 kings; lines 398-413 lost"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.1 384", "ETCSL 2.1.1 385", "ETCSL 2.1.1 388", "ETCSL 2.1.1 389", "ETCSL 2.1.1 420", "ETCSL 2.1.1 421"]}
+    hints:
+      - "Summary totals of generations: Matt 1:17 (fourteen generations three times); Exod 12:40-41 (430 years); 1 Kgs 6:1 (480 years)."
+  - id: ane-etcsl-2-1-2-primeval-lagash
+    tradition: ane-sumerian
+    title: "Rulers of Lagash: after the flood, before agriculture; Ningirsu gives the tools"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.2 1-102"]
+    tags:
+      - {motif: after-the-flood-era-marker, refs: ["ETCSL 2.1.2 1", "ETCSL 2.1.2 2"], note: "[eĝer a]-ma-ru ba-ur3-ra-ta / [u3] gel-le-eĝ3 kur-ra-ke4 ba-an-ĝar-ra-ta 'and the destruction of the lands was brought about'"}
+      - {motif: seed-of-mankind-preserved-after-flood, refs: ["ETCSL 2.1.2 3", "ETCSL 2.1.2 4", "ETCSL 2.1.2 5"], note: "numun nam-lu2-ulu3 im-mi-in-taka4-a-ba 'when the seed of mankind was left (preserved)'; uĝ3 saĝ gig2-ga ni2-bi-a im-mi-in-il2-la-a-ba 'the black-headed rose of themselves'"}
+      - {motif: kingship-descends-from-heaven, refs: ["ETCSL 2.1.2 6", "ETCSL 2.1.2 7", "ETCSL 2.1.2 8", "ETCSL 2.1.2 9", "ETCSL 2.1.2 10"], note: "negative: nam-lugal aga iri-am3 an-ta nu-ub-ta-an-e3-a-ba 'kingship, the crown of the city, had not yet come out of heaven', though An and Enlil called mankind's name and set up nam-ensi2"}
+      - {motif: god-gives-agricultural-tools, refs: ["ETCSL 2.1.2 11", "ETCSL 2.1.2 12", "ETCSL 2.1.2 13", "ETCSL 2.1.2 54", "ETCSL 2.1.2 55", "ETCSL 2.1.2 56"], note: "{d}nin-ĝir2-su {ĝiš}al {ĝiš}mar {gi}dusu {ĝiš}apin-e zi-šag4-ĝal2 kalam-ma 'pickaxe, spade, earth basket, plough, the life of the land'; partly restored at 54-56"}
+      - {motif: post-flood-declining-lifespans, refs: ["ETCSL 2.1.2 14", "ETCSL 2.1.2 15", "ETCSL 2.1.2 16"], note: "post-flood: lu2-tur dan3-dan3-na-ka mu 100 i3-ak / nam-buluĝ3-ĝa2-ni-ta mu 100 bi2-in-ak 'a child's carefree youth lasted 100 years, and after growing up another 100'"}
+      - {motif: before-irrigation-famine, refs: ["ETCSL 2.1.2 20", "ETCSL 2.1.2 21", "ETCSL 2.1.2 22", "ETCSL 2.1.2 23", "ETCSL 2.1.2 26", "ETCSL 2.1.2 27", "ETCSL 2.1.2 28", "ETCSL 2.1.2 30"], note: "ĝir2-su šag4-ĝar [i3-ĝal2-am3]; id2 nu-un-dun-na-am3 'canals not dug'; nam-lu2-ulu3 igi-bi im šeĝ3-šeĝ3-ĝa2 in-bar 'people looked to rain'; Ezina did not make barley grow; partly restored"}
+      - {motif: ruler-digs-canal, refs: ["ETCSL 2.1.2 50", "ETCSL 2.1.2 51", "ETCSL 2.1.2 101", "ETCSL 2.1.2 102"], note: "{id2}PU3 mu-un-dun; mu 2760 i3-ak 'he acted for 2760 years'; lines 38-47, 68-98 lost"}
+      - {motif: prostration-toward-temple, refs: ["ETCSL 2.1.2 59", "ETCSL 2.1.2 60", "ETCSL 2.1.2 61", "ETCSL 2.1.2 62", "ETCSL 2.1.2 63"], note: "interpretive: before Ezina who makes the seed grow ki-a bi2-in-za-za-aš 'they prostrated themselves'"}
+    hints:
+      - "Gen 2:5 (no rain yet and no man to till the ground) and Deut 11:10-11 (Egypt watered by foot, the land drinks rain)."
+      - "After the flood the seed of mankind preserved: Gen 7:3 ('to keep seed alive'), Gen 9:1, 9:19; Q 11:48, Q 37:77 ('We made his offspring the survivors')."
+      - "God teaches agriculture: Isa 28:24-29 ('his God instructs him'); culture heroes Gen 4:20-22; Noah the first farmer Gen 9:20."
+  - id: ane-etcsl-2-1-2-rulers
+    tradition: ane-sumerian
+    title: "Rulers of Lagash: long-lived ensis, their personal gods and canals; down to Gudea"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.2 103-200"]
+    tags:
+      - {motif: personal-god-of-ruler, refs: ["ETCSL 2.1.2 104", "ETCSL 2.1.2 125", "ETCSL 2.1.2 160", "ETCSL 2.1.2 164", "ETCSL 2.1.2 169", "ETCSL 2.1.2 175", "ETCSL 2.1.2 184", "ETCSL 2.1.2 190", "ETCSL 2.1.2 193"], note: "diĝir-ra-ni {d}ig-alim, {d}šul-utul10, {d}meš3-an-DU, {d}nin-a-zu, {d}za-za-ru, {d}pa4-bil-saĝ, {d}ḫa-ia3 {d}nisaba"}
+      - {motif: ruler-digs-canal, refs: ["ETCSL 2.1.2 105", "ETCSL 2.1.2 145", "ETCSL 2.1.2 146", "ETCSL 2.1.2 147", "ETCSL 2.1.2 148", "ETCSL 2.1.2 149", "ETCSL 2.1.2 150", "ETCSL 2.1.2 151", "ETCSL 2.1.2 168"], note: "{id2}niĝin6-ĝiš-tuku-am3, {id2}maḫ, {id2}piriĝ3-gin7-ĝen, {id2}{d}nanše-pad3-da ... mu-un-dun; a-gar3 gal-gal 1(AŠ)-e en3-bi tar-re-de3 'to care single-handedly for the great fields'"}
+      - {motif: etiology-of-writing, refs: ["ETCSL 2.1.2 107", "ETCSL 2.1.2 108"], note: "ud-ba mu sar nu-me-a 'in those days there was no writing'; canals not dug, baskets not carried"}
+      - {motif: post-flood-declining-lifespans, refs: ["ETCSL 2.1.2 106", "ETCSL 2.1.2 119", "ETCSL 2.1.2 122", "ETCSL 2.1.2 152", "ETCSL 2.1.2 156", "ETCSL 2.1.2 161", "ETCSL 2.1.2 172", "ETCSL 2.1.2 179", "ETCSL 2.1.2 181", "ETCSL 2.1.2 188", "ETCSL 2.1.2 190"], note: "1200, 1320, 1800, 2220, 1080 (Ur-Nanše), 690, 960, then 120, 160, 280, 140 years"}
+      - {motif: king-wishes-to-build-temple, refs: ["ETCSL 2.1.2 154", "ETCSL 2.1.2 155", "ETCSL 2.1.2 170", "ETCSL 2.1.2 171", "ETCSL 2.1.2 187"], note: "Ur-Nanše built the E-sirara; {d}nin-ĝir2-su [e2-a-ni du3-da] mu-un-na-dug4 'Ninĝirsu commanded him to build his temple' (restored); the Tiraš palace"}
+      - {motif: ruler-without-parentage, refs: ["ETCSL 2.1.2 198", "ETCSL 2.1.2 199"], note: "gu3-de2-a šeš-ban3-da ur-{d}ba-u2 ... dumu ama-na dumu ad-da nu-me-a 'not the son of his mother, not the son of his father'"}
+      - {motif: doxology-closes-composition, refs: ["ETCSL 2.1.2 200"], note: "e2-dub-ba sar-ra {d}nisaba za3-mi2 'written in the school; Nisaba be praised'"}
+    hints:
+      - "God commands the ruler to build his house: 2 Sam 7:5-13, Hag 1:8, Ezra 1:2."
+      - "'Without father, without mother': Heb 7:3 on Melchizedek (Gen 14:18); Gudea elsewhere calls the goddess Gatumdug his mother."
+      - "Canal-digging king: 2 Kgs 20:20 and 2 Chr 32:30 (Hezekiah's conduit); Sir 48:17."
+      - "Writing not yet invented: compare Gen 5:1 ('this is the book of the generations of Adam')."
+  - id: ane-etcsl-2-1-3-tummal
+    tradition: ane-sumerian
+    title: "History of the Tummal: kings build, sons bring Ninlil, the Tummal falls into ruins five times"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.3 1-33"]
+    tags:
+      - {motif: temple-repeatedly-ruined-and-restored, refs: ["ETCSL 2.1.3 1", "ETCSL 2.1.3 2", "ETCSL 2.1.3 4", "ETCSL 2.1.3 6", "ETCSL 2.1.3 11", "ETCSL 2.1.3 16", "ETCSL 2.1.3 21", "ETCSL 2.1.3 26"], note: "refrain: tum-ma-al-e pa bi2-i-e3 / {d}nin-lil2 tum-ma-al-še3 in-tum3 / a-ra2 N-a-kam tum-ma-al ba-šub 'for the Nth time the Tummal fell into ruins'"}
+      - {motif: son-not-father-builds-temple, refs: ["ETCSL 2.1.3 2", "ETCSL 2.1.3 3", "ETCSL 2.1.3 4", "ETCSL 2.1.3 12", "ETCSL 2.1.3 13", "ETCSL 2.1.3 14", "ETCSL 2.1.3 22", "ETCSL 2.1.3 23", "ETCSL 2.1.3 24"], note: "pattern: the father builds in Enlil's temple (En-me-barage-si, Meš-Ane-pada, Gilgameš, Nanni, Ur-Namma), the son (Aga, Meš-ki-aĝ-nuna, Ur-lugal, Meš-ki-aĝ-Nanna, Šulgi) restores the Tummal and brings Ninlil in"}
+      - {motif: ark-brought-into-temple-at-feast, refs: ["ETCSL 2.1.3 5", "ETCSL 2.1.3 10", "ETCSL 2.1.3 30"], note: "interpretive: the goddess (her image) {d}nin-lil2 tum-ma-al-še3 in-tum3 'brought Ninlil into the Tummal'; i-ĝen-ĝen 'came regularly'"}
+      - {motif: priest-chosen-by-omen, refs: ["ETCSL 2.1.3 28", "ETCSL 2.1.3 29"], note: "en-am-gal-an-na en {d}inana unug-ga maš2-e in-pad3-de3 'chose by the kid (extispicy) as en of Inana of Unug'"}
+      - {motif: scribal-colophon, refs: ["ETCSL 2.1.3 31"], note: "inim lu2-{d}inana ašgab gal {d}en-lil2-la2-še3 sar-re 'written according to the words of Lu-Inana, chief leatherworker of Enlil'"}
+    hints:
+      - "Father prepares, son builds the temple: 1 Chr 22:5-11, 1 Kgs 5:17-19 (Eng. 5:3-5); the ark brought into Solomon's temple 1 Kgs 8:1-6."
+      - "Temple history as repeated destruction and rebuilding: Ezra 5:11-16; Q 17:4-7 (two corruptions and the temple entered twice)."
+      - "Priestly office by lot: 1 Chr 24:5, Luke 1:9; Aaron chosen by sign, Num 17."
+  - id: ane-etcsl-2-1-4-sargon-dream
+    tradition: ane-sumerian
+    title: "Sargon legend: Ur-Zababa's reign ends; Sargon the cupbearer dreams of Inana drowning the king"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.4 A:1-13", "ETCSL 2.1.4 B:1-24"]
+    tags:
+      - {motif: kingship-transferred-by-god, refs: ["ETCSL 2.1.4 A:8", "ETCSL 2.1.4 A:9"], note: "nam-lugal-la-na bal-bi šu kur2-ru-de3 ... an {d}en-lil2 inim kug-ga-ne-ne-a 'An and Enlil by their holy command to alter his term of reign'; partly broken"}
+      - {motif: king-of-lowly-trade-origin, refs: ["ETCSL 2.1.4 A:10", "ETCSL 2.1.4 A:11"], note: "ad-da-ni la-i-bu-um ama-ni [...] 'his father was La'ibum, his mother ...'; city broken"}
+      - {motif: king-keeps-ominous-dream-secret, refs: ["ETCSL 2.1.4 B:3", "ETCSL 2.1.4 B:4"], note: "šag4-ga-ni-še3 mu-un-zu eme-na nu-ĝa2-ĝa2 lu2-da nu-mu-un-da-ab-be2 'he understood, but did not put it into words, did not speak with anyone'"}
+      - {motif: cupbearer-becomes-king, refs: ["ETCSL 2.1.4 B:5", "ETCSL 2.1.4 B:6", "ETCSL 2.1.4 B:12"], note: "MUŠ3.KA.UL 'cupbearer', in charge of {ĝiš}gu2-ne-saĝ-ĝa2 'the drinks cupboard'"}
+      - {motif: deity-stands-by-favourite, refs: ["ETCSL 2.1.4 B:7"], note: "kug {d}inana-ke4 da-bi-a muš3 nu-tum2-me 'holy Inana did not cease to stand by him'"}
+      - {motif: king-loosed-in-terror, refs: ["ETCSL 2.1.4 B:9", "ETCSL 2.1.4 B:10", "ETCSL 2.1.4 B:11"], note: "piriĝ-gin7 šag4 pap-ḫal-la-na kaš3 biz-biz šag4-ba uš2 lugud si-a-ba 'like a lion he urinated on his legs, blood and pus in it'; ku6 a mun lug-ga-gin7 'like a fish in brackish water'"}
+      - {motif: dream-of-giant-woman, refs: ["ETCSL 2.1.4 B:14", "ETCSL 2.1.4 B:22", "ETCSL 2.1.4 B:23", "ETCSL 2.1.4 B:24"], note: "{lu2}ki-sikil 1-am3 an-gin7 sukud-da-ni ki-gin7 daĝal-la-ni 'a young woman as high as heaven, as broad as earth'; id2 maḫ id2 mud-še3 ĝa2-ra mu-un-gir5-re-de3-en 'for me she drowned you in a river of blood'"}
+      - {motif: dream-reported-to-king, refs: ["ETCSL 2.1.4 B:16", "ETCSL 2.1.4 B:17", "ETCSL 2.1.4 B:19", "ETCSL 2.1.4 B:21"], note: "the king hears Sargon's groaning (dum-dam) and asks: MUŠ3.KA.UL ma-mu2 ĝi6 u3-na-na u3-mu-ri-du8 'was a dream revealed to you in the night?'"}
+    hints:
+      - "Cupbearer's dream told to the king: Gen 40:9-13 (Pharaoh's cupbearer); Q 12:36, 12:41."
+      - "Dream of the young rival's rise and the king's fall told to the king: Gen 37:5-10 and 1 Sam 18:8-12; the king who understands but keeps silent: Gen 37:11 ('his father kept the matter')."
+      - "King's terror at an omen: Dan 5:6 (loins loosened, knees knocking), Dan 2:1, 4:2."
+      - "The Lord was with him: Gen 39:2-3, 1 Sam 18:12, 18:14."
+  - id: ane-etcsl-2-1-4-sargon-plots
+    tradition: ane-sumerian
+    title: "Sargon legend: the plot at the E-sikil; Inana bars one polluted with blood; the letter to Lugal-zage-si"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.4 B:25-56", "ETCSL 2.1.4 C:1-12"]
+    tags:
+      - {motif: king-plots-death-of-rising-servant, refs: ["ETCSL 2.1.4 B:29", "ETCSL 2.1.4 B:30", "ETCSL 2.1.4 B:33", "ETCSL 2.1.4 B:34", "ETCSL 2.1.4 B:36"], note: "orders to the chief smith Beliš-tikal: when the cupbearer brings my zabar-šu (bronze hand-mirror?), e2-sikil-la e2 nam tar-ra-ka alan-gin7 kuš3-kuš3-a sig10-bi2-ib 'throw them into the mould like statues'"}
+      - {motif: deity-stands-by-favourite, refs: ["ETCSL 2.1.4 B:39", "ETCSL 2.1.4 B:41"], note: "kug {d}inana-ke4 zag zid-da-ni muš3 nu-tum2-mu 'did not cease standing at his right side'; igi mu-un-na-ni10-ni10 ĝiri3-ni im-da-RU 'turned toward him and blocked his way'"}
+      - {motif: bloodstained-barred-from-sanctuary, refs: ["ETCSL 2.1.4 B:40", "ETCSL 2.1.4 B:42", "ETCSL 2.1.4 B:43"], note: "e2-sikil-la e2 kug-ga na-nam lu2 mud nu-mu-un-kur9-re 'the E-sikil is a holy house; no one (polluted with) blood may enter'"}
+      - {motif: king-keeps-ominous-dream-secret, refs: ["ETCSL 2.1.4 B:49", "ETCSL 2.1.4 B:50", "ETCSL 2.1.4 B:51", "ETCSL 2.1.4 B:52"], note: "refrain repeated twice when Sargon returns alive"}
+      - {motif: etiology-of-writing, refs: ["ETCSL 2.1.4 B:53"], note: "ud-bi-ta inim im-ma gub-bu ḫe2-ĝal2 im sig9-sig9-ge ba-ra-ĝal2-la-am3 'writing words on clay existed, but enveloping tablets did not'"}
+      - {motif: bearer-carries-own-death-warrant, refs: ["ETCSL 2.1.4 B:54", "ETCSL 2.1.4 B:55", "ETCSL 2.1.4 B:56"], note: "šar-ru-um-ki-in diĝir-re-e-ne šu dug4-ga-ar / im-ma gub-bu niĝ2 ni2 ba-ug7-a-ta 'with a message on clay about killing him' to Lugal-zage-si in Unug; the rest is lost"}
+      - {motif: refusal-to-bow-to-man, refs: ["ETCSL 2.1.4 C:8", "ETCSL 2.1.4 C:9"], note: "kiĝ2-gi4-a šar-ru-ki-in gu2 nu-mu-un-sig10-sig10 'envoy, Sargon does not bow the neck'; C:1-2, 10-12 fragmentary"}
+    hints:
+      - "Letter ordering the bearer's death: 2 Sam 11:14-15 (Uriah); also the Bellerophon tale (Iliad 6.168-170)."
+      - "King plots to have a rising servant killed by others: 1 Sam 18:17-25 (Saul and the Philistines' foreskins)."
+      - "Man of blood barred from the holy house: 1 Chr 22:8, 28:3; Num 35:33-34."
+      - "Divine protection of the endangered youth: Dan 3:24-27 (unharmed in the furnace) and Q 21:69 (fire cool for Abraham)."
+  - id: ane-etcsl-2-1-5-agade-rise
+    tradition: ane-sumerian
+    title: "Cursing of Agade: Enlil gives kingship to Sargon; Inana makes Agade overflow with wealth and tribute"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.5 1:1-56"]
+    tags:
+      - {motif: kingship-transferred-by-god, refs: ["ETCSL 2.1.5 1:1", "ETCSL 2.1.5 1:2", "ETCSL 2.1.5 1:3", "ETCSL 2.1.5 1:4", "ETCSL 2.1.5 1:5", "ETCSL 2.1.5 1:6"], note: "saĝ-ki gid2-da {d}en-lil2-la2-ke4 'Enlil's frown' slew Kiš gud an-na-gin7 'like the Bull of Heaven'; nam-en nam-lugal-la mu-un-na-an-šum2 to šar-ru-gen6"}
+      - {motif: golden-age-of-city-abundance, refs: ["ETCSL 2.1.5 1:12", "ETCSL 2.1.5 1:14", "ETCSL 2.1.5 1:15", "ETCSL 2.1.5 1:19", "ETCSL 2.1.5 1:21", "ETCSL 2.1.5 1:23", "ETCSL 2.1.5 1:25", "ETCSL 2.1.5 1:26", "ETCSL 2.1.5 1:27"], note: "foreigners mušen nu-zu-gin7 'like unusual birds'; {ugu}ugu4-bi am-si maḫ ab2-za-za 'monkeys, mighty elephants, water buffalo'; emmer stores filled with gold and silver"}
+      - {motif: gifts-to-each-age-group, refs: ["ETCSL 2.1.5 1:29", "ETCSL 2.1.5 1:30", "ETCSL 2.1.5 1:31", "ETCSL 2.1.5 1:32", "ETCSL 2.1.5 1:33"], note: "um-ma-bi ad gi4-gi4 ba-an-šum2 / ab-ba-bi ka-inim-ma / ki-sikil-bi ... / ĝuruš-bi a2 {ĝiš}tukul-la / di4-di4-la2-bi šag4 ḫul2-la: each age group given its gift"}
+      - {motif: kings-bring-tribute-to-temple, refs: ["ETCSL 2.1.5 1:45", "ETCSL 2.1.5 1:46", "ETCSL 2.1.5 1:47", "ETCSL 2.1.5 1:48", "ETCSL 2.1.5 1:49", "ETCSL 2.1.5 1:50", "ETCSL 2.1.5 1:53"], note: "mar-tu kur-ra lu2 še nu-zu 'Martu who know no grain'; me-luḫ-ḫa lu2 kur gig2-ga 'people of the black land'; Elam and Subir loaded like packasses; nidba itid-da zag-mu 'monthly and New Year offerings'"}
+    hints:
+      - "Wealth of nations streaming to the city: Isa 60:5-11, 1 Kgs 10:22-25 (apes and ivory, ships of Tarshish), Ps 72:10."
+      - "Silver and gold common in the capital: 1 Kgs 10:27; city wall reaching heaven: Deut 1:28, Gen 11:4."
+      - "God gives and takes kingship: Dan 2:21, 4:17, Q 3:26."
+  - id: ane-etcsl-2-1-5-inana-departs-naram-suen-omens
+    tradition: ane-sumerian
+    title: "Cursing of Agade: the word from the E-kur; Inana abandons Agade; the gods take its gifts; Naram-Suen's dream and silent omens"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.5 1:57-99"]
+    tags:
+      - {motif: deity-abandons-city, refs: ["ETCSL 2.1.5 1:57", "ETCSL 2.1.5 1:59", "ETCSL 2.1.5 1:60", "ETCSL 2.1.5 1:61", "ETCSL 2.1.5 1:62"], note: "inim e2-kur-ra me-gin7 ba-an-ĝar 'the word of the E-kur was (silent?)'; iri-ta dur2-ra-ni ba-ra-ĝen ... kug {d}inana-ke4 eš3 a-ga-de3 mu-un-šub 'abandoned the sanctuary'"}
+      - {motif: gods-withdraw-gifts-from-city, refs: ["ETCSL 2.1.5 1:64", "ETCSL 2.1.5 1:65", "ETCSL 2.1.5 1:66", "ETCSL 2.1.5 1:67", "ETCSL 2.1.5 1:68", "ETCSL 2.1.5 1:69", "ETCSL 2.1.5 1:70", "ETCSL 2.1.5 1:71", "ETCSL 2.1.5 1:73", "ETCSL 2.1.5 1:75", "ETCSL 2.1.5 1:76"], note: "within ud nu-5-am3 ud nu-10-am3 'not five, not ten days': Ninurta takes crown, emblem and throne; Utu its ka-inim-ma 'eloquence'; Enki its ĝeštug2 'wisdom'; An its me-lem4; Enki pulls its mooring pole into the abzu; Inana takes its weapons; Inana hands battle to the enemy (lu2-kur2-ra-ra gaba ba-ni-in-ri)"}
+      - {motif: king-keeps-ominous-dream-secret, refs: ["ETCSL 2.1.5 1:86", "ETCSL 2.1.5 1:87", "ETCSL 2.1.5 1:93A"], note: "{d}na-ra-am-{d}suen maš2-ĝi6-ka igi ba-ni-in-du8-a 'saw in a nocturnal vision'"}
+      - {motif: king-mourns-seven-years, refs: ["ETCSL 2.1.5 1:88", "ETCSL 2.1.5 1:89", "ETCSL 2.1.5 1:90", "ETCSL 2.1.5 1:91", "ETCSL 2.1.5 1:92", "ETCSL 2.1.5 1:93"], note: "tug2-mu-dur7-ra ba-an-mur10 'put on mourning clothes', covers his chariot with a reed mat, gives away a2-šita4 nam-lugal-la; mu 7-am3 mu-un-ge-en; lugal mu 7-am3 šu saĝ-ĝa2 dug4-ga a-ba igi im-mi-in-du8-a 'who ever saw a king with hand on head for seven years?'"}
+      - {motif: omen-gives-no-answer, refs: ["ETCSL 2.1.5 1:94", "ETCSL 2.1.5 1:95", "ETCSL 2.1.5 1:96", "ETCSL 2.1.5 1:97"], note: "e2-še3 maš2-am3 ši-gid2-de3 / e2 du3-a maš2-a nu-mu-un-de3-ĝal2 'the kid gave no (omen) for building the temple', twice"}
+      - {motif: king-defies-divine-decree, refs: ["ETCSL 2.1.5 1:98", "ETCSL 2.1.5 1:99"], note: "{d}en-lil2 niĝ2-dug4-ga-ni ba-en-de3-kur2 'he tried to alter Enlil's pronouncement'"}
+      - {motif: king-wishes-to-build-temple, refs: ["ETCSL 2.1.5 1:94", "ETCSL 2.1.5 1:96"], note: "the request to build is refused by the omen"}
+    hints:
+      - "God's glory leaves the temple and city: Ezek 10:18-19, 11:22-23; Shiloh forsaken: Ps 78:60, Jer 7:12-14."
+      - "No answer by dreams, Urim or prophets: 1 Sam 28:6; the king refused permission to build the temple: 2 Sam 7:5-7, 1 Chr 17:4."
+      - "King in mourning clothes and seven 'times': Dan 4:13, 4:22-30 (Nebuchadnezzar); Jonah 3:6; 1 Kgs 21:27."
+  - id: ane-etcsl-2-1-5-ekur-desecrated
+    tradition: ane-sumerian
+    title: "Cursing of Agade: Naram-Suen demolishes and plunders the E-kur"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.5 1:100-148"]
+    tags:
+      - {motif: king-desecrates-gods-own-temple, refs: ["ETCSL 2.1.5 1:101", "ETCSL 2.1.5 1:103", "ETCSL 2.1.5 1:105", "ETCSL 2.1.5 1:106", "ETCSL 2.1.5 1:107", "ETCSL 2.1.5 1:108"], note: "gi-gun4-na-aš 30 giĝ4 ba-ši-in-ak 'treated the giguna as worth thirty shekels'; nitaḫ lu2 la-ga iri laḫ5-gin7 'like a robber' sets ladders against the temple"}
+      - {motif: temple-destroyed-by-enemies, refs: ["ETCSL 2.1.5 1:112", "ETCSL 2.1.5 1:113", "ETCSL 2.1.5 1:114", "ETCSL 2.1.5 1:115", "ETCSL 2.1.5 1:117", "ETCSL 2.1.5 1:118", "ETCSL 2.1.5 1:120", "ETCSL 2.1.5 1:122", "ETCSL 2.1.5 1:125"], note: "not an enemy but the king: {urud}ḫa-zi-in gal-gal 'large axes', {urud}aga-silig a2 2-na 'double-edged'; spades at its roots, axes at its top; e2-e ĝuruš ug5-ga-gin7 gu2 ki-še3 ba-an-da-ab-la2 'the temple bowed its neck like a dead soldier'"}
+      - {motif: cosmic-consequence-of-sacrilege, refs: ["ETCSL 2.1.5 1:120", "ETCSL 2.1.5 1:121", "ETCSL 2.1.5 1:123", "ETCSL 2.1.5 1:124", "ETCSL 2.1.5 1:126"], note: "{ĝiš}alal-bi ... im šeĝ3-šeĝ3 an-na ba-e-ed3 'he ripped out its drains, and the rain went back to heaven'; kan4 še nu-kud-da 'Gate from which grain is never diverted' - the Land deprived of grain; Gate of Well-being struck, well-being of all lands changed"}
+      - {motif: sacred-interior-exposed, refs: ["ETCSL 2.1.5 1:129", "ETCSL 2.1.5 1:130"], note: "itima e2 ud nu-zu-ba uĝ3-e igi i-ni-in-bar 'the people saw the bedchamber that knows no daylight'; dub-šen kug diĝir-re-e-ne-ke4 uri igi i-ni-in-bar 'Akkad looked into the gods' holy chest'"}
+      - {motif: divine-statues-thrown-into-fire, refs: ["ETCSL 2.1.5 1:131", "ETCSL 2.1.5 1:132", "ETCSL 2.1.5 1:133"], note: "la-ḫa-ma dub-la2 gal ... lu2 an-zil gu7-a nu-me-eš-a ... šag4 izi-ka ba-an-sag3 'the lahama figures, who had committed no sacrilege, he threw into the fire'"}
+      - {motif: temple-treasures-plundered, refs: ["ETCSL 2.1.5 1:134", "ETCSL 2.1.5 1:136", "ETCSL 2.1.5 1:137", "ETCSL 2.1.5 1:138", "ETCSL 2.1.5 1:139", "ETCSL 2.1.5 1:140", "ETCSL 2.1.5 1:141", "ETCSL 2.1.5 1:143", "ETCSL 2.1.5 1:144", "ETCSL 2.1.5 1:145"], note: "gold in containers, silver in leather bags, copper filling the docks; smiths re-shape it; {ĝiš}ma2 gal-gal kar-ra ba-an-us2 at Enlil's temple; niĝ2-gur11 iri ḫul-a nu-me-a 'though not booty of a plundered city'"}
+      - {motif: gods-withdraw-gifts-from-city, refs: ["ETCSL 2.1.5 1:146", "ETCSL 2.1.5 1:147", "ETCSL 2.1.5 1:148"], note: "a-ga-de3 dim2-ma-bi ba-ra-e3 'Agade's good sense left'; umuš a-ga-de3 ba-kur2"}
+    hints:
+      - "Temple hacked with axes and burned: Ps 74:3-8; Lam 2:7; Jer 52:13-19 (bronze, gold and silver carried away)."
+      - "The nations see the hidden sanctuary: Lam 1:10; Num 4:20 (not to look on the holy things even for a moment)."
+      - "A king of the god's own people strips the temple: 2 Kgs 16:17-18 (Ahaz), 2 Kgs 18:15-16 (Hezekiah strips the doors); Belshazzar uses the temple vessels, Dan 5:2-4."
+  - id: ane-etcsl-2-1-5-gutians-famine-lament
+    tradition: ane-sumerian
+    title: "Cursing of Agade: Enlil brings down the Gutians; famine, death, lament of seven days"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.5 1:149-209"]
+    tags:
+      - {motif: god-summons-barbarian-invaders, refs: ["ETCSL 2.1.5 1:149", "ETCSL 2.1.5 1:150", "ETCSL 2.1.5 1:151", "ETCSL 2.1.5 1:152", "ETCSL 2.1.5 1:157", "ETCSL 2.1.5 1:158", "ETCSL 2.1.5 1:159", "ETCSL 2.1.5 1:160", "ETCSL 2.1.5 1:161"], note: "a-ma-ru zig3-ga gaba-šu-ĝar nu-tuku 'the rising flood that has no rival' (Enlil); kur gu2-bi2-na-še3 igi na-an-il2; {d}en-lil2-le kur-ta nam-ta-an-e3; buru5{mušen}-gin7 ki am3-u2-us2 'like small birds they swooped'; a2-bi gu maš2-anše-gin7 'their arms a net'"}
+      - {motif: barbarians-subhuman-description, refs: ["ETCSL 2.1.5 1:154", "ETCSL 2.1.5 1:155", "ETCSL 2.1.5 1:156"], note: "uĝ3-ĝa2 nu-sig10-ga kalam-ma nu-šid-da 'not like (other) people, not counted in the land'; gu-ti-um uĝ3 keše2-da nu-zu; dim2-ma lu2-u18-lu ĝalga ur-ra ulutim2 {ugu}ugu4-bi 'human intelligence, dog's instinct, monkey's features'"}
+      - {motif: roads-deserted-under-oppression, refs: ["ETCSL 2.1.5 1:162", "ETCSL 2.1.5 1:163", "ETCSL 2.1.5 1:166", "ETCSL 2.1.5 1:167", "ETCSL 2.1.5 1:168", "ETCSL 2.1.5 1:169"], note: "lu2-kiĝ2-gi4-a ḫar-ra-an-na nu-mu-un-ĝen; ḫar-ra-an-na lu2-sa-gaz ba-e-tuš 'brigands sat on the highways'; city-gate doors lie in mud"}
+      - {motif: before-irrigation-famine, refs: ["ETCSL 2.1.5 1:170", "ETCSL 2.1.5 1:171", "ETCSL 2.1.5 1:172", "ETCSL 2.1.5 1:173", "ETCSL 2.1.5 1:174", "ETCSL 2.1.5 1:175"], note: "reversion to the time before cities: ud iri ba-dim2-dim2-ma-ba ba-sig10-sig10-ga-ba; fields no grain, waters no fish, orchards no syrup or wine, clouds no rain"}
+      - {motif: famine-inflated-market-prices, refs: ["ETCSL 2.1.5 1:176", "ETCSL 2.1.5 1:177", "ETCSL 2.1.5 1:178", "ETCSL 2.1.5 1:179", "ETCSL 2.1.5 1:180"], note: "i3 1 giĝ4-e 1/2 sila3-am3; še 1 giĝ4-e 1/2 sila3; siki 1 giĝ4-e 1/2 ma-na; ku6 1 giĝ4-e {ĝiš}ba-an-e ib2-si"}
+      - {motif: dead-lie-unburied, refs: ["ETCSL 2.1.5 1:181", "ETCSL 2.1.5 1:182"], note: "ur3-ra nu2-a ur3-ra ba-ug7 / e2-a nu2-a ki nu-um-tum2 'who lay on the roof died on the roof; who lay in the house was not buried'"}
+      - {motif: dogs-devour-people-in-streets, refs: ["ETCSL 2.1.5 1:184", "ETCSL 2.1.5 1:185", "ETCSL 2.1.5 1:186", "ETCSL 2.1.5 1:187"], note: "at the Ki-ur ur sila sig9-ga zu2 ba-ni-ib-keše2 'dogs packed together in the silent streets'; two men, three men devoured"}
+      - {motif: corpses-for-jackals, refs: ["ETCSL 2.1.5 1:188", "ETCSL 2.1.5 1:189", "ETCSL 2.1.5 1:190", "ETCSL 2.1.5 1:191", "ETCSL 2.1.5 1:192"], note: "saĝ numun-e-eš ba-ab-ĝar 'heads sown like seed'; meš3 meš3-e an-ta i-im-nu2 'heroes lay on heroes'; blood of traitors on blood of the honest"}
+      - {motif: seven-day-mourning, refs: ["ETCSL 2.1.5 1:196", "ETCSL 2.1.5 1:197", "ETCSL 2.1.5 1:198", "ETCSL 2.1.5 1:199", "ETCSL 2.1.5 1:200", "ETCSL 2.1.5 1:201"], note: "survivors: ud 7 ĝi6 7-še3 / balaĝ 7-e an-ur2 gub-ba-gin7 'seven balaĝ drums like the horizon', for Enlil, not for the dead"}
+      - {motif: alas-for-my-city-lament, refs: ["ETCSL 2.1.5 1:202", "ETCSL 2.1.5 1:203", "ETCSL 2.1.5 1:204", "ETCSL 2.1.5 1:205", "ETCSL 2.1.5 1:206"], note: "um-ma a uru2-ĝu10 / ab-ba a lu2-bi / gala-e a e2-kur; young women tearing their hair, young men sharpening their knives (self-laceration?)"}
+      - {motif: priest-forbidden-mourning-rites, refs: ["ETCSL 2.1.5 1:205", "ETCSL 2.1.5 1:206"], note: "the rites that HB forbids priests are here performed: siki šab-bi 'tearing the hair', ĝiri2 saga11 'sharpening knives'"}
+    hints:
+      - "God brings a savage nation from afar: Deut 28:49-50, Jer 5:15-17, Hab 1:6-10, Isa 5:26-29; Gog from the north Ezek 38-39; Gog and Magog loosed, Q 18:94, Q 21:96."
+      - "Highways deserted: Judg 5:6, Isa 33:8, Lam 1:4."
+      - "Siege-famine prices: 2 Kgs 6:25, Rev 6:6; unburied dead and dogs: Jer 14:16, 15:3, 1 Kgs 14:11."
+      - "The reverse of creation, no rain, no grain: Hag 1:10-11, Jer 4:23-26."
+  - id: ane-etcsl-2-1-5-gods-curse-agade
+    tradition: ane-sumerian
+    title: "Cursing of Agade: the gods cool Enlil's heart and curse Agade; the curse is fulfilled"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.5 1:210-281"]
+    tags:
+      - {motif: as-you-have-done-it-shall-be-done-to-you, refs: ["ETCSL 2.1.5 1:212", "ETCSL 2.1.5 1:213", "ETCSL 2.1.5 1:225", "ETCSL 2.1.5 1:226"], note: "{d}en-lil2 iri iri-zu im-ḫul-a iri-zu-gin7 ḫe2-du3 'may the city that destroyed your city be treated as your city'; iri e2-kur-še3 ba-e-a-ul4-en {d}en-lil2 ḫe2-am3 'you pounced on E-kur: it is Enlil'"}
+      - {motif: brother-will-not-know-brother, refs: ["ETCSL 2.1.5 1:214", "ETCSL 2.1.5 1:215", "ETCSL 2.1.5 1:216"], note: "iri-ba saĝ tul2-ba ḫe2-ni-ib-si-si 'may heads fill the wells'; šeš-e šeš-a-ni ĝiškim na-an-ni-in-e3 'may brother not recognise brother'"}
+      - {motif: curse-of-reversion-to-origin, refs: ["ETCSL 2.1.5 1:231", "ETCSL 2.1.5 1:232", "ETCSL 2.1.5 1:233", "ETCSL 2.1.5 1:234", "ETCSL 2.1.5 1:235", "ETCSL 2.1.5 1:236"], note: "im-zu abzu-ba ḫe2-eb-gi4 / im {d}en-ki-ke4 nam ku5-ra2 ḫe2-a; grain to its furrow cursed by Ezina; timber to its forest cursed by Ninilduma"}
+      - {motif: curse-kin-slain-by-own-hand, refs: ["ETCSL 2.1.5 1:237", "ETCSL 2.1.5 1:238"], note: "gud gaz-gaz-e dam ḫe2-en-gaz-e / udu šum-šum-zu dumu ḫe2-en-šum-e 'may the cattle-slaughterer slaughter his wife, the butcher butcher his child'"}
+      - {motif: curse-on-women-of-city, refs: ["ETCSL 2.1.5 1:240", "ETCSL 2.1.5 1:241"], note: "kar-ke4-zu kan4 eš2-dam-ma-na-ka ni2 ḫa-ba-ni-ib-la2-e 'may your prostitute hang herself at her brothel gate'; ama nu-gig-zu ama nu-bar-zu dumu ḫe2-en-gi4-gi4 'may your nugig and nubar priestesses (?) turn back (abort?) their children'"}
+      - {motif: curse-precious-metals-devalued, refs: ["ETCSL 2.1.5 1:242", "ETCSL 2.1.5 1:243", "ETCSL 2.1.5 1:244"], note: "kug-sig17-zu kug-še3 ḫe2-sa10-sa10 'may your gold sell at the price of silver', silver at the price of za-ḫa-am, copper at the price of lead"}
+      - {motif: famine-inflated-market-prices, refs: ["ETCSL 2.1.5 1:248", "ETCSL 2.1.5 1:249", "ETCSL 2.1.5 1:251", "ETCSL 2.1.5 1:252", "ETCSL 2.1.5 1:253"], note: "the hungry eat the coating of the roof and chew the leather hinges ({kuš}gur21) of the father's door"}
+      - {motif: desert-demons-inhabit-ruins, refs: ["ETCSL 2.1.5 1:255", "ETCSL 2.1.5 1:263"], note: "lu2 ḫul edin ki sig9-ga-ke4 gu3 ḫu-mu-ra-ra-ra 'may the evil ones of the desert, the silent place, howl'"}
+      - {motif: foxes-prowl-on-ruined-zion, refs: ["ETCSL 2.1.5 1:256", "ETCSL 2.1.5 1:257"], note: "ka5 du6 gul-gul-la-ke4 kun ḫe2-ni-ib-ur3-ur3-re 'may the fox of the ruin-mounds brush its tail' over the uzga purification precinct"}
+      - {motif: lonely-bird-similes, refs: ["ETCSL 2.1.5 1:219", "ETCSL 2.1.5 1:220", "ETCSL 2.1.5 1:221", "ETCSL 2.1.5 1:259"], note: "pigeons moan in their windows; u3-ku-ku{mušen} mušen šag4 sag3-ga-ke4 'the ukuku, bird of depression' nests in the gateways"}
+      - {motif: grass-grows-on-highways, refs: ["ETCSL 2.1.5 1:264", "ETCSL 2.1.5 1:265", "ETCSL 2.1.5 1:268", "ETCSL 2.1.5 1:273", "ETCSL 2.1.5 1:274", "ETCSL 2.1.5 1:277"], note: "u2 gid2-da on towpaths, u2-a-nir 'grass of mourning' on waggon roads, gi er2-ra 'reed of lamentation' in the plain"}
+      - {motif: curse-brackish-water, refs: ["ETCSL 2.1.5 1:269", "ETCSL 2.1.5 1:278"], note: "a dug3-ga de2-a-zu a mun-na ḫe2-em-de2"}
+      - {motif: city-never-resettled-curse, refs: ["ETCSL 2.1.5 1:270", "ETCSL 2.1.5 1:271", "ETCSL 2.1.5 1:279", "ETCSL 2.1.5 1:280"], note: "iri-bi-a ga-tuš bi2-in-dug4-ga ki-tuš na-an-ni-dug3-ge 'whoever says I will dwell here, may the dwelling not be pleasant'"}
+      - {motif: curse-fulfilled-as-spoken, refs: ["ETCSL 2.1.5 1:272", "ETCSL 2.1.5 1:273", "ETCSL 2.1.5 1:278", "ETCSL 2.1.5 1:280"], note: "i-ne-eš2 {d}utu ud ne-e-a ur5 ḫe2-en-na-nam-ma-am3 'and before Utu on that day, so it was!'; 1:273-280 repeat 1:264-271 in the past tense"}
+      - {motif: doxology-closes-composition, refs: ["ETCSL 2.1.5 1:281"], note: "a-ga-de3 ḫul-a {d}inana za3-mi2 'Inana be praised for the destruction of Agade'"}
+    hints:
+      - "Curse on the destroyer measure for measure: Jer 50:15, 50:29, Obad 15, Ps 137:8."
+      - "Foxes on desolate Zion: Lam 5:18; Babylon a haunt of jackals and demons, never inhabited: Isa 13:19-22, Jer 50:39-40, 51:37; Zeph 2:13-15."
+      - "Brother against brother, no one recognising another: Isa 19:2, Mic 7:6; heads in the wells: compare Jer 41:7-9 (bodies thrown in a cistern)."
+      - "Curse and its fulfilment narrated in the same words: Josh 6:26 and 1 Kgs 16:34; 2 Kgs 9:36-37."
+      - "The ruined city's water turned salt and its land sown with salt: Judg 9:45, Deut 29:22, Zeph 2:9."
+  - id: ane-etcsl-2-1-5-other-witnesses
+    tradition: ane-sumerian
+    title: "Cursing of Agade: variant witnesses 2.A-2.F"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: "Variant manuscripts (fragments parallel to lines 1:71-75, 84-86, 98-128, 124-126, 188-195)"
+    read: ["ETCSL 2.1.5 2.A:1-5", "ETCSL 2.1.5 2.B:1-3", "ETCSL 2.1.5 2.C:1-14", "ETCSL 2.1.5 2.D:1-3", "ETCSL 2.1.5 2.E:1-4", "ETCSL 2.1.5 2.F:1-7"]
+    tags:
+      - {motif: gods-withdraw-gifts-from-city, refs: ["ETCSL 2.1.5 2.A:1", "ETCSL 2.1.5 2.A:3", "ETCSL 2.1.5 2.A:5"], note: "variant {ĝiš}tar2-GAG for {ĝiš}dimgul 'mooring pole'"}
+      - {motif: king-keeps-ominous-dream-secret, refs: ["ETCSL 2.1.5 2.B:3"], note: "the dream line only; the secrecy line is lost"}
+      - {motif: king-desecrates-gods-own-temple, refs: ["ETCSL 2.1.5 2.C:3", "ETCSL 2.1.5 2.C:5", "ETCSL 2.1.5 2.C:7", "ETCSL 2.1.5 2.C:9", "ETCSL 2.1.5 2.C:10", "ETCSL 2.1.5 2.C:11", "ETCSL 2.1.5 2.C:14"], note: "order differs from the main text: 1:112-114, then 1:127-128, then 1:115; e2-e kur erin-na nu-me-a 'though the temple was not a cedar mountain'"}
+      - {motif: cosmic-consequence-of-sacrilege, refs: ["ETCSL 2.1.5 2.D:1", "ETCSL 2.1.5 2.D:2", "ETCSL 2.1.5 2.D:3"], note: "variant ba-gul 'destroyed' for ba-kur2; 2.E:1-4 illegible"}
+      - {motif: corpses-for-jackals, refs: ["ETCSL 2.1.5 2.F:1", "ETCSL 2.1.5 2.F:2", "ETCSL 2.1.5 2.F:3", "ETCSL 2.1.5 2.F:4"]}
+      - {motif: deity-abandons-city, refs: ["ETCSL 2.1.5 2.F:5", "ETCSL 2.1.5 2.F:6"], note: "loosely: {d}en-lil2-le e2 [gal-gal-la-ni] eš3 gi tur-tur ba-[ra-du3] 'Enlil rebuilt his great temples as small reed shrines'"}
+  - id: ane-etcsl-2-1-6-utu-hegal
+    tradition: ane-sumerian
+    title: "Poem of Utu-hegal: Enlil commissions the king to wipe out Gutium; Tirigan captured; kingship returned to Sumer"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.1.6 1-62"]
+    tags:
+      - {motif: oppressor-seizes-wives-and-children, refs: ["ETCSL 2.1.6 1", "ETCSL 2.1.6 2", "ETCSL 2.1.6 3", "ETCSL 2.1.6 4", "ETCSL 2.1.6 5", "ETCSL 2.1.6 6", "ETCSL 2.1.6 7"], note: "gu-ti-um muš-ĝiri2 ḫur-saĝ-ĝa2 'the fanged snake of the mountains'; lu2 a2 zig3-ga diĝir-re-e-ne; carried kingship to foreign lands; dam tuku dam-ni ba-an-da-kar-ra / dumu tuku dumu-ni ba-an-da-kar-ra"}
+      - {motif: blot-out-memory-of-amalek, refs: ["ETCSL 2.1.6 8", "ETCSL 2.1.6 9", "ETCSL 2.1.6 12"], note: "{d}en-lil2 ... mu-bi ḫa-lam-e-de3 ... a2-bi mu-da-an-aĝ2 'Enlil commissioned him to destroy its name'"}
+      - {motif: king-prays-before-battle, refs: ["ETCSL 2.1.6 13", "ETCSL 2.1.6 14", "ETCSL 2.1.6 16", "ETCSL 2.1.6 42", "ETCSL 2.1.6 43", "ETCSL 2.1.6 46", "ETCSL 2.1.6 47"], note: "to Inana, Iškur and Utu: šudu3 mu-na-ša4 ... a2-taḫ-ĝu10 ḫe2-me-en 'be my help'"}
+      - {motif: grass-grows-on-highways, refs: ["ETCSL 2.1.6 20", "ETCSL 2.1.6 21", "ETCSL 2.1.6 22", "ETCSL 2.1.6 23"], note: "Tirigan occupies both banks of the Tigris, blocks water in the south, roads in the uplands: kaskal kalam-ma-ke4 u2 gid2-da bi2-in-mu2"}
+      - {motif: man-after-gods-heart, refs: ["ETCSL 2.1.6 24", "ETCSL 2.1.6 25"], note: "{d}inana-ke4 šag4-ge pad3-da 'chosen by Inana in her heart'"}
+      - {motif: deity-stands-by-favourite, refs: ["ETCSL 2.1.6 29", "ETCSL 2.1.6 30", "ETCSL 2.1.6 31"], note: "Dumuzid-ama-ušumgal-ana says nam-ĝu10 'it is my affair'; {d}gilgameš3 dumu {d}nin-sumun2-na maškim-še3 ma-an-šum2 'gave me Gilgameš as constable'"}
+      - {motif: campaign-dated-by-days, refs: ["ETCSL 2.1.6 35", "ETCSL 2.1.6 36", "ETCSL 2.1.6 37", "ETCSL 2.1.6 40", "ETCSL 2.1.6 41"], note: "ud 4-kam-ma naĝ-su ... ud 5-kam-ma barag i3-li2-tab-be4-e ... ud 6-kam-ma karkara ĝiš bi2-du3"}
+      - {motif: captive-handcuffed-and-blindfolded, refs: ["ETCSL 2.1.6 38", "ETCSL 2.1.6 39", "ETCSL 2.1.6 57"], note: "generals Ur-Ninazu and Nabi-Enlil put in handcuffs; Tirigan šu-na ĝiš bi2-ĝar igi-na tug2 bi2-si 'handcuffed, cloth over his eyes'"}
+      - {motif: fleeing-king-handed-over-by-refuge-city, refs: ["ETCSL 2.1.6 51", "ETCSL 2.1.6 52", "ETCSL 2.1.6 53", "ETCSL 2.1.6 54", "ETCSL 2.1.6 55", "ETCSL 2.1.6 56"], note: "Tirigan dili-a-ni ĝiri3 ba-da-an-kar 'fled alone on foot' to Dabrum; its people, knowing Utu-ḫeĝal was empowered by Enlil, ti-ri2-ga-a-an-ra šu nu-ni-ba 'did not let him go'; seized with wife and children"}
+      - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.1.6 58"], note: "{d}utu-ḫe2-ĝal2 igi {d}utu-še3 ĝiri3-ni-še3 mu-nu2 gu2-na ĝiri3 bi2-gub 'before Utu made him lie at his feet and set his foot on his neck'"}
+      - {motif: kingship-passes-city-to-city, refs: ["ETCSL 2.1.6 3", "ETCSL 2.1.6 15", "ETCSL 2.1.6 62"], note: "nam-lugal ki-en-gi-ra šu-ba im-mi-gi4 'he brought back the kingship of Sumer'; lines 60-61 damaged"}
+    hints:
+      - "Commission to blot out the name of the enemy: Exod 17:14, Deut 25:19, 1 Sam 15:2-3."
+      - "Foot on the necks of captured kings: Josh 10:24; Ps 110:1."
+      - "A city hands over the fugitive rebel to the king's men: 2 Sam 20:15-22 (Sheba son of Bichri); 1 Sam 23:11-12 (Keilah would surrender David)."
+      - "Campaign by day-stages: Josh 10:9-28; Judg 20:24-30; the king prays before battle: 2 Chr 14:10 (Eng. 14:11), 2 Chr 20:5-12."
+      - "Oppressors who take wives and children: Lam 5:11; Gutians as a 'snake of the mountains' compare Gen 49:17, Isa 14:29."

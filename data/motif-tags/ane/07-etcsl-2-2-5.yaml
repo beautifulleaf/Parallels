@@ -163,6 +163,21 @@ new_motifs:
   king-sacred-marriage-bed-in-gipar: {label: "The king, clothed in linen, lies on the splendid bed in the ĝipar (sacred-marriage setting)", cluster: cult}
   king-digs-canals-trees-on-banks: {label: "The king releases water into canals and makes trees grow on their banks", cluster: kingship}
   king-asks-life-as-reward: {label: "The king asks for life as the reward for his temple-building and offerings", cluster: kingship}
+  wall-grown-from-abzu: {label: "The city's great wall is said to have grown out of the abzu (the subterranean waters)", cluster: cosmology}
+  temple-where-fates-are-determined: {label: "A temple is the place in which the fates are determined", cluster: cult}
+  who-will-dig-the-canal-refrain: {label: "Refrain question 'Who will dig the canal?' answered with the king's name", cluster: kingship}
+  king-digs-and-names-canal: {label: "The king digs a canal of abundance and gives it a lasting name", cluster: kingship}
+  canal-teems-with-fish-and-birds: {label: "The new canal's water is full of fish and the air above it full of birds; carp grow fat among honey-plants", cluster: kingship}
+  fate-decreed-in-the-true-womb: {label: "The king's fate was already decreed in the true womb before his birth", cluster: kingship}
+  god-gives-king-crown-sceptre-crook: {label: "The god sets the crown on the king's head and puts the holy sceptre, staff, shepherd's crook and nose-rope in his hand", cluster: kingship}
+  nibru-mountain-of-life: {label: "Nibru is called the mountain of life, where the king's fate is decreed", cluster: kingship}
+  king-of-the-four-quarters: {label: "The king is titled king of the four quarters of the world", cluster: kingship}
+  temple-interior-unknowable: {label: "No one can learn the interior of the temple; the evildoer cannot know it or lay hold of its statutes", cluster: cult}
+  city-gate-like-sky-sun-rises-through: {label: "The temple gate is the blue sky; only when it opens does the sun shine from the horizon", cluster: cosmology}
+  gods-determine-fates-at-dubla-mah: {label: "At a temple platform (Dubla-maḫ) the great gods determine the fates", cluster: cult}
+  your-name-be-praised-refrain: {label: "Refrain 'your name be praised indeed!' (teš2 mu-zu ḫe2-i-i) addressed to a city or temple", cluster: liturgy}
+  wickedness-cannot-pass-before-kings-eyes: {label: "Wickedness cannot pass before the just king's eyes; he accomplishes justice and acts as constable", cluster: law}
+  lapis-lazuli-beard: {label: "A god or king is adorned with a lapis-lazuli beard", cluster: iconography}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
@@ -627,25 +642,37 @@ units:
     hints:
       - "God chooses the king and commissions the temple: 2 Sam 7:8-13, 1 Chr 28:5-6, 1 Kgs 5:3-5; dedication feast 1 Kgs 8:62-66."
       - "God's word that does not change: Num 23:19, Mal 3:6, Isa 55:11. King crushing enemies with a rod: Ps 2:9, Ps 110:5-6."
-  - id: ane-etcsl-2-4-1-3-ur-namma-self-praise
+  - id: ane-etcsl-2-4-1-3-urim-and-king-justice
     tradition: ane-sumerian
-    title: Ur-Namma praises Urim and himself (Ur-Namma C)
+    title: Praise of Urim; Ur-Namma's gifts from the gods and his justice (Ur-Namma C)
     corpus: ane
     original: true
     tagger: Claude (model), reading the Sumerian
-    read: ["ETCSL 2.4.1.3 1-115"]
+    read: ["ETCSL 2.4.1.3 1-42"]
     tags:
       - {motif: wall-grown-from-abzu, refs: ["ETCSL 2.4.1.3 3"], note: "iri bad3 gal ki ĝar-ra-zu abzu-ta mu2-a"}
       - {motif: temple-where-fates-are-determined, refs: ["ETCSL 2.4.1.3 6"], note: "e2-kiš-nu-ĝal2 šag4-ga nam tar-ra"}
       - {motif: royal-self-praise-hymn, refs: ["ETCSL 2.4.1.3 18-30", "ETCSL 2.4.1.3 31-42"], note: "[ni2-te-a]-ni mi2 zid i-ri in-ga-am3-me"}
       - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.4.1.3 20", "ETCSL 2.4.1.3 21", "ETCSL 2.4.1.3 23"], note: "an-e ka kug-ga-ni mu-un-ba šeĝx ma-u3-tud"}
-      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.4.1.3 24", "ETCSL 2.4.1.3 47"], note: "{d}nin-tur5-re ĝe26-e mu-un-dim2-dim2-en gaba-ri-ĝu10 nu-tuku"}
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.4.1.3 24"], note: "{d}nin-tur5-re ĝe26-e mu-un-dim2-dim2-en gaba-ri-ĝu10 nu-tuku"}
       - {motif: king-establishes-justice-crushes-evildoers, refs: ["ETCSL 2.4.1.3 32-39"], note: "ni2-zuḫ lu2 i-{d}utu-ka gu2-ba ĝiri3 bi2-gub / erim2-du muš-gin7 ... / niĝ2-si-sa2-e pa e3 bi2-ak niĝ2-erim2 sa2 bi2-dug4"}
       - {motif: feet-on-necks-of-kings, refs: ["ETCSL 2.4.1.3 35"], note: "approximate: foot on the necks of thieves and criminals"}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.4.1.3 19"]}
+    hints:
+      - "Ideal king brings justice, rain and fertility: Ps 72:1-7, Ps 72:16; 2 Sam 23:3-4; Prov 20:8, 20:26."
+  - id: ane-etcsl-2-4-1-3-birth-and-deeds
+    tradition: ane-sumerian
+    title: Ur-Namma's divine birth, choice, deeds and kingship from heaven (Ur-Namma C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.3 43-115"]
+    tags:
       - {motif: king-conceived-in-holy-womb-of-goddess, refs: ["ETCSL 2.4.1.3 43", "ETCSL 2.4.1.3 48"], note: "a-ĝu10 šag4 kug-ge ba-ri-a-ta ... šag4 ama-ĝu10 {d}nin-sumun2-ka-ta"}
       - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.1.3 46", "ETCSL 2.4.1.3 49"], note: "{d}en-lil2-le {d}utu-gin7 kalam-ma ed2-de3 mu dug3 mu-un-sa4"}
       - {motif: called-from-the-womb, refs: ["ETCSL 2.4.1.3 43-49"]}
-      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.4.1.3 19", "ETCSL 2.4.1.3 54"]}
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.4.1.3 47"], note: "{d}nin-tur5 tud-tud-a mu-un-gub-bu"}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.4.1.3 54"], note: "edimx-ma ezen-gin7 du3-a-ba ĝiri3 si mu-un-da-ab-sa2"}
       - {motif: king-frees-poor-from-labor-and-tax, refs: ["ETCSL 2.4.1.3 56", "ETCSL 2.4.1.3 80"], note: "dumu ukur3-ra u2 il2-i-de3 ĝen-na ama-ni-ir mu-un-gi4-gi4; buru14 ... niĝ2-kud nu-ak-e"}
       - {motif: king-chosen-by-extispicy, refs: ["ETCSL 2.4.1.3 58"], note: "{d}en-lil2-le ud dug3-dug3-ga-na maš2-e bi2-in-pad3-de3-en"}
       - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.4.1.3 76", "ETCSL 2.4.1.3 77"], note: "sipad zid udu-ni dirig ĝal2-la-me-en"}
@@ -659,3 +686,75 @@ units:
       - "Ideal king brings justice, rain and fertility: Ps 72:1-7, Ps 72:16; 2 Sam 23:3-4."
       - "Formed and named in the womb: Jer 1:5, Isa 49:1, Ps 139:13; compare Ps 2:7 (divine sonship of the king)."
       - "Kingship lowered from heaven: compare the Sumerian King List; Dan 2:37, Dan 4:17 (God gives kingdoms)."
+  - id: ane-etcsl-2-4-1-4-1-canal-digger-a
+    tradition: ane-sumerian
+    title: Who will dig the canal? Ur-Namma the canal-digger (Ur-Namma D, version 1)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: section 1 (short version)
+    read: ["ETCSL 2.4.1.4 1:1-18"]
+    tags:
+      - {motif: who-will-dig-the-canal-refrain, refs: ["ETCSL 2.4.1.4 1:1-5"], note: "a-ba-a mu-un-ba-al-e ... {id2}asila-kug ... {id2}pa5-bi-luḫ"}
+      - {motif: canal-teems-with-fish-and-birds, refs: ["ETCSL 2.4.1.4 1:7-14"], note: "a-ra2-bi ku6-a dal-bi mušen-a; u2-lal3 ... suḫur{ku6} am3-gur-gur"}
+      - {motif: king-digs-canals-trees-on-banks, refs: ["ETCSL 2.4.1.4 1:4"]}
+    hints:
+      - "Rivers teeming with fish in a blessed land: Ezek 47:9-10 (the river from the temple), Gen 2:10-14; compare Q 16:14 (God subjected the sea to eat fresh meat from it)."
+  - id: ane-etcsl-2-4-1-4-2-canal-digger-b
+    tradition: ane-sumerian
+    title: Ur-Namma chosen by Enlil digs the Keše-kug and Pabi-luḫ canals (Ur-Namma D, version 2)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: section 2
+    read: ["ETCSL 2.4.1.4 2:1-40"]
+    tags:
+      - {motif: who-will-dig-the-canal-refrain, refs: ["ETCSL 2.4.1.4 2:1-5"]}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["ETCSL 2.4.1.4 2:8"], note: "lugal šag4 zid-ta nam tar-ra"}
+      - {motif: called-from-the-womb, refs: ["ETCSL 2.4.1.4 2:8"]}
+      - {motif: god-chooses-king-from-multitude, refs: ["ETCSL 2.4.1.4 2:9", "ETCSL 2.4.1.4 2:10"], note: "{d}nu-nam-nir-re ki-en-gi ki-uri-a ĝe26-e mu-un-suḫ-en"}
+      - {motif: nibru-mountain-of-life, refs: ["ETCSL 2.4.1.4 2:11"], note: "nibru{ki}-a ḫur-saĝ nam-til3-la-ka nam-ĝu10 im-mi-in-tar"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.1.4 2:12-16"], note: "ĝidru kug ... šibir ešgiri2"}
+      - {motif: king-digs-and-names-canal, refs: ["ETCSL 2.4.1.4 2:21", "ETCSL 2.4.1.4 2:22", "ETCSL 2.4.1.4 2:23"], note: "id2 ḫe2-ĝal2-la mu-ba-al {id2}keše2-kug mu-sa4; mu da-ri2"}
+      - {motif: canal-teems-with-fish-and-birds, refs: ["ETCSL 2.4.1.4 2:24-33"]}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.4.1.4 2:36"], note: "lugal an ub-da 4-ba"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 2.4.1.4 2:40"], note: "here the king: {d}ur-{d}namma lugal urim2{ki}-ma za3-mi2-zu dug3-ga-am3"}
+    hints:
+      - "King given sceptre and crook as shepherd: Ps 23:4, Mic 7:14, Ps 2:9; Hezekiah's water-works 2 Kgs 20:20."
+  - id: ane-etcsl-2-4-1-4-3-canal-digger-c
+    tradition: ane-sumerian
+    title: Ur-Namma and Šulgi dig the canals; crown and sceptre from Enlil (Ur-Namma D, version 3)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: section 3 (mentions Šulgi)
+    read: ["ETCSL 2.4.1.4 3:1-40"]
+    tags:
+      - {motif: who-will-dig-the-canal-refrain, refs: ["ETCSL 2.4.1.4 3:2-10"], note: "adds {d}šul-gi niĝ2-tuku mu-un-ba-al-e"}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["ETCSL 2.4.1.4 3:11"]}
+      - {motif: nibru-mountain-of-life, refs: ["ETCSL 2.4.1.4 3:14"]}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.4.1.4 3:16-19"], note: "aga me-lem4 me-teš2 nam-lugal-la saĝ-ĝa2 im-mi-ĝal2 ... ešgiri2 šibir eš2-giri17 zi-ĝal2 laḫ6-laḫ6-e"}
+      - {motif: king-digs-and-names-canal, refs: ["ETCSL 2.4.1.4 3:29", "ETCSL 2.4.1.4 3:30"]}
+      - {motif: canal-teems-with-fish-and-birds, refs: ["ETCSL 2.4.1.4 3:31-36"]}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.4.1.4 3:37"]}
+    hints:
+      - "Nose-rope to lead the living: compare Isa 37:29 (hook in the nose) inverted as royal guidance; Ps 78:72."
+  - id: ane-etcsl-2-4-1-5-urim-shrine-praise
+    tradition: ane-sumerian
+    title: A šir-namšub to Nanna for Ur-Namma, praising Urim and the E-kiš-nu-ĝal (Ur-Namma E)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.4.1.5 1-40"]
+    tags:
+      - {motif: temple-interior-unknowable, refs: ["ETCSL 2.4.1.5 3", "ETCSL 2.4.1.5 13", "ETCSL 2.4.1.5 14"], note: "šag4-bi [lu2 nu]-zu; šag4-ga-<zu>-ta ĝiš-ḫur zid-da ḫul-ĝal2 nu-[dab5]-be2; šag4-zu ušumgal"}
+      - {motif: city-gate-like-sky-sun-rises-through, refs: ["ETCSL 2.4.1.5 9", "ETCSL 2.4.1.5 10"], note: "kan4-zu an sig7-ga ... ĝal2 da13-da13-bi {d}utu an-ur2-ta ud mi-ne-ĝar-ra-ta"}
+      - {motif: gods-determine-fates-at-dubla-mah, refs: ["ETCSL 2.4.1.5 11", "ETCSL 2.4.1.5 16", "ETCSL 2.4.1.5 17"]}
+      - {motif: your-name-be-praised-refrain, refs: ["ETCSL 2.4.1.5 8", "ETCSL 2.4.1.5 12", "ETCSL 2.4.1.5 19", "ETCSL 2.4.1.5 23"]}
+      - {motif: lapis-lazuli-beard, refs: ["ETCSL 2.4.1.5 24"], note: "sun4 za-gin3 sud-sud"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["ETCSL 2.4.1.5 26"], note: "approximate: Ašimbabbar chose Ur-Namma in his pure heart (šag4 kug-ge [ba-ni-in-pad3])"}
+      - {motif: wickedness-cannot-pass-before-kings-eyes, refs: ["ETCSL 2.4.1.5 27", "ETCSL 2.4.1.5 28", "ETCSL 2.4.1.5 30"], note: "niĝ2-erim2 igi-ni-še3 nu-dib-ba niĝ2-si-sa2"}
+      - {motif: king-winnows-evil-with-eyes, refs: ["ETCSL 2.4.1.5 27"]}
+      - {motif: king-named-and-fated-at-birth, refs: ["ETCSL 2.4.1.5 35-38"], note: "a goddess decrees a fate for the king and for the Tigris and Euphrates"}
+    hints:
+      - "King who scatters evil with his eyes: Prov 20:8, Ps 101:3-8. Gate of heaven: Gen 28:17, Ps 24:7."

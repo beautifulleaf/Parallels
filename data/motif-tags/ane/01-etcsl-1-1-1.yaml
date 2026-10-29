@@ -74,6 +74,18 @@ new_motifs:
   woman-follows-departing-god: {label: "A woman pregnant by a god follows him into exile", cluster: sexuality}
   substitute-children-for-underworld: {label: "Children are begotten as substitutes so that a firstborn may be released from the underworld", cluster: underworld}
   threefold-repeated-episode: {label: "An episode is told three or more times in nearly identical words with one element changed", cluster: narrative-form}
+  god-searches-land-for-a-wife: {label: "A god or king without a wife travels through the land searching for a bride and chooses one for her beauty", cluster: marriage}
+  rude-suitor-rebuffed: {label: "A suitor's first, impertinent approach is rebuffed by the young woman, who goes into her house", cluster: marriage}
+  envoy-proposes-marriage-with-gifts: {label: "A minister is sent to the bride's mother with jewellery and a formal proposal of marriage on his master's behalf", cluster: marriage}
+  bride-serves-envoy-drink: {label: "On her mother's instruction the bride washes the envoy's hands and gives him drink, and receives jewellery", cluster: marriage}
+  lavish-marriage-gifts-catalogue: {label: "The marriage gifts sent to the bride's family are catalogued at length: herds, wild animals, cheeses, honey, fruits, metals, stones", cluster: marriage}
+  mother-blesses-departing-bride: {label: "The bride's mother blesses her as she leaves for her husband's house: abundance before her, joy behind, children", cluster: marriage}
+  bride-led-into-grooms-house-by-his-sister: {label: "The groom's sister takes the bride by the hand and leads her into his house and bedchamber", cluster: marriage}
+  bride-renamed-at-marriage: {label: "At marriage the bride receives a new, exalted name ('the goddess without a name now has a famous name')", cluster: marriage}
+  goddess-as-grain: {label: "A goddess is identified with the grain (Ezina), the life of the land, appearing in the furrow like a young girl", cluster: fertility}
+  sacred-marriage-bed-of-cedar: {label: "A god makes love to his bride in a flowered bed fragrant like a cedar forest, then enthrones her", cluster: marriage}
+  messenger-repeats-message-verbatim: {label: "A messenger delivers or reports a speech by repeating it word for word", cluster: narrative-form}
+  messenger-kisses-ground-before-lord: {label: "A messenger prostrates himself and kisses the ground before the deity he addresses", cluster: court}
 units:
   - id: ane-etcsl-1-1-1-dilmun-pristine
     tradition: ane-sumerian
@@ -524,3 +536,86 @@ units:
       - {motif: closing-praise-of-god, refs: ["ETCSL 1.2.1 153-154"]}
     hints:
       - "Compare Num 23:19, Isa 40:8 and Q 50:29 ('the word does not change with me')."
+  - id: ane-etcsl-1-2-2-sud-courtship
+    tradition: ane-sumerian
+    title: Sud of Ereš; Enlil, without a wife, finds her, is rebuffed, and sends Nuska with a proposal (Enlil and Sud)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.2 1.A:1-43"]
+    tags:
+      - {motif: god-searches-land-for-a-wife, refs: ["ETCSL 1.2.2 1.A:9-13"], note: "ud-ba {d}en-lil2-le e2-kur-ra dam nu-mu-na-ba-am3 ... kalam kiĝ2-kiĝ2-da-ni ereš2-a bi2-in-gub / ... munus šag4-ga-na-ke4 im-ma-ni-in-pad3-de3: 'Enlil had not yet been given a wife ... searching the land he stopped at Ereš ... found the woman of his heart'"}
+      - {motif: rude-suitor-rebuffed, refs: ["ETCSL 1.2.2 1.A:15-26"], note: "lu2 teš2 nu-tuku-tuku-un 'even if you are shameless'; Sud: a-ba šu mu-un-kar2-kar2 'who dares slander me?' ... igi-ni-še3 e2-a ba-kur9 'right in front of him she went into the house'"}
+      - {motif: envoy-proposes-marriage-with-gifts, refs: ["ETCSL 1.2.2 1.A:27-43"], note: "dumu-munus-zu nam-dam-še3 ga-tuku: 'I want to take your daughter as wife'; niĝ2-de2-a marriage gifts; gi16-sa jewellery in the left hand; 'do not go empty-handed'"}
+      - {motif: servant-sent-to-find-bride, refs: ["ETCSL 1.2.2 1.A:28-43"], note: "Nuska sent to Ereš to the bride's mother Nisaba"}
+      - {motif: bride-renamed-at-marriage, refs: ["ETCSL 1.2.2 1.A:35"], note: "dumu-zu mu-ni {d}nin-lil2 ḫe2-em: 'the name of your daughter shall be Ninlil'"}
+      - {motif: name-change-by-god, refs: ["ETCSL 1.2.2 1.A:35"]}
+      - {motif: queen-seated-beside-king, refs: ["ETCSL 1.2.2 1.A:36-40"], note: "she shall sit with me on the E-kur dais, decree fates, apportion the me among the Anuna; to the mother: the lives of the black-headed placed in her hands"}
+    hints:
+      - "Compare Gen 24:2-4, 22, 47, 53 (servant sent with jewellery to ask for a bride) and Esth 2:2-4 (search for a beautiful young woman for the king)."
+      - "Compare Gen 17:5, 15 (Sarai renamed Sarah) and Isa 62:2-5 (a new name; 'married')."
+  - id: ane-etcsl-1-2-2-nuska-at-eresh
+    tradition: ane-sumerian
+    title: Nuska at Ereš; Nanibgal accepts the proposal, Sud serves the envoy, Nuska reports to Enlil
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.2 1.A:44-102"]
+    tags:
+      - {motif: messenger-kisses-ground-before-lord, refs: ["ETCSL 1.2.2 1.A:47", "ETCSL 1.2.2 1.A:87"], note: "{d}nanibgal barag-ga-na ki mu-na-ni-ib-za; {d}en-lil2-ra ki mu-un-su-ub 'kissed the ground before Enlil'"}
+      - {motif: envoy-proposes-marriage-with-gifts, refs: ["ETCSL 1.2.2 1.A:60-73"], note: "ušbar3-ĝu10 ḫe2-me-en niĝ2 šag4-za ak-e-še: 'you shall be my son-in-law, do as you wish'; the gifts wipe away the insult (niĝ2-de2-a mu pad3-da ... šu kar2 im-ma-ab-gi4-gi4)"}
+      - {motif: bride-serves-envoy-drink, refs: ["ETCSL 1.2.2 1.A:77-85"], note: "kaš de2-mu-na-ni-ib / dug4-ga ama-na-še3 šu bi2-in-luḫ zabar šu-na bi2-in-ĝar / šu ki-ta-ni sukkal mu-un-ši-in-bar gi16-sa mu-na-an-šum2: she washed his hands, put a tankard in his hand; he gave her the jewellery from his left hand; 49-57 broken"}
+      - {motif: bride-gifts-nose-ring-bracelets, refs: ["ETCSL 1.2.2 1.A:83-85"], note: "gi16-sa 'jewellery' (type not specified)"}
+      - {motif: bride-led-into-grooms-house-by-his-sister, refs: ["ETCSL 1.2.2 1.A:70-71", "ETCSL 1.2.2 1.A:99-100"], note: "gu2-re-ta nin9-a-ni ḫe2-en-du ... {d}a-ru-ru e-ri-ib-a-ni na-nam: 'let his sister come ... Aruru shall be Sud's sister-in-law'"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["ETCSL 1.2.2 1.A:90-102"], note: "Nuska repeats Nanibgal's whole speech (1.A:61-73) verbatim to Enlil"}
+    hints:
+      - "Compare Gen 24:17-20, 32-33, 50-51 (the bride gives the servant drink; 'take her and go'), Gen 24:52 (servant bows to the ground)."
+  - id: ane-etcsl-1-2-2-marriage-gifts
+    tradition: ane-sumerian
+    title: Enlil dispatches to Ereš herds of wild and domestic animals, cheeses, honey, fruits and metals
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.2 1.A:103-136"]
+    tags:
+      - {motif: lavish-marriage-gifts-catalogue, refs: ["ETCSL 1.2.2 1.A:103-113", "ETCSL 1.2.2 1.A:114-117", "ETCSL 1.2.2 1.A:118-123", "ETCSL 1.2.2 1.A:124-127"], note: "refrain si ba-ni-in-sa2 {d}en-lil2 ereš2-še3; wild bulls, deer, elephants (am-si), gazelles, bears, foxes, lynx, monkeys (ugu4-bi), water buffalo; large cheeses, dry honey; dates, figs, pomegranates, Dilmun dates; ores of Ḫarali, gold, silver"}
+      - {motif: clouds-dust-of-gods-feet, refs: ["ETCSL 1.2.2 1.A:129"], note: "divergence: saḫar ĝiri3-bi muru9 šeĝ3-ĝa2-gin7 an-šag4-ga i-ib-us2: 'the dust of their march reached the sky like rain clouds' - the gift caravan, not the god"}
+      - {motif: tarshish-ships-apes-peacocks, refs: ["ETCSL 1.2.2 1.A:107-108"], note: "divergence: exotic animals (elephants, monkeys) sent as marriage gifts"}
+    hints:
+      - "Compare Gen 24:10, 53 (ten camels and goods of every kind for the bride's family), Gen 34:12 and 1Kgs 10:2, 10 (lavish caravan of gifts)."
+  - id: ane-etcsl-1-2-2-blessing-wedding
+    tradition: ane-sumerian
+    title: Nisaba blesses her daughter; Aruru leads Sud into the E-kur; Enlil names her Ninlil and Ezina
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.2.2 1.A:137-170", "ETCSL 1.2.2 1.B:1"]
+    tags:
+      - {motif: mother-blesses-departing-bride, refs: ["ETCSL 1.2.2 1.A:138-145"], note: "igi-zu-še3 ḫe2-ĝal2 ḫe2-em a-ga-zu-še3 giri17-zal ḫe2-em: 'may abundance precede you and joy follow you'; 2-na-ne-ne ... ud-da-ta tu-ud-en-ze2-en: 'have children afterwards'"}
+      - {motif: blessing-thousands-of-myriads, refs: ["ETCSL 1.2.2 1.A:142-145"], note: "divergence: blessing of abundance, joy and offspring rather than myriads"}
+      - {motif: bride-led-into-grooms-house-by-his-sister, refs: ["ETCSL 1.2.2 1.A:146-147"], note: "šu-ni im-ma-an-dab5 {d}a-ru-ru eš3-maḫ-še3 mi-ni-in-kar"}
+      - {motif: sacred-marriage-bed-of-cedar, refs: ["ETCSL 1.2.2 1.A:148-149"], note: "e2 ki-nu2-a ĝiš-nu2 gi-rin-na {ĝiš}tir šim {ĝiš}erin-gin7: 'in the flowered bed fragrant like a cedar forest' Enlil made love to his wife"}
+      - {motif: goddess-as-grain, refs: ["ETCSL 1.2.2 1.A:157-162"], note: "{d}ezina2 mu2 zid ki-en-gi-ra ḫe2-em / ab-sin2-na ki-sikil sag9-ga-gin7: 'be Ezina, the growing grain, life of Sumer; when you appear in the furrows like a beautiful young girl'; Iškur waters her"}
+      - {motif: god-appoints-deities-over-domains, refs: ["ETCSL 1.2.2 1.A:165-168"], note: "nam-dub-sar-ra dub mul-la gun3-a ... eš2 za-gin3: scribal art, tablets, reckoning, measuring rope and rod given into her hands"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.2.2 1.B:1"], note: "šir3 kug mi2 dug4-ga {d}en-lil2 {d}nin-lil2-bi-da; end of 1.A broken after 170"}
+    hints:
+      - "Compare Gen 24:60 (Rebekah blessed as she leaves), Ruth 4:11-12 and Gen 24:67 (bride brought into the tent)."
+      - "Compare Song 1:16-17 (our couch is green; beams of our house are cedar) and Hos 2:23-24 (grain, wine and oil answer Jezreel)."
+  - id: ane-etcsl-1-2-2-version-b
+    tradition: ane-sumerian
+    title: The ending in the second manuscript tradition - wedding, Nintur named, Sud becomes Ninlil
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "ETCSL 1.2.2 2.B, a manuscript paralleling 1.A:142-170 with variants and a different ending"
+    read: ["ETCSL 1.2.2 2.B:1-31"]
+    tags:
+      - {motif: mother-blesses-departing-bride, refs: ["ETCSL 1.2.2 2.B:1-4"]}
+      - {motif: bride-led-into-grooms-house-by-his-sister, refs: ["ETCSL 1.2.2 2.B:5-6"], note: "variant: i3 saĝ igi-ni mi-ni-in-de2 'poured the best oil over her face'"}
+      - {motif: sacred-marriage-bed-of-cedar, refs: ["ETCSL 1.2.2 2.B:7-9"], note: "he sits her on his dais and makes the people pray to her (šudu3 mu-ni-in-ša4)"}
+      - {motif: newborn-deities-assigned-roles, refs: ["ETCSL 1.2.2 2.B:10-13"], note: "{d}nin-tur5-re nin u3-tud nin dub3 bad mu-še21 mu-ni-in-sa4: Aruru named Nintur, 'lady who gives birth, lady who spreads her knees'; given women's things 'no man must see'"}
+      - {motif: goddess-as-grain, refs: ["ETCSL 1.2.2 2.B:16-20"]}
+      - {motif: bride-renamed-at-marriage, refs: ["ETCSL 1.2.2 2.B:26-27"], note: "ud-ta {d}su-ud {d}en-lil2 lugal-bi {d}nin-lil2 nin-bi ḫe2-em / diĝir mu nu-tuku mu gal tuku: 'from now on Sud - Enlil is king, Ninlil queen; the goddess without a name now has a great name'"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.2.2 2.B:30-31"]}
+    hints:
+      - "Compare Gen 17:15-16 and Isa 62:2-4 (new name; 'Hephzibah', 'Married'); Ps 45:10-17 (the queen at the king's right hand, peoples praise her)."

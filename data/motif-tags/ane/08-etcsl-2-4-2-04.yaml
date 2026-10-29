@@ -125,6 +125,35 @@ new_motifs:
   king-provisions-temple-kitchens: {label: "The king sends oxen, sheep, bread and beer to the god's kitchens, bakery, brewery and dining hall", cluster: cult}
   date-clusters-withheld-lament: {label: "The lover laments that because of the beloved the date clusters and harvest do not come to hand", cluster: love}
   farmer-ploughs-for-king: {label: "In the love song the farmer is told to plough the field for the lord (king)", cluster: love}
+  people-rebel-against-king: {label: "The people turn against (revolt from) the king during his building or reign", cluster: kingship}
+  queen-mother-praised-for-bearing-king: {label: "The king's mother is praised for having given birth to the holy king", cluster: kingship}
+  city-submits-to-king-like-lion-cub: {label: "May the king's city stretch out its hands to him and lie at his feet like a lion cub", cluster: kingship}
+  warrior-god-as-flood-and-battering-ram: {label: "The warrior god is a flood without rival and a battering ram that turns cities to dust", cluster: theophany}
+  god-goes-before-king-in-battle-aid: {label: "The warrior god is asked to aid the king's weapons and destroy myriads of enemies for him", cluster: kingship}
+  god-of-terrifying-radiance-torch: {label: "The god is a yellow evening light and a dragon raising a terrible torch that casts fear over the land", cluster: theophany}
+  kings-name-written-on-dedication: {label: "The king writes the god's name on a dedicated object, which guards the king's life forever", cluster: cult}
+  king-elevated-as-god-is-elevated: {label: "As the god is exalted in heaven and earth, so he exalts the king over the land", cluster: kingship}
+  king-as-canal-inspector: {label: "The god appoints the king as canal inspector (ku6-ĝal2) of the land", cluster: kingship}
+  hymn-to-four-great-gods: {label: "Praise is offered to the four great gods An, Enlil, Enki (Nudimmud) and the mother goddess Nintur", cluster: hymn}
+  god-as-neck-stock-on-wicked: {label: "The god is a great neck-stock that weighs on the evil man", cluster: law}
+  seven-divine-powers: {label: "Seven divine powers (me) adorn a god or temple", cluster: cosmology}
+  enemies-heaped-in-piles: {label: "The warrior god heaps up the enemies in piles", cluster: warfare}
+  each-god-gives-king-a-gift: {label: "Each of the great gods in turn bestows a gift on the king (crown, heroism, abundance, justice ...)", cluster: kingship}
+  two-rivers-tigris-euphrates: {label: "The Tigris and Euphrates in their flood are the gift of the god", cluster: cosmology}
+  moon-visible-at-noon: {label: "The moon god's radiance is visible even at noontime", cluster: cosmology}
+  city-as-cosmic-bond: {label: "A sacred city is the 'cosmic bond' (uz3-saĝ / dur-an-ki) of the land, whose powers cannot change", cluster: cosmology}
+  divine-son-intercedes-with-father-god: {label: "A god prays to his father, the chief god, for his city and its king", cluster: cult}
+  divine-regalia-crown-throne: {label: "The god's crown, headdress, dais and throne are praised as the regalia of kingship", cluster: kingship}
+  god-purifies-rites: {label: "The god sanctifies the divine powers and makes the purification rites brilliant", cluster: cult}
+  goddess-of-wisdom-instructs-land: {label: "A goddess instructs the land and bestows wisdom and good decisions", cluster: wisdom}
+  goddess-as-great-judge: {label: "A goddess is the great judge enthroned in her city", cluster: law}
+  goddess-bright-as-stars: {label: "The goddess emerges brilliant like daylight, bright as the stars", cluster: cosmology}
+  king-chosen-for-beauty: {label: "The king is the youth chosen by the goddess for his beauty", cluster: kingship}
+  goddess-looks-on-bedchamber: {label: "The goddess turns her favourable eye of life onto the bedchamber", cluster: love}
+  king-prayers-unending-like-liquor: {label: "The king's prayers are offered to the goddess unendingly, like strong liquor", cluster: cult}
+  goddess-raised-on-knees-of-an: {label: "The goddess was brought up on the knees of An the king", cluster: cult}
+  goddess-attacks-foreign-lands: {label: "The goddess goes against all foreign lands in fearsome might", cluster: theophany}
+  goddess-ladyship-given-by-father: {label: "The goddess's father establishes her in ladyship over the land", cluster: cult}
 units:
   - id: ane-etcsl-2-4-2-04-epithets
     tradition: ane-sumerian
@@ -726,7 +755,7 @@ units:
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.4.4.4 B:13-14"], note: "til3 ud su3-ra2-ka"}
       - {motif: god-goes-before-king-in-battle-aid, refs: ["ETCSL 2.4.4.4 E:30", "ETCSL 2.4.4.4 F:38-43"], note: "a2-taḫ {ĝiš}tukul-a-ni ḫe2-me-en: be the aid of his weapons; kur šu-ni nu-e3: from whose grasp no foreign country escapes; me3 šen-šen-na šar2 ša-mu-na-an-gul-e: you will destroy myriads in battle for Šu-Suen"}
       - {motif: god-of-terrifying-radiance-torch, refs: ["ETCSL 2.4.4.4 F:45-49"], note: "u2-sa11-an sig7-ga: yellow evening light; ušum su-lim-ma izi-ĝar ḫuš il2-il2-i: fearsome dragon raising a terrible torch"}
-      - {motif: king-trusts-in-god, refs: ["ETCSL 2.4.4.4 F:51", "ETCSL 2.4.4.4 F:54"], note: "{d}šu-{d}suen ĝiškim ḫu-mu-un-til3-en en {d}nin-urta-ra: may you, Šu-Suen, trust in Lord Ninurta"}
+      - {motif: commit-your-way-to-god, refs: ["ETCSL 2.4.4.4 F:51", "ETCSL 2.4.4.4 F:54"], note: "{d}šu-{d}suen ĝiškim ḫu-mu-un-til3-en en {d}nin-urta-ra: may you, Šu-Suen, trust in Lord Ninurta"}
       - {motif: king-as-constable-of-god, refs: ["ETCSL 2.4.4.4 F:52", "ETCSL 2.4.4.4 F:55"], note: "lugal {d}en-lil2-le ma-ra-an-šum2-ma-a maškim-zu ḫe2-a"}
       - {motif: kings-name-written-on-dedication, refs: ["ETCSL 2.4.4.4 F:57", "ETCSL 2.4.4.4 F:60"], note: "mu-zu im-mi-in-sar: he has written your name on it (a dedicated object of nir stone); en-nu-uĝ3: guardian of his life forever"}
     hints:
@@ -790,7 +819,7 @@ units:
       - {motif: god-as-neck-stock-on-wicked, refs: ["ETCSL 2.4.5.2 A.E:20", "ETCSL 2.4.5.2 B.H:4"], note: "{ĝiš}rab3 gal maḫ diĝir-re-e-ne: great neck-stock of the gods; lu2-erim2 {ĝiš}rab3-gin7 šu ri-ri-a-me-eš: they weigh on the evil man like a neck-stock"}
       - {motif: river-ordeal-clears-the-just, refs: ["ETCSL 2.4.5.2 A.E:23-24", "ETCSL 2.4.5.2 A.G:41", "ETCSL 2.4.5.2 B.H:2-6"], note: "id2 nam tar-ra: the river which determines destinies; {d}id2-lu2-ru-gu2 lu2 zid dadag-ga: the River of Ordeal which clears the just; zid-du nu-dab5-be2 erim2-du nu-dib-be2: the trustworthy is not caught, the evil cannot pass"}
       - {motif: underworld-princes-bow-to-god, refs: ["ETCSL 2.4.5.2 A.E:25-29"], note: "ma2-gur8 maḫ a ku-kur-ra u5-a: great barge riding the flood; nun kur-ra-ke4-ne ša-mu-e-ši-gam-e-de3-eš: the princes of the underworld bow; bur3-ra ud zalag: in the abyss you shed bright light"}
-      - {motif: god-hates-evil-loves-justice, refs: ["ETCSL 2.4.5.2 A.G:42-43"], note: "en ka-aš bar niĝ2-erim2-e ḫul gig / {d}suen-gin7 niĝ2-si-sa2-e ki aĝ2: who hates evil, who like Suen loves justice"}
+      - {motif: god-hates-evildoers, refs: ["ETCSL 2.4.5.2 A.G:42-43"], note: "en ka-aš bar niĝ2-erim2-e ḫul gig / {d}suen-gin7 niĝ2-si-sa2-e ki aĝ2: who hates evil, who like Suen loves justice"}
       - {motif: seven-divine-powers, refs: ["ETCSL 2.4.5.2 C.I:2-3"], note: "me 7-na: the seven divine powers, adorned by the prince in the abzu"}
       - {motif: enemies-heaped-in-piles, refs: ["ETCSL 2.4.5.2 A.G:54-55"], note: "erim2 zar-re-eš i3-sal-le: heaps up the enemies in piles"}
     hints:
@@ -805,7 +834,7 @@ units:
     read: ["ETCSL 2.4.5.3"]
     tags:
       - {motif: moon-god-renews-his-light, refs: ["ETCSL 2.4.5.3 A:1", "ETCSL 2.4.5.3 A:6-9", "ETCSL 2.4.5.3 B:50-51"], note: "su3-ra2-aĝ2 bi2-mu2-mu2: renewing his light (refrain); ud zu2 keše2 ... itid zal-le: new moon of eternal fame"}
-      - {motif: god-sees-everything, refs: ["ETCSL 2.4.5.3 A:23", "ETCSL 2.4.5.3 A:28"], note: "niĝ2-nam še-er-ka-an-ba igi su3-ud mi-ni-in-il2: directs his far-seeing gaze over everything"}
+      - {motif: eyes-of-yhwh-roam-the-earth, refs: ["ETCSL 2.4.5.3 A:23", "ETCSL 2.4.5.3 A:28"], note: "niĝ2-nam še-er-ka-an-ba igi su3-ud mi-ni-in-il2: directs his far-seeing gaze over everything"}
       - {motif: immutable-divine-word, refs: ["ETCSL 2.4.5.3 A:24", "ETCSL 2.4.5.3 A:29"], note: "dug4-ga nu-kam3-me-de3"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.4.5.3 A:15", "ETCSL 2.4.5.3 A:25", "ETCSL 2.4.5.3 D:68-69"], note: "bal su3-ud nam-ḫe2-a: long and prosperous reign; til3 ša-mu-e-da-ab-su3-ud-de3: he prolongs the life of my Ibbi-Suen"}
       - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.4.5.3 B:43-58"], note: "An: crown, sceptre; Enlil: lordship and heroism; Enki: Tigris and Euphrates in flood; Nintur: propagation of human seed; Nanna: authority over south and uplands; Utu: justice; Ninirigal: prayer"}
@@ -871,5 +900,5 @@ units:
     tags:
       - {motif: goddess-raised-on-knees-of-an, refs: ["ETCSL 2.5.1.4 6"], note: "du10-ub an lugal-la-kam buluĝ3-ĝa2-me-en: you were brought up on the knees of An the king"}
       - {motif: goddess-attacks-foreign-lands, refs: ["ETCSL 2.5.1.4 8-9"], note: "{d}gu-la ... kur-kur-ra ba-du-a-me-en: you go against all the foreign lands"}
-      - {motif: lady-of-the-living-and-dead, refs: ["ETCSL 2.5.1.4 10"], note: "here only: a-a-zu ... nam-nin kalam-ma: father established you in ladyship over the Land"}
+      - {motif: goddess-ladyship-given-by-father, refs: ["ETCSL 2.5.1.4 10"], note: "{d}nin-isin2-na nam-nin kalam-ma-kam a-a-zu bi2-in-gub-be2-en: your father established you in ladyship over the Land"}
       - {motif: goddess-intercedes-daily-for-king, refs: ["ETCSL 2.5.1.4 13-14"], note: "{d}iš-bi-er3-ra ki aĝ2 šag4-za-ra ... ḫul2-ḫul2-mu-di-ni-ib: bring joy to Išbi-Erra, the beloved of your heart"}
