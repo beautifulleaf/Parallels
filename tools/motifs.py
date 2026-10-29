@@ -321,6 +321,9 @@ def validate_file(path):
 
 
 def main():
+    if "-h" in sys.argv or "--help" in sys.argv:
+        print(__doc__)
+        return
     if "--validate" in sys.argv:
         validate_file(sys.argv[sys.argv.index("--validate") + 1])
         return
