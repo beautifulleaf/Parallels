@@ -1,0 +1,852 @@
+# Full read of the ANE corpus, chunk 18: Anzu SB - CounsWis SB (Anzû SB; Atra-hasis OB, MB, SB; Bit meseri SB; Catalogue of Texts and Authors NA, NB; Counsels of Wisdom SB).
+# Read from the eBL reconstructed Akkadian texts; eBL's English translations used as reading aids.
+new_motifs:
+  epic-opens-i-will-sing-the-hero: {label: "A poem opens with the singer's vow 'I will sing / praise the mighty one' followed by the hero's titles", cluster: hymn}
+  warrior-god-also-irrigator: {label: "The warrior god is also the one who waters fields, gardens and towns (a fertility role beside his battle role)", cluster: divine-warrior}
+  monster-born-of-earth-in-mountain: {label: "A monster is conceived by the earth itself and born among the rocks of a far mountain", cluster: combat-myth}
+  monster-appointed-guardian-of-sanctuary-door: {label: "A monstrous creature is appointed by the high god to stand guard at the entrance of his innermost sanctuary", cluster: combat-myth}
+  usurper-boasts-i-will-take-the-throne: {label: "A rebel resolves in his heart, in a string of first-person 'I will' boasts, to seize the throne and command all the gods", cluster: combat-myth}
+  theft-of-power-while-god-bathes: {label: "The rebel seizes the token of supreme power while the high god is bathing, undressed, with his crown laid on the throne", cluster: combat-myth}
+  sanctuary-loses-its-radiance: {label: "When the token of rule is stolen, deathly silence falls and the sanctuary is stripped of its divine radiance", cluster: combat-myth}
+  high-god-asks-who-will-fight-the-monster: {label: "In the divine assembly the high god asks which of the gods will go and slay the monster, promising him the greatest name", cluster: combat-myth}
+  champions-refuse-one-after-another: {label: "Several gods are summoned in turn to fight the monster; each repeats why it is invincible and refuses to go", cluster: combat-myth}
+  champion-promised-cult-and-name: {label: "The god who will fight is promised daises, shrines in the four world regions, entry for his shrines into the chief temple and the name 'Mighty One'", cluster: combat-myth}
+  wise-god-devises-plan-when-gods-despair: {label: "When the assembly has given up, the wise god of the deep devises the plan that finds the champion", cluster: combat-myth}
+  gods-kiss-feet-of-deliverer: {label: "The gods run to the deity who has solved their crisis and kiss his or her feet", cluster: divine-council}
+  mother-goddess-renamed-mistress-of-all-gods: {label: "The gods tell the birth goddess: 'Formerly we called you Mami; now your name shall be Mistress of All the Gods'", cluster: divine-council}
+  mother-goddess-bore-all-the-gods: {label: "The mother goddess claims to have borne all the Igigi and Anunna gods and to have assigned the high gods their kingship", cluster: theogony}
+  mother-commissions-son-to-fight-monster: {label: "A goddess sends her beloved son out to fight the monster and gives him detailed battle instructions", cluster: combat-myth}
+  monster-feathers-carried-as-glad-tidings: {label: "The slain monster bird's feathers are borne on the wind to the high god as the sign and good news of victory", cluster: combat-myth}
+  combatants-exchange-challenge-who-are-you: {label: "Before the duel the monster challenges the hero 'Who are you that you come to fight me?' and the hero answers with his name and lineage", cluster: combat-myth}
+  sun-darkened-during-divine-battle: {label: "When the divine combatants clash, darkness falls on the mountain and the sun goes into gloom", cluster: combat-myth}
+  magic-word-sends-arrow-back-to-origins: {label: "The monster's spell turns the arrow back, ordering each part to its source: shaft to the thicket, bow-frame to the forest, string to the sheep's sinew, feathers to the birds", cluster: magic}
+  talisman-makes-holder-invulnerable: {label: "Because he holds the stolen token of power, no weapon can reach the rebel's body", cluster: combat-myth}
+  cut-wings-to-break-magic: {label: "The wise god advises wearing the bird-monster out and cutting off its pinions, so that seeing its feathers breaks its spell", cluster: combat-myth}
+  victor-admitted-to-secret-of-gods: {label: "The victorious god is invited to stand among his brother gods and hear the secret knowledge (pirištu) of the gods", cluster: divine-council}
+  slain-monster-flayed-skin-taken: {label: "After the kill the victor squeezes out the monster's lifeblood and flays it, taking its skin", cluster: combat-myth}
+  victor-withholds-recovered-talisman: {label: "The victorious god hesitates or refuses to hand back the recovered token of power to the high god", cluster: combat-myth}
+  warrior-son-subdues-enemies-at-fathers-feet: {label: "The warrior son is praised for making all enemies submit at the feet of his father the high god", cluster: divine-warrior}
+  divine-bureaucracy-king-counsellor-prefect: {label: "The gods are ranked as an administration: the sky god is king, the storm god counsellor, the warrior god prefect, another god bailiff", cluster: divine-council}
+  gods-dig-tigris-and-euphrates: {label: "Before humans exist the gods themselves dig the riverbeds of the Tigris and Euphrates and the land's canals", cluster: creation}
+  rebel-workers-burn-their-tools: {label: "The labouring gods go on strike by setting fire to their spades and work baskets and marching on the chief god's house", cluster: creation}
+  junior-gods-revolt-against-chief-god: {label: "The junior gods besiege the chief god's house at night to depose him, and he wakes in fear", cluster: divine-council}
+  god-slain-to-create-humankind: {label: "One god, the ringleader 'who had the plan', is slaughtered in the assembly so that humankind can be made", cluster: creation}
+  human-made-from-slain-gods-flesh-and-blood: {label: "Humankind is made of clay mixed with the flesh and blood of a slaughtered god, so that god and man are mixed together", cluster: creation}
+  human-ghost-derives-from-slain-god: {label: "From the slain god's flesh a ghost (eṭemmu) remains in humans, and a heartbeat (drum) is heard in them forever, so that he is not forgotten", cluster: creation}
+  gods-spit-on-clay-of-humankind: {label: "The great gods spit upon the clay from which humankind is to be formed", cluster: creation}
+  purification-bath-on-first-seventh-fifteenth: {label: "A purification bath is instituted on the first, seventh and fifteenth days of the month", cluster: cult}
+  fourteen-pieces-of-clay-seven-and-seven: {label: "The birth goddess nips off fourteen pieces of clay, sets seven on the right and seven on the left with a brick between them", cluster: creation}
+  creator-boasts-my-hands-made-it: {label: "The creator declares 'I am the one who created, my hands have made it'", cluster: creation}
+  birth-in-tenth-month: {label: "The first births come when the birth goddess counts the months and the tenth month arrives", cluster: creation}
+  birth-brick-nine-days: {label: "In the house where a woman gives birth the birth brick is to lie in place for nine days in honour of the birth goddess", cluster: ritual}
+  nine-days-wedding-rejoicing: {label: "When husband and wife choose each other and the marriage bed is laid, there is to be rejoicing for nine days and the love goddess is honoured", cluster: marriage}
+  abandon-possessions-save-life: {label: "The flood hero is told: 'Destroy your house, build a boat; spurn property, save life'", cluster: flood}
+  round-boat-coracle: {label: "The flood boat is to be built on a circular plan, its length equal to its breadth, like a giant coracle", cluster: flood}
+  people-feast-unaware-before-flood: {label: "While those boarding eat and drink, the flood hero alone is heavy-hearted, knowing what is coming", cluster: flood}
+  high-god-swears-total-annihilation: {label: "From his throne the high god takes an oath to annihilate (humankind) totally", cluster: flood}
+  door-of-ark-sealed-after-boarding: {label: "Once the hero has entered the boat its door is sealed shut", cluster: flood}
+  god-instructs-in-dream: {label: "A god appears to a man in a dream and gives him practical instructions, which he carries out", cluster: revelation}
+  dove-returns-having-found-no-rest: {label: "A dove released from the boat flies off and returns because she has exhausted her wings and found no place", cluster: flood}
+  personal-god-at-right-goddess-at-left: {label: "Prayer: 'May my god stand at my right, my goddess at my left, a caring god be constantly at my side'", cluster: prayer}
+  let-me-live-that-i-may-praise: {label: "The supplicant asks to live and be well so that he may praise the god's divinity", cluster: prayer}
+  catalogue-of-demons-to-be-expelled: {label: "An exorcism lists by name every demon, ghost and disease it drives away (utukku, šēdu, rābiṣu, ghost, lilû, lilītu, Lamaštu ...)", cluster: magic}
+  three-heavens: {label: "Heaven is threefold: the heaven of Anu, the heaven of Enlil and the heaven of Ea", cluster: cosmology}
+  night-watches-invoked-as-gods: {label: "The watches of the night and named stars (Pleiades, Yoke, Orion) are called upon as divine helpers in a night ritual", cluster: magic}
+  god-knows-what-supplicant-does-not: {label: "Prayer: 'those whom you know but I do not know, whose street and lair you know but I do not'", cluster: prayer}
+  supplicant-seizes-hem-of-gods-garment: {label: "The supplicant says 'today I have seized the hem of your garment' as a gesture of appeal and attachment", cluster: prayer}
+  gods-stationed-at-each-part-of-house: {label: "Gods are posted one by one at each part of the house (bedroom, courtyard, window, gate, threshold, back) to guard it", cluster: magic}
+  scapegoat-carries-off-evil-from-house: {label: "A scapegoat 'whose face is evil' is carried through each room of the house to take away its evil", cluster: ritual}
+  apotropaic-figurines-guard-house: {label: "Figurines and wall drawings of protective gods, twins, fighters and monsters are set at the bed, doors and gate to keep evil out of a patient's house", cluster: magic}
+  exorcist-embodies-the-god: {label: "The exorcist declares: 'the incantation is the spell of Marduk, the exorcist is the image of Marduk'", cluster: magic}
+  seven-antediluvian-sages-fish-men: {label: "Seven primeval sages (apkallū), carps of the sea who grew up in the river, keep the ordinances of heaven and earth in order", cluster: primeval}
+  antediluvian-sage-ascended-to-heaven: {label: "One of the primeval sages 'ascended to heaven' (or another descended from heaven)", cluster: primeval}
+  sage-offends-gods-and-is-punished: {label: "Post-flood sages offend the gods (bringing a goddess down from heaven, enraging the storm god, hanging a seal on a goat-fish, releasing a dragon) and suffer for it", cluster: primeval}
+  sage-angers-storm-god-no-rain-three-years: {label: "A sage enrages the storm god so that there is no rain or green growth in the land for three years", cluster: primeval}
+  sages-of-human-descent: {label: "After the fish-sages come sages 'of human descent' to whom the wise god gives great wisdom; one is 'two-thirds sage'", cluster: primeval}
+  maker-creates-and-unmakes: {label: "Formula: 'Ea created you, Ea unmade you' (the maker undoes what he made)", cluster: magic}
+  clay-figurines-declared-godlike: {label: "The ritualist makes figures of a man and a woman from the clay of Ea and tells them 'I have made you beautiful, you are like gods'", cluster: magic}
+  colored-dogs-guard-house: {label: "Dogs of four colours (white, black, red, brown-green) are drawn or invoked to guard the house, each with its own power", cluster: magic}
+  goat-substitute-for-patient: {label: "A goat is tied at the sick man's head, slaughtered, and its hide spread over him as a substitute", cluster: ritual}
+  litany-may-it-enter-with-you: {label: "Litany to a deity entering a house: 'with you may harmony, well-being, life, abundance, peace enter'", cluster: blessing}
+  demon-stalks-by-night: {label: "A night demon (Šulak) is 'the one who stalks by night, whose touch is death'", cluster: magic}
+  death-personified-driven-to-netherworld: {label: "Death himself is driven away, netted and led down to the queen of the netherworld and her gatekeeper", cluster: underworld}
+  banished-from-light-and-river-of-life: {label: "Curse on the banished evil: let him not see the bright light of the upper world, nor drink from the river of the living, nor walk the street of the living", cluster: underworld}
+  figurine-of-death: {label: "A figurine of Death himself (made of lead) is placed at the sick man's bed with provisions for his journey", cluster: magic}
+  colophon-copied-and-collated: {label: "Colophon: 'written according to its original and collated'", cluster: scribal}
+  texts-attributed-to-god-ea: {label: "The core scholarly corpora (exorcism, lamentation, celestial omens, physiognomy) are said to be 'from the mouth of Ea'", cluster: scribal}
+  text-revealed-to-author-who-proclaimed-it: {label: "A literary work is 'what was revealed to' a named sage or poet and what he then proclaimed", cluster: revelation}
+  works-attributed-to-named-authors: {label: "A catalogue assigns literary works to named authors: gods, antediluvian sages, kings and scholars", cluster: scribal}
+  text-dictated-by-animal: {label: "A composition is said to have been written down at the dictation of an animal (a horse, a raven)", cluster: scribal}
+  writing-from-before-the-flood: {label: "A text is said to come 'from before the flood', written down by a primeval sage", cluster: scribal}
+  parents-are-household-gods: {label: "Advice to a son: father and mother are (like) the gods of the house; honour them and they will bless you", cluster: wisdom}
+  strong-drink-impoverishes: {label: "Saying: the man who loves strong drink will quickly become a pauper and lose friends, god and protective spirit", cluster: wisdom}
+  avoid-company-of-gossip-and-idler: {label: "Do not converse with the gossip or consult the idler, lest you adopt their thinking and leave your own path", cluster: wisdom}
+  guard-your-speech: {label: "Advice: hold your tongue, watch what you say; words spoken on the spur of the moment stay with you", cluster: wisdom}
+  avoid-other-peoples-disputes: {label: "Do not stand in a crowd or press forward at a dispute: you will be made a witness in a case not your own", cluster: wisdom}
+  repay-evil-with-good: {label: "Requite with good the one who does evil to you; be just and cheerful to your enemy", cluster: wisdom}
+  pity-the-weak-feed-the-hungry: {label: "Take pity on the weak and helpless, give food to eat and drink to drink: god is pleased and Šamaš repays with favour", cluster: wisdom}
+  slave-girl-must-not-rule-house: {label: "Do not let a slave girl become important in your house and rule it like a wife", cluster: wisdom}
+  do-not-marry-prostitute: {label: "Do not marry a prostitute, a woman dedicated to a goddess, or a temple woman: she will not support you in trouble", cluster: wisdom}
+  steward-must-not-covet-masters-treasure: {label: "A trusted steward given his master's seal must not covet or secretly take from the treasure; the theft will come out", cluster: wisdom}
+  keep-your-promise: {label: "If you have given your word, deliver and do not revoke it; promising and not delivering is abhorrent to the god", cluster: wisdom}
+  grain-offered-returns-a-talent: {label: "For every grain you offer your god, your return will be a talent", cluster: wisdom}
+units:
+  # ---------------- Anzû (Standard Babylonian) ----------------
+  - id: ane-anzu-sb-1-prologue
+    tradition: ane-akkadian
+    title: "Prologue: the singer praises Ninurta, firstborn of Enlil (Anzû SB I 1-14)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB I:1-14"]
+    tags:
+      - {motif: epic-opens-i-will-sing-the-hero, refs: ["Anzu SB I:2", "Anzu SB I:4", "Anzu SB I:9"], note: "gašra luzzammur ... gašra luttaʾʾid: 'the mighty one I will sing ... I will praise'; šimâ ša gašri tanitti dannūtīšu, 'hear the praise of the mighty one's strength'"}
+      - {motif: god-is-firstborn-of-high-god, refs: ["Anzu SB I:2", "Anzu SB I:4"], note: "ila bukur ellil, 'divine firstborn of Enlil'; also narām māmi, beloved of the mother goddess (I:1, I:3)"}
+      - {motif: catalogue-of-slain-monsters, refs: ["Anzu SB I:10-12"], note: "iksû šad abni (fettered the mountain of stones), kāšid mupparša anzâ (conquered soaring Anzu), nāʾir kusarikki ina qereb tâmti (slew the bull-man in the midst of the sea)"}
+      - {motif: warrior-god-also-irrigator, refs: ["Anzu SB I:6"], note: "mušašqû tarbaṣi ermi ūri sūqi u āli: 'who waters paddock, garden, town, street and city'"}
+    hints:
+      - "Compare Exod 15:1-3 ('I will sing to YHWH ... YHWH is a man of war') and Judg 5:3."
+      - "Compare Ps 74:13-14 and Isa 27:1 (God has slain the sea monster / Leviathan)."
+  - id: ane-anzu-sb-1-anzu-born
+    tradition: ane-akkadian
+    title: "Before the daises: Anzu is born on Mount Sharshar and Ea proposes him as Enlil's doorkeeper (Anzû SB I 15-a+55)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB I:15-a+55"]
+    tags:
+      - {motif: pre-creation-no-rain-no-plants, refs: ["Anzu SB I:15-20"], note: "adīna ina igīgī lā ibbanû parakkū: 'until then no daises had been built among the Igigi'; Tigris and Euphrates had been made but [their springs] did not bring their waters to the land (ana māti lā ubbalū mê[šunu]); a 'when-not-yet' opening, partly restored"}
+      - {motif: monster-born-of-earth-in-mountain, refs: ["Anzu SB I:25-28", "Anzu SB I:a+51-a+52"], note: "ina šaršar šadî elî ... ittaʾlad anzâ, 'on lofty Mount Sharshar ... she bore Anzu'; Ea: īrīšū-ma erṣetu šu[ddultu] ... ina kāpī šadî, 'the wide earth conceived him, he is born in the rocks of the mountain'; also pure waters of the gods of the apsû (a+49-a+50)"}
+      - {motif: divine-council, refs: ["Anzu SB I:21-24", "Anzu SB I:a+41-a+48"], note: "the Igigi assemble before Enlil; Enlil deliberates with Ea (ninšīku), 'who was it bore him?'"}
+      - {motif: monster-appointed-guardian-of-sanctuary-door, refs: ["Anzu SB I:a+54-a+55"], note: "liptarrik ina atmani šubat k[iṣṣi], 'let him always block the way into the shrine, the dwelling of the sanctuary'"}
+      - {motif: deity-preceded-and-followed-by-storm-attendants, refs: ["Anzu SB I:a+35-a+40"], note: "south wind, powerful wind, flood wave, whirlwinds, the four winds converge and bear aloft his dwelling; fragmentary"}
+    hints:
+      - "Compare Gen 2:5-6 (no rain, no man to till; a spring rising from the earth)."
+      - "Compare Gen 3:24 (cherubim posted to guard the way to the tree of life) and Ezek 28:14-16 (the guardian cherub)."
+  - id: ane-anzu-sb-1-theft
+    tradition: ane-akkadian
+    title: "Anzu covets supremacy and steals the tablet of destinies while Enlil bathes (Anzû SB I b+56-b+87)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB I:b+56-b+87"]
+    tags:
+      - {motif: tablet-of-destinies, refs: ["Anzu SB I:b+64", "Anzu SB I:b+69", "Anzu SB I:b+77"], note: "tuppi šīmāti ša qātīšu: the tablet in Enlil's hand, with his crown (agê bēlūtīšu) and divine apparel"}
+      - {motif: hero-plots-to-seize-world, refs: ["Anzu SB I:b+62-b+68"], note: "ukkuš ellilūti iṣṣabat ina libbīšu, 'he resolved in his heart to make off with Enlil-ship'; repeated after his gazing (ittaṭṭal) on the father of the gods"}
+      - {motif: usurper-boasts-i-will-take-the-throne, refs: ["Anzu SB I:b+69-b+72"], note: "lulqē-ma ... luhmum ... lugmur-ma kussâ lubēl parṣī lumaʾʾir kullat igīgī: 'let me take ... I will appropriate ... I will have the throne, rule the divine offices, command all the Igigi'"}
+      - {motif: ascent-above-stars-of-el, refs: ["Anzu SB I:b+69-b+72"], note: "interpretive: no ascent to heaven here, but a proud being plans in his heart to take the throne and rule the gods like the supreme god; cf. b+107 'his utterance has become like that of Duranki'"}
+      - {motif: theft-of-power-while-god-bathes, refs: ["Anzu SB I:b+74-b+77"], note: "enūma ellil irammuku mê ellūti šahṭū-ma ina kussê agûšu šaknu: 'when Enlil was bathing in pure water, undressed, his crown placed on the throne'; Anzu waited at the sanctuary entrance for daybreak"}
+      - {motif: monster-usurps-divine-kingship, refs: ["Anzu SB I:b+78-b+79"], note: "ellilūta ilteqe nadû [parṣū], 'he took Enlil-ship, the divine offices were cast down'; then flew off to his mountain"}
+      - {motif: sanctuary-loses-its-radiance, refs: ["Anzu SB I:b+80-b+82"], note: "ittatbak šahurratu šakin q[ūlu] ... kiṣṣu ištahaṭ namurrassu: 'stillness poured out, silence set in ... the sanctuary was stripped of its radiance'; Enlil speechless"}
+      - {motif: high-god-asks-who-will-fight-the-monster, refs: ["Anzu SB I:b+83-b+87"], note: "Anu: ilu ayyu anzâ linār-ma ina kullat dadmī lišarbi šumšu, 'which god will slay Anzu? let him make his name greatest in all the inhabited world'"}
+    hints:
+      - "Compare Isa 14:12-15 ('you said in your heart: I will ascend ... I will set my throne on high ... I will be like the Most High') and Ezek 28:2, 12-17."
+      - "Compare Isa 6:8 ('Whom shall I send, and who will go for us?') and 1 Kgs 22:20."
+      - "Compare Q 7:12-13 and Q 38:75-76 (Iblis' pride against God's order); the guardian who turns rebel."
+  - id: ane-anzu-sb-1-gods-refuse
+    tradition: ane-akkadian
+    title: "Adad, Girra and Shara are offered the champion's reward and refuse in turn (Anzû SB I b+88-b+153)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB I:b+88-b+153"]
+    tags:
+      - {motif: champions-refuse-one-after-another, refs: ["Anzu SB I:b+100-b+110", "Anzu SB I:b+121-b+131", "Anzu SB I:b+142-b+152"], note: "each answers ana šad lā aʾāri lihīš mannu, 'who would rush to the inaccessible mountain?', and ipsil urha lā alāka iqbi, 'he turned away, he said he would not go'; Girra's turn wholly restored from the parallels"}
+      - {motif: champion-promised-cult-and-name, refs: ["Anzu SB I:b+92-b+99", "Anzu SB I:b+134-b+141"], note: "libšû-ma libbanû parakkū ... ina kibrāt erbetti šitakkana māhāzīka ... māhāzūka līrubū ana ēkur ... gašru lū šumka: daises, shrines in the four world regions, shrines entering Ekur, the name 'Mighty One'"}
+      - {motif: threefold-repeated-episode, refs: ["Anzu SB I:b+88-b+152"], note: "three summonses (Adad son of Anu, Girra son of Annunitum, Shara son of Ishtar) in identical words"}
+      - {motif: monster-usurps-divine-kingship, refs: ["Anzu SB I:b+107-b+108"], note: "ittabši ṣīt pîšu kī il duranki iqbi ša irraru immi ṭiṭṭiš: 'his utterance has become like that of Duranki (Enlil); whom he curses turns to clay'"}
+      - {motif: gods-fear-the-monster, refs: ["Anzu SB I:b+109", "Anzu SB I:b+153"], note: "ana ṣīt pîšu ilū išahhuhū, 'at his utterance the gods despaired'; the Igigi fume in turmoil"}
+    hints:
+      - "Compare 1 Sam 17:11, 24-25 (Israel afraid of Goliath; the king promises riches, his daughter and freedom to the man who kills him)."
+      - "Compare Rev 5:2-4 (no one found worthy) for the motif of no one able, though outside HB/Quran."
+  - id: ane-anzu-sb-1-ea-chooses-ninurta
+    tradition: ane-akkadian
+    title: "Ea finds the champion: Mami renamed Mistress of All the Gods and asked to give her son Ninurta (Anzû SB I b+154-c+201)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB I:b+154-c+201"]
+    tags:
+      - {motif: wise-god-devises-plan-when-gods-despair, refs: ["Anzu SB I:b+155-b+162"], note: "bēl uzni āšib apsî itpēšu ... ea uzna ibtani ina libbīšu: 'the lord of wisdom who dwells in the apsû ... Ea formed a plan in his heart': 'let me find the god and appoint Anzu's conqueror in the assembly'"}
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["Anzu SB I:b+164"], note: "ittarrū-ma igīgū unaššaqū šēpīšu: the Igigi rally and kiss Ea's feet"}
+      - {motif: mother-goddess-renamed-mistress-of-all-gods, refs: ["Anzu SB I:b+177-b+178"], note: "pānā-ma mami ... eninni bēlet kul[lat ilī lū šumki]: 'formerly Mami, now Mistress of All the Gods be your name'; partly restored"}
+      - {motif: name-change-by-god, refs: ["Anzu SB I:b+177-b+178"]}
+      - {motif: god-chosen-to-surpass-gods, refs: ["Anzu SB I:b+179-b+184"], note: "idnī ninurta šūpâ narāmki ... bēlu ina puhur ilī ... lū šurruh: 'give us Ninurta your beloved; he shall be lord in the assembly, pre-eminent'"}
+      - {motif: mother-goddess-bore-all-the-gods, refs: ["Anzu SB I:c+193-c+197"], note: "igīgī-ma k[ullassunu uʾallid] ... abni puhur ra[bûti anunnakī] ... ana āni šarrū[t šamê]: 'I bore all the Igigi, I created the whole assembly of the great Anunnaki ... (gave) kingship of heaven to Anu'; partly restored"}
+      - {motif: mother-commissions-son-to-fight-monster, refs: ["Anzu SB I:c+190-c+201"], note: "narām libbīša umaʾʾaršu: she commissions the beloved of her heart; Anzu 'has snatched it from Enlil, he has wronged your father' (ellil ītekim abāka izzēr)"}
+    hints:
+      - "Compare Gen 17:5, 15 and Gen 32:29 (new names given at a turning point)."
+      - "Compare Judg 4:6-9 (a woman commissions the warrior) and 1 Kgs 1:11-31 for a mother securing her son's elevation."
+  - id: ane-anzu-sb-2-mothers-orders
+    tradition: ane-akkadian
+    title: "Mami's battle orders to Ninurta; he sets out with seven ill winds (Anzû SB II 1-34)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB II:1-34"]
+    tags:
+      - {motif: mother-commissions-son-to-fight-monster, refs: ["Anzu SB II:1-27", "Anzu SB II:28"], note: "zikir ummīšu išme qurādu, 'the warrior heeded his mother's word'; variant II:29 iplah-ma, 'he was afraid'"}
+      - {motif: sun-darkened-during-divine-battle, refs: ["Anzu SB II:15-16"], note: "ai ippuha šamšu elīšu ūmu namru ana daʾummati litūršu: 'may the sun not rise on him, may bright day turn to gloom for him'"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["Anzu SB II:18-19"], note: "šārū kappīšu ana busrati liblūni bītuš ēkur: 'let the winds bring his feathers as good news to Ekur, to your father Enlil'"}
+      - {motif: champion-promised-cult-and-name, refs: ["Anzu SB II:22-27"], note: "šarrūtu līruba ana ēkur ... ana abi ālidīka litūrū parṣū: kingship to re-enter Ekur, the offices to return to the father who begot him"}
+      - {motif: seven-winds-storm, refs: ["Anzu SB II:30-34"], note: "uštaṣbit sebet qablī ... sebet imhullī ... sebe ašamšâtu: 'seven battles, seven evil winds, seven whirlwinds that make the dust swirl'"}
+      - {motif: arrows-flash-like-lightning, refs: ["Anzu SB II:10", "Anzu SB II:13-14"], note: "tulul qašta šukudu imta libilšu: 'draw the bow, let the darts carry poison'; let your glow and radiance go against him; send a mist (imbaru) so he cannot see your features (II:12)"}
+    hints:
+      - "Compare Ps 18:8-15 and Hab 3:5-11 (the divine warrior with storm, arrows and lightning; sun and moon stand still)."
+      - "Compare Nah 1:3 (whirlwind and storm are his way, clouds the dust of his feet)."
+  - id: ane-anzu-sb-2-first-battle
+    tradition: ane-akkadian
+    title: "The first battle: the challenge, darkness, and arrows turned back by the tablet's power (Anzû SB II 35-69)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB II:35-69"]
+    tags:
+      - {motif: guardian-monster-radiates-terror, refs: ["Anzu SB II:36-38"], note: "igṣuṣ kīma ūmi melammašu šadî iktum uttaʾʾar kī labbi: 'he gnashed like a storm-demon, his radiance covered the mountains, he roared like a lion'"}
+      - {motif: combatants-exchange-challenge-who-are-you, refs: ["Anzu SB II:39-47"], note: "mannu attā ša ana tāhāzīya tallika ṭēnka idna, 'who are you who have come to fight me? account for yourself!'; Ninurta: an[āku ninurta ...] ana epēš tāhāzīka allika, 'I am Ninurta ... I have come to fight you'"}
+      - {motif: monster-bird-cry-shakes-mountains, refs: ["Anzu SB II:48-49"], note: "ina qereb hursāni ikkillašu šamriš iddi: he let out his fierce shriek within the mountain"}
+      - {motif: sun-darkened-during-divine-battle, refs: ["Anzu SB II:50-51"], note: "šaknat ekletu šadû pānūšunu katmū šamaš nūr ilī daʾummiš īrub: 'darkness fell, the mountain's face was covered, Shamash, light of the gods, went into gloom'"}
+      - {motif: arrows-flash-like-lightning, refs: ["Anzu SB II:53-56"], note: "erpet mūti izannun ibarriq uṣṣī: 'a cloud of death rained, arrows flashed like lightning'; the fighting is abūba asmat, 'like a deluge'"}
+      - {motif: magic-word-sends-arrow-back-to-origins, refs: ["Anzu SB II:61-65"], note: "qanûm-ma ša talliku tūra apukka mummu qašti ana qišātīki šerʾānu ana šašalli immeri kappu ana iṣṣūri tūrā: 'shaft, go back to your thicket; bow-frame, to your forests; string, to the sheep's sinew; feather, to the birds: go back!'"}
+      - {motif: curse-of-reversion-to-origin, refs: ["Anzu SB II:63-65"], note: "the spell orders each part of the weapon back to its natural source"}
+      - {motif: talisman-makes-holder-invulnerable, refs: ["Anzu SB II:66-69"], note: "našī-ma tuppi šīmāti ilī qātuššu ... ul iṭhû ana zumrīšu: 'because he held the tablet of destinies, the arrows did not come near his body'; weapons failed"}
+    hints:
+      - "Compare 1 Sam 17:43-47 (the champion's taunt and David's answer naming his God)."
+      - "Compare Joel 2:10, 31 and Amos 8:9 (sun darkened on the day of battle)."
+  - id: ane-anzu-sb-2-ea-advice
+    tradition: ane-akkadian
+    title: "Sharur carries the report to Ea; Ea's tactic: tire him, cut his pinions (Anzû SB II 70-154)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB II:70-154"]
+    tags:
+      - {motif: talking-divine-weapon, refs: ["Anzu SB II:70-71", "Anzu SB II:86-88"], note: "Ninurta's weapon Šarur is sent as messenger to Ea and back"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["Anzu SB II:71-102", "Anzu SB II:105-147"], note: "the battle report and Ea's advice are each given and then repeated word for word"}
+      - {motif: cut-wings-to-break-magic, refs: ["Anzu SB II:107-114"], note: "šūnihšū-ma ina mithur mehê abaršu liddi ... nukkis abrīšu imna u šumēla ruʾʾim liṭṭul-ma kappašu litbala zikir pîšu: 'tire him so he drops his pinions in the storm ... cut off his pinions, scatter them right and left; when he sees his feathers, it will take away his spell'; 'Feather to wing!' he will cry, fear him not"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["Anzu SB II:116-117", "Anzu SB II:138-139"]}
+      - {motif: seven-winds-storm, refs: ["Anzu SB II:150-154"]}
+    hints:
+      - "Compare Judg 16:17-19 (the secret of invulnerability found and broken)."
+  - id: ane-anzu-sb-3-anzu-slain
+    tradition: ane-akkadian
+    title: "Anzu's wings cut, the arrow through his heart; the tablet recovered and the gods rejoice (Anzû SB III 1-31)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB III:1-31"]
+    tags:
+      - {motif: cut-wings-to-break-magic, refs: ["Anzu SB III:9-13"], note: "īnah-ma anzû ina mithur mehê abaršu iddi ... unakkis abrīšu ... kappā ana kappī kī ilsû qanû išihhaššu: when he cried 'feather to wing' the shaft whistled at him"}
+      - {motif: divine-arrows, refs: ["Anzu SB III:14-16"], note: "šiltāhu ībira būn libbīšu ... libba u hašî ībir šiltāhu: 'the arrow passed through his heart and lungs'"}
+      - {motif: deity-destroys-mountain, refs: ["Anzu SB III:17-20"], note: "inār hursānī qerbēssunu udallih irhiṣ: 'he slew the mountains, ravaged their inner parts'"}
+      - {motif: tablet-of-destinies, refs: ["Anzu SB III:21"], note: "tuppi šīmāti ilī qātuššu uttīr: Ninurta took the tablet back into his hand"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["Anzu SB III:22-23"], note: "ana itti ša busratīšu kappī anzî ubil šāru: the wind bore Anzu's feathers as sign of good news; Dagan saw it and rejoiced"}
+      - {motif: victor-admitted-to-secret-of-gods, refs: ["Anzu SB III:27-31"], note: "lizziz itti ilī ahhīšū-ma pirišta lišme ... ša ilī pirišta: 'let him stand with the gods his brothers and hear the secret, the secret of the gods'"}
+    hints:
+      - "Compare Isa 27:1 and Job 26:12-13 (the fleeing serpent pierced); Ps 74:13-14."
+      - "Compare Jer 23:18, 22 and Job 15:8 (standing in the council (sod) of God and hearing his word)."
+  - id: ane-anzu-sb-3-birdu-mission
+    tradition: ane-akkadian
+    title: "Ea reports the kill; Enlil sends Birdu to summon Ninurta, who demurs over the tablet (Anzû SB III 32-102)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB III:32-a+77", "Anzu SB III:91-102"]
+    tags:
+      - {motif: slain-monster-flayed-skin-taken, refs: ["Anzu SB III:34-35"], note: "[kīma ind]a[h]hu mê kišādi [anzâ?] ikūṣu maška ilqe: 'when the lifeblood (lit. water of the neck) was squeezed out, he flayed [Anzu] and took the skin'; the name restored"}
+      - {motif: tablet-of-destinies, refs: ["Anzu SB III:37-39"], note: "tuppi šīmāti liškuna ina burkīka: 'let him put the tablet of destinies in your lap'"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["Anzu SB III:41-50", "Anzu SB III:a+57-a+69"], note: "Enlil sends Nusku to fetch the messenger Birdu, who repeats the gods' invitation; badly broken"}
+      - {motif: victor-withholds-recovered-talisman, refs: ["Anzu SB III:a+70-a+76"], note: "interpretive and fragmentary: tuppi šīmāti lā ... [...] ... lā ašak[kan], 'the tablet of destinies not ... I will not put ...'; the translation's 'I will not return the tablet of destinies' is largely restoration. Lines III:a+77-a+90 lost; III:91-102 fragments mention anzâ, lukkiš 'let me remove', and mīlu u z[unnu] 'flood and rain'"}
+    hints:
+      - "Compare Gen 14:21-24 (the victor refuses to keep the spoil) as a contrast."
+  - id: ane-anzu-sb-3-names-of-ninurta
+    tradition: ane-akkadian
+    title: "Ninurta praised: he slew the mountains, and his names in the cult cities (Anzû SB III b+103-b+168)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Anzu SB III:b+103-b+168"]
+    tags:
+      - {motif: deity-destroys-mountain, refs: ["Anzu SB III:b+107-b+112"], note: "qarrādu ina dannūtīka šadî tanarra, 'warrior, in your strength you slay mountains'"}
+      - {motif: warrior-son-subdues-enemies-at-fathers-feet, refs: ["Anzu SB III:b+111", "Anzu SB III:b+113"], note: "kullat nakirī tušakniša ana šēpī abīka ellil: 'you made all enemies submit at the feet of your father Enlil'"}
+      - {motif: deity-holds-all-divine-powers, refs: ["Anzu SB III:b+114-b+116"], note: "bēlūta tagdamar kullat gimir parṣī: 'you have gained full lordship, every one of the divine offices'; the dais of the gods of destinies"}
+      - {motif: god-invoked-under-several-names-litany, refs: ["Anzu SB III:b+117-b+142"], note: "Nisaba (his lustrations), Ningirsu (in the furrow), rābiṣ kussî, Hurabtil in Elam, Inshushinak in Susa, bēl pirišti, [Pabilsag], Ninazu, Ishtaran in Der, Zababa in Kish, Lugalbanda for Isin, Lugalmarada, Tishpak, Sagkud, Pisangunuk, Panigarra, Papsukkal"}
+      - {motif: fifty-names-of-god, refs: ["Anzu SB III:b+143"], note: "not fifty, but the closing praise palhū šūturū ina ilī šumūka maʾdiš, 'your names are most surpassingly great among the gods'"}
+      - {motif: god-as-shepherd-of-all-creatures, refs: ["Anzu SB III:b+119"], note: "ušmaddûka rēʾût nišī gamerta: 'they assigned you full shepherdship of the people'"}
+    hints:
+      - "Compare Ps 110:1 ('sit at my right hand until I make your enemies your footstool')."
+      - "Compare Isa 9:5 (the throne-names of the child) and Q 7:180, 59:22-24 (the most beautiful names of God)."
+  # ---------------- Atra-hasis (Old Babylonian) ----------------
+  - id: ane-atr-ob-1-gods-labor
+    tradition: ane-akkadian
+    title: "When gods were man: the lots cast, and the Igigi dig the rivers for forty years (Atra-hasis OB I 1-38)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["Atr OB I:1-38"]
+    tags:
+      - {motif: gods-bear-corvee-labor, refs: ["Atr OB I:1-6"], note: "inūma ilū awīlum ublū dullam izbilū šupšikkam: 'when the gods were man, they bore the labour, carried the basket'"}
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr OB I:5-6", "Atr OB I:19-20", "Atr OB I:37-38"], note: "the seven great Anunnaki make the Igigi bear the labour; erbâ šanātim atram, '[...] forty years, too much!'; mūšī u urrī, night and day"}
+      - {motif: divine-bureaucracy-king-counsellor-prefect, refs: ["Atr OB I:7-10"], note: "ānu abūšunu šarru mālikšunu qurādu ellil guzalûšunu ninurta gallûšunu ennūgi"}
+      - {motif: cosmos-divided-among-three-gods, refs: ["Atr OB I:11-18"], note: "isqam iddû ilū izzūzū: 'they cast lots, the gods divided': Anu heaven, Enlil the earth, Enki the bolt of the sea (šigar nahbalu tiāmtim) and the apsû"}
+      - {motif: gods-dig-tigris-and-euphrates, refs: ["Atr OB I:21-26"], note: "ilū nārātim iherrûni miṭrāt ilī napišti mātim ... idiqlat ... purattam: Tigris first, then Euphrates; partly restored"}
+    hints:
+      - "Compare Gen 2:5, 15 (no man to till the ground; man placed in the garden to work it) and Gen 2:10-14 (the rivers)."
+      - "Compare Ps 82 and Deut 32:8-9 (the world apportioned among the sons of God)."
+  - id: ane-atr-ob-1-strike
+    tradition: ane-akkadian
+    title: "The Igigi burn their tools and besiege Ekur by night (Atra-hasis OB I 39-104)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["Atr OB I:39-104"]
+    tags:
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr OB I:39-46"], note: "wašbū-ma ikkalū karṣī uttazzamū ina kalakki: 'they sat slandering, grumbling in the ditch'; kabtam dullani lišassik elni, 'let him lift our heavy labour off us'"}
+      - {motif: rebel-workers-burn-their-tools, refs: ["Atr OB I:61-69"], note: "išātam nēpešīšunu iddû-ma marrīšunu išātam šupšikkīšunu girram: fire to tools, spades and work baskets; they go to the gate of Enlil's abode"}
+      - {motif: junior-gods-revolt-against-chief-god, refs: ["Atr OB I:43-46", "Atr OB I:70-73"], note: "i niššiʾa ina šubtīšu, 'let us remove him from his dwelling'; mišil maṣṣarti mūšum ... ēkur lawi ellil ul īde, 'midnight ... Ekur surrounded, Enlil did not know'; lines I:51-56 lost"}
+      - {motif: god-woken-by-temple-servants, refs: ["Atr OB I:74-83"], note: "the doorkeeper Kalkal bars the door and wakes Nusku, Nusku wakes his lord: bēlī lawi bītka, 'my lord, your house is surrounded'"}
+      - {motif: gods-pale-before-own-creation, refs: ["Atr OB I:93-96"], note: "bēlī bīnu būnūka mārū ramānīka mīnšu tādur: 'your face is tamarisk(-pale); they are your own sons, why fear?'"}
+      - {motif: divine-council, refs: ["Atr OB I:97-104"], note: "Anu brought down, Enki brought; ellil itbē-ma šakin dīnu, 'Enlil rose, the case was opened'"}
+    hints:
+      - "Compare Exod 1:11-14 and 2:23 (hard labour; the cry goes up) and Exod 5:6-18."
+      - "Compare 1 Kgs 12:4, 18 (the heavy yoke; the overseer of forced labour stoned)."
+  - id: ane-atr-ob-1-debate
+    tradition: ane-akkadian
+    title: "Nusku's embassy: 'Every one of us has declared war'; Enlil weeps (Atra-hasis OB I 105-173)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["Atr OB I:105-173"]
+    tags:
+      - {motif: message-repeated-verbatim, refs: ["Atr OB I:120-131", "Atr OB I:133-143", "Atr OB I:155-165"], note: "mannum-mi ilum bēl qablim ..., 'who is the god who started the battle?' given and repeated; the answer repeated to Enlil"}
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr OB I:144-152"], note: "kullatni nissaqqaram tuqumtam ... šupšikku watru iddūkniāti: 'every one of us has declared war ... excessive toil has killed us'"}
+      - {motif: junior-gods-revolt-against-chief-god, refs: ["Atr OB I:145", "Atr OB I:151-152"], note: "ibbalkitū hupšu issi: 'they rebelled, the labour-gang shouted'"}
+      - {motif: god-weeps-over-own-city, refs: ["Atr OB I:166-168"], note: "loose fit: ellil illakā dimāšu, 'Enlil's tears flowed'; he weeps over the revolt, not a city"}
+      - {motif: divine-council, refs: ["Atr OB I:169-173"], note: "Enlil asks Anu to take the authority (parṣu) up to heaven and summon one god; partly restored from SB"}
+    hints:
+      - "Compare 1 Kgs 12:16 ('To your tents, O Israel!') for collective refusal of the labour regime."
+  - id: ane-atr-ob-1-creation-of-man
+    tradition: ane-akkadian
+    title: "Ea's proposal: a god is slain and man made from his flesh, blood and clay (Atra-hasis OB I 174-239)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["Atr OB I:174-239"]
+    tags:
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Atr OB I:180-193", "Atr OB I:236-237"], note: "abšānam libil šipir ellil šupšik ilim awīlum lišši: 'let him bear the yoke, the task of Enlil; let man carry the toil of god'; Mami: šupšikkakunu awīlam ēmid"}
+      - {motif: god-fashions-creature-from-clay, refs: ["Atr OB I:196-199", "Atr OB I:207"], note: "Mami: itti enkī-ma ibašši šipru ... ṭīdam liddinam-ma anāku lūpuš, 'let him give me the clay and I will do it'"}
+      - {motif: purification-bath-on-first-seventh-fifteenth, refs: ["Atr OB I:202-203", "Atr OB I:217-218"], note: "ina warhim sebūtim u šapattim tēliltam lušaškin rimkam"}
+      - {motif: god-slain-to-create-humankind, refs: ["Atr OB I:204-205", "Atr OB I:219-220"], note: "ilam ištēn liṭbuhū-ma ... wê-ilam ša īšû ṭēmam ina puhrīšunu iṭṭabhū: 'they slaughtered We-ila, who had the plan, in their assembly'"}
+      - {motif: human-made-from-slain-gods-flesh-and-blood, refs: ["Atr OB I:206-209", "Atr OB I:221-222"], note: "ina šīrīšu u dāmīšu nintu liballil ṭiṭṭam ilum-ma u awīlum libtallilū: 'with his flesh and blood let Nintu mix clay, let god and man be mixed together'"}
+      - {motif: human-formed-from-earth, refs: ["Atr OB I:207", "Atr OB I:227"]}
+      - {motif: human-ghost-derives-from-slain-god, refs: ["Atr OB I:210-213", "Atr OB I:223-226"], note: "ahriātiš ūmī uppam i nišme ina šīr ilim eṭemmum libši: 'for all time let us hear the drum (heartbeat); from the god's flesh let there be a ghost'; wordplay awīlum / wê-ila, ṭēmum / eṭemmum"}
+      - {motif: gods-spit-on-clay-of-humankind, refs: ["Atr OB I:229-230"], note: "igīgū ilū rabûtum ruʾtam iddû elu ṭiṭṭi"}
+      - {motif: creator-boasts-my-hands-made-it, refs: ["Atr OB I:233–234-239"], note: "Mami: 'you ordered the task and I completed it ... I imposed your toil on man; you have bestowed clamour (rigmam) on mankind; I released the yoke, I established freedom (andurāram)'"}
+    hints:
+      - "Compare Gen 2:7 (dust and the breath of life) and Gen 1:26 ('let us make man')."
+      - "Compare Q 15:26-29, 32:7-9 and 38:71-72 (man from clay, God breathes his spirit into him) and Q 51:56 (jinn and men created to worship/serve)."
+      - "Compare Lev 17:11 (the life is in the blood)."
+  - id: ane-atr-ob-1-birth-and-marriage
+    tradition: ane-akkadian
+    title: "Mami renamed; the fourteen pieces of clay, the birth in the tenth month, the rites of birth and marriage (Atra-hasis OB I 240-333)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["Atr OB I:240-333"]
+    tags:
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["Atr OB I:240-241"], note: "iddarrū-ma unaššiqū šēpīša"}
+      - {motif: mother-goddess-renamed-mistress-of-all-gods, refs: ["Atr OB I:242-243–244"], note: "pānā-mi mami niššasīki inanna bēlet kala ilī-ma lū šumki"}
+      - {motif: fourteen-pieces-of-clay-seven-and-seven, refs: ["Atr OB I:245-256"], note: "restored from SB III:13-24: kerṣī erbēšeret ... sebet ana imittim sebet ana šumēlim ... libittam; Ea treads the clay while Mami recites the incantation"}
+      - {motif: birth-goddesses-assist-creation-of-humans, refs: ["Atr OB I:247", "Atr OB I:277-282"], note: "šassūrātum puhhurā-ma: the birth goddesses assembled"}
+      - {motif: male-and-female-created-together, refs: ["Atr OB I:266-276"], note: "largely restored from SB III:34-41: zikarum ana eṭlim ... ana ardatim sinništum; preserved: [ina ki]râtim u šulî ihtīrū aššatum u mussa, 'in gardens and streets wife and husband will choose each other'"}
+      - {motif: birth-in-tenth-month, refs: ["Atr OB I:277-282"], note: "ašbat nintu imannu arhī ... issû ešram arham ... silītam ipte: 'Nintu sat counting the months ... they called the tenth month ... she opened the womb'"}
+      - {motif: goddess-as-midwife-cuts-cord, refs: ["Atr OB I:283-288"], note: "loose fit: with covered head she does the midwifery, girds the mother's middle, blesses, draws a circle with flour and places the brick; no cord-cutting preserved here"}
+      - {motif: creator-boasts-my-hands-made-it, refs: ["Atr OB I:289"], note: "anākū-mi abni īpušā qātāya"}
+      - {motif: birth-brick-nine-days, refs: ["Atr OB I:290-297–298"], note: "tišēt ūmī linnadi libittum: 'let the brick lie nine days', Nintu honoured; the midwife rejoices in the house of the qadištum"}
+      - {motif: nine-days-wedding-rejoicing, refs: ["Atr OB I:299-304"], note: "lihtīrū aššatum u mussa ... tišēt ūmī liššakin hidûtum ištar littabbû išhāra"}
+      - {motif: marriage-one-flesh, refs: ["Atr OB I:299-301"], note: "loose fit: husband and wife choose each other 'at the time of wifehood and husbandhood' when the bed is laid; lines I:308-327 broken; I:328-333 fragments: awīlum, 'cleanse the dwelling', māru ana abīšu"}
+    hints:
+      - "Compare Gen 1:27 and 2:23-24 (male and female; leaving father and mother) and Gen 29:27 (the wedding week)."
+      - "Compare Lev 12:1-5 (days of purification after birth) and Job 10:8-11, Ps 139:13-16 (God's hands fashion the child in the womb)."
+      - "Compare Q 23:12-14 and 22:5 (stages of creation in the womb)."
+  # ---------------- Atra-hasis (Middle Babylonian) ----------------
+  - id: ane-atr-mb-bab2-strike
+    tradition: ane-akkadian
+    title: "Middle Babylonian fragment: the gods grumble and resolve to slay their steward (Atra-hasis MB Bab2)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["Atr MB Bab2:1'-23'"]
+    tags:
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr MB Bab2:4'-7'"], note: "tupšikkum-ma iddūknâši kabit dullu mād šapšaqni: 'the toil is killing us, the labour is heavy, too much our distress'"}
+      - {motif: junior-gods-revolt-against-chief-god, refs: ["Atr MB Bab2:8'-21'b"], note: "variant: alkāni guzalâni i ninēram-ma, 'let us slay our steward' (OB has only 'remove'); i nišbir nīrni, 'let us break our yoke'; Wê, 'the god who had the plan'"}
+      - {motif: rebel-workers-burn-their-tools, refs: ["Atr MB Bab2:21'b-22'"], note: "restored: u tupš[ikkīšunu girra ittakšū]"}
+    hints:
+      - "Compare Ps 2:3 ('let us break their bonds and cast their cords from us') and Jer 2:20 (breaking the yoke)."
+  - id: ane-atr-mb-priv-boat
+    tradition: ane-akkadian
+    title: "'Wall, wall!': the warning, the round boat and its bitumen, the boarding and the sealing of the door (Atra-hasis MB Priv)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["Atr MB Priv:1-60"]
+    tags:
+      - {motif: warning-through-wall, refs: ["Atr MB Priv:1"], note: "igār igār kikkiš kikkiš: 'wall, wall! reed fence, reed fence!'"}
+      - {motif: hero-warned-by-deity, refs: ["Atr MB Priv:2–3"], note: "atram-hasīs ana milkīya qūl-ma taballuṭ dāriš: 'Atra-hasis, heed my advice, that you may live forever'"}
+      - {motif: abandon-possessions-save-life, refs: ["Atr MB Priv:4a", "Atr MB Priv:4b–5"], note: "ubut bītam bini eleppam makkūram zēr-ma napištam šullim"}
+      - {motif: round-boat-coracle, refs: ["Atr MB Priv:6–7", "Atr MB Priv:8"], note: "eṣeršī-ma eṣerti kippātim: 'draw her out on a circular plan'; lū mithār šiddaša u pūssa, length equal to breadth"}
+      - {motif: vessel-dimensions-given, refs: ["Atr MB Priv:9", "Atr MB Priv:13-16"], note: "base one ikû, walls one nindanu high; thirty ribs one parsiktu thick and ten nindanu long; 3,600 stanchions"}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Atr MB Priv:17"], note: "arkus hinnīša elēnum u šaplānum: 'I arranged her cabins above and below'"}
+      - {motif: vessel-sealed-with-pitch, refs: ["Atr MB Priv:18-22", "Atr MB Priv:31-33"], note: "ištēn šūši iṭṭâm kīdâtīša apšuš ... qerebša apšus: sixty kor of crude bitumen outside, sixty inside; kilns loaded with bitumen; dry bitumen (kupram) applied"}
+      - {motif: family-saved, refs: ["Atr MB Priv:35-37"], note: "ana eleppim ī[rubū]: kin, in-laws and the pregnant (erīatum) enter the boat; partly broken"}
+      - {motif: people-feast-unaware-before-flood, refs: ["Atr MB Priv:38-44"], note: "ākilum ikkal šātûm išatti anāku awātum ina libbīya ibaššī-ma: 'the eater ate, the drinker drank, but I had a word in my heart'"}
+      - {motif: high-god-swears-total-annihilation, refs: ["Atr MB Priv:49-50"], note: "ellil ina kussî [ittam]e gamartam u armūtam: oath partly restored"}
+      - {motif: animals-in-pairs, refs: ["Atr MB Priv:51-52"], note: "nammaštûm ina ṣērim šanâ eleppam: wild beasts of the steppe 'two (by two)' into the boat; broken"}
+      - {motif: door-of-ark-sealed-after-boarding, refs: ["Atr MB Priv:59-60"], note: "inūma anāku ērubū-ma pihi pīt bābīša: 'when I had entered: caulk the frame of her door!' (the hero orders it, not the god)"}
+    hints:
+      - "Compare Gen 6:13-22 (build an ark; dimensions; pitch inside and out; lower, second and third decks) and Gen 7:1-16 (family and animals two by two enter; YHWH shuts him in)."
+      - "Compare Q 11:37-44, Q 23:27 and Q 54:13 (the ark of planks and nails; 'load into it two of every kind and your family')."
+      - "Compare Matt 24:38 / Luke 17:27 (eating and drinking until the flood), outside HB/Quran."
+  - id: ane-atr-mb-ug2-birds
+    tradition: ane-akkadian
+    title: "Ugarit fragment: Ea in a dream orders a window opened; the dove returns exhausted (Atra-hasis MB Ug2)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["Atr MB Ug2:1-14"]
+    tags:
+      - {motif: god-instructs-in-dream, refs: ["Atr MB Ug2:1-2", "Atr MB Ug2:7-10"], note: "ina pī bibli ina rēš arhi ēa bēlu rabû ina šuttīya izzizam-ma: at the new moon Ea stood in my dream"}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Atr MB Ug2:3-4", "Atr MB Ug2:9-10"], note: "with spade and copper axe, apta epuš ana muhhi: 'make a window at the top'"}
+      - {motif: bird-release, refs: ["Atr MB Ug2:5–6", "Atr MB Ug2:11-14"], note: "uššir iṣṣūram-ma līmurakka kibra: 'release a bird, let it find the shore for you'; a dove (summata), then a kumû-bird (pelican?)"}
+      - {motif: dove-returns-having-found-no-rest, refs: ["Atr MB Ug2:11-13"], note: "dannata kappī summata umaššir illik itūram-ma ušānih kappīša: 'the strong-winged dove I released; she went and came back to me, she had exhausted her wings'"}
+    hints:
+      - "Compare Gen 8:6-12 (Noah opens the window; the dove finds no rest for the sole of her foot and returns)."
+  # ---------------- Atra-hasis (Standard Babylonian) ----------------
+  - id: ane-atr-sb-1-gods-labor
+    tradition: ane-akkadian
+    title: "SB version: the gods made yoke and basket; the lots and the digging (Atra-hasis SB I 1-38)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Atr SB I:1-38"]
+    tags:
+      - {motif: gods-bear-corvee-labor, refs: ["Atr SB I:1-4"], note: "variant: ilū nīra ibnû tupšikka, 'the gods made the yoke, the work basket' (OB 'bore the labour')"}
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr SB I:5-6", "Atr SB I:20", "Atr SB I:38"], note: "dulla izzabbilū šūt ellil: 'those of Enlil bore the labour' (SB variant)"}
+      - {motif: divine-bureaucracy-king-counsellor-prefect, refs: ["Atr SB I:7-10"]}
+      - {motif: cosmos-divided-among-three-gods, refs: ["Atr SB I:11-18"], note: "isqa iddû šunu izzūzū"}
+      - {motif: gods-dig-tigris-and-euphrates, refs: ["Atr SB I:21-26"], note: "lines I:27-30, 35, 37 illegible"}
+    hints:
+      - "Compare Gen 2:5, 15 and Gen 2:10-14."
+  - id: ane-atr-sb-1-strike
+    tradition: ane-akkadian
+    title: "SB version: Alla's revolt, the night siege and Nusku's embassy (Atra-hasis SB I 39-120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Atr SB I:39-120"]
+    tags:
+      - {motif: junior-gods-revolt-against-chief-god, refs: ["Atr SB I:41", "Atr SB I:41a", "Atr SB I:53", "Atr SB I:59-64"], note: "alkāni guzalâ i nināraššu ... i nišbir nīra: 'let us kill the prefect, break the yoke'; ānum-ma lug[arri], 'I will make war on Anu himself'; the ringleader is Alla (I:42), not Wê"}
+      - {motif: rebel-workers-burn-their-tools, refs: ["Atr SB I:55-60"]}
+      - {motif: god-woken-by-temple-servants, refs: ["Atr SB I:65-76"], note: "SB adds: ellil ... palhiš ... ana kiṣṣīšu, Enlil fearfully enters his sanctuary"}
+      - {motif: gods-pale-before-own-creation, refs: ["Atr SB I:87-88"]}
+      - {motif: message-repeated-verbatim, refs: ["Atr SB I:109-120"]}
+    hints:
+      - "Compare Exod 1:11-14 and 1 Kgs 12:4, 18."
+  - id: ane-atr-sb-2-debate
+    tradition: ane-akkadian
+    title: "SB version: the Igigi's answer, Enlil's tears, and Anu's proposal to create man (Atra-hasis SB II 1-74)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Atr SB II:1-74"]
+    tags:
+      - {motif: message-repeated-verbatim, refs: ["Atr SB II:7-30", "Atr SB II:41-50"]}
+      - {motif: lesser-gods-toil-and-complain, refs: ["Atr SB II:31-38"], note: "ibbalkitū hupšu issi ... tupišikku iddūkniāti ... mithuṣa itti ellil"}
+      - {motif: god-weeps-over-own-city, refs: ["Atr SB II:51-53"], note: "loose fit: ša ellil illakā dimāšu, Enlil's tears flow at the revolt"}
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Atr SB II:61-74"], note: "SB variant: Anu, not Ea, speaks: ašbat bēlet-ilī sassūrātu sassūru lullâ libni tupšikki ili amēlu lišši"}
+    hints:
+      - "Compare Gen 1:26 ('let us make man')."
+  - id: ane-atr-sb-2-creation
+    tradition: ane-akkadian
+    title: "SB version: Alla slain, man mixed from his flesh and blood; the gods spit on the clay (Atra-hasis SB II 75-116)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Atr SB II:75-116"]
+    tags:
+      - {motif: god-fashions-creature-from-clay, refs: ["Atr SB II:77-86"], note: "attī-ma sassūru bāniat šīmti: 'you are the mother goddess, creatress of destiny'"}
+      - {motif: purification-bath-on-first-seventh-fifteenth, refs: ["Atr SB II:89-90", "Atr SB II:101-102"]}
+      - {motif: god-slain-to-create-humankind, refs: ["Atr SB II:91", "Atr SB II:103-104"], note: "alla ša īšû ilu ṭēma alla ellil iṭbuhūšu mahrīti: 'they slaughtered Alla, the god who had the plan, Alla, an Enlil of former times'"}
+      - {motif: human-made-from-slain-gods-flesh-and-blood, refs: ["Atr SB II:93-96", "Atr SB II:105-108"]}
+      - {motif: human-ghost-derives-from-slain-god, refs: ["Atr SB II:97-100", "Atr SB II:109-112"], note: "SB: ahrâtiš līpâ i nišme, 'for all time let him appear so we can hear (him)'; ittu lā muššî eṭemmu, 'a sign not to be forgotten, a ghost'"}
+      - {motif: gods-spit-on-clay-of-humankind, refs: ["Atr SB II:113-116"]}
+    hints:
+      - "Compare Gen 2:7 and Q 15:28-29, 38:71-72."
+  - id: ane-atr-sb-3-birth
+    tradition: ane-akkadian
+    title: "SB version: Mama renamed; the fourteen pieces, the designs of man and woman, the birth brick (Atra-hasis SB III)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Atr SB III:1-132"]
+    tags:
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Atr SB III:3-8"], note: "[ultu] ūmi annî ilī ulla[l], 'from this day I will set the gods free'; rigma ana amēlūti"}
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["Atr SB III:10"], note: "restored: [ilū iddarrū-ma i]ššiqū šēpīša"}
+      - {motif: mother-goddess-renamed-mistress-of-all-gods, refs: ["Atr SB III:11-12"]}
+      - {motif: fourteen-pieces-of-clay-seven-and-seven, refs: ["Atr SB III:13-24"], note: "kerṣī erbēšeret uktarriṣ sebet kerṣī ana imitti sebet kerṣī ana šumēli ... ina birīšunu ittadi libitta ... abunnati (umbilical cord)"}
+      - {motif: birth-goddesses-assist-creation-of-humans, refs: ["Atr SB III:15-19", "Atr SB III:31-33"], note: "she prays to the clay and to the oil"}
+      - {motif: male-and-female-created-together, refs: ["Atr SB III:34-41"], note: "uṣurāt nišī-ma uṣṣar māma zikaru ana eṭli ... ardatu ana eṭli eṭlu ana ardati īnšu liš[ši]: 'Mama drew the designs of the people: the male to a young man ... let the young woman and young man lift their eyes to each other'"}
+      - {motif: birth-brick-nine-days, refs: ["Atr SB III:56-64"], note: "lines III:43-55 lost; SB reads bīt [qadišti] 'prostitute's house' as restored"}
+      - {motif: nine-days-wedding-rejoicing, refs: ["Atr SB III:65-71"], note: "wholly restored from OB except lišša[kin hidûtu] and [ištar l]ibbû [išhāra]; III:72-131 lost"}
+    hints:
+      - "Compare Gen 1:27; 2:23-24 and Gen 29:27."
+  # ---------------- Bit meseri (Standard Babylonian) ----------------
+  - id: ane-bitmeseri-sb-it-marduk-prayer
+    tradition: ane-akkadian
+    title: "Prayer to Marduk: 'let me live, establish truth in my mouth, my god at my right' (Bit meseri IT 1-27)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:1-27"]
+    tags:
+      - {motif: let-me-live-that-i-may-praise, refs: ["BitMeseri SB IT:10-12", "BitMeseri SB IT:21-22"], note: "lubluṭ lušlim-ma luštammar ilūtka, 'let me live, be well, that I may extol your divinity'"}
+      - {motif: personal-god-at-right-goddess-at-left, refs: ["BitMeseri SB IT:16-18"], note: "ilī lizzīz ina imnīya ištarī lizzīz ina šumēlīya ilu mušallimu idāya lū kayyān"}
+      - {motif: sun-god-puts-justice-in-kings-mouth, refs: ["BitMeseri SB IT:13-14"], note: "loose fit: šuškin kitta ina pîya šubši amāt damiqti ina libbīya, 'establish truth in my mouth, a good word in my heart' (said by the patient, not a king)"}
+      - {motif: god-as-shepherd-of-all-creatures, refs: ["BitMeseri SB IT:7"], note: "ṣulūl māti gāmil nišī rapšāti: 'protection of the land, who spares the widespread people'; ušumgal kalîš parakkī, 'dragon of all sanctuaries'"}
+    hints:
+      - "Compare Ps 118:17 ('I shall not die but live and recount the deeds of YHWH') and Ps 6:6."
+      - "Compare Ps 16:8, 121:5, 110:5 (YHWH at my right hand) and Ps 141:3 ('set a guard over my mouth')."
+  - id: ane-bitmeseri-sb-it-lugalirra-summoned
+    tradition: ane-akkadian
+    title: "Lugalirra called from the heaven of Anu at midnight against the catalogue of demons (Bit meseri IT 28-66)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:28-66"]
+    tags:
+      - {motif: catalogue-of-demons-to-be-expelled, refs: ["BitMeseri SB IT:37-43"], note: "saghulhaza, utukku, šēdu, rābiṣu, eṭemmu, lilû, lilītu, kattillu; epilepsy (bennu), 'hand of god', antašubba, illnesses sent by the spirit of a dead father or mother; witchcraft of god or man"}
+      - {motif: three-heavens, refs: ["BitMeseri SB IT:44-48"], note: "uqaddišku šamê šalaltīšunu šūt Ani šūt Ellil šūt Ea: 'I sanctify for you the three heavens, that of Anu, of Enlil, of Ea'"}
+      - {motif: night-watches-invoked-as-gods, refs: ["BitMeseri SB IT:45-53", "BitMeseri SB IT:60"], note: "tukka addīku ina qabal mušīti aššīku gizillâ: alarm and torch at midnight; the evening and middle watches and 'Zappu, Nīru, Šitaddaru' called; mithārā mušâtu ša Lugalirra"}
+      - {motif: named-constellations, refs: ["BitMeseri SB IT:53"], note: "Zappu (Pleiades), Nīru (Yoke), Šitaddaru (Orion)"}
+      - {motif: night-demons-enter-houses, refs: ["BitMeseri SB IT:57-66"], note: "ukkiš ayyāba sikip lemna ... duppir lemnu: 'drive off the enemy, repel the evil one ... begone!'"}
+    hints:
+      - "Compare Amos 5:8, Job 9:9 and 38:31 (Pleiades and Orion) and Isa 34:14 (Lilith)."
+      - "Compare Ps 91:5-6 (terror by night, pestilence stalking in darkness) and Q 113 (refuge from the evil of the darkness and of witches)."
+      - "Compare Q 67:3, 71:15 (God's layered heavens)."
+  - id: ane-bitmeseri-sb-it-lugalirra-house
+    tradition: ane-akkadian
+    title: "'You know them, I do not': the demons of the house and the gods posted in every room (Bit meseri IT 67-150)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:67-150"]
+    tags:
+      - {motif: catalogue-of-demons-to-be-expelled, refs: ["BitMeseri SB IT:86-97"], note: "mūtu lemnu ... lū mūtu lū ekkēmu lū šaggišu lū habbilu ... lū Lamaštu lū Labāṣu lū Ahhāzu lū lilû lū lilītu lū ardat-lilî: Death, the Snatcher, the Murderer ... when death has become a regular occurrence in a house"}
+      - {motif: god-knows-what-supplicant-does-not, refs: ["BitMeseri SB IT:98-101"], note: "ša attā tīdûšunūti anāku lā īdûšunūti sūqšunu tīdû-ma anāku lā idû ..."}
+      - {motif: supplicant-seizes-hem-of-gods-garment, refs: ["BitMeseri SB IT:102-103"], note: "ina ūmi annî sissiktaka aṣbat sissikti Ea u Asalluhi aṣbat"}
+      - {motif: night-demons-enter-houses, refs: ["BitMeseri SB IT:104-120"], note: "demons lying, standing, hiding in the house's recess, lavatory, corner, holding the gate, creeping along its sides; bellowing like a bull, bleating, braying, barking, squealing like a pig; ša ana sūn amēli/sinništi irrubu, entering the lap of man and woman"}
+      - {motif: gods-stationed-at-each-part-of-house, refs: ["BitMeseri SB IT:126-141"], note: "Nuska in the bedroom, Ensimah the courtyard, Ištar in the window, Urgula with his dogs at the outer gate, Gula on the threshold, Ninurta smashing pots, Ningirima drawing flour lines, Šulšagana at the back, Adad's thunder-instrument"}
+      - {motif: scapegoat-carries-off-evil-from-house, refs: ["BitMeseri SB IT:136-137"], note: "mašhultuppâ ša pānūšu lemnū naši Ningublaga ītenerruba bītāti: 'Ningublaga carries the scapegoat, whose face is evil, into each room'"}
+      - {motif: underworld-land-of-no-return, refs: ["BitMeseri SB IT:142-147"], note: "the evil is entrusted to Ningešzida and to Bidu, chief gatekeeper of the netherworld, who bolts the door: lā iturra lā isanniqa, 'it shall not come back, not approach'"}
+      - {motif: decree-of-god-unchangeable, refs: ["BitMeseri SB IT:148-150"], note: "ina qibītīka ṣīrti ša lā uttakkaru u annīka kīni ša lā innennû; a good šēdu and lamassu to stay in the house"}
+    hints:
+      - "Compare Ps 139:1-4 and Ps 19:13 (God knows what I do not know; hidden faults)."
+      - "Compare 1 Sam 15:27, Zech 8:23 (seizing the hem of a garment) and Ruth 3:9."
+      - "Compare Lev 16:20-22 (the goat for Azazel carries off the people's iniquities)."
+  - id: ane-bitmeseri-sb-it-standards-and-figures
+    tradition: ane-akkadian
+    title: "The fourteen life-named standards, the Winged Ones, twin fighters and gate guardians (Bit meseri IT 151-259)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:151-259"]
+    tags:
+      - {motif: named-stelae-at-temple, refs: ["BitMeseri SB IT:153-218"], note: "fourteen uringallu standards each with a sentence-name: 'Lord-who-has-no-rival', 'With-him-is-life', 'His-spell-means-life', 'Ninurta-who-drives-off-the-asakku', 'Nergal-who-kills-the-gallû' ..., set beside the patient's bed (IT:183-184)"}
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB IT:229-249"], note: "two interlocked twins at the head of the bed; Lugalirra at the 'bond' of the house; Naruddi beneath the bed; Lulal and Lātarāk at the gate; twin fighters of bitumen at the gateposts; watchmen of Ea and Marduk inside the gate"}
+      - {motif: scapegoat-carries-off-evil-from-house, refs: ["BitMeseri SB IT:242-243"], note: "mašhultuppâ ina mehret bābi ulzīz: scapegoat set opposite the gate"}
+      - {motif: exorcist-embodies-the-god, refs: ["BitMeseri SB IT:250-251"], note: "šiptu šipat Marduk āšipu ṣalam Marduk"}
+      - {motif: god-asked-to-accept-pure-food-and-water, refs: ["BitMeseri SB IT:256-259"], note: "attunu ilitti apsî ... akulā ṭāba šitâ dašpa: the figures, 'offspring of the apsû, sons of Ea', are told to eat and drink and let no evil approach their watch"}
+    hints:
+      - "Compare Exod 25:18-20 and 1 Kgs 6:23-29 (winged cherubim carved on doors and walls) and Deut 6:9 (on the doorposts and gates)."
+  - id: ane-bitmeseri-sb-it-sebettu-and-sages
+    tradition: ane-akkadian
+    title: "The Divine Heptad and the seven primeval sages, the four of human descent and their offences (Bit meseri IT 260-347)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:260-347"]
+    tags:
+      - {motif: seven-spirits-of-wisdom, refs: ["BitMeseri SB IT:277-278", "BitMeseri SB IT:293-296"], note: "ilū sebet muhalliq lemnūti, the divine Heptad; then sebet apkallū"}
+      - {motif: seven-antediluvian-sages-fish-men, refs: ["BitMeseri SB IT:279-296"], note: "Uʾana, Uʾaneduga, Enmeduga, Enmegalama, Enmebuluga, Anʾenlilda, Uduʾabzu: purādū namrūtu purād tâmti sebettīšunu sebet apkallū ša ina nāri ibbanû muštēširū uṣurat šamê u erṣeti"}
+      - {motif: antediluvian-sage-ascended-to-heaven, refs: ["BitMeseri SB IT:291-292", "BitMeseri SB IT:344-345"], note: "Uduʾabzu ša ana šamê īlû"}
+      - {motif: sage-offends-gods-and-is-punished, refs: ["BitMeseri SB IT:297-304"], note: "Nungalpiriggaldim, sage of Enmerkar, brought Ištar down from heaven; Piriggalabzu hung his seal on a goat-fish, enraged Ea, and a fuller struck him with his seal; Lu-Nanna, šinipat apkalli, 'two-thirds sage', let a dragon out of Ištar's temple"}
+      - {motif: sage-angers-storm-god-no-rain-three-years, refs: ["BitMeseri SB IT:299-300"], note: "Adad ina šamê ušāzizū-ma šalāš šanāti zunna u urqīta ina māti lā ušabšû"}
+      - {motif: drought-as-punishment-for-sin, refs: ["BitMeseri SB IT:299-300"], note: "interpretive: the three-year drought follows the sage's provoking of the storm god"}
+      - {motif: sages-of-human-descent, refs: ["BitMeseri SB IT:305-306"], note: "erbet apkallū ilitti amēlūti ša Ea bēlu uzna rapašta ušaklilūšunūti"}
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB IT:307-310", "BitMeseri SB IT:325-333"], note: "carp-sages painted on the bedroom wall; wooden sage figurines by the bedroom door facing the bed; 'may the seven stand at his head ... who give life to the dead man' (ana mīti balāṭa inamdinu)"}
+    hints:
+      - "Compare Gen 5:21-24 (the seventh patriarch Enoch taken by God) and Q 19:56-57 (Idris raised to a high place)."
+      - "Compare 1 Kgs 17:1; 18:1 (Elijah: no rain for three years) and Gen 6:4 (mighty men of old after the sons of God)."
+      - "Compare Ezek 28:3 and Dan 2:2 (Babylonian wise men) for the sage tradition."
+  - id: ane-bitmeseri-sb-it-clay-man-and-woman
+    tradition: ane-akkadian
+    title: "More sages and standards; the clay man and woman: 'I made you from the clay of Ea, you are godlike' (Bit meseri IT 348-398)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:348-398"]
+    tags:
+      - {motif: seven-antediluvian-sages-fish-men, refs: ["BitMeseri SB IT:350-357"], note: "Enmediku, Enmegalama, Enmeʾenlile purification priest of Eridu, [Enmedur]anki who keeps the purification rites, Anʾenlilda, Uduʾaʾabba 'who descended from heaven' (an-ta e11-de3); 'the seven who heal the patient'"}
+      - {motif: maker-creates-and-unmakes, refs: ["BitMeseri SB IT:360-362"], note: "after the patient rests the figures are wiped with cloth and oil: Ea ibnīkunūši Ea ipšurkunūši"}
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB IT:365-380"], note: "seven white standards: 'Expeller-of-the-enemy', 'The-one-of-the-gate', 'The-one-of-the-bolt', 'The-one-of-the-city-gate'"}
+      - {motif: clay-figurines-declared-godlike, refs: ["BitMeseri SB IT:381-386"], note: "ina ṭīd Ea ēpuškunūši ubannīkunūši kīma ili attunu: a man in a one-day garment and a woman in black, set at the patient's head on bricks"}
+      - {motif: god-fashions-creature-from-clay, refs: ["BitMeseri SB IT:383-385"], note: "nīš Ea bēl ṭīdīkunu: Ea is 'lord of your clay'"}
+      - {motif: opening-of-the-mouth-for-gods, refs: ["BitMeseri SB IT:391-395"], note: "pûkunu lū petī-ma ... akala ella akulā mê ellūti šitâ: 'may your mouth be open ... eat the pure bread, drink pure water' together with the patient"}
+    hints:
+      - "Compare Gen 2:7 and Ps 82:6 ('you are gods') and Isa 64:7 (we are the clay, you our potter)."
+      - "Compare Gen 1:16 (the sun to rule the day, the moon the night)."
+  - id: ane-bitmeseri-sb-it-watchmen-and-dogs
+    tradition: ane-akkadian
+    title: "The watchmen of Ea and Asalluhi and the dogs of four colours at the gate (Bit meseri IT 399-443')"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:399-443'"]
+    tags:
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB IT:399-400"], note: "attunu maṣṣarū Ea u Asalluhi; IT:401-411 broken (lilû, lilītu, 'to cut off his life')"}
+      - {motif: colored-dogs-guard-house, refs: ["BitMeseri SB IT:412-427"], note: "kalbu peṣû kalbu ṣalmu kalbu sāmu kalbu arqu ida īdā bīta kiddā: white, black, red, brown-green dogs guard the house; white dog 'bright day who brightens the dark'; black dog drives off evil; brown-green dog sniffs out disease"}
+      - {motif: guardian-dogs, refs: ["BitMeseri SB IT:412-419", "BitMeseri SB IT:438'"]}
+      - {motif: god-asked-to-accept-pure-food-and-water, refs: ["BitMeseri SB IT:416", "BitMeseri SB IT:434'-437'"], note: "akalī ellūti akulā mê ellūti šitâ; their portions are six, day and night; flour strewn, beer poured"}
+      - {motif: goat-substitute-for-patient, refs: ["BitMeseri SB IT:442'-443'"], note: "ana libbi uzun urīṣi ša ina rēš (ereš) marṣi raksu tulahhaš: the incantation is whispered into the ear of a goat tied at the bed's head"}
+    hints:
+      - "Compare Zech 1:8 and 6:2-6 (horses of different colours patrolling the earth)."
+      - "Compare Q 18:18 (the sleepers' dog stretching its paws at the threshold)."
+  - id: ane-bitmeseri-sb-it-goat-substitute
+    tradition: ane-akkadian
+    title: "The black goat slaughtered and its hide spread over the patient; 'may he be pure as heaven' (Bit meseri IT 444'-472')"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:444'-472'"]
+    tags:
+      - {motif: goat-substitute-for-patient, refs: ["BitMeseri SB IT:454'-465'"], note: "ana mehret eršīšu urīṣa ina rēš marṣi irkus ... zi-bi tag-ga bi2-in-de2 maš2 ku3 ... ugu-na ba-da-na: the goat tied at the patient's head, its throat cut, its hide spread over him; black he-goat with speckled features"}
+      - {motif: purification-materials-catalogue, refs: ["BitMeseri SB IT:458'-459'"], note: "cream of a pure cow, cow's milk"}
+      - {motif: clean-hands-pure-heart, refs: ["BitMeseri SB IT:468'-472'"], note: "loose fit: lu2-u18-lu dumu diĝir-ra-na an-gin7 he2-en-ku3-ga ki-gin7 he2-en-sikil-la: 'may the man, son of his god, be pure as heaven, clean as earth'; eme hulu-ĝal2 bar-še3 he2-em-ta-gub, 'may the evil tongue stand aside'"}
+    hints:
+      - "Compare Gen 22:13 (the ram offered in place of the son) and Gen 27:16 (goatskins laid on Jacob)."
+      - "Compare Lev 14:4-7 and 16:5-10 (animals in purification and substitution rites) and Ps 51:9 ('wash me, and I shall be whiter than snow')."
+  - id: ane-bitmeseri-sb-it-nuska-lamp
+    tradition: ane-akkadian
+    title: "The lamp greets Marduk; Nuska, king of the night, drives off Šulak; the Lugalirra figure thrown in the river (Bit meseri IT 473'-525')"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:473'-525'"]
+    tags:
+      - {motif: god-is-my-lamp, refs: ["BitMeseri SB IT:475'-481'", "BitMeseri SB IT:505'-510'"], note: "the divine Light (Nūru) at the patient's head; Nuska šar mūši munammir ukli, 'king of the night who lights up the dark'; ana mahar nūrīka šūṣi saghulhaza, 'before your light make the demon go out'"}
+      - {motif: litany-may-it-enter-with-you, refs: ["BitMeseri SB IT:482'-494'"], note: "ittīka līruba mitguru ... šulmu ... bāštu ... lamassu ... balāṭu ... nuhšu ... hengallu ... salīmu: harmony, well-being, vigour, life, abundance, affluence, peace"}
+      - {motif: demon-stalks-by-night, refs: ["BitMeseri SB IT:508'-511'"], note: "šēdu alluhappu hayyāṭu rābiṣu ... immidū puzra u šahāta ... Šulak muttallik mūši ša lipissu mūtu: 'Šulak who walks about by night, whose touch is death'"}
+      - {motif: protective-spirits-go-before-and-behind, refs: ["BitMeseri SB IT:512'-515'"], note: "maṣṣar šulmi u balāṭi šukun elīya šēda nāṣira u ila mušallima šuzzīz ina rēšīya littarrûninni kal mūši adi šāt urri: 'guard me all night until the morning watch'"}
+      - {motif: sun-god-judge-of-gods, refs: ["BitMeseri SB IT:506'-507'"], note: "loose fit: Nuska: tazzâz ina mūši nišī tabarri ina balīka šipṭu u purussû ul innaddin, 'you stand in the night, you watch the people, without you no verdict is given'"}
+    hints:
+      - "Compare Ps 91:5-6 ('the terror of the night ... the pestilence that stalks in darkness') and Ps 121:4-8 (the guardian who neither slumbers nor sleeps)."
+      - "Compare 2 Sam 22:29 and Ps 18:29 ('you light my lamp; my God lights up my darkness')."
+      - "Compare Ps 122:7-8 and Luke 10:5 ('peace be within your walls')."
+  - id: ane-bitmeseri-sb-it-dismissal-of-death
+    tradition: ane-akkadian
+    title: "Feast for the gods of the watch; Death netted and sent down to Ereškigal, banned from the light and river of the living (Bit meseri IT 526'-B+611')"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB IT:526'-B+611'"]
+    tags:
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB IT:B+554'-B+562'"], note: "IT:526'-553' broken ritual (altar, confection, censer, reed huts, battle-axe of gold); Naruddi dissolves the arrangement of Lugalirra and Mešlamtaʾea, Nuska who watched all night departs to Ekur"}
+      - {motif: god-gives-life-and-power-to-stand, refs: ["BitMeseri SB IT:B+563'-B+568'"], note: "qāt marṣi iṣṣabat Ea Šamaš dayyānu šubarrâšu ištakna: 'Ea took the patient's hand, Šamaš the judge set him free'; Asalluhi and Kusu purify with censer, torch and holy water"}
+      - {motif: death-personified-driven-to-netherworld, refs: ["BitMeseri SB IT:B+587'-B+594'"], note: "akulā isâ u duppirā ṭurdā mūta ... suhpāšū-ma ina itan sapārīkunu ... šūridāšū ana Kurnugî erṣeti rūqti urâšū-ma ana pān šarrati Ereškigal ... Bidu"}
+      - {motif: underworld-land-of-no-return, refs: ["BitMeseri SB IT:B+592'"], note: "Kurnugî, 'land of no return', the distant earth"}
+      - {motif: banished-from-light-and-river-of-life, refs: ["BitMeseri SB IT:B+595'-B+599'"], note: "namra nūr elâti ay īmur ina nār balṭūti mê ay išti sūq balṭūti ay ibāʾ: 'let him not see the bright light above, not drink from the river of the living, not walk the street of the living'"}
+      - {motif: decree-of-god-unchangeable, refs: ["BitMeseri SB IT:B+602'-B+607'"], note: "by the command of Ea, Asalluhi, Lugalirra 'lord of the bond', Mešlamtaʾea 'lord of the road' ... ša lā uttakkaru; may N.N. live and sing your praise"}
+      - {motif: net-from-which-none-escapes, refs: ["BitMeseri SB IT:B+591'"], note: "itan sapārīkunu rabīti: 'the mesh of your great battle net'"}
+    hints:
+      - "Compare Isa 25:8 (he will swallow up death forever) and Hos 13:14."
+      - "Compare Job 33:28-30 and Ps 56:14 ('to walk before God in the light of the living') and Ps 36:9-10 (the fountain of life)."
+  - id: ane-bitmeseri-sb-fi-figurine-list
+    tradition: ane-akkadian
+    title: "Figurine list: number, form, attributes, place, recitation and ration of each figure (Bit meseri FI)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB FI:1-39"]
+    tags:
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB FI:2-29"], note: "Lugalirra of wood and reed with gold-plated mace and axe at the 'bond' of the house; Mešlamtaʾea; Winged Ones with palm fronds; carp-sages with aspergillum and situla; eight dogs; tamarisk sages; Naruddu with red turban"}
+      - {motif: seven-antediluvian-sages-fish-men, refs: ["BitMeseri SB FI:14-16"], note: "ṣalmū apkallī purādi: carp-sages drawn four on the corners, two inside the gate, one on the lintel"}
+      - {motif: figurine-of-death, refs: ["BitMeseri SB FI:30"], note: "1 ṣalam mūti ša abāri ... ina rēš erši ina dišpi himēti ašib: a lead figure of Death sitting in syrup and ghee at the bed's head, a ram struck down as his provision"}
+      - {motif: clay-figurines-declared-godlike, refs: ["BitMeseri SB FI:32-33"], note: "clay man with goat hair, red garments, dagger and lance; clay woman in black with spindle"}
+      - {motif: offerings-on-rooftops-to-goddess, refs: ["BitMeseri SB FI:35"], note: "loose fit: nīq barsiggê ana mahar Šamaš ina ūr marṣi ūmīšam tanaqqi, 'daily you sacrifice before Šamaš on the patient's roof'"}
+    hints:
+      - "Compare Jer 19:13 and Zeph 1:5 (offerings to the host of heaven on the rooftops)."
+  - id: ane-bitmeseri-sb-rta-ritual
+    tradition: ane-akkadian
+    title: "Ritual tablet: the room facing sunrise, drawn sages and dogs, mouth-washing of images, scapegoat and Pazuzu (Bit meseri RTA)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["BitMeseri SB RTA:1-77"]
+    tags:
+      - {motif: apotropaic-figurines-guard-house, refs: ["BitMeseri SB RTA:2-10"], note: "in a room whose door faces sunrise: an uringallu, a pit seven fingers wide and deep, four sages on the corners, two on the jambs, one above the gate; white, black, red, brown-green and mottled dogs; bronze chains; the bed and standard surrounded with a cord"}
+      - {motif: opening-of-the-mouth-for-gods, refs: ["BitMeseri SB RTA:11-12"], note: "ṣalmī kalāma KA.LUH.U3.DA KA.TUH.U3.DA tušeppeš: mouth-washing and mouth-opening on all the images; a figure of 'some corpse' at the head of the bed"}
+      - {motif: scapegoat-carries-off-evil-from-house, refs: ["BitMeseri SB RTA:18-24"], note: "[maš]hultuppâ ina muhhi marṣi tanaddī-ma: the scapegoat put on the patient; wiping rites taken out to the outer gate; flour lines drawn round the doors"}
+      - {motif: catalogue-of-demons-to-be-expelled, refs: ["BitMeseri SB RTA:26-74"], note: "a run of named incantations: 'I am a pure man', 'Evil udug in the wide steppe', 'Ban, ban!', 'Do not enter through the window!', 'Nuska, king of the night'; a Pazuzu figurine placed in the patient's hands (RTA:71)"}
+      - {motif: colophon-copied-and-collated, refs: ["BitMeseri SB RTA:76-77"], note: "kīma labirīšu šaṭir-ma bari"}
+      - {motif: scribal-colophon, refs: ["BitMeseri SB RTA:76"]}
+    hints:
+      - "Compare Isa 44:9-20 and Ps 115:4-7 (images with mouths that cannot speak) and Q 7:195."
+      - "Compare Jer 9:20 (death has come up through our windows)."
+  # ---------------- Catalogue of Texts and Authors ----------------
+  - id: ane-catauth-na-catalogue
+    tradition: ane-akkadian
+    title: "Catalogue of Texts and Authors: works from the mouth of Ea, revealed to Adapa, by sages, kings and scholars (Neo-Assyrian)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Neo-Assyrian
+    read: ["CatAuth NA –:1-e+7"]
+    tags:
+      - {motif: texts-attributed-to-god-ea, refs: ["CatAuth NA –:1-4"], note: "[āšipūt]u kalûtu Enūma Anu Enlil, Alandimmû, Šumma izbu, Sakikkû, Lugal-e, An-gim: [annûtu] ša pī e[a], 'these are from the mouth of Ea'"}
+      - {motif: text-revealed-to-author-who-proclaimed-it, refs: ["CatAuth NA –:5-6", "CatAuth NA –:b+1-b+2"], note: "[annûtu ša] uʾana-adapa [ušabrīšū-m]a idbubu; Erra: [annû ša kabti-ilī-marduk] ušabrīšū-ma idbubu, 'what was revealed to him and he proclaimed'"}
+      - {motif: works-attributed-to-named-authors, refs: ["CatAuth NA –:b+5", "CatAuth NA –:d+5", "CatAuth NA –:d+16-d+20"], note: "king Enmerkar; the Theodicy by Esagil-kina-ubbib; iškār gilgāmeš ša pī sîn-lēqi-unnīni āšipi; iškār etana ša pī lu-nanna apkalli; Fox, Sidu, Poplar series"}
+      - {motif: writing-from-before-the-flood, refs: ["CatAuth NA –:d+21-d+22"], note: "[... š]a lām abūbi ... [ad]apa ina pîšu išṭuru: 'from before the flood ... which Adapa wrote at his dictation'"}
+      - {motif: text-dictated-by-animal, refs: ["CatAuth NA –:d+23", "CatAuth NA –:d+26"], note: "ana pī sisî išṭur, 'wrote at the dictation of a horse'; [ana pī arē]bi, 'of a raven' (restored)"}
+      - {motif: how-the-prophets-book-was-written, refs: ["CatAuth NA –:d+21-d+26"], note: "who dictated and who wrote down a work"}
+    hints:
+      - "Compare Jer 36:4, 18 (Baruch writes at Jeremiah's dictation) and Exod 24:4; 34:27-28 (Moses writes the words given him)."
+      - "Compare Q 25:5 (the charge that the prophet's tales are dictated to him) and Q 53:4-5 (revelation taught by one mighty in power)."
+      - "Compare Gen 5:21-24 (Enoch) and the antediluvian books of Enoch/Berossus for writings from before the flood."
+  - id: ane-catauth-nb-catalogue
+    tradition: ane-akkadian
+    title: "Catalogue of Texts and Authors (Neo-Babylonian fragment): raven dictation, a king's hymn, the Theodicy"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Neo-Babylonian
+    read: ["CatAuth NB –:1'-17'"]
+    tags:
+      - {motif: text-dictated-by-animal, refs: ["CatAuth NB –:4'"], note: "ana [p]ī arēbi"}
+      - {motif: works-attributed-to-named-authors, refs: ["CatAuth NB –:9'-12'", "CatAuth NB –:15'-16'"], note: "a hymn to Ištar by king Aba-ninnu-dari(?); the Theodicy by Esagil-kina-ubbib the exorcist; hymns by Rimut-Gula(?)"}
+    hints:
+      - "Compare the psalm headings ascribing psalms to David, Asaph, Solomon (e.g. Ps 72:1, 73:1, 90:1)."
+  # ---------------- Counsels of Wisdom ----------------
+  - id: ane-counswis-sb-father-counsels
+    tradition: ane-akkadian
+    title: "A sage's counsel to his son: honour parents, beware drink, gossip and disputes, repay evil with good (Counsels of Wisdom 1-54)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["CounsWis SB –:1-54"]
+    tags:
+      - {motif: wise-father-instructs-son, refs: ["CounsWis SB –:1-5"], note: "ummânu ... ina nēmeqi ša ea alka mārī ... milkī liqī-ma: 'come, my son ... take my advice'"}
+      - {motif: honor-parents-long-life, refs: ["CounsWis SB –:8-11"], note: "partly restored: [lā] tušamsak [zikr]ī abi u ummi ša ibnûka pilahšunūtī-ma liktarrabūka: honour them that they bless you (blessing, not long life)"}
+      - {motif: parents-are-household-gods, refs: ["CounsWis SB –:10"], note: "[abu] u ummu [...] ilū ša bīti"}
+      - {motif: strong-drink-impoverishes, refs: ["CounsWis SB –:15-21"], note: "šikara ... ša irammūš ilappin arhiš: 'who loves it will soon be poor'; his protective spirit hands him over to demons"}
+      - {motif: avoid-company-of-gossip-and-idler, refs: ["CounsWis SB –:22-26", "CounsWis SB –:31"], note: "itti ēpiš namūti ē tuštāmi ... ana rīqi lā bābil šipri ... uruhka tezzib"}
+      - {motif: guard-your-speech, refs: ["CounsWis SB –:27-30"], note: "lū saniq pīka lū naṣir atmûka"}
+      - {motif: avoid-other-peoples-disputes, refs: ["CounsWis SB –:32-41"], note: "ana šībūtīšunu taššakkan-ma ana lā dīnīka ubbalūka; ṣāltum-ma šuttatu šeṭītu, 'a dispute is a covered pit'"}
+      - {motif: repay-evil-with-good, refs: ["CounsWis SB –:42-46"], note: "ana ēpiš lemuttīka damiqta rībšu ana raggīka mīšara killaššu ana zêrīka kabattaka limmiršu"}
+      - {motif: revenge-belongs-to-ninurta, refs: ["CounsWis SB –:49-50"], note: "[a]na marušti turru ikkib ninurta: 'returning evil (for evil) is abhorrent to Ninurta'; lumna kaṣāru ikkib marduk"}
+      - {motif: abomination-to-a-named-god, refs: ["CounsWis SB –:48-50"], note: "ikkib marduk ... ikkib ninurta"}
+    hints:
+      - "Compare Prov 1:8; 6:20 and Exod 20:12 (honour father and mother)."
+      - "Compare Prov 23:20-21, 29-35 (drunkards come to poverty) and Prov 20:19 (do not associate with a gossip)."
+      - "Compare Prov 26:17 (meddling in another's quarrel) and Prov 25:8."
+      - "Compare Prov 25:21-22; 24:29; Exod 23:4-5 and Q 41:34, Q 23:96, Q 13:22 (repel evil with what is better)."
+  - id: ane-counswis-sb-charity-and-women
+    tradition: ane-akkadian
+    title: "Pity the weak, feed the hungry; no slave girl over the house, no prostitute for a wife (Counsels of Wisdom A+1-A+31)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["CounsWis SB –:A+1-A+31"]
+    tags:
+      - {motif: pity-the-weak-feed-the-hungry, refs: ["CounsWis SB –:A+7-A+16"], note: "ana enši dunnamê rišīšu rēma ... ul ṭāb eli šamaš irâbšu lumna ... šūkil akala šiqi kurunna ... ṭāb eli šamaš irâbšu dumqa"}
+      - {motif: slave-girl-must-not-rule-house, refs: ["CounsWis SB –:A+17-A+22"], note: "amta ina bīti ē tukabbit [kīm]a aššatim-ma lā ibēl uruhka ... bīta amtum-ma ibêl isappuh"}
+      - {motif: do-not-marry-prostitute, refs: ["CounsWis SB –:A+23-A+31"], note: "ē tāhuz harimta ša šār mutūša ištarīta ša ana ili zakrat kulmašīta ...: 'she will not support you in your trouble ... her ears are attuned to another's footfall'"}
+      - {motif: harlot-for-a-loaf-adulteress-hunts-life, refs: ["CounsWis SB –:A+26-A+31"], note: "loose fit: the prostitute-wife ruins the household and listens for other men"}
+    hints:
+      - "Compare Prov 30:21-23 (the earth trembles under a slave who becomes king and a maidservant who supplants her mistress)."
+      - "Compare Lev 21:7, 14 (priests may not marry a harlot) and Prov 5:3-10; 7:10-27."
+      - "Compare Isa 58:7, Prov 14:31; 19:17 (who is kind to the poor lends to YHWH) and Q 76:8-9, Q 90:14-16."
+  - id: ane-counswis-sb-steward-and-office
+    tradition: ane-akkadian
+    title: "The prince's steward must not covet his treasure; conduct in office (Counsels of Wisdom A+32-A+62)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["CounsWis SB –:A+32-A+62"]
+    tags:
+      - {motif: steward-must-not-covet-masters-treasure, refs: ["CounsWis SB –:A+32-A+42"], note: "naṣram-ma kunukkašu lū allāta ... makkūra lā nība qerebšu tutta ana mimma šuāti īnka ē tašši ... u puzru ša tēpušu ippette"}
+      - {motif: covet-prohibition, refs: ["CounsWis SB –:A+37-A+38"], note: "īnka ē tašši, 'do not lift your eye (covet)'"}
+      - {motif: pride-before-fall, refs: ["CounsWis SB –:A+45"], note: "nīš pāni qalāl qaqqadi: 'lifting the face (brings) lightness of the head', i.e. reach too high, fall low"}
+      - {motif: repay-evil-with-good, refs: ["CounsWis SB –:A+54-A+56"], note: "ana bēl ṣāltīka ē tulammin, even when you have power to raise or lower"}
+    hints:
+      - "Compare Gen 39:8-9 (Joseph, given all his master's house, refuses to take what is withheld) and Luke 16:1-12."
+      - "Compare Prov 16:18 (pride before destruction) and Prov 18:16 (a man's gift makes room for him)."
+  - id: ane-counswis-sb-speech-and-piety
+    tradition: ane-akkadian
+    title: "Read from the tablet: no backbiting, daily worship, reverence begets favour, keep your word (Counsels of Wisdom A+63-A+105)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["CounsWis SB –:A+63-A+105"]
+    tags:
+      - {motif: slander-as-eating, refs: ["CounsWis SB –:A+70-A+73"], note: "ē tākul karṣa, 'do not eat (someone's) pieces' = slander; the backbiter must settle accounts with Šamaš (ina ribbāti ša šamaš uqaʾʾû rēssu)"}
+      - {motif: guard-your-speech, refs: ["CounsWis SB –:A+74-A+77"], note: "ē tumaṣṣi pīka uṣur šaptīka inimmê kabtatīka ēdiš ē taqbi ... surriš tātamû tarašši arkāniš"}
+      - {motif: fear-of-god-begets-good-fortune, refs: ["CounsWis SB –:A+78-A+91"], note: "ūmišam-ma ilka kitrab ... palāhu damāqa ullad niqû balāṭa uttar u teslītu arna ipaṭṭar: 'reverence begets favour, sacrifice prolongs life, prayer absolves guilt'; pālih anunnakkī urrak ūmī"}
+      - {motif: grain-offered-returns-a-talent, refs: ["CounsWis SB –:A+82-A+84"], note: "suppû sullû labān appi uṭṭat tanaddiššum-ma iribka bilat"}
+      - {motif: wisdom-prolongs-life, refs: ["CounsWis SB –:A+87", "CounsWis SB –:A+91"]}
+      - {motif: keep-your-promise, refs: ["CounsWis SB –:A+94-A+97", "CounsWis SB –:A+102-A+103"], note: "šumma taqtabī-ma idin ē tēni ... qabû enû tukkulu nadû ... lā nadānu ikkib mard[uk]"}
+      - {motif: abomination-to-a-named-god, refs: ["CounsWis SB –:A+103"]}
+      - {motif: wise-father-instructs-son, refs: ["CounsWis SB –:A+63", "CounsWis SB –:A+85", "CounsWis SB –:A+98", "CounsWis SB –:A+104-A+105"], note: "refrain ina ihzīkā-ma amur ina tuppi, 'from what you have learned, read in the tablet'; closing names [Išme-k]arāb son of Enlil-banda, praying for Ea's blessing"}
+    hints:
+      - "Compare Prov 3:9-10 (honour YHWH with your wealth and your barns will be filled) and Prov 10:27; 3:1-2 (fear of YHWH prolongs days)."
+      - "Compare Num 30:3, Deut 23:22-24 and Eccl 5:3-4 (pay what you vow) and Q 17:34, Q 5:1 (fulfil covenants)."
+      - "Compare Prov 13:3; 21:23 (who guards his mouth keeps his life) and Q 49:12 (backbiting as eating a brother's flesh)."

@@ -1,0 +1,943 @@
+# Full read of the ANE corpus, chunk 22: GulaHymn SB ... Ludlul SB (Bullussa-rabi's Hymn to Gula, Syncretistic Hymn to Gula,
+# Descent of Ishtar NA and SB, Ishtar 2, Syncretistic Hymn to Ishtar, Lipit-Eshtar A (Sumerian), Ludlul bel nemeqi).
+# Read from the eBL reconstructed (normalized) texts; eBL's English translations and lemma glosses used as reading aids.
+new_motifs:
+  # --- hymns to Gula ---
+  goddess-self-praise-under-many-names: {label: "A goddess praises herself in the first person in strophes, each ending 'DN am I' with a different goddess's name (Nintinugga, Ninkarrak, Bau, Ninsun ...), so that the names are all hers", cluster: hymn}
+  goddess-praises-husband-under-many-names: {label: "In each strophe the goddess praises her husband, the warrior god, under a different name (Ninurta, Ningirsu, Ninazu, Zababa, Lugalbanda ...)", cluster: hymn}
+  warrior-god-as-farmer-behind-plow: {label: "The warrior god is also the divine farmer who walks behind the ox, holds the plow, heaps grain and resettles abandoned mounds", cluster: agriculture}
+  goddess-of-plowing-measuring-and-accounts: {label: "A goddess is mistress of seed, plow, ox-driver, measuring cord and rod, and carries a stylus to keep the accounts", cluster: agriculture}
+  goddess-chosen-as-bride-of-warrior-god: {label: "The high god's warrior son sees the goddess, falls in love with her and takes her as bride, entrusting her with his temple's management", cluster: divine-family}
+  healing-goddess-revives-the-moribund: {label: "At the healing goddess's look the dying revives and at her word the feeble rises; she brings the dead back from the netherworld", cluster: healing}
+  healing-goddess-with-satchel-of-incantations: {label: "The healing goddess wears at her waist a satchel of life-saving incantations, carries herbs, scalpel, clean dressing and soft bandage", cluster: healing}
+  medicine-as-secret-of-gods-given-by-ea: {label: "The wise god Ea gives the healing goddess his wisdom, the tablet stylus and the physician's craft, 'a secret of the gods'", cluster: healing}
+  goddess-is-physician-diviner-exorcist: {label: "The goddess combines all the expert crafts: physician, diviner, exorcist, accountant whose tablets no one need correct", cluster: healing}
+  goddess-adorned-and-seductive-to-husband: {label: "The goddess describes her jewellery, headband, bracelets and allure as she is escorted to her husband's bed", cluster: love}
+  warrior-god-launcher-of-deluge: {label: "The warrior god is 'launcher of the deluge' (abubu), a battle-flood and storm that overwhelms mountain and sea", cluster: theophany}
+  goddess-asked-to-intercede-with-husband: {label: "The worshipper asks the goddess to intercede for him with her mighty husband, so that he grants recovery", cluster: prayer}
+  mourning-garment-exchanged-for-clean: {label: "Prayer that the sufferer may strip off his mourning garment (karru) and put on ordinary clothes again", cluster: prayer}
+  author-names-himself-in-hymn: {label: "The composer or petitioner names himself within the hymn (acrostic or closing petition)", cluster: hymn}
+  goddess-creator-of-heaven-and-earth: {label: "A goddess is herself said to have created heaven and earth, the mountains and everything that has a name", cluster: creation}
+  great-gods-each-endow-goddess: {label: "Anu, Enlil and Ea in turn endow the goddess with strength, rule over mankind, and wisdom", cluster: hymn}
+  goddess-identified-with-many-goddesses: {label: "A goddess is equated in a litany with a long series of other named goddesses, each with her epithet (syncretistic hymn)", cluster: hymn}
+  goddess-removes-misdeeds-and-hears-prayer: {label: "The goddess removes people's misdeeds, dispels their wrongdoings, hurries to a cry and listens to prayers, giving health", cluster: prayer}
+  goddess-wise-by-leave-of-each-great-god: {label: "Litany 'by leave of DN' (itti DN): by leave of Anshar, Enlil, Ea, Marduk, Nabu, Ninurta the goddess has her wisdom, destinies and rule", cluster: hymn}
+  # --- Descent of Ishtar ---
+  netherworld-dead-eat-dust-and-clay: {label: "In the netherworld dust is the dead's sustenance and clay their food; they see no light and dwell in darkness", cluster: underworld}
+  dead-clothed-like-birds-in-feathers: {label: "The dead in the netherworld are clothed like birds, with wings for garments", cluster: underworld}
+  threat-to-raise-dead-to-devour-living: {label: "A deity threatens to break the netherworld gate and raise up the dead to devour the living, so the dead outnumber the living", cluster: underworld}
+  underworld-queen-laments-untimely-dead: {label: "The queen of the dead laments that she must weep for young men torn from their wives, girls torn from lovers and infants taken before their time", cluster: underworld}
+  goddess-afflicted-with-sixty-diseases: {label: "The underworld queen has her vizier let loose sixty diseases against the intruding goddess, eye, side, foot, heart and head disease, against all of her", cluster: underworld}
+  fertility-ceases-while-goddess-in-underworld: {label: "While the love goddess is in the netherworld, bull does not mount cow, ass does not impregnate jenny, man does not impregnate woman; each sleeps alone", cluster: underworld}
+  ea-creates-envoy-to-trick-underworld-queen: {label: "The wise god creates a being (an assinnu, impersonator) and sends him to the netherworld to make its queen swear by the great gods and to ask for the waterskin of life", cluster: underworld}
+  queen-of-dead-curses-envoy-with-outcast-fate: {label: "The tricked underworld queen curses the envoy: bread of the city's plowing for food, the sewer for drink, the shadow of the wall and the threshold for home, slapped by drunk and sober", cluster: underworld}
+  ransom-or-return-from-underworld: {label: "The released goddess must pay a ransom (napṭiru) or be brought back to the netherworld", cluster: underworld}
+  ritual-wailing-for-tammuz: {label: "Tammuz (Dumuzi) is bathed, anointed and dressed in red; wailing men and women and the lapis flute accompany his annual coming up, and the dead come up to smell the incense", cluster: cult}
+  sister-grieves-for-dying-god: {label: "The dying god's sister (Belili / Geshtinanna) hears the wailing for her brother and cries 'Do not rob me of my only brother!'", cluster: underworld}
+  # --- Ishtar hymns ---
+  goddess-wings-are-the-winds: {label: "The goddess's spread wings are the south wind and her open legs the face of the north wind: she embodies the four winds", cluster: cosmology}
+  sufferer-confesses-unknown-sins: {label: "The sufferer confesses a list of sins, including ones committed unknowingly: negligence, broken oaths, disregarded rites", cluster: sin}
+  sufferer-like-tottering-wall: {label: "The sick sufferer is like a tottering wall about to fall, or his stature is toppled like a wall", cluster: lament}
+  family-assembles-mourners-for-living-sick-man: {label: "The sick man's family already gathers mourners and wails over him while he still lives", cluster: lament}
+  deity-asked-to-pity-like-father-and-mother: {label: "The petitioner asks the deity to have pity on him like the father who begot him and the mother who bore him", cluster: prayer}
+  goddess-frees-captive-lights-prison: {label: "The goddess frees the captive, releases the man in bonds and shows light to the one in prison", cluster: prayer}
+  gods-called-to-bow-to-goddess: {label: "The gods are called to bow down and prostrate themselves before the goddess, who alone is supreme", cluster: hymn}
+  goddess-as-net-and-noose: {label: "The goddess is a fine-meshed net, a seine from which no bird escapes, the noose of heaven and netherworld", cluster: hymn}
+  secret-knowledge-for-initiates-only: {label: "Colophon rule: the expert may show the text to an expert; one who is not an expert may not see it", cluster: scribal}
+  # --- Lipit-Eshtar A ---
+  king-as-cedar-sapling: {label: "The king raises his head like a cedar sapling", cluster: kingship}
+  king-as-farmer-shepherd-fisher-provider: {label: "The king is the farmer who heaps grain, the shepherd who makes cream and milk plentiful, the one who fills the marsh with fish and birds and brings water to the river", cluster: kingship}
+  king-as-humble-supplicant: {label: "The king presents himself as one who presses a goat to his chest as offering, puts his hand to his nose in humility and stands in supplication", cluster: kingship}
+  # --- Ludlul ---
+  god-furious-by-night-relenting-by-day: {label: "The god is furious in the night and pacified by day; his anger is a tempest and deluge, his breeze gentle as the morning", cluster: theology}
+  heavy-hand-gentle-grasp: {label: "The heavens cannot bear the weight of the god's hand, yet his grasp is gentle to rescue the moribund", cluster: theology}
+  god-turns-like-mother-or-cow-with-calf: {label: "The angry god charges like a wild bull but turns back like a mother, like a cow with its calf", cluster: theology}
+  god-wounds-with-scourge-heals-with-bandage: {label: "The god's scourge is barbed and pierces the body, but his bandages are soothing and heal the doomed", cluster: theology}
+  no-god-understands-high-gods-ways: {label: "None among the gods can comprehend the high god's ways or understand his mind; he alone divines the gods' thoughts", cluster: theology}
+  saved-sufferer-will-teach-people: {label: "The rescued sufferer resolves to testify to the god's anger and teach the people that their salvation is near", cluster: thanksgiving}
+  personal-god-and-protective-spirits-desert-sufferer: {label: "The sufferer's own god and goddess abandon him; his protective spirits (shedu, lamassu) veer off and seek someone else", cluster: lament}
+  omens-and-dreams-confused-for-sufferer: {label: "The sufferer's omens are contradictory every day, diviner and dream interpreter cannot resolve his case, street talk and dreams portend evil", cluster: divination}
+  king-turns-against-loyal-courtier: {label: "The king's heart hardens against his loyal official; courtiers conspire, each vowing to seize his life, post, office or household", cluster: court}
+  seven-courtiers-conspire: {label: "A clique of seven courtiers, one after another, swears to destroy the official and share out his position", cluster: court}
+  speech-of-sufferer-muzzled: {label: "The once eloquent sufferer is muzzled as with a snaffle; his lips fall silent, he becomes like a deaf-mute", cluster: lament}
+  proud-man-humbled-to-servility: {label: "The man who walked proudly learns to slink; his proud head bends to the ground, his broad chest is pushed aside by a youth", cluster: lament}
+  pointed-at-in-the-street: {label: "The sufferer is pointed at in the street, eyed askance in the palace; his own city glowers at him like an enemy", cluster: lament}
+  slaves-curse-their-fallen-master: {label: "The sufferer's own slave curses him in the assembly and his slave girl slanders him before the crowd", cluster: lament}
+  slanderer-prospers-sympathizer-dies: {label: "Whoever spoke well of the sufferer fell into a pit and whoever said 'Mercy on him' died quickly, while his slanderer prospered with a god's help", cluster: theodicy}
+  sufferers-goods-and-office-given-to-others: {label: "The fallen man's possessions are shared out among the riffraff, his fields and canals ruined and his offices given to a stranger", cluster: lament}
+  ceaseless-lament-day-night-month-year: {label: "Sighing by day, lamentation by night, misery the month, despair the year: the sufferer's grief fills every unit of time", cluster: lament}
+  hope-that-sun-will-shine-again: {label: "The despairing sufferer still hopes: 'some bright day good fortune will come, a new moon will appear, my sun will shine'", cluster: lament}
+  god-will-not-show-his-face-to-sufferer: {label: "The sufferer calls to his god, who does not show his face; he prays to his goddess, who does not raise her head", cluster: lament}
+  pious-man-treated-as-impious: {label: "The sufferer, who was punctilious in prayer, offerings, festivals and teaching reverence, is treated like one who neglected his god and goddess", cluster: theodicy}
+  catalogue-of-neglect-of-gods: {label: "A list of the impious man's faults: no libations, no invocation at meals, no prostration, skipped holy days, flour offerings withheld, oaths sworn lightly", cluster: piety}
+  good-to-man-offense-to-god: {label: "What is good to oneself may be an offense to a god, and what seems abominable to one's heart may be good to one's god", cluster: theodicy}
+  who-can-learn-the-mind-of-god: {label: "Who can learn the reasoning of the gods in heaven's depths or fathom their counsel? Where could humans learn the ways of a god?", cluster: theodicy}
+  human-mood-and-fortune-change-in-instant: {label: "He who lived yesterday died today; in an instant people go from gloom to song, from hunger like corpses to rivalling their gods", cluster: transience}
+  demons-of-disease-rise-from-netherworld: {label: "The sufferer's diseases come as demons from the ends of heaven, the breast of the netherworld, the Apsu, the mountain: evil vapour, migraine, ghost, Lamashtu, ague", cluster: disease}
+  disease-described-body-part-by-part: {label: "The sufferer's illness is described limb by limb: head, eyes, neck, chest, back, bowels, lungs, limbs, knees and feet each assailed", cluster: disease}
+  demon-wears-sufferers-body-as-garment: {label: "A demon has clothed himself in the sufferer's body as in a garment", cluster: disease}
+  eyes-see-not-ears-hear-not-in-illness: {label: "In his illness the sufferer's eyes look but do not see, his ears are open but do not hear", cluster: disease}
+  sufferer-lies-in-own-excrement: {label: "The sick man spends the night in his own dung like an ox and wallows in his excrement like a sheep", cluster: disease}
+  wasted-body-bones-stick-out: {label: "From lack of food the sufferer's flesh wastes, his blood dries, his bones stick out covered only with skin, his features are unrecognisable", cluster: disease}
+  home-becomes-prison-of-sickbed: {label: "The sick man's bed is his confinement, his house his jail, his own flesh his manacle and fetter", cluster: disease}
+  exorcist-and-diviner-fail-sufferer: {label: "The exorcist recoils from the symptoms and cannot diagnose them; the diviner gives no time limit to the illness", cluster: divination}
+  tomb-prepared-before-death: {label: "The sufferer's tomb is opened and his grave goods set out; lamentation for him is complete before he has died", cluster: death}
+  enemies-rejoice-at-sufferers-plight: {label: "When the sufferer's ill-wisher hears of his plight, his face lights up; the woman who wished him ill is glad", cluster: lament}
+  three-dreams-announce-healing: {label: "The sufferer sees three dreams in succession, each with an extraordinary figure (young man, purification priest, fair young woman, bearded exorcist) sent by his god to announce his healing", cluster: revelation}
+  dream-messenger-sent-by-god: {label: "A radiant figure in a dream says 'Your lord has sent me' (or 'Marduk has sent me') with a message of recovery", cluster: revelation}
+  dream-exorcist-sprinkles-water-and-casts-spell: {label: "In a dream a priest sent from a holy city sprinkles the sufferer with consecrated water, casts a spell of life and rubs his body with a tamarisk", cluster: ritual}
+  fear-not-said-to-sufferer: {label: "A divine figure tells the sufferer 'Fear not!' (la tapallah) and announces mercy: 'he has suffered greatly'", cluster: revelation}
+  god-relents-and-disregards-sin: {label: "The god's heart is quieted; he accepts the entreaties, disregards the sin, removes the punishment and lets the wind carry away the faults", cluster: sin}
+  demons-sent-back-to-their-origins: {label: "The god sends each disease-demon back where it came from: the vapour to the ends of heaven, the ghost to its dwelling, Lamashtu to the mountain, ague to the sea", cluster: disease}
+  healing-described-body-part-by-part: {label: "The healing is narrated limb by limb in reverse of the illness: eyes, ears, nose, lips, mouth, teeth, tongue, throat, lungs, intestines, neck, nails restored", cluster: healing}
+  river-ordeal-at-esagil: {label: "The restored sufferer passes the river ordeal, the place where people's fates are decided", cluster: law}
+  slave-mark-removed: {label: "The sufferer's forehead is stroked and his slave mark (abbuttu) removed: freed from bondage", cluster: law}
+  warning-to-impious-learn-from-me: {label: "The restored sufferer tells those who sinned against the temple and do not revere their god to learn from his example", cluster: thanksgiving}
+  god-takes-sufferer-by-hand-and-lifts-head: {label: "In adversity the god takes the sufferer's hand, slaps him awake with the right hand and raises his head with the left", cluster: thanksgiving}
+  god-disarms-attackers-and-gravediggers: {label: "The god makes the attacker drop his weapon, muzzles the lion, takes the sling from the stalker, the shovel from the gravedigger, the knife from the mourner", cluster: thanksgiving}
+  pulled-back-from-river-of-death: {label: "The god rescued the sufferer from the pit and pulled him back from Hubur, the river of the netherworld", cluster: underworld}
+  had-it-not-been-for-the-lord: {label: "'Had it not been that the lord released me, I would have gone down to the netherworld' as a refrain of thanksgiving", cluster: thanksgiving}
+  procession-through-named-temple-gates: {label: "The restored man passes through a series of named temple gates, each bestowing what its name says (prosperity, life, release from guilt, pure water ...)", cluster: cult}
+  kissed-foot-of-goddess: {label: "The worshipper kisses the feet of the goddess in her temple", cluster: cult}
+  thanksgiving-sacrifice-and-feast-for-city: {label: "The rescued man offers incense, fatted oxen, sheep, beer and wine, and holds a feast for the people of the city", cluster: cult}
+  onlookers-praise-god-who-revives: {label: "The citizens see how the god restores to life and proclaim: 'Who would have said he would see his sun again? Who but Marduk could revive him?'", cluster: thanksgiving}
+  universal-call-to-praise-god: {label: "All who live, wherever earth and sky extend, sun rises, water runs and wind blows, all humankind formed from clay, are summoned to praise the god", cluster: hymn}
+  humans-pinched-from-clay-by-goddess: {label: "Humans are those whose clay the birth goddess (Aruru) pinched off to form them", cluster: creation}
+  who-has-seen-suffering-be-released: {label: "Closing blessing: may whoever has seen suffering have his punishment remitted and his distress relieved", cluster: thanksgiving}
+units:
+  # ================= GulaHymn SB: Bullussa-rabi's Hymn to Gula =================
+  - id: ane-gulahymn-sb-1-nintinugga-and-ninurta
+    tradition: ane-akkadian
+    title: "Gula's self-praise as Nintinugga; her husband Ninurta, slayer of Anzu (Gula Hymn 1-17)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:1-17"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["GulaHymn SB –:2-5"], note: "etellēku bēlēku šūpâku u ṣīrāku: 'I am noble, I am lordly, I am splendid and sublime'"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:8"], note: "šuʾu rabû nintinugga: 'my great name is Nintinugga'"}
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:9-17"]}
+      - {motif: catalogue-of-slain-monsters, refs: ["GulaHymn SB –:13-14"], note: "nāʾer anzî ... hāmim paraṣ enlilūti: he slew Anzu and took back the power of Enlilship"}
+      - {motif: king-son-of-enlil, refs: ["GulaHymn SB –:9", "GulaHymn SB –:16-17"], note: "of the god Ninurta: mār enlil gašru, apil ešarra"}
+    hints:
+      - "Compare Ps 91:1-16 and Exod 15:26 (God as healer); the healing deity's self-predication resembles Isa 45:5-7 'I am YHWH and there is no other'."
+  - id: ane-gulahymn-sb-2-ninmadiriga-bride-and-farmer
+    tradition: ane-akkadian
+    title: "Chosen as Ninurta's bride; the farmer-god and Gula as Nanše of the field boundary (Gula Hymn 18-43)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:18-43"]
+    tags:
+      - {motif: goddess-chosen-as-bride-of-warrior-god, refs: ["GulaHymn SB –:18-23"], note: "ina ilāti issuqanni ... irāmanni ... ana kallūtīšu īhiranni: he chose me among goddesses, loved me, took me as his bride, entrusted Esharra to my hands"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:25", "GulaHymn SB –:43"], note: "Ninmadiriga; ummu nanše bēlet kudurri anākū-ma"}
+      - {motif: warrior-god-as-farmer-behind-plow, refs: ["GulaHymn SB –:26-34"], note: "rēdû rīmu ... pāṣid abnī muallid ašnan ... mušēšib tīlī nadûti: walks behind the bull, plow that splits stones and nurtures grain, resettles abandoned mounds"}
+      - {motif: goddess-of-plowing-measuring-and-accounts, refs: ["GulaHymn SB –:35-43"], note: "bēlet quppi zēri epinni ... muttabbilat ašli ... nāšât qantuppi ēpišat nikkassī ... bēlet kudurri"}
+      - {motif: deity-names-creations, refs: ["GulaHymn SB –:25"], note: "rather the husband names her: ninmadiriga šumī ibbi šānina ul īši; interpretive use for divine renaming"}
+    hints:
+      - "Compare Isa 28:23-29 (God teaches the farmer to plow and sow) and Prov 31:13-27 (the capable wife who manages the household)."
+  - id: ane-gulahymn-sb-3-ninazu-and-ninkarrak
+    tradition: ane-akkadian
+    title: "The husband as Ninazu, rider of the winds; Gula as queen in heaven and netherworld, Ninkarrak (Gula Hymn 44-67)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:44-67"]
+    tags:
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:44-53"], note: "ends bēl bēlī ninazu"}
+      - {motif: god-rides-the-winds, refs: ["GulaHymn SB –:52"], note: "rākib šārī gimrīšunu: 'rider of all the winds'"}
+      - {motif: god-speaks-my-word-immutable, refs: ["GulaHymn SB –:59-61"], note: "itûʾa ul innettiq, amātī ul innenni, ṣīt pîya ul uštapella"}
+      - {motif: divine-self-praise-i-am, refs: ["GulaHymn SB –:54-65"], note: "ina šamê ṣīrāku ina erṣeti šarrāku ... ina ilī šinnatī ul ibašši; mārāku kallāku hīrāku u abarakkāku: daughter, bride, wife, household manager"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:67"], note: "ninkarrak bēlet milki anākū-ma"}
+    hints:
+      - "Compare Ps 104:3 and Ps 18:11 (God rides on the wings of the wind) and Isa 55:11 (my word shall not return empty); Num 23:19."
+  - id: ane-gulahymn-sb-4-physician-ninigizibara
+    tradition: ane-akkadian
+    title: "Ninurta's might; 'I am the physician': the healing goddess as Ninigizibara (Gula Hymn 68-91)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:68-91"]
+    tags:
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:68-78"], note: "šānin āni qarrādu ninurta"}
+      - {motif: healing-goddess-with-scalpel, refs: ["GulaHymn SB –:79-85"], note: "asâkū-ma bulluṭa aleʾʾi ... našâku masdara ša šalāmi: 'I am the physician, I can save life ... I carry the scalpel that makes well'"}
+      - {motif: healing-goddess-with-satchel-of-incantations, refs: ["GulaHymn SB –:80-85"], note: "ezhēku tukkanna ša šipat balāṭi; ellu riksī simma unāh, rabbu ṣindī marṣa upaššah"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["GulaHymn SB –:86-87"], note: "ina nīš īnīya mītu iballuṭ, ina epēš pîya muqqu itebbi"}
+      - {motif: god-wounds-and-heals, refs: ["GulaHymn SB –:84-85"], note: "only the healing half: her dressing salves the wound (simma unāh)"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:91"], note: "ninigizibarra anākū-ma"}
+    hints:
+      - "Compare Exod 15:26 ('I am YHWH your healer'), Deut 32:39, Ps 147:3 (he binds up their wounds) and Hos 6:1."
+      - "Compare Q 26:80 ('when I am ill, it is He who heals me')."
+  - id: ane-gulahymn-sb-5-zababa-bau-sharrat-nippuri
+    tradition: ane-akkadian
+    title: "Zababa the comely; Bau who has mercy on the weak; Ninurta launcher of the deluge; Šarrat-Nippuri's beauty (Gula Hymn 92-129)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:92-129"]
+    tags:
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:92-100", "GulaHymn SB –:110-117"], note: "Zababa, Ninurta"}
+      - {motif: god-exalts-poor-and-humble, refs: ["GulaHymn SB –:106-108"], note: "erêm enša dunnamâ ušašra ana pālihīya aqâš balāṭa ... ušeššer urha: 'I have mercy on the weak, enrich the destitute, give life to who reveres me, make straight the path of who seeks my ways'"}
+      - {motif: warrior-god-launcher-of-deluge, refs: ["GulaHymn SB –:111-112"], note: "muzaʾʾir abūbi"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["GulaHymn SB –:114"], note: "rēmēnû supî išemmi (of Ninurta)"}
+      - {motif: enemies-crushed-like-dust-and-mire, refs: ["GulaHymn SB –:115-116"], note: "ragga ayyāba ušemmi ṭiṭṭiš ... iqammi abiš: turns the enemy into clay, burns them like reeds"}
+      - {motif: goddess-adorned-and-seductive-to-husband, refs: ["GulaHymn SB –:118-128"], note: "ruṣṣunāku ... banâku ina šarrāti ... būnūʾa hīpū; she is escorted to Eshumesha"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:109", "GulaHymn SB –:129"], note: "ummu bau napšat nišī; šarrat-nippuri"}
+    hints:
+      - "Compare Ps 113:7 and 1Sam 2:8 (raises the poor), Prov 3:6 and Ps 25:9 (he makes straight the paths of those who seek him)."
+      - "For 'launcher of the deluge' compare Ps 29:10 (YHWH enthroned over the mabbul)."
+  - id: ane-gulahymn-sb-6-heaven-as-tiara-gula
+    tradition: ane-akkadian
+    title: "The husband wears heaven as tiara and earth as sandals; Anu, Antu and Ea endow Gula with the physician's craft (Gula Hymn 130-148)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:130-148"]
+    tags:
+      - {motif: heaven-crown-earth-sandals, refs: ["GulaHymn SB –:133-134"], note: "apir šamê kīma agê, šēnu erṣeta kīma šēni: here said of the husband god Utaulu (Ninurta)"}
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:130-138"], note: "šaqû utaʾūlu"}
+      - {motif: medicine-as-secret-of-gods-given-by-ea, refs: ["GulaHymn SB –:144-146"], note: "ea ina apsî nēmeqšu igmura, qantuppa ina qātīšu išruka, asûti pirišti ilī ana qātīya umanni"}
+      - {motif: goddess-chosen-as-bride-of-warrior-god, refs: ["GulaHymn SB –:147"], note: "enlil ana gašri aplīšu ihīranni"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:148"], note: "gula bēlet šamê u erṣeti anākū-ma"}
+      - {motif: king-named-by-high-god, refs: ["GulaHymn SB –:142"], note: "of the goddess: ānu abī kīma šumīšū-ma ibbânni, 'Anu my father named me after his own name'"}
+    hints:
+      - "Compare Isa 66:1 (heaven my throne, earth my footstool) and Q 2:255 (his kursi encompasses heavens and earth)."
+  - id: ane-gulahymn-sb-7-lugalbanda-ninsun-ninlil
+    tradition: ane-akkadian
+    title: "Lugalbanda the avenger; Ninsun adorned; 'I fetch up the dead from the netherworld': Ninlil, mistress of life (Gula Hymn 149-187)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:149-187"]
+    tags:
+      - {motif: warrior-god-launcher-of-deluge, refs: ["GulaHymn SB –:149-150"], note: "nāʾer šadû rāhiṣ tâmti, ūmu lā māhiru abūb tāhāzi"}
+      - {motif: goddess-praises-husband-under-many-names, refs: ["GulaHymn SB –:149-158", "GulaHymn SB –:170-177"], note: "Lugalbanda twice"}
+      - {motif: goddess-adorned-and-seductive-to-husband, refs: ["GulaHymn SB –:159-168"], note: "ina šadāhīya kuzbu inalluš ... ina mayyālīya uktanna; [š]a kī yâti ul ibašši"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["GulaHymn SB –:178-179"], note: "rēmēnâkū-ma ašemmi rūqiš, mīta ultu erṣeti utarra: 'I hear from afar, I fetch up the dead from the netherworld'"}
+      - {motif: god-kills-and-makes-alive, refs: ["GulaHymn SB –:179"], note: "only the raising half"}
+      - {motif: goddess-is-physician-diviner-exorcist, refs: ["GulaHymn SB –:180-186"], note: "asâku bārâku āšipāku nikkassī arê hīṭāku ... santakkī mamma ul uštāpi"}
+      - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:169", "GulaHymn SB –:187"], note: "ninsun ... anākū-ma; [... r]ēmēnītu ninlil anākū-ma"}
+    hints:
+      - "Compare 1Sam 2:6 and Deut 32:39 (he brings down to Sheol and raises up), Ps 30:4."
+      - "Compare Q 3:49 and 5:110 (healing and raising the dead 'by God's leave')."
+  - id: ane-gulahymn-sb-8-prayer-for-bullussa-rabi
+    tradition: ane-akkadian
+    title: "Closing prayer: have mercy on the servant Bullussa-rabi, intercede with your spouse (Gula Hymn 188-200)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaHymn SB –:188-200"]
+    tags:
+      - {motif: goddess-asked-to-intercede-with-husband, refs: ["GulaHymn SB –:197-199"], note: "ana gašri šūpî hāmiri narāmīki abbūssu ṣabtī"}
+      - {motif: mourning-garment-exchanged-for-clean, refs: ["GulaHymn SB –:194"], note: "lišhuṭ karra linnediq ṣubātiš"}
+      - {motif: author-names-himself-in-hymn, refs: ["GulaHymn SB –:199"], note: "aššu bullussu-rabi lišēṣi nēša"}
+      - {motif: penitential-confession, refs: ["GulaHymn SB –:189-193"], note: "plea rather than confession: rēmā arda ... dalhūssu tuqqinā nummerā eṭûssu, 'set right his confusion, illumine his darkness'"}
+      - {motif: daily-prostration-vow, refs: ["GulaHymn SB –:200"], note: "uddakam šaplāki lū kitmus: 'he shall kneel before you every day'"}
+    hints:
+      - "Compare Ps 30:12 (you loosed my sackcloth and girded me with joy), Isa 61:3, Zech 3:3-5 (filthy garments exchanged); Ps 18:29 (my God lights my darkness)."
+  # ================= GulaSyncr SB: Syncretistic Hymn to Gula =================
+  - id: ane-gulasyncr-sb-1-creatress-endowed-by-great-gods
+    tradition: ane-akkadian
+    title: "Gula as creatress of heaven and earth, endowed by Anu, Enlil and Ea (Syncretistic Gula Hymn 1-17)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:1-17"]
+    tags:
+      - {motif: goddess-creator-of-heaven-and-earth, refs: ["GulaSyncr SB –:5-6"], note: "ibnī-ma šamû u erṣeta gimir hursānī, mimma mala šuma nabû: 'she created heaven and earth ... everything that has a name'"}
+      - {motif: great-gods-each-endow-goddess, refs: ["GulaSyncr SB –:11-16"], note: "dunna išrukši ānu ... ugdammirši ellil dadmē ... atê u milkī ea šar apsî"}
+      - {motif: bond-of-heaven-and-earth, refs: ["GulaSyncr SB –:10"], note: "markas šamê u erṣeti"}
+      - {motif: fifty-names-of-god, refs: ["GulaSyncr SB –:17"], note: "Lugaldimmerankia in the assembly of the gods [gives her names]; the verb is broken"}
+    hints:
+      - "Compare Gen 2:19-20 and Ps 147:4 (naming as mastery); Prov 8:22-31 (Wisdom present at creation)."
+  - id: ane-gulasyncr-sb-2-litany-of-goddess-names
+    tradition: ane-akkadian
+    title: "Litany of the goddess's names: Panunnaki, Zarpanitu, Ama, Mamê, Šuzianna, Namma, Ninkarrak, Ninmah ... (Syncretistic Gula Hymn 18-58)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:18-58"]
+    tags:
+      - {motif: goddess-identified-with-many-goddesses, refs: ["GulaSyncr SB –:18-41"]}
+      - {motif: goddess-creator-of-heaven-and-earth, refs: ["GulaSyncr SB –:22", "GulaSyncr SB –:24", "GulaSyncr SB –:34", "GulaSyncr SB –:37"], note: "amautuanki ummi bānât šamê u erṣeti ālidat ilī; memesigga šāpikat erṣeti šamāmī"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["GulaSyncr SB –:31"], note: "nintinugga ... muballiṭat mīti"}
+      - {motif: healing-goddess-with-scalpel, refs: ["GulaSyncr SB –:32", "GulaSyncr SB –:54"], note: "ninkarrak bēlet riksī upšāšê; masdara nāšât qan ṭuppi"}
+      - {motif: secret-lore-of-the-apsu, refs: ["GulaSyncr SB –:26", "GulaSyncr SB –:50-51"], note: "namma naphar pirišti ilī; qereb lalgar pirišti ilī ... šubassa duku"}
+      - {motif: protective-spirits-shedu-lamassu, refs: ["GulaSyncr SB –:36-37"], note: "nādinat šēd dumqi ... mušatlimat lamassi dumqi"}
+    hints:
+      - "Compare Deut 6:4 and Zech 14:9 ('YHWH will be one and his name one') as a counterpoint to collapsing many deities into one; also Q 7:180 (the most beautiful names belong to God)."
+  - id: ane-gulasyncr-sb-3-forgiveness-and-healing
+    tradition: ane-akkadian
+    title: "Fragmentary column: the secret place of the gods, divination, and the goddess who removes misdeeds and hears prayer (Syncretistic Gula Hymn A+1-A+50)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:A+1-A+50"]
+    tags:
+      - {motif: goddess-removes-misdeeds-and-hears-prayer, refs: ["GulaSyncr SB –:A+24-A+29"], note: "uštepêl gillassina ipaṭṭar arnī, bēlet rêši utninni ana šisīt hanṭat, išemme teslīt nišī inamdin bulṭu ... ipaṭṭar rikis namrāṣi"}
+      - {motif: goddess-is-physician-diviner-exorcist, refs: ["GulaSyncr SB –:A+30-A+33"], note: "apkallat bārât muššipat ... rēʾât ... rēmēnât"}
+      - {motif: extispicy-for-cultic-and-military-decisions, refs: ["GulaSyncr SB –:A+17"], note: "ina qutrinni lipî šīr immeri uṣurāt iṣṣurī: incense, tallow, sheep's flesh, bird omens"}
+      - {motif: personal-god-and-goddess-kneel, refs: ["GulaSyncr SB –:A+15"], note: "kamsūma ilu u ištari: the personal god and goddess kneel (before her)"}
+      - {motif: path-made-straight-by-deity, refs: ["GulaSyncr SB –:A+19"], note: "ašar salīmēša ṭūdu u padānu šutēšurū"}
+    hints:
+      - "Compare Ps 103:3 (who forgives all your iniquity, who heals all your diseases) and Ps 65:3 (you who hear prayer)."
+      - "Lines A+1-A+14 and A+34-A+50 are mostly broken (traces only)."
+  - id: ane-gulasyncr-sb-4-by-leave-of-the-great-gods
+    tradition: ane-akkadian
+    title: "Her wisdom by leave of each great god; her abodes Esharra, Ekur, Esagil, Duku (Syncretistic Gula Hymn A+51-A+74)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:A+51-A+74"]
+    tags:
+      - {motif: goddess-wise-by-leave-of-each-great-god, refs: ["GulaSyncr SB –:A+60-A+65"], note: "itti anšar ... itti ellil ... itti ea ... itti marūduk ... itti nabû ... itti ninurta"}
+      - {motif: great-gods-each-endow-goddess, refs: ["GulaSyncr SB –:A+57-A+59"], note: "ana šipṭi u purussê iqâlši ānu ... išteneʾʾīši ellil ... taruši nudimmud"}
+      - {motif: deity-controls-sea-and-deep, refs: ["GulaSyncr SB –:A+54"], note: "tâmta ušraqqam ina nagbi mīlī ugappaš: she empties the ocean, swells the floods in the deep"}
+      - {motif: praised-from-sunrise-to-sunset, refs: ["GulaSyncr SB –:A+73"], note: "ina ṣītaš u šīlān šitakkunū qurdūša"}
+    hints:
+      - "Compare Ps 113:3 and Mal 1:11 (from the rising of the sun to its setting); Job 38:8-11 (God's control of the sea)."
+  - id: ane-gulasyncr-sb-5-goddess-in-every-shrine
+    tradition: ane-akkadian
+    title: "City by city, shrine by shrine: the goddess is Ningal in Ur, Aya in Sippar, Ningirimma in Babylon, Ninlil in Hursagkalama ... (Syncretistic Gula Hymn A+75-A+139)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:A+75-A+139"]
+    tags:
+      - {motif: goddess-is-local-goddess-in-each-city, refs: ["GulaSyncr SB –:A+75-A+138"]}
+      - {motif: goddess-identified-with-many-goddesses, refs: ["GulaSyncr SB –:A+75-A+91", "GulaSyncr SB –:A+116", "GulaSyncr SB –:A+129-A+131"]}
+      - {motif: bond-of-heaven-and-earth, refs: ["GulaSyncr SB –:A+111", "GulaSyncr SB –:A+124"], note: "edimgalanna markas šamāmī; duranki markas šamê u erṣeti"}
+      - {motif: goddess-removes-misdeeds-and-hears-prayer, refs: ["GulaSyncr SB –:A+76", "GulaSyncr SB –:A+121-A+123"], note: "mubbibat kīnūti; ina têša ušapšah namrāṣa asî pīša; people recover inside her temple"}
+      - {motif: deity-controls-sea-and-deep, refs: ["GulaSyncr SB –:A+118"], note: "ina marda hīrat šarri nāšû abūbi: 'bringer of the flood'"}
+      - {motif: scribal-goddess-holds-tablets, refs: ["GulaSyncr SB –:A+92"], note: "ina ezida našât lēʾu kitti: she holds the writing board of truth"}
+      - {motif: hunting-net-of-deity-for-enemy, refs: ["GulaSyncr SB –:A+96"], note: "mušparirrat šēt zāʾirī"}
+      - {motif: temple-names-explained, refs: ["GulaSyncr SB –:A+87-A+90", "GulaSyncr SB –:A+113", "GulaSyncr SB –:A+120"], note: "Enamtila 'House of Life' - she grants life; Egissubidugga 'House whose shade is pleasant' - ṭāb ṣillaša"}
+    hints:
+      - "Compare Ps 91:1 and 121:5 (dwelling in God's shade); Ps 87 (birth registers of the cities); Deut 12:5 (the one chosen place versus many shrines)."
+  - id: ane-gulasyncr-sb-6-col-b-purifier-of-sins
+    tradition: ane-akkadian
+    title: "Fragmentary column B: the goddess who cleans away sins in E-dadaglal and Duku (Syncretistic Gula Hymn B+1-B+20)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:B+1-B+20"]
+    tags:
+      - {motif: goddess-removes-misdeeds-and-hears-prayer, refs: ["GulaSyncr SB –:B+4-B+7"], note: "mubbibat hiṭâti ... mubbibat kalāma ... munihhat kalîš tayyārat"}
+      - {motif: goddess-is-local-goddess-in-each-city, refs: ["GulaSyncr SB –:B+3-B+19"]}
+      - {motif: disobedient-bear-punishment, refs: ["GulaSyncr SB –:B+3", "GulaSyncr SB –:B+9"], note: "lā māgiri šēressa [naši]; dabrat šapṣi"}
+    hints:
+      - "Compare Ps 51:4,9 (wash me from my iniquity, purge me)."
+  - id: ane-gulasyncr-sb-7-col-c-netherworld-gate
+    tradition: ane-akkadian
+    title: "Fragmentary column C: battle, Erra, the entrance of Ganzir and the princes of the netherworld (Syncretistic Gula Hymn C+1-C+15)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GulaSyncr SB –:C+1-C+15"]
+    tags:
+      - {motif: gate-of-netherworld-ganzer, refs: ["GulaSyncr SB –:C+11-C+12"], note: "nēreb ganṣ[ir] ... ša malkī šūt erṣeti; context broken"}
+      - {motif: without-deity-nothing-opens, refs: ["GulaSyncr SB –:C+8-C+9"], note: "šipir ikkari u kullizi ... ina balīša ul ippetâ: 'without her ... were not opened'"}
+    hints:
+      - "Compare John 1:3 / Ps 127:1 (without him nothing) as a distant formula."
+  # ================= IshDesc NA: Descent of Ishtar, Neo-Assyrian =================
+  - id: ane-ishdesc-na-descent-opening
+    tradition: ane-akkadian
+    title: "Neo-Assyrian Descent of Ishtar: the opening, the house of darkness (Ishtar's Descent NA 1-11)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Neo-Assyrian
+    read: ["IshDesc NA –:1-11"]
+    tags:
+      - {motif: underworld-land-of-no-return, refs: ["IshDesc NA –:5", "IshDesc NA –:11"], note: "bīt erkalli ša ālikūtūšu lā tayyārū"}
+      - {motif: netherworld-dead-eat-dust-and-clay, refs: ["IshDesc NA –:6-8"], note: "ašru nūru lā šakin ... mītūssu sahhupū ina epri ... bīt ekleti kakkabu ul uṣṣâ"}
+      - {motif: deity-sets-mind-on-great-below, refs: ["IshDesc NA –:9-10"], note: "mārat sîn uzunša iptē-ma; variant opening: the text is addressed 'to the goddess ... Ereškigal'"}
+    hints:
+      - "Compare Job 10:21-22 (land of darkness and deep shadow, without order) and Job 7:9-10; Ps 88:13."
+  # ================= IshDesc SB: Descent of Ishtar, Standard Babylonian =================
+  - id: ane-ishdesc-sb-1-land-of-no-return
+    tradition: ane-akkadian
+    title: "Ishtar sets her mind on the netherworld, the house none leaves who enters (Ishtar's Descent 1-11a)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:1-11a"]
+    tags:
+      - {motif: deity-sets-mind-on-great-below, refs: ["IshDesc SB –:1-4"], note: "ana kurnugi ... ištar mārat sîn uzunša [iškun]"}
+      - {motif: underworld-land-of-no-return, refs: ["IshDesc SB –:5-6"], note: "ana bīti ša ēribūšu lā āṣû, ana harrāni ša alaktaša lā tayyārat"}
+      - {motif: netherworld-dead-eat-dust-and-clay, refs: ["IshDesc SB –:7-9"], note: "ašar epru bubūssunu akalšunu ṭiṭṭu, nūra ul immarū ina eṭûti ašbū"}
+      - {motif: dead-clothed-like-birds-in-feathers, refs: ["IshDesc SB –:10"], note: "labšū-ma kīma iṣṣūrī ṣubāt gappī"}
+      - {motif: dust-on-door-and-bolt-of-netherworld, refs: ["IshDesc SB –:11-11a"], note: "eli dalti u sikkūri šabuh epru"}
+    hints:
+      - "Compare Job 10:21-22, 17:16 (bars of Sheol, rest in the dust), Isa 14:11 and Ps 88:6-13; Job 7:9 and 2Sam 12:23 (the dead do not return)."
+      - "Compare Gen 3:14,19 and Isa 65:25 (dust as the serpent's food) and Q 23:99-100 (barzakh, no return)."
+  - id: ane-ishdesc-sb-2-gate-threat-ereshkigal
+    tradition: ane-akkadian
+    title: "At the gate: Ishtar threatens to raise the dead; Ereškigal's dismay and lament for the untimely dead (Ishtar's Descent 12-41)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:12-41"]
+    tags:
+      - {motif: deity-demands-gatekeeper-open, refs: ["IshDesc SB –:13-16"], note: "atû-mê pitâ bābka, pitâ bābkā-ma lūruba anāku"}
+      - {motif: threat-to-raise-dead-to-devour-living, refs: ["IshDesc SB –:17-20"], note: "amahhaṣ dalta sikkūra ašabbir ... ušellâ mītūtī-ma ikkalū balṭūti, eli balṭūti imaʾʾidū mītūtu"}
+      - {motif: underworld-queen-laments-untimely-dead, refs: ["IshDesc SB –:32-36"], note: "kīma akali akkal ṭiṭṭa ... lubki ana eṭlūti ... ana ardāti ... ana šerri lakê ša ina lā ūmīšu ṭardu"}
+      - {motif: netherworld-dead-eat-dust-and-clay, refs: ["IshDesc SB –:32-33"], note: "Ereškigal herself eats clay for bread and drinks dirty water for beer with the Anunnaki"}
+      - {motif: face-turns-pale-at-bad-news, refs: ["IshDesc SB –:28-30"], note: "kīma nikis bīni īriqū pānūša, kīma šapat kunīni iṣlimā šapātūša"}
+      - {motif: sisters-goddesses-heaven-and-underworld, refs: ["IshDesc SB –:26"], note: "annītū-mê ahātki ištar"}
+      - {motif: age-old-rules-of-netherworld, refs: ["IshDesc SB –:38"], note: "uppissī-ma kīma parṣī labīrūti"}
+    hints:
+      - "Compare Isa 26:19 and Ezek 37 (the dead rise) as a reversal: here raising the dead is a threat; Rev 20:13."
+      - "Compare Isa 14:9-11 (Sheol stirred at an arrival) and Ps 107:16 (he shatters the doors of bronze, cuts the bars of iron)."
+  - id: ane-ishdesc-sb-3-seven-gates-and-sixty-diseases
+    tradition: ane-akkadian
+    title: "The seven gates: Ishtar stripped of crown, earrings, beads, pins, birth-stone girdle, bangles and loincloth; seated above Ereškigal, struck with sixty diseases (Ishtar's Descent 42-75)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:42-75"]
+    tags:
+      - {motif: seven-gates-of-underworld, refs: ["IshDesc SB –:42-62"]}
+      - {motif: stripped-of-garment-at-each-gate, refs: ["IshDesc SB –:42-62"], note: "agâ rabâ, inṣabāti, erimmāti, dudināti, šibbu aban alādi, šemerī qātīša u šēpīša, ṣubāt bālti"}
+      - {motif: repeated-question-and-ritual-answer, refs: ["IshDesc SB –:43-44"], note: "ammīni atû tatbal ...? - erbī bēltī ša bēlet erṣeti kīam parṣūša, repeated seven times"}
+      - {motif: usurps-sisters-throne, refs: ["IshDesc SB –:64-65"], note: "ištar ul immalik elēnušša ušbī"}
+      - {motif: goddess-afflicted-with-sixty-diseases, refs: ["IshDesc SB –:66-75"], note: "šūṣâšši šūši mu[rṣī] ... muruṣ īnī ... muruṣ ahi ... muruṣ šēpī ... muruṣ libbi ... muruṣ qaqqadi"}
+      - {motif: naked-as-came-from-womb, refs: ["IshDesc SB –:60-63"], note: "after the seventh gate, without even her loincloth (ṣubāt bālti), she enters the netherworld"}
+    hints:
+      - "Compare Job 1:21 and Eccl 5:14 (naked I came from my mother's womb, naked I shall return) and Q 6:94 (you come to Us alone as We created you)."
+      - "Compare Deut 28:27-35, 59-61 (catalogue of diseases from sole to crown) and Job 2:7."
+  - id: ane-ishdesc-sb-4-fertility-stops-ea-creates-envoy
+    tradition: ane-akkadian
+    title: "With Ishtar below, no creature mates; Papsukkal mourns before Sîn and Ea; Ea creates Asûšu-namir (Ishtar's Descent 76-99)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:76-99"]
+    tags:
+      - {motif: fertility-ceases-while-goddess-in-underworld, refs: ["IshDesc SB –:77-80", "IshDesc SB –:87-90"], note: "ana būrti alpu ul išahhiṭ imēru atāna ul ušarra, ardata ina sūqi ul ušarra eṭlu, ittīl eṭlu ina kummīšu, ittīl ardatu ina ahītīša"}
+      - {motif: mourning-garment-put-on, refs: ["IshDesc SB –:81-82"], note: "Papsukkal: karra labiš malê naši"}
+      - {motif: minister-weeps-before-high-gods, refs: ["IshDesc SB –:83-85"], note: "illik anhiš ina pān sîn abīšu ibakki, ina pān ea illakā dimāšu"}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["IshDesc SB –:91-92"], note: "only Ea acts: ea ina emqi libbīšu ibtani zikra; Sîn's response not recorded"}
+      - {motif: ea-creates-envoy-to-trick-underworld-queen, refs: ["IshDesc SB –:92-99"], note: "ibnī-ma aṣûšu-namir assinna ... tummīšī-ma nīš ilī rabûti ... ē bēltī halziqqa lidnūnī-ma mê ina libbi lultatti"}
+      - {motif: beings-created-from-dirt-under-fingernail, refs: ["IshDesc SB –:92"], note: "the Akkadian has no fingernail; the creation of an assinnu by Ea parallels the Sumerian kurgarra/galatur; tag for the cross-version link"}
+    hints:
+      - "Compare Hos 2:9-13 and Joel 1:10-12 (fertility withdrawn) and Jer 7:34 (voice of bride and groom ceases)."
+      - "Compare Dan 6:8-9 and Esth 8:8 (an oath or decree that cannot be revoked used against its maker)."
+  - id: ane-ishdesc-sb-5-curse-and-water-of-life
+    tradition: ane-akkadian
+    title: "Ereškigal curses Asûšu-namir; Namtar sprinkles Ishtar with the water of life (Ishtar's Descent 100-118c)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:100-118c"]
+    tags:
+      - {motif: slaps-thigh-in-dismay, refs: ["IshDesc SB –:101"], note: "tamhaṣ pēnša taššuka ubānša: she smote her thigh and bit her finger"}
+      - {motif: queen-of-dead-curses-envoy-with-outcast-fate, refs: ["IshDesc SB –:102-108"], note: "erišta ša lā erēši ... akal epinnēt āli lū akalka, habannāt āli lū maltītka, ṣilli dūri lū manzāzka, askuppātu lū mūšabūka, šakru u ṣamû limhaṣū lētka"}
+      - {motif: curse-explains-natures-of-things, refs: ["IshDesc SB –:103-108"], note: "the curse accounts for the marginal life of the assinnu"}
+      - {motif: water-of-life-sprinkled, refs: ["IshDesc SB –:114", "IshDesc SB –:118"], note: "ištar mê balāṭi suluhšī-ma ... isluhšī-ma ilqâšši"}
+      - {motif: anunnaki-seated-on-golden-thrones, refs: ["IshDesc SB –:111-117"], note: "askuppāti zuʾʾin ša ayyarāti, anunnakkī ... ina kussî hurāṣi šūšib"}
+      - {motif: ransom-or-return-from-underworld, refs: ["IshDesc SB –:118b"], note: "[šumm]a ipṭirīša lā idda[nakkā-ma te]rrašši; partly restored"}
+    hints:
+      - "Compare Gen 3:14-19 and Gen 4:11-12 (curse fixing a way of life) and Gen 49:7."
+      - "Compare Ezek 47:9, Zech 14:8 and Rev 22:1 (living water) and Q 21:30 (every living thing from water)."
+  - id: ane-ishdesc-sb-6-return-tammuz-belili
+    tradition: ane-akkadian
+    title: "Return through the seven gates; the ransom; Tammuz bathed and dressed; Belili's cry; the dead come up to smell the incense (Ishtar's Descent 119-138)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshDesc SB –:119-138"]
+    tags:
+      - {motif: seven-gates-of-underworld, refs: ["IshDesc SB –:119-125"], note: "ornaments returned in reverse order"}
+      - {motif: ransom-or-return-from-underworld, refs: ["IshDesc SB –:126-127"], note: "šumma napṭirīša lā taddinakkam-ma ana šâšā-ma terrašši; ana dumūzi hāmir ṣehrūtīša: Tammuz is implicitly the ransom"}
+      - {motif: substitute-required-to-leave-underworld, refs: ["IshDesc SB –:126-130"], note: "interpretive: the Akkadian does not say Tammuz goes down in her place; it juxtaposes the ransom clause with his preparation"}
+      - {motif: ritual-wailing-for-tammuz, refs: ["IshDesc SB –:127-130", "IshDesc SB –:136-138"], note: "mê ellūti rummik šamna ṭāba puššiš, ṣubāta huššâ lubbissu malīl uqnî ... bakkāʾū u bakkâtu ... mītūtu līlûnim-ma qutrinna liṣṣinū"}
+      - {motif: sister-grieves-for-dying-god, refs: ["IshDesc SB –:131-135"], note: "ikkil ahīša tašme ... ahī ēda lā tahabbilanni"}
+      - {motif: new-year-festival-of-dumuzid-with-offerings-for-dead, refs: ["IshDesc SB –:136-138"], note: "on the day Tammuz comes up the dead come up to smell the incense"}
+    hints:
+      - "Compare Ezek 8:14 (women weeping for Tammuz at the north gate of the temple) and Zech 12:11 (mourning for Hadad-rimmon)."
+      - "Compare Isa 65:3-4 and 1Sam 28:13 (bringing up the dead) and Deut 26:14."
+  # ================= Ishtar2 SB: Hymn to Ishtar =================
+  - id: ane-ishtar2-sb-1-praise-of-ishtar
+    tradition: ane-akkadian
+    title: "Praise of Ishtar's might: as great as Anu, rays like Sîn, wings that are the winds (Ishtar 2, 1-56)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ishtar2 SB –:1-56"]
+    tags:
+      - {motif: incomparable-deity-who-is-like-you, refs: ["Ishtar2 SB –:5-6"], note: "ayyû māh[irki], [ali] šinnatuk; restored"}
+      - {motif: goddess-compared-to-each-great-god, refs: ["Ishtar2 SB –:10-19"], note: "[kīma qi]bīt āni maṣât amātki ... kīma sîn ... kī šamaš ... [kīma ninur]ta ... adad ... girri; several 'like' restored"}
+      - {motif: goddess-wings-are-the-winds, refs: ["Ishtar2 SB –:26-29"], note: "restored after IshtarSyncr 28-29: [petê idīki šu]beʾê šūti, [pīt purīdīki] pān iltāni ... mehû rabûtu"}
+      - {motif: deity-exalts-and-brings-low, refs: ["Ishtar2 SB –:21"], note: "[šušqâ šušpula] šadāda u nêʾa; first half restored"}
+    hints:
+      - "Compare Ps 18:11 and 104:3-4 (wings of the wind; winds his messengers) and 1Sam 2:7 (he brings low and lifts up)."
+      - "Lines 3-4, 33-45, 53-56 are mostly traces."
+  - id: ane-ishtar2-sb-2-sufferer-confesses
+    tradition: ane-akkadian
+    title: "A sick man confesses unwitting sins; Ishtar can rescue; description of the afflicted (Ishtar 2, 57-128)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ishtar2 SB –:57-128"]
+    tags:
+      - {motif: disease-described-body-part-by-part, refs: ["Ishtar2 SB –:58-61", "Ishtar2 SB –:73-75", "Ishtar2 SB –:95-99"], note: "mangu iṣbat idīya; appīya ... ṣenâti; uznāya amīra lamâni; muqqā kinṣāšu, seʾâma kišādāšu"}
+      - {motif: sufferer-confesses-unknown-sins, refs: ["Ishtar2 SB –:77-82"], note: "ēgi ahṭi ešēṭ ugallil ... emtēš ul īdi šiparraki ēteq, apruṣ samnaki mêki ul aṣṣur"}
+      - {motif: guilt-for-unknowing-sin, refs: ["Ishtar2 SB –:79", "Ishtar2 SB –:121"], note: "emtēš ul īdi; ul īde bēltī"}
+      - {motif: incomparable-deity-who-is-like-you, refs: ["Ishtar2 SB –:85-86"], note: "ayyû ina ilī imṣa malāki, lā amra kīma kâti māhir teslīti"}
+      - {motif: sufferer-like-tottering-wall, refs: ["Ishtar2 SB –:100"], note: "kīma igāri ša iquppu [iʾabbat?]"}
+      - {motif: moaning-like-dove-chirping-like-swallow, refs: ["Ishtar2 SB –:104"], note: "summeš idanammum"}
+      - {motif: kinless-sufferer, refs: ["Ishtar2 SB –:92"], note: "ul irši aba ema [umma emēta]"}
+      - {motif: deity-who-punishes-then-relents, refs: ["Ishtar2 SB –:83-84", "Ishtar2 SB –:90", "Ishtar2 SB –:101"], note: "anūna kullumat eṭēra īde; rubbu ana sullumi qerub; tānunīšūma tapattî"}
+    hints:
+      - "Compare Ps 19:13 and Lev 4:2,13 (unwitting sins), Ps 38:4-11 (sickness and sin), Ps 62:4 (like a leaning wall), Isa 38:14 (I moan like a dove), Ps 27:10."
+  - id: ane-ishtar2-sb-3-sick-mans-plight
+    tradition: ane-akkadian
+    title: "The sick man mourned while alive, abandoned by friends, driven mad by a god's evil wind; plea 'take his hand' (Ishtar 2, 142-199)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ishtar2 SB –:142-199"]
+    tags:
+      - {motif: family-assembles-mourners-for-living-sick-man, refs: ["Ishtar2 SB –:155-157"], note: "bullul ina dimāti ibakki ... lallarīšu kimtašu ihaššaš, ana nubêšu marṣūti iphura salāssu"}
+      - {motif: ceaseless-lament-day-night-month-year, refs: ["Ishtar2 SB –:158"], note: "urra ūtakkak mūša inahhis"}
+      - {motif: disease-described-body-part-by-part, refs: ["Ishtar2 SB –:160-167"], note: "lillā šēpāšu iraʾʾubā qātāšu, ittahbaš iratuš lišānšu ... isīq ikri"}
+      - {motif: madness-sent-by-gods-evil-wind, refs: ["Ishtar2 SB –:161"], note: "ina lā ṭābi šār ili mahhûtiš tabla"}
+      - {motif: abandoned-by-kin-and-servants, refs: ["Ishtar2 SB –:181"], note: "ištīssu tappû ruʾû ušširūšu (restored)"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["Ishtar2 SB –:170-171"], note: "ahzī qāssu ai iššâl aradki; kibsuš dunninī"}
+      - {motif: mourning-garment-put-on, refs: ["Ishtar2 SB –:169"], note: "ina karri u malî šumki ibtanakki"}
+      - {motif: diviners-should-not-waste-offerings, refs: ["Ishtar2 SB –:174-175"], note: "lā uqatti ensû sirqīšu, taqqāti bārû ai īkul"}
+      - {motif: blasphemy-confessed, refs: ["Ishtar2 SB –:184-185"], note: "pīqāma šaptī taqbi magrātim, taššīta azzakir"}
+      - {motif: penitent-bears-yoke, refs: ["Ishtar2 SB –:195"], note: "[šerta n]ašākūma nīr šilâti; restored"}
+    hints:
+      - "Compare Ps 88:9,19 and 38:12 (friends stand aloof), Job 19:13-19, Ps 73:21-22, Lam 1:14 (yoke of my transgressions), Ps 73:23 (you hold my right hand)."
+  - id: ane-ishtar2-sb-4-ishtar-have-mercy
+    tradition: ane-akkadian
+    title: "Plea for release: open the doors of heaven, have pity like father and mother; she frees the captive; gods, bow to her; 'Ishtar, have mercy!' (Ishtar 2, 206-247)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ishtar2 SB –:206-247"]
+    tags:
+      - {motif: deity-asked-to-pity-like-father-and-mother, refs: ["Ishtar2 SB –:218-219"], note: "kīma abu ālidīya [kīma ummi ālit]tīya rišî rēma; second half restored"}
+      - {motif: goddess-frees-captive-lights-prison, refs: ["Ishtar2 SB –:222-223"], note: "[ṣabta umaššir k]asâ urammi, [ana ša bīt ṣibitti]m ukallam nūra; partly restored"}
+      - {motif: gracious-merciful-slow-to-anger-formula, refs: ["Ishtar2 SB –:224-225"], note: "qerub enēnša ... aruh napšurša; 'slow is her punishment' is restored ([kāšat šē]rtaša)"}
+      - {motif: gods-called-to-bow-to-goddess, refs: ["Ishtar2 SB –:226-227", "Ishtar2 SB –:232-233"], note: "ilī šukennāši ... appakina libnāši; ēdiš ṣīrat, ēdiš gašrat"}
+      - {motif: praised-from-sunrise-to-sunset, refs: ["Ishtar2 SB –:228-229"], note: "[ištu ṣīt šam]ši ana šalāmu šamši ... kitrabāši"}
+      - {motif: goddess-gives-offspring-to-worshippers, refs: ["Ishtar2 SB –:238-239"], note: "[ku]nšāšīma rišâ lamassa, [pir]ʾa u zerā qātuš muhrāni"}
+      - {motif: goddess-removes-misdeeds-and-hears-prayer, refs: ["Ishtar2 SB –:242-243", "Ishtar2 SB –:246-247"], note: "šūzuba eṭēra ... gamāla nêša u napšura išīmši šalaš; ištar ahulapki"}
+      - {motif: release-my-bonds-prayer, refs: ["Ishtar2 SB –:216-217"], note: "puššihī kīšīya ... kâši ludlulki"}
+    hints:
+      - "Compare Ps 27:10, Isa 49:15 and 63:16 (God as father and mother), Ps 103:13; Ps 146:7 and 107:10-14 and Isa 42:7, 61:1 (freeing prisoners, light to those in darkness)."
+      - "Compare Exod 34:6, Ps 30:6 (anger a moment, favor a lifetime), Ps 113:3, Ps 97:7 (all gods bow down to him) and Q 1:3."
+  # ================= IshtarSyncr SB =================
+  - id: ane-ishtarsyncr-sb-1-litany-of-ishtars
+    tradition: ane-akkadian
+    title: "Syncretistic hymn: Ishtar as Zarpanitu, Tašmetu, Ninlil, Dilbat, the Wagon star, the viper, the net; she tramples the land like a snake (1-25)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshtarSyncr SB –:1-25"]
+    tags:
+      - {motif: goddess-identified-with-many-goddesses, refs: ["IshtarSyncr SB –:1-25"], note: "each line ends with a name: zarpānītu, tašmētu, ninlil ... enlilat ninlilat, dilbat, ereqqu, qibî-dumqī, ereškigal, ninmah"}
+      - {motif: venus-star-rising-at-evening, refs: ["IshtarSyncr SB –:5-6"], note: "inninna dipāru ša ultu qereb šamê nesûti ... qīdat dilbat"}
+      - {motif: inana-as-prostitute-at-tavern, refs: ["IshtarSyncr SB –:7"], note: "ištarītu ... kīma šigari māta parkat"}
+      - {motif: goddess-as-net-and-noose, refs: ["IshtarSyncr SB –:8", "IshtarSyncr SB –:18-21"], note: "pasunti pušqi ša erebša egru; alluhappu ša ... iṣṣūru lā ušparšidu; nardap šamê u erṣeti"}
+      - {motif: war-goddess-clad-in-terror, refs: ["IshtarSyncr SB –:4", "IshtarSyncr SB –:11-17"], note: "bašmu ša imta ṣemru; urinnu; ilat qašti ūṣi u išpati; aban šadî ihillūši"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["IshtarSyncr SB –:17"], note: "ana tanūqātīša dūr šadî iquppūši aban šadî ihillūši"}
+      - {motif: foot-on-neck-of-enemies, refs: ["IshtarSyncr SB –:25"], note: "kišād māti rapašti kīma ṣerri kubsī-ma ana šēpīki liknuš"}
+      - {motif: goddess-is-enlil, refs: ["IshtarSyncr SB –:3-4"], note: "enlilat ninlilat: 'she is Enlil, she is Ninlil'"}
+    hints:
+      - "Compare Isa 14:12 (Helel ben Shahar, morning star) and Jer 7:18, 44:17 (queen of heaven); Ps 91:13 (tread on lion and serpent); Mic 1:4, Ps 97:5 (mountains melt)."
+      - "Compare Ezek 12:13 and 17:20 (God spreads his net) and Hab 1:15."
+  - id: ane-ishtarsyncr-sb-2-share-of-seven-brothers-colophon
+    tradition: ane-akkadian
+    title: "The god who gathered the share of seven brothers; wings and legs as winds; colophon: secret for experts (IshtarSyncr 26-36)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["IshtarSyncr SB –:26-36"]
+    tags:
+      - {motif: youngest-takes-share-of-seven-brothers, refs: ["IshtarSyncr SB –:26-27"], note: "ayyu ilu ana idi meṣherūtīšu zitti athê sebet ihmum: bābili nippuru sippar aššur DAKsê uruk u akkade"}
+      - {motif: goddess-wings-are-the-winds, refs: ["IshtarSyncr SB –:28-29"], note: "petē idīki šubeʾʾi šūti ... pīt purīdīki pān iltāni"}
+      - {motif: protective-spirits-shedu-lamassu, refs: ["IshtarSyncr SB –:30-31"]}
+      - {motif: secret-knowledge-for-initiates-only, refs: ["IshtarSyncr SB –:36"], note: "mūdû mūdâ likallim lā mūdû ai īmur"}
+    hints:
+      - "Compare 1Sam 16:11-13 and Gen 49 / 1Chr 5:1-2 (the youngest of the brothers preferred)."
+      - "Compare Dan 12:4,9-10 (sealed words; the wise will understand) and Mark 4:11."
+  # ================= IsinDyn OB: Lipit-Eshtar A (Sumerian) =================
+  - id: ane-isindyn-ob-lipit-eshtar-a-1-self-praise
+    tradition: ane-sumerian
+    title: "Lipit-Eštar A: the king's self-praise and the gifts of An, Enlil, Ninlil, Nanna, Enki, Inana, Nisaba, Utu (1-42)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    version: Old Babylonian
+    read: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:1-42"]
+    tags:
+      - {motif: royal-self-praise-hymn, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:1-42"], note: "every line ends me-en, 'I am'"}
+      - {motif: king-son-of-enlil, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:2", "IsinDyn OB 2.5.5.1_Lipit–Eštar_A:25", "IsinDyn OB 2.5.5.1_Lipit–Eštar_A:42"], note: "{d}li-pi2-it-eš18-tar2 dumu {d}en-lil2-la2 me-en"}
+      - {motif: king-as-cedar-sapling, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:3"], note: "{ĝeš}isimu3 {ĝeš}eren-na-gen7 saĝ-ĝu10 il2-la-ta"}
+      - {motif: king-handsome-in-body-praised, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:11-16"], note: "su6 za-gin3 e3-a ... igi-sa6 ka-sa6 ... šu-si sa6-sa6"}
+      - {motif: lapis-lazuli-beard, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:11"]}
+      - {motif: king-compared-to-lion-aurochs-anzud, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:6-10"], note: "piriĝ ... ušumgal ... anzu{mušen} ... am ... alim"}
+      - {motif: black-headed-people, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:18"], note: "saĝ ĝe6-ga sipa zi-bi me-en"}
+      - {motif: king-is-a-god-of-mankind, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:20"], note: "diĝir nam-lu2-ulu3 nir-ĝal2 uĝ3 šar2-ra me-en"}
+      - {motif: each-god-gives-king-a-gift, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:24-40"], note: "An the crown, Enlil the sceptre in the Kiur, Ninlil a good fate, Nanna, Utaulu terror, Enki kingship from Eridu, Inana as spouse, Nisaba multiplication, Utu a firm word"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:37"], note: "ĝešdan3 ki-aĝ2 {d}inana-ka me-en"}
+      - {motif: learned-scribe-king, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:39"], note: "dub-sar a-ra2-zu {d}nisaba-ka me-en"}
+    hints:
+      - "Compare Ps 2:7 (you are my son) and 2Sam 7:14; Ps 92:13 (the righteous flourish like a cedar of Lebanon) and Ezek 17:22-23; 1Sam 16:12 (ruddy, beautiful eyes) and Ps 45:3."
+  - id: ane-isindyn-ob-lipit-eshtar-a-2-provider-and-servant
+    tradition: ane-sumerian
+    title: "Lipit-Eštar A: the king as farmer, shepherd and provider, and as humble servant of the gods of Nippur, Kesh, Ur and Eridu (43-66)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    version: Old Babylonian
+    read: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:43-66"]
+    tags:
+      - {motif: king-as-farmer-shepherd-fisher-provider, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:43-48"], note: "engar kuru13-ni dub-dub-ba ... sipa e2-tur3-ra i3 gara2 mah ... abbar ku6 mušen gal-gal-la"}
+      - {motif: king-as-humble-supplicant, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:53-57"], note: "maš2 gaba tab-ba ... sun5-sun5-na giri17 šu ĝal2-la ... lugal šudu3-de3 gub-ba"}
+      - {motif: royal-self-praise-hymn, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:43-66"]}
+      - {motif: first-fruits-to-house-of-god, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:62"], note: "nisaĝ tum3 e2-babbar nu-dib-be2"}
+      - {motif: king-tireless-runner, refs: ["IsinDyn OB 2.5.5.1_Lipit–Eštar_A:60-61"], note: "ul4-ul4-la du10 nu-kuš2-u3"}
+    hints:
+      - "Compare Ps 72:16 (abundance of grain under the king) and 1Kgs 3:7 (Solomon's humility); Deut 26:1-11 (first fruits)."
+  # ================= Ludlul bel nemeqi =================
+  - id: ane-ludlul-sb-1-praise-of-marduk
+    tradition: ane-akkadian
+    title: "Prologue: 'I will praise the lord of wisdom' - Marduk furious by night, relenting by day, who wounds and heals (Ludlul I 1-40)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB I:1-40"]
+    tags:
+      - {motif: god-furious-by-night-relenting-by-day, refs: ["Ludlul SB I:1-8"], note: "eziz mūšī muppašir urrī ... ša kīma ūmi mehê nāmû uggassu u kīma mānīt šēreti zâqšu ṭābu"}
+      - {motif: weeping-at-night-joy-in-morning, refs: ["Ludlul SB I:2", "Ludlul SB I:4"], note: "eziz mūšī muppašir urrī: anger by night, appeasement by day"}
+      - {motif: heavy-hand-gentle-grasp, refs: ["Ludlul SB I:9-12", "Ludlul SB I:33-36"], note: "ša nakbat qātīšu lā inaššû šamāʾū, rittuššu rabbat ukašša mīta; ana kī kabtat qāssu libbašu rēmēnī"}
+      - {motif: god-kills-and-makes-alive, refs: ["Ludlul SB I:13-14", "Ludlul SB I:38"], note: "ina libbātīšu uptattâ qabrātu, īnuššu ina karašê ušatbi maqta; kī uballiṭu mītūta"}
+      - {motif: god-turns-like-mother-or-cow-with-calf, refs: ["Ludlul SB I:17-20"], note: "itâr ālittuš ... rīmāniš uganna, kī arah būri ittanashara arkīšu"}
+      - {motif: god-like-nursing-mother, refs: ["Ludlul SB I:18"], note: "itâr ālittuš: 'he becomes like a mother'"}
+      - {motif: god-wounds-with-scourge-heals-with-bandage, refs: ["Ludlul SB I:21-22"], note: "zaqtā niṭâtūšu usahhalā zumra, pašhū ṣindūšu uballaṭū namtara"}
+      - {motif: god-wounds-and-heals, refs: ["Ludlul SB I:21-26"]}
+      - {motif: no-god-understands-high-gods-ways, refs: ["Ludlul SB I:29-32"], note: "manāma ina ilī alaktašu ul īde ... ilu ayyum-ma ul ilammad ṭēnšu"}
+      - {motif: who-can-turn-back-his-hand, refs: ["Ludlul SB I:35-36"], note: "ša lā libbīšu mannu mihiṣtašu lišapših, ela kabtatīšu ayyu lišālil qāssu"}
+      - {motif: saved-sufferer-will-teach-people, refs: ["Ludlul SB I:37-40"], note: "lūšāpi uggassu ša kīma nūni ākulu rušumta ... lušalmid-ma nišī qitruba gamālšin"}
+      - {motif: guilt-absolved-on-day-of-justice, refs: ["Ludlul SB I:23-24"], note: "ina ūm išertīšu uptaṭṭarū eʾiltu u annu"}
+    hints:
+      - "Compare Job 5:17-18 and Hos 6:1 (he wounds and binds up), Deut 32:39 and 1Sam 2:6 (he kills and makes alive), Ps 30:6 (anger a moment, favor a lifetime; weeping at night, joy in the morning)."
+      - "Compare Isa 49:15 and 66:13 (God as mother), Job 9:12 and Dan 4:32 (who can stay his hand?), Isa 40:13-14 and Job 11:7, Rom 11:33-34 (who has known the mind of the Lord?)."
+      - "Compare Ps 51:15 (I will teach transgressors your ways) and Ps 22:23 (I will tell your name to my brothers); Jonah 2:1-7 (from the belly of the fish)."
+  - id: ane-ludlul-sb-2-gods-abandon-sufferer
+    tradition: ane-akkadian
+    title: "From the day the Lord punished me: god, goddess and protective spirits desert; dignity flees; evil omens and dreams (Ludlul I 41-54)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB I:41-54"]
+    tags:
+      - {motif: personal-god-and-protective-spirits-desert-sufferer, refs: ["Ludlul SB I:43-46"], note: "iddânni ilī šadâšu īli, ipparku ištarī ibēš ahīta, islit šēd dumqi ša idīya, iprud lamassī-ma šanâm-ma išeʾʾe"}
+      - {motif: deity-abandons-king, refs: ["Ludlul SB I:43-44"], note: "of a private man (an official): his personal god leaves him"}
+      - {motif: crown-stripped-from-head, refs: ["Ludlul SB I:47-48"], note: "inneṭir bāltī dūtī ūtammil, simtī ipparis-ma tarāniš išhiṭ: his dignity bolts"}
+      - {motif: omens-and-dreams-confused-for-sufferer, refs: ["Ludlul SB I:49-54"], note: "dalhā têrētūʾa ... itti bārî u šāʾili alaktī ul parsat; ina pî sūqi lemun egerrûʾa; šuttī pardat"}
+      - {motif: terrifying-dreams-from-god, refs: ["Ludlul SB I:54"], note: "attīl-ma ina šāt mūši šuttī pardat"}
+      - {motif: driven-from-own-house, refs: ["Ludlul SB I:50"], note: "uštēṣi bītuʾa kamâti arpud"}
+    hints:
+      - "Compare Job 7:13-14 (you scare me with dreams), Job 19:9 (stripped my glory), Job 29:2-5 (when God watched over me), Ps 22:2 and 88:15."
+      - "Compare 1Sam 28:6 (YHWH did not answer him by dreams, Urim or prophets)."
+  - id: ane-ludlul-sb-3-social-persecution
+    tradition: ane-akkadian
+    title: "The king turns against him; seven courtiers conspire; friends, kin and slaves become enemies; goods and offices given to others (Ludlul I 55-104)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB I:55-104"]
+    tags:
+      - {motif: king-turns-against-loyal-courtier, refs: ["Ludlul SB I:55-58"], note: "šarru šīr ilī šamšu ša nišīšu, libbuš ikkaṣir-ma paṭara ušlemmin; nanzāzū taslīta uštanaddanū"}
+      - {motif: seven-courtiers-conspire, refs: ["Ludlul SB I:59-69"], note: "ištēn ... šanû ... šalši ... rebû ... haššu ... šeššu u sebû ... rikis sebet; utukkiš mašlū"}
+      - {motif: speech-of-sufferer-muzzled, refs: ["Ludlul SB I:70-72"], note: "muttalla pīya appatiš ītešʾū ... hašikkiš ēmi"}
+      - {motif: deaf-and-mute-before-enemies, refs: ["Ludlul SB I:71-72"], note: "hašikkiš ēmi ... šaqummiš ipparšid"}
+      - {motif: proud-man-humbled-to-servility, refs: ["Ludlul SB I:73-78"], note: "šaqâtu rēšāya iknušā qaqqaršun ... ša etelliš attallaku halāla almad, šarrahākū-ma atūr ana rēši"}
+      - {motif: pointed-at-in-the-street, refs: ["Ludlul SB I:79-83"], note: "sūqa abâʾa-ma turruṣā ubānātu ... ālī kī ayyābi nekelmânni"}
+      - {motif: abandoned-by-kin-and-servants, refs: ["Ludlul SB I:84-92"], note: "ana ahî ahī itūra, ana lemni u gallê itūra ibrī ... ana lā šīrīšu iškunanni kimtī"}
+      - {motif: slaves-curse-their-fallen-master, refs: ["Ludlul SB I:89-90"], note: "šūpîš ina puhri īruranni ardī, amtī ina pān ummāni ṭapiltī iqbi"}
+      - {motif: friends-stand-aloof-from-plague, refs: ["Ludlul SB I:91"], note: "īmurannī-ma mūdû šahāta īmid"}
+      - {motif: slanderer-prospers-sympathizer-dies, refs: ["Ludlul SB I:93-97"], note: "ana qāb damiqtīya petâssu haštu ... dābib nullâtīya ilu rēṣūšu, ana ša iqbû ahulap hamussu mūtu"}
+      - {motif: no-helper-at-side, refs: ["Ludlul SB I:98"], note: "ul arši ālik idi gāmila ul āmur"}
+      - {motif: sufferers-goods-and-office-given-to-others, refs: ["Ludlul SB I:99-104"], note: "ana ṣindi u birti uzaʾʾizū mimmûya ... ušassû alāla ... parṣīya ušalqû šanâm-ma"}
+    hints:
+      - "Compare Job 19:13-19 (brothers, kin, guests, maidservants estranged; servant does not answer), Job 30:1-10 (mocked by outcasts), Ps 31:12-14, 38:12, 41:10 and 55:13-15 (my familiar friend lifted his heel), Ps 88:9,19."
+      - "Compare Dan 6:4-9 (officials conspire against Daniel before the king), Esth 3, Gen 39 and Ps 109:8 (let another take his office); Jer 20:10 (all my familiar friends watch for my fall)."
+      - "Compare Ps 39:3,10 and 38:14-15 (I am mute, I do not open my mouth) and Ps 22:7-8 (all who see me mock me)."
+  - id: ane-ludlul-sb-4-lament-and-hope
+    tradition: ane-akkadian
+    title: "Sighing by day, lament by night; moaning like a dove; tears; 'my sun will shine' (Ludlul I 105-120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB I:105-120"]
+    tags:
+      - {motif: ceaseless-lament-day-night-month-year, refs: ["Ludlul SB I:105-106"], note: "ūmu šutānuhu mūšu gerrānu, arhu qitayyulu idirtu šattu"}
+      - {motif: moaning-like-dove-chirping-like-swallow, refs: ["Ludlul SB I:107"], note: "kīma summi adammuma gimir ūmīya"}
+      - {motif: eyes-worn-out-from-weeping, refs: ["Ludlul SB I:109-110"], note: "ina bitakkî šubrâ īnāya, haššiš ina dimāti ṣurrupā usukkāya"}
+      - {motif: inner-organs-churn-in-anguish, refs: ["Ludlul SB I:111-114"], note: "unât libbīya ina gitalluti irtūbā, ūtannâ-ma kīma ṣarāp išāti"}
+      - {motif: prayer-in-disarray, refs: ["Ludlul SB I:115-118"], note: "kīma nabli muštahmiṭi emât teslītī ... ušṭīb šaptīya kī daʾīmi ašṭā"}
+      - {motif: hope-that-sun-will-shine-again, refs: ["Ludlul SB I:119-120"], note: "tušāma ina urri iššira damiqtī, arhu innammaru inammira šamšī"}
+    hints:
+      - "Compare Isa 38:14 and 59:11 (moaning like doves), Ps 6:7-8 and 42:4 (tears my food day and night), Ps 31:10-11, Lam 1:20 and 2:11 (my bowels churn), Job 30:26-27, Ps 102:4-12."
+      - "Compare Ps 30:6, Mal 3:20 (sun of righteousness) and Job 11:17."
+  - id: ane-ludlul-sb-5-pious-yet-punished
+    tradition: ane-akkadian
+    title: "A year passes and it worsens; diviners fail; treated like one who neglected the gods though he was pious; the unknowable will of the gods; human fickleness (Ludlul II 1-48)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB II:1-48"]
+    tags:
+      - {motif: god-will-not-show-his-face-to-sufferer, refs: ["Ludlul SB II:4-5"], note: "ilī alsī-ma ul iddina pānīšu, usalli ištarī ul ušaqqâ rēšīša"}
+      - {motif: god-hides-his-face, refs: ["Ludlul SB II:4"]}
+      - {motif: exorcist-and-diviner-fail-sufferer, refs: ["Ludlul SB II:6-9"], note: "bārû ina bīri arkata ul iprus ... šāʾilu ul ušāpi dīnī, zāqīqa abāl-ma ul upatti uznī, mašmaššu ... kimiltī ul ipṭur"}
+      - {motif: court-experts-fail, refs: ["Ludlul SB II:6-9"]}
+      - {motif: pious-man-treated-as-impious, refs: ["Ludlul SB II:12-32"], note: "kī ša taqqīta ana ili lā uktinnu ... anāku amšal; ahsus-ma ramānī supê u teslīta ... ūm palāh ili ṭūb libbīya"}
+      - {motif: catalogue-of-neglect-of-gods, refs: ["Ludlul SB II:12-22"], note: "appa lā enû šukenna lā amru ... ibṭilu ūm ili išēṭu eššēša ... nīš ilīšu kabta qalliš izkuru"}
+      - {motif: oath-of-clearance-negative-confession, refs: ["Ludlul SB II:23-32"], note: "interpretive: a positive protestation of piety (prayer, sacrifice, festivals, teaching reverence for god, goddess and king) rather than self-curses"}
+      - {motif: good-to-man-offense-to-god, refs: ["Ludlul SB II:33-35"], note: "lū īde kī itti ili itamgurā annâtī! ša damqat ramānuš ana ili gullultu, ša ina libbīšu mussukat eli ilīšu damqat"}
+      - {motif: who-can-learn-the-mind-of-god, refs: ["Ludlul SB II:36-38"], note: "ayyu ṭēm ili qereb šamê ilammad, milikša anzanunzê ihakkim mannu, ēkâ-ma ilmadā alakti ili apâtu"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Ludlul SB II:36-38"]}
+      - {motif: human-mood-and-fortune-change-in-instant, refs: ["Ludlul SB II:39-47"], note: "ša ina amšat ibluṭu imūt ūdiš ... immuṣā-ma immâ šalamtiš, išebbâ-ma išannanā ilašin, ina ṭābi ītammâ elâ šamāʾī ... arāda erkalla"}
+      - {motif: brevity-of-life, refs: ["Ludlul SB II:39"]}
+      - {motif: wisdom-far-and-deep, refs: ["Ludlul SB II:48"], note: "qerebšina lā altamda"}
+    hints:
+      - "Compare Job 1:1,5 and 29:1-25 (Job's former piety), Job 31 (oath of clearance), Job 13:24 and Ps 13:2, 88:15 (why do you hide your face?), Ps 44:18-23 (all this has come upon us though we have not forgotten you)."
+      - "Compare Isa 55:8-9 (my thoughts are not your thoughts), Job 11:7-8 and 28:12-28 (where shall wisdom be found?), Eccl 8:17, Prov 16:2 and 21:2 (every way of a man is right in his own eyes but YHWH weighs the heart), Isa 5:20; Q 2:216 ('you may dislike a thing which is good for you')."
+      - "Compare Ps 90:5-6 and 103:15-16, Job 14:1-2, Deut 8:12-14 and 32:15 and Prov 30:8-9 (sated, they forget God), Isa 14:13-15 (I will ascend to heaven ... brought down to Sheol)."
+  - id: ane-ludlul-sb-6-disease-onslaught
+    tradition: ane-akkadian
+    title: "Demons from the netherworld attack; the body broken limb by limb; wallowing in dung; wasting; exorcist baffled; the tomb readied; enemies rejoice (Ludlul II 49-120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB II:49-120"]
+    tags:
+      - {motif: demons-of-disease-rise-from-netherworld, refs: ["Ludlul SB II:49-58"], note: "imhullu ištu išid šamê izīqa, ištu irat erṣeti išīha diʾu, šūlu lemnu ittaṣâ apsûššu, utukku lā nêʾi uṣâ ištu ēkur, lamaštu urda ištu qereb šadî"}
+      - {motif: disease-described-body-part-by-part, refs: ["Ludlul SB II:59-79"], note: "qaqqada ... muhha, pūtu ... īnāya, labâna ... kišāda, irta ... tulê, ṣērī ... rēš libbīya ... qerbīya ... haš[êʾa] ... birkīya ... šēpāya"}
+      - {motif: sufferer-like-tottering-wall, refs: ["Ludlul SB II:68-70"], note: "lānī zaqra ībutū igāriš, gattī rapšata urbatiš ušnillū, kī ulilti annabik"}
+      - {motif: demon-wears-sufferers-body-as-garment, refs: ["Ludlul SB II:71"], note: "alû zumrī ītediq ṣubāta"}
+      - {motif: eyes-see-not-ears-hear-not-in-illness, refs: ["Ludlul SB II:73-74"], note: "balṣā-ma ul inaṭṭalā īnāya, petâ-ma ul išemmâ uznāya"}
+      - {motif: speech-of-sufferer-muzzled, refs: ["Ludlul SB II:82-85"], note: "ina pīya nahbalu nadī-ma u napraku sekir šaptīya"}
+      - {motif: sickness-as-divine-warning, refs: ["Ludlul SB II:86-94"], note: "only the physical half: food loathed, flesh wasted, bones protrude (ašnan ... daddariš alaʾʾut, sīrāšu ... imtarṣa, eṣettī ussuqat arimat maškī); no warning purpose stated"}
+      - {motif: wasted-body-bones-stick-out, refs: ["Ludlul SB II:90-94"], note: "ina lā mākālê zīmūʾa ittakrū, šīrī ištahha dāmī izzūba, eṣettī ussuqat arimat maškī, ... uriqta mahṣāku"}
+      - {motif: escaped-by-skin-of-teeth, refs: ["Ludlul SB II:93"], note: "only the image of bone clinging to skin: eṣettī ussuqat arimat maškī"}
+      - {motif: sufferer-unrecognizable, refs: ["Ludlul SB II:91"], note: "zīmūʾa ittakrū"}
+      - {motif: home-becomes-prison-of-sickbed, refs: ["Ludlul SB II:95-98"], note: "ana kišukkīya itūra bītu, illurti šīrīya nadâ idāya, maškan ramānīya muqqutā šēpāya"}
+      - {motif: feet-in-stocks, refs: ["Ludlul SB II:97-98"], note: "his own flesh is manacle (illurtu) and fetter (maškanu)"}
+      - {motif: god-wounds-with-scourge-heals-with-bandage, refs: ["Ludlul SB II:99-101"], note: "qinnāzu iṭṭânni malât ṣillâti, paruššu usahhilanni ziqāti labšat"}
+      - {motif: gnawing-pains-at-night, refs: ["Ludlul SB II:102-105"], note: "kal ūmi rēdû ireddânni, ina šāt mūši ul unappašanni surriš"}
+      - {motif: sufferer-lies-in-own-excrement, refs: ["Ludlul SB II:106-107"], note: "ina rubṣīya abīt kīma alpi, ubtallil kī immeri ina tabāštānīya"}
+      - {motif: exorcist-and-diviner-fail-sufferer, refs: ["Ludlul SB II:108-111"], note: "sakikkîya išhuṭ mašmaššu ... adanni silʾitīya bārû ul iddin"}
+      - {motif: god-will-not-show-his-face-to-sufferer, refs: ["Ludlul SB II:112-113"], note: "ul irūṣa ilī qātī ul iṣbat, ul irēmanni ištarī idīya ul illik"}
+      - {motif: tomb-prepared-before-death, refs: ["Ludlul SB II:114-116"], note: "peti kimahhī ersû šukānūʾa, adi lā mītūtī-ma bikītī gamrat"}
+      - {motif: enemies-rejoice-at-sufferers-plight, refs: ["Ludlul SB II:117-118"], note: "išmē-ma hādûʾa immerū pānūšu, hādītī ... kabattaša ippardu"}
+      - {motif: mockers-say-aha, refs: ["Ludlul SB II:117-118"]}
+      - {motif: day-darkens-for-family, refs: ["Ludlul SB II:119-120"], note: "īṭi ūmu ša gimir kimtīya ... šamassun īrim"}
+    hints:
+      - "Compare Job 2:7-8 (sore boils, sitting in ashes), Job 7:3-5 and 30:16-18,30 (nights of misery, gnawing pains, skin blackens), Job 19:20 (bone clings to skin), Job 33:19-22 (loathes bread, bones stick out, soul draws near the Pit), Ps 22:15-18 (bones out of joint, I can count my bones), Ps 102:4-6 (bones cleave to skin), Ps 38:3-11, Lam 3:4."
+      - "Compare Job 17:1 (the graves are ready for me), Ps 88:4-6, Isa 38:10-12, and Ps 35:15,19-21, 41:6-9 and 38:17 (enemies gloat: 'when will he die?'); Job 19:9-12 and 13:27 (feet in the stocks)."
+      - "Compare 2Kgs 20:1-11 / Isa 38 (Hezekiah's illness, also with an omen) and 2Chr 16:12 (seeking physicians)."
+  - id: ane-ludlul-sb-7-heavy-hand
+    tradition: ane-akkadian
+    title: "Heavy was his hand upon me: day and night groaning, dreaming and waking alike wretched (Ludlul III 1-8)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB III:1-8"]
+    tags:
+      - {motif: heavy-hand-gentle-grasp, refs: ["Ludlul SB III:1"], note: "kabtat qāssu ul aleʾʾi našâša"}
+      - {motif: hand-of-god-heavy-on-sufferer, refs: ["Ludlul SB III:1-3"], note: "kabtat qāssu ... [en]nessu ezzetu abūbu-ma"}
+      - {motif: ceaseless-lament-day-night-month-year, refs: ["Ludlul SB III:7-8"], note: "urra u mūša ištēniš annaššar, šuttu munattu malmališ šumruṣāni"}
+    hints:
+      - "Compare Ps 32:4 (day and night your hand was heavy on me), Ps 38:3 and 39:11, Job 23:2 (his hand is heavy despite my groaning), Job 19:21 and 1Sam 5:6,11."
+  - id: ane-ludlul-sb-8-three-dreams
+    tradition: ane-akkadian
+    title: "Three dreams: the radiant young man, the exorcist of Nippur with holy water, the fair young woman who says 'Fear not'; Ur-Nintinugga sent by Marduk (Ludlul III 9-50)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB III:9-50"]
+    tags:
+      - {motif: three-dreams-announce-healing, refs: ["Ludlul SB III:9-48"], note: "ištânu eṭlu ... ašnī-ma šunata ... ištânu ramku ... ašluš-ma šunata ... ištêt ardatu ... ina šutti ur-nintinuga bābilû"}
+      - {motif: dream-messenger-sent-by-god, refs: ["Ludlul SB III:15-16", "Ludlul SB III:25-26", "Ludlul SB III:43-44"], note: "bēlka išpuranni ... līqâ šulumšu; laluralima āšip nippuri ana ubbubīka išpuranni; marduk-ma išpuranni"}
+      - {motif: radiant-figure-clad-in-splendor-appears, refs: ["Ludlul SB III:9-14"], note: "ištânu eṭlu atar šikitta ... melammī halip labiš pulhāti, īrubam-ma ittaziz elīya ... ihhamû šīrūʾa"}
+      - {motif: night-vision-spirit-hair-bristles, refs: ["Ludlul SB III:13-14"], note: "the figure stands over him and his flesh grows numb (ihhamû šīrūʾa)"}
+      - {motif: dream-exorcist-sprinkles-water-and-casts-spell, refs: ["Ludlul SB III:23-28"], note: "nāš mê šipti, bīna u mullila tamih rittuššu ... mê našû elīya iddi, šipat balāṭi iddâ umaššiʾ zumrī"}
+      - {motif: fear-not-said-to-sufferer, refs: ["Ludlul SB III:35-36"], note: "iqbâ ahulap magal šūnuh-ma, lā tapallah iqbâ"}
+      - {motif: divine-woman-appears-in-dream, refs: ["Ludlul SB III:31-34"], note: "ištêt ardatu banû zīmūša ... iliš mašlat, šarrat nišī"}
+      - {motif: author-names-himself-in-hymn, refs: ["Ludlul SB III:44"], note: "ana šubši-mešrê-šakkan ubilla ṣimda: the sufferer's name"}
+      - {motif: attendants-flee-in-fear, refs: ["Ludlul SB III:19-20"], note: "iqūlū-ma ul īpulanni mamman, šūt išmûninni ana ripitti iṣṣabtū"}
+      - {motif: healing-sign-revealed-to-people, refs: ["Ludlul SB III:47-50"], note: "ina munatti išpura šipirta, ittuš damqata nišīya uktallim ... murṣī arhiš iggamir"}
+    hints:
+      - "Compare Job 4:12-16 and 33:14-18 (God speaks in dreams; a spirit passes by), Gen 41:32 (dream repeated as confirmation), Dan 10:5-11 (a man clothed in linen, the seer's strength fails), Gen 15:1 and Dan 10:12,19 (Fear not), Isa 6:6-7 (purification by an envoy)."
+      - "Compare Num 19:18 and Ps 51:9 (purge me with hyssop) and 2Kgs 5:10-14 (healing by washing at a prophet's word), Job 33:23-26 (the interceding angel announces recovery)."
+      - "Compare Q 12:4-6 and 37:102 (dreams as revelation) and Q 2:260."
+  - id: ane-ludlul-sb-9-marduk-relents
+    tradition: ane-akkadian
+    title: "Marduk's heart is quieted; he disregards the sin and lets the wind carry away the faults (Ludlul III 51-67)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB III:51-67"]
+    tags:
+      - {motif: god-relents-and-disregards-sin, refs: ["Ludlul SB III:51-61"], note: "ultu ša bēlīya libbašu inūhu ... [ilq]û unnīnīya ... imēš arnī ... [u]kkiš ennettī ... egâtīya ušābil šāra"}
+      - {motif: sins-removed-as-east-from-west, refs: ["Ludlul SB III:61"], note: "egâtīya ušābil šāra: 'he made the wind bear away my derelictions'"}
+      - {motif: god-heals-curse-released, refs: ["Ludlul SB III:62"], note: "[mā]mītī arratī; context broken"}
+    hints:
+      - "Compare Ps 103:3,10-12, Mic 7:18-19 (casts sins into the depths of the sea), Isa 38:17 (cast my sins behind your back), Ps 30:6, Lev 16:21-22 (sins borne away to the wilderness)."
+      - "Lines 63-67 are broken."
+  - id: ane-ludlul-sb-10-healing-limb-by-limb
+    tradition: ane-akkadian
+    title: "The demons driven back; eyes, ears, nose, lips, mouth, teeth, tongue, throat, lungs, bowels, neck and nails healed (Ludlul III 68-120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB III:68-120"]
+    tags:
+      - {motif: demons-sent-back-to-their-origins, refs: ["Ludlul SB III:69-79"], note: "[uda]ppir imhulla ana išid šamê ... šūla lemna ... utukka ... utīr ēkurriš, iskip lamaštu šadâ uštēli, agê tâmati šuruppâ ušamhir"}
+      - {motif: illness-leaves-like-wind, refs: ["Ludlul SB III:76-81"], note: "kīma qutri immalû šamê uštābil ... ušatbi imbariš ... issuh kīma nalši mūši"}
+      - {motif: healing-described-body-part-by-part, refs: ["Ludlul SB III:80-107", "Ludlul SB III:a+1-a+2", "Ludlul SB III:118"], note: "tēʾātu īnāya ... unammir niṭlī; uznāya ... iptete nešmâya; appī; šaptāya; pīya; šinnāya; lišānī; urʾudī; luʾī; ... kišādī ... amališ izqup; uṣappira ṣuprāya"}
+      - {motif: deaf-hear-blind-see, refs: ["Ludlul SB III:82-85"], note: "eyes wrapped in the shroud of death brightened, stopped ears opened"}
+      - {motif: lame-leap-mute-sing, refs: ["Ludlul SB III:94-97"], note: "lišānī ša innebṭu ... ihdad atmûʾa; ušṭīb-ma iratī ša malīliš uhtellûša"}
+      - {motif: flesh-restored-like-childs, refs: ["Ludlul SB III:b+1"], note: "ana gāmer abāri umāšī umaššil: physique like a champion's"}
+      - {motif: sufferers-goods-and-office-given-to-others, refs: ["Ludlul SB III:107"], note: "restored: [My possessions] which had been parceled out, my companions [recovered]; mostly broken"}
+      - {motif: outcast-with-overgrown-nails, refs: ["Ludlul SB III:118"], note: "kīma nakimti šūṣî uṣappira ṣuprāya"}
+      - {motif: neck-planted-upright-like-tree, refs: ["Ludlul SB III:a+1-a+2"], note: "upattin kinnê amališ izqup"}
+    hints:
+      - "Compare Isa 35:5-6 (blind see, deaf hear, mute tongue sings), Job 33:25 (his flesh fresher than a child's), Job 42:10-12 (fortunes restored), 2Kgs 5:14 (flesh like a little child's), Mark 7:32-35."
+      - "Compare Dan 4:30 and 4:33 (Nebuchadnezzar's nails like birds' claws, then restored)."
+      - "Lines 108-110 and 113-117 are traces; 119-120 a word each."
+  - id: ane-ludlul-sb-11-restoration-and-warning
+    tradition: ane-akkadian
+    title: "Tablet IV fragments: restored body, darkness turned to light, the river ordeal, the slave mark removed, walking Kunush-kadru Street redeemed; let the impious learn from me (Ludlul IV)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB IV"]
+    tags:
+      - {motif: healing-described-body-part-by-part, refs: ["Ludlul SB IV:a+3-a+9", "Ludlul SB IV:a+20-a+30"], note: "birkāya ša uktassâ būṣiš ubbuṭā ... šēpāya ... imšuš mammê ... dūtī ummultu ittapardi"}
+      - {motif: sloughs-off-like-snake, refs: ["Ludlul SB IV:a+10"], note: "[i]hlup kīma ṣe[rri]; context broken"}
+      - {motif: darkness-turned-to-light, refs: ["Ludlul SB IV:a+16-a+17"], note: "[e]kle[t]u iškun[a a]na [n]a[mirti], [u]špardi eṭûti; no translation; read from glosses"}
+      - {motif: river-ordeal-clears-the-just, refs: ["Ludlul SB IV:b+1"], note: "ina itê nāri ašar dīn nišī ibberru"}
+      - {motif: river-ordeal-at-esagil, refs: ["Ludlul SB IV:b+1"]}
+      - {motif: slave-mark-removed, refs: ["Ludlul SB IV:c+10"], note: "muttata ammašid abbutta appašir"}
+      - {motif: walks-free-in-redemption, refs: ["Ludlul SB IV:c+16"], note: "[kunuš-k]adru ina pišerti abāʾ"}
+      - {motif: warning-to-impious-learn-from-me, refs: ["Ludlul SB IV:d+4-d+9"], note: "lā pālih ilīšu ... ša ana esagil īgû ina qātīya līmur ... marušta epšēku"}
+      - {motif: saved-sufferer-will-teach-people, refs: ["Ludlul SB IV:d+6"]}
+    hints:
+      - "Compare Ps 51:15 (I will teach transgressors your ways), Ps 34:12 (come, children, I will teach you the fear of YHWH), Ps 32:8-9; Num 5:11-31 (ordeal)."
+      - "Compare Exod 21:6 and Deut 15:17 (slave mark, the bored ear) and Isa 61:1 and 52:2 (loose the bonds from your neck); Ps 18:29 and Isa 9:1 (darkness to light)."
+      - "Most of Tablet IV is fragmentary: a+1-2, a+11-15, a+22-23, c+1-3, c+11-15, c+17, d+10 are traces or broken."
+  - id: ane-ludlul-sb-12-my-lord-rescued-me
+    tradition: ane-akkadian
+    title: "'My lord granted me relief': taken by the hand, the lion muzzled, the gravedigger's shovel wrested, pulled back from the river of death; 'had it not been for the lord' (Ludlul V 1-36)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB V:1-36"]
+    tags:
+      - {motif: god-wounds-and-heals, refs: ["Ludlul SB V:1-4"], note: "[bēl]ī upaššihanni, [bēl]ī uṣammidanni, [bēl]ī upaṭṭiranni, [bēl]ī uballiṭanni: the lord bandaged me"}
+      - {motif: pulled-back-from-river-of-death, refs: ["Ludlul SB V:5-8"], note: "[ina hašt]i īkimanni ... [ina karaš]ê idkânni, ina hubur išdudanni"}
+      - {motif: raised-from-sheol-healed, refs: ["Ludlul SB V:5-8"]}
+      - {motif: lifted-from-miry-pit-onto-rock, refs: ["Ludlul SB V:5"], note: "[ina hašt]i: 'pit' restored"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["Ludlul SB V:9-11"], note: "ina dannati qātī iṣbat, imniš imhaṣanni, šumēla ušaqqâ rēša"}
+      - {motif: god-lifts-the-head, refs: ["Ludlul SB V:11"]}
+      - {motif: god-disarms-attackers-and-gravediggers, refs: ["Ludlul SB V:12-22"], note: "imhaṣ ritti māhiṣīya, ušaddi kakkašu ... ina pī gerri ākilīya iddi napsama ... īkim aspašu ... ina qāt qēbirīya marra īkim, ina qāt bakkîya ušaddi ṣurra"}
+      - {motif: angel-shuts-lions-mouths, refs: ["Ludlul SB V:14-15"], note: "Marduk puts a muzzle (napsamu) on the mouth of the lion (gerru? 'devourer') about to eat him"}
+      - {motif: mourning-turned-to-joy, refs: ["Ludlul SB V:19-22"], note: "keening woman silenced; pī hādîya ūʾa umalli: the gloater's mouth filled with 'Alas!'"}
+      - {motif: had-it-not-been-for-the-lord, refs: ["Ludlul SB V:30-36"], note: "lūman lā bēlu umašširanni ... ana erkalli aṭṭarrad anni, eṭemmūta attalak anni ... ana šīr asakki ammannu"}
+    hints:
+      - "Compare Ps 124:1-5 ('Had it not been YHWH who was for us ... then the waters would have swept us away') and Ps 94:17 (unless YHWH had been my help, my soul would soon have dwelt in silence), Ps 119:92."
+      - "Compare Ps 30:2-4,12, 40:3, 86:13, 103:4 (who redeems your life from the Pit), Jonah 2:7, Ps 3:4 (lifter of my head), Ps 73:23 (you hold my right hand), Ps 22:21-22 and Dan 6:23 (rescued from the lion's mouth), Ps 35:26 and 41:12 (my enemy does not triumph over me)."
+      - "Compare Q 21:83-84 (Ayyub cried out and God removed his harm) and Q 38:41-44 (Ayyub told to strike with his foot: a spring to wash and drink)."
+  - id: ane-ludlul-sb-13-through-the-gates-of-esagil
+    tradition: ane-akkadian
+    title: "Purified, the redeemed man passes the named gates of Esagila: Gate of Life, Gate of Release from Guilt, Gate of Pure Water ...; kisses Zarpanitu's foot; sacrifices and feasts (Ludlul V 37-68)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB V:37-68"]
+    tags:
+      - {motif: purification-washing-after-recovery, refs: ["Ludlul SB V:37-38"], note: "ina mesê malê ūtallil, rimku tēdištu"}
+      - {motif: procession-through-named-temple-gates, refs: ["Ludlul SB V:41-53"], note: "ka-hegal hegallu ... ka-namtila balāṭa ammahir ... ka-utu-eʾa itti balṭūti ammani ... ka-namtaga-duha eʾiltī ippaṭir ... ka-a-sikila mê tēlilti assalih"}
+      - {motif: enter-gates-with-thanksgiving, refs: ["Ludlul SB V:41-53"]}
+      - {motif: returned-from-the-grave, refs: ["Ludlul SB V:41"], note: "anāku ša ištu qabri atūra"}
+      - {motif: kissed-foot-of-goddess, refs: ["Ludlul SB V:53"], note: "ina ka-hili-sud šēp zarpānīti annašiq"}
+      - {motif: vow-of-thanksgiving-paid, refs: ["Ludlul SB V:54-63"], note: "qutrinnī ṭābūti ... upalliq lê marî uṭṭabbih šapṭī, attanaqqi kurunna duššupa karāna ella"}
+      - {motif: thanksgiving-sacrifice-and-feast-for-city, refs: ["Ludlul SB V:54-68"], note: "bīt qibītuššu īpušu ina qerēti nišī"}
+      - {motif: offerings-to-temple-doors-and-bolts, refs: ["Ludlul SB V:59-63"], note: "šēdu lamassu angubbû libitti esagil ... [sippī ši]gara mēdela dalāti"}
+    hints:
+      - "Compare Ps 118:19-21 (open to me the gates of righteousness ... this is the gate of YHWH), Ps 100:4 and 24:7-10, Ps 116:12-19 and 66:13-15 (I will pay my vows, offer fatlings), Ps 22:26-27 and Lev 7:11-15 (thanksgiving offering eaten as a feast)."
+      - "Compare Ps 2:12 (kiss the son / kiss his feet) and Luke 7:38."
+      - "Compare 2Kgs 20:5,8 (on the third day you shall go up to the house of YHWH) and Isa 38:20-22."
+  - id: ane-ludlul-sb-14-babylon-praises-marduk
+    tradition: ane-akkadian
+    title: "The Babylonians see how Marduk revives: 'Who would have said he would see his sun?'; all who live, praise Marduk; blessing on the sufferer and the king (Ludlul V 69-120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ludlul SB V:69-120"]
+    tags:
+      - {motif: onlookers-praise-god-who-revives, refs: ["Ludlul SB V:69-76"], note: "īmurū-ma mārū bābili kī uballaṭu bēlu ... mannum-ma iqbi amār šamšīšu ... ša lā marduk mannu mītūtašu uballiṭ ... marduk ina qabri bulluṭa ileʾʾe"}
+      - {motif: god-kills-and-makes-alive, refs: ["Ludlul SB V:73-76"]}
+      - {motif: universal-call-to-praise-god, refs: ["Ludlul SB V:77-90"], note: "ēma šaknat erṣetu ritpāšū šamāmū, šamšu uštappâ ... mû illakū iziqqu šāru ... apâtu mala bašâ marduk dullā"}
+      - {motif: humans-pinched-from-clay-by-goddess, refs: ["Ludlul SB V:80"], note: "šūt aruru ikruṣu keressin"}
+      - {motif: pinched-off-from-clay, refs: ["Ludlul SB V:80"], note: "karāṣu = Hebrew qāraṣ, Job 33:6 qoraṣtî"}
+      - {motif: who-has-seen-suffering-be-released, refs: ["Ludlul SB V:113-118"], note: "[ša maru]šta īmuru lippaṭir aranšu ... mānahtašu lištapših"}
+      - {motif: author-names-himself-in-hymn, refs: ["Ludlul SB V:111", "Ludlul SB V:119"], note: "šubši-mešrê-šakkan; ina zamāri ša šubši-mešrê-šakkan"}
+      - {motif: king-blessed-with-long-life-and-roots, refs: ["Ludlul SB V:95-99"], note: "[...] ūmī palêšu ... [lišt]ēlipū šuršūšu ... liṣarriš papalla; nazimaruttaš: may his roots spread and branches sprout (king Nazi-Maruttash)"}
+      - {motif: praising-god-is-sweet, refs: ["Ludlul SB V:120"], note: "[...] tanittaka ṭābat"}
+      - {motif: hope-that-sun-will-shine-again, refs: ["Ludlul SB V:71"], note: "fulfilled: amār šamšīšu"}
+    hints:
+      - "Compare Ps 150:6 (let everything that has breath praise YHWH), Ps 148, Ps 117, Ps 40:4 (many will see and fear), Ps 107:1-22 (let the redeemed say so), Job 42:11 (kin come to console after the restoration)."
+      - "Compare Job 33:6 (I too was pinched from clay) and Gen 2:7; Q 15:26 and 55:14 (man from clay)."
+      - "Compare Ps 1:3 and 92:13-15 (planted, flourishing), Ps 72 (prayer for the king), Ps 147:1 (it is good and pleasant to praise)."

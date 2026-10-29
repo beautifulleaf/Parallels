@@ -103,6 +103,28 @@ new_motifs:
   hero-throws-haunch-at-goddess: {label: "The companion tears off the bull's haunch and hurls it at the goddess, threatening her with the same", cluster: goddess}
   goddess-institutes-mourning-with-harlots: {label: "The goddess assembles the courtesans and harlots and institutes mourning over the bull's haunch", cluster: cult}
   victory-song-who-is-finest: {label: "Women of the palace answer in song: 'Who is finest among men? Gilgameš is finest!'", cluster: kingship}
+  refusal-of-seduction: {label: "A man refuses the sexual advances of a powerful woman and suffers her revenge", cluster: sexuality}
+  father-god-rebukes-goddess: {label: "The father god rebukes his complaining daughter: 'was it not you who provoked him?'", cluster: goddess}
+  goddess-curses-from-city-wall: {label: "The goddess climbs the city wall, stamps and wails a curse on the hero who killed her beast", cluster: goddess}
+  gods-council-decrees-death-of-hero: {label: "The gods take counsel and decree that one of the two heroes must die for killing the guardian and the Bull of Heaven", cluster: death}
+  dying-man-addresses-door: {label: "The dying hero speaks to the temple door he made, regretting his gift and threatening to tear it down", cluster: death}
+  grief-left-to-the-survivor: {label: "Saying: the dead leave grief and sorrow to the one who survives", cluster: death}
+  mourner-promises-golden-statue: {label: "The mourner promises to make a statue of his dead friend in gold without limit", cluster: death}
+  dying-man-curses-those-who-brought-him-to-civilisation: {label: "On his deathbed the hero curses the hunter and the harlot who drew him out of the wild", cluster: death}
+  curse-on-harlot-catalogue: {label: "A detailed curse: no household, the road-junction her seat, ruins her bed, drunkards strike her cheek, thorns flay her feet", cluster: curse}
+  god-rebukes-ingratitude-recalls-benefits: {label: "The god rebukes the curser by recalling the benefits he received (bread fit for a god, beer, clothing, a friend)", cluster: revelation}
+  promise-of-honoured-burial-and-mourning: {label: "The god promises the dying man an honoured bed, a seat at the left, princes kissing his feet and a city weeping for him", cluster: death}
+  mourner-wears-lion-skin-roams-wild: {label: "The bereaved friend lets his hair grow matted, dons a lion's skin and roams the wild", cluster: death}
+  curse-retracted-and-turned-to-blessing: {label: "The curser's mouth that cursed returns to bless: noblemen will love her and give her gold, a wife of seven will be deserted for her", cluster: curse}
+  dream-of-death-demon-with-bird-face: {label: "In a dream a grim man with the face of the Anzû bird, lion paws and eagle talons seizes the dreamer", cluster: underworld}
+  dead-turned-into-bird-led-below: {label: "The dying man is struck and turned into a bird (dove), his arms bound like wings, and led to the netherworld", cluster: underworld}
+  dead-eat-dust-and-clay-in-darkness: {label: "In the House of Dust the dead eat dust and clay, are clothed in feathers like birds and see no light", cluster: underworld}
+  crowns-stowed-in-netherworld: {label: "In the netherworld the crowns of former kings lie heaped away while the kings sit as servants", cluster: underworld}
+  netherworld-scribe-reads-tablet: {label: "Before the queen of the netherworld her scribe crouches, reading a tablet aloud; she asks who brought the new arrival", cluster: underworld}
+  hero-sick-twelve-days: {label: "The dying hero lies sick day after day, counted from the first to the twelfth", cluster: death}
+  lament-dying-not-in-battle: {label: "The dying hero laments that he dies on a sickbed, not gloriously in battle where one makes a name", cluster: death}
+  death-before-ones-time: {label: "People go to their fate before their time (die prematurely)", cluster: death}
+  house-god-leaves-by-window: {label: "Curse: may the god of the house he enters leave by the window", cluster: curse}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -649,7 +671,7 @@ units:
     tags:
       - {motif: bull-of-heaven-ravages-land, refs: ["Gilg SB VI:115-118"], note: "ūtabbil qišta appara u qanâ, urid ana nāri sebe ammat nāru umdaṭṭi"}
       - {motif: bulls-snort-opens-pits, refs: ["Gilg SB VI:119-124"], note: "ina nipšīšu ša alê šuttatu ippetē-ma ištēn mē eṭlūtu ša uruk imtaqqutū; then 200, then (variant) 300"}
-      - {motif: earth-opens-and-swallows, refs: ["Gilg SB VI:119-124"], note: "pits open in the ground and swallow the young men"}
+      - {motif: earth-swallows-rebels, refs: ["Gilg SB VI:119-124"], note: "pits open in the ground and swallow the young men"}
       - {motif: heroes-slay-bull-of-heaven, refs: ["Gilg SB VI:125-147"], note: "iṣbassū-ma ina kubur zibbatīšu ... ina birīt tikki qarnī u naplaki pataršu ummid"}
       - {motif: hero-captures-wild-bull, refs: ["Gilg SB VI:125"], note: "alâ iṣṣabat ina qarnīšu"}
       - {motif: victors-offer-heart-to-sun-god, refs: ["Gilg SB VI:148-149"], note: "libbašu iššûnim-ma ana pān šamaš ištaknū ... uškennū"}
@@ -676,3 +698,125 @@ units:
     hints:
       - "Women singing the victor's praise: 1Sam 18:6-7; Exod 15:20-21; Judg 5."
       - "Jezebel at the window (2Kgs 9:30-33) as the goddess on the wall; the thigh/haunch (imittu) compare Exod 29:22 and Lev 7:32 (the right thigh)."
+
+  - id: ane-gilg-sb-vii-gods-decree-and-door
+    tradition: ane-akkadian
+    title: "The gods' counsel; Enkidu curses the cedar door (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:1-63"]
+    tags:
+      - {motif: gods-council-decrees-death-of-hero, refs: ["Gilg SB VII:1"], note: "ibrī aššu mīnâ-ma imtallikū ilū rabûtu; the dream of the council itself (VII:2-26) is lost"}
+      - {motif: divine-council, refs: ["Gilg SB VII:1"]}
+      - {motif: dying-man-addresses-door, refs: ["Gilg SB VII:37-63"], note: "itti dalti ītammâ: dalat halbi ... lū īde dalat kī annû gimilki ... lū ašši pāša lū akkis kâši"}
+      - {motif: heroes-fell-sacred-cedars-for-temple-door, refs: ["Gilg SB VII:41-46"], note: "šeššet nindan mēlûki šina nindan rupuški ... ina nippuri ... artetīka"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["Gilg SB VII:53"], note: "ina bābīšu lū ušziz anzâ (and bull colossus, restored)"}
+      - {motif: curse-on-who-removes-kings-name, refs: ["Gilg SB VII:61-63"], note: "lū šarru ša illâ arkīya lizērki ... šumī linakkir-ma šumšu liškun"}
+    hints:
+      - "Cherubim and guardian figures at temple doors: 1Kgs 6:23-35, Ezek 41:18-25."
+      - "A later king erasing his predecessor's name: compare the curse formulae on monuments and 2Kgs 23:15-18."
+
+  - id: ane-gilg-sb-vii-gilgamesh-grieves
+    tradition: ane-akkadian
+    title: "Gilgameš weeps, vows a golden statue; Enlil's word cannot be rescinded (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:64-89"]
+    tags:
+      - {motif: ornaments-removed-in-mourning, refs: ["Gilg SB VII:64"], note: "ittasah [...] iddi: tore off (garments) and cast (finery) away; partly restored"}
+      - {motif: grief-left-to-the-survivor, refs: ["Gilg SB VII:75-76"], note: "ana balṭi īzib nasāsa, [mīt]u ana balṭi nissata īzib"}
+      - {motif: individual-lament, refs: ["Gilg SB VII:77-81"], note: "luṣallī-ma lusappâ ilī rabûti ... lukrub ana ānu"}
+      - {motif: mourner-promises-golden-statue, refs: ["Gilg SB VII:82"], note: "[hurā]ṣa lā mīni ṣalamka lūpuš"}
+      - {motif: payment-for-a-life, refs: ["Gilg SB VII:84"], note: "kaspa lā tanaddin hurāṣa lā ...: no silver or gold can avert the decree"}
+      - {motif: immutable-divine-word, refs: ["Gilg SB VII:85-87"], note: "ša iqbû ul itūr ul ipšiṭ, ša dešša iddû ul itūr ul ipšiṭ"}
+      - {motif: death-before-ones-time, refs: ["Gilg SB VII:88-89"], note: "ina lā šīmātīšina nišū illakā"}
+    hints:
+      - "No ransom can redeem a life from death: Ps 49:8-10; Q 3:91 and 5:36 (the earth's fill of gold would not be accepted as ransom)."
+      - "God's word does not return: Isa 45:23, 55:11; Num 23:19; Esth 8:8 (the irrevocable written decree)."
+
+  - id: ane-gilg-sb-vii-enkidu-curses
+    tradition: ane-akkadian
+    title: "Enkidu curses the hunter and Šamḫat (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:90-131"]
+    tags:
+      - {motif: weeping-before-sun-god, refs: ["Gilg SB VII:90-93"], note: "mimmû šēru ina namāri išši rēšīšu enkīdu ana pān šamaš unabbi"}
+      - {motif: dying-man-curses-those-who-brought-him-to-civilisation, refs: ["Gilg SB VII:94-131"]}
+      - {motif: curse-on-harlot-catalogue, refs: ["Gilg SB VII:102-123"], note: "šīmat lā iqattû ana dūr dār; išpallurtu ša harrāni lū mūšabūki; ṣilli dūri lū manzāzūki; baltu u ašāgu liqallipū šēpīki; lirbiṣ qadû"}
+      - {motif: blame-shifting, refs: ["Gilg SB VII:130-131"], note: "aššu yâši ella tušamṭînni ina ṣērīya: because you weakened me who was pure in the wild"}
+      - {motif: brother-to-jackals-companion-of-ostriches, refs: ["Gilg SB VII:117", "Gilg SB VII:122"], note: "hurbātu lū maṣallūki (restored); [ina bītki] lirbiṣ qadû: may the owl roost"}
+      - {motif: house-god-leaves-by-window, refs: ["Gilg SB VII:99"], note: "[... aš]ar irrubu līṣi apāniš (partly restored)"}
+    hints:
+      - "Cursing the agent of one's fall from innocence: Gen 3:12-13 (the woman whom you gave me); Job 3:1-10 (cursing the day of birth); Jer 20:14-15 (cursing the man who brought news of his birth)."
+      - "The harlot by the roadside and the ruins haunted by owls: Gen 38:14; Isa 13:21-22, 34:11-15; Zeph 2:14."
+
+  - id: ane-gilg-sb-vii-shamash-rebukes
+    tradition: ane-akkadian
+    title: "Šamaš rebukes Enkidu; Enkidu turns his curse into a blessing (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:132-161"]
+    tags:
+      - {motif: voice-from-heaven, refs: ["Gilg SB VII:132-133"], note: "ultu ullânum-ma tukku ultu šamê iltanassâššu"}
+      - {motif: god-rebukes-ingratitude-recalls-benefits, refs: ["Gilg SB VII:134-138"], note: "ša ušākilūka akla simat ilūti, kurunna išqûka simat šarrūti, ulabbišūka lubša rabâ"}
+      - {motif: promise-of-honoured-burial-and-mourning, refs: ["Gilg SB VII:139-145"], note: "ina mayyāl taknî ušnālkā-ma, ušeššebka šubta nēhta šubat šumēli, malkū ša qaqqari unaššaqū šēpīka"}
+      - {motif: mourner-wears-lion-skin-roams-wild, refs: ["Gilg SB VII:146-147"], note: "ušaššâ malâ pagaršu, iltabbiš maški labbim-ma irappud ṣēra"}
+      - {motif: hairy-mantle-of-prophet, refs: ["Gilg SB VII:146-147"], note: "loose: the skin garment and matted hair of the man of the wild"}
+      - {motif: curse-retracted-and-turned-to-blessing, refs: ["Gilg SB VII:149-161"], note: "pīya ša izzurūki litūr likrubki ... linnezib ummi sebetti hīrtu"}
+      - {motif: curse-turned-to-blessing, refs: ["Gilg SB VII:152"]}
+    hints:
+      - "God recalls his benefits to the ungrateful: Deut 8:2-16, Hos 2:10 (11:1-4); Q 55 (fa-bi-ayyi ālāʾi rabbikumā)."
+      - "Curse turned into blessing: Num 22-24, Deut 23:6, Neh 13:2; Q 2:152 (gratitude)."
+      - "Mourner in skins in the wilderness: Elijah's hairy mantle (2Kgs 1:8), John the Baptist in camel hair (Mark 1:6)."
+
+  - id: ane-gilg-sb-vii-dream-of-netherworld
+    tradition: ane-akkadian
+    title: "Enkidu's dream of the House of Dust (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:162-226"]
+    tags:
+      - {motif: dream-heaven-cries-earth-rumbles-death-rains, refs: ["Gilg SB VII:166-167"], note: "ilsû šamû qaqqaru īpul, ina birīšunu azzaz anāku"}
+      - {motif: dream-of-death-demon-with-bird-face, refs: ["Gilg SB VII:168-175"], note: "ana ša anzî pānūšu mašlū; ritti nēši rittāšu, ṣupur arî ṣupurāšu ... kīma rīmi danni irhiṣ eliya"}
+      - {motif: dead-turned-into-bird-led-below, refs: ["Gilg SB VII:182-184"], note: "utterranni kīma summi ... iksī-ma kīma iṣṣūri idīya; ireddânni ana bīt eklēti šubat irkalla"}
+      - {motif: underworld-land-of-no-return, refs: ["Gilg SB VII:184-187"], note: "ana bīti ša ēribūšu lā āṣû, ana harrāni ša alaktaša lā tayyārat"}
+      - {motif: dead-eat-dust-and-clay-in-darkness, refs: ["Gilg SB VII:187-192"], note: "ašar epru bubūssina-ma akalšina ṭiṭṭu, labšā-ma kīma iṣṣūri ṣubāt kappī, nūra lā immarā"}
+      - {motif: crowns-stowed-in-netherworld, refs: ["Gilg SB VII:193-197"], note: "kummusū agû; ašbū šarrū šūt agê ša ultu ūmē pāna ibēlū māta"}
+      - {motif: dead-kings-and-priests-in-netherworld, refs: ["Gilg SB VII:195-202"], note: "enū u lagārū, išippū u lumahhū, gudapsû; ašib etana ašib šakkan"}
+      - {motif: sheol-rouses-dead-kings-to-greet, refs: ["Gilg SB VII:195-207"], note: "the former kings sit in the House of Dust and the queen asks who has brought the newcomer"}
+      - {motif: netherworld-scribe-reads-tablet, refs: ["Gilg SB VII:203-208"], note: "bēlet ṣēri ṭupšarrat erṣeti maharša kamsat, ṭuppa našât-ma iltanassi; mannum-ma ilqâ annâ amēla"}
+      - {motif: scribe-goddess-of-netherworld, refs: ["Gilg SB VII:204"]}
+      - {motif: dust-to-dust, refs: ["Gilg SB VII:188", "Gilg SB VII:191-193"], note: "bīt epri: the House of Dust"}
+    hints:
+      - "Sheol, land of darkness and dust, of no return: Job 7:9-10, 10:21-22, 17:16; Ps 88:11-13; Isa 14:9-11 (the dead kings rise from their thrones to greet the newcomer); Ezek 32:21-32."
+      - "Books read out before a heavenly or netherworld tribunal: Dan 7:10, Mal 3:16, Ps 139:16; Q 17:13-14 and 69:19-25 (the book of deeds handed over)."
+      - "Souls as birds: compare the ba-bird and Q 2:260 (the four birds)."
+
+  - id: ane-gilg-sb-vii-enkidu-sickens
+    tradition: ane-akkadian
+    title: "'Remember me'; Enkidu lies sick twelve days, lamenting he does not die in battle (Gilgameš SB VII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VII:249-298"]
+    tags:
+      - {motif: remember-me-for-good-formula, refs: ["Gilg SB VII:251-252"], note: "hussanni ibrī mimmû attallaku ē tamši"}
+      - {motif: hero-sick-twelve-days, refs: ["Gilg SB VII:255-260"], note: "ištēn ūma ... šanâ ... šalša u rebâ ... hanša šešša u sebâ samānâ tišâ u ešrâ ... ištēsšerâ u šinšerâ ūma"}
+      - {motif: lament-dying-not-in-battle, refs: ["Gilg SB VII:263-267"], note: "izzēranni ...; kī ša ina qereb qabli imqutu ...; ibrī ša ina tāhāzi imqutu"}
+      - {motif: death-not-by-demon-or-battle-but-netherworld, refs: ["Gilg SB VII:264-267"]}
+      - {motif: divine-kind-eye-turned-away, refs: ["Gilg SB VII:263"], note: "izzēranni: [my god?] has hated/spurned me (subject restored)"}
+    hints:
+      - "'Remember me' : Gen 40:14 (Joseph to the cupbearer); Judg 16:28; Luke 23:42."
+      - "Dying of illness rather than in battle: 1Sam 26:10 and 31:4 (Saul's death); Hezekiah's sickness unto death, Isa 38:1-3."

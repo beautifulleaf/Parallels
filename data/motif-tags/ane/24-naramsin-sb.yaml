@@ -18,6 +18,18 @@ new_motifs:
   doomed-city-burned-and-dogs-prowl: {label: "Prophecy that a doomed city will be burned and dogs will prowl round it", cluster: prophecy}
   earth-and-date-palm-reduce-yield: {label: "Curse or prophecy: the earth will diminish its harvest and the date palm its yield", cluster: prophecy}
   gods-carry-off-enemy-not-king: {label: "The gods themselves remove the enemy as tribute, while the king lays no hand on them", cluster: war}
+  underworld-queen-cannot-ascend-to-gods-feast: {label: "The gods hold a banquet, but since the underworld queen cannot come up and they cannot go down, a messenger is sent to fetch her portion", cluster: underworld}
+  god-fails-to-rise-before-underworld-envoy: {label: "One god alone does not stand or kneel before the underworld queen's envoy, an insult for which she demands him to be sent down to die", cluster: underworld}
+  god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld: {label: "A god going down to the underworld is warned not to sit on the chair offered, eat its bread or meat, drink its beer, have his feet washed, or desire its queen when she bathes", cluster: underworld}
+  hero-posts-demons-at-underworld-gates: {label: "The god goes down with a band of fourteen disease-demons and posts one at each gate of the underworld", cluster: underworld}
+  god-seizes-underworld-queen-by-hair: {label: "The god seizes the underworld queen by the hair and drags her from her throne to the ground to cut off her head", cluster: underworld}
+  underworld-queen-offers-marriage-and-kingship: {label: "The underworld queen begs for her life and offers herself as wife, with kingship over the wide earth and the tablet of wisdom", cluster: underworld}
+  lovers-in-bed-six-days-then-god-slips-away: {label: "God and goddess lie together for six days; on the seventh the god slips away back up to heaven", cluster: sexuality}
+  jilted-goddess-weeps-for-departed-lover: {label: "The forsaken goddess falls from her throne weeping that her lover has gone before she was sated, she who as a girl never knew the play of maidens", cluster: sexuality}
+  defiled-goddess-cannot-render-judgment: {label: "The goddess declares herself made impure (by intercourse) and unable to give judgment until her lover is sent back", cluster: underworld}
+  god-disguised-so-envoy-cannot-find-him: {label: "A wise god disguises the wanted god (bald, squinting, lame) so that the searching envoy passes him over in the divine assembly", cluster: underworld}
+  god-becomes-consort-of-underworld-queen-forever: {label: "The high god decrees that the god shall dwell with the underworld queen forever as her husband", cluster: underworld}
+  ea-gives-throne-to-take-down: {label: "The wise god gives the descending god a chair (throne) to carry as a gift for the underworld queen", cluster: underworld}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -120,3 +132,57 @@ units:
       - "Compare Josh 1:6-9 ('be strong and courageous, do not fear or be dismayed'), and Hezekiah's siege preparations, 2 Chr 32:3-5 and Isa 22:9-11."
       - "Compare Jer 27:11-12 and 38:17 (submit to the king of Babylon and live)."
       - "Compare Deut 17:18-19 (the king reads the written law all his life)."
+  - id: ane-nergeresh-mb-1-banquet-and-insult
+    tradition: ane-akkadian
+    title: "The gods' banquet, Namtar's visit and Nergal's slight (Nergal and Ereškigal, Amarna version)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Babylonian (Amarna)
+    read: ["NergEresh MB –:1-17", "NergEresh MB –:a+1-a+29"]
+    tags:
+      - {motif: underworld-queen-cannot-ascend-to-gods-feast, refs: ["NergEresh MB –:1-4"], note: "nīnu ul nurradakki u attī ul tellînnâši, šuprīm-ma lilqû kurummatki"}
+      - {motif: god-fails-to-rise-before-underworld-envoy, refs: ["NergEresh MB –:5-13", "NergEresh MB –:a+4-a+15"], note: "ila ša ina pānīka lā itbû; Namtar counts the gods: ilu arkû qubbuh 'the god at the back is bald' (Nergal disguised), yānu šū"}
+      - {motif: god-disguised-so-envoy-cannot-find-him, refs: ["NergEresh MB –:a+10-a+15"], note: "the last god is bald (gubbuhu), and Namtar says the offender is not there"}
+      - {motif: hero-posts-demons-at-underworld-gates, refs: ["NergEresh MB –:a+22-a+29"], note: "Nergal weeps that she will not let him live; Ea: lā palhāta anaddinakku sebet u sebet, names muttabriqu, šarabdû, rābiṣu, ṭirid, idiptu, bennu, ṣīdānu, miqit, bēl-ūri, ummu, lību, hurbāšu"}
+      - {motif: do-not-fear-formula, refs: ["NergEresh MB –:a+24"], note: "lā pa[lhāta] (restored)"}
+      - {motif: ea-gives-throne-to-take-down, refs: ["NergEresh MB –:a+19-a+21"], note: "[k]ussâ iltêt [išk]un ana qātī nergal, liqe ana ereškigal"}
+    hints:
+      - "Compare the slight to a messenger and its punishment, 2 Sam 10:1-5."
+  - id: ane-nergeresh-mb-2-descent-and-marriage
+    tradition: ane-akkadian
+    title: "Nergal storms the fourteen gates, seizes Ereškigal and is offered marriage (Nergal and Ereškigal, Amarna version)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Babylonian (Amarna)
+    read: ["NergEresh MB –:a+30-a+44", "NergEresh MB –:b+1-b+26"]
+    tags:
+      - {motif: deity-demands-gatekeeper-open, refs: ["NergEresh MB –:a+30-a+33"], note: "atû ... [pit]â bābka ... anāku lūrub, ana mahar bēltīka ereškigal anāku šaprāku"}
+      - {motif: god-fails-to-rise-before-underworld-envoy, refs: ["NergEresh MB –:a+37-a+40"], note: "Namtar recognises him: ilu ša ... ina pānīya lā itbû, šūriba ... ludūkšu"}
+      - {motif: hero-posts-demons-at-underworld-gates, refs: ["NergEresh MB –:b+2-b+11"], note: "ina šalši muttabriqa ... ina erbēšerî bābi iltakan hurbāša: fourteen gates, one demon each"}
+      - {motif: god-seizes-underworld-queen-by-hair, refs: ["NergEresh MB –:b+14-b+16"], note: "iṣṣabat ereškigal ina šārtīša uqeddidaššī-ma ištu kussî ana qaqqari, qaqqassa ana nakāsi"}
+      - {motif: underworld-queen-offers-marriage-and-kingship, refs: ["NergEresh MB –:b+17-b+24"], note: "lā tadukkanni ahūʾa ... attā lū mutī-ma anāku lū aššatka, lušeṣbitka šarrūta ina erṣeti rapašti, luškun ṭuppa ša nēmeqi ana qātīka"}
+      - {motif: tablet-of-destinies, refs: ["NergEresh MB –:b+22"], note: "the gift is ṭuppa ša nēmeqi, 'tablet of wisdom'; compared, not identical"}
+      - {motif: god-wipes-away-tears, refs: ["NergEresh MB –:b+25"], note: "iṣbassī-ma unaššaqši dimtaša ikappar"}
+    hints:
+      - "Compare the underworld queen's 'house' and its gates in Prov 7:27; 9:18; and Death's covenant, Isa 28:15."
+      - "Compare Isa 25:8 (wipes away tears) only as an image."
+  - id: ane-nergeresh-sb-1-kakka-sent-down
+    tradition: ane-akkadian
+    title: "Anu sends Kakka down to Ereškigal; Namtar sent up for her portion (Nergal and Ereškigal, SB)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sultantepe/Uruk)
+    read: ["NergEresh SB –:a+1-a+51"]
+    tags:
+      - {motif: underworld-queen-cannot-ascend-to-gods-feast, refs: ["NergEresh SB –:a+4-a+10", "NergEresh SB –:a+25-a+32"], note: "lines a+1-10 restored from the repetition: attī-ma ul ša elî ... nīnū-ma ul ša arādi; mār šiprīki lillikam-ma paššura lipṭur qīštaki limhur"}
+      - {motif: dream-ladder-to-heaven, refs: ["NergEresh SB –:a+11", "NergEresh SB –:a+48"], note: "urid kaka arkāt simmilat šamāmī: Kakka descends 'the long stairway of heaven' (simmiltu) to the underworld; a+11 partly restored"}
+      - {motif: seven-gates-of-underworld, refs: ["NergEresh SB –:a+12-a+21"], note: "ištēn bāba ... sebâ bāba ušēriba ila kaka"}
+      - {motif: deity-demands-gatekeeper-open, refs: ["NergEresh SB –:a+13-a+14"], note: "[atû] p[itânn]i bāba"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["NergEresh SB –:a+22-a+24"], note: "ikmis iššiq qaqqara mahrīša īšir izzaz"}
+      - {motif: message-repeated-verbatim, refs: ["NergEresh SB –:a+25-a+32"]}
+      - {motif: greetings-to-each-great-god, refs: ["NergEresh SB –:a+34-a+45"], note: "lū šulmu ana āni ellil u ea ... nammu u našše ... mut bēlet šamāmī ... ninurta"}
+    hints:
+      - "Compare the ladder (sullam) between heaven and earth with messengers going up and down, Gen 28:12; and Q 70:3-4 (ma'arij)."

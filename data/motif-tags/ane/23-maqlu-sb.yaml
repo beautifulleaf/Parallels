@@ -107,6 +107,27 @@ new_motifs:
   witch-is-witch-i-am-releaser: {label: "Refrain: 'the witch is a witch (of whatever people or trade), but I am a releaser' (anāku pāširāk)", cluster: magic}
   seven-and-seven-witches: {label: "Figurines of 'the seven and seven witches' are gathered from the west and handed to the fire god", cluster: magic}
   witches-to-the-drain-speaker-the-flood: {label: "May the witches be for the drain, while the speaker sweeps over them like flood water", cluster: magic}
+  witch-sits-in-shade-of-brick-pile: {label: "The witch sits in the shade of a pile of bricks working sorcery and forming figurines of the victim", cluster: magic}
+  aromatic-plants-sent-against-witch: {label: "Aromatic plants (thyme, sesame, kukru, a cone) are sent or raised against the witch to scatter her witchcraft and break her bond", cluster: magic}
+  impossibility-analogy-chaff-cannot-be-twined: {label: "Impossibility analogy: as chaff cannot be twined nor barley knotted, nor witchcraft worked against heaven, so sorcery cannot come near the speaker", cluster: magic}
+  witch-brought-to-her-judge-who-roars: {label: "May the witch be brought to her judge, who roars at her like a lion, strikes her cheek and turns her word back into her mouth", cluster: magic}
+  plant-name-pun-curses: {label: "Chain of curses punning on plant names: like ammi (nīnû) may her witchcraft give way (nâšu), like mustard (kasû) bind (kasû) her, like colocynth (errû) curse (arāru) her", cluster: magic}
+  streets-and-gods-turn-against-witch: {label: "May street and way, cult niche and its socles, and the gods of steppe and city turn against the witch", cluster: magic}
+  witch-driven-off-like-dog: {label: "May the witch be knocked away like a dog with a stick, a lizard with a clod; may passersby frown at her and dogs whirl through her headbands", cluster: curse}
+  sorcery-for-three-months-ten-days: {label: "The witch has worked sorcery against the victim for a set span: three months, ten days and half a day", cluster: magic}
+  love-goddesses-patrons-of-witches: {label: "The spell acts by command of Ištar, Dumuzi, Nanaya mistress of love, and Kanisurra mistress of witches", cluster: magic}
+  same-demon-sent-back-on-sender: {label: "Talionic litany: the demon (utukku, ghost, Lamaštu, lilû) you caused to seize me, may it seize you; the anger and terror you inflicted on me, may it be inflicted on you", cluster: magic}
+  smoke-of-witch-abomination-to-heaven: {label: "The smoke of the burning witch is 'an abomination to heaven' (ikkib šamê)", cluster: magic}
+  witch-cloud-scattered-by-north-wind: {label: "The witch piles up cloud and fog like the south wind; the speaker rises like the north wind, 'shearer of the heavens', and scatters her cloud", cluster: magic}
+  sinews-and-figurines-unbound-by-ea: {label: "Ea and Asalluḫi unbind the victim's bound sinews and release his twisted and fettered figurines", cluster: magic}
+  water-adjured-by-seven-sages: {label: "River, Tigris, Euphrates and ocean water, drawn by the sages of the apsû and adjured by the seven sages of Eridu, is sprinkled to cool the witches' hearts and embers", cluster: magic}
+  witches-barred-from-crossing-rivers-walls-gates: {label: "The witches are forbidden to cross the Tigris and Euphrates, dyke and canal, wall and battlement, or to enter by the city gate to reach the speaker", cluster: magic}
+  speaker-quenches-witches-heart-confounds-plans: {label: "With spring water the speaker quenches the witches' heart, confounds their understanding and makes them abandon the plots of their heart", cluster: magic}
+  who-but-ea-can-calm-you: {label: "Rhetorical question: who but Ea can calm you, who but Asalluḫi soothe you?", cluster: magic}
+  my-mouth-water-your-mouth-fire: {label: "Antithesis: my mouth is water, your mouth is fire; may the spell of my mouth extinguish the spell of yours", cluster: magic}
+  speaker-tramples-his-foe: {label: "The speaker tramples his foe, slaughters his opponent and annihilates his pursuer in the god's presence", cluster: magic}
+  begone-from-my-body-litany: {label: "Exorcistic litany: be off, begone, depart, flee from my body; do not turn back, approach or draw near to my body", cluster: magic}
+  adjured-by-life-of-gods: {label: "The evil powers are adjured 'by the life (nīš)' of named gods (Šamaš, Ea, Asalluḫi, Girra) to separate from the speaker", cluster: magic}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -768,3 +789,220 @@ units:
       - {motif: witches-to-the-drain-speaker-the-flood, refs: ["Maqlu SB IV:150-151"]}
     hints:
       - "Compare Mic 7:5-6 (trust not a friend ... a man's enemies are the men of his own house) for IV:123."
+  # ================= Maqlû Tablet V =================
+  - id: ane-maqlu-sb-v-brick-pile-thyme
+    tradition: ane-akkadian
+    title: "Maqlû V 1-10: 'My sorceress ... sits in the shade of a pile of bricks' — thyme and sesame"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:1-10"]
+    tags:
+      - {motif: witch-sits-in-shade-of-brick-pile, refs: ["Maqlu SB V:2-3"]}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB V:4-5"]}
+      - {motif: witchs-word-turned-back-into-her-mouth, refs: ["Maqlu SB V:5"], note: "utār amâtīki ana pîki"}
+      - {motif: sorcery-returned-on-the-sorcerer, refs: ["Maqlu SB V:6-8"], note: "may the figurines you formed be of your own features"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB V:10"]}
+    hints:
+      - "Compare Ps 7:16-17 and Prov 26:27 (whoever digs a pit falls into it)."
+  - id: ane-maqlu-sb-v-who-twined-chaff
+    tradition: ane-akkadian
+    title: "Maqlû V 11-18: 'Who has twined chaff together?' — the colocynth, daughter of the great gods"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:11-18a"]
+    tags:
+      - {motif: impossibility-analogy-chaff-cannot-be-twined, refs: ["Maqlu SB V:11-18"], note: "kīma pû lā ippattilu uṭṭatu lā uktaṣṣaru"}
+      - {motif: witch-defiles-heaven-and-binds-gods, refs: ["Maqlu SB V:12-13"], note: "witchcraft against heaven, rebellion against the netherworld, posed as a rhetorical impossibility"}
+      - {motif: witchs-leavings-gathered-and-burned, refs: ["Maqlu SB V:18a"], note: "rubric restored: [chaff] you burn"}
+    hints:
+      - "Compare Job 8:11 (can papyrus grow without marsh?) and Jer 13:23 (can the Ethiopian change his skin?) for impossibility questions; Num 23:23 (no enchantment against Jacob)."
+  - id: ane-maqlu-sb-v-strong-one-plant-curses
+    tradition: ane-akkadian
+    title: "Maqlû V 19-47: 'Strong one, who decides our verdict' — the judge roars; plant-pun curses; the witch driven off like a dog"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:19-47"]
+    tags:
+      - {motif: fire-god-judges-in-place-of-sun-god, refs: ["Maqlu SB V:19-20"], note: "pāris purussêni before Nuska and Girra; dunnānu and šupêltī uncertain"}
+      - {motif: witch-brought-to-her-judge-who-roars, refs: ["Maqlu SB V:23-25"], note: "lillu lībil-ma kaššāpta ana dayyānīša: may an idiot bring the witch to her judge"}
+      - {motif: witchs-word-turned-back-into-her-mouth, refs: ["Maqlu SB V:25"]}
+      - {motif: plant-name-pun-curses, refs: ["Maqlu SB V:27-35"]}
+      - {motif: streets-and-gods-turn-against-witch, refs: ["Maqlu SB V:37-39"]}
+      - {motif: witch-driven-off-like-dog, refs: ["Maqlu SB V:40-46"]}
+      - {motif: wicked-vanish-like-smoke, refs: ["Maqlu SB V:47"], note: "kīma piqan ṣabīti quturša lible: like gazelle droppings may her smoke die out"}
+    hints:
+      - "Compare Mic 5:1 and 1Kgs 22:24 (striking the cheek) for V:25; Jer 1:11-12 (šāqēd/šōqēd) and Amos 8:1-2 (qayiṣ/qēṣ) for plant-name puns."
+      - "Compare Job 30:1-8 (driven out like a thief, lower than the dogs) for V:40-46."
+  - id: ane-maqlu-sb-v-cord-of-the-qadistu
+    tradition: ane-akkadian
+    title: "Maqlû V 48-56: 'Whoever you are, O witch ... three months, ten days' — cord of the qadištu; blown away like chaff"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:48-56"]
+    tags:
+      - {motif: sorcery-for-three-months-ten-days, refs: ["Maqlu SB V:48"]}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB V:49-51"], note: "kukru and thyme; 'cord, cord of the qadištu' (pitiltu ša qašdāti); cone full of seeds"}
+      - {motif: qedeshah-term, refs: ["Maqlu SB V:50"], note: "qašdātu (qadištu) named as the owner of the cord"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB V:51", "Maqlu SB V:54"], note: "hepâ rikissun; lippašrū kīma pitilti"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB V:52"]}
+      - {motif: wicked-as-chaff, refs: ["Maqlu SB V:53"], note: "linnašpū kišpūša kīma pê"}
+      - {motif: love-goddesses-patrons-of-witches, refs: ["Maqlu SB V:55-56"]}
+    hints:
+      - "Compare Ps 1:4 and Hos 13:3 (like chaff swirling from the threshing floor) for V:53."
+  - id: ane-maqlu-sb-v-hate-magic-returned
+    tradition: ane-akkadian
+    title: "Maqlû V 57-75: 'Hate-magic that you performed against me I perform against you' — smoke an abomination to heaven"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:57-75"]
+    tags:
+      - {motif: sorcery-returned-on-the-sorcerer, refs: ["Maqlu SB V:57-59"]}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Maqlu SB V:57-59"]}
+      - {motif: same-demon-sent-back-on-sender, refs: ["Maqlu SB V:60-72"]}
+      - {motif: lilu-lilitu-ardat-lili, refs: ["Maqlu SB V:67"]}
+      - {motif: named-demons-beset-mankind, refs: ["Maqlu SB V:60-66"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB V:68", "Maqlu SB V:75"], note: "ina nīši u māmīti tuqattâʾinni ... pagarkunu liqti; epšētēkunu turrānikkunūši"}
+      - {motif: figurines-burned-with-sulphur, refs: ["Maqlu SB V:73"], note: "with pure sulphur and salt of Amurru"}
+      - {motif: smoke-of-witch-abomination-to-heaven, refs: ["Maqlu SB V:74"], note: "alqut quturkunu ikkib šamê"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["Maqlu SB V:74"], note: "ikkibu of heaven"}
+    hints:
+      - "Compare Deut 18:10-12 (whoever practises sorcery is an abomination, tô'ēbâ, to YHWH) for V:74; Ps 109:17-18 (he loved cursing, let it come on him)."
+      - "Compare Obad 15 (as you have done, it shall be done to you) and Judg 1:7 (Adoni-bezek) for the talionic litany."
+  - id: ane-maqlu-sb-v-south-wind-north-wind
+    tradition: ane-akkadian
+    title: "Maqlû V 76-82: 'Whoever you are, O witch, who like the South wind has piled up' — scattered by the North wind"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:76-82"]
+    tags:
+      - {motif: witch-cloud-scattered-by-north-wind, refs: ["Maqlu SB V:76-81"], note: "kīma gallāb šamê il[tāni] (restored)"}
+      - {motif: sorcery-before-moon-and-stars, refs: ["Maqlu SB V:82"], note: "messages of Zikurrudû magic (largely restored)"}
+    hints:
+      - "Compare Prov 25:23 (the north wind brings forth rain) and Job 37:21-22 (wind clears the skies; out of the north comes golden splendour)."
+  - id: ane-maqlu-sb-v-splendid-my-appearance
+    tradition: ane-akkadian
+    title: "Maqlû V 83-88: 'Splendid is my appearance' — handed over to Nuska and Girra (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:83-88"]
+    tags:
+      - {motif: fire-god-burns-witch-refrain, refs: ["Maqlu SB V:84-85"], note: "largely restored: allallû [girra ezzu] qāmû š[a kaššāpi ...]"}
+      - {motif: witch-handed-over-to-fire-god, refs: ["Maqlu SB V:86-88"], note: "restoration: ana n[uska u] girra [paqdātunu]"}
+  - id: ane-maqlu-sb-v-sinews-unbound-spring-water
+    tradition: ane-akkadian
+    title: "Maqlû V 89-97: 'The sinews you have bound up Ea has unbound' — pure before Nuska and Girra"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:89-97"]
+    tags:
+      - {motif: sinews-and-figurines-unbound-by-ea, refs: ["Maqlu SB V:89-90"], note: "partly restored"}
+      - {motif: women-blowing-on-knots, refs: ["Maqlu SB V:91"], note: "kiṣir takṣurāni: the knot you knotted against me"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB V:92"], note: "restored li[šābil šāra]"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB V:94"], note: "partly restored ana m[uhhīkunu litēr]"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB V:95-96"], note: "ina mê ša nagbi"}
+      - {motif: pure-as-grass-clean-as-nard, refs: ["Maqlu SB V:97"], note: "ētelil ēteb[ib azzaku]"}
+    hints:
+      - "Compare Q 113:4 for V:91; Ps 26:6 and Ps 73:13 (I wash my hands in innocence) for V:97."
+  - id: ane-maqlu-sb-v-you-water
+    tradition: ane-akkadian
+    title: "Maqlû V 98-111: 'You, Water, that flows over all the lands' — adjured by the seven sages"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:98-111"]
+    tags:
+      - {motif: water-adjured-by-seven-sages, refs: ["Maqlu SB V:98-110"], note: "sebet apkallū šūt eridu ut[ammûkunūši]"}
+      - {motif: seven-spirits-of-wisdom, refs: ["Maqlu SB V:103-104"]}
+      - {motif: speaker-quenches-witches-heart-confounds-plans, refs: ["Maqlu SB V:107-110"]}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB V:111"]}
+    hints:
+      - "Compare Num 19:17-19 (living water sprinkled for purification) and Ezek 36:25 (I will sprinkle clean water upon you)."
+  - id: ane-maqlu-sb-v-you-shall-not-cross
+    tradition: ane-akkadian
+    title: "Maqlû V 112-131: 'My sorcerers ... you shall not cross the Tigris and Euphrates to me'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:112-131"]
+    tags:
+      - {motif: adversary-catalogue-male-and-female, refs: ["Maqlu SB V:112-113"]}
+      - {motif: bewitchment-bodily-symptoms-catalogue, refs: ["Maqlu SB V:116"], note: "tuṣabbitā birkīya"}
+      - {motif: speaker-quenches-witches-heart-confounds-plans, refs: ["Maqlu SB V:118-124"], note: "ina mê ša nagbi libbakunu unēh ... ṭēnkunu ušanni milikkunu aspuh"}
+      - {motif: witches-barred-from-crossing-rivers-walls-gates, refs: ["Maqlu SB V:125-128"]}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB V:131"]}
+    hints:
+      - "Compare 2Sam 17:14 and Ps 33:10 (God frustrates the counsel of the nations) and Isa 19:3 (I will confound their counsel) for V:121-122."
+      - "Compare Ps 91:10 (no evil shall befall you, no plague come near your tent) for V:129."
+  - id: ane-maqlu-sb-v-my-mouth-is-water
+    tradition: ane-akkadian
+    title: "Maqlû V 132-141: 'Raging, furious are you' — who but Ea can calm you; my mouth is water, your mouth is fire"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:132-141"]
+    tags:
+      - {motif: who-but-ea-can-calm-you, refs: ["Maqlu SB V:134-137"]}
+      - {motif: my-mouth-water-your-mouth-fire, refs: ["Maqlu SB V:138-141"], note: "pīya mû pīkunu išātu; l. 138a variant [libb]ī mû"}
+    hints:
+      - "Compare Prov 15:1 (a soft answer turns away wrath) and Jas 3:5-6 (the tongue is a fire)."
+  - id: ane-maqlu-sb-v-trample-melt-dissolve
+    tradition: ane-akkadian
+    title: "Maqlû V 142-148: 'I trample down my foe' and 'Melt, dissolve, drip away'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:142-148"]
+    tags:
+      - {motif: speaker-tramples-his-foe, refs: ["Maqlu SB V:142-144"]}
+      - {motif: figurines-melt-smoke-rises-to-heaven, refs: ["Maqlu SB V:145-148"], note: "repeats I:140-143"}
+      - {motif: wicked-melt-like-wax-before-fire, refs: ["Maqlu SB V:145"]}
+    hints:
+      - "Compare Ps 18:38-43 (I crushed them, they fell under my feet) and Mal 3:21 (you shall tread down the wicked)."
+  - id: ane-maqlu-sb-v-may-the-mountain-cover-you
+    tradition: ane-akkadian
+    title: "Maqlû V 149-157: 'May the mountain cover you'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:149-157"]
+    tags:
+      - {motif: mountains-cover-us, refs: ["Maqlu SB V:149-156"], note: "here a curse on the witches: šadû liktumkunūši ... šadû dannu elīkunu limqut"}
+      - {motif: begone-from-my-body-litany, refs: ["Maqlu SB V:157"]}
+    hints:
+      - "Compare Hos 10:8 and Luke 23:30 (say to the mountains, cover us; to the hills, fall on us) and Rev 6:16."
+  - id: ane-maqlu-sb-v-be-off-begone
+    tradition: ane-akkadian
+    title: "Maqlû V 158-177: 'Be off, be off, begone, begone' — adjured by the life of the gods; catchline"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB V:158-177"]
+    tags:
+      - {motif: begone-from-my-body-litany, refs: ["Maqlu SB V:158-170", "Maqlu SB V:175"]}
+      - {motif: wicked-vanish-like-smoke, refs: ["Maqlu SB V:161"], note: "lumunkunu kīma qutri lītelli šamê"}
+      - {motif: adjured-by-life-of-gods, refs: ["Maqlu SB V:171-174"], note: "nīš šamaš kabti lū tamâtunu"}
+    hints:
+      - "Compare Mark 5:7-8 and Acts 19:13 (I adjure you by God / by Jesus) and Matt 4:10 ('Begone, Satan') for the exorcistic adjuration."
+      - "Compare Ps 6:9 and Ps 119:115 ('Depart from me, all you evildoers')."
