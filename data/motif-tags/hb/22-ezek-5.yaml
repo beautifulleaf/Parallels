@@ -1,0 +1,1269 @@
+new_motifs:
+  prophet-shaves-hair-with-sword-sign: {label: "Prophet shaves head and beard with a sword as razor, weighs the hair on scales and divides it into thirds (burned, struck with sword, scattered to the wind)", cluster: prophecy}
+  few-hairs-bound-in-hem: {label: "A few hairs are kept back and bound in the prophet's garment hem (remnant), yet some of these are thrown into fire", cluster: prophecy}
+  jerusalem-set-in-midst-of-nations: {label: "God set Jerusalem in the center of the nations with countries all around her", cluster: cosmology}
+  reciprocal-cannibalism-fathers-and-sons: {label: "Fathers will eat their sons and sons will eat their fathers in the besieged city", cluster: judgment}
+  unparalleled-judgment-never-again: {label: "God will do to the city what he has never done and will never do again", cluster: judgment}
+  sword-famine-pestilence-triad: {label: "Stock triad of judgment: sword, famine and pestilence (sometimes with wild beasts as fourth)", cluster: judgment}
+  arrows-of-famine: {label: "God shoots 'evil arrows of famine' at the people", cluster: judgment}
+  recognition-formula-know-i-am-yhwh: {label: "Formula 'and you/they shall know that I am YHWH' closing a judgment or salvation oracle", cluster: prophecy}
+  prophet-sets-face-toward: {label: "Prophet commanded to 'set your face toward' a place or people and prophesy against it", cluster: prophecy}
+  oracle-addressed-to-mountains: {label: "Prophet addresses the mountains, hills, ravines and valleys of the land directly", cluster: prophecy}
+  corpses-before-idols-bones-around-altars: {label: "God lays the slain before their idols and scatters their bones around their altars", cluster: judgment}
+  prophet-claps-and-stamps: {label: "Prophet told to clap his hands, stamp his foot and cry 'Ah!' as a gesture of doom", cluster: prophecy}
+  remnant-loathes-itself-in-exile: {label: "Survivors in exile will remember God, loathe themselves for their abominations and know he did not speak in vain", cluster: theology}
+  the-end-has-come: {label: "Proclamation 'An end has come, the end has come' upon the land (qets ba)", cluster: eschatology}
+  four-corners-of-the-earth: {label: "The 'four corners (wings) of the earth'", cluster: cosmology}
+  knees-turn-to-water: {label: "In terror all hands go slack and all knees run with water", cluster: judgment}
+  silver-gold-thrown-in-streets: {label: "On the day of wrath people fling their silver into the streets; silver and gold cannot save them", cluster: judgment}
+  survivors-moan-like-doves: {label: "Survivors on the mountains moan like doves of the valleys, each for his iniquity", cluster: judgment}
+  vision-sought-from-prophet-torah-perishes: {label: "In disaster people seek a vision from the prophet, but instruction perishes from the priest and counsel from the elders", cluster: prophecy}
+  gods-treasured-place-profaned: {label: "God's 'treasured place' (tsefuni) is profaned by robbers when he turns his face away", cluster: cult}
+  divine-face-hidden-or-turned: {label: "God turns or hides his face from the people, abandoning them to harm", cluster: theology}
+  elders-sit-before-prophet: {label: "Elders of the people come and sit before the prophet in his house to inquire", cluster: prophecy}
+  fiery-figure-gleaming-like-amber: {label: "A human-like figure of fire from the waist down and gleaming like hashmal (amber/electrum) from the waist up", cluster: theophany}
+  prophet-lifted-by-lock-of-hair: {label: "A hand seizes the prophet by a lock of his hair and the spirit carries him between earth and heaven to a distant place", cluster: prophecy}
+  visionary-journey-to-jerusalem: {label: "Prophet in exile is brought 'in visions of God' to the Jerusalem temple", cluster: prophecy}
+  image-of-jealousy: {label: "An idol called 'the image (semel) of jealousy that provokes jealousy' stands at the north gate of the temple", cluster: cult}
+  prophet-digs-through-wall: {label: "Prophet is told to dig through a wall and enters through the opening", cluster: prophecy}
+  secret-chamber-of-animal-images: {label: "Hidden temple chamber whose walls are engraved all around with creeping things, loathsome beasts and idols", cluster: cult}
+  elders-offer-incense-in-dark: {label: "Seventy elders stand with censers in hand offering incense in the dark, each in his chamber of images", cluster: cult}
+  god-does-not-see-us: {label: "Sinners say 'YHWH does not see us; YHWH has forsaken the land'", cluster: theology}
+  women-weeping-for-tammuz: {label: "Women sit at the north gate of the temple weeping for Tammuz", cluster: cult}
+  sun-worship-backs-to-temple: {label: "About twenty-five men with their backs to the temple bow eastward to the sun between the porch and the altar", cluster: cult}
+  branch-to-the-nose: {label: "Idolaters 'put the branch (zemorah) to their nose', an obscure cultic gesture", cluster: cult}
+  god-refuses-to-hear-loud-cry: {label: "Though they cry in God's ears with a loud voice, he will not listen", cluster: theology}
+  ezekiel-dated-oracle: {label: "Oracle or vision dated by year, month and day of the exile of King Jehoiachin", cluster: prophecy}
+  six-executioners-of-the-city: {label: "Six men (angelic executioners), each with a weapon of destruction, come from the north gate to slay the city", cluster: angels}
+  man-in-linen-with-scribes-inkhorn: {label: "A heavenly man clothed in linen with a scribe's writing kit at his waist", cluster: angels}
+  tav-mark-on-foreheads-of-mourners: {label: "A mark (tav) is put on the foreheads of those who sigh over the city's abominations so the destroyers spare them", cluster: judgment}
+  judgment-begins-at-the-sanctuary: {label: "Divine slaughter is to begin at God's sanctuary, with the elders before the temple", cluster: judgment}
+  prophet-cries-will-you-destroy-remnant: {label: "Prophet falls on his face crying 'Ah Lord, will you destroy the whole remnant of Israel?'", cluster: prophecy}
+  angelic-agent-reports-task-done: {label: "The angelic agent returns and reports 'I have done as you commanded me'", cluster: angels}
+  sapphire-throne-above-firmament: {label: "Above the firmament over the living creatures appears something like sapphire in the likeness of a throne", cluster: theophany}
+  coals-from-between-cherubim-scattered: {label: "Burning coals are taken from between the cherubim / wheels and scattered over the city", cluster: theophany}
+  sound-of-wings-like-voice-of-shaddai: {label: "The sound of the cherubim's wings is heard like the voice of El Shaddai when he speaks", cluster: theophany}
+  wheel-within-a-wheel: {label: "Wheels (ofannim) gleaming like tarshish-stone, built as a wheel within a wheel, moving in any direction without turning", cluster: theophany}
+  wheels-full-of-eyes: {label: "The bodies, backs, hands, wings and wheels of the throne-creatures are full of eyes all around", cluster: theophany}
+  wheels-called-galgal: {label: "The wheels are called by the name 'galgal' ('whirl') in the prophet's hearing", cluster: theophany}
+  four-faced-cherubim: {label: "Each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four wings and human hands under the wings", cluster: theophany}
+  spirit-of-creature-in-wheels: {label: "The spirit of the living creature is in the wheels so that they move and rise with it", cluster: theophany}
+  glory-departs-temple-in-stages: {label: "The divine glory leaves the temple in stages: from the cherub to the threshold, to the east gate, to the mountain east of the city", cluster: theophany}
+  cauldron-and-meat-proverb: {label: "Proverb 'the city is the cauldron and we are the meat', turned against its speakers", cluster: prophecy}
+  bystander-drops-dead-at-prophecy: {label: "A man dies suddenly while the prophet is still prophesying against him", cluster: prophecy}
+  god-as-small-sanctuary-in-exile: {label: "God himself becomes 'a little sanctuary' (miqdash me'at) for the exiles in the lands of dispersion", cluster: theology}
+  heart-of-stone-to-heart-of-flesh: {label: "God will remove the heart of stone and give a heart of flesh and a new spirit", cluster: theology}
+  ingathering-of-exiles-to-land: {label: "God will gather the dispersed from the peoples and give them back the land of Israel", cluster: restoration}
+  vision-ends-prophet-returned-to-exiles: {label: "The spirit carries the prophet back to the exiles and the vision lifts from him", cluster: prophecy}
+  rebellious-house-eyes-not-seeing: {label: "The people are a 'rebellious house' that have eyes but do not see and ears but do not hear", cluster: prophecy}
+  exile-baggage-sign-act: {label: "Prophet packs an exile's bag by day, digs through the wall and goes out at dusk with covered face as a sign of exile", cluster: prophecy}
+  prophet-as-portent: {label: "God makes the prophet himself a sign/portent (mofet) for the house of Israel", cluster: prophecy}
+  god-spreads-net-over-king: {label: "God spreads his net over the king and catches him in his snare", cluster: judgment}
+  eating-bread-with-trembling-sign: {label: "Prophet eats his bread with quaking and drinks water with trembling as a sign of the coming desolation", cluster: prophecy}
+  proverb-vision-delayed-refuted: {label: "God abolishes the saying 'the days drag on and every vision fails': his word will no longer be delayed", cluster: prophecy}
+  remnant-spared-to-tell-abominations: {label: "A few are spared from sword, famine and plague so they may recount their abominations among the nations", cluster: judgment}
+  prophets-from-own-heart: {label: "False prophets prophesy 'from their own heart', following their own spirit, having seen nothing", cluster: prophecy}
+  false-prophets-like-foxes-in-ruins: {label: "The prophets of Israel are like foxes (jackals) among ruins", cluster: prophecy}
+  prophet-fails-to-stand-in-breach: {label: "The true prophet's task is to go up into the breaches and build a wall for the people on the day of battle; false prophets did not", cluster: prophecy}
+  peace-when-there-is-no-peace: {label: "False prophets mislead the people saying 'Peace' when there is no peace", cluster: prophecy}
+  whitewashed-wall-falls: {label: "False prophets daub a flimsy wall with whitewash (tafel); God's storm, flood-rain and hailstones bring it down", cluster: prophecy}
+  excluded-from-register-of-israel: {label: "False prophets will not be in the council of God's people nor written in the register of the house of Israel", cluster: theology}
+  women-soul-hunters-with-bands: {label: "Women prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls, killing and keeping alive by magic", cluster: magic}
+  magic-for-handfuls-of-barley: {label: "Diviners profane God for handfuls of barley and crumbs of bread", cluster: magic}
+  souls-released-like-birds: {label: "God tears off the magic bands and lets the trapped souls go free 'like birds' (leporhot)", cluster: magic}
+  idols-set-up-in-heart: {label: "Inquirers have 'set up their idols in their hearts' and put the stumbling-block of iniquity before their faces", cluster: theology}
+  god-answers-idolater-himself: {label: "God himself will answer the idolater who inquires of a prophet, making him a sign and a byword and cutting him off", cluster: prophecy}
+  god-deceives-the-prophet: {label: "If a prophet is enticed to speak, 'I YHWH have enticed that prophet' and will destroy him", cluster: prophecy}
+  noah-daniel-job-righteous-trio: {label: "Even if Noah, Daniel (Dan'el) and Job were in the land, their righteousness would save only themselves, not sons or daughters", cluster: theology}
+  four-evil-judgments: {label: "God's 'four evil judgments': sword, famine, evil beasts and pestilence", cluster: judgment}
+  survivors-console-by-their-deeds: {label: "Survivors from the doomed city will come to the exiles, who will be consoled on seeing their deeds that the punishment was not without cause", cluster: theology}
+  useless-vine-wood-parable: {label: "Parable of the vine-wood: useless for any work, not even for a peg, fit only for the fire; so are Jerusalem's inhabitants", cluster: prophecy}
+  jerusalem-of-amorite-and-hittite-parents: {label: "Jerusalem's origin is Canaanite: 'your father was an Amorite and your mother a Hittite'", cluster: prophecy}
+  exposed-newborn-girl-in-her-blood: {label: "A newborn girl is cast into the open field unwashed, unsalted and unswaddled, with her navel cord uncut, loathed on the day of her birth", cluster: childhood}
+  in-your-blood-live: {label: "God passes by the infant wallowing in her blood and says twice 'In your blood, live!'", cluster: childhood}
+  god-marries-city-as-bride: {label: "God spreads his garment-wing over the grown foundling, swears a covenant and takes the city as his wife, bathing, anointing, clothing and adorning her", cluster: theology}
+  bridal-adornment-catalogue: {label: "Catalogue of bridal finery: embroidered cloth, tahash sandals, linen, silk, bracelets, necklace, nose-ring, earrings and a crown", cluster: prophecy}
+  bride-becomes-harlot-trusting-beauty: {label: "The adorned bride trusts in her beauty and plays the harlot with every passer-by", cluster: prophecy}
+  male-images-made-from-gods-gifts: {label: "The unfaithful wife makes male images (tsalmei zakhar) from the gold and silver God gave her and fornicates with them", cluster: cult}
+  children-slaughtered-for-idols: {label: "Sons and daughters born to God are slaughtered and offered to idols as food", cluster: cult}
+  harlot-pays-her-lovers: {label: "Unlike other harlots, the city pays fees to her lovers instead of receiving them", cluster: prophecy}
+  nations-as-lovers-egypt-assyria-babylon: {label: "Political alliances with Egypt, Assyria and Chaldea pictured as harlotry with lovers ('big of flesh')", cluster: prophecy}
+  adulteress-stripped-before-lovers: {label: "God gathers the adulteress's lovers, strips her naked before them and hands her over to be judged", cluster: judgment}
+  adulteress-stoned-and-hacked: {label: "An assembly stones the adulteress and hacks her with swords and burns her houses before many women", cluster: judgment}
+  like-mother-like-daughter: {label: "Proverb 'like mother, like daughter'", cluster: wisdom}
+  samaria-and-sodom-as-sisters: {label: "Samaria (elder, on the left/north) and Sodom (younger, on the right/south) are Jerusalem's sisters, and she is worse than both", cluster: prophecy}
+  sin-of-sodom-pride-plenty-neglect-of-poor: {label: "The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of the poor and needy", cluster: ethics}
+  restoration-of-sodom: {label: "God will restore the fortunes of Sodom and Samaria along with Jerusalem", cluster: restoration}
+  everlasting-covenant-renewed: {label: "God remembers his covenant of her youth and establishes an everlasting covenant (berit olam)", cluster: restoration}
+  forgiveness-leaves-shame-silent: {label: "When God atones for her she will remember, be ashamed and never again open her mouth", cluster: theology}
+  great-eagle-plucks-cedar-top: {label: "A great eagle with long pinions and many-colored plumage comes to Lebanon, plucks the top of the cedar and carries it to a land of merchants", cluster: prophecy}
+  eagle-allegory-vine-turns-to-second-eagle: {label: "A low spreading vine planted by one great eagle turns its roots toward a second great eagle (vassal turning from Babylon to Egypt)", cluster: prophecy}
+  covenant-breaker-cannot-escape: {label: "The vassal king who despised his oath and broke his covenant will not escape but die in the overlord's land", cluster: kingship}
+  messianic-cedar-shoot-on-high-mountain: {label: "God himself takes a tender shoot from the cedar's top and plants it on Israel's high mountain, where it becomes a noble cedar", cluster: messianism}
+  birds-dwell-in-shade-of-great-tree: {label: "Birds of every wing nest in the branches and shade of a great tree (kingdom)", cluster: cosmology}
+  god-lowers-high-tree-raises-low: {label: "God brings low the high tree and exalts the low tree, dries up the green tree and makes the dry tree flourish", cluster: theology}
+  sour-grapes-proverb: {label: "Proverb 'The fathers have eaten sour grapes and the children's teeth are set on edge', abolished by God", cluster: theology}
+  soul-that-sins-shall-die: {label: "'The soul that sins, it shall die': the son does not bear the father's iniquity nor the father the son's", cluster: theology}
+  righteous-man-catalogue-of-virtues: {label: "Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest", cluster: ethics}
+  three-generation-test-case: {label: "Test case of three generations: righteous father, violent son, and a grandson who sees his father's sins and does not imitate them", cluster: ethics}
+  repentant-wicked-past-sins-forgotten: {label: "If the wicked turns from his sins, none of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten", cluster: theology}
+  god-desires-not-death-of-wicked: {label: "God does not desire the death of the wicked but that he turn from his way and live", cluster: theology}
+  way-of-lord-not-fair-complaint: {label: "People complain 'the way of the Lord is not fair'; God answers that it is their ways that are unfair", cluster: theology}
+  make-yourselves-new-heart: {label: "Exhortation: cast away your transgressions and make yourselves a new heart and a new spirit; why will you die?", cluster: theology}
+  lament-lioness-and-cubs: {label: "Dirge: the mother lioness among lions raises cubs who learn to devour men and are caught in pits and led away with hooks to Egypt and Babylon", cluster: kingship}
+  royal-vine-uprooted-and-burned: {label: "The mother was a fruitful vine by many waters with strong rods for sceptres; plucked up in fury, dried by the east wind and burned, now planted in the desert", cluster: kingship}
+  prophetic-qinah-dirge: {label: "Prophet commanded to raise a qinah (funeral dirge) over a ruler, city or nation", cluster: prophecy}
+  god-refuses-to-be-inquired-of: {label: "God swears he will not be inquired of by the elders who come to consult him", cluster: prophecy}
+  god-acts-for-sake-of-his-name: {label: "God refrains from destroying the people 'for the sake of my name', lest it be profaned in the sight of the nations", cluster: theology}
+  idols-of-egypt-in-wilderness-generation: {label: "Israel already worshipped the idols of Egypt in Egypt and would not cast them away", cluster: cult}
+  god-gave-laws-not-good: {label: "God gave the rebellious generation 'statutes that were not good and ordinances by which they could not live', defiling them through offering their firstborn", cluster: theology}
+  etiology-of-bamah-name: {label: "Wordplay etiology: 'What is the high place (bamah) to which you go (ha-ba'im)?' and its name is Bamah to this day", cluster: etiology}
+  be-like-the-nations-serve-wood-and-stone: {label: "The people's wish 'We will be like the nations, serving wood and stone' will never come to pass", cluster: theology}
+  god-will-reign-with-poured-out-wrath: {label: "God swears 'with a mighty hand, outstretched arm and poured-out wrath I will be king over you'", cluster: theology}
+  wilderness-of-the-peoples-judgment: {label: "God will bring the exiles into 'the wilderness of the peoples' and judge them face to face as he judged the fathers in Egypt's wilderness", cluster: restoration}
+  pass-under-the-rod-into-covenant: {label: "God makes the people pass under the shepherd's rod and brings them into the bond (masoret) of the covenant, purging out rebels", cluster: restoration}
+  restored-worship-on-gods-holy-mountain: {label: "On God's holy mountain, the height of Israel, all Israel will serve him and he will accept their offerings as a pleasing odor", cluster: restoration}
+  forest-fire-green-and-dry: {label: "God kindles an unquenchable fire in the forest of the south that devours every green tree and every dry tree", cluster: judgment}
+  prophet-mocked-as-maker-of-parables: {label: "People dismiss the prophet: 'Is he not just a maker of parables (memashel meshalim)?'", cluster: prophecy}
+  sword-drawn-from-sheath-not-returned: {label: "God draws his sword from its sheath against righteous and wicked alike, and it will not return", cluster: judgment}
+  prophet-groans-before-them: {label: "Prophet commanded to groan with breaking loins before the people; when asked why, he announces coming news", cluster: prophecy}
+  song-of-the-sword: {label: "Incantatory song of the sharpened and polished sword, flashing like lightning, given to the slayer", cluster: judgment}
+  king-of-babylon-divines-at-crossroads: {label: "At the fork of two roads the king of Babylon divines: he shakes arrows, consults teraphim and inspects the liver", cluster: magic}
+  belomancy-arrow-divination: {label: "Divination by shaking or drawing arrows (belomancy)", cluster: magic}
+  hepatoscopy-liver-divination: {label: "Divination by inspecting the liver (hepatoscopy)", cluster: magic}
+  turban-removed-crown-taken: {label: "Remove the turban and take off the crown: the low exalted, the high brought low", cluster: kingship}
+  ruin-ruin-ruin-until-rightful-one: {label: "'A ruin, a ruin, a ruin I will make it ... until he comes to whom judgment belongs, and I will give it to him'", cluster: messianism}
+  sword-returned-to-sheath-judged-in-homeland: {label: "The sword is returned to its sheath and Ammon is judged in the land of its origin and forgotten", cluster: judgment}
+  city-of-blood-indictment: {label: "Jerusalem indicted as 'the city of bloodshed' (ir ha-damim) with a catalogue of its crimes", cluster: prophecy}
+  catalogue-of-jerusalem-sins: {label: "Catalogue of social, sexual and cultic sins in the city: contempt of parents, oppression of stranger, orphan and widow, slander, incest, bribery, interest", cluster: ethics}
+  israel-as-dross-in-furnace: {label: "Israel has become dross: copper, tin, iron and lead in the furnace, gathered into Jerusalem to be melted by God's wrath", cluster: judgment}
+  land-unwashed-by-rain: {label: "The land is not cleansed and not rained upon on the day of indignation", cluster: judgment}
+  leaders-as-wolves-and-roaring-lions: {label: "Princes are wolves tearing prey and prophets a roaring lion devouring souls", cluster: prophecy}
+  priests-fail-to-distinguish-holy-profane: {label: "Priests do violence to the torah and fail to distinguish holy from profane and clean from unclean, hiding their eyes from the sabbaths", cluster: cult}
+  no-man-to-stand-in-breach: {label: "God seeks a man to build up the wall and stand in the breach before him for the land, and finds none", cluster: prophecy}
+  oholah-and-oholibah: {label: "Two sisters, Oholah ('her tent') and Oholibah ('my tent is in her'), daughters of one mother, are Samaria and Jerusalem, wives of God who play the harlot", cluster: prophecy}
+  harlotry-begun-in-egypt-youth: {label: "The sisters' harlotry began in their youth in Egypt where their breasts were pressed", cluster: prophecy}
+  lusting-after-handsome-assyrian-horsemen: {label: "The harlot lusts after Assyrian governors and officers clothed in blue, all handsome young horsemen", cluster: prophecy}
+  lust-from-images-on-wall: {label: "Seeing men portrayed on a wall in vermilion (images of Chaldeans with belts and turbans), the woman lusts and sends messengers to them", cluster: prophecy}
+  lovers-with-flesh-of-donkeys: {label: "Egyptian paramours described with 'flesh of donkeys and issue of stallions'", cluster: prophecy}
+  pekod-shoa-koa: {label: "Enemy peoples named Pekod, Shoa and Koa come with the Babylonians and Assyrians", cluster: geography}
+  nose-and-ears-cut-off: {label: "The adulteress's nose and ears are cut off as punishment", cluster: judgment}
+  sisters-cup-of-horror: {label: "The younger sister must drink her sister's deep and wide cup of horror and desolation, drain it, gnaw its sherds and tear her breasts", cluster: judgment}
+  harlot-paints-eyes-and-adorns-couch: {label: "The harlot bathes, paints her eyes, puts on ornaments and sits on a splendid couch with a table set with God's incense and oil", cluster: prophecy}
+  sabeans-from-desert: {label: "Drunkards (sove'im/Sabeans) brought from the desert put bracelets on the women's hands and crowns on their heads", cluster: prophecy}
+  women-warned-by-example: {label: "All women will be warned by the punishment of the lewd sisters and not imitate them", cluster: ethics}
+  child-sacrifice-and-temple-same-day: {label: "Having slaughtered their children to idols, they enter God's sanctuary the same day to profane it", cluster: cult}
+  prophet-writes-down-date-of-siege: {label: "Prophet told to write down 'the name of this very day' on which the king of Babylon laid siege to Jerusalem (clairvoyant dating)", cluster: prophecy}
+  boiling-pot-parable: {label: "Parable of the pot set on the fire with choice pieces of meat and bones, its rust (hel'ah) never removed", cluster: prophecy}
+  blood-left-uncovered-on-bare-rock: {label: "The city put its blood on the bare rock, not pouring it on the earth to cover it with dust, so God leaves it uncovered to cry for vengeance", cluster: law}
+  empty-pot-heated-to-melt-rust: {label: "The empty pot is set on the coals to glow so its impurity melts and its rust is consumed, yet the rust will not go out", cluster: prophecy}
+  prophets-wife-dies-mourning-forbidden: {label: "God takes the prophet's wife, 'the delight of your eyes', at a stroke and forbids him to weep or perform mourning rites, as a sign", cluster: prophecy}
+  mourning-rites-listed: {label: "Mourning customs listed: removing the turban and sandals, covering the upper lip (mustache), eating the 'bread of men' (mourners' meal)", cluster: ritual}
+  temple-delight-of-eyes: {label: "The temple called 'the pride of your strength, the delight of your eyes and the desire of your soul'", cluster: cult}
+  prophets-muteness-ends-with-fugitive: {label: "The prophet's dumbness will end and his mouth open on the day the fugitive arrives with news of the fall", cluster: prophecy}
+  nations-gloat-he-ah: {label: "A neighboring nation says 'Aha!' (he'ah), clapping hands and stamping feet in malicious joy over the fall of the sanctuary and land", cluster: prophecy}
+  given-to-sons-of-east: {label: "God gives Ammon and Moab to the 'sons of the east' who will pitch their encampments there; Rabbah becomes a pasture for camels", cluster: prophecy}
+  edoms-vengeance-on-judah: {label: "Edom took vengeance on Judah; God will take vengeance on Edom by the hand of Israel", cluster: prophecy}
+  philistine-eternal-enmity-cherethites-cut-off: {label: "Philistines acted with 'eternal enmity'; God will cut off the Cherethites (pun hikhratti et keretim) and the remnant of the seacoast", cluster: prophecy}
+  tyre-gloats-gate-of-peoples-broken: {label: "Tyre gloats over Jerusalem: 'Aha, the gate of the peoples is broken; it has turned to me'", cluster: prophecy}
+  nations-come-like-sea-waves: {label: "God brings many nations against the city as the sea brings up its waves", cluster: judgment}
+  tyre-bare-rock-for-drying-nets: {label: "Tyre will be scraped to bare rock, a place for spreading fishing nets in the midst of the sea, never rebuilt", cluster: prophecy}
+  nebuchadnezzar-king-of-kings-from-north: {label: "Nebuchadrezzar, 'king of kings', comes from the north with horses, chariots and siege works", cluster: kingship}
+  music-of-city-silenced: {label: "The noise of the city's songs and the sound of its lyres will be heard no more", cluster: judgment}
+  princes-of-sea-descend-from-thrones-mourning: {label: "Princes of the sea step down from their thrones, strip off embroidered robes, sit on the ground trembling and raise a lament", cluster: judgment}
+  city-covered-by-tehom: {label: "God brings up the deep (tehom) over the city and the great waters cover it", cluster: cosmology}
+  city-sent-down-to-pit-ancient-dead: {label: "God brings the city down with those who descend to the Pit, to the people of old, in the netherworld among ancient ruins", cluster: afterlife}
+  sought-and-never-found-again: {label: "The destroyed one will be sought but never found again; 'I will make you terrors and you shall be no more'", cluster: judgment}
+  tyre-as-splendid-ship: {label: "Tyre portrayed as a magnificent ship of perfect beauty built from Senir cypress, Lebanon cedar mast, Bashan oak oars, ivory deck, Egyptian linen sail, crewed by Sidon, Arvad and Gebal", cluster: prophecy}
+  perfect-in-beauty: {label: "A city or king claims or is called 'perfect in beauty' (kelilat yofi)", cluster: prophecy}
+  mercenaries-persia-lud-put: {label: "Mercenaries from Persia, Lud and Put hang shield and helmet in the city; Gammadim in the towers", cluster: warfare}
+  catalogue-of-tyres-trading-partners: {label: "Long catalogue of nations trading with Tyre and their goods (Tarshish metals, Javan-Tubal-Meshech slaves and bronze, Togarmah horses, Dedan ivory and ebony, Sheba spices, Judah wheat and balm, Damascus Helbon wine)", cluster: geography}
+  slave-trade-souls-of-men: {label: "Trade in 'souls of men' (slaves) among the goods of commerce", cluster: economy}
+  ship-wrecked-by-east-wind-in-heart-of-seas: {label: "The laden ship is shattered by the east wind in the heart of the seas and sinks with all its crew and cargo", cluster: prophecy}
+  sailors-lament-dust-ashes-baldness: {label: "Sailors come ashore, cry bitterly, throw dust on their heads, roll in ashes, shave themselves bald and gird sackcloth", cluster: ritual}
+  who-was-like-tyre: {label: "Lament question 'Who was like Tyre, like one silenced in the midst of the sea?'", cluster: prophecy}
+  merchants-hiss-at-ruin: {label: "Merchants among the peoples hiss at the fallen city; kings' hair stands on end", cluster: judgment}
+  ruler-claims-i-am-god: {label: "A ruler's heart is proud and he says 'I am a god (El); I sit in the seat of the gods in the heart of the seas', but he is a man and not a god", cluster: kingship}
+  wiser-than-daniel: {label: "The king of Tyre is 'wiser than Daniel (Dan'el); no secret is hidden from you'", cluster: wisdom}
+  wealth-by-wisdom-and-trade-breeds-pride: {label: "By wisdom and trade the ruler amasses gold and silver and his heart grows proud because of his wealth", cluster: wisdom}
+  death-of-the-uncircumcised: {label: "The proud ruler will 'die the death of the uncircumcised' at the hand of strangers (dishonorable death and burial)", cluster: afterlife}
+  seal-of-perfection: {label: "The king of Tyre is called 'the seal of perfection (hotem toknit), full of wisdom and perfect in beauty'", cluster: kingship}
+  primal-being-in-eden-covered-with-gems: {label: "A primal figure was in Eden, the garden of God, covered with every precious stone (sardius, topaz, diamond, beryl, onyx, jasper, sapphire, turquoise, emerald) and gold settings prepared on the day of his creation", cluster: creation}
+  anointed-guardian-cherub: {label: "'You were an anointed guardian cherub; I placed you on the holy mountain of God'", cluster: angels}
+  walking-among-stones-of-fire: {label: "The primal being walked among the 'stones of fire' on God's mountain", cluster: cosmology}
+  blameless-from-creation-until-iniquity-found: {label: "The being was blameless from the day he was created until iniquity was found in him", cluster: creation}
+  expulsion-from-mountain-of-god: {label: "God casts the proud being out from the mountain of God and destroys him from among the stones of fire, hurling him to earth before kings", cluster: creation}
+  fire-from-within-consumes-to-ashes: {label: "God brings out a fire from within the sinner that consumes him and turns him to ashes on the ground", cluster: judgment}
+  thorns-and-briers-of-neighbors-removed: {label: "There will no longer be a pricking brier or painful thorn for Israel from contemptuous neighbors", cluster: restoration}
+  dwell-securely-build-houses-plant-vineyards: {label: "Restored Israel will dwell securely, build houses and plant vineyards", cluster: restoration}
+  pharaoh-as-great-tannin-in-nile: {label: "Pharaoh is the great tannin (crocodile/dragon) lying in the midst of his Nile channels", cluster: cosmology}
+  my-nile-i-made-myself: {label: "Pharaoh boasts 'My Nile is my own; I made it (or made myself)'", cluster: kingship}
+  hooks-in-jaws-fish-stuck-to-scales: {label: "God puts hooks in the monster's jaws, makes the fish of its rivers stick to its scales and hauls it out of the water", cluster: cosmology}
+  monster-cast-in-wilderness-as-carrion: {label: "The hauled-out monster is flung into the wilderness on the open field as food for beasts and birds, unburied", cluster: cosmology}
+  egypt-desolate-forty-years: {label: "Egypt will be desolate forty years, uninhabited from Migdol to Syene and the border of Cush, then restored to Pathros as a lowly kingdom", cluster: prophecy}
+  egypt-from-migdol-to-syene: {label: "Egypt's extent 'from Migdol to Syene (Aswan) and the border of Cush'", cluster: geography}
+  egypt-given-as-wages-for-tyre-siege: {label: "Nebuchadnezzar's army labored at Tyre till every head was bald and shoulder rubbed, without reward, so God gives him Egypt as wages", cluster: prophecy}
+  horn-sprouts-for-israel: {label: "On that day God will make a horn sprout for the house of Israel", cluster: messianism}
+  prophet-given-opening-of-mouth: {label: "God gives the prophet 'an opening of the mouth' among the people", cluster: prophecy}
+  day-of-yhwh-near: {label: "The Day of YHWH is near: a day of cloud, a time of doom for the nations", cluster: eschatology}
+  messengers-in-ships-terrify-cush: {label: "On that day messengers go out from God in ships to terrify complacent Cush", cluster: prophecy}
+  egyptian-cities-catalogue-doom: {label: "Catalogue of doomed Egyptian cities: Noph (Memphis), Pathros, Zoan, No (Thebes), Sin (Pelusium), Aven (On), Pi-beseth (Bubastis), Tehaphnehes", cluster: geography}
+  idols-of-memphis-destroyed: {label: "God destroys the idols and puts an end to the false gods of Memphis", cluster: cult}
+  day-darkens-at-tahpanhes: {label: "At Tehaphnehes the day grows dark when God breaks the yokes of Egypt; a cloud covers her", cluster: judgment}
+  pharaohs-arms-broken-babylons-strengthened: {label: "God breaks Pharaoh's arm (unbandaged, unhealed) and both his arms, and strengthens the arms of the king of Babylon, putting his own sword in his hand", cluster: kingship}
+  cosmic-cedar-watered-by-tehom: {label: "Assyria/Pharaoh as a towering cedar of Lebanon nourished by the deep (tehom), its top among the clouds, all birds nesting and beasts bearing young under it, all nations in its shade", cluster: cosmology}
+  trees-of-eden-envy-great-tree: {label: "No tree in the garden of God, Eden, equalled the great tree's beauty; all the trees of Eden envied it", cluster: cosmology}
+  great-tree-felled-for-pride: {label: "Because it grew proud of its height, foreigners cut the great tree down; its boughs fall on mountains and valleys and the peoples leave its shade", cluster: judgment}
+  deep-mourns-waters-stopped: {label: "When the tree goes down to Sheol God makes the deep mourn, holds back its rivers and darkens Lebanon", cluster: cosmology}
+  trees-of-eden-comforted-in-underworld: {label: "The trees of Eden already in the netherworld are comforted when the great tree descends to join them", cluster: afterlife}
+  lie-among-uncircumcised-and-slain: {label: "The fallen king lies in the netherworld among the uncircumcised and those slain by the sword", cluster: afterlife}
+  pharaoh-young-lion-and-sea-dragon: {label: "Pharaoh likened to a young lion of the nations yet a dragon (tannin) in the seas, thrashing in his rivers and muddying the waters with his feet", cluster: cosmology}
+  monster-caught-in-gods-net-by-many-peoples: {label: "God spreads his net over the sea monster with a company of many peoples and hauls it up in his dragnet", cluster: cosmology}
+  monster-carcass-fills-valleys: {label: "The slain monster's flesh is spread on the mountains, its carrion fills the valleys and its blood waters the land up to the mountains", cluster: cosmology}
+  heavens-darkened-at-death-of-monster: {label: "When the monster is extinguished God covers the heavens, darkens the stars, covers the sun with cloud and the moon gives no light", cluster: cosmology}
+  rivers-flow-like-oil: {label: "God makes the waters settle clear and the rivers run like oil", cluster: cosmology}
+  daughters-of-nations-chant-dirge: {label: "The daughters of the nations chant the dirge for the fallen nation (professional keening women)", cluster: ritual}
+  nations-in-sheol-catalogue: {label: "Tour of the netherworld: Assyria, Elam, Meshech-Tubal, Edom, the princes of the north and the Sidonians lie with their hordes around their graves in the recesses of the Pit", cluster: afterlife}
+  mighty-dead-speak-from-sheol: {label: "The mightiest heroes (elei gibborim) speak to the newcomer from the midst of Sheol", cluster: afterlife}
+  spread-terror-in-land-of-living: {label: "Refrain: those who spread terror in the land of the living now bear their shame with those who go down to the Pit", cluster: afterlife}
+  ancient-heroes-buried-with-swords-under-heads: {label: "The fallen mighty ones of old went down to Sheol with their weapons of war, swords laid under their heads", cluster: afterlife}
+  graves-in-recesses-of-pit: {label: "Graves set in the farthest recesses (yarketei) of the Pit", cluster: afterlife}
+  pharaoh-consoled-seeing-the-dead: {label: "Pharaoh will see the other slain kings in Sheol and be consoled for his horde", cluster: afterlife}
+  prophet-as-watchman: {label: "The prophet is appointed watchman (tsofeh) for Israel: if he warns the wicked and they ignore him he saves his own soul; if he fails to warn, their blood is required of him", cluster: prophecy}
+  watchman-blows-shofar-at-sword: {label: "The watchman who sees the sword coming blows the shofar to warn the people; whoever ignores it, his blood is on his own head", cluster: warfare}
+  we-rot-in-our-sins-how-live: {label: "Exiles despair: 'Our transgressions are upon us and we rot away in them; how then shall we live?'", cluster: theology}
+  turn-turn-why-will-you-die: {label: "Call 'Turn back, turn back from your evil ways; why will you die, O house of Israel?'", cluster: theology}
+  fugitive-reports-city-has-fallen: {label: "A fugitive arrives in exile announcing 'the city has been struck', and the prophet's mouth is opened", cluster: prophecy}
+  abraham-was-one-we-are-many: {label: "Survivors in the ruins argue 'Abraham was only one and inherited the land; we are many, so the land is given to us'", cluster: patriarchs}
+  prophet-as-love-song-entertainer: {label: "People come to hear the prophet as one hears a lovely singer of love songs with a fine instrument, but do not do his words", cluster: prophecy}
+  they-will-know-a-prophet-was-among-them: {label: "When the word comes true, 'they shall know that a prophet has been among them'", cluster: prophecy}
+  shepherds-feed-themselves-not-flock: {label: "Woe to the shepherds of Israel who feed themselves, eat the fat, wear the wool, slaughter the fatlings and do not tend the flock", cluster: kingship}
+  shepherd-duties-weak-sick-injured-strayed-lost: {label: "The shepherd's neglected duties: strengthen the weak, heal the sick, bind up the injured, bring back the strayed, seek the lost", cluster: kingship}
+  sheep-scattered-prey-to-beasts: {label: "Without a shepherd the flock is scattered over every mountain and hill and becomes food for wild beasts, with no one to search for them", cluster: kingship}
+  god-himself-will-shepherd: {label: "God declares 'I myself will search for my sheep and seek them out' and shepherd them on the mountains of Israel", cluster: theology}
+  god-judges-between-fat-and-lean-sheep: {label: "God judges between sheep and sheep, fat and lean, rams and goats who trample the pasture, foul the water and butt the weak with their horns", cluster: theology}
+  one-shepherd-my-servant-david: {label: "God will raise up over them one shepherd, 'my servant David', as prince (nasi) among them", cluster: messianism}
+  covenant-of-peace-wild-beasts-banished: {label: "God makes a covenant of peace, banishing evil beasts so the flock can dwell securely in the wilderness and sleep in the forests", cluster: restoration}
+  showers-of-blessing: {label: "God sends down the rain in its season, 'showers of blessing', and tree and land yield their fruit", cluster: restoration}
+  plantation-of-renown: {label: "God raises up for them 'a plantation of renown' (matta' leshem) so they are no longer consumed by famine", cluster: restoration}
+  you-are-my-flock-you-are-men: {label: "'You are my flock, the flock of my pasture; you are men (adam), and I am your God'", cluster: theology}
+  mount-seir-eternal-enmity: {label: "Mount Seir (Edom) is condemned for its 'eternal enmity', delivering Israel to the sword at the time of their calamity", cluster: prophecy}
+  blood-pursues-blood: {label: "'Since you did not hate blood, blood shall pursue you'", cluster: judgment}
+  edom-claims-two-nations-though-yhwh-there: {label: "Edom says 'these two nations and two lands will be mine' although YHWH was there", cluster: prophecy}
+  measure-for-measure-desolation: {label: "As the nation rejoiced over Israel's desolate inheritance, so God will make it desolate (measure for measure)", cluster: judgment}
+  mountains-of-israel-shall-bear-fruit: {label: "The mountains of Israel, mocked by the nations, will again put forth branches and bear fruit for God's returning people, and be tilled and sown", cluster: restoration}
+  land-no-longer-devours-its-children: {label: "The land that was said to devour men and bereave its nations will devour and bereave no more", cluster: restoration}
+  impurity-as-menstrual-uncleanness-of-land: {label: "Israel's conduct defiled the land 'like the uncleanness of a menstruous woman'", cluster: cult}
+  exile-profanes-gods-name-among-nations: {label: "The exiles profane God's holy name among the nations, who say 'These are YHWH's people, yet they had to leave his land'", cluster: theology}
+  not-for-your-sake-but-my-name: {label: "God declares 'Not for your sake do I act, O house of Israel, but for my holy name which you profaned'", cluster: theology}
+  sprinkle-clean-water-to-purify: {label: "God will sprinkle clean water upon them and purify them from all their uncleanness and idols", cluster: restoration}
+  god-puts-his-spirit-within: {label: "God will put his own spirit within them and cause them to walk in his statutes", cluster: theology}
+  desolate-land-like-garden-of-eden: {label: "Onlookers say 'This desolate land has become like the garden of Eden'", cluster: restoration}
+  increase-like-holy-flocks-at-festivals: {label: "God will multiply the people like flocks of men, like the holy flocks of Jerusalem at her appointed feasts", cluster: restoration}
+  valley-of-dry-bones: {label: "The prophet is set down in a valley full of very many, very dry bones and led around among them", cluster: afterlife}
+  can-these-bones-live: {label: "God asks 'Can these bones live?' and the prophet answers 'Lord God, you know'", cluster: afterlife}
+  bones-reassembled-sinews-flesh-skin: {label: "At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh and skin cover them, but there is no breath", cluster: afterlife}
+  prophesy-to-the-breath-from-four-winds: {label: "The prophet summons the breath (ruah) from the four winds to breathe into the slain so they live", cluster: afterlife}
+  dead-revived-as-vast-army: {label: "The revived dead stand on their feet, an exceedingly great army", cluster: afterlife}
+  our-bones-are-dried-hope-lost: {label: "The exiles say 'Our bones are dried up, our hope is lost, we are cut off'", cluster: theology}
+  god-opens-graves-raises-people: {label: "God will open his people's graves, bring them up from their graves and bring them to the land of Israel", cluster: afterlife}
+  two-sticks-joined-into-one: {label: "Prophet writes 'For Judah' and 'For Joseph, the stick of Ephraim' on two sticks and joins them into one in his hand: the reunited kingdom", cluster: prophecy}
+  one-nation-one-king-no-more-divided: {label: "Israel will be one nation with one king, never again divided into two kingdoms", cluster: messianism}
+  david-prince-forever: {label: "'David my servant shall be their prince (nasi) forever'", cluster: messianism}
+  sanctuary-in-their-midst-forever: {label: "God sets his sanctuary in their midst forever and his dwelling (mishkan) is over them", cluster: restoration}
+  gog-of-magog-chief-prince: {label: "Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader", cluster: eschatology}
+  hooks-in-jaws-turned-back: {label: "God turns the invader around and puts hooks in his jaws to drag him out with all his army", cluster: eschatology}
+  coalition-of-distant-nations-with-gog: {label: "Gog's coalition: Persia, Cush, Put, Gomer with all its hordes, Beth-togarmah from the far north, many peoples", cluster: eschatology}
+  invader-from-recesses-of-north: {label: "The final invader comes from the farthest recesses of the north (yarketei tsafon)", cluster: eschatology}
+  invasion-in-latter-years: {label: "Gog is summoned 'after many days', 'in the latter years / end of days', against a land restored from the sword", cluster: eschatology}
+  invader-like-storm-cloud: {label: "The invading host comes up like a storm, like a cloud covering the land", cluster: eschatology}
+  attack-on-unwalled-peaceful-villages: {label: "The invader plots to attack a quiet people dwelling securely in unwalled villages without bars or gates, to seize plunder", cluster: eschatology}
+  sheba-dedan-tarshish-ask-about-plunder: {label: "Sheba, Dedan and the merchants of Tarshish ask the invader 'Have you come to take plunder?'", cluster: eschatology}
+  israel-at-navel-of-the-earth: {label: "Restored Israel dwells 'on the navel of the earth' (tabbur ha-arets)", cluster: cosmology}
+  gog-foretold-by-earlier-prophets: {label: "God asks 'Are you the one of whom I spoke in former days through my servants the prophets?'", cluster: prophecy}
+  great-earthquake-all-creatures-quake: {label: "On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake before God, mountains are thrown down and every wall falls", cluster: eschatology}
+  invaders-sword-against-brother: {label: "Every man's sword is turned against his brother in the enemy host", cluster: warfare}
+  plague-flood-hail-fire-sulfur-on-gog: {label: "God judges Gog with pestilence, blood, torrential rain, hailstones, fire and sulfur", cluster: eschatology}
+  bow-struck-from-left-arrows-from-right: {label: "God strikes the bow from the invader's left hand and makes the arrows drop from his right hand", cluster: warfare}
+  fire-on-magog-and-coastlands: {label: "God sends fire on Magog and on those who dwell securely in the coastlands", cluster: eschatology}
+  weapons-burned-seven-years: {label: "Israel's townsfolk burn the enemy weapons (shields, bows, arrows, clubs, spears) as fuel for seven years, cutting no wood from the forest", cluster: eschatology}
+  plunderers-plundered: {label: "Israel plunders those who plundered them and despoils those who despoiled them", cluster: warfare}
+  valley-of-hamon-gog: {label: "Gog and his horde are buried in the Valley of the Travelers east of the sea, renamed Valley of Hamon-Gog; a city is named Hamonah", cluster: eschatology}
+  seven-months-burial-to-cleanse-land: {label: "All Israel buries the dead for seven months to purify the land; appointed men search the land and mark every human bone with a sign (tsiyyun) for the buriers", cluster: purity}
+  sacrificial-feast-for-birds-and-beasts: {label: "God invites every bird and beast to his great sacrifice on the mountains of Israel to eat the flesh of mighty men and drink the blood of princes, as of rams, lambs, goats and Bashan bulls, till drunk with blood", cluster: eschatology}
+  feast-at-gods-table-on-horses-and-riders: {label: "The carrion-eaters are sated at God's table with horses, charioteers, warriors and all men of war", cluster: eschatology}
+  exile-explained-to-nations: {label: "The nations will know that Israel went into exile for its own iniquity because God hid his face, not because he was weak", cluster: theology}
+  god-pours-out-his-spirit: {label: "God will no longer hide his face from Israel, for he has poured out his spirit on the house of Israel", cluster: theology}
+  temple-vision-dated-rosh-hashanah-tenth: {label: "The temple vision is dated 'in the twenty-fifth year of our exile, at the beginning of the year (rosh ha-shanah), on the tenth of the month, the fourteenth year after the city fell, on that very day'", cluster: calendar}
+  very-high-mountain-with-city-structure: {label: "In visions of God the prophet is set on a very high mountain on which there is something like a city structure to the south", cluster: cosmology}
+  angelic-measurer-like-bronze: {label: "A man whose appearance is like bronze stands in the gate with a linen cord and a measuring reed, guiding the visionary", cluster: angels}
+  see-hear-and-tell-commission: {label: "Visionary told: 'look with your eyes, hear with your ears, set your heart on all I show you, and declare it all to the house of Israel'", cluster: prophecy}
+  measuring-reed-six-long-cubits: {label: "The measuring reed is six cubits, each a cubit and a handbreadth (the long cubit)", cluster: architecture}
+  visionary-temple-measured-gate-by-gate: {label: "The visionary temple is measured part by part: wall, three-sided gatehouses with three guard chambers each, porches, jambs, windows and palm ornaments", cluster: architecture}
+  three-identical-outer-gates-east-north-south: {label: "Three identical gatehouses (east, north, south), 50 by 25 cubits, with seven steps to the outer court and eight to the inner", cluster: architecture}
+  thirty-chambers-on-pavement: {label: "Thirty chambers stand on the stone pavement around the outer court", cluster: architecture}
+  hundred-cubit-courts: {label: "Gate stands opposite gate at 100 cubits; the inner court is a square 100 by 100 cubits with the altar before the house", cluster: architecture}
+  eight-slaughter-tables-at-gate: {label: "Eight tables at the inner gate for slaughtering burnt, sin and guilt offerings, and four hewn-stone tables for the implements, with hooks a handbreadth long", cluster: cult}
+  chambers-for-singers-and-priests: {label: "Chambers in the inner court for the (singers/)priests who keep the charge of the house and those who keep the charge of the altar", cluster: cult}
+  zadokites-alone-approach-altar: {label: "Only the sons of Zadok among the Levites may come near to YHWH to minister at the altar", cluster: cult}
+  temple-porch-with-two-pillars: {label: "The porch of the house is reached by steps and has pillars beside its jambs, one on each side", cluster: architecture}
+units:
+  - id: hb-ezek-5-hair-thirds
+    tradition: judaism
+    title: The shaven hair divided in thirds; Jerusalem in the midst of the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 5:1-17"]
+    tags:
+      - {motif: prophet-shaves-hair-with-sword-sign, refs: ["Ezek 5:1", "Ezek 5:2"], note: "a sharp sword used as a barber's razor; hair weighed on scales"}
+      - {motif: few-hairs-bound-in-hem, refs: ["Ezek 5:3", "Ezek 5:4"], note: "bound in his 'wings' (kenafekha); a fire goes out from them to all Israel"}
+      - {motif: jerusalem-set-in-midst-of-nations, refs: ["Ezek 5:5"]}
+      - {motif: unparalleled-judgment-never-again, refs: ["Ezek 5:9"]}
+      - {motif: reciprocal-cannibalism-fathers-and-sons, refs: ["Ezek 5:10"]}
+      - {motif: cannibalism-in-siege, refs: ["Ezek 5:10"]}
+      - {motif: scattering-among-nations, refs: ["Ezek 5:2", "Ezek 5:10", "Ezek 5:12"], note: "'to every wind'; God unsheathes a sword after them"}
+      - {motif: divine-oath-by-own-life, refs: ["Ezek 5:11"]}
+      - {motif: sword-famine-pestilence-triad, refs: ["Ezek 5:12", "Ezek 5:17"]}
+      - {motif: arrows-of-famine, refs: ["Ezek 5:16"]}
+      - {motif: famine-summoned-staff-of-bread-broken, refs: ["Ezek 5:16"]}
+      - {motif: wild-beasts-sent-as-punishment, refs: ["Ezek 5:17"]}
+      - {motif: byword-and-proverb-among-nations, refs: ["Ezek 5:14", "Ezek 5:15"]}
+    hints:
+      - "Hair-cutting and dividing as a symbolic act; compare Mesopotamian prophetic letters (Mari) in which a prophet's hair and garment hem are sent to the king as tokens."
+      - "Jerusalem at the center of the nations underlies the rabbinic and medieval 'navel of the world' idea (Tanhuma Kedoshim 10; Jubilees 8:19; medieval mappae mundi)."
+  - id: hb-ezek-6-mountains-of-israel
+    tradition: judaism
+    title: Oracle against the mountains of Israel and their high places
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 6:1-14"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 6:2"]}
+      - {motif: oracle-addressed-to-mountains, refs: ["Ezek 6:2", "Ezek 6:3"]}
+      - {motif: hammanim-incense-stands, refs: ["Ezek 6:4", "Ezek 6:6"]}
+      - {motif: corpses-before-idols-bones-around-altars, refs: ["Ezek 6:4", "Ezek 6:5", "Ezek 6:13"]}
+      - {motif: high-places-green-trees, refs: ["Ezek 6:13"], note: "every high hill, mountaintops, every leafy tree and thick terebinth, where they offered 'pleasing odor' to idols"}
+      - {motif: remnant-loathes-itself-in-exile, refs: ["Ezek 6:8", "Ezek 6:9", "Ezek 6:10"], note: "their 'whoring heart' and 'whoring eyes'"}
+      - {motif: prophet-claps-and-stamps, refs: ["Ezek 6:11"]}
+      - {motif: sword-famine-pestilence-triad, refs: ["Ezek 6:11", "Ezek 6:12"], note: "the far dies of plague, the near by sword, the besieged by famine"}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 6:7", "Ezek 6:10", "Ezek 6:13", "Ezek 6:14"]}
+  - id: hb-ezek-7-the-end
+    tradition: judaism
+    title: The end has come upon the four corners of the land
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 7:1-27"]
+    tags:
+      - {motif: the-end-has-come, refs: ["Ezek 7:2", "Ezek 7:3", "Ezek 7:6"], note: "wordplay qets ... heqits 'the end has awakened'"}
+      - {motif: four-corners-of-the-earth, refs: ["Ezek 7:2"]}
+      - {motif: end-of-days-oracle, refs: ["Ezek 7:7", "Ezek 7:10", "Ezek 7:12"], note: "'the day is near'; the obscure tsefirah 'doom/diadem' has come; 'the rod has blossomed'"}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 7:4", "Ezek 7:9", "Ezek 7:27"], note: "7:9 'YHWH who strikes'"}
+      - {motif: survivors-moan-like-doves, refs: ["Ezek 7:16"]}
+      - {motif: knees-turn-to-water, refs: ["Ezek 7:17"]}
+      - {motif: silver-gold-thrown-in-streets, refs: ["Ezek 7:19"]}
+      - {motif: gods-treasured-place-profaned, refs: ["Ezek 7:22"]}
+      - {motif: divine-face-hidden-or-turned, refs: ["Ezek 7:22"]}
+      - {motif: vision-sought-from-prophet-torah-perishes, refs: ["Ezek 7:26"]}
+      - {motif: sword-famine-pestilence-triad, refs: ["Ezek 7:15"]}
+      - {motif: fast-sackcloth-and-earth-on-heads, refs: ["Ezek 7:18"], note: "sackcloth, shame on faces and baldness on all heads"}
+    hints:
+      - "Compare Amos 8:2 ('the end has come upon my people') and the Qumran and apocalyptic 'time of the end' (Dan 8:17)."
+  - id: hb-ezek-8-temple-abominations
+    tradition: judaism
+    title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 8:1-18"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 8:1"], note: "sixth year, sixth month, fifth day"}
+      - {motif: elders-sit-before-prophet, refs: ["Ezek 8:1"]}
+      - {motif: fiery-figure-gleaming-like-amber, refs: ["Ezek 8:2"]}
+      - {motif: prophet-lifted-by-lock-of-hair, refs: ["Ezek 8:3"], note: "'the form (tavnit) of a hand' takes him by the tsitsit of his head"}
+      - {motif: visionary-journey-to-jerusalem, refs: ["Ezek 8:3"]}
+      - {motif: image-of-jealousy, refs: ["Ezek 8:3", "Ezek 8:5"]}
+      - {motif: glory-of-yhwh-in-cloud, refs: ["Ezek 8:4"], note: "the glory as seen in the plain (biq'ah); no cloud mentioned here"}
+      - {motif: prophet-digs-through-wall, refs: ["Ezek 8:7", "Ezek 8:8"]}
+      - {motif: secret-chamber-of-animal-images, refs: ["Ezek 8:10"]}
+      - {motif: seventy-elders, refs: ["Ezek 8:11"], note: "with Jaazaniah son of Shaphan standing among them"}
+      - {motif: elders-offer-incense-in-dark, refs: ["Ezek 8:11", "Ezek 8:12"]}
+      - {motif: god-does-not-see-us, refs: ["Ezek 8:12"]}
+      - {motif: women-weeping-for-tammuz, refs: ["Ezek 8:14"]}
+      - {motif: sun-worship-backs-to-temple, refs: ["Ezek 8:16"]}
+      - {motif: worship-of-host-of-heaven, refs: ["Ezek 8:16"]}
+      - {motif: branch-to-the-nose, refs: ["Ezek 8:17"], note: "rabbinic tradition reads it as a tiqqun soferim for 'my nose'"}
+      - {motif: god-refuses-to-hear-loud-cry, refs: ["Ezek 8:18"]}
+    hints:
+      - "Tammuz = Sumerian Dumuzi, the shepherd-lover of Inanna/Ishtar mourned annually in the month Tammuz; compare Adonis laments (Byblos) and Jerome's note on Bethlehem's Adonis grotto."
+      - "Prophet carried by the hair: Bel and the Dragon 36 (angel carries Habakkuk by his hair to Babylon)."
+      - "Mishnah Sukkah 5:4: at the Water-Drawing the priests turned westward and said 'our fathers in this place had their backs to the temple and faces east, bowing to the sun; we are for God.'"
+  - id: hb-ezek-9-mark-on-foreheads
+    tradition: judaism
+    title: The six executioners and the man in linen who marks the foreheads
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 9:1-11"]
+    tags:
+      - {motif: six-executioners-of-the-city, refs: ["Ezek 9:1", "Ezek 9:2"], note: "'appointed ones (pequddot) of the city'; they come from the upper gate facing north and stand by the bronze altar"}
+      - {motif: man-in-linen-with-scribes-inkhorn, refs: ["Ezek 9:2", "Ezek 9:3", "Ezek 9:11"], note: "qeset ha-sofer"}
+      - {motif: tav-mark-on-foreheads-of-mourners, refs: ["Ezek 9:4", "Ezek 9:6"]}
+      - {motif: destroyer-passes-over-marked-houses, refs: ["Ezek 9:6"], note: "inverse/echo: marked persons are spared"}
+      - {motif: judgment-begins-at-the-sanctuary, refs: ["Ezek 9:6", "Ezek 9:7"], note: "they are told to defile the house and fill the courts with slain"}
+      - {motif: glory-departs-temple-in-stages, refs: ["Ezek 9:3"], note: "the glory rises from the cherub to the threshold"}
+      - {motif: prophet-cries-will-you-destroy-remnant, refs: ["Ezek 9:8"]}
+      - {motif: god-does-not-see-us, refs: ["Ezek 9:9"]}
+      - {motif: angelic-agent-reports-task-done, refs: ["Ezek 9:11"]}
+    hints:
+      - "The tav in the old script was an X/cross; Tertullian (Adv. Marc. 3.22) and other Fathers read it as the sign of the cross; b. Shabbat 55a: tav for tihyeh/tamut (live/die) and the 'seal of God is truth'; Rev 7:3-4 and 9:4 (sealing the servants of God on the forehead); CD 19:12 cites the verse."
+      - "The seven heavenly figures (six plus a scribe) recall the Mesopotamian seven sages/demons and the scribal god Nabu."
+  - id: hb-ezek-10-cherubim-and-wheels
+    tradition: judaism
+    title: Coals from between the cherubim; the wheels full of eyes; the glory leaves the temple
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 10:1-22"]
+    tags:
+      - {motif: sapphire-throne-above-firmament, refs: ["Ezek 10:1"]}
+      - {motif: coals-from-between-cherubim-scattered, refs: ["Ezek 10:2", "Ezek 10:6", "Ezek 10:7"], note: "a cherub stretches out his hand and puts fire in the linen-clad man's hands"}
+      - {motif: man-in-linen-with-scribes-inkhorn, refs: ["Ezek 10:2", "Ezek 10:6"]}
+      - {motif: glory-of-yhwh-in-cloud, refs: ["Ezek 10:3", "Ezek 10:4"], note: "cloud fills the house; the court full of the brightness of the glory"}
+      - {motif: sound-of-wings-like-voice-of-shaddai, refs: ["Ezek 10:5"]}
+      - {motif: wheel-within-a-wheel, refs: ["Ezek 10:9", "Ezek 10:10", "Ezek 10:11"]}
+      - {motif: wheels-full-of-eyes, refs: ["Ezek 10:12"]}
+      - {motif: wheels-called-galgal, refs: ["Ezek 10:2", "Ezek 10:13"]}
+      - {motif: four-faced-cherubim, refs: ["Ezek 10:8", "Ezek 10:14", "Ezek 10:21", "Ezek 10:22"], note: "here the first face is 'the face of the cherub' where Ezek 1:10 has an ox"}
+      - {motif: spirit-of-creature-in-wheels, refs: ["Ezek 10:17"]}
+      - {motif: enthroned-on-cherubim, refs: ["Ezek 10:1", "Ezek 10:20"], note: "the prophet recognizes the creatures of the Chebar vision as cherubim"}
+      - {motif: glory-departs-temple-in-stages, refs: ["Ezek 10:4", "Ezek 10:18", "Ezek 10:19"]}
+    hints:
+      - "The merkavah tradition (m. Hagigah 2:1 forbids expounding it publicly); ofannim become an angelic class (1 Enoch 61:10, 71:7; Hekhalot literature; Christian 'thrones'). Four faces underlie the four evangelist symbols (Irenaeus, Adv. Haer. 3.11.8) and Rev 4:6-8."
+  - id: hb-ezek-11-cauldron-new-heart
+    tradition: judaism
+    title: The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on the Mount of Olives
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 11:1-25"]
+    tags:
+      - {motif: cauldron-and-meat-proverb, refs: ["Ezek 11:3", "Ezek 11:7", "Ezek 11:11"]}
+      - {motif: bystander-drops-dead-at-prophecy, refs: ["Ezek 11:13"], note: "Pelatiah ('YHWH rescues') son of Benaiah"}
+      - {motif: prophet-cries-will-you-destroy-remnant, refs: ["Ezek 11:13"]}
+      - {motif: god-as-small-sanctuary-in-exile, refs: ["Ezek 11:16"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 11:17"]}
+      - {motif: heart-of-stone-to-heart-of-flesh, refs: ["Ezek 11:19"], note: "'one heart'"}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Ezek 11:20"]}
+      - {motif: glory-departs-temple-in-stages, refs: ["Ezek 11:22", "Ezek 11:23"], note: "the glory stands on the mountain east of the city"}
+      - {motif: vision-ends-prophet-returned-to-exiles, refs: ["Ezek 11:1", "Ezek 11:24", "Ezek 11:25"]}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 11:10", "Ezek 11:12"]}
+    hints:
+      - "b. Megillah 29a: the 'little sanctuary' is the synagogue and house of study in Babylon."
+      - "Rabbinic tradition (Lam. Rabbah proem 25) has the Shekhinah wait on the Mount of Olives for three and a half years; compare Acts 1:11-12 and Zech 14:4."
+  - id: hb-ezek-12-exile-sign
+    tradition: judaism
+    title: The exile's baggage, eating with trembling, and the end of delayed visions
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 12:1-28"]
+    tags:
+      - {motif: rebellious-house-eyes-not-seeing, refs: ["Ezek 12:2", "Ezek 12:3", "Ezek 12:9"]}
+      - {motif: exile-baggage-sign-act, refs: ["Ezek 12:3", "Ezek 12:4", "Ezek 12:5", "Ezek 12:6", "Ezek 12:7"]}
+      - {motif: prophet-as-portent, refs: ["Ezek 12:6", "Ezek 12:11"]}
+      - {motif: god-spreads-net-over-king, refs: ["Ezek 12:13"]}
+      - {motif: captive-blinded, refs: ["Ezek 12:12", "Ezek 12:13"], note: "riddle: the prince will be brought to Babylon but will not see it, and die there (Zedekiah's blinding)"}
+      - {motif: scattering-among-nations, refs: ["Ezek 12:14", "Ezek 12:15"]}
+      - {motif: remnant-spared-to-tell-abominations, refs: ["Ezek 12:16"]}
+      - {motif: eating-bread-with-trembling-sign, refs: ["Ezek 12:18", "Ezek 12:19"]}
+      - {motif: proverb-vision-delayed-refuted, refs: ["Ezek 12:22", "Ezek 12:23", "Ezek 12:25", "Ezek 12:27", "Ezek 12:28"], note: "no more false vision or smooth divination"}
+    hints:
+      - "Josephus (Ant. 10.106-107) says Zedekiah disbelieved because Jeremiah said he would be taken to Babylon and Ezekiel said he would not see it; both came true."
+  - id: hb-ezek-13-false-prophets-and-prophetesses
+    tradition: judaism
+    title: Against the false prophets and the women who hunt souls
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 13:1-23"]
+    tags:
+      - {motif: prophets-from-own-heart, refs: ["Ezek 13:2", "Ezek 13:3", "Ezek 13:17"]}
+      - {motif: false-prophets-like-foxes-in-ruins, refs: ["Ezek 13:4"]}
+      - {motif: prophet-fails-to-stand-in-breach, refs: ["Ezek 13:5"], note: "'on the day of YHWH'"}
+      - {motif: divination-practiced, refs: ["Ezek 13:6", "Ezek 13:7", "Ezek 13:9", "Ezek 13:23"], note: "lying divination (qesem kazav) claiming 'oracle of YHWH'"}
+      - {motif: excluded-from-register-of-israel, refs: ["Ezek 13:9"]}
+      - {motif: peace-when-there-is-no-peace, refs: ["Ezek 13:10", "Ezek 13:16"]}
+      - {motif: whitewashed-wall-falls, refs: ["Ezek 13:10", "Ezek 13:11", "Ezek 13:12", "Ezek 13:13", "Ezek 13:14", "Ezek 13:15"]}
+      - {motif: hailstones-from-heaven-kill-enemy, refs: ["Ezek 13:11", "Ezek 13:13"], note: "'stones of elgavish' (hail), storm wind and flooding rain"}
+      - {motif: women-soul-hunters-with-bands, refs: ["Ezek 13:17", "Ezek 13:18", "Ezek 13:20", "Ezek 13:21"]}
+      - {motif: magic-for-handfuls-of-barley, refs: ["Ezek 13:19"]}
+      - {motif: souls-released-like-birds, refs: ["Ezek 13:20"]}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 13:9", "Ezek 13:14", "Ezek 13:21", "Ezek 13:23"]}
+    hints:
+      - "Kesatot have been compared with Mesopotamian binding magic (Maqlu) and with wrist-amulets; soul-trapping as birds has parallels in Egyptian ba-birds and in later Jewish and folk soul-catching."
+      - "The whitewashed wall is taken up in CD 8:12 and 19:24-25 ('builders of the wall ... daubers of whitewash') and in Acts 23:3 / Matt 23:27."
+  - id: hb-ezek-14-idols-in-heart-noah-daniel-job
+    tradition: judaism
+    title: Idols in the heart; Noah, Daniel and Job could not save the land
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 14:1-23"]
+    tags:
+      - {motif: elders-sit-before-prophet, refs: ["Ezek 14:1"]}
+      - {motif: idols-set-up-in-heart, refs: ["Ezek 14:3", "Ezek 14:4", "Ezek 14:7"]}
+      - {motif: god-answers-idolater-himself, refs: ["Ezek 14:4", "Ezek 14:7", "Ezek 14:8"], note: "applies to the resident alien (ger) too"}
+      - {motif: god-deceives-the-prophet, refs: ["Ezek 14:9", "Ezek 14:10"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Ezek 14:11"]}
+      - {motif: famine-summoned-staff-of-bread-broken, refs: ["Ezek 14:13"]}
+      - {motif: noah-daniel-job-righteous-trio, refs: ["Ezek 14:14", "Ezek 14:16", "Ezek 14:18", "Ezek 14:20"], note: "spelled Dan'el (dn'l) in the ketiv"}
+      - {motif: wild-beasts-sent-as-punishment, refs: ["Ezek 14:15"]}
+      - {motif: four-evil-judgments, refs: ["Ezek 14:21"]}
+      - {motif: divine-oath-by-own-life, refs: ["Ezek 14:16", "Ezek 14:18", "Ezek 14:20"]}
+      - {motif: survivors-console-by-their-deeds, refs: ["Ezek 14:22", "Ezek 14:23"]}
+    hints:
+      - "Dan'el is the righteous judge-king of the Ugaritic Aqhat epic (KTU 1.17-19); compare also Ezek 28:3. Abraham's bargaining for Sodom (Gen 18) is the inverse principle; Jer 15:1 names Moses and Samuel."
+  - id: hb-ezek-15-vine-wood
+    tradition: judaism
+    title: Parable of the useless vine-wood
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 15:1-8"]
+    tags:
+      - {motif: useless-vine-wood-parable, refs: ["Ezek 15:2", "Ezek 15:3", "Ezek 15:4", "Ezek 15:5", "Ezek 15:6"], note: "burned at both ends and charred in the middle"}
+      - {motif: divine-face-hidden-or-turned, refs: ["Ezek 15:7"], note: "inverse: God sets his face against them; 'they came out of the fire and the fire will consume them'"}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 15:7"]}
+    hints:
+      - "Compare the Israel-as-vine image (Ps 80, Isa 5) and John 15:6 (branches gathered and burned)."
+  - id: hb-ezek-16-foundling-bride
+    tradition: judaism
+    title: Jerusalem the exposed foundling, God's bride and the faithless harlot
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 16:1-43"]
+    tags:
+      - {motif: jerusalem-of-amorite-and-hittite-parents, refs: ["Ezek 16:3"]}
+      - {motif: exposed-newborn-girl-in-her-blood, refs: ["Ezek 16:4", "Ezek 16:5"], note: "a list of neonatal rites omitted: cutting the cord, washing, rubbing with salt, swaddling"}
+      - {motif: in-your-blood-live, refs: ["Ezek 16:6"], note: "recited at the circumcision rite and in the Passover Haggadah"}
+      - {motif: god-marries-city-as-bride, refs: ["Ezek 16:7", "Ezek 16:8", "Ezek 16:9"], note: "'your time was the time of love'"}
+      - {motif: spread-skirt-over-woman, refs: ["Ezek 16:8"]}
+      - {motif: bridal-adornment-catalogue, refs: ["Ezek 16:10", "Ezek 16:11", "Ezek 16:12", "Ezek 16:13"]}
+      - {motif: bride-gifts-nose-ring-bracelets, refs: ["Ezek 16:11", "Ezek 16:12"]}
+      - {motif: bride-becomes-harlot-trusting-beauty, refs: ["Ezek 16:14", "Ezek 16:15", "Ezek 16:25"]}
+      - {motif: idolatry-as-harlotry, refs: ["Ezek 16:15", "Ezek 16:16", "Ezek 16:17"]}
+      - {motif: male-images-made-from-gods-gifts, refs: ["Ezek 16:17", "Ezek 16:18", "Ezek 16:19"]}
+      - {motif: children-slaughtered-for-idols, refs: ["Ezek 16:20", "Ezek 16:21", "Ezek 16:36"]}
+      - {motif: child-passed-through-fire, refs: ["Ezek 16:21"]}
+      - {motif: nations-as-lovers-egypt-assyria-babylon, refs: ["Ezek 16:26", "Ezek 16:28", "Ezek 16:29"]}
+      - {motif: harlot-pays-her-lovers, refs: ["Ezek 16:31", "Ezek 16:33", "Ezek 16:34"]}
+      - {motif: adulteress-stripped-before-lovers, refs: ["Ezek 16:37", "Ezek 16:39"]}
+      - {motif: adulteress-stoned-and-hacked, refs: ["Ezek 16:38", "Ezek 16:40", "Ezek 16:41"]}
+    hints:
+      - "Infant exposure and rescue: Sargon of Akkad legend, Moses (Exod 2), Romulus and Remus, Oedipus; Arabian pre-Islamic burial of infant girls (Quran 81:8-9)."
+      - "Neonatal salting: b. Shabbat 129b; Galen on rubbing newborns with salt."
+      - "m. Megillah 4:10 lists Ezek 16 as a chapter not to be read as haftarah (R. Eliezer)."
+  - id: hb-ezek-16-sisters-sodom-samaria
+    tradition: judaism
+    title: Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 16:44-63"]
+    tags:
+      - {motif: like-mother-like-daughter, refs: ["Ezek 16:44", "Ezek 16:45"]}
+      - {motif: jerusalem-of-amorite-and-hittite-parents, refs: ["Ezek 16:45"]}
+      - {motif: samaria-and-sodom-as-sisters, refs: ["Ezek 16:46", "Ezek 16:47", "Ezek 16:48", "Ezek 16:51", "Ezek 16:52"]}
+      - {motif: sin-of-sodom-pride-plenty-neglect-of-poor, refs: ["Ezek 16:49", "Ezek 16:50"]}
+      - {motif: wicked-sodom, refs: ["Ezek 16:48", "Ezek 16:56"]}
+      - {motif: divine-oath-by-own-life, refs: ["Ezek 16:48"]}
+      - {motif: restoration-of-sodom, refs: ["Ezek 16:53", "Ezek 16:55"]}
+      - {motif: everlasting-covenant-renewed, refs: ["Ezek 16:60", "Ezek 16:62"]}
+      - {motif: forgiveness-leaves-shame-silent, refs: ["Ezek 16:61", "Ezek 16:63"]}
+    hints:
+      - "The social sin of Sodom recurs in rabbinic lore (m. Avot 5:10 'what is mine is mine'; b. Sanhedrin 109a-b, the bed of Sodom and the girl punished for feeding the poor)."
+  - id: hb-ezek-17-eagles-and-cedar
+    tradition: judaism
+    title: Riddle of the two eagles, the cedar and the vine; the messianic cedar shoot
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 17:1-24"]
+    tags:
+      - {motif: parable-and-riddles-of-old, refs: ["Ezek 17:2"], note: "'riddle a riddle (hud hidah) and parable a parable'"}
+      - {motif: great-eagle-plucks-cedar-top, refs: ["Ezek 17:3", "Ezek 17:4"], note: "'a land of Canaan (merchants), a city of traders'"}
+      - {motif: eagle-allegory-vine-turns-to-second-eagle, refs: ["Ezek 17:5", "Ezek 17:6", "Ezek 17:7", "Ezek 17:8"], note: "the seed planted like a willow (tsaftsafah)"}
+      - {motif: east-wind-carries-wicked-away, refs: ["Ezek 17:10"], note: "the east wind withers the replanted vine"}
+      - {motif: vassal-oath-by-god-broken, refs: ["Ezek 17:13", "Ezek 17:15", "Ezek 17:16", "Ezek 17:18", "Ezek 17:19"]}
+      - {motif: covenant-breaker-cannot-escape, refs: ["Ezek 17:15", "Ezek 17:16", "Ezek 17:18"]}
+      - {motif: god-spreads-net-over-king, refs: ["Ezek 17:20"]}
+      - {motif: messianic-cedar-shoot-on-high-mountain, refs: ["Ezek 17:22", "Ezek 17:23"]}
+      - {motif: birds-dwell-in-shade-of-great-tree, refs: ["Ezek 17:23"]}
+      - {motif: god-lowers-high-tree-raises-low, refs: ["Ezek 17:24"]}
+      - {motif: divine-oath-by-own-life, refs: ["Ezek 17:16", "Ezek 17:19"]}
+    hints:
+      - "The tree in which birds nest: Dan 4:9-18 (Nebuchadnezzar's tree), Matt 13:31-32 (mustard seed). Eagle-and-tree fable: the Etana myth (eagle and serpent in the tree); Aesop's eagle and fox. Eagle allegory reused in 4 Ezra 11-12."
+  - id: hb-ezek-18-sour-grapes
+    tradition: judaism
+    title: Sour grapes - individual responsibility and repentance
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 18:1-32"]
+    tags:
+      - {motif: sour-grapes-proverb, refs: ["Ezek 18:2", "Ezek 18:3"]}
+      - {motif: soul-that-sins-shall-die, refs: ["Ezek 18:4", "Ezek 18:20"], note: "'all souls are mine'"}
+      - {motif: individual-responsibility-no-vicarious-death, refs: ["Ezek 18:17", "Ezek 18:19", "Ezek 18:20"]}
+      - {motif: righteous-man-catalogue-of-virtues, refs: ["Ezek 18:5", "Ezek 18:6", "Ezek 18:7", "Ezek 18:8", "Ezek 18:9"]}
+      - {motif: intercourse-during-menstruation-forbidden, refs: ["Ezek 18:6"]}
+      - {motif: interest-forbidden-to-brother, refs: ["Ezek 18:8", "Ezek 18:13", "Ezek 18:17"], note: "neshekh and tarbit"}
+      - {motif: pledged-cloak-returned-by-sunset, refs: ["Ezek 18:7", "Ezek 18:12", "Ezek 18:16"], note: "restores the debtor's pledge"}
+      - {motif: three-generation-test-case, refs: ["Ezek 18:10", "Ezek 18:14", "Ezek 18:18"]}
+      - {motif: repentant-wicked-past-sins-forgotten, refs: ["Ezek 18:21", "Ezek 18:22", "Ezek 18:24", "Ezek 18:26", "Ezek 18:27", "Ezek 18:28"]}
+      - {motif: god-desires-not-death-of-wicked, refs: ["Ezek 18:23", "Ezek 18:32"]}
+      - {motif: way-of-lord-not-fair-complaint, refs: ["Ezek 18:25", "Ezek 18:29"]}
+      - {motif: make-yourselves-new-heart, refs: ["Ezek 18:31"]}
+    hints:
+      - "Jer 31:29-30 has the same proverb. Quran 6:164, 17:15, 35:18 ('no bearer of burdens bears another's burden'). Contrast Exod 20:5. Ezek 18:23/32 underlies 1 Tim 2:4 and 2 Pet 3:9 and the Yom Kippur liturgy."
+  - id: hb-ezek-19-lament-lioness-vine
+    tradition: judaism
+    title: Dirge for the princes of Israel - the lioness and her cubs, the uprooted vine
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 19:1-14"]
+    tags:
+      - {motif: prophetic-qinah-dirge, refs: ["Ezek 19:1", "Ezek 19:14"]}
+      - {motif: lament-lioness-and-cubs, refs: ["Ezek 19:2", "Ezek 19:3", "Ezek 19:4", "Ezek 19:5", "Ezek 19:6", "Ezek 19:7", "Ezek 19:8", "Ezek 19:9"]}
+      - {motif: people-as-lion, refs: ["Ezek 19:2"]}
+      - {motif: king-taken-with-hooks-in-bronze-fetters, refs: ["Ezek 19:4", "Ezek 19:9"], note: "lion taken in a pit and net, brought in a cage (sugar) with hooks to the king of Babylon"}
+      - {motif: royal-vine-uprooted-and-burned, refs: ["Ezek 19:10", "Ezek 19:11", "Ezek 19:12", "Ezek 19:13", "Ezek 19:14"]}
+      - {motif: east-wind-carries-wicked-away, refs: ["Ezek 19:12"]}
+    hints:
+      - "Lion-capture imagery (cage, pit, net) matches Assyrian royal lion hunts and the caged-king image in Ashurbanipal's inscriptions; compare Gen 49:9 (Judah as lion's whelp)."
+  - id: hb-ezek-20-history-of-rebellion
+    tradition: judaism
+    title: Israel's history of rebellion from Egypt; the second exodus into the wilderness of the peoples
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 20:1-44"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 20:1"], note: "seventh year, fifth month, tenth day"}
+      - {motif: elders-sit-before-prophet, refs: ["Ezek 20:1"]}
+      - {motif: god-refuses-to-be-inquired-of, refs: ["Ezek 20:3", "Ezek 20:31"]}
+      - {motif: historical-recital-of-salvation, refs: ["Ezek 20:5", "Ezek 20:6", "Ezek 20:10", "Ezek 20:28"], note: "told as a recital of rebellion in four generations"}
+      - {motif: land-flowing-milk-and-honey, refs: ["Ezek 20:6", "Ezek 20:15"], note: "'the beauty (tsevi) of all lands'"}
+      - {motif: idols-of-egypt-in-wilderness-generation, refs: ["Ezek 20:7", "Ezek 20:8"]}
+      - {motif: god-acts-for-sake-of-his-name, refs: ["Ezek 20:9", "Ezek 20:14", "Ezek 20:22", "Ezek 20:44"]}
+      - {motif: live-by-the-commandments, refs: ["Ezek 20:11", "Ezek 20:13", "Ezek 20:21"]}
+      - {motif: sabbath-as-covenant-sign, refs: ["Ezek 20:12", "Ezek 20:20"]}
+      - {motif: god-gave-laws-not-good, refs: ["Ezek 20:25", "Ezek 20:26"]}
+      - {motif: child-passed-through-fire, refs: ["Ezek 20:26", "Ezek 20:31"]}
+      - {motif: high-places-green-trees, refs: ["Ezek 20:28"]}
+      - {motif: etiology-of-bamah-name, refs: ["Ezek 20:29"]}
+      - {motif: be-like-the-nations-serve-wood-and-stone, refs: ["Ezek 20:32"]}
+      - {motif: god-will-reign-with-poured-out-wrath, refs: ["Ezek 20:33", "Ezek 20:34"]}
+      - {motif: outstretched-arm, refs: ["Ezek 20:33", "Ezek 20:34"]}
+      - {motif: wilderness-of-the-peoples-judgment, refs: ["Ezek 20:35", "Ezek 20:36"]}
+      - {motif: pass-under-the-rod-into-covenant, refs: ["Ezek 20:37", "Ezek 20:38"]}
+      - {motif: restored-worship-on-gods-holy-mountain, refs: ["Ezek 20:40", "Ezek 20:41"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 20:34", "Ezek 20:41", "Ezek 20:42"]}
+      - {motif: remnant-loathes-itself-in-exile, refs: ["Ezek 20:43"]}
+    hints:
+      - "The 'laws that were not good' troubled later readers: compare Justin Martyr and the Didascalia on the 'second legislation' as punishment for the calf, and Quran 4:160 (good things forbidden to the Jews for their wrongdoing)."
+      - "Ezek 20:32-33 ('I will be king over you') is cited in b. Rosh Hashanah 32b among the Malkhuyot verses."
+  - id: hb-ezek-21-sword-oracles
+    tradition: judaism
+    title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against Ammon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 21:1-37"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 21:2", "Ezek 21:7"], note: "toward Teman, Darom and the Negev forest"}
+      - {motif: forest-fire-green-and-dry, refs: ["Ezek 21:3", "Ezek 21:4"]}
+      - {motif: prophet-mocked-as-maker-of-parables, refs: ["Ezek 21:5"]}
+      - {motif: sword-drawn-from-sheath-not-returned, refs: ["Ezek 21:8", "Ezek 21:9", "Ezek 21:10"]}
+      - {motif: prophet-groans-before-them, refs: ["Ezek 21:11", "Ezek 21:12"]}
+      - {motif: knees-turn-to-water, refs: ["Ezek 21:12"]}
+      - {motif: song-of-the-sword, refs: ["Ezek 21:14", "Ezek 21:15", "Ezek 21:16", "Ezek 21:19", "Ezek 21:20", "Ezek 21:21"], note: "'sword, sword, sharpened and polished'; the sword is doubled and tripled"}
+      - {motif: prophet-claps-and-stamps, refs: ["Ezek 21:17", "Ezek 21:19", "Ezek 21:22"], note: "slap the thigh, strike palm to palm; God too claps his hands"}
+      - {motif: king-of-babylon-divines-at-crossroads, refs: ["Ezek 21:24", "Ezek 21:25", "Ezek 21:26", "Ezek 21:27"], note: "the prophet marks a signpost ('hand') at the head of the road"}
+      - {motif: belomancy-arrow-divination, refs: ["Ezek 21:26"]}
+      - {motif: hepatoscopy-liver-divination, refs: ["Ezek 21:26"]}
+      - {motif: teraphim-and-mediums-purged, refs: ["Ezek 21:26"], note: "the king 'asks of the teraphim' (not a purge)"}
+      - {motif: turban-removed-crown-taken, refs: ["Ezek 21:30", "Ezek 21:31"]}
+      - {motif: ruin-ruin-ruin-until-rightful-one, refs: ["Ezek 21:32"]}
+      - {motif: scepter-shall-not-depart-until-shiloh, refs: ["Ezek 21:32"], note: "'until he comes whose is the judgment' echoes Gen 49:10"}
+      - {motif: sword-returned-to-sheath-judged-in-homeland, refs: ["Ezek 21:33", "Ezek 21:34", "Ezek 21:35", "Ezek 21:36", "Ezek 21:37"]}
+    hints:
+      - "Babylonian hepatoscopy (barutu) is amply documented in clay liver models; arrow-divination (istiqsam bi-l-azlam) is condemned in Quran 5:3 and 5:90 and was practiced at the Kaaba before Hubal."
+  - id: hb-ezek-22-city-of-blood
+    tradition: judaism
+    title: The city of blood; the dross in the furnace; no man in the breach
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 22:1-31"]
+    tags:
+      - {motif: city-of-blood-indictment, refs: ["Ezek 22:2", "Ezek 22:3", "Ezek 22:4"]}
+      - {motif: catalogue-of-jerusalem-sins, refs: ["Ezek 22:6", "Ezek 22:7", "Ezek 22:8", "Ezek 22:9", "Ezek 22:10", "Ezek 22:11", "Ezek 22:12"]}
+      - {motif: no-marrying-fathers-wife, refs: ["Ezek 22:10"], note: "'they uncovered the father's nakedness'"}
+      - {motif: incest-prohibitions-list, refs: ["Ezek 22:10", "Ezek 22:11"], note: "daughter-in-law, sister the father's daughter; menstruant violated"}
+      - {motif: interest-forbidden-to-brother, refs: ["Ezek 22:12"]}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Ezek 22:7", "Ezek 22:29"], note: "inverse: these are oppressed"}
+      - {motif: prophet-claps-and-stamps, refs: ["Ezek 22:13"], note: "God strikes his palm at their gain"}
+      - {motif: israel-as-dross-in-furnace, refs: ["Ezek 22:18", "Ezek 22:19", "Ezek 22:20", "Ezek 22:21", "Ezek 22:22"]}
+      - {motif: land-unwashed-by-rain, refs: ["Ezek 22:24"]}
+      - {motif: leaders-as-wolves-and-roaring-lions, refs: ["Ezek 22:25", "Ezek 22:27"]}
+      - {motif: priests-fail-to-distinguish-holy-profane, refs: ["Ezek 22:26"]}
+      - {motif: whitewashed-wall-falls, refs: ["Ezek 22:28"]}
+      - {motif: no-man-to-stand-in-breach, refs: ["Ezek 22:30"]}
+    hints:
+      - "Zeph 3:3-4 has the same sequence of princes as lions, judges as wolves, prophets and priests; Ps 106:23 has Moses 'standing in the breach'."
+  - id: hb-ezek-23-oholah-oholibah
+    tradition: judaism
+    title: Oholah and Oholibah, the two harlot sisters
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 23:1-49"]
+    tags:
+      - {motif: oholah-and-oholibah, refs: ["Ezek 23:2", "Ezek 23:4", "Ezek 23:36", "Ezek 23:44"]}
+      - {motif: marriage-to-two-sisters, refs: ["Ezek 23:4"], note: "God as husband of two sisters, against Lev 18:18"}
+      - {motif: harlotry-begun-in-egypt-youth, refs: ["Ezek 23:3", "Ezek 23:8", "Ezek 23:19", "Ezek 23:21", "Ezek 23:27"]}
+      - {motif: lusting-after-handsome-assyrian-horsemen, refs: ["Ezek 23:5", "Ezek 23:6", "Ezek 23:12", "Ezek 23:23"]}
+      - {motif: idolatry-as-harlotry, refs: ["Ezek 23:7", "Ezek 23:30", "Ezek 23:37"]}
+      - {motif: lust-from-images-on-wall, refs: ["Ezek 23:14", "Ezek 23:15", "Ezek 23:16"]}
+      - {motif: lovers-with-flesh-of-donkeys, refs: ["Ezek 23:20"]}
+      - {motif: pekod-shoa-koa, refs: ["Ezek 23:23"]}
+      - {motif: nose-and-ears-cut-off, refs: ["Ezek 23:25"]}
+      - {motif: adulteress-stripped-before-lovers, refs: ["Ezek 23:10", "Ezek 23:26", "Ezek 23:29"]}
+      - {motif: sisters-cup-of-horror, refs: ["Ezek 23:31", "Ezek 23:32", "Ezek 23:33", "Ezek 23:34"]}
+      - {motif: cup-of-wrath, refs: ["Ezek 23:31", "Ezek 23:32", "Ezek 23:33"]}
+      - {motif: child-sacrifice-and-temple-same-day, refs: ["Ezek 23:37", "Ezek 23:38", "Ezek 23:39"]}
+      - {motif: harlot-paints-eyes-and-adorns-couch, refs: ["Ezek 23:40", "Ezek 23:41"]}
+      - {motif: queen-paints-eyes-looks-from-window, refs: ["Ezek 23:40"], note: "kahalt 'enayikh, as Jezebel"}
+      - {motif: sabeans-from-desert, refs: ["Ezek 23:42"]}
+      - {motif: adulteress-stoned-and-hacked, refs: ["Ezek 23:45", "Ezek 23:46", "Ezek 23:47"]}
+      - {motif: women-warned-by-example, refs: ["Ezek 23:48"]}
+    hints:
+      - "Nose-and-ear mutilation of adulteresses is attested in Middle Assyrian Laws A 15 and in Egyptian practice (Diodorus 1.78)."
+      - "Pekod (Puqudu), Shoa (Sutu) and Koa (Qutu) are Aramean and Mesopotamian peoples in Assyrian records."
+  - id: hb-ezek-24-pot-and-wifes-death
+    tradition: judaism
+    title: The rusted cauldron; death of the prophet's wife without mourning
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 24:1-27"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 24:1"], note: "ninth year, tenth month, tenth day"}
+      - {motif: siege-dated-tenth-month-tenth-day, refs: ["Ezek 24:1", "Ezek 24:2"]}
+      - {motif: prophet-writes-down-date-of-siege, refs: ["Ezek 24:2"]}
+      - {motif: boiling-pot-parable, refs: ["Ezek 24:3", "Ezek 24:4", "Ezek 24:5", "Ezek 24:6"], note: "'no lot has fallen on it'"}
+      - {motif: city-of-blood-indictment, refs: ["Ezek 24:6", "Ezek 24:9"]}
+      - {motif: blood-left-uncovered-on-bare-rock, refs: ["Ezek 24:7", "Ezek 24:8"]}
+      - {motif: hunted-animal-blood-covered-with-earth, refs: ["Ezek 24:7"], note: "allusion to Lev 17:13"}
+      - {motif: earth-do-not-cover-my-blood, refs: ["Ezek 24:8"]}
+      - {motif: empty-pot-heated-to-melt-rust, refs: ["Ezek 24:11", "Ezek 24:12", "Ezek 24:13"]}
+      - {motif: prophets-wife-dies-mourning-forbidden, refs: ["Ezek 24:16", "Ezek 24:17", "Ezek 24:18"]}
+      - {motif: mourning-rites-listed, refs: ["Ezek 24:17", "Ezek 24:22", "Ezek 24:23"]}
+      - {motif: temple-delight-of-eyes, refs: ["Ezek 24:21", "Ezek 24:25"]}
+      - {motif: prophet-as-portent, refs: ["Ezek 24:24", "Ezek 24:27"], note: "Ezekiel named in the third person: 'Ezekiel shall be a sign to you'"}
+      - {motif: prophets-muteness-ends-with-fugitive, refs: ["Ezek 24:26", "Ezek 24:27"]}
+    hints:
+      - "The 'bread of men' and the covering of the upper lip are the basis of halakhic mourning customs (se'udat havra'ah; b. Moed Qatan 15a-b, 27b, derive many avelut laws from this chapter)."
+      - "Blood that cries until covered: Gen 4:10; Job 16:18; the Zechariah blood legend (b. Gittin 57b) in which the priest's blood bubbles in the temple court."
+  - id: hb-ezek-25-ammon-moab-edom-philistia
+    tradition: judaism
+    title: Oracles against Ammon, Moab, Edom and Philistia
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 25:1-17"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 25:2"]}
+      - {motif: nations-gloat-he-ah, refs: ["Ezek 25:3", "Ezek 25:6", "Ezek 25:8"], note: "Moab and Seir: 'Judah is like all the nations'"}
+      - {motif: mockers-say-aha, refs: ["Ezek 25:3"]}
+      - {motif: given-to-sons-of-east, refs: ["Ezek 25:4", "Ezek 25:5", "Ezek 25:10"]}
+      - {motif: greatest-of-the-easterners, refs: ["Ezek 25:4", "Ezek 25:10"], note: "bene qedem as desert nomads"}
+      - {motif: edoms-vengeance-on-judah, refs: ["Ezek 25:12", "Ezek 25:13", "Ezek 25:14"], note: "from Teman to Dedan"}
+      - {motif: philistine-eternal-enmity-cherethites-cut-off, refs: ["Ezek 25:15", "Ezek 25:16", "Ezek 25:17"]}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 25:5", "Ezek 25:7", "Ezek 25:11", "Ezek 25:17"]}
+    hints:
+      - "Moabite towns Beth-jeshimoth, Baal-meon and Kiriathaim appear also in the Mesha Stele."
+  - id: hb-ezek-26-fall-of-tyre
+    tradition: judaism
+    title: Oracle on the fall of Tyre and the princes of the sea
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 26:1-21"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 26:1"], note: "eleventh year, first of the month (month unstated)"}
+      - {motif: tyre-gloats-gate-of-peoples-broken, refs: ["Ezek 26:2"]}
+      - {motif: mockers-say-aha, refs: ["Ezek 26:2"]}
+      - {motif: nations-come-like-sea-waves, refs: ["Ezek 26:3"]}
+      - {motif: tyre-bare-rock-for-drying-nets, refs: ["Ezek 26:4", "Ezek 26:5", "Ezek 26:14"]}
+      - {motif: nebuchadnezzar-king-of-kings-from-north, refs: ["Ezek 26:7", "Ezek 26:8", "Ezek 26:9", "Ezek 26:10", "Ezek 26:11"]}
+      - {motif: king-of-kings-title, refs: ["Ezek 26:7"], note: "applied to the Babylonian king"}
+      - {motif: music-of-city-silenced, refs: ["Ezek 26:13"]}
+      - {motif: princes-of-sea-descend-from-thrones-mourning, refs: ["Ezek 26:15", "Ezek 26:16", "Ezek 26:17", "Ezek 26:18"]}
+      - {motif: city-covered-by-tehom, refs: ["Ezek 26:19"]}
+      - {motif: city-sent-down-to-pit-ancient-dead, refs: ["Ezek 26:20"]}
+      - {motif: enemies-to-depths-of-earth, refs: ["Ezek 26:20"], note: "erets tahtiyyot"}
+      - {motif: sought-and-never-found-again, refs: ["Ezek 26:21"]}
+    hints:
+      - "The later failure of Nebuchadnezzar's 13-year siege is acknowledged in Ezek 29:17-20; Alexander's causeway (332 BCE) was later read as fulfilment (Jerome). Rev 18 reuses the lament of kings and merchants over Babylon."
+  - id: hb-ezek-27-ship-tyre
+    tradition: judaism
+    title: Lament over Tyre the great merchant ship
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 27:1-36"]
+    tags:
+      - {motif: prophetic-qinah-dirge, refs: ["Ezek 27:2", "Ezek 27:32"]}
+      - {motif: perfect-in-beauty, refs: ["Ezek 27:3", "Ezek 27:4", "Ezek 27:11"]}
+      - {motif: tyre-as-splendid-ship, refs: ["Ezek 27:4", "Ezek 27:5", "Ezek 27:6", "Ezek 27:7", "Ezek 27:8", "Ezek 27:9"]}
+      - {motif: mercenaries-persia-lud-put, refs: ["Ezek 27:10", "Ezek 27:11"]}
+      - {motif: catalogue-of-tyres-trading-partners, refs: ["Ezek 27:12", "Ezek 27:13", "Ezek 27:14", "Ezek 27:15", "Ezek 27:16", "Ezek 27:17", "Ezek 27:18", "Ezek 27:19", "Ezek 27:20", "Ezek 27:21", "Ezek 27:22", "Ezek 27:23", "Ezek 27:24", "Ezek 27:25"], note: "a geography close to the Table of Nations (Gen 10)"}
+      - {motif: slave-trade-souls-of-men, refs: ["Ezek 27:13"]}
+      - {motif: ship-wrecked-by-east-wind-in-heart-of-seas, refs: ["Ezek 27:26", "Ezek 27:27", "Ezek 27:34"]}
+      - {motif: east-wind-shatters-ships-of-tarshish, refs: ["Ezek 27:25", "Ezek 27:26"]}
+      - {motif: sailors-lament-dust-ashes-baldness, refs: ["Ezek 27:28", "Ezek 27:29", "Ezek 27:30", "Ezek 27:31"]}
+      - {motif: who-was-like-tyre, refs: ["Ezek 27:32"]}
+      - {motif: merchants-hiss-at-ruin, refs: ["Ezek 27:35", "Ezek 27:36"]}
+      - {motif: sought-and-never-found-again, refs: ["Ezek 27:36"]}
+    hints:
+      - "Rev 18:11-19 copies the merchant cargo list and the lament of shipmasters and sailors standing far off; compare the ship-of-state allegory (Alcaeus, Horace Odes 1.14)."
+  - id: hb-ezek-28-prince-of-tyre
+    tradition: judaism
+    title: The prince of Tyre who said 'I am a god'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 28:1-10"]
+    tags:
+      - {motif: ruler-claims-i-am-god, refs: ["Ezek 28:2", "Ezek 28:6", "Ezek 28:9"]}
+      - {motif: wiser-than-daniel, refs: ["Ezek 28:3"]}
+      - {motif: wealth-by-wisdom-and-trade-breeds-pride, refs: ["Ezek 28:4", "Ezek 28:5"]}
+      - {motif: pride-after-success-brings-fall, refs: ["Ezek 28:5", "Ezek 28:7"]}
+      - {motif: city-sent-down-to-pit-ancient-dead, refs: ["Ezek 28:8"], note: "brought down to the Pit (shahat), dying in the heart of the seas"}
+      - {motif: death-of-the-uncircumcised, refs: ["Ezek 28:10"]}
+    hints:
+      - "Ruler claiming divinity and seated on the waters: Quran 28:38 and 79:24 (Pharaoh 'I am your lord most high'); Isa 14:13-14; Acts 12:21-23 (Herod Agrippa). Rabbinic lore (Gen. Rabbah 9:5; Tanhuma Bereshit 7) lists Hiram among those who made themselves gods and had seven heavens built on the sea."
+  - id: hb-ezek-28-cherub-in-eden
+    tradition: judaism
+    title: Lament over the king of Tyre - the gem-covered cherub in Eden cast from God's mountain
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 28:11-19"]
+    tags:
+      - {motif: prophetic-qinah-dirge, refs: ["Ezek 28:12"]}
+      - {motif: seal-of-perfection, refs: ["Ezek 28:12"]}
+      - {motif: perfect-in-beauty, refs: ["Ezek 28:12"]}
+      - {motif: garden-of-god-in-east, refs: ["Ezek 28:13"], note: "'in Eden, the garden of God'"}
+      - {motif: primal-being-in-eden-covered-with-gems, refs: ["Ezek 28:13"], note: "nine stones in MT, all from the high priest's breastpiece; LXX has twelve; 'tuppim and neqavim' (settings, or drums and pipes)"}
+      - {motif: breastpiece-twelve-stones, refs: ["Ezek 28:13"]}
+      - {motif: paradise-gold-and-gems, refs: ["Ezek 28:13"]}
+      - {motif: anointed-guardian-cherub, refs: ["Ezek 28:14", "Ezek 28:16"], note: "MT 'you (fem. 'at) were a cherub'; LXX 'with the cherub'"}
+      - {motif: cherubim-guard-paradise, refs: ["Ezek 28:14", "Ezek 28:16"]}
+      - {motif: mountain-of-god, refs: ["Ezek 28:14", "Ezek 28:16"], note: "Eden located on the holy mountain of God"}
+      - {motif: walking-among-stones-of-fire, refs: ["Ezek 28:14", "Ezek 28:16"]}
+      - {motif: blameless-from-creation-until-iniquity-found, refs: ["Ezek 28:15"]}
+      - {motif: wealth-by-wisdom-and-trade-breeds-pride, refs: ["Ezek 28:16", "Ezek 28:17", "Ezek 28:18"], note: "violence through abundance of trade; heart proud of beauty"}
+      - {motif: expulsion-from-mountain-of-god, refs: ["Ezek 28:16", "Ezek 28:17"]}
+      - {motif: fire-from-within-consumes-to-ashes, refs: ["Ezek 28:18"]}
+      - {motif: sought-and-never-found-again, refs: ["Ezek 28:19"], note: "'you have become terrors and are no more forever'"}
+    hints:
+      - "Read by Origen (De Principiis 1.5.4), Tertullian and later Christian tradition, together with Isa 14:12, as the fall of Satan/Lucifer; compare the Quranic Iblis (proud of being made of fire, 7:12; expelled from the garden, 7:13) and 2 Enoch 29:4-5."
+      - "A different primal-man version of Eden (Adam on the mountain, robed in glory/gems) appears in Pirqe de-Rabbi Eliezer 12 and in the Syriac Cave of Treasures; Mesopotamian jewel-garden of Gilgamesh XI (garden of gem-trees)."
+  - id: hb-ezek-28-sidon-and-restoration
+    tradition: judaism
+    title: Against Sidon; Israel gathered to dwell securely
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 28:20-26"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 28:21"]}
+      - {motif: sanctification-of-gods-name, refs: ["Ezek 28:22", "Ezek 28:25"], note: "'I will be sanctified in her' / 'in them before the nations'"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Ezek 28:23"], note: "pestilence and blood, sword"}
+      - {motif: thorns-and-briers-of-neighbors-removed, refs: ["Ezek 28:24"]}
+      - {motif: remaining-natives-as-thorns, refs: ["Ezek 28:24"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 28:25"]}
+      - {motif: dwell-securely-build-houses-plant-vineyards, refs: ["Ezek 28:26"]}
+  - id: hb-ezek-29-pharaoh-the-dragon
+    tradition: judaism
+    title: Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar's wages
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 29:1-21"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 29:1", "Ezek 29:17"], note: "10th year 10th month 12th day; 29:17 is the latest date in the book, 27th year 1st month 1st day"}
+      - {motif: pharaoh-as-great-tannin-in-nile, refs: ["Ezek 29:3"]}
+      - {motif: my-nile-i-made-myself, refs: ["Ezek 29:3", "Ezek 29:9"]}
+      - {motif: hooks-in-jaws-fish-stuck-to-scales, refs: ["Ezek 29:4"]}
+      - {motif: monster-cannot-be-caught-with-hook, refs: ["Ezek 29:4"], note: "inverse: God does catch it"}
+      - {motif: monster-cast-in-wilderness-as-carrion, refs: ["Ezek 29:5"]}
+      - {motif: leviathan-given-as-food, refs: ["Ezek 29:5"]}
+      - {motif: broken-reed-egypt, refs: ["Ezek 29:6", "Ezek 29:7"]}
+      - {motif: egypt-desolate-forty-years, refs: ["Ezek 29:10", "Ezek 29:11", "Ezek 29:12", "Ezek 29:13", "Ezek 29:14", "Ezek 29:15"]}
+      - {motif: egypt-from-migdol-to-syene, refs: ["Ezek 29:10"]}
+      - {motif: scattering-among-nations, refs: ["Ezek 29:12"], note: "of Egypt"}
+      - {motif: egypt-given-as-wages-for-tyre-siege, refs: ["Ezek 29:18", "Ezek 29:19", "Ezek 29:20"]}
+      - {motif: horn-sprouts-for-israel, refs: ["Ezek 29:21"]}
+      - {motif: prophet-given-opening-of-mouth, refs: ["Ezek 29:21"]}
+    hints:
+      - "Pharaoh as crocodile/dragon: Isa 27:1, 51:9 (Rahab), Ps 74:13-14; Egyptian Sobek and Apophis; the Ugaritic tnn bound by Anat. Quran 10:90-92 (Pharaoh's body cast out as a sign) and 28:38-39 for Pharaoh's hubris."
+  - id: hb-ezek-30-day-of-egypt
+    tradition: judaism
+    title: The day of YHWH on Egypt; the cities of Egypt; Pharaoh's broken arms
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 30:1-26"]
+    tags:
+      - {motif: day-of-yhwh-near, refs: ["Ezek 30:2", "Ezek 30:3"], note: "'Wail: alas for the day!'"}
+      - {motif: mercenaries-persia-lud-put, refs: ["Ezek 30:5"], note: "Cush, Put, Lud, 'all the mixed people', Kub and 'the children of the land of the covenant' fall with Egypt"}
+      - {motif: messengers-in-ships-terrify-cush, refs: ["Ezek 30:9"]}
+      - {motif: egypt-from-migdol-to-syene, refs: ["Ezek 30:6"]}
+      - {motif: egypt-desolate-forty-years, refs: ["Ezek 30:7", "Ezek 30:12"], note: "desolation; the Nile channels dried up"}
+      - {motif: idols-of-memphis-destroyed, refs: ["Ezek 30:13"]}
+      - {motif: egyptian-cities-catalogue-doom, refs: ["Ezek 30:13", "Ezek 30:14", "Ezek 30:15", "Ezek 30:16", "Ezek 30:17", "Ezek 30:18"]}
+      - {motif: day-darkens-at-tahpanhes, refs: ["Ezek 30:18"]}
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 30:20"], note: "eleventh year, first month, seventh day"}
+      - {motif: pharaohs-arms-broken-babylons-strengthened, refs: ["Ezek 30:21", "Ezek 30:22", "Ezek 30:24", "Ezek 30:25"]}
+      - {motif: scattering-among-nations, refs: ["Ezek 30:23", "Ezek 30:26"]}
+    hints:
+      - "Egyptian royal ideology of the pharaoh's 'strong arm' (khopesh) - Hophra's epithet; compare Exod 6:6. Aven/On = Heliopolis, Pi-beseth = Bubastis of Bastet."
+  - id: hb-ezek-31-cosmic-cedar
+    tradition: judaism
+    title: The great cedar of Eden felled and sent down to Sheol
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 31:1-18"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 31:1"], note: "eleventh year, third month, first day"}
+      - {motif: cosmic-cedar-watered-by-tehom, refs: ["Ezek 31:3", "Ezek 31:4", "Ezek 31:5", "Ezek 31:6", "Ezek 31:7"]}
+      - {motif: birds-dwell-in-shade-of-great-tree, refs: ["Ezek 31:6"]}
+      - {motif: trees-of-eden-envy-great-tree, refs: ["Ezek 31:8", "Ezek 31:9", "Ezek 31:18"]}
+      - {motif: garden-of-god-in-east, refs: ["Ezek 31:8", "Ezek 31:9"], note: "Eden as a forest of cedars, cypresses and plane trees"}
+      - {motif: great-tree-felled-for-pride, refs: ["Ezek 31:10", "Ezek 31:11", "Ezek 31:12", "Ezek 31:13", "Ezek 31:14"]}
+      - {motif: deep-mourns-waters-stopped, refs: ["Ezek 31:15"]}
+      - {motif: like-those-who-go-down-to-pit, refs: ["Ezek 31:14", "Ezek 31:16"]}
+      - {motif: trees-of-eden-comforted-in-underworld, refs: ["Ezek 31:16", "Ezek 31:17"]}
+      - {motif: lie-among-uncircumcised-and-slain, refs: ["Ezek 31:17", "Ezek 31:18"]}
+      - {motif: god-lowers-high-tree-raises-low, refs: ["Ezek 31:14"], note: "so that no well-watered tree may grow proud"}
+    hints:
+      - "World-tree imagery: Dan 4 (Nebuchadnezzar's tree), the Mesopotamian kiskanu tree of Eridu with roots in the Apsu, the Norse Yggdrasil, the Gilgamesh cedar forest of Humbaba."
+  - id: hb-ezek-32-dirge-pharaoh-dragon
+    tradition: judaism
+    title: Dirge over Pharaoh the sea dragon caught in God's net
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 32:1-16"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 32:1"], note: "twelfth year, twelfth month, first day"}
+      - {motif: prophetic-qinah-dirge, refs: ["Ezek 32:2", "Ezek 32:16"]}
+      - {motif: pharaoh-young-lion-and-sea-dragon, refs: ["Ezek 32:2"]}
+      - {motif: monster-caught-in-gods-net-by-many-peoples, refs: ["Ezek 32:3"]}
+      - {motif: monster-cast-in-wilderness-as-carrion, refs: ["Ezek 32:4"]}
+      - {motif: monster-carcass-fills-valleys, refs: ["Ezek 32:5", "Ezek 32:6"]}
+      - {motif: leviathan-given-as-food, refs: ["Ezek 32:4"], note: "birds settle on it and beasts are sated"}
+      - {motif: heavens-darkened-at-death-of-monster, refs: ["Ezek 32:7", "Ezek 32:8"]}
+      - {motif: merchants-hiss-at-ruin, refs: ["Ezek 32:10"], note: "kings' hair bristles when God brandishes his sword"}
+      - {motif: rivers-flow-like-oil, refs: ["Ezek 32:13", "Ezek 32:14"], note: "no foot of man or hoof of beast will muddy them"}
+      - {motif: daughters-of-nations-chant-dirge, refs: ["Ezek 32:16"]}
+    hints:
+      - "Monster netted by a god: Marduk catches Tiamat in a net (Enuma Elish IV 95) and makes heaven and earth from her body; Ninurta and Anzu. Carcass on the mountains recalls 1 Enoch 60:7-9 and 4 Ezra 6:49-52 (Leviathan and Behemoth as food for the righteous)."
+  - id: hb-ezek-32-egypt-in-sheol
+    tradition: judaism
+    title: Egypt's descent to the Pit among the uncircumcised nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 32:17-32"]
+    tags:
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 32:17"], note: "twelfth year, fifteenth day (month unstated)"}
+      - {motif: daughters-of-nations-chant-dirge, refs: ["Ezek 32:18"], note: "'wail over the horde of Egypt'"}
+      - {motif: enemies-to-depths-of-earth, refs: ["Ezek 32:18", "Ezek 32:24"]}
+      - {motif: like-those-who-go-down-to-pit, refs: ["Ezek 32:18", "Ezek 32:24", "Ezek 32:29", "Ezek 32:30"]}
+      - {motif: lie-among-uncircumcised-and-slain, refs: ["Ezek 32:19", "Ezek 32:20", "Ezek 32:21", "Ezek 32:28", "Ezek 32:32"]}
+      - {motif: mighty-dead-speak-from-sheol, refs: ["Ezek 32:21"]}
+      - {motif: nations-in-sheol-catalogue, refs: ["Ezek 32:22", "Ezek 32:24", "Ezek 32:26", "Ezek 32:29", "Ezek 32:30"]}
+      - {motif: graves-in-recesses-of-pit, refs: ["Ezek 32:23"]}
+      - {motif: spread-terror-in-land-of-living, refs: ["Ezek 32:23", "Ezek 32:24", "Ezek 32:25", "Ezek 32:26", "Ezek 32:27", "Ezek 32:30", "Ezek 32:32"]}
+      - {motif: ancient-heroes-buried-with-swords-under-heads, refs: ["Ezek 32:27"], note: "'mighty ones fallen of old (me'olam; LXX 'of the giants')' - honored dead distinct from the uncircumcised"}
+      - {motif: giants-offspring-of-gods, refs: ["Ezek 32:27"], note: "gibborim nofelim echoes Gen 6:4 (nefilim, gibborim me'olam)"}
+      - {motif: pharaoh-consoled-seeing-the-dead, refs: ["Ezek 32:31"]}
+    hints:
+      - "Stratified underworld with ranks of the dead: Isa 14:9-20; Gilgamesh XII and the Descent of Ishtar; Odyssey 11 (the nekyia with heroes); 1 Enoch 22 (compartments of the dead). Burial with weapons under the head matches warrior burials and 1 Macc 13:29."
+  - id: hb-ezek-33-watchman-and-fall-news
+    tradition: judaism
+    title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 33:1-33"]
+    tags:
+      - {motif: watchman-blows-shofar-at-sword, refs: ["Ezek 33:2", "Ezek 33:3", "Ezek 33:4", "Ezek 33:5", "Ezek 33:6"]}
+      - {motif: prophet-as-watchman, refs: ["Ezek 33:7", "Ezek 33:8", "Ezek 33:9"]}
+      - {motif: we-rot-in-our-sins-how-live, refs: ["Ezek 33:10"]}
+      - {motif: god-desires-not-death-of-wicked, refs: ["Ezek 33:11"]}
+      - {motif: turn-turn-why-will-you-die, refs: ["Ezek 33:11"]}
+      - {motif: repentant-wicked-past-sins-forgotten, refs: ["Ezek 33:12", "Ezek 33:13", "Ezek 33:14", "Ezek 33:15", "Ezek 33:16", "Ezek 33:18", "Ezek 33:19"], note: "restores the pledge, repays robbery, walks in 'the statutes of life'"}
+      - {motif: way-of-lord-not-fair-complaint, refs: ["Ezek 33:17", "Ezek 33:20"]}
+      - {motif: fugitive-reports-city-has-fallen, refs: ["Ezek 33:21", "Ezek 33:22"], note: "twelfth year, tenth month, fifth day of 'our exile'"}
+      - {motif: prophets-muteness-ends-with-fugitive, refs: ["Ezek 33:22"]}
+      - {motif: abraham-was-one-we-are-many, refs: ["Ezek 33:24"]}
+      - {motif: eating-with-blood-prohibited, refs: ["Ezek 33:25"], note: "'you eat on the blood'"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Ezek 33:27"], note: "sword in the ruins, beasts in the field, plague in strongholds and caves"}
+      - {motif: prophet-as-love-song-entertainer, refs: ["Ezek 33:30", "Ezek 33:31", "Ezek 33:32"]}
+      - {motif: they-will-know-a-prophet-was-among-them, refs: ["Ezek 33:33"]}
+    hints:
+      - "Watchman passage cited in rabbinic discussions of the duty of rebuke (b. Shabbat 54b-55a) and in Christian pastoral tradition (Gregory the Great, Regula Pastoralis); compare Quran 5:105 and 6:69 on not bearing another's guilt once warned."
+      - "Abraham as 'one' (ehad): Isa 51:2; Mal 2:15; Quran 16:120 ('Abraham was a nation (umma)')."
+  - id: hb-ezek-34-shepherds
+    tradition: judaism
+    title: The bad shepherds; God the shepherd; one shepherd David; the covenant of peace
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 34:1-31"]
+    tags:
+      - {motif: shepherds-feed-themselves-not-flock, refs: ["Ezek 34:2", "Ezek 34:3", "Ezek 34:8", "Ezek 34:10"]}
+      - {motif: king-as-shepherd-of-people, refs: ["Ezek 34:2"]}
+      - {motif: shepherd-duties-weak-sick-injured-strayed-lost, refs: ["Ezek 34:4", "Ezek 34:16"]}
+      - {motif: sheep-scattered-prey-to-beasts, refs: ["Ezek 34:5", "Ezek 34:6", "Ezek 34:8"]}
+      - {motif: sheep-without-shepherd, refs: ["Ezek 34:5", "Ezek 34:8"]}
+      - {motif: god-himself-will-shepherd, refs: ["Ezek 34:11", "Ezek 34:12", "Ezek 34:13", "Ezek 34:14", "Ezek 34:15", "Ezek 34:16"], note: "'on a day of cloud and thick darkness'"}
+      - {motif: god-as-shepherd, refs: ["Ezek 34:15"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 34:13"]}
+      - {motif: god-judges-between-fat-and-lean-sheep, refs: ["Ezek 34:17", "Ezek 34:18", "Ezek 34:19", "Ezek 34:20", "Ezek 34:21", "Ezek 34:22"]}
+      - {motif: one-shepherd-my-servant-david, refs: ["Ezek 34:23", "Ezek 34:24"]}
+      - {motif: covenant-of-peace-wild-beasts-banished, refs: ["Ezek 34:25", "Ezek 34:28"]}
+      - {motif: wild-beasts-removed-from-land, refs: ["Ezek 34:25"]}
+      - {motif: showers-of-blessing, refs: ["Ezek 34:26", "Ezek 34:27"]}
+      - {motif: rain-in-its-season-blessing, refs: ["Ezek 34:26"]}
+      - {motif: yoke-bars-broken-walk-upright, refs: ["Ezek 34:27"]}
+      - {motif: plantation-of-renown, refs: ["Ezek 34:29"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Ezek 34:24", "Ezek 34:30"]}
+      - {motif: you-are-my-flock-you-are-men, refs: ["Ezek 34:31"]}
+    hints:
+      - "John 10:1-16 (the good shepherd, one flock one shepherd); Luke 15:4-7 (seeking the lost sheep); Matt 25:31-46 (separating sheep from goats). b. Yevamot 61a reads 'you are adam' (34:31) to say only Israel is called adam. Mesopotamian kings as 'shepherd' (re'u), e.g. Hammurabi's prologue."
+  - id: hb-ezek-35-mount-seir
+    tradition: judaism
+    title: Against Mount Seir
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 35:1-15"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 35:2"]}
+      - {motif: mount-seir-eternal-enmity, refs: ["Ezek 35:2", "Ezek 35:3", "Ezek 35:5"]}
+      - {motif: blood-pursues-blood, refs: ["Ezek 35:6"]}
+      - {motif: divine-oath-by-own-life, refs: ["Ezek 35:6", "Ezek 35:11"]}
+      - {motif: edom-claims-two-nations-though-yhwh-there, refs: ["Ezek 35:10"]}
+      - {motif: measure-for-measure-desolation, refs: ["Ezek 35:11", "Ezek 35:14", "Ezek 35:15"]}
+      - {motif: nations-gloat-he-ah, refs: ["Ezek 35:12", "Ezek 35:13", "Ezek 35:15"], note: "Edom's blasphemies: 'they are desolate, given to us to devour'"}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 35:4", "Ezek 35:9", "Ezek 35:12", "Ezek 35:15"]}
+    hints:
+      - "Edom becomes the rabbinic cipher for Rome (Gen. Rabbah 65:21); compare Obadiah and Ps 137:7."
+  - id: hb-ezek-36-mountains-restored
+    tradition: judaism
+    title: Prophecy to the mountains of Israel - restoration after the nations' mockery
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 36:1-15"]
+    tags:
+      - {motif: oracle-addressed-to-mountains, refs: ["Ezek 36:1", "Ezek 36:4", "Ezek 36:6"]}
+      - {motif: mockers-say-aha, refs: ["Ezek 36:2"], note: "the enemy says 'Aha! The ancient heights are ours'"}
+      - {motif: edoms-vengeance-on-judah, refs: ["Ezek 36:5"], note: "'all Edom' took God's land with wholehearted joy"}
+      - {motif: mountains-of-israel-shall-bear-fruit, refs: ["Ezek 36:8", "Ezek 36:9", "Ezek 36:10"]}
+      - {motif: be-fruitful-and-multiply, refs: ["Ezek 36:11"], note: "'they shall increase and be fruitful (ravu u-faru)'; better than at their beginnings"}
+      - {motif: land-devours-inhabitants, refs: ["Ezek 36:13", "Ezek 36:14"]}
+      - {motif: land-no-longer-devours-its-children, refs: ["Ezek 36:12", "Ezek 36:13", "Ezek 36:14", "Ezek 36:15"]}
+  - id: hb-ezek-36-new-heart-new-spirit
+    tradition: judaism
+    title: For my holy name - clean water, new heart, my spirit within; the land like Eden
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 36:16-38"]
+    tags:
+      - {motif: impurity-as-menstrual-uncleanness-of-land, refs: ["Ezek 36:17"]}
+      - {motif: land-defiled-as-menstrual-impurity, refs: ["Ezek 36:17", "Ezek 36:18"]}
+      - {motif: exile-profanes-gods-name-among-nations, refs: ["Ezek 36:20", "Ezek 36:21"]}
+      - {motif: not-for-your-sake-but-my-name, refs: ["Ezek 36:22", "Ezek 36:32"]}
+      - {motif: sanctification-of-gods-name, refs: ["Ezek 36:23"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 36:24"]}
+      - {motif: sprinkle-clean-water-to-purify, refs: ["Ezek 36:25"]}
+      - {motif: heart-of-stone-to-heart-of-flesh, refs: ["Ezek 36:26"]}
+      - {motif: god-puts-his-spirit-within, refs: ["Ezek 36:27"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Ezek 36:28"]}
+      - {motif: remnant-loathes-itself-in-exile, refs: ["Ezek 36:31"]}
+      - {motif: desolate-land-like-garden-of-eden, refs: ["Ezek 36:35"]}
+      - {motif: increase-like-holy-flocks-at-festivals, refs: ["Ezek 36:37", "Ezek 36:38"]}
+    hints:
+      - "36:25 is read in m. Yoma 8:9 (R. Akiva: God as the mikveh of Israel) and in Christian baptismal theology (John 3:5); 1QS 4:20-21 (God sprinkles the spirit of truth like waters of purification); Jer 31:31-34 (new covenant on the heart)."
+  - id: hb-ezek-37-dry-bones
+    tradition: judaism
+    title: The valley of dry bones
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 37:1-14"]
+    tags:
+      - {motif: valley-of-dry-bones, refs: ["Ezek 37:1", "Ezek 37:2"], note: "carried out 'by the spirit of YHWH' and set in the biq'ah (the same plain as 3:22, 8:4)"}
+      - {motif: can-these-bones-live, refs: ["Ezek 37:3"]}
+      - {motif: bones-reassembled-sinews-flesh-skin, refs: ["Ezek 37:4", "Ezek 37:5", "Ezek 37:6", "Ezek 37:7", "Ezek 37:8"], note: "qol ... ra'ash, a noise and a quaking/rattling"}
+      - {motif: prophesy-to-the-breath-from-four-winds, refs: ["Ezek 37:9", "Ezek 37:10"]}
+      - {motif: breath-of-life-into-nostrils, refs: ["Ezek 37:9"], note: "'breathe (pehi) into these slain', echoing Gen 2:7"}
+      - {motif: dead-revived-as-vast-army, refs: ["Ezek 37:10"]}
+      - {motif: our-bones-are-dried-hope-lost, refs: ["Ezek 37:11"]}
+      - {motif: god-opens-graves-raises-people, refs: ["Ezek 37:12", "Ezek 37:13"]}
+      - {motif: god-puts-his-spirit-within, refs: ["Ezek 37:14"]}
+      - {motif: recognition-formula-know-i-am-yhwh, refs: ["Ezek 37:6", "Ezek 37:13", "Ezek 37:14"]}
+    hints:
+      - "b. Sanhedrin 92b debates whether the dead revived were Ephraimites who left Egypt early, and says they married and had children ('a parable' says another view); the Dura-Europos synagogue paints the scene. Zoroastrian Bundahishn 34 (bones reassembled at the frashokereti); Quran 2:259 (the man and his donkey: 'look at the bones, how we raise them and clothe them with flesh') and 2:243 (thousands who died and were revived)."
+  - id: hb-ezek-37-two-sticks
+    tradition: judaism
+    title: The two sticks joined - one kingdom under David, an everlasting covenant and sanctuary
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 37:15-28"]
+    tags:
+      - {motif: two-sticks-joined-into-one, refs: ["Ezek 37:16", "Ezek 37:17", "Ezek 37:19", "Ezek 37:20"]}
+      - {motif: one-nation-one-king-no-more-divided, refs: ["Ezek 37:22"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 37:21"]}
+      - {motif: one-shepherd-my-servant-david, refs: ["Ezek 37:24"]}
+      - {motif: david-prince-forever, refs: ["Ezek 37:25"]}
+      - {motif: everlasting-covenant-renewed, refs: ["Ezek 37:26"], note: "covenant of peace, everlasting covenant"}
+      - {motif: covenant-of-peace-wild-beasts-banished, refs: ["Ezek 37:26"]}
+      - {motif: sanctuary-in-their-midst-forever, refs: ["Ezek 37:26", "Ezek 37:27", "Ezek 37:28"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Ezek 37:23", "Ezek 37:27"]}
+    hints:
+      - "Rev 21:3 ('the dwelling of God is with men') quotes 37:27; the Joseph/Ephraim stick fed later Messiah ben Joseph traditions and, in Latter-day Saint reading, the Bible and Book of Mormon."
+  - id: hb-ezek-38-gog-invasion
+    tradition: judaism
+    title: Gog of Magog invades the land dwelling at the navel of the earth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 38:1-23"]
+    tags:
+      - {motif: prophet-sets-face-toward, refs: ["Ezek 38:2"]}
+      - {motif: gog-of-magog-chief-prince, refs: ["Ezek 38:2", "Ezek 38:3"], note: "LXX reads rosh as a people name 'Ros'"}
+      - {motif: hooks-in-jaws-turned-back, refs: ["Ezek 38:4"]}
+      - {motif: hook-in-nose-bridle-in-lips, refs: ["Ezek 38:4"]}
+      - {motif: coalition-of-distant-nations-with-gog, refs: ["Ezek 38:5", "Ezek 38:6"]}
+      - {motif: invader-from-recesses-of-north, refs: ["Ezek 38:6", "Ezek 38:15"]}
+      - {motif: invasion-in-latter-years, refs: ["Ezek 38:8", "Ezek 38:16"]}
+      - {motif: end-of-days-prophecy, refs: ["Ezek 38:16"], note: "be-aharit ha-yamim"}
+      - {motif: invader-like-storm-cloud, refs: ["Ezek 38:9", "Ezek 38:16"]}
+      - {motif: attack-on-unwalled-peaceful-villages, refs: ["Ezek 38:10", "Ezek 38:11", "Ezek 38:12"]}
+      - {motif: israel-at-navel-of-the-earth, refs: ["Ezek 38:12"]}
+      - {motif: navel-of-the-earth, refs: ["Ezek 38:12"]}
+      - {motif: sheba-dedan-tarshish-ask-about-plunder, refs: ["Ezek 38:13"]}
+      - {motif: sanctification-of-gods-name, refs: ["Ezek 38:16", "Ezek 38:23"], note: "'when I am sanctified through you, O Gog, before their eyes'"}
+      - {motif: gog-foretold-by-earlier-prophets, refs: ["Ezek 38:17"]}
+      - {motif: great-earthquake-all-creatures-quake, refs: ["Ezek 38:19", "Ezek 38:20"]}
+      - {motif: earthquake-panic-enemy-kill-each-other, refs: ["Ezek 38:19", "Ezek 38:21"]}
+      - {motif: invaders-sword-against-brother, refs: ["Ezek 38:21"]}
+      - {motif: plague-flood-hail-fire-sulfur-on-gog, refs: ["Ezek 38:22"]}
+      - {motif: fire-and-brimstone-from-heaven, refs: ["Ezek 38:22"]}
+      - {motif: hailstones-from-heaven-kill-enemy, refs: ["Ezek 38:22"]}
+    hints:
+      - "Gog and Magog: Rev 20:8; Quran 18:94-98 and 21:96 (Ya'juj and Ma'juj walled in by Dhu'l-Qarnayn, released at the end); Alexander Romance (Alexander's gate against the unclean nations); rabbinic war of Gog and Magog before the messianic age (b. Berakhot 7b, Sanhedrin 97b). Gog has been linked to Gyges (Gugu) of Lydia."
+      - "Tabbur ha-arets: Judg 9:37; Jubilees 8:19; Tanhuma Kedoshim 10 (Jerusalem the navel, the Foundation Stone); Greek omphalos at Delphi."
+  - id: hb-ezek-39-gog-defeated-and-buried
+    tradition: judaism
+    title: Gog's fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the birds
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 39:1-29"]
+    tags:
+      - {motif: gog-of-magog-chief-prince, refs: ["Ezek 39:1", "Ezek 39:11"]}
+      - {motif: invader-from-recesses-of-north, refs: ["Ezek 39:2"]}
+      - {motif: bow-struck-from-left-arrows-from-right, refs: ["Ezek 39:3"]}
+      - {motif: corpses-for-jackals, refs: ["Ezek 39:4", "Ezek 39:5"], note: "given to birds of prey of every wing and beasts of the field"}
+      - {motif: fire-on-magog-and-coastlands, refs: ["Ezek 39:6"]}
+      - {motif: sanctification-of-gods-name, refs: ["Ezek 39:7", "Ezek 39:25", "Ezek 39:27"], note: "'I will not let my holy name be profaned any more'; 'the Holy One in Israel'"}
+      - {motif: weapons-burned-seven-years, refs: ["Ezek 39:9", "Ezek 39:10"]}
+      - {motif: god-ends-wars-breaks-bow-burns-chariots, refs: ["Ezek 39:9"]}
+      - {motif: plunderers-plundered, refs: ["Ezek 39:10"]}
+      - {motif: valley-of-hamon-gog, refs: ["Ezek 39:11", "Ezek 39:15", "Ezek 39:16"], note: "the valley 'blocks the travelers'"}
+      - {motif: seven-months-burial-to-cleanse-land, refs: ["Ezek 39:12", "Ezek 39:13", "Ezek 39:14", "Ezek 39:15", "Ezek 39:16"]}
+      - {motif: sacrificial-feast-for-birds-and-beasts, refs: ["Ezek 39:17", "Ezek 39:18", "Ezek 39:19"]}
+      - {motif: bulls-of-bashan-surround, refs: ["Ezek 39:18"], note: "warriors and princes likened to fatlings of Bashan"}
+      - {motif: feast-at-gods-table-on-horses-and-riders, refs: ["Ezek 39:20"]}
+      - {motif: exile-explained-to-nations, refs: ["Ezek 39:23", "Ezek 39:24"]}
+      - {motif: divine-face-hidden-or-turned, refs: ["Ezek 39:23", "Ezek 39:24", "Ezek 39:29"]}
+      - {motif: ingathering-of-exiles-to-land, refs: ["Ezek 39:25", "Ezek 39:27", "Ezek 39:28"], note: "'I will leave none of them there any more'"}
+      - {motif: god-pours-out-his-spirit, refs: ["Ezek 39:29"]}
+    hints:
+      - "Rev 19:17-18 (the angel calls the birds to 'the great supper of God' to eat the flesh of kings, horses and riders); Joel 3:1 (outpoured spirit). The bone-marker (tsiyyun) underlies the halakhic practice of marking graves to warn priests (m. Shekalim 1:1, m. Moed Qatan 1:2; b. Moed Qatan 5a derives it from 39:15)."
+  - id: hb-ezek-40-temple-vision-begins
+    tradition: judaism
+    title: The new temple vision begins - the man of bronze with the measuring reed on a very high mountain
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 40:1-4"]
+    tags:
+      - {motif: temple-vision-dated-rosh-hashanah-tenth, refs: ["Ezek 40:1"]}
+      - {motif: ezekiel-dated-oracle, refs: ["Ezek 40:1"]}
+      - {motif: visionary-journey-to-jerusalem, refs: ["Ezek 40:1", "Ezek 40:2"], note: "the hand of YHWH; 'in visions of God'"}
+      - {motif: very-high-mountain-with-city-structure, refs: ["Ezek 40:2"]}
+      - {motif: angelic-measurer-like-bronze, refs: ["Ezek 40:3"]}
+      - {motif: see-hear-and-tell-commission, refs: ["Ezek 40:4"]}
+    hints:
+      - "The angelic guide with a measuring rod: Zech 2:5-6; Rev 11:1 and 21:15-17 (gold measuring reed of the New Jerusalem on a great high mountain, Rev 21:10); 11QTemple and the Qumran New Jerusalem texts (4Q554). 'Rosh ha-shanah on the tenth' coincides with the jubilee date (Lev 25:9-10); 25 years is half a jubilee."
+  - id: hb-ezek-40-gates-and-courts
+    tradition: judaism
+    title: Measuring the gates and courts of the visionary temple
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 40:5-37"]
+    tags:
+      - {motif: measuring-reed-six-long-cubits, refs: ["Ezek 40:5"]}
+      - {motif: visionary-temple-measured-gate-by-gate, refs: ["Ezek 40:5", "Ezek 40:6", "Ezek 40:7", "Ezek 40:8", "Ezek 40:9", "Ezek 40:10", "Ezek 40:11", "Ezek 40:12", "Ezek 40:13", "Ezek 40:14", "Ezek 40:15", "Ezek 40:16"]}
+      - {motif: palms-and-chains-decoration, refs: ["Ezek 40:16", "Ezek 40:22", "Ezek 40:26", "Ezek 40:31", "Ezek 40:34", "Ezek 40:37"], note: "palm-tree ornaments on the gate jambs"}
+      - {motif: thirty-chambers-on-pavement, refs: ["Ezek 40:17", "Ezek 40:18"]}
+      - {motif: hundred-cubit-courts, refs: ["Ezek 40:19", "Ezek 40:23", "Ezek 40:27"]}
+      - {motif: three-identical-outer-gates-east-north-south, refs: ["Ezek 40:20", "Ezek 40:21", "Ezek 40:22", "Ezek 40:24", "Ezek 40:25", "Ezek 40:26", "Ezek 40:28", "Ezek 40:29", "Ezek 40:30", "Ezek 40:31", "Ezek 40:32", "Ezek 40:33", "Ezek 40:34", "Ezek 40:35", "Ezek 40:36", "Ezek 40:37"], note: "seven steps to outer gates, eight to inner gates; no west gate"}
+      - {motif: gates-at-four-cardinal-points, refs: ["Ezek 40:6", "Ezek 40:20", "Ezek 40:24"], note: "only three directions here"}
+    hints:
+      - "The three-chambered gate plan matches excavated Iron Age gates at Megiddo, Hazor and Gezer. Middot (Mishnah tractate) and 11QTemple build their temple plans in dialogue with these measurements."
+  - id: hb-ezek-40-tables-chambers-porch
+    tradition: judaism
+    title: Slaughtering tables, the priests' chambers, the Zadokites, the inner court and the porch
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ezek 40:38-49"]
+    tags:
+      - {motif: eight-slaughter-tables-at-gate, refs: ["Ezek 40:38", "Ezek 40:39", "Ezek 40:40", "Ezek 40:41", "Ezek 40:42", "Ezek 40:43"], note: "a chamber where the burnt offering is rinsed"}
+      - {motif: slaughter-north-of-altar, refs: ["Ezek 40:40", "Ezek 40:44"], note: "tables at the north gate"}
+      - {motif: chambers-for-singers-and-priests, refs: ["Ezek 40:44", "Ezek 40:45", "Ezek 40:46"], note: "MT 'chambers of singers' (sharim); LXX 'two chambers'"}
+      - {motif: zadokites-alone-approach-altar, refs: ["Ezek 40:46"]}
+      - {motif: hundred-cubit-courts, refs: ["Ezek 40:47"]}
+      - {motif: temple-porch-with-two-pillars, refs: ["Ezek 40:48", "Ezek 40:49"], note: "porch 20 by 11 (LXX 12) cubits, ten steps in LXX"}
+    hints:
+      - "Zadokite exclusivity is the root of the Qumran 'sons of Zadok' self-designation (CD 3:21-4:4 quotes Ezek 44:15) and of the Sadducee name. Compare the two pillars Jachin and Boaz (1 Kgs 7:21)."
