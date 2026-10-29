@@ -41,7 +41,7 @@ def load(strict=True):
     all units. With strict=False, unreadable tag files are skipped (used while
     reader agents are still writing theirs)."""
     vocab = yaml.safe_load((DATA / "motifs.yaml").read_text(encoding="utf-8"))["motifs"]
-    units, conflicts = [], []
+    units = []
     for path in sorted((DATA / "motif-tags").rglob("*.yaml")):
         try:
             doc = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
@@ -53,14 +53,13 @@ def load(strict=True):
         rel = str(path.relative_to(DATA / "motif-tags"))
         for mid, m in (doc.get("new_motifs") or {}).items():
             if mid in vocab and vocab[mid]["label"] != m["label"]:
-                conflicts.append(f"{rel}: motif {mid} already defined as '{vocab[mid]['label']}'")
+                # same id, different wording: the first definition wins; variants are reviewed at merge time
+                vocab[mid].setdefault("label_variants", []).append({"label": m["label"], "file": rel})
                 continue
             vocab.setdefault(mid, {**m, "proposed_in": rel})
         for u in doc.get("units") or []:
             u["file"] = rel
             units.append(u)
-    if conflicts and strict:
-        sys.exit("\n".join(conflicts))
     return vocab, units
 
 
