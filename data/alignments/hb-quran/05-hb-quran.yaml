@@ -95,6 +95,8 @@ new_motifs:
   terms-of-moses-marriage: {label: "The terms of Moses' marriage in Midian", cluster: exodus}
   service-for-a-bride: {label: "Years of service given for a bride", cluster: patriarchs}
   setting-of-moses-call: {label: "Where and how Moses comes to the place of his call", cluster: exodus}
+  sin-of-korah: {label: "What Korah's sin was, and why the earth swallowed him", cluster: exodus}
+  onlookers-fear-the-same-fate: {label: "Bystanders of a divine punishment fear it could have struck them too", cluster: judgment}
 reviewed:
   - unit: quran-22-disputers-and-waverers
     checked: [hb-ps-135-hymn-of-election, hb-ps-115-not-to-us, hb-hab-2-watchtower-and-woes, hb-isa-40-comfort-my-people, hb-jer-10-idols-scarecrows, hb-job-1-prologue-first-test, hb-job-2-second-test-and-friends]
@@ -2187,3 +2189,105 @@ reviewed:
         with_refs: ["Isa 60:5", "Isa 60:6", "Isa 60:11"]
         relation: divergence
         note: "a-wa-lam numakkin lahum ḥaraman āminan yujbā ilayhi thamarātu kulli shayʾin rizqan min ladunnā ~ ḥêl gôyim yāvōʾû lākh ... kullām mi-Šəvāʾ yāvōʾû zāhāv û-lvônâ yiśśāʾû ... ləhāvîʾ ʾēlayikh ḥêl gôyim: the produce or wealth of all lands flows to a sacred city. In Isaiah it is Zion in a promised future, brought as the nations' tribute; in the Quran it is Mecca's ḥaram, already given as God's provision and security."
+  - unit: quran-28-destroyed-towns-and-judgment
+    checked: [hb-jer-16-fishers-and-hunters, hb-gen-6-flood, hb-1kgs-8-dedication-prayer, hb-jer-31-consolation-new-covenant, hb-ps-44-national-lament, hb-isa-63-communal-lament, hb-deut-32-song-of-moses]
+    matches:
+      - with: hb-gen-6-flood
+        motif: seasons-guaranteed
+        refs: ["28:71", "28:72", "28:73"]
+        with_refs: ["Gen 8:22"]
+        relation: parallel
+        note: "wa-min raḥmatihi jaʿala lakumu l-layla wa-n-nahāra ... qul a-raʾaytum in jaʿala llāhu ʿalaykumu l-layla sarmadan ~ ʿōd kol yəmê hā-ʾāreṣ ... wə-yôm wā-laylâ lōʾ yišbōtû: the alternation of day and night is God's gift and could be stopped only by him. Genesis promises it will never cease; the Quran asks what other god could restore it if God stopped it."
+      - with: hb-1kgs-8-dedication-prayer
+        motif: god-alone-knows-hearts
+        refs: ["28:69"]
+        with_refs: ["1Kgs 8:39"]
+        relation: parallel
+        note: "wa-rabbuka yaʿlamu mā tukinnu ṣudūruhum wa-mā yuʿlinūna ~ kî ʾattâ yādaʿtā lə-vaddəkā ʾet ləvav kol bənê hā-ʾādām: God alone knows the hidden heart."
+      - with: hb-jer-16-fishers-and-hunters
+        motif: god-alone-knows-hearts
+        refs: ["28:69"]
+        with_refs: ["Jer 16:17"]
+        relation: echo
+        note: "yaʿlamu mā tukinnu ṣudūruhum ~ lōʾ nistərû mil-ləfānāy wə-lōʾ niṣpan ʿăwōnām: nothing hidden (kanna / ṣāfan) from God."
+      - with: hb-jer-16-fishers-and-hunters
+        motif: nations-confess-fathers-inherited-lies
+        refs: ["28:63", "28:64"]
+        with_refs: ["Jer 16:19", "Jer 16:20"]
+        relation: echo
+        note: "rabbanā hāʾulāʾi lladhīna aghwaynā ... fa-daʿawhum fa-lam yastajībū lahum ~ ʾakh šeqer nāḥălû ʾăvôtênû hevel wə-ʾên bām môʿîl ... wə-hēmmâ lōʾ ʾĕlōhîm: the futility of the gods is admitted at the end. Jeremiah's nations confess it themselves; in the Quran the misleaders disown their followers and the 'partners' do not answer."
+      - with: hb-deut-32-song-of-moses
+        motif: mocking-where-are-their-gods
+        refs: ["28:62", "28:64", "28:74"]
+        with_refs: ["Deut 32:37", "Deut 32:38"]
+        relation: parallel
+        note: "ayna shurakāʾiya lladhīna kuntum tazʿumūna ... wa-qīla dʿū shurakāʾakum fa-daʿawhum fa-lam yastajībū lahum ~ wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ... yāqûmû wə-yaʿzərukhem: God taunts 'where are their gods?' and challenges the gods to rise and help. In Deut it is said in history against Israel's idols, in the Quran at the judgment."
+      - with: hb-ps-44-national-lament
+        motif: god-knows-secrets-of-heart
+        refs: ["28:69"]
+        with_refs: ["Ps 44:22"]
+        relation: echo
+        note: "yaʿlamu mā tukinnu ṣudūruhum ~ kî hûʾ yōdēaʿ taʿălumôt lēv: God knows the secrets of the heart."
+  - unit: quran-28-qarun
+    checked: [hb-num-16-korah, hb-ps-106-national-confession, hb-prov-18-sayings, hb-prov-10-solomon-sayings, hb-ps-49-no-ransom, hb-1chr-29-offerings-prayer-david-dies, hb-deut-8-wilderness-lesson, hb-ps-102-afflicted]
+    matches:
+      - with: hb-num-16-korah
+        motif: sin-of-korah
+        refs: ["28:76", "28:78", "28:79"]
+        with_refs: ["Num 16:1", "Num 16:3"]
+        relation: divergence
+        note: "Korah's offence: Numbers has a religious revolt against Moses and Aaron, rav lākhem kî khol hā-ʿēdâ kullām qədōšîm ... û-maddûaʿ titnaśśəʾû ʿal qəhal YHWH, with Dathan, Abiram and 250 chieftains. The Quran has the wealth and arrogance of a single man of Moses' people: Qārūna kāna min qawmi Mūsā fa-baghā ʿalayhim wa-ātaynāhu mina l-kunūzi mā inna mafātiḥahu la-tanūʾu bi-l-ʿuṣbati, who boasts innamā ūtītuhu ʿalā ʿilmin ʿindī and parades in his finery. The Quran has no priesthood dispute, incense test or fellow rebels. cf. b. Sanh. 110a and b. Pes. 119a (Korah's wealth), outside the HB."
+      - with: hb-num-16-korah
+        motif: earth-swallows-rebels
+        refs: ["28:81"]
+        with_refs: ["Num 16:32"]
+        relation: parallel
+        note: "fa-khasafnā bihi wa-bi-dārihi l-arḍa ~ wat-tiftaḥ hā-ʾāreṣ ʾet pîhā wat-tivlaʿ ʾōtām wə-ʾet bāttêhem ... wə-ʾēt kol hā-rəkhûš: the earth swallows the man together with his house (dār / bāttîm) and goods."
+      - with: hb-num-16-korah
+        motif: onlookers-fear-the-same-fate
+        refs: ["28:82"]
+        with_refs: ["Num 16:34"]
+        relation: parallel
+        note: "wa-aṣbaḥa lladhīna tamannaw makānahu bi-l-amsi yaqūlūna ... law-lā an manna llāhu ʿalaynā la-khasafa binā ~ wə-khol Yiśrāʾēl ʾăšer səvîvōtêhem nāsû lə-qōlām kî ʾāmərû pen tivlāʿēnû hā-ʾāreṣ: the onlookers fear 'the earth might swallow us too' (khasafa binā / pen tivlāʿēnû). In the Quran they are those who yesterday envied Korah's wealth."
+      - with: hb-ps-106-national-confession
+        motif: earth-swallows-rebels
+        refs: ["28:81"]
+        with_refs: ["Ps 106:17"]
+        relation: echo
+        note: "fa-khasafnā bihi ~ tiftaḥ ʾereṣ wat-tivlaʿ Dātān wat-təkhas ʿal ʿădat ʾĂvîrām: the earth swallowing the rebels of Moses' time. Ps 106 names only Dathan and Abiram, the Quran only Qārūn."
+      - with: hb-deut-8-wilderness-lesson
+        motif: my-power-made-this-wealth
+        refs: ["28:78"]
+        with_refs: ["Deut 8:17", "Deut 8:18"]
+        relation: parallel
+        note: "qāla innamā ūtītuhu ʿalā ʿilmin ʿindī a-wa-lam yaʿlam anna llāha qad ahlaka min qablihi ... man huwa ashaddu minhu quwwatan ~ wə-ʾāmartā vi-lvāvekhā kōḥî wə-ʿōṣem yādî ʿāśâ lî ʾet ha-ḥayil haz-zeh wə-zākhartā ... kî hûʾ han-nōtēn ləkhā kōaḥ laʿăśôt ḥāyil: crediting wealth to one's own power or knowledge instead of God. Deut warns Israel not to say it; Qārūn says it and the Quran answers that God destroyed stronger men (and he was given it, ātaynāhu, 28:76)."
+      - with: hb-1chr-29-offerings-prayer-david-dies
+        motif: all-comes-from-god-we-give-back
+        refs: ["28:77"]
+        with_refs: ["1Chr 29:12", "1Chr 29:14"]
+        relation: echo
+        note: "wa-btaghi fīmā ātāka llāhu d-dāra l-ākhirata ... wa-aḥsin kamā aḥsana llāhu ilayka ~ wə-hā-ʿōšer wə-hak-kāvôd mil-ləfānêkā ... kî mimməkā hak-kōl û-mi-yyādəkā nātannû lākh: wealth is God's gift and should be used toward God; David's people give back from it, Qārūn is told to and refuses."
+      - with: hb-ps-49-no-ransom
+        motif: qarun-parades-in-finery
+        refs: ["28:79", "28:80", "28:81"]
+        with_refs: ["Ps 49:7", "Ps 49:17", "Ps 49:18"]
+        relation: parallel
+        note: "fa-kharaja ʿalā qawmihi fī zīnatihi qāla lladhīna yurīdūna l-ḥayāta d-dunyā yā layta lanā mithla mā ūtiya Qārūnu ... wa-qāla lladhīna ūtū l-ʿilma waylakum thawābu llāhi khayrun ~ hab-bōṭəḥîm ʿal ḥêlām û-və-rōv ʿāšrām yithallālû ... ʾal tîrāʾ kî yaʿăšir ʾîš kî yirbeh kəvôd bêtô kî lōʾ və-môtô yiqqaḥ hak-kōl: the rich man who boasts of his wealth, and the warning not to be impressed by it, for it does not save him."
+      - with: hb-prov-18-sayings
+        motif: wealth-as-fortified-city
+        refs: ["28:78", "28:81"]
+        with_refs: ["Prov 18:11"]
+        relation: echo
+        note: "fa-mā kāna lahu min fiʾatin yanṣurūnahu min dūni llāhi ~ hôn ʿāšîr qiryat ʿuzzô û-khəḥômâ niśgāvâ bə-maśkîtô: wealth imagined as a fortress; Proverbs adds 'in his imagination', and the Quran shows it failing when the earth opens."
+      - with: hb-prov-10-solomon-sayings
+        motif: wealth-as-fortified-city
+        refs: ["28:78"]
+        with_refs: ["Prov 10:15"]
+        relation: echo
+        note: "innamā ūtītuhu ʿalā ʿilmin ʿindī ~ hôn ʿāšîr qiryat ʿuzzô: the rich man's confidence in his wealth."
+      - with: hb-ps-102-afflicted
+        motif: all-perish-but-the-face-of-god
+        refs: ["28:88"]
+        with_refs: ["Ps 102:27", "Ps 102:28"]
+        relation: parallel
+        note: "kullu shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû: everything perishes (halaka / ʾāvad) except God."

@@ -179,12 +179,6 @@ new_motifs:
   rival-place-of-worship:
     label: A rival place of worship suspected of division
     cluster: cult
-  abraham-and-his-father:
-    label: Abraham's relation to his father
-    cluster: patriarchs
-  separation-from-fathers-house:
-    label: Separation from the father's house
-    cluster: patriarchs
   god-as-purchaser-of-his-people:
     label: God as purchaser of his people
     cluster: covenant
@@ -194,6 +188,18 @@ new_motifs:
   original-unity-of-humankind:
     label: Humankind was originally one (in speech or community) and then divided
     cluster: creation
+  pharaohs-confession-of-god:
+    label: Pharaoh acknowledges Israel's God or his own sin, and what follows
+    cluster: exodus
+  drowned-pharaoh-and-his-army-seen:
+    label: What becomes of the drowned Pharaoh and his army after the sea
+    cluster: exodus
+  israelite-houses-in-egypt:
+    label: God's instruction about the Israelites' houses in Egypt before the exodus
+    cluster: exodus
+  israels-response-to-moses-in-egypt:
+    label: How Moses' own people in Egypt respond to his message
+    cluster: exodus
 reviewed:
 - unit: quran-7-idol-request
   checked:
@@ -2551,7 +2557,7 @@ reviewed:
     relation: parallel
     note: 'Abraham''s father was an idolater: fa-lammā tabayyana lahu annahu ʿaduwwun li-llāhi tabarraʾa minhu vs teraḥ ʾăbî ʾabrāhām waʾăbî nāḥôr wayyaʿabdû ʾĕlōhîm ʾăḥērîm. Josh gives the bare fact (bᵉʿēber hannāhār); Q adds Abraham''s prayer for his father and his later repudiation of him.'
   - with: hb-gen-11-shem-to-terah
-    motif: abraham-and-his-father
+    motif: abraham-leaves-fathers-house
     refs:
     - 9:114
     with_refs:
@@ -2560,7 +2566,7 @@ reviewed:
     relation: divergence
     note: 'Father and son in the story of Abraham''s departure: in Gen Terah himself leads the family out (wayyiqqaḥ teraḥ ʾet-ʾabrām bᵉnô ... wayyēṣᵉʾû ʾittām mēʾûr kaśdîm) and dies in Haran with no conflict; in Q Abraham breaks with his father as God''s enemy (tabarraʾa minhu) after having prayed for him by promise (ʿan mawʿidatin waʿadahā iyyāhu).'
   - with: hb-gen-12-call-of-abram
-    motif: separation-from-fathers-house
+    motif: abraham-leaves-fathers-house
     refs:
     - 9:114
     with_refs:
@@ -3078,3 +3084,214 @@ reviewed:
     - Isa 41:10
     relation: echo
     note: 'God''s friends need not fear: alā inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham''s seed; Q to all who believe and fear God.'
+- unit: quran-10-noah
+  checked:
+  - hb-gen-6-flood
+  - hb-gen-19-sodom-destroyed
+  - hb-exod-4-signs-aaron-bridegroom-of-blood
+  - hb-ezek-14-idols-in-heart-noah-daniel-job
+  - hb-ezek-33-watchman-and-fall-news
+  - hb-num-16-korah
+  - hb-1sam-12-samuel-farewell
+  - hb-mic-3-rulers-and-prophets
+  matches:
+  - with: hb-gen-6-flood
+    motif: flood-hero-speaks-before-flood
+    refs:
+    - 10:71
+    - 10:72
+    with_refs:
+    - Gen 6:22
+    - Gen 7:1
+    relation: divergence
+    note: 'Noah before the flood: in Gen he says nothing to anyone and simply obeys (wayyaʿaś nōaḥ kᵉkōl ʾăšer ṣiwwāh ʾōtô ʾĕlōhîm kēn ʿāśāh); in Q he preaches and challenges his people: yā qawmi in kāna kabura ʿalaykum maqāmī wa-tadhkīrī bi-āyāti llāhi ... fa-ajmiʿū amrakum wa-shurakāʾakum. Q adds the speech.'
+  - with: hb-gen-6-flood
+    motif: cause-of-the-destruction
+    refs:
+    - 10:73
+    with_refs:
+    - Gen 6:11
+    - Gen 6:13
+    relation: divergence
+    note: 'Why the generation drowns: in Q because they rejected the messenger (wa-aghraqnā lladhīna kadhdhabū bi-āyātinā); in Gen because the earth was full of violence and corruption (wattimmālēʾ hāʾāreṣ ḥāmās ... kî-hišḥît kol-bāśār ʾet-darkô). Moral corruption becomes rejection of a prophet.'
+  - with: hb-gen-6-flood
+    motif: family-saved
+    refs:
+    - 10:73
+    with_refs:
+    - Gen 7:1
+    - Gen 7:23
+    relation: parallel
+    note: 'Noah and those with him in the ark survive: fa-najjaynāhu wa-man maʿahu fī l-fulki vs wayyiššāʾer ʾak-nōaḥ waʾăšer ʾittô battēbāh; bōʾ-ʾattāh wᵉkol-bêtᵉkā ʾel-hattēbāh. Gen''s ''household'' (bêt) is ''those with him'' (man maʿahu) in Q.'
+  - with: hb-mic-3-rulers-and-prophets
+    motif: seer-and-payment
+    refs:
+    - 10:72
+    with_refs:
+    - Mic 3:5
+    - Mic 3:11
+    relation: contrast
+    note: The true messenger asks no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the false prophets prophesy for pay (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn ʿal-pîhem).
+  - with: hb-1sam-12-samuel-farewell
+    motif: leader-denies-taking-anything
+    refs:
+    - 10:72
+    with_refs:
+    - 1Sam 12:3
+    relation: echo
+    note: 'The prophet''s integrity: he took nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā saʾaltukum min ajr.'
+  - with: hb-num-16-korah
+    motif: leader-denies-taking-anything
+    refs:
+    - 10:72
+    with_refs:
+    - Num 16:15
+    relation: echo
+    note: 'lōʾ ḥămôr ʾeḥād mēhem nāśāʾtî vs fa-mā saʾaltukum min ajrin: a leader under attack disclaims any gain from his people.'
+- unit: quran-10-moses-pharaoh
+  checked:
+  - hb-exod-14-crossing-of-the-sea
+  - hb-exod-12-passover-firstborn-exodus
+  - hb-dan-6-lions-den
+  - hb-exod-9-hail
+  - hb-exod-7-staff-swallows-staffs
+  - hb-exod-7-plagues-blood-frogs-lice
+  - hb-exod-5-bricks-without-straw
+  - hb-exod-4-signs-aaron-bridegroom-of-blood
+  - hb-exod-6-name-and-levite-genealogy
+  matches:
+  - with: hb-exod-7-staff-swallows-staffs
+    motif: moses-and-aaron-sent-with-signs
+    refs:
+    - 10:75
+    with_refs:
+    - Exod 7:1
+    - Exod 7:2
+    - Exod 7:3
+    relation: parallel
+    note: 'Moses and Aaron sent together to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).'
+  - with: hb-exod-7-staff-swallows-staffs
+    motif: staff-turned-serpent-before-pharaoh
+    refs:
+    - 10:79
+    - 10:80
+    - 10:81
+    with_refs:
+    - Exod 7:10
+    - Exod 7:11
+    - Exod 7:12
+    relation: divergence
+    note: 'The contest with Pharaoh''s magicians, with the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his staff swallows theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their magic.'
+  - with: hb-exod-7-plagues-blood-frogs-lice
+    motif: contest-with-court-magicians
+    refs:
+    - 10:81
+    - 10:82
+    with_refs:
+    - Exod 8:14
+    - Exod 8:15
+    relation: echo
+    note: 'Magic fails against God''s act: mā jiʾtum bihi s-siḥru inna llāha sa-yubṭiluhu ... wa-yuḥiqqu llāhu l-ḥaqqa bi-kalimātihi vs wayyaʿăśû-kēn haḥarṭummîm bᵉlāṭêhem ... wᵉlōʾ yākōlû ... ʾeṣbaʿ ʾĕlōhîm hîʾ. In Exod the magicians themselves admit it (''the finger of God''); in Q Moses declares it.'
+  - with: hb-exod-9-hail
+    motif: who-hardens-pharaohs-resistance
+    refs:
+    - 10:88
+    - 10:89
+    with_refs:
+    - Exod 9:34
+    - Exod 9:35
+    relation: divergence
+    note: 'Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q God hardens it at the prayer of Moses and Aaron.'
+  - with: hb-exod-7-staff-swallows-staffs
+    motif: who-hardens-pharaohs-resistance
+    refs:
+    - 10:88
+    with_refs:
+    - Exod 7:3
+    - Exod 7:13
+    relation: divergence
+    note: waʾănî ʾaqšeh ʾet-lēb parʿōh (God announces it unasked) and wayyeḥĕzaq lēb parʿōh vs Moses' petition wa-shdud ʿalā qulūbihim, granted (ujībat daʿwatukumā).
+  - with: hb-exod-9-hail
+    motif: pharaohs-confession-of-god
+    refs:
+    - 10:90
+    - 10:91
+    with_refs:
+    - Exod 9:27
+    - Exod 9:28
+    relation: divergence
+    note: 'Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ); in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late (āl-āna wa-qad ʿaṣayta qablu).'
+  - with: hb-exod-14-crossing-of-the-sea
+    motif: pharaohs-confession-of-god
+    refs:
+    - 10:90
+    with_refs:
+    - Exod 14:25
+    relation: echo
+    note: 'At the sea the pursuers recognise Israel''s God: wayyōʾmer miṣrayim ʾānûsāh mippᵉnê yiśrāʾēl kî YHWH nilḥām lāhem vs Pharaoh''s āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīl. Exod gives it to the Egyptians as a group, Q to Pharaoh alone. cf. Pirqe de-R. Eliezer 43 and Mekhilta (Pharaoh survives and repents), outside the canon.'
+  - with: hb-exod-14-crossing-of-the-sea
+    motif: motive-for-pharaohs-pursuit
+    refs:
+    - 10:90
+    with_refs:
+    - Exod 14:5
+    relation: divergence
+    note: 'Why Pharaoh pursues: in Exod regret at losing the slave labour (mah-zōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû); in Q aggression and enmity (fa-atbaʿahum firʿawnu wa-junūduhu baghyan wa-ʿadwan).'
+  - with: hb-exod-14-crossing-of-the-sea
+    motif: pursuers-drowned-in-sea
+    refs:
+    - 10:90
+    with_refs:
+    - Exod 14:28
+    relation: parallel
+    note: wa-jāwaznā bi-banī isrāʾīla l-baḥra fa-atbaʿahum firʿawnu ... ḥattā idhā adrakahu l-gharaq vs wayyāšūbû hammayim wayᵉkassû ʾet-hārekeb ... lᵉkōl ḥêl parʿōh.
+  - with: hb-exod-14-crossing-of-the-sea
+    motif: drowned-pharaoh-and-his-army-seen
+    refs:
+    - 10:92
+    with_refs:
+    - Exod 14:30
+    relation: divergence
+    note: 'The drowned are seen as a sign afterwards: fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka āyatan vs wayyarʾ yiśrāʾēl ʾet-miṣrayim mēt ʿal-śᵉpat hayyām. Exod shows the Egyptian dead on the shore to Israel then; Q singles out Pharaoh''s body, saved from the sea as a sign for later generations.'
+  - with: hb-exod-12-passover-firstborn-exodus
+    motif: israelite-houses-in-egypt
+    refs:
+    - 10:87
+    with_refs:
+    - Exod 12:7
+    - Exod 12:13
+    - Exod 12:22
+    relation: divergence
+    note: 'Before the exodus God gives an order about the Israelites'' houses in Egypt: an tabawwaʾā li-qawmikumā bi-miṣra buyūtan wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉlāqᵉḥû min-haddām wᵉnātᵉnû ʿal-šᵉtê hammᵉzûzōt ... wᵉhāyāh haddām lākem lᵉʾōt ʿal habbāttîm ... wᵉʾattem lōʾ tēṣᵉʾû ʾîš mippetaḥ-bêtô ʿad-bōqer. The purpose differs: in Exod a blood sign on the houses for protection from the destroyer; in Q the houses made places (or a direction) of prayer.'
+  - with: hb-dan-6-lions-den
+    motif: houses-in-egypt-as-qibla
+    refs:
+    - 10:87
+    with_refs:
+    - Dan 6:11
+    relation: echo
+    note: 'Prayer at home oriented to a holy direction under a hostile ruler: wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉkawwîn pᵉtîḥān lēh bᵉʿillîtēh neged yᵉrûšᵉlem wᵉzimnîn tᵉlātāh bᵉyômāʾ ... mᵉṣallēʾ (Aramaic, the same verb ṣlʾ).'
+  - with: hb-exod-6-name-and-levite-genealogy
+    motif: israels-response-to-moses-in-egypt
+    refs:
+    - 10:83
+    with_refs:
+    - Exod 6:9
+    relation: divergence
+    note: 'Israel in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi ʿalā khawfin min firʿawna wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The reason differs: in Q fear of persecution by Pharaoh, and some young people do believe; in Exod impatience under hard labour.'
+  - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+    motif: israels-response-to-moses-in-egypt
+    refs:
+    - 10:83
+    with_refs:
+    - Exod 4:31
+    relation: divergence
+    note: wayyaʾămēn hāʿām ... wayyiqqᵉdû wayyištaḥăwû (the whole people believes at first) vs fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi (only a few youths).
+  - with: hb-exod-5-bricks-without-straw
+    motif: ancestral-custom-defense
+    refs:
+    - 10:78
+    with_refs:
+    - Exod 5:4
+    relation: echo
+    note: 'Pharaoh''s court accuses Moses and Aaron of turning the people aside: a-jiʾtanā li-talfitanā ʿammā wajadnā ʿalayhi ābāʾanā wa-takūna lakumā l-kibriyāʾu fī l-arḍ vs lāmmāh mōšeh wᵉʾahărōn tapriʿû ʾet-hāʿām mimmaʿăśāyw. In Exod the charge is distraction from labour; in Q turning them from ancestral religion and a bid for power.'
