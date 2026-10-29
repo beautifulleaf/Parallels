@@ -1,0 +1,274 @@
+# Full read of the ANE corpus, chunk 14: ETCSL 6.1.03 - 6.1.28 (Sumerian proverb collections 3-28). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  sumerian-proverb-collection: {label: "A school collection of short Sumerian proverbs and sayings, copied as a numbered series on tablets", cluster: wisdom}
+  outcast-son-still-fed: {label: "A parent goes on feeding and giving drink to a son who is an outcast and whose personal god has turned against him: 'you are still my son'", cluster: wisdom}
+  procrastination-i-will-go-tomorrow: {label: "Saying against putting off: 'I will go today', 'I will go tomorrow', and meanwhile the time passes", cluster: wisdom}
+  grind-while-there-is-light: {label: "Saying: while you still have daylight, do the work (grind the flour; write the tablet before the fire goes out)", cluster: wisdom}
+  abomination-to-a-named-god: {label: "Sumerian saying that a listed act is niĝ2-gig, an abomination or taboo, to a named god (Utu, Suen, Ninurta, Inana)", cluster: wisdom}
+  shepherd-removed-sheep-lost: {label: "Saying: if the shepherd is removed or confused, his sheep do not come back", cluster: wisdom}
+  eat-modestly-greed-kills: {label: "Saying: eating a little does not kill a man, eating modestly is to live well, but coveting (igi-tum3 la2) kills", cluster: wisdom}
+  friend-in-life-demon-in-death: {label: "Saying: while a man lives his friend is his friend; once he is dead the friend becomes his worst demon", cluster: wisdom}
+  friendship-short-kinship-lasting: {label: "Saying: friendship lasts a day, colleagueship or kinship (nam-gi4-me-a) lasts forever", cluster: wisdom}
+  hand-answers-hand-reciprocity: {label: "Saying: a hand stretches out to an outstretched hand, opens to an opened hand (reciprocity in giving)", cluster: wisdom}
+  silver-grain-cattle-bring-sleep: {label: "Saying: he who has silver is happy, he who has grain is comfortable, he who has livestock can sleep", cluster: wisdom}
+  mote-in-the-eye: {label: "A mote or straw (u2) in the eye that is, or is not, removed, in a saying about petty faults", cluster: wisdom}
+  tears-in-human-flesh: {label: "Saying: there are bitter tears (a gig) in human flesh", cluster: wisdom}
+  enlils-greatest-punishment-hunger: {label: "Saying: the chief god's greatest punishment (šer7-da gu-la) is hunger", cluster: wisdom}
+  old-king-carried-to-netherworld-despite-works: {label: "Saying-tale: a king (Nanni) cherished his old age, built temples and walls and conquered, yet never saw mighty kingship and was carried off to the netherworld", cluster: wisdom}
+  live-for-today-bound-like-bull: {label: "Saying: he who says 'I will live for today' is bound like a bull on a nose-rope", cluster: wisdom}
+  slave-girl-sayings: {label: "Sayings about the slave girl (geme2): her grumbling, her theft revealed at the mill, her feasting when the mistress is out, her release money", cluster: wisdom}
+  slave-girl-feasts-when-mistress-away: {label: "When the lady leaves the house the slave girl comes in from the street and sits at her own banquet", cluster: wisdom}
+  thief-revealed-in-quarrel: {label: "Saying: when there is a quarrel, the one who has stolen reveals what she took", cluster: wisdom}
+  lie-increases-evil-and-ruin: {label: "Saying: do not increase evil by telling lies, for ruin (gam) will be your lot", cluster: wisdom}
+  merchant-not-to-be-friend: {label: "Saying: the merchant's scales are a snare for the feet; do not take a merchant for a friend; the merchant shrinks the silver, oil and barley", cluster: wisdom}
+  insulter-is-insulted: {label: "Saying: he who insults is insulted, he who sneers is sneered at (speech returns on the speaker)", cluster: wisdom}
+  storm-god-splits-mountains-not-waterskin: {label: "Saying mocking the storm god's oath: Iškur splits the mountains, yet does not split the waterskin, nor carry you across the river", cluster: wisdom}
+  trades-characterised-by-their-sayings: {label: "List-saying: each trade or office is characterised by its tool or its typical phrase (carpenter the chisel, singer 'alala', purification priest 'serve me', fuller 'by Enki, it won't take long')", cluster: wisdom}
+  king-gives-shepherd-cupbearer-says-do-well: {label: "Saying: 'Give me!' is what the king says; 'Do well!' is what the cupbearer's son says", cluster: wisdom}
+  kingship-conferred-at-sunrise: {label: "Saying: as the sun rises decisions (destinies) are made; when Utu stands up, kingship is given", cluster: kingship}
+  weapon-finds-flesh-not-name: {label: "Saying: the battle-club does not seek out your name, only your flesh", cluster: wisdom}
+  own-smell-turnip-strangers-bring-sweet: {label: "Saying about our own smell: let it be of leeks, not turnips; our own smell is pulled-up turnips, sweet things are brought by strangers", cluster: wisdom}
+  dog-barks-if-not-fed: {label: "Saying: if you do not give the dog something, it barks at every woman", cluster: wisdom}
+  garrulous-fool: {label: "Saying: the fool (ḫu-ru-um) is garrulous; who can rival a garrulous man?", cluster: wisdom}
+  goddess-emissary-helps-the-lame: {label: "Saying: where someone is lame, the emissary of the goddess Bau comes to help", cluster: wisdom}
+  no-grain-sign-of-gods-vengeance: {label: "Saying: where there is no grain it is a sign of vengeance turned against a city; where there are no reeds, the worst poverty", cluster: wisdom}
+  goat-knows-wasteland-unvisited: {label: "Saying: although it has never been there, the goat knows the wasteland", cluster: wisdom}
+  tongue-like-runaway-donkey: {label: "Saying: my tongue, like a runaway donkey, does not turn back", cluster: wisdom}
+  servant-cools-soup-bones-fish: {label: "Saying of the servant: with my mouth I cool the hot soup for you, I pick the bones out of the fish for you", cluster: wisdom}
+  liar-false-witness-abomination: {label: "A witness who comes forward to testify what he does not know is an abomination to the moon god Suen", cluster: wisdom}
+  flies-enter-open-mouth: {label: "Saying: flies enter an open mouth", cluster: wisdom}
+  offerings-create-life: {label: "Saying: offerings (sizkur2) give birth to life", cluster: cult}
+  braggart-punished-with-disease: {label: "Saying: punishment is assigned to the swaggerer (sun7-na) and he is afflicted with diseases", cluster: wisdom}
+  kid-in-right-hand-bribe-in-left: {label: "Saying: hold a kid (for offering) in your right arm and a bribe (kadra) in your left", cluster: wisdom}
+  cobblers-children-unshod: {label: "Saying: the craftsman (the manicurist) is himself dressed in dirty rags", cluster: wisdom}
+  aching-heart-no-one-finds: {label: "Saying: my aching finger is held, my aching foot has its sandal, but who will find my aching heart? May Inana pour oil on it", cluster: wisdom}
+  personal-god-shepherd-finds-pasture: {label: "A man's personal god is a shepherd who finds pasture for him and leads him like sheep to the food they can eat", cluster: theology}
+  heavens-destroyed-people-still-stand: {label: "Saying: the heavens were destroyed and the earth shaken, yet the people still stood there by themselves", cluster: wisdom}
+  elam-place-of-no-return: {label: "Saying: he who entered Elam has his lips sealed; he who has to live in Elam does not have a good life", cluster: wisdom}
+  nomad-does-not-know-grain: {label: "Saying: the nomad (mar-tu) ate wheat and barley made sweet like honey and did not know what was in it", cluster: wisdom}
+  flees-from-own-past: {label: "Saying: he who keeps fleeing flees from his own past (eĝer, what is behind him)", cluster: wisdom}
+  two-like-one-man: {label: "Saying: the two of them are like one man", cluster: wisdom}
+  holds-up-sky-earth-dangles: {label: "Saying: he holds up the sky, letting the earth dangle from his hands", cluster: wisdom}
+  good-word-friend-of-many: {label: "Saying: a good word is a friend to many people; a destructive word is four yoked oxen", cluster: wisdom}
+  unwashed-hands-to-mouth-disgusting: {label: "Saying: serving beer or putting food to the mouth with unwashed hands is disgusting or abominable", cluster: wisdom}
+  covetousness-abomination-to-ninurta: {label: "Coveting (igi-tum3 la2) and grasping (or spying) are an abomination to Ninurta", cluster: wisdom}
+  fate-indifferent-to-just-and-wicked: {label: "Saying: the speaker confronts Fate (nam-tar), to whom it makes no difference whether one speaks as a just man or as a wicked man", cluster: wisdom}
+  spoken-word-out-of-hand: {label: "Saying: what has come out of the mouth is no longer in one's hand (a word cannot be taken back)", cluster: wisdom}
+  woe-and-boat-sinks: {label: "Saying: he said 'Woe!' and the boat sank with him, he said 'Alas!' and the rudder broke", cluster: wisdom}
+  free-worker-worth-several-slaves: {label: "Saying: a free weaver equals two slave girls, a free worker three slaves", cluster: wisdom}
+  leader-burning-followers-indifferent: {label: "Saying: if the leader is devoured by fire, those behind him do not ask where the leader is", cluster: wisdom}
+  righteousness-cut-off-injustice-grows: {label: "Saying: when righteousness (si sa2) is cut off, injustice (niĝ2-erim2) increases", cluster: wisdom}
+  arrogant-head-bowed-like-reed: {label: "Wish or saying that the arrogant man's head be bowed to his neck like a damp reed", cluster: wisdom}
+  boss-bullies: {label: "Saying: it is because you are the boss (nam-ugula) that you bully me", cluster: wisdom}
+  foreman-must-assign-work: {label: "Saying: if the foreman does not know how to assign the work, his workers keep shaking their heads", cluster: wisdom}
+  temple-as-accounts-office: {label: "Saying: Enlil's temple is a summation of accounts with the temple manager as overseer, a gathering of wages", cluster: wisdom}
+  nothing-changes-saying: {label: "Saying: something offered is not offered, something finished is not finished: nothing changes", cluster: wisdom}
+  joy-of-daughter-in-law-is-anger: {label: "Saying: the joy of a daughter-in-law is anger", cluster: wisdom}
+  inana-rejected-dream-is-to-forget: {label: "Saying: for one rejected by Inana, his dream is to forget", cluster: wisdom}
+  monkey-in-eridu-longing: {label: "Saying: in Eridu built in abundance, the monkey sits in the singer's house with longing eyes", cluster: wisdom}
+  solitary-man-treacherous: {label: "Saying: let the solitary one remain alone; he is forever treacherous", cluster: wisdom}
+  goat-speaks-like-wise-woman-acts-unclean: {label: "Saying: the goat spoke like a wise old woman but acted like an unclean woman (words and deeds differ)", cluster: wisdom}
+  drought-cloudy-day-no-rain: {label: "Saying: the day clouded over but it did not rain; when it rained, not enough to undo the sandals; the Tigris did not surge and the fields were not filled", cluster: wisdom}
+  lost-loincloth-becomes-fine-garment: {label: "Saying: when present it was only a loincloth; when lost, it is fine clothing (things are valued once lost)", cluster: wisdom}
+  wild-bull-taboo-for-plough: {label: "Saying: the wild bull is taboo (niĝ2-gig) for the plough", cluster: wisdom}
+  shepherd-boy-weary-forgets-mother: {label: "Saying: a weary shepherd-boy does not recognise his own mother", cluster: wisdom}
+  heir-who-does-not-support-wife-and-child: {label: "Saying: an unjust heir who does not support wife or child has no cause for celebration", cluster: wisdom}
+  traveller-eats-all-day: {label: "Saying: on a journey a man does not tire of eating; he gathers food all day long", cluster: wisdom}
+  lion-in-trap-easily-taken: {label: "Saying: a lion caught in the trap becomes mine simply when the owner removes the wood", cluster: wisdom}
+  lion-against-louse-rat-at-work: {label: "Saying: he moves like a lion against a louse, but like a rat when there is work to be done", cluster: wisdom}
+  royal-names-in-proverbs: {label: "A proverb names a historical Sumerian king (Išbi-Erra, Ur-Namma, Naram-Suen, Šulgi, Nanni)", cluster: wisdom}
+units:
+  - id: ane-etcsl-6-1-03-a-outcast-son-and-time
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 1-17: the outcast son, procrastination, taboos of Utu, shepherds, friendship"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.1:1-A.3.17:37"]
+    tags:
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.03 A.3.1:1-A.3.17:37"]}
+      - {motif: outcast-son-still-fed, refs: ["ETCSL 6.1.03 A.3.5"], note: "e-ri-ib-gu7-en ... e-ri-ib-naĝ-e ... dumu-ĝu10-me-en diĝir-zu kur2-ra-am3: 'I will feed you, I will give you drink ... you are my son, (even if) your god is hostile'; ti-ri2-ga 'outcast' is uncertain"}
+      - {motif: procrastination-i-will-go-tomorrow, refs: ["ETCSL 6.1.03 A.3.6"], note: "ud-da ga-ĝen na-gada-kam / ud ul-la ga-ĝen sipad-tur-ra-kam / ga-ĝen ga-ĝen-na-am3 ud mi-ni-ib-zal-zal-e"}
+      - {motif: grind-while-there-is-light, refs: ["ETCSL 6.1.03 A.3.13"], note: "ud ma-ra-an-ĝal2 zid2 ma5-a 'while you have daylight, grind the flour'"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.03 A.3.8"], note: "a list of unclean acts (beer served with unwashed hands, spitting without treading it in, sneezing without covering it with dust, kissing with the tongue at midday without shade) ends niĝ2-gig {d}utu-kam"}
+      - {motif: abomination-to-yhwh-saying, refs: ["ETCSL 6.1.03 A.3.8"], note: "the Sumerian niĝ2-gig DN-kam formula parallels Hebrew to'evat YHWH"}
+      - {motif: unwashed-hands-to-mouth-disgusting, refs: ["ETCSL 6.1.03 A.3.8:16A"], note: "šu nu-luḫ-ḫa kaš i3-de2-a, in one manuscript"}
+      - {motif: heir-who-does-not-support-wife-and-child, refs: ["ETCSL 6.1.03 A.3.9"]}
+      - {motif: shepherd-removed-sheep-lost, refs: ["ETCSL 6.1.03 A.3.10", "ETCSL 6.1.03 A.3.11"], note: "udu-ni šu-a li-bi2-in-gi4 'his sheep do not return to hand'"}
+      - {motif: shepherd-boy-weary-forgets-mother, refs: ["ETCSL 6.1.03 A.3.12"]}
+      - {motif: wild-bull-taboo-for-plough, refs: ["ETCSL 6.1.03 A.3.14"], note: "am-e niĝ2-gig {ĝiš}apin-na-kam"}
+      - {motif: eat-modestly-greed-kills, refs: ["ETCSL 6.1.03 A.3.15"], note: "tur gu7-a lu2 nu-til-le / igi-tum3 la2 saĝ ĝiš ra-ra / tur-bi gu7-a maḫ-bi til3-la"}
+      - {motif: friend-in-life-demon-in-death, refs: ["ETCSL 6.1.03 A.3.16"], note: "en-na til3-la gu5-li-ni-im / ud ug5-ga gal5-la2 gal-la-ni-im"}
+      - {motif: friendship-short-kinship-lasting, refs: ["ETCSL 6.1.03 A.3.17"], note: "variants: friendship lasts one day or three days"}
+    hints:
+      - "The outcast son still fed: compare the father of the prodigal (Luke 15:20-24) and Ps 27:10."
+      - "'I will go tomorrow' and the passing day: compare Prov 3:28 and Prov 27:1; Q 18:23-24."
+      - "Work while there is light: compare John 9:4 and Eccl 9:10, 11:6."
+      - "Abomination to Utu: compare the to'evah sayings, Prov 6:16-19, 11:1, 11:20; Deut 23:13-15 (covering excrement in the camp)."
+      - "Shepherd removed, sheep lost: compare Zech 13:7, 1Kgs 22:17, Ezek 34:5."
+      - "Eat modestly, greed kills: compare Prov 23:1-3, 30:8-9; Q 7:31 (eat and drink but do not waste)."
+      - "Friendship lasts a day: compare Prov 18:24, 17:17 and 27:10 (a near neighbour better than a far brother); Sir 6:8-10."
+  - id: ane-etcsl-6-1-03-b-quarrels-and-kings
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 18-35: quarrel and slander, tears, reciprocity, Enlil's chaff, Nanni's old age"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.18:38-A.3.35:79"]
+    tags:
+      - {motif: slanderer-with-forked-tongue, refs: ["ETCSL 6.1.03 A.3.18"], note: "eme sig gu7-e ki nam-luḫ-še3 i3-ĝal2 'slander ('eating the eme sig') is found even in the place of purification'"}
+      - {motif: traveller-eats-all-day, refs: ["ETCSL 6.1.03 A.3.19"]}
+      - {motif: tears-in-human-flesh, refs: ["ETCSL 6.1.03 A.3.20"], note: "su nam-lu2-ulu3-ka a gig i3-ĝal2"}
+      - {motif: mote-in-the-eye, refs: ["ETCSL 6.1.03 A.3.21"], note: "u2 igi-ta nu-ub-ta-a-an-ed3 'not taking the straw out of the eye', in a list of petty faults; the line is obscure"}
+      - {motif: hand-answers-hand-reciprocity, refs: ["ETCSL 6.1.03 A.3.22"], note: "šu gid2-e šu mu-da-gid2-e / šu bur2-ra šu mu-da-bur2-e"}
+      - {motif: silver-grain-cattle-bring-sleep, refs: ["ETCSL 6.1.03 A.3.23"], note: "kug tuku šag4 an-ḫul2 še tuku ur5 an-sag9 / niĝ2-ur2-limmu2 tuku-e u3 mu-un-ši-ku-ku"}
+      - {motif: grind-while-there-is-light, refs: ["ETCSL 6.1.03 A.3.26"], note: "when the sun sets outside so that you do not recognise your own hand, go in (kur9-ni-ib)"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.03 A.3.27", "ETCSL 6.1.03 A.3.31", "ETCSL 6.1.03 A.3.34", "ETCSL 6.1.03 A.3.35"], note: "Išbi-Erra (A.3.27, broken), Nanni (A.3.31, A.3.35), Ur-Namma with large mirrors (mu-ša-lum) in Enlil's temple (A.3.34)"}
+      - {motif: old-king-carried-to-netherworld-despite-works, refs: ["ETCSL 6.1.03 A.3.31"], note: "line 66 wholly restored; 'nam-lugal kalag-ga igi nu-mu-du8 / ur5 na-an-na kur-ra ba-ra-an-de6' (he never saw mighty kingship; thus Nanni was carried off to the netherworld, kur)"}
+      - {motif: live-for-today-bound-like-bull, refs: ["ETCSL 6.1.03 A.3.33"], note: "ud-da ga-til3-e gud-gin7 saman bi2-in-la2 ('saman bi2-in-la2' partly restored)"}
+    hints:
+      - "The rich man sleeps: contrast Eccl 5:11 (the rich man's surfeit will not let him sleep)."
+      - "Mote in the eye: compare Matt 7:3-5."
+      - "Slander even in the place of purification: compare Ps 50:19-20, Prov 10:18, Lev 19:16."
+      - "The king carried off to the netherworld despite his building works: compare Eccl 2:4-17 and Ps 49:11-13."
+      - "'I will live for today': compare Isa 22:13 and Q 102:1-2."
+  - id: ane-etcsl-6-1-03-c-slave-girls-and-merchants
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 36-66: slave girls, lies, Unug cursed, the boss, the merchant"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.36:80-A.3.66:130"]
+    tags:
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.03 A.3.36", "ETCSL 6.1.03 A.3.37", "ETCSL 6.1.03 A.3.38", "ETCSL 6.1.03 A.3.39", "ETCSL 6.1.03 A.3.40", "ETCSL 6.1.03 A.3.45"], note: "a run of geme2 sayings: the voluptuous slave girl (geme2 niĝ2 ḫi-li-a) invoking Iškur, the palace slave girl always giving advice, release money (kug-du8-a), grinding like a fearful slave girl, the grumbling one who did not fill the containers"}
+      - {motif: slave-girl-feasts-when-mistress-away, refs: ["ETCSL 6.1.03 A.3.41"], note: "ga-ša-an-na-ni ĝišbum-ma bi2-in-tuš 'away from her lady she sat at her own banquet' (Emesal ga-ša-an)"}
+      - {motif: four-things-earth-cannot-bear, refs: ["ETCSL 6.1.03 A.3.41"], note: "interpretive: the maid who takes her mistress's place"}
+      - {motif: thief-revealed-in-quarrel, refs: ["ETCSL 6.1.03 A.3.42"], note: "e2-{na4}kinkin-na du14 ḫe2-en-ĝal2 / geme2 niĝ2 zuḫ-a-ni pa im-mi-in-ed3: 'when there is a quarrel in the mill house, the slave girl brings to light what she stole'"}
+      - {motif: joy-of-daughter-in-law-is-anger, refs: ["ETCSL 6.1.03 A.3.44"], note: "šag4 ḫul2-la e2-gi4-a šag4 ib2-ba-kam"}
+      - {motif: lie-increases-evil-and-ruin, refs: ["ETCSL 6.1.03 A.3.55"], note: "til3-la lul-la ḫul na-an-gu-ul-en / gam ḫa-la-zu-še3 mu-un-ĝal2"}
+      - {motif: royal-names-in-proverbs, refs: ["ETCSL 6.1.03 A.3.59"], note: "not a king: the lord (en) cursed Unug (nam im-ma-kud) and was cursed in turn by the lady of E-ana"}
+      - {motif: boss-bullies, refs: ["ETCSL 6.1.03 A.3.62"]}
+      - {motif: arrogant-head-bowed-like-reed, refs: ["ETCSL 6.1.03 A.3.63"], note: "nam-sun7-na-ta gi duru5-gin7 saĝ gu2-ni-še3 ḫe2-bi2-in-ed3-de3"}
+      - {motif: merchant-not-to-be-friend, refs: ["ETCSL 6.1.03 A.3.64", "ETCSL 6.1.03 A.3.65", "ETCSL 6.1.03 A.3.66"], note: "ĝiš-erin2 sa ak pu2 niĝ2 ĝiri3-a-kam / dam-gara3 gu5-li-ni-ir lu2 na-an-tuku-tuku: 'scales made with a net (?) are a pit for the feet; let no one take a merchant as his friend'"}
+      - {motif: merchant-with-false-scales, refs: ["ETCSL 6.1.03 A.3.64", "ETCSL 6.1.03 A.3.65"]}
+      - {motif: just-get-what-wicked-deserve, refs: ["ETCSL 6.1.03 A.3.56"], note: "only zid-du erim2-du 'the righteous ... the wicked' survives; tentative"}
+    hints:
+      - "The slave girl in her mistress's place: compare Prov 30:21-23 and Gen 16:4."
+      - "Lies increase evil: compare Prov 19:5, 19:9 and Prov 12:19."
+      - "The merchant's false scales: compare Hos 12:8, Amos 8:5, Prov 11:1, 20:23; Q 83:1-3 (woe to the stinters) and Q 55:9."
+      - "The arrogant bowed like a reed: compare Isa 58:5 and Isa 2:11-17."
+  - id: ane-etcsl-6-1-03-d-strong-weak-and-trades
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 67-110: the strong and the weak, the insulter, Iškur's oath, sunrise and kingship, trades, the fool"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.67:131-A.3.110:202"]
+    tags:
+      - {motif: own-smell-turnip-strangers-bring-sweet, refs: ["ETCSL 6.1.03 A.3.68", "ETCSL 6.1.03 A.3.85"], note: "šim sis-me šim ga-raš{sar} ḫe2 / šim lu-ub2{sar} nam-me; and lu-ub2 ze2-ze2 šim sis-me / dug3-ga lu2-kur2-ra ma-ab-tum3"}
+      - {motif: insulter-is-insulted, refs: ["ETCSL 6.1.03 A.3.69"], note: "in dub2-dub2-bu-ra in mu-na-an-ĝar / giri17 ur5-e giri17 mu-na-an-ur5-re"}
+      - {motif: measure-for-measure-retribution, refs: ["ETCSL 6.1.03 A.3.69"]}
+      - {motif: lion-in-trap-easily-taken, refs: ["ETCSL 6.1.03 A.3.70"]}
+      - {motif: storm-god-splits-mountains-not-waterskin, refs: ["ETCSL 6.1.03 A.3.76", "ETCSL 6.1.03 A.3.77"], note: "mu {d}iškur kur gul-gul ... ma2 ba-ra-mu-e-da-ab-bal-e; {d}iškur-e kur al-dar-dar-e / {kuš}a-ĝa2-la2 nu-dar-re"}
+      - {motif: lion-against-louse-rat-at-work, refs: ["ETCSL 6.1.03 A.3.82"], note: "umun3-še3 piriĝ-gin7 du / kiĝ2 ak-de3 niĝ2-gilim-ma-gin7 du"}
+      - {motif: sluggard-lion-in-street, refs: ["ETCSL 6.1.03 A.3.82"], note: "interpretive: the shirker brave in trifles, a rat at work"}
+      - {motif: kingship-conferred-at-sunrise, refs: ["ETCSL 6.1.03 A.3.83"], note: "ud ul-e3 nam al-tar-ra / {d}utu gub-ba-ni nam-lugal mu-un-na-an-šum2"}
+      - {motif: weapon-finds-flesh-not-name, refs: ["ETCSL 6.1.03 A.3.84"]}
+      - {motif: king-gives-shepherd-cupbearer-says-do-well, refs: ["ETCSL 6.1.03 A.3.86"], note: "šum2-ma-ab lugal-la-kam / dug3-ga-ab dumu sagi-a-kam"}
+      - {motif: trades-characterised-by-their-sayings, refs: ["ETCSL 6.1.03 A.3.87"], note: "nagar {ĝiš}kibir2-am3 / ad-KID ma-sa2-ab-am3 / simug ... / nar u8-ua a-la-la"}
+      - {motif: foreman-must-assign-work, refs: ["ETCSL 6.1.03 A.3.89"]}
+      - {motif: temple-as-accounts-office, refs: ["ETCSL 6.1.03 A.3.91", "ETCSL 6.1.03 A.3.92"]}
+      - {motif: enlils-greatest-punishment-hunger, refs: ["ETCSL 6.1.03 A.3.93"], note: "{d}en-lil2-le šer7-da gu-la-ni šag4-ĝar-ra"}
+      - {motif: dog-barks-if-not-fed, refs: ["ETCSL 6.1.03 A.3.94"]}
+      - {motif: garrulous-fool, refs: ["ETCSL 6.1.03 A.3.97", "ETCSL 6.1.03 A.3.103"], note: "ka an-tuku-da a-ba-am3 mu-da-ab-sa2-e; ḫu-ru-um ka tuku"}
+      - {motif: goddess-emissary-helps-the-lame, refs: ["ETCSL 6.1.03 A.3.105"], note: "ki ĝiri3 ba-la2 sukkal {d}ba-u2-ke4"}
+      - {motif: two-like-one-man, refs: ["ETCSL 6.1.03 A.3.109"]}
+      - {motif: nothing-changes-saying, refs: ["ETCSL 6.1.03 A.3.107"], note: "niĝ2 ga-til3 nu ga-til3 niĝ2 ba-til nu ba-til / niĝ2 nu-kur2-ra-am3"}
+      - {motif: no-grain-sign-of-gods-vengeance, refs: ["ETCSL 6.1.03 A.3.106"], note: "še nu-ĝal2-la šu iri{ki}-ka / gi nu-ĝal2-la nam-ukur3-ra dirig-ga"}
+    hints:
+      - "Iškur cannot split a waterskin: compare the mockery of gods who cannot act, 1Kgs 18:27, Isa 46:1-7, Ps 115:4-7; Q 22:73 (they cannot create a fly)."
+      - "Hunger as the god's greatest punishment: compare Amos 4:6-8, Lev 26:26, Deut 28:48 and Q 16:112."
+      - "He who insults is insulted: compare Matt 7:2 and Prov 26:27; Q 42:40 (the recompense of an evil is an evil like it)."
+      - "Nothing changes: compare Eccl 1:9-10."
+      - "The garrulous fool: compare Prov 10:19, 18:2, Eccl 10:12-14."
+      - "The emissary of Bau helping the lame: compare Ps 146:8 and Isa 35:6."
+  - id: ane-etcsl-6-1-03-e-mouth-tongue-and-heart
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 111-147: the goat and the wasteland, mouth and tongue, false witness, offerings, the aching heart, the personal god as shepherd"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.111:203-A.3.147:266"]
+    tags:
+      - {motif: goat-knows-wasteland-unvisited, refs: ["ETCSL 6.1.03 A.3.111"]}
+      - {motif: servant-cools-soup-bones-fish, refs: ["ETCSL 6.1.03 A.3.112"]}
+      - {motif: tongue-like-runaway-donkey, refs: ["ETCSL 6.1.03 A.3.114"], note: "eme-ĝu10 anše kar-ra-gin7 eĝer-bi-še3 nu-gi4-gi4"}
+      - {motif: liar-false-witness-abomination, refs: ["ETCSL 6.1.03 A.3.118"], note: "niĝ2 nu-zu-am3 lu2-ki-inim-ma ab-ta-e3 / niĝ2-gig {d}suen-na-kam"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.03 A.3.118"]}
+      - {motif: six-seven-things-god-hates, refs: ["ETCSL 6.1.03 A.3.118"], note: "the false witness as something the god abhors"}
+      - {motif: flies-enter-open-mouth, refs: ["ETCSL 6.1.03 A.3.119"], note: "ka ĝal2 taka4-a nim ba-an-ku4-ku4"}
+      - {motif: offerings-create-life, refs: ["ETCSL 6.1.03 A.3.120"], note: "sizkur2-re nam-til3 i3-u3-tud"}
+      - {motif: braggart-punished-with-disease, refs: ["ETCSL 6.1.03 A.3.121"]}
+      - {motif: kid-in-right-hand-bribe-in-left, refs: ["ETCSL 6.1.03 A.3.123"], note: "a2 zid-da-zu maš2 ḫe2-da-ĝal2 / gab2-bu-zu kadra ḫe2-da-ĝal2"}
+      - {motif: cobblers-children-unshod, refs: ["ETCSL 6.1.03 A.3.124"]}
+      - {motif: aching-heart-no-one-finds, refs: ["ETCSL 6.1.03 A.3.127", "ETCSL 6.1.03 A.3.128"], note: "šag4 gig-ga-ĝu10 a-ba-a ḫu-mu-un-pad3-de3; {d}inana-ke4 šag4 gig-ga-ĝu10 i3 ḫe2-eb-de2"}
+      - {motif: heart-knows-own-bitterness, refs: ["ETCSL 6.1.03 A.3.127"]}
+      - {motif: grind-while-there-is-light, refs: ["ETCSL 6.1.03 A.3.132"], note: "izi nu-ub-da-an-ten-a-aš li-gi4-in-zu sar-ra-ab 'before the fire goes out, write your exercise tablet'"}
+      - {motif: personal-god-shepherd-finds-pasture, refs: ["ETCSL 6.1.03 A.3.134"], note: "diĝir lu2-ulu3 sipad u2 kiĝ2-ĝa2 lu2-ulu3-kam / udu-gin7 u2 gu7-a ḫe2-en-tum2-tum2-mu"}
+      - {motif: yhwh-my-shepherd, refs: ["ETCSL 6.1.03 A.3.134"]}
+      - {motif: heavens-destroyed-people-still-stand, refs: ["ETCSL 6.1.03 A.3.136"], note: "an ba-gul-gul ki ba-sag3-sag3 ... lu2 ni2-bi-a ba-an-gub"}
+      - {motif: elam-place-of-no-return, refs: ["ETCSL 6.1.03 A.3.138", "ETCSL 6.1.03 A.3.139"]}
+      - {motif: nomad-does-not-know-grain, refs: ["ETCSL 6.1.03 A.3.140"], note: "mar-tu i3-gu7-a niĝ2 šag4-bi nu-un-zu"}
+      - {motif: flees-from-own-past, refs: ["ETCSL 6.1.03 A.3.141"], note: "al-kar-kar-re eĝer-ra-ni al-kar"}
+      - {motif: inana-rejected-dream-is-to-forget, refs: ["ETCSL 6.1.03 A.3.145"]}
+    hints:
+      - "The personal god as shepherd finding pasture: compare Ps 23:1-2, Gen 48:15 and Ezek 34:14."
+      - "The aching heart no one finds: compare Prov 14:10, 18:14 and Ps 69:21."
+      - "The false witness an abomination: compare Prov 6:19, 19:5, Exod 20:16, Deut 19:16-19; Q 25:72."
+      - "The runaway tongue: compare Jas 3:5-8 and Prov 13:3."
+      - "Kid in the right hand, bribe in the left: compare Prov 21:14, 17:23 and Isa 1:11-17."
+      - "Offerings give life: contrast 1Sam 15:22 and Ps 50:8-15; Q 22:37."
+      - "Heavens destroyed, people still standing: compare Isa 51:6 and Ps 102:26-28."
+  - id: ane-etcsl-6-1-03-f-trades-taboos-and-fate
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, nos. 148-190: priests and craftsmen, drought, abominations to Suen, Inana and Ninurta, Fate, the leader in the fire, righteousness cut off"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 A.3.148:267-A.3.190:328"]
+    tags:
+      - {motif: trades-characterised-by-their-sayings, refs: ["ETCSL 6.1.03 A.3.148"], note: "ḫa-ma-gub-be2-en gudug-e-ne ... zi {d}en-ki i3-pad3 tug2-zu e2-a ud ba-ra-zal-e {lu2}azlag2-e-ne: the fuller swears by Enki's life"}
+      - {motif: drought-cloudy-day-no-rain, refs: ["ETCSL 6.1.03 A.3.149"], note: "ud al-šu2-šu2-ru im nu-šeĝ3-šeĝ3 / im al-šeĝ3 {kuš}e-sir2 nu-du8"}
+      - {motif: monkey-in-eridu-longing, refs: ["ETCSL 6.1.03 A.3.150"]}
+      - {motif: solitary-man-treacherous, refs: ["ETCSL 6.1.03 A.3.152"]}
+      - {motif: goat-speaks-like-wise-woman-acts-unclean, refs: ["ETCSL 6.1.03 A.3.153"], note: "nam-um-ma ba-dug4 nam-u2-zug4 ib2-ak"}
+      - {motif: good-word-friend-of-many, refs: ["ETCSL 6.1.03 A.3.159", "ETCSL 6.1.03 A.3.160"], note: "inim dug3 gu5-li lu2 šar2-ra-ka; inim gul-la gud 4 la2-a"}
+      - {motif: unwashed-hands-to-mouth-disgusting, refs: ["ETCSL 6.1.03 A.3.161"], note: "šu nu-luḫ-ḫa ka-e tum3-da niĝ2-gig-ga-am3"}
+      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.1.03 A.3.167"]}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.03 A.3.168", "ETCSL 6.1.03 A.3.169", "ETCSL 6.1.03 A.3.170", "ETCSL 6.1.03 A.3.171", "ETCSL 6.1.03 A.3.175"], note: "niĝ2-gig of the necromancer (lu2-gidim-ma) is muš barley; wheat flour niĝ2-gig of his god; touching a woman's genitals over her clothes niĝ2-gig {d}suen; carrying bread to the oven while singing niĝ2-gig {d}inana; coveting niĝ2-gig {d}nin-urta"}
+      - {motif: covetousness-abomination-to-ninurta, refs: ["ETCSL 6.1.03 A.3.175"], note: "igi-tum3 la2 gid2-i-da (var. igi du8) niĝ2-gig {d}nin-urta-ke4"}
+      - {motif: covet-prohibition, refs: ["ETCSL 6.1.03 A.3.175"]}
+      - {motif: fate-indifferent-to-just-and-wicked, refs: ["ETCSL 6.1.03 A.3.176"], note: "nam-tar-re gaba-ri-me-en / zid-du dug4-ga-ab erim2-du dug4-ga-ab"}
+      - {motif: spoken-word-out-of-hand, refs: ["ETCSL 6.1.03 A.3.177"], note: "ka-ta ḫe2-ĝal2 šu-a nu-ĝal2"}
+      - {motif: woe-and-boat-sinks, refs: ["ETCSL 6.1.03 A.3.179"]}
+      - {motif: lost-loincloth-becomes-fine-garment, refs: ["ETCSL 6.1.03 A.3.187"]}
+      - {motif: free-worker-worth-several-slaves, refs: ["ETCSL 6.1.03 A.3.183"]}
+      - {motif: leader-burning-followers-indifferent, refs: ["ETCSL 6.1.03 A.3.188"]}
+      - {motif: righteousness-cut-off-injustice-grows, refs: ["ETCSL 6.1.03 A.3.190"], note: "si sa2 un-tar-e niĝ2-erim2 ib2-il2-e"}
+      - {motif: necromancy, refs: ["ETCSL 6.1.03 A.3.168"], note: "only the lu2-gidim-ma 'necromancer' is named, as one for whom muš barley is taboo"}
+    hints:
+      - "Fate indifferent to just and wicked: compare Eccl 9:2-3 and Job 9:22."
+      - "A word cannot be taken back: compare Prov 18:21, Eccl 5:1-5, Num 30:3."
+      - "Coveting an abomination to Ninurta: compare Exod 20:17 and Deut 5:21."
+      - "Righteousness cut off, injustice grows: compare Isa 59:14-15 and Hab 1:4; Q 30:41."
+      - "A good word a friend to many: compare Prov 15:1, 16:24 and Q 14:24-26 (a good word like a good tree)."
+      - "The drought (clouds without rain): compare Prov 25:14 and Jude 12."
+  - id: ane-etcsl-6-1-03-g-fragments
+    tradition: ane-sumerian
+    title: "Proverbs collection 3, fragmentary sources B, C and D"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.03 B.3.b1:1-D.3.d1:4"]
+    tags:
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.03 B.3.b1:1-D.3.d1:4"], note: "nothing coherent survives: C.3.c1 '[...] nu-dug3 [...] kalag-ga' (not good ... strong), C.3.c2 'a naĝ-naĝ' (drinking water), D.3.d1 nin9 'sister', igi-ni 'his eyes'"}

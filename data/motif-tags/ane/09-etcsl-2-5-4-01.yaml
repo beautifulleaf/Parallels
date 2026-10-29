@@ -420,7 +420,7 @@ units:
     read: ["ETCSL 2.5.4.16 A:1-C:27"]
     tags:
       - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.4.16 A:9"], note: "piriĝ gu3 di: roaring lion (of the god Ninurta); A:1-3, A:7-8 fragmentary"}
-      - {motif: storm-god-titles, refs: ["ETCSL 2.5.4.16 A:11"], note: "u4-ta-u18-lu: Ninurta's storm-name Uta-ulu; rest broken"}
+      - {motif: divine-warrior-as-deluge, refs: ["ETCSL 2.5.4.16 A:11"], note: "u4-ta-u18-lu: Ninurta's storm-name Uta-ulu; rest broken"}
       - {motif: king-dedicates-weapon-and-cult-objects, refs: ["ETCSL 2.5.4.16 C:23-26"], note: "šita2 saĝ 50 ... {urud}gu-za maḫ: the fifty-headed mace and a great copper throne, as in Ishme-Dagan A segment B"}
       - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.5.4.16 C:17-19"], note: "only: ub-šu-unken-na ... nam-{d}en-lil2 ... a2 kur gal: the assembly place, Enlil-ship, the Great Mountain's strength; context lost"}
     hints:
@@ -437,7 +437,7 @@ units:
       - {motif: hero-restores-forgotten-rites, refs: ["ETCSL 2.5.4.17 A.A:6-9"], note: "ĝiš-ḫur e2-kur-ra ... šu-luḫ ĝarza maḫ-bi us2 zid dab5-be2 kug-ge sikil-e-bi: to perform E-kur's ordinances, teach the lustrations and rites, purify and clean"}
       - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 2.5.4.17 A.A:12-16"], note: "ub-šu-unken-na ki di gal ku5-ru: the Anuna gather before him where great verdicts are given; inim kug an-gin7 šu nu-teĝ3-ĝe26-zu: your holy word unreachable like heaven"}
       - {motif: divine-minister-speaks-for-king-before-god, refs: ["ETCSL 2.5.4.17 B.B:9-16"], note: "ud e2-kur ... ezen-gin7 du3-a-ba / {d}en-lil2 {d}nin-lil2-bi ḫi-li-a mu-un-dur2-ru-ne-eš-a-ba / inim sag9-ga {d}iš-me-{d}da-gan-na ka kug-zu ḫe2-em-tum3 (stanza repeated)"}
-      - {motif: god-who-hears-prayer, refs: ["ETCSL 2.5.4.17 B.B:8", "ETCSL 2.5.4.17 B.B:17"], note: "šudu3 ĝiš tuku: who listens to prayers; šudu3 a-ra-zu-a šu mu2-mu2-da-ni igi dug3 ḫu-mu-ni-du8-uš"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 2.5.4.17 B.B:8", "ETCSL 2.5.4.17 B.B:17"], note: "šudu3 ĝiš tuku: who listens to prayers; šudu3 a-ra-zu-a šu mu2-mu2-da-ni igi dug3 ḫu-mu-ni-du8-uš"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.17 B.B:18-24"], note: "til3 niĝ2 dug3 bal dug3 mu giri17-zal-la: good life, good reign, years of joy; refrain doubled"}
     hints:
       - "Compare Zech 1:12-13 and Job 33:23-26 (an angelic mediator speaks good words for a man) and Tob 12:12, 15 with B.B:9-16."

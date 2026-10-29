@@ -60,6 +60,25 @@ new_motifs:
   lovemaking-by-moonlight: {label: "The lover proposes to make love by moonlight on the couch", cluster: love}
   goddess-of-milk-and-fold: {label: "Through a goddess the cattle-pen is filled with butter and cream and the sheepfold with milk", cluster: fertility}
   brother-takes-en-priesthood: {label: "A brother (Dumuzid) takes possession of the en priesthood of a city, served monthly by incantation and ablution priests", cluster: cult}
+  gala-singer-performs-song: {label: "The gala (lament) singer and the nar musician perform a song or hymn for the deity", cluster: cult}
+  lover-comes-forth-like-daylight: {label: "The beloved comes forth like daylight or is hailed as a sun", cluster: love}
+  shepherd-farmer-wooing-contest: {label: "A shepherd and a farmer compete for the hand of the same maiden, each boasting his produce", cluster: love}
+  brother-urges-sister-to-marry-suitor: {label: "A brother urges his reluctant sister to accept the suitor, praising his goods", cluster: love}
+  woman-refuses-proposed-husband: {label: "The maiden refuses the husband proposed for her: 'I will not marry the shepherd'", cluster: love}
+  shepherd-offers-produce-in-exchange: {label: "Litany of exchanges: for each product of the rival (garment, beer, bread, beans) the shepherd offers one of his own (ewe, milk, cheese)", cluster: love}
+  rival-reconciled-and-invited-to-wedding: {label: "The winning suitor makes peace with his rival, lets him graze and invites him to the wedding as his friend", cluster: love}
+  moon-gods-herd-of-cows: {label: "The moon god's numberless herd of cows: dark ones like lapis, pale ones like the risen moon", cluster: astral}
+  moon-god-pours-milk-at-offering-table: {label: "The moon god himself milks his cows and pours the milk at the offering table", cluster: cult}
+  mother-prays-for-god-son: {label: "A goddess-mother speaks a prayer or blessing over her divine son", cluster: petition}
+  god-given-kingship-of-heaven-by-an: {label: "The sky god An bestows kingship (in heaven) on a younger god and chooses his city", cluster: kingship}
+  moonlight-shines-for-king-like-daylight: {label: "The moon god's holy light shines forth for the king like daylight", cluster: astral}
+  goddess-longs-to-go-to-lover-without-mother: {label: "The goddess wishes she could come to her lover without her mother knowing", cluster: love}
+  suitor-gathers-gifts-before-going-to-bride: {label: "The divine suitor lists the work he will do (gathering eggs, churning, fishing) and the gifts he will bring before going with the bride to her house", cluster: love}
+  enheduana-high-priestess-named: {label: "En-ḫedu-ana, high priestess (zirru) of the moon god, is named in the hymn", cluster: cult}
+  i-will-glorify-your-name-temple: {label: "Opening or closing vow to a temple or god: 'I shall declare your greatness, I shall glorify your name far and wide'", cluster: literary-form}
+  purity-rules-for-temple-grain: {label: "Purity rules for the god's grain and malt: ground in a pure place, untouched by water, not turned over", cluster: cult}
+  woman-forbidden-to-eat-from-holy-pen: {label: "In the god's holy cattle-pen 'the woman does not drink, the woman does not eat' (a taboo)", cluster: cult}
+  fish-and-birds-abundant-in-gods-domain: {label: "In the god's waters and fields fish and birds are abundant and carp grow fat", cluster: fertility}
 units:
   - id: ane-etcsl-4-07-8-1-nanaya-balbale
     tradition: ane-sumerian

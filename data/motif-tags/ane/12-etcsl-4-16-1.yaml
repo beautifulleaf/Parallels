@@ -47,6 +47,10 @@ new_motifs:
   city-founded-on-wax: {label: "A goddess's city is founded upon wax (or honeycomb) and its walls completed for her", cluster: city}
   goddess-decides-destinies-with-husband: {label: "The high god's consort decides destinies together with him and is the pleasure of his heart; he embraces her", cluster: divine-council}
   guardian-dogs: {label: "Noble dogs keep guard over stores or a sacred place", cluster: animals}
+  divine-minister-of-heaven-walks-before-god: {label: "A deity is the minister (sukkal) of the high god, holding a lapis sceptre and walking before him", cluster: divine-council}
+  deity-cares-like-ewe-for-lambs: {label: "A deity cares for the people as a fecund ewe for her lambs, a goat for her kids, a mother for her children", cluster: hymn}
+  servant-deity-soothes-hearts-of-gods: {label: "A servant deity vows to soothe the hearts of the gods and appease them (intercessory role)", cluster: intercession}
+  litany-of-gods-and-their-cities: {label: "A hymn lists the great gods one by one, each with his or her city or shrine", cluster: hymn}
 units:
   - id: ane-etcsl-4-16-1-1-nisaba-epithets
     tradition: ane-sumerian
@@ -367,3 +371,33 @@ units:
       - {motif: refrain-repeated-stanza, refs: ["ETCSL 4.24.1 A:11", "ETCSL 4.24.1 B:13", "ETCSL 4.24.1 C:27", "ETCSL 4.24.1 E:33"], note: "adab rubrics sa-gid2-da, ĝiš-gi4-ĝal2, sa-ĝar-ra, uru; lines C:16-21 lost"}
     hints:
       - "Compare Prov 8:30 (Wisdom beside God, his daily delight) and Ps 68:5, 34 (rider through the heavens)."
+  - id: ane-etcsl-4-25-1-ninshubur-minister
+    tradition: ane-sumerian
+    title: "Ninšubur A: An's minister who soothes the hearts of the gods"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.25.1 A:1-A:10", "ETCSL 4.25.1 B:1-B:9"]
+    tags:
+      - {motif: divine-minister-of-heaven-walks-before-god, refs: ["ETCSL 4.25.1 A:1-A:5"], note: "sukkal an-na ama {d}nin-šubur ĝidru za-gin3 šu u3-me-ti / igi an-na ši-im-me-dib-dib-be2; {d}en-lil2-le nam-e-eš mu-ni-in-tar"}
+      - {motif: deity-cares-like-ewe-for-lambs, refs: ["ETCSL 4.25.1 A:6-A:9"], note: "u8 zid sila4 sag9-sag9 ... ama gan zid-gin7 dumu sag9-sag9-ga: like a fecund ewe, goat, a fertile mother; folds erected and pens fenced through her"}
+      - {motif: servant-deity-soothes-hearts-of-gods, refs: ["ETCSL 4.25.1 B:1-B:7"], note: "šag4 de3-em-ḫuĝ-e bar de3-em-ḫuĝ-e / dim3-me8-er {d}a-nun-na ... de3-en-ḫuĝ-e (Emesal); makes Inana rejoice; she is the an-gub (tutelary deity) who serves"}
+      - {motif: faithful-minister-rescues-mistress, refs: ["ETCSL 4.25.1 B:4-B:5"], note: "Ninšubur as servant of the young lady Inana"}
+    hints:
+      - "Compare Isa 40:11 (he gathers the lambs in his arms) and Isa 66:13, Hos 11:3-4 (God as mother)."
+      - "Compare Ps 103:20-21 (his angels, ministers who do his will) and Isa 6:2 for a heavenly minister before the high god."
+  - id: ane-etcsl-4-25-2-ninshubur-wise-suppliant
+    tradition: ane-sumerian
+    title: "Ninšubur B: the wise suppliant enthroned in Akkil; litany of gods and her self-praise as minister of the universe"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.25.2 A:1-A:24", "ETCSL 4.25.2 B:25-B:41"]
+    tags:
+      - {motif: servant-deity-soothes-hearts-of-gods, refs: ["ETCSL 4.25.2 A:1-A:3"], note: "šubur-e šu mu2-mu2 gal-an-zu: the servant, the wise suppliant (šu mu2-mu2: one who raises hands in prayer)"}
+      - {motif: litany-of-gods-and-their-cities, refs: ["ETCSL 4.25.2 A:11-A:23"], note: "Enlil, Ninlil of the Ki-ur, Enki 'bull of Eridug', Damgalnuna, Ašimbabbar in Urim, Ningal in Agrun-kug, Ninurta, Ninḫursaĝa, Utu in E-babbar, Inana in Zabalam"}
+      - {motif: divine-minister-of-heaven-walks-before-god, refs: ["ETCSL 4.25.2 B:31-B:40"], note: "sukkal-maḫ an ki-bi-me-en; sukkal zid {d}a-nun-na-ke4-ne; sukkal zid diĝir kalam-ma-ke4: faithful minister, the personal god of the Land, mother of the Land"}
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 4.25.2 B:29-B:30", "ETCSL 4.25.2 B:33-B:34"], note: "me-e ama-ĝu10-gin7 ka3-ka3-a ... ga-u5: I, Kaka, will ride high in joy like my mother"}
+      - {motif: refrain-repeated-stanza, refs: ["ETCSL 4.25.2 B:25-B:28", "ETCSL 4.25.2 B:31-B:40"], note: "each line repeated with the name Ninšubur substituted"}
+    hints:
+      - "Compare Gen 18:22-33 and Exod 32:11-14 (an intercessor before God) and Heb 7:25."
