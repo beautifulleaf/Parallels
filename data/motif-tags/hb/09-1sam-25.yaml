@@ -1,0 +1,1155 @@
+new_motifs:
+  prophet-buried-in-his-house: {label: "A prophet or leader is buried in his own house", cluster: burial}
+  national-mourning-for-leader: {label: "All Israel gathers to lament a dead leader", cluster: mourning}
+  name-is-destiny: {label: "A person's name declared to match his character: 'as his name is, so is he'", cluster: naming}
+  protection-money-for-flocks: {label: "An outlaw band claims a gift for having protected a rich man's shepherds", cluster: kingship}
+  churlish-host-refuses-provisions: {label: "A rich man insultingly refuses food to the hero's men at a feast", cluster: hospitality}
+  one-who-pisses-against-the-wall: {label: "Idiom for every male: 'one who pisses against the wall'", cluster: idiom}
+  wise-woman-averts-bloodshed: {label: "A wise woman intercepts an avenging warrior with gifts and speech and averts bloodshed", cluster: wisdom}
+  bundle-of-the-living: {label: "The soul bound in 'the bundle of the living' with God", cluster: afterlife}
+  sure-house-promised: {label: "God will make for the chosen one a 'sure house' (enduring dynasty)", cluster: kingship}
+  fool-dies-heart-turned-to-stone: {label: "On hearing the news a man's heart dies within him and he becomes like stone, then dies", cluster: death}
+  hero-marries-widow-of-enemy: {label: "The hero marries the widow of a man who wronged him", cluster: marriage}
+  royal-wife-given-to-another: {label: "The king gives the hero's wife (his own daughter) to another man", cluster: marriage}
+  hero-takes-multiple-wives: {label: "The hero adds wives to his household", cluster: marriage}
+  token-taken-from-sleeping-enemy: {label: "Hero takes an object from beside a sleeping enemy as proof he could have killed him", cluster: escape}
+  guard-rebuked-for-failing-king: {label: "Hero mocks the king's bodyguard for failing to guard his master", cluster: kingship}
+  exile-means-serving-other-gods: {label: "To be driven from the land is to be made to serve other gods", cluster: theology}
+  god-incites-to-evil: {label: "God himself incites a person to an evil act", cluster: theology}
+  hunted-like-partridge-or-flea: {label: "The fugitive compares himself to a flea or a partridge hunted on the mountains", cluster: poetry}
+  leader-death-three-ways: {label: "Speaker lists the ways the enemy may die: struck by God, his day, or in battle", cluster: theology}
+  hero-serves-enemy-king: {label: "Fugitive hero becomes a vassal or bodyguard of the enemy king", cluster: kingship}
+  town-granted-to-vassal: {label: "A foreign king grants the fugitive hero a town to live in", cluster: kingship}
+  no-survivors-to-tell: {label: "Raider leaves no one alive so that no report of his deeds gets out", cluster: warfare}
+  double-agent-deceives-overlord: {label: "Hero tells his foreign overlord he raids his own people while raiding others", cluster: kingship}
+  odd-period-count: {label: "A period of time given in an odd or precise count ('days and four months')", cluster: numbers}
+  god-silent-no-dreams-urim-prophets: {label: "God refuses to answer the king by dreams, Urim or prophets", cluster: divination}
+  necromancer-raises-dead-prophet: {label: "A woman who has a ghost (ba'alat ov) brings up a dead prophet from the earth at the king's request", cluster: afterlife}
+  king-disguises-himself: {label: "A king disguises himself in other clothes to go unrecognized", cluster: kingship}
+  medium-recognizes-disguised-king: {label: "The seer or medium recognizes the disguised king when the spirit appears", cluster: divination}
+  dead-called-elohim: {label: "A ghost rising from the earth is called elohim ('a god')", cluster: afterlife}
+  ghost-disturbed-from-rest: {label: "The summoned dead complains of being disturbed from rest", cluster: afterlife}
+  ghost-foretells-death-tomorrow: {label: "The ghost foretells the inquirer's death on the next day: 'tomorrow you will be with me'", cluster: afterlife}
+  last-meal-before-death: {label: "A doomed man is persuaded to eat a meal on the night before his death", cluster: death}
+  allies-distrust-defector: {label: "Allied commanders refuse to fight beside a defector who might turn on them in battle", cluster: warfare}
+  satan-as-adversary-common-noun: {label: "'Satan' used as a common noun for a human or angelic adversary", cluster: demonology}
+  good-as-angel-of-god: {label: "A person praised as 'good (or wise) as an angel of God'", cluster: angels}
+  foreign-king-swears-by-yhwh: {label: "A foreign ruler swears by the life of YHWH", cluster: covenant}
+  weeping-until-no-strength: {label: "People weep until they have no strength left to weep", cluster: mourning}
+  exhausted-left-at-brook: {label: "Part of the army is too exhausted to cross a stream and stays behind", cluster: warfare}
+  abandoned-sick-slave-guides-hero: {label: "A sick slave abandoned by the raiders is revived with food and guides the hero to them", cluster: warfare}
+  enemy-surprised-feasting: {label: "The enemy is caught off guard while eating, drinking and celebrating their spoil", cluster: warfare}
+  four-hundred-escape-on-camels: {label: "Only four hundred young men escape on camels", cluster: warfare}
+  all-captives-recovered: {label: "The hero recovers every captive and all the spoil, nothing missing", cluster: warfare}
+  spoil-sent-as-gifts-to-elders: {label: "Leader sends portions of spoil as gifts to the elders of many towns", cluster: kingship}
+  king-and-sons-die-same-day: {label: "The king and his sons die in battle on one day", cluster: kingship}
+  king-falls-on-own-sword: {label: "Wounded king falls on his own sword to avoid capture and abuse", cluster: death}
+  armor-bearer-dies-with-master: {label: "The armor-bearer kills himself and dies with his master", cluster: death}
+  enemy-head-and-armor-displayed: {label: "Victors cut off the enemy king's head and dedicate his armor in their temple", cluster: warfare}
+  corpse-fastened-to-city-wall: {label: "The bodies of the slain king and his sons are fastened to a city wall", cluster: warfare}
+  grateful-city-rescues-body: {label: "Men of a city the king once saved march by night to recover his body", cluster: burial}
+  corpses-burned-bones-buried: {label: "Bodies of the dead are burned and their bones buried", cluster: burial}
+  burial-under-tamarisk: {label: "Bones buried under a tamarisk (or other) tree", cluster: burial}
+  seven-day-fast-for-dead: {label: "Mourners fast seven days for the dead", cluster: mourning}
+  conflicting-account-of-kings-death: {label: "A second account of the king's death contradicts the narrator's earlier version", cluster: kingship}
+  crown-and-armlet-brought-to-successor: {label: "The dead king's crown and armlet are brought to his rival", cluster: kingship}
+  bearer-of-good-news-executed: {label: "A man who brings 'good news' of the enemy king's death and claims credit is executed", cluster: kingship}
+  royal-elegy-how-are-mighty-fallen: {label: "Royal elegy with the refrain 'How are the mighty fallen'", cluster: poetry}
+  tell-it-not-in-gath: {label: "Do not proclaim the defeat in enemy cities lest their daughters rejoice", cluster: poetry}
+  curse-on-place-of-death-no-dew-or-rain: {label: "The mountain where the heroes fell is cursed with neither dew nor rain", cluster: poetry}
+  swifter-than-eagles-stronger-than-lions: {label: "Fallen heroes praised as swifter than eagles and stronger than lions", cluster: poetry}
+  daughters-weep-for-king: {label: "Daughters of Israel called to weep for the king who clothed them in finery", cluster: mourning}
+  love-surpassing-love-of-women: {label: "A friend's love called more wonderful than the love of women", cluster: friendship}
+  king-anointed-by-people: {label: "The people (or tribe) themselves anoint a king", cluster: kingship}
+  blessing-for-burying-the-dead: {label: "The king blesses those who showed loyalty (hesed) by burying the dead", cluster: burial}
+  rival-king-set-up-by-general: {label: "An army commander makes a puppet king of the dead king's son", cluster: kingship}
+  shameful-name-bosheth: {label: "A name containing Baal replaced by boshet ('shame')", cluster: naming}
+  regnal-length-formula: {label: "A king's age at accession and length of reign are given", cluster: kingship}
+  armies-face-across-pool: {label: "Two armies sit facing each other on either side of a pool", cluster: warfare}
+  twelve-against-twelve-combat: {label: "Twelve champions from each side fight to the death in a staged combat ('play')", cluster: warfare}
+  fleet-footed-as-gazelle: {label: "A warrior is as swift of foot as a gazelle", cluster: heroes}
+  warrior-warns-pursuer-to-turn-aside: {label: "A fleeing warrior repeatedly warns his pursuer to turn aside before killing him", cluster: warfare}
+  killed-by-butt-of-spear: {label: "A pursuer killed by a backward thrust of the spear's butt", cluster: warfare}
+  shall-the-sword-devour-forever: {label: "Plea for truce: 'Shall the sword devour forever?'", cluster: warfare}
+  shofar-ends-battle: {label: "A commander blows the shofar to halt the pursuit or end the fighting", cluster: warfare}
+  casualty-count-after-battle: {label: "Precise casualty figures after a battle", cluster: warfare}
+  burial-in-fathers-tomb: {label: "A man is buried in his father's tomb", cluster: burial}
+  house-grows-stronger-rival-weaker: {label: "One royal house grows ever stronger while the rival house grows weaker", cluster: kingship}
+  royal-sons-by-different-wives-list: {label: "List of a king's sons with the name of each mother", cluster: kingship}
+  diplomatic-marriage-to-foreign-princess: {label: "King marries a foreign king's daughter", cluster: marriage}
+  taking-kings-concubine-claim-to-throne: {label: "Going in to the late king's concubine treated as a claim to the throne", cluster: kingship}
+  am-i-a-dogs-head: {label: "Self-defense idiom: 'Am I a dog's head?'", cluster: idiom}
+  dan-to-beersheba-formula: {label: "'From Dan to Beersheba' as the extent of Israel", cluster: geography}
+  wife-reclaimed-weeping-husband-follows: {label: "A wife is taken back from her second husband, who follows her weeping", cluster: marriage}
+  treacherous-murder-at-gate: {label: "A man is drawn aside 'to speak privately' and stabbed in the belly", cluster: violence}
+  curse-on-killers-house-diseases: {label: "Curse that the killer's house never lack someone diseased, effeminate, slain or hungry", cluster: curses}
+  king-declares-innocence-of-blood: {label: "The king publicly declares himself innocent of a murder done by his men", cluster: kingship}
+  king-walks-behind-bier: {label: "The king walks behind the bier of a slain enemy-turned-ally", cluster: mourning}
+  short-dirge-should-abner-die-as-fool: {label: "A short dirge laments that a hero died like a fool, unbound, by treachery", cluster: poetry}
+  mourner-refuses-food-till-sunset: {label: "Mourner swears not to taste food before sunset", cluster: mourning}
+  king-too-weak-for-his-kinsmen: {label: "The king confesses he is too weak to control his violent kinsmen", cluster: kingship}
+  lamed-in-nurses-flight: {label: "A royal child is lamed when his nurse drops him while fleeing", cluster: childhood}
+  king-murdered-during-siesta: {label: "A king is murdered on his bed during the noonday rest", cluster: violence}
+  severed-head-brought-to-rival: {label: "Assassins bring the severed head of a king to his rival hoping for reward", cluster: violence}
+  hands-and-feet-cut-off-hung: {label: "Executed men's hands and feet cut off and their bodies hung up publicly", cluster: violence}
+  head-buried-in-anothers-tomb: {label: "A severed head is buried in another man's tomb", cluster: burial}
+  king-as-shepherd-of-people: {label: "The king is called to 'shepherd' God's people", cluster: kingship}
+  blind-and-lame-defend-city: {label: "Defenders boast that even the blind and lame could repel the attacker", cluster: warfare}
+  city-taken-via-water-shaft: {label: "A city is entered through its water shaft or conduit", cluster: warfare}
+  stronghold-renamed-city-of-david: {label: "A conquered fortress is renamed after the conquering king", cluster: etiology}
+  foreign-king-sends-cedar-and-craftsmen: {label: "A foreign king sends cedar wood and craftsmen to build the king's house or temple", cluster: kingship}
+  idols-abandoned-on-battlefield: {label: "Fleeing enemies abandon their idols on the battlefield, which the victors carry off", cluster: cult}
+  sound-of-marching-in-treetops: {label: "The rustling sound of marching in the treetops is the signal that God goes out to battle", cluster: divination}
+  divine-warrior-goes-before-army: {label: "God goes out before the army to strike the enemy", cluster: warfare}
+  yhwh-enthroned-on-cherubim: {label: "God called 'he who is enthroned on the cherubim'", cluster: cosmology}
+  ark-on-new-cart: {label: "The ark is carried on a new cart drawn by oxen", cluster: cult}
+  music-and-dance-before-ark: {label: "Procession of the ark with music, shouting and dancing", cluster: cult}
+  touching-ark-struck-dead: {label: "A man who touches the ark to steady it is struck dead", cluster: cult}
+  house-blessed-for-sake-of-ark: {label: "The household where the ark stays is blessed", cluster: cult}
+  sacrifice-every-six-paces: {label: "A sacrifice offered after the first six steps of the bearers", cluster: cult}
+  king-dances-in-linen-ephod: {label: "The king dances with all his might, girded in a linen ephod", cluster: cult}
+  ark-placed-in-tent: {label: "The ark is set in a tent the king pitched for it", cluster: cult}
+  king-blesses-people-and-distributes-food: {label: "The king blesses the people and gives each person bread and cakes", cluster: kingship}
+  wife-mocks-husbands-exposure: {label: "A wife mocks her husband for exposing himself while dancing", cluster: marriage}
+  king-wishes-to-build-temple: {label: "The king, living in a cedar palace, proposes to build a house for God", cluster: temple}
+  prophet-corrected-by-night-revelation: {label: "A prophet approves a plan, then is corrected by a revelation that night", cluster: prophecy}
+  god-dwells-in-tent-not-house: {label: "God says he has never dwelt in a house but moved about in a tent", cluster: temple}
+  shepherd-called-from-flock-to-rule: {label: "God took the ruler from following the sheep", cluster: kingship}
+  great-name-promised: {label: "God promises to make the chosen one's name great", cluster: covenant}
+  wordplay-house-dynasty-temple: {label: "Wordplay on 'house' as temple and as dynasty", cluster: kingship}
+  eternal-davidic-dynasty: {label: "God promises David's house and throne will endure forever", cluster: kingship}
+  son-builds-temple-for-name: {label: "The king's son, not the king, will build the house for God's name", cluster: temple}
+  king-as-son-of-god: {label: "God declares the king his son: 'I will be his father and he my son'", cluster: kingship}
+  hesed-not-withdrawn-unlike-saul: {label: "God's steadfast love will not be withdrawn from the heir as it was from the previous king", cluster: covenant}
+  who-am-i-humility-prayer: {label: "Prayer of humility: 'Who am I and what is my house?'", cluster: prayer}
+  torah-of-man-obscure-phrase: {label: "Obscure phrase 'this is the torah of man (adam)'", cluster: theology}
+  israel-unique-nation-redeemed: {label: "Israel is the one nation on earth whom God went to redeem for himself", cluster: covenant}
+  obscure-place-or-term-metheg-ammah: {label: "Obscure term 'Metheg-ammah' for what David took from the Philistines", cluster: geography}
+  captives-measured-with-line: {label: "Captives laid on the ground and measured with a cord to decide who is killed", cluster: warfare}
+  subject-nations-bring-tribute: {label: "Conquered peoples become servants bringing tribute (minhah)", cluster: kingship}
+  euphrates-border-of-empire: {label: "The Euphrates as the limit of the king's dominion", cluster: geography}
+  golden-shields-taken-as-trophies: {label: "Golden shields of the enemy's servants brought to the capital", cluster: warfare}
+  allied-king-sends-son-with-gifts: {label: "A neighboring king sends his son with precious vessels to congratulate the victor", cluster: kingship}
+  spoils-dedicated-to-god: {label: "The king dedicates silver and gold from conquered nations to God", cluster: cult}
+  valley-of-salt-battle: {label: "A battle in the Valley of Salt", cluster: geography}
+  just-king-does-justice-and-righteousness: {label: "The king does justice and righteousness for all his people", cluster: kingship}
+  royal-cabinet-list: {label: "List of the king's chief officials: commander, recorder, priests, scribe, guard", cluster: kingship}
+  kings-sons-as-priests: {label: "The king's sons serve as priests", cluster: cult}
+  kindness-to-survivor-of-rival-house: {label: "The new king seeks a survivor of the fallen royal house to show kindness for a friend's sake", cluster: kingship}
+  lame-heir-of-fallen-dynasty: {label: "The surviving heir of the fallen dynasty is lame", cluster: kingship}
+  eats-at-kings-table-always: {label: "A man is granted to eat at the king's table continually", cluster: kingship}
+  estate-restored-steward-assigned: {label: "The king restores family land and assigns a steward with sons and servants to farm it", cluster: law}
+  condolence-embassy-suspected-as-spies: {label: "Envoys sent to console a new king are suspected of being spies", cluster: diplomacy}
+  envoys-humiliated-half-beard-shaved: {label: "Envoys are humiliated by shaving half their beards and cutting their garments", cluster: diplomacy}
+  hired-foreign-armies: {label: "A king hires foreign armies for war", cluster: warfare}
+  two-front-battle-mutual-aid: {label: "Commanders facing a two-front battle agree to help whichever side is pressed", cluster: warfare}
+  be-strong-for-our-people-and-cities-of-god: {label: "Battle exhortation: 'Be strong for our people and the cities of our God'", cluster: warfare}
+  enemy-commander-killed: {label: "The enemy's army commander is killed in battle", cluster: warfare}
+  vassal-kings-make-peace: {label: "Defeated vassal kings make peace and serve the victor", cluster: kingship}
+  king-stays-home-when-kings-go-to-war: {label: "The king stays home at the season when kings go to war", cluster: kingship}
+  king-sees-bathing-woman-from-roof: {label: "A king walking on his roof sees a beautiful woman bathing", cluster: sexuality}
+  purification-after-menstruation: {label: "A woman is purifying herself from her menstrual impurity", cluster: purity}
+  husband-recalled-to-cover-pregnancy: {label: "The adulterer recalls the husband from war so he will sleep with his wife and cover the pregnancy", cluster: sexuality}
+  soldier-abstains-from-wife-in-war: {label: "A soldier refuses to sleep with his wife while the army and ark are in the field", cluster: warfare}
+  bearer-carries-own-death-warrant: {label: "A man carries a sealed letter ordering his own death", cluster: violence}
+  the-sword-devours-one-and-another: {label: "Saying: 'the sword devours now one, now another'", cluster: wisdom}
+  widow-taken-after-mourning: {label: "After the mourning period the king takes the widow as his wife", cluster: marriage}
+  narrator-states-gods-displeasure: {label: "Narrator's verdict: 'the thing was evil in the eyes of YHWH'", cluster: theology}
+  juridical-parable-entraps-king: {label: "A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'", cluster: prophecy}
+  poor-mans-pet-lamb: {label: "A poor man's only ewe lamb, raised like a daughter, taken by a rich man for a guest", cluster: parable}
+  god-gave-masters-wives: {label: "God reminds the king he gave him his predecessor's house and wives", cluster: kingship}
+  sword-never-departs-from-house: {label: "Punishment: the sword will never depart from the king's house", cluster: prophecy}
+  wives-given-to-neighbor-before-sun: {label: "Punishment: the king's wives will be lain with publicly 'before the sun'", cluster: prophecy}
+  royal-confession-and-pardon: {label: "The king confesses 'I have sinned' and the prophet announces forgiveness with a remaining penalty", cluster: repentance}
+  child-dies-for-fathers-sin: {label: "A child born of the sin dies as punishment for the father", cluster: retribution}
+  fasting-and-lying-on-ground-for-sick-child: {label: "Father fasts and lies on the ground praying for a dying child", cluster: prayer}
+  mourner-rises-washes-eats: {label: "After the death the mourner unexpectedly rises, washes, anoints himself and eats", cluster: mourning}
+  i-go-to-him-he-will-not-return: {label: "'I shall go to him, but he will not return to me'", cluster: afterlife}
+  child-given-second-divine-name: {label: "A child is given a second name by a prophet at God's word", cluster: naming}
+  general-defers-conquest-to-king: {label: "The general calls the king to take the city lest it be named after the general", cluster: warfare}
+  captured-crown-placed-on-victor: {label: "The defeated king's (or god's) crown is placed on the victor's head", cluster: kingship}
+  captives-put-to-saws-and-brickkiln: {label: "Captives set to saws, iron tools and the brick-mold", cluster: warfare}
+  lovesick-prince: {label: "A prince falls ill with desire for a woman he cannot have", cluster: sexuality}
+  crafty-friend-advises-ruse: {label: "A shrewd friend or relative devises a ruse for the prince", cluster: wisdom}
+  feigned-illness-ruse: {label: "A man pretends to be sick to lure a victim", cluster: deception}
+  heart-shaped-cakes-levivot: {label: "Special cakes (levivot) baked before the eyes of a sick man", cluster: food}
+  victim-proposes-lawful-marriage: {label: "The threatened woman urges the man to ask the king for her in marriage instead", cluster: sexuality}
+  love-turns-to-greater-hatred: {label: "After the rape the man's love turns to a hatred greater than the love", cluster: sexuality}
+  princess-wears-ornamented-tunic: {label: "Virgin princesses wear the ketonet passim (ornamented tunic), which is torn in grief", cluster: clothing}
+  brother-killed-at-drunken-feast: {label: "A brother is killed by order when merry with wine at a feast", cluster: violence}
+  princes-ride-mules: {label: "Princes ride mules as royal mounts", cluster: kingship}
+  false-report-all-sons-dead: {label: "A false report reaches the king that all his sons are slain", cluster: kingship}
+  watchman-sees-approaching-people: {label: "A lookout lifts his eyes and sees people approaching", cluster: warfare}
+  fugitive-prince-at-maternal-grandfathers-court: {label: "A prince flees to the court of his mother's father, a foreign king", cluster: escape}
+  father-yearns-for-exiled-son: {label: "The king longs for his exiled son after being consoled for the murdered one", cluster: family}
+  woman-feigns-mourning-to-petition-king: {label: "A woman disguised as a long-mourning widow petitions the king with an invented case", cluster: wisdom}
+  quench-my-last-coal: {label: "An only heir called 'my remaining ember' that kinsmen would quench", cluster: idiom}
+  not-a-hair-shall-fall: {label: "Oath that not one hair of the person shall fall to the ground", cluster: idiom}
+  water-spilled-on-ground-cannot-be-gathered: {label: "Mortality likened to water spilled on the ground that cannot be gathered up", cluster: wisdom}
+  king-detects-hand-behind-petition: {label: "The king guesses who is behind a petitioner's speech", cluster: kingship}
+  exile-returned-but-barred-from-presence: {label: "A returned exile may not see the king's face", cluster: kingship}
+  hair-weighed-yearly: {label: "A man's abundant hair is cut and weighed each year", cluster: body}
+  daughter-named-after-wronged-aunt: {label: "A daughter is named after her wronged aunt", cluster: naming}
+  field-set-on-fire-to-force-meeting: {label: "A man sets another's field on fire to force him to come", cluster: violence}
+  father-kisses-son-reconciliation: {label: "The king kisses his returned son in reconciliation", cluster: family}
+  chariot-and-fifty-runners: {label: "A pretender equips himself with a chariot, horses and fifty runners", cluster: kingship}
+  usurper-courts-litigants-at-gate: {label: "A pretender wins popularity by flattering litigants at the gate and promising justice", cluster: kingship}
+  shofar-signal-for-coronation: {label: "Sound of the shofar as signal to proclaim a new king", cluster: kingship}
+  innocent-guests-of-conspirator: {label: "Invited guests accompany a conspirator unaware of the plot", cluster: kingship}
+  royal-counselor-defects: {label: "The king's trusted counselor joins the conspiracy", cluster: kingship}
+  king-flees-capital: {label: "The king flees his capital before a usurper", cluster: kingship}
+  concubines-left-to-keep-house: {label: "The fleeing king leaves concubines to keep the palace", cluster: kingship}
+  foreign-mercenary-loyal-unto-death: {label: "A foreign soldier refuses release and swears to follow the king in life or death", cluster: friendship}
+  kidron-crossing-in-grief: {label: "The king and people cross the Kidron weeping toward the wilderness", cluster: geography}
+  ark-sent-back-to-city: {label: "The fleeing king sends the ark back, leaving his fate to God", cluster: cult}
+  priests-sons-as-courier-spies: {label: "The priests' sons serve as couriers carrying intelligence to the king", cluster: espionage}
+  weeping-barefoot-ascent-mount-of-olives: {label: "The king climbs the Mount of Olives weeping, head covered and barefoot", cluster: mourning}
+  prayer-to-frustrate-counsel: {label: "Prayer that God turn the enemy's counsel to folly", cluster: prayer}
+  friend-sent-as-double-agent: {label: "A loyal friend pretends to defect to defeat the enemy's counsel", cluster: espionage}
+  provisions-brought-to-fleeing-king: {label: "Loyal subjects bring food and supplies to the king in flight", cluster: hospitality}
+  servant-slanders-master-for-gain: {label: "A servant slanders his master to the king and is given his master's property", cluster: deception}
+  partisan-curses-and-stones-king: {label: "A partisan of the fallen dynasty curses the fleeing king and pelts him with stones", cluster: kingship}
+  curse-accepted-as-from-god: {label: "The king refuses to punish a curser, saying God may have told him to curse", cluster: theology}
+  counsel-like-word-of-god: {label: "A counselor's advice regarded as like an oracle of God", cluster: wisdom}
+  strike-only-the-king-strategy: {label: "Advice to strike swiftly and kill only the king so the people return in peace", cluster: warfare}
+  dueling-counsels-at-court: {label: "Two counselors give rival advice before the ruler, and the worse is chosen", cluster: wisdom}
+  bear-robbed-of-cubs: {label: "Fierce warriors likened to a bear robbed of her cubs", cluster: poetry}
+  heart-of-a-lion-melts: {label: "Even the lion-hearted will melt with fear", cluster: poetry}
+  army-falls-like-dew: {label: "An army descends on the enemy as dew falls on the ground", cluster: poetry}
+  city-dragged-into-valley-with-ropes: {label: "Boast that all Israel would drag a city into the valley with ropes", cluster: warfare}
+  god-frustrates-good-counsel: {label: "God ordains that good counsel be defeated in order to bring ruin", cluster: theology}
+  maidservant-carries-messages: {label: "A slave-girl relays secret messages to couriers outside the city", cluster: espionage}
+  spies-hidden-in-well-by-woman: {label: "A woman hides fugitive messengers in a well, covers it and misdirects pursuers", cluster: espionage}
+  counselor-hangs-himself: {label: "A rejected counselor sets his house in order and hangs himself", cluster: death}
+  people-forbid-king-to-fight: {label: "The army forbids the king to go into battle because he is worth ten thousand", cluster: kingship}
+  deal-gently-with-the-young-man: {label: "The king orders his commanders to deal gently with his rebel son", cluster: family}
+  forest-devours-more-than-sword: {label: "The forest devours more men than the sword", cluster: warfare}
+  hanging-by-head-in-tree: {label: "A rider is caught by the head in a tree and left hanging between heaven and earth", cluster: death}
+  soldier-refuses-bribe-to-kill-prince: {label: "A soldier refuses reward to kill the king's son against orders", cluster: kingship}
+  three-darts-in-heart: {label: "The commander thrusts three darts into the heart of the hanging prince", cluster: violence}
+  two-runners-race-with-news: {label: "Two runners race to bring news of battle, and the second outruns the first", cluster: kingship}
+  foreign-servant-sent-with-bad-news: {label: "A foreign servant (a Cushite) is chosen to carry bad news to the king", cluster: kingship}
+  king-waits-between-the-gates: {label: "The king sits between the two gates awaiting news", cluster: kingship}
+  messenger-evades-bad-news: {label: "Messenger evades telling the king of his son's death", cluster: kingship}
+  may-enemies-be-as-that-young-man: {label: "Messenger reports a death obliquely: 'May all your enemies be as that young man'", cluster: idiom}
+  father-laments-would-i-had-died-for-you: {label: "A father mourns his dead son: 'Would that I had died instead of you'", cluster: mourning}
+  victory-turned-to-mourning: {label: "The day of victory turns into mourning because of the king's grief", cluster: mourning}
+  king-covers-face-in-grief: {label: "The king covers his face and cries aloud in grief", cluster: mourning}
+  general-rebukes-grieving-king: {label: "The commander rebukes the king for grieving the enemy and shaming his loyal men", cluster: kingship}
+  king-sits-in-gate: {label: "The king takes his seat in the gate to receive the people", cluster: kingship}
+  tribes-debate-restoring-king: {label: "The tribes argue about bringing back the exiled king", cluster: kingship}
+  rebel-general-offered-command: {label: "The king offers the rebel army's general command of his own army", cluster: kingship}
+  curser-begs-pardon-pardoned: {label: "The man who cursed the king comes first to meet him and is pardoned under oath", cluster: kingship}
+  mourner-neglects-feet-beard-clothes: {label: "A loyal mourner leaves his feet untended, moustache untrimmed and clothes unwashed", cluster: mourning}
+  lame-man-betrayed-by-servant: {label: "A lame man explains his servant deceived him and left him behind", cluster: deception}
+  estate-divided-between-claimants: {label: "The king divides a disputed estate between two claimants", cluster: law}
+  aged-benefactor-declines-court-life: {label: "An aged benefactor declines life at court, saying he can no longer taste food or hear singers", cluster: wisdom}
+  son-sent-to-court-in-fathers-place: {label: "An old man sends his son to court in his place", cluster: kingship}
+  tribal-rivalry-over-king: {label: "Tribes quarrel over their share in the king", cluster: kingship}
+  secession-cry-to-your-tents: {label: "Secession cry: 'We have no portion in David; to your tents, O Israel'", cluster: kingship}
+  violated-concubines-kept-in-living-widowhood: {label: "Concubines violated by the usurper are kept shut up in 'living widowhood' until death", cluster: kingship}
+  treacherous-kiss-and-stab: {label: "A man grasps his victim's beard to kiss him and stabs him", cluster: violence}
+  corpse-covered-to-stop-gawkers: {label: "A corpse wallowing in blood on the road halts the army until it is covered with a garment", cluster: warfare}
+  siege-ramp-against-city: {label: "Besiegers pile up a siege ramp against a city's wall", cluster: warfare}
+  city-famed-for-oracular-wisdom: {label: "A city proverbially famed as the place to ask counsel, 'a mother in Israel'", cluster: wisdom}
+  rebels-head-thrown-over-wall: {label: "Townspeople throw the rebel's head over the wall to end a siege", cluster: warfare}
+  forced-labor-officer: {label: "An official is placed over the forced labor (mas)", cluster: kingship}
+  kings-private-priest: {label: "A man serves as the king's personal priest", cluster: cult}
+  famine-for-bloodguilt: {label: "A famine is caused by unexpiated bloodguilt of a former king", cluster: retribution}
+  blood-not-ransomable-by-silver: {label: "The wronged party refuses silver or gold as compensation for blood", cluster: law}
+  oath-protects-friends-son: {label: "The king spares his friend's son because of their sworn covenant", cluster: friendship}
+  seven-descendants-handed-over: {label: "Seven descendants of the guilty king are handed over for execution", cluster: retribution}
+  mother-guards-exposed-bodies: {label: "A mother guards her sons' exposed bodies from birds and beasts for months", cluster: burial}
+  bones-of-king-reburied: {label: "The bones of the dead king are recovered and reburied in his father's tomb", cluster: burial}
+  god-entreated-for-land: {label: "After the expiation 'God was entreated for the land'", cluster: theology}
+  lamp-of-israel-king: {label: "The king called 'the lamp of Israel' that must not be quenched", cluster: kingship}
+  elhanan-kills-goliath: {label: "A variant tradition attributes the killing of Goliath to another hero", cluster: heroes}
+  giant-with-six-fingers-and-toes: {label: "A giant with six fingers on each hand and six toes on each foot", cluster: heroes}
+  breakers-of-death-cords-of-sheol: {label: "The psalmist is engulfed by breakers of death and cords of Sheol", cluster: afterlife}
+  god-hears-from-his-temple: {label: "God hears the cry from his (heavenly) temple", cluster: prayer}
+  smoke-from-gods-nostrils-fire-from-mouth: {label: "Smoke rises from God's nostrils and devouring fire from his mouth", cluster: theophany}
+  god-rides-cherub-on-wings-of-wind: {label: "God rides on a cherub and flies on the wings of the wind", cluster: theophany}
+  drawn-out-of-many-waters: {label: "God reaches from on high and draws the sufferer out of many waters", cluster: cosmology}
+  rewarded-according-to-righteousness: {label: "God rewards the speaker according to his righteousness and clean hands", cluster: theology}
+  god-mirrors-human-conduct: {label: "God shows himself loyal to the loyal and crooked to the crooked", cluster: theology}
+  god-is-my-lamp: {label: "God is called the speaker's lamp who lights his darkness", cluster: theology}
+  leap-over-a-wall-with-god: {label: "'By my God I leap over a wall'", cluster: poetry}
+  feet-like-hinds-on-heights: {label: "God makes the speaker's feet like hinds' feet and sets him on the heights", cluster: poetry}
+  god-trains-hands-for-war-bow-of-bronze: {label: "God trains the king's hands for war so his arms bend a bow of bronze", cluster: warfare}
+  enemies-crushed-like-dust-and-mire: {label: "Enemies beaten fine as dust and trampled like mire of the streets", cluster: warfare}
+  foreigners-come-cringing: {label: "Foreigners come cringing and trembling to submit to the king", cluster: kingship}
+  hesed-to-anointed-and-seed-forever: {label: "God shows steadfast love to his anointed and his seed forever", cluster: kingship}
+  oracle-of-the-man-raised-high: {label: "Poem opening with 'Oracle (ne'um) of the man...' formula", cluster: prophecy}
+  spirit-speaks-through-king: {label: "The spirit of God speaks through the king's tongue", cluster: prophecy}
+  just-ruler-like-morning-sun: {label: "A just ruler is like the morning sun on a cloudless day", cluster: kingship}
+  eternal-covenant-with-dynasty: {label: "God has made an everlasting covenant with the king's house", cluster: covenant}
+  wicked-as-thorns-burned: {label: "The wicked are thorns that cannot be handled and are burned", cluster: poetry}
+  hero-list-with-exploits: {label: "A list of the king's mighty warriors with their exploits", cluster: heroes}
+  hero-kills-hundreds-at-once: {label: "A hero kills hundreds of enemies at one time", cluster: heroes}
+  hand-cleaves-to-sword: {label: "A hero fights until his weary hand sticks to his sword", cluster: heroes}
+  lone-hero-holds-field: {label: "A lone hero stands his ground in a field after the army flees", cluster: heroes}
+  water-from-bethlehem-well-poured-out: {label: "Water fetched at mortal risk is poured out as a libation instead of drunk", cluster: cult}
+  hero-kills-lion-in-pit-on-snowy-day: {label: "A hero goes down into a pit and kills a lion on a snowy day", cluster: heroes}
+  hero-wrests-spear-from-giant-egyptian: {label: "A hero with a staff wrests a spear from a huge foe and kills him with it", cluster: heroes}
+  foreigners-among-elite-warriors: {label: "Foreigners are listed among the king's elite warriors", cluster: kingship}
+  general-objects-to-census: {label: "The commander objects to the king's census", cluster: kingship}
+  census-route-itinerary: {label: "Itinerary of census-takers around the land's borders", cluster: geography}
+  conscience-smites-king: {label: "The king's heart strikes him after a sin", cluster: repentance}
+  choice-of-three-punishments: {label: "A prophet offers the king a choice among three punishments", cluster: prophecy}
+  destroying-angel-stayed: {label: "God halts the destroying angel at a specific spot: 'Enough, stay your hand'", cluster: angels}
+  king-offers-himself-for-people: {label: "The king asks that punishment fall on himself and his house instead of the people", cluster: kingship}
+  threshing-floor-becomes-altar-site: {label: "A threshing floor where the plague stopped becomes the site of an altar", cluster: cult}
+  king-insists-on-paying-full-price: {label: "The king refuses a free gift of land for an altar and pays its price", cluster: cult}
+units:
+  - id: hb-1sam-25-death-of-samuel
+    tradition: judaism
+    title: Death and burial of Samuel at Ramah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 25:1"]
+    tags:
+      - {motif: prophet-buried-in-his-house, refs: ["1Sam 25:1"], note: "'They buried him in his house at Ramah'; all Israel mourns"}
+      - {motif: national-mourning-for-leader, refs: ["1Sam 25:1"]}
+    hints:
+      - "Burial within the house recurs for Joab (1Kgs 2:34). Compare the Islamic practice of burying the Prophet in Aisha's chamber where he died."
+  - id: hb-1sam-25-nabal-abigail
+    tradition: judaism
+    title: Nabal the fool, Abigail the wise and David's averted vengeance
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 25:2-44"]
+    tags:
+      - {motif: sheep-shearing-festival, refs: ["1Sam 25:2", "1Sam 25:4", "1Sam 25:7", "1Sam 25:11"], note: "3,000 sheep and 1,000 goats; shearing as a 'good day' (yom tov) for gifts"}
+      - {motif: name-is-destiny, refs: ["1Sam 25:3", "1Sam 25:25"], note: "'As his name is, so is he: Nabal (fool) is his name and folly (nevalah) is with him'"}
+      - {motif: protection-money-for-flocks, refs: ["1Sam 25:7", "1Sam 25:8", "1Sam 25:15", "1Sam 25:16", "1Sam 25:21"], note: "'They were a wall to us night and day'"}
+      - {motif: churlish-host-refuses-provisions, refs: ["1Sam 25:10", "1Sam 25:11"], note: "'Who is David? Many slaves nowadays break away from their masters'"}
+      - {motif: one-who-pisses-against-the-wall, refs: ["1Sam 25:22", "1Sam 25:34"], note: "mashtin be-qir, idiom for every male"}
+      - {motif: wise-woman-averts-bloodshed, refs: ["1Sam 25:18", "1Sam 25:23", "1Sam 25:24", "1Sam 25:26", "1Sam 25:31", "1Sam 25:33"], note: "Gifts of bread, wine, five dressed sheep, parched grain, raisin and fig cakes"}
+      - {motif: bundle-of-the-living, refs: ["1Sam 25:29"], note: "tserurah bi-tsror ha-hayyim with YHWH; enemies' souls slung from the hollow of a sling"}
+      - {motif: sure-house-promised, refs: ["1Sam 25:28"], note: "Abigail anticipates the dynastic promise: bayit ne'eman"}
+      - {motif: fool-dies-heart-turned-to-stone, refs: ["1Sam 25:36", "1Sam 25:37", "1Sam 25:38"], note: "Drunk at a feast 'like a king's feast'; his heart died within him and he became stone; YHWH struck him after ten days"}
+      - {motif: hero-marries-widow-of-enemy, refs: ["1Sam 25:39", "1Sam 25:40", "1Sam 25:41", "1Sam 25:42"]}
+      - {motif: hospitality-to-strangers, refs: ["1Sam 25:41"], note: "Abigail offers to wash the feet of David's servants"}
+      - {motif: royal-wife-given-to-another, refs: ["1Sam 25:44"], note: "Saul gives Michal to Palti son of Laish"}
+      - {motif: hero-takes-multiple-wives, refs: ["1Sam 25:43"], note: "Ahinoam of Jezreel"}
+    hints:
+      - "'Bundle of the living' (25:29) became the Jewish epitaph formula ת.נ.צ.ב.ה on tombstones. Nabal's petrified heart compares with hardening and stone-death motifs (Niobe). Rabbinic tradition counts Abigail among seven prophetesses (b. Megillah 14a)."
+  - id: hb-1sam-26-spear-and-jug
+    tradition: judaism
+    title: David takes Saul's spear and water jug in the camp at Hachilah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 26:1-25"]
+    tags:
+      - {motif: ungrateful-townsfolk-would-betray, refs: ["1Sam 26:1"], note: "Ziphites again"}
+      - {motif: spares-sleeping-or-vulnerable-enemy-king, refs: ["1Sam 26:7", "1Sam 26:8", "1Sam 26:9", "1Sam 26:11", "1Sam 26:23"], note: "'Who can put forth his hand against the LORD's anointed and be guiltless?'"}
+      - {motif: deep-sleep-sent-by-god, refs: ["1Sam 26:12"], note: "tardemat YHWH fell on the whole camp"}
+      - {motif: token-taken-from-sleeping-enemy, refs: ["1Sam 26:11", "1Sam 26:12", "1Sam 26:16", "1Sam 26:22"], note: "Spear stuck in the ground at his head and the water jug"}
+      - {motif: guard-rebuked-for-failing-king, refs: ["1Sam 26:14", "1Sam 26:15", "1Sam 26:16"], note: "David taunts Abner across the valley: 'you deserve death'"}
+      - {motif: persecutor-admits-hero-more-righteous, refs: ["1Sam 26:17", "1Sam 26:21", "1Sam 26:25"], note: "'I have played the fool'"}
+      - {motif: exile-means-serving-other-gods, refs: ["1Sam 26:19"], note: "Driven from YHWH's inheritance: 'Go serve other gods'"}
+      - {motif: god-incites-to-evil, refs: ["1Sam 26:19"], note: "'If YHWH has incited you against me, let him smell an offering'"}
+      - {motif: dead-dog-single-flea, refs: ["1Sam 26:20"]}
+      - {motif: hunted-like-partridge-or-flea, refs: ["1Sam 26:20"], note: "'a single flea... as one hunts the partridge (qore) on the mountains'"}
+      - {motif: leader-death-three-ways, refs: ["1Sam 26:10"], note: "YHWH will strike him, his day will come, or he will perish in battle"}
+    hints:
+      - "Doublet of ch. 24. The stolen spear and cup recall Odysseus and Diomedes' night raid (Iliad 10) and the folk motif of the token taken from a sleeper to prove one could have killed him. 26:19 links land and deity, cf. Naaman's earth (2Kgs 5:17)."
+  - id: hb-1sam-27-david-at-ziklag
+    tradition: judaism
+    title: David becomes a vassal of Achish and raids from Ziklag
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 27:1-12"]
+    tags:
+      - {motif: hero-serves-enemy-king, refs: ["1Sam 27:2", "1Sam 27:3", "1Sam 27:5", "1Sam 27:12"], note: "600 men with households"}
+      - {motif: town-granted-to-vassal, refs: ["1Sam 27:5", "1Sam 27:6"], note: "Ziklag 'belongs to the kings of Judah to this day'"}
+      - {motif: place-name-etiology, refs: ["1Sam 27:6"]}
+      - {motif: no-survivors-to-tell, refs: ["1Sam 27:9", "1Sam 27:11"], note: "He left no man or woman alive lest they report him"}
+      - {motif: double-agent-deceives-overlord, refs: ["1Sam 27:10", "1Sam 27:11", "1Sam 27:12"], note: "Claims raids against Judah while raiding Geshurites, Girzites, Amalekites"}
+      - {motif: odd-period-count, refs: ["1Sam 27:7"], note: "'days and four months' (a year and four months)"}
+    hints:
+      - "The exiled hero who serves a foreign king and deceives him: Themistocles at the Persian court, Alcibiades in Sparta, Coriolanus with the Volsci."
+  - id: hb-1sam-28-medium-of-endor
+    tradition: judaism
+    title: Saul and the necromancer of En-dor raise Samuel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 28:1-25"]
+    tags:
+      - {motif: hero-serves-enemy-king, refs: ["1Sam 28:1", "1Sam 28:2"], note: "Achish makes David 'keeper of my head' for life"}
+      - {motif: necromancy-forbidden, refs: ["1Sam 28:3", "1Sam 28:9"], note: "Saul had removed the ovot and yidde'onim"}
+      - {motif: god-silent-no-dreams-urim-prophets, refs: ["1Sam 28:6", "1Sam 28:15"], note: "Neither by dreams, nor by Urim, nor by prophets"}
+      - {motif: necromancer-raises-dead-prophet, refs: ["1Sam 28:7", "1Sam 28:8", "1Sam 28:11", "1Sam 28:12", "1Sam 28:13", "1Sam 28:14"], note: "ba'alat ov; 'I see elohim coming up out of the earth'; an old man wrapped in a robe (me'il)"}
+      - {motif: king-disguises-himself, refs: ["1Sam 28:8"], note: "Goes by night with two men"}
+      - {motif: medium-recognizes-disguised-king, refs: ["1Sam 28:12"]}
+      - {motif: dead-called-elohim, refs: ["1Sam 28:13"]}
+      - {motif: ghost-disturbed-from-rest, refs: ["1Sam 28:15"], note: "'Why have you disturbed me by bringing me up?'"}
+      - {motif: torn-robe-sign-of-torn-kingdom, refs: ["1Sam 28:17"], note: "'YHWH has torn the kingdom from your hand' recalling 15:27-28"}
+      - {motif: ghost-foretells-death-tomorrow, refs: ["1Sam 28:19"], note: "'Tomorrow you and your sons will be with me'"}
+      - {motif: took-life-in-hand, refs: ["1Sam 28:21"]}
+      - {motif: last-meal-before-death, refs: ["1Sam 28:20", "1Sam 28:22", "1Sam 28:23", "1Sam 28:24", "1Sam 28:25"], note: "Fatted calf and unleavened bread baked in haste; they leave that night"}
+    hints:
+      - "Odysseus' nekyia (Odyssey 11) and Teiresias' prophecy; the Gilgamesh XII raising of Enkidu's spirit. Sir 46:20 and 1Chr 10:13 judge the episode; church fathers debated whether Samuel really appeared (Origen vs. Eustathius). Quranic jinn/sorcery debates also cite it."
+  - id: hb-1sam-29-david-dismissed-by-philistines
+    tradition: judaism
+    title: The Philistine lords refuse David in their ranks
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 29:1-11"]
+    tags:
+      - {motif: allies-distrust-defector, refs: ["1Sam 29:3", "1Sam 29:4", "1Sam 29:5"], note: "'Lest he become a satan to us in battle' (le-satan)"}
+      - {motif: satan-as-adversary-common-noun, refs: ["1Sam 29:4"]}
+      - {motif: women-sing-thousands-ten-thousands, refs: ["1Sam 29:5"]}
+      - {motif: good-as-angel-of-god, refs: ["1Sam 29:9"], note: "Achish: 'you are good in my eyes as an angel of God'"}
+      - {motif: foreign-king-swears-by-yhwh, refs: ["1Sam 29:6"]}
+    hints:
+      - "The comparison of a person to an angel of God recurs in 2Sam 14:17, 20 and 19:28. Achish swearing by YHWH parallels pagan characters invoking the God of Israel (Balaam, Hiram)."
+  - id: hb-1sam-30-ziklag-amalekites
+    tradition: judaism
+    title: Amalekites burn Ziklag; David recovers all and makes the spoil law
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 30:1-31"]
+    tags:
+      - {motif: amalek-attacks-israel, refs: ["1Sam 30:1", "1Sam 30:2"], note: "Women and children carried off alive"}
+      - {motif: weeping-until-no-strength, refs: ["1Sam 30:4"]}
+      - {motif: people-threaten-to-stone-leader, refs: ["1Sam 30:6"]}
+      - {motif: ephod-oracle-yes-no, refs: ["1Sam 30:7", "1Sam 30:8"]}
+      - {motif: exhausted-left-at-brook, refs: ["1Sam 30:9", "1Sam 30:10", "1Sam 30:21"], note: "200 too exhausted to cross Wadi Besor"}
+      - {motif: abandoned-sick-slave-guides-hero, refs: ["1Sam 30:11", "1Sam 30:12", "1Sam 30:13", "1Sam 30:15", "1Sam 30:16"], note: "Egyptian slave left for dead three days; revived with fig-cake and raisins; asks an oath"}
+      - {motif: enemy-surprised-feasting, refs: ["1Sam 30:16", "1Sam 30:17"]}
+      - {motif: four-hundred-escape-on-camels, refs: ["1Sam 30:17"]}
+      - {motif: all-captives-recovered, refs: ["1Sam 30:18", "1Sam 30:19"]}
+      - {motif: share-spoil-with-those-at-home, refs: ["1Sam 30:22", "1Sam 30:23", "1Sam 30:24", "1Sam 30:25"], note: "Equal share for those who stay with the baggage, made 'a statute and ordinance for Israel to this day'"}
+      - {motif: spoil-sent-as-gifts-to-elders, refs: ["1Sam 30:26", "1Sam 30:27", "1Sam 30:28", "1Sam 30:29", "1Sam 30:30", "1Sam 30:31"], note: "'A blessing from the spoil of YHWH's enemies' to Bethel, Ramoth-negeb, Jattir, Aroer, Siphmoth, Eshtemoa, Racal, Hormah, Bor-ashan, Athach, Hebron"}
+    hints:
+      - "Num 31:27 and Josh 22:8 on dividing spoil; Islamic law of ghanima (Quran 8:41; hadith on those who stayed behind, e.g. Uthman at Badr receiving a share). The Egyptian slave guide recalls guides in Arabic maghazi literature."
+  - id: hb-1sam-31-death-of-saul
+    tradition: judaism
+    title: Saul and his sons fall on Mount Gilboa
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Sam 31:1-13"]
+    tags:
+      - {motif: king-and-sons-die-same-day, refs: ["1Sam 31:2", "1Sam 31:6"], note: "Jonathan, Abinadab, Malchishua"}
+      - {motif: king-falls-on-own-sword, refs: ["1Sam 31:3", "1Sam 31:4"], note: "Lest the uncircumcised 'make sport' (hit'allelu) of him; the armor-bearer refuses out of fear"}
+      - {motif: asks-armor-bearer-to-kill-him, refs: ["1Sam 31:4"]}
+      - {motif: armor-bearer-dies-with-master, refs: ["1Sam 31:5"]}
+      - {motif: enemy-head-and-armor-displayed, refs: ["1Sam 31:9", "1Sam 31:10"], note: "Head cut off; armor placed in the temple of Ashtaroth; news sent to the house of their idols"}
+      - {motif: corpse-fastened-to-city-wall, refs: ["1Sam 31:10", "1Sam 31:12"], note: "Wall of Beth-shan"}
+      - {motif: grateful-city-rescues-body, refs: ["1Sam 31:11", "1Sam 31:12"], note: "Jabesh-gilead repays Saul's rescue (ch. 11) by night march"}
+      - {motif: corpses-burned-bones-buried, refs: ["1Sam 31:12", "1Sam 31:13"], note: "Unusual cremation in Israel"}
+      - {motif: burial-under-tamarisk, refs: ["1Sam 31:13"]}
+      - {motif: seven-day-fast-for-dead, refs: ["1Sam 31:13"]}
+    hints:
+      - "Hector's body abused and ransomed (Iliad 22-24); Antigone burying the exposed brother. Saul's suicide paralleled with Ajax and with Brutus/Cato in Roman exempla; the rabbis debated suicide law from it (Genesis Rabbah 34:13)."
+  - id: hb-2sam-1-amalekite-messenger
+    tradition: judaism
+    title: The Amalekite who claims to have killed Saul
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 1:1-16"]
+    tags:
+      - {motif: messenger-with-torn-clothes-and-earth, refs: ["2Sam 1:2"]}
+      - {motif: conflicting-account-of-kings-death, refs: ["2Sam 1:6", "2Sam 1:9", "2Sam 1:10"], note: "Saul leaning on his spear, seized by 'shavats' (cramp/dizziness), asks to be killed; contrasts 1Sam 31"}
+      - {motif: crown-and-armlet-brought-to-successor, refs: ["2Sam 1:10"], note: "nezer and ets'adah"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["2Sam 1:11", "2Sam 1:12"], note: "Weeping and fasting until evening"}
+      - {motif: bearer-of-good-news-executed, refs: ["2Sam 1:14", "2Sam 1:15", "2Sam 1:16"], note: "'Your blood be on your head; your own mouth testified'"}
+      - {motif: blood-guilt-returns-on-head, refs: ["2Sam 1:16"]}
+      - {motif: spares-sleeping-or-vulnerable-enemy-king, refs: ["2Sam 1:14"], note: "Principle of not touching the LORD's anointed applied to a foreigner"}
+    hints:
+      - "Killing the messenger who claims credit for slaying the king: compare Alexander's execution of Bessus' captors, and Roman reactions to Pompey's head brought to Caesar. Rabbinic midrash identifies the Amalekite as Doeg's son."
+  - id: hb-2sam-1-song-of-the-bow
+    tradition: judaism
+    title: David's lament over Saul and Jonathan (Song of the Bow)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 1:17-27"]
+    tags:
+      - {motif: citation-of-lost-book, refs: ["2Sam 1:18"], note: "Sefer ha-Yashar; 'to teach the sons of Judah the bow'"}
+      - {motif: royal-elegy-how-are-mighty-fallen, refs: ["2Sam 1:19", "2Sam 1:25", "2Sam 1:27"], note: "Refrain eikh naflu gibborim"}
+      - {motif: tell-it-not-in-gath, refs: ["2Sam 1:20"], note: "Lest the daughters of the Philistines rejoice"}
+      - {motif: curse-on-place-of-death-no-dew-or-rain, refs: ["2Sam 1:21"], note: "Mountains of Gilboa: no dew, no rain; the shield 'not anointed with oil'"}
+      - {motif: swifter-than-eagles-stronger-than-lions, refs: ["2Sam 1:23"], note: "'In life and in death they were not parted'"}
+      - {motif: daughters-weep-for-king, refs: ["2Sam 1:24"], note: "He clothed them in scarlet and gold"}
+      - {motif: love-surpassing-love-of-women, refs: ["2Sam 1:26"], note: "'Your love to me was more wonderful than the love of women'"}
+    hints:
+      - "Gilgamesh's lament for Enkidu (Tablet VIII); Achilles' grief for Patroclus; Ugaritic Aqhat curse on the place of the hero's death (no dew, no rain, KTU 1.19 i). Compare Jahili Arabic ritha elegies (al-Khansa)."
+  - id: hb-2sam-2-david-anointed-hebron
+    tradition: judaism
+    title: David anointed king of Judah at Hebron; Ishbosheth king of Israel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 2:1-11"]
+    tags:
+      - {motif: oracle-consulted-before-campaign, refs: ["2Sam 2:1"], note: "'Shall I go up?' 'Go up.' 'Where?' 'To Hebron'"}
+      - {motif: king-anointed-by-people, refs: ["2Sam 2:4"], note: "Men of Judah anoint David"}
+      - {motif: blessing-for-burying-the-dead, refs: ["2Sam 2:5", "2Sam 2:6"], note: "Jabesh-gilead praised for hesed to Saul"}
+      - {motif: rival-king-set-up-by-general, refs: ["2Sam 2:8", "2Sam 2:9"], note: "Abner makes Ishbosheth king at Mahanaim"}
+      - {motif: shameful-name-bosheth, refs: ["2Sam 2:8", "2Sam 2:10"], note: "Ish-bosheth 'man of shame', for Eshbaal"}
+      - {motif: regnal-length-formula, refs: ["2Sam 2:10", "2Sam 2:11"], note: "Ishbosheth 40, two years; David in Hebron 7 years 6 months"}
+    hints:
+      - "1Chr 8:33 preserves 'Eshbaal'; the scribal replacement of baal with boshet is a classic case of theological name-editing (cf. Mephibosheth/Meribbaal)."
+  - id: hb-2sam-2-gibeon-pool-asahel
+    tradition: judaism
+    title: The deadly 'play' at the pool of Gibeon and Asahel's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 2:12-32"]
+    tags:
+      - {motif: armies-face-across-pool, refs: ["2Sam 2:13"]}
+      - {motif: twelve-against-twelve-combat, refs: ["2Sam 2:14", "2Sam 2:15", "2Sam 2:16"], note: "'Let the young men play (yesahaqu) before us'; each seizes his opponent's head and all fall together"}
+      - {motif: place-name-etiology, refs: ["2Sam 2:16"], note: "Helkath-hazzurim, 'field of flints/blades'"}
+      - {motif: fleet-footed-as-gazelle, refs: ["2Sam 2:18"], note: "Asahel"}
+      - {motif: warrior-warns-pursuer-to-turn-aside, refs: ["2Sam 2:19", "2Sam 2:20", "2Sam 2:21", "2Sam 2:22"], note: "'Take his armor (halitsah) for yourself'"}
+      - {motif: killed-by-butt-of-spear, refs: ["2Sam 2:23"], note: "Struck in the belly (homesh) with the back of the spear; all who come stand still at the spot"}
+      - {motif: shall-the-sword-devour-forever, refs: ["2Sam 2:26"], note: "Abner's plea for truce"}
+      - {motif: shofar-ends-battle, refs: ["2Sam 2:28"]}
+      - {motif: casualty-count-after-battle, refs: ["2Sam 2:30", "2Sam 2:31"], note: "19 plus Asahel versus 360"}
+      - {motif: burial-in-fathers-tomb, refs: ["2Sam 2:32"], note: "Bethlehem"}
+    hints:
+      - "Champion combat by groups: Horatii and Curiatii (Livy 1.24-25); the Battle of the Champions (300 Argives v. 300 Spartans, Herodotus 1.82). Mubaraza before battle at Badr."
+  - id: hb-2sam-3-sons-at-hebron
+    tradition: judaism
+    title: Sons born to David at Hebron
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 3:1-5"]
+    tags:
+      - {motif: house-grows-stronger-rival-weaker, refs: ["2Sam 3:1"]}
+      - {motif: royal-sons-by-different-wives-list, refs: ["2Sam 3:2", "2Sam 3:3", "2Sam 3:4", "2Sam 3:5"], note: "Six sons by six wives; Absalom's mother a princess of Geshur"}
+      - {motif: diplomatic-marriage-to-foreign-princess, refs: ["2Sam 3:3"], note: "Maacah daughter of Talmai king of Geshur"}
+    hints:
+      - "Compare 1Chr 3:1-4 (Chileab called Daniel)."
+  - id: hb-2sam-3-abner-defects-murdered
+    tradition: judaism
+    title: Abner's quarrel over Rizpah, his defection and murder by Joab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 3:6-39"]
+    tags:
+      - {motif: taking-kings-concubine-claim-to-throne, refs: ["2Sam 3:7"], note: "Rizpah daughter of Aiah"}
+      - {motif: am-i-a-dogs-head, refs: ["2Sam 3:8"], note: "ha-rosh kelev anokhi"}
+      - {motif: dan-to-beersheba-formula, refs: ["2Sam 3:10"]}
+      - {motif: wife-reclaimed-weeping-husband-follows, refs: ["2Sam 3:13", "2Sam 3:14", "2Sam 3:15", "2Sam 3:16"], note: "Paltiel follows weeping to Bahurim until Abner sends him back"}
+      - {motif: foreskins-as-bride-price, refs: ["2Sam 3:14"], note: "'For a hundred Philistine foreskins'"}
+      - {motif: treacherous-murder-at-gate, refs: ["2Sam 3:26", "2Sam 3:27"], note: "Joab takes him aside 'to speak quietly' and stabs him in the belly"}
+      - {motif: blood-vengeance-for-brothers, refs: ["2Sam 3:27", "2Sam 3:30"], note: "For Asahel's blood"}
+      - {motif: curse-on-killers-house-diseases, refs: ["2Sam 3:29"], note: "Never lack one with a discharge, a leper, one who holds the spindle, one fallen by the sword, one lacking bread"}
+      - {motif: king-declares-innocence-of-blood, refs: ["2Sam 3:28", "2Sam 3:37"]}
+      - {motif: king-walks-behind-bier, refs: ["2Sam 3:31", "2Sam 3:32"], note: "Sackcloth ordered for Joab himself"}
+      - {motif: short-dirge-should-abner-die-as-fool, refs: ["2Sam 3:33", "2Sam 3:34"], note: "'Your hands were not bound, your feet not put in fetters'"}
+      - {motif: mourner-refuses-food-till-sunset, refs: ["2Sam 3:35"]}
+      - {motif: king-too-weak-for-his-kinsmen, refs: ["2Sam 3:39"], note: "'The sons of Zeruiah are too hard for me'"}
+    hints:
+      - "'Holding the spindle' as a curse of effeminacy parallels Hittite military oaths (spindle and mirror given to oath-breakers). Usurpation by taking the harem: Absalom (16:21), Adonijah and Abishag (1Kgs 2)."
+  - id: hb-2sam-4-ishbosheth-murdered
+    tradition: judaism
+    title: Ishbosheth murdered in his bed; Mephibosheth's lameness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 4:1-12"]
+    tags:
+      - {motif: lamed-in-nurses-flight, refs: ["2Sam 4:4"], note: "Five-year-old Mephibosheth dropped by his nurse fleeing at the news"}
+      - {motif: king-murdered-during-siesta, refs: ["2Sam 4:5", "2Sam 4:6", "2Sam 4:7"], note: "In the heat of the day; assassins pose as wheat-fetchers"}
+      - {motif: severed-head-brought-to-rival, refs: ["2Sam 4:7", "2Sam 4:8"]}
+      - {motif: bearer-of-good-news-executed, refs: ["2Sam 4:10", "2Sam 4:11", "2Sam 4:12"]}
+      - {motif: hands-and-feet-cut-off-hung, refs: ["2Sam 4:12"], note: "Hung by the pool in Hebron"}
+      - {motif: head-buried-in-anothers-tomb, refs: ["2Sam 4:12"], note: "Ishbosheth's head in Abner's tomb"}
+    hints:
+      - "Assassins rewarded with death by the beneficiary: Ptolemy's courtiers bring Pompey's head to Caesar; Islamic tradition of the killers of al-Husayn. The Beerothites 'sojourners in Gittaim to this day' is a stray ethnographic note (4:3)."
+  - id: hb-2sam-5-king-over-all-israel-jerusalem
+    tradition: judaism
+    title: David king over all Israel; capture of Jebusite Zion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 5:1-16"]
+    tags:
+      - {motif: appeal-to-kinship-bone-and-flesh, refs: ["2Sam 5:1"]}
+      - {motif: king-as-shepherd-of-people, refs: ["2Sam 5:2"], note: "'You shall shepherd my people Israel'"}
+      - {motif: king-anointed-by-people, refs: ["2Sam 5:3"], note: "Elders make a covenant before YHWH and anoint him"}
+      - {motif: regnal-length-formula, refs: ["2Sam 5:4", "2Sam 5:5"], note: "Age 30, reigned 40 years: 7.5 in Hebron, 33 in Jerusalem"}
+      - {motif: blind-and-lame-defend-city, refs: ["2Sam 5:6", "2Sam 5:8"], note: "Jebusite taunt; becomes a saying: 'blind and lame shall not enter the house'"}
+      - {motif: city-taken-via-water-shaft, refs: ["2Sam 5:8"], note: "tsinnor, obscure: water shaft or conduit"}
+      - {motif: stronghold-renamed-city-of-david, refs: ["2Sam 5:7", "2Sam 5:9"], note: "Metsudat Tsiyyon; the Millo"}
+      - {motif: foreign-king-sends-cedar-and-craftsmen, refs: ["2Sam 5:11"], note: "Hiram of Tyre builds David a house"}
+      - {motif: hero-takes-multiple-wives, refs: ["2Sam 5:13"]}
+      - {motif: royal-family-list, refs: ["2Sam 5:14", "2Sam 5:15", "2Sam 5:16"], note: "Eleven sons born in Jerusalem incl. Nathan and Solomon"}
+    hints:
+      - "Lev 21:18 and the Qumran Temple Scroll exclude the blind and lame from the sanctuary; Hittite soldiers' oath shows blind and deaf figures as curse images; Matt 21:14 Jesus heals the blind and lame in the Temple. Warren's Shaft is the traditional identification of the tsinnor."
+  - id: hb-2sam-5-baal-perazim-baca-trees
+    tradition: judaism
+    title: Victories over the Philistines at Baal-perazim and the sound in the baca trees
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 5:17-25"]
+    tags:
+      - {motif: valley-of-rephaim, refs: ["2Sam 5:18", "2Sam 5:22"]}
+      - {motif: oracle-consulted-before-campaign, refs: ["2Sam 5:19", "2Sam 5:23"]}
+      - {motif: place-name-etiology, refs: ["2Sam 5:20"], note: "Baal-perazim, 'lord of breakthroughs', 'like a breach of waters'"}
+      - {motif: idols-abandoned-on-battlefield, refs: ["2Sam 5:21"], note: "David and his men carry off the Philistine idols"}
+      - {motif: sound-of-marching-in-treetops, refs: ["2Sam 5:24"], note: "Sound of marching in the tops of the baca (balsam?) trees as signal that YHWH goes out before you"}
+      - {motif: divine-warrior-goes-before-army, refs: ["2Sam 5:24"]}
+    hints:
+      - "Rustling trees as oracle: the oaks of Dodona; Mesopotamian omens from wind in trees. 1Chr 14:12 says the idols were burned. Divine armies heard marching recall 2Kgs 7:6 and angels at Badr (Quran 8:9)."
+  - id: hb-2sam-6-ark-uzzah-dance
+    tradition: judaism
+    title: The ark brought to Jerusalem; Uzzah struck; David dances; Michal despises him
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 6:1-23"]
+    tags:
+      - {motif: baalah-kiriath-jearim, refs: ["2Sam 6:2"], note: "Baale-judah"}
+      - {motif: yhwh-enthroned-on-cherubim, refs: ["2Sam 6:2"], note: "'Name called by the name of YHWH Sabaoth who sits on the cherubim'"}
+      - {motif: ark-on-new-cart, refs: ["2Sam 6:3"]}
+      - {motif: music-and-dance-before-ark, refs: ["2Sam 6:5", "2Sam 6:14", "2Sam 6:15", "2Sam 6:16"], note: "Cypress instruments, lyres, harps, drums, sistrums (mena'an'im), cymbals; shofar and terua"}
+      - {motif: touching-ark-struck-dead, refs: ["2Sam 6:6", "2Sam 6:7"], note: "Uzzah steadies the ark when the oxen stumble at the threshing floor of Nacon; struck 'for the error (shal)'"}
+      - {motif: place-name-etiology, refs: ["2Sam 6:8"], note: "Perez-uzzah"}
+      - {motif: house-blessed-for-sake-of-ark, refs: ["2Sam 6:11", "2Sam 6:12"], note: "Obed-edom the Gittite, three months"}
+      - {motif: sacrifice-every-six-paces, refs: ["2Sam 6:13"]}
+      - {motif: king-dances-in-linen-ephod, refs: ["2Sam 6:14", "2Sam 6:16"], note: "mekharker, mefazzez: whirling and leaping"}
+      - {motif: woman-at-the-window, refs: ["2Sam 6:16"], note: "Michal looks out the window and despises him in her heart"}
+      - {motif: ark-placed-in-tent, refs: ["2Sam 6:17"]}
+      - {motif: king-blesses-people-and-distributes-food, refs: ["2Sam 6:18", "2Sam 6:19"], note: "Each man and woman a loaf, a date-cake (eshpar) and a raisin-cake"}
+      - {motif: wife-mocks-husbands-exposure, refs: ["2Sam 6:20", "2Sam 6:21", "2Sam 6:22"], note: "'Uncovering himself before the maids like one of the empty fellows'"}
+      - {motif: childlessness-as-penalty, refs: ["2Sam 6:23"], note: "Michal had no child to the day of her death"}
+    hints:
+      - "Procession of a god's image to its new temple with music (Mesopotamian akitu; Egyptian Opet). The sacred object that kills those who touch it: Num 4:15; compare Greek taboos on touching the Palladium. Sufi and Hasidic ecstatic dance traditions cite David's dance."
+  - id: hb-2sam-7-dynastic-oracle
+    tradition: judaism
+    title: Nathan's oracle of the eternal house of David and David's prayer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 7:1-29"]
+    tags:
+      - {motif: king-wishes-to-build-temple, refs: ["2Sam 7:1", "2Sam 7:2", "2Sam 7:3"], note: "'I dwell in a house of cedar, but the ark dwells within curtains'"}
+      - {motif: prophet-corrected-by-night-revelation, refs: ["2Sam 7:3", "2Sam 7:4", "2Sam 7:5"], note: "Nathan first approves, then is told otherwise that night"}
+      - {motif: god-dwells-in-tent-not-house, refs: ["2Sam 7:6", "2Sam 7:7"], note: "'I have been walking about in tent and tabernacle'"}
+      - {motif: shepherd-called-from-flock-to-rule, refs: ["2Sam 7:8"], note: "'I took you from the pasture, from following the sheep'"}
+      - {motif: great-name-promised, refs: ["2Sam 7:9"]}
+      - {motif: wordplay-house-dynasty-temple, refs: ["2Sam 7:5", "2Sam 7:11", "2Sam 7:13", "2Sam 7:27"], note: "David will not build God a bayit; God will build David a bayit"}
+      - {motif: eternal-davidic-dynasty, refs: ["2Sam 7:12", "2Sam 7:13", "2Sam 7:16"], note: "'Your throne shall be established forever'"}
+      - {motif: son-builds-temple-for-name, refs: ["2Sam 7:13"]}
+      - {motif: king-as-son-of-god, refs: ["2Sam 7:14"], note: "'I will be a father to him and he a son to me'"}
+      - {motif: god-disciplines-as-father, refs: ["2Sam 7:14"], note: "'With the rod of men and the stripes of the sons of Adam'"}
+      - {motif: hesed-not-withdrawn-unlike-saul, refs: ["2Sam 7:15"]}
+      - {motif: who-am-i-humility-prayer, refs: ["2Sam 7:18"], note: "David 'sits before YHWH'"}
+      - {motif: torah-of-man-obscure-phrase, refs: ["2Sam 7:19"], note: "ve-zot torat ha-adam"}
+      - {motif: incomparability-among-the-gods, refs: ["2Sam 7:22"], note: "'There is none like you and no God besides you'"}
+      - {motif: israel-unique-nation-redeemed, refs: ["2Sam 7:23", "2Sam 7:24"], note: "Plural verb: 'gods went (halkhu) to redeem'"}
+    hints:
+      - "Royal sonship: Ps 2:7, Ps 89:27-28; Egyptian pharaoh as son of Re; Mesopotamian kings 'created' by gods. Christian messianic reading in Heb 1:5, Luke 1:32-33; 4QFlorilegium applies 7:11-14 to the Branch of David. Gudea's temple-building dreams for divine approval."
+  - id: hb-2sam-8-davids-wars-officials
+    tradition: judaism
+    title: David's conquests and list of officials
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 8:1-18"]
+    tags:
+      - {motif: obscure-place-or-term-metheg-ammah, refs: ["2Sam 8:1"], note: "'The bridle of the mother(-city)', meaning unclear"}
+      - {motif: captives-measured-with-line, refs: ["2Sam 8:2"], note: "Moabites laid on the ground; two lines killed, one full line spared"}
+      - {motif: subject-nations-bring-tribute, refs: ["2Sam 8:2", "2Sam 8:6", "2Sam 8:14"]}
+      - {motif: hamstring-horses-burn-chariots, refs: ["2Sam 8:4"], note: "Keeps a hundred chariots"}
+      - {motif: euphrates-border-of-empire, refs: ["2Sam 8:3"], note: "Hadadezer going to restore his power at the River"}
+      - {motif: golden-shields-taken-as-trophies, refs: ["2Sam 8:7"]}
+      - {motif: allied-king-sends-son-with-gifts, refs: ["2Sam 8:9", "2Sam 8:10"], note: "Toi of Hamath sends Joram with vessels of silver, gold and bronze"}
+      - {motif: spoils-dedicated-to-god, refs: ["2Sam 8:11", "2Sam 8:12"]}
+      - {motif: valley-of-salt-battle, refs: ["2Sam 8:13"], note: "18,000; Aram (read Edom?)"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["2Sam 8:15"], note: "mishpat u-tsedaqah"}
+      - {motif: royal-cabinet-list, refs: ["2Sam 8:16", "2Sam 8:17", "2Sam 8:18"], note: "Commander, recorder, priests, scribe Seraiah, Cherethites and Pelethites"}
+      - {motif: kings-sons-as-priests, refs: ["2Sam 8:18"], note: "'David's sons were priests (kohanim)'"}
+    hints:
+      - "Cherethites and Pelethites as Cretan/Philistine mercenary guard, like the Varangian Guard or Swiss guards. Measuring captives with a cord resembles decimation in Roman practice. 1Chr 18:17 rewrites 'priests' as 'chief officials beside the king'."
+  - id: hb-2sam-9-mephibosheth-at-table
+    tradition: judaism
+    title: David's kindness to lame Mephibosheth, who eats at the king's table
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 9:1-13"]
+    tags:
+      - {motif: kindness-to-survivor-of-rival-house, refs: ["2Sam 9:1", "2Sam 9:3", "2Sam 9:7"], note: "'hesed elohim' for Jonathan's sake"}
+      - {motif: lame-heir-of-fallen-dynasty, refs: ["2Sam 9:3", "2Sam 9:13"], note: "Lame in both feet; hidden at Lo-debar with Machir"}
+      - {motif: eats-at-kings-table-always, refs: ["2Sam 9:7", "2Sam 9:10", "2Sam 9:11", "2Sam 9:13"], note: "'Like one of the king's sons'"}
+      - {motif: dead-dog-single-flea, refs: ["2Sam 9:8"], note: "'that you should look upon a dead dog such as I'"}
+      - {motif: estate-restored-steward-assigned, refs: ["2Sam 9:9", "2Sam 9:10"], note: "Ziba with 15 sons and 20 servants to farm it"}
+    hints:
+      - "Keeping a rival heir at the royal table as honor and surveillance: Jehoiachin at Evil-merodach's table (2Kgs 25:29); Assyrian and Persian practice of hostages at court."
+  - id: hb-2sam-10-ammonite-insult
+    tradition: judaism
+    title: Hanun humiliates David's envoys; war with Ammon and Aram
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 10:1-19"]
+    tags:
+      - {motif: condolence-embassy-suspected-as-spies, refs: ["2Sam 10:2", "2Sam 10:3"]}
+      - {motif: envoys-humiliated-half-beard-shaved, refs: ["2Sam 10:4", "2Sam 10:5"], note: "Half the beard shaved, garments cut to the buttocks; 'stay in Jericho until your beards grow'"}
+      - {motif: hired-foreign-armies, refs: ["2Sam 10:6"], note: "Aram Beth-rehob, Zobah, Maacah, Ish-tob"}
+      - {motif: two-front-battle-mutual-aid, refs: ["2Sam 10:9", "2Sam 10:10", "2Sam 10:11"]}
+      - {motif: be-strong-for-our-people-and-cities-of-god, refs: ["2Sam 10:12"], note: "'And YHWH will do what is good in his eyes'"}
+      - {motif: enemy-commander-killed, refs: ["2Sam 10:18"], note: "Shobach"}
+      - {motif: vassal-kings-make-peace, refs: ["2Sam 10:19"]}
+    hints:
+      - "Insult to envoys as casus belli: Herodotus 7.133 (Persian heralds thrown into a pit at Sparta). Beard-shaving as humiliation in Arab and Assyrian practice; Isa 7:20."
+  - id: hb-2sam-11-bathsheba-uriah
+    tradition: judaism
+    title: David and Bathsheba; Uriah carries his own death letter
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 11:1-27"]
+    tags:
+      - {motif: king-stays-home-when-kings-go-to-war, refs: ["2Sam 11:1"], note: "'At the return of the year when kings go out'"}
+      - {motif: king-sees-bathing-woman-from-roof, refs: ["2Sam 11:2"]}
+      - {motif: coveted-saw-took-hid, refs: ["2Sam 11:2", "2Sam 11:3", "2Sam 11:4"], note: "He saw, sent, took, lay"}
+      - {motif: purification-after-menstruation, refs: ["2Sam 11:4"], note: "'She was purifying herself from her uncleanness'"}
+      - {motif: husband-recalled-to-cover-pregnancy, refs: ["2Sam 11:6", "2Sam 11:8", "2Sam 11:10", "2Sam 11:13"], note: "Made drunk, still does not go home"}
+      - {motif: soldier-abstains-from-wife-in-war, refs: ["2Sam 11:9", "2Sam 11:11"], note: "'The ark and Israel dwell in booths... shall I go to lie with my wife?'"}
+      - {motif: bearer-carries-own-death-warrant, refs: ["2Sam 11:14", "2Sam 11:15"]}
+      - {motif: king-sends-hero-to-die-in-battle, refs: ["2Sam 11:15", "2Sam 11:16", "2Sam 11:17"]}
+      - {motif: woman-drops-millstone-on-attacker, refs: ["2Sam 11:21"], note: "Joab recalls Abimelech killed at Thebez"}
+      - {motif: the-sword-devours-one-and-another, refs: ["2Sam 11:25"]}
+      - {motif: widow-taken-after-mourning, refs: ["2Sam 11:26", "2Sam 11:27"]}
+      - {motif: narrator-states-gods-displeasure, refs: ["2Sam 11:27"]}
+    hints:
+      - "The 'Bellerophon letter' (Iliad 6.168-170): Proetus sends Bellerophon to Lycia with a tablet asking his own death. Also Hamlet's sealed commission; Sargon legend where Ur-Zababa sends Sargon with a letter ordering his death. Uriah's abstinence vs. holy-war purity (1Sam 21:5)."
+  - id: hb-2sam-12-nathans-parable
+    tradition: judaism
+    title: Nathan's parable of the ewe lamb and David's punishment
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 12:1-25"]
+    tags:
+      - {motif: juridical-parable-entraps-king, refs: ["2Sam 12:1", "2Sam 12:2", "2Sam 12:3", "2Sam 12:4", "2Sam 12:5", "2Sam 12:7"], note: "'You are the man!'"}
+      - {motif: poor-mans-pet-lamb, refs: ["2Sam 12:3"], note: "Ate from his bread, drank from his cup, lay in his bosom, was like a daughter"}
+      - {motif: fivefold-fourfold-restitution-for-stolen-livestock, refs: ["2Sam 12:6"], note: "'He shall restore the lamb fourfold'"}
+      - {motif: god-gave-masters-wives, refs: ["2Sam 12:8"], note: "'Your master's wives into your bosom'"}
+      - {motif: sword-never-departs-from-house, refs: ["2Sam 12:10"]}
+      - {motif: wives-given-to-neighbor-before-sun, refs: ["2Sam 12:11", "2Sam 12:12"], note: "Secret sin punished publicly 'before this sun'"}
+      - {motif: royal-confession-and-pardon, refs: ["2Sam 12:13"], note: "'I have sinned against YHWH' / 'YHWH has put away your sin; you shall not die'"}
+      - {motif: child-dies-for-fathers-sin, refs: ["2Sam 12:14", "2Sam 12:15", "2Sam 12:18"]}
+      - {motif: fasting-and-lying-on-ground-for-sick-child, refs: ["2Sam 12:16", "2Sam 12:17", "2Sam 12:22"], note: "'Who knows? YHWH may be gracious'"}
+      - {motif: mourner-rises-washes-eats, refs: ["2Sam 12:19", "2Sam 12:20", "2Sam 12:21"]}
+      - {motif: i-go-to-him-he-will-not-return, refs: ["2Sam 12:23"]}
+      - {motif: child-given-second-divine-name, refs: ["2Sam 12:24", "2Sam 12:25"], note: "Solomon also named Jedidiah, 'beloved of Yah', through Nathan"}
+    hints:
+      - "Ps 51 superscription. The Quran's two disputants who climb into David's prayer-chamber with the parable of 99 ewes and one (Quran 38:21-25) is a direct parallel. 'Who knows whether God will relent' recurs in Joel 2:14 and Jonah 3:9."
+  - id: hb-2sam-12-capture-of-rabbah
+    tradition: judaism
+    title: Capture of Rabbah and the Ammonite crown
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 12:26-31"]
+    tags:
+      - {motif: general-defers-conquest-to-king, refs: ["2Sam 12:27", "2Sam 12:28"], note: "'Lest my name be called upon it'; 'city of waters' taken first"}
+      - {motif: captured-crown-placed-on-victor, refs: ["2Sam 12:30"], note: "Crown of malkam (their king / Milcom) weighing a talent of gold with a precious stone"}
+      - {motif: captives-put-to-saws-and-brickkiln, refs: ["2Sam 12:31"], note: "Saws, iron picks, axes, the brick-mold (malben): forced labor or torture"}
+    hints:
+      - "A talent-weight crown suits a cult statue of Milcom rather than a man (b. Avodah Zarah 44a discusses how David wore it). 1Chr 20:3 reads 'sawed them'."
+  - id: hb-2sam-13-amnon-tamar
+    tradition: judaism
+    title: Amnon rapes his half-sister Tamar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 13:1-22"]
+    tags:
+      - {motif: lovesick-prince, refs: ["2Sam 13:2", "2Sam 13:4"], note: "Amnon makes himself ill over Tamar; 'why so haggard morning by morning?'"}
+      - {motif: crafty-friend-advises-ruse, refs: ["2Sam 13:3", "2Sam 13:5"], note: "Jonadab 'very wise'"}
+      - {motif: feigned-illness-ruse, refs: ["2Sam 13:5", "2Sam 13:6"]}
+      - {motif: heart-shaped-cakes-levivot, refs: ["2Sam 13:6", "2Sam 13:8", "2Sam 13:10"], note: "levivot from levav 'heart'; biryah food"}
+      - {motif: nevalah-in-israel-formula, refs: ["2Sam 13:12", "2Sam 13:13"], note: "'Such a thing is not done in Israel'"}
+      - {motif: victim-proposes-lawful-marriage, refs: ["2Sam 13:13"], note: "'Speak to the king; he will not withhold me from you'"}
+      - {motif: love-turns-to-greater-hatred, refs: ["2Sam 13:15"]}
+      - {motif: princess-wears-ornamented-tunic, refs: ["2Sam 13:18", "2Sam 13:19"], note: "ketonet passim, as worn by virgin princesses; cf. Joseph's"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["2Sam 13:19"], note: "Ashes, torn tunic, hand on head, crying aloud"}
+      - {motif: father-silent-sons-avenge, refs: ["2Sam 13:20", "2Sam 13:21", "2Sam 13:22"], note: "David angry but does nothing; Absalom silently hates"}
+    hints:
+      - "Parallels Dinah (Gen 34) and Joseph's ketonet passim (Gen 37:3). Lovesickness as illness recalls Antiochus and Stratonice (Plutarch, Demetrius 38) and Arabic 'ishq literature. LXX adds that David did not punish Amnon because he loved his firstborn."
+  - id: hb-2sam-13-absalom-kills-amnon
+    tradition: judaism
+    title: Absalom kills Amnon at the sheep-shearing and flees to Geshur
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 13:23-39"]
+    tags:
+      - {motif: sheep-shearing-festival, refs: ["2Sam 13:23", "2Sam 13:24"], note: "At Baal-hazor"}
+      - {motif: brother-killed-at-drunken-feast, refs: ["2Sam 13:28", "2Sam 13:29"], note: "'When Amnon's heart is merry with wine'"}
+      - {motif: princes-ride-mules, refs: ["2Sam 13:29"]}
+      - {motif: false-report-all-sons-dead, refs: ["2Sam 13:30", "2Sam 13:32", "2Sam 13:33"]}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["2Sam 13:31"], note: "King tears clothes and lies on the ground"}
+      - {motif: watchman-sees-approaching-people, refs: ["2Sam 13:34"]}
+      - {motif: fugitive-prince-at-maternal-grandfathers-court, refs: ["2Sam 13:37", "2Sam 13:38"], note: "Talmai of Geshur, three years"}
+      - {motif: father-yearns-for-exiled-son, refs: ["2Sam 13:39"]}
+    hints:
+      - "Fratricide at a banquet: Atreus and Thyestes; Absalom killing at the shearing echoes Nabal's feast. Compare Cain and Abel and Ottoman fratricide among princes."
+  - id: hb-2sam-14-wise-woman-of-tekoa
+    tradition: judaism
+    title: The wise woman of Tekoa wins Absalom's return
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 14:1-24"]
+    tags:
+      - {motif: woman-feigns-mourning-to-petition-king, refs: ["2Sam 14:2", "2Sam 14:3", "2Sam 14:5"], note: "No anointing oil; Joab puts the words in her mouth"}
+      - {motif: juridical-parable-entraps-king, refs: ["2Sam 14:5", "2Sam 14:6", "2Sam 14:7", "2Sam 14:13"], note: "Two sons fought in the field; one killed the other"}
+      - {motif: first-murder-fratricide, refs: ["2Sam 14:6"], note: "Echo: brothers fight in the field with no one to separate them"}
+      - {motif: blood-avenger, refs: ["2Sam 14:7", "2Sam 14:11"], note: "Clan demands the killer; go'el ha-dam"}
+      - {motif: quench-my-last-coal, refs: ["2Sam 14:7"], note: "'They would quench my remaining ember (gahalti), leaving my husband no name or remnant'"}
+      - {motif: not-a-hair-shall-fall, refs: ["2Sam 14:11"]}
+      - {motif: water-spilled-on-ground-cannot-be-gathered, refs: ["2Sam 14:14"], note: "'We must all die, like water spilled on the ground'; God devises means that the banished not remain outcast"}
+      - {motif: good-as-angel-of-god, refs: ["2Sam 14:17", "2Sam 14:20"], note: "King discerns good and evil like an angel of God, knowing all things on earth"}
+      - {motif: king-detects-hand-behind-petition, refs: ["2Sam 14:19"], note: "'Is the hand of Joab with you?'"}
+      - {motif: exile-returned-but-barred-from-presence, refs: ["2Sam 14:24"]}
+      - {motif: wise-woman-averts-bloodshed, refs: ["2Sam 14:2", "2Sam 14:15", "2Sam 14:16"]}
+    hints:
+      - "Rabbinic and Christian homiletics on 14:14 ('God devises means that the outcast not be banished') as a doctrine of mercy. The 'ember' image for an only heir recurs in Mesopotamian and later Arabic idiom. Compare Quran 38:21-24 disputants and Nathan's parable."
+  - id: hb-2sam-14-absalom-beauty-reconciliation
+    tradition: judaism
+    title: Absalom's beauty and hair; Joab's field burned; reconciliation with David
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 14:25-33"]
+    tags:
+      - {motif: hero-beautiful, refs: ["2Sam 14:25"], note: "No blemish from sole of foot to crown of head"}
+      - {motif: hair-weighed-yearly, refs: ["2Sam 14:26"], note: "200 shekels by the king's weight"}
+      - {motif: daughter-named-after-wronged-aunt, refs: ["2Sam 14:27"], note: "Absalom's daughter Tamar, beautiful"}
+      - {motif: field-set-on-fire-to-force-meeting, refs: ["2Sam 14:30", "2Sam 14:31"], note: "Joab's barley field"}
+      - {motif: father-kisses-son-reconciliation, refs: ["2Sam 14:33"]}
+    hints:
+      - "Absalom's hair foreshadows his death (18:9); Samson's hair. Rabbinic: 'Absalom gloried in his hair, therefore he was hanged by his hair' (m. Sotah 1:8). 18:18 says he had no son, in tension with 14:27."
+  - id: hb-2sam-15-absalom-revolt-davids-flight
+    tradition: judaism
+    title: Absalom steals the hearts of Israel; David flees Jerusalem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 15:1-37"]
+    tags:
+      - {motif: chariot-and-fifty-runners, refs: ["2Sam 15:1"]}
+      - {motif: usurper-courts-litigants-at-gate, refs: ["2Sam 15:2", "2Sam 15:3", "2Sam 15:4", "2Sam 15:5", "2Sam 15:6"], note: "'Oh that I were judge in the land'; 'stole the hearts of the men of Israel'"}
+      - {motif: conditional-vow-to-god, refs: ["2Sam 15:7", "2Sam 15:8"], note: "Pretext vow made in Geshur; 'after forty years'"}
+      - {motif: shofar-signal-for-coronation, refs: ["2Sam 15:10"], note: "'Absalom is king in Hebron'"}
+      - {motif: innocent-guests-of-conspirator, refs: ["2Sam 15:11"], note: "200 men went 'in their innocence'"}
+      - {motif: royal-counselor-defects, refs: ["2Sam 15:12", "2Sam 15:31"], note: "Ahithophel the Gilonite"}
+      - {motif: king-flees-capital, refs: ["2Sam 15:14", "2Sam 15:16", "2Sam 15:17"]}
+      - {motif: concubines-left-to-keep-house, refs: ["2Sam 15:16"], note: "Ten concubines"}
+      - {motif: foreign-mercenary-loyal-unto-death, refs: ["2Sam 15:19", "2Sam 15:20", "2Sam 15:21", "2Sam 15:22"], note: "Ittai the Gittite: 'in death or life there your servant will be'"}
+      - {motif: kidron-crossing-in-grief, refs: ["2Sam 15:23"]}
+      - {motif: ark-sent-back-to-city, refs: ["2Sam 15:24", "2Sam 15:25", "2Sam 15:26", "2Sam 15:29"], note: "'If I find favor he will bring me back... let him do as seems good'"}
+      - {motif: priests-sons-as-courier-spies, refs: ["2Sam 15:27", "2Sam 15:28", "2Sam 15:35", "2Sam 15:36"], note: "Ahimaaz and Jonathan"}
+      - {motif: weeping-barefoot-ascent-mount-of-olives, refs: ["2Sam 15:30"], note: "Head covered, barefoot"}
+      - {motif: prayer-to-frustrate-counsel, refs: ["2Sam 15:31"]}
+      - {motif: friend-sent-as-double-agent, refs: ["2Sam 15:32", "2Sam 15:33", "2Sam 15:34", "2Sam 15:37"], note: "Hushai the Archite, 'friend of the king'"}
+      - {motif: messenger-with-torn-clothes-and-earth, refs: ["2Sam 15:32"]}
+    hints:
+      - "Christian typology: David crossing the Kidron and ascending the Mount of Olives in tears prefigures Jesus (John 18:1; Luke 22:39); Ahithophel's betrayal and hanging prefigure Judas (Matt 27:5). Ittai's oath echoes Ruth 1:16-17. Ps 3 superscription."
+  - id: hb-2sam-16-ziba-shimei
+    tradition: judaism
+    title: Ziba's provisions and slander; Shimei curses David
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 16:1-14"]
+    tags:
+      - {motif: provisions-brought-to-fleeing-king, refs: ["2Sam 16:1", "2Sam 16:2"], note: "Two saddled donkeys, 200 loaves, 100 raisin clusters, 100 summer fruits, a skin of wine"}
+      - {motif: servant-slanders-master-for-gain, refs: ["2Sam 16:3", "2Sam 16:4"], note: "Ziba claims Mephibosheth hopes for his grandfather's kingdom"}
+      - {motif: partisan-curses-and-stones-king, refs: ["2Sam 16:5", "2Sam 16:6", "2Sam 16:7", "2Sam 16:8", "2Sam 16:13"], note: "'Get out, man of blood'; throws stones and dust along the hillside"}
+      - {motif: dead-dog-single-flea, refs: ["2Sam 16:9"], note: "Abishai: 'Why should this dead dog curse my lord?'"}
+      - {motif: curse-accepted-as-from-god, refs: ["2Sam 16:10", "2Sam 16:11", "2Sam 16:12"], note: "'YHWH has told him: curse David'"}
+      - {motif: king-too-weak-for-his-kinsmen, refs: ["2Sam 16:10"], note: "'What have I to do with you, sons of Zeruiah?'"}
+    hints:
+      - "'What is it to me and to you' (mah li ve-lakhem) recurs as Jesus' phrase in John 2:4 and Mark 1:24. Quietly enduring insult in hope of divine recompense resembles the Prophet's endurance of the people of Taif."
+  - id: hb-2sam-16-hushai-ahithophel
+    tradition: judaism
+    title: Hushai joins Absalom; Absalom lies with his father's concubines
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 16:15-23"]
+    tags:
+      - {motif: long-live-the-king-acclamation, refs: ["2Sam 16:16"], note: "Hushai's ambiguous 'Long live the king'"}
+      - {motif: friend-sent-as-double-agent, refs: ["2Sam 16:16", "2Sam 16:17", "2Sam 16:18", "2Sam 16:19"], note: "'Is this your loyalty to your friend?'"}
+      - {motif: taking-kings-concubine-claim-to-throne, refs: ["2Sam 16:21", "2Sam 16:22"], note: "Tent pitched on the roof 'before the eyes of all Israel'"}
+      - {motif: son-lies-with-fathers-concubine, refs: ["2Sam 16:22"]}
+      - {motif: wives-given-to-neighbor-before-sun, refs: ["2Sam 16:22"], note: "Fulfils 12:11 on the same roof"}
+      - {motif: counsel-like-word-of-god, refs: ["2Sam 16:23"], note: "Ahithophel's counsel was as if one inquired of the word of God"}
+    hints:
+      - "Reuben with Bilhah (Gen 35:22). In Hittite and Assyrian succession, taking the predecessor's harem signals rule; Herodotus 3.68 (the Magian usurper and Cambyses' wives)."
+  - id: hb-2sam-17-counsel-defeated
+    tradition: judaism
+    title: Hushai defeats Ahithophel's counsel; spies hidden in a well; Ahithophel hangs himself
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 17:1-29"]
+    tags:
+      - {motif: strike-only-the-king-strategy, refs: ["2Sam 17:1", "2Sam 17:2", "2Sam 17:3"], note: "12,000 men tonight; 'I will strike the king alone'"}
+      - {motif: dueling-counsels-at-court, refs: ["2Sam 17:5", "2Sam 17:6", "2Sam 17:7", "2Sam 17:14"]}
+      - {motif: bear-robbed-of-cubs, refs: ["2Sam 17:8"], note: "'Bitter of soul like a bereaved bear in the field'"}
+      - {motif: heart-of-a-lion-melts, refs: ["2Sam 17:10"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["2Sam 17:11"], note: "Army 'like the sand by the sea'"}
+      - {motif: army-falls-like-dew, refs: ["2Sam 17:12"]}
+      - {motif: city-dragged-into-valley-with-ropes, refs: ["2Sam 17:13"], note: "Until not a pebble remains"}
+      - {motif: god-frustrates-good-counsel, refs: ["2Sam 17:14"], note: "YHWH ordained to defeat the good counsel of Ahithophel"}
+      - {motif: maidservant-carries-messages, refs: ["2Sam 17:17"], note: "At En-rogel"}
+      - {motif: spies-hidden-in-well-by-woman, refs: ["2Sam 17:18", "2Sam 17:19", "2Sam 17:20"], note: "Cover spread over the well and groats on it; misdirects pursuers"}
+      - {motif: counselor-hangs-himself, refs: ["2Sam 17:23"], note: "Saddles his donkey, sets his house in order, strangles himself"}
+      - {motif: burial-in-fathers-tomb, refs: ["2Sam 17:23"]}
+      - {motif: provisions-brought-to-fleeing-king, refs: ["2Sam 17:27", "2Sam 17:28", "2Sam 17:29"], note: "Shobi son of Nahash, Machir, Barzillai: beds, basins, wheat, barley, flour, beans, lentils, honey, curds, cheese"}
+    hints:
+      - "Rahab hiding the spies (Josh 2:6). Ahithophel's hanging is the model for Judas (Matt 27:5); rabbinic lists of those with no share in the World to Come include Ahithophel (m. Sanh. 10:2). Battle of counsellors: Herodotus 7.8-11 (Xerxes, Mardonius and Artabanus)."
+  - id: hb-2sam-18-death-of-absalom
+    tradition: judaism
+    title: Battle in the forest of Ephraim; Absalom caught in the oak and killed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 18:1-18"]
+    tags:
+      - {motif: three-division-dawn-attack, refs: ["2Sam 18:2"], note: "Army in thirds under Joab, Abishai, Ittai"}
+      - {motif: people-forbid-king-to-fight, refs: ["2Sam 18:3", "2Sam 18:4"], note: "'You are worth ten thousand of us'"}
+      - {motif: deal-gently-with-the-young-man, refs: ["2Sam 18:5", "2Sam 18:12"]}
+      - {motif: forest-devours-more-than-sword, refs: ["2Sam 18:8"]}
+      - {motif: hanging-by-head-in-tree, refs: ["2Sam 18:9", "2Sam 18:10"], note: "Mule passes on; he hangs 'between heaven and earth'"}
+      - {motif: soldier-refuses-bribe-to-kill-prince, refs: ["2Sam 18:11", "2Sam 18:12", "2Sam 18:13"], note: "'Even for a thousand shekels'"}
+      - {motif: three-darts-in-heart, refs: ["2Sam 18:14", "2Sam 18:15"], note: "Joab thrusts three shevatim into his heart; ten armor-bearers finish him"}
+      - {motif: shofar-ends-battle, refs: ["2Sam 18:16"]}
+      - {motif: stone-heap-over-executed, refs: ["2Sam 18:17"], note: "Thrown into a pit in the forest"}
+      - {motif: victory-monument-set-up, refs: ["2Sam 18:18"], note: "Absalom's own matsevah/yad in the King's Valley, 'because I have no son to keep my name in remembrance'"}
+    hints:
+      - "Absalom's 'Monument' (Yad Avshalom) in the Kidron is a later Hellenistic tomb; pilgrims threw stones at it. Josephus and rabbinic tradition say his hair caught. Compare Hippolytus dragged by his horses, and the Norse/Odinic hanging 'between heaven and earth'."
+  - id: hb-2sam-18-news-to-david
+    tradition: judaism
+    title: Two runners bring the news to David at the gate
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 18:19-32"]
+    tags:
+      - {motif: two-runners-race-with-news, refs: ["2Sam 18:19", "2Sam 18:21", "2Sam 18:22", "2Sam 18:23"], note: "Ahimaaz outruns the Cushite by the way of the Plain"}
+      - {motif: foreign-servant-sent-with-bad-news, refs: ["2Sam 18:21", "2Sam 18:31", "2Sam 18:32"], note: "The Cushite"}
+      - {motif: watchman-sees-approaching-people, refs: ["2Sam 18:24", "2Sam 18:25", "2Sam 18:26", "2Sam 18:27"], note: "Recognizes Ahimaaz by his running"}
+      - {motif: king-waits-between-the-gates, refs: ["2Sam 18:24"]}
+      - {motif: messenger-evades-bad-news, refs: ["2Sam 18:29"], note: "'I saw a great tumult but did not know what it was'"}
+      - {motif: may-enemies-be-as-that-young-man, refs: ["2Sam 18:32"]}
+    hints:
+      - "The runner from Marathon; Greek tragedy messenger-speech conventions. Compare 1Sam 4:12-18 runner to Eli."
+  - id: hb-2sam-19-davids-lament-joab-rebuke
+    tradition: judaism
+    title: "'My son Absalom!' David's grief and Joab's rebuke"
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 19:1-9"]
+    tags:
+      - {motif: father-laments-would-i-had-died-for-you, refs: ["2Sam 19:1", "2Sam 19:5"], note: "In the chamber over the gate: 'Would I had died instead of you, Absalom my son, my son'"}
+      - {motif: victory-turned-to-mourning, refs: ["2Sam 19:3", "2Sam 19:4"], note: "Troops steal into the city like men ashamed after fleeing battle"}
+      - {motif: king-covers-face-in-grief, refs: ["2Sam 19:5"]}
+      - {motif: general-rebukes-grieving-king, refs: ["2Sam 19:6", "2Sam 19:7", "2Sam 19:8"], note: "'You love those who hate you and hate those who love you'"}
+      - {motif: king-sits-in-gate, refs: ["2Sam 19:9"]}
+    hints:
+      - "Priam's grief for Hector; Achilles rebuked for excessive grief. The cry 'my son, my son' is a classic of Western elegy and of Jewish mourning midrash (David's eight 'my son' raised Absalom through seven hells, b. Sotah 10b)."
+  - id: hb-2sam-19-davids-return
+    tradition: judaism
+    title: David's return across the Jordan; Shimei, Mephibosheth, Barzillai; Judah and Israel quarrel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 19:10-44"]
+    tags:
+      - {motif: tribes-debate-restoring-king, refs: ["2Sam 19:10", "2Sam 19:11", "2Sam 19:12"]}
+      - {motif: appeal-to-kinship-bone-and-flesh, refs: ["2Sam 19:13", "2Sam 19:14"]}
+      - {motif: rebel-general-offered-command, refs: ["2Sam 19:14"], note: "Amasa to replace Joab"}
+      - {motif: curser-begs-pardon-pardoned, refs: ["2Sam 19:17", "2Sam 19:19", "2Sam 19:20", "2Sam 19:21", "2Sam 19:24"], note: "'I have come first of the house of Joseph'; David swears 'you shall not die'"}
+      - {motif: puncta-extraordinaria-dots, refs: ["2Sam 19:20"], note: "Dots over yatsa"}
+      - {motif: clemency-after-victory, refs: ["2Sam 19:22", "2Sam 19:23"], note: "'Shall anyone be put to death in Israel today?'; sons of Zeruiah as 'satan'"}
+      - {motif: satan-as-adversary-common-noun, refs: ["2Sam 19:23"]}
+      - {motif: mourner-neglects-feet-beard-clothes, refs: ["2Sam 19:25"], note: "Mephibosheth did not trim feet, moustache or wash clothes"}
+      - {motif: lame-man-betrayed-by-servant, refs: ["2Sam 19:27", "2Sam 19:28"]}
+      - {motif: good-as-angel-of-god, refs: ["2Sam 19:28"]}
+      - {motif: estate-divided-between-claimants, refs: ["2Sam 19:30", "2Sam 19:31"], note: "'Let him take it all'"}
+      - {motif: aged-benefactor-declines-court-life, refs: ["2Sam 19:33", "2Sam 19:35", "2Sam 19:36", "2Sam 19:37", "2Sam 19:38"], note: "Barzillai at 80 cannot taste food or hear singing men and women; wishes to die by his parents' grave"}
+      - {motif: son-sent-to-court-in-fathers-place, refs: ["2Sam 19:38", "2Sam 19:39", "2Sam 19:41"], note: "Chimham"}
+      - {motif: tribal-rivalry-over-king, refs: ["2Sam 19:42", "2Sam 19:43", "2Sam 19:44"], note: "'Ten shares in the king'; Judah's words fiercer"}
+    hints:
+      - "Barzillai's description of old age compares with Eccl 12:1-7 and Ptahhotep's lament on old age. The rabbis interpreted Mephibosheth's 'let him take all' (b. Shabbat 56a) and blamed David for dividing the field."
+  - id: hb-2sam-20-sheba-revolt
+    tradition: judaism
+    title: Sheba's revolt, Joab's murder of Amasa, and the wise woman of Abel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 20:1-22"]
+    tags:
+      - {motif: secession-cry-to-your-tents, refs: ["2Sam 20:1"], note: "'We have no portion in David... every man to his tents, O Israel'"}
+      - {motif: violated-concubines-kept-in-living-widowhood, refs: ["2Sam 20:3"], note: "Shut up 'in widowhood of life' until their death"}
+      - {motif: treacherous-kiss-and-stab, refs: ["2Sam 20:8", "2Sam 20:9", "2Sam 20:10"], note: "Joab takes Amasa's beard to kiss him and spills his entrails with a sword in his left hand"}
+      - {motif: treacherous-murder-at-gate, refs: ["2Sam 20:10"], note: "Stab in the homesh again"}
+      - {motif: corpse-covered-to-stop-gawkers, refs: ["2Sam 20:11", "2Sam 20:12", "2Sam 20:13"]}
+      - {motif: siege-ramp-against-city, refs: ["2Sam 20:15"]}
+      - {motif: wise-woman-averts-bloodshed, refs: ["2Sam 20:16", "2Sam 20:17", "2Sam 20:22"], note: "Woman of Abel-beth-maacah negotiates from the wall"}
+      - {motif: city-famed-for-oracular-wisdom, refs: ["2Sam 20:18", "2Sam 20:19"], note: "'Let them ask counsel at Abel'; 'a city and a mother in Israel'"}
+      - {motif: rebels-head-thrown-over-wall, refs: ["2Sam 20:21", "2Sam 20:22"]}
+      - {motif: shofar-ends-battle, refs: ["2Sam 20:22"]}
+    hints:
+      - "Judas' kiss (Matt 26:49) is commonly compared with Joab's. A city surrendering one man to save itself: John 11:50 ('better that one man die'); rabbinic halakha on handing over an individual named by besiegers (y. Terumot 8:4) derives from Sheba."
+  - id: hb-2sam-20-officials-second-list
+    tradition: judaism
+    title: Second list of David's officials
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 20:23-26"]
+    tags:
+      - {motif: royal-cabinet-list, refs: ["2Sam 20:23", "2Sam 20:24", "2Sam 20:25"], note: "Adoram over the forced labor (mas)"}
+      - {motif: forced-labor-officer, refs: ["2Sam 20:24"]}
+      - {motif: kings-private-priest, refs: ["2Sam 20:26"], note: "Ira the Jairite 'priest to David'"}
+    hints:
+      - "Egyptian-style office titles (scribe, herald/mazkir) parallel Egyptian court lists."
+  - id: hb-2sam-21-gibeonite-vengeance
+    tradition: judaism
+    title: Famine for Saul's bloodguilt; seven sons impaled; Rizpah's vigil
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 21:1-14"]
+    tags:
+      - {motif: famine-for-bloodguilt, refs: ["2Sam 21:1"], note: "Three years; oracle points to Saul's slaying of the Gibeonites"}
+      - {motif: oath-binding-though-obtained-by-deceit, refs: ["2Sam 21:2"], note: "Israel's oath to the Amorite remnant (Josh 9)"}
+      - {motif: blood-not-ransomable-by-silver, refs: ["2Sam 21:3", "2Sam 21:4"], note: "'We have no silver or gold with Saul'"}
+      - {motif: leaders-impaled-before-sun, refs: ["2Sam 21:6", "2Sam 21:9"], note: "Seven of Saul's sons hoqa'u 'before YHWH' at the start of barley harvest"}
+      - {motif: oath-protects-friends-son, refs: ["2Sam 21:7"]}
+      - {motif: seven-descendants-handed-over, refs: ["2Sam 21:8"], note: "Rizpah's two sons and five of Merab/Michal's"}
+      - {motif: mother-guards-exposed-bodies, refs: ["2Sam 21:10", "2Sam 21:11"], note: "Sackcloth on the rock from harvest until rain; keeps birds by day and beasts by night"}
+      - {motif: bones-of-king-reburied, refs: ["2Sam 21:12", "2Sam 21:13", "2Sam 21:14"], note: "In the tomb of Kish at Zela"}
+      - {motif: god-entreated-for-land, refs: ["2Sam 21:14"]}
+    hints:
+      - "Rizpah keeping vigil over her sons is the model for Antigone and the Sophoclean duty to the dead; Tennyson's 'Rizpah'. Ritual execution to end famine compares with Greek pharmakos and Oedipus' Thebes plague caused by blood-guilt."
+  - id: hb-2sam-21-giants-of-gath
+    tradition: judaism
+    title: Four descendants of the Rapha slain
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 21:15-22"]
+    tags:
+      - {motif: primeval-giant-peoples, refs: ["2Sam 21:16", "2Sam 21:18", "2Sam 21:20", "2Sam 21:22"], note: "yelide ha-rafah"}
+      - {motif: giant-armor-described, refs: ["2Sam 21:16", "2Sam 21:19"], note: "Spear-head 300 shekels of bronze; Goliath's spear like a weaver's beam"}
+      - {motif: lamp-of-israel-king, refs: ["2Sam 21:17"], note: "King must not go to battle lest he quench the lamp of Israel"}
+      - {motif: people-forbid-king-to-fight, refs: ["2Sam 21:17"]}
+      - {motif: elhanan-kills-goliath, refs: ["2Sam 21:19"], note: "Contradicts 1Sam 17"}
+      - {motif: giant-with-six-fingers-and-toes, refs: ["2Sam 21:20"], note: "24 digits"}
+    hints:
+      - "1Chr 20:5 harmonizes ('Lahmi the brother of Goliath'); Targum identifies Elhanan with David. Polydactyl giants recur in later Jewish and Islamic lore about the Amalekite/ad giants."
+  - id: hb-2sam-22-davids-song-of-deliverance
+    tradition: judaism
+    title: David's song of deliverance (= Psalm 18)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 22:1-51"]
+    tags:
+      - {motif: victory-song-after-deliverance, refs: ["2Sam 22:1"]}
+      - {motif: god-the-rock, refs: ["2Sam 22:2", "2Sam 22:3", "2Sam 22:32", "2Sam 22:47"], note: "Rock, fortress, deliverer, shield, horn of salvation"}
+      - {motif: breakers-of-death-cords-of-sheol, refs: ["2Sam 22:5", "2Sam 22:6"], note: "Torrents of Belial, snares of death"}
+      - {motif: god-hears-from-his-temple, refs: ["2Sam 22:7"]}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["2Sam 22:8", "2Sam 22:16"], note: "Foundations of heaven tremble; channels of the sea laid bare"}
+      - {motif: smoke-from-gods-nostrils-fire-from-mouth, refs: ["2Sam 22:9"], note: "Coals blazing from him"}
+      - {motif: god-rides-cherub-on-wings-of-wind, refs: ["2Sam 22:10", "2Sam 22:11", "2Sam 22:12"], note: "Bends the heavens, thick darkness under his feet, booths of dark waters"}
+      - {motif: theophany-thunder-lightning-trumpet, refs: ["2Sam 22:13", "2Sam 22:14"], note: "Elyon gives his voice"}
+      - {motif: divine-arrows, refs: ["2Sam 22:15"], note: "Arrows and lightning"}
+      - {motif: drawn-out-of-many-waters, refs: ["2Sam 22:17"]}
+      - {motif: rewarded-according-to-righteousness, refs: ["2Sam 22:21", "2Sam 22:22", "2Sam 22:23", "2Sam 22:24", "2Sam 22:25"]}
+      - {motif: god-mirrors-human-conduct, refs: ["2Sam 22:26", "2Sam 22:27"], note: "With the pure you are pure, with the crooked you are tortuous"}
+      - {motif: god-is-my-lamp, refs: ["2Sam 22:29"]}
+      - {motif: leap-over-a-wall-with-god, refs: ["2Sam 22:30"]}
+      - {motif: feet-like-hinds-on-heights, refs: ["2Sam 22:34"]}
+      - {motif: god-trains-hands-for-war-bow-of-bronze, refs: ["2Sam 22:35"]}
+      - {motif: enemies-crushed-like-dust-and-mire, refs: ["2Sam 22:39", "2Sam 22:43"]}
+      - {motif: foreigners-come-cringing, refs: ["2Sam 22:44", "2Sam 22:45", "2Sam 22:46"], note: "'A people I did not know serve me'"}
+      - {motif: hesed-to-anointed-and-seed-forever, refs: ["2Sam 22:51"]}
+    hints:
+      - "Storm-god theophany: Baal riding the clouds (rkb 'rpt, KTU 1.2-1.4), Adad/Hadad with lightning bolts, Zeus' thunderbolts; Ninurta's weapons. Rom 15:9 quotes 22:50. Quran 21:79 speaks of mountains and birds glorifying with David."
+  - id: hb-2sam-23-last-words-of-david
+    tradition: judaism
+    title: The last words of David
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 23:1-7"]
+    tags:
+      - {motif: oracle-of-the-man-raised-high, refs: ["2Sam 23:1"], note: "ne'um formula like Balaam (Num 24:3); 'sweet singer of Israel'"}
+      - {motif: spirit-speaks-through-king, refs: ["2Sam 23:2"], note: "'The spirit of YHWH spoke by me, his word on my tongue'"}
+      - {motif: just-ruler-like-morning-sun, refs: ["2Sam 23:3", "2Sam 23:4"], note: "Like sunrise on a cloudless morning; grass after rain"}
+      - {motif: eternal-covenant-with-dynasty, refs: ["2Sam 23:5"], note: "berit olam, 'ordered in all things and secure'"}
+      - {motif: wicked-as-thorns-burned, refs: ["2Sam 23:6", "2Sam 23:7"]}
+    hints:
+      - "Compare Balaam's oracles and deathbed testaments (Gen 49, Deut 33); the Psalms scroll at Qumran (11QPsa 'David's Compositions') counts 4,050 songs. Quran 4:163 'to David we gave the Zabur'."
+  - id: hb-2sam-23-davids-mighty-men
+    tradition: judaism
+    title: David's heroes, the Three and the Thirty
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 23:8-39"]
+    tags:
+      - {motif: hero-list-with-exploits, refs: ["2Sam 23:8", "2Sam 23:18", "2Sam 23:22", "2Sam 23:39"], note: "The Three, the Thirty; total 37"}
+      - {motif: hero-kills-hundreds-at-once, refs: ["2Sam 23:8", "2Sam 23:18"], note: "Josheb-basshebeth 800 at one time; Abishai 300"}
+      - {motif: hand-cleaves-to-sword, refs: ["2Sam 23:10"], note: "Eleazar fights until his hand is weary and sticks to the sword"}
+      - {motif: lone-hero-holds-field, refs: ["2Sam 23:11", "2Sam 23:12"], note: "Shammah in the lentil field"}
+      - {motif: water-from-bethlehem-well-poured-out, refs: ["2Sam 23:15", "2Sam 23:16", "2Sam 23:17"], note: "Three heroes break through the Philistine camp; David pours it as a libation: 'the blood of the men'"}
+      - {motif: water-poured-out-before-god, refs: ["2Sam 23:16"]}
+      - {motif: hero-kills-lion-in-pit-on-snowy-day, refs: ["2Sam 23:20"], note: "Benaiah also slays the two ariels of Moab"}
+      - {motif: hero-wrests-spear-from-giant-egyptian, refs: ["2Sam 23:21"], note: "With a staff; kills him with his own spear"}
+      - {motif: foreigners-among-elite-warriors, refs: ["2Sam 23:37", "2Sam 23:39"], note: "Zelek the Ammonite, Uriah the Hittite"}
+    hints:
+      - "Lists of a king's paladins: Arthur's knights, Charlemagne's peers, Achilles' Myrmidons; Islamic lists of Badr veterans. Alexander pouring out water brought to him in the desert (Arrian, Anabasis 6.26) is a striking parallel to 23:16."
+  - id: hb-2sam-24-census-and-plague
+    tradition: judaism
+    title: David's census, the plague, and Araunah's threshing floor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Sam 24:1-25"]
+    tags:
+      - {motif: god-incites-to-evil, refs: ["2Sam 24:1"], note: "YHWH incited (vayyaset) David; 1Chr 21:1 has Satan"}
+      - {motif: census-ransom-against-plague, refs: ["2Sam 24:1", "2Sam 24:2", "2Sam 24:10"]}
+      - {motif: general-objects-to-census, refs: ["2Sam 24:3", "2Sam 24:4"]}
+      - {motif: census-route-itinerary, refs: ["2Sam 24:5", "2Sam 24:6", "2Sam 24:7", "2Sam 24:8"], note: "Aroer, Jazer, Tahtim-hodshi, Dan-jaan, Sidon, Tyre; 9 months 20 days"}
+      - {motif: tribal-census-totals, refs: ["2Sam 24:9"], note: "Israel 800,000, Judah 500,000"}
+      - {motif: conscience-smites-king, refs: ["2Sam 24:10"], note: "'David's heart struck him'"}
+      - {motif: choice-of-three-punishments, refs: ["2Sam 24:12", "2Sam 24:13", "2Sam 24:14"], note: "Seven years famine, three months flight, three days pestilence; 'let me fall into the hand of YHWH, for his mercies are great'"}
+      - {motif: plague-death-toll, refs: ["2Sam 24:15"], note: "70,000 from Dan to Beersheba"}
+      - {motif: destroying-angel-stayed, refs: ["2Sam 24:16", "2Sam 24:17"], note: "'Enough, stay your hand' at the threshing floor of Araunah the Jebusite"}
+      - {motif: king-offers-himself-for-people, refs: ["2Sam 24:17"], note: "'These sheep, what have they done? Let your hand be against me'"}
+      - {motif: threshing-floor-becomes-altar-site, refs: ["2Sam 24:18", "2Sam 24:21", "2Sam 24:25"]}
+      - {motif: king-insists-on-paying-full-price, refs: ["2Sam 24:22", "2Sam 24:23", "2Sam 24:24"], note: "'I will not offer burnt offerings that cost me nothing'; 50 shekels; 'Araunah the king gave to the king'"}
+      - {motif: intercession-stops-plague, refs: ["2Sam 24:25"]}
+    hints:
+      - "1Chr 21-22 and 2Chr 3:1 identify the site with Moriah and the Temple. Abraham's purchase of Machpelah (Gen 23). Ancient census taboos: Roman lustrum with purification after the census. Islamic tradition locates the angel at the Sakhra (Dome of the Rock)."

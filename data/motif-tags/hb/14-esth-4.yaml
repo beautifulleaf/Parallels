@@ -1,0 +1,1315 @@
+new_motifs:
+  # --- Esther ---
+  sackcloth-and-ashes-mourning: {label: "Mourner puts on sackcloth and ashes and cries aloud in public", cluster: mourning}
+  sackcloth-barred-from-kings-gate: {label: "No one may enter the king's gate dressed in sackcloth", cluster: kingship}
+  communal-fast-for-deliverance: {label: "A whole community fasts, weeps and laments in the face of a decree of destruction", cluster: cult}
+  mourner-refuses-new-clothes: {label: "A mourner refuses the fresh clothes sent to replace his sackcloth", cluster: mourning}
+  unsummoned-entry-to-king-is-death: {label: "Anyone who enters the king's inner court unsummoned is put to death", cluster: kingship}
+  golden-scepter-extended-spares-life: {label: "The king extends his golden scepter to a petitioner, sparing her life; she touches its tip", cluster: kingship}
+  deliverance-from-another-place: {label: "Relief and deliverance will arise 'from another place' if the hero stays silent (veiled reference to God)", cluster: providence}
+  who-knows-if-for-such-a-time: {label: "'Who knows whether you came to royal power for such a time as this?'", cluster: providence}
+  if-i-perish-i-perish: {label: "Heroine resolves to risk death for her people: 'if I perish, I perish'", cluster: heroes}
+  three-day-fast-before-petition: {label: "Three days' total fast (no food or drink, night and day) before a dangerous petition", cluster: cult}
+  up-to-half-the-kingdom: {label: "The king offers his petitioner whatever she asks, up to half the kingdom", cluster: kingship}
+  petition-deferred-through-banquets: {label: "The heroine delays her real request, inviting king and villain to successive banquets", cluster: heroes}
+  pride-before-fall-boast: {label: "The villain boasts to wife and friends of his wealth, sons and honors just before his fall", cluster: wisdom}
+  villain-wife-counsels-gallows: {label: "The villain's wife and friends advise him to build a gallows for his rival", cluster: heroes}
+  gallows-fifty-cubits: {label: "A stake or gallows fifty cubits high is erected for hanging the rival", cluster: punishment}
+  sleepless-king-reads-chronicles: {label: "A sleepless king has the royal chronicles read to him and discovers an unrewarded benefactor", cluster: providence}
+  unrewarded-savior-of-king: {label: "The man who exposed a plot against the king's life has gone unrewarded", cluster: kingship}
+  villain-designs-own-rivals-honor: {label: "Asked how to honor 'the man the king delights to honor', the villain, thinking it is himself, prescribes the honor his rival receives", cluster: reversal}
+  royal-robe-horse-and-crown-honor: {label: "Honoree is dressed in the king's robe and paraded through the city on the king's horse with a herald", cluster: kingship}
+  villain-made-herald-of-rival: {label: "The villain himself must lead his rival's horse and proclaim his honor", cluster: reversal}
+  head-covered-in-shame: {label: "A disgraced man goes home mourning with his head covered", cluster: mourning}
+  wise-men-foretell-fall-before-jew: {label: "The villain's wise men and wife foretell that he cannot prevail against one 'of the seed of the Jews'", cluster: prophecy}
+  sold-to-destruction-not-slavery: {label: "Queen protests that her people have been sold to destruction; had it been slavery she would have kept silent", cluster: heroes}
+  queen-reveals-identity: {label: "The queen reveals her hidden ethnic identity to the king to save her people", cluster: heroes}
+  king-storms-into-garden: {label: "The enraged king leaves the banquet for the palace garden and returns to a compromising scene", cluster: kingship}
+  falling-on-queens-couch-misread: {label: "Villain falls on the queen's couch pleading, and the king takes it as assault", cluster: reversal}
+  face-covered-condemned: {label: "The condemned man's face is covered at the king's word", cluster: punishment}
+  eunuch-points-to-gallows: {label: "A eunuch informs the king that the villain's gallows stands ready", cluster: reversal}
+  villain-hanged-on-own-gallows: {label: "The villain is hanged on the very gallows he prepared for the hero", cluster: reversal}
+  enemy-estate-given-to-victim: {label: "The condemned enemy's household is given to the intended victim", cluster: reversal}
+  signet-ring-transferred: {label: "The king takes back his signet ring from the fallen vizier and gives it to the hero", cluster: kingship}
+  royal-decree-cannot-be-revoked: {label: "A decree written in the king's name and sealed with his ring cannot be revoked", cluster: law}
+  counter-decree: {label: "Since the first decree cannot be revoked, a second edict permits the threatened people to defend themselves", cluster: law}
+  edict-in-every-script-and-language: {label: "Royal letters sent to every province in its own script and every people in its own language", cluster: kingship}
+  empire-127-provinces-india-to-cush: {label: "An empire of 127 provinces from India to Cush", cluster: kingship}
+  royal-couriers-on-steeds: {label: "Mounted royal couriers on swift royal steeds carry the edict in haste", cluster: kingship}
+  hero-in-royal-blue-and-white: {label: "The hero goes out in royal blue and white with a great gold crown and a purple linen mantle", cluster: kingship}
+  light-and-gladness-for-jews: {label: "'The Jews had light and gladness, joy and honor'", cluster: festival}
+  mass-conversion-from-fear: {label: "Many of the peoples of the land become Jews (mityahadim) because fear of the Jews fell on them", cluster: conversion}
+  fear-falls-on-peoples: {label: "Dread of the protagonists 'falls upon' all peoples so none can stand against them", cluster: warfare}
+  venahafokh-hu-reversal: {label: "'It was turned about' (venahafokh hu): the day meant for the Jews' destruction becomes their victory", cluster: reversal}
+  ten-sons-of-villain-killed: {label: "The villain's ten named sons are killed and then hanged", cluster: punishment}
+  did-not-touch-the-plunder: {label: "The victors explicitly refrain from taking plunder", cluster: warfare}
+  second-day-of-fighting-in-capital: {label: "The queen requests a second day of reprisal in the capital", cluster: warfare}
+  purim-festival-founded: {label: "Annual festival of Purim (14th/15th of Adar) instituted with feasting, joy, portions to friends and gifts to the poor", cluster: festival}
+  purim-named-from-lot: {label: "The festival is named Purim after the 'pur', the lot cast by the villain", cluster: etiology}
+  lot-cast-to-fix-day-of-destruction: {label: "The villain casts the pur (lot) to choose the date of the massacre", cluster: divination}
+  walled-and-unwalled-towns-different-day: {label: "Villagers of unwalled towns keep the festival on a different day from the capital", cluster: festival}
+  festival-by-letter-of-leaders: {label: "A festival is established by letters of a lay leader and a queen, not by a prophet or priest", cluster: festival}
+  festival-binding-on-proselytes: {label: "The festival binds the Jews, their descendants and all who join them", cluster: conversion}
+  sorrow-turned-to-joy-month: {label: "The month 'turned from sorrow to gladness and from mourning to a holiday'", cluster: festival}
+  plot-returns-on-plotters-head: {label: "The evil plan devised against others returns upon the plotter's own head", cluster: reversal}
+  jewish-vizier-second-to-king: {label: "A Jew becomes second to the foreign king, great among his people, seeking their good", cluster: kingship}
+  tribute-on-islands-of-sea: {label: "The king imposes tribute on the land and the islands of the sea", cluster: kingship}
+  chronicles-of-media-and-persia-cited: {label: "Citation of the 'book of the chronicles of the kings of Media and Persia'", cluster: sources}
+  god-unnamed-in-book: {label: "Deliverance narrated without any explicit mention of God", cluster: providence}
+  # --- Job 1-7 ---
+  righteous-gentile-of-uz: {label: "The exemplary righteous man is a non-Israelite living in the land of Uz in the east", cluster: wisdom}
+  seven-sons-three-daughters: {label: "A blessed man has seven sons and three daughters", cluster: family}
+  wealth-counted-in-herds: {label: "A patriarch's wealth is listed in precise numbers of sheep, camels, oxen and asses", cluster: wisdom}
+  greatest-of-the-easterners: {label: "The hero is the greatest of all the 'sons of the east' (bnei qedem)", cluster: wisdom}
+  children-feast-in-rotation: {label: "Grown sons hold feasts in turn, each on his day, and invite their sisters", cluster: family}
+  sacrifice-for-childrens-secret-sins: {label: "Father offers burnt offerings in case his children 'blessed' (cursed) God in their hearts", cluster: cult}
+  divine-council-assembles: {label: "The sons of God present themselves before YHWH in a heavenly assembly", cluster: cosmology}
+  satan-as-heavenly-accuser: {label: "The Satan (the adversary) appears in the heavenly court as an accusing member", cluster: demonology}
+  roaming-the-earth-report: {label: "A heavenly being reports he has been roaming to and fro on the earth", cluster: demonology}
+  god-boasts-of-his-servant: {label: "God points out his servant as unmatched on earth for piety", cluster: wisdom}
+  piety-for-nothing-question: {label: "'Does he fear God for nothing?': piety suspected of being motivated by reward", cluster: wisdom}
+  divine-hedge-around-righteous: {label: "God has set a protective hedge around the righteous man, his house and goods", cluster: providence}
+  heavenly-wager-tests-righteous: {label: "God permits the adversary to afflict a righteous man, within set limits, to test his loyalty", cluster: wisdom}
+  messengers-of-calamity-in-succession: {label: "Messenger after messenger arrives while the last is still speaking, each the sole survivor of a disaster", cluster: wisdom}
+  only-i-escaped-to-tell: {label: "'I alone escaped to tell you'", cluster: wisdom}
+  fire-of-god-falls-from-sky: {label: "'Fire of God' falls from heaven and consumes flocks and servants", cluster: theophany}
+  desert-wind-collapses-house-on-children: {label: "A great wind from the desert strikes the four corners of the house and it falls on the feasting children", cluster: wisdom}
+  shaves-head-in-mourning: {label: "Mourner shaves his head and falls to the ground", cluster: mourning}
+  naked-from-womb-naked-return: {label: "'Naked I came from my mother's womb and naked I shall return there'", cluster: wisdom}
+  lord-gave-lord-has-taken: {label: "'YHWH gave and YHWH has taken; blessed be the name of YHWH'", cluster: wisdom}
+  skin-for-skin: {label: "Adversary's proverb 'skin for skin': a man gives all he has for his life", cluster: wisdom}
+  boils-sole-to-crown: {label: "The sufferer is struck with sore boils from the sole of his foot to the crown of his head", cluster: disease}
+  potsherd-scraping-in-ashes: {label: "The sufferer sits among the ashes scraping himself with a potsherd", cluster: disease}
+  wife-urges-curse-god-and-die: {label: "The sufferer's wife urges him 'Curse God and die'", cluster: wisdom}
+  accept-evil-as-well-as-good: {label: "'Shall we accept the good from God and not accept the evil?'", cluster: wisdom}
+  bless-as-euphemism-for-curse: {label: "The verb 'bless' (barekh) used as a scribal euphemism for cursing God", cluster: language}
+  three-friends-come-to-console: {label: "Three friends from distant places arrange to come together to console the sufferer", cluster: wisdom}
+  sufferer-unrecognizable: {label: "Friends see the sufferer from afar and do not recognize him", cluster: disease}
+  dust-thrown-toward-heaven: {label: "Mourners throw dust on their heads toward the sky", cluster: mourning}
+  seven-days-silent-comforters: {label: "Comforters sit on the ground with the sufferer seven days and nights without speaking", cluster: mourning}
+  curse-on-day-of-birth: {label: "The sufferer curses the day of his birth and the night of his conception", cluster: lament}
+  night-announces-conception: {label: "The night personified as announcing 'a man-child is conceived'", cluster: lament}
+  day-cursers-rouse-leviathan: {label: "Professional cursers of the day, who are ready to rouse Leviathan, are invoked to curse a day", cluster: magic}
+  eyelids-of-dawn: {label: "The dawn imaged as having eyelids", cluster: cosmology}
+  wish-for-stillbirth: {label: "Sufferer wishes he had died in the womb or been a hidden stillborn", cluster: lament}
+  death-as-rest-and-equalizer: {label: "In death kings, princes, prisoners and slaves rest together, small and great alike, the slave free of his master", cluster: afterlife}
+  longing-for-death-as-treasure: {label: "The bitter long for death and dig for it more than for hidden treasure", cluster: lament}
+  what-i-feared-has-come: {label: "'The thing I greatly feared has come upon me'", cluster: lament}
+  god-fences-man-in: {label: "God hedges a man in so his way is hidden (inverted image of the protective hedge)", cluster: lament}
+  retribution-no-innocent-perished: {label: "Friend's doctrine: no innocent man ever perished; those who plow iniquity reap it", cluster: wisdom}
+  lions-teeth-broken: {label: "The roaring lion's teeth are broken and its cubs scattered (image of the wicked's end)", cluster: wisdom}
+  night-vision-spirit-hair-bristles: {label: "In a night vision a spirit glides past the seer's face and his hair bristles with terror", cluster: revelation}
+  silence-and-a-voice: {label: "Revelation comes as 'a silence, and a voice' (demamah vaqol)", cluster: revelation}
+  mortal-cannot-be-righteous-before-god: {label: "'Can a mortal be righteous before God, a man pure before his maker?'", cluster: wisdom}
+  god-charges-angels-with-error: {label: "God puts no trust in his servants and charges his angels with folly", cluster: angelology}
+  humans-in-houses-of-clay: {label: "Humans are dwellers in houses of clay founded in dust, crushed like a moth", cluster: anthropology}
+  appeal-to-holy-ones: {label: "'To which of the holy ones will you turn?': appeal to heavenly intercessors", cluster: angelology}
+  sons-of-resheph: {label: "The 'sons of Resheph' (sparks, or the plague god's brood) fly upward", cluster: mythology}
+  man-born-to-trouble: {label: "'Man is born to trouble' (as sparks fly upward)", cluster: wisdom}
+  god-catches-wise-in-craftiness: {label: "God catches the wise in their own craftiness", cluster: wisdom}
+  happy-is-man-whom-god-reproves: {label: "Suffering as divine discipline: happy the man whom God reproves", cluster: wisdom}
+  god-wounds-and-heals: {label: "God wounds and binds up, strikes and his hands heal", cluster: theology}
+  numerical-saying-six-seven: {label: "Graded numerical saying: 'in six troubles... in seven'", cluster: wisdom}
+  covenant-with-stones-and-beasts: {label: "The righteous will have a covenant with the stones of the field and peace with wild beasts", cluster: wisdom}
+  ripe-old-age-like-sheaf: {label: "The righteous come to the grave in ripe age like a sheaf gathered in its season", cluster: wisdom}
+  grief-weighed-in-scales: {label: "Sufferer wishes his anguish weighed in scales: it would outweigh the sand of the seas", cluster: lament}
+  poisoned-arrows-of-shaddai: {label: "The arrows of Shaddai are in me; my spirit drinks their poison", cluster: lament}
+  animal-cry-proverb: {label: "Proverb: does a wild ass bray over grass or an ox low over its fodder?", cluster: wisdom}
+  wish-god-would-crush-me: {label: "Sufferer prays that God would let loose his hand and cut him off", cluster: lament}
+  flesh-not-bronze: {label: "'Is my strength that of stones, or my flesh bronze?'", cluster: lament}
+  treacherous-friends-as-dry-wadi: {label: "Faithless friends are like a wadi that swells with ice and snow but vanishes in heat, disappointing caravans of Tema and Sheba", cluster: friendship}
+  life-as-hard-service: {label: "Human life on earth is hard service (tsava), its days like those of a hired laborer", cluster: anthropology}
+  flesh-clothed-with-worms: {label: "The sufferer's flesh is clothed with worms and clods of dust; his skin cracks and festers", cluster: disease}
+  days-swifter-than-shuttle: {label: "Life's days are swifter than a weaver's shuttle", cluster: transience}
+  no-return-from-sheol: {label: "Like a vanishing cloud, whoever goes down to Sheol does not come up; his place knows him no more", cluster: afterlife}
+  sea-and-dragon-under-guard: {label: "'Am I Sea, or the Dragon (tannin), that you set a guard over me?'", cluster: cosmology}
+  terrifying-dreams-from-god: {label: "God terrifies the sufferer with dreams and visions at night", cluster: revelation}
+  what-is-man-inverted: {label: "'What is man that you make so much of him?' turned into a complaint against divine scrutiny (cf. Ps 8)", cluster: anthropology}
+  watcher-of-humans: {label: "God called 'watcher of humankind' (notser ha'adam) who targets the sufferer", cluster: theology}
+  you-will-seek-me-and-i-am-gone: {label: "Sufferer says God will seek him in the morning and he will be no more", cluster: lament}
+  # --- Job 8-11 ---
+  does-god-pervert-justice: {label: "'Does God pervert justice, does Shaddai pervert right?'", cluster: wisdom}
+  children-died-for-own-sins: {label: "The friend argues the sufferer's children died because of their own transgression", cluster: wisdom}
+  small-beginning-great-end: {label: "'Your beginning was small, but your latter end will greatly increase'", cluster: wisdom}
+  ask-the-former-generations: {label: "Appeal to the wisdom of former generations, since 'we are but of yesterday'", cluster: wisdom}
+  days-as-shadow: {label: "Human days on earth are a shadow", cluster: transience}
+  papyrus-without-water: {label: "The godless are like papyrus or reed that withers without marsh water", cluster: wisdom}
+  trust-like-spiders-web: {label: "The trust of the godless is a spider's house that will not stand", cluster: wisdom}
+  how-can-man-be-just-with-god: {label: "'How can a man be in the right with God? He could not answer one in a thousand'", cluster: wisdom}
+  god-overturns-mountains-shakes-earth: {label: "God moves mountains in anger and shakes the earth so its pillars tremble", cluster: cosmology}
+  god-seals-up-sun-and-stars: {label: "God commands the sun not to rise and seals up the stars", cluster: cosmology}
+  god-alone-stretches-heavens: {label: "God alone stretches out the heavens", cluster: creation}
+  god-treads-on-back-of-sea: {label: "God treads on the back (bamot) of Sea", cluster: cosmology}
+  constellations-ash-kesil-kimah: {label: "God made the constellations Ash (Bear?), Kesil (Orion) and Kimah (Pleiades) and the chambers of the south", cluster: astronomy}
+  god-passes-by-unseen: {label: "God passes by the speaker and he does not see him", cluster: theophany}
+  helpers-of-rahab-bowed: {label: "The helpers of Rahab bow beneath God's wrath", cluster: cosmology}
+  god-as-unanswerable-litigant: {label: "Sufferer imagines suing God but knows God's might would silence or condemn him", cluster: wisdom}
+  god-destroys-blameless-and-wicked: {label: "'He destroys both the blameless and the wicked'; God mocks the calamity of the innocent", cluster: theodicy}
+  earth-given-to-wicked-judges-blindfolded: {label: "The earth is given into the hand of the wicked; God covers the faces of its judges", cluster: theodicy}
+  days-swifter-than-runner-reed-ships-eagle: {label: "Life's days flee faster than a runner, reed boats, or a swooping eagle", cluster: transience}
+  washing-in-snow-plunged-in-pit: {label: "Even if washed in snow and lye, God would plunge him into the pit so his clothes abhor him", cluster: theodicy}
+  no-arbiter-between-man-and-god: {label: "Lament that there is no umpire (mokhiach) to lay his hand on both God and man", cluster: mediator}
+  god-as-hostile-craftsman-of-body: {label: "The sufferer reminds God that God's hands shaped him yet now destroy him", cluster: creation}
+  embryo-curdled-like-cheese: {label: "God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews", cluster: anthropology}
+  god-has-eyes-of-flesh-question: {label: "'Have you eyes of flesh? Are your days like a mortal's days?'", cluster: theology}
+  god-hunts-like-lion: {label: "God hunts the sufferer like a lion", cluster: lament}
+  land-of-darkness-and-chaos: {label: "The underworld as a land of darkness and deep shadow, without order, where light is like darkness", cluster: afterlife}
+  mystery-of-wisdom-double: {label: "Secrets of wisdom are 'double' (manifold); God's depth cannot be found", cluster: wisdom}
+  higher-than-heaven-deeper-than-sheol: {label: "God's extent is higher than heaven, deeper than Sheol, longer than earth, broader than sea", cluster: cosmology}
+  wild-ass-born-a-man: {label: "Proverb: a hollow man will get understanding when a wild ass's colt is born a man", cluster: wisdom}
+  spread-hands-in-prayer: {label: "The petitioner spreads out his palms toward God", cluster: prayer}
+  # --- Job 12-15 ---
+  wisdom-will-die-with-you: {label: "Sarcasm: 'No doubt you are the people, and wisdom will die with you'", cluster: wisdom}
+  righteous-a-laughingstock: {label: "The just and blameless man has become a laughingstock to his friends", cluster: lament}
+  ask-the-beasts-they-will-teach: {label: "Ask the beasts, birds, earth and fish and they will teach you that God's hand made this", cluster: wisdom}
+  breath-of-all-flesh-in-gods-hand: {label: "In God's hand is the life of every living thing and the breath of all humankind", cluster: theology}
+  ear-tests-words-as-palate-tastes: {label: "'Does not the ear test words as the palate tastes food?'", cluster: wisdom}
+  wisdom-with-the-aged: {label: "Wisdom is with the aged and understanding in length of days", cluster: wisdom}
+  god-withholds-and-releases-waters: {label: "God withholds the waters and they dry up, sends them out and they overturn the earth", cluster: cosmology}
+  god-humbles-counselors-kings-priests: {label: "God leads counselors, judges, kings and priests away stripped and makes fools of them", cluster: theology}
+  god-reveals-deep-things-from-darkness: {label: "God uncovers deep things out of darkness and brings deep shadow to light", cluster: revelation}
+  god-raises-and-destroys-nations: {label: "God makes nations great and destroys them, enlarges and disperses them", cluster: theology}
+  leaders-wander-in-tohu: {label: "God takes away the reason of leaders and makes them wander in a trackless waste (tohu), groping like drunkards", cluster: theology}
+  friends-as-worthless-physicians: {label: "The friends are plasterers of lies and worthless physicians", cluster: friendship}
+  silence-would-be-wisdom: {label: "'If only you would keep silent; that would be your wisdom'", cluster: wisdom}
+  lying-for-god-rebuked: {label: "Will you speak falsely for God and show him partiality?", cluster: theodicy}
+  proverbs-of-ashes: {label: "The friends' maxims are proverbs of ashes, defenses of clay", cluster: wisdom}
+  life-in-my-hand: {label: "'I take my flesh in my teeth and my life in my hand'", cluster: heroes}
+  though-he-slay-me: {label: "'Though he slay me, I will hope in him' (qere) / 'I have no hope' (ketiv)", cluster: faith}
+  legal-case-prepared-against-god: {label: "The sufferer has prepared his case (arakhti mishpat) and knows he will be vindicated", cluster: wisdom}
+  two-conditions-for-the-trial: {label: "Sufferer asks God for two things: withdraw your hand and do not terrify me; then call and I will answer", cluster: wisdom}
+  god-hides-his-face: {label: "'Why do you hide your face and count me as your enemy?'", cluster: theology}
+  driven-leaf-dry-straw: {label: "Will you frighten a driven leaf and pursue dry straw?", cluster: lament}
+  sins-of-youth-written-bitter: {label: "God writes bitter things against him and makes him inherit the sins of his youth", cluster: theodicy}
+  feet-in-stocks: {label: "God puts the sufferer's feet in the stocks and marks the soles of his feet", cluster: lament}
+  moth-eaten-garment: {label: "Man wastes away like rot, like a garment eaten by moths", cluster: transience}
+  born-of-woman-few-days: {label: "'Man born of woman is of few days and full of trouble'; he comes forth like a flower and withers", cluster: transience}
+  clean-from-unclean-impossible: {label: "'Who can bring a clean thing out of an unclean? Not one'", cluster: anthropology}
+  fixed-span-of-life: {label: "Man's days are determined; God has set limits he cannot pass", cluster: fate}
+  tree-has-hope-man-none: {label: "A felled tree sprouts again at the scent of water, but a man dies and does not rise", cluster: afterlife}
+  sleep-until-heavens-are-no-more: {label: "The dead will not wake until the heavens are no more", cluster: afterlife}
+  hide-me-in-sheol-until-wrath-passes: {label: "Sufferer wishes God would hide him in Sheol until his anger passes and then remember him", cluster: afterlife}
+  if-a-man-dies-will-he-live-again: {label: "'If a man dies, will he live again?': hope of a release (chalifah) after hard service", cluster: afterlife}
+  sins-sealed-in-a-bag: {label: "Transgressions sealed up in a bag (tseror) and iniquity plastered over", cluster: theodicy}
+  erosion-destroys-hope: {label: "As waters wear away stones and mountains crumble, so God destroys human hope", cluster: transience}
+  dead-unaware-of-childrens-fate: {label: "The dead man does not know whether his sons are honored or brought low", cluster: afterlife}
+  belly-filled-with-east-wind: {label: "Windy knowledge: filling one's belly with the east wind", cluster: wisdom}
+  first-man-born-before-hills: {label: "'Were you the first man born? Were you brought forth before the hills?' (primal man of wisdom)", cluster: mythology}
+  listening-in-council-of-god: {label: "'Have you listened in the council (sod) of God, and limited wisdom to yourself?'", cluster: cosmology}
+  heavens-not-clean-in-his-sight: {label: "God puts no trust in his holy ones, and the heavens are not clean in his sight", cluster: angelology}
+  drinks-iniquity-like-water: {label: "Man is abominable and corrupt, drinking iniquity like water", cluster: anthropology}
+  wisdom-of-uncontaminated-ancestors: {label: "Wisdom passed down from fathers to whom alone the land was given, with no stranger among them", cluster: wisdom}
+  wicked-writhes-in-terror: {label: "The wicked man writhes in pain all his days, with dreadful sounds in his ears", cluster: wisdom}
+  wicked-charges-god-with-shield: {label: "The wicked stretches his hand against God and charges at him with a thick-bossed shield", cluster: theomachy}
+  fat-covered-face: {label: "The wicked man's face is covered with fat and his loins with blubber", cluster: wisdom}
+  vine-sheds-unripe-grapes: {label: "The wicked are like a vine shedding unripe grapes and an olive casting its blossoms", cluster: wisdom}
+  conceive-mischief-bring-forth-evil: {label: "They conceive trouble and bring forth iniquity; their womb prepares deceit", cluster: wisdom}
+  # --- Job 16-19 ---
+  miserable-comforters: {label: "'Miserable comforters (menachamei amal) are you all'", cluster: friendship}
+  god-as-savage-beast-gnashing: {label: "God tears the sufferer in his wrath, gnashes his teeth and sharpens his eyes against him", cluster: lament}
+  god-hands-over-to-wicked: {label: "God hands the sufferer over to the ungodly and the wicked", cluster: theodicy}
+  set-up-as-gods-target: {label: "God seizes the sufferer by the neck, shatters him and sets him up as his target for archers", cluster: lament}
+  horn-in-the-dust: {label: "The mourner sews sackcloth on his skin and lays his horn in the dust", cluster: mourning}
+  earth-do-not-cover-my-blood: {label: "'O earth, cover not my blood; let my cry find no resting place'", cluster: blood}
+  witness-in-heaven: {label: "'Even now my witness is in heaven, my advocate on high' who will argue for man with God", cluster: mediator}
+  path-of-no-return: {label: "The dying man goes the way from which he will not return", cluster: afterlife}
+  god-as-surety-for-sufferer: {label: "Sufferer asks God himself to stand surety (pledge) for him with God", cluster: mediator}
+  byword-of-peoples-spat-on: {label: "The sufferer is made a byword (mashal) of peoples, one in whose face they spit (tofet)", cluster: lament}
+  sheol-as-home-pit-as-father-worm-as-mother: {label: "Sufferer calls the Pit 'my father' and the worm 'my mother and sister', making his bed in Sheol's darkness", cluster: afterlife}
+  hope-descends-to-sheol: {label: "Will hope go down to the bars of Sheol, to rest together in the dust?", cluster: afterlife}
+  lamp-of-wicked-put-out: {label: "The light of the wicked is put out and the lamp in his tent goes dark", cluster: wisdom}
+  wicked-caught-in-traps-and-snares: {label: "The wicked man walks into nets, gins, snares and hidden ropes", cluster: wisdom}
+  firstborn-of-death: {label: "'The firstborn of Death' (bekhor mavet) devours the wicked man's limbs", cluster: mythology}
+  king-of-terrors: {label: "The wicked is marched to 'the king of terrors' (melekh ballahot)", cluster: mythology}
+  brimstone-scattered-on-dwelling: {label: "Brimstone is scattered over the wicked man's habitation", cluster: wisdom}
+  memory-and-name-perish: {label: "The wicked man's memory perishes from the earth; he has no name, offspring or survivor", cluster: wisdom}
+  ten-times-insulted: {label: "'These ten times you have reproached me'", cluster: friendship}
+  god-has-wronged-me: {label: "'Know then that God has wronged me and closed his net about me'", cluster: theodicy}
+  cry-violence-no-answer: {label: "'I cry out Violence! but I am not answered'", cluster: theodicy}
+  crown-stripped-from-head: {label: "God has stripped the sufferer of his glory and taken the crown from his head", cluster: lament}
+  gods-troops-besiege-tent: {label: "God's troops come together, cast up siegeworks and encamp around the sufferer's tent", cluster: lament}
+  abandoned-by-kin-and-servants: {label: "Brothers, kin, guests, maidservants and servants all estrange themselves from the sufferer; his breath is strange to his wife", cluster: lament}
+  mocked-by-children: {label: "Even young children despise the sufferer and speak against him", cluster: lament}
+  escaped-by-skin-of-teeth: {label: "'I have escaped by the skin of my teeth'; bones cleave to skin", cluster: lament}
+  pity-me-my-friends: {label: "'Have pity on me, have pity on me, O my friends, for the hand of God has touched me'", cluster: lament}
+  words-inscribed-forever-in-rock: {label: "Wish that his words were written in a book, engraved with an iron pen and lead in the rock forever", cluster: writing}
+  my-redeemer-lives: {label: "'I know that my redeemer (go'el) lives, and at the last he will stand upon the dust'", cluster: mediator}
+  see-god-from-my-flesh: {label: "'After my skin is stripped off, from my flesh I shall see God' with my own eyes, not a stranger's", cluster: afterlife}
+  warning-of-sword-and-judgment: {label: "The sufferer warns his accusers to fear the sword, so they may know there is a judgment", cluster: wisdom}
+  # --- Job 20-23 ---
+  triumph-of-wicked-is-brief: {label: "The joy of the wicked is brief since humans were placed on earth", cluster: wisdom}
+  wicked-height-reaches-clouds-perishes-like-dung: {label: "Though the wicked man's height reaches heaven, he perishes forever like his own dung", cluster: wisdom}
+  vanishes-like-dream: {label: "The wicked flies away like a dream and is chased off like a vision of the night", cluster: transience}
+  evil-sweet-in-mouth-turns-to-venom: {label: "Evil held sweet under the tongue turns to the venom of asps in the belly", cluster: wisdom}
+  swallowed-wealth-vomited-up: {label: "The wicked man swallows riches and God makes him vomit them up", cluster: wisdom}
+  rivers-of-honey-and-curds: {label: "Streams and rivers flowing with honey and curds (denied to the wicked)", cluster: paradise}
+  god-rains-wrath-as-food: {label: "God sends his fury into the wicked man's belly and rains it upon him as his food", cluster: wisdom}
+  bronze-bow-arrow-through-gall: {label: "Fleeing an iron weapon, the wicked is pierced by a bronze bow; the glittering arrow comes out of his gall", cluster: wisdom}
+  unfanned-fire-devours: {label: "A fire not blown by man consumes the wicked", cluster: wisdom}
+  heaven-and-earth-testify-against-wicked: {label: "The heavens reveal the wicked man's iniquity and the earth rises against him", cluster: cosmology}
+  why-do-the-wicked-prosper: {label: "'Why do the wicked live, grow old and mighty?': prosperity of the wicked with children, safe houses and fertile cattle", cluster: theodicy}
+  hand-on-mouth-in-awe: {label: "'Lay your hand upon your mouth': gesture of appalled silence", cluster: gesture}
+  wicked-children-dance-to-lyre-and-pipe: {label: "The wicked men's children dance to tambourine, lyre and pipe", cluster: theodicy}
+  wicked-say-depart-from-us: {label: "The wicked say to God 'Depart from us; what is Shaddai that we should serve him?'", cluster: theodicy}
+  wicked-like-chaff-before-wind: {label: "The wicked are like straw before the wind and chaff the storm carries off", cluster: wisdom}
+  punishment-stored-for-children-rejected: {label: "Sufferer rejects the idea that God stores up the wicked man's punishment for his sons: let him feel it himself", cluster: theodicy}
+  cup-of-wrath: {label: "The wicked should drink of the wrath (cup) of Shaddai", cluster: theodicy}
+  death-the-great-leveler: {label: "One dies in full prosperity, another in bitterness; both lie alike in the dust covered by worms", cluster: afterlife}
+  ask-the-travelers: {label: "'Have you not asked those who travel the roads?': testimony of wayfarers", cluster: wisdom}
+  wicked-honored-at-burial: {label: "The wicked man is borne in honor to the grave and a watch is kept over his tomb; the clods are sweet to him", cluster: theodicy}
+  human-righteousness-no-gain-to-god: {label: "'Can a man be of use to God? Is it gain to Shaddai if you are righteous?'", cluster: theology}
+  catalogue-of-social-crimes: {label: "Accusation of oppressing the poor: taking pledges, stripping the naked, denying water and bread, sending widows away empty", cluster: ethics}
+  god-in-height-of-heavens-behind-clouds: {label: "God is in the height of heaven above the stars; the wicked think thick clouds hide him as he walks the vault (chug) of heaven", cluster: cosmology}
+  path-of-the-ancient-wicked-swept-away: {label: "The old way trodden by wicked men, snatched away before their time, their foundation poured out as a river (flood generation)", cluster: flood}
+  receive-torah-from-his-mouth: {label: "'Receive instruction (torah) from his mouth and lay up his words in your heart'", cluster: wisdom}
+  gold-of-ophir-in-dust: {label: "Lay your gold in the dust and Ophir gold among the stones of the wadi; Shaddai will be your gold", cluster: wisdom}
+  decree-and-it-shall-be: {label: "The penitent righteous will decree a thing and it will be established for him", cluster: wisdom}
+  innocent-saves-the-guilty: {label: "God delivers even the not-innocent through the cleanness of the righteous one's hands", cluster: intercession}
+  if-only-i-knew-where-to-find-him: {label: "'Oh that I knew where I might find him, that I might come to his seat' and argue my case", cluster: theodicy}
+  god-absent-in-all-directions: {label: "Going east, west, north and south, the seeker cannot find God", cluster: theodicy}
+  tested-like-gold: {label: "'When he has tried me, I shall come out as gold'", cluster: wisdom}
+  treasured-his-words: {label: "The righteous has treasured God's words more than his daily bread", cluster: piety}
+  god-is-one-who-can-turn-him: {label: "'He is one (be'echad); who can turn him? What he desires, that he does'", cluster: theology}
+  # --- Job 24-27 ---
+  why-no-times-of-judgment-kept: {label: "'Why are times (of judgment) not stored up by Shaddai, and why do those who know him not see his days?'", cluster: theodicy}
+  poor-like-wild-asses-in-desert: {label: "The dispossessed poor go out like wild asses in the desert foraging, gleaning the wicked man's vineyard", cluster: ethics}
+  naked-poor-hug-the-rock: {label: "The poor sleep naked without cover in the cold and hug the rock for shelter from mountain rain", cluster: ethics}
+  hungry-carry-sheaves-thirsty-tread-wine: {label: "Workers carry sheaves while hungry and tread winepresses while thirsty", cluster: ethics}
+  groans-of-dying-unheeded-by-god: {label: "From the city the dying groan and the wounded cry out, yet God pays no heed to the wrong", cluster: theodicy}
+  rebels-against-light: {label: "Murderer, adulterer and burglar are 'rebels against the light' who love darkness and fear dawn as deep shadow", cluster: ethics}
+  adulterer-disguises-face-at-twilight: {label: "The adulterer waits for twilight and disguises his face, saying 'no eye will see me'", cluster: ethics}
+  sheol-snatches-sinners-as-heat-snow: {label: "As drought and heat snatch snow-water, so Sheol snatches those who have sinned", cluster: afterlife}
+  womb-forgets-the-wicked: {label: "The womb forgets him; the worm finds him sweet; wickedness is broken like a tree", cluster: afterlife}
+  cut-off-like-heads-of-grain: {label: "The wicked are exalted a little, then gone, cut off like the heads of grain", cluster: transience}
+  god-makes-peace-in-his-heights: {label: "Dominion and fear are with God, who makes peace in his high places (among the heavenly hosts)", cluster: cosmology}
+  innumerable-heavenly-troops: {label: "'Is there any number to his troops?' (heavenly armies)", cluster: angelology}
+  moon-and-stars-not-pure: {label: "Even the moon is not bright and the stars are not pure in God's sight", cluster: cosmology}
+  man-a-maggot-worm: {label: "Man is a maggot, the son of man a worm", cluster: anthropology}
+  rephaim-tremble-beneath-waters: {label: "The shades (Rephaim) tremble beneath the waters and their inhabitants", cluster: afterlife}
+  sheol-naked-before-god-abaddon: {label: "Sheol is naked before God and Abaddon has no covering", cluster: afterlife}
+  north-stretched-over-void: {label: "God stretches out Zaphon (the north) over the void (tohu)", cluster: cosmology}
+  earth-hung-upon-nothing: {label: "God hangs the earth upon nothing (beli-mah)", cluster: cosmology}
+  waters-bound-in-clouds: {label: "God binds up the waters in his thick clouds and the cloud does not burst under them", cluster: cosmology}
+  throne-veiled-by-cloud: {label: "God veils the face of his throne, spreading his cloud over it", cluster: theophany}
+  circle-on-waters-boundary-light-darkness: {label: "God has inscribed a circle on the face of the waters at the boundary between light and darkness", cluster: cosmology}
+  pillars-of-heaven-tremble-at-rebuke: {label: "The pillars of heaven tremble and are astounded at God's rebuke", cluster: cosmology}
+  god-stills-sea-smites-rahab: {label: "By his power God stilled (or stirred) the Sea and by his understanding smote Rahab", cluster: cosmology}
+  wind-clears-heavens: {label: "By his wind (breath) the heavens are made fair", cluster: cosmology}
+  hand-pierced-fleeing-serpent: {label: "God's hand pierced the fleeing serpent (nachash bariach)", cluster: cosmology}
+  fringes-of-his-ways: {label: "These are but the fringes of his ways, a whisper of a word; who can understand the thunder of his power?", cluster: theology}
+  oath-by-god-who-wronged-me: {label: "The sufferer swears 'As God lives, who has taken away my right'", cluster: oath}
+  maintains-integrity-till-death: {label: "'Until I die I will not put away my integrity from me'; holding fast to righteousness", cluster: wisdom}
+  wicked-heaps-silver-righteous-wears-it: {label: "The wicked heaps up silver like dust and clothing like clay, but the righteous will wear it and the innocent divide the silver", cluster: wisdom}
+  house-like-moth-or-watchmans-booth: {label: "The wicked man builds his house like a moth's (cocoon) or a watchman's booth", cluster: transience}
+  east-wind-carries-wicked-away: {label: "The east wind lifts the wicked man and sweeps him from his place; men clap their hands and hiss at him", cluster: wisdom}
+  widows-do-not-weep: {label: "The wicked man's widows do not weep for him", cluster: mourning}
+  # --- Job 28-30 ---
+  miners-tunnel-under-earth: {label: "Miners sink shafts far from habitation, dangle on ropes, and search out ore in darkness to the farthest bound", cluster: technology}
+  earth-above-bread-below-fire: {label: "From the earth comes bread, but beneath it is turned up as by fire", cluster: cosmology}
+  path-unknown-to-birds-of-prey: {label: "A hidden path no falcon knows, no kite's eye has seen, no proud beast or lion has trodden", cluster: wisdom}
+  where-is-wisdom-found: {label: "'But where shall wisdom be found, and where is the place of understanding?' (refrain)", cluster: wisdom}
+  deep-and-sea-say-not-in-me: {label: "The Deep (tehom) says 'It is not in me' and the Sea says 'It is not with me'", cluster: cosmology}
+  wisdom-beyond-price-of-gems: {label: "Wisdom cannot be bought with gold of Ophir, onyx, sapphire, glass, coral, crystal, pearls or topaz of Cush", cluster: wisdom}
+  abaddon-and-death-heard-rumor: {label: "Abaddon and Death say 'We have heard a rumor of it with our ears'", cluster: afterlife}
+  god-alone-knows-way-of-wisdom: {label: "Only God understands the way to wisdom; he saw and appraised it when he set weight for the wind and measure for the waters", cluster: wisdom}
+  weight-of-wind-measure-of-waters: {label: "At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt", cluster: creation}
+  fear-of-lord-is-wisdom: {label: "'The fear of the Lord, that is wisdom; and to depart from evil is understanding'", cluster: wisdom}
+  longing-for-former-days: {label: "The sufferer longs for the months of old when God watched over him and his lamp shone on his head", cluster: lament}
+  council-of-god-over-tent: {label: "In his prime the friendship (sod) of God was over his tent and his children were around him", cluster: piety}
+  feet-washed-in-cream-rock-pours-oil: {label: "In prosperity his steps were washed in curds and the rock poured out streams of oil for him", cluster: paradise}
+  elder-honored-at-city-gate: {label: "When he took his seat in the city square the young hid, the aged rose, princes fell silent with hand on mouth", cluster: wisdom}
+  clothed-in-righteousness-as-robe: {label: "'I put on righteousness and it clothed me; my justice was a robe and a turban'", cluster: ethics}
+  eyes-to-blind-feet-to-lame: {label: "'I was eyes to the blind and feet to the lame, a father to the poor'", cluster: ethics}
+  broke-the-fangs-of-wicked: {label: "The righteous man broke the jaws of the wicked and snatched the prey from his teeth", cluster: ethics}
+  die-in-my-nest-multiply-days-like-chol: {label: "'I shall die with my nest and multiply my days like the chol' (sand, or the phoenix)", cluster: mythology}
+  root-spread-to-waters-dew-on-branches: {label: "The prosperous man's root spreads to the waters and dew lies all night on his branches", cluster: wisdom}
+  bow-renewed-in-hand: {label: "His glory fresh and his bow ever renewed in his hand", cluster: wisdom}
+  words-awaited-like-rain: {label: "Hearers waited for his words as for rain and opened their mouths as for the spring rain", cluster: wisdom}
+  sat-as-chief-like-king-among-troops: {label: "He sat as chief and dwelt like a king among his troops, as one who comforts mourners", cluster: kingship}
+  mocked-by-sons-of-outcasts: {label: "Now he is mocked by younger men whose fathers he would not have set with his sheepdogs", cluster: lament}
+  outcast-desert-people-eat-roots: {label: "Outcasts driven from society gnaw the dry ground, eat saltwort and broom roots, live in gullies and caves and bray among the bushes", cluster: ethnography}
+  sons-of-no-name: {label: "'Sons of fools, sons of no name', whipped out of the land", cluster: ethnography}
+  song-and-byword-of-rabble: {label: "The sufferer has become their taunt-song and byword; they spit in his face", cluster: lament}
+  terrors-turned-on-me: {label: "Terrors are turned on him; his dignity is chased away like the wind and his safety passes like a cloud", cluster: lament}
+  gnawing-pains-at-night: {label: "At night his bones are pierced and his gnawing pains take no rest", cluster: disease}
+  thrown-in-the-mire: {label: "God has cast him into the mire and he has become like dust and ashes", cluster: lament}
+  god-turned-cruel: {label: "'You have turned cruel to me; with the might of your hand you persecute me'", cluster: theodicy}
+  tossed-on-the-wind: {label: "God lifts the sufferer up on the wind, makes him ride it and dissolves him in the storm", cluster: lament}
+  house-appointed-for-all-living: {label: "Death is 'the house appointed for all living'", cluster: afterlife}
+  hoped-for-good-evil-came: {label: "'I hoped for good and evil came; I waited for light and darkness came'", cluster: lament}
+  brother-to-jackals-companion-of-ostriches: {label: "'I am a brother to jackals and a companion to ostriches' (desert creatures of lament)", cluster: lament}
+  skin-turns-black: {label: "His skin turns black and falls from him, his bones burn with heat", cluster: disease}
+  lyre-turned-to-mourning: {label: "'My lyre is turned to mourning and my pipe to the voice of weepers'", cluster: mourning}
+  # --- Job 31-32 ---
+  oath-of-clearance-negative-confession: {label: "Protagonist clears himself with a series of conditional self-curses ('If I have done X, may Y befall me')", cluster: law}
+  covenant-with-eyes: {label: "'I made a covenant with my eyes; how then could I look upon a virgin?'", cluster: ethics}
+  weighed-in-just-balances: {label: "'Let God weigh me in just balances and know my integrity'", cluster: judgment}
+  another-shall-eat-what-i-sow: {label: "Self-curse: may I sow and another eat, and my offspring be uprooted", cluster: law}
+  wife-grinds-for-another: {label: "Self-curse for adultery: may my wife grind for another and others kneel over her", cluster: law}
+  adultery-fire-consuming-to-abaddon: {label: "Adultery is a fire that consumes unto Abaddon and roots out all one's increase", cluster: ethics}
+  master-and-slave-made-in-same-womb: {label: "Master respects his slaves' lawsuits because the one who made him in the womb made them too", cluster: ethics}
+  did-not-eat-morsel-alone: {label: "The righteous did not eat his morsel alone without sharing with the orphan", cluster: ethics}
+  clothed-poor-with-fleece: {label: "The poor were warmed with the fleece of the righteous man's sheep and blessed him", cluster: ethics}
+  arm-fall-from-shoulder-curse: {label: "Self-curse: may my shoulder fall from its socket and my arm break from its bone", cluster: law}
+  no-trust-in-gold: {label: "Disavowal of making gold one's hope or rejoicing in great wealth", cluster: ethics}
+  sun-and-moon-worship-kissing-hand: {label: "Disavowal of secretly worshiping the shining sun and moon by kissing the hand to the mouth", cluster: idolatry}
+  no-rejoicing-at-enemys-ruin: {label: "The righteous did not rejoice at his enemy's ruin nor curse his life", cluster: ethics}
+  stranger-never-lodged-outside: {label: "'No stranger lodged in the street; I opened my doors to the traveler'", cluster: hospitality}
+  hiding-sins-like-adam: {label: "Disavowal of concealing transgressions 'like Adam' (or like men), hiding iniquity in one's bosom", cluster: primeval}
+  signature-tav-demand-for-hearing: {label: "'Here is my mark (tav); let Shaddai answer me': the litigant signs his deposition", cluster: law}
+  indictment-worn-as-crown: {label: "The sufferer would wear his adversary's written indictment on his shoulder and bind it on as a crown", cluster: law}
+  land-cries-out-furrows-weep: {label: "Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered owners", cluster: law}
+  thorns-instead-of-wheat: {label: "Self-curse: let thorns grow instead of wheat and stinkweed instead of barley", cluster: law}
+  colophon-words-ended: {label: "Editorial colophon: 'The words of Job are ended'", cluster: sources}
+  young-interlocutor-angry: {label: "A young bystander, angry at both the sufferer and his elders, breaks in after waiting out of deference", cluster: wisdom}
+  elihu-buzite-of-ram: {label: "Elihu son of Barachel the Buzite, of the family of Ram, a fourth speaker unmentioned before", cluster: wisdom}
+  spirit-in-man-not-age-gives-wisdom: {label: "Understanding comes from the spirit in man, the breath of Shaddai, not from age", cluster: wisdom}
+  belly-like-bursting-wineskins: {label: "The speaker is full of words like unvented wine about to burst new wineskins", cluster: wisdom}
+  no-flattery-of-any-man: {label: "The speaker vows to show no partiality and to flatter no one, lest his maker take him away", cluster: ethics}
+  # --- Job 33-35 ---
+  spirit-of-god-made-me: {label: "'The spirit of God has made me, and the breath of Shaddai gives me life'", cluster: creation}
+  pinched-off-from-clay: {label: "The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay", cluster: creation}
+  god-speaks-once-twice-unheeded: {label: "God speaks once, even twice, but people do not perceive it", cluster: revelation}
+  warning-dreams-to-turn-from-pride: {label: "In dreams during deep sleep God opens people's ears and seals their warning, to turn them from pride and spare them from the Pit", cluster: revelation}
+  sickness-as-divine-warning: {label: "God chastens a man with pain on his bed until he loathes food and his bones stick out, as warning", cluster: disease}
+  near-to-the-destroyers: {label: "The sick man's soul draws near the Pit and his life to the 'destroyers' (memitim, angels of death)", cluster: angelology}
+  interceding-angel-one-in-thousand: {label: "An angel, an intercessor (malakh melits), one among a thousand, declares a man's uprightness and pleads for him", cluster: angelology}
+  ransom-found-from-the-pit: {label: "'Deliver him from going down to the Pit; I have found a ransom (kofer)'", cluster: redemption}
+  flesh-restored-like-childs: {label: "The restored man's flesh becomes fresher than a child's and he returns to the days of his youth", cluster: healing}
+  confession-before-men-after-healing: {label: "The healed man sings before men, 'I sinned and perverted what was right, and it was not requited to me'", cluster: piety}
+  god-acts-twice-three-times: {label: "God does all these things two or three times with a man, to bring him back from the Pit to the light of life", cluster: providence}
+  far-be-it-from-god-to-do-wrong: {label: "'Far be it from God to do wickedness, from Shaddai to do wrong'; he repays a man according to his deeds", cluster: theodicy}
+  if-god-withdrew-his-breath-all-would-perish: {label: "If God gathered his spirit and breath to himself, all flesh would perish together and return to dust", cluster: creation}
+  god-impartial-to-princes-and-poor: {label: "God shows no partiality to princes, nor regards the rich above the poor, for all are the work of his hands", cluster: theology}
+  mighty-die-at-midnight: {label: "In a moment they die; at midnight people are shaken and pass away, the mighty removed without a hand", cluster: judgment}
+  no-darkness-hides-evildoers: {label: "There is no darkness or deep shadow where evildoers can hide from God", cluster: theology}
+  god-topples-mighty-without-inquiry: {label: "God shatters the mighty without inquiry and sets others in their place", cluster: theology}
+  godless-king-prevented: {label: "God keeps a godless man from ruling, that he not ensnare the people", cluster: kingship}
+  job-tested-to-the-end: {label: "Elihu wishes that Job be tried to the end for answering like wicked men", cluster: wisdom}
+  your-sin-does-not-touch-god: {label: "'If you sin, what do you do to him? If you are righteous, what do you give him?'", cluster: theology}
+  songs-in-the-night: {label: "God 'gives songs in the night'", cluster: piety}
+  taught-more-than-beasts-and-birds: {label: "God teaches us more than the beasts of the earth and makes us wiser than the birds of the heavens", cluster: anthropology}
+  empty-cry-unheard: {label: "The oppressed cry out but are not answered because of the pride of evil men; God does not hear an empty cry", cluster: theodicy}
+  words-without-knowledge: {label: "The sufferer is accused of multiplying words without knowledge", cluster: wisdom}
+units:
+  - id: hb-esth-4-mordecai-sackcloth-esther-resolve
+    tradition: judaism
+    title: Mordecai's mourning and Esther's resolve to approach the king
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 4:1-17"]
+    tags:
+      - {motif: rend-garments-grief, refs: ["Esth 4:1"]}
+      - {motif: sackcloth-and-ashes-mourning, refs: ["Esth 4:1", "Esth 4:3"], note: "'cried a loud and bitter cry' in the midst of the city"}
+      - {motif: sackcloth-barred-from-kings-gate, refs: ["Esth 4:2"]}
+      - {motif: communal-fast-for-deliverance, refs: ["Esth 4:3"], note: "fasting, weeping, wailing; sackcloth and ashes spread as a bed for many"}
+      - {motif: mourner-refuses-new-clothes, refs: ["Esth 4:4"]}
+      - {motif: unsummoned-entry-to-king-is-death, refs: ["Esth 4:11"], note: "Esther not summoned for thirty days"}
+      - {motif: deliverance-from-another-place, refs: ["Esth 4:14"], note: "mimaqom acher; rabbinic 'HaMaqom' = God"}
+      - {motif: who-knows-if-for-such-a-time, refs: ["Esth 4:14"]}
+      - {motif: three-day-fast-before-petition, refs: ["Esth 4:16"]}
+      - {motif: if-i-perish-i-perish, refs: ["Esth 4:16"]}
+      - {motif: god-unnamed-in-book, refs: ["Esth 4:14"], note: "even at the theological climax God is not named"}
+    hints:
+      - "Mordecai's silence-or-act speech is the hinge for LXX Additions C (prayers of Mordecai and Esther) which supply the missing God-language."
+      - "Esther's fast is the basis of Ta'anit Esther; compare Judith 8-9 (fast and prayer before entering the enemy camp)."
+  - id: hb-esth-5-first-banquet-and-gallows
+    tradition: judaism
+    title: Esther before the king; first banquet; Haman's gallows
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 5:1-14"]
+    tags:
+      - {motif: three-day-fast-before-petition, refs: ["Esth 5:1"], note: "'on the third day' she puts on royalty"}
+      - {motif: golden-scepter-extended-spares-life, refs: ["Esth 5:2"]}
+      - {motif: up-to-half-the-kingdom, refs: ["Esth 5:3", "Esth 5:6"]}
+      - {motif: petition-deferred-through-banquets, refs: ["Esth 5:4", "Esth 5:8"]}
+      - {motif: pride-before-fall-boast, refs: ["Esth 5:11", "Esth 5:12"], note: "boasts of wealth, many sons and being the queen's only invited guest"}
+      - {motif: villain-wife-counsels-gallows, refs: ["Esth 5:14"], note: "Zeresh and his friends"}
+      - {motif: gallows-fifty-cubits, refs: ["Esth 5:14"], note: "'ets gavoah chamishim ammah'"}
+    hints:
+      - "Up to half the kingdom: Herod's oath to Salome's mother's daughter in Mark 6:23."
+      - "Zeresh as wicked counselor wife: compare Jezebel (1 Kgs 21) and Job's wife (Job 2:9)."
+  - id: hb-esth-6-sleepless-king-honors-mordecai
+    tradition: judaism
+    title: The king's sleepless night and Mordecai's parade
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 6:1-14"]
+    tags:
+      - {motif: sleepless-king-reads-chronicles, refs: ["Esth 6:1", "Esth 6:2"], note: "sefer hazikhronot divrei hayamim"}
+      - {motif: unrewarded-savior-of-king, refs: ["Esth 6:2", "Esth 6:3"], note: "Bigthana and Teresh, keepers of the threshold"}
+      - {motif: villain-designs-own-rivals-honor, refs: ["Esth 6:6", "Esth 6:7", "Esth 6:8", "Esth 6:9"]}
+      - {motif: royal-robe-horse-and-crown-honor, refs: ["Esth 6:8", "Esth 6:9", "Esth 6:11"], note: "the horse 'on whose head a royal crown is set'"}
+      - {motif: villain-made-herald-of-rival, refs: ["Esth 6:10", "Esth 6:11"]}
+      - {motif: head-covered-in-shame, refs: ["Esth 6:12"]}
+      - {motif: wise-men-foretell-fall-before-jew, refs: ["Esth 6:13"]}
+      - {motif: investiture-ring-chariot, refs: ["Esth 6:8", "Esth 6:11"], note: "public investiture and procession with proclamation, cf. Joseph"}
+    hints:
+      - "Herodotus 3.140 and 8.85: Persian kings recorded benefactors (orosangai) in royal registers and rewarded them."
+      - "Rabbinic midrash (Megillah 16a) has Haman's daughter throw refuse on his head mistaking him for Mordecai."
+  - id: hb-esth-7-haman-exposed-and-hanged
+    tradition: judaism
+    title: Second banquet; Haman exposed and hanged
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 7:1-10"]
+    tags:
+      - {motif: up-to-half-the-kingdom, refs: ["Esth 7:2"]}
+      - {motif: sold-to-destruction-not-slavery, refs: ["Esth 7:3", "Esth 7:4"]}
+      - {motif: queen-reveals-identity, refs: ["Esth 7:3", "Esth 7:4", "Esth 7:6"], note: "'my people' identifies her with the condemned"}
+      - {motif: king-storms-into-garden, refs: ["Esth 7:7", "Esth 7:8"], note: "ginnat habitan, palace pavilion garden"}
+      - {motif: falling-on-queens-couch-misread, refs: ["Esth 7:8"], note: "'will he even assault the queen with me in the house?'"}
+      - {motif: face-covered-condemned, refs: ["Esth 7:8"]}
+      - {motif: eunuch-points-to-gallows, refs: ["Esth 7:9"], note: "Harbonah"}
+      - {motif: villain-hanged-on-own-gallows, refs: ["Esth 7:10"]}
+    hints:
+      - "Hoist with his own petard: Ps 7:16-17 and 9:16, Prov 26:27 (who digs a pit falls in it); Perillus and the brazen bull of Phalaris."
+      - "Covering the face of the condemned: Roman practice (caput obnubito) and Q. Curtius 6.8.22 on Macedonians."
+  - id: hb-esth-8-counter-decree
+    tradition: judaism
+    title: Mordecai elevated; the counter-decree
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 8:1-17"]
+    tags:
+      - {motif: enemy-estate-given-to-victim, refs: ["Esth 8:1", "Esth 8:7"]}
+      - {motif: signet-ring-transferred, refs: ["Esth 8:2"]}
+      - {motif: golden-scepter-extended-spares-life, refs: ["Esth 8:4"]}
+      - {motif: royal-decree-cannot-be-revoked, refs: ["Esth 8:8"]}
+      - {motif: counter-decree, refs: ["Esth 8:5", "Esth 8:11", "Esth 8:13"]}
+      - {motif: edict-in-every-script-and-language, refs: ["Esth 8:9"], note: "and to the Jews in their own script and language"}
+      - {motif: empire-127-provinces-india-to-cush, refs: ["Esth 8:9"]}
+      - {motif: royal-couriers-on-steeds, refs: ["Esth 8:10", "Esth 8:14"], note: "achashteranim bnei haramakhim: rare Persian loanwords for royal steeds"}
+      - {motif: hero-in-royal-blue-and-white, refs: ["Esth 8:15"]}
+      - {motif: light-and-gladness-for-jews, refs: ["Esth 8:16"]}
+      - {motif: mass-conversion-from-fear, refs: ["Esth 8:17"]}
+      - {motif: fear-falls-on-peoples, refs: ["Esth 8:17"]}
+    hints:
+      - "Irrevocable law of the Medes and Persians: Dan 6:9,13,16."
+      - "Persian royal post (angareion), Herodotus 8.98, Xenophon Cyropaedia 8.6.17."
+      - "Esth 8:16 is recited at Havdalah."
+  - id: hb-esth-9-day-of-reversal
+    tradition: judaism
+    title: The thirteenth of Adar; Haman's ten sons
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 9:1-19"]
+    tags:
+      - {motif: venahafokh-hu-reversal, refs: ["Esth 9:1"]}
+      - {motif: fear-falls-on-peoples, refs: ["Esth 9:2", "Esth 9:3"], note: "fear of Mordecai on the officials"}
+      - {motif: ten-sons-of-villain-killed, refs: ["Esth 9:7", "Esth 9:8", "Esth 9:9", "Esth 9:10", "Esth 9:13", "Esth 9:14"], note: "ten Persian names, written in scribal tradition as a column"}
+      - {motif: did-not-touch-the-plunder, refs: ["Esth 9:10", "Esth 9:15", "Esth 9:16"], note: "contrast Saul at Agag, 1 Sam 15"}
+      - {motif: second-day-of-fighting-in-capital, refs: ["Esth 9:13", "Esth 9:15"]}
+      - {motif: up-to-half-the-kingdom, refs: ["Esth 9:12"]}
+      - {motif: walled-and-unwalled-towns-different-day, refs: ["Esth 9:18", "Esth 9:19"], note: "perazim keep the 14th; Shushan the 15th"}
+      - {motif: eternal-war-with-amalek, refs: ["Esth 9:10"], note: "Haman the Agagite's sons as Amalekite remnant; Haman 'son of Hammedatha'"}
+    hints:
+      - "Numbers: 500 and 300 in Shushan, 75,000 in the provinces; LXX gives 15,000."
+      - "Haman's sons' names are chanted in one breath in synagogue; Targum Sheni and Talmud (Megillah 16b) discuss their layout."
+  - id: hb-esth-9-purim-instituted
+    tradition: judaism
+    title: Letters instituting Purim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 9:20-32"]
+    tags:
+      - {motif: purim-festival-founded, refs: ["Esth 9:21", "Esth 9:22", "Esth 9:27", "Esth 9:28"], note: "mishloach manot and matanot la'evyonim"}
+      - {motif: sorrow-turned-to-joy-month, refs: ["Esth 9:22"]}
+      - {motif: lot-cast-to-fix-day-of-destruction, refs: ["Esth 9:24"], note: "'hippil pur hu hagoral'"}
+      - {motif: purim-named-from-lot, refs: ["Esth 9:24", "Esth 9:26"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Esth 9:25"]}
+      - {motif: villain-hanged-on-own-gallows, refs: ["Esth 9:25"], note: "him and his sons"}
+      - {motif: festival-by-letter-of-leaders, refs: ["Esth 9:20", "Esth 9:29", "Esth 9:32"], note: "Esther 'bat Avichayil' writes with full authority; a second letter"}
+      - {motif: festival-binding-on-proselytes, refs: ["Esth 9:27"]}
+      - {motif: communal-fast-for-deliverance, refs: ["Esth 9:31"], note: "'matters of the fasts and their lamentation'"}
+      - {motif: empire-127-provinces-india-to-cush, refs: ["Esth 9:30"]}
+    hints:
+      - "Akkadian puru 'lot'; an inscribed lot-die of Iahali (Assyria, 9th c. BCE) is a physical pur."
+      - "Comparisons of Purim with the Babylonian New Year (Marduk/Ishtar ~ Mordecai/Esther) and the Persian Farvardigan festival of the dead (Lagarde, Zimmern)."
+      - "2 Macc 15:36 names 'Mordecai's day' on 14 Adar."
+  - id: hb-esth-10-mordecai-greatness
+    tradition: judaism
+    title: Coda on Ahasuerus and Mordecai
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Esth 10:1-3"]
+    tags:
+      - {motif: tribute-on-islands-of-sea, refs: ["Esth 10:1"]}
+      - {motif: chronicles-of-media-and-persia-cited, refs: ["Esth 10:2"]}
+      - {motif: jewish-vizier-second-to-king, refs: ["Esth 10:3"], note: "mishneh lamelekh"}
+    hints:
+      - "Joseph (Gen 41:43) and Daniel (Dan 2:48) as Jewish viziers; the Ahiqar romance."
+  - id: hb-job-1-prologue-first-test
+    tradition: judaism
+    title: Job's piety, the heavenly council and the first test
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 1:1-22"]
+    tags:
+      - {motif: righteous-gentile-of-uz, refs: ["Job 1:1"]}
+      - {motif: hero-righteous, refs: ["Job 1:1", "Job 1:8"], note: "tam veyashar, yere elohim vesar mera"}
+      - {motif: seven-sons-three-daughters, refs: ["Job 1:2"]}
+      - {motif: wealth-counted-in-herds, refs: ["Job 1:3"], note: "7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 she-asses"}
+      - {motif: greatest-of-the-easterners, refs: ["Job 1:3"]}
+      - {motif: children-feast-in-rotation, refs: ["Job 1:4"]}
+      - {motif: sacrifice-for-childrens-secret-sins, refs: ["Job 1:5"]}
+      - {motif: bless-as-euphemism-for-curse, refs: ["Job 1:5", "Job 1:11"]}
+      - {motif: divine-council-assembles, refs: ["Job 1:6"]}
+      - {motif: satan-as-heavenly-accuser, refs: ["Job 1:6", "Job 1:9", "Job 1:11"], note: "always with the article, hassatan"}
+      - {motif: roaming-the-earth-report, refs: ["Job 1:7"], note: "mishut ba'arets: wordplay shut/satan"}
+      - {motif: god-boasts-of-his-servant, refs: ["Job 1:8"]}
+      - {motif: piety-for-nothing-question, refs: ["Job 1:9"]}
+      - {motif: divine-hedge-around-righteous, refs: ["Job 1:10"]}
+      - {motif: heavenly-wager-tests-righteous, refs: ["Job 1:11", "Job 1:12"]}
+      - {motif: messengers-of-calamity-in-succession, refs: ["Job 1:14", "Job 1:16", "Job 1:17", "Job 1:18"], note: "four disasters alternating human (Sabeans, Chaldeans in three bands) and natural (fire, wind)"}
+      - {motif: only-i-escaped-to-tell, refs: ["Job 1:15", "Job 1:16", "Job 1:17", "Job 1:19"]}
+      - {motif: fire-of-god-falls-from-sky, refs: ["Job 1:16"]}
+      - {motif: desert-wind-collapses-house-on-children, refs: ["Job 1:19"]}
+      - {motif: rend-garments-grief, refs: ["Job 1:20"]}
+      - {motif: shaves-head-in-mourning, refs: ["Job 1:20"]}
+      - {motif: naked-from-womb-naked-return, refs: ["Job 1:21"], note: "'shamah' (there) equates the womb with the earth"}
+      - {motif: lord-gave-lord-has-taken, refs: ["Job 1:21"]}
+    hints:
+      - "Testament of Job; Quran 21:83-84 and 38:41-44 (Ayyub afflicted, calls on God, strikes the ground with his foot for a spring)."
+      - "Heavenly wager: Goethe's Faust, Prologue in Heaven; the Babylonian Ludlul bel nemeqi and 'Babylonian Theodicy'; Indian Harishchandra tested by Vishvamitra after a wager among the gods (Markandeya Purana)."
+      - "Zech 3:1-2 (the Satan accusing the high priest) and 1 Chr 21:1."
+      - "Ezek 14:14,20 pairs Job with Noah and Danel as proverbially righteous ancients."
+  - id: hb-job-2-second-test-and-friends
+    tradition: judaism
+    title: The second test; Job's wife; the three friends
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 2:1-13"]
+    tags:
+      - {motif: divine-council-assembles, refs: ["Job 2:1"]}
+      - {motif: satan-as-heavenly-accuser, refs: ["Job 2:1", "Job 2:4", "Job 2:5"]}
+      - {motif: roaming-the-earth-report, refs: ["Job 2:2"]}
+      - {motif: god-boasts-of-his-servant, refs: ["Job 2:3"], note: "God admits 'you incited me against him to destroy him for nothing'"}
+      - {motif: skin-for-skin, refs: ["Job 2:4"]}
+      - {motif: heavenly-wager-tests-righteous, refs: ["Job 2:5", "Job 2:6"], note: "'only spare his life'"}
+      - {motif: boils-sole-to-crown, refs: ["Job 2:7"], note: "shechin ra, as in Deut 28:35"}
+      - {motif: potsherd-scraping-in-ashes, refs: ["Job 2:8"]}
+      - {motif: wife-urges-curse-god-and-die, refs: ["Job 2:9"]}
+      - {motif: accept-evil-as-well-as-good, refs: ["Job 2:10"], note: "'did not sin with his lips' (rabbinic: but in his heart?)"}
+      - {motif: three-friends-come-to-console, refs: ["Job 2:11"], note: "Eliphaz the Temanite, Bildad the Shuhite, Zophar the Naamathite"}
+      - {motif: sufferer-unrecognizable, refs: ["Job 2:12"]}
+      - {motif: rend-garments-grief, refs: ["Job 2:12"]}
+      - {motif: dust-thrown-toward-heaven, refs: ["Job 2:12"]}
+      - {motif: seven-days-silent-comforters, refs: ["Job 2:13"]}
+      - {motif: seven-day-mourning, refs: ["Job 2:13"]}
+    hints:
+      - "LXX expands Job's wife's speech (she wanders as a servant); Testament of Job names her Sitis and has her sell her hair to Satan for bread."
+      - "Quran 38:44: Ayyub told to strike (his wife?) with a bundle of grass so as not to break his oath."
+      - "Shiva custom: comforters do not speak until the mourner speaks (Moed Qatan 28b), derived from this verse."
+  - id: hb-job-3-curse-of-birthday
+    tradition: judaism
+    title: Job curses the day of his birth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 3:1-26"]
+    tags:
+      - {motif: curse-on-day-of-birth, refs: ["Job 3:1", "Job 3:3", "Job 3:4", "Job 3:5", "Job 3:6"]}
+      - {motif: night-announces-conception, refs: ["Job 3:3", "Job 3:7"]}
+      - {motif: day-cursers-rouse-leviathan, refs: ["Job 3:8"], note: "orerei yom ha'atidim orer livyatan; some emend yom to yam 'Sea'"}
+      - {motif: eyelids-of-dawn, refs: ["Job 3:9"]}
+      - {motif: wish-for-stillbirth, refs: ["Job 3:10", "Job 3:11", "Job 3:12", "Job 3:16"], note: "'why were there knees to receive me?'"}
+      - {motif: death-as-rest-and-equalizer, refs: ["Job 3:13", "Job 3:14", "Job 3:15", "Job 3:17", "Job 3:18", "Job 3:19"], note: "kings who build ruins (pyramids?) for themselves"}
+      - {motif: longing-for-death-as-treasure, refs: ["Job 3:20", "Job 3:21", "Job 3:22"]}
+      - {motif: god-fences-man-in, refs: ["Job 3:23"], note: "vayasekh, same root as the hedge of 1:10"}
+      - {motif: what-i-feared-has-come, refs: ["Job 3:25"]}
+    hints:
+      - "Jer 20:14-18 (curse on his birthday) is the closest parallel; Sophocles OC 1224 'not to be born is best' and the Silenus wisdom (Theognis 425-428)."
+      - "Rousing Leviathan by spell-casters: Ugaritic Lotan; Aramaic incantation bowls bind Leviathan."
+  - id: hb-job-4-eliphaz-vision
+    tradition: judaism
+    title: Eliphaz's first speech, the night vision
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 4:1-21"]
+    tags:
+      - {motif: retribution-no-innocent-perished, refs: ["Job 4:7", "Job 4:8"]}
+      - {motif: lions-teeth-broken, refs: ["Job 4:10", "Job 4:11"], note: "five different words for lion"}
+      - {motif: night-vision-spirit-hair-bristles, refs: ["Job 4:13", "Job 4:14", "Job 4:15", "Job 4:16"], note: "tardemah; a form (temunah) he cannot make out"}
+      - {motif: deep-sleep-sent-by-god, refs: ["Job 4:13"]}
+      - {motif: silence-and-a-voice, refs: ["Job 4:16"]}
+      - {motif: mortal-cannot-be-righteous-before-god, refs: ["Job 4:17"]}
+      - {motif: god-charges-angels-with-error, refs: ["Job 4:18"]}
+      - {motif: humans-in-houses-of-clay, refs: ["Job 4:19", "Job 4:20", "Job 4:21"], note: "'their tent-cord is pulled up'"}
+    hints:
+      - "Demamah vaqol: Elijah's 'still small voice' (1 Kgs 19:12). Teman (Edom) was proverbial for wisdom (Jer 49:7, Obad 8)."
+      - "Mesopotamian night-apparitions and dream revelations (Ludlul tablet III)."
+  - id: hb-job-5-eliphaz-doctrine
+    tradition: judaism
+    title: Eliphaz continues - seek God, accept discipline
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 5:1-27"]
+    tags:
+      - {motif: appeal-to-holy-ones, refs: ["Job 5:1"]}
+      - {motif: retribution-no-innocent-perished, refs: ["Job 5:3", "Job 5:4", "Job 5:5"], note: "the fool's sons crushed at the gate"}
+      - {motif: sons-of-resheph, refs: ["Job 5:7"]}
+      - {motif: man-born-to-trouble, refs: ["Job 5:6", "Job 5:7"]}
+      - {motif: god-catches-wise-in-craftiness, refs: ["Job 5:12", "Job 5:13"], note: "quoted in 1 Cor 3:19"}
+      - {motif: happy-is-man-whom-god-reproves, refs: ["Job 5:17"]}
+      - {motif: god-wounds-and-heals, refs: ["Job 5:18"]}
+      - {motif: numerical-saying-six-seven, refs: ["Job 5:19"]}
+      - {motif: covenant-with-stones-and-beasts, refs: ["Job 5:22", "Job 5:23"]}
+      - {motif: ripe-old-age-like-sheaf, refs: ["Job 5:25", "Job 5:26"]}
+    hints:
+      - "Resheph: Canaanite plague/fire god (Ugaritic rsp), equated with Nergal and Apollo; cf. Hab 3:5, Deut 32:24."
+      - "Covenant with wild beasts: Hos 2:20; Isa 11:6-9; Hesiod's golden age."
+  - id: hb-job-6-job-answers-friends
+    tradition: judaism
+    title: Job's reply - the weight of grief and the treacherous wadi
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 6:1-30"]
+    tags:
+      - {motif: grief-weighed-in-scales, refs: ["Job 6:2", "Job 6:3"]}
+      - {motif: poisoned-arrows-of-shaddai, refs: ["Job 6:4"]}
+      - {motif: animal-cry-proverb, refs: ["Job 6:5", "Job 6:6"], note: "plus 'the slime of purslane / egg white' without salt"}
+      - {motif: wish-god-would-crush-me, refs: ["Job 6:8", "Job 6:9"]}
+      - {motif: flesh-not-bronze, refs: ["Job 6:12"]}
+      - {motif: treacherous-friends-as-dry-wadi, refs: ["Job 6:15", "Job 6:16", "Job 6:17", "Job 6:18", "Job 6:19", "Job 6:20"]}
+    hints:
+      - "Arrows of the god as plague: Apollo's arrows (Iliad 1), Resheph 'lord of the arrow' at Kition."
+  - id: hb-job-7-life-as-hard-service
+    tradition: judaism
+    title: Job - human life as hard service; 'Am I Sea or Dragon?'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 7:1-21"]
+    tags:
+      - {motif: life-as-hard-service, refs: ["Job 7:1", "Job 7:2", "Job 7:3"]}
+      - {motif: flesh-clothed-with-worms, refs: ["Job 7:5"]}
+      - {motif: days-swifter-than-shuttle, refs: ["Job 7:6"]}
+      - {motif: no-return-from-sheol, refs: ["Job 7:9", "Job 7:10"]}
+      - {motif: sea-and-dragon-under-guard, refs: ["Job 7:12"]}
+      - {motif: sea-monster-defeated-by-god, refs: ["Job 7:12"], note: "Sea and Tannin under guard"}
+      - {motif: terrifying-dreams-from-god, refs: ["Job 7:14"]}
+      - {motif: what-is-man-inverted, refs: ["Job 7:17", "Job 7:18"]}
+      - {motif: watcher-of-humans, refs: ["Job 7:20"]}
+      - {motif: you-will-seek-me-and-i-am-gone, refs: ["Job 7:8", "Job 7:21"]}
+    hints:
+      - "Guard over Sea: Enuma Elish IV.139-140 (Marduk posts guards so Tiamat's waters do not escape); Ugaritic Yamm and Tunnanu bound by Anat."
+      - "Land of no return: Akkadian 'erset la tari' (Descent of Ishtar)."
+  - id: hb-job-8-bildad-first-speech
+    tradition: judaism
+    title: Bildad's first speech - the papyrus and the spider's web
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 8:1-22"]
+    tags:
+      - {motif: does-god-pervert-justice, refs: ["Job 8:3"]}
+      - {motif: children-died-for-own-sins, refs: ["Job 8:4"]}
+      - {motif: small-beginning-great-end, refs: ["Job 8:7"]}
+      - {motif: ask-the-former-generations, refs: ["Job 8:8", "Job 8:9", "Job 8:10"]}
+      - {motif: days-as-shadow, refs: ["Job 8:9"]}
+      - {motif: papyrus-without-water, refs: ["Job 8:11", "Job 8:12", "Job 8:13"]}
+      - {motif: trust-like-spiders-web, refs: ["Job 8:14", "Job 8:15"]}
+      - {motif: retribution-no-innocent-perished, refs: ["Job 8:20", "Job 8:22"], note: "God does not reject the blameless"}
+    hints:
+      - "Spider's house as image of flimsy trust: Quran 29:41 (the parable of the spider, al-Ankabut)."
+  - id: hb-job-9-job-cannot-sue-god
+    tradition: judaism
+    title: Job - cosmic power of God and the impossible lawsuit
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 9:1-35"]
+    tags:
+      - {motif: how-can-man-be-just-with-god, refs: ["Job 9:2", "Job 9:3"]}
+      - {motif: god-overturns-mountains-shakes-earth, refs: ["Job 9:5", "Job 9:6"]}
+      - {motif: earth-on-pillars, refs: ["Job 9:6"]}
+      - {motif: god-seals-up-sun-and-stars, refs: ["Job 9:7"], note: "cheres, rare word for sun"}
+      - {motif: god-alone-stretches-heavens, refs: ["Job 9:8"]}
+      - {motif: god-treads-on-back-of-sea, refs: ["Job 9:8"]}
+      - {motif: constellations-ash-kesil-kimah, refs: ["Job 9:9"]}
+      - {motif: god-passes-by-unseen, refs: ["Job 9:11"]}
+      - {motif: helpers-of-rahab-bowed, refs: ["Job 9:13"]}
+      - {motif: sea-monster-defeated-by-god, refs: ["Job 9:13"], note: "Rahab and her helpers"}
+      - {motif: god-as-unanswerable-litigant, refs: ["Job 9:3", "Job 9:14", "Job 9:15", "Job 9:16", "Job 9:19", "Job 9:20"]}
+      - {motif: god-destroys-blameless-and-wicked, refs: ["Job 9:22", "Job 9:23"]}
+      - {motif: earth-given-to-wicked-judges-blindfolded, refs: ["Job 9:24"]}
+      - {motif: days-swifter-than-runner-reed-ships-eagle, refs: ["Job 9:25", "Job 9:26"]}
+      - {motif: washing-in-snow-plunged-in-pit, refs: ["Job 9:30", "Job 9:31"]}
+      - {motif: no-arbiter-between-man-and-god, refs: ["Job 9:32", "Job 9:33"]}
+    hints:
+      - "Rahab's helpers: Enuma Elish IV.105-120 (Tiamat's allies captured by Marduk); Isa 51:9, Ps 89:11."
+      - "God treading on the back of Sea: Ugaritic and Akkadian 'treading on the back' as conquest; Mesoamerican earth-monster."
+      - "No umpire: Christian readings of the mediator (1 Tim 2:5); Ludlul's search for an intercessor."
+  - id: hb-job-10-why-did-you-make-me
+    tradition: judaism
+    title: Job - 'Your hands fashioned me'; land of darkness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 10:1-22"]
+    tags:
+      - {motif: god-as-hostile-craftsman-of-body, refs: ["Job 10:3", "Job 10:8"]}
+      - {motif: god-has-eyes-of-flesh-question, refs: ["Job 10:4", "Job 10:5"]}
+      - {motif: human-formed-from-earth, refs: ["Job 10:9"], note: "'like clay you made me'"}
+      - {motif: dust-to-dust, refs: ["Job 10:9"]}
+      - {motif: embryo-curdled-like-cheese, refs: ["Job 10:10", "Job 10:11"]}
+      - {motif: god-hunts-like-lion, refs: ["Job 10:16"]}
+      - {motif: wish-for-stillbirth, refs: ["Job 10:18", "Job 10:19"]}
+      - {motif: no-return-from-sheol, refs: ["Job 10:21"]}
+      - {motif: land-of-darkness-and-chaos, refs: ["Job 10:21", "Job 10:22"], note: "velo sedarim, 'without order'"}
+    hints:
+      - "Embryo as curdled milk: Aristotle, Generation of Animals 2.4 (semen as rennet); Quran 23:14 and 22:5 (nutfa, alaqa, mudgha); Wisdom of Solomon 7:2; Charaka Samhita."
+  - id: hb-job-11-zophar-first-speech
+    tradition: judaism
+    title: Zophar's first speech - the unsearchable depth of God
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 11:1-20"]
+    tags:
+      - {motif: mystery-of-wisdom-double, refs: ["Job 11:6", "Job 11:7"]}
+      - {motif: higher-than-heaven-deeper-than-sheol, refs: ["Job 11:8", "Job 11:9"]}
+      - {motif: wild-ass-born-a-man, refs: ["Job 11:12"]}
+      - {motif: spread-hands-in-prayer, refs: ["Job 11:13"]}
+      - {motif: retribution-no-innocent-perished, refs: ["Job 11:14", "Job 11:15", "Job 11:20"], note: "repent and you will lie down secure; the eyes of the wicked fail"}
+    hints:
+      - "Four-dimension measure of God: Eph 3:18 (breadth, length, height, depth); Ps 139:8-9; Sirach 1:3."
+  - id: hb-job-12-ask-the-beasts
+    tradition: judaism
+    title: Job - ask the beasts; God's sovereign overturnings
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 12:1-25"]
+    tags:
+      - {motif: wisdom-will-die-with-you, refs: ["Job 12:2"]}
+      - {motif: righteous-a-laughingstock, refs: ["Job 12:4", "Job 12:5"]}
+      - {motif: ask-the-beasts-they-will-teach, refs: ["Job 12:7", "Job 12:8", "Job 12:9"], note: "only place in the dialogue the name YHWH is used (12:9)"}
+      - {motif: breath-of-all-flesh-in-gods-hand, refs: ["Job 12:10"]}
+      - {motif: ear-tests-words-as-palate-tastes, refs: ["Job 12:11"]}
+      - {motif: wisdom-with-the-aged, refs: ["Job 12:12"]}
+      - {motif: god-withholds-and-releases-waters, refs: ["Job 12:15"]}
+      - {motif: god-humbles-counselors-kings-priests, refs: ["Job 12:17", "Job 12:18", "Job 12:19", "Job 12:20", "Job 12:21"]}
+      - {motif: god-reveals-deep-things-from-darkness, refs: ["Job 12:22"]}
+      - {motif: god-raises-and-destroys-nations, refs: ["Job 12:23"]}
+      - {motif: leaders-wander-in-tohu, refs: ["Job 12:24", "Job 12:25"]}
+    hints:
+      - "Ask the beasts: Quran's signs (ayat) in animals (16:66-69); Francis of Assisi; Jainism. Job 12:9 echoes Isa 41:20 verbatim."
+  - id: hb-job-13-job-will-argue-with-god
+    tradition: judaism
+    title: Job - worthless physicians; 'though he slay me'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 13:1-28"]
+    tags:
+      - {motif: friends-as-worthless-physicians, refs: ["Job 13:4"]}
+      - {motif: silence-would-be-wisdom, refs: ["Job 13:5"]}
+      - {motif: lying-for-god-rebuked, refs: ["Job 13:7", "Job 13:8", "Job 13:9", "Job 13:10"]}
+      - {motif: proverbs-of-ashes, refs: ["Job 13:12"]}
+      - {motif: life-in-my-hand, refs: ["Job 13:14"]}
+      - {motif: though-he-slay-me, refs: ["Job 13:15"], note: "ketiv lo 'not', qere lo 'in him'"}
+      - {motif: legal-case-prepared-against-god, refs: ["Job 13:3", "Job 13:18", "Job 13:19"]}
+      - {motif: two-conditions-for-the-trial, refs: ["Job 13:20", "Job 13:21", "Job 13:22"]}
+      - {motif: god-hides-his-face, refs: ["Job 13:24"], note: "pun: oyev (enemy) ~ iyyov (Job)"}
+      - {motif: driven-leaf-dry-straw, refs: ["Job 13:25"]}
+      - {motif: sins-of-youth-written-bitter, refs: ["Job 13:26"]}
+      - {motif: feet-in-stocks, refs: ["Job 13:27"]}
+      - {motif: moth-eaten-garment, refs: ["Job 13:28"]}
+    hints:
+      - "Talmud Bava Batra 16a: Rava reads 'Job sought to turn the dish upside down'; Sotah 27b debates the ketiv/qere of 13:15 to decide whether Job served from love."
+  - id: hb-job-14-tree-has-hope
+    tradition: judaism
+    title: Job - 'man born of woman'; the tree has hope
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 14:1-22"]
+    tags:
+      - {motif: born-of-woman-few-days, refs: ["Job 14:1", "Job 14:2"]}
+      - {motif: days-as-shadow, refs: ["Job 14:2"]}
+      - {motif: clean-from-unclean-impossible, refs: ["Job 14:4"]}
+      - {motif: fixed-span-of-life, refs: ["Job 14:5"]}
+      - {motif: life-as-hard-service, refs: ["Job 14:6", "Job 14:14"], note: "hireling's day; 'all the days of my service'"}
+      - {motif: tree-has-hope-man-none, refs: ["Job 14:7", "Job 14:8", "Job 14:9", "Job 14:10"]}
+      - {motif: sleep-until-heavens-are-no-more, refs: ["Job 14:11", "Job 14:12"]}
+      - {motif: hide-me-in-sheol-until-wrath-passes, refs: ["Job 14:13"]}
+      - {motif: if-a-man-dies-will-he-live-again, refs: ["Job 14:14", "Job 14:15"]}
+      - {motif: sins-sealed-in-a-bag, refs: ["Job 14:16", "Job 14:17"]}
+      - {motif: erosion-destroys-hope, refs: ["Job 14:18", "Job 14:19"]}
+      - {motif: dead-unaware-of-childrens-fate, refs: ["Job 14:21", "Job 14:22"]}
+    hints:
+      - "Iliad 6.146-149 (generations of men like leaves); Mimnermus fr. 2; 'man born of woman' recited in the Anglican burial service."
+      - "Bag of sins: Mesopotamian sealed tablets of guilt; 1 Sam 25:29 'bundle of the living' (tseror hachayyim)."
+  - id: hb-job-15-eliphaz-second-speech
+    tradition: judaism
+    title: Eliphaz's second speech - the first man and the fate of the wicked
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 15:1-35"]
+    tags:
+      - {motif: belly-filled-with-east-wind, refs: ["Job 15:2"]}
+      - {motif: first-man-born-before-hills, refs: ["Job 15:7"]}
+      - {motif: listening-in-council-of-god, refs: ["Job 15:8"]}
+      - {motif: wisdom-with-the-aged, refs: ["Job 15:10"], note: "'grey-haired and aged among us, older than your father'"}
+      - {motif: mortal-cannot-be-righteous-before-god, refs: ["Job 15:14"]}
+      - {motif: born-of-woman-few-days, refs: ["Job 15:14"], note: "yelud ishah"}
+      - {motif: heavens-not-clean-in-his-sight, refs: ["Job 15:15"]}
+      - {motif: drinks-iniquity-like-water, refs: ["Job 15:16"]}
+      - {motif: wisdom-of-uncontaminated-ancestors, refs: ["Job 15:18", "Job 15:19"]}
+      - {motif: wicked-writhes-in-terror, refs: ["Job 15:20", "Job 15:21", "Job 15:22", "Job 15:23", "Job 15:24"], note: "'like a king prepared for the attack (kidor)'"}
+      - {motif: wicked-charges-god-with-shield, refs: ["Job 15:25", "Job 15:26"]}
+      - {motif: fat-covered-face, refs: ["Job 15:27"]}
+      - {motif: vine-sheds-unripe-grapes, refs: ["Job 15:32", "Job 15:33"]}
+      - {motif: conceive-mischief-bring-forth-evil, refs: ["Job 15:35"]}
+    hints:
+      - "First man born before the hills: Ezek 28:12-17 (primal man in Eden full of wisdom), Prov 8:25 (Wisdom born before the hills); Iranian Gayomart; Adam Qadmon."
+      - "Eavesdropping on the divine council: Jer 23:18,22; Prometheus; Mesopotamian apkallu sages."
+      - "Ps 7:15 and Isa 59:4 'conceive mischief, bear iniquity'."
+  - id: hb-job-16-witness-in-heaven
+    tradition: judaism
+    title: Job - God the assailant; a witness in heaven
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 16:1-22"]
+    tags:
+      - {motif: miserable-comforters, refs: ["Job 16:2"]}
+      - {motif: god-as-savage-beast-gnashing, refs: ["Job 16:9", "Job 16:10"]}
+      - {motif: god-hands-over-to-wicked, refs: ["Job 16:11"]}
+      - {motif: set-up-as-gods-target, refs: ["Job 16:12", "Job 16:13", "Job 16:14"], note: "'his archers surround me, he splits my kidneys, pours my gall on the ground'"}
+      - {motif: horn-in-the-dust, refs: ["Job 16:15"]}
+      - {motif: sackcloth-and-ashes-mourning, refs: ["Job 16:15", "Job 16:16"]}
+      - {motif: earth-do-not-cover-my-blood, refs: ["Job 16:18"]}
+      - {motif: witness-in-heaven, refs: ["Job 16:19", "Job 16:20", "Job 16:21"], note: "Aramaic sahadi 'my witness'; melitsai 'my interpreters/intercessors'"}
+      - {motif: path-of-no-return, refs: ["Job 16:22"]}
+    hints:
+      - "Blood crying from the ground: Gen 4:10 (Abel); Isa 26:21; Ezek 24:7-8."
+      - "Heavenly advocate: Christian paraclete (1 John 2:1); the personal god of Mesopotamian laments; Zoroastrian Mithra/Rashnu as judges and witnesses."
+  - id: hb-job-17-sheol-my-house
+    tradition: judaism
+    title: Job - a pledge with God; the grave as home
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 17:1-16"]
+    tags:
+      - {motif: god-as-surety-for-sufferer, refs: ["Job 17:3"]}
+      - {motif: byword-of-peoples-spat-on, refs: ["Job 17:6"]}
+      - {motif: days-as-shadow, refs: ["Job 17:7"], note: "'all my members are like a shadow'"}
+      - {motif: sheol-as-home-pit-as-father-worm-as-mother, refs: ["Job 17:13", "Job 17:14"]}
+      - {motif: hope-descends-to-sheol, refs: ["Job 17:15", "Job 17:16"], note: "baddei she'ol, 'bars of Sheol'"}
+    hints:
+      - "Kinship with the grave and worm: Sirach 10:11; Buddhist cemetery contemplations; Ecclesiastes."
+  - id: hb-job-18-bildad-fate-of-wicked
+    tradition: judaism
+    title: Bildad's second speech - the king of terrors
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 18:1-21"]
+    tags:
+      - {motif: lamp-of-wicked-put-out, refs: ["Job 18:5", "Job 18:6"]}
+      - {motif: wicked-caught-in-traps-and-snares, refs: ["Job 18:8", "Job 18:9", "Job 18:10"], note: "six words for traps"}
+      - {motif: firstborn-of-death, refs: ["Job 18:13"]}
+      - {motif: king-of-terrors, refs: ["Job 18:14"]}
+      - {motif: brimstone-scattered-on-dwelling, refs: ["Job 18:15"]}
+      - {motif: memory-and-name-perish, refs: ["Job 18:16", "Job 18:17", "Job 18:18", "Job 18:19"]}
+    hints:
+      - "Ugaritic Mot (Death) as a devouring god; Nergal as king of the underworld; Greek Thanatos; the 'king of terrors' read in rabbinic and Christian tradition as the angel of death."
+      - "Firstborn of Death: possibly a plague-demon, cf. Namtar, vizier of Ereshkigal."
+  - id: hb-job-19-my-redeemer-lives
+    tradition: judaism
+    title: Job - abandoned by all; 'I know my redeemer lives'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 19:1-29"]
+    tags:
+      - {motif: ten-times-insulted, refs: ["Job 19:3"]}
+      - {motif: god-has-wronged-me, refs: ["Job 19:6"]}
+      - {motif: cry-violence-no-answer, refs: ["Job 19:7"]}
+      - {motif: god-fences-man-in, refs: ["Job 19:8"], note: "he walled up my way"}
+      - {motif: crown-stripped-from-head, refs: ["Job 19:9"]}
+      - {motif: tree-has-hope-man-none, refs: ["Job 19:10"], note: "my hope uprooted like a tree"}
+      - {motif: gods-troops-besiege-tent, refs: ["Job 19:12"]}
+      - {motif: abandoned-by-kin-and-servants, refs: ["Job 19:13", "Job 19:14", "Job 19:15", "Job 19:16", "Job 19:17", "Job 19:19"]}
+      - {motif: mocked-by-children, refs: ["Job 19:18"]}
+      - {motif: escaped-by-skin-of-teeth, refs: ["Job 19:20"]}
+      - {motif: pity-me-my-friends, refs: ["Job 19:21", "Job 19:22"]}
+      - {motif: words-inscribed-forever-in-rock, refs: ["Job 19:23", "Job 19:24"]}
+      - {motif: my-redeemer-lives, refs: ["Job 19:25"]}
+      - {motif: kinsman-redeemer, refs: ["Job 19:25"], note: "go'el applied to a heavenly vindicator or God"}
+      - {motif: see-god-from-my-flesh, refs: ["Job 19:26", "Job 19:27"]}
+      - {motif: warning-of-sword-and-judgment, refs: ["Job 19:29"], note: "ketiv shadin/qere shaddun"}
+    hints:
+      - "19:25-26 read as bodily resurrection in Christian tradition (Handel's Messiah; Vulgate 'in novissimo die de terra surrecturus sum'); Clement of Rome 1 Clem 26."
+      - "Rock inscription with iron stylus and lead-filled letters: Behistun inscription of Darius."
+  - id: hb-job-20-zophar-portion-of-wicked
+    tradition: judaism
+    title: Zophar's second speech - the portion of the wicked
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 20:1-29"]
+    tags:
+      - {motif: triumph-of-wicked-is-brief, refs: ["Job 20:4", "Job 20:5"]}
+      - {motif: wicked-height-reaches-clouds-perishes-like-dung, refs: ["Job 20:6", "Job 20:7"]}
+      - {motif: vanishes-like-dream, refs: ["Job 20:8", "Job 20:9"]}
+      - {motif: evil-sweet-in-mouth-turns-to-venom, refs: ["Job 20:12", "Job 20:13", "Job 20:14", "Job 20:16"]}
+      - {motif: swallowed-wealth-vomited-up, refs: ["Job 20:15", "Job 20:18"]}
+      - {motif: rivers-of-honey-and-curds, refs: ["Job 20:17"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Job 20:17"], note: "here honey and butter/curds"}
+      - {motif: god-rains-wrath-as-food, refs: ["Job 20:23"]}
+      - {motif: bronze-bow-arrow-through-gall, refs: ["Job 20:24", "Job 20:25"]}
+      - {motif: unfanned-fire-devours, refs: ["Job 20:26"]}
+      - {motif: heaven-and-earth-testify-against-wicked, refs: ["Job 20:27"]}
+    hints:
+      - "Rivers of honey and milk: Quran 47:15 (rivers of water, milk, wine and honey in paradise); Ovid Met. 1.111 (golden age streams of milk and nectar)."
+  - id: hb-job-21-prosperity-of-wicked
+    tradition: judaism
+    title: Job - why do the wicked prosper?
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 21:1-34"]
+    tags:
+      - {motif: hand-on-mouth-in-awe, refs: ["Job 21:5"]}
+      - {motif: why-do-the-wicked-prosper, refs: ["Job 21:7", "Job 21:8", "Job 21:9", "Job 21:10", "Job 21:13"]}
+      - {motif: wicked-children-dance-to-lyre-and-pipe, refs: ["Job 21:11", "Job 21:12"]}
+      - {motif: wicked-say-depart-from-us, refs: ["Job 21:14", "Job 21:15"]}
+      - {motif: lamp-of-wicked-put-out, refs: ["Job 21:17"], note: "Job sarcastically asks how often it happens"}
+      - {motif: wicked-like-chaff-before-wind, refs: ["Job 21:18"]}
+      - {motif: punishment-stored-for-children-rejected, refs: ["Job 21:19", "Job 21:20", "Job 21:21"]}
+      - {motif: cup-of-wrath, refs: ["Job 21:20"]}
+      - {motif: death-the-great-leveler, refs: ["Job 21:23", "Job 21:24", "Job 21:25", "Job 21:26"]}
+      - {motif: ask-the-travelers, refs: ["Job 21:29"]}
+      - {motif: wicked-honored-at-burial, refs: ["Job 21:30", "Job 21:31", "Job 21:32", "Job 21:33"]}
+    hints:
+      - "Jer 12:1; Ps 73; Mal 3:15; Babylonian Theodicy XXIII-XXVI; Plato Republic 2.364."
+      - "Contrast Ezek 18 and Deut 24:16 against punishing sons for fathers."
+  - id: hb-job-22-eliphaz-accuses-job
+    tradition: judaism
+    title: Eliphaz's third speech - Job accused of social crimes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 22:1-30"]
+    tags:
+      - {motif: human-righteousness-no-gain-to-god, refs: ["Job 22:2", "Job 22:3"]}
+      - {motif: catalogue-of-social-crimes, refs: ["Job 22:6", "Job 22:7", "Job 22:8", "Job 22:9"]}
+      - {motif: god-in-height-of-heavens-behind-clouds, refs: ["Job 22:12", "Job 22:13", "Job 22:14"]}
+      - {motif: path-of-the-ancient-wicked-swept-away, refs: ["Job 22:15", "Job 22:16"]}
+      - {motif: wicked-say-depart-from-us, refs: ["Job 22:17"]}
+      - {motif: receive-torah-from-his-mouth, refs: ["Job 22:22"]}
+      - {motif: gold-of-ophir-in-dust, refs: ["Job 22:24", "Job 22:25"]}
+      - {motif: decree-and-it-shall-be, refs: ["Job 22:28"]}
+      - {motif: innocent-saves-the-guilty, refs: ["Job 22:30"]}
+    hints:
+      - "Social-crime list echoes Egyptian Book of the Dead 125 (Negative Confession: 'I have not let anyone hunger') and Matt 25:35-45."
+      - "22:16 read in rabbinic midrash (Gen Rabbah) as the generation of the Flood."
+  - id: hb-job-23-where-can-i-find-him
+    tradition: judaism
+    title: Job - 'Oh that I knew where I might find him'
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 23:1-17"]
+    tags:
+      - {motif: if-only-i-knew-where-to-find-him, refs: ["Job 23:3", "Job 23:4", "Job 23:5", "Job 23:6", "Job 23:7"]}
+      - {motif: legal-case-prepared-against-god, refs: ["Job 23:4"]}
+      - {motif: god-absent-in-all-directions, refs: ["Job 23:8", "Job 23:9"]}
+      - {motif: tested-like-gold, refs: ["Job 23:10"]}
+      - {motif: treasured-his-words, refs: ["Job 23:11", "Job 23:12"]}
+      - {motif: god-is-one-who-can-turn-him, refs: ["Job 23:13", "Job 23:14"]}
+    hints:
+      - "Refining like gold: Zech 13:9, Mal 3:3, 1 Pet 1:7, Quran 29:2-3 (people will be tested)."
+  - id: hb-job-24-oppression-of-poor
+    tradition: judaism
+    title: Job - the oppressed poor and the rebels against light
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 24:1-25"]
+    tags:
+      - {motif: why-no-times-of-judgment-kept, refs: ["Job 24:1"]}
+      - {motif: do-not-move-boundary-stone, refs: ["Job 24:2"]}
+      - {motif: catalogue-of-social-crimes, refs: ["Job 24:2", "Job 24:3", "Job 24:4", "Job 24:9"], note: "seizing the orphan's ass, the widow's ox, the nursing child as pledge"}
+      - {motif: poor-like-wild-asses-in-desert, refs: ["Job 24:5", "Job 24:6"]}
+      - {motif: naked-poor-hug-the-rock, refs: ["Job 24:7", "Job 24:8", "Job 24:10"]}
+      - {motif: hungry-carry-sheaves-thirsty-tread-wine, refs: ["Job 24:10", "Job 24:11"]}
+      - {motif: groans-of-dying-unheeded-by-god, refs: ["Job 24:12"]}
+      - {motif: rebels-against-light, refs: ["Job 24:13", "Job 24:14", "Job 24:16", "Job 24:17"], note: "burglars dig through houses in the dark"}
+      - {motif: adulterer-disguises-face-at-twilight, refs: ["Job 24:15"]}
+      - {motif: sheol-snatches-sinners-as-heat-snow, refs: ["Job 24:18", "Job 24:19"]}
+      - {motif: womb-forgets-the-wicked, refs: ["Job 24:20"]}
+      - {motif: cut-off-like-heads-of-grain, refs: ["Job 24:24"]}
+    hints:
+      - "Loving darkness rather than light: John 3:19-20; Zoroastrian opposition of light (asha) and the deceivers of darkness."
+      - "Placement of 24:18-24 is disputed; many assign it to Zophar's missing third speech."
+  - id: hb-job-25-bildad-third-speech
+    tradition: judaism
+    title: Bildad's third speech - man a worm
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 25:1-6"]
+    tags:
+      - {motif: god-makes-peace-in-his-heights, refs: ["Job 25:2"]}
+      - {motif: innumerable-heavenly-troops, refs: ["Job 25:3"]}
+      - {motif: mortal-cannot-be-righteous-before-god, refs: ["Job 25:4"]}
+      - {motif: moon-and-stars-not-pure, refs: ["Job 25:5"]}
+      - {motif: man-a-maggot-worm, refs: ["Job 25:6"]}
+    hints:
+      - "25:2 'oseh shalom bimromav' became the closing line of the Kaddish and Amidah; rabbinic exegesis: peace between Michael (water) and Gabriel (fire)."
+  - id: hb-job-26-hymn-to-cosmic-power
+    tradition: judaism
+    title: Job - the earth hung on nothing; Rahab smitten
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 26:1-14"]
+    tags:
+      - {motif: rephaim-tremble-beneath-waters, refs: ["Job 26:5"]}
+      - {motif: primeval-giant-peoples, refs: ["Job 26:5"], note: "Rephaim here as shades of the dead under the waters"}
+      - {motif: sheol-naked-before-god-abaddon, refs: ["Job 26:6"]}
+      - {motif: north-stretched-over-void, refs: ["Job 26:7"]}
+      - {motif: earth-hung-upon-nothing, refs: ["Job 26:7"]}
+      - {motif: waters-bound-in-clouds, refs: ["Job 26:8"]}
+      - {motif: throne-veiled-by-cloud, refs: ["Job 26:9"], note: "kisseh; some read keseh 'full moon'"}
+      - {motif: circle-on-waters-boundary-light-darkness, refs: ["Job 26:10"]}
+      - {motif: pillars-of-heaven-tremble-at-rebuke, refs: ["Job 26:11"]}
+      - {motif: god-stills-sea-smites-rahab, refs: ["Job 26:12"]}
+      - {motif: sea-monster-defeated-by-god, refs: ["Job 26:12", "Job 26:13"]}
+      - {motif: wind-clears-heavens, refs: ["Job 26:13"]}
+      - {motif: hand-pierced-fleeing-serpent, refs: ["Job 26:13"]}
+      - {motif: fringes-of-his-ways, refs: ["Job 26:14"]}
+    hints:
+      - "Fleeing serpent: Isa 27:1 and Ugaritic KTU 1.5 I 1-3 'Lotan the fleeing serpent (btn brh), the twisting serpent, the mighty one with seven heads'."
+      - "Earth suspended on nothing: Anaximander (earth floating unsupported); Quran 13:2 and 31:10 (heavens raised without visible pillars); Zaphon as Baal's mountain (Jebel Aqra)."
+      - "Abaddon personified: Rev 9:11 (angel of the abyss, Apollyon)."
+  - id: hb-job-27-job-oath-of-integrity
+    tradition: judaism
+    title: Job's oath of integrity; the wicked man's portion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 27:1-23"]
+    tags:
+      - {motif: oath-by-god-who-wronged-me, refs: ["Job 27:2"]}
+      - {motif: maintains-integrity-till-death, refs: ["Job 27:3", "Job 27:4", "Job 27:5", "Job 27:6"], note: "'while the breath of God is in my nostrils'"}
+      - {motif: wicked-heaps-silver-righteous-wears-it, refs: ["Job 27:16", "Job 27:17"]}
+      - {motif: house-like-moth-or-watchmans-booth, refs: ["Job 27:18"]}
+      - {motif: widows-do-not-weep, refs: ["Job 27:15"]}
+      - {motif: memory-and-name-perish, refs: ["Job 27:14", "Job 27:15"], note: "sons for the sword, survivors buried by plague"}
+      - {motif: east-wind-carries-wicked-away, refs: ["Job 27:20", "Job 27:21", "Job 27:22", "Job 27:23"]}
+    hints:
+      - "Wealth of the wicked inherited by the righteous: Prov 13:22, Eccl 2:26."
+  - id: hb-job-28-hymn-to-wisdom
+    tradition: judaism
+    title: The hymn to hidden wisdom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 28:1-28"]
+    tags:
+      - {motif: miners-tunnel-under-earth, refs: ["Job 28:1", "Job 28:2", "Job 28:3", "Job 28:4", "Job 28:9", "Job 28:10", "Job 28:11"], note: "silver, gold, iron, copper; damming the sources of rivers"}
+      - {motif: earth-above-bread-below-fire, refs: ["Job 28:5"]}
+      - {motif: paradise-gold-and-gems, refs: ["Job 28:6"], note: "sapphire stones and gold dust in the earth"}
+      - {motif: path-unknown-to-birds-of-prey, refs: ["Job 28:7", "Job 28:8"], note: "bnei shachats, 'proud beasts'"}
+      - {motif: where-is-wisdom-found, refs: ["Job 28:12", "Job 28:20"]}
+      - {motif: deep-and-sea-say-not-in-me, refs: ["Job 28:14"]}
+      - {motif: wisdom-beyond-price-of-gems, refs: ["Job 28:15", "Job 28:16", "Job 28:17", "Job 28:18", "Job 28:19"]}
+      - {motif: abaddon-and-death-heard-rumor, refs: ["Job 28:22"]}
+      - {motif: god-alone-knows-way-of-wisdom, refs: ["Job 28:21", "Job 28:23", "Job 28:24", "Job 28:27"]}
+      - {motif: weight-of-wind-measure-of-waters, refs: ["Job 28:25", "Job 28:26"]}
+      - {motif: fear-of-lord-is-wisdom, refs: ["Job 28:28"], note: "only use of Adonai in Job"}
+    hints:
+      - "Ancient mining: Sinai turquoise and Timna copper mines; Agatharchides on Egyptian gold mines; Pliny NH 33.70-78 on Spanish mines."
+      - "Hidden wisdom: Baruch 3:15-37; 1 Enoch 42 (Wisdom found no dwelling and returned to heaven); Sirach 24; Prov 3:14-15, 8:11."
+      - "Gilgamesh's journey to the ends of the earth for life/wisdom."
+  - id: hb-job-29-former-glory
+    tradition: judaism
+    title: Job remembers his former glory
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 29:1-25"]
+    tags:
+      - {motif: longing-for-former-days, refs: ["Job 29:2", "Job 29:3"]}
+      - {motif: council-of-god-over-tent, refs: ["Job 29:4", "Job 29:5"]}
+      - {motif: feet-washed-in-cream-rock-pours-oil, refs: ["Job 29:6"]}
+      - {motif: elder-honored-at-city-gate, refs: ["Job 29:7", "Job 29:8", "Job 29:9", "Job 29:10"]}
+      - {motif: hand-on-mouth-in-awe, refs: ["Job 29:9"]}
+      - {motif: clothed-in-righteousness-as-robe, refs: ["Job 29:14"]}
+      - {motif: eyes-to-blind-feet-to-lame, refs: ["Job 29:12", "Job 29:13", "Job 29:15", "Job 29:16"]}
+      - {motif: broke-the-fangs-of-wicked, refs: ["Job 29:17"]}
+      - {motif: die-in-my-nest-multiply-days-like-chol, refs: ["Job 29:18"], note: "Gen Rabbah 19:5 and Sanhedrin 108b read chol as the phoenix that lives 1000 years"}
+      - {motif: root-spread-to-waters-dew-on-branches, refs: ["Job 29:19"]}
+      - {motif: bow-renewed-in-hand, refs: ["Job 29:20"]}
+      - {motif: words-awaited-like-rain, refs: ["Job 29:21", "Job 29:22", "Job 29:23"]}
+      - {motif: sat-as-chief-like-king-among-troops, refs: ["Job 29:25"]}
+    hints:
+      - "Phoenix (chol): Herodotus 2.73, Ovid Met. 15.391-407, 1 Clement 25, 2 Enoch 15; Egyptian Bennu bird."
+      - "Testament of Job 9-15 expands Job's charity (doors open on four sides for travelers)."
+  - id: hb-job-30-present-humiliation
+    tradition: judaism
+    title: Job's present humiliation
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 30:1-31"]
+    tags:
+      - {motif: mocked-by-sons-of-outcasts, refs: ["Job 30:1"]}
+      - {motif: outcast-desert-people-eat-roots, refs: ["Job 30:2", "Job 30:3", "Job 30:4", "Job 30:5", "Job 30:6", "Job 30:7"]}
+      - {motif: sons-of-no-name, refs: ["Job 30:8"]}
+      - {motif: song-and-byword-of-rabble, refs: ["Job 30:9", "Job 30:10"]}
+      - {motif: terrors-turned-on-me, refs: ["Job 30:12", "Job 30:13", "Job 30:14", "Job 30:15"]}
+      - {motif: gnawing-pains-at-night, refs: ["Job 30:16", "Job 30:17", "Job 30:18"]}
+      - {motif: thrown-in-the-mire, refs: ["Job 30:19"]}
+      - {motif: dust-and-ashes-humility, refs: ["Job 30:19"]}
+      - {motif: god-turned-cruel, refs: ["Job 30:20", "Job 30:21"]}
+      - {motif: tossed-on-the-wind, refs: ["Job 30:22"]}
+      - {motif: house-appointed-for-all-living, refs: ["Job 30:23"]}
+      - {motif: hoped-for-good-evil-came, refs: ["Job 30:26"]}
+      - {motif: brother-to-jackals-companion-of-ostriches, refs: ["Job 30:29"]}
+      - {motif: skin-turns-black, refs: ["Job 30:28", "Job 30:30"]}
+      - {motif: lyre-turned-to-mourning, refs: ["Job 30:31"]}
+    hints:
+      - "Despised troglodyte outcasts: Herodotus 4.183 (Ethiopian troglodytes); Agatharchides on root-eaters (rhizophagi)."
+      - "Ps 102:7 (pelican of the wilderness, owl of the ruins) as companions of the lamenter; Mic 1:8."
+  - id: hb-job-31-oath-of-innocence
+    tradition: judaism
+    title: Job's oath of innocence
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 31:1-40"]
+    tags:
+      - {motif: oath-of-clearance-negative-confession, refs: ["Job 31:5", "Job 31:7", "Job 31:9", "Job 31:13", "Job 31:16", "Job 31:19", "Job 31:21", "Job 31:24", "Job 31:26", "Job 31:29", "Job 31:33", "Job 31:38"]}
+      - {motif: covenant-with-eyes, refs: ["Job 31:1"]}
+      - {motif: weighed-in-just-balances, refs: ["Job 31:6"]}
+      - {motif: another-shall-eat-what-i-sow, refs: ["Job 31:8"]}
+      - {motif: wife-grinds-for-another, refs: ["Job 31:9", "Job 31:10"]}
+      - {motif: adultery-fire-consuming-to-abaddon, refs: ["Job 31:11", "Job 31:12"]}
+      - {motif: master-and-slave-made-in-same-womb, refs: ["Job 31:13", "Job 31:14", "Job 31:15"]}
+      - {motif: did-not-eat-morsel-alone, refs: ["Job 31:16", "Job 31:17", "Job 31:18"]}
+      - {motif: clothed-poor-with-fleece, refs: ["Job 31:19", "Job 31:20"]}
+      - {motif: arm-fall-from-shoulder-curse, refs: ["Job 31:21", "Job 31:22"]}
+      - {motif: no-trust-in-gold, refs: ["Job 31:24", "Job 31:25"]}
+      - {motif: sun-and-moon-worship-kissing-hand, refs: ["Job 31:26", "Job 31:27", "Job 31:28"]}
+      - {motif: no-rejoicing-at-enemys-ruin, refs: ["Job 31:29", "Job 31:30"]}
+      - {motif: stranger-never-lodged-outside, refs: ["Job 31:31", "Job 31:32"]}
+      - {motif: hospitality-to-strangers, refs: ["Job 31:32"]}
+      - {motif: hiding-sins-like-adam, refs: ["Job 31:33"], note: "ke'adam: 'like Adam' or 'as men do'"}
+      - {motif: signature-tav-demand-for-hearing, refs: ["Job 31:35"]}
+      - {motif: indictment-worn-as-crown, refs: ["Job 31:35", "Job 31:36", "Job 31:37"]}
+      - {motif: land-cries-out-furrows-weep, refs: ["Job 31:38", "Job 31:39"]}
+      - {motif: thorns-instead-of-wheat, refs: ["Job 31:40"]}
+      - {motif: colophon-words-ended, refs: ["Job 31:40"]}
+    hints:
+      - "Closest parallel: Egyptian Book of the Dead ch. 125 'Negative Confession' before the 42 judges, with the heart weighed on scales (cf. 31:6)."
+      - "Covenant with the eyes: Matt 5:28; Sirach 9:5,8. Kissing the hand to the moon: Pliny NH 28.25, Lucian De saltatione 17."
+      - "Ps 81 and Ps 137:5-6 self-curse form; Assyrian loyalty-oath curses."
+      - "Psalm 7:4-6, the Ezek 18 righteous man's list."
+  - id: hb-job-32-elihu-introduced
+    tradition: judaism
+    title: Elihu is introduced and explains his intervention
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 32:1-22"]
+    tags:
+      - {motif: young-interlocutor-angry, refs: ["Job 32:2", "Job 32:3", "Job 32:4", "Job 32:5", "Job 32:6"]}
+      - {motif: elihu-buzite-of-ram, refs: ["Job 32:2"], note: "Buz is a son of Nahor (Gen 22:21); Barachel 'God blesses'"}
+      - {motif: wisdom-with-the-aged, refs: ["Job 32:7"], note: "assumed, then rejected"}
+      - {motif: spirit-in-man-not-age-gives-wisdom, refs: ["Job 32:8", "Job 32:9"]}
+      - {motif: belly-like-bursting-wineskins, refs: ["Job 32:18", "Job 32:19", "Job 32:20"]}
+      - {motif: no-flattery-of-any-man, refs: ["Job 32:21", "Job 32:22"]}
+    hints:
+      - "New wine bursting old/new wineskins: Mark 2:22. Jewish tradition (Seder Olam; Bava Batra 15b) counts Elihu among the seven prophets to the gentiles, with Balaam, Job and Job's friends."
+      - "The young sage who outwits elders: Daniel in Susanna; the boy Jesus in the Temple (Luke 2:46-47)."
+  - id: hb-job-33-elihu-dreams-and-angel
+    tradition: judaism
+    title: Elihu - warning dreams and the interceding angel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 33:1-33"]
+    tags:
+      - {motif: spirit-of-god-made-me, refs: ["Job 33:4"]}
+      - {motif: pinched-off-from-clay, refs: ["Job 33:6"]}
+      - {motif: human-formed-from-earth, refs: ["Job 33:6"]}
+      - {motif: feet-in-stocks, refs: ["Job 33:11"], note: "quoting Job 13:27"}
+      - {motif: god-speaks-once-twice-unheeded, refs: ["Job 33:14"]}
+      - {motif: warning-dreams-to-turn-from-pride, refs: ["Job 33:15", "Job 33:16", "Job 33:17", "Job 33:18"]}
+      - {motif: deep-sleep-sent-by-god, refs: ["Job 33:15"]}
+      - {motif: sickness-as-divine-warning, refs: ["Job 33:19", "Job 33:20", "Job 33:21"]}
+      - {motif: near-to-the-destroyers, refs: ["Job 33:22"]}
+      - {motif: interceding-angel-one-in-thousand, refs: ["Job 33:23"]}
+      - {motif: ransom-found-from-the-pit, refs: ["Job 33:24"]}
+      - {motif: flesh-restored-like-childs, refs: ["Job 33:25"], note: "rutaphash, hapax"}
+      - {motif: confession-before-men-after-healing, refs: ["Job 33:26", "Job 33:27", "Job 33:28"]}
+      - {motif: god-acts-twice-three-times, refs: ["Job 33:29", "Job 33:30"]}
+    hints:
+      - "Pinched off from clay: Akkadian karatsu tita 'to nip off clay' used of Aruru creating Enkidu (Gilgamesh I) and of Mami creating humans (Atrahasis I)."
+      - "Interceding angel: Michael as advocate; Talmud Shabbat 32a (a man's merits as paraclete, 'one in a thousand'); the kofer ransom echoes the Christian ransom theory."
+      - "Naaman's flesh restored 'like a little child's' (2 Kgs 5:14)."
+  - id: hb-job-34-elihu-defends-gods-justice
+    tradition: judaism
+    title: Elihu - God cannot do wrong
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 34:1-37"]
+    tags:
+      - {motif: ear-tests-words-as-palate-tastes, refs: ["Job 34:3"], note: "quoting Job 12:11"}
+      - {motif: drinks-iniquity-like-water, refs: ["Job 34:7"], note: "Job 'drinks scorn like water'"}
+      - {motif: human-righteousness-no-gain-to-god, refs: ["Job 34:9"]}
+      - {motif: far-be-it-from-god-to-do-wrong, refs: ["Job 34:10", "Job 34:11", "Job 34:12"]}
+      - {motif: does-god-pervert-justice, refs: ["Job 34:12", "Job 34:17"]}
+      - {motif: if-god-withdrew-his-breath-all-would-perish, refs: ["Job 34:14", "Job 34:15"]}
+      - {motif: dust-to-dust, refs: ["Job 34:15"]}
+      - {motif: god-impartial-to-princes-and-poor, refs: ["Job 34:18", "Job 34:19"]}
+      - {motif: mighty-die-at-midnight, refs: ["Job 34:20"]}
+      - {motif: no-darkness-hides-evildoers, refs: ["Job 34:21", "Job 34:22"]}
+      - {motif: god-topples-mighty-without-inquiry, refs: ["Job 34:24", "Job 34:25", "Job 34:26"]}
+      - {motif: god-hides-his-face, refs: ["Job 34:29"]}
+      - {motif: godless-king-prevented, refs: ["Job 34:30"]}
+      - {motif: job-tested-to-the-end, refs: ["Job 34:36"]}
+      - {motif: words-without-knowledge, refs: ["Job 34:35", "Job 34:37"]}
+    hints:
+      - "Ps 104:29-30 (God takes away their breath and they die); Quran 32:9 and 15:29 (God breathes his spirit into man)."
+      - "Midnight death of the mighty recalls the slaying of the firstborn (Exod 12:29)."
+  - id: hb-job-35-elihu-songs-in-night
+    tradition: judaism
+    title: Elihu - human righteousness does not affect God
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Job 35:1-16"]
+    tags:
+      - {motif: human-righteousness-no-gain-to-god, refs: ["Job 35:3", "Job 35:7"]}
+      - {motif: your-sin-does-not-touch-god, refs: ["Job 35:5", "Job 35:6", "Job 35:7", "Job 35:8"]}
+      - {motif: songs-in-the-night, refs: ["Job 35:10"]}
+      - {motif: taught-more-than-beasts-and-birds, refs: ["Job 35:11"]}
+      - {motif: empty-cry-unheard, refs: ["Job 35:9", "Job 35:12", "Job 35:13"]}
+      - {motif: words-without-knowledge, refs: ["Job 35:16"]}
+    hints:
+      - "God's self-sufficiency: Quran 35:15 ('you are the poor ones in need of God, and God is the Rich'); Hadith qudsi 'O my servants, you cannot harm me nor benefit me' (Muslim, Birr 55); Epicurean impassible gods."
