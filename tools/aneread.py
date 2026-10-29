@@ -282,6 +282,35 @@ def print_keys(keys, corpus, lemmas=False):
                 print(f"  ~ {g}")
 
 
+def quick_vocab():
+    """The motif vocabulary without loading units or alignments: data/motifs.yaml, every file's `new_motifs`
+    (first definition wins, as in tools/motifs.py) and the aliases."""
+    loader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+    data = ROOT / "data"
+    vocab = yaml.load((data / "motifs.yaml").read_text(encoding="utf-8"), Loader=loader)["motifs"]
+    files = sorted((data / "motif-tags").rglob("*.yaml")) + sorted((data / "alignments").rglob("[0-9]*.yaml"))
+    for path in files:
+        text = path.read_text(encoding="utf-8")
+        if "new_motifs:" not in text:
+            continue
+        head = text.split("\nunits:", 1)[0].split("\nreviewed:", 1)[0]
+        if "new_motifs:" not in head:
+            head = text
+        try:
+            doc = yaml.load(head, Loader=loader) or {}
+        except yaml.YAMLError:
+            continue
+        for mid, m in (doc.get("new_motifs") or {}).items():
+            if isinstance(m, dict) and "label" in m:
+                vocab.setdefault(mid, m)
+    alias_path = data / "motif-aliases.yaml"
+    if alias_path.exists():
+        for a in ((yaml.load(alias_path.read_text(encoding="utf-8"), Loader=loader) or {}).get("aliases") or {}):
+            if a in vocab:
+                vocab[a] = {**vocab[a], "alias_of": True}
+    return vocab
+
+
 def main():
     signal.signal(signal.SIGPIPE, signal.SIG_DFL)
     cmd = sys.argv[1] if len(sys.argv) > 1 else "plan"
@@ -303,8 +332,7 @@ def main():
             print(f"{t['chunk']:3d}  {t['lines']:5d}  {t['siglum']}: {t['title']}  ({t['tradition']}){parts}")
         return
     if cmd == "vocab":
-        import motifs
-        vocab, _units = motifs.load(strict=False)
+        vocab = quick_vocab()
         words = [w.lower() for w in sys.argv[2:]]
         if not words:
             sys.exit("give one or more words: the vocabulary is too large to print whole")
