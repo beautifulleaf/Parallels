@@ -77,10 +77,16 @@ reviewed:
   - details reversed.
 
   Do not record differences that are only a matter of length or genre.
-- **motif:** if one side already has a tag that fits, reuse its id. The
-  loader adds that tag to the other unit at your refs. Otherwise define a
-  shared id under `new_motifs`. Several matches per pair are expected; each
-  is one motif.
+- **motif:** for `parallel` and `echo`, if one side already has a tag that
+  fits, reuse its id. The loader adds that tag to the other unit at your refs.
+  Otherwise define a shared id under `new_motifs`. Several matches per pair
+  are expected; each is one motif.
+
+  For `divergence`, `response` and `contrast`, use a **neutral id** that names
+  the shared matter, such as `payment-for-a-life` or `divine-title-sent-to-pharaoh`.
+  Do not use one side's claim, because the loader would put a label such as
+  "no ransom for a murderer" on the verse that says the opposite. Reuse a
+  neutral id when one already exists.
 - **note:** quote or transliterate the decisive words of each side. The note
   is what the people checking the Arabic and Hebrew will check first.
 - An empty `matches` list is a result: those candidates were compared and

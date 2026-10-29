@@ -1,6 +1,7 @@
 new_motifs:
   god-opens-and-none-can-shut: {label: "What God opens no one can shut, and what he withholds no one can release", cluster: theology}
   adversary-rebuked-in-heavenly-court: {label: "The satan or the devils are rebuked and driven off in the heavenly realm", cluster: theology}
+  heavens-dwarf-humankind: {label: "The creation of the heavens is greater than the creation of humankind", cluster: creation}
 reviewed:
   - unit: quran-29-spider
     checked: [hb-job-8-bildad-first-speech, hb-isa-59-sins-separate-divine-warrior, hb-job-9-job-cannot-sue-god, hb-job-26-hymn-to-cosmic-power, hb-ps-91-shelter-of-most-high]
@@ -1997,3 +1998,108 @@ reviewed:
         with_refs: ["Exod 10:7"]
         relation: parallel
         note: "wa-yyōʾmərû ʿaḇdê parʿōh ʾēlâw ʿaḏ-māṯay yihyeh zeh lānû lə-môqēš šallaḥ ʾeṯ-hā-ʾănāšîm ... hă-ṭerem tēḏaʿ kî ʾāḇəḏâ miṣrāyim vs. a-taqtulūna rajulan an yaqūla rabbiya llāh ... innī akhāfu ʿalaykum mithla yawmi l-aḥzāb: Pharaoh's own courtiers urge him to give way before ruin comes. Exodus gives a pragmatic plea (Egypt is lost); the Quran gives a believer's argument (if he lies it is on him, if true you will be struck)."
+  - unit: quran-40-call-on-me
+    checked: [hb-gen-1-creation-six-days, hb-ps-74-leviathan, hb-ps-104-creation-hymn, hb-isa-44-idol-from-half-a-log, hb-ps-44-national-lament, hb-jer-33-branch-and-cosmic-covenant, hb-ps-8-what-is-man, hb-job-10-why-did-you-make-me]
+    matches:
+      - with: hb-jer-33-branch-and-cosmic-covenant
+        motif: call-on-me-i-will-answer
+        refs: ["40:60"]
+        with_refs: ["Jer 33:3"]
+        relation: parallel
+        note: "qərāʾ ʾēlay wə-ʾeʿĕnekkā wə-ʾaggîḏâ ləḵā gəḏōlôṯ û-ḇəṣurôṯ vs. wa-qāla rabbukumu dʿūnī astajib lakum: call to me and I will answer. Jeremiah's words are to the prophet in prison; the Quran's to all ('your Lord said'), followed by a threat to those too proud to worship."
+      - with: hb-gen-1-creation-six-days
+        motif: human-in-divine-image
+        refs: ["40:64"]
+        with_refs: ["Gen 1:27", "Gen 1:31"]
+        relation: divergence
+        note: "Human form at creation. Gen: wa-yyiḇrāʾ ʾĕlōhîm ʾeṯ-hā-ʾāḏām bə-ṣalmô ... wə-hinnēh-ṭôḇ məʾōḏ. Q: wa-ṣawwarakum fa-aḥsana ṣuwarakum. God gives humans their form (ṣūra) and makes it good (aḥsana ~ ṭôḇ), but it is their own form, not God's image (ṣelem). The Quran keeps 'formed well' and leaves out 'in his image'."
+      - with: hb-ps-8-what-is-man
+        motif: heavens-dwarf-humankind
+        refs: ["40:57"]
+        with_refs: ["Ps 8:4", "Ps 8:5"]
+        relation: parallel
+        note: "kî-ʾerʾeh šāmeyḵā maʿăśê ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti wa-l-arḍi akbaru min khalqi n-nāsi: the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm); the Quran uses the comparison to rebuke the proud disputers (40:56)."
+      - with: hb-job-10-why-did-you-make-me
+        motif: stages-dust-drop-clot-child-old-age
+        refs: ["40:67"]
+        with_refs: ["Job 10:9", "Job 10:10", "Job 10:11"]
+        relation: echo
+        note: "kî-ḵa-ḥōmer ʿăśîṯānî ... hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalaqakum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma yukhrijukum ṭiflan: human genesis in stages, from earth through seminal fluid to the formed body."
+      - with: hb-ps-104-creation-hymn
+        motif: luminaries-rule-day-night
+        refs: ["40:61"]
+        with_refs: ["Ps 104:20", "Ps 104:23"]
+        relation: echo
+        note: "tāšeṯ-ḥōšeḵ wî-hî lāyəlâ ... yēṣēʾ ʾāḏām lə-p̄āʿŏlô vs. jaʿala lakumu l-layla li-taskunū fīhi wa-n-nahāra mubṣirā: night and day ordered by God, rest and work. In the psalm the night belongs to the beasts; in the Quran it is for human rest."
+  - unit: quran-40-chains-and-late-faith
+    checked: [hb-isa-65-rebels-and-servants, hb-deut-28-blessings-curses, hb-ps-44-national-lament, hb-prov-1-wisdom-cries-out, hb-jer-2-harlot-vine-camel, hb-deut-32-song-of-moses, hb-isa-45-cyrus-the-anointed]
+    matches:
+      - with: hb-prov-1-wisdom-cries-out
+        motif: faith-at-last-moment-unaccepted
+        refs: ["40:84", "40:85"]
+        with_refs: ["Prov 1:26", "Prov 1:27", "Prov 1:28"]
+        relation: parallel
+        note: "bə-ḇōʾ ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs. fa-lammā raʾaw baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw baʾsanā: a call made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who refuses; in the Quran it is God's unchanging sunna."
+      - with: hb-jer-2-harlot-vine-camel
+        motif: false-gods-vanish-from-damned
+        refs: ["40:73", "40:74"]
+        with_refs: ["Jer 2:28"]
+        relation: parallel
+        note: "wə-ʾayyēh ʾĕlōheyḵā ʾăšer ʿāśîṯā lāḵ yāqûmû ʾim-yôšîʿûḵā bə-ʿēṯ rāʿāṯeḵā vs. thumma qīla lahum ayna mā kuntum tushrikūna min dūni llāhi qālū ḍallū ʿannā: 'Where are your gods?' in the hour of need. Jeremiah's question is left hanging; in the Quran the damned answer that the gods have vanished, and even that they called on nothing (lam nakun nadʿū min qablu shayʾan)."
+      - with: hb-deut-32-song-of-moses
+        motif: false-gods-vanish-from-damned
+        refs: ["40:73"]
+        with_refs: ["Deut 32:37", "Deut 32:38"]
+        relation: parallel
+        note: "wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû ḇô ... yāqûmû wə-yaʿzəruḵem vs. ayna mā kuntum tushrikūn: God taunts the idolaters to call on their gods (ʾê / ayna)."
+      - with: hb-isa-65-rebels-and-servants
+        motif: faith-at-last-moment-unaccepted
+        refs: ["40:83", "40:84"]
+        with_refs: ["Isa 65:12"]
+        relation: echo
+        note: "yaʿan qārāʾṯî wə-lōʾ ʿănîṯem dibbartî wə-lōʾ šəmaʿtem vs. fa-lammā jāʾathum rusuluhum bi-l-bayyināti fariḥū bi-mā ʿindahum mina l-ʿilm: God called and they did not answer while there was time, and the sword follows."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: damned-dragged-in-chains-through-boiling-water
+        refs: ["40:71"]
+        with_refs: ["Isa 45:14"]
+        relation: echo
+        note: "ʾaḥărayiḵ yēlēḵû ba-zziqqîm yaʿăḇōrû ... ʾaḵ bāḵ ʾēl wə-ʾên ʿôḏ ʾep̄es ʾĕlōhîm vs. idhi l-aghlālu fī aʿnāqihim wa-s-salāsilu yusḥabūn: the defeated led in chains. In Isaiah the nations in chains confess the one God; in the Quran the chained idolaters confess too late."
+  - unit: quran-41-fussilat-creation
+    checked: [hb-isa-6-throne-vision, hb-gen-1-creation-six-days, hb-ps-104-creation-hymn, hb-isa-40-comfort-my-people, hb-isa-45-cyrus-the-anointed, hb-isa-51-abraham-quarry, hb-isa-48-refined-in-affliction]
+    matches:
+      - with: hb-gen-1-creation-six-days
+        motif: creation-in-six-days
+        refs: ["41:9", "41:10", "41:11", "41:12"]
+        with_refs: ["Gen 1:6", "Gen 1:8", "Gen 1:9", "Gen 1:10", "Gen 1:14"]
+        relation: divergence
+        note: "The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî), dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries are 'lamps' of the lowest heaven."
+      - with: hb-isa-51-abraham-quarry
+        motif: heaven-was-smoke
+        refs: ["41:11"]
+        with_refs: ["Isa 51:6"]
+        relation: contrast
+        note: "Heaven and smoke at opposite ends of time. Isa: kî-šāmayim kə-ʿāšān nimlāḥû wə-hā-ʾāreṣ ka-bbeḡeḏ tiḇleh, the heavens will vanish like smoke at the end. Q: thumma stawā ilā s-samāʾi wa-hiya dukhān, heaven was smoke at the beginning, before it was formed into seven."
+      - with: hb-isa-48-refined-in-affliction
+        motif: heaven-and-earth-come-willingly
+        refs: ["41:11"]
+        with_refs: ["Isa 48:13"]
+        relation: parallel
+        note: "ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. fa-qāla lahā wa-li-l-arḍi ʾtiyā ṭawʿan aw karhan qālatā ataynā ṭāʾiʿīn: God addresses heaven and earth together and they obey at once (yaḥdāw / the dual). In the Quran they also answer in speech."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: each-heaven-given-its-command
+        refs: ["41:12"]
+        with_refs: ["Isa 45:12"]
+        relation: echo
+        note: "ʾănî yāḏay nāṭû šāmayim wə-ḵol-ṣəḇāʾām ṣiwwêṯî vs. wa-awḥā fī kulli samāʾin amrahā wa-zayyannā s-samāʾa d-dunyā bi-maṣābīḥ: God gives the heavens and their hosts their command (ṣiwwâ / amr)."
+      - with: hb-isa-6-throne-vision
+        motif: hearts-veiled-ears-heavy-curtain-between
+        refs: ["41:5"]
+        with_refs: ["Isa 6:10"]
+        relation: divergence
+        note: "Heavy ears, in the speakers' own mouth. Isa: God commands hašmēn lēḇ hā-ʿām ... wə-ʾoznâw hakbēd. Q: wa-qālū qulūbunā fī akinnatin ... wa-fī ādhāninā waqrun wa-min bayninā wa-baynika ḥijāb. The rejecters themselves boast of covered hearts and heavy ears (waqr ~ kāḇēḏ) as a refusal (fa-ʿmal innanā ʿāmilūn). The divine hardening becomes a self-declaration."
+      - with: hb-ps-104-creation-hymn
+        motif: mountains-stabilize-earth
+        refs: ["41:10"]
+        with_refs: ["Ps 104:5", "Ps 104:13"]
+        relation: echo
+        note: "yāsaḏ-ʾereṣ ʿal-məḵôneyhā ... mi-ppərî maʿăśeyḵā tiśbaʿ hā-ʾāreṣ vs. wa-jaʿala fīhā rawāsiya min fawqihā wa-bāraka fīhā wa-qaddara fīhā aqwātahā: the earth made firm and supplied with food."

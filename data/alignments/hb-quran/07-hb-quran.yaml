@@ -2113,3 +2113,228 @@ reviewed:
         with_refs: ["Mal 3:16"]
         relation: echo
         note: "God listens to private conversations and records them: ʾāz nidbərû yirʾê YHWH ʾîš ʾeṯ rēʿēhû wa-yyaqšēḇ YHWH wa-yyišmāʿ wa-yyikkāṯēḇ sēp̄er zikkārôn vs. mā yakūnu min najwā thalāthatin illā huwa rābiʿuhum ... thumma yunabbiʾuhum bi-mā ʿamilū (and 58:6 aḥṣāhu llāh). Malachi: the God-fearers' talk heard and written for their good; Quran: God present in every secret meeting, good or bad. cf. m. Avot 3:2 (the Shekhinah among two who study)."
+  - unit: quran-59-hashr-banu-nadir-and-fay
+    checked: [hb-deut-20-rules-of-war, hb-zech-8-zion-restored, hb-zech-7-fasting-question, hb-ps-146-trust-not-princes, hb-isa-1-indictment-of-judah, hb-jer-12-forsaken-heritage, hb-2kgs-3-moab-campaign, hb-num-31-midian-war, hb-deut-14-diet-tithe, hb-deut-28-blessings-curses]
+    matches:
+      - with: hb-deut-20-rules-of-war
+        motif: spare-fruit-trees-in-siege
+        refs: ["59:5"]
+        with_refs: ["Deut 20:19", "Deut 20:20"]
+        relation: contrast
+        note: "Cutting the enemy's trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr ... lōʾ ṯašḥîṯ ʾeṯ ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ kî lōʾ ʿēṣ maʾăḵāl hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāhi wa-li-yukhziya l-fāsiqīn (whatever palms you cut or left standing was by God's leave). Date palms are fruit trees; the Quran sanctions what Deuteronomy forbids, for a given siege."
+      - with: hb-2kgs-3-moab-campaign
+        motif: spare-fruit-trees-in-siege
+        refs: ["59:5"]
+        with_refs: ["2Kgs 3:19", "2Kgs 3:25"]
+        relation: parallel
+        note: "The biblical exception: a prophet's word authorizes felling good trees: wə-ḵol ʿēṣ ṭôḇ tappîlû wə-ḵol maʿyənê mayim tistōmû (Elisha's oracle, carried out in 3:25) vs. mā qaṭaʿtum min līnatin ... fa-bi-idhni llāh. In both the destruction of the enemy's trees is licensed by a divine word; both run against Deut 20:19."
+      - with: hb-num-31-midian-war
+        motif: division-of-spoils
+        refs: ["59:6", "59:7"]
+        with_refs: ["Num 31:27", "Num 31:28", "Num 31:29"]
+        relation: divergence
+        note: "Sharing out spoil. Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ, wa-hărēmōṯā meḵes la-YHWH, given to Eleazar the priest (half to the fighters, half to the people, a levy for God through the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi min khaylin wa-lā rikāb ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīli kay lā yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives the fighters no share: all goes to God, the Prophet, kin and the needy, so that wealth does not circulate among the rich. The priest's levy becomes the Prophet's share."
+      - with: hb-deut-14-diet-tithe
+        motif: fay-booty-without-fighting-for-prophet-kin-poor
+        refs: ["59:7"]
+        with_refs: ["Deut 14:29"]
+        relation: echo
+        note: "The beneficiaries: û-ḇāʾ hal-lēwî kî ʾên lô ḥēleq wə-naḥălâ ʿimmāḵ wə-hag-gēr wə-hay-yāṯôm wə-hā-ʾalmānâ vs. wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl. The third-year tithe feeds Levite, stranger, orphan and widow; the fayʾ feeds the Prophet's kin, orphans, the poor and the wayfarer (the Levite's place taken by the Prophet's kin, the stranger by the wayfarer)."
+      - with: hb-ps-146-trust-not-princes
+        motif: god-loves-stranger-orphan-widow
+        refs: ["59:7"]
+        with_refs: ["Ps 146:9"]
+        relation: echo
+        note: "YHWH šōmēr ʾeṯ gērîm yāṯôm wə-ʾalmānâ yəʿôḏēḏ vs. wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl: God's care for orphan and stranger, turned in the Quran into a law for distributing spoil."
+      - with: hb-zech-7-fasting-question
+        motif: god-loves-stranger-orphan-widow
+        refs: ["59:7", "59:9"]
+        with_refs: ["Zech 7:10"]
+        relation: echo
+        note: "wə-ʾalmānâ wə-yāṯôm gēr wə-ʿānî ʾal taʿăšōqû wə-rāʿaṯ ʾîš ʾāḥîw ʾal taḥšəḇû bi-lḇaḇḵem vs. the shares for orphans and the poor (59:7) and wa-lā yajidūna fī ṣudūrihim ḥājatan ... (59:9-10: no rancor in our hearts, wa-lā tajʿal fī qulūbinā ghillan). Zechariah also joins care for the weak with 'devise no evil in your heart'."
+      - with: hb-deut-28-blessings-curses
+        motif: fortresses-cannot-protect-terror-cast-in-hearts
+        refs: ["59:2"]
+        with_refs: ["Deut 28:52"]
+        relation: echo
+        note: "Fortified walls that do not save: ʿaḏ reḏeṯ ḥōmōṯêḵā hag-gəḇōhôṯ wə-hab-bəṣurôṯ ʾăšer ʾattâ bōṭēaḥ bāhēn vs. wa-ẓannū annahum māniʿatuhum ḥuṣūnuhum mina llāhi fa-atāhumu llāhu min ḥaythu lam yaḥtasibū. Deuteronomy's curse is on Israel; the Quran applies the same false trust to the Banū Naḍīr."
+  - unit: quran-59-hashr-hypocrites-and-the-names
+    checked: [hb-isa-6-throne-vision, hb-exod-34-thirteen-attributes-covenant-renewal, hb-judg-6-gideon-call, hb-isa-46-bel-nebo-carried, hb-exod-19-sinai-theophany, hb-1chr-17-dynastic-oracle, hb-isa-43-you-are-my-witnesses]
+    matches:
+      - with: hb-exod-19-sinai-theophany
+        motif: mountain-smokes-like-furnace-and-quakes
+        refs: ["59:21"]
+        with_refs: ["Exod 19:18"]
+        relation: divergence
+        note: "A mountain under the weight of revelation. Exodus: wə-har sînay ʿāšan kullô mip-pənê ʾăšer yāraḏ ʿālâw YHWH bā-ʾēš ... wa-yyeḥĕraḏ kol hā-hār məʾōḏ (Sinai actually smokes and quakes as YHWH descends). Quran: law anzalnā hādhā l-qurʾāna ʿalā jabalin la-raʾaytahu khāshiʿan mutaṣaddiʿan min khashyati llāh (had we sent this Quran down on a mountain, you would see it humbled and split for fear of God). The event at Sinai becomes a counterfactual: what God descends with is the book, and the mountain's fear shames the unmoved hearer."
+      - with: hb-isa-6-throne-vision
+        motif: litany-of-beautiful-names
+        refs: ["59:23"]
+        with_refs: ["Isa 6:3", "Isa 6:5"]
+        relation: parallel
+        note: "King and Holy as divine titles together: qāḏôš qāḏôš qāḏôš YHWH ṣəḇāʾôṯ ... ʾeṯ ham-meleḵ YHWH ṣəḇāʾôṯ rāʾû ʿênāy vs. huwa llāhu lladhī lā ilāha illā huwa l-maliku l-quddūsu s-salām (meleḵ / malik, qāḏôš / quddūs)."
+      - with: hb-judg-6-gideon-call
+        motif: litany-of-beautiful-names
+        refs: ["59:23"]
+        with_refs: ["Judg 6:24"]
+        relation: echo
+        note: "Peace as a name of God: wa-yyiben šām giḏʿôn mizbēaḥ la-YHWH wa-yyiqrāʾ lô YHWH šālôm vs. al-maliku l-quddūsu s-salām. Gideon names an altar 'YHWH is peace'; in the Quran al-Salām is itself a name of God. cf. b. Shabbat 10b (Shalom as a name of God)."
+      - with: hb-exod-34-thirteen-attributes-covenant-renewal
+        motif: litany-of-beautiful-names
+        refs: ["59:22"]
+        with_refs: ["Exod 34:6"]
+        relation: parallel
+        note: "God's self-proclaimed names of mercy: wa-yyiqrāʾ YHWH YHWH ʾēl raḥûm wə-ḥannûn ʾereḵ ʾappayim wə-raḇ ḥeseḏ we-ʾĕmeṯ vs. huwa r-raḥmānu r-raḥīm (r-ḥ-m in both). In Exodus God proclaims them himself to Moses after the calf; in the Quran they open a creed in the third person (huwa llāh)."
+      - with: hb-isa-43-you-are-my-witnesses
+        motif: litany-of-beautiful-names
+        refs: ["59:24"]
+        with_refs: ["Isa 43:1"]
+        relation: parallel
+        note: "Creator names from the same roots: kōh ʾāmar YHWH bōrăʾăḵā yaʿăqōḇ wə-yōṣerḵā yiśrāʾēl vs. huwa llāhu l-khāliqu l-bāriʾu l-muṣawwir (bôrēʾ / bāriʾ, same root b-r-ʾ; yōṣēr 'former' ~ muṣawwir 'fashioner'). Isaiah: creator and former of Jacob-Israel; Quran: of all things, followed by 'to him belong the most beautiful names'."
+      - with: hb-1chr-17-dynastic-oracle
+        motif: no-god-beside-you-confession
+        refs: ["59:22", "59:23"]
+        with_refs: ["1Chr 17:20"]
+        relation: parallel
+        note: "YHWH ʾên kāmôḵā wə-ʾên ʾĕlōhîm zûlāṯeḵā vs. huwa llāhu lladhī lā ilāha illā huwa (twice). David's prayer in the second person; the Quran's creed in the third."
+      - with: hb-isa-46-bel-nebo-carried
+        motif: no-god-beside-you-confession
+        refs: ["59:22"]
+        with_refs: ["Isa 46:9"]
+        relation: echo
+        note: "kî ʾānōḵî ʾēl wə-ʾên ʿôḏ ʾĕlōhîm wə-ʾep̄es kāmônî vs. lā ilāha illā huwa ʿālimu l-ghaybi wa-sh-shahāda. Isaiah adds incomparability; the Quran knowledge of the hidden and the seen."
+  - unit: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    checked: [hb-ezra-10-dismissal-of-foreign-wives, hb-exod-20-decalogue, hb-deut-5-decalogue, hb-zech-5-flying-scroll, hb-ezek-18-sour-grapes, hb-exod-23-justice-sabbatical-festivals, hb-ezek-14-idols-in-heart-noah-daniel-job]
+    matches:
+      - with: hb-exod-20-decalogue
+        motif: prohibition-murder-adultery-theft-false-witness
+        refs: ["60:12"]
+        with_refs: ["Exod 20:3", "Exod 20:13", "Exod 20:14", "Exod 20:15", "Exod 20:16"]
+        relation: divergence
+        note: "A short list of apodictic prohibitions, the women's pledge as a small decalogue. Exodus: lōʾ yihyeh ləḵā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer. Quran: ʿalā an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf. The same order of other gods, theft, adultery, killing and false speech, but addressed to women as a pledge (bayʿa) to the Prophet: murder narrowed to infanticide, false witness to a slander 'between their hands and feet' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath, parents or coveting."
+      - with: hb-deut-5-decalogue
+        motif: ten-commandments
+        refs: ["60:12"]
+        with_refs: ["Deut 5:17", "Deut 5:18", "Deut 5:19", "Deut 5:20"]
+        relation: echo
+        note: "Deuteronomy's Decalogue joins the prohibitions with wə- (lōʾ tirṣāḥ wə-lōʾ tinʾāp̄ wə-lōʾ tiḡnōḇ ...), like the Quran's chain wa-lā ... wa-lā ...; see the Exodus match for the differences."
+      - with: hb-ezra-10-dismissal-of-foreign-wives
+        motif: marriage-bonds-with-unbelieving-wives-dissolved
+        refs: ["60:10", "60:11"]
+        with_refs: ["Ezra 10:3", "Ezra 10:11"]
+        relation: divergence
+        note: "Dissolving mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm wə-han-nôlāḏ mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives and their children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women who emigrate are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries are repaid (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving husbands), children are not expelled, and money is settled."
+      - with: hb-zech-5-flying-scroll
+        motif: prohibition-murder-adultery-theft-false-witness
+        refs: ["60:12"]
+        with_refs: ["Zech 5:3"]
+        relation: echo
+        note: "A curse on the thief and the false swearer: kol hag-gōnēḇ ... wə-ḵol han-nišbāʿ ... niqqâ vs. wa-lā yasriqna ... wa-lā yaʾtīna bi-buhtānin yaftarīnahu: theft and false words picked out of the Decalogue, as a curse in Zechariah and a pledge in the Quran."
+      - with: hb-exod-23-justice-sabbatical-festivals
+        motif: kindness-to-non-hostile-unbelievers
+        refs: ["60:7", "60:8"]
+        with_refs: ["Exod 23:4", "Exod 23:5"]
+        relation: echo
+        note: "Decency toward an enemy: kî ṯip̄gaʿ šôr ʾōyiḇḵā ... hāšēḇ təšîḇennû lô; kî ṯirʾeh ḥămôr śōnaʾăḵā ... ʿāzōḇ taʿăzōḇ ʿimmô vs. lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni ... an tabarrūhum wa-tuqsiṭū ilayhim. Exodus commands help even to the enemy; the Quran permits kindness and justice to non-hostile unbelievers but forbids alliance with those who fought and expelled the believers."
+      - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+        motif: kinship-of-no-avail-at-judgment
+        refs: ["60:3"]
+        with_refs: ["Ezek 14:14", "Ezek 14:20"]
+        relation: parallel
+        note: "Family ties do not save on the day of judgment: nōaḥ dāniʾēl wə-ʾiyyôḇ ... ʾim bēn ʾim baṯ yaṣṣîlû hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lan tanfaʿakum arḥāmukum wa-lā awlādukum yawma l-qiyāmati yafṣilu baynakum. Ezekiel: the righteous cannot save even their children; Quran: one's kin and children cannot benefit one. The Quran uses it to warn believers who keep secret ties with Meccan kin."
+  - unit: quran-61-saff-ranks-moses-jesus-ahmad
+    checked: [hb-num-12-miriam-aaron, hb-ps-105-history, hb-exod-9-hail, hb-exod-8-plagues-flies-murrain-boils, hb-deut-31-joshua-torah-song, hb-ps-44-national-lament, hb-exod-17-water-from-rock, hb-isa-63-communal-lament, hb-1sam-3-call-of-samuel, hb-isa-29-ariel-and-sealed-book, hb-joel-2-army-and-repentance, hb-exod-32-tablets-broken-levites]
+    matches:
+      - with: hb-exod-17-water-from-rock
+        motif: moses-asks-why-do-you-hurt-me
+        refs: ["61:5"]
+        with_refs: ["Exod 17:4"]
+        relation: divergence
+        note: "Moses ill-treated by his own people, with a different addressee. Exodus: wa-yyiṣʿaq mōšeh ʾel YHWH lēʾmōr māh ʾeʿĕśeh lā-ʿām haz-zeh ʿôḏ məʿaṭ û-səqālūnî (he cries to God: they are about to stone me). Quran: wa-idh qāla mūsā li-qawmihi yā qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum (he asks his people directly, appealing to his status as God's messenger). The Quran adds the outcome: fa-lammā zāghū azāgha llāhu qulūbahum."
+      - with: hb-num-12-miriam-aaron
+        motif: moses-asks-why-do-you-hurt-me
+        refs: ["61:5"]
+        with_refs: ["Num 12:1", "Num 12:2"]
+        relation: echo
+        note: "wat-təḏabbēr miryām wə-ʾahărōn bə-mōšeh ... ha-raq ʾaḵ bə-mōšeh dibber YHWH vs. li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum. Numbers: his siblings question his unique status and God defends him; the Quran gives no details of the 'hurt' (cf. Q 33:69, where God clears Moses)."
+      - with: hb-isa-63-communal-lament
+        motif: why-do-you-make-us-stray
+        refs: ["61:5"]
+        with_refs: ["Isa 63:17"]
+        relation: divergence
+        note: "God makes Israel's heart swerve. Isaiah, as a lament: lāmmâ ṯaṯʿēnû YHWH mid-dərāḵêḵā taqšîaḥ libbēnû mi-yyirʾāṯeḵā (why do you make us stray and harden our heart?). Quran, as a verdict: fa-lammā zāghū azāgha llāhu qulūbahum wa-llāhu lā yahdī l-qawma l-fāsiqīn (when they swerved, God made their hearts swerve). Isaiah asks why God does it; the Quran answers: because they swerved first."
+      - with: hb-exod-9-hail
+        motif: hardening-of-pharaohs-heart
+        refs: ["61:5"]
+        with_refs: ["Exod 9:34", "Exod 9:35"]
+        relation: echo
+        note: "First human, then divine hardening: wa-yyōsep̄ laḥăṭōʾ wa-yyaḵbēd libbô hûʾ wa-ʿăḇāḏâw; wa-yyeḥĕzaq lēḇ parʿōh (Pharaoh hardens himself, then his heart is hardened) vs. fa-lammā zāghū azāgha llāhu qulūbahum. The sequence Exodus gives Pharaoh the Quran gives Moses' own people."
+      - with: hb-ps-105-history
+        motif: hardening-of-pharaohs-heart
+        refs: ["61:5"]
+        with_refs: ["Ps 105:25"]
+        relation: echo
+        note: "hāp̄aḵ libbām lisnōʾ ʿammô (God turned the Egyptians' hearts to hate his people) vs. azāgha llāhu qulūbahum: God turns hearts. The psalm says it of Egypt, the Quran of Israel."
+      - with: hb-exod-32-tablets-broken-levites
+        motif: disciples-helpers-of-god
+        refs: ["61:14"]
+        with_refs: ["Exod 32:26"]
+        relation: echo
+        note: "A rallying call answered by a loyal group: wa-yyaʿămōḏ mōšeh bə-šaʿar ham-maḥăneh wa-yyōʾmer mî la-YHWH ʾēlāy wa-yyēʾāsp̄û ʾēlâw kol bənê lēwî vs. kamā qāla ʿīsā bnu maryama li-l-ḥawāriyyīna man anṣārī ilā llāh, qāla l-ḥawāriyyūna naḥnu anṣāru llāh. 'Who is for YHWH, to me?' ~ 'Who are my helpers to God?' (ʾēlāy / ilā). The Levites answer with the sword; the disciples by faith, and God then helps the believing party."
+      - with: hb-1sam-3-call-of-samuel
+        motif: lamp-of-god-not-yet-out
+        refs: ["61:8"]
+        with_refs: ["1Sam 3:3"]
+        relation: echo
+        note: "God's light not extinguished: wə-nēr ʾĕlōhîm ṭerem yiḵbeh vs. yurīdūna li-yuṭfiʾū nūra llāhi bi-afwāhihim wa-llāhu mutimmu nūrihi. Samuel's lamp is the sanctuary lamp of a dark time before the call; the Quran's light is God's religion, which the opponents try to blow out."
+      - with: hb-isa-29-ariel-and-sealed-book
+        motif: why-say-what-you-do-not-do
+        refs: ["61:2", "61:3"]
+        with_refs: ["Isa 29:13"]
+        relation: echo
+        note: "Words without the matching deeds or heart: niggaš hā-ʿām haz-zeh bə-p̄îw û-ḇi-śp̄āṯâw kibbəḏûnî wə-libbô riḥaq mimmennî vs. li-ma taqūlūna mā lā tafʿalūn, kabura maqtan ʿinda llāhi an taqūlū mā lā tafʿalūn. Isaiah: lips without heart; Quran: words without deeds."
+      - with: hb-joel-2-army-and-repentance
+        motif: fighters-in-ranks-like-solid-building
+        refs: ["61:4"]
+        with_refs: ["Joel 2:7", "Joel 2:8"]
+        relation: echo
+        note: "An army that keeps its ranks: wə-ʾîš bi-ḏrāḵâw yēlēḵûn wə-lōʾ yəʿabbəṭûn ʾōrḥôṯām wə-ʾîš ʾāḥîw lōʾ yiḏḥāqûn vs. yuqātilūna fī sabīlihi ṣaffan ka-annahum bunyānun marṣūṣ. Joel's is YHWH's locust army against Judah; the Quran's the believers' battle line."
+  - unit: quran-62-jumua-unlettered-donkey-and-friday
+    checked: [hb-gen-1-creation-six-days, hb-neh-13-nehemiahs-final-reforms, hb-amos-8-summer-fruit, hb-zeph-1-day-of-wrath, hb-isa-28-covenant-with-death, hb-isa-1-indictment-of-judah, hb-amos-5-lament-day-of-yhwh, hb-deut-32-song-of-moses]
+    matches:
+      - with: hb-neh-13-nehemiahs-final-reforms
+        motif: sabbath-labor-and-trade-rebuked
+        refs: ["62:9", "62:10"]
+        with_refs: ["Neh 13:15", "Neh 13:16", "Neh 13:17", "Neh 13:19"]
+        relation: divergence
+        note: "Trade and the weekly holy day. Nehemiah: dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū fī l-arḍi wa-btaghū min faḍli llāh. Trade stops only for the prayer, and after it the believers are told to go out and seek God's bounty (trade). A day of rest becomes an hour of assembly."
+      - with: hb-gen-1-creation-six-days
+        motif: divine-rest-seventh-day
+        refs: ["62:9", "62:10"]
+        with_refs: ["Gen 2:2", "Gen 2:3"]
+        relation: divergence
+        note: "The weekly day without the creation rest. Genesis grounds the seventh day in God's rest: wa-yišbōṯ bay-yôm haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran's Friday (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ. This fits the Quran's denial that God rested (50:38)."
+      - with: hb-amos-8-summer-fruit
+        motif: merchants-impatient-for-sabbath-to-end
+        refs: ["62:11"]
+        with_refs: ["Amos 8:5"]
+        relation: parallel
+        note: "Commerce pulling people away from the holy time: mātay yaʿăḇōr ha-ḥōḏeš wə-našbîrâ šeḇer wə-haš-šabbāṯ wə-nip̄təḥâ bār vs. wa-idhā raʾaw tijāratan aw lahwan nfaḍḍū ilayhā wa-tarakūka qāʾiman, qul mā ʿinda llāhi khayrun mina l-lahwi wa-mina t-tijāra. Amos's merchants wait impatiently for the Sabbath to end; the Quran's congregation leaves the Prophet in the middle of the Friday sermon for a caravan."
+      - with: hb-isa-1-indictment-of-judah
+        motif: donkey-carrying-books
+        refs: ["62:5"]
+        with_refs: ["Isa 1:3"]
+        relation: divergence
+        note: "Israel compared to a donkey, in opposite directions. Isaiah: yāḏaʿ šôr qōnēhû wa-ḥămôr ʾēḇûs bəʿālâw yiśrāʾēl lōʾ yāḏaʿ (the donkey knows its master's crib, Israel does not know: the donkey is wiser). Quran: mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu asfārā (those charged with the Torah who did not bear it are like a donkey carrying books: the donkey carries without understanding). ḥămôr / ḥimār; in both Israel fails to 'know' what it has."
+      - with: hb-amos-5-lament-day-of-yhwh
+        motif: death-you-flee-will-meet-you
+        refs: ["62:8"]
+        with_refs: ["Amos 5:19"]
+        relation: echo
+        note: "Fleeing doom only to meet it: kaʾăšer yānûs ʾîš mip-pənê hā-ʾărî û-p̄əḡāʿô had-dōḇ ... û-nəšāḵô han-nāḥāš vs. inna l-mawta lladhī tafirrūna minhu fa-innahu mulāqīkum. Amos's image is the Day of YHWH; the Quran's is death."
+      - with: hb-deut-32-song-of-moses
+        motif: messenger-among-the-unlettered
+        refs: ["62:2", "62:3", "62:4"]
+        with_refs: ["Deut 32:21"]
+        relation: echo
+        note: "God's favor turned to a 'non-people': wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm vs. huwa lladhī baʿatha fī l-ummiyyīna rasūlan minhum ... dhālika faḍlu llāhi yuʾtīhi man yashāʾ, followed by the donkey parable against those given the Torah (62:5). The ummiyyūn (gentiles, non-scriptural people) receive a messenger as Deuteronomy's 'non-people' rouse Israel's jealousy. Lead only."

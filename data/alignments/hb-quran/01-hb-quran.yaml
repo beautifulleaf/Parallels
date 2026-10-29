@@ -2179,3 +2179,408 @@ reviewed:
         with_refs: ["Ps 139:16"]
         relation: echo
         note: "Ps 139:16 wĕ-ʿal sipĕrkā kullām yikkātēbû yāmîm yuṣṣārû: all my days were written in your book before they were formed; Q 3:145 wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalan: no soul dies except by God's leave, at a written term."
+  - unit: quran-3-misers-mockers
+    checked: [hb-lev-9-eighth-day-inauguration, hb-prov-19-sayings, hb-neh-9-levites-confession, hb-jer-2-harlot-vine-camel, hb-1kgs-18-carmel, hb-jer-7-obedience-not-sacrifice, hb-1kgs-19-elijah-horeb, hb-ps-50-divine-lawsuit, hb-ps-89-ethan-davidic-covenant, hb-mal-3-book-of-remembrance]
+    matches:
+      - with: hb-1kgs-18-carmel
+        motif: offering-consumed-by-fire-demanded
+        refs: ["3:183"]
+        with_refs: ["1Kgs 18:24", "1Kgs 18:38"]
+        relation: response
+        note: "1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them promise to believe no messenger without an offering 'the fire eats' (ʾākal / akala); answer: messengers did bring it, so why did you kill them? The Carmel test is turned into the opponents' demand, and the demand is refuted from their own history."
+      - with: hb-1kgs-19-elijah-horeb
+        motif: prophets-killed-by-israel
+        refs: ["3:183"]
+        with_refs: ["1Kgs 19:10"]
+        relation: echo
+        note: "1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû ʾet napšî: right after the fire on Carmel, Elijah complains that Israel killed the prophets and seek his life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum fa-li-ma qataltumūhum: prophets came with the fire sign and you killed them. Kings gives the narrative sequence the Quran's retort assumes."
+      - with: hb-lev-9-eighth-day-inauguration
+        motif: heavenly-fire-consumes-offering
+        refs: ["3:183"]
+        with_refs: ["Lev 9:24"]
+        relation: echo
+        note: "Lev 9:24 wa-tteṣēʾ ʾēš mi-lipnê YHWH wa-ttōʾkal ʿal ha-mmizbēaḥ ʾet hā-ʿōlâ: fire from God eats the offering at the inauguration of the cult; Q 3:183 bi-qurbānin taʾkuluhu n-nāru: an offering the fire eats, as the claimed covenant sign."
+      - with: hb-ps-50-divine-lawsuit
+        motif: god-is-poor-we-rich-mockery
+        refs: ["3:181"]
+        with_refs: ["Ps 50:12"]
+        relation: contrast
+        note: "Ps 50:12 ʾim ʾerʿab lōʾ ʾōmar lāk kî lî tēbēl û-mĕlōʾāh: 'if I were hungry I would not tell you, for the world is mine'; Q 3:181 la-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun wa-naḥnu aghniyāʾ: God heard those who said 'God is poor and we are rich'. God's self-sufficiency asserted by God in the psalm; mocked by men in the Quran, and answered at 3:180 wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ."
+      - with: hb-prov-19-sayings
+        motif: lending-to-yhwh-by-giving-to-poor
+        refs: ["3:181"]
+        with_refs: ["Prov 19:17"]
+        relation: echo
+        note: "Prov 19:17 malwēh YHWH ḥônēn dāl: giving to the poor is lending to God; Q 3:181 inna llāha faqīrun wa-naḥnu aghniyāʾ: the mockers turn the idea of lending to God (cf. Q 2:245) into 'God is poor'. Lead from the unit's hint; the link is a reading, not a quotation."
+      - with: hb-neh-9-levites-confession
+        motif: scripture-cast-behind-backs
+        refs: ["3:187"]
+        with_refs: ["Neh 9:26"]
+        relation: parallel
+        note: "Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām; Q 3:187 wa-idh akhadha llāhu mīthāqa lladhīna ūtū l-kitāba la-tubayyinunnahu li-n-nāsi wa-lā taktumūnahu fa-nabadhūhu warāʾa ẓuhūrihim: they cast it behind their backs. The same picture in the same words (ʾaḥărê gawwām / warāʾa ẓuhūrihim); the Quran adds a covenant to make the Book clear."
+      - with: hb-neh-9-levites-confession
+        motif: prophets-killed-by-israel
+        refs: ["3:181", "3:183"]
+        with_refs: ["Neh 9:26"]
+        relation: parallel
+        note: "Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 3:181 wa-qatlahumu l-anbiyāʾa bi-ghayri ḥaqqin, 3:183 fa-li-ma qataltumūhum."
+      - with: hb-jer-2-harlot-vine-camel
+        motif: prophets-killed-by-israel
+        refs: ["3:183"]
+        with_refs: ["Jer 2:30"]
+        relation: parallel
+        note: "Jer 2:30 ʾākĕlâ ḥarbĕkem nĕbîʾêkem; Q 3:183 fa-li-ma qataltumūhum."
+      - with: hb-jer-7-obedience-not-sacrifice
+        motif: god-sent-prophets-persistently
+        refs: ["3:184"]
+        with_refs: ["Jer 7:25", "Jer 7:26"]
+        relation: echo
+        note: "Jer 7:25-26 wā-ʾešlaḥ ʾălêkem ʾet kol ʿăbāday ha-nnĕbîʾîm ... wĕ-lôʾ šāmĕʿû ʾēlay: God sent all his prophets and they did not listen; Q 3:184 fa-in kadhdhabūka fa-qad kudhdhiba rusulun min qablika jāʾū bi-l-bayyināti wa-z-zuburi: messengers before you were denied too. A history of rejected messengers, used in Jeremiah to indict, in the Quran to console the prophet."
+      - with: hb-ps-89-ethan-davidic-covenant
+        motif: none-escapes-sheol
+        refs: ["3:185"]
+        with_refs: ["Ps 89:49"]
+        relation: echo
+        note: "Ps 89:49 mî geber yiḥyeh wĕ-lōʾ yirʾeh māwet yĕmallēṭ napšô mi-yyad šĕʾôl; Q 3:185 kullu nafsin dhāʾiqatu l-mawti wa-innamā tuwaffawna ujūrakum yawma l-qiyāma: every soul tastes death. The psalm ends in Sheol; the Quran in the reckoning of the Day of Resurrection."
+      - with: hb-mal-3-book-of-remembrance
+        motif: god-separates-bad-from-good
+        refs: ["3:179"]
+        with_refs: ["Mal 3:18"]
+        relation: echo
+        note: "Mal 3:18 wĕ-šabtem û-rĕʾîtem bên ṣaddîq lĕ-rāšāʿ bên ʿōbēd ʾĕlōhîm la-ʾăšer lōʾ ʿăbādô; Q 3:179 mā kāna llāhu li-yadhara l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina ṭ-ṭayyib: God will separate the bad from the good. In Malachi on the coming day; in the Quran through present trials."
+  - unit: quran-3-closing
+    checked: [hb-ps-119-alef-he, hb-ps-1-two-ways, hb-josh-1-joshua-commissioned, hb-isa-44-idol-from-half-a-log, hb-isa-40-comfort-my-people, hb-ps-104-creation-hymn, hb-deut-6-shema, hb-isa-45-cyrus-the-anointed, hb-ps-19-heavens-and-torah]
+    matches:
+      - with: hb-deut-6-shema
+        motif: remember-god-standing-sitting-lying
+        refs: ["3:191"]
+        with_refs: ["Deut 6:7"]
+        relation: parallel
+        note: "Deut 6:7 wĕ-dibbartā bām bĕ-šibtĕkā bĕ-bêtekā û-bĕ-lektĕkā ba-dderek û-bĕ-šokbĕkā û-bĕ-qûmekā: speak of these words sitting, walking, lying down and rising; Q 3:191 alladhīna yadhkurūna llāha qiyāman wa-quʿūdan wa-ʿalā junūbihim: who remember God standing, sitting and lying on their sides. Same set of bodily postures for constant attention; the object is the commandments in Deut, God himself and his creation in the Quran."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: not-created-in-vain
+        refs: ["3:191"]
+        with_refs: ["Isa 45:18"]
+        relation: parallel
+        note: "Isa 45:18 bôrēʾ ha-ššāmayim ... yōṣēr hā-ʾāreṣ ... lōʾ tōhû bĕrāʾāh lāšebet yĕṣārāh: God did not create the earth for nothing (tōhû) but to be lived in; Q 3:191 rabbanā mā khalaqta hādhā bāṭilan subḥānaka: 'our Lord, you did not create this in vain'. The purpose of heaven and earth, declared by God in Isaiah, confessed by the worshippers in the Quran."
+      - with: hb-isa-40-comfort-my-people
+        motif: signs-in-creation-catalogue
+        refs: ["3:190", "3:191"]
+        with_refs: ["Isa 40:26"]
+        relation: echo
+        note: "Isa 40:26 śĕʾû mārôm ʿênêkem û-rĕʾû mî bārāʾ ʾēlleh: lift your eyes and see who created these; Q 3:190-191 inna fī khalqi s-samāwāti wa-l-arḍi ... la-āyātin li-ulī l-albāb ... wa-yatafakkarūna fī khalqi s-samāwāti wa-l-arḍ: signs for those who reflect on the creation of heaven and earth."
+      - with: hb-ps-19-heavens-and-torah
+        motif: heavens-declare-glory-wordless
+        refs: ["3:190"]
+        with_refs: ["Ps 19:2", "Ps 19:3"]
+        relation: echo
+        note: "Ps 19:2-3 ha-ššāmayim mĕsappĕrîm kĕbôd ʾēl ... yôm lĕ-yôm yabbîaʿ ʾōmer wĕ-laylâ lĕ-laylâ yĕḥawweh dāʿat: heavens and the succession of day and night speak of God; Q 3:190 inna fī khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri la-āyātin: heavens and the alternation of night and day are signs."
+      - with: hb-ps-104-creation-hymn
+        motif: signs-in-creation-catalogue
+        refs: ["3:190"]
+        with_refs: ["Ps 104:19", "Ps 104:20"]
+        relation: echo
+        note: "Ps 104:19-20 ʿāśâ yārēaḥ lĕ-môʿădîm šemeš yādaʿ mĕbôʾô tāšet ḥōšek wî-hî lāylâ; Q 3:190 wa-khtilāfi l-layli wa-n-nahār: the ordered alternation of night and day."
+      - with: hb-josh-1-joshua-commissioned
+        motif: meditate-on-torah-day-and-night
+        refs: ["3:191"]
+        with_refs: ["Josh 1:8"]
+        relation: echo
+        note: "Josh 1:8 lōʾ yāmûš sēper ha-ttôrâ ha-zzeh mi-ppîkā wĕ-hāgîtā bô yômām wā-laylâ: constant meditation on the Torah; Q 3:191 yadhkurūna llāha ... wa-yatafakkarūna fī khalqi s-samāwāti wa-l-arḍ: constant remembrance of God and reflection on creation. The object of meditation moves from the book to God and the world."
+      - with: hb-ps-1-two-ways
+        motif: meditate-on-torah-day-and-night
+        refs: ["3:191"]
+        with_refs: ["Ps 1:2"]
+        relation: echo
+        note: "Ps 1:2 û-bĕ-tôrātô yehgeh yômām wā-lāylâ; Q 3:191 yadhkurūna llāha qiyāman wa-quʿūdan wa-ʿalā junūbihim wa-yatafakkarūn."
+      - with: hb-ps-119-alef-he
+        motif: meditate-on-torah-day-and-night
+        refs: ["3:191"]
+        with_refs: ["Ps 119:15"]
+        relation: echo
+        note: "Ps 119:15 bĕ-piqqûdêkā ʾāśîḥâ wĕ-ʾabbîṭâ ʾōrḥōtêkā; Q 3:191 wa-yatafakkarūna fī khalqi s-samāwāti wa-l-arḍ. Reflection on the precepts vs on creation."
+  - unit: quran-4-creation-kinship-orphans
+    checked: [hb-gen-2-eden-adam-woman, hb-exod-22-property-laws, hb-gen-34-dinah-shechem, hb-zech-8-zion-restored, hb-zech-7-fasting-question, hb-ps-146-trust-not-princes, hb-gen-1-creation-six-days, hb-prov-23-amenemope-sayings, hb-exod-22-apodictic-and-social-laws, hb-deut-21-heifer-captive-son]
+    matches:
+      - with: hb-gen-2-eden-adam-woman
+        motif: woman-from-rib
+        refs: ["4:1"]
+        with_refs: ["Gen 2:21", "Gen 2:22", "Gen 2:23"]
+        relation: divergence
+        note: "Gen 2:21-23 wa-yyappēl ... tardēmâ ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ... ʾet ha-ṣṣēlāʿ ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ zōʾt: God puts the man to sleep and builds the woman from his rib; she is named 'woman' because taken from 'man'; Q 4:1 khalaqakum min nafsin wāḥidatin wa-khalaqa minhā zawjahā wa-baththa minhumā rijālan kathīran wa-nisāʾan: created from one soul, and from it its mate. Woman from the first human is kept; sleep, rib and the wordplay are left out, the first human is a gender-neutral 'soul' (nafs, grammatically feminine), and the address is to all people (yā ayyuhā n-nās)."
+      - with: hb-gen-1-creation-six-days
+        motif: be-fruitful-and-multiply
+        refs: ["4:1"]
+        with_refs: ["Gen 1:28"]
+        relation: echo
+        note: "Gen 1:28 pĕrû û-rĕbû û-milʾû ʾet hā-ʾāreṣ: be fruitful, multiply, fill the earth; Q 4:1 wa-baththa minhumā rijālan kathīran wa-nisāʾan: from the pair he spread many men and women. A blessing-command in Genesis, a report in the Quran."
+      - with: hb-exod-22-property-laws
+        motif: bride-gift-to-the-woman
+        refs: ["4:4"]
+        with_refs: ["Exod 22:15", "Exod 22:16"]
+        relation: divergence
+        note: "Exod 22:15-16 māhōr yimhārennâ lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women their bride-gifts as a free gift; only if they remit part willingly may you take it. The marriage payment goes to the woman herself, not to her father, and she controls it."
+      - with: hb-gen-34-dinah-shechem
+        motif: bride-gift-to-the-woman
+        refs: ["4:4"]
+        with_refs: ["Gen 34:12"]
+        relation: divergence
+        note: "Gen 34:12 harbû ʿālay mĕʾōd mōhar û-mattān wĕ-ʾettĕnâ ... û-tĕnû lî ʾet ha-nnaʿărâ lĕ-ʾiššâ: Shechem offers any bride-price and gift to her father and brothers; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan: give the bride-gift to the women themselves."
+      - with: hb-prov-23-amenemope-sayings
+        motif: orphans-field-strong-redeemer
+        refs: ["4:2", "4:10"]
+        with_refs: ["Prov 23:10", "Prov 23:11"]
+        relation: parallel
+        note: "Prov 23:10-11 û-bi-śdê yĕtômîm ʾal tābōʾ kî gōʾălām ḥāzāq hûʾ yārîb ʾet rîbām ʾittāk: do not encroach on orphans' fields, their strong redeemer (God) will plead against you; Q 4:2, 10 wa-lā taʾkulū amwālahum ilā amwālikum ... inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna fī buṭūnihim nāran: do not devour orphans' property; those who do eat fire. Orphans' property protected by divine sanction."
+      - with: hb-exod-22-apodictic-and-social-laws
+        motif: god-hears-cry-of-widow-and-orphan
+        refs: ["4:9", "4:10"]
+        with_refs: ["Exod 22:21", "Exod 22:22", "Exod 22:23"]
+        relation: echo
+        note: "Exod 22:21-23 kol ʾalmānâ wĕ-yātôm lōʾ tĕʿannûn ... wĕ-hāyû nĕšêkem ʾalmānôt û-bĕnêkem yĕtōmîm: oppress no widow or orphan, or your own wives and sons will become widows and orphans; Q 4:9 wa-l-yakhsha lladhīna law tarakū min khalfihim dhurriyyatan ḍiʿāfan khāfū ʿalayhim: let them fear as they would for the weak children they would leave behind. Both make the oppressor imagine his own children orphaned."
+      - with: hb-deut-21-heifer-captive-son
+        motif: polygyny-up-to-four
+        refs: ["4:3"]
+        with_refs: ["Deut 21:15"]
+        relation: echo
+        note: "Deut 21:15 kî tihyênā lĕ-ʾîš šĕtê nāšîm hā-ʾaḥat ʾăhûbâ wĕ-hā-ʾaḥat śĕnûʾâ: a man with two wives, one loved and one hated, must still be fair to the hated wife's son; Q 4:3 fa-nkiḥū mā ṭāba lakum mina n-nisāʾi mathnā wa-thulātha wa-rubāʿa fa-in khiftum allā taʿdilū fa-wāḥidatan: marry two, three or four, but only one if you fear you cannot be just. Both take plural wives as given and regulate fairness; the Quran sets a number and makes fairness a condition."
+      - with: hb-ps-146-trust-not-princes
+        motif: god-loves-stranger-orphan-widow
+        refs: ["4:2", "4:6"]
+        with_refs: ["Ps 146:9"]
+        relation: echo
+        note: "Ps 146:9 YHWH šōmēr ʾet gērîm yātôm wĕ-ʾalmānâ yĕʿôdēd; Q 4:2, 6 wa-ātū l-yatāmā amwālahum ... wa-btalū l-yatāmā: God guards the orphan in the psalm; the guardians are given concrete property duties in the Quran."
+      - with: hb-zech-7-fasting-question
+        motif: god-loves-stranger-orphan-widow
+        refs: ["4:2"]
+        with_refs: ["Zech 7:10"]
+        relation: echo
+        note: "Zech 7:10 wĕ-ʾalmānâ wĕ-yātôm gēr wĕ-ʿānî ʾal taʿăšōqû; Q 4:2 wa-lā tatabaddalū l-khabītha bi-ṭ-ṭayyibi wa-lā taʾkulū amwālahum: do not defraud the orphan."
+  - unit: quran-4-inheritance-shares
+    checked: [hb-num-27-zelophehad-joshua, hb-job-42-epilogue, hb-num-36-heiresses, hb-num-26-second-census, hb-gen-25-jacob-esau-birth, hb-deut-21-heifer-captive-son]
+    matches:
+      - with: hb-num-27-zelophehad-joshua
+        motif: order-of-inheritance
+        refs: ["4:11", "4:12"]
+        with_refs: ["Num 27:8", "Num 27:9", "Num 27:10", "Num 27:11"]
+        relation: divergence
+        note: "Num 27:8-11 ʾîš kî yāmût û-bēn ʾên lô wĕ-haʿăbartem ʾet naḥălātô lĕ-bittô wĕ-ʾim ʾên lô bat ... lĕ-ʾeḥāyw ... la-ʾăḥê ʾābîw ... li-šʾērô ha-qqārōb: a chain of single heirs: son, else daughter, else brothers, father's brothers, nearest kin; Q 4:11-12 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn ... wa-li-abawayhi li-kulli wāḥidin minhumā s-sudusu ... wa-lakum niṣfu mā taraka azwājukum: fixed fractional shares for several heirs at once, daughters with sons, parents, and spouses (absent from Num 27), siblings only for the kalāla. A sequence of exclusive heirs becomes a set of simultaneous shares. The Quran begins yūṣīkumu llāhu 'God charges you' (cf. ḥuqqat mišpāṭ, 27:11)."
+      - with: hb-num-27-zelophehad-joshua
+        motif: daughters-inherit
+        refs: ["4:11"]
+        with_refs: ["Num 27:7", "Num 27:8"]
+        relation: divergence
+        note: "Num 27:7-8 kēn bĕnôt ṣĕlopḥād dōbĕrōt ... û-bēn ʾên lô wĕ-haʿăbartem ʾet naḥălātô lĕ-bittô: daughters inherit only when there is no son, after a petition; Q 4:11 fa-in kunna nisāʾan fawqa thnatayni fa-lahunna thuluthā mā taraka wa-in kānat wāḥidatan fa-lahā n-niṣf: daughters always inherit, alongside sons at half a son's share, and alone take a half or two-thirds."
+      - with: hb-job-42-epilogue
+        motif: daughters-named-beautiful-heirs
+        refs: ["4:11"]
+        with_refs: ["Job 42:15"]
+        relation: parallel
+        note: "Job 42:15 wa-yyittēn lāhem ʾăbîhem naḥălâ bĕ-tôk ʾăḥêhem: Job gave his daughters an inheritance among their brothers, the one HB case of daughters inheriting together with sons; Q 4:11 yūṣīkumu llāhu fī awlādikum li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: daughters inherit with sons, at half the son's share, as a general law."
+      - with: hb-deut-21-heifer-captive-son
+        motif: male-double-share-of-female
+        refs: ["4:11"]
+        with_refs: ["Deut 21:17"]
+        relation: divergence
+        note: "Deut 21:17 kî ʾet ha-bbĕkōr ... yakkîr lātet lô pî šĕnayim bĕ-kōl ʾăšer yimmāṣēʾ lô: the firstborn son gets a double portion; Q 4:11 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: each son gets double a daughter's share. The double share moves from the firstborn over his brothers to the male over the female; primogeniture is not mentioned."
+      - with: hb-num-36-heiresses
+        motif: daughters-inherit
+        refs: ["4:11", "4:12"]
+        with_refs: ["Num 36:8"]
+        relation: divergence
+        note: "Num 36:8 wĕ-kol bat yōrešet naḥălâ ... lĕ-ʾeḥād mi-mmišpaḥat maṭṭēh ʾābîhā tihyeh lĕ-ʾiššâ: an heiress must marry within her father's tribe so the land stays in it; Q 4:11-12: the shares go to persons (daughters, spouses, parents) with no tribal or land restriction, and a husband inherits from his wife (wa-lakum niṣfu mā taraka azwājukum), which would move property across lines."
+  - unit: quran-4-indecency-repentance
+    checked: [hb-num-35-levitical-cities-refuge, hb-deut-19-refuge-witnesses, hb-deut-17-courts-king, hb-lev-5-graduated-and-guilt-offerings, hb-lev-20-penalties, hb-ezek-18-sour-grapes]
+    matches:
+      - with: hb-deut-17-courts-king
+        motif: four-witnesses-for-indecency
+        refs: ["4:15"]
+        with_refs: ["Deut 17:6"]
+        relation: divergence
+        note: "Deut 17:6 ʿal pî šĕnayim ʿēdîm ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for a capital case; Q 4:15 fa-stashhidū ʿalayhinna arbaʿatan minkum: four witnesses required for a charge of indecency (fāḥisha). The number is raised for sexual offences."
+      - with: hb-deut-19-refuge-witnesses
+        motif: two-witnesses-for-capital-case
+        refs: ["4:15"]
+        with_refs: ["Deut 19:15"]
+        relation: divergence
+        note: "Deut 19:15 ʿal pî šĕnê ʿēdîm ʾô ʿal pî šĕlōšâ ʿēdîm yāqûm dābār: two or three for any charge; Q 4:15 arbaʿatan minkum: four for fāḥisha."
+      - with: hb-num-35-levitical-cities-refuge
+        motif: two-witnesses-for-capital-case
+        refs: ["4:15"]
+        with_refs: ["Num 35:30"]
+        relation: echo
+        note: "Num 35:30 lĕ-pî ʿēdîm ... wĕ-ʿēd ʾeḥād lōʾ yaʿăneh bĕ-nepeš lāmût; Q 4:15 fa-stashhidū ʿalayhinna arbaʿatan minkum: plural witnesses required before punishment."
+      - with: hb-lev-20-penalties
+        motif: adultery-both-die
+        refs: ["4:15", "4:16"]
+        with_refs: ["Lev 20:10"]
+        relation: contrast
+        note: "Lev 20:10 môt yûmat ha-nnōʾēp wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death; Q 4:15-16 fa-amsikūhunna fī l-buyūti ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined to their houses, the pair is punished (unspecified 'harm') and left alone if they repent. Death penalty vs confinement, punishment and release on repentance."
+      - with: hb-lev-5-graduated-and-guilt-offerings
+        motif: guilt-for-unknowing-sin
+        refs: ["4:17"]
+        with_refs: ["Lev 5:17", "Lev 5:18"]
+        relation: divergence
+        note: "Lev 5:17-18 wĕ-lōʾ yādaʿ wĕ-ʾāšēm ... wĕ-kipper ʿālāyw ha-kkōhēn ʿal šigĕgātô ... wĕ-nislaḥ lô: sin done unknowingly still incurs guilt, and is forgiven through a ram offered by the priest; Q 4:17 innamā t-tawbatu ʿalā llāhi li-lladhīna yaʿmalūna s-sūʾa bi-jahālatin thumma yatūbūna min qarībin: God accepts the repentance of those who do evil in ignorance and repent soon. Forgiveness for sin in ignorance in both; through sacrifice in Leviticus, through repentance alone in the Quran."
+      - with: hb-ezek-18-sour-grapes
+        motif: deathbed-repentance-rejected
+        refs: ["4:17", "4:18"]
+        with_refs: ["Ezek 18:21", "Ezek 18:22", "Ezek 18:23"]
+        relation: divergence
+        note: "Ezek 18:21-23 wĕ-hā-rāšāʿ kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are not remembered, God does not desire his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu li-lladhīna yaʿmalūna s-sayyiʾāti ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance is accepted from those who repent soon, not from one who says 'now I repent' when death comes. Ezekiel sets no deadline; the Quran sets death as the limit."
+  - unit: quran-4-marriage-forbidden-degrees
+    checked: [hb-lev-18-forbidden-unions, hb-gen-29-jacob-rachel-leah, hb-gen-29-birth-of-jacobs-children, hb-ezek-22-city-of-blood, hb-lev-19-holiness-code-b, hb-mal-2-faithless-marriage, hb-deut-23-assembly-camp, hb-deut-25-lashes-levirate-amalek, hb-deut-21-heifer-captive-son]
+    matches:
+      - with: hb-lev-18-forbidden-unions
+        motif: incest-prohibitions-list
+        refs: ["4:23"]
+        with_refs: ["Lev 18:7", "Lev 18:9", "Lev 18:12", "Lev 18:13", "Lev 18:14", "Lev 18:15", "Lev 18:16", "Lev 18:17"]
+        relation: divergence
+        note: "Lev 18:7-17 ʿerwat ... lōʾ tĕgallēh: mother, father's wife, sister and half-sister, granddaughter, aunts, uncle's wife, daughter-in-law, brother's wife, a woman with her daughter; Q 4:23 ḥurrimat ʿalaykum ummahātukum wa-banātukum wa-akhawātukum wa-ʿammātukum wa-khālātukum wa-banātu l-akhi wa-banātu l-ukhti wa-ummahātukumu llātī arḍaʿnakum wa-akhawātukum mina r-raḍāʿa ...: mothers, daughters, sisters, aunts, nieces, nursing mothers and milk sisters, mothers-in-law, stepdaughters, sons' wives. Shared core; the Quran adds daughters and nieces (not named in Lev 18) and milk kinship (absent from the HB), and drops the uncle's wife and the brother's wife (Lev 18:14, 16). Formula: 'uncover nakedness' vs 'forbidden to you'."
+      - with: hb-lev-18-forbidden-unions
+        motif: no-marrying-fathers-wife
+        refs: ["4:22"]
+        with_refs: ["Lev 18:8"]
+        relation: parallel
+        note: "Lev 18:8 ʿerwat ʾēšet ʾābîkā lōʾ tĕgallēh ʿerwat ʾābîkā hîʾ; Q 4:22 wa-lā tankiḥū mā nakaḥa ābāʾukum mina n-nisāʾi illā mā qad salaf innahu kāna fāḥishatan: do not marry your fathers' wives, 'except what is past'. The Quran adds an amnesty for unions made before the law."
+      - with: hb-deut-23-assembly-camp
+        motif: no-marrying-fathers-wife
+        refs: ["4:22"]
+        with_refs: ["Deut 23:1"]
+        relation: parallel
+        note: "Deut 23:1 lōʾ yiqqaḥ ʾîš ʾet ʾēšet ʾābîw wĕ-lōʾ yĕgalleh kĕnap ʾābîw: no man shall take (marry) his father's wife; Q 4:22 wa-lā tankiḥū mā nakaḥa ābāʾukum: the same ban phrased as marriage (lāqaḥ / nakaḥa), not as 'uncovering'."
+      - with: hb-lev-18-forbidden-unions
+        motif: two-sisters-forbidden-as-rival-wives
+        refs: ["4:23"]
+        with_refs: ["Lev 18:18"]
+        relation: divergence
+        note: "Lev 18:18 wĕ-ʾiššâ ʾel ʾăḥōtāh lōʾ tiqqāḥ liṣrōr ... bĕ-ḥayyêhā: do not take a woman's sister as a rival 'while she lives'; Q 4:23 wa-an tajmaʿū bayna l-ukhtayni illā mā qad salaf: do not combine two sisters, except what is past. The motive 'as a rival' is dropped, and an amnesty for the past is added."
+      - with: hb-gen-29-jacob-rachel-leah
+        motif: marriage-to-two-sisters
+        refs: ["4:23"]
+        with_refs: ["Gen 29:28"]
+        relation: echo
+        note: "Gen 29:28 wa-yyitten lô ʾet rāḥēl bittô lô lĕ-ʾiššâ: Jacob, already married to Leah, also marries her sister Rachel; Q 4:23 wa-an tajmaʿū bayna l-ukhtayni illā mā qad salaf: combining two sisters is forbidden 'except what is past'. The Quran does not name Jacob; the amnesty clause fits the patriarch's case (lead from the unit's hint)."
+      - with: hb-deut-25-lashes-levirate-amalek
+        motif: levirate-marriage
+        refs: ["4:19"]
+        with_refs: ["Deut 25:5"]
+        relation: contrast
+        note: "Deut 25:5 lōʾ tihyeh ʾēšet ha-mmēt ha-ḥûṣâ lĕ-ʾîš zār yĕbāmāh yābōʾ ʿālêhā û-lĕqāḥāh lô lĕ-ʾiššâ: the dead man's widow must not marry outside, her brother-in-law takes her; Q 4:19 lā yaḥillu lakum an tarithū n-nisāʾa karhan wa-lā taʿḍulūhunna: you may not inherit women against their will or hold them back. A widow kept in the family by law vs a ban on taking a widow as part of the estate."
+      - with: hb-lev-19-holiness-code-b
+        motif: betrothed-slave-woman-case
+        refs: ["4:25"]
+        with_refs: ["Lev 19:20"]
+        relation: parallel
+        note: "Lev 19:20 wĕ-hîʾ šipḥâ neḥĕrepet lĕ-ʾîš ... biqqōret tihyeh lōʾ yûmĕtû kî lōʾ ḥuppāšâ: the slave woman's case gets an inquiry, not death, 'because she was not free'; Q 4:25 fa-ʿalayhinna niṣfu mā ʿalā l-muḥṣanāti mina l-ʿadhāb: a married slave woman who commits indecency gets half the punishment of a free woman. A lower penalty for the unfree woman in both."
+      - with: hb-deut-21-heifer-captive-son
+        motif: married-women-forbidden-except-captives
+        refs: ["4:24"]
+        with_refs: ["Deut 21:10", "Deut 21:11", "Deut 21:13"]
+        relation: echo
+        note: "Deut 21:10-13 wĕ-šābîtā šibyô wĕ-rāʾîtā ba-ššibyâ ʾēšet yĕpat tōʾar ... wĕ-ʾaḥar kēn tābôʾ ʾēlêhā û-bĕʿaltāh: a captive woman may be taken as wife after a month of mourning; Q 4:24 wa-l-muḥṣanātu mina n-nisāʾi illā mā malakat aymānukum: married women are forbidden except those your right hands possess. A war captive as the exception to the normal bars, in both."
+      - with: hb-ezek-22-city-of-blood
+        motif: no-marrying-fathers-wife
+        refs: ["4:22", "4:23"]
+        with_refs: ["Ezek 22:10", "Ezek 22:11"]
+        relation: echo
+        note: "Ezek 22:10-11 ʿerwat ʾāb gillâ bāk ... wĕ-ʾîš ʾet kallātô ṭimmēʾ bĕ-zimmâ wĕ-ʾîš ʾet ʾăḥōtô bat ʾābîw: father's wife, daughter-in-law and half-sister in the city's crimes; Q 4:22-23 the same three in the list of forbidden women (mā nakaḥa ābāʾukum, ḥalāʾilu abnāʾikum, akhawātukum)."
+  - unit: quran-4-wealth-household
+    checked: [hb-mic-2-land-grabbers, hb-exod-20-decalogue, hb-deut-5-decalogue, hb-mal-2-faithless-marriage, hb-prov-6-adultery-fire, hb-lev-18-forbidden-unions, hb-gen-3-fall-expulsion]
+    matches:
+      - with: hb-exod-20-decalogue
+        motif: covet-prohibition
+        refs: ["4:32"]
+        with_refs: ["Exod 20:17"]
+        relation: divergence
+        note: "Exod 20:17 lōʾ taḥmōd bêt rēʿekā lōʾ taḥmōd ʾēšet rēʿekā ... wĕ-kōl ʾăšer lĕ-rēʿekā: do not covet your neighbour's house, wife, slaves, animals; Q 4:32 wa-lā tatamannaw mā faḍḍala llāhu bihi baʿḍakum ʿalā baʿḍin li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna wa-sʾalū llāha min faḍlihi: do not wish for what God has given some of you over others; men and women each have their share; ask God for his bounty. The object shifts from a neighbour's goods (including his wife) to God-given advantage, especially between men and women, and the alternative is offered: ask God."
+      - with: hb-deut-5-decalogue
+        motif: covet-prohibition
+        refs: ["4:32"]
+        with_refs: ["Deut 5:21"]
+        relation: echo
+        note: "Deut 5:21 wĕ-lōʾ titʾawweh bêt rēʿekā: do not desire (hitʾawwâ) your neighbour's house; Q 4:32 wa-lā tatamannaw: do not wish for (tamannā) what others were given. Both turn the ban on taking into a ban on wanting."
+      - with: hb-exod-20-decalogue
+        motif: prohibition-murder-adultery-theft-false-witness
+        refs: ["4:29"]
+        with_refs: ["Exod 20:13", "Exod 20:15"]
+        relation: echo
+        note: "Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili illā an takūna tijāratan ʿan tarāḍin minkum wa-lā taqtulū anfusakum: no wrongful taking of wealth (except by consented trade) and no killing, side by side as in the Decalogue."
+      - with: hb-mic-2-land-grabbers
+        motif: consuming-wealth-falsely-forbidden
+        refs: ["4:29", "4:30"]
+        with_refs: ["Mic 2:2"]
+        relation: echo
+        note: "Mic 2:2 wĕ-ḥāmĕdû śādôt wĕ-gāzālû û-bāttîm wĕ-nāśāʾû wĕ-ʿāšĕqû geber û-bêtô: they covet fields and seize them, oppress a man and his house; Q 4:29-30 lā taʾkulū amwālakum baynakum bi-l-bāṭil ... wa-man yafʿal dhālika ʿudwānan wa-ẓulman fa-sawfa nuṣlīhi nāran: wrongful seizure of property under threat of divine punishment."
+      - with: hb-gen-3-fall-expulsion
+        motif: men-maintainers-of-women
+        refs: ["4:34"]
+        with_refs: ["Gen 3:16"]
+        relation: divergence
+        note: "Gen 3:16 wĕ-ʾel ʾîšēk tĕšûqātēk wĕ-hûʾ yimšol bāk: the husband's rule over the wife as part of the curse after the fall; Q 4:34 ar-rijālu qawwāmūna ʿalā n-nisāʾi bi-mā faḍḍala llāhu baʿḍahum ʿalā baʿḍin wa-bi-mā anfaqū min amwālihim: men are maintainers of women by God's preference and because they spend their wealth. The husband's authority is given a different basis: a curse in Genesis, a divine ordering and financial duty in the Quran."
+  - unit: quran-4-kindness-misers-atom
+    checked: [hb-hos-10-vine-and-calves, hb-lev-19-holiness-code-a, hb-exod-20-decalogue, hb-job-1-prologue-first-test, hb-jer-32-field-at-anathoth, hb-lev-19-holiness-code-b, hb-job-31-oath-of-innocence, hb-isa-43-you-are-my-witnesses]
+    matches:
+      - with: hb-hos-10-vine-and-calves
+        motif: mountains-cover-us
+        refs: ["4:42"]
+        with_refs: ["Hos 10:8"]
+        relation: parallel
+        note: "Hos 10:8 wĕ-ʾāmĕrû le-hārîm kassûnû wĕ-la-gĕbāʿôt nipĕlû ʿālênû: they will say to the mountains 'cover us', to the hills 'fall on us'; Q 4:42 yawmaʾidhin yawaddu lladhīna kafarū ... law tusawwā bihimu l-arḍu: on that day the unbelievers will wish the earth were levelled over them. Wish to be buried under the land to escape judgment; Hosea's is the fall of Samaria's shrines, the Quran's the Last Day."
+      - with: hb-lev-19-holiness-code-a
+        motif: love-neighbor-as-yourself
+        refs: ["4:36"]
+        with_refs: ["Lev 19:3", "Lev 19:4", "Lev 19:18"]
+        relation: parallel
+        note: "Lev 19:3-4, 18 ʾîš ʾimmô wĕ-ʾābîw tîrāʾû ... ʾal tipnû ʾel hā-ʾĕlîlîm ... wĕ-ʾāhabtā lĕ-rēʿăkā kāmôkā: revere parents, no idols, love your neighbour; Q 4:36 wa-ʿbudū llāha wa-lā tushrikū bihi shayʾan wa-bi-l-wālidayni iḥsānan ... wa-l-jāri dhī l-qurbā wa-l-jāri l-junubi: worship God alone, be good to parents, to the neighbour who is kin and the neighbour who is a stranger. Same sequence (God, parents, neighbour); the Quran spells out the circles of the neighbour."
+      - with: hb-lev-19-holiness-code-b
+        motif: neighbor-near-and-far
+        refs: ["4:36"]
+        with_refs: ["Lev 19:34"]
+        relation: echo
+        note: "Lev 19:34 kĕ-ʾezrāḥ mi-kkem yihyeh lākem ha-ggēr ... wĕ-ʾāhabtā lô kāmôkā: love the resident stranger as yourself; Q 4:36 wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli: the stranger-neighbour, the companion and the wayfarer. Love of neighbour extended to the outsider."
+      - with: hb-exod-20-decalogue
+        motif: honor-parents-long-life
+        refs: ["4:36"]
+        with_refs: ["Exod 20:3", "Exod 20:12"]
+        relation: parallel
+        note: "Exod 20:3, 12 lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā; Q 4:36 wa-ʿbudū llāha wa-lā tushrikū bihi shayʾan wa-bi-l-wālidayni iḥsānan. The Decalogue's first command and its command on parents, joined as in Q 2:83; the land promise (lĕmaʿan yaʾărikûn yāmêkā) is dropped."
+      - with: hb-job-31-oath-of-innocence
+        motif: atoms-weight-of-justice
+        refs: ["4:40"]
+        with_refs: ["Job 31:6"]
+        relation: echo
+        note: "Job 31:6 yišqĕlēnî bĕ-mōʾznê ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales; Q 4:40 inna llāha lā yaẓlimu mithqāla dharratin: God does not wrong anyone by an atom's weight. The divine weighing of deeds (šāqal / mithqāl, cognate weight terms)."
+      - with: hb-isa-43-you-are-my-witnesses
+        motif: witness-from-every-nation
+        refs: ["4:41"]
+        with_refs: ["Isa 43:9"]
+        relation: echo
+        note: "Isa 43:9 kol ha-ggôyim niqbĕṣû yaḥdāw ... yittĕnû ʿēdêhem: all nations gathered, let them bring their witnesses; Q 4:41 fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa-jiʾnā bika ʿalā hāʾulāʾi shahīdan: a witness brought from every nation, and the prophet as witness over these. A court of the nations with witnesses; for the nations' gods in Isaiah, against the nations themselves in the Quran."
+  - unit: quran-4-prayer-intoxication-purity
+    checked: [hb-lev-15-genital-discharges, hb-lev-10-nadab-abihu, hb-ezek-44-closed-gate-priests, hb-num-19-red-heifer]
+    matches:
+      - with: hb-lev-10-nadab-abihu
+        motif: priests-forbidden-wine-in-sanctuary
+        refs: ["4:43"]
+        with_refs: ["Lev 10:9", "Lev 10:10"]
+        relation: divergence
+        note: "Lev 10:9-10 yayin wĕ-šēkār ʾal tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ... û-lăhabdîl bên ha-qqōdeš û-bên ha-ḥōl: Aaron and his sons must drink no wine when entering the tent, so they can distinguish holy from profane; Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūn: do not approach prayer drunk, until you know what you say. The priestly rule for the sanctuary becomes a rule for every believer at prayer; the reason moves from ritual discernment to knowing one's own words; sukārā / šēkār cognate."
+      - with: hb-ezek-44-closed-gate-priests
+        motif: priests-forbidden-wine-in-sanctuary
+        refs: ["4:43"]
+        with_refs: ["Ezek 44:21"]
+        relation: echo
+        note: "Ezek 44:21 wĕ-yayin lōʾ yištû kol kōhēn bĕ-bôʾām ʾel he-ḥāṣēr ha-ppĕnîmît; Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā: sobriety before approaching God, for priests vs for all."
+      - with: hb-lev-15-genital-discharges
+        motif: seminal-emission-impurity-until-evening
+        refs: ["4:43"]
+        with_refs: ["Lev 15:16", "Lev 15:18"]
+        relation: divergence
+        note: "Lev 15:16, 18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ... wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity, or who has 'touched women', bathes before prayer; with no water, wipes with clean earth. The bath is kept; the wait until evening is dropped, and a substitute is allowed when there is no water."
+      - with: hb-num-19-red-heifer
+        motif: dry-ablution-with-earth
+        refs: ["4:43"]
+        with_refs: ["Num 19:17"]
+        relation: echo
+        note: "Num 19:17 wĕ-lāqĕḥû la-ṭṭāmēʾ mē-ʿăpar śĕrēpat ha-ḥaṭṭāʾt wĕ-nātan ʿālāyw mayim ḥayyîm: dust (ʿāpār) from the burnt purification offering, with living water, purifies the unclean; Q 4:43 fa-tayammamū ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum wa-aydīkum: clean earth wiped on face and hands purifies when there is no water. Dust as a purifying agent: in Numbers mixed with water, in the Quran in place of water. Weak; cf. b. Berakhot 15a for wiping with earth before prayer."

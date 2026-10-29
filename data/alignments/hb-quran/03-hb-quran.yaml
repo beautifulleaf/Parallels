@@ -1622,3 +1622,108 @@ reviewed:
         with_refs: ["Jer 26:2"]
         relation: echo
         note: "The prophet himself is bound to the exact word against an audience that wants something else: ʾēt kol-haddᵉbārîm ʾăšer ṣiwwîtîkā lᵉdabbēr ʾălêhem ʾal-tigraʿ dābār vs in attabiʿu illā mā yūḥā ilayya."
+  - unit: quran-10-rain-parable-idols-disown
+    checked: [hb-ps-103-bless-my-soul, hb-isa-40-comfort-my-people, hb-ps-90-moses-thousand-years, hb-ps-102-afflicted, hb-jer-4-uncreation, hb-amos-5-lament-day-of-yhwh]
+    matches:
+      - with: hb-ps-103-bless-my-soul
+        motif: as-if-they-had-never-dwelt-there
+        refs: ["10:24"]
+        with_refs: ["Ps 103:15", "Ps 103:16"]
+        relation: parallel
+        note: "Life flourishes like plants and then vanishes without trace: ka-māʾin anzalnāhu mina s-samāʾi fa-khtalaṭa bihi nabātu l-arḍi ... fa-jaʿalnāhā ḥaṣīdan ka-an lam taghna bi-l-amsi vs ʾĕnôš keḥāṣîr yāmāyw kᵉṣîṣ haśśādeh kēn yāṣîṣ kî rûaḥ ʿābᵉrāh-bô wᵉʾênennû wᵉlōʾ-yakkîrennû ʿôd mᵉqômô. Ps speaks of the brevity of man; Q of the whole worldly life (al-ḥayāti d-dunyā)."
+      - with: hb-isa-40-comfort-my-people
+        motif: all-flesh-is-grass
+        refs: ["10:24"]
+        with_refs: ["Isa 40:6", "Isa 40:7", "Isa 40:8"]
+        relation: parallel
+        note: "Vegetation dries up when God's command comes: atāhā amrunā laylan aw nahāran fa-jaʿalnāhā ḥaṣīdan vs kol-habbāśār ḥāṣîr ... yābēš ḥāṣîr nābēl ṣîṣ kî rûaḥ YHWH nāšᵉbāh bô. Isa sets God's word that stands for ever against it (ûdᵉbar-ʾĕlōhênû yāqûm lᵉʿôlām); Q sets the abode of peace (dāri s-salām, 10:25)."
+      - with: hb-ps-90-moses-thousand-years
+        motif: humans-like-grass-withering
+        refs: ["10:24"]
+        with_refs: ["Ps 90:5", "Ps 90:6"]
+        relation: parallel
+        note: "Flourishing overturned within a day: babbōqer yāṣîṣ wᵉḥālāp lāʿereb yᵉmôlēl wᵉyābēš vs ḥattā idhā akhadhati l-arḍu zukhrufahā wa-zzayyanat ... atāhā amrunā laylan aw nahāran."
+      - with: hb-ps-102-afflicted
+        motif: humans-like-grass-withering
+        refs: ["10:24"]
+        with_refs: ["Ps 102:12"]
+        relation: echo
+        note: "yāmay kᵉṣēl nāṭûy waʾănî kāʿēśeb ʾîbāš vs fa-jaʿalnāhā ḥaṣīdan ka-an lam taghna bi-l-ams."
+      - with: hb-amos-5-lament-day-of-yhwh
+        motif: faces-covered-with-night-darkness
+        refs: ["10:27"]
+        with_refs: ["Amos 5:18", "Amos 5:20"]
+        relation: echo
+        note: "Darkness falls on the wicked on God's day: ka-annamā ughshiyat wujūhuhum qiṭaʿan mina l-layli muẓliman vs yôm YHWH hûʾ-ḥōšek wᵉlōʾ-ʾôr ... wᵉʾāpēl wᵉlōʾ-nōgah lô. Amos makes the day itself dark; Q darkens the evildoers' faces."
+  - unit: quran-10-who-provides-challenge
+    checked: [hb-ps-94-god-of-vengeance, hb-jer-5-sea-boundary, hb-ps-17-apple-of-eye, hb-deut-31-joshua-torah-song, hb-isa-59-sins-separate-divine-warrior, hb-isa-41-trial-of-the-gods, hb-isa-43-you-are-my-witnesses, hb-1sam-2-song-of-hannah, hb-ps-90-moses-thousand-years]
+    matches:
+      - with: hb-ps-94-god-of-vengeance
+        motif: maker-of-eye-and-ear-sees-and-hears
+        refs: ["10:31"]
+        with_refs: ["Ps 94:9"]
+        relation: echo
+        note: "Hearing and sight belong to their maker: amman yamliku s-samʿa wa-l-abṣāra vs hănōṭaʿ ʾōzen hălōʾ yišmāʿ ʾim-yōṣēr ʿayin hălōʾ yabbîṭ. Ps argues that God therefore sees; Q that God, not the partners, owns these faculties."
+      - with: hb-isa-41-trial-of-the-gods
+        motif: gods-challenged-to-predict
+        refs: ["10:34", "10:35", "10:38"]
+        with_refs: ["Isa 41:21", "Isa 41:22", "Isa 41:23", "Isa 41:24"]
+        relation: parallel
+        note: "God challenges the other gods to match him: hal min shurakāʾikum man yabdaʾu l-khalqa thumma yuʿīduhu ... hal min shurakāʾikum man yahdī ilā l-ḥaqq; fa-ʾtū bi-sūratin mithlihi vs qārᵉbû rîbᵉkem ... yaggîšû wᵉyaggîdû lānû ... haggîdû hāʾōtiyyôt lᵉʾāḥôr wᵉnēdʿāh kî ʾĕlōhîm ʾattem ... hēn-ʾattem mēʾayin. Isa's test is foretelling; Q's tests are creating anew, guiding to truth and producing a surah like the Quran."
+      - with: hb-isa-43-you-are-my-witnesses
+        motif: challenge-to-produce-a-surah
+        refs: ["10:38"]
+        with_refs: ["Isa 43:9"]
+        relation: echo
+        note: "The opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi wa-dʿū mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem wᵉyiṣdāqû."
+      - with: hb-jer-5-sea-boundary
+        motif: eyes-that-do-not-see
+        refs: ["10:42", "10:43"]
+        with_refs: ["Jer 5:21"]
+        relation: echo
+        note: "a-fa-anta tusmiʿu ṣ-ṣumma ... a-fa-anta tahdī l-ʿumya wa-law kānū lā yubṣirūn vs ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû."
+      - with: hb-1sam-2-song-of-hannah
+        motif: god-brings-living-from-dead
+        refs: ["10:31"]
+        with_refs: ["1Sam 2:6"]
+        relation: echo
+        note: "God's power over life and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita mina l-ḥayy vs YHWH mēmît ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out of the dead; Hannah as bringing down to Sheol and up again."
+      - with: hb-ps-90-moses-thousand-years
+        motif: dead-think-they-stayed-an-hour
+        refs: ["10:45"]
+        with_refs: ["Ps 90:4"]
+        relation: echo
+        note: "A long span shrinks to almost nothing: ka-an lam yalbathū illā sāʿatan mina n-nahār vs kî ʾelep šānîm bᵉʿênêkā kᵉyôm ʾetmôl kî yaʿăbōr wᵉʾašmûrāh ballāylāh. In Ps it is God's view of time; in Q how the resurrected feel about their time in the grave."
+  - unit: quran-10-messenger-per-nation
+    checked: [hb-ps-49-no-ransom, hb-deut-32-song-of-moses, hb-jer-5-sea-boundary, hb-mic-3-rulers-and-prophets, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-isa-5-vineyard-and-woes, hb-jer-17-heal-me, hb-jer-8-balm-in-gilead]
+    matches:
+      - with: hb-ps-49-no-ransom
+        motif: no-ransom-for-a-brother
+        refs: ["10:54"]
+        with_refs: ["Ps 49:7", "Ps 49:8", "Ps 49:9"]
+        relation: parallel
+        note: "Wealth cannot ransom a life before God, with cognate verbs (f-d-y / p-d-h): wa-law anna li-kulli nafsin ẓalamat mā fī l-arḍi la-ftadat bihi vs habbōṭᵉḥîm ʿal-ḥêlām ... ʾāḥ lōʾ-pādōh yipdeh ʾîš lōʾ-yittēn lēʾlōhîm kopᵉrô wᵉyēqar pidyôn napšām."
+      - with: hb-isa-5-vineyard-and-woes
+        motif: people-dare-prophet-to-bring-punishment
+        refs: ["10:48", "10:50", "10:51"]
+        with_refs: ["Isa 5:19"]
+        relation: parallel
+        note: "Scoffers tell God to hurry the threatened judgment: wa-yaqūlūna matā hādhā l-waʿdu in kuntum ṣādiqīn; mādhā yastaʿjilu minhu l-mujrimūn vs hāʾōmᵉrîm yᵉmahēr yāḥîšāh maʿăśēhû lᵉmaʿan nirʾeh wᵉtiqrab wᵉtābôʾāh ʿăṣat qᵉdôš yiśrāʾēl."
+      - with: hb-jer-17-heal-me
+        motif: scoffers-ask-where-is-the-word
+        refs: ["10:48"]
+        with_refs: ["Jer 17:15"]
+        relation: parallel
+        note: "hinnēh-hēmmāh ʾōmᵉrîm ʾēlāy ʾayyēh dᵉbar-YHWH yābôʾ nāʾ vs matā hādhā l-waʿdu in kuntum ṣādiqīn."
+      - with: hb-jer-8-balm-in-gilead
+        motif: doomed-confess-wrongdoing-too-late
+        refs: ["10:51"]
+        with_refs: ["Jer 8:20"]
+        relation: echo
+        note: "The time for rescue has passed: a-thumma idhā mā waqaʿa āmantum bihi āl-āna vs ʿābar qāṣîr kālāh qāyiṣ waʾănaḥnû lôʾ nôšāʿnû."
+      - with: hb-deut-32-song-of-moses
+        motif: i-kill-and-make-alive
+        refs: ["10:56"]
+        with_refs: ["Deut 32:39"]
+        relation: parallel
+        note: "huwa yuḥyī wa-yumītu wa-ilayhi turjaʿūn vs ʾănî ʾāmît waʾăḥayyeh."

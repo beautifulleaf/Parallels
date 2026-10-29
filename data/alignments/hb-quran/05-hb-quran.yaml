@@ -1828,3 +1828,246 @@ reviewed:
         with_refs: ["Ps 132:13", "Ps 132:14"]
         relation: divergence
         note: "God's chosen city: kî vāḥar YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba hādhihi l-baldati lladhī ḥarramahā wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm it is Zion, God's dwelling; in the Quran it is Mecca, unnamed ('this town'), which God made sacred but does not dwell in, for 'everything is his'."
+  - unit: quran-28-pharaoh-oppression-infant-moses
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-exod-1-oppression-midwives, hb-gen-21-isaac-born-hagar-expelled, hb-gen-25-jacob-esau-birth]
+    matches:
+      - with: hb-exod-1-oppression-midwives
+        motif: kill-sons-spare-women
+        refs: ["28:4"]
+        with_refs: ["Exod 1:16", "Exod 1:22"]
+        relation: parallel
+        note: "yudhabbiḥu abnāʾahum wa-yastaḥyī nisāʾahum ~ ʾim bēn hûʾ wa-hămitten ʾōtô wə-ʾim bat hîʾ wā-ḥāyâ ... wə-khol hab-bat təḥayyûn: kill the sons, let the females live, with the same root for 'let live' (istaḥyā / ḥiyyâ). The Quran says 'their women' (nisāʾ), Exodus 'daughters'; the Quran leaves out the midwives Shiphrah and Puah and their defiance (Exod 1:15-21)."
+      - with: hb-exod-1-oppression-midwives
+        motif: ruler-fears-growing-foreign-population
+        refs: ["28:4", "28:5", "28:6"]
+        with_refs: ["Exod 1:9", "Exod 1:10"]
+        relation: divergence
+        note: "Why Pharaoh oppresses: Exodus gives his fear that the people will grow and side with enemies (pen yirbeh ... wə-nôsaf gam hûʾ ʿal śōnʾênû); the Quran gives his arrogance (ʿalā fī l-arḍ) and division of the people into factions. The Quran adds God's counter-purpose: to make the oppressed leaders and heirs and to show Pharaoh, Hāmān and their hosts 'what they feared' (mā kānū yaḥdharūn), so the fear of Exod 1:10 is the very thing God brings about."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: mother-divinely-inspired
+        refs: ["28:7"]
+        with_refs: ["Exod 2:2", "Exod 2:3"]
+        relation: divergence
+        note: "Who decides to put the child on the water: Exodus has the mother, on her own, hide him three months and, when she can hide him no longer (wə-lōʾ yākhlâ ʿôd haṣṣəfînô), make a papyrus basket sealed with pitch. In the Quran God inspires her (awḥaynā ilā ummi Mūsā): nurse him, cast him into the river when you fear, and 'we will return him to you and make him one of the messengers'. The rescue is announced in advance."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: infant-set-adrift
+        refs: ["28:7"]
+        with_refs: ["Exod 2:3"]
+        relation: divergence
+        note: "fa-alqīhi fī l-yammi ~ wat-tāśem bas-sûf ʿal śəfat hay-yəʾōr: Exodus places him carefully among the reeds at the edge of the Nile (yəʾōr), in a basket (tēvat gōmeʾ) with bitumen and pitch; the Quran says 'cast him into the yamm', with no vessel in this passage, using the word that elsewhere names the sea where Pharaoh drowns."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: adopted-by-royal-woman
+        refs: ["28:8", "28:9"]
+        with_refs: ["Exod 2:5", "Exod 2:6", "Exod 2:10"]
+        relation: divergence
+        note: "Who finds and adopts him: Pharaoh's daughter (bat Parʿōh), bathing, sees the basket, has pity on the crying child, recognizes him as Hebrew (mī-yaldê hā-ʿIvrîm zeh) and later names him. In the Quran Pharaoh's household picks him up (iltaqaṭahu ālu Firʿawn), and Pharaoh's wife (imraʾat Firʿawn) pleads with Pharaoh: qurratu ʿaynin lī wa-laka lā taqtulūhu ʿasā an yanfaʿanā aw nattakhidhahu waladan. Daughter becomes wife, pity becomes intercession, and the Quran adds the divine irony 'so that he would be an enemy and a grief to them' (28:8)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: sister-watches
+        refs: ["28:11"]
+        with_refs: ["Exod 2:4"]
+        relation: parallel
+        note: "qālat li-ukhtihi quṣṣīhi fa-baṣurat bihi ʿan junubin wa-hum lā yashʿurūna ~ wat-tētaṣṣav ʾăḥōtô mē-rāḥōq lə-dēʿâ mah yyēʿāśeh lô: the sister watches from a distance. In the Quran the mother sends her."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: sister-offers-nurse
+        refs: ["28:12"]
+        with_refs: ["Exod 2:7"]
+        relation: divergence
+        note: "The sister's offer: Exodus has hăʾēlēkh wə-qārāʾtî lākh ʾiššâ mêneqet min hā-ʿIvriyyōt on her own initiative; the Quran first has God forbid the other wet-nurses to him (wa-ḥarramnā ʿalayhi l-marāḍiʿa min qablu), then the sister offers a household that will rear him. cf. b. Sotah 12b (Moses refuses Egyptian breasts), outside the HB."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: returned-to-own-mother
+        refs: ["28:13"]
+        with_refs: ["Exod 2:9"]
+        relation: divergence
+        note: "Why the child goes back to his mother: Exodus has a paid arrangement with the princess, hêlîkhî ʾet hay-yeled haz-zeh wə-hênîqihû lî wa-ʾănî ʾettēn ʾet śəkhārēkh; the Quran has God keeping his promise, fa-radadnāhu ilā ummihi kay taqarra ʿaynuhā wa-lā taḥzana wa-li-taʿlama anna waʿda llāhi ḥaqqun. The Quran omits the naming and its etymology (Exod 2:10)."
+      - with: hb-gen-21-isaac-born-hagar-expelled
+        motif: fear-not-oracle
+        refs: ["28:7"]
+        with_refs: ["Gen 21:15", "Gen 21:17", "Gen 21:18"]
+        relation: echo
+        note: "A mother forced to give up her child is told not to fear and given a promise about his future: wat-tašlēkh ʾet hay-yeled ... ʾal tîrʾî ... kî lə-gôy gādôl ʾăśîmennû ~ fa-alqīhi fī l-yammi wa-lā takhāfī wa-lā taḥzanī innā rāddūhu ilayki wa-jāʿilūhu mina l-mursalīna. The same verb 'cast' (hišlîkh / alqā)."
+  - unit: quran-28-moses-kills-and-flees
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-1kgs-11-adversaries, hb-1sam-26-spear-and-jug, hb-exod-14-crossing-of-the-sea, hb-2sam-1-amalekite-messenger]
+    matches:
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: hero-kills-oppressor-and-hides-body
+        refs: ["28:15"]
+        with_refs: ["Exod 2:11", "Exod 2:12"]
+        relation: divergence
+        note: "The killing: Exodus has Moses see an Egyptian beating a Hebrew 'of his brothers', look this way and that and see no one (wa-yyifen kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and hide him in the sand. The Quran has him find two men fighting, one of his party (shīʿa) and one of his enemy; at his kinsman's cry for help he strikes one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā ʿalayhi). There is no looking around and no hiding of the body; the act is unpremeditated."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: killing-called-work-of-satan
+        refs: ["28:15", "28:16", "28:17"]
+        with_refs: ["Exod 2:12", "Exod 2:14"]
+        relation: divergence
+        note: "Moral verdict on the killing: Exodus passes none; Moses only fears exposure (wa-yyîrāʾ Mōše wa-yyōʾmar ʾākhēn nôdaʿ had-dāvār). The Quran has Moses judge it at once, hādhā min ʿamali sh-shayṭān ... rabbi innī ẓalamtu nafsī fa-ghfir lī, and God forgives him (fa-ghafara lahu), so Moses is a repentant penitent before he is a prophet."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: who-made-you-judge-over-us
+        refs: ["28:18", "28:19"]
+        with_refs: ["Exod 2:13", "Exod 2:14"]
+        relation: divergence
+        note: "The second day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî. In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman 'clearly misguided' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. 'Prince and judge' becomes 'tyrant' (jabbār)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: man-from-far-end-of-city-warns
+        refs: ["28:20"]
+        with_refs: ["Exod 2:15"]
+        relation: divergence
+        note: "How the danger reaches Moses: Exodus has wa-yyišmaʿ Parʿōh ʾet had-dāvār haz-zeh wa-yvaqqēš lahărōg ʾet Mōše, Pharaoh himself; the Quran has the chiefs plotting (al-malaʾa yaʾtamirūna bika li-yaqtulūka) and an unnamed sympathizer running from the far end of the city to warn him (wa-jāʾa rajulun min aqṣā l-madīnati yasʿā)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: hero-flees-to-foreign-land
+        refs: ["28:21", "28:22"]
+        with_refs: ["Exod 2:15"]
+        relation: parallel
+        note: "fa-kharaja minhā khāʾifan yataraqqabu ... wa-lammā tawajjaha tilqāʾa Madyana ~ wa-yyivraḥ Mōše mip-pənê Farʿōh wa-yyēšev bə-ʾereṣ Midyān: flight to Midian (Madyan / Midyān). The Quran adds two prayers (rabbi najjinī ... ʿasā rabbī an yahdiyanī sawāʾa s-sabīl)."
+      - with: hb-1kgs-11-adversaries
+        motif: hero-flees-to-foreign-land
+        refs: ["28:21", "28:22"]
+        with_refs: ["1Kgs 11:17", "1Kgs 11:18"]
+        relation: echo
+        note: "fa-kharaja minhā khāʾifan ... tilqāʾa Madyana ~ wa-yyivraḥ ʾĂdad ... wa-yyāqumû mim-Midyān wa-yyāvōʾû Pāʾrān ... Miṣrayim ʾel Parʿōh: a hunted young man flees by way of Midian. Hadad's route goes the opposite way, from Edom through Midian into Pharaoh's court, while Moses flees from Pharaoh's court to Midian."
+  - unit: quran-28-moses-in-midian
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-gen-29-jacob-rachel-leah, hb-hos-12-jacob, hb-gen-24-bride-for-isaac, hb-2kgs-4-shunammite]
+    matches:
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: hero-waters-flock-for-women
+        refs: ["28:23", "28:24"]
+        with_refs: ["Exod 2:16", "Exod 2:17"]
+        relation: divergence
+        note: "At the water of Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock. The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish, explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: foreign-priest-father-in-law
+        refs: ["28:23", "28:25"]
+        with_refs: ["Exod 2:16", "Exod 2:18", "Exod 2:20"]
+        relation: divergence
+        note: "The father: Exodus has a named priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed 'very old man' (shaykhun kabīr), no priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: modest-daughter-invites-hero-to-father
+        refs: ["28:25", "28:26"]
+        with_refs: ["Exod 2:19", "Exod 2:20"]
+        relation: divergence
+        note: "The daughters' role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, 'an Egyptian man saved us' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ) to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu, 'hire him, the best one to hire is the strong and trustworthy'."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: meeting-future-wife-at-well
+        refs: ["28:27", "28:28"]
+        with_refs: ["Exod 2:21"]
+        relation: divergence
+        note: "The marriage: Exodus has wa-yyôʾel Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms; the Quran has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin fa-in atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu ʿalā mā naqūlu wakīl)."
+      - with: hb-gen-29-jacob-rachel-leah
+        motif: serving-seven-years-for-bride
+        refs: ["28:27", "28:28"]
+        with_refs: ["Gen 29:18", "Gen 29:20", "Gen 29:25", "Gen 29:27"]
+        relation: divergence
+        note: "Service for a wife: Jacob offers ʾeʿĕvodkā šebaʿ šānîm bə-Rāḥēl, is deceived (lāmmâ rimmîtānî), and must serve seven more; Moses is offered eight years with an optional tenth by a father who says wa-mā urīdu an ashuqqa ʿalayka, and he agrees with 'whichever term I complete, no wrong to me' (fa-lā ʿudwāna ʿalayya). The Quran's Midian story borrows Jacob's labor contract and removes the deception."
+      - with: hb-gen-29-jacob-rachel-leah
+        motif: meeting-at-the-well-betrothal
+        refs: ["28:23", "28:24"]
+        with_refs: ["Gen 29:2", "Gen 29:3", "Gen 29:10"]
+        relation: parallel
+        note: "wa-lammā warada māʾa Madyana wajada ʿalayhi ummatan mina n-nāsi yasqūna ... fa-saqā lahumā ~ wə-hinnēh šām šəlōšâ ʿedrê ṣōʾn ... wa-yyāgel ʾet hā-ʾeven ... wa-yyašqə ʾet ṣōʾn Lāvān: the newcomer at a well where shepherds water their flocks waters the flock of the woman he will marry (saqā / hišqâ)."
+      - with: hb-hos-12-jacob
+        motif: serving-seven-years-for-bride
+        refs: ["28:27"]
+        with_refs: ["Hos 12:13"]
+        relation: echo
+        note: "ʿalā an taʾjuranī thamāniya ḥijajin ~ wa-yyivraḥ Yaʿăqōv śədēh ʾĂrām wa-yyaʿăvōd Yiśrāʾēl bə-ʾiššâ û-və-ʾiššâ šāmār: flight to a foreign land and herding service for a wife. Hosea's line fits Moses as well as Jacob."
+      - with: hb-gen-24-bride-for-isaac
+        motif: meeting-future-wife-at-well
+        refs: ["28:23", "28:25"]
+        with_refs: ["Gen 24:11", "Gen 24:13", "Gen 24:14"]
+        relation: echo
+        note: "wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~ hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at a town's water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger's animals as a sign; in the Quran the stranger waters the women's flock."
+  - unit: quran-28-call-at-the-tree
+    checked: [hb-exod-4-signs-aaron-bridegroom-of-blood, hb-exod-7-staff-swallows-staffs, hb-exod-3-burning-bush, hb-amos-7-visions-and-amaziah, hb-1kgs-19-elijah-horeb]
+    matches:
+      - with: hb-exod-3-burning-bush
+        motif: shepherd-called-at-mountain-of-god
+        refs: ["28:29", "28:30"]
+        with_refs: ["Exod 3:1", "Exod 3:5"]
+        relation: divergence
+        note: "Place and occasion of the call: Exodus has Moses shepherding Jethro's flock 'behind the wilderness' to Horeb, the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals. The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in 'the blessed spot' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes a blessed spot."
+      - with: hb-exod-3-burning-bush
+        motif: burning-bush-not-consumed
+        refs: ["28:30"]
+        with_refs: ["Exod 3:2", "Exod 3:4"]
+        relation: divergence
+        note: "nūdiya ... mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush (səneh) becomes 'the tree' (ash-shajara), the angel in the flame drops out, and 'the God of your father' becomes 'Allāh, Lord of the worlds'."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: staff-quivers-like-jinn-snake-moses-flees
+        refs: ["28:31"]
+        with_refs: ["Exod 4:3", "Exod 4:4"]
+        relation: divergence
+        note: "As at Q 27:10: wa-yyānās Mōše mip-pānāyw ~ wallā mudbiran wa-lam yuʿaqqib; Exodus' command to seize the snake's tail (wə-ʾĕḥōz bi-znāvô) becomes yā Mūsā aqbil wa-lā takhaf innaka mina l-āminīn, 'come forward and do not fear, you are safe'."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: hand-turned-leprous-white-as-snow
+        refs: ["28:32"]
+        with_refs: ["Exod 4:6", "Exod 4:8", "Exod 4:9"]
+        relation: divergence
+        note: "Two signs, not three, and no leprosy: Exodus gives staff, leprous hand (məṣōraʿat ka-ššāleg), and a third sign held in reserve, Nile water turned to blood (wə-hāyû lə-dām bay-yabbāšet), meant for doubting Israelites; the Quran has fa-dhānika burhānāni min rabbika ilā Firʿawna wa-malaʾihi, two proofs aimed at Pharaoh, the hand white 'without evil' (min ghayri sūʾ), and adds 'draw your arm to your side against fear'."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: aaron-more-eloquent
+        refs: ["28:34", "28:35"]
+        with_refs: ["Exod 4:10", "Exod 4:14", "Exod 4:15"]
+        relation: divergence
+        note: "Aaron's eloquence: in Exodus Moses says he is heavy of mouth, and God, angry, proposes Aaron himself: wa-yyiḥar ʾap YHWH bə-Mōše ... yādaʿtî kî dabbēr yədabbēr hûʾ ... wə-śamtā ʾet had-dəvārîm bə-fîw. In the Quran Moses proposes him, wa-akhī Hārūnu huwa afṣaḥu minnī lisānan fa-arsilhu maʿiya ridʾan yuṣaddiqunī, and God agrees without anger: sa-nashuddu ʿaḍudaka bi-akhīka. Aaron is a supporting witness (ridʾ, yuṣaddiqunī), not a mouth for Moses as God."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: moses-kills-man-delivered-from-grief
+        refs: ["28:33"]
+        with_refs: ["Exod 4:19"]
+        relation: divergence
+        note: "rabbi innī qataltu minhum nafsan fa-akhāfu an yaqtulūni ~ kî mētû kol hā-ʾănāšîm ham-məvaqšîm ʾet nafšekā: the old killing as an obstacle to going back. In Exodus God removes it unasked, in the Quran Moses raises it at the call."
+      - with: hb-1kgs-19-elijah-horeb
+        motif: prophet-in-cave-on-horeb
+        refs: ["28:29", "28:30", "28:33"]
+        with_refs: ["1Kgs 19:8", "1Kgs 19:10", "1Kgs 19:12"]
+        relation: echo
+        note: "A prophet fleeing those who seek his life is addressed by God at the holy mountain: ʿad har hā-ʾĕlōhîm Ḥōrēv ... wa-yvaqšû ʾet nafšî ləqaḥtāh ... qôl dəmāmâ daqqâ ~ ānasa min jānibi ṭ-Ṭūri nāran ... fa-akhāfu an yaqtulūni. In 1 Kgs God is not in the fire (lōʾ vāʾēš YHWH); in the Quran the call comes from the fire and tree."
+  - unit: quran-28-pharaohs-tower-and-end
+    checked: [hb-gen-11-babel, hb-ps-78-history, hb-exod-7-staff-swallows-staffs, hb-isa-19-oracle-on-egypt, hb-1kgs-18-carmel, hb-esth-3-haman-decree, hb-ezek-29-pharaoh-the-dragon, hb-exod-5-bricks-without-straw]
+    matches:
+      - with: hb-gen-11-babel
+        motif: brick-and-bitumen-building
+        refs: ["28:38"]
+        with_refs: ["Gen 11:3"]
+        relation: parallel
+        note: "fa-awqid lī yā Hāmānu ʿalā ṭ-ṭīni ~ nilbənâ ləvēnîm wə-niśrəpâ li-śrēfâ: building material made by firing clay (awqid ʿalā ṭ-ṭīn / śārap li-śrēfâ)."
+      - with: hb-gen-11-babel
+        motif: tower-reaching-heaven
+        refs: ["28:38", "28:39", "28:40"]
+        with_refs: ["Gen 11:4", "Gen 11:5", "Gen 11:8"]
+        relation: divergence
+        note: "A tower toward heaven: Babel's builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina l-kādhibīna): the aim is to climb up and look at Moses' God, mockingly. The ending is drowning (fa-nabadhnāhum fī l-yamm), not dispersal. God's descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed into Pharaoh's wish to ascend and inspect God."
+      - with: hb-esth-3-haman-decree
+        motif: haman-minister-of-pharaoh
+        refs: ["28:38"]
+        with_refs: ["Esth 3:1", "Esth 3:6"]
+        relation: echo
+        note: "yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm: the name Hāmān for the foreign king's chief minister in a story of persecution of Israel. In the HB he serves the Persian Ahasuerus, in the Quran Pharaoh."
+      - with: hb-ezek-29-pharaoh-the-dragon
+        motif: pharaoh-claims-no-other-god
+        refs: ["28:38", "28:39"]
+        with_refs: ["Ezek 29:3"]
+        relation: parallel
+        note: "yā ayyuhā l-malaʾu mā ʿalimtu lakum min ilāhin ghayrī ... wa-stakbara huwa wa-junūduhu ~ ʾăšer ʾāmar lî yəʾōrî wa-ʾănî ʿăśîtinî: Pharaoh claims divinity in his own words, the prophet quoting his boast. In Ezekiel he is the maker of the Nile or of himself; in the Quran he is the only god his court knows. Both end with Pharaoh flung out (Ezek 29:5 nəṭaštîkā ham-midbārâ, Q 28:40 fa-nabadhnāhum fī l-yamm)."
+      - with: hb-exod-5-bricks-without-straw
+        motif: who-is-yhwh-defiance
+        refs: ["28:38"]
+        with_refs: ["Exod 5:2"]
+        relation: divergence
+        note: "Pharaoh's knowledge of the god: lōʾ yādaʿtî ʾet YHWH, 'I do not know YHWH' (ignorance of a foreign god) ~ mā ʿalimtu lakum min ilāhin ghayrī, 'I know of no god for you other than me' (Pharaoh's self-deification)."
+      - with: hb-ps-78-history
+        motif: pursuers-drowned-in-sea
+        refs: ["28:40"]
+        with_refs: ["Ps 78:53"]
+        relation: echo
+        note: "fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: the enemy army covered by or thrown into the sea (yamm / yām)."
+      - with: hb-isa-19-oracle-on-egypt
+        motif: foolish-counselors-of-pharaoh
+        refs: ["28:38"]
+        with_refs: ["Isa 19:11"]
+        relation: echo
+        note: "yā ayyuhā l-malaʾu ... fa-awqid lī yā Hāmānu ~ ʾak ʾĕwilîm śārê Ṣōʿan ḥakhmê yōʿăṣê Farʿōh ʿēṣâ nivʿārâ: Pharaoh's court and advisers as part of his folly."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: contest-with-court-magicians
+        refs: ["28:36"]
+        with_refs: ["Exod 7:11"]
+        relation: echo
+        note: "qālū mā hādhā illā siḥrun muftaran ~ wa-yyaʿăśû gam hēm ḥarṭummê Miṣrayim bə-lahăṭêhem kēn: the signs set on a level with sorcery; Exodus by imitation, the Quran by the charge 'forged magic'."
