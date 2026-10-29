@@ -4,7 +4,7 @@ Usage:
   python3 tools/hbread.py plan                 # list the reading chunks
   python3 tools/hbread.py text <chunk>         # print a chunk's text, verse by verse
   python3 tools/hbread.py text <Book> <c1> [c2]  # print chapters c1..c2 of one book
-  python3 tools/hbread.py vocab                # print the motif vocabulary (id: label)
+  python3 tools/hbread.py vocab [words...]     # print motifs (id: label), optionally only those matching all words
 
 Text is the Westminster Leningrad Codex (OSHB) with cantillation marks
 removed and vowels kept. Chunks split the canon at chapter boundaries into
@@ -78,9 +78,14 @@ def main():
         print_chapters([x for x in chapters(text) if x[0] == book and c1 <= x[1] <= c2], text)
     elif cmd == "vocab":
         import motifs
-        vocab, _units = motifs.load()
+        vocab, _units = motifs.load(strict=False)
+        words = [w.lower() for w in sys.argv[2:]]
         for mid, m in vocab.items():
-            print(f"{mid}: {m['label']}")
+            if m.get("alias_of"):
+                continue
+            line = f"{mid}: {m['label']}"
+            if all(w in line.lower() for w in words):
+                print(line)
     else:
         sys.exit(__doc__)
 
