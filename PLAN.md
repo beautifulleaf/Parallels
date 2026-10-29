@@ -143,6 +143,24 @@ Leads are built on original-language texts, not translations or glosses.
   (Lane's Lexicon for Arabic; BDB for Hebrew, whose open digital edition
   marks where an Arabic cognate is cited but omits the Arabic word itself).
 
+## Standing requirements for every text
+
+Every corpus added to the project, now or later, gets the same treatment:
+
+1. **Original text in the repo.** It is ingested with its lemmas or
+   morphology where an edition provides them.
+2. **A full read.** Every passage is read and tagged with motifs, with read
+   ranges recorded and checked (`tools/motifs.py --validate`). Coverage is
+   reported in `results/COVERAGE.md`.
+3. **The linguistic layer** (`tools/linguistic.py`): recurring phrases and
+   formulas, doublets, hapax and dis legomena, and loanword candidates. Each
+   corpus plugs in through an adapter.
+4. **The lexical track** (`tools/lexical.py`) where narrative labels exist:
+   concentration, bridges, synonym skew, and cognates against the other
+   corpora.
+
+Nothing counts as covered until it has been read in full.
+
 ## Guarding against parallelomania
 
 - **Benchmark-first.** A gold set of established parallels must be recovered

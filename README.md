@@ -17,6 +17,7 @@ python3 tools/fetch.py                  # download corpora into data/raw/ (not c
 python3 tools/lexical.py --write-leads  # lexical track: results/lexical/ + pipeline leads
 python3 tools/motifs.py --write-leads   # motif track: results/motifs/ + pipeline leads
 python3 tools/originals.py              # fill lead passages with original Arabic/Hebrew text
+python3 tools/linguistic.py             # phrases, doublets, rare words, loanword candidates
 python3 tools/coverage.py               # results/COVERAGE.md: what has been scanned and read
 python3 tools/build.py                  # validate leads, regenerate site/index.html
 ```
