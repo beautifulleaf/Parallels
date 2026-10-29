@@ -1,0 +1,68 @@
+---
+id: motif-hb-samuel-childhood-vs-ec-protevangelium
+title: Hannah's vow and Samuel at Shiloh ↔ Protevangelium of James
+summary: 'These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn)
+  child to god''s service.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- christianity-early
+layers:
+- motif
+motifs:
+- child-raised-in-sanctuary
+- mother-dedicates-child
+passages:
+- tradition: judaism
+  ref: 1Sam 2:11
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
+    עֵלִ֥י הַכֹּהֵֽן
+- tradition: judaism
+  ref: 1Sam 2:18
+  note: Child raised in the sanctuary or temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
+- tradition: christianity-early
+  ref: 'Protevangelium of James: 7–8'
+  note: Child raised in the sanctuary or temple
+- tradition: judaism
+  ref: 1Sam 1:11
+  note: Mother vows her (unborn) child to God's service
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
+    וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל
+    יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
+- tradition: judaism
+  ref: 1Sam 1:28
+  note: Mother vows her (unborn) child to God's service
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה
+    וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה
+- tradition: christianity-early
+  ref: 'Protevangelium of James: 4'
+  note: Mother vows her (unborn) child to God's service
+evidence:
+- text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows
+    her (unborn) child to God''s service (weight 2.1). Pair score 4.2.'
+  basis: reading
+- text: 'Hannah''s vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Protevangelium of James: tagged by Claude (model), from secondary knowledge.'
+  basis: scholarship
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

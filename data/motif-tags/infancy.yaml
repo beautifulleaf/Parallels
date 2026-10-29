@@ -1,0 +1,129 @@
+units:
+  - id: quran-moses-infancy
+    tradition: islam
+    title: The infant Moses in the Quran
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    tags:
+      - {motif: king-kills-male-infants, refs: ["28:4", "2:49"]}
+      - {motif: mother-divinely-inspired, refs: ["20:38", "28:7"]}
+      - {motif: infant-set-adrift, refs: ["20:39", "28:7"]}
+      - {motif: found-by-royal-household, refs: ["28:8"]}
+      - {motif: adopted-by-royal-woman, refs: ["28:9"], note: "Pharaoh's wife (imraʾat Firʿawn), not his daughter"}
+      - {motif: sister-watches, refs: ["28:11"]}
+      - {motif: sister-offers-nurse, refs: ["20:40", "28:12"]}
+      - {motif: infant-refuses-nurses, refs: ["28:12"]}
+      - {motif: returned-to-own-mother, refs: ["20:40", "28:13"]}
+
+  - id: hb-moses-infancy
+    tradition: judaism
+    title: The infant Moses in Exodus
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    tags:
+      - {motif: king-kills-male-infants, refs: ["Exod 1:16", "Exod 1:22"]}
+      - {motif: mother-hides-infant, refs: ["Exod 2:2"]}
+      - {motif: infant-set-adrift, refs: ["Exod 2:3"]}
+      - {motif: reed-container, refs: ["Exod 2:3"], note: tēvat gōmeʾ}
+      - {motif: vessel-sealed-with-pitch, refs: ["Exod 2:3"]}
+      - {motif: found-by-royal-household, refs: ["Exod 2:5", "Exod 2:6"]}
+      - {motif: sister-watches, refs: ["Exod 2:4"]}
+      - {motif: sister-offers-nurse, refs: ["Exod 2:7"]}
+      - {motif: returned-to-own-mother, refs: ["Exod 2:8", "Exod 2:9"]}
+      - {motif: adopted-by-royal-woman, refs: ["Exod 2:10"], note: "Pharaoh's daughter"}
+      - {motif: name-from-water, refs: ["Exod 2:10"]}
+
+  - id: akk-sargon-birth
+    tradition: ane-akkadian
+    title: Sargon Birth Legend
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: secret-or-irregular-birth, refs: ["Sargon Birth Legend"]}
+      - {motif: infant-set-adrift, refs: ["Sargon Birth Legend"]}
+      - {motif: reed-container, refs: ["Sargon Birth Legend"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Sargon Birth Legend"]}
+      - {motif: found-by-commoner, refs: ["Sargon Birth Legend"], note: Aqqi the water-drawer}
+      - {motif: goddess-favors-hero, refs: ["Sargon Birth Legend"], note: Ishtar}
+
+  - id: nt-matthew-2
+    tradition: christianity-early
+    title: Herod and the infants (Matthew 2)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: king-kills-male-infants, refs: ["Matthew 2:16"]}
+
+  - id: jud-sotah-12b
+    tradition: judaism
+    title: Moses and the Egyptian nurses (Babylonian Talmud, Sotah 12b)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: infant-refuses-nurses, refs: ["Sotah 12b"]}
+
+  - id: quran-mary-infancy
+    tradition: islam
+    title: Mary and the infant Jesus in the Quran
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    tags:
+      - {motif: mother-dedicates-child, refs: ["3:35"]}
+      - {motif: child-raised-in-sanctuary, refs: ["3:37"], note: al-miḥrāb}
+      - {motif: miraculous-food-in-sanctuary, refs: ["3:37"]}
+      - {motif: lots-for-guardian, refs: ["3:44"], note: "they cast their pens/reeds (aqlām)"}
+      - {motif: birth-in-solitude, refs: ["19:22"]}
+      - {motif: palm-tree-provides, refs: ["19:23", "19:25"]}
+      - {motif: miraculous-spring, refs: ["19:24"]}
+      - {motif: vow-of-silence, refs: ["19:26"]}
+      - {motif: infant-speaks, refs: ["19:29", "19:30", "3:46"]}
+      - {motif: clay-birds-animated, refs: ["3:49", "5:110"]}
+
+  - id: hb-samuel-childhood
+    tradition: judaism
+    title: Hannah's vow and Samuel at Shiloh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    tags:
+      - {motif: mother-dedicates-child, refs: ["1Sam 1:11", "1Sam 1:28"]}
+      - {motif: child-raised-in-sanctuary, refs: ["1Sam 2:11", "1Sam 2:18"]}
+
+  - id: ec-protevangelium
+    tradition: christianity-early
+    title: Protevangelium of James
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: mother-dedicates-child, refs: ["4"]}
+      - {motif: child-raised-in-sanctuary, refs: ["7–8"]}
+      - {motif: miraculous-food-in-sanctuary, refs: ["8"], note: fed by the hand of an angel}
+      - {motif: lots-for-guardian, refs: ["9"], note: the widowers' rods}
+
+  - id: ec-pseudo-matthew
+    tradition: christianity-early
+    title: Gospel of Pseudo-Matthew
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: palm-tree-provides, refs: ["20"]}
+      - {motif: miraculous-spring, refs: ["20"]}
+
+  - id: ec-arabic-infancy
+    tradition: christianity-eastern
+    title: Arabic (Syriac) Infancy Gospel
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: infant-speaks, refs: ["1"]}
+
+  - id: ec-infancy-thomas
+    tradition: christianity-early
+    title: Infancy Gospel of Thomas
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: clay-birds-animated, refs: ["2"]}

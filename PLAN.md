@@ -172,7 +172,7 @@ Leads are built on original-language texts, not translations or glosses.
 
 - **v0 — foundation.** *Done.* Data model, ingest framework, gold set, and an artifact
   skeleton that can display hand-entered leads.
-- **v1 — first pipeline.** *Lexical track done for the Quran and Hebrew Bible; the motif track and Han Kitab ↔ Zhu Xi are next.*
+- **v1 — first pipeline.** *Lexical track done for the Quran and Hebrew Bible. Motif track running on three clusters (flood, infancy, Abraham and the idols). Next: more clusters and Han Kitab ↔ Zhu Xi.*
   - Corpora: Quran + Hebrew Bible, with both tracks.
   - Reference lexica only: Akkadian, Ugaritic, Egyptian, Sumerian.
   - One cross-family response pair: Han Kitab ↔ Zhu Xi.

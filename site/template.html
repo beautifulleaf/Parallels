@@ -138,6 +138,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 .passage .src { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
 .basis { font-family: var(--font-mono); font-size: 10px; padding: 1px 6px; border-radius: 4px; margin-right: 6px; border: 1px solid var(--rule); color: var(--muted); white-space: nowrap; }
 .basis[data-basis="original"] { border-color: var(--est); color: var(--est); }
+.basis[data-basis="reading"] { border-color: var(--lapis); color: var(--lapis); }
 .basis[data-basis="gloss"] { border-color: var(--cont); color: var(--cont); }
 .basis[data-basis="scholarship"] { border-color: var(--prop); color: var(--prop); }
 .tag.review { background: transparent; border: 1px dashed var(--cont); color: var(--cont); }
@@ -207,7 +208,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     review: ["checked", "unchecked"],
   };
   const RTL = new Set(["ar", "he", "arc", "syc", "myz"]);
-  const BASIS = { original: "from the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
+  const BASIS = { original: "from the original", reading: "a reader's interpretation of the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
   const state = { q: "", relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), review: new Set(), traditions: new Set(), sort: "title" };
 
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));

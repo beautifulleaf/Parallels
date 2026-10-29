@@ -1,0 +1,73 @@
+# Motif vocabulary for the motif track. Ids are referenced by
+# data/motif-tags/*.yaml. Keep descriptions concrete enough that two readers
+# would tag the same verse the same way. Specific motifs are worth more than
+# generic ones; the matcher weights each motif by how rare it is across units.
+motifs:
+  # ---- flood
+  divine-decision-to-destroy: {label: "Deity decides to destroy humankind", cluster: flood}
+  reason-human-wickedness: {label: "Destruction motivated by human wickedness or violence", cluster: flood}
+  reason-human-noise: {label: "Destruction motivated by human noise or overpopulation", cluster: flood}
+  reason-rejected-messenger: {label: "Destruction follows the people's rejection of a messenger", cluster: flood}
+  hero-righteous: {label: "Hero singled out as righteous or pious", cluster: flood}
+  hero-warned-by-deity: {label: "Hero privately warned of the coming flood by a deity", cluster: flood}
+  warning-through-wall: {label: "Warning spoken to a wall or reed hut so the hero overhears", cluster: flood}
+  hero-preaches-to-people: {label: "Hero warns or preaches to his people before the flood", cluster: flood}
+  people-mock-builder: {label: "People mock the hero while he builds the vessel", cluster: flood}
+  hero-prays-for-judgment: {label: "Hero asks the deity to judge or destroy his opponents", cluster: flood}
+  build-vessel-on-instruction: {label: "Hero builds a vessel on divine instruction", cluster: flood}
+  vessel-dimensions-given: {label: "Exact dimensions of the vessel are specified", cluster: flood}
+  vessel-sealed-with-pitch: {label: "Vessel sealed with pitch or bitumen", cluster: [flood, infancy]}
+  vessel-planks-and-nails: {label: "Vessel described by its planks and fastenings", cluster: flood}
+  sign-to-board: {label: "A specific sign marks the moment to board", cluster: flood}
+  boiling-waters: {label: "The flood waters are hot or boiling", cluster: flood}
+  animals-in-pairs: {label: "Animals taken aboard in pairs", cluster: flood}
+  animals-aboard: {label: "Animals taken aboard (no pairing specified)", cluster: flood}
+  family-saved: {label: "Hero's family saved with him", cluster: flood}
+  family-member-lost: {label: "A member of the hero's family is lost", cluster: flood}
+  waters-from-above-and-below: {label: "Waters pour both from the sky and from springs of the earth", cluster: flood}
+  mountain-refuge-fails: {label: "Someone seeks refuge on a mountain and is drowned", cluster: flood}
+  universal-destruction: {label: "All others perish", cluster: flood}
+  vessel-rests-on-mountain: {label: "Vessel comes to rest on a named mountain", cluster: flood}
+  bird-release: {label: "Birds released to find dry land", cluster: flood}
+  sacrifice-after-flood: {label: "Hero offers sacrifice after leaving the vessel", cluster: flood}
+  deity-smells-offering: {label: "Deity or gods smell the offering", cluster: flood}
+  promise-never-again: {label: "Deity resolves or promises not to repeat the destruction", cluster: flood}
+  sign-in-sky: {label: "A sign in the sky commemorates the flood (bow, necklace)", cluster: flood}
+  hero-age-950: {label: "Hero's life or mission spans 950 years", cluster: flood}
+  blessing-on-descent: {label: "Hero blessed on leaving the vessel", cluster: flood}
+  fish-guides-vessel: {label: "A fish warns the hero and tows the vessel", cluster: flood}
+  repopulation-from-stones-or-offering: {label: "Humankind renewed by a miraculous act", cluster: flood}
+  # ---- infancy and childhood
+  king-kills-male-infants: {label: "Ruler orders the killing of male infants", cluster: infancy}
+  mother-divinely-inspired: {label: "Mother receives divine instruction about the infant", cluster: infancy}
+  mother-hides-infant: {label: "Mother hides the infant", cluster: infancy}
+  secret-or-irregular-birth: {label: "Birth kept secret or irregular", cluster: infancy}
+  infant-set-adrift: {label: "Infant placed in a container and set on the water", cluster: infancy}
+  reed-container: {label: "The container is made of reeds or papyrus", cluster: infancy}
+  found-by-royal-household: {label: "Infant found by members of a royal household", cluster: infancy}
+  found-by-commoner: {label: "Infant found and raised by a commoner", cluster: infancy}
+  adopted-by-royal-woman: {label: "Infant adopted by a royal woman", cluster: infancy}
+  sister-watches: {label: "Infant's sister watches over him", cluster: infancy}
+  sister-offers-nurse: {label: "Sister offers to find a nurse", cluster: infancy}
+  infant-refuses-nurses: {label: "Infant refuses other wet nurses", cluster: infancy}
+  returned-to-own-mother: {label: "Infant returned to his own mother to nurse", cluster: infancy}
+  name-from-water: {label: "Name explained by being drawn from water", cluster: infancy}
+  goddess-favors-hero: {label: "A goddess loves or favors the foundling", cluster: infancy}
+  mother-dedicates-child: {label: "Mother vows her (unborn) child to God's service", cluster: infancy}
+  child-raised-in-sanctuary: {label: "Child raised in the sanctuary or temple", cluster: infancy}
+  miraculous-food-in-sanctuary: {label: "Child miraculously fed in the sanctuary", cluster: infancy}
+  lots-for-guardian: {label: "Lots, rods or reeds decide who will be the child's guardian", cluster: infancy}
+  birth-in-solitude: {label: "Mother gives birth alone in a remote place", cluster: infancy}
+  palm-tree-provides: {label: "A palm tree provides food to the mother", cluster: infancy}
+  miraculous-spring: {label: "A spring or stream appears for the mother", cluster: infancy}
+  vow-of-silence: {label: "Mother keeps a vow of silence", cluster: infancy}
+  infant-speaks: {label: "The newborn speaks", cluster: infancy}
+  clay-birds-animated: {label: "Child makes birds from clay that come alive", cluster: infancy}
+  # ---- Abraham and the idols
+  father-serves-idols: {label: "Hero's father makes, sells or worships idols", cluster: abraham}
+  heavenly-bodies-argument: {label: "Hero reasons from the stars, moon and sun to the one God", cluster: abraham}
+  hero-smashes-idols: {label: "Hero smashes or burns idols", cluster: abraham}
+  largest-idol-blamed: {label: "Hero blames the largest idol for the destruction", cluster: abraham}
+  thrown-into-fire: {label: "Hero thrown into a fire or furnace by a king or people", cluster: abraham}
+  fire-made-harmless: {label: "The fire does not harm the hero", cluster: abraham}
+  sibling-dies-in-fire: {label: "A relative dies in connection with the fire", cluster: abraham}

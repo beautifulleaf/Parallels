@@ -2384,6 +2384,509 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
+   "id": "motif-hb-samuel-childhood-vs-ec-protevangelium",
+   "title": "Hannah's vow and Samuel at Shiloh ↔ Protevangelium of James",
+   "summary": "These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn) child to god's service.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "judaism",
+    "christianity-early"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "child-raised-in-sanctuary",
+    "mother-dedicates-child"
+   ],
+   "passages": [
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:11",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:18",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
+    },
+    {
+     "tradition": "christianity-early",
+     "ref": "Protevangelium of James: 7–8",
+     "note": "Child raised in the sanctuary or temple"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 1:11",
+     "note": "Mother vows her (unborn) child to God's service",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙ וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 1:28",
+     "note": "Mother vows her (unborn) child to God's service",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה"
+    },
+    {
+     "tradition": "christianity-early",
+     "ref": "Protevangelium of James: 4",
+     "note": "Mother vows her (unborn) child to God's service"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows her (unborn) child to God's service (weight 2.1). Pair score 4.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Hannah's vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.",
+     "basis": "reading"
+    },
+    {
+     "text": "Protevangelium of James: tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-abraham-idols-vs-hb-daniel-furnace",
+   "title": "Abraham and the idols in the Quran ↔ The three youths in the furnace (Daniel 3)",
+   "summary": "These two units share 2 motifs: hero thrown into a fire or furnace by a king or people, the fire does not harm the hero.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "thrown-into-fire",
+    "fire-made-harmless"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 21:68",
+     "note": "Hero thrown into a fire or furnace by a king or people",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 29:24",
+     "note": "Hero thrown into a fire or furnace by a king or people",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:97",
+     "note": "Hero thrown into a fire or furnace by a king or people",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Dan 3:20",
+     "note": "Hero thrown into a fire or furnace by a king or people",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Dan 3:21",
+     "note": "Hero thrown into a fire or furnace by a king or people",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון פַּטְּשֵׁיה֔וֹן וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 21:69",
+     "note": "The fire does not harm the hero",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قُلْنَا يَٰنَارُ كُونِى بَرْدًا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Dan 3:25",
+     "note": "The fire does not harm the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "עָנֵ֣ה וְאָמַ֗ר הָֽא אֲנָ֨ה חָזֵ֜ה גֻּבְרִ֣ין אַרְבְּעָ֗ה שְׁרַ֨יִן֙ מַהְלְכִ֣ין בְּגֽוֹא נוּרָ֔א וַחֲבָ֖ל לָא אִיתַ֣י בְּה֑וֹן וְרֵוֵהּ֙ דִּ֣י רביעיא רְֽבִיעָאָ֔ה דָּמֵ֖ה לְבַר אֱלָהִֽין"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Dan 3:27",
+     "note": "The fire does not harm the hero",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּ֠מִֽתְכַּנְּשִׁין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒ חָזַ֣יִן לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 2.1); The fire does not harm the hero (weight 2.1). Pair score 4.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Abraham and the idols in the Quran: Hero's father makes, sells or worships idols; Hero reasons from the stars, moon and sun to the one God; Hero smashes or burns idols; Hero blames the largest idol for the destruction.",
+     "basis": "reading"
+    },
+    {
+     "text": "Abraham and the idols in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "The three youths in the furnace (Daniel 3): tagged by Claude (model), reading the Aramaic.",
+     "basis": "reading"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-abraham-idols-vs-jud-jubilees-12",
+   "title": "Abraham and the idols in the Quran ↔ Abraham burns the house of idols (Jubilees 12)",
+   "summary": "These two units share 3 motifs: hero reasons from the stars, moon and sun to the one god, hero smashes or burns idols, hero's father makes, sells or worships idols.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "heavenly-bodies-argument",
+    "hero-smashes-idols",
+    "father-serves-idols"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:76",
+     "note": "Hero reasons from the stars, moon and sun to the one God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:77",
+     "note": "Hero reasons from the stars, moon and sun to the one God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:78",
+     "note": "Hero reasons from the stars, moon and sun to the one God",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Abraham burns the house of idols (Jubilees 12): 12:16–18",
+     "note": "Hero reasons from the stars, moon and sun to the one God"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 21:58",
+     "note": "Hero smashes or burns idols",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 37:93",
+     "note": "Hero smashes or burns idols",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Abraham burns the house of idols (Jubilees 12): 12:12",
+     "note": "Hero smashes or burns idols (burns the house of idols)"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:74",
+     "note": "Hero's father makes, sells or worships idols",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:42",
+     "note": "Hero's father makes, sells or worships idols",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 21:52",
+     "note": "Hero's father makes, sells or worships idols",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "Abraham burns the house of idols (Jubilees 12): 12:1–8",
+     "note": "Hero's father makes, sells or worships idols"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight 2.1); Hero smashes or burns idols (weight 2.1); Hero's father makes, sells or worships idols (weight 1.8). Pair score 6.1.",
+     "basis": "reading"
+    },
+    {
+     "text": "Abraham and the idols in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Abraham burns the house of idols (Jubilees 12): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-mary-infancy-vs-hb-samuel-childhood",
+   "title": "Mary and the infant Jesus in the Quran ↔ Hannah's vow and Samuel at Shiloh",
+   "summary": "These two units share 2 motifs: child raised in the sanctuary or temple, mother vows her (unborn) child to god's service.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "child-raised-in-sanctuary",
+    "mother-dedicates-child"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 3:37",
+     "note": "Child raised in the sanctuary or temple (al-miḥrāb)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:11",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 2:18",
+     "note": "Child raised in the sanctuary or temple",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 3:35",
+     "note": "Mother vows her (unborn) child to God's service",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 1:11",
+     "note": "Mother vows her (unborn) child to God's service",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙ וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "1Sam 1:28",
+     "note": "Mother vows her (unborn) child to God's service",
+     "lang": "he",
+     "source": "Westminster Leningrad Codex (OSHB)",
+     "text": "וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 2.1); Mother vows her (unborn) child to God's service (weight 2.1). Pair score 4.2.",
+     "basis": "reading"
+    },
+    {
+     "text": "Only in Mary and the infant Jesus in the Quran: Mother gives birth alone in a remote place; Child makes birds from clay that come alive; The newborn speaks; Lots, rods or reeds decide who will be the child's guardian; Child miraculously fed in the sanctuary; A spring or stream appears for the mother; A palm tree provides food to the mother; Mother keeps a vow of silence.",
+     "basis": "reading"
+    },
+    {
+     "text": "Mary and the infant Jesus in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "Hannah's vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.",
+     "basis": "reading"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "motif-quran-noah-vs-jud-sanhedrin-108b",
+   "title": "Noah in the Quran ↔ The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)",
+   "summary": "These two units share 3 motifs: people mock the hero while he builds the vessel, hero warns or preaches to his people before the flood, the flood waters are hot or boiling.",
+   "status": "new",
+   "relations": [
+    "transmission",
+    "convergence"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "motif"
+   ],
+   "motifs": [
+    "people-mock-builder",
+    "hero-preaches-to-people",
+    "boiling-waters"
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:38",
+     "note": "People mock the hero while he builds the vessel",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
+     "note": "People mock the hero while he builds the vessel"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:25",
+     "note": "Hero warns or preaches to his people before the flood",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:26",
+     "note": "Hero warns or preaches to his people before the flood",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 71:5",
+     "note": "Hero warns or preaches to his people before the flood",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
+     "note": "Hero warns or preaches to his people before the flood"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 11:40",
+     "note": "The flood waters are hot or boiling (Reading fāra (boiled) as describing the waters is interpretive; check it.)",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ"
+    },
+    {
+     "tradition": "judaism",
+     "ref": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b",
+     "note": "The flood waters are hot or boiling"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "Shared motifs, rarest first: People mock the hero while he builds the vessel (weight 2.5); Hero warns or preaches to his people before the flood (weight 2.5); The flood waters are hot or boiling (weight 2.5). Pair score 7.6.",
+     "basis": "reading"
+    },
+    {
+     "text": "Noah in the Quran: tagged by Claude (model), reading the Arabic.",
+     "basis": "reading"
+    },
+    {
+     "text": "The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): tagged by Claude (model), from secondary knowledge.",
+     "basis": "scholarship"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
    "id": "quran-abraham-ragha",
    "title": "rāgha: a turned word concentrated in Abraham",
    "summary": "راغَ (rāgha, “turned”) occurs in 3 verses; 3 of them (100%) are in the Abraham narrative, which is 3% of the Quran, across 2 surahs. The more common same-gloss word قَلَّبُ (qallabu, 6 verses) has only 0% of its verses there.",

@@ -1,0 +1,150 @@
+# Motif tags, flood cluster. Units with `original: true` cite verses whose
+# original text is in the repo (Quran, Hebrew Bible); the tags are a reader's
+# interpretation of that text. Units with `original: false` are tagged from
+# secondary knowledge until their original texts are added.
+units:
+  - id: quran-noah
+    tradition: islam
+    title: Noah in the Quran
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    tags:
+      - {motif: reason-rejected-messenger, refs: ["11:27", "54:9", "26:117"]}
+      - {motif: hero-preaches-to-people, refs: ["11:25", "11:26", "71:5", "71:8"]}
+      - {motif: hero-prays-for-judgment, refs: ["23:26", "26:118", "54:10", "71:26"]}
+      - {motif: hero-warned-by-deity, refs: ["11:36", "23:27"]}
+      - {motif: divine-decision-to-destroy, refs: ["11:37", "23:27"]}
+      - {motif: build-vessel-on-instruction, refs: ["11:37", "23:27"]}
+      - {motif: people-mock-builder, refs: ["11:38"]}
+      - {motif: vessel-planks-and-nails, refs: ["54:13"]}
+      - {motif: sign-to-board, refs: ["11:40", "23:27"], note: "fāra al-tannūr: the oven boiled over"}
+      - {motif: boiling-waters, refs: ["11:40"], note: "Reading fāra (boiled) as describing the waters is interpretive; check it."}
+      - {motif: animals-in-pairs, refs: ["11:40", "23:27"]}
+      - {motif: family-saved, refs: ["11:40", "23:27"]}
+      - {motif: family-member-lost, refs: ["11:42", "11:43", "11:46"]}
+      - {motif: mountain-refuge-fails, refs: ["11:43"]}
+      - {motif: waters-from-above-and-below, refs: ["54:11", "54:12"]}
+      - {motif: universal-destruction, refs: ["26:120", "71:25"]}
+      - {motif: vessel-rests-on-mountain, refs: ["11:44"], note: al-Jūdī}
+      - {motif: blessing-on-descent, refs: ["11:48"]}
+      - {motif: hero-age-950, refs: ["29:14"], note: "a thousand years less fifty, among his people"}
+      - {motif: hero-righteous, refs: ["37:81"]}
+
+  - id: hb-flood
+    tradition: judaism
+    title: The Flood in Genesis
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["Gen 6:7", "Gen 6:13"]}
+      - {motif: reason-human-wickedness, refs: ["Gen 6:5", "Gen 6:11"]}
+      - {motif: hero-righteous, refs: ["Gen 6:9", "Gen 7:1"]}
+      - {motif: hero-warned-by-deity, refs: ["Gen 6:13"]}
+      - {motif: build-vessel-on-instruction, refs: ["Gen 6:14"]}
+      - {motif: vessel-dimensions-given, refs: ["Gen 6:15"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Gen 6:14"]}
+      - {motif: animals-in-pairs, refs: ["Gen 6:19", "Gen 7:9"]}
+      - {motif: family-saved, refs: ["Gen 6:18", "Gen 7:7"]}
+      - {motif: waters-from-above-and-below, refs: ["Gen 7:11", "Gen 8:2"]}
+      - {motif: universal-destruction, refs: ["Gen 7:21", "Gen 7:23"]}
+      - {motif: vessel-rests-on-mountain, refs: ["Gen 8:4"], note: mountains of Ararat}
+      - {motif: bird-release, refs: ["Gen 8:7", "Gen 8:8", "Gen 8:11"]}
+      - {motif: sacrifice-after-flood, refs: ["Gen 8:20"]}
+      - {motif: deity-smells-offering, refs: ["Gen 8:21"]}
+      - {motif: promise-never-again, refs: ["Gen 8:21", "Gen 9:11"]}
+      - {motif: sign-in-sky, refs: ["Gen 9:13"]}
+      - {motif: blessing-on-descent, refs: ["Gen 9:1"]}
+      - {motif: hero-age-950, refs: ["Gen 9:29"], note: "all the days of Noah: 950 years"}
+
+  - id: akk-gilgamesh-xi
+    tradition: ane-akkadian
+    title: Utnapishtim's flood (Gilgamesh, Tablet XI)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["Tablet XI"]}
+      - {motif: hero-warned-by-deity, refs: ["Tablet XI"], note: Ea}
+      - {motif: warning-through-wall, refs: ["Tablet XI"], note: reed hut and wall}
+      - {motif: build-vessel-on-instruction, refs: ["Tablet XI"]}
+      - {motif: vessel-dimensions-given, refs: ["Tablet XI"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Tablet XI"]}
+      - {motif: animals-aboard, refs: ["Tablet XI"]}
+      - {motif: family-saved, refs: ["Tablet XI"]}
+      - {motif: universal-destruction, refs: ["Tablet XI"]}
+      - {motif: vessel-rests-on-mountain, refs: ["Tablet XI"], note: Mount Nimush}
+      - {motif: bird-release, refs: ["Tablet XI"], note: dove, swallow, raven}
+      - {motif: sacrifice-after-flood, refs: ["Tablet XI"]}
+      - {motif: deity-smells-offering, refs: ["Tablet XI"], note: the gods gather like flies}
+      - {motif: sign-in-sky, refs: ["Tablet XI"], note: "the goddess's lapis necklace; proposed parallel to the bow"}
+
+  - id: akk-atrahasis
+    tradition: ane-akkadian
+    title: Atrahasis
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["Tablets II–III"]}
+      - {motif: reason-human-noise, refs: ["Tablets I–II"]}
+      - {motif: hero-warned-by-deity, refs: ["Tablet III"], note: Enki}
+      - {motif: warning-through-wall, refs: ["Tablet III"]}
+      - {motif: build-vessel-on-instruction, refs: ["Tablet III"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Tablet III"]}
+      - {motif: animals-aboard, refs: ["Tablet III"]}
+      - {motif: family-saved, refs: ["Tablet III"]}
+      - {motif: sacrifice-after-flood, refs: ["Tablet III"]}
+      - {motif: deity-smells-offering, refs: ["Tablet III"]}
+
+  - id: sux-eridu-genesis
+    tradition: ane-sumerian
+    title: Ziusudra (Eridu Genesis)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["Eridu Genesis"]}
+      - {motif: hero-righteous, refs: ["Eridu Genesis"], note: pious king}
+      - {motif: hero-warned-by-deity, refs: ["Eridu Genesis"], note: Enki}
+      - {motif: warning-through-wall, refs: ["Eridu Genesis"]}
+      - {motif: universal-destruction, refs: ["Eridu Genesis"]}
+      - {motif: sacrifice-after-flood, refs: ["Eridu Genesis"]}
+
+  - id: hin-shatapatha-manu
+    tradition: hinduism
+    title: Manu and the fish (Śatapatha Brāhmaṇa 1.8.1)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: hero-warned-by-deity, refs: ["1.8.1"], note: the fish}
+      - {motif: fish-guides-vessel, refs: ["1.8.1"]}
+      - {motif: build-vessel-on-instruction, refs: ["1.8.1"]}
+      - {motif: universal-destruction, refs: ["1.8.1"]}
+      - {motif: vessel-rests-on-mountain, refs: ["1.8.1"], note: the northern mountain}
+      - {motif: sacrifice-after-flood, refs: ["1.8.1"]}
+      - {motif: repopulation-from-stones-or-offering, refs: ["1.8.1"], note: Iḍā arises from the offering}
+
+  - id: gr-deucalion
+    tradition: greco-roman
+    title: Deucalion and Pyrrha (Ovid, Apollodorus)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["Ovid, Metamorphoses I"]}
+      - {motif: reason-human-wickedness, refs: ["Ovid, Metamorphoses I"]}
+      - {motif: hero-righteous, refs: ["Ovid, Metamorphoses I"]}
+      - {motif: hero-warned-by-deity, refs: ["Apollodorus 1.7.2"], note: Prometheus}
+      - {motif: build-vessel-on-instruction, refs: ["Apollodorus 1.7.2"], note: a chest (larnax)}
+      - {motif: universal-destruction, refs: ["Ovid, Metamorphoses I"]}
+      - {motif: vessel-rests-on-mountain, refs: ["Ovid, Metamorphoses I"], note: Parnassus}
+      - {motif: sacrifice-after-flood, refs: ["Apollodorus 1.7.2"]}
+      - {motif: repopulation-from-stones-or-offering, refs: ["Ovid, Metamorphoses I"], note: stones thrown over the shoulder}
+
+  - id: jud-sanhedrin-108b
+    tradition: judaism
+    title: The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: hero-preaches-to-people, refs: ["Sanhedrin 108b"]}
+      - {motif: people-mock-builder, refs: ["Sanhedrin 108b"]}
+      - {motif: boiling-waters, refs: ["Sanhedrin 108b"]}

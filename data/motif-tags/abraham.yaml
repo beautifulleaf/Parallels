@@ -1,0 +1,65 @@
+units:
+  - id: quran-abraham-idols
+    tradition: islam
+    title: Abraham and the idols in the Quran
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    tags:
+      - {motif: father-serves-idols, refs: ["6:74", "19:42", "21:52", "26:70"]}
+      - {motif: heavenly-bodies-argument, refs: ["6:76", "6:77", "6:78"]}
+      - {motif: hero-smashes-idols, refs: ["21:58", "37:93"]}
+      - {motif: largest-idol-blamed, refs: ["21:58", "21:63"]}
+      - {motif: thrown-into-fire, refs: ["21:68", "29:24", "37:97"]}
+      - {motif: fire-made-harmless, refs: ["21:69"]}
+
+  - id: hb-terah-idols
+    tradition: judaism
+    title: Terah served other gods (Joshua 24)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    tags:
+      - {motif: father-serves-idols, refs: ["Josh 24:2"]}
+
+  - id: hb-daniel-furnace
+    tradition: judaism
+    title: The three youths in the furnace (Daniel 3)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    tags:
+      - {motif: thrown-into-fire, refs: ["Dan 3:20", "Dan 3:21"]}
+      - {motif: fire-made-harmless, refs: ["Dan 3:25", "Dan 3:27"]}
+
+  - id: jud-genesis-rabbah-38
+    tradition: judaism
+    title: Abraham in Terah's idol shop (Genesis Rabbah 38:13)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: father-serves-idols, refs: ["38:13"]}
+      - {motif: hero-smashes-idols, refs: ["38:13"]}
+      - {motif: largest-idol-blamed, refs: ["38:13"]}
+      - {motif: thrown-into-fire, refs: ["38:13"], note: Nimrod's furnace}
+      - {motif: fire-made-harmless, refs: ["38:13"]}
+      - {motif: sibling-dies-in-fire, refs: ["38:13"], note: Haran}
+
+  - id: jud-jubilees-12
+    tradition: judaism
+    title: Abraham burns the house of idols (Jubilees 12)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: father-serves-idols, refs: ["12:1–8"]}
+      - {motif: hero-smashes-idols, refs: ["12:12"], note: burns the house of idols}
+      - {motif: sibling-dies-in-fire, refs: ["12:14"], note: Haran}
+      - {motif: heavenly-bodies-argument, refs: ["12:16–18"]}
+
+  - id: jud-josephus-ant-1
+    tradition: judaism
+    title: Abraham's argument from the heavens (Josephus, Antiquities 1.155–156)
+    original: false
+    tagger: Claude (model), from secondary knowledge
+    tags:
+      - {motif: heavenly-bodies-argument, refs: ["1.155–156"]}

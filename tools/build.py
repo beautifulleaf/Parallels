@@ -22,7 +22,7 @@ RELATIONS = {"internal", "inheritance", "transmission", "convergence", "response
 STANDINGS = {"established", "proposed", "contested", "fringe"}
 LAYERS = {"lexical", "motif", "concept"}
 ORIGINS = {"human", "pipeline"}
-BASES = {"original", "lexicon", "gloss", "scholarship"}
+BASES = {"original", "reading", "lexicon", "gloss", "scholarship"}
 VERDICTS = {"confirmed", "corrected", "disputed"}
 REQUIRED = ["id", "title", "summary", "status", "relations", "standing",
             "traditions", "layers", "origin", "added"]

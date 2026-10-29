@@ -23,7 +23,7 @@ fields marked **human** below, and it never changes the notes body.
 | `concepts` | no | — | kebab-case concept tags |
 | `lexical` | no | — | list of `{lang, form, translit, gloss}` |
 | `passages` | no | — | list of `{tradition, ref, text?, lang?, source?, translation?, note?}`. `text` is always the original language, filled by `tools/originals.py` from the corpora; `translation` is optional and secondary |
-| `evidence` | no | — | list of `{text, basis}`; `basis` is `original` (read or counted from the original text), `lexicon` (a cited dictionary), `gloss` (depends on English glosses or translations), or `scholarship` (a secondary-literature claim to verify) |
+| `evidence` | no | — | list of `{text, basis}`; `basis` is `original` (read or counted from the original text), `reading` (a reader's interpretation of the original, e.g. a motif tag), `lexicon` (a cited dictionary), `gloss` (depends on English glosses or translations), or `scholarship` (a secondary-literature claim to verify) |
 | `sources` | no | — | list of `{label, url?}` |
 | `benchmark` | no | — | `true` for the v0 gold set of known parallels |
 | `reviews` | no | **human** | list of `{by, date, verdict, scope?, note?}`; `verdict` is `confirmed` · `corrected` · `disputed` |

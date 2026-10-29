@@ -1,0 +1,21 @@
+# Known parallels the motif track must rank among the top matches of at least
+# one of the two units. These were known when the units were tagged, so they
+# test the matching machinery, not discovery. `lead` names the benchmark lead
+# that already covers the pair.
+expectations:
+  - {a: quran-noah, b: hb-flood, lead: flood-narratives}
+  - {a: hb-flood, b: akk-gilgamesh-xi, lead: flood-narratives}
+  - {a: hb-moses-infancy, b: akk-sargon-birth, lead: sargon-moses-basket}
+  - {a: quran-moses-infancy, b: hb-moses-infancy, lead: sargon-moses-basket}
+  - {a: quran-mary-infancy, b: ec-protevangelium, lead: mary-in-temple}
+  - {a: quran-abraham-idols, b: jud-genesis-rabbah-38, lead: abraham-idols}
+
+# Units already discussed together by an existing benchmark lead. Pairs made
+# only of units from one list do not get a separate pipeline lead.
+lead_units:
+  flood-narratives: [quran-noah, hb-flood, akk-gilgamesh-xi, akk-atrahasis, sux-eridu-genesis, hin-shatapatha-manu, gr-deucalion]
+  sargon-moses-basket: [quran-moses-infancy, hb-moses-infancy, akk-sargon-birth]
+  mary-in-temple: [quran-mary-infancy, ec-protevangelium]
+  mary-palm-tree: [quran-mary-infancy, ec-pseudo-matthew]
+  clay-birds: [quran-mary-infancy, ec-infancy-thomas]
+  abraham-idols: [quran-abraham-idols, jud-genesis-rabbah-38]

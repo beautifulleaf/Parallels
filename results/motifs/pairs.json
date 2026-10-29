@@ -1,0 +1,869 @@
+{
+ "weights": {
+  "largest-idol-blamed": 2.5257286443082556,
+  "heavenly-bodies-argument": 2.120263536200091,
+  "hero-smashes-idols": 2.120263536200091,
+  "thrown-into-fire": 2.120263536200091,
+  "father-serves-idols": 1.8325814637483102,
+  "fire-made-harmless": 2.120263536200091,
+  "sibling-dies-in-fire": 2.5257286443082556,
+  "divine-decision-to-destroy": 1.4271163556401458,
+  "vessel-rests-on-mountain": 1.6094379124341003,
+  "reason-rejected-messenger": 3.2188758248682006,
+  "universal-destruction": 1.4271163556401458,
+  "family-saved": 1.8325814637483102,
+  "mountain-refuge-fails": 3.2188758248682006,
+  "build-vessel-on-instruction": 1.4271163556401458,
+  "people-mock-builder": 2.5257286443082556,
+  "hero-preaches-to-people": 2.5257286443082556,
+  "hero-prays-for-judgment": 3.2188758248682006,
+  "vessel-planks-and-nails": 3.2188758248682006,
+  "family-member-lost": 3.2188758248682006,
+  "animals-in-pairs": 2.5257286443082556,
+  "hero-warned-by-deity": 1.2729656758128876,
+  "hero-righteous": 1.8325814637483102,
+  "waters-from-above-and-below": 2.5257286443082556,
+  "sign-to-board": 3.2188758248682006,
+  "blessing-on-descent": 2.5257286443082556,
+  "hero-age-950": 2.5257286443082556,
+  "boiling-waters": 2.5257286443082556,
+  "deity-smells-offering": 2.120263536200091,
+  "vessel-sealed-with-pitch": 1.6094379124341003,
+  "promise-never-again": 3.2188758248682006,
+  "reason-human-wickedness": 2.5257286443082556,
+  "sign-in-sky": 2.5257286443082556,
+  "bird-release": 2.5257286443082556,
+  "vessel-dimensions-given": 2.5257286443082556,
+  "sacrifice-after-flood": 1.4271163556401458,
+  "warning-through-wall": 2.120263536200091,
+  "animals-aboard": 2.5257286443082556,
+  "reason-human-noise": 3.2188758248682006,
+  "repopulation-from-stones-or-offering": 2.5257286443082556,
+  "fish-guides-vessel": 3.2188758248682006,
+  "mother-divinely-inspired": 3.2188758248682006,
+  "adopted-by-royal-woman": 2.5257286443082556,
+  "found-by-royal-household": 2.5257286443082556,
+  "king-kills-male-infants": 2.120263536200091,
+  "infant-set-adrift": 2.120263536200091,
+  "returned-to-own-mother": 2.5257286443082556,
+  "sister-watches": 2.5257286443082556,
+  "infant-refuses-nurses": 2.5257286443082556,
+  "sister-offers-nurse": 2.5257286443082556,
+  "reed-container": 2.5257286443082556,
+  "name-from-water": 3.2188758248682006,
+  "mother-hides-infant": 3.2188758248682006,
+  "goddess-favors-hero": 3.2188758248682006,
+  "found-by-commoner": 3.2188758248682006,
+  "secret-or-irregular-birth": 3.2188758248682006,
+  "child-raised-in-sanctuary": 2.120263536200091,
+  "infant-speaks": 2.5257286443082556,
+  "vow-of-silence": 3.2188758248682006,
+  "lots-for-guardian": 2.5257286443082556,
+  "palm-tree-provides": 2.5257286443082556,
+  "miraculous-food-in-sanctuary": 2.5257286443082556,
+  "mother-dedicates-child": 2.120263536200091,
+  "birth-in-solitude": 3.2188758248682006,
+  "clay-birds-animated": 2.5257286443082556,
+  "miraculous-spring": 2.5257286443082556
+ },
+ "pairs": [
+  {
+   "a": "hb-flood",
+   "b": "akk-gilgamesh-xi",
+   "score": 21.73,
+   "shared": [
+    "sign-in-sky",
+    "bird-release",
+    "vessel-dimensions-given",
+    "deity-smells-offering",
+    "family-saved",
+    "vessel-sealed-with-pitch",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "hero-age-950",
+    "hero-righteous",
+    "promise-never-again",
+    "reason-human-wickedness",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "animals-aboard",
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "hb-flood",
+   "score": 20.932,
+   "shared": [
+    "animals-in-pairs",
+    "waters-from-above-and-below",
+    "blessing-on-descent",
+    "hero-age-950",
+    "hero-righteous",
+    "family-saved",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "boiling-waters",
+    "family-member-lost",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "vessel-planks-and-nails"
+   ],
+   "only_b": [
+    "bird-release",
+    "deity-smells-offering",
+    "promise-never-again",
+    "reason-human-wickedness",
+    "sacrifice-after-flood",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch"
+   ]
+  },
+  {
+   "a": "quran-moses-infancy",
+   "b": "hb-moses-infancy",
+   "score": 16.869,
+   "shared": [
+    "adopted-by-royal-woman",
+    "found-by-royal-household",
+    "returned-to-own-mother",
+    "sister-watches",
+    "sister-offers-nurse",
+    "king-kills-male-infants",
+    "infant-set-adrift"
+   ],
+   "only_a": [
+    "infant-refuses-nurses",
+    "mother-divinely-inspired"
+   ],
+   "only_b": [
+    "mother-hides-infant",
+    "name-from-water",
+    "reed-container",
+    "vessel-sealed-with-pitch"
+   ]
+  },
+  {
+   "a": "hb-flood",
+   "b": "gr-deucalion",
+   "score": 12.949,
+   "shared": [
+    "reason-human-wickedness",
+    "hero-righteous",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "bird-release",
+    "blessing-on-descent",
+    "deity-smells-offering",
+    "family-saved",
+    "hero-age-950",
+    "promise-never-again",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "repopulation-from-stones-or-offering"
+   ]
+  },
+  {
+   "a": "hb-flood",
+   "b": "akk-atrahasis",
+   "score": 11.117,
+   "shared": [
+    "deity-smells-offering",
+    "family-saved",
+    "vessel-sealed-with-pitch",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "bird-release",
+    "blessing-on-descent",
+    "hero-age-950",
+    "hero-righteous",
+    "promise-never-again",
+    "reason-human-wickedness",
+    "sign-in-sky",
+    "universal-destruction",
+    "vessel-dimensions-given",
+    "vessel-rests-on-mountain",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "animals-aboard",
+    "reason-human-noise",
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "quran-abraham-idols",
+   "b": "jud-genesis-rabbah-38",
+   "score": 10.719,
+   "shared": [
+    "largest-idol-blamed",
+    "hero-smashes-idols",
+    "thrown-into-fire",
+    "fire-made-harmless",
+    "father-serves-idols"
+   ],
+   "only_a": [
+    "heavenly-bodies-argument"
+   ],
+   "only_b": [
+    "sibling-dies-in-fire"
+   ]
+  },
+  {
+   "a": "hin-shatapatha-manu",
+   "b": "gr-deucalion",
+   "score": 9.689,
+   "shared": [
+    "repopulation-from-stones-or-offering",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "build-vessel-on-instruction",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "fish-guides-vessel"
+   ],
+   "only_b": [
+    "divine-decision-to-destroy",
+    "hero-righteous",
+    "reason-human-wickedness"
+   ]
+  },
+  {
+   "a": "quran-mary-infancy",
+   "b": "ec-protevangelium",
+   "score": 9.292,
+   "shared": [
+    "miraculous-food-in-sanctuary",
+    "lots-for-guardian",
+    "child-raised-in-sanctuary",
+    "mother-dedicates-child"
+   ],
+   "only_a": [
+    "birth-in-solitude",
+    "clay-birds-animated",
+    "infant-speaks",
+    "miraculous-spring",
+    "palm-tree-provides",
+    "vow-of-silence"
+   ],
+   "only_b": []
+  },
+  {
+   "a": "quran-noah",
+   "b": "akk-gilgamesh-xi",
+   "score": 8.996,
+   "shared": [
+    "family-saved",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "boiling-waters",
+    "family-member-lost",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "hero-righteous",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "vessel-planks-and-nails",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "animals-aboard",
+    "bird-release",
+    "deity-smells-offering",
+    "sacrifice-after-flood",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "gr-deucalion",
+   "score": 8.996,
+   "shared": [
+    "hero-righteous",
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "boiling-waters",
+    "family-member-lost",
+    "family-saved",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "vessel-planks-and-nails",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "reason-human-wickedness",
+    "repopulation-from-stones-or-offering",
+    "sacrifice-after-flood"
+   ]
+  },
+  {
+   "a": "akk-gilgamesh-xi",
+   "b": "gr-deucalion",
+   "score": 8.591,
+   "shared": [
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "bird-release",
+    "deity-smells-offering",
+    "family-saved",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "hero-righteous",
+    "reason-human-wickedness",
+    "repopulation-from-stones-or-offering"
+   ]
+  },
+  {
+   "a": "akk-gilgamesh-xi",
+   "b": "sux-eridu-genesis",
+   "score": 7.675,
+   "shared": [
+    "warning-through-wall",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "bird-release",
+    "build-vessel-on-instruction",
+    "deity-smells-offering",
+    "family-saved",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-rests-on-mountain",
+    "vessel-sealed-with-pitch"
+   ],
+   "only_b": [
+    "hero-righteous"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "jud-sanhedrin-108b",
+   "score": 7.577,
+   "shared": [
+    "people-mock-builder",
+    "hero-preaches-to-people",
+    "boiling-waters"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "build-vessel-on-instruction",
+    "divine-decision-to-destroy",
+    "family-member-lost",
+    "family-saved",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-righteous",
+    "hero-warned-by-deity",
+    "mountain-refuge-fails",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "universal-destruction",
+    "vessel-planks-and-nails",
+    "vessel-rests-on-mountain",
+    "waters-from-above-and-below"
+   ],
+   "only_b": []
+  },
+  {
+   "a": "hb-flood",
+   "b": "sux-eridu-genesis",
+   "score": 7.387,
+   "shared": [
+    "hero-righteous",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "bird-release",
+    "blessing-on-descent",
+    "build-vessel-on-instruction",
+    "deity-smells-offering",
+    "family-saved",
+    "hero-age-950",
+    "promise-never-again",
+    "reason-human-wickedness",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-rests-on-mountain",
+    "vessel-sealed-with-pitch",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "sux-eridu-genesis",
+   "b": "gr-deucalion",
+   "score": 7.387,
+   "shared": [
+    "hero-righteous",
+    "universal-destruction",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "build-vessel-on-instruction",
+    "reason-human-wickedness",
+    "repopulation-from-stones-or-offering",
+    "vessel-rests-on-mountain"
+   ]
+  },
+  {
+   "a": "hb-flood",
+   "b": "hin-shatapatha-manu",
+   "score": 7.164,
+   "shared": [
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "bird-release",
+    "blessing-on-descent",
+    "deity-smells-offering",
+    "divine-decision-to-destroy",
+    "family-saved",
+    "hero-age-950",
+    "hero-righteous",
+    "promise-never-again",
+    "reason-human-wickedness",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "fish-guides-vessel",
+    "repopulation-from-stones-or-offering"
+   ]
+  },
+  {
+   "a": "akk-gilgamesh-xi",
+   "b": "hin-shatapatha-manu",
+   "score": 7.164,
+   "shared": [
+    "vessel-rests-on-mountain",
+    "universal-destruction",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "bird-release",
+    "deity-smells-offering",
+    "divine-decision-to-destroy",
+    "family-saved",
+    "sign-in-sky",
+    "vessel-dimensions-given",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "fish-guides-vessel",
+    "repopulation-from-stones-or-offering"
+   ]
+  },
+  {
+   "a": "hb-moses-infancy",
+   "b": "akk-sargon-birth",
+   "score": 6.255,
+   "shared": [
+    "reed-container",
+    "infant-set-adrift",
+    "vessel-sealed-with-pitch"
+   ],
+   "only_a": [
+    "adopted-by-royal-woman",
+    "found-by-royal-household",
+    "king-kills-male-infants",
+    "mother-hides-infant",
+    "name-from-water",
+    "returned-to-own-mother",
+    "sister-offers-nurse",
+    "sister-watches"
+   ],
+   "only_b": [
+    "found-by-commoner",
+    "goddess-favors-hero",
+    "secret-or-irregular-birth"
+   ]
+  },
+  {
+   "a": "akk-atrahasis",
+   "b": "sux-eridu-genesis",
+   "score": 6.247,
+   "shared": [
+    "warning-through-wall",
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "build-vessel-on-instruction",
+    "deity-smells-offering",
+    "family-saved",
+    "reason-human-noise",
+    "vessel-sealed-with-pitch"
+   ],
+   "only_b": [
+    "hero-righteous",
+    "universal-destruction"
+   ]
+  },
+  {
+   "a": "quran-abraham-idols",
+   "b": "jud-jubilees-12",
+   "score": 6.073,
+   "shared": [
+    "heavenly-bodies-argument",
+    "hero-smashes-idols",
+    "father-serves-idols"
+   ],
+   "only_a": [
+    "fire-made-harmless",
+    "largest-idol-blamed",
+    "thrown-into-fire"
+   ],
+   "only_b": [
+    "sibling-dies-in-fire"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "akk-atrahasis",
+   "score": 5.96,
+   "shared": [
+    "family-saved",
+    "divine-decision-to-destroy",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "boiling-waters",
+    "family-member-lost",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "hero-righteous",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "universal-destruction",
+    "vessel-planks-and-nails",
+    "vessel-rests-on-mountain",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "animals-aboard",
+    "deity-smells-offering",
+    "reason-human-noise",
+    "sacrifice-after-flood",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "sux-eridu-genesis",
+   "score": 5.96,
+   "shared": [
+    "hero-righteous",
+    "divine-decision-to-destroy",
+    "universal-destruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "boiling-waters",
+    "build-vessel-on-instruction",
+    "family-member-lost",
+    "family-saved",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "vessel-planks-and-nails",
+    "vessel-rests-on-mountain",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "sacrifice-after-flood",
+    "warning-through-wall"
+   ]
+  },
+  {
+   "a": "quran-noah",
+   "b": "hin-shatapatha-manu",
+   "score": 5.737,
+   "shared": [
+    "vessel-rests-on-mountain",
+    "build-vessel-on-instruction",
+    "universal-destruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-in-pairs",
+    "blessing-on-descent",
+    "boiling-waters",
+    "divine-decision-to-destroy",
+    "family-member-lost",
+    "family-saved",
+    "hero-age-950",
+    "hero-prays-for-judgment",
+    "hero-preaches-to-people",
+    "hero-righteous",
+    "mountain-refuge-fails",
+    "people-mock-builder",
+    "reason-rejected-messenger",
+    "sign-to-board",
+    "vessel-planks-and-nails",
+    "waters-from-above-and-below"
+   ],
+   "only_b": [
+    "fish-guides-vessel",
+    "repopulation-from-stones-or-offering",
+    "sacrifice-after-flood"
+   ]
+  },
+  {
+   "a": "akk-atrahasis",
+   "b": "gr-deucalion",
+   "score": 5.554,
+   "shared": [
+    "divine-decision-to-destroy",
+    "sacrifice-after-flood",
+    "build-vessel-on-instruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "deity-smells-offering",
+    "family-saved",
+    "reason-human-noise",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "hero-righteous",
+    "reason-human-wickedness",
+    "repopulation-from-stones-or-offering",
+    "universal-destruction",
+    "vessel-rests-on-mountain"
+   ]
+  },
+  {
+   "a": "quran-mary-infancy",
+   "b": "ec-pseudo-matthew",
+   "score": 5.051,
+   "shared": [
+    "palm-tree-provides",
+    "miraculous-spring"
+   ],
+   "only_a": [
+    "birth-in-solitude",
+    "child-raised-in-sanctuary",
+    "clay-birds-animated",
+    "infant-speaks",
+    "lots-for-guardian",
+    "miraculous-food-in-sanctuary",
+    "mother-dedicates-child",
+    "vow-of-silence"
+   ],
+   "only_b": []
+  },
+  {
+   "a": "quran-abraham-idols",
+   "b": "hb-daniel-furnace",
+   "score": 4.241,
+   "shared": [
+    "thrown-into-fire",
+    "fire-made-harmless"
+   ],
+   "only_a": [
+    "father-serves-idols",
+    "heavenly-bodies-argument",
+    "hero-smashes-idols",
+    "largest-idol-blamed"
+   ],
+   "only_b": []
+  },
+  {
+   "a": "quran-mary-infancy",
+   "b": "hb-samuel-childhood",
+   "score": 4.241,
+   "shared": [
+    "child-raised-in-sanctuary",
+    "mother-dedicates-child"
+   ],
+   "only_a": [
+    "birth-in-solitude",
+    "clay-birds-animated",
+    "infant-speaks",
+    "lots-for-guardian",
+    "miraculous-food-in-sanctuary",
+    "miraculous-spring",
+    "palm-tree-provides",
+    "vow-of-silence"
+   ],
+   "only_b": []
+  },
+  {
+   "a": "hb-samuel-childhood",
+   "b": "ec-protevangelium",
+   "score": 4.241,
+   "shared": [
+    "child-raised-in-sanctuary",
+    "mother-dedicates-child"
+   ],
+   "only_a": [],
+   "only_b": [
+    "lots-for-guardian",
+    "miraculous-food-in-sanctuary"
+   ]
+  },
+  {
+   "a": "akk-atrahasis",
+   "b": "hin-shatapatha-manu",
+   "score": 4.127,
+   "shared": [
+    "build-vessel-on-instruction",
+    "sacrifice-after-flood",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "animals-aboard",
+    "deity-smells-offering",
+    "divine-decision-to-destroy",
+    "family-saved",
+    "reason-human-noise",
+    "vessel-sealed-with-pitch",
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "fish-guides-vessel",
+    "repopulation-from-stones-or-offering",
+    "universal-destruction",
+    "vessel-rests-on-mountain"
+   ]
+  },
+  {
+   "a": "sux-eridu-genesis",
+   "b": "hin-shatapatha-manu",
+   "score": 4.127,
+   "shared": [
+    "sacrifice-after-flood",
+    "universal-destruction",
+    "hero-warned-by-deity"
+   ],
+   "only_a": [
+    "divine-decision-to-destroy",
+    "hero-righteous",
+    "warning-through-wall"
+   ],
+   "only_b": [
+    "build-vessel-on-instruction",
+    "fish-guides-vessel",
+    "repopulation-from-stones-or-offering",
+    "vessel-rests-on-mountain"
+   ]
+  }
+ ]
+}

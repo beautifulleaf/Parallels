@@ -15,6 +15,7 @@ investigate them.
 pip install pyyaml
 python3 tools/fetch.py                  # download corpora into data/raw/ (not committed)
 python3 tools/lexical.py --write-leads  # lexical track: results/lexical/ + pipeline leads
+python3 tools/motifs.py --write-leads   # motif track: results/motifs/ + pipeline leads
 python3 tools/originals.py              # fill lead passages with original Arabic/Hebrew text
 python3 tools/build.py                  # validate leads, regenerate site/index.html
 ```
@@ -46,3 +47,21 @@ with an error if it misses a benchmark it is expected to recover
 
 `site/index.html` is the searchable Parallels Ledger. It is generated from
 `site/template.html` and the lead files, so edit those rather than the output.
+
+## Motif track (v1)
+
+- **Vocabulary:** `data/motifs.yaml` defines each motif concretely enough
+  that two readers would tag the same verse the same way.
+- **Units:** `data/motif-tags/*.yaml` holds story units with verse-anchored
+  tags. Units marked `original: true` (Quran, Hebrew Bible) are tagged from
+  the Arabic, Hebrew or Aramaic text in this repo, and every ref is checked
+  against it. Other units are tagged from secondary knowledge until their
+  texts are added. Every unit names its tagger.
+- **Matching:** each motif is weighted by rarity (log N/df), and pairs of
+  units from different traditions are ranked by shared weight.
+  `data/benchmarks/motifs.yaml` lists known pairs that must rank near the
+  top. Those test the machinery, not discovery.
+- **Why tags, not embeddings:** cross-lingual sentence models were tested on
+  aligning Quran and Hebrew Bible stories from the originals and did poorly
+  (see `results/alignment-experiments.md`). Explicit tags are slower, but
+  every claim points to a verse a reader can check.
