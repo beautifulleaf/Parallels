@@ -23,7 +23,7 @@ Known priority corpora (non-exhaustive):
 
 | Tradition | Key texts | Notes |
 |---|---|---|
-| Islamic | Quran, hadith, tafsir | Quranic Arabic Corpus morphology; Quran/Hadith/Shamela MCP tools |
+| Islamic | Quran, hadith, tafsir | Quranic Arabic Corpus morphology; Quran/Hadith/Shamela MCP tools. **Hadith corpus: *al-Jāmiʿ al-Kāmil fī l-ḥadīth al-ṣaḥīḥ al-shāmil al-murattab ʿalā abwāb al-fiqh* (Muḥammad Ḍiyāʾ al-Raḥmān al-Aʿẓamī, d. 1441/2020), Shamela book 47**, downloaded and readable. It gathers the ṣaḥīḥ hadith of the major collections, arranged by fiqh chapters; cite by its own numbering and the Shamela page, noting that page numbers are Shamela's automatic numbering unless matched to the print. Edition, editor and publisher are not recorded in Shamela; don't invent them. |
 | Hebrew Bible / Jewish | Tanakh, Targums, midrash, Talmud | ETCBC/BHSA, OSHB, Sefaria, CAL |
 | Christian | Septuagint, NT, Peshitta, apocrypha | MorphGNT, CATSS, ETCBC Peshitta |
 | Mandaean | Ginza Rba, Book of John, Qolasta | Classical Mandaic is Aramaic → lexical track; Lidzbarski's German translations are public domain; candidate for the Quran's Sabians (2:62, 5:69, 22:17). Living community: respect esoteric material |

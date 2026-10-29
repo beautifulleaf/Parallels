@@ -59,17 +59,11 @@ new_motifs:
   god-removes-a-yoke:
     label: God lifts a yoke or burden from his people
     cluster: covenant
-  twelve-springs:
-    label: Twelve springs of water in the wilderness
-    cluster: exodus
   wilderness-food-then-punishment:
     label: Manna and quail are followed by a punishment from God
     cluster: exodus
   sabbath-food-test:
     label: God tests the people through food and the Sabbath
-    cluster: law
-  punishment-of-sabbath-breakers:
-    label: How Sabbath-breakers are punished
     cluster: law
   israel-beneath-the-mountain:
     label: Israel stands beneath the mountain when the covenant is given
@@ -167,9 +161,6 @@ new_motifs:
   beneficiaries-of-sacred-levy:
     label: Who receives the sacred levy for the needy
     cluster: law
-  relief-of-debtors:
-    label: Relief of debtors by divine ordinance
-    cluster: law
   freeing-of-the-enslaved:
     label: Freeing or buying back the enslaved
     cluster: law
@@ -218,9 +209,6 @@ new_motifs:
   noahs-standing-before-god:
     label: 'Noah''s standing before God: blameless, or in need of forgiveness'
     cluster: flood
-  identity-of-abrahams-visitors:
-    label: 'Who comes to Abraham: God with three men, or God''s messengers'
-    cluster: abraham
   whether-the-heavenly-guests-eat:
     label: Whether Abraham's heavenly guests eat the meal he serves
     cluster: abraham
@@ -242,6 +230,15 @@ new_motifs:
   timing-of-lots-escape-and-the-destruction:
     label: When Lot leaves the city and when the destruction falls
     cluster: abraham
+  pharaoh-leads-his-people-to-ruin:
+    label: Pharaoh goes at the head of his people to their destruction
+    cluster: exodus
+  gods-of-the-destroyed-avail-nothing:
+    label: The gods of a people judged by God cannot help them
+    cluster: polemic
+  god-threatens-to-replace-a-people:
+    label: God threatens to destroy a people and put another in its place
+    cluster: covenant
 reviewed:
 - unit: quran-7-idol-request
   checked:
@@ -1330,7 +1327,7 @@ reviewed:
     - Deut 20:3
     - Deut 20:4
     relation: parallel
-    note: 'Assurance before battle that God is with the fighters: annī maʿakum fa-thabbitū lladhīna āmanū; wa-anna llāha maʿa l-muʾminīn vs ʾal-yēraḵ lᵉbabkem ʾal-tîrʾû ... kî YHWH ʾĕlōhêkem hahōlēk ʿimmākem lᵉhillāḥēm lākem.'
+    note: 'Assurance before battle that God is with the fighters: annī maʿakum fa-thabbitū lladhīna āmanū; wa-anna llāha maʿa l-muʾminīn vs ʾal-yērak lᵉbabkem ʾal-tîrʾû ... kî YHWH ʾĕlōhêkem hahōlēk ʿimmākem lᵉhillāḥēm lākem.'
   - with: hb-deut-20-rules-of-war
     motif: fearful-soldiers-in-battle
     refs:
@@ -2139,7 +2136,7 @@ reviewed:
     relation: echo
     note: 'God''s presence going with the leader is the assurance: inna llāha maʿanā fa-anzala llāhu sakīnatahu ʿalayhi vs pānay yēlēkû wahănīḥōtî lāk; hălôʾ bᵉlektᵉkā ʿimmānû.'
   - with: hb-num-14-rebellion-verdict
-    motif: god-replaces-people
+    motif: god-threatens-to-replace-a-people
     refs:
     - '9:39'
     with_refs:
@@ -2538,7 +2535,7 @@ reviewed:
     with_refs:
     - Ezek 13:14
     relation: echo
-    note: 'A false building collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin fa-nhāra bihi fī nāri jahannam vs wᵉhāras̆tî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh ûkᵉlîtem bᵉtôkāh. Both turn on the foundation (assasa / yᵉsōdô).'
+    note: 'A false building collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin fa-nhāra bihi fī nāri jahannam vs wᵉhārastî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh ûkᵉlîtem bᵉtôkāh. Both turn on the foundation (assasa / yᵉsōdô).'
   - with: hb-ps-32-confession
     motif: confession-of-sin
     refs:
@@ -4005,3 +4002,122 @@ reviewed:
     - Josh 10:11
     relation: echo
     note: 'Stones cast by God from the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt min-haššāmayim ... ʾabnê habbārād.'
+- unit: quran-11-shuayb
+  checked:
+  - hb-prov-20-sayings
+  - hb-prov-16-sayings
+  - hb-prov-11-sayings
+  - hb-deut-13-enticers
+  - hb-jer-42-43-flight-to-egypt
+  - hb-ezek-33-watchman-and-fall-news
+  - hb-lev-19-holiness-code-b
+  - hb-deut-25-lashes-levirate-amalek
+  - hb-amos-8-summer-fruit
+  - hb-jer-26-temple-sermon-trial
+  matches:
+  - with: hb-lev-19-holiness-code-b
+    motif: just-weights-and-measures
+    refs:
+    - 11:84
+    - 11:85
+    with_refs:
+    - Lev 19:35
+    - Lev 19:36
+    relation: parallel
+    note: 'Honest measure and weight as God''s command: wa-lā tanquṣū l-mikyāla wa-l-mīzān ... awfū l-mikyāla wa-l-mīzāna bi-l-qisṭ vs lōʾ-taʿăśû ʿāwel bammišpāṭ bammiddāh bammišqāl ûbammᵉśûrāh mōʾznê ṣedeq ʾabnê-ṣedeq ʾêpat ṣedeq. In Lev it is Israel''s law; in Q the message of Shuʿayb to Midian (madyan), a non-Israelite people.'
+  - with: hb-deut-25-lashes-levirate-amalek
+    motif: just-weights-and-measures
+    refs:
+    - 11:84
+    - 11:85
+    - 11:86
+    with_refs:
+    - Deut 25:13
+    - Deut 25:15
+    relation: parallel
+    note: 'Full and just measure promises lasting good: awfū l-mikyāla ... baqiyyatu llāhi khayrun lakum vs ʾeben šᵉlēmāh wāṣedeq yihyeh-llāk ʾêpāh šᵉlēmāh wāṣedeq ... lᵉmaʿan yaʾărîkû yāmêkā.'
+  - with: hb-amos-8-summer-fruit
+    motif: just-weights-and-measures
+    refs:
+    - 11:84
+    - 11:85
+    with_refs:
+    - Amos 8:5
+    relation: parallel
+    note: 'Merchants who shrink the measure, threatened with ruin: lā tanquṣū l-mikyāla wa-l-mīzāna ... innī akhāfu ʿalaykum ʿadhāba yawmin muḥīṭ vs lᵉhaqṭîn ʾêpāh ûlᵉhagdîl šeqel ûlᵉʿawwēt mōʾznê mirmāh. Q''s people defend their freedom with their wealth (an nafʿala fī amwālinā mā nashāʾ); Amos''s merchants are impatient for the Sabbath to end.'
+  - with: hb-prov-11-sayings
+    motif: just-weights-and-measures
+    refs:
+    - 11:85
+    with_refs:
+    - Prov 11:1
+    relation: parallel
+    note: mōʾznê mirmāh tôʿăbat YHWH wᵉʾeben šᵉlēmāh rᵉṣônô vs awfū l-mikyāla wa-l-mīzāna bi-l-qisṭi wa-lā tabkhasū n-nāsa ashyāʾahum.
+  - with: hb-prov-20-sayings
+    motif: just-weights-and-measures
+    refs:
+    - 11:84
+    with_refs:
+    - Prov 20:10
+    - Prov 20:23
+    relation: echo
+    note: ʾeben wāʾeben ʾêpāh wᵉʾêpāh tôʿăbat YHWH vs wa-lā tanquṣū l-mikyāla wa-l-mīzān.
+  - with: hb-prov-16-sayings
+    motif: just-weights-and-measures
+    refs:
+    - 11:85
+    with_refs:
+    - Prov 16:11
+    relation: echo
+    note: peles ûmōʾznê mišpāṭ laYHWH (the just scales are God's) vs al-mīzāna bi-l-qisṭ.
+  - with: hb-jer-26-temple-sermon-trial
+    motif: clan-protects-prophet-from-stoning
+    refs:
+    - 11:91
+    - 11:92
+    with_refs:
+    - Jer 26:24
+    relation: echo
+    note: 'Human protection is all that keeps the threatened prophet alive: wa-law-lā rahṭuka la-rajamnāka vs ʾak yad ʾăḥîqām ben-šāpān hāyᵉtāh ʾet-yirmᵉyāhû lᵉbiltî tēt-ʾōtô bᵉyad-hāʿām lahămîtô. Shuʿayb answers that God should count for more than his clan (a-rahṭī aʿazzu ʿalaykum mina llāh).'
+- unit: quran-11-pharaoh-leads
+  checked:
+  - hb-jer-19-broken-flask
+  - hb-jer-7-obedience-not-sacrifice
+  - hb-ezek-7-the-end
+  - hb-exod-14-crossing-of-the-sea
+  - hb-exod-12-passover-firstborn-exodus
+  matches:
+  - with: hb-exod-14-crossing-of-the-sea
+    motif: pharaoh-leads-his-people-to-ruin
+    refs:
+    - 11:97
+    - 11:98
+    with_refs:
+    - Exod 14:6
+    - Exod 14:7
+    relation: divergence
+    note: 'Pharaoh leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu yawma l-qiyāmati fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô lāqaḥ ʿimmô wayyiqqaḥ šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in Q he leads them into the fire on the day of resurrection, a fire called a ''watering place'' (wird).'
+  - with: hb-exod-12-passover-firstborn-exodus
+    motif: gods-of-the-destroyed-avail-nothing
+    refs:
+    - 11:101
+    with_refs:
+    - Exod 12:12
+    relation: echo
+    note: 'The judged people''s gods are powerless: fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni llāhi min shayʾin lammā jāʾa amru rabbik vs ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod God judges the gods themselves; in Q they merely fail their worshippers.'
+  - with: hb-ezek-7-the-end
+    motif: gods-of-the-destroyed-avail-nothing
+    refs:
+    - 11:101
+    with_refs:
+    - Ezek 7:19
+    relation: echo
+    note: 'What they relied on cannot save them on the day of wrath: kaspām ûzᵉhābām lōʾ-yûkal lᵉhaṣṣîlām bᵉyôm ʿebrat YHWH vs fa-mā aghnat ʿanhum ālihatuhum ... wa-mā zādūhum ghayra tatbīb. Ezek speaks of their silver and gold (idols, 7:20), Q of their gods.'
+  - with: hb-ezek-7-the-end
+    motif: far-be-it-from-god-to-do-wrong
+    refs:
+    - 11:101
+    with_refs:
+    - Ezek 7:27
+    relation: echo
+    note: 'They are judged by their own conduct, not wronged: wa-mā ẓalamnāhum wa-lākin ẓalamū anfusahum vs middarkām ʾeʿĕśeh ʾôtām ûbᵉmišpᵉṭêhem ʾešpᵉṭēm.'
