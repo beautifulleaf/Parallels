@@ -1,0 +1,1351 @@
+new_motifs:
+  aaron-set-apart-to-bless-in-the-name: {label: "Aaron and his sons are set apart forever to burn incense, minister and bless in God's name", cluster: cult}
+  abraham-friend-of-god: {label: "Abraham is called God's friend (ohev, 'lover')", cluster: patriarchs}
+  age-of-anarchy-nations-crush-each-other: {label: "A past age without peace when nation crushed nation and city crushed city", cluster: prophecy}
+  ahaz-called-king-of-israel: {label: "A king of Judah is called 'king of Israel'", cluster: kingship}
+  all-comes-from-god-we-give-back: {label: "Donors confess that everything comes from God and they only give back what is his", cluster: wisdom}
+  all-kings-seek-the-wise-king: {label: "All the kings of the earth come to hear the wise king and bring yearly gifts", cluster: kingship}
+  almug-wood-instruments: {label: "Rare almug wood from Ophir made into steps and lyres unlike any seen before", cluster: kingship}
+  altar-too-small-court-consecrated: {label: "The bronze altar is too small, so the middle of the court is consecrated for offerings", cluster: cult}
+  altars-in-every-corner-of-city: {label: "A king sets up altars at every corner of the capital and high places in every town", cluster: idolatry}
+  angel-between-earth-and-heaven: {label: "The angel of YHWH is seen standing between earth and heaven", cluster: angels}
+  angel-sheathes-sword: {label: "At God's command the destroying angel returns his sword to its sheath", cluster: angels}
+  apostasy-after-mentors-death: {label: "A king who was righteous under a mentor turns to idolatry after the mentor's death", cluster: kingship}
+  appeal-to-assyria-backfires: {label: "A king appeals to Assyria for help, but the Assyrian king oppresses rather than helps him", cluster: kingship}
+  arabs-bring-flocks-as-tribute: {label: "Arabs bring rams and he-goats as tribute", cluster: kingship}
+  arise-yhwh-to-your-resting-place: {label: "'Arise, YHWH, to your resting place, you and the ark of your might'", cluster: cult}
+  armory-equipped-by-king: {label: "The king equips the whole army with shields, spears, helmets, mail, bows and sling-stones", cluster: warfare}
+  army-census-twenty-and-up: {label: "The king musters men from twenty years and up by ancestral houses", cluster: warfare}
+  baal-temple-destroyed-priest-killed: {label: "The people tear down the house of Baal and kill its priest before the altars", cluster: idolatry}
+  battle-is-gods-not-yours: {label: "Prophetic assurance: 'the battle is not yours but God's'", cluster: warfare}
+  battle-on-two-fronts-mutual-aid: {label: "An army caught between enemies in front and behind divides its forces", cluster: warfare}
+  battle-shout-god-strikes-enemy: {label: "At the army's battle shout God himself strikes the enemy", cluster: warfare}
+  battlefield-of-corpses-no-survivors: {label: "The army arrives to find the enemy host all corpses on the ground, none escaped", cluster: warfare}
+  believe-and-be-established: {label: "'Believe in YHWH and you will be established' (wordplay ha'aminu/te'amenu)", cluster: prophecy}
+  blockade-fortress-ramah: {label: "A king fortifies Ramah to blockade the rival kingdom; the stones are later carried off", cluster: warfare}
+  bowels-fall-out-in-disease: {label: "A wicked king is struck with an incurable disease and his bowels come out", cluster: retribution}
+  boy-king-guided-by-priest: {label: "A child king does right as long as his priestly guardian lives", cluster: kingship}
+  breathless-at-royal-splendor: {label: "A visitor seeing the king's court is left breathless ('no more spirit in her')", cluster: kingship}
+  bronze-beyond-weighing: {label: "The bronze used for the sanctuary is so abundant its weight was not determined", cluster: cult}
+  bronze-cast-in-clay-ground-jordan: {label: "The temple bronzes are cast in the clay ground of the Jordan plain", cluster: cult}
+  brothers-taken-captive-by-brothers: {label: "Israelites take their kinsmen of Judah captive as slaves", cluster: warfare}
+  buried-for-sake-of-pious-ancestor: {label: "A slain king is given burial for the sake of his pious grandfather", cluster: kingship}
+  captives-clothed-fed-anointed-and-returned: {label: "Captors clothe, shoe, feed, anoint and carry the weak captives on donkeys back to their kin", cluster: ethics}
+  captives-sawn-or-set-to-saws: {label: "Captives of a conquered city are cut with saws and iron picks (or set to labor with them)", cluster: warfare}
+  captives-thrown-from-cliff: {label: "Ten thousand captives are thrown from the top of a rock and dashed to pieces", cluster: warfare}
+  captured-crown-of-enemy-god: {label: "The conqueror takes the gold crown of the enemy king or god and puts it on his own head", cluster: kingship}
+  caravan-of-spices-gold-gems: {label: "A royal visitor arrives with camels carrying spices, gold and precious stones", cluster: kingship}
+  catalogue-of-calamities: {label: "Prayer lists famine, pestilence, blight, mildew, locust, siege and sickness as occasions for prayer", cluster: prayer}
+  cherethites-and-pelethites: {label: "The Cherethite and Pelethite royal guard", cluster: kingship}
+  cherubim-as-merkavah-chariot: {label: "The cherubim over the ark are called 'the chariot' (merkavah)", cluster: cosmology}
+  choice-of-three-punishments: {label: "A prophet offers the sinner a choice among three punishments: famine, flight or plague", cluster: retribution}
+  chosen-tribe-house-and-son: {label: "God's election narrows from tribe to family to man to the chosen son", cluster: kingship}
+  chronicler-variant-of-parallel: {label: "Chronicles differs in a specific detail from its parallel in Samuel–Kings", cluster: historiography}
+  circumference-ratio-three: {label: "A round vessel ten cubits across measures thirty around (pi taken as three)", cluster: cult}
+  cited-royal-annals: {label: "The narrator cites a royal chronicle or book of kings as a source", cluster: historiography}
+  city-quiet-after-tyrant-killed: {label: "After the usurper's execution the people rejoice and the city is quiet", cluster: kingship}
+  city-wall-breached-400-cubits: {label: "The victor breaks down 400 cubits of the capital's wall", cluster: warfare}
+  collection-chest-at-temple-gate: {label: "A chest is set at the temple gate for donations, emptied daily by royal and priestly officials", cluster: cult}
+  composite-psalm-from-psalter: {label: "A psalm sung in the narrative is stitched from passages found in the Psalter", cluster: poetry}
+  conditional-dynastic-promise: {label: "God's promise of an eternal dynasty is made conditional on keeping his commandments", cluster: kingship}
+  condolence-envoys-suspected-as-spies: {label: "Envoys sent to console a new king on his father's death are accused of spying", cluster: diplomacy}
+  conspiracy-flight-to-lachish: {label: "A king flees a conspiracy to Lachish and is pursued and killed there", cluster: kingship}
+  coregency-king-makes-son-king: {label: "The aged king makes his son king during his own lifetime", cluster: kingship}
+  coronation-assembly-at-shechem: {label: "All Israel gathers at Shechem to make the heir king", cluster: kingship}
+  corpse-brought-home-on-horses: {label: "The murdered king's body is carried home on horses for burial", cluster: kingship}
+  coup-at-sabbath-shift-change: {label: "A priestly coup is timed to the Sabbath change of temple guards, keeping both shifts", cluster: kingship}
+  course-of-abijah: {label: "The eighth priestly course, Abijah", cluster: cult}
+  course-of-jehoiarib-first: {label: "The first priestly course drawn by lot is Jehoiarib", cluster: cult}
+  covenant-renewal-ceremony: {label: "King and people enter a covenant to seek or serve YHWH in a public ceremony", cluster: covenant}
+  covenant-with-patriarchs-recalled: {label: "Hymn recalls God's covenant with Abraham, oath to Isaac and statute to Jacob for a thousand generations", cluster: covenant}
+  crown-and-testimony-coronation: {label: "At the coronation the boy king is given the crown and the 'testimony' (edut)", cluster: kingship}
+  cushite-army-of-a-million: {label: "A Cushite king invades with an army of a million", cluster: warfare}
+  cymbals-harps-lyres-trumpets-in-cult: {label: "Temple worship with cymbals, harps, lyres and priestly trumpets", cluster: cult}
+  daily-morning-evening-praise: {label: "Levites stand every morning and evening to thank and praise YHWH", cluster: cult}
+  daric-coin-anachronism: {label: "Persian darics (adarkonim) are counted among offerings in David's time", cluster: historiography}
+  david-man-of-god: {label: "David is called 'the man of God' as a cultic lawgiver", cluster: kingship}
+  davids-weapons-kept-in-temple: {label: "King David's spears and shields kept in the temple are issued to the guards", cluster: kingship}
+  death-for-not-seeking-yhwh: {label: "Whoever will not seek YHWH, small or great, man or woman, is to be put to death", cluster: covenant}
+  dedication-at-feast-of-seventh-month: {label: "The temple dedication is held at the festival of the seventh month", cluster: cult}
+  departed-unlamented: {label: "The wicked king dies and departs 'with no one's regret'", cluster: kingship}
+  descendant-of-moses-treasury-chief: {label: "A grandson of Moses is put in charge of the temple treasuries", cluster: cult}
+  destroying-angel-mashhit: {label: "A destroying angel (mal'akh mashhit) is sent against the land or city", cluster: angels}
+  dies-at-sunset: {label: "The wounded king props himself in his chariot all day and dies at sunset", cluster: warfare}
+  diseased-feet-of-king: {label: "An aged king is diseased in his feet", cluster: kingship}
+  dismissed-mercenaries-raid: {label: "Dismissed mercenaries vent their anger by raiding the king's towns", cluster: warfare}
+  divine-council-scene: {label: "God enthroned with the host of heaven standing at his right and left deliberates", cluster: cosmology}
+  divine-turn-of-events-fulfils-prophecy: {label: "A political turn of events is 'from God' to fulfill an earlier prophecy", cluster: prophecy}
+  do-not-fight-against-god: {label: "The enemy is warned that fighting the army of God cannot succeed", cluster: warfare}
+  downfall-from-god-tevusah: {label: "A king's ruin through an ill-judged visit is said to be 'from God'", cluster: retribution}
+  duplicated-regnal-formula: {label: "The same regnal age and length are repeated within one short account", cluster: historiography}
+  dying-martyr-calls-for-vengeance: {label: "A murdered prophet's dying words call on God to see and avenge", cluster: prophecy}
+  eastern-coalition-invades: {label: "A coalition of Moab, Ammon and their allies invades Judah from beyond the Dead Sea", cluster: warfare}
+  egyptian-pharaoh-invades-judah: {label: "An Egyptian king invades Judah and plunders Jerusalem", cluster: warfare}
+  elders-in-sackcloth-fall-on-faces: {label: "King and elders clothed in sackcloth fall on their faces before the angel", cluster: ritual}
+  enemy-king-struck-by-god-dies: {label: "God strikes the enemy king and he dies", cluster: retribution}
+  envoys-humiliated-shaved-garments-cut: {label: "Envoys have half their beards shaved and their garments cut off at the buttocks", cluster: diplomacy}
+  era-without-true-god-priest-or-torah: {label: "A long age when Israel was without the true God, a teaching priest or Torah", cluster: prophecy}
+  eternal-davidic-dynasty: {label: "God promises David's line an everlasting throne and kingdom", cluster: kingship}
+  eunuchs-at-royal-court: {label: "Eunuchs (sarisim) serve among the royal officials", cluster: kingship}
+  eyes-of-yhwh-roam-the-earth: {label: "'The eyes of YHWH run to and fro through all the earth'", cluster: cosmology}
+  fable-thistle-and-cedar: {label: "Fable: a thistle asks a cedar for its daughter and is trampled by a wild beast", cluster: wisdom}
+  fall-into-gods-hands-not-mans: {label: "Let me fall into the hand of God, whose mercies are great, and not into the hand of man", cluster: wisdom}
+  fantastic-army-numbers: {label: "Army figures run to hundreds of thousands or more than a million", cluster: historiography}
+  fantastic-temple-treasure-sums: {label: "Enormous sums of gold and silver (up to a million talents) gathered for the temple", cluster: cult}
+  father-appoints-non-firstborn-as-head: {label: "A father makes a younger son head because there was no firstborn", cluster: family}
+  father-prepares-what-son-will-build: {label: "The father gathers materials and plans for a temple his son will build", cluster: kingship}
+  favorite-wife-son-made-heir-over-firstborn: {label: "The son of the king's favorite wife is made chief among his brothers as heir", cluster: kingship}
+  festal-bread-raisin-cake-distribution: {label: "At a festival the king gives every man and woman a loaf, a portion and a raisin cake", cluster: ritual}
+  fight-only-the-king: {label: "The enemy commander orders his chariots to fight no one but the king", cluster: warfare}
+  foreign-king-sends-son-with-congratulations: {label: "A foreign king sends his son with gifts to congratulate a victor over a common enemy", cluster: diplomacy}
+  foreign-ruler-blesses-israels-god: {label: "A foreign ruler blesses Israel's God for setting the king on his throne", cluster: kingship}
+  foreigners-manage-kings-camels-and-flocks: {label: "An Ishmaelite and a Hagrite manage the king's camels and flocks", cluster: kingship}
+  foreigners-prayer-at-temple-heard: {label: "Prayer that the foreigner who comes to pray at the temple be heard", cluster: cult}
+  fortresses-stocked-with-food-oil-wine-weapons: {label: "Fortified cities are stocked with food, oil, wine, shields and spears", cluster: warfare}
+  four-hundred-court-prophets-unanimous: {label: "Four hundred court prophets unanimously promise victory", cluster: prophecy}
+  fourteen-sons-three-daughters-blessing: {label: "God blesses a seer with fourteen sons and three daughters", cluster: family}
+  from-beersheba-to-dan: {label: "The whole land 'from Beersheba to Dan'", cluster: geography}
+  gatekeepers-bar-the-unclean: {label: "Gatekeepers stationed so that no one unclean enters the temple", cluster: cult}
+  gatekeepers-levitical: {label: "Levitical gatekeepers guard the sanctuary gates", cluster: cult}
+  gates-at-four-cardinal-points: {label: "Gatekeepers assigned by lot to the east, north, south and west gates", cluster: cult}
+  gather-us-from-the-nations-prayer: {label: "Prayer: 'save us, gather us and deliver us from the nations'", cluster: prayer}
+  general-objects-to-kings-order: {label: "The commander protests the king's order but is overruled", cluster: kingship}
+  giant-taunts-israel-and-is-slain: {label: "A giant taunts Israel and is killed by a hero", cluster: heroes}
+  giant-with-six-fingers-six-toes: {label: "A giant with six fingers on each hand and six toes on each foot", cluster: heroes}
+  god-appears-at-night-answers-prayer: {label: "God appears to the king at night to answer his prayer", cluster: theophany}
+  god-builds-house-for-david-wordplay: {label: "Pun on 'house': the king would build God a house; God will build the king a house (dynasty)", cluster: kingship}
+  god-can-give-more-than-lost: {label: "'YHWH is able to give you much more than this' (compensation for an obedient loss)", cluster: wisdom}
+  god-cannot-be-contained-by-temple: {label: "Heaven and the heaven of heavens cannot contain God, much less a temple", cluster: cosmology}
+  god-comes-to-judge-the-earth: {label: "God comes to judge the earth", cluster: eschatology}
+  god-diverts-attackers-after-cry: {label: "When the threatened king cries out, God turns the attackers away from him", cluster: warfare}
+  god-dwells-in-thick-darkness: {label: "YHWH said he would dwell in thick darkness (arafel)", cluster: theophany}
+  god-dwelt-in-tent-not-house: {label: "God has never dwelt in a house but moved from tent to tent", cluster: cult}
+  god-grants-wisdom-to-king: {label: "God grants the king wisdom and understanding to rule", cluster: kingship}
+  god-hears-from-heaven-toward-temple: {label: "Prayer toward the temple is heard by God from his dwelling place in heaven", cluster: prayer}
+  god-makes-great-name: {label: "God promises to make the king a name like the great ones of the earth", cluster: kingship}
+  god-offers-king-any-wish: {label: "God tells the king: 'Ask what I shall give you'", cluster: theophany}
+  god-our-father-address: {label: "God is addressed as 'our father' in prayer", cluster: prayer}
+  god-saves-by-many-or-few: {label: "It is the same to God to help the many or the powerless", cluster: warfare}
+  god-stirs-up-spirit-of-enemy: {label: "God stirs up the spirit of foreign peoples against a sinful king", cluster: prophecy}
+  god-uncovers-the-ear: {label: "Revelation described as God 'uncovering the ear' of his servant", cluster: prophecy}
+  gods-eyes-and-heart-there-forever: {label: "God's eyes and heart will be in the temple perpetually", cluster: cult}
+  gold-of-ophir: {label: "Gold of Ophir brought by sea", cluster: geography}
+  gold-of-parvaim: {label: "The temple overlaid with gold of Parvaim", cluster: geography}
+  gold-shields-replaced-with-bronze: {label: "After golden shields are plundered the king makes bronze substitutes for the guard", cluster: kingship}
+  golden-shields-trophies: {label: "Shields of beaten gold made or captured and displayed", cluster: kingship}
+  good-things-found-mitigate-sin: {label: "Despite his sin, good things found in the king mitigate the judgment", cluster: retribution}
+  great-bronze-altar: {label: "A great bronze altar twenty cubits square and ten high", cluster: cult}
+  hammanim-incense-stands: {label: "Hammanim (incense altars or sun pillars) removed from the cities", cluster: idolatry}
+  hardening-from-god-for-punishment: {label: "A king's refusal to listen is 'from God' so that he may be defeated for his sin", cluster: retribution}
+  hear-o-peoples-all-of-you: {label: "'Hear, all you peoples' (quotation linking the prophet to Micah)", cluster: prophecy}
+  herders-tents-and-camels-plundered: {label: "Victors strike the herders' tents and carry off sheep and camels", cluster: warfare}
+  high-places-not-removed: {label: "Even under a good king the high places were not removed", cluster: cult}
+  hired-mercenaries-dismissed-at-prophets-word: {label: "A king dismisses hired troops from the north at a man of God's warning", cluster: warfare}
+  hiring-foreign-chariotry: {label: "A king hires foreign chariots and horsemen with a thousand talents of silver", cluster: warfare}
+  hodu-ki-tov-refrain: {label: "Refrain 'Give thanks to YHWH for he is good, for his steadfast love is forever'", cluster: liturgy}
+  horse-and-chariot-trade-egypt-kue: {label: "The king's traders buy horses and chariots from Egypt and Kue and resell them to Hittite and Aramean kings", cluster: kingship}
+  hundred-twenty-thousand-slain-in-one-day: {label: "An enemy kills 120,000 men of Judah in a single day", cluster: warfare}
+  if-my-people-humble-themselves: {label: "'If my people who are called by my name humble themselves, pray and turn, I will heal their land'", cluster: covenant}
+  immediate-retribution-theology: {label: "A king's disaster is explicitly explained as immediate punishment for a specific sin", cluster: retribution}
+  incomparable-people-redeemed-from-egypt: {label: "Who is like your people Israel, one nation God went to redeem for himself", cluster: covenant}
+  ingenious-war-machines-on-towers: {label: "Devices invented by skilled men are set on towers to shoot arrows and great stones", cluster: warfare}
+  ingratitude-to-benefactor: {label: "A king kills the son of the man who saved and raised him, forgetting his loyalty", cluster: ethics}
+  isaiah-as-royal-historian: {label: "The prophet Isaiah is named as author of a king's history", cluster: historiography}
+  itinerant-torah-teachers: {label: "Officials, Levites and priests go round the cities teaching the people from the book of the Torah", cluster: law}
+  ivory-throne-six-steps-twelve-lions: {label: "Great ivory throne overlaid with gold, six steps flanked by twelve lions and two by the armrests", cluster: kingship}
+  jachin-and-boaz-pillars: {label: "Two named bronze pillars, Jachin and Boaz, before the temple", cluster: cult}
+  judges-judge-for-god-not-man: {label: "Judges are told they judge not for man but for God, who is with them in judgment", cluster: law}
+  just-king-does-mishpat-tsedaqah: {label: "The king does justice and righteousness for all his people", cluster: kingship}
+  kin-nations-spared-in-exodus-now-attack: {label: "Nations Israel was forbidden to attack during the exodus now repay this by attacking", cluster: history}
+  king-anointed-a-second-time: {label: "The king is made king and anointed a second time", cluster: kingship}
+  king-as-son-of-god: {label: "God says of the king: 'I will be his father and he shall be my son'", cluster: kingship}
+  king-avenges-murdered-father: {label: "Once secure, the new king executes the servants who murdered his father", cluster: kingship}
+  king-blesses-people-in-gods-name: {label: "After offering sacrifices the king blesses the people in the name of YHWH", cluster: cult}
+  king-chooses-wisdom-over-wealth: {label: "Offered any gift, the king asks for wisdom instead of riches, honor or long life, and receives all", cluster: wisdom}
+  king-disguises-in-battle: {label: "A king disguises himself in battle while his ally wears royal robes", cluster: warfare}
+  king-friend-office: {label: "An official bears the title 'friend of the king'", cluster: kingship}
+  king-gives-private-treasure-segullah: {label: "The king gives his own private treasure (segullah) for the temple", cluster: cult}
+  king-humbles-himself-and-is-spared: {label: "King and princes humble themselves and God mitigates the punishment", cluster: retribution}
+  king-in-cedar-house-ark-in-tent: {label: "The king lives in a cedar house while the ark of God remains under curtains", cluster: kingship}
+  king-incited-to-war: {label: "One king entices (hesit) another into a disastrous war", cluster: kingship}
+  king-invents-musical-instruments: {label: "The king makes the musical instruments used for temple praise", cluster: cult}
+  king-murdered-in-bed-by-servants: {label: "Servants conspire and kill the king on his bed", cluster: kingship}
+  king-offers-himself-for-flock: {label: "King asks that punishment fall on him and his house rather than on the innocent 'sheep'", cluster: kingship}
+  king-prays-in-temple-court: {label: "The king stands in the temple court before the assembly and prays in a national crisis", cluster: prayer}
+  king-preaches-from-mountain-before-battle: {label: "A king stands on a mountain and preaches to the enemy army before battle", cluster: warfare}
+  king-rejects-elders-follows-young-men: {label: "The new king rejects the elders' moderate counsel and follows the harsh advice of his young companions", cluster: kingship}
+  king-silences-prophet: {label: "A king cuts off a prophet: 'Have we made you the king's counselor?'", cluster: prophecy}
+  king-stands-by-his-pillar: {label: "The newly crowned king stands by his pillar at the entrance", cluster: kingship}
+  king-taken-from-following-the-sheep: {label: "God took the king from the pasture, from following the sheep", cluster: kingship}
+  king-tours-land-to-bring-people-back: {label: "The king goes out among the people from one end of the land to the other to bring them back to God", cluster: kingship}
+  king-usurps-priestly-incense-offering: {label: "A king enters the sanctuary to burn incense, a right reserved to the priests", cluster: cult}
+  king-who-loved-the-soil: {label: "A king who 'loved the soil' with farmers, vinedressers and herds", cluster: kingship}
+  king-wiser-and-richer-than-all-kings: {label: "The king exceeds all the kings of the earth in riches and wisdom", cluster: kingship}
+  kings-enthroned-at-threshing-floor-by-gate: {label: "Two kings sit in royal robes on thrones at the threshing floor by the city gate", cluster: kingship}
+  kings-of-arabia-tribute: {label: "All the kings of Arabia and governors bring gold and silver", cluster: kingship}
+  kings-seer-musician: {label: "A temple musician is the 'king's seer' in the words of God", cluster: prophecy}
+  kings-son-and-officials-assassinated-in-battle: {label: "An enemy warrior kills the king's son, palace chief and second-in-command", cluster: warfare}
+  kneeling-on-bronze-platform: {label: "The king kneels on a bronze platform in the court and spreads his hands to heaven", cluster: prayer}
+  lamp-for-david-dynasty-spared: {label: "God will not destroy David's house, having promised him a lamp (nir) forever", cluster: kingship}
+  lampstands-and-tables-plural: {label: "Multiple gold and silver lampstands and tables in the temple", cluster: cult}
+  legitimate-cult-listed-as-proof: {label: "Correct daily offerings, incense, showbread and lampstand cited as proof of true worship", cluster: cult}
+  leper-buried-in-field-apart: {label: "A leper king is buried in the burial field of the kings, not in their tombs", cluster: kingship}
+  leper-king-in-separate-house: {label: "A king stricken with skin disease lives in a separate house while his son governs", cluster: kingship}
+  let-us-look-each-other-in-the-face: {label: "A king's challenge to battle: 'Come, let us look one another in the face'", cluster: warfare}
+  letter-from-prophet: {label: "A prophet sends a king a letter of judgment", cluster: prophecy}
+  levite-age-lowered-to-twenty: {label: "Levite service counted from twenty years of age by David's last words", cluster: cult}
+  levite-singers-appointed: {label: "Levites appointed to remember, thank and praise God before the ark", cluster: cult}
+  levite-singers-in-linen-east-of-altar: {label: "Levite singers dressed in fine linen stand east of the altar", cluster: cult}
+  levites-abandon-northern-pasturelands: {label: "Priests and Levites leave their northern holdings and move to Judah when excluded from office", cluster: cult}
+  levites-as-civil-judges: {label: "Levites serve as officers and judges for outside work and the king's service", cluster: law}
+  levites-no-longer-carry-tabernacle: {label: "With a fixed temple, Levites no longer need to carry the tabernacle", cluster: cult}
+  levites-slow-to-act: {label: "The Levites are slow to carry out the king's command and are rebuked", cluster: cult}
+  life-like-a-shadow: {label: "'Our days on earth are like a shadow, and there is no hope'", cluster: wisdom}
+  list-of-fortified-cities: {label: "List of cities fortified by the king", cluster: warfare}
+  little-finger-thicker-than-fathers-loins: {label: "'My little finger is thicker than my father's loins'", cluster: kingship}
+  lot-treats-eldest-and-youngest-alike: {label: "Lots are cast with eldest and youngest, teacher and pupil alike", cluster: cult}
+  lying-spirit-sent-by-god: {label: "A spirit volunteers in the divine council to be a lying spirit in the prophets' mouths", cluster: prophecy}
+  many-sons-as-divine-blessing: {label: "A man's many sons are explained as God's blessing", cluster: family}
+  marriage-alliance-with-wicked-king: {label: "A righteous king allies by marriage with a wicked king's house", cluster: kingship}
+  massive-dedication-sacrifice: {label: "Tens of thousands of oxen and sheep sacrificed at a dedication", cluster: cult}
+  master-craftsman-of-all-materials: {label: "A master craftsman skilled in every metal, stone, wood, dye and engraving", cluster: cult}
+  midrash-of-iddo: {label: "A source cited as a 'midrash' (of the prophet Iddo or of the Book of Kings)", cluster: historiography}
+  molten-images-for-baals: {label: "A king makes molten images for the Baals", cluster: idolatry}
+  molten-sea-on-twelve-oxen: {label: "A great cast bronze basin ('sea') set on twelve oxen facing the four directions", cluster: cult}
+  musicians-prophesy-with-instruments: {label: "Temple musicians 'prophesy' with lyres, harps and cymbals", cluster: prophecy}
+  nadab-abihu-died-childless: {label: "Nadab and Abihu died before their father without sons", cluster: cult}
+  name-meaning-enacted-jehoshaphat: {label: "A king named 'YHWH judges' reforms the judiciary", cluster: naming}
+  names-form-hidden-psalm: {label: "A list of personal names reads consecutively as a line of prayer or psalm", cluster: naming}
+  nature-rejoices-at-gods-coming: {label: "Heavens, earth, sea, fields and trees rejoice and sing before the coming God", cluster: cosmology}
+  neighbors-raid-weakened-judah: {label: "Edomites and Philistines raid a weakened Judah and take its towns", cluster: warfare}
+  new-king-massacres-his-brothers: {label: "On accession the new king kills all his brothers", cluster: kingship}
+  no-funeral-fire-for-wicked-king: {label: "The people make no funeral burning for a wicked king as for his fathers", cluster: kingship}
+  no-god-beside-you-confession: {label: "'There is none like you and no God beside you'", cluster: theology}
+  no-human-who-does-not-sin: {label: "'There is no man who does not sin'", cluster: wisdom}
+  no-killing-in-temple: {label: "The usurper is led out so that she is not killed in the house of YHWH", cluster: cult}
+  northern-defectors-join-judah: {label: "Many from the northern tribes defect to the pious Judean king", cluster: kingship}
+  northern-leaders-heed-prophet: {label: "Northern chiefs obey the prophet and refuse to bring the captives in", cluster: ethics}
+  number-288-twelve-times-twenty-four: {label: "288 musicians: twenty-four courses of twelve", cluster: numbers}
+  number-666-talents: {label: "An annual income of 666 talents of gold", cluster: numbers}
+  oath-before-the-altar: {label: "An oath sworn before God's altar in the temple, judged by God", cluster: law}
+  oath-of-allegiance-hand: {label: "Princes 'give the hand' under the new king in allegiance", cluster: kingship}
+  offices-assigned-by-lot: {label: "Sacred offices or duties assigned by casting lots", cluster: cult}
+  one-hundred-twenty-priest-trumpeters: {label: "One hundred twenty priests blowing trumpets", cluster: cult}
+  one-true-prophet-hated-by-king: {label: "A single true prophet, hated by the king because he never prophesies good for him", cluster: prophecy}
+  only-the-tablets-in-the-ark: {label: "Nothing was in the ark except the two tablets of Moses", cluster: cult}
+  our-eyes-are-on-you: {label: "'We do not know what to do, but our eyes are on you'", cluster: prayer}
+  outnumbered-two-to-one: {label: "The righteous army is outnumbered two to one", cluster: warfare}
+  owner-sees-angel-sons-hide: {label: "The landowner sees the angel while threshing and his sons hide", cluster: angels}
+  palms-and-chains-decoration: {label: "Temple walls decorated with palm trees and chains", cluster: cult}
+  parbar-obscure-temple-term: {label: "An obscure temple term (parbar) for a structure on the west", cluster: cult}
+  patriarchs-wander-few-in-number: {label: "The patriarchs few in number wander from nation to nation, protected by God", cluster: patriarchs}
+  people-answer-amen: {label: "All the people say 'Amen' and praise YHWH", cluster: liturgy}
+  people-ask-king-to-lighten-yoke: {label: "The people ask the new king to lighten his father's heavy yoke", cluster: kingship}
+  people-bow-to-god-and-king: {label: "The assembly bows down to YHWH and to the king", cluster: kingship}
+  people-like-dust-of-earth: {label: "A people as numerous as the dust of the earth", cluster: kingship}
+  people-prostrate-faces-to-pavement: {label: "The people bow with faces to the pavement when the fire and glory descend", cluster: cult}
+  pharaohs-daughter-moved-from-holy-place: {label: "The king moves his foreign wife out of the palace because places where the ark has been are holy", cluster: cult}
+  phoenician-sailors-for-israelite-fleet: {label: "The Tyrian king sends ships and sailors to man the Israelite fleet", cluster: kingship}
+  phoenicians-supply-cedar: {label: "Sidonians and Tyrians supply cedar for the king's building", cluster: kingship}
+  pious-emigrants-strengthen-judah: {label: "Those who seek YHWH from all the tribes come to Jerusalem and strengthen the kingdom", cluster: kingship}
+  pomegranate-ornaments: {label: "Bronze pomegranates on chains or networks adorn the pillars", cluster: cult}
+  prayer-in-direction-of-holy-city: {label: "People away from Jerusalem or in exile pray in the direction of the land, city and temple", cluster: prayer}
+  precious-stones-for-temple: {label: "Onyx, inlay, antimony, multicolored stones and marble gathered for the temple", cluster: cult}
+  pride-after-success-brings-fall: {label: "When the king became strong his heart grew proud to his destruction", cluster: retribution}
+  priest-buried-among-kings: {label: "A priest is buried among the kings because of the good he did", cluster: cult}
+  priest-chooses-kings-wives: {label: "The priestly guardian takes two wives for the king", cluster: kingship}
+  priest-dies-at-130: {label: "The priest dies old and full of days at 130", cluster: cult}
+  priest-led-coup: {label: "A priest organizes a coup to enthrone the hidden heir", cluster: kingship}
+  priesthood-purchased-with-bull-and-seven-rams: {label: "Anyone who brings a bull and seven rams can be ordained a priest of 'no-gods'", cluster: cult}
+  priests-court-and-great-court: {label: "The temple has a court of the priests and a great court", cluster: cult}
+  princes-dispersed-to-fortresses: {label: "The king distributes his sons among the fortified cities with provisions", cluster: kingship}
+  prophet-approves-then-reversed-by-night-oracle: {label: "A prophet approves the king's plan, then a night oracle reverses it", cluster: prophecy}
+  prophet-forbids-civil-war: {label: "A man of God forbids the king to fight his brothers of the north", cluster: prophecy}
+  prophet-imprisoned-bread-and-water-of-affliction: {label: "Prophet imprisoned on 'bread of affliction and water of affliction'", cluster: prophecy}
+  prophet-imprisoned-in-stocks: {label: "An angry king puts the seer in the stocks", cluster: prophecy}
+  prophet-iron-horns-sign-act: {label: "A prophet makes iron horns as a sign that the king will gore the enemy", cluster: prophecy}
+  prophet-ironically-echoes-false-oracle: {label: "The true prophet first repeats the false prophets' promise, until adjured to speak truth", cluster: prophecy}
+  prophet-mentor-understands-visions: {label: "The king's mentor is one who understands the visions of God", cluster: prophecy}
+  prophet-rebukes-excessive-cruelty-of-victors: {label: "A prophet rebukes victors whose slaughter of kin was a 'rage reaching to heaven'", cluster: ethics}
+  prophet-speaks-only-what-god-says: {label: "The prophet swears to speak only what his God tells him", cluster: prophecy}
+  prophet-stoned-in-temple-court: {label: "A prophet is stoned in the temple court at the king's command", cluster: prophecy}
+  prophet-struck-on-cheek: {label: "A false prophet strikes the true prophet on the cheek", cluster: prophecy}
+  prophetic-histories-cited-as-sources: {label: "The words or visions of named prophets and seers are cited as sources for a reign", cluster: historiography}
+  prophets-sent-and-ignored: {label: "God sends prophets to warn the people but they will not listen", cluster: prophecy}
+  prosperity-leads-to-apostasy: {label: "Once the kingdom is established and strong, the king forsakes the Torah", cluster: retribution}
+  public-fast-proclaimed-in-crisis: {label: "The king proclaims a fast throughout the land in a crisis", cluster: ritual}
+  queen-mother-as-evil-counselor: {label: "The queen mother counsels her son to do evil", cluster: kingship}
+  queen-mother-deposed-for-idol: {label: "The king removes his mother from her rank because of her idol", cluster: kingship}
+  queen-mother-named-ammonite: {label: "The king's mother is named as an Ammonite", cluster: kingship}
+  queen-mother-usurps-and-kills-royal-seed: {label: "On her son's death the queen mother destroys the royal line and rules", cluster: kingship}
+  queen-of-sheba-visit: {label: "The queen of Sheba visits Solomon", cluster: kingship}
+  queen-tests-king-with-riddles: {label: "A foreign queen tests the king with riddles and he answers them all", cluster: wisdom}
+  raiders-carry-off-royal-family: {label: "Raiders carry off the king's wealth, wives and sons, leaving only the youngest", cluster: warfare}
+  random-arrow-fulfills-prophecy: {label: "An arrow shot at random strikes the king between the joints of his armor", cluster: prophecy}
+  red-sea-port-ezion-geber: {label: "The Red Sea port of Ezion-geber and Eloth in Edom", cluster: geography}
+  refuses-gift-pays-full-price-for-holy-site: {label: "King refuses a holy site as a gift and pays full price: no offering that costs nothing", cluster: cult}
+  regnal-forty-years: {label: "The king reigns forty years", cluster: kingship}
+  reliance-on-yhwh-gives-victory: {label: "Victory is granted because they relied (nish'an) on YHWH", cluster: warfare}
+  remnant-canaanites-as-forced-labor: {label: "Remnants of Canaanite peoples are made forced laborers while Israelites serve as soldiers", cluster: kingship}
+  repentance-in-exile-confession: {label: "Captives confess in exile 'We have sinned, done wrong and acted wickedly'", cluster: prayer}
+  report-falls-short-of-reality: {label: "A visitor says she did not believe the report until she saw: not half was told her", cluster: kingship}
+  resident-aliens-conscripted-as-stonecutters: {label: "The king counts the resident aliens and makes them quarrymen and porters for the temple", cluster: kingship}
+  right-but-not-wholeheartedly: {label: "The king does right, but not with a whole heart", cluster: kingship}
+  rim-like-lily-blossom: {label: "The rim of the bronze sea is shaped like a lily blossom", cluster: cult}
+  rival-returns-from-exile-in-egypt: {label: "The rival returns from his refuge in Egypt when the old king dies", cluster: kingship}
+  royal-burial-with-spices-and-great-fire: {label: "A king is laid on a bier of spices and a very great fire is burned for him", cluster: kingship}
+  royal-cabinet-list: {label: "List of the king's officials: army chief, recorder, priests, scribe", cluster: kingship}
+  royal-counselors-and-tutors: {label: "The king's counselors, scribe and tutor of the princes are listed", cluster: kingship}
+  royal-estate-stewards: {label: "Stewards over the king's treasuries, fields, vineyards, olives, herds and flocks", cluster: kingship}
+  royal-harem-numbers: {label: "The numbers of a king's wives, concubines, sons and daughters", cluster: kingship}
+  royal-infant-hidden-with-nurse: {label: "A royal infant is stolen from among the murdered princes and hidden with his nurse", cluster: kingship}
+  royal-letter-exchange: {label: "Kings exchange letters negotiating materials and labor", cluster: diplomacy}
+  sacrifices-beyond-counting: {label: "Sheep and oxen sacrificed in numbers too many to count", cluster: cult}
+  satan-incites-sin: {label: "Satan (or an adversary) stands up against Israel and incites the king to sin", cluster: demonology}
+  scribe-records-the-lots: {label: "A Levite scribe writes down the results of the lots before king and priests", cluster: cult}
+  sea-for-priests-washing: {label: "The bronze sea serves for the priests to wash in, the lavers for rinsing offerings", cluster: cult}
+  search-in-fortieth-year: {label: "Genealogical records searched in the king's fortieth year", cluster: historiography}
+  seek-him-and-he-will-be-found: {label: "'If you seek him he will be found by you; if you forsake him he will forsake you'", cluster: prophecy}
+  seeking-god-brings-prosperity: {label: "As long as the king sought YHWH, God made him prosper", cluster: retribution}
+  seeking-physicians-not-god: {label: "In his illness the king sought physicians rather than YHWH", cluster: retribution}
+  seer-rebukes-alliance-with-wicked: {label: "A seer rebukes the king for helping the wicked and loving those who hate God", cluster: prophecy}
+  seer-rebukes-reliance-on-foreign-king: {label: "A seer rebukes the king for relying on a foreign king instead of God", cluster: prophecy}
+  separation-of-sacred-and-royal-jurisdiction: {label: "Chief priest presides in matters of God, a royal officer in matters of the king", cluster: law}
+  serve-god-or-serve-foreign-kings-lesson: {label: "Subjection to a foreign king teaches the difference between serving God and serving earthly kingdoms", cluster: retribution}
+  setting-up-hand-at-euphrates: {label: "A king goes to 'set up his hand' (monument) at the Euphrates", cluster: kingship}
+  ships-wrecked-for-wicked-alliance: {label: "Ships built in alliance with a wicked king are wrecked, as a prophet foretold", cluster: retribution}
+  silver-and-gold-common-as-stones: {label: "The king makes silver and gold as common as stones and cedar as sycamores", cluster: kingship}
+  sinful-royal-census: {label: "A king's census of the people is a sin that brings punishment", cluster: kingship}
+  singers-and-trumpets-as-one-voice: {label: "Singers and trumpeters sound 'as one' with a single voice", cluster: cult}
+  singers-march-before-army: {label: "Singers praising God march ahead of the army into battle", cluster: warfare}
+  small-army-defeats-large-as-punishment: {label: "A small enemy force defeats a very great army because the people forsook God", cluster: retribution}
+  small-families-merged-into-one-clan: {label: "Brothers with few sons are counted together as one ancestral house", cluster: genealogy}
+  solomon-man-of-rest-name-shalom: {label: "Solomon is promised as a man of rest; his name is linked to shalom", cluster: naming}
+  son-avoids-fathers-sin: {label: "A son follows his father's good ways but avoids his specific sin", cluster: kingship}
+  son-not-father-builds-temple: {label: "Not the king but his son will build God's house", cluster: kingship}
+  sons-of-moses-mere-levites: {label: "Moses' sons are reckoned among the Levites, not the priests", cluster: genealogy}
+  spear-shaft-like-weavers-beam: {label: "A giant's spear shaft is like a weaver's beam", cluster: heroes}
+  spirit-of-god-comes-on-prophet: {label: "The spirit of God comes upon (or clothes) a person who then prophesies", cluster: prophecy}
+  spoils-dedicated-to-god: {label: "War spoils dedicated to God and stored in the temple", cluster: cult}
+  spring-when-kings-go-to-war: {label: "At the turn of the year, when kings go out to battle", cluster: warfare}
+  store-cities-chariot-cities: {label: "The king builds store cities and cities for chariots and horsemen", cluster: kingship}
+  surplus-made-into-vessels: {label: "Surplus donations are made into gold and silver temple vessels", cluster: cult}
+  tadmor-in-the-wilderness: {label: "Tadmor (Palmyra) built in the wilderness", cluster: geography}
+  tarshish-ships-every-three-years: {label: "Tarshish ships return every three years with gold, silver, ivory, apes and peacocks", cluster: kingship}
+  taskmaster-stoned: {label: "The rebellious people stone the king's overseer of forced labor", cluster: kingship}
+  tax-of-moses-for-sanctuary: {label: "A levy instituted by Moses collected for the sanctuary", cluster: cult}
+  temple-as-exalted-dwelling-zevul: {label: "The temple called a beit zevul, an exalted house, for God to dwell in forever", cluster: cult}
+  temple-as-house-of-rest-footstool: {label: "The temple as a house of rest for the ark and the footstool of God's feet", cluster: cult}
+  temple-built-for-the-name: {label: "The temple is built for God's name", cluster: cult}
+  temple-called-birah: {label: "The temple is called the birah (fortress/palace), not for man but for God", cluster: cult}
+  temple-dimensions-given: {label: "Measurements of the temple in cubits", cluster: cult}
+  temple-doors-shut-vessels-cut-up: {label: "A king cuts up the temple vessels and shuts the doors of the house of YHWH", cluster: cult}
+  temple-house-of-sacrifice: {label: "God chooses the temple as his 'house of sacrifice'", cluster: cult}
+  temple-mount-is-moriah: {label: "The temple is built on Mount Moriah, identified with the threshing floor", cluster: cult}
+  temple-overlaid-with-gold: {label: "Temple walls, beams and doors overlaid with gold", cluster: cult}
+  temple-repair-campaign: {label: "A king organizes the restoration of the temple", cluster: cult}
+  temple-treasure-used-to-buy-alliance: {label: "A king takes temple treasure to buy a foreign king's alliance", cluster: kingship}
+  temple-treasures-plundered: {label: "An invader carries off the treasures of the temple and palace", cluster: warfare}
+  temple-treasuries: {label: "Levites in charge of the treasuries of God's house and dedicated things", cluster: cult}
+  ten-lampstands-ten-tables: {label: "Ten gold lampstands and ten tables, five on each side", cluster: cult}
+  there-is-reward-for-your-work: {label: "'Be strong, do not let your hands slacken, for there is reward for your work'", cluster: prophecy}
+  thousand-bulls-rams-lambs: {label: "A thousand bulls, a thousand rams and a thousand lambs offered in a day", cluster: cult}
+  thousand-burnt-offerings: {label: "A king offers a thousand burnt offerings on one altar", cluster: cult}
+  three-days-gathering-spoil: {label: "The spoil is so great that gathering it takes three days", cluster: warfare}
+  three-days-to-decide: {label: "The king asks three days to give his answer", cluster: kingship}
+  threshing-floor-becomes-temple-site: {label: "A threshing floor where the plague was stopped becomes the site of the altar and temple", cluster: cult}
+  throne-of-yhwh-occupied-by-king: {label: "The Davidic king sits on 'the throne of YHWH'", cluster: kingship}
+  timber-rafted-by-sea-to-joppa: {label: "Timber from Lebanon floated by sea in rafts to Joppa", cluster: kingship}
+  to-this-day-etiology: {label: "The narrator notes a situation persists 'to this day'", cluster: historiography}
+  touch-not-my-anointed: {label: "'Touch not my anointed ones, do my prophets no harm'", cluster: covenant}
+  towers-and-cisterns-in-wilderness: {label: "The king builds towers and hews many cisterns in the wilderness", cluster: kingship}
+  tribal-chiefs-list: {label: "List of the chief officers of the tribes of Israel", cluster: kingship}
+  twelve-monthly-rotations: {label: "Twelve divisions serve the king in monthly rotation through the year", cluster: kingship}
+  twenty-four-priestly-courses: {label: "Priests (and musicians) divided into twenty-four courses by lot", cluster: cult}
+  two-cult-sites-ark-and-tabernacle: {label: "The ark stands in Jerusalem while the Mosaic tabernacle and altar remain at Gibeon", cluster: cult}
+  two-priestly-lines-eleazar-ithamar: {label: "Priests divided between the houses of Eleazar (Zadok) and Ithamar (Ahimelech)", cluster: cult}
+  unfinished-census-wrath: {label: "The census was begun but not finished because wrath came, and was not recorded", cluster: kingship}
+  usurper-cries-treason: {label: "The usurping queen tears her clothes and cries 'Treason, treason!'", cluster: kingship}
+  valley-of-salt-battle: {label: "Edom defeated in the Valley of Salt", cluster: warfare}
+  vassal-revolts: {label: "A subject people revolts and sets up its own king", cluster: kingship}
+  vassals-bring-tribute-minchah: {label: "Subject peoples bring tribute (minhah) to the king", cluster: kingship}
+  victor-adopts-gods-of-defeated: {label: "A victorious king brings home the gods of the defeated and worships them", cluster: idolatry}
+  victory-procession-with-music-to-temple: {label: "The army returns in procession with harps, lyres and trumpets to the temple", cluster: cult}
+  volunteer-for-yhwh: {label: "A commander described as one who volunteered himself to YHWH", cluster: cult}
+  wages-in-wheat-barley-wine-oil: {label: "Foreign workers paid in wheat, barley, wine and oil", cluster: kingship}
+  walked-in-ways-of-david: {label: "The king walks in the ways of his father David", cluster: kingship}
+  walls-of-ophel-built: {label: "The king builds extensively on the wall of the Ophel", cluster: kingship}
+  war-bronze-used-for-temple-sea: {label: "Bronze captured in war used for the temple's sea, pillars and vessels", cluster: cult}
+  warrior-barred-from-building-temple-for-bloodshed: {label: "The king may not build the temple because he is a man of war who shed much blood", cluster: cult}
+  what-portion-in-david-to-your-tents: {label: "Secession cry: 'What portion have we in David? To your tents, O Israel'", cluster: kingship}
+  whips-and-scorpions: {label: "'My father chastised you with whips, I will chastise you with scorpions'", cluster: kingship}
+  who-am-i-humility-prayer: {label: "The king's prayer: 'Who am I and what is my house that you have brought me this far?'", cluster: prayer}
+  whole-people-with-children-before-god: {label: "All Judah stands before God with their little ones, wives and children", cluster: ritual}
+  wicked-king-not-buried-in-royal-tombs: {label: "A wicked king is buried in the city but not in the tombs of the kings", cluster: kingship}
+  wife-from-wicked-dynasty-corrupts-king: {label: "The king does evil because he married a daughter of a wicked dynasty", cluster: kingship}
+  world-firmly-established-not-moved: {label: "The world is firmly established and cannot be moved", cluster: cosmology}
+  worships-gods-of-victorious-enemy: {label: "A defeated king sacrifices to the gods of his conquerors, hoping they will help him", cluster: idolatry}
+  yhwh-above-all-gods: {label: "YHWH is great and to be feared above all gods", cluster: theology}
+  yhwh-is-righteous-confession: {label: "The humbled king and princes confess 'YHWH is righteous'", cluster: prayer}
+  yhwh-malakh-proclamation: {label: "Proclamation among the nations: 'YHWH is king' (YHWH malakh)", cluster: liturgy}
+  you-forsook-me-i-forsake-you: {label: "Prophetic formula: 'You have forsaken me, so I have forsaken you'", cluster: retribution}
+  yours-is-the-greatness-doxology: {label: "Doxology: 'Yours, YHWH, is the greatness, the power, the glory, the victory and the majesty ... and the kingdom'", cluster: liturgy}
+units:
+  - id: hb-1chr-16-ark-installed-levite-choirs
+    tradition: judaism
+    title: The ark installed in David's tent; Levite singers appointed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 16:1-7", "1Chr 16:37-43"]
+    tags:
+      - {motif: ark-of-the-covenant, refs: ["1Chr 16:1", "1Chr 16:37"]}
+      - {motif: whole-burnt-offering, refs: ["1Chr 16:1", "1Chr 16:2"]}
+      - {motif: peace-offering-shelamim, refs: ["1Chr 16:1", "1Chr 16:2"]}
+      - {motif: king-blesses-people-in-gods-name, refs: ["1Chr 16:2", "1Chr 16:43"]}
+      - {motif: festal-bread-raisin-cake-distribution, refs: ["1Chr 16:3"], note: "to every man and woman a loaf, an eshpar (meat portion?) and a raisin cake"}
+      - {motif: levite-singers-appointed, refs: ["1Chr 16:4", "1Chr 16:5", "1Chr 16:7", "1Chr 16:41"], note: "to 'remember, thank and praise'; Asaph chief"}
+      - {motif: cymbals-harps-lyres-trumpets-in-cult, refs: ["1Chr 16:5", "1Chr 16:6", "1Chr 16:42"], note: "Asaph sounds the cymbals; priests blow trumpets continually; 'instruments of the song of God'"}
+      - {motif: two-cult-sites-ark-and-tabernacle, refs: ["1Chr 16:37", "1Chr 16:39", "1Chr 16:40"], note: "ark in Jerusalem with singers; Mosaic tabernacle and altar at the high place of Gibeon with Zadok"}
+      - {motif: daily-tamid-offering, refs: ["1Chr 16:40"]}
+      - {motif: hodu-ki-tov-refrain, refs: ["1Chr 16:41"]}
+      - {motif: gatekeepers-levitical, refs: ["1Chr 16:38", "1Chr 16:42"], note: "Obed-edom and Hosah as gatekeepers"}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 16:4-42"], note: "the whole liturgical appointment is absent from 2Sam 6"}
+    hints:
+      - "The Levitical choirs of Asaph, Heman and Jeduthun are the eponyms of psalm superscriptions (Pss 50, 73-83, 88, 39, 62, 77)."
+  - id: hb-1chr-16-davids-psalm
+    tradition: judaism
+    title: David's thanksgiving psalm (composite of Pss 105, 96, 106)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 16:8-36"]
+    tags:
+      - {motif: composite-psalm-from-psalter, refs: ["1Chr 16:8-22", "1Chr 16:23-33", "1Chr 16:34-36"], note: "= Ps 105:1-15; Ps 96:1-13; Ps 106:1, 47-48"}
+      - {motif: covenant-with-patriarchs-recalled, refs: ["1Chr 16:15", "1Chr 16:16", "1Chr 16:17", "1Chr 16:18"], note: "'the word he commanded to a thousand generations'"}
+      - {motif: patriarchs-wander-few-in-number, refs: ["1Chr 16:19", "1Chr 16:20"]}
+      - {motif: touch-not-my-anointed, refs: ["1Chr 16:21", "1Chr 16:22"], note: "patriarchs called 'my anointed ones' and 'my prophets'; kings rebuked for their sake"}
+      - {motif: idols-called-elilim, refs: ["1Chr 16:26"]}
+      - {motif: yhwh-above-all-gods, refs: ["1Chr 16:25"]}
+      - {motif: nature-rejoices-at-gods-coming, refs: ["1Chr 16:31", "1Chr 16:32", "1Chr 16:33"], note: "heavens glad, sea thunders, trees of the forest sing"}
+      - {motif: world-firmly-established-not-moved, refs: ["1Chr 16:30"]}
+      - {motif: god-comes-to-judge-the-earth, refs: ["1Chr 16:33"]}
+      - {motif: hodu-ki-tov-refrain, refs: ["1Chr 16:34"]}
+      - {motif: gather-us-from-the-nations-prayer, refs: ["1Chr 16:35"], note: "an exilic petition placed in David's mouth"}
+      - {motif: people-answer-amen, refs: ["1Chr 16:36"]}
+      - {motif: yhwh-malakh-proclamation, refs: ["1Chr 16:31"], note: "'let them say among the nations, YHWH is king'"}
+    hints:
+      - "Ps 105:15 / 1Chr 16:22 'touch not my anointed' became a proof text in Jewish-Christian debate; Quran 2:136 lists patriarchs as recipients of revelation (prophets), cf. 'my prophets' here."
+  - id: hb-1chr-17-dynastic-oracle
+    tradition: judaism
+    title: Nathan's oracle of an eternal house and David's prayer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 17:1-27"]
+    tags:
+      - {motif: king-in-cedar-house-ark-in-tent, refs: ["1Chr 17:1"]}
+      - {motif: prophet-approves-then-reversed-by-night-oracle, refs: ["1Chr 17:2", "1Chr 17:3", "1Chr 17:4"]}
+      - {motif: god-dwelt-in-tent-not-house, refs: ["1Chr 17:5", "1Chr 17:6"]}
+      - {motif: king-taken-from-following-the-sheep, refs: ["1Chr 17:7"]}
+      - {motif: god-makes-great-name, refs: ["1Chr 17:8"]}
+      - {motif: god-builds-house-for-david-wordplay, refs: ["1Chr 17:10", "1Chr 17:12"], note: "bayit = temple and dynasty"}
+      - {motif: eternal-davidic-dynasty, refs: ["1Chr 17:11", "1Chr 17:12", "1Chr 17:14"]}
+      - {motif: king-as-son-of-god, refs: ["1Chr 17:13"], note: "'I will be his father and he shall be my son'"}
+      - {motif: son-not-father-builds-temple, refs: ["1Chr 17:4", "1Chr 17:12"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 17:13", "1Chr 17:14"], note: "omits 2Sam 7:14b 'if he sins I will chasten him with the rod of men'; 'my house and my kingdom' for 'your house and your kingdom'"}
+      - {motif: who-am-i-humility-prayer, refs: ["1Chr 17:16", "1Chr 17:17"], note: "obscure 'you have seen me ketor ha-adam ha-ma'alah' (like the rank/form of the exalted man?)"}
+      - {motif: no-god-beside-you-confession, refs: ["1Chr 17:20"]}
+      - {motif: incomparable-people-redeemed-from-egypt, refs: ["1Chr 17:21", "1Chr 17:22"]}
+      - {motif: god-uncovers-the-ear, refs: ["1Chr 17:25"], note: "revelation as 'you have uncovered your servant's ear'"}
+    hints:
+      - "Royal sonship formula: cf. Ps 2:7, Egyptian and Mesopotamian divine sonship of kings; Heb 1:5 applies 1Chr 17:13 to Christ; 4Q174 (Florilegium) interprets it messianically."
+      - "Quran 38:26 'O David, we have made you a vicegerent (khalifa) in the earth'."
+  - id: hb-1chr-18-davids-wars-and-officials
+    tradition: judaism
+    title: David's conquests and his officials
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 18:1-17"]
+    tags:
+      - {motif: vassals-bring-tribute-minchah, refs: ["1Chr 18:2", "1Chr 18:6"]}
+      - {motif: hamstring-horses-burn-chariots, refs: ["1Chr 18:4"], note: "keeps a hundred chariots"}
+      - {motif: setting-up-hand-at-euphrates, refs: ["1Chr 18:3"], note: "Hadadezer going to 'set up his hand' (stele/monument) at the Euphrates"}
+      - {motif: golden-shields-trophies, refs: ["1Chr 18:7"]}
+      - {motif: war-bronze-used-for-temple-sea, refs: ["1Chr 18:8"], note: "plus not in 2Sam 8:8: Solomon made the bronze sea, pillars and vessels from it"}
+      - {motif: spoils-dedicated-to-god, refs: ["1Chr 18:11"]}
+      - {motif: foreign-king-sends-son-with-congratulations, refs: ["1Chr 18:9", "1Chr 18:10"], note: "Tou of Hamath sends Hadoram (Joram in 2Sam)"}
+      - {motif: valley-of-salt-battle, refs: ["1Chr 18:12"], note: "credited to Abishai, 18,000 (2Sam 8:13: David; Ps 60 title: Joab, 12,000)"}
+      - {motif: royal-cabinet-list, refs: ["1Chr 18:15", "1Chr 18:16", "1Chr 18:17"]}
+      - {motif: cherethites-and-pelethites, refs: ["1Chr 18:17"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 18:17"], note: "David's sons 'first at the king's hand' where 2Sam 8:18 says they were priests (kohanim)"}
+      - {motif: just-king-does-mishpat-tsedaqah, refs: ["1Chr 18:14"]}
+  - id: hb-1chr-19-20-ammonite-war-and-giants
+    tradition: judaism
+    title: Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 19:1-20:8"]
+    tags:
+      - {motif: condolence-envoys-suspected-as-spies, refs: ["1Chr 19:2", "1Chr 19:3"]}
+      - {motif: envoys-humiliated-shaved-garments-cut, refs: ["1Chr 19:4", "1Chr 19:5"], note: "garments cut to the buttocks; 'stay at Jericho until your beards grow'"}
+      - {motif: hiring-foreign-chariotry, refs: ["1Chr 19:6", "1Chr 19:7"], note: "1,000 talents of silver for 32,000 chariots"}
+      - {motif: battle-on-two-fronts-mutual-aid, refs: ["1Chr 19:10", "1Chr 19:11", "1Chr 19:12", "1Chr 19:13"], note: "'be strong... and YHWH do what is good in his eyes'"}
+      - {motif: spring-when-kings-go-to-war, refs: ["1Chr 20:1"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 20:1", "1Chr 20:5"], note: "David sits in Jerusalem but the Bathsheba-Uriah affair is omitted; Elhanan kills Lahmi brother of Goliath (2Sam 21:19: Elhanan killed Goliath)"}
+      - {motif: captured-crown-of-enemy-god, refs: ["1Chr 20:2"], note: "'atarat malkam' - crown of their king or of Milcom, a talent of gold with a precious stone, set on David's head"}
+      - {motif: captives-sawn-or-set-to-saws, refs: ["1Chr 20:3"], note: "vayyasar ba-megerah: 'sawed' (or variant of 'put to work at') with saws and iron picks"}
+      - {motif: primeval-giant-peoples, refs: ["1Chr 20:4", "1Chr 20:6", "1Chr 20:8"], note: "descendants of ha-Rapha in Gath"}
+      - {motif: spear-shaft-like-weavers-beam, refs: ["1Chr 20:5"]}
+      - {motif: giant-with-six-fingers-six-toes, refs: ["1Chr 20:6"], note: "24 digits"}
+      - {motif: giant-taunts-israel-and-is-slain, refs: ["1Chr 20:7"]}
+  - id: hb-1chr-21-census-and-threshing-floor
+    tradition: judaism
+    title: Satan incites the census; plague, the angel over Jerusalem and Ornan's threshing floor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 21:1-30"]
+    tags:
+      - {motif: satan-incites-sin, refs: ["1Chr 21:1"], note: "satan without article: 'a satan/Satan stood up against Israel and incited David'; 2Sam 24:1 has YHWH's anger inciting him"}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 21:1", "1Chr 21:5", "1Chr 21:6", "1Chr 21:25"], note: "Satan for YHWH; 1,100,000 + 470,000 (2Sam: 800,000 + 500,000); Levi and Benjamin not counted; 600 shekels of gold for the site (2Sam: 50 shekels silver for floor and oxen)"}
+      - {motif: sinful-royal-census, refs: ["1Chr 21:2", "1Chr 21:3", "1Chr 21:7"]}
+      - {motif: from-beersheba-to-dan, refs: ["1Chr 21:2"]}
+      - {motif: general-objects-to-kings-order, refs: ["1Chr 21:3", "1Chr 21:6"]}
+      - {motif: levites-not-counted, refs: ["1Chr 21:6"]}
+      - {motif: choice-of-three-punishments, refs: ["1Chr 21:10", "1Chr 21:11", "1Chr 21:12"], note: "three years famine, three months fleeing, three days of the sword of YHWH"}
+      - {motif: fall-into-gods-hands-not-mans, refs: ["1Chr 21:13"]}
+      - {motif: plague-death-toll, refs: ["1Chr 21:14"], note: "70,000"}
+      - {motif: destroying-angel-mashhit, refs: ["1Chr 21:12", "1Chr 21:15"]}
+      - {motif: god-relents, refs: ["1Chr 21:15"]}
+      - {motif: angel-with-drawn-sword, refs: ["1Chr 21:16", "1Chr 21:30"]}
+      - {motif: angel-between-earth-and-heaven, refs: ["1Chr 21:16"], note: "standing between earth and heaven, sword stretched over Jerusalem"}
+      - {motif: elders-in-sackcloth-fall-on-faces, refs: ["1Chr 21:16"]}
+      - {motif: king-offers-himself-for-flock, refs: ["1Chr 21:17"], note: "'these sheep, what have they done? let your hand be on me and my father's house'"}
+      - {motif: threshing-floor-becomes-temple-site, refs: ["1Chr 21:18", "1Chr 21:22", "1Chr 21:28"]}
+      - {motif: owner-sees-angel-sons-hide, refs: ["1Chr 21:20"], note: "Ornan threshing wheat sees the angel; his four sons hide"}
+      - {motif: refuses-gift-pays-full-price-for-holy-site, refs: ["1Chr 21:22", "1Chr 21:23", "1Chr 21:24", "1Chr 21:25"], note: "'I will not offer burnt offerings that cost nothing'"}
+      - {motif: heavenly-fire-consumes-offering, refs: ["1Chr 21:26"], note: "plus vs 2Sam 24"}
+      - {motif: angel-sheathes-sword, refs: ["1Chr 21:27"]}
+      - {motif: intercession-stops-plague, refs: ["1Chr 21:17", "1Chr 21:26", "1Chr 21:27"]}
+      - {motif: two-cult-sites-ark-and-tabernacle, refs: ["1Chr 21:29", "1Chr 21:30"], note: "David cannot go to Gibeon for fear of the angel's sword"}
+    hints:
+      - "2Chr 3:1 identifies Ornan's threshing floor with Mount Moriah (Gen 22). Quran 38:21-25 has David's repentance; rabbinic Satan; Zoroastrian Ahriman as the source of evil, often invoked to explain the YHWH-to-Satan shift."
+  - id: hb-1chr-22-david-prepares-temple
+    tradition: judaism
+    title: David prepares materials and charges Solomon to build the temple
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 22:1-19"]
+    tags:
+      - {motif: threshing-floor-becomes-temple-site, refs: ["1Chr 22:1"], note: "'This is the house of YHWH God and this the altar of burnt offering for Israel'"}
+      - {motif: resident-aliens-conscripted-as-stonecutters, refs: ["1Chr 22:2"]}
+      - {motif: phoenicians-supply-cedar, refs: ["1Chr 22:4"]}
+      - {motif: father-prepares-what-son-will-build, refs: ["1Chr 22:5", "1Chr 22:14", "1Chr 22:16"]}
+      - {motif: warrior-barred-from-building-temple-for-bloodshed, refs: ["1Chr 22:8"], note: "'you have shed much blood ... you shall not build a house for my name'"}
+      - {motif: solomon-man-of-rest-name-shalom, refs: ["1Chr 22:9"], note: "'Shelomo shall be his name, and shalom and quiet I will give'"}
+      - {motif: king-as-son-of-god, refs: ["1Chr 22:10"]}
+      - {motif: eternal-davidic-dynasty, refs: ["1Chr 22:10"]}
+      - {motif: god-grants-wisdom-to-king, refs: ["1Chr 22:12"]}
+      - {motif: be-strong-and-courageous, refs: ["1Chr 22:13"]}
+      - {motif: fantastic-temple-treasure-sums, refs: ["1Chr 22:14"], note: "100,000 talents of gold and 1,000,000 talents of silver gathered 'in my affliction'; bronze and iron beyond weighing"}
+      - {motif: land-had-rest-from-war, refs: ["1Chr 22:9", "1Chr 22:18"]}
+      - {motif: temple-built-for-the-name, refs: ["1Chr 22:7", "1Chr 22:8", "1Chr 22:19"]}
+    hints:
+      - "The bloodshed ban parallels the rabbinic rule that iron (instrument of war) may not touch the altar (m. Middot 3:4) and Quran-exegetical traditions that David began and Solomon completed Bayt al-Maqdis with jinn labor (cf. Quran 34:12-13)."
+  - id: hb-1chr-23-levite-census-and-duties
+    tradition: judaism
+    title: Solomon made king; Levites counted, divided and assigned duties
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 23:1-32"]
+    tags:
+      - {motif: death-old-and-full-of-days, refs: ["1Chr 23:1"], note: "David old and sated with days"}
+      - {motif: coregency-king-makes-son-king, refs: ["1Chr 23:1"]}
+      - {motif: levite-service-age-thirty-to-fifty, refs: ["1Chr 23:3"]}
+      - {motif: levite-age-lowered-to-twenty, refs: ["1Chr 23:24", "1Chr 23:27"], note: "by 'David's last words' the count starts at twenty, conflicting with thirty in 23:3"}
+      - {motif: levite-workforce-totals, refs: ["1Chr 23:3", "1Chr 23:4", "1Chr 23:5"], note: "38,000: 24,000 overseers, 6,000 officers and judges, 4,000 gatekeepers, 4,000 musicians"}
+      - {motif: king-invents-musical-instruments, refs: ["1Chr 23:5"], note: "'the instruments which I made for praise'"}
+      - {motif: three-levite-clans-gershon-kohath-merari, refs: ["1Chr 23:6"]}
+      - {motif: aaron-set-apart-to-bless-in-the-name, refs: ["1Chr 23:13"]}
+      - {motif: sons-of-moses-mere-levites, refs: ["1Chr 23:14", "1Chr 23:15", "1Chr 23:16", "1Chr 23:17"], note: "Moses' sons Gershom and Eliezer are reckoned to the tribe of Levi, not priests; Rehabiah's sons 'very many'"}
+      - {motif: heiress-must-marry-within-tribe, refs: ["1Chr 23:22"], note: "Eleazar's daughters married by their cousins, sons of Kish"}
+      - {motif: small-families-merged-into-one-clan, refs: ["1Chr 23:11"]}
+      - {motif: levites-no-longer-carry-tabernacle, refs: ["1Chr 23:25", "1Chr 23:26"]}
+      - {motif: daily-morning-evening-praise, refs: ["1Chr 23:30"]}
+      - {motif: festival-sacrificial-calendar, refs: ["1Chr 23:31"]}
+      - {motif: levites-given-to-aaron, refs: ["1Chr 23:28", "1Chr 23:32"]}
+  - id: hb-1chr-24-priestly-courses
+    tradition: judaism
+    title: The twenty-four priestly courses by lot; remaining Levites
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 24:1-31"]
+    tags:
+      - {motif: nadab-abihu-died-childless, refs: ["1Chr 24:2"]}
+      - {motif: two-priestly-lines-eleazar-ithamar, refs: ["1Chr 24:3", "1Chr 24:4"], note: "Zadok (Eleazar) 16 houses, Ahimelech (Ithamar) 8"}
+      - {motif: twenty-four-priestly-courses, refs: ["1Chr 24:7-18"]}
+      - {motif: offices-assigned-by-lot, refs: ["1Chr 24:5", "1Chr 24:7", "1Chr 24:31"]}
+      - {motif: scribe-records-the-lots, refs: ["1Chr 24:6"], note: "Shemaiah son of Nethanel the Levite scribe"}
+      - {motif: course-of-abijah, refs: ["1Chr 24:10"], note: "eighth lot"}
+      - {motif: course-of-jehoiarib-first, refs: ["1Chr 24:7"]}
+      - {motif: lot-treats-eldest-and-youngest-alike, refs: ["1Chr 24:31"], note: "'the head father as his younger brother'"}
+    hints:
+      - "Luke 1:5 places Zechariah, father of John the Baptist, in the course of Abijah (24:10); 1Macc 2:1 derives the Hasmoneans from Joarib (24:7). The 24 courses underlie Qumran calendar texts (4Q320-330 Mishmarot), the Caesarea inscription and synagogue piyyutim; Rev 4:4's 24 elders have been linked to them."
+  - id: hb-1chr-25-prophesying-musicians
+    tradition: judaism
+    title: The twenty-four courses of temple musicians who 'prophesy' with lyres
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 25:1-31"]
+    tags:
+      - {motif: musicians-prophesy-with-instruments, refs: ["1Chr 25:1", "1Chr 25:2", "1Chr 25:3"], note: "ha-nibba'im be-kinnorot: Asaph 'prophesied under the king's direction'; Jeduthun prophesied with the lyre in thanksgiving"}
+      - {motif: band-of-ecstatic-prophets, refs: ["1Chr 25:1"]}
+      - {motif: names-form-hidden-psalm, refs: ["1Chr 25:4"], note: "Heman's last sons Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth read as a prayer line: 'Be gracious to me YHWH, be gracious to me; you are my God; I have magnified and exalted help...'"}
+      - {motif: kings-seer-musician, refs: ["1Chr 25:5"], note: "Heman 'the king's seer in the words of God, to lift up the horn'"}
+      - {motif: fourteen-sons-three-daughters-blessing, refs: ["1Chr 25:5"], note: "God gave Heman 14 sons and 3 daughters"}
+      - {motif: number-288-twelve-times-twenty-four, refs: ["1Chr 25:7", "1Chr 25:9-31"], note: "288 trained singers = 24 courses x 12"}
+      - {motif: offices-assigned-by-lot, refs: ["1Chr 25:8", "1Chr 25:9"]}
+      - {motif: lot-treats-eldest-and-youngest-alike, refs: ["1Chr 25:8"], note: "'small as great, teacher with pupil'"}
+      - {motif: twenty-four-priestly-courses, refs: ["1Chr 25:9-31"], note: "musicians also in 24 courses"}
+    hints:
+      - "Music as prophecy: cf. Elisha's minstrel (2Kgs 3:15), Greek mantic poetry and the Muses, Sufi sama'. The name-poem in 25:4 resembles acrostic and onomastic games in Mesopotamian scholarship."
+  - id: hb-1chr-26-gatekeepers-and-treasuries
+    tradition: judaism
+    title: Gatekeepers by lot, treasurers, officers and judges
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 26:1-32"]
+    tags:
+      - {motif: gatekeepers-levitical, refs: ["1Chr 26:1", "1Chr 26:12", "1Chr 26:19"]}
+      - {motif: many-sons-as-divine-blessing, refs: ["1Chr 26:4", "1Chr 26:5"], note: "Obed-edom's eight sons 'for God blessed him' (echo of the ark's stay at his house)"}
+      - {motif: father-appoints-non-firstborn-as-head, refs: ["1Chr 26:10"], note: "Shimri made head 'though he was not the firstborn'"}
+      - {motif: offices-assigned-by-lot, refs: ["1Chr 26:13", "1Chr 26:14"]}
+      - {motif: lot-treats-eldest-and-youngest-alike, refs: ["1Chr 26:13"]}
+      - {motif: gates-at-four-cardinal-points, refs: ["1Chr 26:14", "1Chr 26:15", "1Chr 26:16", "1Chr 26:17"], note: "east, north, south, west; storehouse (asuppim); gate Shallecheth"}
+      - {motif: parbar-obscure-temple-term, refs: ["1Chr 26:18"], note: "parbar, perhaps a Persian loanword for a colonnade/annex"}
+      - {motif: temple-treasuries, refs: ["1Chr 26:20", "1Chr 26:22", "1Chr 26:24", "1Chr 26:26"]}
+      - {motif: descendant-of-moses-treasury-chief, refs: ["1Chr 26:24"], note: "Shebuel son of Gershom son of Moses"}
+      - {motif: spoils-dedicated-to-god, refs: ["1Chr 26:26", "1Chr 26:27", "1Chr 26:28"], note: "dedications of Samuel the seer, Saul, Abner and Joab"}
+      - {motif: levites-as-civil-judges, refs: ["1Chr 26:29", "1Chr 26:30", "1Chr 26:32"]}
+      - {motif: search-in-fortieth-year, refs: ["1Chr 26:31"], note: "genealogical search in David's 40th year finds warriors at Jazer of Gilead"}
+  - id: hb-1chr-27-army-divisions-and-stewards
+    tradition: judaism
+    title: Twelve monthly army divisions, tribal chiefs, the unfinished census and royal stewards
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 27:1-34"]
+    tags:
+      - {motif: twelve-monthly-rotations, refs: ["1Chr 27:1", "1Chr 27:2", "1Chr 27:15"], note: "each division 24,000 serves one month"}
+      - {motif: tribal-chiefs-list, refs: ["1Chr 27:16-22"], note: "Gad and Asher missing; Levi and 'Aaron' (Zadok) listed separately"}
+      - {motif: descendants-as-stars, refs: ["1Chr 27:23"], note: "under-twenties not counted because God promised to multiply Israel like the stars"}
+      - {motif: unfinished-census-wrath, refs: ["1Chr 27:24"], note: "Joab began but did not finish; the number was not entered in the chronicles of King David"}
+      - {motif: cited-royal-annals, refs: ["1Chr 27:24"]}
+      - {motif: royal-estate-stewards, refs: ["1Chr 27:25-31"], note: "treasuries, fields, vineyards, wine cellars, olives and sycamores, oil, herds of Sharon"}
+      - {motif: foreigners-manage-kings-camels-and-flocks, refs: ["1Chr 27:30", "1Chr 27:31"], note: "Obil the Ishmaelite over camels, Jaziz the Hagrite over flocks"}
+      - {motif: king-friend-office, refs: ["1Chr 27:33"], note: "Hushai the Archite 're'a ha-melekh', the king's friend"}
+      - {motif: royal-counselors-and-tutors, refs: ["1Chr 27:32", "1Chr 27:33", "1Chr 27:34"], note: "Jonathan David's uncle counselor and scribe; Jehiel son of Hachmoni with the king's sons; Ahithophel"}
+  - id: hb-1chr-28-temple-plan-handed-over
+    tradition: judaism
+    title: David's assembly speech and the written pattern of the temple
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 28:1-21"]
+    tags:
+      - {motif: eunuchs-at-royal-court, refs: ["1Chr 28:1"], note: "saris among the assembled officials"}
+      - {motif: temple-as-house-of-rest-footstool, refs: ["1Chr 28:2"], note: "'a house of rest for the ark ... the footstool of our God's feet'"}
+      - {motif: warrior-barred-from-building-temple-for-bloodshed, refs: ["1Chr 28:3"]}
+      - {motif: chosen-tribe-house-and-son, refs: ["1Chr 28:4", "1Chr 28:5"], note: "God chose Judah, then David's father's house, then David, then Solomon out of many sons"}
+      - {motif: throne-of-yhwh-occupied-by-king, refs: ["1Chr 28:5"], note: "'the throne of the kingdom of YHWH over Israel'"}
+      - {motif: king-as-son-of-god, refs: ["1Chr 28:6"]}
+      - {motif: conditional-dynastic-promise, refs: ["1Chr 28:7", "1Chr 28:9"]}
+      - {motif: god-sees-the-heart, refs: ["1Chr 28:9"], note: "'YHWH searches all hearts and understands every yetser of the thoughts'"}
+      - {motif: heavenly-pattern-of-sanctuary, refs: ["1Chr 28:11", "1Chr 28:12", "1Chr 28:19"], note: "tavnit given 'by the spirit' and 'all in writing from the hand of YHWH upon me'"}
+      - {motif: cherubim-as-merkavah-chariot, refs: ["1Chr 28:18"], note: "tavnit ha-merkavah ha-keruvim: the cherubim over the ark called 'the chariot'"}
+      - {motif: lampstands-and-tables-plural, refs: ["1Chr 28:15", "1Chr 28:16"], note: "gold and silver lampstands and tables, weighed each"}
+      - {motif: be-strong-and-courageous, refs: ["1Chr 28:10", "1Chr 28:20"]}
+    hints:
+      - "28:18 is the earliest text naming the cherub throne 'merkavah', the term that gives Jewish Merkavah mysticism (Ezek 1, Hekhalot literature) its name; Sir 49:8 uses it of Ezekiel's vision."
+      - "Divine blueprint for a temple: cf. Gudea of Lagash receiving the plan of Eninnu in a dream (Cylinder A)."
+  - id: hb-1chr-29-offerings-prayer-david-dies
+    tradition: judaism
+    title: Free-will gifts, David's doxology, Solomon enthroned again, David's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 29:1-30"]
+    tags:
+      - {motif: temple-called-birah, refs: ["1Chr 29:1", "1Chr 29:19"], note: "habirah, the 'fortress/palace', not for man but for YHWH (late Persian-era term)"}
+      - {motif: precious-stones-for-temple, refs: ["1Chr 29:2"], note: "onyx, inlay stones, puch (antimony), multicolored stone, marble"}
+      - {motif: king-gives-private-treasure-segullah, refs: ["1Chr 29:3", "1Chr 29:4"], note: "3,000 talents of Ophir gold and 7,000 of refined silver to overlay the walls"}
+      - {motif: gold-of-ophir, refs: ["1Chr 29:4"]}
+      - {motif: voluntary-offering-for-sanctuary, refs: ["1Chr 29:5", "1Chr 29:6", "1Chr 29:9", "1Chr 29:17"]}
+      - {motif: daric-coin-anachronism, refs: ["1Chr 29:7"], note: "10,000 adarkonim (Persian darics) in David's day"}
+      - {motif: fantastic-temple-treasure-sums, refs: ["1Chr 29:7"]}
+      - {motif: god-our-father-address, refs: ["1Chr 29:10"], note: "'YHWH God of Israel our father' (avinu may refer to Israel or God)"}
+      - {motif: yours-is-the-greatness-doxology, refs: ["1Chr 29:11", "1Chr 29:12"], note: "lekha YHWH ha-gedullah ve-ha-gevurah ve-ha-tif'eret ve-ha-netsah ve-ha-hod ... ha-mamlakhah"}
+      - {motif: all-comes-from-god-we-give-back, refs: ["1Chr 29:14", "1Chr 29:16"], note: "'from your hand we have given you'"}
+      - {motif: life-like-a-shadow, refs: ["1Chr 29:15"]}
+      - {motif: land-belongs-to-god-israel-sojourners, refs: ["1Chr 29:15"], note: "'we are strangers and sojourners before you as all our fathers'"}
+      - {motif: god-sees-the-heart, refs: ["1Chr 29:17", "1Chr 29:18"]}
+      - {motif: people-bow-to-god-and-king, refs: ["1Chr 29:20"]}
+      - {motif: thousand-bulls-rams-lambs, refs: ["1Chr 29:21"]}
+      - {motif: king-anointed-a-second-time, refs: ["1Chr 29:22"], note: "Solomon made king 'a second time'; Zadok anointed priest"}
+      - {motif: throne-of-yhwh-occupied-by-king, refs: ["1Chr 29:23"]}
+      - {motif: oath-of-allegiance-hand, refs: ["1Chr 29:24"], note: "princes and David's sons 'gave the hand under Solomon'"}
+      - {motif: regnal-forty-years, refs: ["1Chr 29:27"], note: "7 in Hebron, 33 in Jerusalem"}
+      - {motif: death-old-and-full-of-days, refs: ["1Chr 29:28"]}
+      - {motif: prophetic-histories-cited-as-sources, refs: ["1Chr 29:29"], note: "words of Samuel the seer (ro'eh), Nathan the prophet (navi) and Gad the visionary (hozeh)"}
+    hints:
+      - "29:11 is the source of the doxology appended to the Lord's Prayer ('for thine is the kingdom, the power and the glory', Matt 6:13 in later manuscripts, Didache 8.2) and of the kabbalistic sefirot names Gedullah, Gevurah, Tif'eret, Netsah, Hod, Malkhut."
+      - "29:14 'all things come of thee' is used at the Anglican offertory; 29:10-13 recited in the daily Jewish morning service (Vayevarekh David)."
+  - id: hb-2chr-1-solomon-at-gibeon
+    tradition: judaism
+    title: Solomon at Gibeon asks for wisdom; his chariots, wealth and horse trade
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 1:1-18"]
+    tags:
+      - {motif: two-cult-sites-ark-and-tabernacle, refs: ["2Chr 1:3", "2Chr 1:4", "2Chr 1:5"], note: "Mosaic tent and Bezalel's bronze altar at Gibeon, ark in Jerusalem"}
+      - {motif: thousand-burnt-offerings, refs: ["2Chr 1:6"]}
+      - {motif: god-offers-king-any-wish, refs: ["2Chr 1:7"], note: "'Ask what I shall give you'; not called a dream here, unlike 1Kgs 3:5"}
+      - {motif: king-chooses-wisdom-over-wealth, refs: ["2Chr 1:10", "2Chr 1:11", "2Chr 1:12"], note: "hokhmah u-madda'; wealth, possessions and honor added, unequaled before or after"}
+      - {motif: people-like-dust-of-earth, refs: ["2Chr 1:9"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 1:1", "2Chr 1:7"], note: "omits Adonijah's coup, the executions, Pharaoh's daughter, the dream and the two harlots' judgment of 1Kgs 1-3"}
+      - {motif: silver-and-gold-common-as-stones, refs: ["2Chr 1:15"], note: "cedars as plentiful as sycamores of the Shephelah"}
+      - {motif: horse-and-chariot-trade-egypt-kue, refs: ["2Chr 1:16", "2Chr 1:17"], note: "chariot 600 silver, horse 150; re-exported to Hittite and Aramean kings"}
+      - {motif: king-not-multiply-horses-wives-gold, refs: ["2Chr 1:14", "2Chr 1:16"]}
+    hints:
+      - "Solomon's choice of wisdom: Quran 27:15-16 and 38:35 (Solomon asks for a kingdom none after him will have); Wisdom of Solomon 7-9; cf. the 'choice of Heracles'."
+  - id: hb-2chr-2-pact-with-huram
+    tradition: judaism
+    title: Labor levy and the treaty with Huram of Tyre; Huram-abi the craftsman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 2:1-17"]
+    tags:
+      - {motif: resident-aliens-conscripted-as-stonecutters, refs: ["2Chr 2:1", "2Chr 2:16", "2Chr 2:17"], note: "census of 153,600 aliens; 70,000 porters, 80,000 quarriers, 3,600 overseers (1Kgs 5 has an Israelite levy)"}
+      - {motif: phoenicians-supply-cedar, refs: ["2Chr 2:2", "2Chr 2:7", "2Chr 2:8", "2Chr 2:15"]}
+      - {motif: heaven-of-heavens, refs: ["2Chr 2:5"], note: "'the heavens and the heaven of heavens cannot contain him; who am I to build him a house, except to burn incense'"}
+      - {motif: god-cannot-be-contained-by-temple, refs: ["2Chr 2:5"]}
+      - {motif: yhwh-above-all-gods, refs: ["2Chr 2:4"]}
+      - {motif: royal-letter-exchange, refs: ["2Chr 2:2", "2Chr 2:10"], note: "Huram answers 'in writing'"}
+      - {motif: foreigner-confesses-israels-god, refs: ["2Chr 2:11"], note: "Huram blesses YHWH 'who made heaven and earth'"}
+      - {motif: assistant-craftsman-from-dan, refs: ["2Chr 2:12", "2Chr 2:13"], note: "Huram-abi son of a Danite woman and a Tyrian father (1Kgs 7:14: widow of Naphtali), cf. Oholiab of Dan"}
+      - {motif: master-craftsman-of-all-materials, refs: ["2Chr 2:6", "2Chr 2:13"], note: "gold, silver, bronze, iron, stone, wood, purple, blue, crimson, engraving"}
+      - {motif: timber-rafted-by-sea-to-joppa, refs: ["2Chr 2:15"]}
+      - {motif: wages-in-wheat-barley-wine-oil, refs: ["2Chr 2:9", "2Chr 2:14"]}
+  - id: hb-2chr-3-temple-on-moriah
+    tradition: judaism
+    title: The temple built on Mount Moriah; holy of holies, cherubim, veil and pillars
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 3:1-17"]
+    tags:
+      - {motif: temple-mount-is-moriah, refs: ["2Chr 3:1"], note: "be-har ha-moriyyah, where YHWH appeared to David, Ornan's threshing floor; the only biblical link of the temple to Gen 22:2"}
+      - {motif: threshing-floor-becomes-temple-site, refs: ["2Chr 3:1"]}
+      - {motif: temple-dimensions-given, refs: ["2Chr 3:3", "2Chr 3:4", "2Chr 3:8"], note: "60x20 cubits 'by the former measure'; porch 120 cubits high"}
+      - {motif: gold-of-parvaim, refs: ["2Chr 3:6"]}
+      - {motif: temple-overlaid-with-gold, refs: ["2Chr 3:4", "2Chr 3:5", "2Chr 3:7", "2Chr 3:8", "2Chr 3:9"], note: "600 talents for the holy of holies; golden nails of 50 shekels"}
+      - {motif: palms-and-chains-decoration, refs: ["2Chr 3:5", "2Chr 3:16"]}
+      - {motif: two-cherubim-facing-with-spread-wings, refs: ["2Chr 3:10", "2Chr 3:11", "2Chr 3:12", "2Chr 3:13"], note: "colossal cherubim, total wingspan 20 cubits, standing on their feet, faces toward the house"}
+      - {motif: veil-separating-holy-of-holies, refs: ["2Chr 3:14"], note: "a parokhet in Solomon's temple (absent in 1Kgs 6, which has doors)"}
+      - {motif: tabernacle-curtains-with-cherubim, refs: ["2Chr 3:14"]}
+      - {motif: jachin-and-boaz-pillars, refs: ["2Chr 3:15", "2Chr 3:17"], note: "35 cubits high (1Kgs 7:15: 18)"}
+      - {motif: pomegranate-ornaments, refs: ["2Chr 3:16"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 3:4", "2Chr 3:14", "2Chr 3:15"]}
+    hints:
+      - "Moriah = temple mount underlies Josephus Ant. 1.226, Jubilees 18:13, rabbinic tradition and the Dome of the Rock's Foundation Stone; Islamic tradition locates the binding variously at Mina."
+  - id: hb-2chr-4-temple-furnishings
+    tradition: judaism
+    title: Bronze altar, the molten sea on twelve oxen, lavers, lampstands and tables
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 4:1-22"]
+    tags:
+      - {motif: great-bronze-altar, refs: ["2Chr 4:1"], note: "20x20x10 cubits (not in 1Kgs 7)"}
+      - {motif: molten-sea-on-twelve-oxen, refs: ["2Chr 4:2", "2Chr 4:3", "2Chr 4:4", "2Chr 4:15"], note: "oxen facing the four directions in threes; gourds of 1Kgs 7:24 become 'likeness of oxen'"}
+      - {motif: circumference-ratio-three, refs: ["2Chr 4:2"], note: "10 cubits across, 30 around (pi taken as 3)"}
+      - {motif: rim-like-lily-blossom, refs: ["2Chr 4:5"], note: "holds 3,000 baths (1Kgs 7:26: 2,000)"}
+      - {motif: sea-for-priests-washing, refs: ["2Chr 4:6"], note: "explanatory plus: lavers to rinse the burnt offering, sea for priests to wash in"}
+      - {motif: ten-lampstands-ten-tables, refs: ["2Chr 4:7", "2Chr 4:8", "2Chr 4:19", "2Chr 4:20"]}
+      - {motif: priests-court-and-great-court, refs: ["2Chr 4:9"]}
+      - {motif: jachin-and-boaz-pillars, refs: ["2Chr 4:12", "2Chr 4:13"], note: "400 pomegranates on two networks"}
+      - {motif: bronze-cast-in-clay-ground-jordan, refs: ["2Chr 4:17"], note: "between Succoth and Zeredah"}
+      - {motif: bronze-beyond-weighing, refs: ["2Chr 4:18"]}
+      - {motif: table-of-showbread, refs: ["2Chr 4:19"]}
+      - {motif: temple-metal-inventory, refs: ["2Chr 4:11", "2Chr 4:16", "2Chr 4:19-22"]}
+    hints:
+      - "Molten sea as the cosmic waters (Apsu basins in Mesopotamian temples); 12 oxen as zodiac/months in Josephus and Philo; rabbinic debate on 30 vs pi (Mishnat ha-Middot)."
+  - id: hb-2chr-5-ark-into-temple-glory-cloud
+    tradition: judaism
+    title: The ark brought into the holy of holies; the cloud fills the house at the singing
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 5:1-14"]
+    tags:
+      - {motif: ark-of-the-covenant, refs: ["2Chr 5:2", "2Chr 5:7"]}
+      - {motif: dedication-at-feast-of-seventh-month, refs: ["2Chr 5:3"]}
+      - {motif: sacrifices-beyond-counting, refs: ["2Chr 5:6"]}
+      - {motif: two-cherubim-facing-with-spread-wings, refs: ["2Chr 5:7", "2Chr 5:8"]}
+      - {motif: carrying-poles-never-removed, refs: ["2Chr 5:9"], note: "pole-ends visible from the inner sanctuary 'to this day'"}
+      - {motif: only-the-tablets-in-the-ark, refs: ["2Chr 5:10"]}
+      - {motif: levite-singers-in-linen-east-of-altar, refs: ["2Chr 5:12"]}
+      - {motif: one-hundred-twenty-priest-trumpeters, refs: ["2Chr 5:12"]}
+      - {motif: singers-and-trumpets-as-one-voice, refs: ["2Chr 5:13"], note: "'as one, to make one sound heard'"}
+      - {motif: hodu-ki-tov-refrain, refs: ["2Chr 5:13"]}
+      - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["2Chr 5:13", "2Chr 5:14"], note: "triggered by the praise; priests cannot stand to minister"}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 5:11", "2Chr 5:12", "2Chr 5:13"], note: "musical plus inserted into 1Kgs 8:10-11"}
+    hints:
+      - "Rabbinic tradition (b. Yoma 52b) has Josiah hide the ark; 2 Macc 2:4-8 has Jeremiah hide it on Mount Nebo. The poles 'to this day' fuel legends of the ark's survival."
+  - id: hb-2chr-6-solomons-dedication-prayer
+    tradition: judaism
+    title: Solomon's blessing and dedication prayer on the bronze platform
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 6:1-42"]
+    tags:
+      - {motif: god-dwells-in-thick-darkness, refs: ["2Chr 6:1"], note: "YHWH said he would dwell in the arafel"}
+      - {motif: temple-as-exalted-dwelling-zevul, refs: ["2Chr 6:2"], note: "beit zevul (cf. Ugaritic zbl, 'prince', title of Baal)"}
+      - {motif: centralized-sanctuary-chosen-place, refs: ["2Chr 6:5", "2Chr 6:6", "2Chr 6:20"]}
+      - {motif: kneeling-on-bronze-platform, refs: ["2Chr 6:13"], note: "5x5x3-cubit kiyyor platform in the court; Solomon kneels and spreads his palms (plus vs 1Kgs 8)"}
+      - {motif: spreading-hands-in-prayer, refs: ["2Chr 6:12", "2Chr 6:13", "2Chr 6:29"]}
+      - {motif: conditional-dynastic-promise, refs: ["2Chr 6:16"], note: "'walk in my Torah' (Kings: 'before me')"}
+      - {motif: heaven-of-heavens, refs: ["2Chr 6:18"]}
+      - {motif: god-cannot-be-contained-by-temple, refs: ["2Chr 6:18"], note: "'will God indeed dwell with man on earth?'"}
+      - {motif: god-hears-from-heaven-toward-temple, refs: ["2Chr 6:20", "2Chr 6:21", "2Chr 6:30", "2Chr 6:33", "2Chr 6:39"]}
+      - {motif: oath-before-the-altar, refs: ["2Chr 6:22", "2Chr 6:23"]}
+      - {motif: rain-reward-drought-punishment, refs: ["2Chr 6:26", "2Chr 6:27"]}
+      - {motif: catalogue-of-calamities, refs: ["2Chr 6:28"], note: "famine, pestilence, blight, mildew, locust, grasshopper, siege, plague, sickness"}
+      - {motif: god-sees-the-heart, refs: ["2Chr 6:30"]}
+      - {motif: foreigners-prayer-at-temple-heard, refs: ["2Chr 6:32", "2Chr 6:33"]}
+      - {motif: prayer-in-direction-of-holy-city, refs: ["2Chr 6:34", "2Chr 6:38"], note: "pray 'by way of this city' and toward the land from captivity"}
+      - {motif: no-human-who-does-not-sin, refs: ["2Chr 6:36"]}
+      - {motif: repentance-in-exile-confession, refs: ["2Chr 6:37", "2Chr 6:38"], note: "hatanu he'evinu ve-rashanu"}
+      - {motif: arise-yhwh-to-your-resting-place, refs: ["2Chr 6:41", "2Chr 6:42"], note: "ends with Ps 132:8-10 instead of 1Kgs 8:51-53; 'remember the hasdei David'"}
+    hints:
+      - "Prayer toward Jerusalem: Dan 6:10, Tob 3:11; the Muslim first qibla toward Jerusalem and Quran 2:142-144; synagogue orientation (b. Ber. 30a cites 1Kgs 8)."
+      - "6:37 confession formula is used in the Yom Kippur vidui."
+  - id: hb-2chr-7-fire-dedication-and-divine-reply
+    tradition: judaism
+    title: Fire from heaven, the dedication feast and God's night reply
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 7:1-22"]
+    tags:
+      - {motif: heavenly-fire-consumes-offering, refs: ["2Chr 7:1", "2Chr 7:3"], note: "fire falls when Solomon finishes praying (plus vs 1Kgs 8:54)"}
+      - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["2Chr 7:1", "2Chr 7:2"]}
+      - {motif: people-prostrate-faces-to-pavement, refs: ["2Chr 7:3"]}
+      - {motif: hodu-ki-tov-refrain, refs: ["2Chr 7:3", "2Chr 7:6"]}
+      - {motif: massive-dedication-sacrifice, refs: ["2Chr 7:5"], note: "22,000 oxen and 120,000 sheep"}
+      - {motif: king-invents-musical-instruments, refs: ["2Chr 7:6"], note: "'instruments of YHWH's song which King David made'"}
+      - {motif: altar-too-small-court-consecrated, refs: ["2Chr 7:7"]}
+      - {motif: altar-dedication-hanukkah, refs: ["2Chr 7:9"], note: "seven days dedication, seven days feast, solemn assembly on the eighth"}
+      - {motif: ideal-borders-of-land, refs: ["2Chr 7:8"]}
+      - {motif: god-appears-at-night-answers-prayer, refs: ["2Chr 7:12"]}
+      - {motif: temple-house-of-sacrifice, refs: ["2Chr 7:12"]}
+      - {motif: if-my-people-humble-themselves, refs: ["2Chr 7:13", "2Chr 7:14"], note: "'if my people called by my name humble themselves, pray, seek my face and turn ... I will heal their land' (plus vs 1Kgs 9)"}
+      - {motif: gods-eyes-and-heart-there-forever, refs: ["2Chr 7:15", "2Chr 7:16"]}
+      - {motif: conditional-dynastic-promise, refs: ["2Chr 7:17", "2Chr 7:18"]}
+      - {motif: byword-and-proverb-among-nations, refs: ["2Chr 7:20", "2Chr 7:21"]}
+      - {motif: nations-ask-why-land-destroyed, refs: ["2Chr 7:21", "2Chr 7:22"]}
+    hints:
+      - "Fire from heaven on a dedication: Lev 9:24; 1Kgs 18:38; 2 Macc 1:18-36 (Nehemiah's naphtha fire) and 2:10 links Solomon's fire to the Hanukkah story."
+  - id: hb-2chr-8-solomons-building-and-ophir-fleet
+    tradition: judaism
+    title: Solomon's cities, forced labor, Pharaoh's daughter, cult order and the Ophir fleet
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 8:1-18"]
+    tags:
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 8:2", "2Chr 8:18"], note: "cities given by Huram to Solomon (1Kgs 9:11-13: Solomon gives Hiram 20 Galilean cities, 'Cabul'); 450 talents (Kings: 420)"}
+      - {motif: tadmor-in-the-wilderness, refs: ["2Chr 8:4"], note: "Tadmor (Palmyra), for 1Kgs 9:18 Tamar"}
+      - {motif: store-cities-chariot-cities, refs: ["2Chr 8:4", "2Chr 8:5", "2Chr 8:6"]}
+      - {motif: list-of-six-canaanite-nations, refs: ["2Chr 8:7"]}
+      - {motif: remnant-canaanites-as-forced-labor, refs: ["2Chr 8:7", "2Chr 8:8", "2Chr 8:9"], note: "Israelites not made slaves but warriors and officers"}
+      - {motif: pharaohs-daughter-moved-from-holy-place, refs: ["2Chr 8:11"], note: "'no wife of mine shall dwell in the house of David, for the places where the ark came are holy'"}
+      - {motif: three-pilgrimage-festivals, refs: ["2Chr 8:13"], note: "Matsot, Shavuot, Sukkot named"}
+      - {motif: david-man-of-god, refs: ["2Chr 8:14"]}
+      - {motif: red-sea-port-ezion-geber, refs: ["2Chr 8:17"]}
+      - {motif: gold-of-ophir, refs: ["2Chr 8:18"]}
+      - {motif: phoenician-sailors-for-israelite-fleet, refs: ["2Chr 8:18"]}
+  - id: hb-2chr-9-queen-of-sheba-and-solomons-glory
+    tradition: judaism
+    title: The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 9:1-31"]
+    tags:
+      - {motif: queen-of-sheba-visit, refs: ["2Chr 9:1", "2Chr 9:12"]}
+      - {motif: queen-tests-king-with-riddles, refs: ["2Chr 9:1", "2Chr 9:2"], note: "be-hidot; 'nothing was hidden from Solomon'"}
+      - {motif: caravan-of-spices-gold-gems, refs: ["2Chr 9:1", "2Chr 9:9"], note: "no spice like that the queen gave"}
+      - {motif: breathless-at-royal-splendor, refs: ["2Chr 9:4"], note: "'there was no more spirit in her'"}
+      - {motif: report-falls-short-of-reality, refs: ["2Chr 9:5", "2Chr 9:6"], note: "'not half was told me'"}
+      - {motif: foreign-ruler-blesses-israels-god, refs: ["2Chr 9:8"], note: "'to set you on HIS throne as king for YHWH your God' (Kings: 'on the throne of Israel')"}
+      - {motif: almug-wood-instruments, refs: ["2Chr 9:10", "2Chr 9:11"]}
+      - {motif: number-666-talents, refs: ["2Chr 9:13"], note: "annual gold income 666 talents"}
+      - {motif: kings-of-arabia-tribute, refs: ["2Chr 9:14"]}
+      - {motif: golden-shields-trophies, refs: ["2Chr 9:15", "2Chr 9:16"], note: "200 large and 300 small shields of beaten gold in the House of the Forest of Lebanon"}
+      - {motif: ivory-throne-six-steps-twelve-lions, refs: ["2Chr 9:17", "2Chr 9:18", "2Chr 9:19"], note: "golden footstool (kevesh) attached; 'nothing like it in any kingdom'"}
+      - {motif: silver-and-gold-common-as-stones, refs: ["2Chr 9:20", "2Chr 9:27"], note: "'silver was reckoned as nothing'"}
+      - {motif: tarshish-ships-every-three-years, refs: ["2Chr 9:21"], note: "gold, silver, ivory, apes and tukkiyim (peacocks?)"}
+      - {motif: king-wiser-and-richer-than-all-kings, refs: ["2Chr 9:22", "2Chr 9:23"]}
+      - {motif: all-kings-seek-the-wise-king, refs: ["2Chr 9:23", "2Chr 9:24"]}
+      - {motif: borders-river-of-egypt-to-euphrates, refs: ["2Chr 9:26"]}
+      - {motif: king-not-multiply-horses-wives-gold, refs: ["2Chr 9:25", "2Chr 9:28"]}
+      - {motif: prophetic-histories-cited-as-sources, refs: ["2Chr 9:29"], note: "Nathan the prophet, the prophecy of Ahijah the Shilonite, the visions of Iddo the seer"}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 9:29", "2Chr 9:30", "2Chr 9:31"], note: "Solomon's foreign wives, apostasy and adversaries (1Kgs 11) entirely omitted"}
+      - {motif: regnal-forty-years, refs: ["2Chr 9:30"]}
+    hints:
+      - "Queen of Sheba: Quran 27:20-44 (Bilqis, the hoopoe, the glass floor); Targum Sheni to Esther and the Alphabet of Ben Sira (riddles); Ethiopian Kebra Nagast (Menelik); Matt 12:42."
+      - "Solomon's throne with lions: elaborated in Targum Sheni and Islamic qisas (mechanical lions and eagles); Byzantine Throne of Solomon at the Magnaura."
+      - "666 recurs as the number of the beast (Rev 13:18)."
+  - id: hb-2chr-10-rehoboam-and-the-schism
+    tradition: judaism
+    title: Rehoboam rejects the elders' counsel; the northern tribes secede
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 10:1-19"]
+    tags:
+      - {motif: coronation-assembly-at-shechem, refs: ["2Chr 10:1"]}
+      - {motif: rival-returns-from-exile-in-egypt, refs: ["2Chr 10:2"]}
+      - {motif: people-ask-king-to-lighten-yoke, refs: ["2Chr 10:4", "2Chr 10:9", "2Chr 10:10"]}
+      - {motif: three-days-to-decide, refs: ["2Chr 10:5", "2Chr 10:12"]}
+      - {motif: king-rejects-elders-follows-young-men, refs: ["2Chr 10:6", "2Chr 10:7", "2Chr 10:8", "2Chr 10:13"]}
+      - {motif: little-finger-thicker-than-fathers-loins, refs: ["2Chr 10:10"]}
+      - {motif: whips-and-scorpions, refs: ["2Chr 10:11", "2Chr 10:14"]}
+      - {motif: divine-turn-of-events-fulfils-prophecy, refs: ["2Chr 10:15"], note: "nesibbah from God to fulfill Ahijah's word"}
+      - {motif: what-portion-in-david-to-your-tents, refs: ["2Chr 10:16"]}
+      - {motif: taskmaster-stoned, refs: ["2Chr 10:18"], note: "Hadoram over the forced labor; king flees in his chariot"}
+      - {motif: to-this-day-etiology, refs: ["2Chr 10:19"]}
+    hints:
+      - "Rehoboam's counsel scene parallels Greek tyrant tales; Quran has no parallel but the elder/young counsellor topos appears in Ahiqar and Persian mirrors for princes."
+  - id: hb-2chr-11-rehoboam-fortresses-and-levite-exodus
+    tradition: judaism
+    title: War forbidden; Rehoboam's fortresses; priests and Levites flee the north; his harem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 11:1-23"]
+    tags:
+      - {motif: prophet-forbids-civil-war, refs: ["2Chr 11:2", "2Chr 11:3", "2Chr 11:4"], note: "Shemaiah the man of God: 'do not fight your brothers; this thing is from me'"}
+      - {motif: list-of-fortified-cities, refs: ["2Chr 11:5-10"], note: "fifteen cities from Bethlehem to Hebron (no Kings parallel)"}
+      - {motif: fortresses-stocked-with-food-oil-wine-weapons, refs: ["2Chr 11:11", "2Chr 11:12"]}
+      - {motif: levites-abandon-northern-pasturelands, refs: ["2Chr 11:13", "2Chr 11:14", "2Chr 11:16"]}
+      - {motif: sacrifice-to-goat-demons-forbidden, refs: ["2Chr 11:15"], note: "Jeroboam appoints priests 'for the high places, for the se'irim and for the calves he had made'"}
+      - {motif: golden-calf, refs: ["2Chr 11:15"]}
+      - {motif: pious-emigrants-strengthen-judah, refs: ["2Chr 11:16", "2Chr 11:17"], note: "three years 'in the way of David and Solomon'"}
+      - {motif: royal-harem-numbers, refs: ["2Chr 11:21"], note: "18 wives, 60 concubines, 28 sons, 60 daughters"}
+      - {motif: favorite-wife-son-made-heir-over-firstborn, refs: ["2Chr 11:20", "2Chr 11:21", "2Chr 11:22"], note: "Maacah daughter of Absalom; Abijah made chief among his brothers"}
+      - {motif: princes-dispersed-to-fortresses, refs: ["2Chr 11:23"], note: "sons dispersed to fortified cities and supplied with many wives"}
+  - id: hb-2chr-12-shishak-invasion
+    tradition: judaism
+    title: Rehoboam forsakes the Torah; Shishak's invasion; repentance and partial reprieve
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 12:1-16"]
+    tags:
+      - {motif: prosperity-leads-to-apostasy, refs: ["2Chr 12:1"]}
+      - {motif: egyptian-pharaoh-invades-judah, refs: ["2Chr 12:2", "2Chr 12:3", "2Chr 12:4"], note: "Shishak (Sheshonq I) with Libyans, Sukkiim and Cushites"}
+      - {motif: you-forsook-me-i-forsake-you, refs: ["2Chr 12:5"]}
+      - {motif: king-humbles-himself-and-is-spared, refs: ["2Chr 12:6", "2Chr 12:7", "2Chr 12:12"]}
+      - {motif: yhwh-is-righteous-confession, refs: ["2Chr 12:6"]}
+      - {motif: serve-god-or-serve-foreign-kings-lesson, refs: ["2Chr 12:8"], note: "'that they may know my service and the service of the kingdoms of the lands'"}
+      - {motif: temple-treasures-plundered, refs: ["2Chr 12:9"]}
+      - {motif: gold-shields-replaced-with-bronze, refs: ["2Chr 12:9", "2Chr 12:10", "2Chr 12:11"]}
+      - {motif: queen-mother-named-ammonite, refs: ["2Chr 12:13"], note: "Naamah the Ammonite"}
+      - {motif: prophetic-histories-cited-as-sources, refs: ["2Chr 12:15"], note: "words of Shemaiah the prophet and Iddo the seer 'for genealogical enrollment'"}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 12:1", "2Chr 12:2", "2Chr 12:5"], note: "invasion explicitly 'because they were unfaithful'"}
+    hints:
+      - "Sheshonq I's Karnak relief lists conquered Palestinian towns. Retribution within one's lifetime as a Chronicler principle parallels Quranic punishment-narratives (e.g. Q 7, 11)."
+  - id: hb-2chr-13-abijah-at-zemaraim
+    tradition: judaism
+    title: Abijah's sermon on Mount Zemaraim and his victory over Jeroboam
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 13:1-23"]
+    tags:
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 13:2", "2Chr 13:3"], note: "Abijah (Kings: Abijam, who 'walked in all his father's sins') becomes a pious preacher; mother 'Micaiah daughter of Uriel of Gibeah' vs Maacah daughter of Absalom (11:20)"}
+      - {motif: outnumbered-two-to-one, refs: ["2Chr 13:3"], note: "400,000 vs 800,000"}
+      - {motif: king-preaches-from-mountain-before-battle, refs: ["2Chr 13:4", "2Chr 13:5", "2Chr 13:12"]}
+      - {motif: covenant-of-salt, refs: ["2Chr 13:5"], note: "kingship to David and his sons forever by a covenant of salt"}
+      - {motif: sons-of-belial, refs: ["2Chr 13:7"]}
+      - {motif: golden-calf, refs: ["2Chr 13:8"]}
+      - {motif: priesthood-purchased-with-bull-and-seven-rams, refs: ["2Chr 13:9"], note: "'whoever comes to fill his hand with a bull and seven rams becomes a priest of no-gods'"}
+      - {motif: legitimate-cult-listed-as-proof, refs: ["2Chr 13:10", "2Chr 13:11"], note: "morning-evening burnt offerings, incense, showbread, golden lampstand"}
+      - {motif: do-not-fight-against-god, refs: ["2Chr 13:12"]}
+      - {motif: silver-trumpets, refs: ["2Chr 13:12", "2Chr 13:14"]}
+      - {motif: battle-on-two-fronts-mutual-aid, refs: ["2Chr 13:13", "2Chr 13:14"], note: "ambush behind and battle in front"}
+      - {motif: battle-shout-god-strikes-enemy, refs: ["2Chr 13:15"], note: "at the shout of Judah God smote Jeroboam"}
+      - {motif: reliance-on-yhwh-gives-victory, refs: ["2Chr 13:18"]}
+      - {motif: enemy-king-struck-by-god-dies, refs: ["2Chr 13:20"]}
+      - {motif: royal-harem-numbers, refs: ["2Chr 13:21"], note: "14 wives, 22 sons, 16 daughters"}
+      - {motif: midrash-of-iddo, refs: ["2Chr 13:22"], note: "first biblical use of 'midrash' as a written source"}
+      - {motif: land-had-rest-from-war, refs: ["2Chr 13:23"], note: "ten years"}
+  - id: hb-2chr-14-asa-reform-and-zerah
+    tradition: judaism
+    title: Asa's reform and his victory over Zerah the Cushite's million
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 14:1-14"]
+    tags:
+      - {motif: destroy-pagan-altars-pillars-asherim, refs: ["2Chr 14:2", "2Chr 14:4"]}
+      - {motif: hammanim-incense-stands, refs: ["2Chr 14:4"], note: "hammanim removed from all the cities (incense altars or 'sun pillars')"}
+      - {motif: land-had-rest-from-war, refs: ["2Chr 14:4", "2Chr 14:5", "2Chr 14:6"]}
+      - {motif: seeking-god-brings-prosperity, refs: ["2Chr 14:3", "2Chr 14:6"], note: "darash YHWH, key Chronicler verb"}
+      - {motif: cushite-army-of-a-million, refs: ["2Chr 14:8"], note: "Zerah the Cushite with 1,000,000 men and 300 chariots at Mareshah"}
+      - {motif: god-saves-by-many-or-few, refs: ["2Chr 14:10"], note: "'there is none beside you to help between the mighty and the powerless ... let not man prevail against you'"}
+      - {motif: reliance-on-yhwh-gives-victory, refs: ["2Chr 14:10"]}
+      - {motif: terror-of-god-on-cities, refs: ["2Chr 14:13"], note: "pahad YHWH on the cities around Gerar"}
+      - {motif: herders-tents-and-camels-plundered, refs: ["2Chr 14:14"]}
+  - id: hb-2chr-15-azariah-oracle-and-covenant
+    tradition: judaism
+    title: Azariah son of Oded's oracle; Asa's covenant oath and the deposing of Maacah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 15:1-19"]
+    tags:
+      - {motif: spirit-of-god-comes-on-prophet, refs: ["2Chr 15:1"]}
+      - {motif: seek-him-and-he-will-be-found, refs: ["2Chr 15:2", "2Chr 15:4", "2Chr 15:15"]}
+      - {motif: era-without-true-god-priest-or-torah, refs: ["2Chr 15:3"], note: "'many days Israel was without the true God, without a teaching priest, without Torah'"}
+      - {motif: age-of-anarchy-nations-crush-each-other, refs: ["2Chr 15:5", "2Chr 15:6"], note: "no peace for those going out or coming in; nation crushed by nation, city by city"}
+      - {motif: there-is-reward-for-your-work, refs: ["2Chr 15:7"]}
+      - {motif: northern-defectors-join-judah, refs: ["2Chr 15:9"], note: "from Ephraim, Manasseh and Simeon"}
+      - {motif: covenant-renewal-ceremony, refs: ["2Chr 15:10", "2Chr 15:12", "2Chr 15:14", "2Chr 15:15"], note: "third month (Shavuot season), 15th year; oath with shout, trumpets and shofars"}
+      - {motif: death-for-not-seeking-yhwh, refs: ["2Chr 15:13"], note: "small or great, man or woman"}
+      - {motif: queen-mother-deposed-for-idol, refs: ["2Chr 15:16"], note: "Maacah removed as gevirah for her mifletset ('horror') for Asherah, burned at the Kidron"}
+      - {motif: high-places-not-removed, refs: ["2Chr 15:17"]}
+      - {motif: spoils-dedicated-to-god, refs: ["2Chr 15:11", "2Chr 15:18"]}
+    hints:
+      - "The covenant oath in the third month was read by Jubilees and Qumran (1QS) as a Shavuot covenant-renewal festival."
+  - id: hb-2chr-16-asa-relies-on-aram
+    tradition: judaism
+    title: Asa bribes Ben-hadad, imprisons Hanani the seer, seeks physicians and is buried with spices
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 16:1-14"]
+    tags:
+      - {motif: blockade-fortress-ramah, refs: ["2Chr 16:1", "2Chr 16:5", "2Chr 16:6"]}
+      - {motif: temple-treasure-used-to-buy-alliance, refs: ["2Chr 16:2", "2Chr 16:3", "2Chr 16:4"]}
+      - {motif: seer-rebukes-reliance-on-foreign-king, refs: ["2Chr 16:7", "2Chr 16:8"]}
+      - {motif: eyes-of-yhwh-roam-the-earth, refs: ["2Chr 16:9"], note: "'the eyes of YHWH run to and fro through all the earth'"}
+      - {motif: prophet-imprisoned-in-stocks, refs: ["2Chr 16:10"], note: "beit ha-mahpekhet"}
+      - {motif: cited-royal-annals, refs: ["2Chr 16:11"], note: "Book of the Kings of Judah and Israel"}
+      - {motif: diseased-feet-of-king, refs: ["2Chr 16:12"]}
+      - {motif: seeking-physicians-not-god, refs: ["2Chr 16:12"], note: "'even in his disease he sought not YHWH but the rophe'im' (also 'shades/healing gods')"}
+      - {motif: royal-burial-with-spices-and-great-fire, refs: ["2Chr 16:14"], note: "bier filled with spices; 'they burned for him a very great burning'"}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 16:9", "2Chr 16:12"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 16:1", "2Chr 16:7", "2Chr 16:12"], note: "dated to Asa's 36th year (conflicting with Baasha's chronology); Hanani episode and the physicians not in 1Kgs 15"}
+    hints:
+      - "Zech 4:10 'the eyes of YHWH which range through all the earth'; cf. the Persian 'eyes and ears of the king' and Mesopotamian Shamash who sees all. Rabbinic sources debate the legitimacy of physicians (b. Ber. 60a; Sir 38)."
+  - id: hb-2chr-17-jehoshaphat-teaching-mission
+    tradition: judaism
+    title: Jehoshaphat's piety, itinerant Torah teachers, tribute and army
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 17:1-19"]
+    tags:
+      - {motif: walked-in-ways-of-david, refs: ["2Chr 17:3"], note: "'his father David's first ways', not seeking the Baals"}
+      - {motif: destroy-pagan-altars-pillars-asherim, refs: ["2Chr 17:6"]}
+      - {motif: itinerant-torah-teachers, refs: ["2Chr 17:7", "2Chr 17:8", "2Chr 17:9"], note: "five officials, nine Levites and two priests go round the cities with the book of the Torah of YHWH"}
+      - {motif: terror-of-god-on-cities, refs: ["2Chr 17:10"], note: "on all the kingdoms around Judah"}
+      - {motif: vassals-bring-tribute-minchah, refs: ["2Chr 17:5", "2Chr 17:11"]}
+      - {motif: arabs-bring-flocks-as-tribute, refs: ["2Chr 17:11"], note: "7,700 rams and 7,700 he-goats"}
+      - {motif: fantastic-army-numbers, refs: ["2Chr 17:14-18"], note: "1,160,000 men under five commanders"}
+      - {motif: volunteer-for-yhwh, refs: ["2Chr 17:16"], note: "Amasiah son of Zichri 'who offered himself willingly to YHWH'"}
+    hints:
+      - "Jehoshaphat's Torah teachers are cited in rabbinic tradition as a model of public instruction; compare Ezra's Levites (Neh 8:7-9) and the Islamic dispatch of Qur'an teachers by Muhammad (Mu'adh to Yemen)."
+  - id: hb-2chr-18-micaiah-and-ramoth-gilead
+    tradition: judaism
+    title: Micaiah ben Imlah, the lying spirit in the divine council, and Ahab's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 18:1-34"]
+    tags:
+      - {motif: marriage-alliance-with-wicked-king, refs: ["2Chr 18:1"], note: "vayyithatten le-Ahav"}
+      - {motif: king-incited-to-war, refs: ["2Chr 18:2"], note: "vayesitehu - same verb as Satan inciting David (1Chr 21:1)"}
+      - {motif: four-hundred-court-prophets-unanimous, refs: ["2Chr 18:5", "2Chr 18:11", "2Chr 18:12"]}
+      - {motif: one-true-prophet-hated-by-king, refs: ["2Chr 18:7", "2Chr 18:17"]}
+      - {motif: kings-enthroned-at-threshing-floor-by-gate, refs: ["2Chr 18:9"]}
+      - {motif: prophet-iron-horns-sign-act, refs: ["2Chr 18:10"]}
+      - {motif: prophet-speaks-only-what-god-says, refs: ["2Chr 18:13"]}
+      - {motif: prophet-ironically-echoes-false-oracle, refs: ["2Chr 18:14", "2Chr 18:15"]}
+      - {motif: sheep-without-shepherd, refs: ["2Chr 18:16"]}
+      - {motif: divine-council-scene, refs: ["2Chr 18:18", "2Chr 18:19"], note: "YHWH on his throne with all the host of heaven at right and left"}
+      - {motif: lying-spirit-sent-by-god, refs: ["2Chr 18:20", "2Chr 18:21", "2Chr 18:22"], note: "ha-ruah volunteers to be a lying spirit in the mouth of the prophets"}
+      - {motif: prophet-struck-on-cheek, refs: ["2Chr 18:23"], note: "'which way did the spirit of YHWH pass from me to speak to you?'"}
+      - {motif: prophet-imprisoned-bread-and-water-of-affliction, refs: ["2Chr 18:25", "2Chr 18:26"]}
+      - {motif: hear-o-peoples-all-of-you, refs: ["2Chr 18:27"], note: "quotes Mic 1:2, identifying Micaiah with Micah"}
+      - {motif: king-disguises-in-battle, refs: ["2Chr 18:29"]}
+      - {motif: fight-only-the-king, refs: ["2Chr 18:30"]}
+      - {motif: god-diverts-attackers-after-cry, refs: ["2Chr 18:31"], note: "plus vs 1Kgs 22:32: 'YHWH helped him and God drew them away from him'"}
+      - {motif: random-arrow-fulfills-prophecy, refs: ["2Chr 18:33"], note: "drew the bow le-tummo, 'in his innocence', between the joints of the armor"}
+      - {motif: dies-at-sunset, refs: ["2Chr 18:34"]}
+    hints:
+      - "Lying spirit in the heavenly court: Job 1-2; 1 Enoch's watchers; the Quranic Iblis who volunteers to mislead (Q 7:16-17, 15:39); Zoroastrian druj (the Lie)."
+      - "Disguised king and the stray arrow: cf. Josiah's death (2Chr 35:22), and Greek tales of fated deaths despite disguise (Codrus)."
+  - id: hb-2chr-19-jehoshaphat-judicial-reform
+    tradition: judaism
+    title: Jehu son of Hanani's rebuke; Jehoshaphat appoints judges and a Jerusalem court
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 19:1-11"]
+    tags:
+      - {motif: seer-rebukes-alliance-with-wicked, refs: ["2Chr 19:2"], note: "'should you help the wicked and love those who hate YHWH?'"}
+      - {motif: good-things-found-mitigate-sin, refs: ["2Chr 19:3"]}
+      - {motif: king-tours-land-to-bring-people-back, refs: ["2Chr 19:4"], note: "from Beersheba to the hill country of Ephraim"}
+      - {motif: judges-in-every-gate, refs: ["2Chr 19:5"]}
+      - {motif: judges-judge-for-god-not-man, refs: ["2Chr 19:6"], note: "'you judge not for man but for YHWH, who is with you in judgment'"}
+      - {motif: god-takes-no-bribe, refs: ["2Chr 19:7"], note: "no injustice, partiality or bribe-taking with YHWH"}
+      - {motif: supreme-court-at-sanctuary, refs: ["2Chr 19:8", "2Chr 19:10"], note: "Levites, priests and heads of families in Jerusalem; 'between blood and blood, between torah and commandment'"}
+      - {motif: separation-of-sacred-and-royal-jurisdiction, refs: ["2Chr 19:11"], note: "Amariah the chief priest for matters of YHWH, Zebadiah the nagid for matters of the king"}
+      - {motif: name-meaning-enacted-jehoshaphat, refs: ["2Chr 19:5", "2Chr 19:6"], note: "Yehoshafat 'YHWH judges' institutes judges"}
+  - id: hb-2chr-20-battle-won-by-singing
+    tradition: judaism
+    title: Jehoshaphat's fast and prayer; the Levite oracle; enemies destroy one another as the choir sings
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 20:1-37"]
+    tags:
+      - {motif: eastern-coalition-invades, refs: ["2Chr 20:1", "2Chr 20:2"], note: "Moab, Ammon and Meunites at Hazazon-tamar = En-gedi"}
+      - {motif: public-fast-proclaimed-in-crisis, refs: ["2Chr 20:3", "2Chr 20:4"]}
+      - {motif: king-prays-in-temple-court, refs: ["2Chr 20:5", "2Chr 20:6", "2Chr 20:9"], note: "'before the new court'; invokes Solomon's prayer"}
+      - {motif: abraham-friend-of-god, refs: ["2Chr 20:7"], note: "zera' Avraham ohavkha, 'your friend/lover'"}
+      - {motif: kin-nations-spared-in-exodus-now-attack, refs: ["2Chr 20:10", "2Chr 20:11"]}
+      - {motif: our-eyes-are-on-you, refs: ["2Chr 20:12"], note: "'we do not know what to do, but our eyes are on you'"}
+      - {motif: whole-people-with-children-before-god, refs: ["2Chr 20:13"]}
+      - {motif: spirit-of-god-comes-on-prophet, refs: ["2Chr 20:14"], note: "on Jahaziel, a Levite of the sons of Asaph, in the assembly"}
+      - {motif: battle-is-gods-not-yours, refs: ["2Chr 20:15", "2Chr 20:17"]}
+      - {motif: stand-still-and-see-salvation, refs: ["2Chr 20:17"]}
+      - {motif: believe-and-be-established, refs: ["2Chr 20:20"], note: "ha'aminu ... ve-te'amenu (cf. Isa 7:9)"}
+      - {motif: singers-march-before-army, refs: ["2Chr 20:21"], note: "in 'holy splendor', singing 'give thanks, his hesed is forever'"}
+      - {motif: hodu-ki-tov-refrain, refs: ["2Chr 20:21"]}
+      - {motif: earthquake-panic-enemy-kill-each-other, refs: ["2Chr 20:22", "2Chr 20:23"], note: "God sets ambushers; Ammon and Moab annihilate Seir, then each other"}
+      - {motif: battlefield-of-corpses-no-survivors, refs: ["2Chr 20:24"]}
+      - {motif: three-days-gathering-spoil, refs: ["2Chr 20:25"]}
+      - {motif: place-named-for-event, refs: ["2Chr 20:26"], note: "Valley of Beracah ('blessing') 'to this day'"}
+      - {motif: victory-procession-with-music-to-temple, refs: ["2Chr 20:27", "2Chr 20:28"]}
+      - {motif: terror-of-god-on-cities, refs: ["2Chr 20:29"]}
+      - {motif: high-places-not-removed, refs: ["2Chr 20:33"]}
+      - {motif: prophetic-histories-cited-as-sources, refs: ["2Chr 20:34"], note: "words of Jehu son of Hanani, incorporated in the Book of the Kings of Israel"}
+      - {motif: ships-wrecked-for-wicked-alliance, refs: ["2Chr 20:35", "2Chr 20:36", "2Chr 20:37"], note: "Eliezer son of Dodavahu prophesies; Tarshish ships built at Ezion-geber are wrecked"}
+    hints:
+      - "Abraham as God's friend: Isa 41:8; James 2:23; Quran 4:125 (Abraham khalil Allah); the Hebron name al-Khalil."
+      - "Victory through praise rather than fighting: cf. Joshua at Jericho; Byzantine and crusader processions with relics; 1QM (War Scroll) Levites and trumpets lead the battle."
+  - id: hb-2chr-21-jehoram-and-elijahs-letter
+    tradition: judaism
+    title: Jehoram kills his brothers; Elijah's letter; death by bowel disease, unlamented
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 21:1-20"]
+    tags:
+      - {motif: princes-dispersed-to-fortresses, refs: ["2Chr 21:3"], note: "brothers given gifts and fortified cities; the kingdom to the firstborn"}
+      - {motif: new-king-massacres-his-brothers, refs: ["2Chr 21:4", "2Chr 21:13"]}
+      - {motif: wife-from-wicked-dynasty-corrupts-king, refs: ["2Chr 21:6"], note: "daughter of Ahab"}
+      - {motif: lamp-for-david-dynasty-spared, refs: ["2Chr 21:7"], note: "nir to David and his sons forever"}
+      - {motif: vassal-revolts, refs: ["2Chr 21:8", "2Chr 21:10"], note: "Edom and Libnah revolt 'because he forsook YHWH'"}
+      - {motif: letter-from-prophet, refs: ["2Chr 21:12", "2Chr 21:13", "2Chr 21:14", "2Chr 21:15"], note: "a mikhtav from Elijah, who per 2Kgs 2-3 had already ascended before Jehoram's reign"}
+      - {motif: bowels-fall-out-in-disease, refs: ["2Chr 21:15", "2Chr 21:18", "2Chr 21:19"], note: "after two years his intestines come out"}
+      - {motif: raiders-carry-off-royal-family, refs: ["2Chr 21:16", "2Chr 21:17"], note: "Philistines and Arabs near the Cushites; only the youngest Jehoahaz left"}
+      - {motif: god-stirs-up-spirit-of-enemy, refs: ["2Chr 21:16"]}
+      - {motif: no-funeral-fire-for-wicked-king, refs: ["2Chr 21:19"]}
+      - {motif: departed-unlamented, refs: ["2Chr 21:20"], note: "va-yelekh be-lo hemdah; not buried in the tombs of the kings"}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 21:10", "2Chr 21:14", "2Chr 21:18"]}
+    hints:
+      - "Death by bowel disease/worms of a wicked ruler: Antiochus IV (2 Macc 9:5-9), Herod (Josephus Ant. 17.168-9), Herod Agrippa (Acts 12:23), Judas (Acts 1:18), Arius in Christian polemic; Lactantius' De mortibus persecutorum."
+      - "Elijah's letter after his ascension was used in rabbinic tradition (Seder Olam 17) as a sign Elijah still acts after being taken up, cf. Elijah's return (Mal 3:23)."
+  - id: hb-2chr-22-ahaziah-and-athaliah
+    tradition: judaism
+    title: Ahaziah counselled by his mother, killed by Jehu; Athaliah's purge and Joash hidden
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 22:1-12"]
+    tags:
+      - {motif: defective-regnal-formula, refs: ["2Chr 22:2"], note: "Ahaziah 42 years old at accession though his father died at 40 (2Kgs 8:26: 22)"}
+      - {motif: queen-mother-as-evil-counselor, refs: ["2Chr 22:3", "2Chr 22:4"]}
+      - {motif: downfall-from-god-tevusah, refs: ["2Chr 22:7"], note: "'from God was the downfall of Ahaziah'"}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 22:9"], note: "Ahaziah caught hiding in Samaria and killed (2Kgs 9:27: shot near Ibleam, dies at Megiddo)"}
+      - {motif: buried-for-sake-of-pious-ancestor, refs: ["2Chr 22:9"], note: "'he is the son of Jehoshaphat who sought YHWH'"}
+      - {motif: queen-mother-usurps-and-kills-royal-seed, refs: ["2Chr 22:10"]}
+      - {motif: youngest-son-escapes-massacre, refs: ["2Chr 22:11"]}
+      - {motif: royal-infant-hidden-with-nurse, refs: ["2Chr 22:11", "2Chr 22:12"], note: "aunt Jehoshabeath, priest's wife, steals him from among the slain princes and hides him with his nurse in the bedchamber; six years in the temple"}
+      - {motif: child-raised-in-sanctuary, refs: ["2Chr 22:12"]}
+    hints:
+      - "The hidden royal infant raised in a temple: Moses, Cyrus (Herodotus 1.108-113), Zeus hidden from Kronos, the Mahdi/hidden imam topos; Ion raised at Delphi (Euripides)."
+  - id: hb-2chr-23-jehoiadas-coup
+    tradition: judaism
+    title: Jehoiada's coup with the Levites; Joash crowned, Athaliah killed, Baal temple destroyed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 23:1-21"]
+    tags:
+      - {motif: priest-led-coup, refs: ["2Chr 23:1", "2Chr 23:2", "2Chr 23:3"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 23:2", "2Chr 23:6", "2Chr 23:7"], note: "Levites replace the Carites and runners of 2Kgs 11; only priests and Levites may enter, 'for they are holy'"}
+      - {motif: coup-at-sabbath-shift-change, refs: ["2Chr 23:4", "2Chr 23:8"], note: "those coming on and going off duty on the Sabbath both retained"}
+      - {motif: davids-weapons-kept-in-temple, refs: ["2Chr 23:9"]}
+      - {motif: crown-and-testimony-coronation, refs: ["2Chr 23:11"], note: "ha-nezer ve-ha-edut: crown and the 'testimony' (document) placed on the boy"}
+      - {motif: long-live-the-king-acclamation, refs: ["2Chr 23:11"]}
+      - {motif: king-stands-by-his-pillar, refs: ["2Chr 23:13"]}
+      - {motif: usurper-cries-treason, refs: ["2Chr 23:13"], note: "Athaliah tears her clothes: 'qesher qesher'"}
+      - {motif: no-killing-in-temple, refs: ["2Chr 23:14", "2Chr 23:15"], note: "Athaliah taken out and killed at the Horse Gate"}
+      - {motif: covenant-renewal-ceremony, refs: ["2Chr 23:16"], note: "between Jehoiada, people and king, to be YHWH's people"}
+      - {motif: baal-temple-destroyed-priest-killed, refs: ["2Chr 23:17"], note: "Mattan priest of Baal killed before the altars"}
+      - {motif: gatekeepers-bar-the-unclean, refs: ["2Chr 23:19"]}
+      - {motif: city-quiet-after-tyrant-killed, refs: ["2Chr 23:21"]}
+  - id: hb-2chr-24-joash-and-zechariah
+    tradition: judaism
+    title: Joash repairs the temple with the collection chest; after Jehoiada's death he stones Zechariah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 24:1-27"]
+    tags:
+      - {motif: boy-king-guided-by-priest, refs: ["2Chr 24:1", "2Chr 24:2"], note: "seven years old; right 'all the days of Jehoiada'"}
+      - {motif: priest-chooses-kings-wives, refs: ["2Chr 24:3"]}
+      - {motif: temple-repair-campaign, refs: ["2Chr 24:4", "2Chr 24:5", "2Chr 24:12", "2Chr 24:13"]}
+      - {motif: levites-slow-to-act, refs: ["2Chr 24:5", "2Chr 24:6"]}
+      - {motif: tax-of-moses-for-sanctuary, refs: ["2Chr 24:6", "2Chr 24:9"], note: "mas'at Moshe for the tent of testimony (cf. Exod 30 half-shekel)"}
+      - {motif: collection-chest-at-temple-gate, refs: ["2Chr 24:8", "2Chr 24:10", "2Chr 24:11"], note: "an aron outside the gate; emptied daily by the royal scribe and the chief priest's officer"}
+      - {motif: surplus-made-into-vessels, refs: ["2Chr 24:14"]}
+      - {motif: priest-dies-at-130, refs: ["2Chr 24:15"]}
+      - {motif: priest-buried-among-kings, refs: ["2Chr 24:16"], note: "'because he had done good in Israel'"}
+      - {motif: apostasy-after-mentors-death, refs: ["2Chr 24:17", "2Chr 24:18"], note: "princes bow to the king; asherim and idols"}
+      - {motif: prophets-sent-and-ignored, refs: ["2Chr 24:19"]}
+      - {motif: spirit-of-god-comes-on-prophet, refs: ["2Chr 24:20"], note: "ruah Elohim lavshah et Zekharyah"}
+      - {motif: you-forsook-me-i-forsake-you, refs: ["2Chr 24:20"]}
+      - {motif: prophet-stoned-in-temple-court, refs: ["2Chr 24:21"], note: "by the king's command, son of his own benefactor"}
+      - {motif: ingratitude-to-benefactor, refs: ["2Chr 24:22"]}
+      - {motif: dying-martyr-calls-for-vengeance, refs: ["2Chr 24:22"], note: "'May YHWH see and require it'"}
+      - {motif: small-army-defeats-large-as-punishment, refs: ["2Chr 24:23", "2Chr 24:24"]}
+      - {motif: king-murdered-in-bed-by-servants, refs: ["2Chr 24:25", "2Chr 24:26"], note: "for the blood of the priest's sons; conspirators sons of an Ammonite and a Moabite woman"}
+      - {motif: wicked-king-not-buried-in-royal-tombs, refs: ["2Chr 24:25"]}
+      - {motif: midrash-of-iddo, refs: ["2Chr 24:27"], note: "'the midrash of the Book of the Kings'"}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 24:23", "2Chr 24:24", "2Chr 24:25"]}
+    hints:
+      - "Matt 23:35 / Luke 11:51 'from the blood of Abel to the blood of Zechariah ... between the sanctuary and the altar' (Matthew confuses him with Zechariah son of Berechiah). Rabbinic legend: Zechariah's blood seethed in the temple until Nebuzaradan slew thousands (b. Git. 57b; Lam. Rab. proem 23); Islamic tradition conflates him with Zakariyya father of Yahya, also martyred."
+  - id: hb-2chr-25-amaziah
+    tradition: judaism
+    title: Amaziah spares the assassins' sons, dismisses mercenaries, worships Edom's gods and is humbled
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 25:1-28"]
+    tags:
+      - {motif: right-but-not-wholeheartedly, refs: ["2Chr 25:2"]}
+      - {motif: king-avenges-murdered-father, refs: ["2Chr 25:3"]}
+      - {motif: individual-responsibility-no-vicarious-death, refs: ["2Chr 25:4"], note: "quoting Deut 24:16 'in the book of Moses'"}
+      - {motif: army-census-twenty-and-up, refs: ["2Chr 25:5"]}
+      - {motif: hired-mercenaries-dismissed-at-prophets-word, refs: ["2Chr 25:6", "2Chr 25:7", "2Chr 25:8", "2Chr 25:10"], note: "100,000 Ephraimites for 100 talents"}
+      - {motif: god-can-give-more-than-lost, refs: ["2Chr 25:9"]}
+      - {motif: captives-thrown-from-cliff, refs: ["2Chr 25:12"], note: "10,000 Edomites thrown from the top of the Sela and dashed to pieces"}
+      - {motif: dismissed-mercenaries-raid, refs: ["2Chr 25:13"]}
+      - {motif: victor-adopts-gods-of-defeated, refs: ["2Chr 25:14", "2Chr 25:15"], note: "'why seek gods that could not save their own people from your hand?'"}
+      - {motif: king-silences-prophet, refs: ["2Chr 25:16"], note: "'Have we made you the king's counselor? Stop, why should you be struck?'"}
+      - {motif: let-us-look-each-other-in-the-face, refs: ["2Chr 25:17", "2Chr 25:21"]}
+      - {motif: fable-thistle-and-cedar, refs: ["2Chr 25:18"], note: "thistle asks the cedar's daughter for its son; a wild beast tramples the thistle"}
+      - {motif: hardening-from-god-for-punishment, refs: ["2Chr 25:20"], note: "'it was from God, to deliver them because they sought the gods of Edom'"}
+      - {motif: city-wall-breached-400-cubits, refs: ["2Chr 25:23"]}
+      - {motif: temple-treasures-plundered, refs: ["2Chr 25:24"], note: "vessels 'with Obed-edom'; hostages (benei ha-ta'aruvot) taken"}
+      - {motif: conspiracy-flight-to-lachish, refs: ["2Chr 25:27"]}
+      - {motif: corpse-brought-home-on-horses, refs: ["2Chr 25:28"]}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 25:20", "2Chr 25:27"], note: "the conspiracy dated 'from the time he turned from YHWH'"}
+    hints:
+      - "Plant fable of thistle and cedar: Jotham's fable (Judg 9), Aesop, Mesopotamian disputation poems (Tamarisk and Palm)."
+  - id: hb-2chr-26-uzziah
+    tradition: judaism
+    title: Uzziah's prosperity, war machines and agriculture; struck with leprosy for offering incense
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 26:1-23"]
+    tags:
+      - {motif: prophet-mentor-understands-visions, refs: ["2Chr 26:5"], note: "Zechariah 'who had understanding in the visions (bir'ot) of God'"}
+      - {motif: seeking-god-brings-prosperity, refs: ["2Chr 26:5", "2Chr 26:7"]}
+      - {motif: vassals-bring-tribute-minchah, refs: ["2Chr 26:8"], note: "Ammonites; his name reached to Egypt"}
+      - {motif: towers-and-cisterns-in-wilderness, refs: ["2Chr 26:9", "2Chr 26:10"]}
+      - {motif: king-who-loved-the-soil, refs: ["2Chr 26:10"], note: "ki ohev adamah hayah; farmers and vinedressers in the hills and Carmel"}
+      - {motif: fantastic-army-numbers, refs: ["2Chr 26:12", "2Chr 26:13"], note: "2,600 chiefs, 307,500 men"}
+      - {motif: armory-equipped-by-king, refs: ["2Chr 26:14"], note: "shields, spears, helmets, coats of mail, bows, sling-stones"}
+      - {motif: ingenious-war-machines-on-towers, refs: ["2Chr 26:15"], note: "hishshevonot mahashevet hoshev to shoot arrows and great stones (catapult-like devices)"}
+      - {motif: pride-after-success-brings-fall, refs: ["2Chr 26:16"], note: "'when he was strong his heart was lifted up to destruction'"}
+      - {motif: king-usurps-priestly-incense-offering, refs: ["2Chr 26:16", "2Chr 26:17", "2Chr 26:18"], note: "80 valiant priests withstand him: 'it is not for you, Uzziah, to burn incense'"}
+      - {motif: skin-disease-as-punishment, refs: ["2Chr 26:19", "2Chr 26:20", "2Chr 26:21"], note: "tsara'at breaks out on his forehead while he rages, censer in hand, beside the incense altar"}
+      - {motif: leper-king-in-separate-house, refs: ["2Chr 26:21"], note: "beit ha-hofshit; son Jotham governs as regent"}
+      - {motif: isaiah-as-royal-historian, refs: ["2Chr 26:22"]}
+      - {motif: leper-buried-in-field-apart, refs: ["2Chr 26:23"]}
+    hints:
+      - "Josephus Ant. 9.225 adds an earthquake splitting the temple roof and a sunbeam striking Uzziah's face (cf. Amos 1:1, Zech 14:5). Incense usurpation and divine punishment parallels Korah (Num 16) and Nadab and Abihu."
+  - id: hb-2chr-27-jotham
+    tradition: judaism
+    title: Jotham's building and Ammonite tribute
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 27:1-9"]
+    tags:
+      - {motif: son-avoids-fathers-sin, refs: ["2Chr 27:2"], note: "'only he did not enter the temple of YHWH'"}
+      - {motif: walls-of-ophel-built, refs: ["2Chr 27:3"]}
+      - {motif: towers-and-cisterns-in-wilderness, refs: ["2Chr 27:4"], note: "fortresses and towers in the forests"}
+      - {motif: vassals-bring-tribute-minchah, refs: ["2Chr 27:5"], note: "Ammon: 100 talents of silver, 10,000 kors of wheat and 10,000 of barley for three years"}
+      - {motif: cited-royal-annals, refs: ["2Chr 27:7"]}
+      - {motif: duplicated-regnal-formula, refs: ["2Chr 27:1", "2Chr 27:8"]}
+  - id: hb-2chr-28-ahaz-and-the-merciful-samarians
+    tradition: judaism
+    title: Ahaz's child sacrifice and defeats; Oded and the Ephraimites release and tend the captives
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Chr 28:1-27"]
+    tags:
+      - {motif: child-sacrifice-by-fire-condemned, refs: ["2Chr 28:3"], note: "burned his sons in the Valley of Ben-Hinnom (2Kgs 16:3: 'his son ... passed through fire')"}
+      - {motif: valley-of-hinnom, refs: ["2Chr 28:3"]}
+      - {motif: high-places-green-trees, refs: ["2Chr 28:4"]}
+      - {motif: molten-images-for-baals, refs: ["2Chr 28:2"]}
+      - {motif: hundred-twenty-thousand-slain-in-one-day, refs: ["2Chr 28:6"]}
+      - {motif: kings-son-and-officials-assassinated-in-battle, refs: ["2Chr 28:7"], note: "Zichri of Ephraim kills Maaseiah the king's son, the palace chief and the king's second"}
+      - {motif: brothers-taken-captive-by-brothers, refs: ["2Chr 28:8", "2Chr 28:10"], note: "200,000 women and children of Judah taken to Samaria"}
+      - {motif: prophet-rebukes-excessive-cruelty-of-victors, refs: ["2Chr 28:9", "2Chr 28:10", "2Chr 28:11"], note: "Oded: 'a rage that reaches to heaven'; are you not guilty too?"}
+      - {motif: northern-leaders-heed-prophet, refs: ["2Chr 28:12", "2Chr 28:13", "2Chr 28:14"]}
+      - {motif: captives-clothed-fed-anointed-and-returned, refs: ["2Chr 28:15"], note: "clothed from the spoil, shod, fed, given drink, anointed, the feeble carried on donkeys to Jericho, city of palms"}
+      - {motif: appeal-to-assyria-backfires, refs: ["2Chr 28:16", "2Chr 28:20", "2Chr 28:21"], note: "Tiglath-pilneser 'distressed him and did not strengthen him'"}
+      - {motif: neighbors-raid-weakened-judah, refs: ["2Chr 28:17", "2Chr 28:18"], note: "Edomites and Philistines take Shephelah towns 'and their daughters'"}
+      - {motif: ahaz-called-king-of-israel, refs: ["2Chr 28:19"]}
+      - {motif: worships-gods-of-victorious-enemy, refs: ["2Chr 28:23"], note: "sacrifices to the gods of Damascus 'who struck him', reasoning they help the kings of Aram"}
+      - {motif: temple-doors-shut-vessels-cut-up, refs: ["2Chr 28:24"]}
+      - {motif: altars-in-every-corner-of-city, refs: ["2Chr 28:24", "2Chr 28:25"]}
+      - {motif: wicked-king-not-buried-in-royal-tombs, refs: ["2Chr 28:27"]}
+      - {motif: chronicler-variant-of-parallel, refs: ["2Chr 28:5", "2Chr 28:20", "2Chr 28:24"], note: "Syro-Ephraimite siege of Jerusalem and Isaiah's Immanuel episode absent; Assyria harms rather than helps (2Kgs 16:9 says he took Damascus)"}
+      - {motif: immediate-retribution-theology, refs: ["2Chr 28:5", "2Chr 28:19"]}
+    hints:
+      - "28:15 is widely recognized as the model of the Good Samaritan parable (Luke 10:30-35): Samarians clothe, anoint, feed and set the wounded on donkeys and bring them to Jericho."
