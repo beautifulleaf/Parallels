@@ -1,0 +1,1040 @@
+new_motifs:
+  queen-mother-massacres-royal-seed: {label: "A queen mother seizes power by killing all the royal offspring", cluster: kingship}
+  royal-infant-hidden-in-temple: {label: "Sole surviving royal infant is stolen away with his nurse and hidden in the temple for years", cluster: kingship}
+  priest-led-coup: {label: "A priest organizes the guards to overthrow a ruler and enthrone the hidden heir", cluster: kingship}
+  davids-weapons-in-temple: {label: "King David's spears and shields kept in the temple are issued to the guards", cluster: cult}
+  crown-and-testimony-coronation: {label: "Coronation in which the king receives the crown (nezer) and the 'testimony' (edut)", cluster: kingship}
+  king-stands-by-pillar-custom: {label: "The king stands by (or on) the pillar in the temple according to custom", cluster: kingship}
+  cry-of-conspiracy: {label: "Deposed ruler tears her/his garments crying 'Conspiracy, conspiracy!' or 'Treason!'", cluster: kingship}
+  no-killing-in-sanctuary: {label: "A condemned person is taken out so as not to be killed inside the sanctuary", cluster: cult}
+  covenant-king-people-god: {label: "A covenant is made between God, the king and the people", cluster: covenant}
+  baal-temple-destroyed-priest-killed: {label: "The temple of Baal is torn down and its priest slain before the altars", cluster: cult}
+  child-king: {label: "A boy becomes king at a very young age (seven, eight)", cluster: kingship}
+  high-places-not-removed: {label: "Formula: a good king, yet the high places were not removed", cluster: kingship}
+  temple-repair-fund: {label: "The king organizes the collection of silver for repairing the temple", cluster: cult}
+  collection-chest-with-hole: {label: "A chest with a hole bored in its lid set by the altar to collect donations", cluster: cult}
+  honest-workmen-no-accounting: {label: "Workmen handling sacred funds are not audited because they deal faithfully", cluster: cult}
+  temple-treasure-paid-as-tribute: {label: "King strips the temple and palace treasuries to buy off an invader", cluster: kingship}
+  king-assassinated-by-servants: {label: "A king is murdered by his own servants in a conspiracy", cluster: kingship}
+  source-citation-annals: {label: "Narrator cites a lost source: 'the book of the chronicles of the kings of Israel/Judah'", cluster: historiography}
+  sins-of-jeroboam-formula: {label: "Formula: he did not depart from the sins of Jeroboam son of Nebat who made Israel sin", cluster: kingship}
+  god-sends-a-savior: {label: "In answer to prayer God gives Israel an unnamed 'savior' (moshia)", cluster: kingship}
+  army-reduced-to-remnant: {label: "An army is reduced by the enemy to a tiny remnant ('like dust at threshing')", cluster: warfare}
+  chariot-of-israel-and-horsemen: {label: "The prophet hailed as 'My father, my father, the chariot of Israel and its horsemen'", cluster: prophecy}
+  arrow-of-victory-symbolic-act: {label: "Prophet has the king shoot an arrow out of the window as a symbolic act of victory", cluster: prophecy}
+  prophet-hands-on-kings-hands: {label: "Prophet lays his hands on the king's hands on the bow", cluster: prophecy}
+  limited-strikes-limited-victory: {label: "King strikes the ground only three times, so his victories are limited to three", cluster: prophecy}
+  dead-revived-by-prophets-bones: {label: "A corpse thrown into a prophet's grave touches his bones and comes back to life", cluster: miracles}
+  covenant-with-patriarchs-remembered: {label: "God spares Israel for the sake of his covenant with Abraham, Isaac and Jacob", cluster: covenant}
+  regicides-punished-sons-spared: {label: "New king executes his father's assassins but spares their sons, citing the law of Moses", cluster: law}
+  conquered-place-renamed: {label: "A conquered city or rock is given a new name 'to this day'", cluster: etiology}
+  plant-fable-thistle-and-cedar: {label: "Fable: the thistle asks the cedar for its daughter and is trampled by a wild beast", cluster: wisdom}
+  challenge-let-us-look-each-other-in-face: {label: "King challenges a rival king: 'Come, let us look one another in the face' (battle)", cluster: warfare}
+  hostages-taken: {label: "Conqueror carries off hostages (bene ta'aruvot) along with treasure", cluster: warfare}
+  city-wall-breached: {label: "A section of the city wall is broken down by the victor", cluster: warfare}
+  king-flees-to-lachish-killed: {label: "Fleeing king pursued to a refuge city and killed there", cluster: kingship}
+  prophet-jonah-son-of-amittai: {label: "Jonah son of Amittai of Gath-hepher appears as a prophet of national restoration", cluster: prophecy}
+  god-saves-despite-sin: {label: "God saves Israel out of pity for its affliction though the king does evil", cluster: theology}
+  king-struck-with-skin-disease: {label: "God strikes a king with skin disease; he lives in isolation while his son rules", cluster: kingship}
+  fourth-generation-dynasty-prophecy: {label: "Prophecy that a dynasty will last to the fourth generation is fulfilled", cluster: prophecy}
+  short-reign-one-month: {label: "A usurper reigns only a month (or days) before being killed", cluster: kingship}
+  ripping-open-pregnant-women: {label: "Conqueror rips open the pregnant women of a city", cluster: warfare}
+  tribute-levied-per-head: {label: "Tribute to an empire raised as a fixed silver levy per wealthy man", cluster: kingship}
+  assyrian-king-named: {label: "An Assyrian king named in the narrative (Pul, Tiglath-pileser, Shalmaneser, Sennacherib, Esarhaddon)", cluster: historiography}
+  deportation-to-assyria: {label: "Conquered population deported to Assyria or another distant land", cluster: exile}
+  regicide-chain: {label: "Rapid succession of kings, each murdered by the next usurper", cluster: kingship}
+  child-passed-through-fire: {label: "King makes his son 'pass through the fire' after the abominations of the nations", cluster: cult}
+  vassal-your-servant-and-son: {label: "Vassal declares 'I am your servant and your son' to an imperial king", cluster: kingship}
+  foreign-altar-copied: {label: "King copies the design of a foreign altar and installs it in the temple", cluster: cult}
+  king-offers-sacrifice-himself: {label: "The king personally approaches the altar and offers sacrifice", cluster: cult}
+  bronze-altar-reserved-for-inquiry: {label: "The old bronze altar is reserved for the king 'to inquire' (divination)", cluster: divination}
+  temple-bronzes-dismantled: {label: "The temple's bronze stands and the sea on bronze oxen are dismantled", cluster: cult}
+  vassal-withholds-tribute-seeks-egypt: {label: "Vassal king withholds tribute and seeks help from Egypt, and is imprisoned", cluster: kingship}
+  three-year-siege: {label: "A capital city is besieged for three years before it falls", cluster: warfare}
+  exile-explained-as-punishment: {label: "Theological sermon explaining the fall and exile of a nation as punishment for idolatry", cluster: theology}
+  prophets-warned-repeatedly: {label: "God warned the people by all his prophets and seers, 'Turn from your evil ways', but they would not listen", cluster: prophecy}
+  worship-of-host-of-heaven: {label: "People bow down to all the host of heaven", cluster: cult}
+  divination-practiced: {label: "Kings or people practice divination (qesem) and augury (nihush)", cluster: divination}
+  population-exchange-resettlement: {label: "Empire settles foreign peoples in the cities of a deported population", cluster: exile}
+  lions-sent-on-settlers: {label: "God sends lions to kill settlers who do not know the 'law of the god of the land'", cluster: theology}
+  god-of-the-land-law: {label: "Each land has a god whose 'manner' (mishpat) newcomers must learn", cluster: theology}
+  priest-repatriated-to-teach-cult: {label: "A deported priest is sent back to teach the settlers how to fear the local god", cluster: cult}
+  syncretism-fear-god-serve-idols: {label: "Settlers fear YHWH yet serve their own gods (syncretism)", cluster: cult}
+  foreign-gods-catalogue: {label: "Catalogue of foreign gods brought by settler peoples (Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech)", cluster: cult}
+  children-burned-to-foreign-gods: {label: "A people burns its children in fire to its gods", cluster: cult}
+  bronze-serpent-destroyed: {label: "King smashes the bronze serpent made by Moses, called Nehushtan, because people burned incense to it", cluster: cult}
+  incomparable-king: {label: "Formula: there was none like him among all the kings before or after", cluster: kingship}
+  emissaries-dialogue-at-wall: {label: "Enemy envoy addresses the besieged at the city wall to break their morale", cluster: warfare}
+  broken-reed-egypt: {label: "Egypt likened to a broken reed staff that pierces the hand of whoever leans on it", cluster: wisdom}
+  enemy-claims-divine-mandate: {label: "Invader claims the defenders' own god sent him to destroy the land", cluster: warfare}
+  speak-aramaic-not-judean: {label: "Officials ask the envoy to speak Aramaic, not Judean, so the people on the wall will not understand", cluster: language}
+  besieged-eat-own-excrement: {label: "Threat that the besieged will eat their own dung and drink their urine", cluster: warfare}
+  vine-and-fig-tree: {label: "Each man under his own vine and fig tree, drinking from his own cistern", cluster: prosperity}
+  promise-of-better-land-in-exile: {label: "Invader promises deportees a land like their own, of grain, wine, oil and honey", cluster: exile}
+  where-are-the-gods-taunt: {label: "Taunt: Where are the gods of the conquered nations? Could they save their lands from my hand?", cluster: warfare}
+  silence-ordered-before-enemy: {label: "The people keep silent and do not answer the enemy at the king's command", cluster: warfare}
+  king-in-sackcloth-enters-temple: {label: "The king tears his clothes, puts on sackcloth and goes into the temple in crisis", cluster: cult}
+  children-at-birthstool-no-strength: {label: "Proverb of crisis: children have come to the birth-stool and there is no strength to deliver", cluster: wisdom}
+  mocking-the-living-god: {label: "The enemy is said to reproach (harref) 'the living God'", cluster: theology}
+  rumor-sends-invader-home: {label: "God puts a spirit in the invader so that he hears a rumor and returns home", cluster: warfare}
+  threatening-letter-spread-before-god: {label: "King spreads the enemy's threatening letter before God in the temple", cluster: cult}
+  enthroned-on-cherubim: {label: "God addressed as enthroned (yoshev) on the cherubim", cluster: theology}
+  idols-burned-are-no-gods: {label: "Conquered nations' gods were burned because they were no gods, only wood and stone made by hands", cluster: theology}
+  virgin-daughter-zion-mocks: {label: "The 'virgin daughter of Zion' laughs at and wags her head after the enemy", cluster: poetry}
+  arrogant-king-boasts-cedars-of-lebanon: {label: "The arrogant king boasts of climbing the heights of Lebanon and cutting its cedars, drying up rivers with his feet", cluster: poetry}
+  god-planned-it-long-ago: {label: "God says the conqueror's victories were planned by him long ago; the conqueror is only his instrument", cluster: theology}
+  hook-in-nose-bridle-in-lips: {label: "God will put his hook in the enemy king's nose and his bit in his lips and lead him back", cluster: poetry}
+  three-year-sign-aftergrowth: {label: "Sign: this year eat aftergrowth, next year what springs of itself, the third year sow and reap", cluster: prophecy}
+  remnant-takes-root-downward: {label: "The escaped remnant shall again take root downward and bear fruit upward; a remnant goes out from Zion", cluster: prophecy}
+  city-defended-for-davids-sake: {label: "God defends the city for his own sake and for the sake of David his servant", cluster: theology}
+  angel-slays-army-overnight: {label: "The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses", cluster: warfare}
+  king-killed-by-sons-in-temple: {label: "Enemy king is murdered by his own sons while worshipping in his god's temple", cluster: kingship}
+  murderers-flee-to-ararat: {label: "Royal parricides flee to the land of Ararat", cluster: geography}
+  king-told-to-set-house-in-order: {label: "Prophet tells the sick king 'Set your house in order, for you shall die'", cluster: prophecy}
+  prayer-face-to-wall: {label: "Dying man turns his face to the wall and prays, weeping", cluster: cult}
+  life-extended-fifteen-years: {label: "In answer to prayer God adds fifteen years to the king's life", cluster: theology}
+  fig-cake-poultice-heals: {label: "A cake of figs laid on a boil heals the king", cluster: medicine}
+  shadow-goes-back-on-dial: {label: "As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz", cluster: miracles}
+  king-asks-for-harder-sign: {label: "Given a choice of signs, the king picks the harder (shadow going backward)", cluster: prophecy}
+  babylonian-embassy-shown-treasures: {label: "The king proudly shows foreign envoys all his treasures, prompting a prophecy of their loss", cluster: kingship}
+  royal-sons-made-eunuchs-in-babylon: {label: "Prophecy that the king's descendants will be eunuchs in the palace of the king of Babylon", cluster: exile}
+  peace-in-my-days: {label: "King accepts doom for his descendants, glad there will be peace and truth in his own days", cluster: kingship}
+  water-tunnel-into-city: {label: "King makes a pool and conduit to bring water into the city", cluster: kingship}
+  wicked-king-catalogue-of-abominations: {label: "The worst king rebuilds the high places, sets up altars to the host of heaven in the temple and practices every forbidden rite", cluster: kingship}
+  idol-set-in-gods-house: {label: "An idol (the carved Asherah) is placed in the temple where God put his name", cluster: cult}
+  necromancy-practiced-by-king: {label: "King appoints mediums (ov) and wizards (yidde'oni) and practices soothsaying", cluster: divination}
+  measuring-line-and-plummet-of-judgment: {label: "God will stretch over Jerusalem the measuring line of Samaria and the plummet of Ahab's house", cluster: prophecy}
+  wiped-like-a-dish: {label: "God will wipe Jerusalem as one wipes a dish, wiping it and turning it upside down", cluster: prophecy}
+  innocent-blood-fills-city: {label: "King sheds so much innocent blood it fills Jerusalem from end to end", cluster: kingship}
+  royal-burial-in-garden: {label: "Kings buried in the garden of their palace (garden of Uzza)", cluster: kingship}
+  people-of-land-kill-conspirators: {label: "The 'people of the land' kill the king's assassins and enthrone his son", cluster: kingship}
+  lost-law-book-found-in-temple: {label: "A lost book of the law is found in the temple during repairs", cluster: scripture}
+  book-read-before-king: {label: "A newly found sacred book is read aloud before the king, who tears his clothes", cluster: scripture}
+  prophetess-consulted: {label: "Royal officials consult a woman prophet on behalf of the king", cluster: prophecy}
+  pious-king-spared-seeing-disaster: {label: "Because the king humbled himself, he will die in peace and not see the coming disaster", cluster: prophecy}
+  public-reading-of-covenant-book: {label: "The king reads the whole book of the covenant aloud to all the people, small and great", cluster: scripture}
+  cult-objects-burned-ashes-scattered: {label: "Idolatrous cult objects are burned and their dust carried away or thrown on graves", cluster: cult}
+  idolatrous-priests-kemarim-deposed: {label: "Idolatrous priests (kemarim) who burned incense to Baal, sun, moon, constellations are put down", cluster: cult}
+  zodiac-mazzalot: {label: "Worship of the constellations or zodiac signs (mazzalot)", cluster: cosmology}
+  women-weave-for-asherah: {label: "Women weave 'houses' (garments, hangings) for Asherah in the temple precinct", cluster: cult}
+  rural-priests-barred-from-altar: {label: "Priests of the high places may not serve at the altar but eat unleavened bread among their brothers", cluster: cult}
+  tophet-defiled: {label: "The Tophet in the valley of Ben-hinnom is defiled so no one may burn children to Molech", cluster: cult}
+  horses-and-chariots-of-sun: {label: "Horses dedicated to the sun at the temple entrance and chariots of the sun burned", cluster: cult}
+  rooftop-altars: {label: "Altars on the roof (the upper chamber of Ahaz) for astral worship", cluster: cult}
+  mount-of-destruction: {label: "The high places Solomon built on the 'mount of destruction' (Mount of Olives) for Ashtoreth, Chemosh and Milcom", cluster: cult}
+  human-bones-defile-shrine: {label: "Human bones are burned on or strewn over a shrine to defile it", cluster: cult}
+  prophecy-fulfilled-centuries-later: {label: "An old prophecy (naming the future king) is fulfilled generations later", cluster: prophecy}
+  prophets-grave-left-undisturbed: {label: "The bones of a prophet are left undisturbed when other graves are desecrated", cluster: prophecy}
+  priests-slaughtered-on-own-altars: {label: "Priests of the high places are slaughtered on their own altars", cluster: cult}
+  unprecedented-passover: {label: "A Passover such as had not been kept since the days of the judges", cluster: cult}
+  teraphim-and-mediums-purged: {label: "King purges mediums, wizards, teraphim and idols", cluster: divination}
+  gods-anger-not-turned-despite-reform: {label: "Despite the righteous king's reform, God does not turn from his anger over a predecessor's sins", cluster: theology}
+  pious-king-killed-in-battle-by-pharaoh: {label: "The righteous king is killed at Megiddo by Pharaoh Necho", cluster: kingship}
+  king-deposed-and-renamed-by-overlord: {label: "Foreign overlord deposes a king and renames his replacement", cluster: kingship}
+  babylonian-king-named: {label: "A Babylonian king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach)", cluster: historiography}
+  raiding-bands-sent-by-god: {label: "God sends bands of raiders from surrounding nations against his people", cluster: warfare}
+  guilt-of-predecessor-not-forgiven: {label: "A later disaster is attributed to the unforgiven sins and innocent blood of an earlier king", cluster: theology}
+  king-surrenders-with-mother: {label: "King goes out to surrender to the besieger with his mother, servants and officials", cluster: kingship}
+  temple-vessels-taken-to-babylon: {label: "The temple treasures and gold vessels of Solomon are carried off to Babylon", cluster: exile}
+  craftsmen-and-smiths-deported: {label: "Conqueror deports the craftsmen and smiths, leaving only the poorest of the land", cluster: exile}
+  poorest-left-as-vinedressers: {label: "Only the poorest of the land are left behind as vinedressers and farmers", cluster: exile}
+  siege-dated-tenth-month-tenth-day: {label: "Siege of Jerusalem begun on the tenth day of the tenth month (later a fast day)", cluster: calendar}
+  famine-in-besieged-city: {label: "Famine becomes severe in the besieged city; there is no bread", cluster: warfare}
+  king-flees-through-breach-by-night: {label: "Besieged king flees by night through a gate between the walls and is overtaken", cluster: kingship}
+  sons-slain-before-fathers-eyes-then-blinded: {label: "The captive king's sons are slaughtered before his eyes, then his eyes are put out", cluster: warfare}
+  temple-burned-by-chief-executioner: {label: "The temple, palace and great houses are burned by the conqueror's chief of guards (rav tabbahim)", cluster: exile}
+  temple-pillars-broken-bronze-carried-off: {label: "The bronze pillars, stands and sea are broken up and their bronze carried away", cluster: exile}
+  pillars-capital-pomegranates: {label: "Temple pillars eighteen cubits high with bronze capitals, network and pomegranates", cluster: cult}
+  leading-priests-executed-at-riblah: {label: "The chief priest, second priest and officials are executed by the conqueror at Riblah", cluster: exile}
+  puppet-governor-assassinated: {label: "A governor appointed by the conqueror is assassinated by a member of the royal seed", cluster: kingship}
+  remnant-flees-to-egypt: {label: "The remnant flees to Egypt for fear of the conquerors (reverse exodus)", cluster: exile}
+  exiled-king-lifted-from-prison: {label: "Exiled king's head is 'lifted up' from prison; he changes his prison garments and eats at the conqueror's table", cluster: exile}
+  seat-above-other-kings: {label: "The released captive king is given a throne above the other kings in Babylon", cluster: exile}
+  bare-name-list-genealogy: {label: "Genealogy given as a bare list of names with no verbs (Adam, Seth, Enosh...)", cluster: genealogy}
+  universal-genealogy-from-adam: {label: "History of the chosen people begins with a genealogy from the first man", cluster: genealogy}
+  ten-generations-noah-to-abraham: {label: "Ten generations from the flood hero (or Shem) to Abraham", cluster: genealogy}
+  name-change-abram-abraham: {label: "Abram is Abraham: the patriarch's change of name noted", cluster: patriarchs}
+  sons-of-keturah: {label: "Abraham's sons by the concubine Keturah (Midian, Sheba, Dedan...)", cluster: genealogy}
+  sin-noted-in-genealogy: {label: "A genealogy pauses to note an ancestor's sin or death at God's hand", cluster: genealogy}
+  achar-troubler-of-israel: {label: "Achan is called Achar, 'troubler of Israel', in a wordplay on his sin with the ban", cluster: naming}
+  incest-ancestry-noted: {label: "A genealogy notes descent through a daughter-in-law union (Tamar and Judah)", cluster: genealogy}
+  wise-men-zerah-ethan-heman: {label: "Famous sages Ethan, Heman, Calcol and Darda listed as sons of Zerah of Judah", cluster: wisdom}
+  david-seventh-son: {label: "David is listed as the seventh son of Jesse", cluster: kingship}
+  sisters-of-david-mothers-of-generals: {label: "David's sisters Zeruiah and Abigail are mothers of his generals", cluster: genealogy}
+  ishmaelite-father-in-genealogy: {label: "A genealogy notes a foreign (Ishmaelite) father", cluster: genealogy}
+  old-man-marries-sixty: {label: "Patriarch marries at sixty and fathers a son", cluster: genealogy}
+  posthumous-son: {label: "A son is born to the wife after the father's death", cluster: genealogy}
+  daughter-married-to-egyptian-slave: {label: "Man with only daughters marries one to his Egyptian slave to continue his line", cluster: genealogy}
+  died-without-sons-noted: {label: "Genealogy notes an ancestor 'died without sons'", cluster: genealogy}
+  father-of-town: {label: "Founder figure called 'father' of a town (father of Bethlehem, Tekoa, Kiriath-jearim)", cluster: genealogy}
+  guilds-of-scribes: {label: "Clans of scribes dwelling at Jabez, linked to the Kenites of the house of Rechab", cluster: genealogy}
+  craftsman-genealogy-bezalel: {label: "The genealogy of the sanctuary craftsman Bezalel is traced", cluster: genealogy}
+  sons-of-king-by-mothers-list: {label: "List of the king's sons with each son's mother named", cluster: kingship}
+  princess-in-royal-list: {label: "A king's daughter (Tamar) is named at the end of the list of his sons", cluster: genealogy}
+  davidic-line-beyond-exile: {label: "The royal Davidic line is traced through the exile to post-exilic descendants (Zerubbabel and after)", cluster: kingship}
+  name-variant-in-parallel-lists: {label: "The same person bears different names in parallel sources (Daniel/Chileab, Bath-shua/Bathsheba, Shallum/Jehoahaz)", cluster: genealogy}
+  jabez-pain-name-prayer: {label: "Man named for his mother's pain (otsev) prays to be blessed, have his border enlarged and be kept from pain, and God grants it", cluster: naming}
+  pharaohs-daughter-marries-israelite: {label: "A daughter of Pharaoh (Bithiah) marries an Israelite", cluster: genealogy}
+  valley-of-craftsmen-etiology: {label: "A place called 'Valley of Craftsmen' because its founders were craftsmen", cluster: etiology}
+  hereditary-craft-guilds: {label: "Clans as hereditary guilds (linen-workers, potters) who dwelt with the king in his work", cluster: genealogy}
+  ancient-records-gloss: {label: "Gloss: 'and the records/words are ancient'", cluster: historiography}
+  tribe-did-not-multiply: {label: "A tribe did not multiply like Judah; its families stayed few", cluster: genealogy}
+  tribal-migration-for-pasture: {label: "Clan leaders migrate seeking fat pasture for their flocks and dispossess the peaceful earlier inhabitants", cluster: geography}
+  remnant-of-amalek-destroyed: {label: "The last surviving remnant of Amalek is destroyed", cluster: warfare}
+  birthright-transferred-to-joseph: {label: "Reuben's birthright passes to Joseph while leadership (nagid) goes to Judah", cluster: genealogy}
+  name-gog-in-genealogy: {label: "A person named Gog appears in an Israelite genealogy", cluster: genealogy}
+  genealogical-registration-dated: {label: "Genealogies registered (hityahes) at a dated time, in the days of named kings", cluster: historiography}
+  war-with-hagrites: {label: "Transjordanian tribes war against the Hagrites (Arabian descendants of Hagar: Jetur, Naphish, Nodab)", cluster: warfare}
+  cried-to-god-in-battle-answered: {label: "Warriors cry out to God in battle and he answers because they trusted him", cluster: warfare}
+  war-was-of-god: {label: "Many fell 'because the war was from God'", cluster: warfare}
+  enormous-spoil-of-livestock: {label: "Huge spoil of camels, sheep, donkeys and captives listed in round numbers", cluster: warfare}
+  god-stirs-spirit-of-foreign-king: {label: "God stirs up the spirit of a foreign king to carry out his purpose", cluster: theology}
+  high-priestly-succession-list: {label: "Genealogy of high priests from Aaron through Zadok to the exile", cluster: cult}
+  levite-singers-appointed-by-david: {label: "David appoints Levite singers to serve with song before the ark", cluster: cult}
+  samuel-made-levite: {label: "The prophet Samuel is placed in a Levite (Kohathite) genealogy", cluster: genealogy}
+  three-choirs-heman-asaph-ethan: {label: "Three chief singers Heman (center), Asaph (right) and Ethan (left) with their Levite lineages", cluster: cult}
+  priests-atone-for-israel: {label: "Aaron's sons alone burn incense and make atonement for Israel", cluster: cult}
+  military-census-by-clan: {label: "Clan genealogies double as a military muster with counts of mighty men of valor", cluster: genealogy}
+  many-wives-many-warriors: {label: "A clan's warriors were numerous 'because they had many wives and sons'", cluster: genealogy}
+  aramean-concubine-ancestress: {label: "A tribe descends partly through an Aramean concubine", cluster: genealogy}
+  daughters-only-heir-noted: {label: "Genealogy notes that a man (Zelophehad) had only daughters", cluster: genealogy}
+  woman-titled-the-queen: {label: "An ancestress is called Hammolecheth, 'the one who reigns' (the queen)", cluster: genealogy}
+  patriarchs-sons-killed-raiding-cattle: {label: "A patriarch's sons are killed by natives of Gath while trying to take their cattle", cluster: patriarchs}
+  patriarch-mourns-brothers-comfort: {label: "The patriarch mourns many days and his brothers come to comfort him", cluster: patriarchs}
+  child-named-for-misfortune: {label: "A son born after a family tragedy is named for the evil that befell the house (Beriah, 'in evil')", cluster: naming}
+  woman-founds-cities: {label: "A woman (Sheerah) builds towns (Lower and Upper Beth-horon, Uzzen-sheerah)", cluster: genealogy}
+  genealogy-of-joshua: {label: "Joshua son of Nun given a ten-generation genealogy from Ephraim", cluster: genealogy}
+  wives-sent-away: {label: "Man sends away his wives (divorces them) and fathers sons by another wife in Moab", cluster: marriage}
+  baal-names-uncensored: {label: "Royal names with the element Baal preserved (Eshbaal, Merib-baal), elsewhere changed to -bosheth 'shame'", cluster: naming}
+  saulide-line-continued: {label: "Saul's line is traced through Jonathan for many generations after his death", cluster: kingship}
+  archer-warriors-many-sons: {label: "Benjamite warriors who were archers with 150 sons and grandsons", cluster: genealogy}
+  tribe-missing-from-genealogy: {label: "A tribe (Dan, Zebulun) is missing or barely present in the tribal genealogies", cluster: genealogy}
+  exile-for-unfaithfulness-maal: {label: "Judah was exiled to Babylon 'for their unfaithfulness' (ma'al)", cluster: exile}
+  returnees-list: {label: "List of those who resettled Jerusalem after the exile by tribe and family", cluster: exile}
+  nethinim-temple-servants: {label: "The netinim ('given ones'), temple servants of foreign origin, listed with priests and Levites", cluster: cult}
+  temple-gatekeepers-four-directions: {label: "Levite gatekeepers guard the temple on all four sides (east, west, north, south) in weekly shifts", cluster: cult}
+  gatekeepers-instituted-by-david-and-samuel: {label: "The gatekeeper offices were founded by David and Samuel the seer", cluster: cult}
+  keepers-of-the-key: {label: "Levites lodge around the temple and are in charge of the key to open it each morning", cluster: cult}
+  vessels-counted-in-and-out: {label: "Sacred vessels are counted when brought in and taken out", cluster: cult}
+  priests-mix-spices: {label: "Only priests compound the ointment of spices", cluster: cult}
+  singers-on-duty-day-and-night: {label: "The singers are exempt from other duties because they are at work day and night", cluster: cult}
+  king-suicide-by-own-sword: {label: "Wounded king falls on his own sword when his armor-bearer refuses to kill him, lest the uncircumcised abuse him", cluster: kingship}
+  armor-bearer-follows-in-death: {label: "The armor-bearer falls on his sword and dies with his master", cluster: kingship}
+  whole-house-dies-together: {label: "The king, his three sons and his whole house die together on one day", cluster: kingship}
+  enemy-head-displayed-in-temple: {label: "The slain king's head (skull) is fastened in the temple of the enemy god and his armor dedicated there", cluster: warfare}
+  news-proclaimed-to-idols: {label: "Victors send messengers to announce the good news to their idols and people", cluster: warfare}
+  bodies-rescued-buried-under-tree: {label: "Loyal men retrieve the dead king's body and bury the bones under a tree, fasting seven days", cluster: kingship}
+  death-for-consulting-medium: {label: "The king died for his unfaithfulness and for consulting a ghost-medium (ov) instead of God", cluster: divination}
+  kingship-transferred-by-god: {label: "God himself turns the kingdom over to the new dynasty", cluster: kingship}
+  we-are-your-bone-and-flesh: {label: "The tribes acclaim the new king: 'We are your bone and your flesh'", cluster: kingship}
+  king-as-shepherd-of-people: {label: "God tells the chosen king 'You shall shepherd my people'", cluster: kingship}
+  king-anointed-by-elders-covenant: {label: "The elders make a covenant with the king and anoint him", cluster: kingship}
+  capture-of-jebus-zion: {label: "David captures the Jebusite stronghold of Zion, which becomes the City of David", cluster: kingship}
+  first-to-strike-becomes-chief: {label: "Whoever strikes the enemy first will be made chief; Joab goes up first", cluster: warfare}
+  roster-of-mighty-men: {label: "Roster of the king's champions (the Three and the Thirty) with their feats", cluster: heroes}
+  champion-kills-three-hundred-with-spear: {label: "A champion wields his spear against three hundred slain at one time", cluster: heroes}
+  stand-in-barley-field: {label: "Heroes hold a barley field alone when the people flee and win a great victory", cluster: heroes}
+  water-from-bethlehem-well-poured-out: {label: "Heroes break through enemy lines to fetch water the king longed for; he pours it out to God as the blood of men", cluster: heroes}
+  lion-killed-in-pit-on-snowy-day: {label: "Hero goes down into a pit and kills a lion on a snowy day", cluster: heroes}
+  egyptian-giant-killed-with-own-spear: {label: "Hero armed with a staff snatches a giant Egyptian's spear and kills him with it", cluster: heroes}
+  foreign-warriors-in-kings-guard: {label: "Foreigners (Uriah the Hittite, Zelek the Ammonite, Ithmah the Moabite) among the king's mighty men", cluster: kingship}
+  ambidextrous-archers-slingers: {label: "Warriors who can sling stones and shoot arrows with right and left hand", cluster: warfare}
+  warriors-faces-of-lions-swift-as-gazelles: {label: "Warriors with faces like lions and swift as gazelles on the mountains", cluster: heroes}
+  river-crossed-in-flood: {label: "Warriors cross the Jordan in the first month when it overflows all its banks", cluster: warfare}
+  spirit-clothes-a-man: {label: "The spirit 'clothes itself' with a man, who then speaks inspired words", cluster: prophecy}
+  peace-peace-to-you: {label: "Inspired greeting 'Peace, peace to you and peace to your helpers, for your God helps you'", cluster: prophecy}
+  camp-like-camp-of-god: {label: "A great army 'like the camp of God'", cluster: warfare}
+  tribal-muster-for-coronation: {label: "Each tribe sends a numbered contingent to make the new king", cluster: kingship}
+  men-who-understand-the-times: {label: "Issacharites 'who had understanding of the times, to know what Israel ought to do'", cluster: wisdom}
+  single-hearted-loyalty: {label: "Warriors come 'with a whole heart', 'not with a double heart', with one heart to make the king", cluster: kingship}
+  coronation-feast-three-days: {label: "Three days of eating and drinking at the coronation, with provisions brought on donkeys, camels, mules and oxen", cluster: kingship}
+  ark-brought-up-with-music: {label: "The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets", cluster: cult}
+  ark-on-new-cart: {label: "The ark is carried on a new cart drawn by oxen", cluster: cult}
+  touching-ark-death: {label: "A man who reaches out to steady the ark when the oxen stumble is struck dead", cluster: cult}
+  outburst-place-named: {label: "A place is named for God's 'breaking out' (perets) against someone (Perez-uzza, Baal-perazim)", cluster: etiology}
+  ark-blesses-host-household: {label: "The ark stays three months in a foreigner's house and God blesses his household", cluster: cult}
+  foreign-king-sends-cedar-and-craftsmen: {label: "The king of Tyre sends cedar timber and masons and carpenters to build the king's house", cluster: kingship}
+  oracle-go-up-and-i-will-give: {label: "King inquires of God whether to attack and is told 'Go up, I will give them into your hand'", cluster: divination}
+  breakthrough-like-bursting-waters: {label: "God broke through the enemy 'like a bursting of waters'", cluster: warfare}
+  captured-enemy-gods-burned: {label: "Enemies abandon their gods on the battlefield and the victor has them burned", cluster: warfare}
+  sound-of-marching-in-treetops: {label: "Signal to attack: the sound of marching in the tops of the baca (balsam) trees, as God goes out ahead", cluster: warfare}
+  fear-of-king-on-nations: {label: "God puts the fear of the king on all the nations and his name goes out through the lands", cluster: kingship}
+  only-levites-carry-ark: {label: "Only the Levites may carry the ark, on poles on their shoulders as Moses commanded", cluster: cult}
+  first-failure-due-to-improper-procedure: {label: "The earlier disaster happened because they did not seek God according to the ordinance", cluster: cult}
+  levitical-musical-guilds: {label: "Levite musicians appointed by name to cymbals, harps on alamoth and lyres on the sheminith", cluster: cult}
+  musical-technical-terms: {label: "Obscure musical directions (al alamot, al ha-sheminit, le-natseah) also found in psalm headings", cluster: cult}
+  seven-bulls-seven-rams: {label: "Seven bulls and seven rams sacrificed when God helps the Levites carry the ark", cluster: cult}
+  king-in-linen-ephod-dances: {label: "The king, wearing a linen robe and ephod, dances and leaps before the ark", cluster: kingship}
+  wife-despises-dancing-king: {label: "Michal watches from the window and despises the king dancing before the ark", cluster: kingship}
+units:
+  - id: hb-2kgs-11-athaliah-joash
+    tradition: judaism
+    title: Athaliah's usurpation and the hidden prince Joash
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 11:1-20"]
+    tags:
+      - {motif: queen-mother-massacres-royal-seed, refs: ["2Kgs 11:1"]}
+      - {motif: royal-infant-hidden-in-temple, refs: ["2Kgs 11:2", "2Kgs 11:3"], note: "aunt Jehosheba steals him with his wet nurse into the 'chamber of beds'; hidden six years"}
+      - {motif: priest-led-coup, refs: ["2Kgs 11:4", "2Kgs 11:9"], note: "in the seventh year; Carites and runners sworn in the temple"}
+      - {motif: davids-weapons-in-temple, refs: ["2Kgs 11:10"]}
+      - {motif: crown-and-testimony-coronation, refs: ["2Kgs 11:12"]}
+      - {motif: long-live-the-king-acclamation, refs: ["2Kgs 11:12"], note: "with clapping of hands"}
+      - {motif: king-stands-by-pillar-custom, refs: ["2Kgs 11:14"], note: "ka-mishpat, 'as was the custom'"}
+      - {motif: cry-of-conspiracy, refs: ["2Kgs 11:14"], note: "qesher qesher"}
+      - {motif: rend-garments-grief, refs: ["2Kgs 11:14"]}
+      - {motif: no-killing-in-sanctuary, refs: ["2Kgs 11:15", "2Kgs 11:16"], note: "killed at the horses' entrance to the palace"}
+      - {motif: covenant-king-people-god, refs: ["2Kgs 11:17"]}
+      - {motif: baal-temple-destroyed-priest-killed, refs: ["2Kgs 11:18"], note: "Mattan priest of Baal"}
+    hints:
+      - "Hidden-heir-raised-in-sanctuary pattern: compare Ion at Delphi (Euripides), Moses, and the Cyrus/Kai Khusrau hidden-child cycles; Athaliah as foreign queen is paired with Jezebel."
+  - id: hb-2kgs-12-joash-temple-repair
+    tradition: judaism
+    title: Joash repairs the temple; the collection chest; assassination
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 12:1-22"]
+    tags:
+      - {motif: child-king, refs: ["2Kgs 12:1"], note: "seven years old"}
+      - {motif: high-places-not-removed, refs: ["2Kgs 12:4"]}
+      - {motif: temple-repair-fund, refs: ["2Kgs 12:5", "2Kgs 12:6", "2Kgs 12:13"], note: "silver of persons' valuation and freewill silver"}
+      - {motif: collection-chest-with-hole, refs: ["2Kgs 12:10"], note: "ark/chest (aron) with a hole bored in its lid, right of the altar"}
+      - {motif: honest-workmen-no-accounting, refs: ["2Kgs 12:16"]}
+      - {motif: temple-treasure-paid-as-tribute, refs: ["2Kgs 12:18", "2Kgs 12:19"], note: "to Hazael after he takes Gath"}
+      - {motif: source-citation-annals, refs: ["2Kgs 12:20"]}
+      - {motif: king-assassinated-by-servants, refs: ["2Kgs 12:21", "2Kgs 12:22"], note: "at Beth-millo on the way down to Silla"}
+    hints:
+      - "The temple chest anticipates the shofar-shaped collection boxes of the Second Temple (m. Sheqalim 6) and church alms boxes."
+  - id: hb-2kgs-13-jehoahaz-elisha-death
+    tradition: judaism
+    title: Jehoahaz and Jehoash; Elisha's death and the miraculous bones
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 13:1-25"]
+    tags:
+      - {motif: sins-of-jeroboam-formula, refs: ["2Kgs 13:2", "2Kgs 13:6", "2Kgs 13:11"]}
+      - {motif: god-sends-a-savior, refs: ["2Kgs 13:4", "2Kgs 13:5"]}
+      - {motif: army-reduced-to-remnant, refs: ["2Kgs 13:7"], note: "fifty horsemen, ten chariots, ten thousand foot"}
+      - {motif: baal-and-ashtaroth-worship, refs: ["2Kgs 13:6"], note: "the Asherah remained standing in Samaria"}
+      - {motif: source-citation-annals, refs: ["2Kgs 13:8", "2Kgs 13:12"]}
+      - {motif: chariot-of-israel-and-horsemen, refs: ["2Kgs 13:14"], note: "said by the king weeping over the dying Elisha"}
+      - {motif: arrow-of-victory-symbolic-act, refs: ["2Kgs 13:15", "2Kgs 13:17"], note: "window opened eastward; 'arrow of YHWH's victory'"}
+      - {motif: prophet-hands-on-kings-hands, refs: ["2Kgs 13:16"]}
+      - {motif: limited-strikes-limited-victory, refs: ["2Kgs 13:18", "2Kgs 13:19", "2Kgs 13:25"]}
+      - {motif: dead-revived-by-prophets-bones, refs: ["2Kgs 13:20", "2Kgs 13:21"], note: "corpse hastily thrown in when Moabite raiders appear"}
+      - {motif: covenant-with-patriarchs-remembered, refs: ["2Kgs 13:23"]}
+    hints:
+      - "Elisha's bones are the classic proof-text for Christian relic cults (e.g. Cyril of Jerusalem, Catech. 18.16); compare Sirach 48:13-14."
+      - "Belomancy/arrow divination: compare Ezek 21:21 and pre-Islamic Arab azlam (Quran 5:3)."
+  - id: hb-2kgs-14-amaziah-jeroboam
+    tradition: judaism
+    title: Amaziah's war with Jehoash and the fable of the thistle; Jeroboam II
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 14:1-29"]
+    tags:
+      - {motif: high-places-not-removed, refs: ["2Kgs 14:4"]}
+      - {motif: regicides-punished-sons-spared, refs: ["2Kgs 14:5", "2Kgs 14:6"]}
+      - {motif: individual-responsibility-no-vicarious-death, refs: ["2Kgs 14:6"], note: "explicit quotation of the book of the Torah of Moses (Deut 24:16)"}
+      - {motif: conquered-place-renamed, refs: ["2Kgs 14:7"], note: "Sela renamed Joktheel"}
+      - {motif: challenge-let-us-look-each-other-in-face, refs: ["2Kgs 14:8", "2Kgs 14:11"]}
+      - {motif: plant-fable-thistle-and-cedar, refs: ["2Kgs 14:9", "2Kgs 14:10"]}
+      - {motif: fable-of-trees-choosing-king, refs: ["2Kgs 14:9"], note: "second plant fable of the Former Prophets; here the thorn presumes to marry"}
+      - {motif: city-wall-breached, refs: ["2Kgs 14:13"], note: "400 cubits from Ephraim Gate to Corner Gate"}
+      - {motif: hostages-taken, refs: ["2Kgs 14:14"]}
+      - {motif: king-flees-to-lachish-killed, refs: ["2Kgs 14:19", "2Kgs 14:20"], note: "body brought back on horses"}
+      - {motif: prophet-jonah-son-of-amittai, refs: ["2Kgs 14:25"]}
+      - {motif: god-saves-despite-sin, refs: ["2Kgs 14:26", "2Kgs 14:27"], note: "'none shut up and none left'; God had not said he would blot out Israel's name"}
+      - {motif: sins-of-jeroboam-formula, refs: ["2Kgs 14:24"]}
+      - {motif: source-citation-annals, refs: ["2Kgs 14:15", "2Kgs 14:18", "2Kgs 14:28"]}
+    hints:
+      - "The only historical anchor for the prophet of the book of Jonah (Quran's Yunus/Dhu al-Nun)."
+      - "Plant-disputation fables: compare Mesopotamian Tamarisk and Palm and Aesop's oak and reed."
+  - id: hb-2kgs-15-azariah-and-usurpers
+    tradition: judaism
+    title: Azariah the leper; the usurper kings of Israel; Tiglath-pileser
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 15:1-38"]
+    tags:
+      - {motif: high-places-not-removed, refs: ["2Kgs 15:4", "2Kgs 15:35"]}
+      - {motif: king-struck-with-skin-disease, refs: ["2Kgs 15:5"], note: "dwelt in the beit ha-hofshit ('house of freedom/separation')"}
+      - {motif: fourth-generation-dynasty-prophecy, refs: ["2Kgs 15:12"]}
+      - {motif: regicide-chain, refs: ["2Kgs 15:10", "2Kgs 15:14", "2Kgs 15:25", "2Kgs 15:30"]}
+      - {motif: king-assassinated-by-servants, refs: ["2Kgs 15:25"], note: "by his officer, with Argob and Arieh ('the lion') and fifty Gileadites"}
+      - {motif: short-reign-one-month, refs: ["2Kgs 15:13"], note: "Shallum reigns a month of days; Zechariah six months (15:8)"}
+      - {motif: ripping-open-pregnant-women, refs: ["2Kgs 15:16"]}
+      - {motif: assyrian-king-named, refs: ["2Kgs 15:19", "2Kgs 15:29"], note: "Pul and Tiglath-pileser"}
+      - {motif: tribute-levied-per-head, refs: ["2Kgs 15:19", "2Kgs 15:20"], note: "1000 talents, 50 shekels per man of wealth"}
+      - {motif: deportation-to-assyria, refs: ["2Kgs 15:29"]}
+      - {motif: sins-of-jeroboam-formula, refs: ["2Kgs 15:9", "2Kgs 15:18", "2Kgs 15:24", "2Kgs 15:28"]}
+      - {motif: source-citation-annals, refs: ["2Kgs 15:6", "2Kgs 15:11", "2Kgs 15:15", "2Kgs 15:21", "2Kgs 15:26", "2Kgs 15:31", "2Kgs 15:36"]}
+    hints:
+      - "Chronicles (2Chr 26) explains the leprosy as punishment for offering incense; Josephus adds an earthquake. Compare the Quran's general theme of kings struck down for hubris."
+  - id: hb-2kgs-16-ahaz-altar
+    tradition: judaism
+    title: Ahaz sacrifices his son, buys Assyrian help and copies the Damascus altar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 16:1-20"]
+    tags:
+      - {motif: child-passed-through-fire, refs: ["2Kgs 16:3"]}
+      - {motif: high-places-green-trees, refs: ["2Kgs 16:4"]}
+      - {motif: vassal-your-servant-and-son, refs: ["2Kgs 16:7"]}
+      - {motif: temple-treasure-paid-as-tribute, refs: ["2Kgs 16:8"], note: "called a shohad, 'bribe'"}
+      - {motif: deportation-to-assyria, refs: ["2Kgs 16:9"], note: "Damascus deported to Kir"}
+      - {motif: foreign-altar-copied, refs: ["2Kgs 16:10", "2Kgs 16:11"], note: "a 'likeness and pattern' (demut, tavnit) sent to Uriah the priest"}
+      - {motif: king-offers-sacrifice-himself, refs: ["2Kgs 16:12", "2Kgs 16:13"]}
+      - {motif: bronze-altar-reserved-for-inquiry, refs: ["2Kgs 16:14", "2Kgs 16:15"], note: "'shall be for me to inquire' (le-vaqqer)"}
+      - {motif: temple-bronzes-dismantled, refs: ["2Kgs 16:17", "2Kgs 16:18"], note: "sea set on a stone pavement; sabbath covered way removed 'because of the king of Assyria'"}
+      - {motif: source-citation-annals, refs: ["2Kgs 16:19"]}
+  - id: hb-2kgs-17-fall-of-samaria
+    tradition: judaism
+    title: Fall of Samaria and the sermon on Israel's exile
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 17:1-23"]
+    tags:
+      - {motif: assyrian-king-named, refs: ["2Kgs 17:3"], note: "Shalmaneser; So king of Egypt (17:4)"}
+      - {motif: vassal-withholds-tribute-seeks-egypt, refs: ["2Kgs 17:4"]}
+      - {motif: three-year-siege, refs: ["2Kgs 17:5"]}
+      - {motif: deportation-to-assyria, refs: ["2Kgs 17:6", "2Kgs 17:23"], note: "Halah, Habor river of Gozan, cities of the Medes"}
+      - {motif: exile-explained-as-punishment, refs: ["2Kgs 17:7", "2Kgs 17:18", "2Kgs 17:20"]}
+      - {motif: high-places-green-trees, refs: ["2Kgs 17:9", "2Kgs 17:10"], note: "'from watchtower to fortified city'"}
+      - {motif: prophets-warned-repeatedly, refs: ["2Kgs 17:13", "2Kgs 17:14"]}
+      - {motif: stiff-necked-people, refs: ["2Kgs 17:14"]}
+      - {motif: idols-called-elilim, refs: ["2Kgs 17:15"], note: "here hevel, 'they went after vanity and became vain'"}
+      - {motif: golden-calf, refs: ["2Kgs 17:16"], note: "two molten calves"}
+      - {motif: worship-of-host-of-heaven, refs: ["2Kgs 17:16"]}
+      - {motif: child-passed-through-fire, refs: ["2Kgs 17:17"]}
+      - {motif: divination-practiced, refs: ["2Kgs 17:17"]}
+      - {motif: sins-of-jeroboam-formula, refs: ["2Kgs 17:21", "2Kgs 17:22"]}
+    hints:
+      - "Origin of the 'ten lost tribes' legends (Halah, Habor, Gozan, Media), later developed in 4 Ezra 13, Eldad ha-Dani and many diaspora traditions."
+  - id: hb-2kgs-17-samaritan-settlers
+    tradition: judaism
+    title: The resettled peoples, the lions and the syncretistic cult of Samaria
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 17:24-41"]
+    tags:
+      - {motif: population-exchange-resettlement, refs: ["2Kgs 17:24"], note: "from Babylon, Cuthah, Avva, Hamath, Sepharvaim"}
+      - {motif: lions-sent-on-settlers, refs: ["2Kgs 17:25", "2Kgs 17:26"]}
+      - {motif: god-of-the-land-law, refs: ["2Kgs 17:26", "2Kgs 17:27"]}
+      - {motif: priest-repatriated-to-teach-cult, refs: ["2Kgs 17:27", "2Kgs 17:28"], note: "settles at Bethel"}
+      - {motif: foreign-gods-catalogue, refs: ["2Kgs 17:30", "2Kgs 17:31"]}
+      - {motif: children-burned-to-foreign-gods, refs: ["2Kgs 17:31"], note: "Sepharvites to Adrammelech and Anammelech"}
+      - {motif: syncretism-fear-god-serve-idols, refs: ["2Kgs 17:32", "2Kgs 17:33", "2Kgs 17:41"]}
+      - {motif: mutual-covenant-declaration, refs: ["2Kgs 17:35", "2Kgs 17:38"], note: "covenant recalled: fear no other gods"}
+    hints:
+      - "The polemical origin of 'Cutheans' (rabbinic name for Samaritans; m. Berakhot 8:8, b. Hullin 6a 'lion converts' — gerei arayot)."
+  - id: hb-2kgs-18-hezekiah-rabshakeh
+    tradition: judaism
+    title: Hezekiah's reform; Sennacherib's invasion and the Rabshakeh's speech
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 18:1-37"]
+    tags:
+      - {motif: destroy-pagan-altars-pillars-asherim, refs: ["2Kgs 18:4"]}
+      - {motif: bronze-serpent-destroyed, refs: ["2Kgs 18:4"]}
+      - {motif: bronze-serpent-on-pole, refs: ["2Kgs 18:4"], note: "the Mosaic object survived until Hezekiah"}
+      - {motif: incomparable-king, refs: ["2Kgs 18:5"]}
+      - {motif: three-year-siege, refs: ["2Kgs 18:9", "2Kgs 18:10"]}
+      - {motif: deportation-to-assyria, refs: ["2Kgs 18:11"]}
+      - {motif: assyrian-king-named, refs: ["2Kgs 18:13"], note: "Sennacherib at Lachish"}
+      - {motif: temple-treasure-paid-as-tribute, refs: ["2Kgs 18:14", "2Kgs 18:15", "2Kgs 18:16"], note: "300 talents silver, 30 gold; gold stripped from temple doors"}
+      - {motif: emissaries-dialogue-at-wall, refs: ["2Kgs 18:17", "2Kgs 18:18", "2Kgs 18:28"], note: "Tartan, Rab-saris, Rab-shakeh at the conduit of the upper pool, fuller's field"}
+      - {motif: broken-reed-egypt, refs: ["2Kgs 18:21"]}
+      - {motif: enemy-claims-divine-mandate, refs: ["2Kgs 18:25"]}
+      - {motif: speak-aramaic-not-judean, refs: ["2Kgs 18:26"]}
+      - {motif: besieged-eat-own-excrement, refs: ["2Kgs 18:27"]}
+      - {motif: vine-and-fig-tree, refs: ["2Kgs 18:31"]}
+      - {motif: promise-of-better-land-in-exile, refs: ["2Kgs 18:32"]}
+      - {motif: where-are-the-gods-taunt, refs: ["2Kgs 18:33", "2Kgs 18:34", "2Kgs 18:35"]}
+      - {motif: silence-ordered-before-enemy, refs: ["2Kgs 18:36"]}
+      - {motif: rend-garments-grief, refs: ["2Kgs 18:37"]}
+    hints:
+      - "Sennacherib's own annals (Taylor/Rassam prisms) and the Lachish reliefs: Hezekiah shut up 'like a bird in a cage'; tribute of 30 talents gold matches."
+      - "Bronze serpent: compare John 3:14 and the Mosaic serpent in later Christian iconography."
+  - id: hb-2kgs-19-deliverance-of-jerusalem
+    tradition: judaism
+    title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 19:1-37"]
+    tags:
+      - {motif: king-in-sackcloth-enters-temple, refs: ["2Kgs 19:1", "2Kgs 19:2"]}
+      - {motif: children-at-birthstool-no-strength, refs: ["2Kgs 19:3"]}
+      - {motif: mocking-the-living-god, refs: ["2Kgs 19:4", "2Kgs 19:16"]}
+      - {motif: rumor-sends-invader-home, refs: ["2Kgs 19:7", "2Kgs 19:9"], note: "Tirhakah king of Cush"}
+      - {motif: where-are-the-gods-taunt, refs: ["2Kgs 19:12", "2Kgs 19:13"], note: "Gozan, Haran, Rezeph, Eden in Telassar"}
+      - {motif: threatening-letter-spread-before-god, refs: ["2Kgs 19:14"]}
+      - {motif: enthroned-on-cherubim, refs: ["2Kgs 19:15"]}
+      - {motif: idols-burned-are-no-gods, refs: ["2Kgs 19:18"]}
+      - {motif: virgin-daughter-zion-mocks, refs: ["2Kgs 19:21"]}
+      - {motif: arrogant-king-boasts-cedars-of-lebanon, refs: ["2Kgs 19:23", "2Kgs 19:24"]}
+      - {motif: god-planned-it-long-ago, refs: ["2Kgs 19:25", "2Kgs 19:26"]}
+      - {motif: hook-in-nose-bridle-in-lips, refs: ["2Kgs 19:28"]}
+      - {motif: three-year-sign-aftergrowth, refs: ["2Kgs 19:29"]}
+      - {motif: remnant-takes-root-downward, refs: ["2Kgs 19:30", "2Kgs 19:31"]}
+      - {motif: city-defended-for-davids-sake, refs: ["2Kgs 19:34"]}
+      - {motif: angel-slays-army-overnight, refs: ["2Kgs 19:35"]}
+      - {motif: king-killed-by-sons-in-temple, refs: ["2Kgs 19:37"], note: "in the house of Nisroch; Adrammelech and Sharezer"}
+      - {motif: murderers-flee-to-ararat, refs: ["2Kgs 19:37"]}
+    hints:
+      - "Herodotus 2.141: Sennacherib's army before Pelusium undone overnight by mice gnawing bowstrings, after the priest-king Sethos prays. Sennacherib's murder by a son is confirmed in Babylonian chronicles."
+      - "Hook-in-nose: Assyrian reliefs (Esarhaddon's Zincirli stele) show captive kings led by nose-ropes."
+  - id: hb-2kgs-20-hezekiah-illness-babylon
+    tradition: judaism
+    title: Hezekiah's illness, the shadow on the steps and the Babylonian envoys
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 20:1-21"]
+    tags:
+      - {motif: king-told-to-set-house-in-order, refs: ["2Kgs 20:1"]}
+      - {motif: prayer-face-to-wall, refs: ["2Kgs 20:2", "2Kgs 20:3"]}
+      - {motif: life-extended-fifteen-years, refs: ["2Kgs 20:5", "2Kgs 20:6"], note: "'I have seen your tears'; healed on the third day"}
+      - {motif: city-defended-for-davids-sake, refs: ["2Kgs 20:6"]}
+      - {motif: fig-cake-poultice-heals, refs: ["2Kgs 20:7"]}
+      - {motif: shadow-goes-back-on-dial, refs: ["2Kgs 20:9", "2Kgs 20:11"], note: "the steps (ma'alot) of Ahaz"}
+      - {motif: king-asks-for-harder-sign, refs: ["2Kgs 20:10"]}
+      - {motif: sun-stands-still, refs: ["2Kgs 20:11"], note: "cosmic time-reversal sign, cf. Josh 10"}
+      - {motif: babylonian-embassy-shown-treasures, refs: ["2Kgs 20:12", "2Kgs 20:13", "2Kgs 20:15", "2Kgs 20:17"], note: "Berodach-baladan son of Baladan"}
+      - {motif: royal-sons-made-eunuchs-in-babylon, refs: ["2Kgs 20:18"]}
+      - {motif: peace-in-my-days, refs: ["2Kgs 20:19"]}
+      - {motif: water-tunnel-into-city, refs: ["2Kgs 20:20"]}
+    hints:
+      - "Siloam tunnel inscription (8th c.) documents the conduit. Rabbinic tradition (b. Berakhot 10a) on Hezekiah turning his face to the wall; Daniel 1 sees the eunuch prophecy fulfilled."
+      - "Fig poultices for boils appear in Ugaritic hippiatric texts and Greek medicine."
+  - id: hb-2kgs-21-manasseh-amon
+    tradition: judaism
+    title: Manasseh's apostasy and its doom-oracle; Amon's assassination
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 21:1-26"]
+    tags:
+      - {motif: child-king, refs: ["2Kgs 21:1"], note: "twelve years old; reigns 55 years, the longest"}
+      - {motif: wicked-king-catalogue-of-abominations, refs: ["2Kgs 21:2", "2Kgs 21:3", "2Kgs 21:11"], note: "worse than the Amorites"}
+      - {motif: worship-of-host-of-heaven, refs: ["2Kgs 21:3", "2Kgs 21:5"]}
+      - {motif: child-passed-through-fire, refs: ["2Kgs 21:6"]}
+      - {motif: necromancy-practiced-by-king, refs: ["2Kgs 21:6"]}
+      - {motif: idol-set-in-gods-house, refs: ["2Kgs 21:7"]}
+      - {motif: ears-tingle-formula, refs: ["2Kgs 21:12"]}
+      - {motif: measuring-line-and-plummet-of-judgment, refs: ["2Kgs 21:13"]}
+      - {motif: wiped-like-a-dish, refs: ["2Kgs 21:13"]}
+      - {motif: innocent-blood-fills-city, refs: ["2Kgs 21:16"], note: "'from mouth to mouth'"}
+      - {motif: royal-burial-in-garden, refs: ["2Kgs 21:18", "2Kgs 21:26"]}
+      - {motif: king-assassinated-by-servants, refs: ["2Kgs 21:23"]}
+      - {motif: people-of-land-kill-conspirators, refs: ["2Kgs 21:24"]}
+      - {motif: source-citation-annals, refs: ["2Kgs 21:17", "2Kgs 21:25"]}
+    hints:
+      - "Innocent blood: later tradition (Martyrdom/Ascension of Isaiah 5; b. Yevamot 49b) has Manasseh saw Isaiah in half inside a tree; compare Heb 11:37."
+      - "Chronicles (2Chr 33) gives Manasseh a captivity and repentance; Prayer of Manasseh."
+  - id: hb-2kgs-22-book-found-huldah
+    tradition: judaism
+    title: Josiah's temple repair, the finding of the book and Huldah's oracle
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 22:1-20"]
+    tags:
+      - {motif: child-king, refs: ["2Kgs 22:1"], note: "eight years old"}
+      - {motif: temple-repair-fund, refs: ["2Kgs 22:4", "2Kgs 22:5", "2Kgs 22:6"]}
+      - {motif: honest-workmen-no-accounting, refs: ["2Kgs 22:7"]}
+      - {motif: lost-law-book-found-in-temple, refs: ["2Kgs 22:8"]}
+      - {motif: book-read-before-king, refs: ["2Kgs 22:10", "2Kgs 22:11"]}
+      - {motif: rend-garments-grief, refs: ["2Kgs 22:11", "2Kgs 22:19"]}
+      - {motif: prophetess-consulted, refs: ["2Kgs 22:14"], note: "Huldah, wife of the keeper of the wardrobe, lives in the Mishneh (second quarter)"}
+      - {motif: pious-king-spared-seeing-disaster, refs: ["2Kgs 22:19", "2Kgs 22:20"]}
+    hints:
+      - "Found-book legitimation: compare Egyptian texts 'found' in temples (Book of the Dead ch. 64 found under Menkaure), the Numa books found in his tomb (Livy 40.29), and Buddhist terma (hidden treasure texts)."
+  - id: hb-2kgs-23-josiah-reform
+    tradition: judaism
+    title: Josiah's covenant, purge of the cults and Passover; death at Megiddo
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 23:1-30"]
+    tags:
+      - {motif: public-reading-of-covenant-book, refs: ["2Kgs 23:2"]}
+      - {motif: king-stands-by-pillar-custom, refs: ["2Kgs 23:3"]}
+      - {motif: covenant-king-people-god, refs: ["2Kgs 23:3"]}
+      - {motif: love-god-with-all-heart, refs: ["2Kgs 23:3", "2Kgs 23:25"], note: "with all heart, soul and might (me'od), echoing Deut 6:5"}
+      - {motif: cult-objects-burned-ashes-scattered, refs: ["2Kgs 23:4", "2Kgs 23:6", "2Kgs 23:12", "2Kgs 23:15"], note: "Kidron fields; dust carried to Bethel; Asherah dust thrown on commoners' graves"}
+      - {motif: idolatrous-priests-kemarim-deposed, refs: ["2Kgs 23:5"]}
+      - {motif: zodiac-mazzalot, refs: ["2Kgs 23:5"]}
+      - {motif: no-cult-prostitutes, refs: ["2Kgs 23:7"], note: "houses of the qedeshim in the temple"}
+      - {motif: women-weave-for-asherah, refs: ["2Kgs 23:7"]}
+      - {motif: rural-priests-barred-from-altar, refs: ["2Kgs 23:8", "2Kgs 23:9"], note: "from Geba to Beersheba; high place of the gates at the gate of Joshua"}
+      - {motif: tophet-defiled, refs: ["2Kgs 23:10"]}
+      - {motif: child-passed-to-molech, refs: ["2Kgs 23:10"]}
+      - {motif: horses-and-chariots-of-sun, refs: ["2Kgs 23:11"], note: "by the chamber of Nathan-melech the eunuch in the parvarim"}
+      - {motif: rooftop-altars, refs: ["2Kgs 23:12"]}
+      - {motif: mount-of-destruction, refs: ["2Kgs 23:13"]}
+      - {motif: human-bones-defile-shrine, refs: ["2Kgs 23:14", "2Kgs 23:16", "2Kgs 23:20"]}
+      - {motif: prophecy-fulfilled-centuries-later, refs: ["2Kgs 23:16", "2Kgs 23:17"], note: "fulfils the man of God's oracle of 1 Kgs 13"}
+      - {motif: prophets-grave-left-undisturbed, refs: ["2Kgs 23:17", "2Kgs 23:18"], note: "grave-marker (tziyyun); bones of the prophet from Samaria spared with him"}
+      - {motif: priests-slaughtered-on-own-altars, refs: ["2Kgs 23:20"]}
+      - {motif: unprecedented-passover, refs: ["2Kgs 23:21", "2Kgs 23:22", "2Kgs 23:23"]}
+      - {motif: teraphim-and-mediums-purged, refs: ["2Kgs 23:24"]}
+      - {motif: incomparable-king, refs: ["2Kgs 23:25"]}
+      - {motif: gods-anger-not-turned-despite-reform, refs: ["2Kgs 23:26", "2Kgs 23:27"]}
+      - {motif: pious-king-killed-in-battle-by-pharaoh, refs: ["2Kgs 23:29", "2Kgs 23:30"], note: "body brought dead in a chariot"}
+    hints:
+      - "Sun-horses and sun-chariots: compare Helios' chariot, Shamash iconography and the Vedic Surya's horses."
+      - "Josiah's death at Megiddo is a seed of 'Armageddon' (har megiddo, Rev 16:16) and of the lament tradition (2Chr 35:25; Zech 12:11)."
+  - id: hb-2kgs-23-jehoahaz-jehoiakim
+    tradition: judaism
+    title: Jehoahaz deposed by Necho; Jehoiakim installed and renamed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 23:31-37"]
+    tags:
+      - {motif: king-deposed-and-renamed-by-overlord, refs: ["2Kgs 23:33", "2Kgs 23:34"], note: "Eliakim renamed Jehoiakim; Jehoahaz imprisoned at Riblah and dies in Egypt"}
+      - {motif: tribute-levied-per-head, refs: ["2Kgs 23:33", "2Kgs 23:35"], note: "100 talents silver, 1 gold, assessed on each by his valuation"}
+  - id: hb-2kgs-24-first-deportation
+    tradition: judaism
+    title: Nebuchadnezzar's first conquest and the exile of Jehoiachin
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 24:1-20"]
+    tags:
+      - {motif: babylonian-king-named, refs: ["2Kgs 24:1"]}
+      - {motif: raiding-bands-sent-by-god, refs: ["2Kgs 24:2"], note: "Chaldeans, Arameans, Moabites, Ammonites"}
+      - {motif: guilt-of-predecessor-not-forgiven, refs: ["2Kgs 24:3", "2Kgs 24:4"]}
+      - {motif: king-surrenders-with-mother, refs: ["2Kgs 24:12"]}
+      - {motif: temple-vessels-taken-to-babylon, refs: ["2Kgs 24:13"], note: "'as YHWH had spoken'"}
+      - {motif: craftsmen-and-smiths-deported, refs: ["2Kgs 24:14", "2Kgs 24:16"], note: "10,000 exiles; 7,000 men of valor, 1,000 craftsmen and smiths"}
+      - {motif: deportation-to-assyria, refs: ["2Kgs 24:15"], note: "to Babylon: king, queen mother, wives, eunuchs, 'mighty of the land'"}
+      - {motif: king-deposed-and-renamed-by-overlord, refs: ["2Kgs 24:17"], note: "Mattaniah renamed Zedekiah"}
+      - {motif: source-citation-annals, refs: ["2Kgs 24:5"]}
+  - id: hb-2kgs-25-fall-of-jerusalem
+    tradition: judaism
+    title: The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 25:1-30"]
+    tags:
+      - {motif: siege-dated-tenth-month-tenth-day, refs: ["2Kgs 25:1"]}
+      - {motif: famine-in-besieged-city, refs: ["2Kgs 25:3"]}
+      - {motif: king-flees-through-breach-by-night, refs: ["2Kgs 25:4", "2Kgs 25:5"], note: "gate between the two walls by the king's garden; caught in the plains of Jericho"}
+      - {motif: sons-slain-before-fathers-eyes-then-blinded, refs: ["2Kgs 25:7"]}
+      - {motif: captive-blinded, refs: ["2Kgs 25:7"]}
+      - {motif: temple-burned-by-chief-executioner, refs: ["2Kgs 25:8", "2Kgs 25:9"], note: "seventh day of the fifth month (cf. the Ninth of Av)"}
+      - {motif: poorest-left-as-vinedressers, refs: ["2Kgs 25:12"]}
+      - {motif: temple-pillars-broken-bronze-carried-off, refs: ["2Kgs 25:13", "2Kgs 25:14", "2Kgs 25:15", "2Kgs 25:16"]}
+      - {motif: pillars-capital-pomegranates, refs: ["2Kgs 25:17"]}
+      - {motif: leading-priests-executed-at-riblah, refs: ["2Kgs 25:18", "2Kgs 25:19", "2Kgs 25:20", "2Kgs 25:21"], note: "Seraiah chief priest; 'five men who saw the king's face'; sixty of the people"}
+      - {motif: puppet-governor-assassinated, refs: ["2Kgs 25:22", "2Kgs 25:25"], note: "Gedaliah at Mizpah killed in the seventh month (later the Fast of Gedaliah)"}
+      - {motif: remnant-flees-to-egypt, refs: ["2Kgs 25:26"]}
+      - {motif: exiled-king-lifted-from-prison, refs: ["2Kgs 25:27", "2Kgs 25:29", "2Kgs 25:30"], note: "37th year of exile, by Evil-merodach"}
+      - {motif: seat-above-other-kings, refs: ["2Kgs 25:28"]}
+      - {motif: babylonian-king-named, refs: ["2Kgs 25:27"]}
+    hints:
+      - "Babylonian ration tablets (Weidner tablets) list oil rations for 'Ya'u-kinu king of Judah' and his sons."
+      - "The four fasts of Zech 8:19 (10th, 4th, 5th, 7th months) are tied to these dates; the Joseph-like 'lifting of the head' from prison (Gen 40:13, 20) closes the book on hope."
+  - id: hb-1chr-1-adam-to-abraham
+    tradition: judaism
+    title: Genealogy from Adam to Abraham and the table of nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 1:1-27"]
+    tags:
+      - {motif: universal-genealogy-from-adam, refs: ["1Chr 1:1"]}
+      - {motif: bare-name-list-genealogy, refs: ["1Chr 1:1", "1Chr 1:2", "1Chr 1:3", "1Chr 1:24", "1Chr 1:25", "1Chr 1:26"]}
+      - {motif: ten-antediluvian-generations, refs: ["1Chr 1:1", "1Chr 1:2", "1Chr 1:3", "1Chr 1:4"]}
+      - {motif: nations-divided-by-language, refs: ["1Chr 1:5", "1Chr 1:8", "1Chr 1:17"], note: "table of nations without the narrative frame"}
+      - {motif: nimrod-mighty-hunter, refs: ["1Chr 1:10"], note: "only 'first to be a mighty man on earth'; the hunter phrase is omitted"}
+      - {motif: earth-divided-in-pelegs-days, refs: ["1Chr 1:19"]}
+      - {motif: ten-generations-noah-to-abraham, refs: ["1Chr 1:24", "1Chr 1:25", "1Chr 1:26", "1Chr 1:27"]}
+      - {motif: name-change-abram-abraham, refs: ["1Chr 1:27"]}
+    hints:
+      - "Compare Sumerian King List and Berossus' ten antediluvian kings; Luke 3:23-38 runs the line back to Adam in the same way."
+  - id: hb-1chr-1-ishmael-esau-edom
+    tradition: judaism
+    title: Sons of Ishmael, Keturah and Esau; the Seirite chiefs and kings of Edom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 1:28-54"]
+    tags:
+      - {motif: ishmaelite-tribes-arabia, refs: ["1Chr 1:29", "1Chr 1:30", "1Chr 1:31"]}
+      - {motif: ishmael-twelve-princes, refs: ["1Chr 1:29", "1Chr 1:31"]}
+      - {motif: sons-of-keturah, refs: ["1Chr 1:32", "1Chr 1:33"]}
+      - {motif: primeval-giant-peoples, refs: ["1Chr 1:38"], note: "sons of Seir (Horites)"}
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 1:39"], note: "Timna sister of Lotan; Timna also among Eliphaz's sons (1:36)"}
+      - {motif: kings-before-israel-had-a-king, refs: ["1Chr 1:43"]}
+      - {motif: bela-son-of-beor-king, refs: ["1Chr 1:43"]}
+      - {motif: non-dynastic-king-list, refs: ["1Chr 1:44", "1Chr 1:45", "1Chr 1:46", "1Chr 1:47", "1Chr 1:48", "1Chr 1:49", "1Chr 1:50"]}
+      - {motif: water-of-gold-name, refs: ["1Chr 1:50"]}
+      - {motif: chiefs-alluf-lists, refs: ["1Chr 1:51", "1Chr 1:52", "1Chr 1:53", "1Chr 1:54"]}
+    hints:
+      - "Ishmael's sons (Nebaioth, Kedar, Tema, Dumah) are Arabian tribes and oases attested in Assyrian records; Islamic genealogists trace the Prophet through Ishmael via Kedar or Nebaioth."
+  - id: hb-1chr-2-judah-genealogy
+    tradition: judaism
+    title: Sons of Israel; the genealogy of Judah, Hezron, Jerahmeel and Caleb
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 2:1-55"]
+    tags:
+      - {motif: twelve-sons-list, refs: ["1Chr 2:1", "1Chr 2:2"]}
+      - {motif: son-of-canaanite-woman-noted, refs: ["1Chr 2:3"], note: "Bath-shua the Canaanite"}
+      - {motif: sin-noted-in-genealogy, refs: ["1Chr 2:3", "1Chr 2:7"], note: "Er evil in YHWH's eyes and killed by him"}
+      - {motif: incest-ancestry-noted, refs: ["1Chr 2:4"]}
+      - {motif: wise-men-zerah-ethan-heman, refs: ["1Chr 2:6"]}
+      - {motif: achar-troubler-of-israel, refs: ["1Chr 2:7"]}
+      - {motif: genealogy-to-david, refs: ["1Chr 2:10", "1Chr 2:11", "1Chr 2:12", "1Chr 2:13", "1Chr 2:14", "1Chr 2:15"]}
+      - {motif: david-seventh-son, refs: ["1Chr 2:15"], note: "1 Sam 16 implies eight sons"}
+      - {motif: sisters-of-david-mothers-of-generals, refs: ["1Chr 2:16", "1Chr 2:17"]}
+      - {motif: ishmaelite-father-in-genealogy, refs: ["1Chr 2:17"], note: "Jether the Ishmaelite"}
+      - {motif: craftsman-genealogy-bezalel, refs: ["1Chr 2:20"]}
+      - {motif: old-man-marries-sixty, refs: ["1Chr 2:21"]}
+      - {motif: renaming-conquered-towns, refs: ["1Chr 2:22", "1Chr 2:23"], note: "Havvoth-jair, sixty towns, taken by Geshur and Aram"}
+      - {motif: posthumous-son, refs: ["1Chr 2:24"], note: "Ashhur father of Tekoa born after Hezron's death at Caleb-ephrathah"}
+      - {motif: died-without-sons-noted, refs: ["1Chr 2:30", "1Chr 2:32"]}
+      - {motif: daughter-married-to-egyptian-slave, refs: ["1Chr 2:34", "1Chr 2:35"], note: "Sheshan gives his daughter to Jarha; thirteen-generation line follows"}
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 2:49"], note: "Achsah daughter of Caleb"}
+      - {motif: father-of-town, refs: ["1Chr 2:24", "1Chr 2:42", "1Chr 2:45", "1Chr 2:50", "1Chr 2:51"]}
+      - {motif: clan-names-as-town-names, refs: ["1Chr 2:49", "1Chr 2:53", "1Chr 2:54"]}
+      - {motif: guilds-of-scribes, refs: ["1Chr 2:55"]}
+      - {motif: kenites-settle-with-judah, refs: ["1Chr 2:55"]}
+    hints:
+      - "Ethan and Heman of Zerah are the sages of 1 Kgs 5:11 and the eponyms of Psalms 88-89; Solomon's wisdom is measured against them."
+      - "Matthew 1:3-6 uses this Judah-to-David line (Perez, Hezron, Ram, Amminadab, Nahshon, Salma, Boaz, Obed, Jesse)."
+  - id: hb-1chr-3-sons-of-david
+    tradition: judaism
+    title: Sons of David and the kings of Judah to the post-exilic descendants
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 3:1-24"]
+    tags:
+      - {motif: sons-of-king-by-mothers-list, refs: ["1Chr 3:1", "1Chr 3:2", "1Chr 3:3", "1Chr 3:5"]}
+      - {motif: name-variant-in-parallel-lists, refs: ["1Chr 3:1", "1Chr 3:5", "1Chr 3:15"], note: "Daniel for Chileab; Bath-shua daughter of Ammiel for Bathsheba daughter of Eliam; Shallum for Jehoahaz"}
+      - {motif: princess-in-royal-list, refs: ["1Chr 3:9"]}
+      - {motif: royal-family-list, refs: ["1Chr 3:1-9"]}
+      - {motif: davidic-line-beyond-exile, refs: ["1Chr 3:17", "1Chr 3:19", "1Chr 3:24"], note: "Jeconiah 'the captive' (assir); Zerubbabel son of Pedaiah, not Shealtiel; daughter Shelomith; seven sons of Elioenai"}
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 3:19"]}
+    hints:
+      - "Anani (3:24), last of the line, was read messianically: Targum to 1Chr 3:24 'Anani, he is the King Messiah who is to be revealed'; cf. Dan 7:13 'with the clouds (anane) of heaven'."
+      - "Matthew 1:12 and Luke 3:27 make Zerubbabel son of Shealtiel, against 1Chr 3:19."
+  - id: hb-1chr-4-judah-clans-jabez
+    tradition: judaism
+    title: Clans of Judah; the prayer of Jabez; craft guilds; Bithiah daughter of Pharaoh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 4:1-23"]
+    tags:
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 4:3"], note: "Hazzelelponi"}
+      - {motif: father-of-town, refs: ["1Chr 4:3", "1Chr 4:4", "1Chr 4:5", "1Chr 4:12", "1Chr 4:18"]}
+      - {motif: jabez-pain-name-prayer, refs: ["1Chr 4:9", "1Chr 4:10"]}
+      - {motif: valley-of-craftsmen-etiology, refs: ["1Chr 4:14"]}
+      - {motif: mother-of-hero-named, refs: ["1Chr 4:17"], note: "a Miriam born in Ezrah's line"}
+      - {motif: pharaohs-daughter-marries-israelite, refs: ["1Chr 4:18"]}
+      - {motif: hereditary-craft-guilds, refs: ["1Chr 4:21", "1Chr 4:23"], note: "house of the linen (butz) workers at Beth-ashbea; potters dwelling with the king"}
+      - {motif: ancient-records-gloss, refs: ["1Chr 4:22"], note: "men who 'ruled in Moab'"}
+    hints:
+      - "Rabbinic tradition (Lev. Rabbah 1:3; b. Megillah 13a) identifies Bithiah ('daughter of YH') with the Pharaoh's daughter who rescued Moses; compare the Quran's Asiya, wife of Pharaoh (Q 28:9, 66:11)."
+      - "Jabez is identified in b. Temurah 16a with Othniel, and Jabez's prayer became a popular Christian devotion."
+  - id: hb-1chr-4-simeon
+    tradition: judaism
+    title: Simeon's genealogy, towns and migrations against Ham, the Meunim and Amalek
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 4:24-43"]
+    tags:
+      - {motif: tribe-did-not-multiply, refs: ["1Chr 4:27"]}
+      - {motif: clan-names-as-town-names, refs: ["1Chr 4:28", "1Chr 4:31", "1Chr 4:32"], note: "Beth-marcaboth ('house of chariots'), Hazar-susim ('court of horses')"}
+      - {motif: tribal-migration-for-pasture, refs: ["1Chr 4:39", "1Chr 4:40", "1Chr 4:41"], note: "the land 'quiet and peaceful', former inhabitants 'from Ham'"}
+      - {motif: peaceful-unsuspecting-city-destroyed, refs: ["1Chr 4:40", "1Chr 4:41"]}
+      - {motif: herem-total-destruction, refs: ["1Chr 4:41"]}
+      - {motif: remnant-of-amalek-destroyed, refs: ["1Chr 4:42", "1Chr 4:43"]}
+  - id: hb-1chr-5-transjordan-tribes
+    tradition: judaism
+    title: Reuben, Gad and half-Manasseh; the Hagrite war and the Assyrian exile
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 5:1-26"]
+    tags:
+      - {motif: firstborn-loses-preeminence, refs: ["1Chr 5:1"]}
+      - {motif: birthright-transferred-to-joseph, refs: ["1Chr 5:1", "1Chr 5:2"]}
+      - {motif: name-gog-in-genealogy, refs: ["1Chr 5:4"]}
+      - {motif: deportation-to-assyria, refs: ["1Chr 5:6", "1Chr 5:26"], note: "Beerah prince of Reuben; Halah, Habor, Hara and river Gozan 'to this day'"}
+      - {motif: genealogical-registration-dated, refs: ["1Chr 5:7", "1Chr 5:17"]}
+      - {motif: war-with-hagrites, refs: ["1Chr 5:10", "1Chr 5:19"]}
+      - {motif: cried-to-god-in-battle-answered, refs: ["1Chr 5:20"]}
+      - {motif: enormous-spoil-of-livestock, refs: ["1Chr 5:21"], note: "50,000 camels, 250,000 sheep, 2,000 donkeys, 100,000 people"}
+      - {motif: war-was-of-god, refs: ["1Chr 5:22"]}
+      - {motif: idolatry-as-harlotry, refs: ["1Chr 5:25"]}
+      - {motif: god-stirs-spirit-of-foreign-king, refs: ["1Chr 5:26"], note: "Pul and Tiglath-pilneser treated as (two) kings"}
+      - {motif: assyrian-king-named, refs: ["1Chr 5:6", "1Chr 5:26"]}
+  - id: hb-1chr-5-high-priests
+    tradition: judaism
+    title: The sons of Levi and the high-priestly line to the exile
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 5:27-41"]
+    tags:
+      - {motif: three-levite-clans-gershon-kohath-merari, refs: ["1Chr 5:27"]}
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 5:29"], note: "Miriam among the children of Amram"}
+      - {motif: high-priestly-succession-list, refs: ["1Chr 5:30", "1Chr 5:34", "1Chr 5:36", "1Chr 5:40", "1Chr 5:41"]}
+      - {motif: priestly-line-to-phinehas, refs: ["1Chr 5:30"]}
+    hints:
+      - "This Zadokite list underlies the priestly genealogy in Ezra 7:1-5 and the Zadokite claims of Qumran (Damascus Document)."
+  - id: hb-1chr-6-levites-singers-cities
+    tradition: judaism
+    title: Levite clans, David's singers and the Levitical cities
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 6:1-66"]
+    tags:
+      - {motif: three-levite-clans-gershon-kohath-merari, refs: ["1Chr 6:1"]}
+      - {motif: sons-of-korah-line, refs: ["1Chr 6:7", "1Chr 6:22"]}
+      - {motif: samuel-made-levite, refs: ["1Chr 6:13", "1Chr 6:18"], note: "Elkanah and Zophai/Zuph line; Heman is Samuel's grandson"}
+      - {motif: levite-singers-appointed-by-david, refs: ["1Chr 6:16", "1Chr 6:17"]}
+      - {motif: three-choirs-heman-asaph-ethan, refs: ["1Chr 6:18", "1Chr 6:24", "1Chr 6:29"]}
+      - {motif: priests-atone-for-israel, refs: ["1Chr 6:34"]}
+      - {motif: high-priestly-succession-list, refs: ["1Chr 6:35", "1Chr 6:38"]}
+      - {motif: levitical-cities, refs: ["1Chr 6:39", "1Chr 6:49", "1Chr 6:50"]}
+      - {motif: cities-of-refuge, refs: ["1Chr 6:42", "1Chr 6:52"]}
+      - {motif: land-divided-by-lot, refs: ["1Chr 6:39", "1Chr 6:46", "1Chr 6:48", "1Chr 6:50"]}
+    hints:
+      - "Heman, Asaph and Ethan are the eponyms of Psalm headings (Ps 50, 73-83, 88, 89)."
+  - id: hb-1chr-7-northern-tribes
+    tradition: judaism
+    title: Issachar, Benjamin, Naphtali, Manasseh, Ephraim and Asher
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 7:1-40"]
+    tags:
+      - {motif: military-census-by-clan, refs: ["1Chr 7:2", "1Chr 7:5", "1Chr 7:7", "1Chr 7:9", "1Chr 7:11", "1Chr 7:40"], note: "numbers 'in the days of David'"}
+      - {motif: many-wives-many-warriors, refs: ["1Chr 7:4"]}
+      - {motif: tribe-missing-from-genealogy, refs: ["1Chr 7:12", "1Chr 7:13"], note: "Dan perhaps hidden in 'Hushim, sons of Aher' ('another'); Naphtali gets one verse; Zebulun absent"}
+      - {motif: aramean-concubine-ancestress, refs: ["1Chr 7:14"]}
+      - {motif: daughters-only-heir-noted, refs: ["1Chr 7:15"]}
+      - {motif: woman-titled-the-queen, refs: ["1Chr 7:18"]}
+      - {motif: patriarchs-sons-killed-raiding-cattle, refs: ["1Chr 7:21"], note: "presupposes Ephraim living in Canaan, not Egypt"}
+      - {motif: patriarch-mourns-brothers-comfort, refs: ["1Chr 7:22"]}
+      - {motif: child-named-for-misfortune, refs: ["1Chr 7:23"]}
+      - {motif: woman-founds-cities, refs: ["1Chr 7:24"]}
+      - {motif: genealogy-of-joshua, refs: ["1Chr 7:25", "1Chr 7:26", "1Chr 7:27"]}
+      - {motif: daughter-named-in-genealogy, refs: ["1Chr 7:30", "1Chr 7:32"], note: "Serah sister of Beriah; Shua"}
+    hints:
+      - "Ephraimite raid on Gath: rabbinic midrash (b. Sanhedrin 92b, Targum to Ps 78:9) makes this a premature exodus of Ephraimites who miscalculated the end of bondage and were slain; their bones are the dry bones of Ezek 37."
+      - "Serah daughter of Asher becomes in midrash the immortal woman who told Jacob Joseph lived and who showed Moses Joseph's coffin."
+  - id: hb-1chr-8-benjamin-saul
+    tradition: judaism
+    title: The Benjaminites and the line of Saul
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 8:1-40"]
+    tags:
+      - {motif: deportation-to-assyria, refs: ["1Chr 8:6", "1Chr 8:7"], note: "inhabitants of Geba exiled to Manahath (internal displacement)"}
+      - {motif: wives-sent-away, refs: ["1Chr 8:8", "1Chr 8:9"]}
+      - {motif: father-of-town, refs: ["1Chr 8:12", "1Chr 8:29"], note: "Shemed built Ono and Lod; 'father of Gibeon'"}
+      - {motif: baal-names-uncensored, refs: ["1Chr 8:33", "1Chr 8:34"]}
+      - {motif: saulide-line-continued, refs: ["1Chr 8:33", "1Chr 8:34", "1Chr 8:35", "1Chr 8:36", "1Chr 8:37", "1Chr 8:38"]}
+      - {motif: archer-warriors-many-sons, refs: ["1Chr 8:40"]}
+  - id: hb-1chr-9-jerusalem-residents
+    tradition: judaism
+    title: The resettlers of Jerusalem; priests, Levites, gatekeepers and their duties
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 9:1-34"]
+    tags:
+      - {motif: source-citation-annals, refs: ["1Chr 9:1"], note: "'the book of the kings of Israel and Judah'"}
+      - {motif: exile-for-unfaithfulness-maal, refs: ["1Chr 9:1"]}
+      - {motif: returnees-list, refs: ["1Chr 9:2", "1Chr 9:3", "1Chr 9:9", "1Chr 9:13"]}
+      - {motif: nethinim-temple-servants, refs: ["1Chr 9:2"]}
+      - {motif: temple-gatekeepers-four-directions, refs: ["1Chr 9:17", "1Chr 9:18", "1Chr 9:24", "1Chr 9:25"], note: "212 gatekeepers"}
+      - {motif: gatekeepers-instituted-by-david-and-samuel, refs: ["1Chr 9:22"]}
+      - {motif: sons-of-korah-line, refs: ["1Chr 9:19", "1Chr 9:31"]}
+      - {motif: priestly-line-to-phinehas, refs: ["1Chr 9:20"], note: "Phinehas once ruler over the gatekeepers, 'YHWH was with him'"}
+      - {motif: keepers-of-the-key, refs: ["1Chr 9:27"]}
+      - {motif: vessels-counted-in-and-out, refs: ["1Chr 9:28"]}
+      - {motif: priests-mix-spices, refs: ["1Chr 9:29", "1Chr 9:30"]}
+      - {motif: twelve-loaves-showbread, refs: ["1Chr 9:32"], note: "prepared every sabbath by Kohathites"}
+      - {motif: singers-on-duty-day-and-night, refs: ["1Chr 9:33"]}
+    hints:
+      - "Parallel list in Neh 11; the perpetual day-and-night praise anticipates laus perennis monasticism and Rev 4:8."
+  - id: hb-1chr-9-saul-line-repeat
+    tradition: judaism
+    title: The Gibeonite line of Saul repeated
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 9:35-44"]
+    tags:
+      - {motif: father-of-town, refs: ["1Chr 9:35"], note: "Jeiel father of Gibeon, wife Maacah"}
+      - {motif: baal-names-uncensored, refs: ["1Chr 9:39", "1Chr 9:40"]}
+      - {motif: saulide-line-continued, refs: ["1Chr 9:39", "1Chr 9:44"], note: "near-duplicate of 8:29-38, with small spelling variants"}
+  - id: hb-1chr-10-death-of-saul
+    tradition: judaism
+    title: Saul's death on Gilboa and the theological verdict
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 10:1-14"]
+    tags:
+      - {motif: king-suicide-by-own-sword, refs: ["1Chr 10:3", "1Chr 10:4"]}
+      - {motif: armor-bearer-follows-in-death, refs: ["1Chr 10:5"]}
+      - {motif: whole-house-dies-together, refs: ["1Chr 10:6"], note: "Chronicles adds 'all his house' (cf. 1 Sam 31:6 'all his men')"}
+      - {motif: news-proclaimed-to-idols, refs: ["1Chr 10:9"]}
+      - {motif: enemy-head-displayed-in-temple, refs: ["1Chr 10:10"], note: "skull in the house of Dagon"}
+      - {motif: dagon, refs: ["1Chr 10:10"]}
+      - {motif: bodies-rescued-buried-under-tree, refs: ["1Chr 10:11", "1Chr 10:12"], note: "under the terebinth (elah) at Jabesh"}
+      - {motif: seven-day-mourning, refs: ["1Chr 10:12"], note: "seven days of fasting"}
+      - {motif: death-for-consulting-medium, refs: ["1Chr 10:13", "1Chr 10:14"]}
+      - {motif: kingship-transferred-by-god, refs: ["1Chr 10:14"]}
+    hints:
+      - "Head of the slain enemy displayed in a temple: compare the Assyrian display of Teumman's head and Celtic head-trophies in sanctuaries."
+  - id: hb-1chr-11-david-king-jerusalem
+    tradition: judaism
+    title: David anointed at Hebron and the capture of Jerusalem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 11:1-9"]
+    tags:
+      - {motif: we-are-your-bone-and-flesh, refs: ["1Chr 11:1"]}
+      - {motif: king-as-shepherd-of-people, refs: ["1Chr 11:2"]}
+      - {motif: king-anointed-by-elders-covenant, refs: ["1Chr 11:3"]}
+      - {motif: capture-of-jebus-zion, refs: ["1Chr 11:4", "1Chr 11:5", "1Chr 11:7"]}
+      - {motif: first-to-strike-becomes-chief, refs: ["1Chr 11:6"]}
+      - {motif: leadership-offered-to-whoever-fights-first, refs: ["1Chr 11:6"]}
+      - {motif: place-name-etiology, refs: ["1Chr 11:7"], note: "therefore it was called the City of David"}
+  - id: hb-1chr-11-mighty-men
+    tradition: judaism
+    title: David's mighty men and their exploits
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 11:10-47"]
+    tags:
+      - {motif: roster-of-mighty-men, refs: ["1Chr 11:10", "1Chr 11:11", "1Chr 11:26"]}
+      - {motif: champion-kills-three-hundred-with-spear, refs: ["1Chr 11:11", "1Chr 11:20"], note: "Jashobeam and Abishai (2 Sam 23:8 has 800)"}
+      - {motif: stand-in-barley-field, refs: ["1Chr 11:13", "1Chr 11:14"], note: "at Pas-dammim"}
+      - {motif: water-from-bethlehem-well-poured-out, refs: ["1Chr 11:17", "1Chr 11:18", "1Chr 11:19"]}
+      - {motif: lion-killed-in-pit-on-snowy-day, refs: ["1Chr 11:22"], note: "also the two Ariels ('lions of God') of Moab"}
+      - {motif: egyptian-giant-killed-with-own-spear, refs: ["1Chr 11:23"], note: "five cubits tall, spear like a weaver's beam"}
+      - {motif: beheading-with-enemys-own-sword, refs: ["1Chr 11:23"]}
+      - {motif: foreign-warriors-in-kings-guard, refs: ["1Chr 11:39", "1Chr 11:41", "1Chr 11:46"]}
+    hints:
+      - "Water poured out rather than drunk: compare Alexander refusing water in the Gedrosian desert (Arrian, Anabasis 6.26)."
+  - id: hb-1chr-12-supporters-of-david
+    tradition: judaism
+    title: Warriors who joined David at Ziklag and the stronghold; Amasai's inspired greeting
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 12:1-23"]
+    tags:
+      - {motif: ambidextrous-archers-slingers, refs: ["1Chr 12:2"], note: "Benjaminites, Saul's own kin"}
+      - {motif: left-handed-slingers, refs: ["1Chr 12:2"]}
+      - {motif: warriors-faces-of-lions-swift-as-gazelles, refs: ["1Chr 12:9"]}
+      - {motif: river-crossed-in-flood, refs: ["1Chr 12:16"]}
+      - {motif: spirit-clothes-a-man, refs: ["1Chr 12:19"]}
+      - {motif: peace-peace-to-you, refs: ["1Chr 12:19"]}
+      - {motif: camp-like-camp-of-god, refs: ["1Chr 12:23"]}
+    hints:
+      - "'The spirit clothed Amasai' recurs for Gideon (Judg 6:34) and Zechariah son of Jehoiada (2Chr 24:20); compare the Greek notion of a god 'putting on' a mortal's form."
+  - id: hb-1chr-12-muster-at-hebron
+    tradition: judaism
+    title: Tribal contingents come to Hebron to make David king; the feast
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 12:24-41"]
+    tags:
+      - {motif: tribal-muster-for-coronation, refs: ["1Chr 12:24", "1Chr 12:25", "1Chr 12:38"]}
+      - {motif: tribal-census-totals, refs: ["1Chr 12:25", "1Chr 12:26", "1Chr 12:27", "1Chr 12:31", "1Chr 12:34", "1Chr 12:35", "1Chr 12:36", "1Chr 12:37", "1Chr 12:38"]}
+      - {motif: men-who-understand-the-times, refs: ["1Chr 12:33"]}
+      - {motif: single-hearted-loyalty, refs: ["1Chr 12:34", "1Chr 12:39"]}
+      - {motif: coronation-feast-three-days, refs: ["1Chr 12:40", "1Chr 12:41"]}
+    hints:
+      - "Issachar 'knowing the times' was read in rabbinic tradition (Gen. Rabbah 72; b. Yoma 26a) as mastery of astronomy and intercalation of the calendar."
+  - id: hb-1chr-13-uzza-and-the-ark
+    tradition: judaism
+    title: The first attempt to bring up the ark; Uzza struck down
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 13:1-14"]
+    tags:
+      - {motif: baalah-kiriath-jearim, refs: ["1Chr 13:5", "1Chr 13:6"]}
+      - {motif: enthroned-on-cherubim, refs: ["1Chr 13:6"]}
+      - {motif: ark-on-new-cart, refs: ["1Chr 13:7"]}
+      - {motif: ark-brought-up-with-music, refs: ["1Chr 13:8"]}
+      - {motif: touching-ark-death, refs: ["1Chr 13:9", "1Chr 13:10"], note: "at the threshing floor of Chidon"}
+      - {motif: outburst-place-named, refs: ["1Chr 13:11"]}
+      - {motif: fear-of-death-after-seeing-god, refs: ["1Chr 13:12"], note: "David fears to bring the ark to himself"}
+      - {motif: ark-blesses-host-household, refs: ["1Chr 13:13", "1Chr 13:14"], note: "Obed-edom the Gittite"}
+    hints:
+      - "Danger of touching the holy object: compare the Greek and Roman taboos on touching the Palladium, and Num 4:15."
+  - id: hb-1chr-14-david-household-philistines
+    tradition: judaism
+    title: Hiram's help, David's sons and the two victories over the Philistines
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 14:1-17"]
+    tags:
+      - {motif: foreign-king-sends-cedar-and-craftsmen, refs: ["1Chr 14:1"]}
+      - {motif: sons-of-king-by-mothers-list, refs: ["1Chr 14:3", "1Chr 14:4"]}
+      - {motif: baal-names-uncensored, refs: ["1Chr 14:7"], note: "Beeliada (2 Sam 5:16 has Eliada)"}
+      - {motif: oracle-go-up-and-i-will-give, refs: ["1Chr 14:10", "1Chr 14:14"]}
+      - {motif: breakthrough-like-bursting-waters, refs: ["1Chr 14:11"]}
+      - {motif: outburst-place-named, refs: ["1Chr 14:11"], note: "Baal-perazim"}
+      - {motif: captured-enemy-gods-burned, refs: ["1Chr 14:12"], note: "2 Sam 5:21 has David 'carry them away'"}
+      - {motif: sound-of-marching-in-treetops, refs: ["1Chr 14:14", "1Chr 14:15"]}
+      - {motif: fear-of-king-on-nations, refs: ["1Chr 14:17"]}
+  - id: hb-1chr-15-ark-to-jerusalem
+    tradition: judaism
+    title: The Levites carry the ark to Jerusalem; musicians appointed; David dances
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Chr 15:1-29"]
+    tags:
+      - {motif: only-levites-carry-ark, refs: ["1Chr 15:2", "1Chr 15:15"]}
+      - {motif: carrying-poles-never-removed, refs: ["1Chr 15:15"], note: "on their shoulders with the poles"}
+      - {motif: first-failure-due-to-improper-procedure, refs: ["1Chr 15:13"]}
+      - {motif: levite-workforce-totals, refs: ["1Chr 15:5", "1Chr 15:6", "1Chr 15:7", "1Chr 15:8", "1Chr 15:9", "1Chr 15:10"]}
+      - {motif: levite-singers-appointed-by-david, refs: ["1Chr 15:16", "1Chr 15:17"]}
+      - {motif: three-choirs-heman-asaph-ethan, refs: ["1Chr 15:17", "1Chr 15:19"]}
+      - {motif: levitical-musical-guilds, refs: ["1Chr 15:19", "1Chr 15:20", "1Chr 15:21"]}
+      - {motif: musical-technical-terms, refs: ["1Chr 15:20", "1Chr 15:21"]}
+      - {motif: silver-trumpets, refs: ["1Chr 15:24"], note: "priests blow trumpets before the ark"}
+      - {motif: seven-bulls-seven-rams, refs: ["1Chr 15:26"]}
+      - {motif: king-in-linen-ephod-dances, refs: ["1Chr 15:27", "1Chr 15:29"]}
+      - {motif: ark-brought-up-with-music, refs: ["1Chr 15:28"], note: "teruah, shofar, trumpets, cymbals, harps and lyres"}
+      - {motif: woman-at-the-window, refs: ["1Chr 15:29"]}
+      - {motif: wife-despises-dancing-king, refs: ["1Chr 15:29"]}
+    hints:
+      - "Kenaniah 'in charge of the massa' (15:22, 27) — either carrying or musical 'lifting' (oracle); obscure office."
+      - "Royal ritual dance before the god: compare Egyptian pharaohs dancing before Min and the Hittite king's festival roles."
