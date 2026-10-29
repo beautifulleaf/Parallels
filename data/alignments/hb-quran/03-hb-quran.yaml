@@ -218,6 +218,30 @@ new_motifs:
   noahs-standing-before-god:
     label: 'Noah''s standing before God: blameless, or in need of forgiveness'
     cluster: flood
+  identity-of-abrahams-visitors:
+    label: 'Who comes to Abraham: God with three men, or God''s messengers'
+    cluster: abraham
+  whether-the-heavenly-guests-eat:
+    label: Whether Abraham's heavenly guests eat the meal he serves
+    cluster: abraham
+  fear-at-the-heavenly-visitors:
+    label: Who is afraid during the visit of the heavenly guests, and why
+    cluster: abraham
+  sarahs-laughter:
+    label: When and why Sarah laughs, and how it is answered
+    cluster: abraham
+  outcome-of-abrahams-plea-for-sodom:
+    label: How God answers Abraham's plea for the people of Sodom
+    cluster: abraham
+  lots-reception-of-the-guests:
+    label: How Lot receives the heavenly guests
+    cluster: abraham
+  angels-reveal-their-mission-to-lot:
+    label: The angels tell Lot who sent them and what they will do
+    cluster: abraham
+  timing-of-lots-escape-and-the-destruction:
+    label: When Lot leaves the city and when the destruction falls
+    cluster: abraham
 reviewed:
 - unit: quran-7-idol-request
   checked:
@@ -3736,3 +3760,248 @@ reviewed:
     - 2Kgs 19:35
     relation: echo
     note: 'Struck at night, found dead in the morning: fa-aṣbaḥū fī diyārihim jāthimīn vs wayyaškîmû babbōqer wᵉhinnēh kullām pᵉgārîm mētîm. In Kings it is an angel''s blow on an invading army; in Q the Shout (aṣ-ṣayḥa) on Thamūd.'
+- unit: quran-11-abraham-guests
+  checked:
+  - hb-gen-18-visitors-at-mamre
+  - hb-gen-21-isaac-born-hagar-expelled
+  - hb-job-31-oath-of-innocence
+  - hb-job-1-prologue-first-test
+  - hb-gen-18-abraham-bargains
+  matches:
+  - with: hb-gen-18-visitors-at-mamre
+    motif: identity-of-abrahams-visitors
+    refs:
+    - 11:69
+    with_refs:
+    - Gen 18:1
+    - Gen 18:2
+    relation: divergence
+    note: 'Who comes: wa-la-qad jāʾat rusulunā ibrāhīma bi-l-bushrā vs wayyērāʾ ʾēlāyw YHWH ... wᵉhinnēh šᵉlōšāh ʾănāšîm. Gen has YHWH himself appear in the form of three men; Q has ''our messengers'', with no number and no appearance of God.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: calf-prepared-for-guests
+    refs:
+    - 11:69
+    with_refs:
+    - Gen 18:7
+    - Gen 18:8
+    relation: parallel
+    note: 'Abraham at once brings a calf: fa-mā labitha an jāʾa bi-ʿijlin ḥanīdh (roasted) vs ʾel-habbāqār rāṣ ʾabrāhām wayyiqqaḥ ben-bāqār rak wāṭôb ... wayᵉmahēr (both stress haste). Q has no foot-washing, cakes, curds or milk.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: whether-the-heavenly-guests-eat
+    refs:
+    - 11:70
+    with_refs:
+    - Gen 18:8
+    relation: divergence
+    note: 'Reversed: in Gen the guests eat (wayyittēn lipnêhem wᵉhûʾ-ʿōmēd ʿălêhem taḥat hāʿēṣ wayyōʾkēlû); in Q their hands do not reach the food (fa-lammā raʾā aydiyahum lā taṣilu ilayhi nakirahum). cf. Tob 12:19, Gen. Rab. 48:14, b. Bava Metzia 86b (angels only seem to eat), outside the canon.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: fear-at-the-heavenly-visitors
+    refs:
+    - 11:70
+    with_refs:
+    - Gen 18:15
+    relation: divergence
+    note: 'Who is afraid and why: in Q Abraham is afraid because the guests will not eat (wa-awjasa minhum khīfatan qālū lā takhaf); in Gen it is Sarah who is afraid when caught laughing (wattᵉkaḥēš śārāh lēʾmōr lōʾ ṣāḥaqtî kî yārēʾāh).'
+  - with: hb-gen-18-abraham-bargains
+    motif: how-abraham-learns-of-sodoms-fate
+    refs:
+    - 11:70
+    - 11:74
+    with_refs:
+    - Gen 18:17
+    - Gen 18:20
+    - Gen 18:21
+    relation: divergence
+    note: 'Abraham learns that Lot''s people are to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh. In Gen YHWH himself decides to tell him and goes down to see; in Q the messengers state their errand to calm his fear.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: sarahs-laughter
+    refs:
+    - 11:71
+    with_refs:
+    - Gen 18:10
+    - Gen 18:12
+    - Gen 18:13
+    - Gen 18:15
+    relation: divergence
+    note: 'The order and the answer change: in Gen Sarah overhears the promise at the tent door and then laughs inwardly (wattiṣḥaq śārāh bᵉqirbāh), and God rebukes her (lāmmāh zeh ṣāḥăqāh śārāh), she denies it (lōʾ ṣāḥaqtî); in Q she is standing by and laughs first (wa-mraʾatuhu qāʾimatun fa-ḍaḥikat), then receives the tidings, with no rebuke and no denial. ṣḥq / ḍḥk are cognate.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: annunciation-of-son-to-barren-couple
+    refs:
+    - 11:71
+    with_refs:
+    - Gen 18:10
+    - Gen 18:14
+    relation: divergence
+    note: 'The promise of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: doubt-at-promise-of-son-in-old-age
+    refs:
+    - 11:72
+    with_refs:
+    - Gen 18:12
+    relation: parallel
+    note: 'Sarah cites her age and her husband''s: a-alidu wa-ana ʿajūzun wa-hādhā baʿlī shaykhan vs ʾaḥărê bᵉlōtî hāyᵉtāh-llî ʿednāh waʾdōnî zāqēn. She calls him ''my husband'' (baʿlī) in Q and ''my lord'' (ʾădōnî) in Gen; Q has the outcry yā waylatā.'
+  - with: hb-gen-18-visitors-at-mamre
+    motif: nothing-too-hard-for-god
+    refs:
+    - 11:73
+    with_refs:
+    - Gen 18:14
+    relation: parallel
+    note: 'The answer to her doubt turns on wonder: a-taʿjabīna min amri llāh vs hăyippālēʾ mēYHWH dābār (ʿajab ~ pele''). Q adds a blessing on the household (raḥmatu llāhi wa-barakātuhu ʿalaykum ahla l-bayt).'
+  - with: hb-gen-18-abraham-bargains
+    motif: outcome-of-abrahams-plea-for-sodom
+    refs:
+    - 11:74
+    - 11:76
+    with_refs:
+    - Gen 18:23
+    - Gen 18:32
+    - Gen 18:33
+    relation: divergence
+    note: 'Abraham pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh ṣaddîq ʿim-rāšāʿ. The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh) and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.'
+  - with: hb-gen-21-isaac-born-hagar-expelled
+    motif: sarahs-laughter
+    refs:
+    - 11:71
+    - 11:72
+    with_refs:
+    - Gen 21:6
+    relation: echo
+    note: 'Sarah''s laughter tied to Isaac''s coming: wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā bi-isḥāq. Q gives no birth narrative.'
+  - with: hb-job-31-oath-of-innocence
+    motif: hospitality-to-strangers
+    refs:
+    - 11:69
+    with_refs:
+    - Job 31:32
+    relation: echo
+    note: baḥûṣ lōʾ-yālîn gēr dᵉlātay lāʾōraḥ ʾeptāḥ vs Abraham hastening to serve his unknown guests (fa-mā labitha an jāʾa bi-ʿijlin ḥanīdh).
+- unit: quran-11-lot
+  checked:
+  - hb-josh-10-sun-stands-still
+  - hb-gen-19-sodom-destroyed
+  - hb-ps-11-flee-like-bird
+  - hb-judg-19-levites-concubine
+  - hb-hos-5-6-third-day
+  - hb-amos-5-lament-day-of-yhwh
+  matches:
+  - with: hb-gen-19-sodom-destroyed
+    motif: lots-reception-of-the-guests
+    refs:
+    - 11:77
+    with_refs:
+    - Gen 19:1
+    - Gen 19:2
+    - Gen 19:3
+    relation: divergence
+    note: 'Lot''s response to the guests is reversed: in Gen he rises to meet them, bows and presses them to stay (wayyāqom liqrāʾtām wayyištaḥû ... wayyipṣar-bām mᵉʾōd ... wayyaʿaś lāhem mišteh); in Q he is distressed and helpless on their account (sīʾa bihim wa-ḍāqa bihim dharʿan wa-qāla hādhā yawmun ʿaṣīb).'
+  - with: hb-gen-19-sodom-destroyed
+    motif: townspeople-turn-on-lot
+    refs:
+    - 11:78
+    - 11:79
+    with_refs:
+    - Gen 19:4
+    - Gen 19:5
+    - Gen 19:9
+    relation: divergence
+    note: 'The townsmen besiege Lot''s house: wa-jāʾahu qawmuhu yuhraʿūna ilayhi vs nāsabbû ʿal-habbayit minnaʿar wᵉʿad-zāqēn ... hôṣîʾēm ʾēlênû wᵉnēdʿāh ʾōtām. Their answer differs: in Gen they turn on Lot as an alien who plays the judge (hāʾeḥād bāʾ-lāgûr wayyišpōṭ šāpôṭ) and try to break the door; in Q they only say la-qad ʿalimta mā lanā fī banātika min ḥaqqin wa-innaka la-taʿlamu mā nurīd.'
+  - with: hb-gen-19-sodom-destroyed
+    motif: lots-protest-to-the-townsmen
+    refs:
+    - 11:78
+    with_refs:
+    - Gen 19:7
+    - Gen 19:8
+    relation: divergence
+    note: 'Lot offers his daughters: hāʾulāʾi banātī hunna aṭharu lakum fa-ttaqū llāha wa-lā tukhzūni fī ḍayfī a-laysa minkum rajulun rashīd vs ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šᵉtê bānôt ... wᵉʿăśû lāhen kaṭṭôb bᵉʿênêkem raq lāʾănāšîm hāʾēl ʾal-taʿăśû dābār. The terms differ: in Gen ''do to them as you please''; in Q ''they are purer for you'', with an appeal to fear God and to right-minded men. Exegesis reads Q as lawful marriage.'
+  - with: hb-judg-19-levites-concubine
+    motif: host-offers-daughters
+    refs:
+    - 11:78
+    with_refs:
+    - Judg 19:22
+    - Judg 19:23
+    - Judg 19:24
+    relation: parallel
+    note: 'The same scene in Gibeah: the mob at the door, the host''s plea and the offer of the women. ʾal-ʾaḥay ʾal-tārēʿû-nāʾ ... hinnēh bittî habbᵉtûlāh ûpîlagšēhû ... wᵉlāʾîš hazzeh lōʾ taʿăśû dᵉbar hannᵉbālāh vs hāʾulāʾi banātī hunna aṭharu lakum ... wa-lā tukhzūni fī ḍayfī.'
+  - with: hb-gen-19-sodom-destroyed
+    motif: angels-reveal-their-mission-to-lot
+    refs:
+    - 11:80
+    - 11:81
+    with_refs:
+    - Gen 19:10
+    - Gen 19:11
+    - Gen 19:13
+    relation: divergence
+    note: 'The guests disclose their errand: yā lūṭu innā rusulu rabbika lan yaṣilū ilayka vs kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm hazzeh ... wayᵉšallᵉḥēnû YHWH lᵉšaḥătāh. In Gen the angels first pull Lot inside and strike the mob with blindness (hikkû bassanwērîm); in Q, where Lot wishes for strength or a strong support (law anna lī bikum quwwatan aw āwī ilā ruknin shadīd), only their word assures him.'
+  - with: hb-gen-19-sodom-destroyed
+    motif: lots-household-alone-rescued
+    refs:
+    - 11:81
+    with_refs:
+    - Gen 19:12
+    - Gen 19:15
+    - Gen 19:16
+    relation: parallel
+    note: 'Lot is told to take his family out: fa-asri bi-ahlika vs qûm qaḥ ʾet-ʾištᵉkā wᵉʾet-šᵉtê bᵉnōtêkā ... pen-tissāpeh baʿăwōn hāʿîr. Gen adds the sons-in-law who think he is joking (wayᵉhî kimṣaḥēq bᵉʿênê ḥătānāyw).'
+  - with: hb-gen-19-sodom-destroyed
+    motif: timing-of-lots-escape-and-the-destruction
+    refs:
+    - 11:81
+    with_refs:
+    - Gen 19:15
+    - Gen 19:23
+    relation: divergence
+    note: 'When they leave and when the blow falls: Q, by night, the destruction appointed for morning (bi-qiṭʿin mina l-layli ... inna mawʿidahumu ṣ-ṣubḥu a-laysa ṣ-ṣubḥu bi-qarīb); Gen, the angels hurry him at dawn (kᵉmô haššaḥar ʿālāh wayyāʾîṣû) and the fire falls once the sun has risen and Lot is in Zoar (haššemeš yāṣāʾ ʿal-hāʾāreṣ wᵉlôṭ bāʾ ṣōʿărāh).'
+  - with: hb-gen-19-sodom-destroyed
+    motif: do-not-look-back
+    refs:
+    - 11:81
+    with_refs:
+    - Gen 19:17
+    relation: parallel
+    note: wa-lā yaltafit minkum aḥadun vs ʾal-tabbîṭ ʾaḥărêkā wᵉʾal-taʿămōd bᵉkol-hakkikkār.
+  - with: hb-gen-19-sodom-destroyed
+    motif: fate-of-lots-wife
+    refs:
+    - 11:81
+    with_refs:
+    - Gen 19:26
+    relation: divergence
+    note: 'Lot''s wife perishes: Gen, because she looks back and becomes a pillar of salt (wattabbēṭ ʾištô mēʾaḥărāyw wattᵉhî nᵉṣîb melaḥ); Q, excepted in advance and struck with the townsmen (illā mraʾataka innahu muṣībuhā mā aṣābahum), with no salt pillar. Whether illā mraʾataka goes with ''travel with your family'' or ''let none look back'' is debated by exegetes.'
+  - with: hb-gen-19-sodom-destroyed
+    motif: cities-overturned
+    refs:
+    - 11:82
+    with_refs:
+    - Gen 19:25
+    relation: parallel
+    note: 'The town turned upside down: jaʿalnā ʿāliyahā sāfilahā vs wayyahăpōk ʾet-heʿārîm hāʾēl (hpk, ''overturn'').'
+  - with: hb-gen-19-sodom-destroyed
+    motif: what-falls-on-sodom
+    refs:
+    - 11:82
+    - 11:83
+    with_refs:
+    - Gen 19:24
+    relation: divergence
+    note: 'God rains destruction, with the same verb (mṭr): wa-amṭarnā ʿalayhā ḥijāratan min sijjīlin manḍūdin musawwamatan ʿinda rabbika vs waYHWH himṭîr ʿal-sᵉdōm wᵉʿal-ʿămōrāh goprît wāʾēš. What falls changes: marked stones of baked clay in Q, sulphur and fire in Gen.'
+  - with: hb-ps-11-flee-like-bird
+    motif: fire-and-brimstone-from-heaven
+    refs:
+    - 11:82
+    with_refs:
+    - Ps 11:6
+    relation: echo
+    note: 'yamṭēr ʿal-rᵉšāʿîm paḥîm ʾēš wᵉgoprît vs wa-amṭarnā ʿalayhā ḥijāratan min sijjīl: God rains (mṭr) judgment on the wicked.'
+  - with: hb-josh-10-sun-stands-still
+    motif: hailstones-from-heaven-kill-enemy
+    refs:
+    - 11:82
+    with_refs:
+    - Josh 10:11
+    relation: echo
+    note: 'Stones cast by God from the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt min-haššāmayim ... ʾabnê habbārād.'
