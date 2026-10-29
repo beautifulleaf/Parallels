@@ -25,7 +25,6 @@ new_motifs:
   fate-of-humans-after-death: {label: "Whether those who die and return to dust rise again", cluster: afterlife}
   whose-servants-are-israel: {label: "Whose slaves or servants the Israelites are", cluster: exodus}
   payment-for-prophecy: {label: "Whether a prophet takes payment for his message", cluster: prophecy}
-  divine-sonship: {label: "Whether God has or begets a son", cluster: theology}
   deathbed-plea-for-more-life: {label: "A dying person's plea to God for more life, and God's answer", cluster: afterlife}
   oath-procedure-for-suspected-wife: {label: "Who swears, and how, when a husband suspects his wife of adultery without witnesses", cluster: law}
   verdict-on-suspected-wife: {label: "How the case of a wife suspected of adultery is decided", cluster: law}
@@ -41,14 +40,12 @@ new_motifs:
   how-the-prophets-book-was-written: {label: "Who dictated and who wrote down a prophet's book", cluster: revelation}
   words-of-the-ancients-as-authority: {label: "Whether old tradition handed down from the ancients carries authority", cluster: revelation}
   heavens-torn-open-for-a-descent: {label: "The sky torn open for a descent from heaven", cluster: theophany}
-  request-to-see-god: {label: "A request to see God, and how it is judged", cluster: theophany}
   destruction-rained-on-lots-town: {label: "God rains destruction on Lot's town", cluster: judgment}
   sign-left-by-the-flood: {label: "The sign the flood leaves for later generations", cluster: flood}
   aarons-role-beside-moses: {label: "Aaron's role beside Moses and how he is appointed", cluster: exodus}
   what-god-does-after-six-days: {label: "What God does after creating in six days", cluster: creation}
   prophets-grief-over-his-people: {label: "The prophet's grief over his people", cluster: prophecy}
   moses-fear-of-blood-vengeance: {label: "Moses' fear of being killed, on returning, for the Egyptian's death", cluster: exodus}
-  divine-title-sent-to-pharaoh: {label: "The divine title in whose name Moses goes to Pharaoh", cluster: exodus}
   god-of-the-forefathers-proclaimed: {label: "Whose forefathers' God is proclaimed in the Moses story", cluster: exodus}
   gods-self-identification-at-the-fire: {label: "How God names himself to Moses from the fire", cluster: exodus}
   call-from-the-fire: {label: "God calls Moses from the fire, from a bush or a tree", cluster: exodus}
@@ -70,7 +67,6 @@ new_motifs:
   source-of-sickness-and-healing: {label: "Who sends sickness and who heals", cluster: theology}
   response-to-a-confirming-sign: {label: "How a people responds to a sign given to prove the messenger", cluster: prophecy}
   nature-of-sodoms-sin: {label: "What the sin of Lot's townsmen was", cluster: judgment}
-  fate-of-lots-wife: {label: "The fate of Lot's wife", cluster: judgment}
   spirit-of-god-and-the-heart: {label: "God's spirit in relation to a person's heart", cluster: revelation}
   how-revelation-reaches-the-prophet: {label: "How God's word reaches the prophet", cluster: revelation}
   why-moses-approaches-the-fire: {label: "Why Moses approaches the fire", cluster: exodus}
