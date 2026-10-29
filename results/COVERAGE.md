@@ -9,7 +9,7 @@ A parallel can only surface from text that the pipeline has scanned or a reader 
 | Corpus | Verses | Scanned by the lexical track | Inside a narrative label | Read in full for motif tagging |
 |---|---|---|---|---|
 | Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 207 / 6,236 (3.3%) |
-| Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 468 / 23,213 (2.0%) |
+| Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 23,213 / 23,213 (100.0%) |
 
 Concentration and bridge detection only see verses inside narrative labels. Synonym and cognate checks see every scanned verse.
 
@@ -41,27 +41,27 @@ Concentration and bridge detection only see verses inside narrative labels. Syno
 
 | Narrative | Labeled verses | Read for motifs |
 |---|---|---|
-| Creation and Eden | 80 | 0 / 80 (0.0%) |
-| Cain and Abel | 26 | 0 / 26 (0.0%) |
-| Noah and the Flood | 97 | 28 / 97 (28.9%) |
-| Tower of Babel | 9 | 0 / 9 (0.0%) |
-| Abraham | 377 | 0 / 377 (0.0%) |
-| Lot and Sodom | 74 | 0 / 74 (0.0%) |
-| Jacob | 364 | 1 / 364 (0.3%) |
+| Creation and Eden | 80 | 80 / 80 (100.0%) |
+| Cain and Abel | 26 | 26 / 26 (100.0%) |
+| Noah and the Flood | 97 | 97 / 97 (100.0%) |
+| Tower of Babel | 9 | 9 / 9 (100.0%) |
+| Abraham | 377 | 377 / 377 (100.0%) |
+| Lot and Sodom | 74 | 74 / 74 (100.0%) |
+| Jacob | 364 | 364 / 364 (100.0%) |
 | Joseph | 419 | 419 / 419 (100.0%) |
-| Moses | 1,370 | 11 / 1,370 (0.8%) |
-| Joshua | 658 | 1 / 658 (0.2%) |
-| Samson | 96 | 0 / 96 (0.0%) |
-| Saul | 632 | 0 / 632 (0.0%) |
-| David | 1,187 | 0 / 1,187 (0.0%) |
-| Solomon | 635 | 0 / 635 (0.0%) |
-| Elijah | 247 | 0 / 247 (0.0%) |
-| Elisha | 345 | 0 / 345 (0.0%) |
-| Job | 1,070 | 0 / 1,070 (0.0%) |
-| Jonah | 48 | 0 / 48 (0.0%) |
-| Esther | 167 | 0 / 167 (0.0%) |
-| Ruth | 85 | 0 / 85 (0.0%) |
-| Daniel | 357 | 4 / 357 (1.1%) |
+| Moses | 1,370 | 1,370 / 1,370 (100.0%) |
+| Joshua | 658 | 658 / 658 (100.0%) |
+| Samson | 96 | 96 / 96 (100.0%) |
+| Saul | 632 | 632 / 632 (100.0%) |
+| David | 1,187 | 1,187 / 1,187 (100.0%) |
+| Solomon | 635 | 635 / 635 (100.0%) |
+| Elijah | 247 | 247 / 247 (100.0%) |
+| Elisha | 345 | 345 / 345 (100.0%) |
+| Job | 1,070 | 1,070 / 1,070 (100.0%) |
+| Jonah | 48 | 48 / 48 (100.0%) |
+| Esther | 167 | 167 / 167 (100.0%) |
+| Ruth | 85 | 85 / 85 (100.0%) |
+| Daniel | 357 | 357 / 357 (100.0%) |
 
 ## Motif units tagged from secondary knowledge
 
