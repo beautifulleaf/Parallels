@@ -1,0 +1,1016 @@
+# Full read of the ANE corpus, chunk 19: Dialogue of Pessimism, Enuma elish, Elevation of Babylon,
+# Erra I, Etana (MA, OB, SB). Read from the eBL reconstructed Akkadian texts with eBL's translations as aids.
+new_motifs:
+  master-servant-dialogue-every-plan-refuted: {label: "A master announces one plan after another and his servant eagerly argues for each, then just as eagerly against it when the master changes his mind", cluster: wisdom}
+  eating-well-makes-man-his-own-god: {label: "Saying: the man who eats well is his own god; the god goes with the one whose hands are washed", cluster: wisdom}
+  wanderer-fed-and-wanderer-ruined: {label: "The roaming man, dog, bird and wild ass are first praised as well fed, then pitied as homeless and broken", cluster: wisdom}
+  houseless-man-a-fool-and-beggar: {label: "The man without a house is a fawner and two-thirds a fool who must beg and face his creditor", cluster: wisdom}
+  crime-punished-by-death-flaying-blinding-prison: {label: "The criminal is executed, flayed, blinded, arrested or jailed", cluster: law}
+  love-makes-man-forget-sorrow: {label: "The man who loves a woman forgets sorrow and care", cluster: wisdom}
+  woman-as-pit-and-dagger: {label: "A woman is called a pitfall, a hole, a ditch and a sharp iron dagger that cuts a man's throat", cluster: wisdom}
+  sacrifice-trains-god-like-dog: {label: "Regular sacrifice trains one's god to follow like a dog, always demanding more rites and figurines", cluster: cult}
+  sacrifice-as-loan-to-god: {label: "Sacrifice to one's god is a sound transaction, 'loan upon loan' credited by the god", cluster: cult}
+  lending-sweet-as-love-recovery-painful-as-birth: {label: "Lending is as sweet as falling in love, getting the loan back as painful as giving birth", cluster: wisdom}
+  good-deed-stored-with-god: {label: "A good deed done for one's land is laid up in the god's basket (credited by the god)", cluster: wisdom}
+  skulls-on-ruins-good-and-evil-indistinguishable: {label: "Walk over the ancient ruin mounds and look at the skulls of low and great: who was the evildoer, who the benefactor?", cluster: wisdom}
+  death-is-the-only-good: {label: "Asked what then is good, the answer is death: to have one's neck broken and be thrown into the river", cluster: wisdom}
+  master-will-not-outlive-servant: {label: "The master threatens to kill his servant; the servant retorts that the master will not outlive him by three days", cluster: wisdom}
+  primeval-sweet-and-salt-waters-mingle: {label: "Before anything was named, the primeval fresh-water (Apsu) and salt sea (Tiamat) mingle their waters as the parents of all", cluster: creation}
+  existence-as-being-named: {label: "Things do not yet exist because they have not yet been named; coming into being is being called by name", cluster: creation}
+  successive-generations-of-gods: {label: "Pairs of gods are born generation after generation, each surpassing its parents (theogony)", cluster: creation}
+  young-gods-noise-robs-elder-of-sleep: {label: "The clamor of the younger gods robs the primeval parent of rest by day and sleep by night, and he plots to destroy them", cluster: creation}
+  wise-god-spellbinds-and-kills-primeval-father: {label: "The wise god puts the primeval father to sleep with a spell, strips his crown and radiance and kills him", cluster: combat}
+  victor-builds-dwelling-on-slain-foe: {label: "The victorious god founds his dwelling on top of the slain enemy (the Apsu)", cluster: combat}
+  marvellous-birth-of-divine-hero: {label: "The hero god is born in a holy chamber, suckled by goddesses, a hero from birth, surpassing all in form", cluster: combat}
+  god-with-fourfold-eyes-and-ears: {label: "The god has four eyes and four ears, sees in every direction, and fire breaks out when his lips move", cluster: combat}
+  chaos-mother-bears-monster-army: {label: "The primeval sea-mother gives birth to an army of eleven monsters (serpents, dragons, lion-men, scorpion-men, fish-men, bull-men) with venom for blood", cluster: combat}
+  elder-gods-fail-before-chaos-monster: {label: "Older gods sent one after another against the chaos monster turn back in fear, and the assembly sits silent", cluster: combat}
+  woman-force-cannot-match-mans: {label: "Saying: a woman's strength may be great but cannot match a man's", cluster: wisdom}
+  champion-demands-supremacy-as-price: {label: "The young champion will fight only if the divine assembly makes his decree supreme and unalterable", cluster: kingship}
+  gods-feast-drunk-then-decree-destiny: {label: "The gods feast, drink beer until carefree, and then decree the champion's destiny", cluster: kingship}
+  word-test-destroy-and-recreate: {label: "To prove the power of his word the god by command destroys a thing and by command makes it whole again", cluster: kingship}
+  gods-acclaim-x-is-king: {label: "The assembled gods acclaim the victorious god: 'X is king!' and give him sceptre, throne and staff", cluster: kingship}
+  storm-god-arms-for-combat: {label: "The divine warrior arms himself with bow, mace, lightning, a net and the winds, clothed in terror", cluster: combat}
+  god-rides-storm-chariot: {label: "The god mounts the storm as his chariot, drawn by a named team of terrible steeds", cluster: combat}
+  flood-as-gods-great-weapon: {label: "The deluge (abubu) is the warrior god's great weapon", cluster: combat}
+  winds-driven-into-monsters-mouth: {label: "When the monster opens her mouth to swallow him, the god drives the winds into it and bloats her, then shoots her through the heart", cluster: combat}
+  god-stands-on-slain-monster: {label: "The god throws down the monster's carcass, stands on it and crushes her skull", cluster: combat}
+  monster-split-into-heaven-and-earth: {label: "The god splits the slain sea-monster in two like a fish for drying: one half becomes the sky, the other the earth", cluster: creation}
+  guards-hold-back-upper-waters: {label: "Guards are posted on the sky-hide so that the monster's (upper) waters do not escape", cluster: cosmology}
+  earthly-temple-counterpart-of-cosmic: {label: "A temple is built as the counterpart (mehret, tamšīl) of a cosmic dwelling (Apsu, heaven, Esharra)", cluster: cult}
+  moon-phases-prescribed-by-creator: {label: "The creator instructs the moon how to wax, be half on the seventh day, full at mid-month and vanish at month's end", cluster: cosmology}
+  rivers-from-monsters-eyes: {label: "Tigris and Euphrates flow out from the eyes of the slain monster; mountains are heaped on her head and breasts", cluster: creation}
+  images-of-defeated-as-reminder: {label: "Images of the defeated monsters are set up at the gate as a sign 'lest they be forgotten'", cluster: combat}
+  victor-washes-anoints-robes-enthroned: {label: "Still covered with the dust of battle, the victor is anointed, robed and enthroned with mace and crown", cluster: kingship}
+  babylon-house-of-the-great-gods: {label: "Babylon is named 'House (Gate) of the great gods', the stopping place of the gods on earth", cluster: cult}
+  humans-from-slain-gods-blood: {label: "Humankind is made from the blood of a slain rebel god", cluster: creation}
+  guilty-god-handed-over-for-execution: {label: "The assembly is asked who started the rebellion; the guilty god is handed over, bound and executed", cluster: combat}
+  gods-build-temple-for-supreme-god: {label: "The gods themselves mould bricks for a year and build the supreme god's temple and ziggurat as thanks for release from toil", cluster: cult}
+  gods-allotted-heaven-and-netherworld: {label: "The supreme god divides the gods into upper and lower, posting 300 in heaven and 300 below", cluster: cosmology}
+  warrior-bow-set-in-sky: {label: "The warrior god's bow is laid before the gods, kissed, named, and set in heaven as the 'Bow Star'", cluster: cosmology}
+  oath-with-water-oil-touching-throat: {label: "The gods swear allegiance with water and oil, touching their throats and invoking a curse on themselves", cluster: treaty}
+  on-earth-as-in-heaven: {label: "The god shall do on earth the same as what he did in heaven", cluster: kingship}
+  whatever-name-he-is-our-god: {label: "Though peoples are divided as to their gods, whatever name is invoked, he (the one god) is our god", cluster: theology}
+  god-who-revives-the-dead: {label: "The god is 'reviver of the dead' (muballiṭ mīti) who restores the moribund by his spell", cluster: theology}
+  god-herds-gods-like-sheep: {label: "The supreme god herds all the gods like sheep", cluster: kingship}
+  sacred-text-taught-father-to-son: {label: "The sacred names are to be pondered by the wise, repeated by father to son, and heeded by the shepherd-ruler", cluster: wisdom}
+  god-before-whom-sin-is-judged: {label: "Crime and sin must appear before the god for judgment; his word is truth and his command unalterable", cluster: theology}
+  heaven-and-earth-bless-god: {label: "Divine couples and heaven and earth in turn bless the supreme god (litany)", cluster: theology}
+  god-absolves-sin-reconciles-personal-god: {label: "The god absolves sin and reconciles the sufferer with his angry personal god", cluster: theology}
+  god-gives-sustenance-to-all-creatures: {label: "All living things await their portion from the god, who gives sustenance to every creature", cluster: theology}
+  elements-water-fire-air-mixed: {label: "The god's waters are mixed with fire and air (elements of the cosmos)", cluster: cosmology}
+  babylon-identified-with-eridu: {label: "Babylon is identified with Eridu, the primeval sacred city of Ea, gate of the Apsu", cluster: cult}
+  holy-city-like-sea-and-garden: {label: "The holy city is praised as a sea bringing in its yield, a fruit garden, a rolling wave of bounty", cluster: cult}
+  holy-city-gemstones-catalogue: {label: "The holy city is a carnelian bolt, a treasure chest of obsidian, lapis, agate and jasper", cluster: cult}
+  citizens-of-holy-city-privileged-freedom: {label: "The consecrated citizens of the holy city enjoy a freedom (exemption) that each king must establish", cluster: kingship}
+  seven-destroyer-gods-born-of-sky-and-earth: {label: "The sky god begets on Earth seven warrior gods (the Seven) and gives each a destructive commission", cluster: combat}
+  idle-warrior-god-urged-to-war: {label: "A warrior god lies idle in bed with his wife and is goaded by his weapons and companions to go out to war", cluster: combat}
+  field-life-better-than-city-life: {label: "The open field is praised over city life: city bread cannot compare with a cake baked in embers, the palace with a shepherd's hut", cluster: wisdom}
+  weapons-rust-from-disuse: {label: "Neglected weapons: cobwebs on the war gear, the bow too stiff, the arrowhead dull, the sword rusted for lack of slaughter", cluster: combat}
+  god-self-praise-i-am-litany: {label: "A god praises himself in a litany: in heaven I am a wild bull, on earth a lion, among the gods a fury", cluster: theology}
+  god-leaves-throne-cosmos-disordered: {label: "When the supreme god rises from his throne the seams of heaven and earth come apart: a flood follows, stars leave their places", cluster: flood}
+  cult-image-tarnished-and-renewed: {label: "The god's image is tarnished and must be cleansed by the fire god before the god returns to his seat", cluster: cult}
+  antediluvian-sages-sent-down-to-apsu: {label: "After the flood the seven sages (apkallu) and master craftsmen were sent down to the Apsu and never brought up again", cluster: flood}
+  substitute-ruler-while-god-absent: {label: "While the supreme god is away a rival god takes over the government of heaven and earth", cluster: kingship}
+  eagle-serpent-friendship-oath: {label: "An eagle and a serpent swear friendship by the sun god, with curses on whoever transgresses", cluster: fable}
+  eagle-devours-serpents-young: {label: "When its own young are grown, the eagle betrays the oath and eats the serpent's young", cluster: fable}
+  wise-youngest-warns-father: {label: "The littlest, wisest fledgling warns its father not to break the oath; the father does not listen", cluster: fable}
+  ambush-inside-carcass: {label: "On the sun god's advice, the wronged serpent hides inside the carcass of a wild ox to catch the greedy eagle", cluster: fable}
+  wings-clipped-cast-into-pit: {label: "The traitor's wings are cut, he is plucked and thrown into a pit to die of hunger and thirst", cluster: fable}
+  childless-king-prays-for-heir: {label: "A childless king beseeches the god daily for an heir, citing his sacrifices and piety", cluster: patriarchs}
+  plant-of-birth: {label: "A plant of birth (šammu ša alādi) can grant a son to the childless", cluster: patriarchs}
+  childlessness-a-disgrace-removed: {label: "Prayer to remove the disgrace (piltu) of childlessness by giving an heir (šumu, a 'name')", cluster: patriarchs}
+  rescued-animal-becomes-helper: {label: "A man rescues an animal from a pit and it swears friendship and offers whatever he asks", cluster: fable}
+  ascent-on-eagle-earth-shrinks: {label: "Carried up on the eagle, the rider sees the land shrink to a garden plot and the sea to a ditch, then vanish", cluster: ascent}
+  rider-falls-from-heavenly-flight: {label: "Losing heart on the way to heaven, the rider asks to be set down and plunges toward the earth", cluster: ascent}
+  dream-goddess-enthroned-with-lions: {label: "In a dream the visitor opens a sealed house in heaven and finds the goddess enthroned with lions beneath her throne", cluster: ascent}
+  passing-gates-of-gods-in-heaven: {label: "The heaven-traveller passes through the gates of Anu, Enlil and Ea, then of Sin, Shamash, Adad and Ishtar, prostrating at each", cluster: ascent}
+  goddess-searches-for-king: {label: "A goddess comes down to search the land for a shepherd and king", cluster: kingship}
+  gods-plan-first-city: {label: "The gods plan the first city, lay its foundations and build its brickwork", cluster: civilization}
+units:
+  # ---------------- Dialogue of Pessimism ----------------
+  - id: ane-dialpess-sb-palace-dine-hunt-house
+    tradition: ane-akkadian
+    title: "Master and servant: palace, dining, hunting, house-building (Dialogue of Pessimism 1-38)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["DialPess SB –:1-38"]
+    tags:
+      - {motif: master-servant-dialogue-every-plan-refuted, refs: ["DialPess SB –:1-9", "DialPess SB –:10-16"], note: "refrain arad mitanguranni / annû bēlī annû 'Servant, obey me! Yes, master, yes'; each plan answered first with lā tamaššar/putun, then reversed"}
+      - {motif: eating-well-makes-man-his-own-god, refs: ["DialPess SB –:12-13"], note: "šēbi patni ilšu ... itti qātī mesâti illak šamaš"}
+      - {motif: unwashed-hands-to-mouth-disgusting, refs: ["DialPess SB –:11", "DialPess SB –:13"], note: "washing hands before eating; Shamash goes with washed hands"}
+      - {motif: wanderer-fed-and-wanderer-ruined, refs: ["DialPess SB –:19-22", "DialPess SB –:25-28"], note: "same four creatures (muttapraššidu man, kalbu dayyālu, hahhūru, akkannu) first praised, then pitied"}
+      - {motif: houseless-man-a-fool-and-beggar, refs: ["DialPess SB –:30-36"], note: "qayyalu šinipât lilli 'a fawner, two-thirds a fool'; text fragmentary"}
+      - {motif: vanity-of-vanities, refs: ["DialPess SB –:37-38"], note: "building a house leads to breaking up one's father's house: every course of action cancels itself"}
+    hints:
+      - "Compare Eccl 1:2-3; 2:4-11 (houses built, all is hevel) and Eccl 6:7-9 on appetite; Eccl 3:1-8 (a time for each thing and its opposite)."
+      - "Washing hands before eating: compare Mark 7:3 and the ablution of Q 5:6."
+  - id: ane-dialpess-sb-silence-crime-love
+    tradition: ane-akkadian
+    title: "Silence before an adversary, doing something dishonest, loving a woman (Dialogue of Pessimism)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["DialPess SB –:a+1-52"]
+    tags:
+      - {motif: master-servant-dialogue-every-plan-refuted, refs: ["DialPess SB –:a+1-a+7", "DialPess SB –:39-45", "DialPess SB –:46-52"]}
+      - {motif: crime-punished-by-death-flaying-blinding-prison, refs: ["DialPess SB –:44-45"], note: "šumma dīk šumma kīṣ šumma nuppul šumma ṣabit šumma ina bīt killi nadi"}
+      - {motif: love-makes-man-forget-sorrow, refs: ["DialPess SB –:47-48"], note: "qūla u nissata imêš"}
+      - {motif: woman-as-pit-and-dagger, refs: ["DialPess SB –:51-52"], note: "sinništu būrtu būrtu šuttatu hirītu / patar parzilli šēlu ša ikkisu kišād eṭli"}
+      - {motif: strange-woman-deep-pit, refs: ["DialPess SB –:51"], note: "būrtu, šuttatu, hirītu: pit, hole, ditch"}
+    hints:
+      - "Woman as pit and sword: compare Prov 22:14; 23:27 (a deep pit, a narrow well), Prov 5:4 (sharp as a two-edged sword), Eccl 7:26 (more bitter than death, a snare)."
+      - "Crime without dishonest gain leaves one naked and hungry: compare Prov 1:11-19 and Job 24."
+      - "Silence before adversaries: compare Eccl 3:7 (a time to keep silence) and Prov 17:28."
+  - id: ane-dialpess-sb-sacrifice-loans-good-deed
+    tradition: ane-akkadian
+    title: "Sacrifice to one's god, lending, a good deed for the country (Dialogue of Pessimism 53-78)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["DialPess SB –:53-78"]
+    tags:
+      - {motif: master-servant-dialogue-every-plan-refuted, refs: ["DialPess SB –:53-61", "DialPess SB –:62-69", "DialPess SB –:70-78"]}
+      - {motif: sacrifice-as-loan-to-god, refs: ["DialPess SB –:56-57"], note: "qīpta eli qīpti ippuš 'he makes loan upon loan'"}
+      - {motif: giving-as-loan-to-god, refs: ["DialPess SB –:56-57"]}
+      - {motif: sacrifice-trains-god-like-dog, refs: ["DialPess SB –:60-61"], note: "ila tulammassū-ma kī kalbi arkīka ittanallak; šumma parṣī šumma lātarāk"}
+      - {motif: lending-sweet-as-love-recovery-painful-as-birth, refs: ["DialPess SB –:67"], note: "nadānu kīma râmi ṭāb u turru kīma alādi maruṣ (ṭāb partly restored)"}
+      - {motif: good-deed-stored-with-god, refs: ["DialPess SB –:72-73"], note: "šaknā usātūšu ina qappati ša marūtuk"}
+      - {motif: skulls-on-ruins-good-and-evil-indistinguishable, refs: ["DialPess SB –:76-78"], note: "elī-ma ina muhhi tīlānī labīrūti ... amur gulgullī ša arkûti u pānûti / ayyu bēl lemuttim-ma ayyu bēl usāti"}
+      - {motif: one-fate-befalls-all, refs: ["DialPess SB –:77-78"]}
+      - {motif: wise-and-fool-die-alike-leave-wealth, refs: ["DialPess SB –:76-78"], note: "here doer of evil and doer of good, low and great"}
+    hints:
+      - "Loan to God: compare Prov 19:17 (he who is kind to the poor lends to YHWH) and Q 2:245; 57:11 (a goodly loan)."
+      - "Skulls on the ruin mounds: compare Eccl 2:14-16; 9:2-3 (one fate for righteous and wicked), Ps 49:11-13, and Q 30:9 / 40:21 (walk the earth and see the end of those before)."
+      - "Interest and lending: compare Exod 22:24, Lev 25:36-37, Deut 23:20-21, and Q 2:275-280 on riba."
+  - id: ane-dialpess-sb-what-is-good
+    tradition: ane-akkadian
+    title: "What then is good? Death (Dialogue of Pessimism 79-86)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["DialPess SB –:79-86"]
+    tags:
+      - {motif: death-is-the-only-good, refs: ["DialPess SB –:80-82"], note: "enenna mīnû ṭāb / tikkī tikkaka šebēru ana nāri našāku ṭāb"}
+      - {motif: no-one-tall-enough-to-reach-heaven, refs: ["DialPess SB –:83-84"], note: "ayyu arku ša ana šamê elû / ayyu rapšu ša erṣeta ugammeru"}
+      - {motif: master-will-not-outlive-servant, refs: ["DialPess SB –:85-86"], note: "u bēlī lū šalāš ūmī kī arkīya iballuṭ"}
+      - {motif: vanity-of-vanities, refs: ["DialPess SB –:79-84"]}
+    hints:
+      - "Compare Eccl 2:17; 4:2-3 (the dead more fortunate than the living), Job 3:20-22, and the question 'who has gone up to heaven?' in Prov 30:4 and Deut 30:12; Q 17:37 (you cannot reach the mountains in height)."
+  # ---------------- Enuma elish I ----------------
+  - id: ane-ee-sb-1-theogony
+    tradition: ane-akkadian
+    title: "When on high: Apsu and Tiamat and the generations of the gods (Enuma elish I 1-20)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB I:1-20"]
+    tags:
+      - {motif: not-yet-list-describes-primeval-state, refs: ["Ee SB I:1-2", "Ee SB I:6-8"], note: "enūma eliš lā nabû šamāmū / šapliš ammatu šuma lā zakrat; gipāra lā kiṣṣurū ṣuṣâ lā šēʾū"}
+      - {motif: existence-as-being-named, refs: ["Ee SB I:1-2", "Ee SB I:8", "Ee SB I:10"], note: "šuma lā zakrat ... šuma lā zukkurū ... šuma izzakrū"}
+      - {motif: primeval-sweet-and-salt-waters-mingle, refs: ["Ee SB I:3-5"], note: "mûšunu ištēniš ihiqqū-ma"}
+      - {motif: creation-from-primeval-waters, refs: ["Ee SB I:3-9"], note: "tiāmtu is cognate with Hebrew tehom"}
+      - {motif: successive-generations-of-gods, refs: ["Ee SB I:9-17"], note: "Lahmu-Lahamu, Anshar-Kishar, Anu, Nudimmud (Ea)"}
+      - {motif: in-those-days-primordial-opening, refs: ["Ee SB I:1", "Ee SB I:7"]}
+      - {motif: son-in-fathers-image, refs: ["Ee SB I:14-16"], note: "ānu tamšīlašu ulid nudimmud 'Anu begot his likeness, Nudimmud'"}
+    hints:
+      - "Compare Gen 1:1-2 (tehom, before heaven and earth are named) and Gen 2:4b-5 (when no shrub was yet); Ps 104:6; Prov 8:24-26 (when there were no depths)."
+      - "Gen 5:3 (Adam begot a son in his likeness, after his image) echoes I:16 tamšīlašu."
+      - "Q 21:30 (heavens and earth were a joined mass which We split), Q 11:7 (his throne was upon the water)."
+  - id: ane-ee-sb-1-apsu-slain
+    tradition: ane-akkadian
+    title: "The young gods' noise; Apsu plots and is slain by Ea (Enuma elish I 21-78)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB I:21-78"]
+    tags:
+      - {motif: young-gods-noise-robs-elder-of-sleep, refs: ["Ee SB I:21-28", "Ee SB I:37-40"], note: "urriš lā šupšuhāku mūšiš lā ṣallāku ... qūlu liššakin-ma i niṣlal nīnu"}
+      - {motif: reason-human-noise, refs: ["Ee SB I:22-25", "Ee SB I:37-39"], note: "here the noise is that of the young gods, not humans"}
+      - {motif: divine-council-deliberates-deception, refs: ["Ee SB I:29-34"], note: "Apsu and his vizier Mummu take counsel before Tiamat to destroy the gods (interpretive fit)"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["Ee SB I:51-54"], note: "Apsu embraces and kisses Mummu; reversed hierarchy - interpretive"}
+      - {motif: wise-god-spellbinds-and-kills-primeval-father, refs: ["Ee SB I:59-70"], note: "tâšu ella ... šitta irtehīšu ... ipṭur riksīšu ištahaṭ agâšu melammīšu itbala ... ikmīšū-ma apsâ ināraššu"}
+      - {motif: deep-sleep-sent-by-god, refs: ["Ee SB I:64-65"], note: "šitta irtehīšu ṣalil ṭūbātiš"}
+      - {motif: victor-builds-dwelling-on-slain-foe, refs: ["Ee SB I:71-78"], note: "ukīn-ma eli apsî šubassu; names it Apsu; Ea and Damkina dwell there"}
+      - {motif: deity-names-creations, refs: ["Ee SB I:76"], note: "imbīšum-ma apsû"}
+      - {motif: divine-rest-seventh-day, refs: ["Ee SB I:75"], note: "after victory Ea 'rested in profound quiet' (šupšuhiš inūh-ma); rest after the work, not seventh day"}
+    hints:
+      - "Gods' rest disturbed by noise: compare Atrahasis and the flood motive; Gen 11:1-9 and Gen 6:5. Divine rest after the work: Gen 2:2-3; Q 50:38 (no weariness touched Us)."
+      - "Mother speaks for her offspring against the father's plan: compare Gen 27 (Rebekah) only loosely."
+  - id: ane-ee-sb-1-marduk-born
+    tradition: ane-akkadian
+    title: "Birth and splendour of Marduk (Enuma elish I 79-104)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB I:79-104"]
+    tags:
+      - {motif: marvellous-birth-of-divine-hero, refs: ["Ee SB I:79-88"], note: "ina kiṣṣi šīmāti ... ina qereb elli apsî ibbani marduk; ītinniq ṣerrēt ištarāti; gašir ištu ulla"}
+      - {motif: god-with-fourfold-eyes-and-ears, refs: ["Ee SB I:93-98"], note: "erba īnāšu erba uznāšu / šaptīšu ina šutābuli gīru ittanpah"}
+      - {motif: smoke-from-gods-nostrils-fire-from-mouth, refs: ["Ee SB I:96"]}
+      - {motif: god-chosen-to-surpass-gods, refs: ["Ee SB I:89-92", "Ee SB I:99-100"]}
+      - {motif: annunciation-of-son-and-name, refs: ["Ee SB I:101-102"], note: "name etymology: māriʾutu, māri šamšu 'son of the sun, the sun of the gods' - acclamation, not annunciation; interpretive"}
+      - {motif: fifty-names-of-god, refs: ["Ee SB I:103-104"], note: "labiš melammī ešret ilī ... pulhātu hamšāssina elīšu kamrā 'fifty terrors heaped on him', anticipating the fifty names"}
+    hints:
+      - "Fire from the god's lips: Ps 18:9; Isa 30:27; Job 41:11. Eyes in every direction: Ezek 1:18; 10:12; Zech 4:10; Rev 4:6-8."
+      - "A hero endowed from birth: Jer 1:5; Judg 13:5."
+  - id: ane-ee-sb-1-tiamat-musters
+    tradition: ane-akkadian
+    title: "Anu's winds roil Tiamat; she bears the monster army and exalts Qingu with the Tablet of Destinies (Enuma elish I 105-162)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB I:105-162"]
+    tags:
+      - {motif: four-winds-stir-great-sea, refs: ["Ee SB I:105-110"], note: "ibnī-ma šār erbetti ... ušabši agâm-ma idallah tiāmta"}
+      - {motif: young-gods-noise-robs-elder-of-sleep, refs: ["Ee SB I:116-122"], note: "now the gods inside Tiamat cannot sleep: ul niṣallal nīnu"}
+      - {motif: chaos-mother-bears-monster-army, refs: ["Ee SB I:133-146"], note: "ummu hubūr ... ittalad mušmahhī ... imta kīma dāmi zumuršunu ušmalli ... appūnā-ma ištēn-ešret"}
+      - {motif: sea-monsters-created, refs: ["Ee SB I:134-143"], note: "bašmu, mušhuššu, lahāmu, ugallu, uridimmu, girtablīlu, ūmī dabrūti, kulīlu, kusarikku"}
+      - {motif: monster-usurps-divine-kingship, refs: ["Ee SB I:147-160"], note: "ušašqi qingu ... malikūt ilī gimrassunu qātukka ušmalli"}
+      - {motif: tablet-of-destinies, refs: ["Ee SB I:157-160"], note: "iddinšum-ma ṭuppi šīmāti iratuš ušatmih"}
+      - {motif: god-speaks-my-word-immutable, refs: ["Ee SB I:158"], note: "kataduggûka lā innennâ likūn ṣīt pîka"}
+    hints:
+      - "Monster army of the sea: Dan 7:2-7 (four winds stir the great sea, beasts arise), Isa 27:1 (Leviathan the twisting serpent), Ps 74:13-14, Job 26:12-13; Rev 12-13 (dragon gives his authority to the beast)."
+      - "Eleven monsters: compare Gen 37:9 (eleven stars) only as number; Q 12:4."
+  # ---------------- Enuma elish II ----------------
+  - id: ane-ee-sb-2-ea-reports
+    tradition: ane-akkadian
+    title: "Ea reports Tiamat's war to Anshar (Enuma elish II 1-48)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB II:1-48"]
+    tags:
+      - {motif: message-repeated-verbatim, refs: ["Ee SB II:11-48"], note: "II 15-48 repeat I 129-162 almost word for word"}
+      - {motif: chaos-mother-bears-monster-army, refs: ["Ee SB II:19-32"]}
+      - {motif: tablet-of-destinies, refs: ["Ee SB II:43-46"]}
+      - {motif: monster-usurps-divine-kingship, refs: ["Ee SB II:33-46"]}
+    hints:
+      - "Repeated reports framed verbatim: compare Gen 24:34-49 and Job 1:14-19."
+  - id: ane-ee-sb-2-ea-anu-fail
+    tradition: ane-akkadian
+    title: "Anshar's dismay; Ea and Anu go against Tiamat and turn back (Enuma elish II 49-126)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB II:49-126"]
+    tags:
+      - {motif: elder-gods-fail-before-chaos-monster, refs: ["Ee SB II:79-94", "Ee SB II:103-118", "Ee SB II:119-126"], note: "ušib ušharrir-ma itūra arkiš; šaptāšunu kuttumā-ma qâliš ušbū"}
+      - {motif: woman-force-cannot-match-mans, refs: ["Ee SB II:92", "Ee SB II:116"], note: "emūqā sinništi lū dunnunā ul mala ša zikri"}
+      - {motif: high-god-warns-enemy-invincible, refs: ["Ee SB II:85-90"]}
+      - {motif: whom-shall-i-send, refs: ["Ee SB II:91", "Ee SB II:115", "Ee SB II:123-126"], note: "tūr šupurši 'send another'; no god goes out - interpretive link to the council's call for a volunteer"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Ee SB II:61-64"], note: "libbu rūqu mušimmu šīmti ša šubšû u hulluqu bašû ittīšu"}
+    hints:
+      - "Who will go for us? Isa 6:8; 1 Kgs 22:20-22. None dares face the monster: Job 41:2-3 (who can stand before me?)."
+      - "God who creates and destroys: Deut 32:39; 1 Sam 2:6; Isa 45:7."
+  - id: ane-ee-sb-2-marduk-volunteers
+    tradition: ane-akkadian
+    title: "Marduk volunteers and demands supreme destiny (Enuma elish II 127-162)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB II:127-162"]
+    tags:
+      - {motif: champion-demands-supremacy-as-price, refs: ["Ee SB II:155-162"], note: "šummā-ma anāku mutīr gimillīkun ... epšu pîya kīma kâtunū-ma šīmata lušīm-ma ... ai itūr ai innenâ siqar šaptīya"}
+      - {motif: foot-on-neck-of-enemies, refs: ["Ee SB II:146", "Ee SB II:148"], note: "kišād tiāmti urruhiš takabbas attā"}
+      - {motif: god-rides-storm-chariot, refs: ["Ee SB II:151"], note: "rikab ūmī urruhiš šutardī-ma"}
+      - {motif: woman-force-cannot-match-mans, refs: ["Ee SB II:143-144"], note: "u tiāmtu ša sinnišat(u) iyârka ina kakki"}
+      - {motif: high-god-bows-to-victorious-son, refs: ["Ee SB II:137-138"], note: "Anshar kisses Marduk's lips (iššiq šaptīšu) - only partially fits"}
+    hints:
+      - "Compare Deut 33:29 / Josh 10:24 (feet on the necks of kings), Ps 110:1; God riding the storm: Ps 18:11; 68:5; 104:3; Deut 33:26."
+  # ---------------- Enuma elish III ----------------
+  - id: ane-ee-sb-3-kakka-sent
+    tradition: ane-akkadian
+    title: "Anshar sends Kakka to Lahmu and Lahamu (Enuma elish III 1-66)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB III:1-66"]
+    tags:
+      - {motif: message-repeated-verbatim, refs: ["Ee SB III:12-66"]}
+      - {motif: chaos-mother-bears-monster-army, refs: ["Ee SB III:23-36"]}
+      - {motif: elder-gods-fail-before-chaos-monster, refs: ["Ee SB III:53-54"]}
+      - {motif: champion-demands-supremacy-as-price, refs: ["Ee SB III:55-66"]}
+  - id: ane-ee-sb-3-gods-feast
+    tradition: ane-akkadian
+    title: "Kakka delivers the message; the gods assemble, feast and decree Marduk's destiny (Enuma elish III 67-138)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB III:67-138"]
+    tags:
+      - {motif: messenger-kisses-ground-before-lord, refs: ["Ee SB III:69-70"], note: "uškēn-ma iššiq qaqqara maharšun"}
+      - {motif: message-repeated-verbatim, refs: ["Ee SB III:71-124"]}
+      - {motif: gods-feast-drunk-then-decree-destiny, refs: ["Ee SB III:129-138"], note: "ašnan īkulū iptiqū kurunna ... šikra ina šatê habṣu zumra / maʾdiš egû ... ana marduk ... išimmū šīmta"}
+      - {motif: gods-banquet-seated-by-rank, refs: ["Ee SB III:132-134"]}
+    hints:
+      - "Feast before the covenant/decision: compare Exod 24:11 (they beheld God and ate and drank) and Isa 25:6."
+  # ---------------- Enuma elish IV ----------------
+  - id: ane-ee-sb-4-enthronement
+    tradition: ane-akkadian
+    title: "Marduk enthroned; the test of his word; 'Marduk is king!' (Enuma elish IV 1-34)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB IV:1-34"]
+    tags:
+      - {motif: gods-confer-powers-on-younger-god, refs: ["Ee SB IV:1-16"], note: "niddinka šarrūta kiššat kal gimrēti"}
+      - {motif: god-speaks-my-word-immutable, refs: ["Ee SB IV:7-10"], note: "ištu ūmim-ma lā innennâ qibītka / šušqû u šušpulu šī lū qātka"}
+      - {motif: word-test-destroy-and-recreate, refs: ["Ee SB IV:19-26"], note: "iqbī-ma ina pîšu iʾʾabit lumāšu / itūr iqbīšum-ma lumāšu ittabni"}
+      - {motif: creation-by-word, refs: ["Ee SB IV:22-26"], note: "abātu u banû qibi liktūnā"}
+      - {motif: gods-acclaim-x-is-king, refs: ["Ee SB IV:27-30"], note: "ihdû ikrubū marduk-ma šarru; uṣṣibūšu haṭṭa kussâ u palâ"}
+      - {motif: god-who-revives-the-dead, refs: ["Ee SB IV:17-18"], note: "bēlu ša taklūka napištašu gimil-ma u ila ša lemnēti īhuzu tubuk napšassu - spare who trusts, destroy the wicked; loose fit"}
+      - {motif: father-god-blesses-victorious-son, refs: ["Ee SB IV:29-34"]}
+    hints:
+      - "'YHWH is king' (YHWH malak): Ps 93:1; 96:10; 97:1; 99:1; Ps 29:10. Raising and lowering: 1 Sam 2:7; Ps 75:8. Creation and destruction by word: Ps 33:9; Q 36:82 (Be, and it is)."
+      - "Spare him who trusts in you: Ps 2:12; 34:23."
+  - id: ane-ee-sb-4-arming
+    tradition: ane-akkadian
+    title: "Marduk arms himself and rides the storm chariot (Enuma elish IV 35-64)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB IV:35-64"]
+    tags:
+      - {motif: storm-god-arms-for-combat, refs: ["Ee SB IV:35-40", "Ee SB IV:55-58"], note: "qašta, mulmulla, miṭṭa, išpata; iškun berqa ina pānīšu; nabla muštahmiṭa zumuršu umtalli"}
+      - {motif: net-from-which-none-escapes, refs: ["Ee SB IV:41-44"], note: "īpuš-ma sapāra šulmû qerbiš tiāmta"}
+      - {motif: four-winds-as-chariots, refs: ["Ee SB IV:42-48"], note: "erbetti šārī ušteṣbita ... šūta iltāna šadâ amurra; then seven winds; not literally chariots"}
+      - {motif: seven-winds-storm, refs: ["Ee SB IV:45-48"]}
+      - {motif: flood-as-gods-great-weapon, refs: ["Ee SB IV:49"], note: "iššī-ma bēlu abūba kakkašu rabâ"}
+      - {motif: god-rides-storm-chariot, refs: ["Ee SB IV:50-54"], note: "narkabta ūma lā mahra galitta irkab; four steeds Šaggiš, Lā-pādû, Rāhiṣ, Mupparšu"}
+      - {motif: named-weapons-of-divine-warrior, refs: ["Ee SB IV:52"]}
+      - {motif: plant-and-water-of-life-revive-hero, refs: ["Ee SB IV:61-62"], note: "šammi imta bullî tamih rittuššu: an antidote plant against venom; loose fit"}
+    hints:
+      - "Divine warrior's arming: Hab 3:8-11 (bow bared, arrows, lightning, chariots of salvation, against the sea); Ps 18:8-16; Ps 7:13-14; Isa 59:17; Zech 9:14."
+      - "God's net: Ezek 32:3 (I will spread my net over you ... the dragon of the seas); Hos 7:12."
+      - "Four winds: Zech 6:5; Dan 7:2; Jer 49:36."
+  - id: ane-ee-sb-4-battle
+    tradition: ane-akkadian
+    title: "Single combat: Marduk slays Tiamat (Enuma elish IV 65-104)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB IV:65-104"]
+    tags:
+      - {motif: sea-monster-defeated-by-god, refs: ["Ee SB IV:93-104"]}
+      - {motif: giant-champion-challenge, refs: ["Ee SB IV:76-86"], note: "endīm-ma anāku u kâši i nīpuš šašma 'let us fight single combat, you and I'"}
+      - {motif: tongue-like-serpent-venom-of-viper, refs: ["Ee SB IV:71-72"], note: "ina šaptīša lullâ ukalla sarrāti - Tiamat holds lies on her lips; loose fit"}
+      - {motif: winds-driven-into-monsters-mouth, refs: ["Ee SB IV:95-102"], note: "iptē-ma pīša tiāmtu ana laʾātīša / imhulla uštēriba ana lā katām šaptīša ... issuk mulmulla ihtepi karassa ... ušalliṭ libba"}
+      - {motif: god-stands-on-slain-monster, refs: ["Ee SB IV:103-104"], note: "šalamtaš iddâ elīša izzaza"}
+      - {motif: monster-caught-in-gods-net-by-many-peoples, refs: ["Ee SB IV:95"], note: "ušparrir-ma bēlu sapārašu ušalmīši"}
+      - {motif: mother-accused-of-unchastity, refs: ["Ee SB IV:79-82"], note: "Marduk accuses Tiamat: tazerrī rēma 'you spurned motherly love (womb)' and took Qingu as spouse illegitimately - loose fit"}
+    hints:
+      - "Ps 74:13-14 (you broke the heads of the dragons on the waters), Ps 89:10-11 (you crushed Rahab like a carcass), Isa 51:9-10, Job 26:12-13 (by his understanding he struck Rahab; by his wind the heavens), Job 9:13."
+      - "Single combat challenge: 1 Sam 17:8-10."
+  - id: ane-ee-sb-4-cosmos-from-carcass
+    tradition: ane-akkadian
+    title: "Captives netted, Tablet of Destinies taken, Tiamat split into heaven (Enuma elish IV 105-146)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB IV:105-146"]
+    tags:
+      - {motif: net-from-which-none-escapes, refs: ["Ee SB IV:107-114"], note: "nīta lamû naparšudiš lā leʾû; sapāriš nadû-ma kamāriš ušbū"}
+      - {motif: catalogue-of-slain-monsters, refs: ["Ee SB IV:115-118"], note: "the eleven creatures bound and trampled; not killed"}
+      - {motif: tablet-of-destinies, refs: ["Ee SB IV:119-122"], note: "īkimšū-ma ṭuppi šīmāti lā simātīšu / ina kišibbi iknukam-ma irtuš itmuh"}
+      - {motif: god-stands-on-slain-monster, refs: ["Ee SB IV:129-130"], note: "ina miṭṭīšu lā pādî ulatti muhha"}
+      - {motif: monster-split-into-heaven-and-earth, refs: ["Ee SB IV:136-138"], note: "ihpīšī-ma kīma nūn mašṭê ana šinīšu / mišlušša iškunam-ma šamāmī uṣṣallil"}
+      - {motif: slain-monster-made-into-cosmos, refs: ["Ee SB IV:135-140"]}
+      - {motif: creation-by-separation, refs: ["Ee SB IV:137-140"]}
+      - {motif: firmament-divides-waters, refs: ["Ee SB IV:139-140"], note: "išdud maška maṣṣara ušaṣbit / mêša lā šūṣâ šunūti umtaʾʾir"}
+      - {motif: guards-hold-back-upper-waters, refs: ["Ee SB IV:139-140"]}
+      - {motif: earthly-temple-counterpart-of-cosmic, refs: ["Ee SB IV:141-146"], note: "uštamhir mehret apsî ... ešgalla tamšīlašu ukīn ešarra"}
+    hints:
+      - "Gen 1:6-8 (raqia separating waters above from waters below), Ps 104:2 (stretching heaven like a tent-skin), Ps 148:4, Job 38:8-11 (bars and doors for the sea); Q 21:30 (heavens and earth were joined, We split them)."
+      - "Gen 7:11 / 8:2 (windows of heaven, sluices) for guarded upper waters."
+      - "Exod 25:9, 40 (sanctuary after the heavenly pattern, tavnit) and Heb 8:5 for temple as counterpart."
+  # ---------------- Enuma elish V ----------------
+  - id: ane-ee-sb-5-astral-order
+    tradition: ane-akkadian
+    title: "Marduk orders stars, year, moon and sun (Enuma elish V 1-46)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB V:1-46"]
+    tags:
+      - {motif: luminaries-rule-day-night, refs: ["Ee SB V:12-22", "Ee SB V:46"], note: "nannāra uštēpâ mūša iqtīpa"}
+      - {motif: god-orders-days-months-years, refs: ["Ee SB V:3-8"], note: "uʾaddi šatta ... šinšeret arhī kakkabī šulušā ušziz"}
+      - {motif: moon-phases-prescribed-by-creator, refs: ["Ee SB V:13-22"], note: "qarnī nabâta ... ina sebūti agâ mašla / šapattu lū šutamhurāt ... ina šalāšê"}
+      - {motif: moon-crescent-of-seventh-day, refs: ["Ee SB V:16-17"]}
+      - {motif: named-constellations, refs: ["Ee SB V:1-8"], note: "kakkabī tamšīlšunu lumāšī ušziz; Neberu fixed"}
+      - {motif: temple-festive-on-seventh-and-fifteenth, refs: ["Ee SB V:17-18"], note: "seventh day half-crown, fifteenth (šapattu) full moon; calendrical, not festal"}
+      - {motif: sun-god-judge-of-gods, refs: ["Ee SB V:24-25"], note: "dīna dīnā ... šamaš tummâta dâka habāla; broken"}
+    hints:
+      - "Gen 1:14-18 (lights for signs, seasons, days and years; the lesser to rule the night), Ps 104:19 (the moon for seasons), Ps 136:7-9, Sir 43:6-8; Q 10:5 (moon in stations to know the number of years), Q 36:39-40, Q 6:96-97."
+      - "šapattu (15th day) and Hebrew shabbat: compare Isa 1:13; 2 Kgs 4:23 (new moon and sabbath paired)."
+  - id: ane-ee-sb-5-cosmos-from-body
+    tradition: ane-akkadian
+    title: "Clouds, rain, rivers and mountains made from Tiamat's body (Enuma elish V 47-66)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB V:47-66"]
+    tags:
+      - {motif: slain-monster-made-into-cosmos, refs: ["Ee SB V:47-62"]}
+      - {motif: rivers-from-monsters-eyes, refs: ["Ee SB V:53-58"], note: "iptē-ma ina īnīša puratta idiglat; išpuk ina ṣertīša šadî bērūti"}
+      - {motif: four-rivers-of-paradise, refs: ["Ee SB V:55"], note: "only Euphrates and Tigris; interpretive link"}
+      - {motif: waters-from-above-and-below, refs: ["Ee SB V:49-54"], note: "clouds, wind, rain, mist from her foam/spittle; nagba uptettâ mê ittešbi"}
+      - {motif: monster-split-into-heaven-and-earth, refs: ["Ee SB V:61-62"], note: "mišilša uṣṣallila erṣeta uktinna"}
+      - {motif: god-stands-on-slain-monster, refs: ["Ee SB V:59-60"], note: "her tail tied as durmāhu 'Great Bond'; Apsu beneath his feet"}
+    hints:
+      - "Gen 2:10-14 (Tigris and Euphrates from Eden), Gen 7:11 (fountains of the deep opened), Job 38:22-30 (storehouses of snow, rain), Ps 147:16-18."
+  - id: ane-ee-sb-5-homage
+    tradition: ane-akkadian
+    title: "Trophies, homage, robing and the name Lugaldimmerankia (Enuma elish V 67-116)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB V:67-116"]
+    tags:
+      - {motif: tablet-of-destinies, refs: ["Ee SB V:69-70"], note: "given to Anu as foremost trophy"}
+      - {motif: images-of-defeated-as-reminder, refs: ["Ee SB V:73-76"], note: "ibnī-ma ṣalmīšunu ina bāb apsî ušaṣbit / ahrâtaš lā immaššâ šī lū ittu"}
+      - {motif: slain-monsters-as-temple-trophies, refs: ["Ee SB V:75-76"]}
+      - {motif: gods-prostrate-before-victor, refs: ["Ee SB V:85-88"], note: "uškinnūš ... unaššaqū šēpīšu ... annāma šarru"}
+      - {motif: victor-washes-anoints-robes-enthroned, refs: ["Ee SB V:89-99"], note: "ubbuhu turbuʾ šašmi; hašurra ... zumuršu ušalbak; agâ rašubbati; feet on a dragon (mušhuššu)"}
+      - {motif: foot-on-neck-of-enemies, refs: ["Ee SB V:98"], note: "eli mušhušši šēpīšu ušaršid (restored)"}
+      - {motif: gods-acclaim-x-is-king, refs: ["Ee SB V:109-116"], note: "pānâ-ma marduk māru narāmni / inanna šarrakun"}
+      - {motif: hero-hailed-by-epithets, refs: ["Ee SB V:112"], note: "lugaldimerankiʾa 'king of the gods of heaven and netherworld'"}
+    hints:
+      - "Monuments 'lest they be forgotten': Josh 4:6-7 (stones as a sign), Exod 17:14. Enemies a footstool: Ps 110:1. 'My beloved son' to king: Ps 2:7."
+  - id: ane-ee-sb-5-babylon-founded
+    tradition: ane-akkadian
+    title: "Marduk announces Babylon, home of the great gods (Enuma elish V 117-158)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB V:117-158"]
+    tags:
+      - {motif: babylon-house-of-the-great-gods, refs: ["Ee SB V:122-130", "Ee SB V:137-138"], note: "lubbī-ma šumšu bābili bītāt ilī rabûti ... ašruššu lū nubattakun"}
+      - {motif: earthly-temple-counterpart-of-cosmic, refs: ["Ee SB V:119-122"], note: "elēnu apsî ... mehret ešarra"}
+      - {motif: temple-tower-reaching-heaven, refs: ["Ee SB V:125-128"], note: "gods come up from Apsu and down from heaven to lodge there - loose fit"}
+      - {motif: gods-prostrate-before-victor, refs: ["Ee SB V:151-154"]}
+      - {motif: god-gives-sustenance-to-all-creatures, refs: ["Ee SB V:139-142"], note: "the gods ask daily portions (sattukku) and rest from toil there; fragmentary"}
+    hints:
+      - "Gen 11:4-9 (Babel, 'gate of the gods', its tower with its top in heaven) and Gen 28:12-17 (gods ascending and descending; house of God, gate of heaven)."
+      - "God chooses the place for his name to dwell: Deut 12:5, 11; Ps 132:13-14."
+  # ---------------- Enuma elish VI ----------------
+  - id: ane-ee-sb-6-humans-created
+    tradition: ane-akkadian
+    title: "Humankind made from Qingu's blood to bear the gods' toil (Enuma elish VI 1-38)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VI:1-38"]
+    tags:
+      - {motif: humans-from-slain-gods-blood, refs: ["Ee SB VI:5-7", "Ee SB VI:31-33"], note: "dāmī lukṣur-ma eṣemta lušabšī-ma ... lū amēlu šumšu; ina dāmīšu ibnû amēlūta"}
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Ee SB VI:8", "Ee SB VI:34-36"], note: "lū emdū dulli ilī-ma šunu lū pašhū"}
+      - {motif: guilty-god-handed-over-for-execution, refs: ["Ee SB VI:13-32"], note: "linnadnam-ma ištēn ahūšun / šū liʾʾabbit-ma nišū lippatqā ... qingum-ma ša ibnû tuqunta"}
+      - {motif: divine-plural-speech, refs: ["Ee SB VI:5-7"], note: "Marduk's first-person deliberative 'let me make' (lubnī-ma lullâ amēla) to Ea; resembles divine deliberation before creating man"}
+      - {motif: creation-by-word, refs: ["Ee SB VI:6"], note: "lū amēlu šumšu 'let its name be Man'"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Ee SB VI:37-38"], note: "šipru šū lā naṭû hasāsīš"}
+    hints:
+      - "Gen 1:26 (let us make man) and Gen 2:7, 15 (man formed to work the ground); Gen 9:6 (blood and image); Q 2:30 (I will place a vicegerent ... who sheds blood), Q 96:2 (created man from a clot, ʿalaq), Q 23:12-14 (flesh and bones)."
+      - "Guilty one handed over to die so others live: Jonah 1:12-15; John 11:50."
+  - id: ane-ee-sb-6-babylon-built
+    tradition: ane-akkadian
+    title: "Gods divided above and below; the gods build Babylon and Esagila and feast (Enuma elish VI 39-81)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VI:39-81"]
+    tags:
+      - {motif: gods-allotted-heaven-and-netherworld, refs: ["Ee SB VI:39-46"], note: "hamšat šušši ina šamê ... nēr uštēšib (300 in heaven, 300 below, 600 total)"}
+      - {motif: gods-build-temple-for-supreme-god, refs: ["Ee SB VI:49-66"], note: "anunnakkū itrukū alla / šattu ištât libittašu iltabnū ... ša esagil mehret apsî ullû rēšīšu / ibnû-ma ziqqurrat apsî elīta"}
+      - {motif: temple-tower-reaching-heaven, refs: ["Ee SB VI:62-63"]}
+      - {motif: earthly-temple-counterpart-of-cosmic, refs: ["Ee SB VI:62", "Ee SB VI:66"]}
+      - {motif: babylon-house-of-the-great-gods, refs: ["Ee SB VI:57", "Ee SB VI:72-73"], note: "annâ bābili šubat narmîkun"}
+      - {motif: dinner-of-gods-at-temple-inauguration, refs: ["Ee SB VI:70-77"]}
+      - {motif: gods-each-build-temple-with-hoe, refs: ["Ee SB VI:59", "Ee SB VI:68"]}
+      - {motif: officers-of-hundreds-and-thousands, refs: ["Ee SB VI:42-44", "Ee SB VI:69"], note: "fixed numbers 300/600 of gods; loose fit"}
+      - {motif: seven-spirits-of-wisdom, refs: ["Ee SB VI:80-81"], note: "fifty great gods and the seven gods of destinies"}
+    hints:
+      - "Gen 11:3-4 (let us make bricks ... a city and a tower with its top in the heavens); Exod 1:14; 5:7-19 (brick-making toil); 1 Kgs 6:1, 38 (temple built over years)."
+  - id: ane-ee-sb-6-bow-oath-kingship
+    tradition: ane-akkadian
+    title: "The bow set in heaven; oath of allegiance; Marduk to be shepherd of humankind (Enuma elish VI 82-122)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VI:82-122"]
+    tags:
+      - {motif: warrior-bow-set-in-sky, refs: ["Ee SB VI:82-92"], note: "qašta ittašiq šī lū mārtī ... šalšu šumša kakkab qašti ina šamê ušāpi"}
+      - {motif: sign-in-sky, refs: ["Ee SB VI:90-91"], note: "the bow of the warrior god made visible in heaven after the battle with the sea"}
+      - {motif: oath-with-water-oil-touching-throat, refs: ["Ee SB VI:96-98"], note: "uzakkirū-ma ana ramānīšunu arāra / ina mê u šamni itmû ulappitū napšāti"}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["Ee SB VI:97-98"], note: "self-curse oath of loyalty, not to destroy - loose fit"}
+      - {motif: gods-acclaim-x-is-king, refs: ["Ee SB VI:93-100"]}
+      - {motif: on-earth-as-in-heaven, refs: ["Ee SB VI:112"], note: "tamšīl ina šamê īteppušu ina erṣeti līteppuš"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["Ee SB VI:107"], note: "līpuš-ma rēʾût ṣalmāt qaqqadi binâtuššu"}
+      - {motif: whatever-name-he-is-our-god, refs: ["Ee SB VI:119-120"], note: "lū zīzā-ma ṣalmāt qaqqadi ilī / nâši mala šuma nibbû šū lū ilni"}
+      - {motif: fifty-names-of-god, refs: ["Ee SB VI:121-122"], note: "i nibbī-ma hamšā šumīšu"}
+      - {motif: hymns-written-down-for-posterity, refs: ["Ee SB VI:108"], note: "ahrâtaš ūmī lā mašê lizakkirā alkassu (oral telling, not writing)"}
+    hints:
+      - "The warrior's bow hung in the sky after subduing the waters: Gen 9:12-17 (my bow in the cloud); Hab 3:9; Lam 2:4; Ezek 1:28."
+      - "On earth as in heaven: Matt 6:10. Each people with its god, yet one god for us: Mic 4:5; Deut 32:8-9; Zech 14:9 (YHWH one and his name one); Q 17:110 (call him Allah or al-Rahman: his are the most beautiful names), Q 7:180."
+  - id: ane-ee-sb-6-names-1-9
+    tradition: ane-akkadian
+    title: "The fifty names begin: Marduk to Namru (Enuma elish VI 123-166)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VI:123-166"]
+    tags:
+      - {motif: fifty-names-of-god, refs: ["Ee SB VI:123-160"]}
+      - {motif: god-who-revives-the-dead, refs: ["Ee SB VI:151-153"], note: "bēlu ša ina šiptīšu elleti uballiṭu ilī mītūti"}
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Ee SB VI:129-134"], note: "nišī ša ibnû šikitta napša / dulli ilī īmidū-ma šunu ippašhū"}
+      - {motif: breath-of-life-into-nostrils, refs: ["Ee SB VI:129"], note: "šikitta napša 'creatures with breath (of life)' - loose fit"}
+      - {motif: annunciation-of-son-and-name, refs: ["Ee SB VI:123"], note: "marduk ša ištu ṣītīšu ibbûšu abūšu ānu - named at birth"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["Ee SB VI:124", "Ee SB VI:127-128"], note: "šākin mirīti u mašqīti; māru šamši ... ina nūrīšu namri littallakū"}
+      - {motif: flood-as-gods-great-weapon, refs: ["Ee SB VI:125"]}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Ee SB VI:137-138"], note: "eziz u muštāl sabuš u tayyār / rapaš libbašu"}
+      - {motif: god-loves-to-keep-humans-alive, refs: ["Ee SB VI:131-132"], note: "banâ abāta napšura enēna 'creation, destruction, absolution, punishment'"}
+    hints:
+      - "Ps 23:2 (green pastures, still waters), Ps 36:10 (in your light we see light), Isa 2:5; slow to anger yet relenting: Exod 34:6-7, Joel 2:13; Deut 32:39 (I kill and make alive). The beautiful names: Q 59:22-24."
+  # ---------------- Enuma elish VII ----------------
+  - id: ane-ee-sb-7-names-10-23
+    tradition: ane-akkadian
+    title: "Names Asari to Zahgurim (Enuma elish VII 1-56)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VII:1-56"]
+    tags:
+      - {motif: fifty-names-of-god, refs: ["Ee SB VII:1-56"]}
+      - {motif: god-who-revives-the-dead, refs: ["Ee SB VII:25-30"], note: "bēl šipti elleti muballiṭ mīti ... rēmēnû ša bulluṭu bašû ittīšu"}
+      - {motif: humans-created-to-bear-gods-labor, refs: ["Ee SB VII:27-29"], note: "ana padîšunu ibnû amēlūta - created humankind to free (even hostile) gods"}
+      - {motif: god-before-whom-sin-is-judged, refs: ["Ee SB VII:35-40"], note: "mūdê libbi ilī ša ibarrû karša ... mušēšir kitti nāsih itgura dabāba / ša sartu u kittu umtassâ"}
+      - {motif: god-brings-early-flood-and-grain, refs: ["Ee SB VII:1-2", "Ee SB VII:21-22"], note: "bānû ê u qê mušēṣû urqīti"}
+      - {motif: hymns-written-down-for-posterity, refs: ["Ee SB VII:18", "Ee SB VII:31-32"], note: "ai immaši ina apâti epšetašu"}
+    hints:
+      - "God who knows the hearts: Jer 17:10; Ps 7:10; 1 Sam 16:7; Q 67:13. The merciful who revives: Q 30:50 (He revives the earth after its death; He revives the dead). Gives the seed and the grain: Ps 104:14; Q 6:95."
+  - id: ane-ee-sb-7-names-24-50
+    tradition: ane-akkadian
+    title: "Names Enbilulu to 'Lord of the Lands' (Enuma elish VII 57-136)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VII:57-136"]
+    tags:
+      - {motif: fifty-names-of-god, refs: ["Ee SB VII:57-136"]}
+      - {motif: god-dams-waters-builds-irrigation, refs: ["Ee SB VII:59-63"], note: "berāti upattû uzaʾʾizu mê nuhši; īka u palga"}
+      - {motif: storm-god-sends-winds-in-succession-for-harvest, refs: ["Ee SB VII:119-121b"], note: "addu ... ṭābu rigmašu eli erṣeti ... šapliš ana nišī tiʾûta liddin"}
+      - {motif: god-stands-on-slain-monster, refs: ["Ee SB VII:70-71"], note: "sirsir šāpik šadî elēnuš tiāmti"}
+      - {motif: sea-split-by-staff-and-east-wind, refs: ["Ee SB VII:74-77"], note: "ša tiāmta rapašta ītebberu ... kī titurri ... tiāmtu rukūbšū-ma šū malāhša - crossing the sea as bridge/boatman; loose fit"}
+      - {motif: humans-from-slain-gods-blood, refs: ["Ee SB VII:89-90"], note: "ābit ilī ša tiāmti ēpiš nišī ina mimmêšun"}
+      - {motif: god-herds-gods-like-sheep, refs: ["Ee SB VII:130-131"], note: "kīma ṣēni lirtaʾâ ilī gimrašun"}
+      - {motif: named-constellations, refs: ["Ee SB VII:124-130"], note: "nēberu kakkabšu ... ša kakkabī šamāmī alkassunu likīn-ma"}
+      - {motif: god-loves-to-keep-humans-alive, refs: ["Ee SB VII:113-114"], note: "erba ṣalmāt qaqqadi binâtuššu / ela šâšu ṭēmi ūmīšina lā iyadda ilu mamman: only he knows their lifespan"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Ee SB VII:117-118"], note: "libbu rūqu ša lā ilammadū ilū gimrāssun"}
+    hints:
+      - "Only God knows the term of life: Ps 31:16; 39:5; Job 14:5; Q 31:34. The god gives rain and voice of thunder: Ps 29:3-9; Ps 65:10-14. Calling the stars by name and leading them: Isa 40:26; Ps 147:4. Crossing the sea: Ps 77:20; Isa 51:10."
+  - id: ane-ee-sb-7-epilogue
+    tradition: ane-akkadian
+    title: "Ea gives his own name; epilogue on teaching and writing the names (Enuma elish VII 137-164)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Ee SB VII:137-164"]
+    tags:
+      - {motif: younger-god-receives-powers-from-elder, refs: ["Ee SB VII:139-142"], note: "šū kīma yâtī-ma ea lū šumšu / rikis parṣīya kalīšunu libēl-ma"}
+      - {motif: sacred-text-taught-father-to-son, refs: ["Ee SB VII:145-150"], note: "lišannī-ma abu māra lišāhiz / ša rēʾî u nāqidi lipattâ uznīšun"}
+      - {motif: fathers-instruction-mothers-torah, refs: ["Ee SB VII:147"]}
+      - {motif: god-before-whom-sin-is-judged, refs: ["Ee SB VII:151-156"], note: "kīnat amāssu lā enât qibīssu ... ša annu u gillatu maharšu bāʾû"}
+      - {motif: hymns-written-down-for-posterity, refs: ["Ee SB VII:157-158"], note: "išṭur-ma ištakan ana šemî arkûti"}
+      - {motif: fifty-names-of-god, refs: ["Ee SB VII:143-144"]}
+      - {motif: hymnic-closing-praise-of-hero, refs: ["Ee SB VII:159-162"], note: "zamāru ša marduk ša tiāmta ikmû-ma ilqû šarrūta"}
+    hints:
+      - "Teach them diligently to your children: Deut 6:6-7; Ps 78:3-6; Exod 17:14 (write this for a memorial). Num 23:19 (God's word does not change). Wherever water is drunk his name invoked: Mal 1:11 (from the rising of the sun my name is great among the nations)."
+  # ---------------- Elevation of Babylon ----------------
+  - id: ane-elevbab-sb-hymn-marduk
+    tradition: ane-akkadian
+    title: "Hymn to Marduk, provider and absolver (Elevation of Babylon 1-81)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ElevBab SB –:1-81"]
+    tags:
+      - {motif: god-speaks-my-word-immutable, refs: ["ElevBab SB –:4-5"], note: "ša ana ṣīt pîšu lā unakkaru (broken)"}
+      - {motif: black-headed-raise-eyes-to-god, refs: ["ElevBab SB –:14"], note: "ina kibrāt erbetti ištammarā nišū narbîšu"}
+      - {motif: goddess-mother-of-orphan-carer-of-widow, refs: ["ElevBab SB –:38-39"], note: "tereʾʾi ulāla (first half restored)"}
+      - {motif: god-absolves-sin-reconciles-personal-god, refs: ["ElevBab SB –:46-47"], note: "gillata tapassas ... tusallam ilšu"}
+      - {motif: god-gives-sustenance-to-all-creatures, refs: ["ElevBab SB –:52-53", "ElevBab SB –:69-75"], note: "ana isqīšunu uqaʾʾûka / ana šiknāt napišti mithāriš tanaššar iprī"}
+      - {motif: storm-god-sends-winds-in-succession-for-harvest, refs: ["ElevBab SB –:50-51"], note: "šāra ṭāba ... ša šattu uhalliq irâb ūmakkal 'restores in a day what was lost in a year'"}
+      - {motif: sea-monster-defeated-by-god, refs: ["ElevBab SB –:67"], note: "tušakniš tâmta 'you subjugated the sea'"}
+      - {motif: elements-water-fire-air-mixed, refs: ["ElevBab SB –:75-77"], note: "ittīšunu summuhū išātu u šāru"}
+      - {motif: king-of-the-four-quarters, refs: ["ElevBab SB –:42"], note: "šarra migir ilī tanabbi: god appoints the king"}
+    hints:
+      - "Ps 104:27-28 and Ps 145:15-16 (the eyes of all wait upon you, you give them their food in season); Q 11:6 (no creature but its provision is with God). Absolving sin: Ps 103:3; 130:4. Shepherd of the weak: Ezek 34:16; Ps 72:12-13."
+      - "Restores in a day what was lost in a year: Joel 2:25; Job 42:10."
+  - id: ane-elevbab-sb-blessing-esagil-eridu
+    tradition: ane-akkadian
+    title: "Gods bless Marduk; Esagil and Eridu-Babylon praised (Elevation of Babylon 82-108)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ElevBab SB –:82-108"]
+    tags:
+      - {motif: heaven-and-earth-bless-god, refs: ["ElevBab SB –:82-85"], note: "ānu u antu ikarrabū ana marūtuk ... šamû u erṣetu ikarrabū ana marūtuk"}
+      - {motif: earthly-temple-counterpart-of-cosmic, refs: ["ElevBab SB –:86-89"], note: "tamšīlātu ša apsî maṭlātu ša eridu / mehret ēšarra"}
+      - {motif: babylon-identified-with-eridu, refs: ["ElevBab SB –:93-101"], note: "erīdu šumšu bābilu nibīssu"}
+      - {motif: gate-of-netherworld-ganzer, refs: ["ElevBab SB –:93-94"], note: "erīdu bāb apsî ... abul arallî markas šamê"}
+      - {motif: holy-city-gemstones-catalogue, refs: ["ElevBab SB –:105-108"], note: "sikkūr sāmti ... ṣurru uqnû pappardilû ... ašpû šūquru"}
+      - {motif: in-those-days-primordial-opening, refs: ["ElevBab SB –:100-101"], note: "ašar šū ibbanû: the place where it was created - loose fit"}
+    hints:
+      - "Ps 148 (heaven, earth and all their hosts praise YHWH) and Ps 103:20-22. Jerusalem's gates and walls of precious stones: Isa 54:11-12; Rev 21:18-21. Gate of heaven: Gen 28:17."
+  - id: ane-elevbab-sb-city-and-citizens
+    tradition: ane-akkadian
+    title: "Babylon's abundance, river, wall, king and privileged citizens (Elevation of Babylon 109-134)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ElevBab SB –:109-134"]
+    tags:
+      - {motif: holy-city-like-sea-and-garden, refs: ["ElevBab SB –:109-111"], note: "kīma tâmti naši hiṣibšu / kīma kirî inbī"}
+      - {motif: ten-antediluvian-generations, refs: ["ElevBab SB –:115", "ElevBab SB –:127"], note: "alūlu šarrašu abi nišī ahrâti; rihût alalgar - first antediluvian kings claimed for Babylon"}
+      - {motif: four-rivers-of-paradise, refs: ["ElevBab SB –:116-121"], note: "purattu nāršu šiknat ... nudimmud; fertility of its banks - loose fit"}
+      - {motif: citizens-of-holy-city-privileged-freedom, refs: ["ElevBab SB –:128-132"], note: "ṣābū kidinni ša bābili ... šarru ana šarri andurāršunu išakkan"}
+      - {motif: proclaim-liberty-throughout-the-land, refs: ["ElevBab SB –:132"], note: "andurāru, cognate of Hebrew dəror"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["ElevBab SB –:112-113"], note: "kakkab marūtuk ... šamšu šūquru; ēma šamši abullašu - astral sign of the city"}
+    hints:
+      - "Lev 25:10 and Jer 34:8-17 (proclaim dəror); Isa 61:1. City like the garden of God: Gen 13:10; Ezek 28:13; Ps 46:5 (a river whose streams gladden the city of God); Ps 87."
+  # ---------------- Erra I ----------------
+  - id: ane-erra-sb-1-invocation
+    tradition: ane-akkadian
+    title: "Invocation of Išum; Erra restless for war (Erra I 1-27)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:1-27"]
+    tags:
+      - {motif: hero-hailed-by-epithets, refs: ["Erra SB I:1-5"], note: "šar gimir dadmē bānû kibrāti ... nāqid ṣalmāt qaqqadi rēʾû"}
+      - {motif: idle-warrior-god-urged-to-war, refs: ["Erra SB I:6-20"], note: "erra kī ša amēli dalpi idāšu anhā / iqabbi ana libbīšu lutbe luṣlal-ma ... itti māmi hīratuš ippuša ulṣam-ma"}
+      - {motif: how-long-will-you-sleep, refs: ["Erra SB I:16", "Erra SB I:19"]}
+      - {motif: named-weapons-of-divine-warrior, refs: ["Erra SB I:7", "Erra SB I:17"], note: "addresses his weapons: litpatā imat mūti"}
+      - {motif: seven-judges-gaze-of-death, refs: ["Erra SB I:23-26"], note: "āmiršunu uštahhat-ma napīssunu mūtum-ma"}
+      - {motif: astral-deity-lights-dark-place, refs: ["Erra SB I:10", "Erra SB I:21-22"], note: "attā dipārum-ma inaṭṭalū nūrka; engidudu ... unammaru kīma ūmi"}
+      - {motif: guards-check-all-who-enter-and-leave, refs: ["Erra SB I:27"], note: "īšum daltum-ma edil pānuššun 'Išum is a door barred before them' - loose fit"}
+    hints:
+      - "Ps 121:4 (he who keeps Israel neither slumbers nor sleeps) vs Ps 44:24; 78:65 (the Lord awoke as from sleep, like a warrior). Rev 6 (destroying riders)."
+  - id: ane-erra-sb-1-seven-born
+    tradition: ane-akkadian
+    title: "Anu begets the Seven and fixes their destructive tasks (Erra I 28-44)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:28-44"]
+    tags:
+      - {motif: seven-destroyer-gods-born-of-sky-and-earth, refs: ["Erra SB I:28-38"], note: "ānu šar ilī erṣeta irhē-ma sebetti ilī uldaššum-ma"}
+      - {motif: newborn-deities-assigned-roles, refs: ["Erra SB I:30-38"], note: "fire, lion-face, wind, sparing no one, viper's venom: šumqita napišta"}
+      - {motif: reason-human-noise, refs: ["Erra SB I:41-43"], note: "kī ša nišī dadmē hubūršina elīka imtarṣu"}
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["Erra SB I:43-44"], note: "the Seven are Erra's weapons to destroy black-headed and beasts"}
+    hints:
+      - "Seven destroying agents: Ezek 9:1-2 (six/seven executioners), Rev 15-16 (seven angels with seven plagues); Q 69:7 (wind for seven nights)."
+      - "Human noise provoking destruction: Gen 6:11-13; Gen 18:20-21 (the outcry of Sodom)."
+  - id: ane-erra-sb-1-seven-urge-war
+    tradition: ane-akkadian
+    title: "The Seven goad Erra: the field is better than the city (Erra I 45-91)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:45-91"]
+    tags:
+      - {motif: idle-warrior-god-urged-to-war, refs: ["Erra SB I:45-50", "Erra SB I:76"], note: "minsu kī šībi muqqi tušib ina āli / kī šerri laʾî tušib ina bīti"}
+      - {motif: field-life-better-than-city-life, refs: ["Erra SB I:51-59"], note: "akal āli lullû ul ubbala kamān tumri / šikar našpi ... ul ubbala mê nādi / ēkal tamlî ul ubbala maṣallu ša rēʾî"}
+      - {motif: nature-rejoices-at-gods-coming, refs: ["Erra SB I:61-74"], note: "inverse: at Erra's noise gods, kings, demons, mountains, seas, forests tremble (litany lišmû-ma)"}
+      - {motif: reason-human-noise, refs: ["Erra SB I:81-82"], note: "anunnakū ina hubūr nišī ul irehhû šitta"}
+      - {motif: weapons-rust-from-disuse, refs: ["Erra SB I:88-91"], note: "ina muhhi tillê ṣērīni šatât qê ettūtu ... patarni ina lā ṭabāhi ittadi šuhta"}
+      - {motif: swords-into-plowshares, refs: ["Erra SB I:88-91"], note: "inverse: idle weapons are a disgrace to the warriors"}
+      - {motif: ideal-land-without-predation, refs: ["Erra SB I:83-86"], note: "inverse: lion and wolf destroy the herds; shepherd sleepless"}
+    hints:
+      - "Joel 4:9-10 (beat your plowshares into swords; let the weak say I am a warrior), Isa 2:4. Rechabite preference for tents over cities: Jer 35:6-10; Gen 4:17 vs 4:20."
+      - "Noise of humans disturbing the gods: compare the outcry of Gen 18:20 and the Atrahasis motif."
+  - id: ane-erra-sb-1-erra-resolves
+    tradition: ane-akkadian
+    title: "Išum pleads; Erra's 'I am' boast and resolve to unseat Marduk (Erra I 92-123)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:92-123"]
+    tags:
+      - {motif: no-one-intercedes-for-city, refs: ["Erra SB I:100-103"], note: "inverse: Išum, moved with pity (rēma irtašī), intercedes for humankind"}
+      - {motif: god-self-praise-i-am-litany, refs: ["Erra SB I:109-118"], note: "ina šamê rīmāku ina erṣeti labbāku / ina māti šarrāku ina ilī ezzāku ..."}
+      - {motif: mocking-the-living-god, refs: ["Erra SB I:119-121"], note: "u nišī ṣalmāt qaqqadi leqû šēṭūtī ... lā išhuṭū zikrī"}
+      - {motif: deity-asks-high-god-leave-to-attack, refs: ["Erra SB I:122-123"], note: "rubâ marūtuk ušaggag-ma ina šubtīšu adekkē-ma nišī asappan"}
+    hints:
+      - "Intercession of a merciful figure: Gen 18:23-32 (Abraham), Exod 32:11-14 (Moses), Amos 7:2-6. Divine 'I am' self-praise: Isa 44:6-8; 45:5-7; Q 20:14."
+  - id: ane-erra-sb-1-marduk-flood
+    tradition: ane-akkadian
+    title: "Erra in Esagil; Marduk recalls the flood when he left his throne (Erra I 124-162)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:124-162"]
+    tags:
+      - {motif: cult-image-tarnished-and-renewed, refs: ["Erra SB I:127-128", "Erra SB I:140-143"], note: "šukuttu ... leqât urūša; ana šunbuṭ zīmīya u ubbub ṣubātīya gīra umtaʾʾer"}
+      - {motif: god-leaves-throne-cosmos-disordered, refs: ["Erra SB I:132-137"], note: "ultu ullu āgugū-ma ina šubtīya atbû-ma aškuna abūba / šipīt šamê u erṣeti uptaṭṭir ... ša kakkabī šamāmī manzāssunu išnī-ma"}
+      - {motif: waters-from-above-and-below, refs: ["Erra SB I:136"], note: "after the flood: nagbu imtaṭī-ma mīlū ittahsū"}
+      - {motif: survivors-of-the-flood-named, refs: ["Erra SB I:145-146"], note: "nišū ša ina abūbi isītā-ma ... uhallaq rēha"}
+      - {motif: antediluvian-sages-sent-down-to-apsu, refs: ["Erra SB I:147", "Erra SB I:162"], note: "ummânī šunūti ana apsî ušērid-ma elâšunu ul aqbi ... sebet apkallū apsî purādū ebbūtu"}
+      - {motif: cosmic-tree-reaching-heaven, refs: ["Erra SB I:150-153"], note: "mēsu ... ša ina tâmti rapašti ... išissu ikšudu šupul aralli / qimmassu emdet šamê ša ānu"}
+      - {motif: master-craftsman-of-all-materials, refs: ["Erra SB I:155-160"], note: "Ninildu, Kusibanda, Ninagal: divine craftsmen of the image"}
+      - {motif: seven-spirits-of-wisdom, refs: ["Erra SB I:162"]}
+      - {motif: seed-of-mankind-preserved-after-flood, refs: ["Erra SB I:137-139"], note: "adi kīma ikkari zērīšin aṣbat ina qātīya - the god preserves the seed of life after the flood"}
+    hints:
+      - "Flood as divine wrath and promise not to destroy again: Gen 6-9, esp. Gen 8:21-22 and Isa 54:9; seed of life kept: Gen 7:3; Q 11:40."
+      - "World tree with roots in the deep and top in heaven: Dan 4:7-9 (17-19); Ezek 31:3-9. Craftsmen of the cult image: Isa 40:19-20; 44:12-17 (idol polemic)."
+      - "Seven sages (apkallu) as antediluvian bearers of wisdom: compare Gen 6:4 (men of renown) and Q 2:102 (Harut and Marut teaching in Babylon)."
+  - id: ane-erra-sb-1-erra-takes-over
+    tradition: ane-akkadian
+    title: "Marduk warns of chaos if he leaves; Erra offers to govern meanwhile (Erra I 163-191)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Erra SB I:163-191"]
+    tags:
+      - {motif: god-leaves-throne-cosmos-disordered, refs: ["Erra SB I:170-178"], note: "mû illûnim-ma ibaʾʾū māta / ūma namra ana daʾummati utarrū / ... anunnakū illûnim-ma"}
+      - {motif: stars-sun-and-moon-darkened, refs: ["Erra SB I:172-173"]}
+      - {motif: substitute-ruler-while-god-absent, refs: ["Erra SB I:181-189"], note: "adi ulla araddī-ma šipīt šamê erṣeti udannan ... ana igīgī anaddin ûrta"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["Erra SB I:189"], note: "imna u šumēla ša bābīka ānu u ellil ušarbaṣa kīma alpi"}
+      - {motif: cult-image-tarnished-and-renewed, refs: ["Erra SB I:181"]}
+      - {motif: demons-know-no-food-no-love, refs: ["Erra SB I:175", "Erra SB I:185"], note: "gallû-demons rise if Marduk leaves; Erra will drive them to kurnugî - loose fit"}
+    hints:
+      - "Day turned to darkness: Amos 5:18-20; 8:9; Joel 2:10; 3:4. Gods/powers released when the restraining one departs: 2 Thess 2:6-7. Bulls/cherubim at the entrance: 1 Kgs 6:23-28."
+  # ---------------- Etana MA ----------------
+  - id: ane-etana-ma-assur-oath-and-friendship
+    tradition: ane-akkadian
+    title: "Oath curses; eagle and serpent share the poplar (Etana MA, Aššur a-b)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Assyrian
+    read: ["Etana MA Aššur:a+1-b+23"]
+    tags:
+      - {motif: eagle-serpent-friendship-oath, refs: ["Etana MA Aššur:b+1-b+7"], note: "curse clauses: šamaš lemna ana qāt māhiṣi limalli; a+1-5 broken"}
+      - {motif: serpent-at-root-bird-in-crown-demon-in-trunk, refs: ["Etana MA Aššur:b+8-b+10"], note: "ina appi iṣi erû alid-ma / ina išdī ṣarbati ṣerru ittalda"}
+      - {motif: souls-knit-covenant-friendship, refs: ["Etana MA Aššur:b+11-b+13"], note: "ittaʾûni ultattipûni 'became like twins'"}
+      - {motif: eagle-devours-serpents-young, refs: ["Etana MA Aššur:b+21-b+23"], note: "restored: [ana atmī ša rūʾīšu akāli iškun pānīšu]"}
+    hints:
+      - "Covenant-friendship sworn before God: 1 Sam 18:3; 20:8, 42. Snake and bird motif: Gen 3:1 with Gen 15:11."
+  - id: ane-etana-ma-assur-eagle-seized
+    tradition: ane-akkadian
+    title: "The fledgling's warning; the eagle seized in the ox (Etana MA, Aššur c)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Assyrian
+    read: ["Etana MA Aššur:c+1-c+31"]
+    tags:
+      - {motif: wise-youngest-warns-father, refs: ["Etana MA Aššur:c+3-c+11"], note: "atmu ṣehru atar hasīsa ... ul imgur ... erṣetu iṣṣanabbatka (partly restored)"}
+      - {motif: ambush-inside-carcass, refs: ["Etana MA Aššur:c+12-c+24"], note: "išlû-ma libbi rīmi ... ṣerru iṣṣabassu"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Etana MA Aššur:c+26-c+31"], note: "ina pān šamaš ... dayyān dīni (broken)"}
+    hints:
+      - "The wise child ignored: Gen 37:21-22 (Reuben); 1 Kgs 12:8. Trapper trapped: Ps 7:16; 57:7; Prov 26:27."
+  - id: ane-etana-ma-assur-dream-and-pit
+    tradition: ane-akkadian
+    title: "Etana prays for an heir; dream directs him to the eagle in the pit; rescue (Etana MA, Aššur d-f)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Assyrian
+    read: ["Etana MA Aššur:d+1-f+18"]
+    tags:
+      - {motif: childlessness-a-disgrace-removed, refs: ["Etana MA Aššur:d+3-d+4"], note: "[pi]ltī usuh-ma šuma šuknanni"}
+      - {motif: god-orders-temple-in-dream, refs: ["Etana MA Aššur:d+5-d+11"], note: "night dream instructs him (not temple-building): alik urha etiq šadâm-ma ... erû nadī-ma"}
+      - {motif: plant-of-birth, refs: ["Etana MA Aššur:d+11", "Etana MA Aššur:f+5"], note: "ša alādi šamma"}
+      - {motif: cast-into-pit, refs: ["Etana MA Aššur:d+9-d+10", "Etana MA Aššur:e+10"], note: "eagle lies in a pit (šuttatu)"}
+      - {motif: rescued-animal-becomes-helper, refs: ["Etana MA Aššur:e+6-f+16"], note: "ištu qereb šuttati šūlânni ... ana ūm dārâti tanattaka; Etana fills the pit, the eagle tries to fly"}
+      - {motif: king-of-the-four-quarters, refs: ["Etana MA Aššur:e+8"], note: "attā-ma etana šar būli 'king of the wild beasts' - loose fit"}
+    hints:
+      - "Joseph raised from the pit: Gen 37:24; 41:14; Jer 38:6-13; Ps 40:3. 'Take away my reproach': Gen 30:23; 1 Sam 1:6-11; Luke 1:25."
+  - id: ane-etana-ma-assur-dreams-and-ascent
+    tradition: ane-akkadian
+    title: "Etana's dreams interpreted; first stages of the ascent (Etana MA, Aššur g-i)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Middle Assyrian
+    read: ["Etana MA Aššur:g+1-i+18"]
+    tags:
+      - {motif: dream-interpreted-item-by-item, refs: ["Etana MA Aššur:h+4-h+12", "Etana MA Aššur:h+20-h+22"], note: "erû šutta ušamhir ... šuttaka damqat"}
+      - {motif: dream-sheaves-bow, refs: ["Etana MA Aššur:h+14-h+19"], note: "loads heaped like grain piles; enemies, wicked serpents, kneel before him (kanša ikannušū)"}
+      - {motif: ascent-on-eagle-earth-shrinks, refs: ["Etana MA Aššur:i+3-i+13"], note: "tâmtu itūra ana mēmē; mūšari šaknī; kī mê palgim"}
+      - {motif: king-ascends-to-heaven, refs: ["Etana MA Aššur:i+4-i+13"]}
+    hints:
+      - "Dreams of homage: Gen 37:5-9; Gen 41. Ascent to heaven: 2 Kgs 2:11; Isa 14:13-14; Q 17:93 (until you ascend into heaven)."
+  # ---------------- Etana OB ----------------
+  - id: ane-etana-ob-morgan-kingship
+    tradition: ane-akkadian
+    title: "Before kingship: the gods take counsel; kingship comes down from heaven (Etana OB Morgan 1-16)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Old Babylonian
+    read: ["Etana OB Morgan:1-16"]
+    tags:
+      - {motif: not-yet-list-describes-primeval-state, refs: ["Etana OB Morgan:6-9"], note: "šarram lā iškunū ... lā kaṣrat kubšum meānum / u haṭṭum uqniam lā ṣaprat"}
+      - {motif: kingship-descends-from-heaven, refs: ["Etana OB Morgan:11-14"], note: "qudmiš ānim ina šamāʾī šaknū ... šarrūtum ina šamāʾī urdam"}
+      - {motif: seven-gates-of-underworld, refs: ["Etana OB Morgan:10"], note: "sebetta bābū uddulū eli dapnim - seven gates barred; not underworld; loose fit"}
+      - {motif: sabbath-rest-instituted, refs: ["Etana OB Morgan:5"], note: "isinnam ana nišī išīmū 'they ordained the festival for the people' - loose fit"}
+    hints:
+      - "No king in those days: Judg 17:6; 21:25; 1 Sam 8:5-7. Kingship from God: Dan 2:37; 4:14; Q 2:247 (God has raised Saul as king), Q 3:26."
+  - id: ane-etana-ob-morgan-eagle-pit
+    tradition: ane-akkadian
+    title: "Marriage fragment; eagle plucked and cast in the pit; rescued by Etana (Etana OB Morgan a-c)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Old Babylonian
+    read: ["Etana OB Morgan:a+1-c+9"]
+    tags:
+      - {motif: wings-clipped-cast-into-pit, refs: ["Etana OB Morgan:b+3-b+10"], note: "ibqumšū-ma ...; ašar mūt ... (largely restored from SB)"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Etana OB Morgan:b+11-b+16"], note: "šamšum qātī ṣabat; Shamash: anzillam ša ilī"}
+      - {motif: rescued-animal-becomes-helper, refs: ["Etana OB Morgan:c+1-c+9"], note: "sebet warhī ... samnam warham ušētiqam šuttassu; ibrī lū itbārānū ana u attā"}
+      - {motif: cast-into-pit, refs: ["Etana OB Morgan:c+1-c+2"]}
+      - {motif: dream-ladder-to-heaven, refs: ["Etana OB Morgan:c+9"], note: "īnīyā-mi pite katimtī 'open my eyes to what is hidden' - loose fit"}
+    hints:
+      - "Open my eyes to hidden things: Ps 119:18; 2 Kgs 6:17; Dan 2:22. Joseph in the pit/prison then raised: Gen 37; 41."
+  - id: ane-etana-ob-susa-oath-betrayal
+    tradition: ane-akkadian
+    title: "Oath, betrayal and the serpent's lament (Etana OB Susa)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Old Babylonian
+    read: ["Etana OB Susa:1-a+24"]
+    tags:
+      - {motif: eagle-serpent-friendship-oath, refs: ["Etana OB Susa:1-4"], note: "lihliqšum ṭūdum ... māmītam uttamammû"}
+      - {motif: eagle-devours-serpents-young, refs: ["Etana OB Susa:12-21", "Etana OB Susa:a+1-a+8"], note: "ētellī-ma ... mannum ša [...]: the eagle will go up to heaven out of reach"}
+      - {motif: ascent-above-stars-of-el, refs: ["Etana OB Susa:19-21"], note: "ētellī-ma in[a šamê] uššab-ma ... mannum ša - restored; hybris of the predator"}
+      - {motif: wise-youngest-warns-father, refs: ["Etana OB Susa:22-24"]}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Etana OB Susa:a+9-a+24"], note: "ana pān šamaš illakā dimāšu / atkalakkum-ma šamaš ... lemuttam ul ukīl ana ibrīya"}
+      - {motif: who-has-taken-my-child, refs: ["Etana OB Susa:a+6", "Etana OB Susa:a+15-a+18"], note: "laššû mārūʾa"}
+      - {motif: net-from-which-none-escapes, refs: ["Etana OB Susa:a+20-a+22"], note: "šētka qerbetum rapaštum / gišperraka šamû rūqūtu / ina šētīka ai ūṣi erûm"}
+      - {motif: betrayal-by-intimate-friend, refs: ["Etana OB Susa:a+14", "Etana OB Susa:a+24"]}
+    hints:
+      - "Inescapable divine net: Ps 139:7-12; Amos 9:2-3; Obad 4 (though you soar like the eagle, set your nest among the stars, I will bring you down); Jer 49:16."
+      - "Betrayal by a friend: Ps 41:10; 55:13-15."
+  # ---------------- Etana SB ----------------
+  - id: ane-etana-sb-1-kish-founded
+    tradition: ane-akkadian
+    title: "Gods found Kish; no king yet; Ishtar seeks a shepherd (Etana SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB I:1-a+11"]
+    tags:
+      - {motif: gods-plan-first-city, refs: ["Etana SB I:1-5"], note: "āla īṣirū ... uššīšu iddû ... igīgū ukinnū libnassu"}
+      - {motif: not-yet-list-describes-primeval-state, refs: ["Etana SB I:12-15"]}
+      - {motif: goddess-searches-for-king, refs: ["Etana SB I:19-22"], note: "ištar rēʾâ ... u šarra išeʾʾi"}
+      - {motif: kingship-descends-from-heaven, refs: ["Etana SB I:23-26"], note: "broken; restored from parallels"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["Etana SB I:6-11"], note: "amīlu lū rēʾûšina ... etana lū itinšina"}
+      - {motif: dream-interpreted-item-by-item, refs: ["Etana SB I:a+2-a+7"], note: "wife's dream about Etana and his ghost (eṭemmašu); very broken"}
+    hints:
+      - "God seeks a man after his heart to be shepherd-king: 1 Sam 13:14; 16:1-13; Ps 78:70-72. First city: Gen 4:17; 10:10."
+  - id: ane-etana-sb-2-friendship-betrayal
+    tradition: ane-akkadian
+    title: "The poplar by Adad's shrine; oath; eagle eats the serpent's young (Etana SB II 1-52)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB II:1-52"]
+    tags:
+      - {motif: serpent-at-root-bird-in-crown-demon-in-trunk, refs: ["Etana SB II:4-5"], note: "ina ṣilli parakki ... aṣât ṣarbatu / ina appīša rabiṣ erû"}
+      - {motif: eagle-serpent-friendship-oath, refs: ["Etana SB II:7-23"], note: "ina mahar šamaš ... māmīta itmû ... ša itâ ša šamaš ittiqu ... gišparru u māmīt šamaš"}
+      - {motif: souls-knit-covenant-friendship, refs: ["Etana SB II:8-9"]}
+      - {motif: eagle-devours-serpents-young, refs: ["Etana SB II:35-44", "Etana SB II:52"], note: "erû libbašu lemutta ikpudū-ma ... ellī-ma ina šamāmī uššab"}
+      - {motif: ascent-above-stars-of-el, refs: ["Etana SB II:43-44"], note: "ellī-ma ina šamāmī uššab"}
+      - {motif: wise-youngest-warns-father, refs: ["Etana SB II:45-51"], note: "lā takkal abī šētu ša šamaš ibârka"}
+    hints:
+      - "Obad 3-4 and Jer 49:16 (though you make your nest high as the eagle, I will bring you down). Covenant curses before God: Deut 27-28."
+  - id: ane-etana-sb-2-serpent-revenge
+    tradition: ane-akkadian
+    title: "Serpent's lament; Shamash's plan; eagle seized, plucked and cast in a pit (Etana SB II 53-132)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB II:53-132"]
+    tags:
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Etana SB II:60-72"], note: "ana pān šamaš illakā dimāšu ... lumna ša īpušanni šamaš lū tīde"}
+      - {motif: net-from-which-none-escapes, refs: ["Etana SB II:69-71"], note: "šētka erṣetu rapaštu / gišparraka šamû rūqūtu"}
+      - {motif: ambush-inside-carcass, refs: ["Etana SB II:75-95", "Etana SB II:105-111"], note: "šubta idi ina karšīšu ... ana libbi ina erēbīšu ṣerru iṣṣabassu ina kappīšu"}
+      - {motif: wise-youngest-warns-father, refs: ["Etana SB II:98-104"]}
+      - {motif: wings-clipped-cast-into-pit, refs: ["Etana SB II:119-121"], note: "unakkis kappīšu ... ibquššū-ma iddīšu ana šuttati / mūt bubūti u ṣummi"}
+      - {motif: trapper-falls-into-own-pit, refs: ["Etana SB II:105-121"]}
+      - {motif: cast-into-pit, refs: ["Etana SB II:120-124"]}
+      - {motif: defeated-begs-life-offering-flocks, refs: ["Etana SB II:113-118"], note: "rēmannī-ma kīma ēriši nudunnâ luddinka; the serpent fears Shamash's punishment if he spares"}
+      - {motif: divine-reassurance-in-pit, refs: ["Etana SB II:123-132"], note: "ūmišam-ma imtanahhara šamaš ... alik amēlu ša ašapparakku qātka liṣbat"}
+    hints:
+      - "Prayer from the pit: Ps 88:4-7; 69:15-16; Jonah 2:3-7; Lam 3:53-55. Joseph in the pit: Gen 37:24. Rescue sent by God through a man: Gen 45:5-7."
+  - id: ane-etana-sb-2-etana-prays
+    tradition: ane-akkadian
+    title: "Etana prays for the plant of birth; sent to the eagle in the pit (Etana SB II 133-152)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB II:133-152"]
+    tags:
+      - {motif: childless-king-prays-for-heir, refs: ["Etana SB II:133-142"], note: "tākul šamaš kubur šuʾīya / erṣetu tašti dām aslīya / ilī ukabbit eṭemmī aplah"}
+      - {motif: plant-of-birth, refs: ["Etana SB II:140-141", "Etana SB II:147"], note: "idnam-ma šamma ša alādi"}
+      - {motif: childlessness-a-disgrace-removed, refs: ["Etana SB II:142"], note: "piltī usuh-ma šuma šuknanni"}
+      - {motif: fulfilment-repeats-command-verbatim, refs: ["Etana SB II:143-151"]}
+      - {motif: barren-matriarch, refs: ["Etana SB II:140-142"], note: "the childless one here is the king; wife's barrenness implied"}
+    hints:
+      - "Gen 30:1, 14-23 (mandrakes; God took away my reproach), 1 Sam 1:10-11 (Hannah's vow), Gen 15:2-3 (childless Abram), Gen 25:21; Q 19:4-6 and Q 3:38 (Zechariah prays for an heir), Q 21:89."
+  - id: ane-etana-sb-3-first-ascent
+    tradition: ane-akkadian
+    title: "The eagle seeks the plant; first flight and fall (Etana SB III 1-56)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB III:1-56"]
+    tags:
+      - {motif: solomon-taught-speech-of-birds, refs: ["Etana SB III:3-8"], note: "Shamash grants Etana atmī iṣṣūrī 'the speech of birds' (restored context)"}
+      - {motif: plant-of-birth, refs: ["Etana SB III:12-22"], note: "ul ibašši š[ammu]: the plant is not found on earth; it is with Ishtar"}
+      - {motif: ascent-on-eagle-earth-shrinks, refs: ["Etana SB III:30-41"], note: "tâmtu rapaštu mala tarbaṣi ... mala buginni ... māta ul anaṭṭal"}
+      - {motif: borne-on-eagles-wings, refs: ["Etana SB III:26-29", "Etana SB III:45-51"], note: "erû imqut-ma imtaharšu ina kappīšu"}
+      - {motif: eagle-bearing-young-on-wings, refs: ["Etana SB III:44-51"], note: "he drops him a league at a time and catches him on his wings"}
+      - {motif: rider-falls-from-heavenly-flight, refs: ["Etana SB III:42-51"], note: "ibrī ul elli ana šamê / šukun kibsa luttallak ana ālīya"}
+      - {motif: king-ascends-to-heaven, refs: ["Etana SB III:30-41"]}
+    hints:
+      - "Deut 32:11 (as an eagle stirs its nest, spreads its wings, takes them up, bears them on its pinions) and Exod 19:4. Solomon taught the speech of birds: Q 27:16; 1 Kgs 5:13 (spoke of birds)."
+      - "The earth seen from heaven: Isa 40:22 (inhabitants like grasshoppers)."
+  - id: ane-etana-sb-3-home-and-salve
+    tradition: ane-akkadian
+    title: "Return home; the wife and the plant (Etana SB III a)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB III:a+1-a+23"]
+    tags:
+      - {motif: plant-of-birth, refs: ["Etana SB III:a+5-a+9"], note: "šamma ša alādi ... tēqītu ... ana bašāli: a salve/cooking; very broken"}
+      - {motif: mandrakes-fertility, refs: ["Etana SB III:a+6-a+9"], note: "plant brought to the wife for conception - interpretive, broken"}
+    hints:
+      - "Gen 30:14-16 (mandrakes, dudaim, as a fertility plant)."
+  - id: ane-etana-sb-3-ishtar-dream-ascent
+    tradition: ane-akkadian
+    title: "Dream of Ishtar enthroned; second ascent through the gates of heaven (Etana SB III b-c)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Etana SB III:b+1-c+7"]
+    tags:
+      - {motif: passing-gates-of-gods-in-heaven, refs: ["Etana SB III:b+3-b+6", "Etana SB III:b+39-b+43"], note: "qereb bāb āni enlil u ea nibāʾa / nuškēna itti ahāmiš"}
+      - {motif: dream-goddess-enthroned-with-lions, refs: ["Etana SB III:b+7-b+14"], note: "āmur bīta apte kunukkašu ... kussû nadât-ma ištar ... ina šapal kussî lābū"}
+      - {motif: goddess-rides-lion, refs: ["Etana SB III:b+12-b+13"]}
+      - {motif: ivory-throne-six-steps-lions, refs: ["Etana SB III:b+11-b+12"], note: "throne with lions beneath it"}
+      - {motif: ascent-on-eagle-earth-shrinks, refs: ["Etana SB III:b+25-b+38"], note: "tâmtu ittūra ana mēmē ... ana īki ša nukaribbi"}
+      - {motif: king-ascends-to-heaven, refs: ["Etana SB III:b+17", "Etana SB III:b+39-b+45"], note: "alka luššīkā-ma ana šamê ša āni; ištu elû ana šamê ša āni"}
+      - {motif: prostration-before-deity, refs: ["Etana SB III:b+41", "Etana SB III:b+43"]}
+      - {motif: dream-interpreted-item-by-item, refs: ["Etana SB III:b+15-b+16"], note: "ibrī šūpâ šunātūka"}
+    hints:
+      - "Heavenly ascent and throne vision: Isa 6:1-5; Ezek 1:26-28; 1 Kgs 22:19; the Mi'raj through the heavens with a prophet greeted at each (Q 17:1; 53:13-18)."
+      - "Lions beside the throne: 1 Kgs 10:19-20."
