@@ -207,6 +207,70 @@ every pair of traditions.
   - Rabbinic dating is often later than the traditions it records, so the
     direction of influence must be argued, not assumed.
 
+#### Christianity
+
+- **Scope:**
+  - Early Christianity and the apocrypha.
+  - Syriac Christianity (the highest priority for Quran-facing leads).
+  - Greek and Latin patristics.
+  - Coptic, Ethiopian, and Armenian churches; the Church of the East.
+  - Arabic Christianity.
+- **Core texts:**
+  - Bible versions: the New Testament; the Septuagint; the Peshitta; the
+    Diatessaron (Arabic version; Ephrem's commentary).
+  - Infancy narratives: the Protevangelium of James; the Infancy Gospel of
+    Thomas; Pseudo-Matthew; the Arabic/Syriac Infancy Gospel.
+  - Adam literature: the *Cave of Treasures*; the *Life of Adam and Eve*.
+  - Syriac literature: the Acts of Thomas (Hymn of the Pearl); the hymns of
+    Ephrem; the homilies of Jacob of Serugh.
+  - Christian–Muslim encounter: John of Damascus; Timothy I's dialogue with
+    the caliph al-Mahdi; Theodore Abu Qurrah.
+- **Languages:** Greek, Syriac, Latin, Coptic, Ge'ez, Armenian, Arabic.
+- **Digital sources:**
+  - Bible texts: MorphGNT/SBLGNT (New Testament); CATSS (Septuagint); the
+    ETCBC Peshitta (via Text-Fabric).
+  - Syriac: the Digital Syriac Corpus (Beth Mardutho); Syriaca.org.
+  - Coptic: Coptic Scriptorium.
+  - Apocrypha: e-Clavis (NASSCAL).
+  - Translations: CCEL and New Advent (*Ante-Nicene* and *Nicene and
+    Post-Nicene Fathers*, public domain).
+- **Motifs and themes:** the virgin birth; Mary in the Temple; miracles of the
+  child Jesus; the disciples; the table from heaven; the crucifixion and
+  docetism; the Paraclete; Satan's refusal to bow to Adam; the Trinity and the
+  polemics against it.
+- **Seed leads:**
+  - *Transmission:* the Infancy Gospel of Thomas (Jesus brings clay birds to
+    life) ↔ Quran 3:49 and 5:110.
+  - *Transmission:* the Protevangelium of James (Mary raised in the Temple;
+    Zechariah; casting lots) ↔ Quran 3:35–44.
+  - *Transmission:* Pseudo-Matthew (the palm tree on the flight to Egypt) ↔
+    Mary under the palm (Quran 19:23–26).
+  - *Transmission:* the Arabic/Syriac Infancy Gospel (Jesus speaks in the
+    cradle) ↔ Quran 19:29–33 and 3:46.
+  - *Transmission:* the *Cave of Treasures* and the *Life of Adam and Eve*
+    (Satan refuses to worship Adam) ↔ Quran 2:34, 7:11–12, and 38:71–76.
+  - *Transmission:* Jacob of Serugh's homily on the Sleepers ↔ Quran 18 (see
+    Greco-Roman).
+  - *Lexical:*
+    - Syriac *ṣlōtā* ↔ *ṣalāt*.
+    - Ge'ez *ḥawārya* ↔ *ḥawāriyyūn* ("disciples").
+    - Syriac *qeryānā* ↔ *qurʾān* (proposed).
+  - *Transmission or convergence, proposed:* the table from heaven (Quran
+    5:112–115) ↔ the Last Supper and the feeding miracles.
+  - *Contested:* the crucifixion denial (Quran 4:157) ↔ docetic and Gnostic
+    accounts, such as the substitution of Simon of Cyrene reported of
+    Basilides.
+  - *Contested:* Aḥmad (Quran 61:6) ↔ the Paraclete (*paraklētos* vs.
+    *periklytos*).
+  - *Response:* John of Damascus on the "heresy of the Ishmaelites"; Timothy
+    I's dialogue with al-Mahdi; Abu Qurrah's Arabic theology.
+  - *Response:* Arabic Christian texts adopting Islamic theological
+    vocabulary.
+- **Caveats:**
+  - The corpus is enormous. Prioritize Syriac literature and the apocrypha.
+  - Claims that the Quran is a Syriac text underneath, in the style of
+    Luxenberg, are fringe and must be labeled as such.
+
 #### Samaritanism
 
 - **Scope:** the Samaritan Pentateuch tradition and later Samaritan
@@ -421,8 +485,5 @@ every pair of traditions.
 
 ## Gaps noted
 
-- **Christianity** is not in the grouping above, but its corpora (the
-  Septuagint, the New Testament, the Peshitta, and the apocrypha) are needed
-  by many leads. Its placement is still to be decided.
 - **Gnostic texts** (Nag Hammadi) would fit naturally beside the Dualist
   group.
