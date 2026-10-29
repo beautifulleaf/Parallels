@@ -54,6 +54,37 @@ new_motifs:
   father-god-blesses-victorious-son: {label: "The father god fixes a blessed destiny for his victorious son: weapon, eternal rule, long life", cluster: kingship}
   god-asleep-when-appealed-to: {label: "The god the petitioners turn to for help lies sleeping a sound sleep", cluster: cult}
   god-blesses-river-and-crops: {label: "The high god addresses a watercourse and blesses the land's flax and grain", cluster: blessing}
+  envoys-demand-submission: {label: "Envoys of a rival king arrive demanding the city's submission", cluster: war}
+  two-assemblies-elders-and-young-men: {label: "The ruler puts the question of war first to the council of elders, then to the assembly of young men", cluster: kingship}
+  temple-lowered-from-heaven: {label: "A temple or city wall was made by the gods and let down from heaven", cluster: cult}
+  is-that-man-your-king: {label: "The besieger, seeing a man on the wall, asks the captive 'Is that man your king?'", cluster: war}
+  captured-king-released-repaying-kindness: {label: "The victor releases the captured enemy king in repayment of an earlier kindness", cluster: war}
+  former-refuge-repaid: {label: "The hero recalls that the enemy once gave him refuge as a fugitive and fed 'the fleeing bird'", cluster: war}
+  i-will-sing-opening: {label: "A song opens with the singer's announcement 'I will sing the song of ...'", cluster: cult}
+  hero-rebuffs-goddess: {label: "The hero rebuffs the love-goddess's attempt to keep him for herself", cluster: goddess}
+  goddess-demands-bull-of-heaven: {label: "The spurned goddess demands the Bull of Heaven from her father to kill the hero", cluster: goddess}
+  goddess-threatens-cosmic-scream: {label: "The goddess threatens to raise a cry reaching heaven and earth until her father yields", cluster: goddess}
+  bull-of-heaven-ravages-land: {label: "The Bull of Heaven devours the pasture, drinks the river dry and breaks the palm trees", cluster: goddess}
+  slain-beast-meat-to-widows-sons: {label: "The slain beast's meat is shared out in baskets to the widows' sons of the city", cluster: charity}
+  horns-made-into-oil-flasks: {label: "The slain bull's horns are made into flasks for pouring oil to the goddess", cluster: cult}
+  hero-hurls-haunch-at-goddess: {label: "The hero hurls a haunch of the slain bull at the goddess, who flees", cluster: goddess}
+  hero-drinks-musician-retorts: {label: "The hero calls his musician to play and give him drink; the musician retorts it is no concern of his", cluster: court}
+  wells-of-the-land-to-be-finished: {label: "The unfinished wells and hoisting gear of the land are the refrain argument in a council on war or submission", cluster: war}
+  hero-lies-down-never-to-rise: {label: "Lament refrain: the hero has lain down and will never rise again", cluster: death}
+  fate-demon-bolts-the-dying: {label: "The demon of fate (Namtar) holds the dying man fast like a door-bolt; he cannot stand, sit, eat or drink", cluster: death}
+  deathbed-dream-of-divine-assembly: {label: "The dying king dreams that he stands before the assembly of the gods, which reviews his deeds and decides his lot", cluster: death}
+  gods-review-heros-deeds: {label: "The gods recite the hero's deeds (journeys, cedar, Huwawa, stelae, temples, reaching the flood hero, restored rites) before deciding his fate", cluster: death}
+  kingship-granted-not-eternal-life: {label: "The high god destined the hero for kingship but not for eternal life", cluster: death}
+  death-is-human-lot-from-birth: {label: "Death is the lot of being human, fixed when the umbilical cord was cut: the dark day, the flood-wave, the unequal fight await", cluster: death}
+  no-more-immortality-after-flood: {label: "After the flood hero was spared, the gods swore that no human would again be granted eternal life", cluster: death}
+  dead-king-made-judge-of-underworld: {label: "The dead hero-king becomes governor and judge among the ghosts of the underworld", cluster: underworld}
+  dead-meet-kin-in-underworld: {label: "In the underworld the dead man will be met by his father, mother, sisters, friend and the city elders", cluster: underworld}
+  hero-restores-forgotten-rites: {label: "The hero brings back to the land the forgotten divine rites and the rites of hand-washing and mouth-washing", cluster: cult}
+  retinue-buried-with-king: {label: "The king's wife, children, concubine, musician, cup-bearer, barber and servants are laid down with him in the tomb", cluster: death}
+  gifts-to-underworld-gods: {label: "The dead king sets out audience gifts for each of the underworld gods and the dead priests", cluster: underworld}
+  tomb-built-in-diverted-riverbed: {label: "The river is diverted, the tomb is built of stone in its dry bed and hidden so that no one can find it", cluster: death}
+  funerary-statue-keeps-name-alive: {label: "Funerary statues set up in the temples keep the names of the dead from being forgotten", cluster: death}
+  hero-visits-flood-survivor: {label: "The hero travels to the end of the world and reaches the immortal flood survivor", cluster: death}
 units:
   - id: ane-etcsl-1-6-2-prologue
     tradition: ane-sumerian
@@ -101,8 +132,6 @@ units:
       - {motif: rain-of-fire-and-sulfur-cup, refs: ["ETCSL 1.6.2 86"], note: "u3-dub2 i3-šeĝ3 izi i3-sud-sud-sud izi lu2 ba-an-zal-e: it rained coals, flaming fires consumed men"}
       - {motif: storm-breaks-cedars-of-lebanon, refs: ["ETCSL 1.6.2 87"], note: "ĝiš maḫ ur2-bi-a mu-un-bal-e: overturned tall trees by their trunks, forests to heaps"}
       - {motif: battle-storm-ravages-birds-fish-beasts, refs: ["ETCSL 1.6.2 92-94"], note: "birds' wings trail on the ground; fish in the engur gasp; animals of the edin roasted like locusts"}
-      - {motif: wicked-melt-like-wax-before-fire, refs: ["ETCSL 1.6.2 95"], note: "a-ĝi6 ... kur gul-gul: a deluge ruining the mountains; interpretive"}
-      - {motif: god-spreads-net-on-birds, refs: ["ETCSL 1.6.2 99-100"], note: "binds the enemy's hands with hirin grass; they dash heads against walls"}
       - {motif: talking-divine-weapon, refs: ["ETCSL 1.6.2 109-121"], note: "the lion-headed weapon flies like a bird (mušen-gin7 i3-dal-e), circles the horizon and reports the mountains' deliberations"}
     hints:
       - "Compare Ps 18:8-16 (earth quakes, God rides a cherub on the wings of the wind, coals of fire); Ps 29:5 (cedars broken); Ps 11:6 (rain of coals)."
@@ -151,7 +180,7 @@ units:
     corpus: ane
     original: true
     tagger: Claude (model), reading the Sumerian
-    read: ["ETCSL 1.6.2 281-333"]
+    read: ["ETCSL 1.6.2 281-332"]
     tags:
       - {motif: sea-monster-defeated-by-god, refs: ["ETCSL 1.6.2 288-297"], note: "not a sea monster but a mountain one: he pounds the Asag like roasted barley (še šeĝ6-ĝa2-gin7), uproots it like esparto grass, heaps it like flour"}
       - {motif: warrior-washes-blood-after-battle, refs: ["ETCSL 1.6.2 302-303"], note: "ib2-la2 {ĝiš}tukul a mu-[X] ... tug2 uš2-a mu-un-tu5: washes belt and mace, washes the blood from his clothes, wipes his brow; sings a victory chant over the corpse (ad6-a za-pa-aĝ2)"}
@@ -194,7 +223,6 @@ units:
       - {motif: mountain-yields-wood-metals-honey, refs: ["ETCSL 1.6.2 397-405"], note: "lal3 ĝeštin, cedar, cypress, juniper, box, gold, silver, copper, tin (urud nagga), wild animals"}
       - {motif: land-of-iron-and-copper, refs: ["ETCSL 1.6.2 402-403"], note: "the mountain shall mine gold and silver and smelt copper and tin"}
       - {motif: honey-from-rock-oil-from-flint, refs: ["ETCSL 1.6.2 398"], note: "gu2-gu2-bi lal3 ĝeštin ḫa-ra-an-mu2: its slopes shall produce honey and wine"}
-      - {motif: goddess-favors-hero, refs: ["ETCSL 1.6.2 368-371", "ETCSL 1.6.2 381-384"], note: "the mother sleepless, covering herself with a fleece (siki u8), laments and goes to her son; mostly Emesal (u3-mu-un, ga-ša-an, du5-mu {d}mu-ul-lil2)"}
     hints:
       - "Compare Deut 8:7-9 (land whose stones are iron, hills copper) and Deut 32:13 (honey from the rock)."
       - "Compare Gen 17:5, 15 and 32:29 (renaming marks a new destiny)."
@@ -360,7 +388,6 @@ units:
       - {motif: grain-brought-down-from-heaven, refs: ["ETCSL 1.7.6 3"], note: "an-ne2 an-šag4-ta im-da-an-ed3-de3"}
       - {motif: grain-hidden-in-mountain, refs: ["ETCSL 1.7.6 7-11"], note: "Enlil piled the barley and gave it to the mountain; closed it with bolt and lock"}
       - {motif: gods-fetch-grain-for-humans, refs: ["ETCSL 1.7.6 13-27"], note: "Ninazu and Ninmada; ki-en-gi še nu-zu 'Sumer which knows no barley'; Ninmada objects that their father Enlil has not commanded it"}
-      - {motif: lift-eyes-to-the-mountains, refs: ["ETCSL 1.7.6 4-6"], note: "Enlil lifts his gaze like a stag: south to the sea, north to the cedar mountain"}
       - {motif: god-asleep-when-appealed-to, refs: ["ETCSL 1.7.6 28-31"], note: "Utu lu2 ba-nu2-a u3-sa2 ku-ku-nam: lies sleeping a sound sleep; Utu of the seventy doors ({ĝiš}ig 70)"}
     hints:
       - "Compare Gen 3:18-19 (eating the plants of the field, then bread) and Dan 4:30 (eating grass like oxen); Gen 13:14 (look north, south, east, west)."
@@ -389,7 +416,7 @@ units:
     tagger: Claude (model), reading the Sumerian
     read: ["ETCSL 1.7.8 A:1-36"]
     tags:
-      - {motif: tribal-animal-emblems, refs: ["ETCSL 1.7.8 A:1-3", "ETCSL 1.7.8 A:13-15"], note: "am ur2-ra-am3 gun3-a, the wild bull with brindled thighs; like a scorpion (mir), wolf (ur-bar-ra), lion (piriĝ) rising up"}
+      - {motif: wild-ox-horns, refs: ["ETCSL 1.7.8 A:1-3", "ETCSL 1.7.8 A:13-15"], note: "am ur2-ra-am3 gun3-a: the god as wild bull with brindled thighs; also like a scorpion (mir), wolf (ur-bar-ra) and lion (piriĝ) rising up"}
       - {motif: goddess-proposes-marriage-to-god, refs: ["ETCSL 1.7.8 A:24-36"], note: "a-a-zu-ur2 dug4-ga-na-ab mu-ud-na-ĝu10 de3-a ... za-e u3-mu-un-bi de3-a me-e ga-ša-an-bi de3-a: say to your father 'may she be my spouse'; may you be its lord and I its lady"}
     hints:
       - "Compare Ruth 3:9 (the woman proposes) and Gen 49:9, 17, 27 (tribes as lion, serpent, wolf)."
@@ -402,9 +429,210 @@ units:
     read: ["ETCSL 1.7.8 B:1-13", "ETCSL 1.7.8 C:1-13", "ETCSL 1.7.8 D:1-20"]
     tags:
       - {motif: god-blesses-river-and-crops, refs: ["ETCSL 1.7.8 B:1-3", "ETCSL 1.7.8 C:8-11"], note: "gu-bi gu ḫe2-em, še-bi še ḫe2-em: may its flax be flax, its grain grain; Enlil stands beside the Kir-sig watercourse and speaks to it"}
-      - {motif: curse-fulfilled, refs: ["ETCSL 1.7.8 B:4", "ETCSL 1.7.8 B:11-13"], note: "used for a blessing fulfilled: i3-ne-eš2 {d}utu ud ne-e-a ur5 ḫe2-en-na-nam-ma-am3, under that sun on that day so it happened"}
       - {motif: goddess-proposes-marriage-to-god, refs: ["ETCSL 1.7.8 C:4-5"], note: "en {d}pa-bil2-saĝ-ĝe26 ḫul2-la-da {d}nin-isin2-si-na [in-tuku]"}
       - {motif: king-sulks-on-bed-refuses-food, refs: ["ETCSL 1.7.8 D:4-6", "ETCSL 1.7.8 D:17-19"], note: "{d}pa-bil2-saĝ gud ka-a-ni ba-ra-mu-da-gu7: he would not eat the bull nor the sheep; context obscure, a lament (u3-li-li) is raised"}
-      - {motif: sister-watches, refs: ["ETCSL 1.7.8 D:10-11"], note: "uru2 nin9-a-na-ka ... nin9-a-ni e2-ta mu-na-ra-e3: set down in his sister's city; his sister comes out to him"}
     hints:
       - "Compare 2 Sam 12:16-17 and 1 Kgs 21:4 (refusing to eat)."
+  - id: ane-etcsl-1-8-1-1-councils
+    tradition: ane-sumerian
+    title: "Gilgamesh and Aga: Kiš's envoys; Gilgamesh consults the elders, then the young men"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.8.1.1 1-39"]
+    tags:
+      - {motif: envoys-demand-submission, refs: ["ETCSL 1.8.1.1 1-2"], note: "lu2-kiĝ2-gi4-a ag-ga dumu en-me-barag-ge4-si-ke4 kiš{ki}-ta ... unug{ki}-še3"}
+      - {motif: two-assemblies-elders-and-young-men, refs: ["ETCSL 1.8.1.1 3-14", "ETCSL 1.8.1.1 18-29"], note: "igi ab-ba iri-na ... igi ĝuruš iri-na; unken ĝar-ra, the convened assembly"}
+      - {motif: king-rejects-elders-follows-young-men, refs: ["ETCSL 1.8.1.1 15-17", "ETCSL 1.8.1.1 24-29"], note: "{d}inana-ra nir-ĝal2-la-e inim ab-ba iri-na-ke4 šag4-še3 nu-mu-na-gid2: trusting in Inana he did not take the elders' word to heart; here the young men's advice is vindicated"}
+      - {motif: ancient-proverb-quoted, refs: ["ETCSL 1.8.1.1 25-28"], note: "gub-gub-bu-de3 tuš-tuš-u3-de3 dumu lugal-la da ri-e-de3 ... a-ba zi-bi mu-un-tuku-e-še: 'who has that much breath?', as the saying goes"}
+      - {motif: temple-lowered-from-heaven, refs: ["ETCSL 1.8.1.1 30-34"], note: "unug{ki} ĝiš-kiĝ2-ti diĝir-re-e-ne-ke4 e2-an-na e2 an-ta ed3-de3: E-ana, the house lowered from heaven; the rampart An founded"}
+      - {motif: wells-of-the-land-to-be-finished, refs: ["ETCSL 1.8.1.1 5-7"], note: "tul2 til-le-da tul2 kalam til-til-le-da ... eš2 la2: wells to finish and hoisting gear (the refrain argument)"}
+    hints:
+      - "Compare 1 Kgs 12:6-14 (Rehoboam consults the elders, then the young men) with the opposite outcome."
+      - "Compare 1 Sam 10:12 and Ezek 18:2 (quoted proverbs); Gen 26:15-22 (wells)."
+  - id: ane-etcsl-1-8-1-1-siege
+    tradition: ane-sumerian
+    title: "Gilgamesh and Aga: the siege, Birḫar-tura, 'Is that man your king?', Aga released"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.8.1.1 40-115"]
+    tags:
+      - {motif: is-that-man-your-king, refs: ["ETCSL 1.8.1.1 67-70", "ETCSL 1.8.1.1 90-92"], note: "arad2 lu2 še lugal-zu-u3 / lu2 še lugal-ĝu10 in-nu ... i3-me-a"}
+      - {motif: god-humbles-one-exalts-another, refs: ["ETCSL 1.8.1.1 76-81", "ETCSL 1.8.1.1 94-99"], note: "of the king, not a god: šar2-ra ba-an-šub-bu-uš šar2-ra ba-an-zig3-ge-eš, he cast down multitudes, raised multitudes; multitudes smeared with dust"}
+      - {motif: captured-king-released-repaying-kindness, refs: ["ETCSL 1.8.1.1 112-113"], note: "igi {d}utu-še3 šu ud-bi-ta e-ra-an-gi4 ag-ga kiš{ki}-še3 šu ba-ni-in-ba: before Utu, I repay your former kindness; he set Aga free to Kiš"}
+      - {motif: former-refuge-repaid, refs: ["ETCSL 1.8.1.1 102-106"], note: "ag-ga zi ma-an-šum2 ... lu2-kar-ra ur2-ra bi2-in-tum2-mu ... mušen kar-ra še bi2-ib-si-si: Aga took a fugitive to his lap, fed the fleeing bird grain"}
+      - {motif: sumerian-zami-doxology, refs: ["ETCSL 1.8.1.1 114-115"]}
+    hints:
+      - "Compare 1 Kgs 20:30-34 (Ahab spares and releases Ben-hadad) and 1 Sam 15:8-9."
+      - "Compare 2 Sam 10:2 and 1 Kgs 2:7 (kindness repaid to those who sheltered a fugitive king)."
+      - "Compare 1 Sam 2:7-8 and Ps 113:7 for 'he casts down, he raises up'."
+  - id: ane-etcsl-1-8-1-2-v1-inana-bull
+    tradition: ane-sumerian
+    title: "Gilgamesh and the Bull of Heaven (version 1): Inana detains Gilgamesh, obtains the Bull from An"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Version 1 (Nibru)"
+    read: ["ETCSL 1.8.1.2 1.A:1-1.A:E", "ETCSL 1.8.1.2 1.B:1-1.B:103"]
+    tags:
+      - {motif: i-will-sing-opening, refs: ["ETCSL 1.8.1.2 1.A:1-5"], note: "šul me3-ka en-du-ni ga-an-dug4: I will sing the song of the man of battle; 1.A:6-E fragmentary (mother, garden, ĝipar)"}
+      - {motif: hero-rebuffs-goddess, refs: ["ETCSL 1.8.1.2 1.B:7-18"], note: "am-ĝu10 lu2-ĝu10 ... šu nu-ri-bar-re: my wild bull, my man, I will not let you go; Gilgamesh: niĝ2-ba {d}inana ĝi6-par4-zu-še3 nam-ba-ni-ku4-ku4, I will not take Inana's portion; do not block my way"}
+      - {motif: goddess-demands-bull-of-heaven, refs: ["ETCSL 1.8.1.2 1.B:42-49"], note: "a-a-ĝu10 gud an-na ḫa-ma-ze2-eĝ3-e en ga-mu-un-ug5-ga: father, give me the Bull of Heaven, let me kill the lord; An: its pasture is on the horizon, where the sun rises"}
+      - {motif: goddess-threatens-cosmic-scream, refs: ["ETCSL 1.8.1.2 1.B:50-1.B:ff"], note: "ĝe26-e gu3 ba-de2-e-en an ki-še3 a-ba-da-te; ni2 ba-da-an-te: An is frightened and yields; alt. ms 1.B:aa-ff: her voice covers them like a woollen garment"}
+      - {motif: bull-of-heaven-ravages-land, refs: ["ETCSL 1.8.1.2 1.B:55-63", "ETCSL 1.8.1.2 1.B:68-73"], note: "nam-nitaḫ-gin7 saman za-gin3-na: in masculine fashion she holds the lapis tether; gaba 1 danna-ta: each slurp a league of river; palm trees broken"}
+      - {motif: hero-drinks-musician-retorts, refs: ["ETCSL 1.8.1.2 1.B:A-1.B:H"], note: "lugal-gaba-ĝal2 sa-zu si-ni-ib a ga-an-na8-na8-an ... niĝ2-nam-me-zu nu-ĝal2"}
+      - {motif: slain-beast-meat-to-widows-sons, refs: ["ETCSL 1.8.1.2 1.B:79-82"], note: "uzu-zu dumu nu-mu-un-su-a-ke4 ... {ĝiš}dusu-ta ga-am3-ta-ḫa-la: your meat I will share in baskets to the widows' sons"}
+      - {motif: horns-made-into-oil-flasks, refs: ["ETCSL 1.8.1.2 1.B:83"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["ETCSL 1.8.1.2 1.B:79-80"], note: "ad6-zu sila sig9-ga ḫe2-en-šub: your corpse thrown in the streets, intestines in the square"}
+    hints:
+      - "Compare Gilg SB VI (Ištar's proposal, the Bull of Heaven); Gen 39:7-12 (the hero refuses the advances of a powerful woman)."
+      - "Compare Deut 14:29 and 26:12 (portions for the widow and orphan)."
+  - id: ane-etcsl-1-8-1-2-v2-bull-slain
+    tradition: ane-sumerian
+    title: "Gilgamesh and the Bull of Heaven (version 2): Inana's refusal to release him, the giant weapons, the Bull slain"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Version 2 (Me-Turan)"
+    read: ["ETCSL 1.8.1.2 2.A:1-41", "ETCSL 1.8.1.2 2.B:1-25", "ETCSL 1.8.1.2 2.C:1-5", "ETCSL 1.8.1.2 2.D:1-59"]
+    tags:
+      - {motif: i-will-sing-opening, refs: ["ETCSL 1.8.1.2 2.A:1-6"], note: "niĝ2-erim2 du7-du7: who batters the wicked"}
+      - {motif: hero-rebuffs-goddess, refs: ["ETCSL 1.8.1.2 2.A:22-39"], note: "Gilgamesh reports Inana's words from the wall's crenellations to his mother Ninsumun; 2.B and 2.C almost wholly broken"}
+      - {motif: hero-drinks-musician-retorts, refs: ["ETCSL 1.8.1.2 2.D:5-9"], note: "lugal-ĝu10 za-e u2 da-an-gu7-e za-e a da-an-na8-na8 ĝe26-e inim-bi a-na-am3"}
+      - {motif: giant-armor-described, refs: ["ETCSL 1.8.1.2 2.D:12-13"], note: "ib2-ba-ru 50 ma-na-am3 (source 5/6), ĝiri2 7 gu2-un 30 ma-na-am3: harness of fifty minas, sword of seven talents thirty minas"}
+      - {motif: slain-beast-meat-to-widows-sons, refs: ["ETCSL 1.8.1.2 2.D:30", "ETCSL 1.8.1.2 2.D:56"]}
+      - {motif: horns-made-into-oil-flasks, refs: ["ETCSL 1.8.1.2 2.D:32", "ETCSL 1.8.1.2 2.D:58"]}
+      - {motif: hero-hurls-haunch-at-goddess, refs: ["ETCSL 1.8.1.2 2.D:50"], note: "{d}inana-ke4 zag dib-ba ba-an-sag3 tum12-gur4{mušen}-gin7 ba-an-dal-dal: struck Inana with a haunch, she flew off like a pigeon"}
+      - {motif: sumerian-zami-doxology, refs: ["ETCSL 1.8.1.2 2.D:59"], note: "gud an-na ug5-ga kug {d}inana-ke4 za3-mi2-zu dug3-ga: the doxology praises Inana though she lost"}
+    hints:
+      - "Compare 1 Sam 17:5-7 (Goliath's armour by weight)."
+      - "Compare Judg 14:5-6 and 1 Sam 17:34-36 (killing a wild beast)."
+  - id: ane-etcsl-1-8-1-2-v3-fragments
+    tradition: ane-sumerian
+    title: "Gilgamesh and the Bull of Heaven (version 3): fragments of the marsh and garden episode"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Version 3 (fragments)"
+    read: ["ETCSL 1.8.1.2 3.A:1-15", "ETCSL 1.8.1.2 3.B:1-4"]
+    tags:
+      - {motif: hero-rebuffs-goddess, refs: ["ETCSL 1.8.1.2 3.B:1-4"], note: "[niĝ2-ba {d}inana ĝi6]-par3-ra [nam-ba-ni-in]-ku4-ku4: restored, I shall not take Inana's portion in the ĝipar"}
+  - id: ane-etcsl-1-8-1-3-v1-deathbed
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Nibru version): the hero lies down never to rise; Namtar; the gods' verdict on his deeds"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Nibru version (segments 1.A-1.D)"
+    read: ["ETCSL 1.8.1.3 1.A:1-38", "ETCSL 1.8.1.3 1.B:1-14", "ETCSL 1.8.1.3 1.C:1-20", "ETCSL 1.8.1.3 1.D:1-11"]
+    tags:
+      - {motif: hero-lies-down-never-to-rise, refs: ["ETCSL 1.8.1.3 1.A:1-14"], note: "ba-nu2 ḫur nu-mu-e-da-an-zi-zi, mostly restored from 3.A; ĝiš-nu2 nam-tar-ra-ka, ki-nu2 u3-u8-a-u8: death-bed, couch of sighs"}
+      - {motif: fate-demon-bolts-the-dying, refs: ["ETCSL 1.8.1.3 1.A:15-20"], note: "nam-tar-ra {ĝiš}ig-šu-ur ... zig3-ga nu-ub-sig10-ge; nam-tar šu nu-tuku ĝiri3 nu-tuku: Namtar who has no hands or feet; lines 23-28, 36 missing"}
+      - {motif: men-snared-like-fish-and-birds, refs: ["ETCSL 1.8.1.3 1.A:18-19"], note: "ku6 ... keše2 ak-a-gin7, maš-da3 ĝiš-bur2-ra dab5-ba-a-gin7: like a fish caught, a gazelle in a trap"}
+      - {motif: deathbed-dream-of-divine-assembly, refs: ["ETCSL 1.8.1.3 1.B:9-13"], note: "ĝiš-nu2 nam-tar-ra ... ma-mu2-bi ... pu-uḫ2-ru-um"}
+      - {motif: dead-king-made-judge-of-underworld, refs: ["ETCSL 1.8.1.3 1.C:7-9"], note: "diĝir-da an-da-šid ... ka-aš i3-bar-re ... {d}dumu-zid-gin7: you will be counted with the gods, give verdicts, as weighty as Dumuzid"}
+      - {motif: gods-review-heros-deeds, refs: ["ETCSL 1.8.1.3 1.D:1-10"], note: "ḫar-ra-an dib-dib-ba a-na me-a-bi ... [a]-ma-ru gu2-kiĝ2 kalam-ma: having travelled all roads ... the flood; broken"}
+      - {motif: tree-has-hope-man-none, refs: ["ETCSL 1.8.1.3 1.A:1-14"], note: "the refrain 'lies down and does not rise'"}
+    hints:
+      - "Compare Job 14:10-12 ('man lies down and does not rise') and 2 Sam 14:14."
+      - "Compare Eccl 9:12 (men caught like fish in a net, birds in a snare) and Ps 116:3."
+  - id: ane-etcsl-1-8-1-3-v1-dream
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Nibru version): the dream interpreted, 'kingship, not eternal life'"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Nibru version (segments 1.E-1.G)"
+    read: ["ETCSL 1.8.1.3 1.E:1-28", "ETCSL 1.8.1.3 1.F:1-14", "ETCSL 1.8.1.3 1.G:1-22"]
+    tags:
+      - {motif: kingship-granted-not-eternal-life, refs: ["ETCSL 1.8.1.3 1.E:12-14"], note: "{d}gilgameš2 nam-zu nam-lugal-še3 mu-de6 til3 da-ri2-še3 nu-mu-un-de6"}
+      - {motif: death-is-human-lot-from-birth, refs: ["ETCSL 1.8.1.3 1.E:17-24"], note: "niĝ2-gig ak nam-lu2-u18-lu ... niĝ2 gi-dur kud-da-zu: the bane of humanity, what the cutting of your umbilical cord meant; ud ku10-ku10, ki dili, a-ĝi6 gaba nu-ru-gu2 ... sa2 mi-ri-ib-dug4"}
+      - {motif: every-soul-tastes-death, refs: ["ETCSL 1.8.1.3 1.E:17-24"]}
+      - {motif: land-of-darkness-and-chaos, refs: ["ETCSL 1.8.1.3 1.E:4-5"], note: "si-si-ig dumu {d}utu-ke4 kur-ra ki ku10-ku10-ka ud ḫu-mu-na-an-ĝa2-ĝa2: Sisig gives him light in the dark netherworld"}
+      - {motif: funerary-statue-keeps-name-alive, refs: ["ETCSL 1.8.1.3 1.E:6-9"], note: "alan-bi ud ul-le2-a-še3 a-ba-da-an-dim2: when a statue is made for future days, youths wrestle before it"}
+      - {motif: festival-of-the-dead-spirits, refs: ["ETCSL 1.8.1.3 1.E:10-11"], note: "itid NE-NE-ĝar ezen gidim-ma-ke4-ne: in month Neneĝar at the festival of the ghosts no light without him"}
+      - {motif: men-snared-like-fish-and-birds, refs: ["ETCSL 1.8.1.3 1.G:12-14"], note: "mušen an-na ... sa gur-u3 šu-ta nu-e3, ku6 engur-ra ..., šu-KU6 tur sa ba-ur3-ra-ta im-me-ni-dab5-be2: birds of the sky cannot escape the net, the young fisherman catches"}
+      - {motif: no-return-from-sheol, refs: ["ETCSL 1.8.1.3 1.G:15-16"], note: "lu2 na-me ... kur-ra ... ed3-da ud ul-le2-a-ta a-ba-a igi im-mi-in-du8-a: who has ever seen anyone ascend from the netherworld?"}
+      - {motif: dead-king-made-judge-of-underworld, refs: ["ETCSL 1.8.1.3 1.G:17-22"], note: "nam-šagina kur-ra ... gidim-zu ... di-da i3-kud"}
+      - {motif: dead-meet-kin-in-underworld, refs: ["ETCSL 1.8.1.3 1.F:2-14"], note: "[en]-ki-du10 ĝuruš an-ta-[zu] ... mu-e-ši-du: Enkidu your comrade ... will come to you; broken"}
+    hints:
+      - "Compare Q 3:185 and 21:35 ('every soul shall taste death'), Ps 89:49 and Heb 9:27; Gen 3:22-24 (eternal life withheld)."
+      - "Compare Job 7:9-10 and 2 Sam 12:23 (none returns from Sheol); Isa 14:9-10 (the shades rise to greet the dead king)."
+  - id: ane-etcsl-1-8-1-3-v1-tomb
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Nibru version): the Euphrates diverted, the stone tomb, mourning; the burial with retinue and gifts"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Nibru version (segments 1.H, 1.I, 2.I)"
+    read: ["ETCSL 1.8.1.3 1.H:1-22", "ETCSL 1.8.1.3 1.I:1-9", "ETCSL 1.8.1.3 2.I:1-42"]
+    tags:
+      - {motif: tomb-built-in-diverted-riverbed, refs: ["ETCSL 1.8.1.3 1.H:5-15"], note: "murub4 {id2}buranun-na-ka ki bi2-in-dar ... na4 ba-da-an-du3 ... {na4}esi: the riverbed cracked dry, built of stone and diorite"}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["ETCSL 1.8.1.3 1.I:7-8", "ETCSL 1.8.1.3 2.I:33"], note: "[giri17] mu-un-na-ḫur-e [siki mu]-un-na-ze2-e: they lacerated their noses and tore out their hair for him"}
+      - {motif: retinue-buried-with-king, refs: ["ETCSL 1.8.1.3 2.I:1-7"], note: "dam ki aĝ2-ĝa2-ni dumu ki aĝ2 ... dam tam dam ban3-da ... nar-a-ni sagi ... kindagal ... ĝiri3-sig10-ga e2-gal ... ki-bi-a a-ba-da-an-nu2"}
+      - {motif: gifts-to-underworld-gods, refs: ["ETCSL 1.8.1.3 2.I:8-28"], note: "Ereškigala, Namtar, Dimpikug, Neti, Ninĝišzida and Dumuzid, the ancestors of Enlil (Enki-Ninki ... Enmešara), Šul-pa-e, Sumugan, Ninḫursaĝa, the Anuna, dead en, lagar, lumaḫ, nindiĝir, gudug priests"}
+      - {motif: incomparable-king, refs: ["ETCSL 1.8.1.3 2.I:40"], note: "lugal gaba-ri-a-bi ... nu-ub-tu-ud: no king equal to him was born"}
+      - {motif: sumerian-zami-doxology, refs: ["ETCSL 1.8.1.3 2.I:42"]}
+    hints:
+      - "Compare Deut 34:6 (no one knows Moses' grave) and Jer 16:6 and Deut 14:1 (gashing and baldness for the dead)."
+      - "Compare Ezek 32:22-30 and Isa 14:9-18 (the dead kings in the netherworld with their companies); 2 Kgs 23:25 (none like him)."
+  - id: ane-etcsl-1-8-1-3-v3-deathbed
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Me-Turan version): lament refrain, Namtar, fragments"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Me-Turan version (segments 3.A-3.E)"
+    read: ["ETCSL 1.8.1.3 3.A:1-19", "ETCSL 1.8.1.3 3.B:1-5", "ETCSL 1.8.1.3 3.C:1-9", "ETCSL 1.8.1.3 3.D:1-11", "ETCSL 1.8.1.3 3.E:1-7"]
+    tags:
+      - {motif: hero-lies-down-never-to-rise, refs: ["ETCSL 1.8.1.3 3.A:1-12"], note: "am gal-e ba-nu2 ḫur nu-mu-un-da-an-zi-zi: the great wild bull has lain down; niĝ2-erim2 tur-tur-ra, he who diminished wickedness"}
+      - {motif: fate-demon-bolts-the-dying, refs: ["ETCSL 1.8.1.3 3.A:13-18"], note: "nam-tar-ra ig-šu-ur2 ba-ḫa-za; 3.B-3.E fragmentary"}
+      - {motif: men-snared-like-fish-and-birds, refs: ["ETCSL 1.8.1.3 3.A:16-17"], note: "like a fish in a cistern, a captured gazelle buck"}
+    hints:
+      - "Compare 2 Sam 1:19-27 (lament for fallen heroes) and Job 14:12."
+  - id: ane-etcsl-1-8-1-3-v3-assembly
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Me-Turan version): the assembly of the gods, Enki on the flood, Gilgamesh made judge of the dead"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Me-Turan version (segment 3.F)"
+    read: ["ETCSL 1.8.1.3 3.F:1-174"]
+    tags:
+      - {motif: deathbed-dream-of-divine-assembly, refs: ["ETCSL 1.8.1.3 3.F:3-9", "ETCSL 1.8.1.3 3.F:100-103"], note: "pu-uḫ-rum ki saĝ-ki diĝir-re-ne-ke4; ma-mu-da-bi en nu-dim2-mu-da10 igi-bi ba-ni-ib-tu: Nudimmud made him see the dream"}
+      - {motif: gods-review-heros-deeds, refs: ["ETCSL 1.8.1.3 3.F:10-18", "ETCSL 1.8.1.3 3.F:104-113"], note: "{ĝiš}erin ĝiš dili kur-bi ga-an-e-de3, {d}ḫu-wa-wa tir-bi-ta saĝ ĝiš ra-ra-za, na-du3-a ud ul-la2-še3, e2 diĝir-re-e-ne ki ĝar-ĝar-ra, zi-ud-su3-ta-aš ... saĝ im-ma-ni-ti"}
+      - {motif: hero-restores-forgotten-rites, refs: ["ETCSL 1.8.1.3 3.F:16-18"], note: "me ki-en-gi-ra-ke4 ... ḫa-la-me-eš ... kalam-ma-aš im-ta-a-ni šu-luḫ ka-luḫ si mu-un-si-sa2-e: hand-washing and mouth-washing rites"}
+      - {motif: no-more-immortality-after-flood, refs: ["ETCSL 1.8.1.3 3.F:27-35", "ETCSL 1.8.1.3 3.F:120-128"], note: "pu-uḫ-ru-um a-ma-ru ba-ur3-ra-ta numun nam-lu2-ulu3 ḫa-la-me-de3 ... zi-ud-su3-ra2 ... nam-til3-am3 ... zi an-na zi ki-a mu-un-pad3-da-nam ud-bi-ta nam-lu2-ulu3-ur2 nu-mu-un-til3-am3: then you made me swear by heaven and earth that no human would live (forever) again"}
+      - {motif: oath-by-heaven-and-earth, refs: ["ETCSL 1.8.1.3 3.F:34", "ETCSL 1.8.1.3 3.F:127"]}
+      - {motif: lifespan-limited-120, refs: ["ETCSL 1.8.1.3 3.F:35", "ETCSL 1.8.1.3 3.F:128"], note: "loose: a post-flood divine limit on human life, here eternal life excluded, not a number of years"}
+      - {motif: dead-king-made-judge-of-underworld, refs: ["ETCSL 1.8.1.3 3.F:38-41", "ETCSL 1.8.1.3 3.F:82-86", "ETCSL 1.8.1.3 3.F:131-134"], note: "šagina kur-ra ḫe2-ak-e palil gidim ḫe2-nam di-da mu-un-kud-da ... inim {d}nin-ĝiš-zid-da {d}dumu-zid-da-gin7"}
+      - {motif: death-is-human-lot-from-birth, refs: ["ETCSL 1.8.1.3 3.F:143-151"], note: "repeats 1.E:17-25; iri-gal šag4 zu2 keše2-da nam-ba-an-ed2-de3: do not go to the Great City with a knotted heart"}
+      - {motif: dead-meet-kin-in-underworld, refs: ["ETCSL 1.8.1.3 3.F:63-81", "ETCSL 1.8.1.3 3.F:154-172"], note: "ki a-a-zu pap-bil-ga-zu ama-zu nin9-zu ... gu5-li {d}en-ki-du10 ... ab-ba iri-za-kam mu-ši-du-un"}
+      - {motif: gathered-to-his-people, refs: ["ETCSL 1.8.1.3 3.F:63-81", "ETCSL 1.8.1.3 3.F:154-172"]}
+      - {motif: land-of-darkness-and-chaos, refs: ["ETCSL 1.8.1.3 3.F:141-142"], note: "si-si-ig dumu {d}utu-ke4 ki-bi ku3-ku3-ga ud-še3 mi-ni-in-ĝar"}
+      - {motif: hero-visits-flood-survivor, refs: ["ETCSL 1.8.1.3 3.F:15"], note: "zi-ud-su3-ta-aš ki-tuš-bi-a saĝ im-ma-ni-ti: you reached Zi-ud-sura in his dwelling"}
+    hints:
+      - "Compare Gen 6:3 (God limits human life after the sons of God episode) and Gen 3:22 (lest he live forever)."
+      - "Compare Gen 25:8, 35:29 and 49:33 (gathered to his people) and Isa 14:9-10 (the dead kings greet the newcomer)."
+      - "Compare Ps 26:6 and Exod 30:18-21 (hand-washing rites)."
+  - id: ane-etcsl-1-8-1-3-v3-tomb
+    tradition: ane-sumerian
+    title: "Death of Gilgamesh (Me-Turan version): Enki interprets the dream; the tomb in the Euphrates; statues keep names alive"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    version: "Me-Turan version (segments 3.G-3.K)"
+    read: ["ETCSL 1.8.1.3 3.G:1-5", "ETCSL 1.8.1.3 3.H:1-41", "ETCSL 1.8.1.3 3.I:1-10", "ETCSL 1.8.1.3 3.J:1-11", "ETCSL 1.8.1.3 3.K:1-12"]
+    tags:
+      - {motif: interpretation-from-god, refs: ["ETCSL 1.8.1.3 3.H:7-9"], note: "diĝir-bi {d}en-ki ... ma-mu-da ki-bur2-ni igi-bi ba-ni-ib-du8 ... lu2 na-me nu-bur2-bur2: his god Enki showed where the dream's solution lay; no one else could solve it"}
+      - {motif: tomb-built-in-diverted-riverbed, refs: ["ETCSL 1.8.1.3 3.H:10-32"], note: "niĝir-e kur-kur-ra si gu3 ba-ni-ra; unug{ki} zig3-ga-a-bi a-ma-ru-kam: Unug's levy was a flood; ki-maḫ-bi na4 ba-da-an-du; kiĝ2-kiĝ2 muš-bi nam-ba-ni-pad3-de3: the searchers shall not find it"}
+      - {motif: god-buries-prophet-unknown-grave, refs: ["ETCSL 1.8.1.3 3.H:28-31"], note: "the tomb is covered and hidden so that those searching will not find it"}
+      - {motif: retinue-buried-with-king, refs: ["ETCSL 1.8.1.3 3.H:33-41"], note: "dam ki aĝ2-a-ni dumu tur ki aĝ2-a-ni dam tam dam ban3-da; rest broken"}
+      - {motif: funerary-statue-keeps-name-alive, refs: ["ETCSL 1.8.1.3 3.K:5-11"], note: "alan-bi ud ul-la-ta ba-dim2-dim2 e2 diĝir-re-e-ne zag-še3 ĝar-ĝar-ra mu-bi dug4-dug4-ga nam-ba-e-da-ḫa-la-me-eš: their names once uttered are not forgotten"}
+      - {motif: eunuchs-given-monument-and-name, refs: ["ETCSL 1.8.1.3 3.K:5-11"], note: "statue in the temples as a lasting name"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["ETCSL 1.8.1.3 3.K:2"], note: "saḫar-ra ba-an-šar2-šar2-re: smeared with dust; 3.I:7 a bi-bar-bar-re"}
+      - {motif: sumerian-zami-doxology, refs: ["ETCSL 1.8.1.3 3.K:12"], note: "{d}ereš-ki-gal ama {d}nin-a-zu-ke4 za3-mi2-zu dug3-ga"}
+    hints:
+      - "Compare Isa 56:5 (a monument and a name better than sons) and 2 Sam 18:18 (Absalom's pillar 'to keep my name in remembrance')."
+      - "Compare Deut 34:6 (the unknown grave) and Gen 41:16 (interpretation from God)."
