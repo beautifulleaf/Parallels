@@ -1,0 +1,1463 @@
+new_motifs:
+  # Psalms 106-150
+  moses-stands-in-the-breach: {label: "Moses 'stood in the breach' (pérets) before God to turn back his wrath from destroying the people", cluster: exodus}
+  exchanged-glory-for-ox-image: {label: "The people exchanged their Glory for the image of an ox that eats grass", cluster: exodus}
+  craving-answered-with-wasting: {label: "God grants the people's wilderness craving but sends wasting (razon) into their souls", cluster: exodus}
+  ate-sacrifices-of-the-dead: {label: "Israel ate 'sacrifices of the dead' (zivhei metim) at Baal-peor", cluster: cult}
+  moses-rash-speech-at-meribah: {label: "Provoked at Meribah, Moses spoke rashly with his lips and suffered because of the people", cluster: exodus}
+  zeal-reckoned-as-righteousness: {label: "Phinehas's intervention 'was reckoned to him as righteousness for all generations'", cluster: theology}
+  captors-made-to-pity: {label: "God caused the exiles to be pitied by all their captors", cluster: history}
+  four-rescued-groups-thanksgiving: {label: "Thanksgiving liturgy for four groups rescued by God: desert wanderers, prisoners, the sick, seafarers", cluster: psalmody}
+  thank-yhwh-for-hesed-refrain: {label: "Refrain: 'Let them thank YHWH for his steadfast love and his wonders to the sons of man'", cluster: psalmody}
+  sitting-in-darkness-and-deathshadow: {label: "Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron", cluster: afterlife}
+  bronze-doors-iron-bars-shattered: {label: "God shatters doors of bronze and cuts through bars of iron", cluster: theology}
+  god-sends-his-word-to-heal: {label: "God 'sent his word and healed them', the word acting as an agent", cluster: theology}
+  storm-at-sea-stilled: {label: "God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a whisper and brings sailors to harbor", cluster: cosmology}
+  sailors-reel-like-drunkards: {label: "Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed up", cluster: imagery}
+  rivers-to-desert-desert-to-pools: {label: "God turns rivers into desert and fruitful land into salt waste, and desert into pools of water", cluster: cosmology}
+  accuser-at-right-hand-in-court: {label: "Curse: let a wicked man be appointed over him and an accuser (satan) stand at his right hand in judgment", cluster: divine-council}
+  his-office-taken-by-another: {label: "Curse: 'let his days be few; let another take his office (pequddah)'", cluster: psalmody}
+  curse-on-enemys-children-and-widow: {label: "Curse that the enemy's children be fatherless beggars, his wife a widow and his name blotted out in the next generation", cluster: psalmody}
+  mothers-sin-not-blotted-out: {label: "Curse that the iniquity of his fathers be remembered and his mother's sin not be blotted out", cluster: psalmody}
+  curse-worn-as-garment: {label: "The wicked loved cursing; let it clothe him like a garment, soak into him like water and like oil into his bones", cluster: magic}
+  shaken-off-like-locust: {label: "Sufferer is shaken off like a locust", cluster: psalmody}
+  god-stands-at-right-hand-of-needy: {label: "God stands at the right hand of the needy to save him from those who judge him", cluster: justice}
+  sit-at-my-right-hand-footstool: {label: "Oracle 'YHWH says to my lord: sit at my right hand until I make your enemies your footstool'", cluster: messianism}
+  scepter-sent-from-zion: {label: "God sends forth the king's mighty scepter from Zion: 'rule in the midst of your enemies'", cluster: kingship}
+  dew-of-youth-from-womb-of-dawn: {label: "The king's youth (or begetting) is like dew from the womb of the dawn (mishhar)", cluster: messianism}
+  priest-forever-order-of-melchizedek: {label: "God swears irrevocably: 'You are a priest forever after the order of Melchizedek'", cluster: messianism}
+  king-drinks-from-brook-on-way: {label: "The victorious king drinks from the brook by the way and therefore lifts his head", cluster: kingship}
+  fear-of-yhwh-beginning-of-wisdom: {label: "'The fear of YHWH is the beginning (reshit) of wisdom/knowledge'", cluster: wisdom}
+  memorial-made-for-wonders: {label: "God 'made a memorial (zekher) for his wonders' and gave food to those who fear him", cluster: cult}
+  light-dawns-in-darkness-for-upright: {label: "Light rises in the darkness for the upright", cluster: wisdom}
+  righteous-scatters-gifts-to-poor: {label: "The righteous man lends graciously and scatters gifts to the poor; his righteousness endures forever and his horn is exalted", cluster: wisdom}
+  wicked-gnash-teeth-and-melt-away: {label: "The wicked sees the righteous exalted, gnashes his teeth and melts away", cluster: wisdom}
+  praised-from-sunrise-to-sunset: {label: "God's name is praised from the rising of the sun to its setting", cluster: universalism}
+  god-enthroned-high-stoops-to-see: {label: "God sits enthroned on high yet stoops down to look on heaven and earth and regards the lowly", cluster: theology}
+  poor-raised-from-dunghill-to-princes: {label: "God raises the poor from the dust and the needy from the dunghill to sit with princes", cluster: theology}
+  barren-woman-made-joyful-mother: {label: "God settles the barren woman in her home as a joyful mother of children", cluster: childhood}
+  egypt-people-of-strange-speech: {label: "Egypt called 'a people of strange speech' (am lo'ez)", cluster: exodus}
+  sea-fled-jordan-turned-back: {label: "At the exodus the sea saw and fled and the Jordan turned back; the poet taunts them 'What ails you?'", cluster: exodus}
+  mountains-skip-like-rams: {label: "Mountains skip like rams and hills like lambs before God", cluster: theophany}
+  earth-writhes-before-lord: {label: "The earth is commanded to tremble/writhe (huli) before the Lord, the God of Jacob", cluster: theophany}
+  rock-turned-to-pool-of-water: {label: "God turned the rock into a pool of water and flint into a spring", cluster: exodus}
+  not-to-us-but-to-your-name: {label: "'Not to us, YHWH, not to us, but to your name give glory'", cluster: liturgy}
+  idol-makers-become-like-idols: {label: "Those who make idols and trust in them become like them", cluster: polemic}
+  israel-aaron-god-fearers-triad: {label: "Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house of Levi) and those who fear YHWH", cluster: liturgy}
+  heavens-for-yhwh-earth-for-humans: {label: "'The heavens are YHWH's heavens, but the earth he has given to the sons of man'", cluster: cosmology}
+  maker-of-heaven-and-earth: {label: "God called 'maker of heaven and earth' ('oseh shamayim va-arets') in blessing or confession of help", cluster: creation}
+  cup-of-salvation: {label: "The delivered speaker lifts 'the cup of salvations' and calls on YHWH's name", cluster: cult}
+  precious-death-of-the-faithful: {label: "'Precious (costly) in the eyes of YHWH is the death of his faithful ones'", cluster: afterlife}
+  all-men-are-liars: {label: "In alarm the speaker said 'All men are liars'", cluster: wisdom}
+  return-my-soul-to-rest: {label: "Speaker bids his soul return to its rest because God has dealt bountifully", cluster: psalmody}
+  shortest-psalm: {label: "The shortest psalm (and shortest chapter of the Bible), two verses", cluster: psalmody}
+  better-trust-god-than-princes: {label: "It is better to take refuge in YHWH than to trust in man or in princes", cluster: wisdom}
+  surrounded-by-nations-cut-off-in-gods-name: {label: "All nations surround the speaker like bees, but in YHWH's name he cuts them off", cluster: warfare}
+  song-of-sea-quoted: {label: "A psalm quotes the Song of the Sea: 'Yah is my strength and song and has become my salvation'", cluster: exodus}
+  i-shall-not-die-but-live: {label: "'I shall not die but live and declare the works of Yah'; chastened but not given over to death", cluster: afterlife}
+  gates-of-righteousness: {label: "'Open to me the gates of righteousness'; 'this is the gate of YHWH, the righteous enter through it'", cluster: cult}
+  rejected-stone-becomes-cornerstone: {label: "'The stone the builders rejected has become the head of the corner'", cluster: messianism}
+  this-is-the-day-yhwh-made: {label: "'This is the day YHWH has made; let us rejoice and be glad in it'", cluster: liturgy}
+  hosanna-save-now: {label: "Cry 'Ana YHWH hoshi'a na' (Please, YHWH, save now = hosanna)", cluster: liturgy}
+  blessed-is-he-who-comes-in-name: {label: "'Blessed is he who comes in the name of YHWH; we bless you from the house of YHWH'", cluster: liturgy}
+  festal-sacrifice-bound-to-altar-horns: {label: "'Bind the festal offering with cords up to the horns of the altar'", cluster: cult}
+  torah-psalm-eightfold-acrostic: {label: "Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter, each line naming the Torah", cluster: psalmody}
+  synonyms-for-torah: {label: "Torah praised under a fixed set of synonyms (torah, edut, piqqudim, huqqim, mitsvot, mishpatim, davar, imrah)", cluster: law}
+  sojourner-on-earth: {label: "Speaker calls himself a stranger (ger) on the earth", cluster: wisdom}
+  open-my-eyes-to-wonders-of-torah: {label: "Prayer 'Open my eyes that I may behold wonders out of your Torah'", cluster: law}
+  torah-as-delight: {label: "God's commandments or Torah are the speaker's delight (sha'ashu'im)", cluster: law}
+  rise-at-midnight-to-praise: {label: "Speaker rises at midnight to give thanks to God", cluster: liturgy}
+  affliction-good-for-learning: {label: "'It is good for me that I was afflicted, so that I might learn your statutes'", cluster: wisdom}
+  torah-better-than-gold-and-silver: {label: "God's Torah or commandments are better than thousands of gold and silver pieces, above fine gold", cluster: law}
+  heart-gross-as-fat: {label: "The arrogant have hearts gross (unfeeling) as fat", cluster: imagery}
+  wineskin-in-the-smoke: {label: "Speaker has become like a wineskin in the smoke (shriveled)", cluster: imagery}
+  word-fixed-in-heaven-forever: {label: "'Forever, YHWH, your word stands firm in the heavens'; all things are his servants", cluster: cosmology}
+  wiser-than-teachers-and-elders: {label: "Through Torah the speaker is wiser than his enemies, all his teachers and the elders", cluster: wisdom}
+  lamp-to-my-feet: {label: "'Your word is a lamp to my feet and a light to my path'", cluster: law}
+  time-to-act-for-yhwh: {label: "'It is time to act for YHWH; they have made void your Torah' (later read as license for emergency measures)", cluster: law}
+  rivers-of-tears-for-lawbreakers: {label: "Speaker's eyes shed streams of water because people do not keep God's Torah", cluster: psalmody}
+  sevenfold-daily-praise: {label: "'Seven times a day I praise you'", cluster: liturgy}
+  prayer-before-dawn: {label: "Speaker rises before dawn (neshef) and anticipates the night watches to cry out and meditate", cluster: liturgy}
+  lost-sheep-sought: {label: "Speaker strays like a lost sheep and asks God to seek his servant", cluster: imagery}
+  song-of-ascents-heading: {label: "Superscription 'A song of ascents' (shir ha-ma'alot), Ps 120-134", cluster: psalmody}
+  broom-tree-coals: {label: "Punishment of the lying tongue: a warrior's sharp arrows with glowing coals of broom (rotem)", cluster: imagery}
+  exile-among-meshech-and-kedar: {label: "Speaker laments sojourning in Meshech and dwelling among the tents of Kedar, among haters of peace", cluster: geography}
+  i-am-for-peace-they-for-war: {label: "'I am for peace, but when I speak they are for war'", cluster: psalmody}
+  lift-eyes-to-the-mountains: {label: "'I lift my eyes to the mountains: from where will my help come?'", cluster: psalmody}
+  guardian-of-israel-never-sleeps: {label: "The guardian of Israel neither slumbers nor sleeps", cluster: theology}
+  sun-and-moon-shall-not-strike: {label: "God as shade: the sun shall not strike you by day nor the moon by night", cluster: magic}
+  going-out-and-coming-in-guarded: {label: "God will guard your going out and your coming in from now and forever", cluster: liturgy}
+  pilgrim-joy-at-house-of-yhwh: {label: "Pilgrim rejoices: 'Let us go to the house of YHWH'; feet stand within Jerusalem's gates", cluster: zion}
+  jerusalem-city-bound-together: {label: "Jerusalem built 'as a city that is joined together' (shehubberah lah yahdav)", cluster: zion}
+  thrones-of-judgment-of-house-of-david: {label: "In Jerusalem stand thrones for judgment, thrones of the house of David", cluster: kingship}
+  pray-for-peace-of-jerusalem: {label: "'Pray for the peace of Jerusalem: may those who love you prosper'", cluster: zion}
+  eyes-of-servants-to-masters-hand: {label: "As the eyes of slaves look to their master's hand and a maid's to her mistress, so our eyes to God", cluster: imagery}
+  if-not-for-yhwh-refrain: {label: "Refrain 'If it had not been YHWH who was for us, let Israel say...'", cluster: psalmody}
+  swallowed-alive-by-enemies: {label: "Enemies would have swallowed us alive", cluster: afterlife}
+  waters-swept-over-us: {label: "Raging (arrogant) waters and torrent would have swept over our soul", cluster: cosmology}
+  soul-escaped-like-bird-from-snare: {label: "'Our soul escaped like a bird from the fowler's snare; the snare broke and we escaped'", cluster: imagery}
+  trust-like-mount-zion-unshaken: {label: "Those who trust in YHWH are like Mount Zion, which cannot be moved", cluster: zion}
+  mountains-round-jerusalem-god-round-people: {label: "As the mountains surround Jerusalem, so YHWH surrounds his people", cluster: zion}
+  scepter-of-wicked-not-on-lot-of-righteous: {label: "The scepter of wickedness will not rest on the allotment of the righteous, lest they stretch their hands to wrong", cluster: wisdom}
+  peace-upon-israel-formula: {label: "Closing benediction 'Peace upon Israel' (shalom al yisra'el)", cluster: liturgy}
+  return-to-zion-like-dreamers: {label: "When YHWH restored Zion's fortunes, 'we were like dreamers', mouths filled with laughter", cluster: zion}
+  streams-in-the-negev: {label: "Prayer to restore fortunes like streams (wadis) in the Negev", cluster: fertility}
+  sow-in-tears-reap-in-joy: {label: "Those who sow in tears will reap with songs of joy, returning with sheaves", cluster: fertility}
+  unless-yhwh-builds-the-house: {label: "'Unless YHWH builds the house, its builders labor in vain; unless YHWH guards the city, the watchman wakes in vain'", cluster: wisdom}
+  god-gives-sleep-to-his-beloved: {label: "Rising early and toiling is vain; God gives (in) sleep to his beloved (yedido)", cluster: wisdom}
+  sons-as-arrows-in-quiver: {label: "Sons are a heritage from YHWH, like arrows in a warrior's hand; happy the man whose quiver is full", cluster: childhood}
+  speak-with-enemies-in-the-gate: {label: "Sons of one's youth will not be put to shame when they speak with enemies in the gate", cluster: law}
+  wife-as-vine-children-as-olive-shoots: {label: "Your wife a fruitful vine in the recesses of your house, your children like olive shoots around your table", cluster: imagery}
+  see-childrens-children: {label: "Blessing: may you see your children's children", cluster: childhood}
+  plowers-plowed-upon-my-back: {label: "Israel: 'Plowers plowed upon my back; they made long their furrows'", cluster: imagery}
+  god-cuts-cords-of-wicked: {label: "YHWH the righteous cuts the cords (avot) of the wicked", cluster: theology}
+  grass-on-rooftops-withers: {label: "Enemies become like grass on the housetops that withers before it is pulled, filling no reaper's hand", cluster: imagery}
+  harvest-blessing-greeting-withheld: {label: "Passers-by will not say 'The blessing of YHWH be upon you; we bless you in YHWH's name' (harvest greeting)", cluster: fertility}
+  out-of-the-depths: {label: "'Out of the depths (ma'amaqqim) I cry to you, YHWH' (De profundis)", cluster: psalmody}
+  if-you-kept-iniquities-who-could-stand: {label: "'If you, Yah, kept account of iniquities, Lord, who could stand?' Forgiveness is with God that he may be feared", cluster: theology}
+  waiting-more-than-watchmen-for-morning: {label: "The soul waits for the Lord more than watchmen for the morning", cluster: imagery}
+  redemption-from-all-iniquities: {label: "God will redeem Israel from all its iniquities; with him is plentiful redemption", cluster: theology}
+  soul-like-weaned-child: {label: "Speaker has calmed his soul like a weaned child with its mother", cluster: imagery}
+  not-meddling-with-things-too-wonderful: {label: "Humble speaker does not occupy himself with great things or wonders too high for him", cluster: wisdom}
+  davids-vow-no-sleep-until-gods-place: {label: "David vowed to the Mighty One of Jacob not to enter his house or sleep until he found a place for YHWH", cluster: kingship}
+  ark-found-in-fields-of-jaar: {label: "'We heard of it in Ephrathah, we found it in the fields of Ya'ar' (the ark at Kiriath-jearim)", cluster: cult}
+  priests-clothed-in-righteousness: {label: "God's priests are clothed in righteousness or salvation and his faithful shout for joy", cluster: cult}
+  oath-to-david-heir-on-throne: {label: "God swore to David: 'of the fruit of your body I will set on your throne', conditional on the sons keeping the covenant", cluster: kingship}
+  zion-chosen-as-gods-resting-place: {label: "God chose Zion and desired it for his seat: 'This is my resting place forever'", cluster: zion}
+  horn-sprouts-for-david-lamp-for-anointed: {label: "In Zion God will make a horn sprout for David and has prepared a lamp for his anointed; his crown (nezer) will blossom", cluster: messianism}
+  brothers-dwell-together-in-unity: {label: "'How good and pleasant when brothers dwell together in unity'", cluster: wisdom}
+  oil-running-down-aarons-beard: {label: "Unity likened to the fine oil on the head running down the beard of Aaron onto the collar of his robes", cluster: cult}
+  dew-of-hermon-on-zion: {label: "Like the dew of Hermon descending on the mountains of Zion, where God commanded blessing, life forever", cluster: fertility}
+  night-service-in-temple: {label: "Servants of YHWH who stand in the house of YHWH by night are called to bless him", cluster: cult}
+  god-does-whatever-he-pleases: {label: "Whatever YHWH pleases he does, in heaven, on earth, in the seas and all the deeps", cluster: theology}
+  wind-from-storehouses: {label: "God brings up clouds from the end of the earth, makes lightning for the rain and brings the wind out of his storehouses", cluster: cosmology}
+  egyptian-firstborn-struck: {label: "God struck the firstborn of Egypt, of man and beast", cluster: exodus}
+  antiphonal-refrain-every-verse: {label: "Every verse ends with the same response ('for his steadfast love is forever'), an antiphonal litany", cluster: psalmody}
+  earth-spread-out-on-waters: {label: "God spread out (roqa') the earth upon the waters", cluster: creation}
+  great-lights-rule-day-and-night: {label: "God made the great lights: the sun to rule the day, the moon and stars to rule the night", cluster: creation}
+  red-sea-cut-into-parts: {label: "God cut the Sea of Reeds into parts (gozer ... lig'zarim) and led Israel through its midst", cluster: exodus}
+  god-gives-bread-to-all-flesh: {label: "God gives bread to all flesh", cluster: theology}
+  by-rivers-of-babylon-weeping: {label: "Exiles sit and weep by the rivers of Babylon remembering Zion", cluster: exile}
+  harps-hung-on-willows: {label: "Exiles hang their lyres on the willows (poplars) in Babylon", cluster: exile}
+  captors-demand-songs-of-zion: {label: "Captors demand 'Sing us one of the songs of Zion'; 'How can we sing YHWH's song on foreign soil?'", cluster: exile}
+  oath-if-i-forget-jerusalem: {label: "Self-curse: 'If I forget you, Jerusalem, let my right hand forget; let my tongue cleave to my palate'", cluster: zion}
+  edom-cried-raze-it: {label: "Edomites cried on Jerusalem's day 'Raze it, raze it, to its foundation'", cluster: history}
+  infants-dashed-against-rock: {label: "Blessing on whoever seizes the enemy's (Babylon's) little ones and dashes them against the rock", cluster: warfare}
+  praise-before-the-gods: {label: "Speaker sings God's praise 'before the gods' (neged elohim)", cluster: divine-council}
+  bow-toward-holy-temple: {label: "Speaker bows down toward God's holy temple (direction of prayer)", cluster: liturgy}
+  kings-of-earth-praise-god: {label: "All kings of the earth will praise YHWH when they hear the words of his mouth", cluster: universalism}
+  god-searches-and-knows-me: {label: "'YHWH, you have searched me and known me': God knows sitting and rising, thoughts from afar, every word before it is spoken", cluster: theology}
+  inescapable-presence-heaven-to-sheol: {label: "Nowhere to flee God's spirit: if I ascend to heaven you are there, if I make my bed in Sheol you are there", cluster: theology}
+  wings-of-the-dawn: {label: "'If I take the wings of the dawn (shahar) and dwell at the far end of the sea, even there your hand leads me'", cluster: cosmology}
+  darkness-is-as-light-to-god: {label: "Darkness is not dark to God; night shines like day, darkness and light are alike", cluster: theology}
+  knit-together-in-mothers-womb: {label: "God formed the kidneys and wove (knit) the speaker in his mother's womb", cluster: creation}
+  embryo-woven-in-depths-of-earth: {label: "Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth", cluster: creation}
+  golem-seen-days-written-in-book: {label: "God's eyes saw the speaker's unformed substance (golem); all his days were written in God's book before one of them existed", cluster: fate}
+  perfect-hatred-of-gods-enemies: {label: "'Do I not hate those who hate you, YHWH? I hate them with perfect hatred'", cluster: psalmody}
+  search-me-and-test-my-heart: {label: "'Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting way'", cluster: psalmody}
+  tongue-like-serpent-venom-of-viper: {label: "The wicked sharpen their tongues like a serpent; viper's venom is under their lips", cluster: imagery}
+  hidden-snare-net-and-traps: {label: "The proud hide a snare, spread cords as a net and set traps beside the path", cluster: imagery}
+  burning-coals-fall-on-wicked: {label: "Curse: let burning coals fall on them, let them be cast into fire and into pits never to rise", cluster: judgment}
+  god-covers-head-in-day-of-battle: {label: "God covered the speaker's head in the day of battle (weapons)", cluster: warfare}
+  prayer-as-incense-evening-offering: {label: "'Let my prayer be set before you as incense, the lifting of my hands as the evening offering'", cluster: liturgy}
+  guard-set-over-mouth: {label: "'Set a guard, YHWH, over my mouth; keep watch over the door of my lips'", cluster: wisdom}
+  rebuke-of-righteous-as-oil: {label: "Let the righteous strike and rebuke me in kindness; it is oil on the head", cluster: wisdom}
+  bones-scattered-at-mouth-of-sheol: {label: "'As when one plows and breaks up the earth, our bones are scattered at the mouth of Sheol'", cluster: afterlife}
+  judges-thrown-from-the-cliff: {label: "Their judges are thrown down by the sides of the rock (cliff)", cluster: judgment}
+  no-one-cares-for-my-soul: {label: "Speaker looks to the right and sees no one who knows him; no refuge, no one cares for his soul", cluster: psalmody}
+  soul-brought-out-of-prison: {label: "Prayer 'Bring my soul out of prison (masger) that I may praise your name'", cluster: psalmody}
+  no-living-being-righteous-before-god: {label: "'Enter not into judgment with your servant, for no living being is righteous before you'", cluster: theology}
+  dwelling-in-darkness-like-long-dead: {label: "The enemy made the speaker dwell in darkness like those long dead (metei olam)", cluster: afterlife}
+  gods-good-spirit-leads: {label: "'Your good spirit will lead me on level ground'; prayer to be taught to do God's will", cluster: theology}
+  god-trains-hands-for-war: {label: "God trains the speaker's hands for battle and fingers for war", cluster: warfare}
+  bow-heavens-and-come-down: {label: "'Bow your heavens, YHWH, and come down; touch the mountains that they smoke'", cluster: theophany}
+  rescue-from-hand-of-foreigners: {label: "Refrain: deliver me from many waters, from the hand of foreigners whose mouth speaks falsehood and whose right hand is a right hand of lies", cluster: psalmody}
+  daughters-like-carved-corner-pillars: {label: "Sons like well-grown plants, daughters like corner pillars carved for a palace (temple)", cluster: imagery}
+  happy-the-people-whose-god-is-yhwh: {label: "'Happy the people for whom it is so; happy the people whose God is YHWH' after a picture of prosperity", cluster: wisdom}
+  god-near-to-all-who-call: {label: "YHWH is near to all who call on him in truth", cluster: theology}
+  god-upholds-falling-raises-bowed: {label: "YHWH upholds all who fall and raises up all who are bowed down", cluster: theology}
+  everlasting-kingdom-of-god: {label: "'Your kingdom is a kingdom of all ages and your dominion through all generations'", cluster: kingship}
+  thoughts-perish-on-day-of-death: {label: "When man's breath departs he returns to his earth; on that day his plans perish", cluster: afterlife}
+  god-frees-prisoners-opens-blind-eyes: {label: "YHWH frees the prisoners, opens the eyes of the blind, raises the bowed, loves the righteous", cluster: justice}
+  god-heals-brokenhearted: {label: "God heals the brokenhearted and binds up their wounds", cluster: theology}
+  god-counts-and-names-stars: {label: "God counts the number of the stars and calls them all by name", cluster: cosmology}
+  god-feeds-young-ravens: {label: "God gives the beasts their food and to the young ravens when they cry", cluster: theology}
+  god-not-pleased-by-horse-or-legs: {label: "God takes no delight in the strength of the horse nor pleasure in the legs of a man", cluster: wisdom}
+  word-runs-swiftly-snow-and-ice: {label: "God's word runs swiftly; he gives snow like wool, scatters frost like ashes, casts his ice like crumbs; his word melts them", cluster: cosmology}
+  law-given-only-to-israel: {label: "God declared his statutes to Jacob; he has not done so for any other nation", cluster: law}
+  angels-and-hosts-summoned-to-praise: {label: "God's angels and all his hosts are summoned to praise him from the heights", cluster: angelology}
+  luminaries-summoned-to-praise: {label: "Sun, moon and shining stars are summoned to praise God", cluster: cosmology}
+  waters-above-the-heavens: {label: "'The waters above the heavens' are summoned to praise", cluster: cosmology}
+  created-by-command-fixed-decree: {label: "God commanded and they were created; he established them forever with a decree (hoq) that will not pass", cluster: creation}
+  sea-monsters-and-deeps-praise: {label: "Sea monsters (tanninim) and all deeps are summoned to praise God from the earth", cluster: cosmology}
+  weather-does-his-word: {label: "Fire and hail, snow and smoke, stormy wind fulfilling his word", cluster: cosmology}
+  all-ranks-of-humanity-praise: {label: "Kings and peoples, princes and judges, young men and maidens, old and young together praise God", cluster: universalism}
+  praise-with-dance-and-timbrel: {label: "God's name praised with dance (mahol), timbrel and lyre", cluster: liturgy}
+  faithful-sing-on-their-beds: {label: "The faithful exult in glory and sing for joy on their beds", cluster: liturgy}
+  two-edged-sword-in-hand-of-faithful: {label: "The faithful have God's praises in their throats and a two-edged sword in their hand to take vengeance on the nations", cluster: warfare}
+  kings-bound-in-chains: {label: "Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'", cluster: judgment}
+  praise-in-firmament: {label: "God praised in his sanctuary and in the firmament (raqia) of his might", cluster: cosmology}
+  orchestra-of-praise: {label: "Catalogue of instruments for praise: shofar, harp, lyre, timbrel, dance, strings, pipe (ugav), sounding and clashing cymbals", cluster: liturgy}
+  everything-that-breathes-praise: {label: "'Let everything that has breath (neshamah) praise Yah'", cluster: universalism}
+  # Proverbs 1-8
+  proverbs-of-solomon-title: {label: "Collection titled 'Proverbs of Solomon son of David, king of Israel'", cluster: wisdom}
+  wisdom-book-purpose-prologue: {label: "Prologue states a book's purpose: to give the simple shrewdness, the young knowledge, and the wise more learning, to understand proverbs and riddles", cluster: wisdom}
+  fathers-instruction-mothers-torah: {label: "'Hear, my son, your father's instruction and do not forsake your mother's teaching (torah)'", cluster: wisdom}
+  teaching-as-garland-and-necklace: {label: "Parental teaching or wisdom is a graceful garland for the head and necklace for the neck", cluster: wisdom}
+  gang-of-robbers-entices-youth: {label: "Sinners entice the youth to ambush the innocent, share one purse and fill houses with plunder", cluster: wisdom}
+  net-spread-before-bird-in-vain: {label: "'In vain is the net spread in the sight of any bird'; the ambushers lie in wait for their own blood", cluster: wisdom}
+  greed-takes-life-of-its-owner: {label: "Ill-gotten gain takes away the life of its possessors", cluster: wisdom}
+  wisdom-personified-as-woman: {label: "Wisdom (hokhmah) personified as a woman who speaks in the first person", cluster: wisdom}
+  wisdom-cries-in-street-and-gates: {label: "Lady Wisdom cries aloud in the streets, at the head of the crossroads, at the city gates and on the heights", cluster: wisdom}
+  wisdom-pours-out-her-spirit: {label: "Wisdom promises to pour out her spirit (ruhi) and make her words known to those who turn", cluster: wisdom}
+  wisdom-laughs-at-calamity-of-scorners: {label: "Rejected Wisdom will laugh at the scorners' calamity and mock when terror comes like a storm", cluster: wisdom}
+  too-late-they-seek-and-do-not-find: {label: "When disaster comes they will call on Wisdom and she will not answer; they will seek her and not find her", cluster: wisdom}
+  eat-the-fruit-of-their-own-way: {label: "The fools eat the fruit of their own way and are sated with their own devices", cluster: wisdom}
+  seek-wisdom-like-hidden-treasure: {label: "Seek wisdom like silver and search for her as for hidden treasures", cluster: wisdom}
+  god-gives-wisdom-from-his-mouth: {label: "YHWH gives wisdom; from his mouth come knowledge and understanding", cluster: wisdom}
+  strange-woman-warning: {label: "Warning against the 'strange woman' (ishah zarah / nokhriyyah) with smooth words", cluster: wisdom}
+  strange-woman-forsakes-covenant: {label: "The strange woman forsakes the companion of her youth and forgets the covenant of her God", cluster: wisdom}
+  her-house-leads-to-death-and-rephaim: {label: "The strange woman's house sinks down to death, her paths to the Rephaim; her ways go down to Sheol, to the chambers of death", cluster: afterlife}
+  none-who-go-to-her-return: {label: "None who go to the strange woman return or regain the paths of life", cluster: afterlife}
+  upright-inhabit-land-wicked-cut-off: {label: "The upright will inhabit the land and the wicked be cut off and uprooted from it", cluster: wisdom}
+  write-on-tablet-of-heart: {label: "Bind the teachings around your neck (or fingers) and write them on the tablet of your heart", cluster: wisdom}
+  trust-god-not-own-understanding: {label: "'Trust in YHWH with all your heart and do not lean on your own understanding'; do not be wise in your own eyes", cluster: wisdom}
+  wisdom-brings-long-life: {label: "Keeping the teaching brings length of days, years of life and peace", cluster: wisdom}
+  honor-god-with-firstfruits-barns-full: {label: "Honor YHWH with your wealth and firstfruits; your barns will be filled and vats burst with new wine", cluster: cult}
+  wisdom-long-life-right-riches-left: {label: "Wisdom holds length of days in her right hand, riches and honor in her left", cluster: wisdom}
+  wisdom-is-tree-of-life: {label: "Wisdom 'is a tree of life to those who grasp her'", cluster: wisdom}
+  deeps-split-clouds-drip-dew-by-knowledge: {label: "By God's knowledge the deeps were split open and the clouds drip dew", cluster: creation}
+  sleep-sweetly-without-fear: {label: "The one who keeps wisdom lies down without fear; his sleep is sweet; he need not fear sudden terror", cluster: wisdom}
+  do-not-withhold-good-till-tomorrow: {label: "Do not withhold good from its owner or tell your neighbor 'Go and come back tomorrow' when you have it", cluster: ethics}
+  god-scorns-scorners-gives-grace-to-humble: {label: "God scorns the scorners but gives grace to the humble", cluster: wisdom}
+  three-generations-of-teaching: {label: "Teacher recalls being a tender only son taught by his own father, passing the teaching to his sons", cluster: wisdom}
+  acquire-wisdom-above-all: {label: "'The beginning of wisdom: acquire wisdom; with all you have acquired, acquire understanding'", cluster: wisdom}
+  wisdom-as-beloved-gives-crown: {label: "Love Wisdom and embrace her; she will exalt you and set on your head a garland and a crown of glory", cluster: wisdom}
+  path-of-righteous-like-dawn: {label: "The path of the righteous is like the light of dawn growing brighter to full day; the way of the wicked is deep darkness", cluster: wisdom}
+  bread-of-wickedness-wine-of-violence: {label: "The wicked cannot sleep unless they do evil; they eat the bread of wickedness and drink the wine of violence", cluster: wisdom}
+  guard-heart-wellspring-of-life: {label: "Guard your heart above all, for from it are the issues (springs) of life", cluster: wisdom}
+  lips-drip-honey-end-bitter-wormwood: {label: "The strange woman's lips drip honey and her palate is smoother than oil, but her end is bitter as wormwood, sharp as a two-edged sword", cluster: wisdom}
+  drink-from-your-own-cistern: {label: "Drink water from your own cistern and running water from your own well; let your springs not be scattered abroad (marital fidelity)", cluster: wisdom}
+  wife-as-loving-doe: {label: "The wife of one's youth as a loving doe and graceful mountain goat whose breasts satisfy always", cluster: wisdom}
+  god-weighs-all-paths: {label: "A man's ways are before YHWH's eyes and he weighs (levels) all his paths", cluster: theology}
+  wicked-caught-in-cords-of-own-sin: {label: "The wicked is caught by his own iniquities and held fast by the cords of his sin", cluster: wisdom}
+  surety-for-neighbor-warning: {label: "Warning against striking hands as surety for a neighbor or stranger; free yourself without sleep like a gazelle from the hunter", cluster: wisdom}
+  go-to-the-ant-sluggard: {label: "'Go to the ant, sluggard': without chief or ruler she stores food in summer and harvest", cluster: wisdom}
+  poverty-comes-like-robber: {label: "'A little sleep, a little slumber, a little folding of the hands', and poverty comes like a vagabond, want like an armed man", cluster: wisdom}
+  scoundrel-winks-and-signals: {label: "The worthless man (adam beliyya'al) winks with his eyes, scrapes with his feet and points with his fingers, sowing discord", cluster: magic}
+  six-seven-things-god-hates: {label: "Six things YHWH hates, seven an abomination: haughty eyes, lying tongue, hands shedding innocent blood, scheming heart, feet running to evil, false witness, sower of discord", cluster: wisdom}
+  teaching-guides-walking-lying-waking: {label: "When you walk it will lead you, when you lie down it will watch over you, when you wake it will talk with you", cluster: wisdom}
+  commandment-lamp-torah-light: {label: "'The commandment is a lamp and the teaching (torah) is light; reproofs of discipline are the way of life'", cluster: law}
+  harlot-for-a-loaf-adulteress-hunts-life: {label: "A prostitute costs a loaf of bread, but another man's wife hunts the precious life", cluster: wisdom}
+  fire-in-bosom-coals-under-feet: {label: "Can a man carry fire in his bosom and his clothes not burn, or walk on coals and his feet not be scorched? So is adultery", cluster: wisdom}
+  thief-repays-sevenfold: {label: "A starving thief is not despised, yet when caught he repays sevenfold, giving all the wealth of his house", cluster: law}
+  jealous-husband-refuses-ransom: {label: "The jealous husband shows no mercy on the day of vengeance and will accept no ransom (kofer) or bribe for adultery", cluster: law}
+  torah-as-apple-of-eye: {label: "Keep my teaching as the pupil (ishon) of your eye", cluster: wisdom}
+  call-wisdom-your-sister: {label: "'Say to Wisdom: You are my sister; call Understanding your kinswoman'", cluster: wisdom}
+  observer-at-window-lattice: {label: "The teacher looks out through the lattice of his window and sees a youth lacking sense", cluster: wisdom}
+  seductress-lurks-at-corners-at-twilight: {label: "At twilight, in the pupil of the night, a woman in harlot's garb lurks at every corner, seizes and kisses the youth", cluster: wisdom}
+  seductress-has-paid-vows: {label: "The seductress says she has offered peace offerings and paid her vows today (so has sacrificial meat)", cluster: cult}
+  bed-perfumed-myrrh-aloes-cinnamon: {label: "Her bed spread with colored Egyptian linen and perfumed with myrrh, aloes and cinnamon", cluster: wisdom}
+  husband-away-until-full-moon: {label: "'The man is not at home; he took a bag of silver and will come home at the full moon (keseh)'", cluster: wisdom}
+  youth-like-ox-to-slaughter: {label: "The youth follows her like an ox to the slaughter, a fool to the stocks, a bird hastening into the snare, till an arrow pierces his liver", cluster: wisdom}
+  her-slain-are-many: {label: "Many are the slain she has cast down; numerous all her killed", cluster: wisdom}
+  wisdom-better-than-silver-gold-pearls: {label: "Wisdom's instruction is better than silver, gold and pearls; nothing desirable compares with her", cluster: wisdom}
+  wisdom-dwells-with-prudence: {label: "'I, Wisdom, dwell with prudence and find knowledge and discretion; counsel and strength are mine'", cluster: wisdom}
+  by-wisdom-kings-reign: {label: "'By me kings reign and rulers decree justice; by me princes rule'", cluster: kingship}
+  wisdom-loves-those-who-love-her: {label: "'I love those who love me, and those who seek me diligently find me'", cluster: wisdom}
+  wisdom-endows-lovers-with-wealth: {label: "Wisdom walks in paths of justice to endow those who love her with substance and fill their treasuries", cluster: wisdom}
+  wisdom-acquired-first-of-gods-way: {label: "'YHWH acquired (or created, qanani) me as the beginning (reshit) of his way, the first of his works of old'", cluster: creation}
+  wisdom-installed-from-eternity: {label: "Wisdom was 'installed' or 'woven' (nissakhti) from eternity, from the beginning, before the earth", cluster: creation}
+  wisdom-born-before-creation: {label: "Wisdom was brought forth (holalti, 'born in travail') when there were no deeps or springs, before mountains were sunk and hills existed", cluster: creation}
+  wisdom-present-at-creation: {label: "Wisdom was present when God established the heavens, drew the circle on the deep, fixed the clouds, set the sea's limit and marked earth's foundations", cluster: creation}
+  wisdom-as-amon-beside-god: {label: "Wisdom was beside God as an 'amon' (master craftsman, or nursling/child)", cluster: creation}
+  wisdom-plays-before-god: {label: "Wisdom was God's delight day by day, playing (mesaheqet) before him always, playing in his inhabited world", cluster: creation}
+  wisdom-delights-in-humans: {label: "Wisdom's delight was with the sons of man (benei adam)", cluster: creation}
+  watching-daily-at-wisdoms-doors: {label: "Happy the man who watches daily at Wisdom's doors, waiting at the posts (mezuzot) of her entrance", cluster: wisdom}
+  who-finds-wisdom-finds-life: {label: "'Whoever finds me finds life and obtains favor from YHWH; all who hate me love death'", cluster: wisdom}
+units:
+  - id: hb-ps-106-national-confession
+    tradition: judaism
+    title: Psalm 106, national confession of sins from Egypt to exile
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 106:1-48"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 106:1", "Ps 106:48"]}
+      - {motif: hodu-ki-tov-refrain, refs: ["Ps 106:1"]}
+      - {motif: historical-recital-psalm, refs: ["Ps 106:7-46"], note: "History told as a list of sins, not of wonders"}
+      - {motif: penitential-confession, refs: ["Ps 106:6"], note: "'We have sinned with our fathers'"}
+      - {motif: sea-turned-to-dry-land, refs: ["Ps 106:9"], note: "God rebukes (yig'ar) the Sea of Reeds and it dries; led through the deeps as through a desert"}
+      - {motif: craving-answered-with-wasting, refs: ["Ps 106:14-15"]}
+      - {motif: earth-swallows-rebels, refs: ["Ps 106:17-18"], note: "Dathan and Abiram named, Korah omitted; fire burns their company"}
+      - {motif: golden-calf, refs: ["Ps 106:19-20"], note: "Located at Horeb"}
+      - {motif: exchanged-glory-for-ox-image, refs: ["Ps 106:20"], note: "Tiqqun soferim tradition: originally 'my/his glory'; cf. Rom 1:23"}
+      - {motif: egypt-called-ham, refs: ["Ps 106:22"]}
+      - {motif: moses-stands-in-the-breach, refs: ["Ps 106:23"]}
+      - {motif: baal-peor, refs: ["Ps 106:28"]}
+      - {motif: ate-sacrifices-of-the-dead, refs: ["Ps 106:28"]}
+      - {motif: intercession-stops-plague, refs: ["Ps 106:30"], note: "Phinehas 'yefallel' (interceded / executed judgment) and the plague was stayed"}
+      - {motif: zeal-reckoned-as-righteousness, refs: ["Ps 106:31"], note: "Same formula as Gen 15:6 for Abraham's faith"}
+      - {motif: faith-reckoned-as-righteousness, refs: ["Ps 106:31"], note: "Formula reused for an act of zeal"}
+      - {motif: waters-of-meribah, refs: ["Ps 106:32"]}
+      - {motif: moses-rash-speech-at-meribah, refs: ["Ps 106:32-33"]}
+      - {motif: sacrifice-to-shedim-demons, refs: ["Ps 106:37"]}
+      - {motif: child-passed-to-molech, refs: ["Ps 106:37-38"], note: "Sons and daughters sacrificed to the idols of Canaan"}
+      - {motif: bloodshed-pollutes-land, refs: ["Ps 106:38"]}
+      - {motif: idolatry-as-harlotry, refs: ["Ps 106:39"]}
+      - {motif: repentance-relapse-cycle, refs: ["Ps 106:40-46"]}
+      - {motif: captors-made-to-pity, refs: ["Ps 106:46"]}
+      - {motif: ingathering-of-exiles, refs: ["Ps 106:47"]}
+      - {motif: book-closing-doxology, refs: ["Ps 106:48"], note: "Closes Book IV; 'and let all the people say Amen'"}
+    hints:
+      - "Ps 106:47-48 is quoted in 1Chr 16:35-36. Compare Acts 7 (Stephen's sin-history) and Neh 9."
+      - "Rom 1:23 echoes 106:20 (glory exchanged for an image)."
+
+  - id: hb-ps-107-four-rescues
+    tradition: judaism
+    title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 107:1-43"]
+    tags:
+      - {motif: hodu-ki-tov-refrain, refs: ["Ps 107:1"]}
+      - {motif: ingathering-of-exiles, refs: ["Ps 107:2-3"], note: "Gathered from east, west, north and the sea (yam)"}
+      - {motif: four-rescued-groups-thanksgiving, refs: ["Ps 107:4-9", "Ps 107:10-16", "Ps 107:17-22", "Ps 107:23-32"]}
+      - {motif: thank-yhwh-for-hesed-refrain, refs: ["Ps 107:8", "Ps 107:15", "Ps 107:21", "Ps 107:31"]}
+      - {motif: sitting-in-darkness-and-deathshadow, refs: ["Ps 107:10", "Ps 107:14"]}
+      - {motif: bronze-doors-iron-bars-shattered, refs: ["Ps 107:16"]}
+      - {motif: gates-of-death, refs: ["Ps 107:18"]}
+      - {motif: god-sends-his-word-to-heal, refs: ["Ps 107:20"]}
+      - {motif: ships-on-the-sea, refs: ["Ps 107:23"]}
+      - {motif: storm-at-sea-stilled, refs: ["Ps 107:25-30"]}
+      - {motif: sailors-reel-like-drunkards, refs: ["Ps 107:27"]}
+      - {motif: rivers-to-desert-desert-to-pools, refs: ["Ps 107:33-35"], note: "Fruitful land turned to salt waste for its inhabitants' evil"}
+      - {motif: god-humbles-one-exalts-another, refs: ["Ps 107:40-41"], note: "Pours contempt on nobles, makes them wander in tohu; lifts the needy"}
+      - {motif: vow-of-thanksgiving-paid, refs: ["Ps 107:22"]}
+    hints:
+      - "Inverted nun signs in 107:23-28 in the Masoretic tradition. Talmud (Ber 54b) derives from the four groups the obligation of the thanksgiving blessing (birkat ha-gomel)."
+      - "Compare Jonah 1 and Mark 4:35-41 (Jesus stilling the storm); Isa 45:2 (bronze doors, iron bars); 1 Pet 3:19 / harrowing of hell imagery."
+
+  - id: hb-ps-108-composite
+    tradition: judaism
+    title: Psalm 108, composite of Ps 57 and Ps 60
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 108:1-14"]
+    tags:
+      - {motif: psalm-ascribed-to-david, refs: ["Ps 108:1"]}
+      - {motif: duplicate-psalm, refs: ["Ps 108:2-6", "Ps 108:7-14"], note: "108:2-6 = 57:8-12; 108:7-14 = 60:7-14"}
+      - {motif: awake-the-dawn, refs: ["Ps 108:3"]}
+      - {motif: exalted-above-the-heavens-refrain, refs: ["Ps 108:6"]}
+      - {motif: divine-oracle-in-psalm, refs: ["Ps 108:8-10"], note: "God 'spoke in his holiness': divides Shechem, measures the Vale of Succoth"}
+      - {motif: sandal-cast-over-land, refs: ["Ps 108:10"]}
+      - {motif: god-does-not-go-out-with-armies, refs: ["Ps 108:12"]}
+      - {motif: vain-is-help-of-man, refs: ["Ps 108:13"]}
+
+  - id: hb-ps-109-imprecations
+    tradition: judaism
+    title: Psalm 109, curses on the accuser
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 109:1-31"]
+    tags:
+      - {motif: psalm-for-the-leader, refs: ["Ps 109:1"]}
+      - {motif: do-not-keep-silent-o-god, refs: ["Ps 109:1"]}
+      - {motif: hated-without-cause, refs: ["Ps 109:3-5"], note: "'In return for my love they accuse me (yistenuni), but I am prayer'"}
+      - {motif: imprecation-on-enemies, refs: ["Ps 109:6-20"]}
+      - {motif: accuser-at-right-hand-in-court, refs: ["Ps 109:6"], note: "satan stands at his right hand; cf. Zech 3:1"}
+      - {motif: satan-as-adversary-common-noun, refs: ["Ps 109:4", "Ps 109:6", "Ps 109:20", "Ps 109:29"]}
+      - {motif: his-office-taken-by-another, refs: ["Ps 109:8"]}
+      - {motif: curse-on-enemys-children-and-widow, refs: ["Ps 109:9-13"]}
+      - {motif: mothers-sin-not-blotted-out, refs: ["Ps 109:14"]}
+      - {motif: curse-worn-as-garment, refs: ["Ps 109:17-19"]}
+      - {motif: days-like-lengthening-shadow, refs: ["Ps 109:23"]}
+      - {motif: shaken-off-like-locust, refs: ["Ps 109:23"]}
+      - {motif: mocked-in-sackcloth-and-fasting, refs: ["Ps 109:24-25"], note: "Knees weak from fasting; onlookers shake their heads"}
+      - {motif: god-stands-at-right-hand-of-needy, refs: ["Ps 109:31"], note: "Reverses 109:6: the accuser at the wicked man's right, God at the poor man's right"}
+    hints:
+      - "Acts 1:20 applies 109:8 ('let another take his office') to Judas. Compare curse tablets (defixiones) and Mesopotamian curse formulae binding offspring."
+
+  - id: hb-ps-110-priest-king
+    tradition: judaism
+    title: Psalm 110, the lord at God's right hand, priest after Melchizedek
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 110:1-7"]
+    tags:
+      - {motif: psalm-ascribed-to-david, refs: ["Ps 110:1"]}
+      - {motif: divine-oracle-in-psalm, refs: ["Ps 110:1"], note: "ne'um YHWH la-doni"}
+      - {motif: sit-at-my-right-hand-footstool, refs: ["Ps 110:1"]}
+      - {motif: scepter-sent-from-zion, refs: ["Ps 110:2"]}
+      - {motif: dew-of-youth-from-womb-of-dawn, refs: ["Ps 110:3"], note: "Hebrew obscure; LXX 'from the womb before the morning star I begot you'"}
+      - {motif: priest-forever-order-of-melchizedek, refs: ["Ps 110:4"]}
+      - {motif: priest-king-melchizedek, refs: ["Ps 110:4"]}
+      - {motif: god-crushes-head-of-enemies, refs: ["Ps 110:5-6"], note: "Shatters kings on the day of his wrath, fills the nations with corpses"}
+      - {motif: king-drinks-from-brook-on-way, refs: ["Ps 110:7"]}
+    hints:
+      - "Most-quoted psalm in the New Testament (Mark 12:36, Acts 2:34, Heb 1:13, 5-7). Qumran 11QMelchizedek makes Melchizedek a heavenly redeemer. Compare Egyptian iconography of the pharaoh enthroned at the god's right with enemies as footstool (Tutankhamun's footstool)."
+
+  - id: hb-ps-111-acrostic-works
+    tradition: judaism
+    title: Psalm 111, acrostic hymn on God's works
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 111:1-10"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 111:1"]}
+      - {motif: acrostic-poem, refs: ["Ps 111:1-10"], note: "One letter per half-line"}
+      - {motif: memorial-made-for-wonders, refs: ["Ps 111:4-5"]}
+      - {motif: thirteen-attributes, refs: ["Ps 111:4"], note: "'Gracious and compassionate is YHWH'"}
+      - {motif: fear-of-yhwh-beginning-of-wisdom, refs: ["Ps 111:10"]}
+    hints:
+      - "Twin of Ps 112: phrases of God in 111 (his righteousness endures forever, gracious and compassionate) are transferred to the righteous man in 112."
+
+  - id: hb-ps-112-acrostic-righteous-man
+    tradition: judaism
+    title: Psalm 112, acrostic on the blessed God-fearer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 112:1-10"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 112:1"]}
+      - {motif: acrostic-poem, refs: ["Ps 112:1-10"]}
+      - {motif: light-dawns-in-darkness-for-upright, refs: ["Ps 112:4"]}
+      - {motif: righteous-scatters-gifts-to-poor, refs: ["Ps 112:5", "Ps 112:9"]}
+      - {motif: do-not-lift-up-horn, refs: ["Ps 112:9"], note: "His horn will be exalted in honor"}
+      - {motif: wicked-gnash-teeth-and-melt-away, refs: ["Ps 112:10"]}
+    hints:
+      - "2 Cor 9:9 quotes 112:9. Compare Matt 8:12 'gnashing of teeth' of the excluded wicked."
+
+  - id: hb-ps-113-raises-the-poor
+    tradition: judaism
+    title: Psalm 113, God on high raises the poor and the barren
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 113:1-9"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 113:1", "Ps 113:9"]}
+      - {motif: praised-from-sunrise-to-sunset, refs: ["Ps 113:3"]}
+      - {motif: incomparability-among-the-gods, refs: ["Ps 113:5"], note: "'Who is like YHWH our God'"}
+      - {motif: god-enthroned-high-stoops-to-see, refs: ["Ps 113:5-6"]}
+      - {motif: poor-raised-from-dunghill-to-princes, refs: ["Ps 113:7-8"], note: "Nearly identical to Hannah's song 1Sam 2:8"}
+      - {motif: barren-woman-made-joyful-mother, refs: ["Ps 113:9"]}
+    hints:
+      - "Opens the Hallel (Ps 113-118) of the festivals and Passover Seder. Compare Luke 1:46-55 (Magnificat) and Mal 1:11."
+
+  - id: hb-ps-114-exodus-nature-flees
+    tradition: judaism
+    title: Psalm 114, when Israel went out of Egypt the sea fled
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 114:1-8"]
+    tags:
+      - {motif: egypt-people-of-strange-speech, refs: ["Ps 114:1"]}
+      - {motif: sea-fled-jordan-turned-back, refs: ["Ps 114:3", "Ps 114:5"]}
+      - {motif: mountains-skip-like-rams, refs: ["Ps 114:4", "Ps 114:6"]}
+      - {motif: crossing-recapitulates-sea-crossing, refs: ["Ps 114:3"], note: "Sea and Jordan paired as one event"}
+      - {motif: earth-writhes-before-lord, refs: ["Ps 114:7"]}
+      - {motif: rock-turned-to-pool-of-water, refs: ["Ps 114:8"]}
+      - {motif: water-from-flint-rock, refs: ["Ps 114:8"]}
+    hints:
+      - "Dante, Purgatorio 2:46 (In exitu Israel sung by souls arriving at Purgatory). Compare Ugaritic Yamm and Nahar (Sea and River) as paired chaos foes of Baal."
+
+  - id: hb-ps-115-not-to-us
+    tradition: judaism
+    title: Psalm 115, not to us, polemic against idols
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 115:1-18"]
+    tags:
+      - {motif: not-to-us-but-to-your-name, refs: ["Ps 115:1"]}
+      - {motif: where-is-their-god-taunt, refs: ["Ps 115:2"]}
+      - {motif: idols-cannot-see-hear-eat-smell, refs: ["Ps 115:4-7"], note: "Mouth, eyes, ears, nose, hands, feet, throat listed"}
+      - {motif: idol-makers-become-like-idols, refs: ["Ps 115:8"]}
+      - {motif: israel-aaron-god-fearers-triad, refs: ["Ps 115:9-13"]}
+      - {motif: maker-of-heaven-and-earth, refs: ["Ps 115:15"]}
+      - {motif: heavens-for-yhwh-earth-for-humans, refs: ["Ps 115:16"]}
+      - {motif: no-praise-from-the-dead, refs: ["Ps 115:17"]}
+      - {motif: dumah-land-of-silence, refs: ["Ps 115:17"]}
+      - {motif: hallelujah-formula, refs: ["Ps 115:18"]}
+    hints:
+      - "'Those who fear YHWH' (115:11) later read as God-fearers/proselytes. Compare Jer 10, Isa 44, Epistle of Jeremiah, and Quran 7:195 on idols with feet that cannot walk."
+
+  - id: hb-ps-116-cup-of-salvation
+    tradition: judaism
+    title: Psalm 116, thanksgiving after rescue from death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 116:1-19"]
+    tags:
+      - {motif: breakers-of-death-cords-of-sheol, refs: ["Ps 116:3"], note: "Cords of death and straits (metsarei) of Sheol"}
+      - {motif: return-my-soul-to-rest, refs: ["Ps 116:7"]}
+      - {motif: walk-in-light-of-life, refs: ["Ps 116:8-9"]}
+      - {motif: land-of-the-living, refs: ["Ps 116:9"]}
+      - {motif: all-men-are-liars, refs: ["Ps 116:11"]}
+      - {motif: cup-of-salvation, refs: ["Ps 116:13"]}
+      - {motif: vow-of-thanksgiving-paid, refs: ["Ps 116:14", "Ps 116:17-18"]}
+      - {motif: precious-death-of-the-faithful, refs: ["Ps 116:15"]}
+      - {motif: son-of-handmaid, refs: ["Ps 116:16"]}
+      - {motif: hallelujah-formula, refs: ["Ps 116:19"]}
+    hints:
+      - "Rom 3:4 cites 116:11 ('let every man be a liar'). Cup of salvation linked to the Seder cups and the eucharistic cup (Roman canon 'calicem salutaris')."
+
+  - id: hb-ps-117-all-nations
+    tradition: judaism
+    title: Psalm 117, all nations praise
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 117:1-2"]
+    tags:
+      - {motif: all-earth-summoned-to-praise, refs: ["Ps 117:1"]}
+      - {motif: shortest-psalm, refs: ["Ps 117:1-2"]}
+      - {motif: hallelujah-formula, refs: ["Ps 117:2"]}
+    hints:
+      - "Rom 15:11 quotes it for the gentiles' inclusion."
+
+  - id: hb-ps-118-cornerstone
+    tradition: judaism
+    title: Psalm 118, festal thanksgiving, the rejected stone and hosanna
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 118:1-29"]
+    tags:
+      - {motif: hodu-ki-tov-refrain, refs: ["Ps 118:1", "Ps 118:29"]}
+      - {motif: israel-aaron-god-fearers-triad, refs: ["Ps 118:2-4"]}
+      - {motif: what-can-flesh-do-to-me, refs: ["Ps 118:6"]}
+      - {motif: better-trust-god-than-princes, refs: ["Ps 118:8-9"], note: "Masoretic midpoint of the Bible's verses is traditionally placed at 118:8"}
+      - {motif: surrounded-by-nations-cut-off-in-gods-name, refs: ["Ps 118:10-12"], note: "Threefold 'in the name of YHWH I cut them off (amilam)'"}
+      - {motif: pursued-like-bees, refs: ["Ps 118:12"], note: "Surrounded like bees, quenched like a fire of thorns"}
+      - {motif: song-of-sea-quoted, refs: ["Ps 118:14"]}
+      - {motif: right-hand-of-god, refs: ["Ps 118:15-16"], note: "Threefold 'the right hand of YHWH'"}
+      - {motif: i-shall-not-die-but-live, refs: ["Ps 118:17-18"]}
+      - {motif: gates-of-righteousness, refs: ["Ps 118:19-20"]}
+      - {motif: rejected-stone-becomes-cornerstone, refs: ["Ps 118:22-23"]}
+      - {motif: this-is-the-day-yhwh-made, refs: ["Ps 118:24"]}
+      - {motif: hosanna-save-now, refs: ["Ps 118:25"]}
+      - {motif: blessed-is-he-who-comes-in-name, refs: ["Ps 118:26"]}
+      - {motif: festal-sacrifice-bound-to-altar-horns, refs: ["Ps 118:27"]}
+      - {motif: horned-altar, refs: ["Ps 118:27"]}
+    hints:
+      - "Mark 11:9-10 and 12:10-11 (triumphal entry; the rejected stone); Acts 4:11; 1 Pet 2:7. Hoshana rituals of Sukkot circle the altar with willows (m. Sukkah 4:5)."
+
+  - id: hb-ps-119-alef-he
+    tradition: judaism
+    title: Psalm 119, stanzas alef to he
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 119:1-40"]
+    tags:
+      - {motif: torah-psalm-eightfold-acrostic, refs: ["Ps 119:1-8", "Ps 119:9-16"]}
+      - {motif: acrostic-poem, refs: ["Ps 119:1-40"]}
+      - {motif: synonyms-for-torah, refs: ["Ps 119:1-8"], note: "torah, edot, piqqudim, huqqim, mitsvot, mishpatim all in the first stanza"}
+      - {motif: torah-in-the-heart, refs: ["Ps 119:11"], note: "'In my heart I have hidden your word, that I not sin against you'"}
+      - {motif: open-my-eyes-to-wonders-of-torah, refs: ["Ps 119:18"]}
+      - {motif: sojourner-on-earth, refs: ["Ps 119:19"]}
+      - {motif: torah-as-delight, refs: ["Ps 119:16", "Ps 119:24"]}
+      - {motif: torah-better-than-gold-and-silver, refs: ["Ps 119:14"], note: "Rejoices in God's testimonies 'as over all wealth'"}
+      - {motif: meditate-on-torah-day-and-night, refs: ["Ps 119:15", "Ps 119:23"]}
+    hints:
+      - "Ps 119 is the longest chapter in the Bible (176 verses). Compare the Avestan/Vedic litanies built on fixed sacred terms, and Mesopotamian acrostics like the Babylonian Theodicy."
+
+  - id: hb-ps-119-vav-kaf
+    tradition: judaism
+    title: Psalm 119, stanzas vav to kaf
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 119:41-88"]
+    tags:
+      - {motif: torah-psalm-eightfold-acrostic, refs: ["Ps 119:41-48"]}
+      - {motif: lifting-hands-in-prayer, refs: ["Ps 119:48"], note: "Lifts his palms to the commandments"}
+      - {motif: rise-at-midnight-to-praise, refs: ["Ps 119:62"]}
+      - {motif: meditate-in-night-watches, refs: ["Ps 119:55"]}
+      - {motif: god-is-my-portion, refs: ["Ps 119:57"]}
+      - {motif: affliction-good-for-learning, refs: ["Ps 119:67", "Ps 119:71"]}
+      - {motif: suffering-as-divine-discipline, refs: ["Ps 119:67", "Ps 119:71", "Ps 119:75"]}
+      - {motif: heart-gross-as-fat, refs: ["Ps 119:70"]}
+      - {motif: torah-better-than-gold-and-silver, refs: ["Ps 119:72"]}
+      - {motif: torah-as-delight, refs: ["Ps 119:70", "Ps 119:77"]}
+      - {motif: wineskin-in-the-smoke, refs: ["Ps 119:83"]}
+      - {motif: trapper-falls-into-own-pit, refs: ["Ps 119:85"], note: "Only the pit-digging half: the arrogant dig pits for him"}
+      - {motif: knit-together-in-mothers-womb, refs: ["Ps 119:73"], note: "'Your hands made me and fashioned me'"}
+    hints:
+      - "Midnight prayer (119:62) underlies Tikkun Hatzot and the monastic night office (Benedict, Rule 16, cites 119:62 and 119:164)."
+
+  - id: hb-ps-119-lamed-ayin
+    tradition: judaism
+    title: Psalm 119, stanzas lamed to ayin
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 119:89-128"]
+    tags:
+      - {motif: word-fixed-in-heaven-forever, refs: ["Ps 119:89-91"]}
+      - {motif: torah-as-delight, refs: ["Ps 119:92"]}
+      - {motif: wiser-than-teachers-and-elders, refs: ["Ps 119:98-100"]}
+      - {motif: torah-sweeter-than-honey, refs: ["Ps 119:103"]}
+      - {motif: lamp-to-my-feet, refs: ["Ps 119:105"]}
+      - {motif: life-in-my-hand, refs: ["Ps 119:109"]}
+      - {motif: hidden-snare-net-and-traps, refs: ["Ps 119:110"]}
+      - {motif: time-to-act-for-yhwh, refs: ["Ps 119:126"]}
+      - {motif: torah-better-than-gold-and-silver, refs: ["Ps 119:127"], note: "Above gold and fine gold (paz)"}
+      - {motif: tested-like-refined-silver, refs: ["Ps 119:119"], note: "The wicked discarded as dross (sigim)"}
+    hints:
+      - "119:126 is read in m. Berakhot 9:5 as permitting the use of God's name in greetings; later used to justify writing down the Oral Torah."
+
+  - id: hb-ps-119-pe-tav
+    tradition: judaism
+    title: Psalm 119, stanzas pe to tav
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 119:129-176"]
+    tags:
+      - {motif: torah-psalm-eightfold-acrostic, refs: ["Ps 119:169-176"]}
+      - {motif: lamp-to-my-feet, refs: ["Ps 119:130"], note: "'The opening of your words gives light'"}
+      - {motif: rivers-of-tears-for-lawbreakers, refs: ["Ps 119:136"]}
+      - {motif: zeal-for-gods-house, refs: ["Ps 119:139"], note: "'My zeal consumes me'"}
+      - {motif: tested-like-refined-silver, refs: ["Ps 119:140"], note: "God's word is refined (tserufah)"}
+      - {motif: prayer-before-dawn, refs: ["Ps 119:147-148"]}
+      - {motif: meditate-in-night-watches, refs: ["Ps 119:148"]}
+      - {motif: hated-without-cause, refs: ["Ps 119:161"], note: "Princes persecute him without cause"}
+      - {motif: sevenfold-daily-praise, refs: ["Ps 119:164"]}
+      - {motif: torah-as-delight, refs: ["Ps 119:143", "Ps 119:174"]}
+      - {motif: lost-sheep-sought, refs: ["Ps 119:176"]}
+      - {motif: god-makes-face-shine, refs: ["Ps 119:135"]}
+    hints:
+      - "119:164 is the basis of the seven canonical hours. Compare Luke 15:4-7 (lost sheep) and the Islamic five daily prayers."
+
+  - id: hb-ps-120-meshech-kedar
+    tradition: judaism
+    title: Psalm 120, song of ascents against the lying tongue
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 120:1-7"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 120:1"]}
+      - {motif: tongue-as-sharp-weapon, refs: ["Ps 120:2-4"]}
+      - {motif: broom-tree-coals, refs: ["Ps 120:4"]}
+      - {motif: exile-among-meshech-and-kedar, refs: ["Ps 120:5-6"], note: "Meshech in Anatolia, Kedar in Arabia: far-flung, perhaps proverbial barbarians"}
+      - {motif: ishmaelite-tribes-arabia, refs: ["Ps 120:5"], note: "Tents of Kedar"}
+      - {motif: i-am-for-peace-they-for-war, refs: ["Ps 120:7"]}
+    hints:
+      - "Rabbinic tradition links the fifteen Songs of Ascents to the fifteen steps between the Women's and Israelites' courts (m. Middot 2:5; b. Sukkah 51b) and to David calming the abyss when digging the temple foundations."
+
+  - id: hb-ps-121-keeper-of-israel
+    tradition: judaism
+    title: Psalm 121, the keeper who does not sleep
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 121:1-8"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 121:1"], note: "Here shir la-ma'alot"}
+      - {motif: lift-eyes-to-the-mountains, refs: ["Ps 121:1"]}
+      - {motif: maker-of-heaven-and-earth, refs: ["Ps 121:2"]}
+      - {motif: guardian-of-israel-never-sleeps, refs: ["Ps 121:3-4"]}
+      - {motif: refuge-in-shadow-of-wings, refs: ["Ps 121:5"], note: "God 'your shade at your right hand'"}
+      - {motif: sun-and-moon-shall-not-strike, refs: ["Ps 121:6"]}
+      - {motif: going-out-and-coming-in-guarded, refs: ["Ps 121:7-8"]}
+      - {motif: apotropaic-psalm, refs: ["Ps 121:1-8"], note: "Protective function implicit in the text; used on childbirth amulets"}
+    hints:
+      - "Contrast 1Kgs 18:27 (Elijah mocks Baal as asleep) and the Egyptian/Mesopotamian sleeping gods. Moonstroke belief: Matt 4:24 seleniazomai. Ps 121 is the classic shir ha-ma'alot amulet over the birthing bed against Lilith."
+
+  - id: hb-ps-122-peace-of-jerusalem
+    tradition: judaism
+    title: Psalm 122, pilgrim's song, pray for the peace of Jerusalem
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 122:1-9"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 122:1"]}
+      - {motif: psalm-ascribed-to-david, refs: ["Ps 122:1"]}
+      - {motif: pilgrim-joy-at-house-of-yhwh, refs: ["Ps 122:1-2"]}
+      - {motif: jerusalem-city-bound-together, refs: ["Ps 122:3"]}
+      - {motif: three-pilgrimage-festivals, refs: ["Ps 122:4"], note: "Tribes go up 'as a testimony for Israel'"}
+      - {motif: thrones-of-judgment-of-house-of-david, refs: ["Ps 122:5"]}
+      - {motif: pray-for-peace-of-jerusalem, refs: ["Ps 122:6-8"], note: "Wordplay sha'alu shalom yerushalayim, yishlayu"}
+    hints:
+      - "b. Taanit 5a reads 122:3 as an earthly Jerusalem joined to a heavenly one; compare Gal 4:26 and Rev 21 (Jerusalem above)."
+
+  - id: hb-ps-123-eyes-to-master
+    tradition: judaism
+    title: Psalm 123, eyes to the hand of the master
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 123:1-4"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 123:1"]}
+      - {motif: eyes-of-servants-to-masters-hand, refs: ["Ps 123:1-2"], note: "God 'enthroned in the heavens'"}
+      - {motif: communal-lament, refs: ["Ps 123:3-4"], note: "Sated with the contempt of the complacent"}
+
+  - id: hb-ps-124-if-not-for-yhwh
+    tradition: judaism
+    title: Psalm 124, had it not been YHWH, the snare is broken
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 124:1-8"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 124:1"]}
+      - {motif: if-not-for-yhwh-refrain, refs: ["Ps 124:1-2"]}
+      - {motif: swallowed-alive-by-enemies, refs: ["Ps 124:3"]}
+      - {motif: waters-swept-over-us, refs: ["Ps 124:4-5"], note: "ha-mayim ha-zedonim, 'the arrogant waters'"}
+      - {motif: soul-escaped-like-bird-from-snare, refs: ["Ps 124:7"]}
+      - {motif: maker-of-heaven-and-earth, refs: ["Ps 124:8"]}
+
+  - id: hb-ps-125-like-mount-zion
+    tradition: judaism
+    title: Psalm 125, those who trust are like Mount Zion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 125:1-5"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 125:1"]}
+      - {motif: trust-like-mount-zion-unshaken, refs: ["Ps 125:1"]}
+      - {motif: mountains-round-jerusalem-god-round-people, refs: ["Ps 125:2"]}
+      - {motif: scepter-of-wicked-not-on-lot-of-righteous, refs: ["Ps 125:3"]}
+      - {motif: peace-upon-israel-formula, refs: ["Ps 125:5"]}
+
+  - id: hb-ps-126-like-dreamers
+    tradition: judaism
+    title: Psalm 126, restoration of Zion, sowing in tears
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 126:1-6"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 126:1"]}
+      - {motif: return-to-zion-like-dreamers, refs: ["Ps 126:1-2"]}
+      - {motif: nations-praise-god-refrain, refs: ["Ps 126:2"], note: "Nations say 'YHWH has done great things for these'"}
+      - {motif: streams-in-the-negev, refs: ["Ps 126:4"]}
+      - {motif: sow-in-tears-reap-in-joy, refs: ["Ps 126:5-6"]}
+    hints:
+      - "Sung before Grace after Meals on Sabbaths and festivals. The legend of Honi the Circle-Drawer's seventy-year sleep is generated from 126:1 (b. Taanit 23a). Compare the Egyptian/Adonis lament over the sown seed."
+
+  - id: hb-ps-127-unless-yhwh-builds
+    tradition: judaism
+    title: Psalm 127, unless YHWH builds the house; sons as arrows
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 127:1-5"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 127:1"], note: "Ascribed to Solomon (lishlomo)"}
+      - {motif: unless-yhwh-builds-the-house, refs: ["Ps 127:1"]}
+      - {motif: god-gives-sleep-to-his-beloved, refs: ["Ps 127:2"], note: "yedido echoes Solomon's name Jedidiah (2Sam 12:25)"}
+      - {motif: sons-as-arrows-in-quiver, refs: ["Ps 127:3-5"]}
+      - {motif: speak-with-enemies-in-the-gate, refs: ["Ps 127:5"]}
+    hints:
+      - "Motto 'Nisi Dominus' of many city coats of arms. Compare Hesiod, Works and Days on toil, and Egyptian Instruction of Amenemope on fate and labor."
+
+  - id: hb-ps-128-vine-and-olive-shoots
+    tradition: judaism
+    title: Psalm 128, blessing of the God-fearer's household
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 128:1-6"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 128:1"]}
+      - {motif: wife-as-vine-children-as-olive-shoots, refs: ["Ps 128:3"], note: "Wife 'in the recesses (yarketei) of your house'"}
+      - {motif: see-childrens-children, refs: ["Ps 128:6"]}
+      - {motif: peace-upon-israel-formula, refs: ["Ps 128:6"]}
+    hints:
+      - "Used in Jewish and Christian wedding liturgies."
+
+  - id: hb-ps-129-plowers-on-my-back
+    tradition: judaism
+    title: Psalm 129, plowed upon the back, grass on the housetops
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 129:1-8"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 129:1"]}
+      - {motif: plowers-plowed-upon-my-back, refs: ["Ps 129:3"]}
+      - {motif: god-cuts-cords-of-wicked, refs: ["Ps 129:4"], note: "Continues the plowing image: the cords (avot) are the harness"}
+      - {motif: grass-on-rooftops-withers, refs: ["Ps 129:6-7"]}
+      - {motif: harvest-blessing-greeting-withheld, refs: ["Ps 129:8"], note: "Compare Ruth 2:4"}
+
+  - id: hb-ps-130-de-profundis
+    tradition: judaism
+    title: Psalm 130, out of the depths
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 130:1-8"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 130:1"]}
+      - {motif: out-of-the-depths, refs: ["Ps 130:1"]}
+      - {motif: if-you-kept-iniquities-who-could-stand, refs: ["Ps 130:3-4"]}
+      - {motif: waiting-more-than-watchmen-for-morning, refs: ["Ps 130:6"]}
+      - {motif: redemption-from-all-iniquities, refs: ["Ps 130:7-8"]}
+    hints:
+      - "One of the seven Penitential Psalms; Luther's hymn 'Aus tiefer Not'. Recited in the Ten Days of Repentance."
+
+  - id: hb-ps-131-weaned-child
+    tradition: judaism
+    title: Psalm 131, a soul like a weaned child
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 131:1-3"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 131:1"]}
+      - {motif: not-meddling-with-things-too-wonderful, refs: ["Ps 131:1"]}
+      - {motif: soul-like-weaned-child, refs: ["Ps 131:2"]}
+    hints:
+      - "Compare Ben Sira 3:21-22 'seek not what is too wonderful for you' (quoted in b. Hagigah 13a against esoteric speculation)."
+
+  - id: hb-ps-132-davids-oath-ark
+    tradition: judaism
+    title: Psalm 132, David's vow, the ark and the oath to David
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 132:1-18"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 132:1"]}
+      - {motif: davids-vow-no-sleep-until-gods-place, refs: ["Ps 132:2-5"]}
+      - {motif: divine-epithets-mighty-one-of-jacob-stone-of-israel, refs: ["Ps 132:2", "Ps 132:5"], note: "avir ya'aqov"}
+      - {motif: ark-found-in-fields-of-jaar, refs: ["Ps 132:6"]}
+      - {motif: bow-at-gods-footstool, refs: ["Ps 132:7"]}
+      - {motif: arise-yhwh-to-your-resting-place, refs: ["Ps 132:8"], note: "= 2Chr 6:41"}
+      - {motif: priests-clothed-in-righteousness, refs: ["Ps 132:9", "Ps 132:16"]}
+      - {motif: oath-to-david-heir-on-throne, refs: ["Ps 132:11-12"]}
+      - {motif: zion-chosen-as-gods-resting-place, refs: ["Ps 132:13-14"]}
+      - {motif: horn-sprouts-for-david-lamp-for-anointed, refs: ["Ps 132:17-18"]}
+    hints:
+      - "Luke 1:69 ('horn of salvation in the house of David'); Acts 2:30 (oath and fruit of loins). Compare Mesopotamian royal temple-building vows (Gudea's sleepless dedication)."
+
+  - id: hb-ps-133-brothers-in-unity
+    tradition: judaism
+    title: Psalm 133, brothers dwelling together, oil and dew
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 133:1-3"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 133:1"]}
+      - {motif: brothers-dwell-together-in-unity, refs: ["Ps 133:1"]}
+      - {motif: oil-running-down-aarons-beard, refs: ["Ps 133:2"]}
+      - {motif: dew-of-hermon-on-zion, refs: ["Ps 133:3"]}
+    hints:
+      - "Hinneh ma tov; motto of fraternal orders. Compare the Ugaritic dew-and-oil blessings (dew of heaven, oil of earth) of Baal's daughters Tallay and Pidray."
+
+  - id: hb-ps-134-night-blessing
+    tradition: judaism
+    title: Psalm 134, servants who stand by night in the house of YHWH
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 134:1-3"]
+    tags:
+      - {motif: song-of-ascents-heading, refs: ["Ps 134:1"]}
+      - {motif: night-service-in-temple, refs: ["Ps 134:1"]}
+      - {motif: lifting-hands-in-prayer, refs: ["Ps 134:2"]}
+      - {motif: maker-of-heaven-and-earth, refs: ["Ps 134:3"], note: "Blessing 'from Zion'"}
+
+  - id: hb-ps-135-hymn-of-election
+    tradition: judaism
+    title: Psalm 135, hymn on God's power, election and the idols
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 135:1-21"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 135:1", "Ps 135:3", "Ps 135:21"]}
+      - {motif: chosen-treasured-people, refs: ["Ps 135:4"], note: "segullah"}
+      - {motif: yhwh-above-all-gods, refs: ["Ps 135:5"]}
+      - {motif: god-does-whatever-he-pleases, refs: ["Ps 135:6"]}
+      - {motif: wind-from-storehouses, refs: ["Ps 135:7"]}
+      - {motif: egyptian-firstborn-struck, refs: ["Ps 135:8"]}
+      - {motif: sihon-and-og-defeated, refs: ["Ps 135:10-12"]}
+      - {motif: idols-cannot-see-hear-eat-smell, refs: ["Ps 135:15-17"], note: "Adds 'no breath (ruah) in their mouths'"}
+      - {motif: idol-makers-become-like-idols, refs: ["Ps 135:18"]}
+      - {motif: israel-aaron-god-fearers-triad, refs: ["Ps 135:19-20"], note: "Expanded with the house of Levi"}
+      - {motif: historical-recital-psalm, refs: ["Ps 135:8-12"]}
+    hints:
+      - "135:7 = Jer 10:13; compare the Babylonian/Ugaritic storm god's storehouses and Quran 15:21-22 (winds as fertilizers, treasuries of all things)."
+
+  - id: hb-ps-136-great-hallel
+    tradition: judaism
+    title: Psalm 136, litany 'for his steadfast love is forever' (Great Hallel)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 136:1-26"]
+    tags:
+      - {motif: hodu-ki-tov-refrain, refs: ["Ps 136:1", "Ps 136:26"]}
+      - {motif: antiphonal-refrain-every-verse, refs: ["Ps 136:1-26"], note: "26 occurrences, the gematria of YHWH"}
+      - {motif: god-of-gods-lord-of-lords, refs: ["Ps 136:2-3"]}
+      - {motif: creation-by-wisdom, refs: ["Ps 136:5"], note: "Heavens made by understanding (tevunah)"}
+      - {motif: earth-spread-out-on-waters, refs: ["Ps 136:6"]}
+      - {motif: great-lights-rule-day-and-night, refs: ["Ps 136:7-9"]}
+      - {motif: egyptian-firstborn-struck, refs: ["Ps 136:10"]}
+      - {motif: red-sea-cut-into-parts, refs: ["Ps 136:13-15"], note: "Pharaoh 'shaken off' (ni'er) into the sea"}
+      - {motif: sihon-and-og-defeated, refs: ["Ps 136:17-22"]}
+      - {motif: god-gives-bread-to-all-flesh, refs: ["Ps 136:25"]}
+      - {motif: god-of-heaven-title, refs: ["Ps 136:26"]}
+      - {motif: historical-recital-psalm, refs: ["Ps 136:4-24"], note: "Creation to conquest in one sequence"}
+    hints:
+      - "Rabbinic tradition of the sea divided into twelve paths (one per tribe) is drawn from gozer lig'zarim. Compare Quran 26:63 (sea split, each part like a great mountain) and Quran 55 (Surat al-Rahman), whose refrain 'Which of your Lord's favors will you deny?' structures a creation-and-favors litany."
+
+  - id: hb-ps-137-rivers-of-babylon
+    tradition: judaism
+    title: Psalm 137, by the rivers of Babylon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 137:1-9"]
+    tags:
+      - {motif: by-rivers-of-babylon-weeping, refs: ["Ps 137:1"]}
+      - {motif: harps-hung-on-willows, refs: ["Ps 137:2"]}
+      - {motif: captors-demand-songs-of-zion, refs: ["Ps 137:3-4"]}
+      - {motif: oath-if-i-forget-jerusalem, refs: ["Ps 137:5-6"]}
+      - {motif: edom-cried-raze-it, refs: ["Ps 137:7"]}
+      - {motif: imprecation-on-enemies, refs: ["Ps 137:7-9"]}
+      - {motif: infants-dashed-against-rock, refs: ["Ps 137:9"]}
+    hints:
+      - "137:5-6 recited at Jewish weddings (breaking the glass). Compare Hos 14:1, Nah 3:10, 2Kgs 8:12 for dashing infants as a war atrocity, and Homer, Iliad 22:63-64 (Priam foresees his grandsons dashed down)."
+
+  - id: hb-ps-138-before-the-gods
+    tradition: judaism
+    title: Psalm 138, thanksgiving before the gods
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 138:1-8"]
+    tags:
+      - {motif: psalm-ascribed-to-david, refs: ["Ps 138:1"]}
+      - {motif: praise-before-the-gods, refs: ["Ps 138:1"], note: "LXX 'before angels'"}
+      - {motif: bow-toward-holy-temple, refs: ["Ps 138:2"]}
+      - {motif: kings-of-earth-praise-god, refs: ["Ps 138:4-5"]}
+      - {motif: god-enthroned-high-stoops-to-see, refs: ["Ps 138:6"], note: "Exalted yet sees the lowly; knows the haughty from afar"}
+      - {motif: right-hand-of-god, refs: ["Ps 138:7"]}
+    hints:
+      - "Compare Dan 6:11 and 1Kgs 8:35 (prayer toward the temple) and the qibla in Islam."
+
+  - id: hb-ps-139-searched-and-known
+    tradition: judaism
+    title: Psalm 139, God's all-knowing presence and the embryo
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 139:1-24"]
+    tags:
+      - {motif: psalm-for-the-leader, refs: ["Ps 139:1"]}
+      - {motif: god-searches-and-knows-me, refs: ["Ps 139:1-6"]}
+      - {motif: inescapable-presence-heaven-to-sheol, refs: ["Ps 139:7-8"]}
+      - {motif: wings-of-the-dawn, refs: ["Ps 139:9-10"]}
+      - {motif: darkness-is-as-light-to-god, refs: ["Ps 139:11-12"]}
+      - {motif: knit-together-in-mothers-womb, refs: ["Ps 139:13"], note: "God 'acquired/created (qanita) my kidneys'"}
+      - {motif: embryo-woven-in-depths-of-earth, refs: ["Ps 139:15"]}
+      - {motif: embryo-curdled-like-cheese, refs: ["Ps 139:13-16"], note: "Parallel theme of divine embryology (Job 10:10-11)"}
+      - {motif: golem-seen-days-written-in-book, refs: ["Ps 139:16"]}
+      - {motif: tears-in-gods-bottle, refs: ["Ps 139:16"], note: "Heavenly book of the person's days"}
+      - {motif: perfect-hatred-of-gods-enemies, refs: ["Ps 139:19-22"]}
+      - {motif: search-me-and-test-my-heart, refs: ["Ps 139:23-24"]}
+    hints:
+      - "Amos 9:2-3 (no escape to Sheol, heaven, Carmel or sea); Quran 50:16 (closer than the jugular vein) and 57:4. 'Golem' here is the source of the later term for the artificial man; compare the earth-born first man of Gen 2:7 and Mesopotamian tablets of destiny."
+
+  - id: hb-ps-140-venom-of-vipers
+    tradition: judaism
+    title: Psalm 140, deliverance from violent men with serpent tongues
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 140:1-14"]
+    tags:
+      - {motif: psalm-for-the-leader, refs: ["Ps 140:1"]}
+      - {motif: individual-lament, refs: ["Ps 140:2-14"]}
+      - {motif: tongue-like-serpent-venom-of-viper, refs: ["Ps 140:4"], note: "akhshuv, a hapax for viper"}
+      - {motif: hidden-snare-net-and-traps, refs: ["Ps 140:6"]}
+      - {motif: god-covers-head-in-day-of-battle, refs: ["Ps 140:8"]}
+      - {motif: burning-coals-fall-on-wicked, refs: ["Ps 140:11"]}
+      - {motif: god-repays-according-to-deeds, refs: ["Ps 140:10", "Ps 140:12"], note: "The mischief of their lips covers them; evil hunts the violent man"}
+    hints:
+      - "Rom 3:13 cites 140:4 in a catena on universal sin."
+
+  - id: hb-ps-141-prayer-as-incense
+    tradition: judaism
+    title: Psalm 141, prayer as incense, guard on the mouth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 141:1-10"]
+    tags:
+      - {motif: make-haste-to-help, refs: ["Ps 141:1"]}
+      - {motif: prayer-as-incense-evening-offering, refs: ["Ps 141:2"]}
+      - {motif: lifting-hands-in-prayer, refs: ["Ps 141:2"]}
+      - {motif: guard-set-over-mouth, refs: ["Ps 141:3"]}
+      - {motif: rebuke-of-righteous-as-oil, refs: ["Ps 141:5"]}
+      - {motif: judges-thrown-from-the-cliff, refs: ["Ps 141:6"]}
+      - {motif: bones-scattered-at-mouth-of-sheol, refs: ["Ps 141:7"]}
+      - {motif: trapper-falls-into-own-pit, refs: ["Ps 141:9-10"]}
+    hints:
+      - "Evening psalm of Byzantine Vespers ('Lord, I have cried'); Rev 5:8 and 8:3-4 (prayers as incense)."
+
+  - id: hb-ps-142-in-the-cave
+    tradition: judaism
+    title: Psalm 142, David's prayer in the cave
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 142:1-8"]
+    tags:
+      - {motif: psalm-historical-superscription, refs: ["Ps 142:1"], note: "'When he was in the cave' (Adullam or En-gedi)"}
+      - {motif: psalm-musical-term, refs: ["Ps 142:1"], note: "maskil"}
+      - {motif: no-one-cares-for-my-soul, refs: ["Ps 142:5"]}
+      - {motif: hidden-snare-net-and-traps, refs: ["Ps 142:4"]}
+      - {motif: god-is-my-portion, refs: ["Ps 142:6"], note: "'my portion in the land of the living'"}
+      - {motif: land-of-the-living, refs: ["Ps 142:6"]}
+      - {motif: soul-brought-out-of-prison, refs: ["Ps 142:8"]}
+
+  - id: hb-ps-143-none-righteous
+    tradition: judaism
+    title: Psalm 143, enter not into judgment
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 143:1-12"]
+    tags:
+      - {motif: no-living-being-righteous-before-god, refs: ["Ps 143:2"]}
+      - {motif: dwelling-in-darkness-like-long-dead, refs: ["Ps 143:3"]}
+      - {motif: remembering-deeds-of-old, refs: ["Ps 143:5"]}
+      - {motif: lifting-hands-in-prayer, refs: ["Ps 143:6"]}
+      - {motif: thirst-for-god-in-dry-land, refs: ["Ps 143:6"]}
+      - {motif: pit-of-destruction, refs: ["Ps 143:7"], note: "Like those who go down to the pit (bor)"}
+      - {motif: gods-good-spirit-leads, refs: ["Ps 143:10"]}
+    hints:
+      - "Rom 3:20 and Gal 2:16 echo 143:2 ('no flesh justified'). Last of the seven Penitential Psalms."
+
+  - id: hb-ps-144-trains-my-hands
+    tradition: judaism
+    title: Psalm 144, royal prayer for victory and prosperity
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 144:1-15"]
+    tags:
+      - {motif: psalm-ascribed-to-david, refs: ["Ps 144:1"]}
+      - {motif: god-trains-hands-for-war, refs: ["Ps 144:1"]}
+      - {motif: god-as-rock-and-fortress, refs: ["Ps 144:1-2"]}
+      - {motif: what-is-man, refs: ["Ps 144:3"]}
+      - {motif: humans-lighter-than-breath-on-scales, refs: ["Ps 144:4"], note: "Man is like hevel, his days a passing shadow"}
+      - {motif: days-as-shadow, refs: ["Ps 144:4"]}
+      - {motif: bow-heavens-and-come-down, refs: ["Ps 144:5"]}
+      - {motif: god-touches-mountains-they-smoke, refs: ["Ps 144:5"]}
+      - {motif: storm-theophany-arrows-thunder, refs: ["Ps 144:6"]}
+      - {motif: rescue-from-hand-of-foreigners, refs: ["Ps 144:7-8", "Ps 144:11"]}
+      - {motif: new-song, refs: ["Ps 144:9"]}
+      - {motif: ten-stringed-harp, refs: ["Ps 144:9"]}
+      - {motif: daughters-like-carved-corner-pillars, refs: ["Ps 144:12"]}
+      - {motif: happy-the-people-whose-god-is-yhwh, refs: ["Ps 144:13-15"], note: "Barns full, flocks in thousands, no breach, no outcry"}
+    hints:
+      - "Largely a reworking of Ps 18 (2Sam 22). Compare Greek caryatids for daughters as carved pillars."
+
+  - id: hb-ps-145-ashrei
+    tradition: judaism
+    title: Psalm 145, acrostic praise of the King (Ashrei)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 145:1-21"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Ps 145:1-21"]}
+      - {motif: acrostic-missing-letter, refs: ["Ps 145:13-14"], note: "No nun verse in MT; 11QPs-a and LXX have one ('Faithful is God in his words')"}
+      - {motif: everlasting-kingdom-of-god, refs: ["Ps 145:1", "Ps 145:11-13"]}
+      - {motif: thirteen-attributes, refs: ["Ps 145:8"], note: "Gracious, compassionate, slow to anger, great in hesed"}
+      - {motif: tradition-handed-to-children, refs: ["Ps 145:4"], note: "Generation to generation praises your works"}
+      - {motif: god-upholds-falling-raises-bowed, refs: ["Ps 145:14"]}
+      - {motif: all-creatures-wait-for-food, refs: ["Ps 145:15-16"]}
+      - {motif: god-near-to-all-who-call, refs: ["Ps 145:18"]}
+      - {motif: all-flesh-comes-to-god, refs: ["Ps 145:21"], note: "All flesh blesses his holy name"}
+    hints:
+      - "b. Berakhot 4b: whoever recites it three times daily is assured the world to come; the missing nun explained as avoiding 'Fallen is the virgin Israel' (Amos 5:2). Compare Quran 2:186 ('I am near; I answer the caller')."
+
+  - id: hb-ps-146-trust-not-princes
+    tradition: judaism
+    title: Psalm 146, do not trust in princes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 146:1-10"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 146:1", "Ps 146:10"]}
+      - {motif: better-trust-god-than-princes, refs: ["Ps 146:3"]}
+      - {motif: thoughts-perish-on-day-of-death, refs: ["Ps 146:4"]}
+      - {motif: dust-to-dust, refs: ["Ps 146:4"], note: "Returns to his adamah"}
+      - {motif: maker-of-heaven-and-earth, refs: ["Ps 146:6"], note: "With the sea and all in them"}
+      - {motif: god-frees-prisoners-opens-blind-eyes, refs: ["Ps 146:7-8"]}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Ps 146:9"]}
+      - {motif: yhwh-reigns-forever, refs: ["Ps 146:10"]}
+    hints:
+      - "Compare Isa 61:1 and Luke 4:18, 7:22 (blind see, captives freed); the morning blessings 'who opens the eyes of the blind... frees the captive'."
+
+  - id: hb-ps-147-counts-the-stars
+    tradition: judaism
+    title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 147:1-20"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 147:1", "Ps 147:20"]}
+      - {motif: ingathering-of-exiles, refs: ["Ps 147:2"], note: "Builds Jerusalem, gathers the outcasts (nidhei) of Israel"}
+      - {motif: god-heals-brokenhearted, refs: ["Ps 147:3"]}
+      - {motif: god-counts-and-names-stars, refs: ["Ps 147:4"]}
+      - {motif: god-gives-rain-and-harvest, refs: ["Ps 147:8"], note: "Covers heaven with clouds, makes grass grow on mountains"}
+      - {motif: god-feeds-young-ravens, refs: ["Ps 147:9"]}
+      - {motif: god-not-pleased-by-horse-or-legs, refs: ["Ps 147:10-11"]}
+      - {motif: word-runs-swiftly-snow-and-ice, refs: ["Ps 147:15-18"]}
+      - {motif: law-given-only-to-israel, refs: ["Ps 147:19-20"]}
+    hints:
+      - "Isa 40:26 (calls the stars by name); Job 38:41 and Luke 12:24 (ravens fed). Compare Quran 67:5 and Babylonian star catalogues."
+
+  - id: hb-ps-148-all-creation-praises
+    tradition: judaism
+    title: Psalm 148, praise from heaven and earth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 148:1-14"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 148:1", "Ps 148:14"]}
+      - {motif: cosmos-praises-god, refs: ["Ps 148:1-13"]}
+      - {motif: angels-and-hosts-summoned-to-praise, refs: ["Ps 148:2"]}
+      - {motif: luminaries-summoned-to-praise, refs: ["Ps 148:3"]}
+      - {motif: waters-above-the-heavens, refs: ["Ps 148:4"], note: "With 'heavens of heavens'"}
+      - {motif: firmament-divides-waters, refs: ["Ps 148:4"]}
+      - {motif: created-by-command-fixed-decree, refs: ["Ps 148:5-6"]}
+      - {motif: laws-of-heaven, refs: ["Ps 148:6"]}
+      - {motif: sea-monsters-and-deeps-praise, refs: ["Ps 148:7"]}
+      - {motif: weather-does-his-word, refs: ["Ps 148:8"]}
+      - {motif: all-ranks-of-humanity-praise, refs: ["Ps 148:11-12"]}
+      - {motif: do-not-lift-up-horn, refs: ["Ps 148:14"], note: "He has raised a horn for his people"}
+    hints:
+      - "Expanded in the Prayer of Azariah / Song of the Three Young Men (Benedicite, Dan 3:57-90 LXX) and Francis of Assisi's Canticle of the Creatures. Compare Quran 17:44 and 24:41 (all in heaven and earth glorify God)."
+
+  - id: hb-ps-149-two-edged-sword
+    tradition: judaism
+    title: Psalm 149, new song, dance, and the sword of the faithful
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 149:1-9"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 149:1", "Ps 149:9"]}
+      - {motif: new-song, refs: ["Ps 149:1"]}
+      - {motif: praise-with-dance-and-timbrel, refs: ["Ps 149:3"]}
+      - {motif: faithful-sing-on-their-beds, refs: ["Ps 149:5"]}
+      - {motif: two-edged-sword-in-hand-of-faithful, refs: ["Ps 149:6-7"]}
+      - {motif: kings-bound-in-chains, refs: ["Ps 149:8-9"]}
+    hints:
+      - "Read by Thomas Müntzer in the Peasants' War; compare Qumran War Scroll (1QM) where the faithful execute eschatological judgment, and Rev 1:16 (two-edged sword from the mouth)."
+
+  - id: hb-ps-150-final-hallelujah
+    tradition: judaism
+    title: Psalm 150, everything that breathes, praise Yah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Ps 150:1-6"]
+    tags:
+      - {motif: hallelujah-formula, refs: ["Ps 150:1", "Ps 150:6"]}
+      - {motif: praise-in-firmament, refs: ["Ps 150:1"]}
+      - {motif: orchestra-of-praise, refs: ["Ps 150:3-5"]}
+      - {motif: shofar-at-new-and-full-moon, refs: ["Ps 150:3"], note: "Only the shofar blast (teqa' shofar) is shared"}
+      - {motif: praise-with-dance-and-timbrel, refs: ["Ps 150:4"]}
+      - {motif: everything-that-breathes-praise, refs: ["Ps 150:6"]}
+      - {motif: book-closing-doxology, refs: ["Ps 150:1-6"], note: "The whole psalm serves as doxology to Book V and the Psalter"}
+    hints:
+      - "Tenfold 'hallelu' linked in b. Rosh Hashanah 32a to the ten utterances of creation. LXX adds Ps 151 (David and Goliath), found in Hebrew at Qumran 11QPs-a."
+
+  - id: hb-prov-1-prologue
+    tradition: judaism
+    title: Proverbs 1:1-7, title and purpose; fear of YHWH
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 1:1-7"]
+    tags:
+      - {motif: proverbs-of-solomon-title, refs: ["Prov 1:1"]}
+      - {motif: wisdom-book-purpose-prologue, refs: ["Prov 1:2-6"]}
+      - {motif: parable-and-riddles-of-old, refs: ["Prov 1:6"], note: "mashal, melitsah, divrei hakhamim, hidot"}
+      - {motif: fear-of-yhwh-beginning-of-wisdom, refs: ["Prov 1:7"], note: "'beginning of knowledge'"}
+    hints:
+      - "Compare Egyptian instruction prologues (Ptahhotep, Amenemope ch. 1) and the Sumerian Instructions of Shuruppak."
+
+  - id: hb-prov-1-gang-of-sinners
+    tradition: judaism
+    title: Proverbs 1:8-19, warning against the gang of robbers
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 1:8-19"]
+    tags:
+      - {motif: fathers-instruction-mothers-torah, refs: ["Prov 1:8"]}
+      - {motif: teaching-as-garland-and-necklace, refs: ["Prov 1:9"]}
+      - {motif: gang-of-robbers-entices-youth, refs: ["Prov 1:10-14"], note: "'Cast your lot among us; we will all have one purse'"}
+      - {motif: enemies-go-down-to-sheol-alive, refs: ["Prov 1:12"], note: "Robbers boast 'Let us swallow them alive like Sheol, whole like those who go down to the pit'"}
+      - {motif: net-spread-before-bird-in-vain, refs: ["Prov 1:17-18"]}
+      - {motif: greed-takes-life-of-its-owner, refs: ["Prov 1:19"]}
+    hints:
+      - "Compare Mot (Death) with open gullet in Ugaritic myth swallowing Baal, and Isa 5:14."
+
+  - id: hb-prov-1-wisdom-cries-out
+    tradition: judaism
+    title: Proverbs 1:20-33, Lady Wisdom's speech in the streets
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 1:20-33"]
+    tags:
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 1:20-33"], note: "Plural form hokhmot with singular verb"}
+      - {motif: wisdom-cries-in-street-and-gates, refs: ["Prov 1:20-21"]}
+      - {motif: wisdom-pours-out-her-spirit, refs: ["Prov 1:23"]}
+      - {motif: wisdom-laughs-at-calamity-of-scorners, refs: ["Prov 1:26-27"]}
+      - {motif: too-late-they-seek-and-do-not-find, refs: ["Prov 1:28"]}
+      - {motif: eat-the-fruit-of-their-own-way, refs: ["Prov 1:31"]}
+      - {motif: god-laughs-at-enemies, refs: ["Prov 1:26"], note: "Here Wisdom, not God, laughs"}
+    hints:
+      - "Wisdom speaks like a prophet (cf. Jer 7:13). Compare 1 Enoch 42 (Wisdom finds no dwelling among men and returns to heaven), Sir 24, Wis 7-9, Matt 23:34-37 / Luke 11:49, and the Gnostic Sophia."
+
+  - id: hb-prov-2-search-for-wisdom
+    tradition: judaism
+    title: Proverbs 2, seeking wisdom as treasure; the strange woman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 2:1-22"]
+    tags:
+      - {motif: seek-wisdom-like-hidden-treasure, refs: ["Prov 2:4"]}
+      - {motif: god-gives-wisdom-from-his-mouth, refs: ["Prov 2:6"]}
+      - {motif: two-ways-righteous-and-wicked, refs: ["Prov 2:12-15", "Prov 2:20"], note: "Paths of uprightness versus ways of darkness"}
+      - {motif: strange-woman-warning, refs: ["Prov 2:16"]}
+      - {motif: strange-woman-forsakes-covenant, refs: ["Prov 2:17"], note: "aluf ne'ureha, 'companion of her youth'; berit eloheha"}
+      - {motif: her-house-leads-to-death-and-rephaim, refs: ["Prov 2:18"]}
+      - {motif: none-who-go-to-her-return, refs: ["Prov 2:19"]}
+      - {motif: upright-inhabit-land-wicked-cut-off, refs: ["Prov 2:21-22"]}
+    hints:
+      - "Compare Matt 5:5 (meek inherit the earth) and Ps 37. The 'land of no return' is a stock name for the Mesopotamian underworld (Descent of Ishtar)."
+
+  - id: hb-prov-3-trust-and-discipline
+    tradition: judaism
+    title: Proverbs 3:1-12, trust in YHWH, firstfruits, the Lord's discipline
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 3:1-12"]
+    tags:
+      - {motif: wisdom-brings-long-life, refs: ["Prov 3:2"]}
+      - {motif: write-on-tablet-of-heart, refs: ["Prov 3:3"]}
+      - {motif: sign-on-hand-between-eyes, refs: ["Prov 3:3"], note: "Binding on the throat echoes the Deuteronomic binding of words"}
+      - {motif: trust-god-not-own-understanding, refs: ["Prov 3:5-7"]}
+      - {motif: honor-god-with-firstfruits-barns-full, refs: ["Prov 3:9-10"]}
+      - {motif: god-disciplines-as-father, refs: ["Prov 3:11-12"]}
+      - {motif: blessed-is-the-chastened, refs: ["Prov 3:11-12"]}
+    hints:
+      - "Heb 12:5-6 quotes 3:11-12 (LXX). Compare Jer 31:33 (law written on the heart) and 2 Cor 3:3."
+
+  - id: hb-prov-3-tree-of-life
+    tradition: judaism
+    title: Proverbs 3:13-35, wisdom a tree of life; creation by wisdom; neighbor ethics
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 3:13-35"]
+    tags:
+      - {motif: wisdom-beyond-price-of-gems, refs: ["Prov 3:14-15"], note: "Better than silver, gold, pearls (peninim)"}
+      - {motif: wisdom-better-than-silver-gold-pearls, refs: ["Prov 3:14-15"]}
+      - {motif: wisdom-long-life-right-riches-left, refs: ["Prov 3:16"]}
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 3:15-18"]}
+      - {motif: wisdom-is-tree-of-life, refs: ["Prov 3:18"]}
+      - {motif: creation-by-wisdom, refs: ["Prov 3:19"], note: "Earth founded by wisdom, heavens by understanding"}
+      - {motif: deeps-split-clouds-drip-dew-by-knowledge, refs: ["Prov 3:20"]}
+      - {motif: sleep-sweetly-without-fear, refs: ["Prov 3:24-26"]}
+      - {motif: do-not-withhold-good-till-tomorrow, refs: ["Prov 3:27-30"]}
+      - {motif: god-scorns-scorners-gives-grace-to-humble, refs: ["Prov 3:34"]}
+    hints:
+      - "Prov 3:17-18 sung when the Torah scroll is returned to the ark ('Etz hayyim hi'); the scroll's rollers are called atsei hayyim. Jas 4:6 and 1 Pet 5:5 quote 3:34 (LXX). Egyptian Maat iconography: the goddess holding the ankh (life) in one hand and a scepter in the other."
+
+  - id: hb-prov-4-get-wisdom
+    tradition: judaism
+    title: Proverbs 4, a father's father's teaching; the two paths
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 4:1-27"]
+    tags:
+      - {motif: three-generations-of-teaching, refs: ["Prov 4:1-4"]}
+      - {motif: acquire-wisdom-above-all, refs: ["Prov 4:5-7"]}
+      - {motif: wisdom-as-beloved-gives-crown, refs: ["Prov 4:6-9"]}
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 4:6-9"]}
+      - {motif: wisdom-brings-long-life, refs: ["Prov 4:10", "Prov 4:13", "Prov 4:22"]}
+      - {motif: bread-of-wickedness-wine-of-violence, refs: ["Prov 4:16-17"]}
+      - {motif: path-of-righteous-like-dawn, refs: ["Prov 4:18-19"]}
+      - {motif: two-ways-righteous-and-wicked, refs: ["Prov 4:14-19"]}
+      - {motif: guard-heart-wellspring-of-life, refs: ["Prov 4:23"]}
+      - {motif: turn-neither-right-nor-left, refs: ["Prov 4:25-27"]}
+    hints:
+      - "Compare Didache 1-6 and Barnabas 18-20 (Two Ways), Qumran Two Spirits (1QS 3-4), and the Pythagorean Y."
+
+  - id: hb-prov-5-own-cistern
+    tradition: judaism
+    title: Proverbs 5, the strange woman versus the wife of one's youth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 5:1-23"]
+    tags:
+      - {motif: strange-woman-warning, refs: ["Prov 5:3", "Prov 5:20"]}
+      - {motif: lips-drip-honey-end-bitter-wormwood, refs: ["Prov 5:3-4"]}
+      - {motif: words-smoother-than-oil, refs: ["Prov 5:3"]}
+      - {motif: her-house-leads-to-death-and-rephaim, refs: ["Prov 5:5-6"]}
+      - {motif: drink-from-your-own-cistern, refs: ["Prov 5:15-18"]}
+      - {motif: wife-as-loving-doe, refs: ["Prov 5:18-19"], note: "'Be intoxicated (tishgeh) always with her love'"}
+      - {motif: god-weighs-all-paths, refs: ["Prov 5:21"]}
+      - {motif: wicked-caught-in-cords-of-own-sin, refs: ["Prov 5:22-23"]}
+    hints:
+      - "Compare Song 4:12-15 (bride as sealed fountain) and Eccl 9:9. Egyptian Instruction of Any warns against 'the woman from abroad, not known in her town'."
+
+  - id: hb-prov-6-surety-ant-scoundrel
+    tradition: judaism
+    title: Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 6:1-19"]
+    tags:
+      - {motif: surety-for-neighbor-warning, refs: ["Prov 6:1-5"]}
+      - {motif: go-to-the-ant-sluggard, refs: ["Prov 6:6-8"]}
+      - {motif: poverty-comes-like-robber, refs: ["Prov 6:9-11"]}
+      - {motif: scoundrel-winks-and-signals, refs: ["Prov 6:12-14"], note: "Winking and gestures possibly magical or conspiratorial"}
+      - {motif: six-seven-things-god-hates, refs: ["Prov 6:16-19"]}
+      - {motif: numerical-saying-one-two, refs: ["Prov 6:16"], note: "x / x+1 pattern: six, seven"}
+    hints:
+      - "Quran 27:18 (the ant in Solomon's valley) and the Arabic proverbial wisdom of the ant; Aesop's Ant and Grasshopper. Compare Ahiqar sayings on surety."
+
+  - id: hb-prov-6-adultery-fire
+    tradition: judaism
+    title: Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 6:20-35"]
+    tags:
+      - {motif: fathers-instruction-mothers-torah, refs: ["Prov 6:20"]}
+      - {motif: write-on-tablet-of-heart, refs: ["Prov 6:21"], note: "Bind on the heart, tie on the throat"}
+      - {motif: teaching-guides-walking-lying-waking, refs: ["Prov 6:22"], note: "Echo of Deut 6:7"}
+      - {motif: commandment-lamp-torah-light, refs: ["Prov 6:23"]}
+      - {motif: strange-woman-warning, refs: ["Prov 6:24-25"], note: "Do not let her capture you with her eyelids"}
+      - {motif: harlot-for-a-loaf-adulteress-hunts-life, refs: ["Prov 6:26"]}
+      - {motif: fire-in-bosom-coals-under-feet, refs: ["Prov 6:27-29"]}
+      - {motif: thief-repays-sevenfold, refs: ["Prov 6:30-31"]}
+      - {motif: jealous-husband-refuses-ransom, refs: ["Prov 6:34-35"]}
+      - {motif: adultery-prohibited, refs: ["Prov 6:29", "Prov 6:32"]}
+
+  - id: hb-prov-7-seductress
+    tradition: judaism
+    title: Proverbs 7, the youth and the seductress at twilight
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 7:1-27"]
+    tags:
+      - {motif: torah-as-apple-of-eye, refs: ["Prov 7:2"]}
+      - {motif: write-on-tablet-of-heart, refs: ["Prov 7:3"], note: "Bind them on your fingers"}
+      - {motif: call-wisdom-your-sister, refs: ["Prov 7:4"]}
+      - {motif: strange-woman-warning, refs: ["Prov 7:5"]}
+      - {motif: observer-at-window-lattice, refs: ["Prov 7:6-7"], note: "LXX makes the woman the one peering from the window"}
+      - {motif: woman-at-the-window, refs: ["Prov 7:6"], note: "Window-lattice (eshnav) scene; here the speaker looks out"}
+      - {motif: seductress-lurks-at-corners-at-twilight, refs: ["Prov 7:8-13"]}
+      - {motif: seductress-has-paid-vows, refs: ["Prov 7:14"]}
+      - {motif: bed-perfumed-myrrh-aloes-cinnamon, refs: ["Prov 7:16-17"]}
+      - {motif: husband-away-until-full-moon, refs: ["Prov 7:19-20"]}
+      - {motif: youth-like-ox-to-slaughter, refs: ["Prov 7:22-23"]}
+      - {motif: her-slain-are-many, refs: ["Prov 7:26"]}
+      - {motif: her-house-leads-to-death-and-rephaim, refs: ["Prov 7:27"], note: "Ways of Sheol, chambers of death"}
+    hints:
+      - "Compare the 'woman at the window' ivories (Astarte/Kilili 'who leans from the window') and Ishtar as the goddess of the tavern who seduces passers-by; Gilgamesh VI (Ishtar's lovers destroyed). The Qumran 'Wiles of the Wicked Woman' (4Q184) develops this figure as a demonic seductress."
+
+  - id: hb-prov-8-wisdom-speaks
+    tradition: judaism
+    title: Proverbs 8:1-21, Wisdom's public speech, by me kings reign
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 8:1-21"]
+    tags:
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 8:1-21"]}
+      - {motif: wisdom-cries-in-street-and-gates, refs: ["Prov 8:1-4"], note: "On the heights, at the crossroads, by the gates, at the entrance of the doors"}
+      - {motif: wisdom-better-than-silver-gold-pearls, refs: ["Prov 8:10-11", "Prov 8:19"]}
+      - {motif: wisdom-dwells-with-prudence, refs: ["Prov 8:12", "Prov 8:14"]}
+      - {motif: fear-of-lord-is-wisdom, refs: ["Prov 8:13"], note: "Fear of YHWH is hatred of evil"}
+      - {motif: by-wisdom-kings-reign, refs: ["Prov 8:15-16"]}
+      - {motif: wisdom-loves-those-who-love-her, refs: ["Prov 8:17"]}
+      - {motif: wisdom-endows-lovers-with-wealth, refs: ["Prov 8:18-21"]}
+    hints:
+      - "Compare Matt 7:7 (seek and you will find) and Wis 8:2-3 (Solomon sought Wisdom as bride). Isis aretalogies use the same 'I am' self-praise ('I gave laws to men')."
+
+  - id: hb-prov-8-wisdom-at-creation
+    tradition: judaism
+    title: Proverbs 8:22-31, Wisdom before and at creation
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 8:22-31"]
+    tags:
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 8:22-31"]}
+      - {motif: wisdom-acquired-first-of-gods-way, refs: ["Prov 8:22"], note: "qanani: 'acquired/possessed' (Aquila, Vulgate possedit) or 'created' (LXX ektisen); reshit darko recalls Gen 1:1 bereshit"}
+      - {motif: wisdom-installed-from-eternity, refs: ["Prov 8:23"], note: "nissakhti: 'I was installed' (as a king, cf. Ps 2:6) or 'woven' (cf. Ps 139:13 tesukkeni)"}
+      - {motif: wisdom-born-before-creation, refs: ["Prov 8:24-25"], note: "holalti twice, 'I was brought forth in birth pangs'"}
+      - {motif: pre-creation-no-rain-no-plants, refs: ["Prov 8:24-26"], note: "Negative 'when there was not yet' (be'en ... beterem ... ad lo) cosmogony formula"}
+      - {motif: creation-from-primeval-waters, refs: ["Prov 8:24", "Prov 8:27-28"], note: "Tehomot and springs heavy with water; fountains of the deep made strong"}
+      - {motif: wisdom-present-at-creation, refs: ["Prov 8:27-29"], note: "'When he established the heavens, I was there (sham ani)'"}
+      - {motif: circle-on-waters-boundary-light-darkness, refs: ["Prov 8:27"], note: "He inscribed a circle (hug) on the face of the deep"}
+      - {motif: boundary-set-for-sea, refs: ["Prov 8:29"], note: "Sea given its decree (huqqo), the waters not to transgress his command (lit. 'his mouth')"}
+      - {motif: earth-founded-like-building, refs: ["Prov 8:29"], note: "He marked out (behuqo) the foundations of the earth"}
+      - {motif: creation-by-wisdom, refs: ["Prov 8:22-31"]}
+      - {motif: wisdom-as-amon-beside-god, refs: ["Prov 8:30"], note: "amon: craftsman (cf. Jer 52:15 amman, Akk. ummanu sage), or amun 'nursling', or 'faithful'; Gen. Rabbah 1:1 reads 'oman' and makes Torah the blueprint God consulted"}
+      - {motif: wisdom-plays-before-god, refs: ["Prov 8:30-31"]}
+      - {motif: torah-as-delight, refs: ["Prov 8:30"], note: "sha'ashu'im, same word as Torah 'my delight' in Ps 119; basis for identifying Wisdom with Torah"}
+      - {motif: wisdom-delights-in-humans, refs: ["Prov 8:31"]}
+      - {motif: firmament-divides-waters, refs: ["Prov 8:28"], note: "He made firm the skies (shehaqim) above"}
+    hints:
+      - "Central text for the Arian controversy (LXX ektisen 'created me') and for Logos/Christ as pre-existent Wisdom (John 1:1-3, Col 1:15-17, Heb 1:2-3). Sir 24 identifies Wisdom with Torah; Gen. Rabbah 1:1 and m. Avot 3:14 make Torah the instrument of creation; 'reshit' links to Targum Neofiti Gen 1:1 'in wisdom God created'."
+      - "Compare Egyptian Maat, daughter of Re, present with him at creation; Mesopotamian apkallu/ummanu sages; Avestan Spenta Mainyu and the Amesha Spentas; Philo's Sophia as mother of the Logos; Gnostic Sophia; Kabbalistic Hokhmah as the second sefirah; Quran 2:30-33 and the pre-existent 'preserved tablet' (85:22)."
+
+  - id: hb-prov-8-blessed-at-doors
+    tradition: judaism
+    title: Proverbs 8:32-36, happy who watch at Wisdom's doors
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Prov 8:32-36"]
+    tags:
+      - {motif: wisdom-personified-as-woman, refs: ["Prov 8:32-36"]}
+      - {motif: watching-daily-at-wisdoms-doors, refs: ["Prov 8:34"]}
+      - {motif: words-on-doorposts, refs: ["Prov 8:34"], note: "mezuzot of Wisdom's entrance"}
+      - {motif: who-finds-wisdom-finds-life, refs: ["Prov 8:35-36"]}
+    hints:
+      - "Compare John 10:9 (I am the door) and Sir 14:23-24 (one who peers through Wisdom's windows and camps by her house)."
