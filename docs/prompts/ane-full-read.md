@@ -13,10 +13,10 @@ standard as the Hebrew Bible, which is already fully read and tagged.
 
 ## Start here
 
-1. Base your work on branch `claude/nifty-einstein-ewlse8`, which has
-   everything so far. Develop on your session's designated branch, created
-   from it, and push there. Do not push to `claude/nifty-einstein-ewlse8`;
-   another session is working on it.
+1. Base your work on `main`, which has everything so far. Develop on your
+   session's designated branch, created from `main`, and push there. Do not
+   push to `main` or to `claude/nifty-einstein-ewlse8`; another session works
+   on those.
 2. Read these, in order:
    - `README.md`
    - `PLAN.md`, especially "Standing requirements for every text",
@@ -144,7 +144,13 @@ scope and why. Plan the reading chunks from those sizes.
    --write-leads`, `python3 tools/linguistic.py`, `python3 tools/originals.py`,
    `python3 tools/coverage.py` and `python3 tools/build.py`. All benchmarks
    must pass, apart from documented, expected misses.
-4. Report back, in this order:
+4. Add a dated entry to `docs/CLEANUP.md`, following its format. Record
+   what the ANE work added, what it left behind (duplicate ids, label
+   variants, stale leads, units still from secondary knowledge, one-off
+   patches, texts left out) and any shortcut the final cleanup should undo.
+   Don't clean up beyond the light tidy that file describes. The full
+   cleanup happens once, after every tradition is done.
+5. Report back, in this order:
    - an inventory of what was fully read (text, edition, lines), what was
      partly read and what was left out;
    - the benchmark results;
