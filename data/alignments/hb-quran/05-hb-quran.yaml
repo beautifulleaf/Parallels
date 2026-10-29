@@ -8,6 +8,97 @@ new_motifs:
   enemy-army-gathered-from-cities: {label: "The king musters his whole force to pursue the departing people", cluster: exodus}
   presence-at-the-mountain-revelation: {label: "Who was present at the revelation on the mountain, and who knows it only by report", cluster: revelation}
   wealth-of-lands-brought-to-sacred-city: {label: "Produce and wealth of every land brought to a sacred city", cluster: cult}
+  response-to-good-and-evil-from-god: {label: "How a worshipper responds to good fortune and to misfortune sent by God", cluster: ethics}
+  humanity-in-the-cosmic-worship: {label: "The place of humans in the worship offered by all creation", cluster: psalms}
+  pilgrimage-festival-calendar: {label: "Who must make pilgrimage to the sanctuary, and how often", cluster: cult}
+  origin-of-the-one-sanctuary: {label: "Who chose or founded the single sanctuary of sacrifice, and when", cluster: cult}
+  fate-of-sacrificial-blood: {label: "What is done with the blood of sacrifices, and whether it reaches God", cluster: cult}
+  source-of-false-words-in-prophecy: {label: "Where false words in a prophet's message come from, and what becomes of them", cluster: prophecy}
+  abraham-as-father-of-the-community: {label: "Whether Abraham is the father of the community addressed", cluster: patriarchs}
+  what-the-righteous-inherit: {label: "What the righteous are promised as their inheritance", cluster: eschatology}
+  god-the-maker-of-the-human-body: {label: "God's crafting of the human body, and what is said to follow from it", cluster: creation}
+  flood-hero-speaks-before-flood: {label: "Whether the flood hero speaks to his people before the flood", cluster: flood}
+  cause-of-the-destruction: {label: "Why God destroyed a generation or a people", cluster: flood}
+  onset-of-the-flood: {label: "When and from where the flood waters come", cluster: flood}
+  who-is-saved-from-the-destruction: {label: "Who is saved with the hero from the destruction, and why", cluster: flood}
+  end-of-the-flood-voyage: {label: "What the flood hero does when the vessel comes to rest", cluster: flood}
+  fate-of-humans-after-death: {label: "Whether those who die and return to dust rise again", cluster: afterlife}
+  whose-servants-are-israel: {label: "Whose slaves or servants the Israelites are", cluster: exodus}
+  payment-for-prophecy: {label: "Whether a prophet takes payment for his message", cluster: prophecy}
+  divine-sonship: {label: "Whether God has or begets a son", cluster: theology}
+  deathbed-plea-for-more-life: {label: "A dying person's plea to God for more life, and God's answer", cluster: afterlife}
+  oath-procedure-for-suspected-wife: {label: "Who swears, and how, when a husband suspects his wife of adultery without witnesses", cluster: law}
+  verdict-on-suspected-wife: {label: "How the case of a wife suspected of adultery is decided", cluster: law}
+  accusing-husbands-liability: {label: "Whether the husband who accuses his wife bears any liability", cluster: law}
+  penalty-for-adultery: {label: "The penalty for adultery or fornication", cluster: law}
+  penalty-for-false-accusation-of-unchastity: {label: "The penalty for falsely accusing a woman of unchastity", cluster: law}
+  number-of-witnesses-required: {label: "How many witnesses a charge requires", cluster: law}
+  number-of-lashes: {label: "How many lashes a flogging may have", cluster: law}
+  marriage-with-unchaste-woman-barred: {label: "Who is barred from marrying an unchaste woman", cluster: law}
+  householder-forbidden-to-prostitute-dependents: {label: "The head of a household must not prostitute a woman under his authority", cluster: law}
+  lamp-fed-by-olive-tree: {label: "A lamp fed directly by an olive tree", cluster: cult}
+  mirage-and-the-thirsty: {label: "The mirage and the thirsty traveler", cluster: wisdom}
+  how-the-prophets-book-was-written: {label: "Who dictated and who wrote down a prophet's book", cluster: revelation}
+  words-of-the-ancients-as-authority: {label: "Whether old tradition handed down from the ancients carries authority", cluster: revelation}
+  heavens-torn-open-for-a-descent: {label: "The sky torn open for a descent from heaven", cluster: theophany}
+  request-to-see-god: {label: "A request to see God, and how it is judged", cluster: theophany}
+  destruction-rained-on-lots-town: {label: "God rains destruction on Lot's town", cluster: judgment}
+  sign-left-by-the-flood: {label: "The sign the flood leaves for later generations", cluster: flood}
+  aarons-role-beside-moses: {label: "Aaron's role beside Moses and how he is appointed", cluster: exodus}
+  what-god-does-after-six-days: {label: "What God does after creating in six days", cluster: creation}
+  prophets-grief-over-his-people: {label: "The prophet's grief over his people", cluster: prophecy}
+  moses-fear-of-blood-vengeance: {label: "Moses' fear of being killed, on returning, for the Egyptian's death", cluster: exodus}
+  divine-title-sent-to-pharaoh: {label: "The divine title in whose name Moses goes to Pharaoh", cluster: exodus}
+  god-of-the-forefathers-proclaimed: {label: "Whose forefathers' God is proclaimed in the Moses story", cluster: exodus}
+  gods-self-identification-at-the-fire: {label: "How God names himself to Moses from the fire", cluster: exodus}
+  call-from-the-fire: {label: "God calls Moses from the fire, from a bush or a tree", cluster: exodus}
+  terms-of-the-release-demand: {label: "What Moses asks Pharaoh to allow", cluster: exodus}
+  pharaohs-question-about-the-god: {label: "Pharaoh's question about, or claim to know, the god of Moses", cluster: exodus}
+  moses-upbringing-in-pharaohs-house: {label: "Moses' upbringing in Pharaoh's house", cluster: exodus}
+  manner-of-moses-killing: {label: "How Moses killed the Egyptian", cluster: exodus}
+  verdict-on-moses-killing: {label: "How Moses' killing of the Egyptian is judged", cluster: exodus}
+  pharaohs-threat-against-moses: {label: "Pharaoh's threat against Moses", cluster: exodus}
+  staff-turned-serpent-before-pharaoh: {label: "Who throws the staff before Pharaoh and what it becomes", cluster: exodus}
+  moses-white-hand-sign: {label: "Moses' hand turned white as a sign", cluster: exodus}
+  ending-of-contest-with-court-specialists: {label: "How a public contest between God's prophet and the king's religious specialists ends", cluster: polemic}
+  magicians-response-to-defeat: {label: "How the defeated court magicians respond", cluster: exodus}
+  cause-of-pharaohs-refusal: {label: "Why Pharaoh and Egypt refuse despite the signs", cluster: exodus}
+  motive-for-pharaohs-pursuit: {label: "Why Pharaoh pursues the departing Israelites", cluster: exodus}
+  how-the-sea-was-split: {label: "How the sea was split for the crossing", cluster: exodus}
+  response-to-the-sea-miracle: {label: "Whether those who saw the sea miracle believed", cluster: exodus}
+  what-israel-took-from-egypt: {label: "What Israel took from, or inherited of, Egypt", cluster: exodus}
+  source-of-sickness-and-healing: {label: "Who sends sickness and who heals", cluster: theology}
+  response-to-a-confirming-sign: {label: "How a people responds to a sign given to prove the messenger", cluster: prophecy}
+  nature-of-sodoms-sin: {label: "What the sin of Lot's townsmen was", cluster: judgment}
+  fate-of-lots-wife: {label: "The fate of Lot's wife", cluster: judgment}
+  spirit-of-god-and-the-heart: {label: "God's spirit in relation to a person's heart", cluster: revelation}
+  how-revelation-reaches-the-prophet: {label: "How God's word reaches the prophet", cluster: revelation}
+  why-moses-approaches-the-fire: {label: "Why Moses approaches the fire", cluster: exodus}
+  moses-flees-from-staff-serpent: {label: "Moses flees from his staff turned serpent, and God's response", cluster: exodus}
+  number-of-egyptian-wonders: {label: "The number of signs or plagues in Egypt", cluster: exodus}
+  test-between-solomon-and-the-queen: {label: "Who tests whom between Solomon and the queen of Sheba", cluster: kingship}
+  queen-of-shebas-gifts: {label: "The queen of Sheba's gifts and Solomon's response", cluster: kingship}
+  queen-overwhelmed-by-solomons-palace: {label: "The queen of Sheba overwhelmed by Solomon's buildings", cluster: kingship}
+  queen-of-shebas-confession: {label: "What the queen of Sheba says of Solomon's God", cluster: kingship}
+  great-throne-in-sheba-story: {label: "The great throne in the Sheba story, and whose it is", cluster: kingship}
+  solomon-and-the-animals: {label: "Solomon's wisdom concerning animals", cluster: kingship}
+  king-receives-envoys-and-gift: {label: "A king receives a foreign ruler's envoys and gift", cluster: kingship}
+  townspeople-turn-on-lot: {label: "Lot's townspeople turn on him", cluster: judgment}
+  lots-protest-to-the-townsmen: {label: "What Lot says to the townsmen", cluster: judgment}
+  speaking-beast-of-the-end: {label: "A beast of the end time that speaks", cluster: apocalyptic}
+  horn-blast-makes-all-tremble: {label: "A horn blast at which all tremble", cluster: theophany}
+  prophet-and-the-deaf-and-blind: {label: "The prophet's word and a people deaf and blind to it", cluster: prophecy}
+  gods-chosen-sacred-city: {label: "The city God chose or made sacred", cluster: cult}
+  pharaohs-motive-for-oppression: {label: "Why Pharaoh oppresses Israel", cluster: exodus}
+  moses-mothers-decision: {label: "Who decides that Moses be put on the water", cluster: exodus}
+  retort-on-the-second-day: {label: "The retort Moses hears on the day after the killing", cluster: exodus}
+  how-moses-learns-of-the-threat: {label: "How Moses learns that his life is sought", cluster: exodus}
+  moses-at-the-well-of-midian: {label: "Moses helps the women at the water of Midian", cluster: exodus}
+  moses-father-in-law: {label: "Moses' father-in-law in Midian", cluster: exodus}
+  midianite-daughters-role: {label: "What the Midianite daughters do after Moses helps them", cluster: exodus}
+  terms-of-moses-marriage: {label: "The terms of Moses' marriage in Midian", cluster: exodus}
+  service-for-a-bride: {label: "Years of service given for a bride", cluster: patriarchs}
+  setting-of-moses-call: {label: "Where and how Moses comes to the place of his call", cluster: exodus}
 reviewed:
   - unit: quran-22-disputers-and-waverers
     checked: [hb-ps-135-hymn-of-election, hb-ps-115-not-to-us, hb-hab-2-watchtower-and-woes, hb-isa-40-comfort-my-people, hb-jer-10-idols-scarecrows, hb-job-1-prologue-first-test, hb-job-2-second-test-and-friends]
@@ -31,7 +122,7 @@ reviewed:
         relation: parallel
         note: "man yaʿbudu llāha ʿalā ḥarfin fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ʿalā wajhihi ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... ʾim lōʾ ʿal pānêkā yəvārăkekkā: the Satan's suspicion that piety depends on good fortune and will turn into cursing 'to your face' once loss strikes is what the Quran describes as a real type of worshipper who 'turns over on his face' (ʿalā wajhihi)."
       - with: hb-job-2-second-test-and-friends
-        motif: accept-evil-as-well-as-good
+        motif: response-to-good-and-evil-from-god
         refs: ["22:11"]
         with_refs: ["Job 2:10"]
         relation: contrast
@@ -52,7 +143,7 @@ reviewed:
         relation: parallel
         note: "wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration (yasjudu)."
       - with: hb-ps-148-all-creation-praises
-        motif: all-ranks-of-humanity-praise
+        motif: humanity-in-the-cosmic-worship
         refs: ["22:18"]
         with_refs: ["Ps 148:11", "Ps 148:12"]
         relation: divergence
@@ -85,7 +176,7 @@ reviewed:
         relation: echo
         note: "bawwaʾnā li-Ibrāhīma makāna l-bayti ... wa-yadhkurū sma llāhi ~ wa-yiṭṭaʿ ʾešel bi-vʾēr šāvaʿ wa-yiqrāʾ šām bə-šēm YHWH ʾēl ʿôlām: Abraham establishes a place where the name of God is invoked; in Genesis a tamarisk at Beersheba invoking El Olam, in the Quran the Ancient House (al-bayt al-ʿatīq) and a pilgrimage for all people. Weak; flagged by the Quran reader's hint."
       - with: hb-exod-23-justice-sabbatical-festivals
-        motif: three-pilgrimage-festivals
+        motif: pilgrimage-festival-calendar
         refs: ["22:27", "22:28"]
         with_refs: ["Exod 23:14", "Exod 23:17"]
         relation: divergence
@@ -103,13 +194,13 @@ reviewed:
         relation: parallel
         note: "bi-l-ḥajji ~ ḥag šāvuʿōt ... wə-ḥag hā-ʾāsîp ... šālōš pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā: the same festival-pilgrimage term (ḥag / ḥajj); see the note on Exod 23 for the differences."
       - with: hb-deut-12-one-sanctuary
-        motif: centralized-sanctuary-chosen-place
+        motif: origin-of-the-one-sanctuary
         refs: ["22:26", "22:29"]
         with_refs: ["Deut 12:5", "Deut 12:18"]
         relation: divergence
         note: "Deut 12: ha-māqôm ʾăšer yivḥar YHWH, a place God will choose in the future, unnamed and linked to no patriarch; Q 22:26: bawwaʾnā li-Ibrāhīma makāna l-bayti, the place of the House was assigned to Abraham in the past and is 'the Ancient House' (al-bayt al-ʿatīq). Both make one sanctuary the goal of sacrifice."
       - with: hb-deut-12-one-sanctuary
-        motif: blood-is-life-pour-on-ground
+        motif: fate-of-sacrificial-blood
         refs: ["22:37"]
         with_refs: ["Deut 12:16", "Deut 12:27"]
         relation: divergence
@@ -121,7 +212,7 @@ reviewed:
         relation: parallel
         note: "fa-kulū minhā wa-aṭʿimū l-bāʾisa l-faqīra ... al-qāniʿa wa-l-muʿtarra ~ wə-śāmaḥtā lifnê YHWH ... wə-hal-lēwî wə-hag-gēr wə-hay-yātôm wə-hā-ʾalmānâ: the pilgrim eats at the sanctuary and includes the needy; Deut names Levite, stranger, orphan and widow, the Quran the wretched poor, the contented and the one who asks."
       - with: hb-deut-16-festivals-judges
-        motif: three-pilgrimage-festivals
+        motif: pilgrimage-festival-calendar
         refs: ["22:27", "22:28"]
         with_refs: ["Deut 16:16"]
         relation: divergence
@@ -145,13 +236,13 @@ reviewed:
         relation: parallel
         note: "inna yawman ʿinda rabbika ka-alfi sanatin mimmā taʿuddūna ~ kî ʾelef šānîm bə-ʿênêkā kə-yôm ʾetmôl kî yaʿăvōr. The equation is inverted and repurposed: in Ps 90 a thousand years are like one day to God (human transience, Ps 90:5-6); in Q 22:47 one day with God is like a thousand years of human counting, an answer to those who demand the punishment now (yastaʿjilūnaka bi-l-ʿadhāb)."
       - with: hb-deut-18-levites-prophet
-        motif: satan-casts-into-prophets-desire
+        motif: source-of-false-words-in-prophecy
         refs: ["22:52"]
         with_refs: ["Deut 18:20", "Deut 18:22"]
         relation: contrast
         note: "Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall die (û-mēt ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô). Q 22:52: before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā sh-shayṭānu fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the prophet's capital guilt in Deut, a universal hazard that God himself cancels in the Quran."
       - with: hb-1kgs-22-micaiah
-        motif: lying-spirit-sent-by-god
+        motif: source-of-false-words-in-prophecy
         refs: ["22:52", "22:53"]
         with_refs: ["1Kgs 22:22", "1Kgs 22:23"]
         relation: divergence
@@ -235,7 +326,7 @@ reviewed:
         relation: echo
         note: "millata abīkum Ibrāhīma huwa sammākumu l-muslimīna ~ habbîṭû ʾel ʾAvrāhām ʾăvîkem: the same address 'Abraham your father' (abīkum / ʾăvîkem). Isaiah's hearers are his physical descendants (Sarah təḥôlelkem, 'who bore you'); in the Quran Abraham is the father of a religion (milla) and gives the name 'Muslims'."
       - with: hb-isa-63-communal-lament
-        motif: god-our-father-though-abraham-knows-us-not
+        motif: abraham-as-father-of-the-community
         refs: ["22:78"]
         with_refs: ["Isa 63:16"]
         relation: contrast
@@ -256,7 +347,7 @@ reviewed:
     checked: [hb-ps-37-meek-inherit, hb-ps-25-acrostic-prayer, hb-neh-2-nehemiah-sent, hb-mic-2-land-grabbers, hb-jer-32-field-at-anathoth, hb-jer-35-rechabites, hb-ps-15-entrance-liturgy]
     matches:
       - with: hb-ps-37-meek-inherit
-        motif: meek-inherit-the-land
+        motif: what-the-righteous-inherit
         refs: ["23:10", "23:11"]
         with_refs: ["Ps 37:29"]
         relation: divergence
@@ -289,7 +380,7 @@ reviewed:
         relation: parallel
         note: "thumma jaʿalnāhu nuṭfatan ... fa-khalaqnā l-muḍghata ʿiẓāman fa-kasawnā l-ʿiẓāma laḥman ~ hălōʾ ke-ḥālāv tattîkēnî wə-kag-gəvinnâ taqpîʾēnî ʿôr û-vāśār talbîšēnî û-vaʿăṣāmôt wə-gîdîm təsōkhəkhēnî: the embryo formed in stages and 'clothed' (kasā / hilbîš) with flesh over bones. Job lists milk, cheese, skin and flesh, bones and sinews; the Quran lists drop, clot, lump, bones and flesh."
       - with: hb-job-10-why-did-you-make-me
-        motif: god-as-hostile-craftsman-of-body
+        motif: god-the-maker-of-the-human-body
         refs: ["23:14", "23:15"]
         with_refs: ["Job 10:8", "Job 10:9"]
         relation: divergence
@@ -340,31 +431,31 @@ reviewed:
         relation: parallel
         note: "fa-sluk fīhā min kullin zawjayni thnayni ~ šənayim mi-kkōl tāvîʾ ʾel hat-tēvâ ... zākhār û-nəqēvâ: two of every kind. The Quran omits the sevens of clean animals (Gen 7:2), which prepare Noah's sacrifice."
       - with: hb-gen-6-flood
-        motif: hero-preaches-to-people
+        motif: flood-hero-speaks-before-flood
         refs: ["23:23", "23:24", "23:25"]
         with_refs: ["Gen 6:22", "Gen 7:1"]
         relation: divergence
         note: "In Genesis Noah never speaks before the flood: wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô; he is chosen because God saw him righteous (ʾōtəkā rāʾîtî ṣaddîq). In the Quran he is a messenger (arsalnā Nūḥan ilā qawmihi) who preaches 'yā qawmi ʿbudū llāha mā lakum min ilāhin ghayruhu', and the chiefs answer that he is only a man like them, possessed (bihi jinna)."
       - with: hb-gen-6-flood
-        motif: reason-human-wickedness
+        motif: cause-of-the-destruction
         refs: ["23:24", "23:26", "23:27"]
         with_refs: ["Gen 6:13"]
         relation: divergence
         note: "Cause of the flood: Gen 6:13 kî mālʾâ hā-ʾāreṣ ḥāmās, the earth filled with violence, and God's own decision (hinnî mašḥîtām); Q 23:26-27: they are drowned for rejecting the messenger (bimā kadhdhabūni ... alladhīna ẓalamū innahum mughraqūn), and Noah asks for it (rabbi nṣurnī)."
       - with: hb-gen-6-flood
-        motif: waters-from-above-and-below
+        motif: onset-of-the-flood
         refs: ["23:27"]
         with_refs: ["Gen 7:4", "Gen 7:11"]
         relation: divergence
         note: "Signal and source: Genesis gives a time (lə-yāmîm ʿôd šivʿâ ʾānōkhî mamṭîr) and waters from the burst springs of the deep and the windows of heaven (nivqəʿû kol maʿyənôt təhôm rabbâ wa-ʾărubbōt haš-šāmayim niftāḥû); the Quran gives a sign, 'when our command comes and the oven boils' (wa-fāra t-tannūr). cf. b. Sanh. 108b (boiling flood waters), outside the HB."
       - with: hb-gen-6-flood
-        motif: family-saved
+        motif: who-is-saved-from-the-destruction
         refs: ["23:27"]
         with_refs: ["Gen 7:1", "Gen 7:7"]
         relation: divergence
         note: "Genesis saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43), and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū)."
       - with: hb-gen-6-flood
-        motif: sacrifice-after-flood
+        motif: end-of-the-flood-voyage
         refs: ["23:28", "23:29"]
         with_refs: ["Gen 8:4", "Gen 8:20", "Gen 8:21"]
         relation: divergence
@@ -385,13 +476,13 @@ reviewed:
     checked: [hb-ps-90-moses-thousand-years, hb-ps-146-trust-not-princes, hb-ps-104-creation-hymn, hb-job-34-elihu-defends-gods-justice, hb-job-4-eliphaz-vision, hb-num-14-rebellion-verdict, hb-eccl-3-humans-and-beasts, hb-job-14-tree-has-hope]
     matches:
       - with: hb-eccl-3-humans-and-beasts
-        motif: dust-to-dust
+        motif: fate-of-humans-after-death
         refs: ["23:35", "23:37"]
         with_refs: ["Eccl 3:19", "Eccl 3:20", "Eccl 3:21"]
         relation: contrast
         note: "What the Quran puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20 hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who 'were given luxury' (atrafnāhum)."
       - with: hb-job-14-tree-has-hope
-        motif: tree-has-hope-man-none
+        motif: fate-of-humans-after-death
         refs: ["23:35", "23:36", "23:37"]
         with_refs: ["Job 14:10", "Job 14:12", "Job 14:14"]
         relation: contrast
@@ -424,7 +515,7 @@ reviewed:
     checked: [hb-lev-25-redemption-usury-slavery, hb-gen-21-isaac-born-hagar-expelled, hb-ps-78-history, hb-ps-105-history, hb-isa-49-zion-not-forgotten]
     matches:
       - with: hb-lev-25-redemption-usury-slavery
-        motif: israelites-are-gods-slaves
+        motif: whose-servants-are-israel
         refs: ["23:47"]
         with_refs: ["Lev 25:42", "Lev 25:55"]
         relation: contrast
@@ -469,7 +560,7 @@ reviewed:
         relation: echo
         note: "a-yaḥsabūna annamā numidduhum bihi min mālin wa-banīna nusāriʿu lahum fī l-khayrāti bal lā yashʿurūna ~ kî qinnēʾtî ba-hôləlîm šəlôm rəšāʿîm ʾerʾeh: the prosperity of the heedless is no sign of favor. The Psalmist is troubled by it and finds the answer in their end (73:17-19); the Quran states the answer at once."
       - with: hb-ezek-13-false-prophets-and-prophetesses
-        motif: prophet-asks-no-wage
+        motif: payment-for-prophecy
         refs: ["23:72"]
         with_refs: ["Ezek 13:19"]
         relation: contrast
@@ -544,7 +635,7 @@ reviewed:
         relation: parallel
         note: "wa-mā kāna maʿahu min ilāhin ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut states it as what Israel was shown; the Quran argues it from the order of the world (la-dhahaba kullu ilāhin bimā khalaqa wa-la-ʿalā baʿḍuhum ʿalā baʿḍin)."
       - with: hb-ps-2-anointed-son
-        motif: king-begotten-as-gods-son
+        motif: divine-sonship
         refs: ["23:91"]
         with_refs: ["Ps 2:7"]
         relation: contrast
@@ -553,13 +644,13 @@ reviewed:
     checked: [hb-deut-30-return-choose-life, hb-jer-7-obedience-not-sacrifice, hb-isa-26-song-and-resurrection, hb-prov-25-hezekiah-collection, hb-job-7-life-as-hard-service, hb-isa-38-hezekiahs-illness, hb-dan-5-writing-on-wall, hb-job-31-oath-of-innocence, hb-isa-27-leviathan-and-great-shofar, hb-isa-45-cyrus-the-anointed, hb-jer-10-idols-scarecrows]
     matches:
       - with: hb-isa-38-hezekiahs-illness
-        motif: dying-man-asks-to-return
+        motif: deathbed-plea-for-more-life
         refs: ["23:99", "23:100"]
         with_refs: ["Isa 38:3", "Isa 38:5", "Isa 38:18", "Isa 38:19"]
         relation: contrast
         note: "Two deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš ʿeśrê šānâ. The Quran's dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses: kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on promised future ones."
       - with: hb-job-7-life-as-hard-service
-        motif: no-return-from-sheol
+        motif: fate-of-humans-after-death
         refs: ["23:99", "23:100"]
         with_refs: ["Job 7:9", "Job 7:10"]
         relation: divergence
@@ -616,37 +707,37 @@ reviewed:
         relation: parallel
         note: "wa-lladhīna yarmūna azwājahum wa-lam yakun lahum shuhadāʾu illā anfusuhum ~ wə-neʿlam mēʿênê ʾîšāh ... wə-ʿēd ʾên bāh wə-hîʾ lōʾ nitpāśâ: the same legal gap, a husband who suspects his wife with no witness, and in both the gap is closed by an oath with a curse instead of testimony."
       - with: hb-num-5-sotah-ordeal
-        motif: mutual-cursing-oath-lian
+        motif: oath-procedure-for-suspected-wife
         refs: ["24:6", "24:7", "24:8", "24:9"]
         with_refs: ["Num 5:19", "Num 5:21", "Num 5:22"]
         relation: divergence
         note: "Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh hak-kōhēn bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times by God (arbaʿu shahādātin bi-llāh) and a fifth time that God's curse (laʿnat Allāh) be on him if he lies, then the wife swears four counter-oaths and a fifth calling God's wrath (ghaḍab Allāh) on herself. The curse falls on both parties, no priest is involved and there is no sanctuary rite."
       - with: hb-num-5-sotah-ordeal
-        motif: bitter-water-ordeal-for-adultery
+        motif: verdict-on-suspected-wife
         refs: ["24:8"]
         with_refs: ["Num 5:21", "Num 5:22"]
         relation: divergence
         note: "Outcome: Num 5 lets the bitter water decide, with a physical sign on the guilty body (bə-tēt YHWH ʾet yərēkhēk nōfelet wə-ʾet biṭnēk ṣāvâ); in Q 24:8 the wife's oath alone averts the punishment (wa-yadraʾu ʿanhā l-ʿadhāba an tashhada), with no ordeal, water, dust or written curse, and the verdict is left to God."
       - with: hb-num-5-sotah-ordeal
-        motif: husband-free-of-guilt
+        motif: accusing-husbands-liability
         refs: ["24:7"]
         with_refs: ["Num 5:31"]
         relation: contrast
         note: "wə-niqqâ hā-ʾîš mē-ʿāwōn wə-hā-ʾiššâ ha-hîʾ tiśśāʾ ʾet ʿăwōnāh: the accusing husband is free of guilt whatever happens; Q 24:7 wa-l-khāmisatu anna laʿnata llāhi ʿalayhi in kāna mina l-kādhibīna: he invokes God's curse on himself if he is lying."
       - with: hb-deut-22-miscellany-sexual-laws
-        motif: adultery-both-die
+        motif: penalty-for-adultery
         refs: ["24:2"]
         with_refs: ["Deut 22:22"]
         relation: contrast
         note: "Both punish man and woman alike, but differently: û-mētû gam šənêhem hā-ʾîš ... wə-hā-ʾiššâ ~ az-zāniyatu wa-z-zānī fa-jlidū kulla wāḥidin minhumā miʾata jaldatin: death in Deuteronomy, a hundred lashes in the Quran. Note also the order: the Quran names the woman first."
       - with: hb-deut-22-miscellany-sexual-laws
-        motif: slandered-bride-fine-100
+        motif: penalty-for-false-accusation-of-unchastity
         refs: ["24:4"]
         with_refs: ["Deut 22:18", "Deut 22:19"]
         relation: divergence
         note: "Punishing the false accuser of a woman: Deut 22:18-19 the husband who brought out an evil name (hôṣîʾ šēm rāʿ) is chastised (wə-yissərû ʾōtô), fined a hundred silver and may never divorce her; Q 24:4 anyone who accuses chaste women (al-muḥṣanāt) without four witnesses gets eighty lashes, and his testimony is never accepted again. In the Quran the husband's case goes to the oath procedure of 24:6-9."
       - with: hb-deut-19-refuge-witnesses
-        motif: two-witnesses-for-capital-case
+        motif: number-of-witnesses-required
         refs: ["24:4"]
         with_refs: ["Deut 19:15"]
         relation: divergence
@@ -664,19 +755,19 @@ reviewed:
         relation: parallel
         note: "wa-lā taʾkhudhkum bihimā raʾfatun fī dīni llāhi ~ wə-lōʾ tāḥôs ʿênekā: the judges are told to show no pity when they carry out the punishment."
       - with: hb-deut-25-lashes-levirate-amalek
-        motif: forty-lashes-limit
+        motif: number-of-lashes
         refs: ["24:2", "24:4"]
         with_refs: ["Deut 25:2", "Deut 25:3"]
         relation: contrast
         note: "Flogging before witnesses in both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina l-muʾminīn), but Deut caps it at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded in your eyes' (wə-niqlâ ʾāḥîkā), while the Quran sets a hundred and eighty and forbids pity."
       - with: hb-num-35-levitical-cities-refuge
-        motif: two-witnesses-for-capital-case
+        motif: number-of-witnesses-required
         refs: ["24:4"]
         with_refs: ["Num 35:30"]
         relation: divergence
         note: "lə-fî ʿēdîm ... wə-ʿēd ʾeḥād lōʾ yaʿăneh və-nefeš lāmût ~ bi-arbaʿati shuhadāʾ: plural witnesses for homicide in Numbers, four for unchastity in the Quran."
       - with: hb-lev-21-priestly-holiness
-        motif: priest-marriage-restrictions
+        motif: marriage-with-unchaste-woman-barred
         refs: ["24:3"]
         with_refs: ["Lev 21:7", "Lev 21:14"]
         relation: divergence
@@ -718,7 +809,7 @@ reviewed:
         relation: parallel
         note: "wa-ātūhum min māli llāhi lladhī ātākum ~ haʿănêq taʿănîq lô mi-ṣṣōʾnəkā û-mig-gornəkā û-mi-yyiqvekā ʾăšer bērakhkā YHWH ʾĕlōhêkā tittēn lô: give the slave being freed from what God gave you. The occasions differ: Deut's release comes automatically in the seventh year and the slave must not go empty-handed (lōʾ təšalləḥennû rêqām); the Quran's is a written manumission contract (kitāba) that the slave asks for."
       - with: hb-lev-19-holiness-code-b
-        motif: daughter-not-made-prostitute
+        motif: householder-forbidden-to-prostitute-dependents
         refs: ["24:33"]
         with_refs: ["Lev 19:29"]
         relation: divergence
@@ -757,7 +848,7 @@ reviewed:
         relation: parallel
         note: "miṣbāḥun ... yūqadu min shajaratin mubārakatin zaytūnatin ... yakādu zaytuhā yuḍīʾu ~ šemen zayit zākh kātît la-mmāʾôr ləhaʿălōt nēr tāmîd: a lamp lit with olive oil (zayt / zayit, cognate). In Exodus it is the sanctuary lamp tended by Aaron and his sons from evening to morning; in the Quran it is a parable of God's light, set 'in houses God allowed to be raised' where he is praised morning and evening (24:36)."
       - with: hb-zech-4-lampstand-and-olive-trees
-        motif: lampstand-fed-by-two-olive-trees
+        motif: lamp-fed-by-olive-tree
         refs: ["24:35"]
         with_refs: ["Zech 4:2", "Zech 4:3", "Zech 4:12"]
         relation: divergence
@@ -793,7 +884,7 @@ reviewed:
         relation: parallel
         note: "yuzjī saḥāban thumma yuʾallifu baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he wills or away from them."
       - with: hb-isa-35-desert-blooms
-        motif: deeds-of-unbelievers-like-mirage
+        motif: mirage-and-the-thirsty
         refs: ["24:39"]
         with_refs: ["Isa 35:7"]
         relation: divergence
@@ -910,13 +1001,13 @@ reviewed:
         relation: parallel
         note: "wa-hum yukhlaqūna wa-lā yamlikūna li-anfusihim ḍarran wa-lā nafʿan ~ maʿăśê yədê ḥārāš ... kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: idols are things made, which can neither harm nor help."
       - with: hb-jer-36-burned-scroll
-        motif: prophet-dictates-to-scribe
+        motif: how-the-prophets-book-was-written
         refs: ["25:4", "25:5"]
         with_refs: ["Jer 36:4", "Jer 36:18"]
         relation: contrast
         note: "Who dictates to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh mip-pî Yirmyāhû ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents' charge the prophet has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā ʿalayhi bukratan wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the charge: it was sent down by the one who knows the secret (25:6)."
       - with: hb-ps-78-history
-        motif: ancients-fables-accusation
+        motif: words-of-the-ancients-as-authority
         refs: ["25:5"]
         with_refs: ["Ps 78:2", "Ps 78:3"]
         relation: contrast
@@ -925,13 +1016,13 @@ reviewed:
     checked: [hb-jer-23-against-prophets, hb-isa-63-communal-lament, hb-job-1-prologue-first-test, hb-exod-33-tent-and-glory, hb-ps-1-two-ways]
     matches:
       - with: hb-isa-63-communal-lament
-        motif: rend-the-heavens-and-come-down
+        motif: heavens-torn-open-for-a-descent
         refs: ["25:25", "25:26"]
         with_refs: ["Isa 63:19"]
         relation: divergence
         note: "wa-yawma tashaqqaqu s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā šāmayim yāradtā mip-pānêkā hārîm nāzōllû: the sky torn open for a descent. Isaiah prays that God himself would rend the heavens and come down to save his people; in the Quran the sky splits on the Day and the angels are sent down, and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran)."
       - with: hb-exod-33-tent-and-glory
-        motif: prophet-asks-to-see-gods-glory
+        motif: request-to-see-god
         refs: ["25:21"]
         with_refs: ["Exod 33:18", "Exod 33:20"]
         relation: contrast
@@ -946,7 +1037,7 @@ reviewed:
     checked: [hb-ps-11-flee-like-bird, hb-gen-6-flood, hb-gen-19-sodom-destroyed, hb-deut-13-enticers, hb-isa-1-indictment-of-judah, hb-jer-24-two-baskets-figs, hb-gen-9-noahide-covenant, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-num-15-wood-gatherer-tassels]
     matches:
       - with: hb-gen-19-sodom-destroyed
-        motif: fire-and-brimstone-from-heaven
+        motif: destruction-rained-on-lots-town
         refs: ["25:40"]
         with_refs: ["Gen 19:24", "Gen 19:25"]
         relation: divergence
@@ -958,19 +1049,19 @@ reviewed:
         relation: echo
         note: "umṭirat maṭara s-sawʾi ~ yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-gofrît: God 'rains' destruction on the wicked."
       - with: hb-gen-6-flood
-        motif: universal-destruction
+        motif: cause-of-the-destruction
         refs: ["25:37"]
         with_refs: ["Gen 7:21", "Gen 7:23"]
         relation: divergence
         note: "wa-qawma Nūḥin lammā kadhdhabū r-rusula aghraqnāhum ~ wa-yyimmaḥ ʾet kol hay-yəqûm ... wa-yyiššāʾer ʾak Nōaḥ: Genesis wipes out 'all flesh' for corruption; the Quran drowns 'the people of Noah' because they denied the messengers (in the plural, rusul)."
       - with: hb-gen-9-noahide-covenant
-        motif: sign-in-sky
+        motif: sign-left-by-the-flood
         refs: ["25:37"]
         with_refs: ["Gen 9:13", "Gen 9:15"]
         relation: divergence
         note: "What the flood leaves as a sign: Genesis has God's bow in the cloud, lə-ʾôt bərît, a covenant sign that the waters will never again destroy (wə-lōʾ yihyeh ʿôd ham-mayim lə-mabbûl); in the Quran the drowned people themselves are the sign, wa-jaʿalnāhum li-n-nāsi āyatan (āya ~ ʾôt), a warning that it can happen again to those who deny."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: brother-as-spokesman
+        motif: aarons-role-beside-moses
         refs: ["25:35"]
         with_refs: ["Exod 4:14", "Exod 4:16"]
         relation: divergence
@@ -991,7 +1082,7 @@ reviewed:
     checked: [hb-gen-1-creation-six-days, hb-ps-74-leviathan, hb-ps-104-creation-hymn, hb-job-38-whirlwind-creation, hb-job-26-hymn-to-cosmic-power, hb-isa-38-hezekiahs-illness]
     matches:
       - with: hb-gen-1-creation-six-days
-        motif: divine-rest-seventh-day
+        motif: what-god-does-after-six-days
         refs: ["25:59"]
         with_refs: ["Gen 2:2"]
         relation: divergence
@@ -1105,7 +1196,7 @@ reviewed:
         relation: echo
         note: "laʿallaka bākhiʿun nafsaka allā yakūnū muʾminīna ... wa-mā yaʾtīhim min dhikrin ... illā kānū ʿanhu muʿriḍīna ~ haš-šōmēaʿ yišmaʿ wə-he-ḥādēl yeḥdāl kî bêt mərî hēmmâ ... wə-ʾattâ ʾet nafšəkā hiṣṣaltā: the prophet's task ends with the warning, and the hearers' refusal is not his fault. Ezekiel has 'you have saved your soul (nafš)'; the Quran says do not kill your soul (bākhiʿun nafsaka) with grief."
       - with: hb-jer-8-balm-in-gilead
-        motif: prophet-grieves-over-unbelievers
+        motif: prophets-grief-over-his-people
         refs: ["26:3"]
         with_refs: ["Jer 8:23"]
         relation: contrast
@@ -1120,31 +1211,31 @@ reviewed:
         relation: parallel
         note: "wa-yaḍīqu ṣadrī wa-lā yanṭaliqu lisānī fa-arsil ilā Hārūna ~ kî khəvad peh û-khəvad lāšôn ʾānōkhî ... šəlaḥ nāʾ bə-yad tišlāḥ: Moses' tongue (lisān / lāšôn) is not free, and he asks God to send someone else. In the Quran he names Aaron himself."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: brother-as-spokesman
+        motif: aarons-role-beside-moses
         refs: ["26:13", "26:15"]
         with_refs: ["Exod 4:14", "Exod 4:16"]
         relation: divergence
         note: "God's answer to Moses' reluctance: wa-yyiḥar ʾap YHWH bə-Mōše ... hălōʾ ʾAhărōn ʾāḥîkā ... wə-ʾattâ tihyeh lô lēʾlōhîm (anger; Aaron as mouth, Moses as God to him) ~ qāla kallā fa-dhhabā bi-āyātinā innā maʿakum mustamiʿūna: no anger and no 'as God'; both are sent as equals (fa-dhhabā, dual)."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: moses-kills-man-delivered-from-grief
+        motif: moses-fear-of-blood-vengeance
         refs: ["26:14", "26:15"]
         with_refs: ["Exod 4:19"]
         relation: divergence
         note: "Fear of being killed for the old killing: in Exodus God removes it by fact, kî mētû kol hā-ʾănāšîm ham-məvaqšîm ʾet nafšekā; in the Quran Moses raises it himself (wa-lahum ʿalayya dhanbun fa-akhāfu an yaqtulūni), and God answers with his presence, 'kallā ... innā maʿakum mustamiʿūn'."
       - with: hb-exod-3-burning-bush
-        motif: god-of-the-hebrews
+        motif: divine-title-sent-to-pharaoh
         refs: ["26:16", "26:23", "26:24", "26:28"]
         with_refs: ["Exod 3:18"]
         relation: divergence
         note: "The divine title before Pharaoh: YHWH ʾĕlōhê hā-ʿivriyyîm niqrâ ʿālênû (Exod 3:18, also 5:3) ~ innā rasūlu rabbi l-ʿālamīna, and when Pharaoh asks 'and what is the Lord of the worlds?', Moses answers rabbu s-samāwāti wa-l-arḍi wa-mā baynahumā ... rabbu l-mashriqi wa-l-maghribi. The god of one people becomes the Lord of the cosmos."
       - with: hb-exod-3-burning-bush
-        motif: god-of-abraham-isaac-jacob
+        motif: god-of-the-forefathers-proclaimed
         refs: ["26:26"]
         with_refs: ["Exod 3:15"]
         relation: divergence
         note: "'God of your fathers' changes addressee. Exod 3:15, said to Israel: YHWH ʾĕlōhê ʾăvōtêkem ʾĕlōhê ʾAvrāhām ʾĕlōhê Yiṣḥāq wē-ʾlōhê Yaʿăqōv. Q 26:26, said to Pharaoh and his court: rabbukum wa-rabbu ābāʾikumu l-awwalīna, 'your Lord and the Lord of your forefathers'. The God of Israel's ancestors becomes the Lord of the Egyptians' ancestors too."
       - with: hb-exod-3-burning-bush
-        motif: three-days-journey-to-sacrifice-pretext
+        motif: terms-of-the-release-demand
         refs: ["26:17"]
         with_refs: ["Exod 3:18"]
         relation: divergence
@@ -1156,19 +1247,19 @@ reviewed:
         relation: parallel
         note: "an arsil maʿanā banī Isrāʾīla ~ šallaḥ ʾet ʿammî: the same verb 'send away / release' (arsala / šillaḥ). Exodus says it in the prophetic formula kōh ʾāmar YHWH ʾĕlōhê Yiśrāʾēl and adds wə-yāḥōggû lî ba-mmidbār; the Quran's speakers are messengers of the Lord of the worlds."
       - with: hb-exod-5-bricks-without-straw
-        motif: who-is-yhwh-defiance
+        motif: pharaohs-question-about-the-god
         refs: ["26:23", "26:24", "26:25", "26:26", "26:27", "26:28"]
         with_refs: ["Exod 5:2"]
         relation: divergence
         note: "Pharaoh's question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth, your Lord and your fathers' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad (la-majnūn)."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: pharaoh-recalls-raising-moses
+        motif: moses-upbringing-in-pharaohs-house
         refs: ["26:18"]
         with_refs: ["Exod 2:10"]
         relation: divergence
         note: "a-lam nurabbika fīnā walīdan wa-labithta fīnā min ʿumurika sinīna ~ wat-təviʾēhû lə-vat Parʿōh wa-yhî lāh lə-vēn: Moses grew up in Pharaoh's house. Exodus credits Pharaoh's daughter and never has Pharaoh mention it; in the Quran Pharaoh himself throws the upbringing at Moses as a favor he is owed."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: moses-admits-killing-in-error
+        motif: verdict-on-moses-killing
         refs: ["26:19", "26:20"]
         with_refs: ["Exod 2:11", "Exod 2:12"]
         relation: divergence
@@ -1186,19 +1277,19 @@ reviewed:
         relation: parallel
         note: "an ʿabbadta banī Isrāʾīla ~ wa-yyaʿăvidû Miṣrayim ʾet bənê Yiśrāʾēl bə-fārekh: the same root and causative stem (ʿabbada / heʿĕvîd) for Egypt enslaving the sons of Israel; in the Quran Moses throws it back at Pharaoh's claim of having done him a favor."
       - with: hb-exod-10-locusts-darkness
-        motif: king-banishes-prophet-on-pain-of-death
+        motif: pharaohs-threat-against-moses
         refs: ["26:29"]
         with_refs: ["Exod 10:28"]
         relation: divergence
         note: "Pharaoh's threat: hiššāmer ləkhā ʾal tōsef rəʾôt pānay kî bə-yôm rəʾōtkā pānay tāmût (death, near the end of the plagues) ~ la-ini ttakhadhta ilāhan ghayrī la-ajʿalannaka mina l-masjūnīna (prison, at the first meeting, and for taking a god other than Pharaoh)."
       - with: hb-exod-7-staff-swallows-staffs
-        motif: staff-becomes-great-serpent-thuban
+        motif: staff-turned-serpent-before-pharaoh
         refs: ["26:32"]
         with_refs: ["Exod 7:9", "Exod 7:10"]
         relation: divergence
         note: "Who throws the staff: wa-yyašlēkh ʾAhărōn ʾet maṭṭēhû lifnê Farʿōh ... wa-yhî lə-tannîn ~ fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun, where Moses throws his own staff. The creature: tannîn (sea-dragon or crocodile) ~ thuʿbān (great serpent)."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: hand-turned-leprous-white-as-snow
+        motif: moses-white-hand-sign
         refs: ["26:33"]
         with_refs: ["Exod 4:6", "Exod 4:7"]
         relation: divergence
@@ -1216,25 +1307,25 @@ reviewed:
         relation: parallel
         note: "fa-alqā Mūsā ʿaṣāhu fa-idhā hiya talqafu mā yaʾfikūna ~ wa-yyivlaʿ maṭṭēh ʾAhărōn ʾet maṭṭōtām: the prophet's staff swallows the magicians' staffs. The owner differs (Aaron / Moses), and the Quran adds ropes (ḥibālahum) and the oath 'by the might of Pharaoh' (bi-ʿizzati Firʿawn)."
       - with: hb-exod-7-plagues-blood-frogs-lice
-        motif: magicians-fall-prostrate-and-believe
+        motif: magicians-response-to-defeat
         refs: ["26:46", "26:47", "26:48"]
         with_refs: ["Exod 8:15"]
         relation: divergence
         note: "What the defeated magicians do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh's heart is hardened (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn."
       - with: hb-exod-7-staff-swallows-staffs
-        motif: hardening-of-pharaohs-heart
+        motif: cause-of-pharaohs-refusal
         refs: ["26:49"]
         with_refs: ["Exod 7:13"]
         relation: divergence
         note: "Pharaoh's response to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer dibber YHWH, the heart hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49 has no hardening and no divine agency, only Pharaoh's rage: āmantum lahu qabla an ādhana lakum innahu la-kabīrukumu lladhī ʿallamakumu s-siḥra, with a threat of amputation and crucifixion."
       - with: hb-1kgs-18-carmel
-        motif: contest-with-court-magicians
+        motif: ending-of-contest-with-court-specialists
         refs: ["26:46", "26:49", "26:50"]
         with_refs: ["1Kgs 18:39", "1Kgs 18:40"]
         relation: contrast
         note: "Ending of a public contest between God's prophet and the king's religious specialists. Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn."
       - with: hb-exod-14-crossing-of-the-sea
-        motif: king-regrets-release-and-pursues
+        motif: motive-for-pharaohs-pursuit
         refs: ["26:52", "26:53", "26:60"]
         with_refs: ["Exod 14:4", "Exod 14:5", "Exod 14:8"]
         relation: divergence
@@ -1252,7 +1343,7 @@ reviewed:
         relation: parallel
         note: "qāla aṣḥābu Mūsā innā la-mudrakūna qāla kallā inna maʿiya rabbī sa-yahdīni ~ wə-hinnēh Miṣrayim nōsēaʿ ʾaḥărêhem wa-yyîrəʾû məʾōd ... ʾal tîrāʾû hityaṣṣəvû û-rəʾû ʾet yəšûʿat YHWH: the people see the pursuers and panic, and Moses calms them. In Exodus they complain bitterly (14:11-12); in the Quran they only state 'we are overtaken'."
       - with: hb-exod-14-crossing-of-the-sea
-        motif: sea-split-by-staff-and-east-wind
+        motif: how-the-sea-was-split
         refs: ["26:63"]
         with_refs: ["Exod 14:16", "Exod 14:21"]
         relation: divergence
@@ -1276,13 +1367,13 @@ reviewed:
         relation: parallel
         note: "thumma aghraqnā l-ākharīna ~ wa-yyāšuvû ham-mayim wa-yəkhassû ʾet hā-rekhev ... lōʾ nišʾar bāhem ʿad ʾeḥād: the waters return over the pursuers and none survives."
       - with: hb-exod-14-crossing-of-the-sea
-        motif: people-believe-in-god-and-his-servant
+        motif: response-to-the-sea-miracle
         refs: ["26:67"]
         with_refs: ["Exod 14:31"]
         relation: divergence
         note: "Ending of the sea story: Exod 14:31 wa-yyîrəʾû hā-ʿām ʾet YHWH wa-yyaʾămînû ba-YHWH û-və-Mōše ʿavdô, the people believe, and the Song follows (15:1). The Quran's refrain: inna fī dhālika la-āyatan wa-mā kāna aktharuhum muʾminīna, a sign, yet most of them did not believe. Faith at the sea becomes unbelief despite the sign, aimed at the Quran's own audience."
       - with: hb-exod-12-passover-firstborn-exodus
-        motif: despoiling-the-egyptians
+        motif: what-israel-took-from-egypt
         refs: ["26:57", "26:58", "26:59"]
         with_refs: ["Exod 12:35", "Exod 12:36"]
         relation: divergence
@@ -1315,7 +1406,7 @@ reviewed:
         relation: divergence
         note: "Abraham's idolatrous father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares their gods his enemy (fa-innahum ʿaduwwun lī)."
       - with: hb-deut-32-song-of-moses
-        motif: god-wounds-and-heals
+        motif: source-of-sickness-and-healing
         refs: ["26:80", "26:81"]
         with_refs: ["Deut 32:39"]
         relation: divergence
@@ -1348,13 +1439,13 @@ reviewed:
     checked: [hb-gen-6-flood, hb-gen-19-sodom-destroyed, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-ezek-33-watchman-and-fall-news, hb-num-14-rebellion-verdict]
     matches:
       - with: hb-gen-6-flood
-        motif: family-saved
+        motif: who-is-saved-from-the-destruction
         refs: ["26:118", "26:119"]
         with_refs: ["Gen 7:1", "Gen 7:7"]
         relation: divergence
         note: "Who is saved with Noah: Genesis, his household for his own righteousness, bōʾ ʾattâ wə-khol bêtəkā ... kî ʾōtəkā rāʾîtî ṣaddîq (Noah, his sons, his wife, his sons' wives); Quran, najjinī wa-man maʿiya mina l-muʾminīna ... fa-anjaynāhu wa-man maʿahu fī l-fulki l-mashḥūn, the believers who followed him, the 'lowliest' (al-ardhalūn, 26:111). The saved group is defined by faith, not by kinship."
       - with: hb-gen-6-flood
-        motif: hero-preaches-to-people
+        motif: flood-hero-speaks-before-flood
         refs: ["26:106", "26:107", "26:108", "26:109"]
         with_refs: ["Gen 6:22"]
         relation: divergence
@@ -1366,7 +1457,7 @@ reviewed:
         relation: parallel
         note: "thumma aghraqnā baʿdu l-bāqīna ~ wa-yyimmaḥ ʾet kol hay-yəqûm ... wa-yyiššāʾer ʾakh Nōaḥ wa-ʾăšer ʾittô bat-tēvâ: all others perish and only those in the vessel survive (cf. wa-man maʿahu ~ wa-ʾăšer ʾittô)."
       - with: hb-ezek-14-idols-in-heart-noah-daniel-job
-        motif: noah-daniel-job-righteous-trio
+        motif: who-is-saved-from-the-destruction
         refs: ["26:118", "26:119"]
         with_refs: ["Ezek 14:14", "Ezek 14:20"]
         relation: contrast
@@ -1426,7 +1517,7 @@ reviewed:
         relation: echo
         note: "wa-tanḥitūna mina l-jibāli buyūtan ~ ḥōṣəvî mārôm qivrô ḥōqəqî vas-selaʿ miškān lô: cutting a dwelling into the rock on the heights as a mark of arrogance; Shebna's is a tomb, Thamūd's are houses."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: unbelievers-demand-a-sign
+        motif: response-to-a-confirming-sign
         refs: ["26:154", "26:155", "26:157"]
         with_refs: ["Exod 4:1", "Exod 4:8", "Exod 4:31"]
         relation: contrast
@@ -1435,7 +1526,7 @@ reviewed:
     checked: [hb-gen-19-sodom-destroyed, hb-ps-11-flee-like-bird, hb-gen-6-flood, hb-jer-33-branch-and-cosmic-covenant, hb-ezek-14-idols-in-heart-noah-daniel-job]
     matches:
       - with: hb-gen-19-sodom-destroyed
-        motif: wicked-sodom
+        motif: nature-of-sodoms-sin
         refs: ["26:165", "26:166"]
         with_refs: ["Gen 19:4", "Gen 19:5"]
         relation: divergence
@@ -1447,13 +1538,13 @@ reviewed:
         relation: parallel
         note: "la-in lam tantahi yā Lūṭu la-takūnanna mina l-mukhrajīna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ ʿattâ nāraʿ ləkhā mēhem: the people turn on Lot as an outsider who presumes to judge them; Genesis threatens worse harm than to the guests, the Quran threatens expulsion."
       - with: hb-gen-19-sodom-destroyed
-        motif: family-saved
+        motif: who-is-saved-from-the-destruction
         refs: ["26:169", "26:170"]
         with_refs: ["Gen 19:16", "Gen 19:29"]
         relation: divergence
         note: "Why Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham's sake, and the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither hesitates nor depends on Abraham."
       - with: hb-gen-19-sodom-destroyed
-        motif: wife-turned-to-pillar-of-salt
+        motif: fate-of-lots-wife
         refs: ["26:171"]
         with_refs: ["Gen 19:26"]
         relation: divergence
@@ -1513,7 +1604,7 @@ reviewed:
     checked: [hb-ps-51-miserere, hb-isa-63-communal-lament, hb-deut-18-levites-prophet, hb-isa-8-maher-shalal-and-stone-of-stumbling, hb-ezek-13-false-prophets-and-prophetesses]
     matches:
       - with: hb-ps-51-miserere
-        motif: holy-spirit-of-god
+        motif: spirit-of-god-and-the-heart
         refs: ["26:193", "26:194"]
         with_refs: ["Ps 51:12", "Ps 51:13"]
         relation: divergence
@@ -1525,7 +1616,7 @@ reviewed:
         relation: echo
         note: "ar-rūḥu l-amīnu ~ ʾayyēh haś-śām bə-qirbô ʾet rûaḥ qodšô: a spirit of God given to Moses' generation (Isaiah) or bringing revelation to the prophet (Quran)."
       - with: hb-deut-18-levites-prophet
-        motif: prophet-like-moses
+        motif: how-revelation-reaches-the-prophet
         refs: ["26:192", "26:193", "26:194"]
         with_refs: ["Deut 18:18"]
         relation: divergence
@@ -1558,31 +1649,31 @@ reviewed:
         relation: parallel
         note: "innī ānastu nāran ... fa-lammā jāʾahā nūdiya an būrika man fī n-nāri wa-man ḥawlahā ~ wa-yyērāʾ malʾakh YHWH ʾēlāyw bə-labbat ʾēš mit-tôkh has-səneh ... wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh has-səneh: Moses approaches a fire and is called from within it. The Quran does not mention the bush (only 'who is in the fire and around it'), nor the bush not being consumed."
       - with: hb-exod-3-burning-bush
-        motif: prophet-sees-fire-goes-to-fetch-brand
+        motif: why-moses-approaches-the-fire
         refs: ["27:7"]
         with_refs: ["Exod 3:1", "Exod 3:3"]
         relation: divergence
         note: "Why Moses goes to the fire: Exodus has him alone with Jethro's flock at Horeb, turning aside to see the great sight (ʾāsurâ nāʾ wə-ʾerʾeh ʾet ham-marʾeh hag-gādōl haz-zeh); the Quran has him traveling with his family (qāla Mūsā li-ahlihi), going to bring back news or a burning brand 'that you may warm yourselves'. The Quran names neither flock, mountain nor Jethro."
       - with: hb-exod-3-burning-bush
-        motif: god-of-abraham-isaac-jacob
+        motif: gods-self-identification-at-the-fire
         refs: ["27:8", "27:9"]
         with_refs: ["Exod 3:6", "Exod 3:14"]
         relation: divergence
         note: "God's self-identification from the fire: Exodus has ʾānōkhî ʾĕlōhê ʾāvîkā ʾĕlōhê ʾAvrāhām ʾĕlōhê Yiṣḥāq wē-ʾlōhê Yaʿăqōv, then ʾehyeh ʾăšer ʾehyeh; the Quran has yā Mūsā innahu ana llāhu l-ʿazīzu l-ḥakīmu, preceded by subḥāna llāhi rabbi l-ʿālamīna. The God of the fathers becomes the Lord of the worlds, and the name-riddle becomes 'Allāh'. The Quran also leaves out the sandals and Moses hiding his face (Exod 3:5-6)."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: staff-quivers-like-jinn-snake-moses-flees
+        motif: moses-flees-from-staff-serpent
         refs: ["27:10"]
         with_refs: ["Exod 4:3", "Exod 4:4"]
         relation: divergence
         note: "fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā takhaf innī lā yakhāfu ladayya l-mursalūna."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: hand-turned-leprous-white-as-snow
+        motif: moses-white-hand-sign
         refs: ["27:12"]
         with_refs: ["Exod 4:6", "Exod 4:7"]
         relation: divergence
         note: "wa-adkhil yadaka fī jaybika takhruj bayḍāʾa min ghayri sūʾin ~ hāvēʾ nāʾ yādəkā bə-ḥêqekā ... wə-hinnēh yādô məṣōraʿat ka-ššāleg: hand into the bosom (jayb / ḥêq) and out white. The Quran's 'without evil' (min ghayri sūʾ) excludes exactly what Exodus says, that the hand was leprous (məṣōraʿat), and needs no second step of restoring it (4:7)."
       - with: hb-ps-105-history
-        motif: variant-plague-list
+        motif: number-of-egyptian-wonders
         refs: ["27:12"]
         with_refs: ["Ps 105:28", "Ps 105:36"]
         relation: divergence
@@ -1600,7 +1691,7 @@ reviewed:
         relation: echo
         note: "fa-lammā jāʾathum āyātunā mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm wə-la-mkhaššəfîm wa-yyaʿăśû gam hēm ... bə-lahăṭêhem kēn: Pharaoh's side treats the signs as magic; Exodus shows it by having the magicians copy them, the Quran by having Pharaoh's people call them 'clear sorcery'."
       - with: hb-exod-7-plagues-blood-frogs-lice
-        motif: hardening-of-pharaohs-heart
+        motif: cause-of-pharaohs-refusal
         refs: ["27:14"]
         with_refs: ["Exod 8:15"]
         relation: divergence
@@ -1615,43 +1706,43 @@ reviewed:
         relation: parallel
         note: "jiʾtuka min Sabaʾin bi-nabaʾin yaqīnin innī wajadtu mraʾatan tamlikuhum ~ û-malkat Šəvāʾ šāməʿâ ʾet šēmaʿ Šəlōmōh wat-tāvôʾ: a woman ruling Sheba (Sabaʾ / Šəvāʾ), a report (nabaʾ / šēmaʿ), and her coming to Solomon. The direction of the report is reversed: in Chronicles she hears of Solomon, in the Quran Solomon hears of her through the hoopoe."
       - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
-        motif: queen-tests-king-with-riddles
+        motif: test-between-solomon-and-the-queen
         refs: ["27:41", "27:42"]
         with_refs: ["2Chr 9:1", "2Chr 9:2"]
         relation: divergence
         note: "Who tests whom: in Chronicles the queen comes to test Solomon with riddles (lənassôt ʾet Šəlōmōh bə-ḥîdôt) and he answers all (wə-lōʾ neʿlam dāvār miš-Šəlōmōh); in the Quran Solomon tests the queen: nakkirū lahā ʿarshahā nanẓur a-tahtadī, and she answers ka-annahu huwa."
       - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
-        motif: caravan-of-spices-gold-gems
+        motif: queen-of-shebas-gifts
         refs: ["27:35", "27:36", "27:37"]
         with_refs: ["2Chr 9:1", "2Chr 9:9", "2Chr 9:12"]
         relation: divergence
         note: "The gifts: Chronicles has the queen bring 120 talents of gold, spices and gems, which Solomon accepts, and he gives her all she desires (nātan ... ʾet kol ḥefṣāh). In the Quran she sends a gift (hadiyya) to test him, and Solomon refuses it, a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum, and threatens to invade with armies they cannot resist."
       - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
-        motif: breathless-at-royal-splendor
+        motif: queen-overwhelmed-by-solomons-palace
         refs: ["27:44"]
         with_refs: ["2Chr 9:3", "2Chr 9:4"]
         relation: divergence
         note: "The queen overwhelmed by Solomon's building: Chronicles has her see the house he built (wə-hab-bayit ʾăšer bānâ) until wə-lōʾ hāyâ ʿôd bāh rûaḥ; the Quran has the palace of smooth glass (ṣarḥun mumarradun min qawārīr) that she takes for deep water (ḥasibathu lujjatan) and uncovers her legs. Awe becomes a test she fails and then learns from. cf. Targum Sheni Esther 1:2 (glass floor), outside the HB."
       - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
-        motif: foreign-ruler-blesses-israels-god
+        motif: queen-of-shebas-confession
         refs: ["27:44"]
         with_refs: ["2Chr 9:8"]
         relation: divergence
         note: "The queen's last word: Chronicles has a blessing of Solomon's God, yəhî YHWH ʾĕlōhêkā bārûkh ʾăšer ḥāfēṣ bəkhā lə-tittəkhā ʿal kisʾô, 'your God', praised for Israel's king. The Quran has a conversion: rabbi innī ẓalamtu nafsī wa-aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīn, after the hoopoe reported that she and her people worshipped the sun (27:24). Chronicles never calls her an idolater."
       - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
-        motif: ivory-throne-six-steps-lions
+        motif: great-throne-in-sheba-story
         refs: ["27:23", "27:38", "27:40"]
         with_refs: ["2Chr 9:17"]
         relation: divergence
         note: "The great throne: Chronicles praises Solomon's own (wa-yyaʿaś ham-melekh kissēʾ šēn gādôl wa-yṣappēhû zāhāv ṭāhôr); in the Quran the great throne is the queen's (wa-lahā ʿarshun ʿaẓīmun), and Solomon has it carried to him in the blink of an eye by one with knowledge of the Book."
       - with: hb-1kgs-10-queen-of-sheba
-        motif: foreigner-confesses-god-greatest
+        motif: queen-of-shebas-confession
         refs: ["27:44"]
         with_refs: ["1Kgs 10:9"]
         relation: divergence
         note: "As in 2Chr 9:8: the Kings queen blesses 'YHWH your God' for loving Israel and setting Solomon on the throne of Israel; the Quran's queen submits with Solomon to the Lord of the worlds. A foreigner's praise of Israel's God becomes a conversion to the universal Lord."
       - with: hb-1kgs-5-dominion-wisdom
-        motif: wise-king-speaks-of-plants-and-animals
+        motif: solomon-and-the-animals
         refs: ["27:16", "27:19"]
         with_refs: ["1Kgs 5:13"]
         relation: divergence
@@ -1681,7 +1772,7 @@ reviewed:
         relation: echo
         note: "aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīna ~ kî YHWH ʾĕlōhêkem hûʾ ʾĕlōhîm ba-ššāmayim mimmaʿal wə-ʿal hā-ʾāreṣ mittāḥat: a foreign woman confesses the God of heaven and earth after hearing of his power. Rahab says 'your God', the queen 'with Solomon, to the Lord of the worlds'."
       - with: hb-2kgs-20-hezekiah-illness-babylon
-        motif: babylonian-embassy-shown-treasures
+        motif: king-receives-envoys-and-gift
         refs: ["27:35", "27:36"]
         with_refs: ["2Kgs 20:12", "2Kgs 20:13"]
         relation: contrast
@@ -1723,19 +1814,19 @@ reviewed:
     checked: [hb-gen-19-sodom-destroyed, hb-gen-6-flood, hb-lam-5-prayer-remember, hb-ezek-14-idols-in-heart-noah-daniel-job]
     matches:
       - with: hb-gen-19-sodom-destroyed
-        motif: wife-turned-to-pillar-of-salt
+        motif: fate-of-lots-wife
         refs: ["27:57"]
         with_refs: ["Gen 19:17", "Gen 19:26"]
         relation: divergence
         note: "Who decides the wife's fate: Genesis gives her own act, the warning ʾal tabbîṭ ʾaḥărêkā and wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God's decree, illā mraʾatahu qaddarnāhā mina l-ghābirīna, 'we decreed her among those who stayed behind', with no looking back and no salt."
       - with: hb-gen-19-sodom-destroyed
-        motif: lot-threatened-with-expulsion
+        motif: townspeople-turn-on-lot
         refs: ["27:56"]
         with_refs: ["Gen 19:9"]
         relation: divergence
         note: "akhrijū āla Lūṭin min qaryatikum innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ: the people turn on Lot. Genesis mocks him as a sojourner who plays judge; the Quran mocks his family as 'people who keep themselves pure' and orders them expelled."
       - with: hb-gen-19-sodom-destroyed
-        motif: lot-condemns-lust-for-males
+        motif: lots-protest-to-the-townsmen
         refs: ["27:54", "27:55"]
         with_refs: ["Gen 19:7", "Gen 19:8"]
         relation: divergence
@@ -1801,7 +1892,7 @@ reviewed:
     checked: [hb-dan-7-four-beasts-son-of-man, hb-exod-19-sinai-theophany, hb-jer-19-broken-flask, hb-exod-24-covenant-ratification, hb-isa-6-throne-vision, hb-ps-132-davids-oath-ark]
     matches:
       - with: hb-dan-7-four-beasts-son-of-man
-        motif: little-horn-boastful-mouth
+        motif: speaking-beast-of-the-end
         refs: ["27:82"]
         with_refs: ["Dan 7:8", "Dan 7:17"]
         relation: divergence
@@ -1813,19 +1904,19 @@ reviewed:
         relation: echo
         note: "wa-yawma naḥshuru min kulli ummatin fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv wə-sifrîn pətîḥû: an end-time judgment assembly; Daniel judges the beast-kingdoms, the Quran a contingent from every nation."
       - with: hb-exod-19-sinai-theophany
-        motif: theophany-thunder-lightning-trumpet
+        motif: horn-blast-makes-all-tremble
         refs: ["27:87", "27:88"]
         with_refs: ["Exod 19:16", "Exod 19:18", "Exod 19:19"]
         relation: divergence
         note: "A horn-blast that makes all tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing like clouds (tamurru marra s-saḥāb)."
       - with: hb-isa-6-throne-vision
-        motif: commission-to-harden-hearts
+        motif: prophet-and-the-deaf-and-blind
         refs: ["27:80", "27:81"]
         with_refs: ["Isa 6:10"]
         relation: divergence
         note: "innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn lēv hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet's word cannot reach. Isaiah is commissioned to cause the deafness; the Quran's prophet is told he cannot cure it."
       - with: hb-ps-132-davids-oath-ark
-        motif: zion-chosen-as-gods-resting-place
+        motif: gods-chosen-sacred-city
         refs: ["27:91"]
         with_refs: ["Ps 132:13", "Ps 132:14"]
         relation: divergence
@@ -1840,13 +1931,13 @@ reviewed:
         relation: parallel
         note: "yudhabbiḥu abnāʾahum wa-yastaḥyī nisāʾahum ~ ʾim bēn hûʾ wa-hămitten ʾōtô wə-ʾim bat hîʾ wā-ḥāyâ ... wə-khol hab-bat təḥayyûn: kill the sons, let the females live, with the same root for 'let live' (istaḥyā / ḥiyyâ). The Quran says 'their women' (nisāʾ), Exodus 'daughters'; the Quran leaves out the midwives Shiphrah and Puah and their defiance (Exod 1:15-21)."
       - with: hb-exod-1-oppression-midwives
-        motif: ruler-fears-growing-foreign-population
+        motif: pharaohs-motive-for-oppression
         refs: ["28:4", "28:5", "28:6"]
         with_refs: ["Exod 1:9", "Exod 1:10"]
         relation: divergence
         note: "Why Pharaoh oppresses: Exodus gives his fear that the people will grow and side with enemies (pen yirbeh ... wə-nôsaf gam hûʾ ʿal śōnʾênû); the Quran gives his arrogance (ʿalā fī l-arḍ) and division of the people into factions. The Quran adds God's counter-purpose: to make the oppressed leaders and heirs and to show Pharaoh, Hāmān and their hosts 'what they feared' (mā kānū yaḥdharūn), so the fear of Exod 1:10 is the very thing God brings about."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: mother-divinely-inspired
+        motif: moses-mothers-decision
         refs: ["28:7"]
         with_refs: ["Exod 2:2", "Exod 2:3"]
         relation: divergence
@@ -1891,25 +1982,25 @@ reviewed:
     checked: [hb-exod-2-moses-birth-flight-midian, hb-1kgs-11-adversaries, hb-1sam-26-spear-and-jug, hb-exod-14-crossing-of-the-sea, hb-2sam-1-amalekite-messenger]
     matches:
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: hero-kills-oppressor-and-hides-body
+        motif: manner-of-moses-killing
         refs: ["28:15"]
         with_refs: ["Exod 2:11", "Exod 2:12"]
         relation: divergence
         note: "The killing: Exodus has Moses see an Egyptian beating a Hebrew 'of his brothers', look this way and that and see no one (wa-yyifen kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and hide him in the sand. The Quran has him find two men fighting, one of his party (shīʿa) and one of his enemy; at his kinsman's cry for help he strikes one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā ʿalayhi). There is no looking around and no hiding of the body; the act is unpremeditated."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: killing-called-work-of-satan
+        motif: verdict-on-moses-killing
         refs: ["28:15", "28:16", "28:17"]
         with_refs: ["Exod 2:12", "Exod 2:14"]
         relation: divergence
         note: "Moral verdict on the killing: Exodus passes none; Moses only fears exposure (wa-yyîrāʾ Mōše wa-yyōʾmar ʾākhēn nôdaʿ had-dāvār). The Quran has Moses judge it at once, hādhā min ʿamali sh-shayṭān ... rabbi innī ẓalamtu nafsī fa-ghfir lī, and God forgives him (fa-ghafara lahu), so Moses is a repentant penitent before he is a prophet."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: who-made-you-judge-over-us
+        motif: retort-on-the-second-day
         refs: ["28:18", "28:19"]
         with_refs: ["Exod 2:13", "Exod 2:14"]
         relation: divergence
         note: "The second day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî. In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman 'clearly misguided' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. 'Prince and judge' becomes 'tyrant' (jabbār)."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: man-from-far-end-of-city-warns
+        motif: how-moses-learns-of-the-threat
         refs: ["28:20"]
         with_refs: ["Exod 2:15"]
         relation: divergence
@@ -1930,31 +2021,31 @@ reviewed:
     checked: [hb-exod-2-moses-birth-flight-midian, hb-gen-29-jacob-rachel-leah, hb-hos-12-jacob, hb-gen-24-bride-for-isaac, hb-2kgs-4-shunammite]
     matches:
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: hero-waters-flock-for-women
+        motif: moses-at-the-well-of-midian
         refs: ["28:23", "28:24"]
         with_refs: ["Exod 2:16", "Exod 2:17"]
         relation: divergence
         note: "At the water of Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock. The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish, explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: foreign-priest-father-in-law
+        motif: moses-father-in-law
         refs: ["28:23", "28:25"]
         with_refs: ["Exod 2:16", "Exod 2:18", "Exod 2:20"]
         relation: divergence
         note: "The father: Exodus has a named priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed 'very old man' (shaykhun kabīr), no priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: modest-daughter-invites-hero-to-father
+        motif: midianite-daughters-role
         refs: ["28:25", "28:26"]
         with_refs: ["Exod 2:19", "Exod 2:20"]
         relation: divergence
         note: "The daughters' role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, 'an Egyptian man saved us' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ) to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu, 'hire him, the best one to hire is the strong and trustworthy'."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: meeting-future-wife-at-well
+        motif: terms-of-moses-marriage
         refs: ["28:27", "28:28"]
         with_refs: ["Exod 2:21"]
         relation: divergence
         note: "The marriage: Exodus has wa-yyôʾel Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms; the Quran has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin fa-in atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu ʿalā mā naqūlu wakīl)."
       - with: hb-gen-29-jacob-rachel-leah
-        motif: serving-seven-years-for-bride
+        motif: service-for-a-bride
         refs: ["28:27", "28:28"]
         with_refs: ["Gen 29:18", "Gen 29:20", "Gen 29:25", "Gen 29:27"]
         relation: divergence
@@ -1981,37 +2072,37 @@ reviewed:
     checked: [hb-exod-4-signs-aaron-bridegroom-of-blood, hb-exod-7-staff-swallows-staffs, hb-exod-3-burning-bush, hb-amos-7-visions-and-amaziah, hb-1kgs-19-elijah-horeb]
     matches:
       - with: hb-exod-3-burning-bush
-        motif: shepherd-called-at-mountain-of-god
+        motif: setting-of-moses-call
         refs: ["28:29", "28:30"]
         with_refs: ["Exod 3:1", "Exod 3:5"]
         relation: divergence
         note: "Place and occasion of the call: Exodus has Moses shepherding Jethro's flock 'behind the wilderness' to Horeb, the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals. The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in 'the blessed spot' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes a blessed spot."
       - with: hb-exod-3-burning-bush
-        motif: burning-bush-not-consumed
+        motif: call-from-the-fire
         refs: ["28:30"]
         with_refs: ["Exod 3:2", "Exod 3:4"]
         relation: divergence
         note: "nūdiya ... mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush (səneh) becomes 'the tree' (ash-shajara), the angel in the flame drops out, and 'the God of your father' becomes 'Allāh, Lord of the worlds'."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: staff-quivers-like-jinn-snake-moses-flees
+        motif: moses-flees-from-staff-serpent
         refs: ["28:31"]
         with_refs: ["Exod 4:3", "Exod 4:4"]
         relation: divergence
         note: "As at Q 27:10: wa-yyānās Mōše mip-pānāyw ~ wallā mudbiran wa-lam yuʿaqqib; Exodus' command to seize the snake's tail (wə-ʾĕḥōz bi-znāvô) becomes yā Mūsā aqbil wa-lā takhaf innaka mina l-āminīn, 'come forward and do not fear, you are safe'."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: hand-turned-leprous-white-as-snow
+        motif: moses-white-hand-sign
         refs: ["28:32"]
         with_refs: ["Exod 4:6", "Exod 4:8", "Exod 4:9"]
         relation: divergence
         note: "Two signs, not three, and no leprosy: Exodus gives staff, leprous hand (məṣōraʿat ka-ššāleg), and a third sign held in reserve, Nile water turned to blood (wə-hāyû lə-dām bay-yabbāšet), meant for doubting Israelites; the Quran has fa-dhānika burhānāni min rabbika ilā Firʿawna wa-malaʾihi, two proofs aimed at Pharaoh, the hand white 'without evil' (min ghayri sūʾ), and adds 'draw your arm to your side against fear'."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: aaron-more-eloquent
+        motif: aarons-role-beside-moses
         refs: ["28:34", "28:35"]
         with_refs: ["Exod 4:10", "Exod 4:14", "Exod 4:15"]
         relation: divergence
         note: "Aaron's eloquence: in Exodus Moses says he is heavy of mouth, and God, angry, proposes Aaron himself: wa-yyiḥar ʾap YHWH bə-Mōše ... yādaʿtî kî dabbēr yədabbēr hûʾ ... wə-śamtā ʾet had-dəvārîm bə-fîw. In the Quran Moses proposes him, wa-akhī Hārūnu huwa afṣaḥu minnī lisānan fa-arsilhu maʿiya ridʾan yuṣaddiqunī, and God agrees without anger: sa-nashuddu ʿaḍudaka bi-akhīka. Aaron is a supporting witness (ridʾ, yuṣaddiqunī), not a mouth for Moses as God."
       - with: hb-exod-4-signs-aaron-bridegroom-of-blood
-        motif: moses-kills-man-delivered-from-grief
+        motif: moses-fear-of-blood-vengeance
         refs: ["28:33"]
         with_refs: ["Exod 4:19"]
         relation: divergence
@@ -2050,7 +2141,7 @@ reviewed:
         relation: parallel
         note: "yā ayyuhā l-malaʾu mā ʿalimtu lakum min ilāhin ghayrī ... wa-stakbara huwa wa-junūduhu ~ ʾăšer ʾāmar lî yəʾōrî wa-ʾănî ʿăśîtinî: Pharaoh claims divinity in his own words, the prophet quoting his boast. In Ezekiel he is the maker of the Nile or of himself; in the Quran he is the only god his court knows. Both end with Pharaoh flung out (Ezek 29:5 nəṭaštîkā ham-midbārâ, Q 28:40 fa-nabadhnāhum fī l-yamm)."
       - with: hb-exod-5-bricks-without-straw
-        motif: who-is-yhwh-defiance
+        motif: pharaohs-question-about-the-god
         refs: ["28:38"]
         with_refs: ["Exod 5:2"]
         relation: divergence
