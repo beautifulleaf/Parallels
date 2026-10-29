@@ -218,6 +218,19 @@ new_motifs:
   insatiable-glutton-land-too-small: {label: "Saying: from the horizon to the heart of heaven the bread is too little for his great stomach; the grain of the whole land is too little for him", cluster: wisdom}
   early-worker-early-married-incomparable: {label: "Saying: the early-working shepherd, the early-working farmer, the young man who married while young: who compares to them?", cluster: wisdom}
   school-food-onions-and-bread: {label: "Saying: morsels of bread and tasty onions are the food of the school (e2-dub-ba-a)", cluster: scribal}
+  lament-priest-steals-barley: {label: "Anecdote: a lamentation priest (gala) goes into a man's field to steal barley, is caught, and pleads that his beautiful head got confused", cluster: wisdom}
+  neighbour-unappreciative-of-sweet-beer: {label: "Saying: I would make the beer sweet, but my neighbour would not appreciate it", cluster: wisdom}
+  dusk-joy-of-daughter-in-law: {label: "Saying: dusk means joy for a daughter-in-law", cluster: wisdom}
+  younger-son-driven-out-abomination: {label: "Saying: chasing a younger son away from his father's house is an abomination to Ninurta", cluster: law}
+  good-and-evil-in-the-hands-and-heart: {label: "Saying: good is in the hands and evil is in the hands; the heart lets go of neither; evil yields no interest to the storehouse - let it sink with the boat", cluster: wisdom}
+  raven-above-mongoose-below-lion-desert: {label: "Saying: in the sky the raven, on earth the mongoose, in the desert the lion: where shall I go?", cluster: wisdom}
+  hand-at-table-tongue-in-palace: {label: "Saying: his hand is on the table, his tongue in the palace", cluster: wisdom}
+  angry-man-threatens-in-vain: {label: "Saying: the man seized by anger pours it out in threats (I will glare, I will destroy your wall), and it means nothing", cluster: wisdom}
+  liar-arrogant-slanderer: {label: "Saying: the liar is arrogant, always lies, always slanders; treacherous, malicious, shifty-eyed", cluster: wisdom}
+  sun-god-compassionate-devotee-blessed: {label: "Saying: Utu's glance is prayerful and his heart wide (compassionate); his devotee is holy, and one allotted by Utu for good reaches the quay like a laden ship", cluster: theology}
+  god-seizes-the-glutton: {label: "Saying: a god seizes the man who eats (too much)", cluster: wisdom}
+  lament-priest-afraid-of-lion: {label: "Anecdote: a lamentation priest is afraid of a lion in the desert; the purification priests ask what his brother is doing in the desert", cluster: wisdom}
+  belly-bloated-made-obedient: {label: "Saying: a feeding belly that becomes bloated is lamentable, a belly made obedient by the prince", cluster: wisdom}
 units:
   - id: ane-etcsl-6-1-03-a-outcast-son-and-time
     tradition: ane-sumerian
@@ -1070,3 +1083,93 @@ units:
       - "The young man who married in his youth: compare Prov 5:18, Mal 2:14-15 and Eccl 11:9."
       - "The insatiable glutton: compare Prov 30:15-16, Eccl 6:7, Isa 5:14 and Q 50:30."
       - "Onions and bread as plain fare: compare Num 11:5."
+  - id: ane-etcsl-6-1-21-slave-girls-and-gala
+    tradition: ane-sumerian
+    title: "Proverbs collection 21: the fattened pig, the daughter-in-law, slave girls, the lamentation priest who stole barley"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.21"]
+    tags:
+      - {motif: fattened-pig-replace-what-i-eat, refs: ["ETCSL 6.1.21 B.21.b4", "ETCSL 6.1.21 B.21.b5"]}
+      - {motif: man-s-goods-and-kin-listed, refs: ["ETCSL 6.1.21 C.21.c1"], note: "[e2]-gi4-a gal4-la [lu2-kam], mostly restored"}
+      - {motif: neighbour-unappreciative-of-sweet-beer, refs: ["ETCSL 6.1.21 C.21.c4"], note: "kaš ga-ze2-ze2-eb ušur nu-kal-e"}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.21 C.21.c5", "ETCSL 6.1.21 C.21.c16"], note: "these sections are not printed: ETCSL edits them separately as 5.6.9 The fowler and his wife and 5.6.8 The lazy slave girl"}
+      - {motif: slave-girl-sayings, refs: ["ETCSL 6.1.21 C.21.c6", "ETCSL 6.1.21 C.21.c7", "ETCSL 6.1.21 C.21.c10", "ETCSL 6.1.21 C.21.c11", "ETCSL 6.1.21 C.21.c12", "ETCSL 6.1.21 C.21.c13", "ETCSL 6.1.21 C.21.c15"], note: "Emesal gi4-in for geme2; the slave girl roams at dusk as if at midnight; 'my vagina brings me slavery' (gal4-la-ĝu10 na-aĝ2-gi4-in-e ma-an-ga)"}
+      - {motif: dusk-joy-of-daughter-in-law, refs: ["ETCSL 6.1.21 C.21.c8"], note: "ud šu2-šu2-ru šag4 ḫul2-la e2-gi4-a-kam; contrast 6.1.03 A.3.44 (her joy is anger)"}
+      - {motif: bird-flees-own-behind, refs: ["ETCSL 6.1.21 C.21.c14"]}
+      - {motif: lament-priest-steals-barley, refs: ["ETCSL 6.1.21 D.21.d3"], note: "gala-e a-šag4 lu2-u3-ka še zuḫ-zuḫ-de3 i3-ĝen / lugal a-šag4-ga-ke4 ba-an-dab5 / saĝ an-sag9-ga-ĝu10 bi2-suḫ bi2-bir-bir"}
+      - {motif: bawdy-proverb, refs: ["ETCSL 6.1.21 C.21.c13"]}
+    hints:
+      - "The slave girl and her mistress: compare Gen 16:4-6 and Prov 30:23."
+      - "The thief caught in another man's field: compare Deut 23:25-26 (plucking grain in a neighbour's field) and Exod 22:6."
+  - id: ane-etcsl-6-1-22-a-younger-son-good-evil
+    tradition: ane-sumerian
+    title: "Proverbs collection 22, lines 19-101: the husband who picks the fish bones, the younger son driven out, good and evil in the hands, accept your lot"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.22 22.ll.19–20:19-22.ll.98–101:101"]
+    tags:
+      - {motif: servant-cools-soup-bones-fish, refs: ["ETCSL 6.1.22 22.ll.19–20", "ETCSL 6.1.22 22.l.33"], note: "[mu]-ud-na-[ĝu10] [ĝiri3-pax-ra2] šag4 ku6-ta [...]-de5-de5-ge"}
+      - {motif: no-plant-sweet-as-husband, refs: ["ETCSL 6.1.22 22.l.34"], note: "mostly restored"}
+      - {motif: pig-to-slaughter-ancestors-went-same-road, refs: ["ETCSL 6.1.22 22.ll.35–37"], note: "fragment of the pig and its fate (nam-tar), restored"}
+      - {motif: younger-son-driven-out-abomination, refs: ["ETCSL 6.1.22 22.ll.49–50"], note: "[dumu-nitaḫ tur]-ra-am3 [e2 ad]-da-ni [sar]-ra / niĝ2-gig {d}nin-urta-kam; the son and the verb are restored from parallels"}
+      - {motif: abomination-to-a-named-god, refs: ["ETCSL 6.1.22 22.ll.49–50"]}
+      - {motif: half-brothers-expel-heir, refs: ["ETCSL 6.1.22 22.ll.49–50"]}
+      - {motif: good-and-evil-in-the-hands-and-heart, refs: ["ETCSL 6.1.22 22.ll.62–63", "ETCSL 6.1.22 22.ll.64–66", "ETCSL 6.1.22 22.l.67", "ETCSL 6.1.22 22.l.68", "ETCSL 6.1.22 22.l.69"], note: "sag9-ga šu-am3 / ḫul šu am3-ga-am3; lines 64-67 largely restored from the Instructions of Šuruppag; ḫul-da id2-da ma2 ḫe2-en-da-an-su"}
+      - {motif: strong-gathers-wood-weak-waits, refs: ["ETCSL 6.1.22 22.l.80"]}
+      - {motif: kingship-conferred-at-sunrise, refs: ["ETCSL 6.1.22 22.l.85"], note: "fragmentary"}
+      - {motif: accept-your-lot-make-mother-happy, refs: ["ETCSL 6.1.22 22.ll.87–88"]}
+    hints:
+      - "Driving the younger son from his father's house: compare Gen 21:9-14 (Ishmael), Judg 11:2 (Jephthah driven out by his brothers) and Deut 21:15-17."
+      - "Good and evil are in the hands: compare Deut 30:15-19, Gen 4:7 and Q 91:7-10."
+      - "Let the boat sink with the evil: compare Mic 7:19."
+  - id: ane-etcsl-6-1-22-b-stranger-raven-merchants
+    tradition: ane-sumerian
+    title: "Proverbs collection 22, lines 127-202: the stranger eats the bread, raven mongoose and lion, the drought, carry it, the liar with the waterskin, the trades"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.22 22.ll.127–133:127-22.ll.201–202:202"]
+    tags:
+      - {motif: strangers-ox-eats-own-starves, refs: ["ETCSL 6.1.22 22.ll.140–145"], note: "[ḫa-ma-ĝal2-e] lu2-kur2-ra [ib2-gu7] 'if I have any left over, a stranger eats it', restored"}
+      - {motif: raven-above-mongoose-below-lion-desert, refs: ["ETCSL 6.1.22 22.ll.146–147"], note: "an uga[{mušen}-am3] ki {d}nin-[kilim-am3] / edin-e [ur-maḫ-e] ... [me-še3 ga-ĝen]"}
+      - {motif: sumerian-proverb-collection, refs: ["ETCSL 6.1.22 22.ll.148–150", "ETCSL 6.1.22 22.ll.159–171"], note: "the figure the father-in-law admires (= 6.1.03 A.3.158); a broken passage about a bird, a net, Utu and a young girl (ki-sikil) in her father-in-law's house"}
+      - {motif: drought-cloudy-day-no-rain, refs: ["ETCSL 6.1.22 22.ll.172–175"], note: "here an al-šu2-šu2-ru 'the sky clouded'"}
+      - {motif: liar-arrogant-slanderer, refs: ["ETCSL 6.1.22 22.ll.187–188"], note: "lu2-lul-la-še3 ni2 buluĝ5 / ni2 nu-il2 {kuš}a2-ĝa2-la2 šu-še3 la2"}
+      - {motif: holds-up-sky-earth-dangles, refs: ["ETCSL 6.1.22 22.l.189"]}
+      - {motif: mighty-man-master-of-earth, refs: ["ETCSL 6.1.22 22.l.190"]}
+      - {motif: trades-characterised-by-their-sayings, refs: ["ETCSL 6.1.22 22.ll.191–193"]}
+      - {motif: merchant-not-to-be-friend, refs: ["ETCSL 6.1.22 22.ll.194–196", "ETCSL 6.1.22 22.l.197"], note: "dumu dam-e-ne šaĝan-la2-e-ne / kug ta ba-an-de6 / u3 še ta ba-an-de6: children, wives and trading agents use up silver and barley"}
+      - {motif: belly-bloated-made-obedient, refs: ["ETCSL 6.1.22 22.ll.201–202"]}
+    hints:
+      - "Raven, mongoose, lion: where shall I go? Compare Ps 139:7-10, Amos 5:19, 9:2-3 and Q 75:10-12 (where is the refuge?)."
+      - "The stranger eats what is left: compare Deut 28:33 and Eccl 6:2."
+  - id: ane-etcsl-6-1-22-c-heaven-anger-liar-utu
+    tradition: ane-sumerian
+    title: "Proverbs collection 22, lines 203-287: no one reaches heaven, hand at the table, the angry man, the liar, the immigrant, Utu's compassion, the lamentation priest and the lion"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.22 22.ll.203–206:203-22.l.287:287"]
+    tags:
+      - {motif: no-one-tall-enough-to-reach-heaven, refs: ["ETCSL 6.1.22 22.ll.203–206"], note: "sukux-ra2 an-na šu nu-um-la2 / daĝal-e ki-in-du la-ba-an-šu2-šu2"}
+      - {motif: hand-at-table-tongue-in-palace, refs: ["ETCSL 6.1.22 22.ll.214–215"], note: "šu-ni {ĝiš}banšur-ra / eme-ni e2-gal-la"}
+      - {motif: eat-modestly-greed-kills, refs: ["ETCSL 6.1.22 22.ll.216–217"], note: "tur-bi gu7-a maḫ-bi til3-la"}
+      - {motif: angry-man-threatens-in-vain, refs: ["ETCSL 6.1.22 22.ll.218–223"], note: "ib2 dab ba-an-de2 ... šag4 si-ĝu10 im-du3-a ga-ra-a-gul ... nu-mu-un-kal-la"}
+      - {motif: anger-rests-in-bosom-of-fools, refs: ["ETCSL 6.1.22 22.ll.218–223"]}
+      - {motif: liar-arrogant-slanderer, refs: ["ETCSL 6.1.22 22.ll.227–229", "ETCSL 6.1.22 22.ll.230–232", "ETCSL 6.1.22 22.ll.237–249"], note: "lul i3-sun7 / lul dug4-dug4 / eme sig dug4-dug4; an-kur2 an-kur2-kur2 igi an-kur2-kur2; lu2-lul i-lu ma-ab-be2-a"}
+      - {motif: slanderer-with-forked-tongue, refs: ["ETCSL 6.1.22 22.ll.227–229"]}
+      - {motif: stranger-leader-in-foreign-city, refs: ["ETCSL 6.1.22 22.l.236"], note: "du-du nam-gir5-re a2-bi in-ĝal2 'moving about gives strength to the immigrant's condition'"}
+      - {motif: sun-god-compassionate-devotee-blessed, refs: ["ETCSL 6.1.22 22.ll.271–275"], note: "igi {d}utu šudu3-de3 / šag4 {d}utu daĝal-la / dumu {d}utu kug-ga-kam / šub-ba {d}utu sag9-ge-de3 / ma2 gu7-gu7 kar-ra an-dab5-be2"}
+      - {motif: friend-reaches-goal-like-ship-to-harbour, refs: ["ETCSL 6.1.22 22.ll.271–275"]}
+      - {motif: god-seizes-the-glutton, refs: ["ETCSL 6.1.22 22.ll.276–277"], note: "lu2 gu7-a / diĝir an-dab5-be2; the object of 'eats' is not stated"}
+      - {motif: thief-revealed-in-quarrel, refs: ["ETCSL 6.1.22 22.ll.278–279"]}
+      - {motif: lament-priest-afraid-of-lion, refs: ["ETCSL 6.1.22 22.ll.280–283"]}
+      - {motif: silver-grain-cattle-bring-sleep, refs: ["ETCSL 6.1.22 22.ll.284–286"], note: "this copy (partly restored) has the opposite end: he who has livestock [u3 nu-un-ši]-ku-ku 'cannot sleep'"}
+    hints:
+      - "The angry man's empty threats: compare Prov 14:17, 29:11, Eccl 7:9."
+      - "The liar arrogant and slandering: compare Prov 6:12-19, Ps 52:4-6."
+      - "Utu's compassion for his devotee: compare Ps 103:13, Ps 107:30 (he brings them to their desired haven)."
+      - "He who has much cannot sleep: compare Eccl 5:11."

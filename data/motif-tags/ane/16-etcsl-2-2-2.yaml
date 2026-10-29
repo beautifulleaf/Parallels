@@ -34,6 +34,8 @@ new_motifs:
   king-born-for-divinity: {label: "The king is called a hero born for godhood (nam-diŋir), fit for the ornaments of kingship", cluster: kingship}
   moon-god-judges-netherworld-at-disappearance: {label: "On the day the moon lies down (disappears), the moon god as lord of the netherworld renders great judgments and decisions there", cluster: underworld}
   temple-interior-intricate-unknowable: {label: "The inside of the god's temple is intricate and tied together, a thing no one knows", cluster: cult}
+  statue-of-king-as-runner: {label: "The king sets up a copper statue of himself running in the temple, celebrating his tireless speed as a runner", cluster: kingship}
+  curse-fertility-gods-withdraw-abundance: {label: "Curse on whoever damages the king's inscription: the gods of rain, grain and herds withdraw abundance from heaven and earth", cluster: treaty}
 units:
   # ---------------- ETCSL 2.2.2: The lament for Urim ----------------
   - id: ane-etcsl-2-2-2-k1-gods-abandon-folds
@@ -567,3 +569,56 @@ units:
     tags:
       - {motif: moon-god-judges-netherworld-at-disappearance, refs: ["ETCSL 2.5.4.13 unknown.A:2-5"], note: "only line openings: ud nu2-a ... uŋ3 ... en kur-ra ... ka-aš: repeats sa-gida 19-21"}
       - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 2.5.4.13 uru.D:23-24"], note: "a-da-ab {d}nanna-kam; sa-ĝara (B) with Išme-Dagan's name, otherwise broken"}
+  # ---------------- ETCSL 2.5.4.15: Išme-Dagan O ----------------
+  - id: ane-etcsl-2-5-4-15-ninurta-tigi-ishme-dagan
+    tradition: ane-sumerian
+    title: "Tigi to Ninurta, hero of the fifty divine powers of E-kur, for Išme-Dagan (Išme-Dagan O, first version)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.15 sa–gida.A", "ETCSL 2.5.4.15 sa–gida.B", "ETCSL 2.5.4.15 unknown.D", "ETCSL 2.5.4.15 unknown.E", "ETCSL 2.5.4.15 unknown.F"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 2.5.4.15 sa–gida.A:2", "ETCSL 2.5.4.15 sa–gida.A:18"], note: "{d}nin-urta e2-kur-ra me 50 šu du7: who perfects the fifty divine powers of E-kur; hur-saŋ-ta e3-a me šar2-ra u5: come out of the mountains, riding all the divine powers"}
+      - {motif: divine-warrior, refs: ["ETCSL 2.5.4.15 sa–gida.A:1-8", "ETCSL 2.5.4.15 sa–gida.B:3-4"], note: "ur-saŋ gal a2 gal an ki-a; u18-lu sumur zig3-ga: raging storm risen; gaba-šu-ŋar nu-tuku: who has no rival; piriŋ sumur nu-še-ga ... kur gam-gam"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.5.4.15 sa–gida.A:17", "ETCSL 2.5.4.15 sa–gida.A:25", "ETCSL 2.5.4.15 unknown.D:13"], note: "en dumu {d}en-lil2-la2; en a2 šum2-ma {d}nu-nam-nir-ra: lord given strength by Enlil"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.5.4.15 sa–gida.A:23-24", "ETCSL 2.5.4.15 sa–gida.B:1-2"], note: "eš-bar nu-kam3-me; dug4-ga-ni ki-bi-še3 ŋar; inim-ma-ni kal-kal-a-am3 dug4-ga-ni zid-da-am3"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 2.5.4.15 unknown.D:9"], note: "u4-ta-u18-lu i-lim u5: Utaulu (Ninurta as southern storm) riding the radiance"}
+      - {motif: god-gives-king-mace-to-crush-lands, refs: ["ETCSL 2.5.4.15 unknown.D:21-28"], note: "lugal-ra kur gu2-erim2-ŋal2-la šu-ni-še3; {d}nin-urta {d}iš-me-{d}da-gan-ra šen-šen a2-tah ... {ŋiš}tukul mah-a-ni ... ki-bal nu-še-ga: Ninurta gives the hostile land into the king's hand, is his helper in battle with his great weapon against the rebel land"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.15 sa–gida.B:6-7"], note: "{d}nin-urta {d}iš-me-{d}da-gan ... igi nam-til3-la hu-mu-ši-in-bar: may Ninurta look on Išme-Dagan with an eye of life"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.4.15 sa–gida.B:5", "ETCSL 2.5.4.15 sa–gida.B:8"], note: "unknown.E and unknown.F only line ends survive"}
+    hints:
+      - "Compare Ps 18:35-40 and Ps 144:1 (who trains my hands for war) and Ps 110:1-2."
+  - id: ane-etcsl-2-5-4-15-version-2
+    tradition: ane-sumerian
+    title: "Išme-Dagan O, second version of the tigi to Ninurta (fragments)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    version: "version 2 (sa–gida.version.2.A, unknown.C)"
+    read: ["ETCSL 2.5.4.15 sa–gida.version.2.A", "ETCSL 2.5.4.15 unknown.C"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 2.5.4.15 sa–gida.version.2.A:15"], note: "hur-saŋ-ta e3-a me šar2-ra: parallels the first version"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.5.4.15 sa–gida.version.2.A:20-21"], note: "sa2 pad3-de3 eš-bar nu-kam3-me; {d}nin-urta dug4-ga-ni ki-bi-še3 ŋar"}
+      - {motif: storm-covers-city-like-cloak, refs: ["ETCSL 2.5.4.15 sa–gida.version.2.A:35"], note: "Here of the land: x kalam-ma tug2-gin7 ši-im-šu4: covers the land like a garment (fragmentary)"}
+      - {motif: god-gives-king-mace-to-crush-lands, refs: ["ETCSL 2.5.4.15 unknown.C:51-64"], note: "mi-tum ... erim2; en a2 šum2-ma {d}nu-nam-nir-ra ... me3-še3 gub-bu; gu2-erim2-ŋal2-la ... šu-ni-še3 ... {d}iš-me-{d}da-gan: variant has the mitum mace and the hostile land given into Išme-Dagan's hand"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.15 sa–gida.version.2.A:47-48"], note: "{d}iš-me-{d}da-gan ... nam-til3"}
+  # ---------------- ETCSL 2.5.4.19: Išme-Dagan S ----------------
+  - id: ane-etcsl-2-5-4-19-statue-of-runner-king
+    tradition: ane-sumerian
+    title: "Dedication of a statue: Išme-Dagan the tireless runner sets up his running statue in Eniguru; curse on whoever erases its inscription (Išme-Dagan S)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Sumerian"
+    read: ["ETCSL 2.5.4.19 1-34"]
+    tags:
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.5.4.19 1-2"], note: "{d}en-lil2 ... ka-aš bar e3 dug4-ga-ni nu-kam3-me-da"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.5.4.19 4"], note: "en mu dug3 sa4-a-ni kur šar2-ra pad3-da: lord named with a good name, chosen from the multitude"}
+      - {motif: fleet-footed-as-gazelle, refs: ["ETCSL 2.5.4.19 9-19"], note: "šul ur-saŋ er9 dub3-ŋal2-e-ne-ke4: young hero, mightiest of runners; ŋi6 an-bar7-ba gub-bu muš3 nu-tum2-mu: unwearied night and midday; like a horse on the road, like a wild goat running (maš2-tarah-gin7 kaš4-kaš4-e), knees untiring"}
+      - {motif: statue-of-king-as-runner, refs: ["ETCSL 2.5.4.19 23-25"], note: "{urud}alan mir-re-e kaš4-kaš4-e hu-luh-ha-na, e2-ni2-guru3 barag kal-kal-la-na mu-ni-in-gub: he set up a copper statue of himself running like the wind in the Eniguru"}
+      - {motif: king-statue-set-before-god, refs: ["ETCSL 2.5.4.19 23-28"], note: "set before Enlil, whose word is not altered, so that he looks on the true shepherd with a faithful eye"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["ETCSL 2.5.4.19 29-32"], note: "lugal a2 niŋ2-hul dim2-ma ib2-ši-aŋ2-e-a, mu-sar-ra-ba šu bi2-ib2-ra-a mu-ni bi2-ib2-sar-a ... lu2-ba {d}en-lil2 ... {d}nin-lil2 ... nam ha-ba-an-da-ku5-ru-ne: the king who plans evil, strikes the inscription, writes his own name, or gets a stranger to do it: may Enlil and Ninlil curse him"}
+      - {motif: curse-fertility-gods-withdraw-abundance, refs: ["ETCSL 2.5.4.19 33-34"], note: "{d}en-ki {d}iškur {d}ezina2 {d}šakkan2 en he2-ŋal2-la-ke4-ne he2-ŋal2 an ki-a a-ba-da-an-gi4-eš"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.5.4.19 6"], note: "saŋ gig2 šu mu-na-šum2-ma: the black-headed handed over to him"}
+    hints:
+      - "Compare Deut 27:17 and Prov 22:28 (boundary-stone curses), Deut 28:23-24 (heaven bronze, no rain) and Rev 22:18-19 (curse on altering the book)."
+      - "Compare 2 Sam 2:18 (Asahel swift as a gazelle) and 2 Sam 18:19-27 (runners)."

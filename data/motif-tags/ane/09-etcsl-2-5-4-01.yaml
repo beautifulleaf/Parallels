@@ -94,6 +94,10 @@ new_motifs:
   temple-built-of-holy-reeds-in-marsh: {label: "A temple's door frame, lock, leaves and bolt are made of holy reeds, gold-yellow and silver-white, beside the sacred marsh where cattle and calves stand", cluster: temple}
   temple-gateway-like-beautiful-woman: {label: "The temple gateway is endowed with charms like a fine woman with head raised, attractive like ripe fruit, yet awesome like the mountains", cluster: temple}
   protective-gods-sweep-temple-in-rotation: {label: "The temple's protective deities take turns of office from the new moon and are seen sweeping the ground of the building as guardians of the gate", cluster: temple}
+  gods-accept-words-of-heart-and-tongue: {label: "Prayer that the god accept the king's offerings together with what he says in his heart and utters with his tongue and his raised hands", cluster: cult}
+  gods-save-king-from-famine: {label: "The moon god and his consort, 'who suppress famine', have saved the king from famine and filled him with abundance", cluster: kingship}
+  ruler-releases-citizens-and-slaves-to-holy-city: {label: "The ruler frees the citizens of the holy city, with their slaves and slave-girls, held in his own city, and lets them return home", cluster: law}
+  ruler-rebuilds-destroyed-temple-of-goddess: {label: "The ruler restores a destroyed temple to its place, rebuilds abandoned shrines and builds what had not been built since ancient days", cluster: temple}
 units:
   - id: ane-etcsl-2-5-4-01-a-enlil-praise
     tradition: ane-sumerian
@@ -258,7 +262,6 @@ units:
       - {motif: temple-of-precious-metal-and-lapis, refs: ["ETCSL 2.5.4.01 A:288-290"], note: "the throne decorated with nir-igi, šuba and translucent lapis lazuli, highly skilled craftsmanship"}
       - {motif: king-sets-copper-statues-of-ancestors-in-temple, refs: ["ETCSL 2.5.4.01 A:308-320"], note: "{urud}alan gal-gal-ĝu10 for Ninlil in the E-šenšena; {urud}alan ad-da tud-da-ĝu10 (statue of the father who begot me); {urud}alan a-a gu-la-ĝu10 (grandfather)"}
       - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.4.01 A:303"], note: "su piriĝ sa piriĝ-ĝa2 zag piriĝ-ĝa2: body, sinews and strength of a lion (of the statue?); context broken"}
-      - {motif: foreign-king-sends-cedar-and-craftsmen, refs: ["ETCSL 2.5.4.01 A:307"], note: "only: ĝiš maḫ ki u6 di-še3 ḫe2-ni-laḫ4: brought in mighty timbers, objects of wonder; no foreign king named"}
     hints:
       - "Compare 1 Kgs 7:7 and 10:18-20 (Solomon's throne of ivory and gold) and Ps 132:7-8 (arise to your resting place) with lines 282-292."
       - "Compare 2 Sam 18:18 (Absalom's pillar so his name be remembered) with lines 297-320; contrast Deut 4:16-18, Exod 20:4."
@@ -341,7 +344,7 @@ units:
       - {motif: goddess-presents-king-with-lamb-to-high-god, refs: ["ETCSL 2.5.4.02 C:34-40"], note: "sila4 babbar udu inim-ĝar sag9-ga gaba-na im-mi-tab: a white lamb and a sheep of good omen clasped to his breast; na-aĝ2 de3-eb2-tar mu-ni de3-eb2-pad3: determine his fate, call his name (Emesal)"}
       - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.5.4.02 C:43"], note: "{ĝiš}gu-za me ur4-ur4 aga zid ud su3-ra2-a ĝidru uĝ3 gen6-ne2"}
       - {motif: fate-of-abundance-decreed-for-king, refs: ["ETCSL 2.5.4.02 C:45-49"], note: "{id2}idigna {id2}buranuna-e ḫe2-ĝal2 a-eštub{ku6} ḫu-mu-ra-ab-tum3 ... lal3-e ĝeštin-e ... še gu-nu ... guru7 ... tur3 ḫa-ra-du3-du3 amaš ḫa-ra-daĝal-daĝal"}
-      - {motif: empire-from-euphrates-to-egypt, refs: ["ETCSL 2.5.4.02 C:52"], note: "only the tribute: sig igi-nim kur-zag til-la-bi gu2-un ḫa-mu-ra-ab-il2"}
+      - {motif: foreign-lands-send-precious-goods, refs: ["ETCSL 2.5.4.02 C:52"], note: "sig igi-nim kur-zag til-la-bi gu2-un ḫa-mu-ra-ab-il2"}
       - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.5.4.02 C:53"], note: "kisal maḫ nun ud-gin7 dalla ḫe2-ni-in-e3"}
       - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.02 B:32", "ETCSL 2.5.4.02 D:62-64"], note: "nam-til3 ud su3-ra2 saĝ-e-eš rig7-a-ni-ib: Enlil calls Bau: give Išme-Dagan a life of long days"}
       - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.5.4.02 A:31", "ETCSL 2.5.4.02 B:33", "ETCSL 2.5.4.02 C:61", "ETCSL 2.5.4.02 D:65-66"], note: "sa-gida, its ĝišgiĝal, sa-ĝara, uru: the adab's sections"}
@@ -1009,3 +1012,60 @@ units:
       - "Compare 1 Chr 9:17-27 and 24-26 (Levite gatekeepers in rotating courses guarding the temple) with lines 32-38; Ps 84:11 (doorkeeper in the house of my God)."
       - "Compare 1 Kgs 6:29-35 and Ezek 41:17-20 (carved cherubim and palms on the temple doors) with lines 9-12; Ezek 1:10 (eagle face)."
       - "Compare Exod 30:7-8 and Ps 141:2 (incense rising before God) with line 43."
+  - id: ane-etcsl-2-6-9-7-rim-sin-blessing
+    tradition: ane-sumerian
+    title: "Rim-Sîn G: blessing that Nanna and Ningal accept the king's offerings and words, save him from famine and give abundance"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.7 1-51"]
+    tags:
+      - {motif: gods-accept-words-of-heart-and-tongue, refs: ["ETCSL 2.6.9.7 1-7"], note: "nidba kug-ga si sa2-zu / šu kug-zu sizkur2 kug sikil-e ... / šag4-ge dug4-ga eme ĝar-ra-zu / giri17 šu ĝal2-la-zu šu kug il2-la-zu / {d}nanna ... ḫe2-me-še-še"}
+      - {motif: lifting-hands-in-prayer, refs: ["ETCSL 2.6.9.7 5"]}
+      - {motif: personal-god-of-ruler, refs: ["ETCSL 2.6.9.7 6-7"], note: "{d}nanna ... {d}lamma sag9-ga-zu; {d}nin-gal ... nin ĝiškim sag9-ga-zu"}
+      - {motif: gods-save-king-from-famine, refs: ["ETCSL 2.6.9.7 8-10", "ETCSL 2.6.9.7 24-26"], note: "lugal šag4-ĝar du8-du8 {d}nanna {d}nin-gal-bi: who loosen (suppress) famine; {d}nin-gal ... šag4-ĝar du8-du8-zu"}
+      - {motif: hero-restores-forgotten-rites, refs: ["ETCSL 2.6.9.7 16-21"], note: "nidba-zu saĝ-bi šag4 abzu-a ... eĝer-bi kisal maḫ-a; me maḫ ki-ur3-ra ki-bi šu bi2-in-gi: restored the august powers of the Ki-ur"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.6.9.7 22-28"], note: "aga zid maḫ nam-lugal-la ... [{ĝiš}]ĝidru maḫ an ki-a šu-zu-še3 tug2-ba13-gin7 ḫe2-dib: may she place the sceptre in your hand like a ceremonial robe"}
+      - {motif: land-fertile-under-blessed-king, refs: ["ETCSL 2.6.9.7 31-38"], note: "{id2}idigna ... {id2}nun ... id2 zi-ĝal2 kalam-ma / ku6 mušen ... a-ab-ba ab su-su-da ... edin daĝal ... niĝ2-ur2-4 ... eg2 pa5 pa4-ugur2"}
+      - {motif: favourable-signs-set-before-king, refs: ["ETCSL 2.6.9.7 39-47"], note: "šudu3 inim-ĝar niĝ2 sag9-ga ... ĝiškim sag9-sag9-ga ḫa-ra-ĝa2-ĝa2 / šag4-zu ḫa-ra-dug3 su-zu ḫa-ra-dug3"}
+      - {motif: roads-made-safe-under-king, refs: ["ETCSL 2.6.9.7 49-50"], note: "only the stable land and single voice: ma-da ḫe2-en-na-gen6 ... gu3 kalam-ma teš2 ḫu-mu-ra-ab-sig10-ge"}
+    hints:
+      - "Compare Ps 19:15 ('may the words of my mouth and the meditation of my heart be acceptable') with lines 3-6; Ps 141:2."
+      - "Compare Ps 33:19 (to keep them alive in famine) and Ps 37:19 with line 8; Gen 41."
+      - "Compare Ps 20:4-6 (may he remember all your offerings ... grant you your heart's desire) with lines 1-7, 39-47."
+  - id: ane-etcsl-2-6-9-8-inana-adab
+    tradition: ane-sumerian
+    title: "Rim-Sîn H: fragmentary adab of Inana: Nintur's creation of the king, and Inana asked to give him lasting renown and life"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.6.9.8 A.A:1-B.D:14"]
+    tags:
+      - {motif: king-formed-by-mother-goddess, refs: ["ETCSL 2.6.9.8 A.A:3-5"], note: "{d}nin-tur5-re u3-tud-za šag4 mi-ni-ib-ḫul2 nam gal ša-mu-ri-in-tar / saĝ-ki ḫi-li bi2-in-ak"}
+      - {motif: goddess-bright-as-stars, refs: ["ETCSL 2.6.9.8 A.B:7-8", "ETCSL 2.6.9.8 B.D:9-10"], note: "nam-munus ba-e-dug4 nam-ḫi-li ba-e-si / {d}inana ḫe2-du7 an sikil-la nam-nin-a tum2-ma; A.B:9-12 fragmentary, unknown lines missing"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.6.9.8 B.C:3-6"], note: "lu2 niĝ2-si-sa2-ka mu-e-du7 gu3 teš2 ḫe2-en-sig10-sig10 (doubled)"}
+      - {motif: hymns-to-be-sung-of-king, refs: ["ETCSL 2.6.9.8 B.D:8"], note: "mu niĝ2-zid ... mu-a-ni sud šum2-ma-ni-ib: make his good name long-lasting"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.6.9.8 B.D:12"], note: "diĝir ama gal-gal ri-im-{d}suen til3-mu-ni-ib"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.6.9.8 A.A:6", "ETCSL 2.6.9.8 B.C:7", "ETCSL 2.6.9.8 B.D:13-14"]}
+    hints:
+      - "Compare Ps 72:17 (may his name endure forever) with B.D:8."
+  - id: ane-etcsl-2-7-1-1-anam-praise
+    tradition: ane-sumerian
+    title: "Praise poem of Anam of Unug: god-fearing en of Inana, rebuilder of E-me-urur, who released the people of Nibru"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.7.1.1 1-41"]
+    tags:
+      - {motif: king-like-father-and-mother, refs: ["ETCSL 2.7.1.1 4"], note: "tum9 dug3-ga iri{ki}-na ad-da ma-da unug{ki}-ga: sweet breeze of his city, father of the region of Unug"}
+      - {motif: dead-man-was-god-fearing, refs: ["ETCSL 2.7.1.1 6"], note: "of a living ruler: [X] ni2-tuku ni2 te an {d}inana-ke4: reverent one who fears An and Inana"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["ETCSL 2.7.1.1 10"], note: "[...] saĝ zig3 en {d}inana-ke4: en priest of Inana"}
+      - {motif: ruler-rebuilds-destroyed-temple-of-goddess, refs: ["ETCSL 2.7.1.1 22-24"], note: "[e2-me]-ur4-ur4 ḫa-lam-ma ki-be2-eš gi4-a / [...]-an-šub-ba du3-du3 / [X X ud] ul-ta nu-du3-a mu-un-dim2-ma; partly restored"}
+      - {motif: king-statue-set-before-god, refs: ["ETCSL 2.7.1.1 29"], note: "e2-an-na e2-me-ur4-ur4 alan gi16 sug2-ga: who set up permanent statues in E-ana and E-me-urur"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.7.1.1 31-37"], note: "nin emeda-a {d}na-na-a bad3 gal ba-gub-bu / zi numun ḫi-li ĝiš-šub-zu-še3 mu-e-ĝar: Nanaya, the nurse, standing like a great wall at E-ana's door, fixed life, progeny and luxury as his lot"}
+      - {motif: ruler-releases-citizens-and-slaves-to-holy-city, refs: ["ETCSL 2.7.1.1 38-41"], note: "dumu nibru{ki} saĝ geme2 arad ... šag4 unug{ki}-ga a2-dam-bi ... mu-e-du8-du8 nibru{ki}-še3 šu bar: freed the citizens of Nibru, slave-girls and slaves, from Unug and released them to Nibru"}
+      - {motif: holy-city-exempted-from-labour-and-war, refs: ["ETCSL 2.7.1.1 38-41"]}
+    hints:
+      - "Compare Ezra 1:1-4 and Isa 45:13 (the ruler who lets the exiles go to the holy city and rebuilds the temple) and Jer 34:8-10 (release of slaves) with lines 22-24, 38-41."
+      - "Compare Gen 22:12 and Job 1:1 (one who fears God) with line 6; Prov 3:9-10."
+      - "Lines 12-21 largely broken (Nanaya named at line 17)."

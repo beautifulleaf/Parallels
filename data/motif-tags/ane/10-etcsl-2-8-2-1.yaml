@@ -992,3 +992,97 @@ units:
       - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.07.3 274"], note: "ki-sikil {d}inana za3-mi2-zu dug3-ga-am3"}
     hints:
       - "'Enough! Stay your hand' said to the destroying angel: 2Sam 24:16; God relenting: Joel 2:13, Jon 4:2. 'Your hand was heavy on me ... my body wasted': Ps 32:3-4, 38:2-4. 'Arise, YHWH, to your resting place': Ps 132:8, Num 10:36."
+  - id: ane-etcsl-4-07-4-inana-d-ninegala-1
+    tradition: ane-sumerian
+    title: A hymn to Inana as Ninegala (Inana D), part 1, the astral goddess, her seats and her ways
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.4 1-117"]
+    tags:
+      - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 4.07.4 1-2", "ETCSL 4.07.4 6"], note: "ud gal piriĝ an-na 'great light, lioness of heaven'; an-zib2-ba zag ḫi-li an-na"}
+      - {motif: goddess-appears-as-moon-by-night-sun-by-day, refs: ["ETCSL 4.07.4 3-4", "ETCSL 4.07.4 52-53"], note: "an ud zal-le-da-ke4 izi su3-ud-bi il2-la / an-u2-sa11-an-na dalla e3-a-na: morning and evening star; iti6-gin7 ša-mu-e3 'you appear like moonlight'"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.4 9-10", "ETCSL 4.07.4 20-21", "ETCSL 4.07.4 37-38", "ETCSL 4.07.4 56-57", "ETCSL 4.07.4 77-78", "ETCSL 4.07.4 93-94", "ETCSL 4.07.4 107-108", "ETCSL 4.07.4 116-117"], note: "refrain {d}inana nin me šar2-ra-me-en diĝir nu-mu-e-da-sa2 / {d}nin-e2-gal-la ki-ur3-zu mu-ĝal2 nam-maḫ-za ga-am3-dug4; lines 11-17 broken"}
+      - {motif: goddess-rides-lion, refs: ["ETCSL 4.07.4 29-30"], note: "ur 7-na ĝiri3-zu bi2-in-gub / piriĝ nemur-ra dur2-zu bi2-ĝar 'feet on seven dogs, seat on lion and leopard'"}
+      - {motif: deity-inspects-land-to-tell-just-from-wicked, refs: ["ETCSL 4.07.4 31"], note: "gud udu kurum7-ma mu-ra-an-DU 'cattle and sheep brought for inspection'; tag tentative"}
+      - {motif: goddess-wanders-wilderness-with-beasts, refs: ["ETCSL 4.07.4 58-63"], note: "ĝiš-ab-ba {ĝiš}kiši17 ... gir5-gir5-e-da-zu-ne / ur-da a šub6 naĝ-ĝa2-zu-ne / anše-kur-da ki-nu2 ak-a-zu-ne 'drinking from puddles with dogs, sharing the stall with horses'"}
+      - {motif: goddess-decides-destinies-with-husband, refs: ["ETCSL 4.07.4 64-65", "ETCSL 4.07.4 79-80"], note: "barag nam tar-re-da at Eridug; with An, Enlil and Enki she judges and decides fate"}
+      - {motif: new-year-festival-of-dumuzid-with-offerings-for-dead, refs: ["ETCSL 4.07.4 66-76"], note: "zag-mu ezen {d}dumu-zid-da-ke4; a-pap kur-ra-ke4 ĝal2 ... taka4 'the tubes of the underworld are opened'; a mu pad3-da 'water of name-invoking (memorial libation)'; en, lumaḫ, nindiĝir and the dead eat and drink to keep away ghosts"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 4.07.4 71", "ETCSL 4.07.4 75"]}
+      - {motif: mother-brings-sick-child-to-goddess, refs: ["ETCSL 4.07.4 88-90"], note: "ama lu2 tur5-ra-ke4 dumu ur2-ra mu-ra-ni-in-tum2-mu; young men in neck-stocks ({ĝiš}rab3)"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.07.4 95-99", "ETCSL 4.07.4 114-115"], note: "ur2 nitalam-za {d}dumu-zid-da-ke4 ḫi-li-ḫi-li-a-zu-ne; niĝir-si 7-e ki-nu2 mu-e-da-ak-e 'seven paranymphs share the bedchamber'"}
+      - {motif: inana-as-prostitute-at-tavern, refs: ["ETCSL 4.07.4 105-106", "ETCSL 4.07.4 111-113"], note: "kar-ke4 eš2-dam-ma mu-un-ed3-de3-en / {d}gidim ab-ba šu2-šu2-ka ma-ra-ni-in-ku4-ku4-de3-en 'like a ghost slipping in at the window'; mu nu-tuku-gin7 tug2 dili 'like the nameless poor, a single garment'; NUNUZ kar-ke4 gu2-za"}
+    hints:
+      - "The Queen of Heaven: Jer 7:18, 44:17-19. The morning star: Isa 14:12 (helel ben-shaḥar). The harlot at the window and in the streets: Prov 7:6-12; Ezek 16:24-25. Feeding the dead and memorial water: Deut 26:14 (no tithe given to the dead), Ps 106:28. A mother bringing her sick child: 2Kgs 4:18-37, Mark 7:25-30."
+  - id: ane-etcsl-4-07-4-inana-d-ninegala-2
+    tradition: ane-sumerian
+    title: A hymn to Inana as Ninegala (Inana D), part 2, evening star, the broken middle and the divine family
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.4 118-216"]
+    tags:
+      - {motif: venus-star-rising-at-evening, refs: ["ETCSL 4.07.4 118-121"], note: "u2-si-an mul-mu teš2-bi-še3 gur-ru-a-ba / {d}utu agrun-na-še3 kur9-ra-a-ba; izi-gin7 an-ta ni2 gur3-ru; ki-a sur2-du3{mušen}-gin7 šeg11 gi4"}
+      - {motif: goddess-moves-between-moon-and-stars, refs: ["ETCSL 4.07.4 124-125"], note: "iti6-ta mul-še3 im-DU / mul-ta iti6-še3 im-DU"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.4 126-127", "ETCSL 4.07.4 144-145", "ETCSL 4.07.4 159-160", "ETCSL 4.07.4 191-192", "ETCSL 4.07.4 205-206"], note: "lines 128-143, 146-155, 161-189 largely missing or unclear; a slave-girl and her mistress (141) survive"}
+      - {motif: goddess-roams-houses-and-lanes, refs: ["ETCSL 4.07.4 199-200"], note: "[e2]-e2-a in-ku4-ku4-de3-en / [e-sir2]-e-sir2-ra gu2 mu-un-gid2-gid2-de3-en 'you enter house after house, crane your neck in lane after lane'"}
+      - {motif: evil-demons-oppose-goddess-dwelling, refs: ["ETCSL 4.07.4 190"], note: "{d}udug ḫul {d}lamma ḫul gaba-bi im-ta-an-ri; broken context"}
+      - {motif: gods-family-listed, refs: ["ETCSL 4.07.4 207-214"], note: "ama-zu {d}nin-gal; a-a-zu {d}suen; šeš-zu šul {d}utu; nitalam {d}ama-ušumgal-an-na ... en {d}dumu-zid; lagar3 {d}nin-šubur; e-ri-ib (sister-in-law) {d}ĝeštin-an-na"}
+    hints:
+      - "The woman who goes from house to house and lane to lane: Prov 7:8-12, Song 3:2. 'How you are fallen from heaven, morning star': Isa 14:12."
+  - id: ane-etcsl-4-07-5-inana-e-tigi
+    tradition: ane-sumerian
+    title: A tigi to Inana (Inana E), Inana and King Ama-ušumgal-ana
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.5"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.07.5 A:1-4", "ETCSL 4.07.5 B:30-37"], note: "every couplet sung twice, the second time with {d}inana or {d}ama-ušumgal-an-na"}
+      - {motif: deity-brings-divine-powers-from-heaven, refs: ["ETCSL 4.07.5 A:5", "ETCSL 4.07.5 A:7"], note: "ulu3-a u5-a abzu-ta me šu ti-a-me-en 'riding the south wind, you received the me from the abzu'"}
+      - {motif: goddess-takes-king-by-hand-to-throne, refs: ["ETCSL 4.07.5 A:6"], note: "lugal {d}ama-ušumgal-an-na barag kug-za ši-im-mi-tuš"}
+      - {motif: king-hero-from-the-womb, refs: ["ETCSL 4.07.5 A:10", "ETCSL 4.07.5 A:12"], note: "of the goddess: šag4 ama-za-ta šita2 mi-tum-ma zag ša-mu-ni-in-keše2 'from your mother's womb you held the šita and mitum maces'"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.07.5 A:17-24"], note: "nin-ĝu10 dam ni2-za im-mi-šum2 ḫul2-ḫul2-la-mu-un-da; er9-a-zu mu-un-na-šum2 lugal-am3 'you gave your strength to him who is king'"}
+      - {motif: battle-as-inanas-game, refs: ["ETCSL 4.07.5 B:30-33"], note: "me3 ezen-gin7 ša-mu-ra-de3-ul 'he rejoices in battle as at a festival'; the king kills everyone with the šita mace"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["ETCSL 4.07.5 B:38-39"], note: "niĝ2 šag4-zu niĝ2 gal a-ba-a mu-e-da-an-zu; inim-zu gu tab-ba nu-kur2-ru-da 'your word, a twisted double thread that cannot be undone'"}
+      - {motif: king-renewed-monthly-like-moon, refs: ["ETCSL 4.07.5 B:48", "ETCSL 4.07.5 B:52"], note: "itid-da ud-sakar-ra {d}suen-gin7 an-ne2 za-ra ša-mu-ra-an-u3-tud 'monthly at the crescent An gives birth to him for you like Suen'"}
+      - {motif: royal-awe-worn-as-garment, refs: ["ETCSL 4.07.5 B:47"], note: "tug2-ba13-zu-gin7 bar-ra ši-bi2-dul 'he cloaks his body as in your robe'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.07.5 A:29", "ETCSL 4.07.5 B:54-55"], note: "rubrics sa-gid2-da, sa-ĝar-ra; tigi2 {d}inana-kam"}
+    hints:
+      - "Renewal like the moon: Ps 72:5-7, Ps 89:38 (established for ever like the moon); 'your youth renewed like the eagle's': Ps 103:5. 'You are my son, today I have begotten you': Ps 2:7, Ps 110:3 (from the womb of dawn)."
+  - id: ane-etcsl-4-07-6-inana-f
+    tradition: ane-sumerian
+    title: A hymn to Inana (Inana F), Inana's self-praise (Emesal)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.6 1-34"]
+    tags:
+      - {motif: goddess-speaks-in-emesal, refs: ["ETCSL 4.07.6 1-7"], note: "a-ĝu10 an ma-an-ze2-eĝ3 (Emesal ze2-eĝ3 = šum2); me-e {d}ga-ša-an-an-na-ĝen; {d}mu-ul-lil2"}
+      - {motif: high-god-yields-powers-to-goddess, refs: ["ETCSL 4.07.6 1", "ETCSL 4.07.6 4-9"], note: "{d}mu-ul-lil2-le an ma-an-ze2-eĝ3 ki ma-an-ze2-eĝ3: lordship, queenship, battle, fighting, storm and dust-cloud"}
+      - {motif: heaven-crown-earth-sandals, refs: ["ETCSL 4.07.6 10-13"], note: "an men saĝ-ĝa2 mu-ni-in-ma-al / ki {kuš}e-sir2 me-ri-ĝa2 mu-ni-in-sig9; ba garment and holy sceptre"}
+      - {motif: gods-are-small-birds-goddess-is-falcon, refs: ["ETCSL 4.07.6 14-17"], note: "diĝir buru5-me-eš me-e mu-tin-ĝen (sur2-du3); {d}a-nun-na di-da-me-eš me-e sumun2 zid-ĝen"}
+      - {motif: goddess-enters-high-gods-temple-unhindered, refs: ["ETCSL 4.07.6 18-20"], note: "i3-du8-e gaba-ĝu10 šu li-bi2-ma-ma / sukkal-e il2-la2 na-ma-ab-be2"}
+      - {motif: temple-list-each-claimed-as-mine, refs: ["ETCSL 4.07.6 21-32"], note: "unug e2-an-na ĝa2-a-kam; zabalam, nibru, urim, ĝirsu, adab, kiš, kisiga, akšak, umma, a-ga-de3 ul-maš ma-a-kam"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 4.07.6 3", "ETCSL 4.07.6 33"], note: "first-person: ma-ra dim3-me-er teš2 mu-da-sa2-a 'which god compares with me?'"}
+    hints:
+      - "'Heaven is my throne and the earth my footstool': Isa 66:1; 'I am, and there is none besides me': Isa 45:5-6, 47:8 (said by Babylon). 'Who is like me?': Isa 44:7, 46:9. Q 2:255 (His kursī extends over heavens and earth)."
+  - id: ane-etcsl-4-07-7-inana-g
+    tradition: ane-sumerian
+    title: A šir-namšub to Inana (Inana G), Inana's journey, Dumuzid in E-ana, and the breasts that are fields
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 4.07.7 1-78"]
+    tags:
+      - {motif: goddess-speaks-in-emesal, refs: ["ETCSL 4.07.7 2-4", "ETCSL 4.07.7 13"], note: "ga-ša-an, mu-lu, u3-mu-un {d}am-an-ki, {d}mu-ul-lil2"}
+      - {motif: deity-journeys-to-visit-high-god, refs: ["ETCSL 4.07.7 1-19"], note: "di-da-ĝu10-ne refrain: to the abzu, the E-nun, Eridug, E-engura, E-ana; ur mu-da-ri piriĝ mu-da-ri 'I bring a dog, I bring a lion'"}
+      - {motif: battle-as-inanas-game, refs: ["ETCSL 4.07.7 23-30"], note: "ka me3-ka ... igi me3-ka ... eĝer me3-ka; munus kur-ra dirig-ga 'woman who triumphed over the mountains'"}
+      - {motif: goddess-challenges-the-gods, refs: ["ETCSL 4.07.7 31-35"], note: "e2 diĝir-diĝir-re-ne a-da-min3 mu-un-de3-ne ... {d}utu {d}nanna {d}sud3 a-da-min3 mu-de3-ne"}
+      - {motif: river-and-city-incomparably-good-refrain, refs: ["ETCSL 4.07.7 36-47"], note: "id2-de3 ... {id2}buranun-na id2 dirig-gin7 ... ze2-eb uru2-gin7 ze2-eb ur5-gin7 ze2-eb nu-ĝal2; lines 40-41 broken"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.07.7 48-60"], note: "mu-lu-bi e2 šag4-ga mu-nu2 gi-rin-NE bi2-in-ak 'prepares a flowered bed'; gada la2-e 'linen-clad priests' prepare an altar; water and bread set; tug2 gig2-zu tug2 babbar-zu 'your black garment, your white garment'"}
+      - {motif: goddess-gives-life-and-right-speech-to-king, refs: ["ETCSL 4.07.7 66-69"], note: "am igi ka-na-aĝ2-ĝa2 mu-lu2-bi de3-en-til3 ... agrun-na inim si sa2 de3-bi2-in-ak"}
+      - {motif: goddess-breasts-are-fields, refs: ["ETCSL 4.07.7 70-77"], note: "in-nin9 ubur-zu gan2-ne2-zu ḫe2-a / gan2-ne2 daĝal-e gu de2-a-zu / še de2-a-zu / a bal-am3-ta mu-lu2 ĝar-am3-ta"}
+      - {motif: royal-hymn-genres-catalogue, refs: ["ETCSL 4.07.7 78"], note: "rubric šir3-nam-šub {d}inana-kam"}
+    hints:
+      - "Breasts and womb as blessings of fertility: Gen 49:25; the beloved's breasts: Song 4:5, 7:8-9, Prov 5:19. Linen-clad priests: Exod 28:42, 1Sam 2:18, Ezek 44:17. River whose streams gladden the city of God: Ps 46:5."

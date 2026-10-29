@@ -783,3 +783,134 @@ units:
     hints:
       - "Compare Prov 17:3 and 27:21 (the crucible for silver, the furnace for gold, and the LORD tests hearts) and Gen 3:16 (pain in childbearing)."
       - "Compare Ps 121:4 (he who keeps Israel neither slumbers nor sleeps)."
+  - id: ane-etcsl-6-1-02-a-curse-and-fate
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, curse on a place and sayings on fate (A.2.1-14)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 A.2.1:1-A.2.14:29"]
+    tags:
+      - {motif: curse-then-prohibition-do-not-destroy-rituals, refs: ["ETCSL 6.1.02 A.2.1:1-10"], note: "ki gul-la-ba ki ḫe2-en-gul ... ĝarza-bi ĝiri3 ba-da-kur2 ... me-bi ba-da-ḫa-lam; then ĝarza-bi ... na-ab-ta-ab-kur2-ru-de3-en-ze2-en 'you shall not alienate their rites'"}
+      - {motif: born-on-ill-fated-day, refs: ["ETCSL 6.1.02 A.2.5:16"], note: "ud nam-tar gig-ga-ka ba-tu-ud-de3-en"}
+      - {motif: fate-is-a-dog-that-bites-and-follows, refs: ["ETCSL 6.1.02 A.2.11:24-26", "ETCSL 6.1.02 A.2.14:29"], note: "nam-tar ur-ra-am3 zu2 mu-un-da-an-kud; nam-tar ur-gir15-ra-am3 eĝer-ra-na mu-un-DU (var. du-lum 'toil')"}
+      - {motif: fate-is-a-storm-over-the-land, refs: ["ETCSL 6.1.02 A.2.13:28"], note: "nam-tar ud ḫuš kalam-ma ri-a"}
+    hints:
+      - "Compare Job 3:1-10 and Jer 20:14-18 (cursed be the day I was born) and Eccl 9:11-12 (time and chance happen to all; men snared in an evil time)."
+      - "Compare Deut 12:2-4 (destroy their places ... you shall not do so to the LORD your God) for curse and prohibition about places and rites."
+  - id: ane-etcsl-6-1-02-a-the-poor-man
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, on the poor man (A.2.15-35)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 A.2.15:30-A.2.35:64"]
+    tags:
+      - {motif: poor-man-always-lacks-something, refs: ["ETCSL 6.1.02 A.2.15:30", "ETCSL 6.1.02 A.2.29:48-51"], note: "ukur3-re niĝ2 gu7-u3-da-ni-še3 igi an-ši-du3-du3; torn clothes not repaired, lost things not sought"}
+      - {motif: poor-man-should-not-despise-rich, refs: ["ETCSL 6.1.02 A.2.16:31"], note: "ukur3 bu-lu-uḫ2 si-il-le lu2 niĝ2-tuku-e igi tur nam-ba-e-gid2-i"}
+      - {motif: sluggard-does-not-plow-in-winter, refs: ["ETCSL 6.1.02 A.2.20:35-36"], note: "en-te-na-ka a-šag4 nu-ur11-ru ud buru14-ka šu ga-rig2 am3-du3-du3-e 'he did not plough in winter, at harvest he took to carding'"}
+      - {motif: poor-mans-word-not-accepted, refs: ["ETCSL 6.1.02 A.2.27:45", "ETCSL 6.1.02 A.2.18:33"], note: "inim ukur3-ra-še3 šu la-ba-ši-in-ti; ukur3 nu-kal"}
+      - {motif: spare-the-rod, refs: ["ETCSL 6.1.02 A.2.23:40-41"], note: "the poor man does strike: inverted image; ukur3-re dumu-ni tibir 1-am3 šu nu-um-ma-ni-dug4-ge 'the poor man does not strike his son a single blow'"}
+      - {motif: poor-pay-debts-from-their-mouths, refs: ["ETCSL 6.1.02 A.2.30:52-53"], note: "ka-ta kar-ra ur5-ra ab-su-su"}
+      - {motif: poor-are-weak-of-land-companion-of-widows, refs: ["ETCSL 6.1.02 A.2.32:55-A.2.33:57"], note: "ukur3 si-ig kalam-ma-ka; niĝ2 ḫu-ḫu-nu nu-mu-un-su-a-ka 'weakness of the widow'"}
+      - {motif: moving-about-defeats-poverty, refs: ["ETCSL 6.1.02 A.2.28:46-47", "ETCSL 6.1.02 A.2.34A:60"], note: "du-du nam-ukur3-ra a2 bi2-ib-ĝar ... ugu lu2 tuš-a nam-til3 bi2-ib-taḫ-e 'he will live longer than the sedentary man'"}
+    hints:
+      - "Compare Prov 20:4 (the sluggard does not plough in autumn; he begs at harvest and has nothing) and Prov 6:6-11."
+      - "Compare Eccl 9:16 (the poor man's wisdom is despised, his words not heard) and Prov 14:20, 18:23 (the poor uses entreaties, the rich answers roughly)."
+      - "Compare Prov 13:24 and 23:13-14 (he who spares the rod hates his son)."
+  - id: ane-etcsl-6-1-02-a-scribes-and-singers
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, on scribes, singers and disgraced craftsmen (A.2.36-57)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 A.2.36:65-A.2.57:99"]
+    tags:
+      - {motif: true-scribe-defined-by-skill, refs: ["ETCSL 6.1.02 A.2.38:68-69", "ETCSL 6.1.02 A.2.40:72", "ETCSL 6.1.02 A.2.45:77-78"], note: "dub-sar-re mu 1-am3 ḫe2-en-zu šu-ni ḫe2-sag9-sag9 e-ne-am3 dub-sar-re; dumu um-mi-a {na4}gug-gin7 ti-ba un-buru3 'the master's pupil, like cornelian pierced through its side'"}
+      - {motif: true-singer-has-sweet-voice, refs: ["ETCSL 6.1.02 A.2.39:70-71", "ETCSL 6.1.02 A.2.41:73", "ETCSL 6.1.02 A.2.57:99"]}
+      - {motif: scribe-who-does-not-know-sumerian, refs: ["ETCSL 6.1.02 A.2.47:80", "ETCSL 6.1.02 A.2.49:82", "ETCSL 6.1.02 A.2.56:98"], note: "dub-sar eme-gir15 nu-mu-un-zu-a ... inim bal-e me-da ḫe2-en-tum3 'from where will he produce a translation?'"}
+      - {motif: disgraced-professional-sinks-to-lower-trade, refs: ["ETCSL 6.1.02 A.2.54:89-95"], note: "dub-sar pe-el-la2 lu2-mu7-mu7-ma-kam 'a disgraced scribe becomes an incantation priest'; singer -> flute-player, gala -> piper, merchant -> con-man, carpenter, smith, mason"}
+    hints:
+      - "Compare Ps 45:2 (my tongue is the pen of a ready scribe), Ezra 7:6 (a scribe skilled in the law of Moses) and Ecclus 38:24-39:11 (the scribe's wisdom versus the trades)."
+      - "Compare Prov 10:19 (in many words transgression is not lacking) for the chattering scribe."
+  - id: ane-etcsl-6-1-02-a-fox-lies-donkey
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, the fox, lying and the donkey (A.2.58-82)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 A.2.58:100-A.2.82:143"]
+    tags:
+      - {motif: each-generation-worse-than-mother, refs: ["ETCSL 6.1.02 A.2.60:103"], note: "ka5-a-a ama-a-bi ka5-a ab-dirig 'each fox is more of a fox than its mother'"}
+      - {motif: fox-boasts-to-make-flood, refs: ["ETCSL 6.1.02 A.2.67:116-117"], note: "here the sea: ka5-a-a a-ab-ba-še3 ĝiš3-a-ni u3-bi2-in-sur a-ab-ba du5-bi kaš3-ĝu10-um"}
+      - {motif: neck-stock-before-catching-fox, refs: ["ETCSL 6.1.02 A.2.68:118"]}
+      - {motif: boaster-flees-at-dogs-barking, refs: ["ETCSL 6.1.02 A.2.69:119-126"], note: "the fox boasts to his wife: let us crush Unug like a leek, strap Kulaba on like sandals; 600 uš from the city the dogs howl and he runs home"}
+      - {motif: tell-lie-tell-truth, refs: ["ETCSL 6.1.02 A.2.71:128"], note: "lul dug4-ga-ab zid dug4-ga-ab lul ba-e-sig10-ge5 'tell a lie, then tell the truth: it will be counted a lie'"}
+      - {motif: liar-is-messenger-from-far-away, refs: ["ETCSL 6.1.02 A.2.72:129"], note: "lul dug4-dug4 ra-gaba ki ba9-ra2"}
+      - {motif: donkey-born-to-bray-not-run, refs: ["ETCSL 6.1.02 A.2.75:133-134"], note: "anše-ĝu10 kaš4 kar-re-de3 nu-mu-un-tum2 eme ak-da mu-un-tum2"}
+    hints:
+      - "Compare 1 Kgs 20:11 ('let not him who girds on his armour boast like him who takes it off') and Isa 37:24-29 (the boaster turned back) for the fox's boast."
+      - "Compare Ezek 16:44 ('like mother, like daughter') and Prov 12:19 (the lying tongue lasts but a moment)."
+      - "Compare Num 22:28-30 (the ass) and Isa 1:3 (the ox knows its owner, the ass its master's crib)."
+  - id: ane-etcsl-6-1-02-a-ox-gala-dog
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, the ox, the lamentation priest, the dog, finding and losing (A.2.83-126)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 A.2.83:144-A.2.126:207"]
+    tags:
+      - {motif: threshing-ox-not-sowing, refs: ["ETCSL 6.1.02 A.2.86:147-A.2.88:150"], note: "gud sur12 us2-sa numun nu-ĝa2-ĝa2; buru14-da gu7-e lag nu-bur12-re"}
+      - {motif: do-not-muzzle-ox, refs: ["ETCSL 6.1.02 A.2.86:147"], note: "analogue only: gud sur12-ra ab-sin2-bi al-sag9-sag9 'furrows are pleasant to the threshing ox'"}
+      - {motif: ox-kicks-dust-into-own-eyes, refs: ["ETCSL 6.1.02 A.2.90:152"], note: "gud-de3 saḫar ub-ak igi ni2-ba zid2-am3"}
+      - {motif: strangers-ox-eats-mine-hungry, refs: ["ETCSL 6.1.02 A.2.93:155-156"], note: "gud kur2-ra u2 gu7-gu7 gud ni2-ĝa2 u2-šim-e ba-nu2"}
+      - {motif: flee-lion-meet-bear-bitten-by-snake, refs: ["ETCSL 6.1.02 A.2.94:157"], note: "escaping one danger into another; am-da kar-ra-ĝu10-ne immal2-e gaba ba-an-ri-en"}
+      - {motif: lamentation-priest-drowns-son-mock-blessing, refs: ["ETCSL 6.1.02 A.2.99:163-164"], note: "gala-e dumu-ni a ḫa-ba-an-da-ra-ra iri{ki} ĝe26-gin7 ḫe2-du3 kalam ĝe26-gin7 ḫe2-en-til3"}
+      - {motif: lament-priest-safe-while-boat-sinks, refs: ["ETCSL 6.1.02 A.2.103:174-175"]}
+      - {motif: dog-returns-to-vomit, refs: ["ETCSL 6.1.02 A.2.110:187-188"], note: "loose analogue: ur niĝ2-u2-zug4 gu7-a ... niĝ2 ud zal-le nu-taka4-a 'a dog eating unclean food leaves nothing for the next day'"}
+      - {motif: city-without-dogs-fox-is-boss, refs: ["ETCSL 6.1.02 A.2.118:196-A.2.119:197"]}
+      - {motif: married-for-pleasure-divorced-on-reflection, refs: ["ETCSL 6.1.02 A.2.124:203"], note: "sag9-ga-ni-še3 tuku-am3 ĝalga-ni-še3 taka4-am3"}
+      - {motif: man-on-roof-to-man-in-house, refs: ["ETCSL 6.1.02 A.2.126:206-207"]}
+    hints:
+      - "Compare Amos 5:19 (fled from a lion and a bear met him) for the wild bull and wild cow."
+      - "Compare Prov 26:11 (as a dog returns to its vomit) and Deut 25:4 (do not muzzle the threshing ox), 1 Cor 9:9."
+      - "Compare Deut 24:1 (divorce when he finds something unseemly) and Mal 2:16."
+  - id: ane-etcsl-6-1-02-b-house-and-palace
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, on work, the house and the palace (B.2.131-165)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 B.2.131:1-B.2.165:57"]
+    tags:
+      - {motif: collecting-firewood-for-the-strong, refs: ["ETCSL 6.1.02 B.2.133:4-B.2.134:7"], note: "u2 de5-de5-ga kalag-ga-še3 sig9-ga bar-rim4-ma mu-na-an-tuš"}
+      - {motif: hand-added-to-hand-builds-house, refs: ["ETCSL 6.1.02 B.2.138:14-15"], note: "šu šu-a ba-ab-taḫ e2 lu2 al-du3-e šag4-gal šag4-gal-e ba-ab-taḫ e2 lu2 al-gul-e 'stomach added to stomach destroys it'"}
+      - {motif: house-of-upright-destroyed-by-treacherous, refs: ["ETCSL 6.1.02 B.2.142:19"], note: "e2 lu2 zid-de3 du3-a lu2-lul-e gul-la"}
+      - {motif: joyless-house-without-wifes-voice, refs: ["ETCSL 6.1.02 B.2.146:25-27"], note: "e2 dam-e gu3 nu-de2-dam ad-da inim ḫul2 nu-ĝa2-ĝa2-dam"}
+      - {motif: adapa-knows-no-loss, refs: ["ETCSL 6.1.02 B.2.150:33-34"], note: "a-da-be2 niĝ2 im-[ba nu-zu]; restored"}
+      - {motif: palace-sayings, refs: ["ETCSL 6.1.02 B.2.153:38", "ETCSL 6.1.02 B.2.154:39", "ETCSL 6.1.02 B.2.156:43", "ETCSL 6.1.02 B.2.158:48-49"], note: "e2-gal gud-de3 kun-bi ḫe2-dab5; e2-gal id2 maḫ-am3 (cf. Šuruppag 94); ki-ma-an-ze2-er 'slippery place'; ud 1 ama tud-da-am3 ud 1 ama a-nir-ra-am3"}
+      - {motif: palace-is-forest-king-is-lion, refs: ["ETCSL 6.1.02 B.2.155:40-42"], note: "e2-gal tir-ra-am3 lugal ur-maḫ {d}nun-gal {sa}šu2-uš-gal lu2 bi2-dul-dul-e"}
+      - {motif: freeborn-cannot-avoid-corvee, refs: ["ETCSL 6.1.02 B.2.157:44-47"], note: "dumu-gir15-bi du-lum la-ba-an-da13-da13 [dumu]-munus lugal-la eš2-dam [nu-da13-da13] 'a king's daughter cannot avoid the tavern'"}
+      - {motif: house-of-debt-no-light, refs: ["ETCSL 6.1.02 B.2.159:50-51"], note: "building my house brought debt; I could not cultivate my sown field"}
+    hints:
+      - "Compare Prov 14:1 and 24:3-4 (by wisdom a house is built), Prov 15:25 and 12:7 (the house of the righteous stands); Ps 127:1."
+      - "Compare Prov 19:12, 20:2 (the king's wrath like a lion's roar) and Prov 16:14 for 'the palace is a forest, the king a lion'."
+      - "Compare 1 Sam 8:11-17 and 1 Kgs 5:27 (the king's corvee) and Prov 21:9."
+  - id: ane-etcsl-6-1-02-c-d-birds-fish-offerings
+    tradition: ane-sumerian
+    title: Proverbs collection 2+6, birds, fish and Enlil's offering table (C.2.c1-D.2.d18)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 6.1.02 C.2.c1:1-D.2.d18:27"]
+    tags:
+      - {motif: bird-in-sky-as-good-as-bird-in-hand, refs: ["ETCSL 6.1.02 C.2.c2:2-C.2.c4:4"], note: "mušen an-na um{mušen}-e dug3-ga; ku6 engur-ra eštub{ku6} gi dug3-ga"}
+      - {motif: mother-bird-left-alone-when-young-fly, refs: ["ETCSL 6.1.02 C.2.c5:5"], note: "mušen ba-dal-dal ama dili-bi ba-an-tuš"}
+      - {motif: who-lives-by-birds-and-fish-cannot-sleep, refs: ["ETCSL 6.1.02 C.2.c8:8"], note: "mušen ku6 gu7-e u3 nu-um-ši-ku-ku"}
+      - {motif: birdsong-glory-of-garden-and-field, refs: ["ETCSL 6.1.02 C.2.c13:13-C.2.c15:15"], note: "ir7-saĝ{mušen} gu3 de2-de2 {ĝiš}kiri6 me-te-bi; dar{mušen} ... a-šag4-ga me-te-bi"}
+      - {motif: offerings-are-the-glory-of-the-gods, refs: ["ETCSL 6.1.02 D.2.d1:1"], note: "diĝir sizkur-ra me-te-bi-im"}
+      - {motif: sleep-not-in-reedbeds-rats, refs: ["ETCSL 6.1.02 D.2.d7:7", "ETCSL 6.1.02 D.2.d9:9"], note: "id2-da a na-de2-en peš2-bi am3-ed3-de3 'do not pour water into a river: the rats will come up'"}
+      - {motif: fish-and-birds-on-enlils-offering-table, refs: ["ETCSL 6.1.02 D.2.d13:17-D.2.d14:21"], note: "2 e-sig{mušen} 2 gu2-sur-ra 3 suḫur{ku6} ... {ĝiš}banšur {d}en-lil2-la2-ka ba-ĝal2-la"}
+    hints:
+      - "Compare Prov 27:8 (a man wandering from his place is like a bird wandering from its nest) and Song 2:12 (the voice of the turtledove heard in our land)."
+      - "Compare Lev 1:14-17 and Num 28:2 ('my food, my offering ... a pleasing odour') for the gods' offering table."

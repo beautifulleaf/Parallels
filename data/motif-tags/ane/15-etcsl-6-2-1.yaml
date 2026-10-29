@@ -27,7 +27,6 @@ new_motifs:
   justice-creates-life: {label: "Saying: who can compare with justice (niĝ2-gen6-na)? it creates life", cluster: justice}
   sun-god-never-idle-against-wickedness: {label: "Saying: whenever wickedness causes trouble, the sun god (Utu) will not be idle", cluster: justice}
   wealth-brings-sleeplessness: {label: "Saying: he who has silver is happy, he who has grain comfortable, but he who has livestock cannot sleep", cluster: wisdom}
-  leftover-bread-eaten-by-stranger: {label: "Saying: if bread is left over the mongoose eats it; if I have bread left over a stranger consumes it", cluster: wisdom}
   greed-of-the-wealthy-abomination: {label: "Saying: to be wealthy and demand more is an abomination to a god", cluster: wisdom}
   where-no-dogs-fox-is-boss: {label: "Saying: in the city with no dogs the fox is boss (in the city of the lame the halt are couriers)", cluster: wisdom}
   sun-god-seeks-harbour-for-trustworthy-boat: {label: "Saying: when a trustworthy boat is sailing the sun god seeks out a trustworthy harbour for it", cluster: justice}
@@ -95,7 +94,6 @@ new_motifs:
   touching-woman-improperly-abomination: {label: "Saying: touching a woman's genitals over her clothes is an abomination to the moon god", cluster: sexuality}
   just-words-bring-favourable-fate: {label: "Saying: thanks to his personal god's word, the man who speaks just words has a favourable fate and the god is with him all day", cluster: piety}
   leader-burning-none-asks-for-him: {label: "Saying: if the leader is consumed by fire, those behind him do not ask 'where is the leader?'", cluster: wisdom}
-  millstone-floats-for-righteous: {label: "Saying: for a righteous man a millstone will float in the river", cluster: justice}
   king-as-scribe-and-dam: {label: "Saying: the king is a scribe; the king is a mighty bond blocking the river", cluster: kingship}
   literary-catalogue-of-incipits: {label: "A tablet lists literary compositions by their first lines (incipits), sometimes grouped and totalled", cluster: scribal}
   ominous-dream-of-ruined-fold: {label: "A shepherd god dreams of his own death: rushes rising, reeds bowing, his churn and cup lying empty, his fold given to the wind", cluster: dream}
@@ -127,6 +125,9 @@ new_motifs:
   fugitive-curses-any-who-reveal-him: {label: "The fugitive binds his helpers by a curse: if you reveal my hiding place, may your own dog devour you", cluster: oath}
   curse-on-betrayers-children: {label: "The betrayed man blesses the loyal helper's child and curses the betrayer's child: one shall be kissed in the street, the other not", cluster: oath}
   mother-will-not-know-day-of-death: {label: "The doomed man tells his mother she will not know the day he dies and asks her to weep for him", cluster: lament}
+  mother-advises-son-on-marriage: {label: "The mother answers her son's request for a wife: listen to my word, take a wife where your eyes and heart choose", cluster: marriage}
+  dying-god-bears-many-names: {label: "The young dying god is addressed by a litany of his names (Damu, Ninĝišzida, Ištaran, Alla, Lugalšud ...)", cluster: lament}
+  god-likens-self-to-canal-tamarisk-palm: {label: "The doomed god likens himself to a canal his mother dug that now gives no water, a tamarisk without shade, a date palm whose fruit no one enjoys", cluster: lament}
 units:
   - id: ane-etcsl-6-2-1-1a-nibru-proverbs-fragments-1-3
     tradition: ane-sumerian
@@ -679,3 +680,106 @@ units:
       - "A dream fulfilled word for word: compare Gen 41:13 (as he interpreted to us, so it was) and Gen 37:5-11 with Gen 42:6."
       - "The sister's mourning by scratching her face: contrast Lev 19:28 and Deut 14:1 (do not gash yourselves for the dead); compare Jer 16:6 and Jer 48:37."
       - "The dying shepherd god and the mourning for him: compare Ezek 8:14 (women weeping for Tammuz) and Zech 12:11 (mourning for Hadad-rimmon)."
+  - id: ane-etcsl-1-7-1-a-inab-martu-unmarried
+    tradition: ane-sumerian
+    title: "The marriage of Martu: the city of Inab in former days, the food portions, and Martu's request to his mother for a wife"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.1 1-52"]
+    tags:
+      - {motif: there-was-a-city-opening, refs: ["ETCSL 1.7.1 1-16"], note: "i3-na-ab{ki} i3-me-a kiri8-tab nu-me-a ... ud-ba iri-iri-a kur nam-nun-na-kam / i3-na-ab{ki} ... ensi2 i3-na-ab{ki}-a tigi2-šem5-{kuš}a2-la2-a"}
+      - {motif: not-yet-list-describes-primeval-state, refs: ["ETCSL 1.7.1 1-6"], note: "X i3-me-a, Y nu-me-a: 'Inab existed, Kiritab did not; the holy crown existed, the holy tiara did not; holy herbs existed, holy cedar did not; holy salt existed, holy potash did not'"}
+      - {motif: rations-double-for-married-triple-for-fathers, refs: ["ETCSL 1.7.1 19-25", "ETCSL 1.7.1 34-40"], note: "niŋ2-ba lu2 dam tuku 2-am3 i3-ŋa2-ŋa2 / niŋ2-ba lu2 dumu tuku 3-am3 / niŋ2-ba ŋuruš saŋ-dili 1-am3 / {d}mar-tu dili-ni 2-am3 i3-ŋa2-ŋa2"}
+      - {motif: bachelor-asks-mother-for-wife, refs: ["ETCSL 1.7.1 26-33", "ETCSL 1.7.1 41-43"], note: "iri-ŋa2 gu5-li-ŋu10-ne-me-en dam ba-an-tuku-tuku-me-eš ... dam nu-tuku-me-en dumu nu-tuku-me-en ... ama-ŋu10 dam tuku-ba-ab niŋ2-ba-ŋu10 ga-mu-ra-de6"}
+      - {motif: mother-advises-son-on-marriage, refs: ["ETCSL 1.7.1 44-51"], note: "{d}mar-tu ama ugu-ni mu-na-ni-ib-gi4-gi4 / ... inim ga-ra-ab-dug4 inim-ŋu10-še3 ŋeštug2-zu / igi il2-la-zu dam tuku-ba-ni-ib / šag4-ge guru7-zu dam tuku-ba-ni-ib: 'take a wife where you lift your eyes, as your heart chooses'"}
+    hints:
+      - "The young man asks his parents to get him a wife: compare Judg 14:2-3 (Samson: get her for me as a wife) and Gen 24:3-4, Gen 28:1-2."
+      - "Rations doubled for the married and tripled for fathers: compare Deut 24:5 (the newly married man exempt for a year) and Exod 16:16-18 (portions by household)."
+      - "'Inab existed, Kiritab did not': compare Gen 2:4b-6 (no shrub yet, no plant yet)."
+  - id: ane-etcsl-1-7-1-b-festival-wrestling-bride-price
+    tradition: ane-sumerian
+    title: "The marriage of Martu: the festival of Inab, Martu's wrestling victory, his refusal of silver and request for Numušda's daughter, and his marriage gifts"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.1 53-111"]
+    tags:
+      - {motif: wrestling-contest-at-festival, refs: ["ETCSL 1.7.1 53-75"], note: "i3-na-ab{ki} iri-a ezen gu3 bi2-ib-ra ... e2-ŋešba2-še3 mu-na-da-an-ku4-ku4 ... kan4 i3-na-ab{ki}-ka ŋešba2 lirum-e / {d}mar-tu kisal mah-a dub3 i-ni-in-bad / ur-saŋ kalag-ga mu-na-ab-kiŋ2-kiŋ2-e ... kisal i3-na-ab{ki} ad6 im-il2-il2-e"}
+      - {motif: king-wrestler-and-athlete, refs: ["ETCSL 1.7.1 69-75"], note: "a god (not a king) wrestles all comers and fills the courtyard with the fallen (ad6 'corpses'); interpretive"}
+      - {motif: victor-chooses-daughter-over-silver, refs: ["ETCSL 1.7.1 76-83"], note: "{d}nu-muš-da {d}mar-tu hul2-la-e / kug mu-un-na-ba-e šu nu-um-ma-gid2-i-de3 / za mu-un-na-ba-e šu nu-um-ma-gid2-i-de3 ... {d}mar-tu-me-en dumu-zu ga-ba-ab-tuku"}
+      - {motif: hero-refuses-offered-gifts, refs: ["ETCSL 1.7.1 77-80"], note: "silver and stones offered a second and third time, and refused"}
+      - {motif: bridegroom-offers-herds-as-bride-price, refs: ["ETCSL 1.7.1 91-111"], note: "amar niŋ2-mussa dam mu-ni-X / ab2-ga amar he2-em-mi-ib-gu7 ... sila4 niŋ2-mussa ... maš2 niŋ2-mussa ... {d}ad-ŋar-ki-dug3 dumu-ŋu10 ga-mu-ra-ab-šum2 (refrain); 84-90 missing"}
+      - {motif: lavish-marriage-gifts-catalogue, refs: ["ETCSL 1.7.1 91-111"], note: "calves, lambs and kids given as niŋ2-mussa (marriage gifts)"}
+    hints:
+      - "The champion who wins the chief's daughter: compare Josh 15:16-17 (Caleb gives Achsah to the one who takes Kiriath-sepher) and 1 Sam 17:25 and 18:17-27 (the king's daughter for the victor)."
+      - "Bride-price in herds: compare Gen 24:53, Gen 34:12 and Gen 29:18-20 (Jacob's service for Rachel)."
+      - "Wrestling: compare Gen 32:25-29 and 2 Sam 2:14-16."
+  - id: ane-etcsl-1-7-1-c-gifts-warning-nomad
+    tradition: ane-sumerian
+    title: "The marriage of Martu: gifts to the people of Inab, the friend's warning that Martu is an uncivilised nomad, and Adĝarkidug's answer 'I will marry Martu'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.1 112-142"]
+    tags:
+      - {motif: lavish-marriage-gifts-catalogue, refs: ["ETCSL 1.7.1 115-125"], note: "ab-ba-ab-ba-ar i3-na-ab{ki}-a ŋeš-giri19 kug-sig17-ka mi2 im-ma-ni-in-dug4 / um-ma-um-ma-ar ... {tug2}bar-sig9 kug-sig17-ga / ŋuruš munus ... arad2-arad2 ... geme2-geme2 ... kug-babbar: gifts to the elders, old women, young men and women, male and female slaves of Inab"}
+      - {motif: nomad-uncivilized-stereotype, refs: ["ETCSL 1.7.1 126-138"], note: "a2-še šu-bi ha-lam ulutim2 {ugu}ugu4-bi / an-zil gu7 {d}nanna-kam ni2 nu-tuku ... niŋ2-gig e2 diŋir-re-e-ne-kam ... lu2 {kuš}lu-ub2 mur10-a / za-lam-ŋar til3 tum9 šeŋ14 x sizkur nu-mu-un-dug4-ga / hur-saŋ-ŋa2 tuš-e ki diŋir-re-ne nu-zu-a / lu2 uzu-dirig kur-da mu-un-ba-al-la dub3 gam nu-zu-am3 / uzu nu-šeŋ6-ŋa2 al-gu7-e / ud til3-la-na e2 nu-tuku-a / ud ba-ug7-a-na ki nu-tum2-mu-dam"}
+      - {motif: barbarians-subhuman-description, refs: ["ETCSL 1.7.1 127"], note: "ulutim2 {ugu}ugu4-bi: 'his features are those of a monkey'"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["ETCSL 1.7.1 128", "ETCSL 1.7.1 130"], note: "an-zil gu7 {d}nanna-kam (a taboo-eater for Nanna); niŋ2-gig e2 diŋir-re-e-ne-kam (an abomination to the gods' houses)"}
+      - {motif: bride-accepts-uncivilized-groom, refs: ["ETCSL 1.7.1 139-141"], note: "ma-la-ŋu10 {d}mar-tu ta-am3 an-tuku-tuku-un / ma-la-ga-ni {d}ad-ŋar-ki-dug3 mu-na-ni-ib-gi4-gi4 / {d}mar-tu ga-ba-an-tuku-tuku"}
+      - {motif: nomadic-tent-dwelling-ideal, refs: ["ETCSL 1.7.1 133", "ETCSL 1.7.1 137"], note: "here a reproach, not an ideal: za-lam-ŋar til3 'living in a tent', e2 nu-tuku-a 'having no house'"}
+    hints:
+      - "The nomad who has no house in life and no burial at death, eats raw meat and lives in tents: compare Gen 16:12 (Ishmael a wild ass of a man), Gen 25:27 and Jer 35:6-10 (the Rechabites' tents), and contrast 1 Sam 2:15 and Lev 17:10-14 (meat and blood)."
+      - "A friend warns against marrying an uncouth outsider: compare Judg 14:3 (is there no woman among your kin?) and Gen 26:34-35."
+      - "Taboo food of the moon god: compare Deut 14:3 and Lev 11 (abominations in food)."
+  - id: ane-etcsl-1-7-3-a-ninjiszida-embarks
+    tradition: ane-sumerian
+    title: "Ninĝišzida's journey to the nether world: the god boards the barge while his sisters lament at prow and stern"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.3 1-20a"]
+    tags:
+      - {motif: god-boards-barge-to-underworld, refs: ["ETCSL 1.7.3 1-11"], note: "zig3-ga u5-bi2 ... i-lu er2-ra še-er dadag-ga ma2-gur8 ri-de3 / ... ŋuruš {d}da-mu-ŋu10 ma2-gur8 ri-da-ni šu gid2-da en {d}nin-ŋiš-zid-da ... nin9 ban3-da-a-ni ... šir3-re-eš mu-un-na-ab-be2 ma2-saŋ / nin9 gal-a-ni ... ma2-egir-ra-ka"}
+      - {motif: god-journeys-to-underworld, refs: ["ETCSL 1.7.3 1-11"], note: "the journey is by barge; no gate or ferryman named in these lines"}
+      - {motif: dying-god-bears-many-names, refs: ["ETCSL 1.7.3 5-9", "ETCSL 1.7.3 19-24"], note: "Damu, Ninĝišzida, Ištaran igi šuba, Alla lord of the net, Lugal-šud, Umunmuzida, Lugalkibura: the litany of names of the young dying god"}
+      - {motif: sister-offers-to-share-brothers-fate, refs: ["ETCSL 1.7.3 12-12B", "ETCSL 1.7.3 19A-19B"], note: "ga-ba-de3-u5 šeš ga-ba-de3-u5 šeš-ŋu10 / šeš-ŋu10 ma2-gur8-zu ga-ba-de3-u5: 'let me embark with you, my brother, on your barge'"}
+    hints:
+      - "The sister who would go down with her brother: compare Ruth 1:16-17 (where you go I will go) and 2 Sam 15:21."
+      - "Lament for the young god: compare Ezek 8:14 (Tammuz) and Zech 12:10-11."
+  - id: ane-etcsl-1-7-3-b-demon-dialogue-no-food
+    tradition: ane-sumerian
+    title: "Ninĝišzida's journey: the sister asks why the demon takes him; the nether world gives no water, flour or wool; she offers her jewels"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.3 28-38a"]
+    tags:
+      - {motif: underworld-provides-no-water-food-wool, refs: ["ETCSL 1.7.3 36", "ETCSL 1.7.3 37", "ETCSL 1.7.3 38"], note: "id2-kur-ra-ke4 a nu-de2 a-bi nu-mu-un-na-na8-na8 / a-šag4 kur-ra-ke4 še nu-de2 zid2 nu-mu-un-na-ab-gu7 / udu kur-ra-ke4 siki nu-de2 tug2 nu-mu-un-na-ab-TUKU5-TUKU5"}
+      - {motif: captive-bound-like-wild-bull, refs: ["ETCSL 1.7.3 36a", "ETCSL 1.7.3 37a"], note: "ŋiš-šu šu-ŋu10 im-mi-ŋar ... ŋiš-gu2 gu2-ŋu10 im-mi-ŋar: 'he put the manacles on my hands, the neck-stock on my neck'"}
+      - {motif: god-likens-self-to-canal-tamarisk-palm, refs: ["ETCSL 1.7.3 32a", "ETCSL 1.7.3 33a", "ETCSL 1.7.3 34"], note: "ŋe26-e ama-ŋu10 id2-gin7 mu-un-ba-al-la2-aš a-ŋu10 ba-ra-mu-un-naŋ / {ŋiš}šinig-gin7 a šu-nim ... ŋissu-ŋu10 / {ŋiš}ŋišnimbar-gin7 zu2-lum il2-la-ŋu10: the god's self-images as a canal his mother dug, a tamarisk, a date palm bearing fruit; interpretive"}
+    hints:
+      - "The nether world gives no water, bread or wool: compare Job 10:21-22 (land of darkness) and Isa 14:11; contrast Ps 23:1-2."
+      - "Manacles on the hands, a stock on the neck: compare Jer 20:2, Jer 29:26 and Ps 105:18 (his neck in iron)."
+      - "The god as a tamarisk and a date palm: compare Ps 92:13 (the righteous flourish like the palm tree) and Jer 17:8."
+  - id: ane-etcsl-1-7-3-c-sister-offers-jewels-arrival
+    tradition: ane-sumerian
+    title: "Ninĝišzida's journey: Amašilama pleads with the demon and offers her lapis, the barge sets off, the lament for Urim and its en, and the god's arrival before Ereškigal"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.7.3 39-90"]
+    tags:
+      - {motif: sister-offers-jewels-to-demon-for-brother, refs: ["ETCSL 1.7.3 39-49"], note: "{d}ama-šilam-ma {d}nin-ŋiš-zid-da-ra gu3 mu-un-na-de2-e ... {na4}za-gin3 di4-di4-la2 ur2-ŋu10 ga-mu-na-ab-X ... šaŋar ba-an-tuku ninda ma-ra-an-ze2-er ... enmen2 ba-an-tuku a ma-ra-an-ze2-er (refrain ki-še-er-ra ab-tuku-e)"}
+      - {motif: god-boards-barge-to-underworld, refs: ["ETCSL 1.7.3 52-55"], note: "lu2 {ŋiš}ma2-saŋ-ŋa2-ke4 lu2 {ŋiš}ma2-egir-ra-ke4 ... ŋiš na-an-zig3 ŋiš na-an-zig3 šeš-ra u5-de3 / nin-e {ŋiš}ma2-gur8-ra u5-de3: 'do not raise the pole' - the lady boards the barge with her brother"}
+      - {motif: cry-reaches-heaven-and-abzu, refs: ["ETCSL 1.7.3 56-57"], note: "gu3 an-na ba-te gu3 ki-ta ba-te / gu3 šu niŋin2-na gal5-la2 gal-bi id2-da mu-da-ŋar"}
+      - {motif: lament-for-city-left-by-its-en, refs: ["ETCSL 1.7.3 58-61", "ETCSL 1.7.3 78-87"], note: "urim2{ki}-am3 gu3 de2 ... e2-za gi-bi iri e2-za gi-bi / en-zu ŋi6-par3-ta ba-ra-e3-a; i-lu-zu he2-me en i-lu-zu he2-me refrain for the fowler, the fisherman, the gudug priest's mother, the nin-diŋir leaving the ĝipar"}
+      - {motif: king-head-in-dust-feet-in-mire, refs: ["ETCSL 1.7.3 82-85"], note: "lugal-ŋu10 saŋ-zu sahar-ra niŋin2-na-zu a tu5-a / ŋiri3-zu ki pel-la pel-la-zu e-sir2"}
+      - {motif: underworld-god-weeps-no-more-enjoys-throne, refs: ["ETCSL 1.7.3 76-77", "ETCSL 1.7.3 87a-90"], note: "lugal-ŋu10 igi er2-ra nu-še8-še8 ... {ŋiš}gu-za-zu tuš-a / ŋiš-nu2 nu2-a / niŋ2-gu7 ka-a mi-ni-in-gu7 kurun2 suh-bi i3-naŋ / kug gal {d}ereš-ki-gal-la za3-mi2-zu dug3-ga-am3"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 1.7.3 90"], note: "kug gal {d}ereš-ki-gal-la za3-mi2-zu dug3-ga-am3: 'great holy Ereškigal, your praise is sweet'"}
+    hints:
+      - "The god received in the nether world, enthroned, eating and drinking: compare Isa 14:9-10 (Sheol rouses the dead kings from their thrones) and Ezek 32:21."
+      - "The lament for the en priestess leaving the ĝipar: compare Lam 1:4 (her priests groan, her virgins afflicted) and Joel 1:13."
+      - "Bread and water for the brother going to the underworld: compare 1 Sam 28:22-25 and Deut 26:14."
+      - "The king's head in the dust, feet in the mire: compare Job 2:12, Lam 2:10 and Ps 69:3."
